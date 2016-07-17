@@ -1,6 +1,6 @@
 # Awesome Mac
 
-![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](#目录)
 
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库来持续更新作为补充，搜集更多好用的软件工具。
 
@@ -121,7 +121,7 @@
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图以及插图，也可用来画思维导图，作为样式管理器，或设计网页或PDF文档的原型。
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，作为样式管理器，或画原型。
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。
 * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
