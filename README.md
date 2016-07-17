@@ -23,7 +23,7 @@
 - [通信](#通信)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
-- [文件传输客户端](#文件传输客户端)
+- [FTP客户端](#ftp客户端)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [科学上网](#科学上网)
@@ -37,9 +37,38 @@
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件  [![Open-Source Software][OSS Icon]](https://github.com/aziz/PlainTasks) ![Freeware][Freeware Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。
+    * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。
+    * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
+    * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
+    * [jQuery](https://packagecontrol.io/packages/jQuery) - jQuery语法提示。
+    * [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets) - Underscore语法提示。
+    * [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - 快速编写注释。
+    * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - 智能语法分析提示。
+    * [ColorPicker](https://packagecontrol.io/packages/ColorPicker) - 快速选取颜色。
+    * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - html/css/js 格式化。
+    * [Alignment](https://packagecontrol.io/packages/Alignment) - 用于代码对齐。
+    * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
+    * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
+    * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
+    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示Git的状态，比对。
+    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
+    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
+    * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
+    * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
 * [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom)![Freeware][Freeware Icon]
-    * [Nuclide](http://nuclide.io) - Atom 插件用于编写 React Native ，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+    * [Nuclide](http://nuclide.io) - Atom 插件用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
+    * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
+    * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。
+    * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
+    * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
+    * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
+    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
+    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
+    * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
+    * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
+    * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/)![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
@@ -47,6 +76,8 @@
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon]
+    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - 使用vim开发前端的利剑，包括其他语言；[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim)![Freeware][Freeware Icon]
+    * [vim-web](https://github.com/jaywcjlove/vim-web) - 使用vim开发前端的利剑，包括其他语言；[![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web)![Freeware][Freeware Icon]
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/)![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
@@ -188,7 +219,7 @@
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
 
-## 文件传输客户端
+## FTP客户端
 
 * [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
