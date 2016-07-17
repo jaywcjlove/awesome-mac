@@ -25,6 +25,7 @@
 - [音频和视频](#音频和视频)
 - [FTP客户端](#FTP客户端)
 - [APP打包工具](#APP打包工具)
+- [制作电子书](#制作电子书)
 - [其它实用工具](#其它实用工具)
 - [第三方应用市场](#第三方应用市场)
 - [Mac软件下载网站推荐](#Mac软件下载网站推荐)
@@ -198,6 +199,21 @@
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 [Electron](https://github.com/electron/electron) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。![Freeware][Freeware Icon]
+
+
+## 制作电子书
+
+- [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书编辑器。
+- [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+
+## 科学上网
+*假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
+
+- [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
+- [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+- [鱼摆摆](https://ybb1024.com/) - 科学上网
+
 
 ## 其它实用工具
 
