@@ -4,6 +4,11 @@
 
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库来持续更新作为补充，搜集更多好用的软件工具。
 
+### 图标说明
+
+![Open-Source Software][OSS Icon] 表示开源软件，点击进入开源仓库  
+![Freeware][Freeware Icon] 表示免费使用，或者个人免费  
+
 
 ## 目录
 
@@ -29,26 +34,27 @@
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
 
-* [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。
-* [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
+* [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件  [![Open-Source Software][OSS Icon]](https://github.com/aziz/PlainTasks) ![Freeware][Freeware Icon]
+* [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom)![Freeware][Freeware Icon]
     * [Nuclide](http://nuclide.io) - Atom 插件用于编写 React Native ，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-* [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/)
-* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
+* [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/)![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-* [TextMate](https://macromates.com) - 是Mac下的著名的文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim。
+* [TextMate](https://macromates.com) - 是Mac下的著名的文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim。![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
-* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。
-* [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/)
-* [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。
+* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon]
+* [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/)![Freeware][Freeware Icon]
+* [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide)
+* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide)![Freeware][Freeware Icon]
 
 ## 开发者工具
 
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。 [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
-* [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
+* [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
@@ -134,19 +140,21 @@
 ## 通信
 *推荐一些通信工具，沟通，团队协同。*
 
-* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
+* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App ![Freeware][Freeware Icon]
+* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App ![Freeware][Freeware Icon]
+* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat) ![Freeware][Freeware Icon]
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
+* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![Freeware][Freeware Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 * [Telegram](https://desktop.telegram.org) - 新时代的信息。
 * [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
-* [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。
+* [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 * [Gitter](https://www.skype.com/) - 关于Github的项目交流，支持 Markdown，对开发者极为友好。
-* [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os)
+* [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os)![Freeware][Freeware Icon]
 * [Slack](https://slack.com/) - 邮件应用程序。
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
+* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 比特信（Bitmessage）是一种用来向另一个人或者其它多个订阅者发送加密消息的协议。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
