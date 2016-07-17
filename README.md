@@ -23,8 +23,8 @@
 - [通信](#通信)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
-- [FTP客户端](#FTP客户端)
-- [APP打包工具](#APP打包工具)
+- [文件传输客户端](#文件传输客户端)
+- [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
@@ -188,7 +188,7 @@
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
 
-## FTP客户端
+## 文件传输客户端
 
 * [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
@@ -196,7 +196,7 @@
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
 * [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。
 
-## APP打包工具
+## 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 [Electron](https://github.com/electron/electron) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。![Freeware][Freeware Icon]
