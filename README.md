@@ -99,6 +99,12 @@
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 
+#### 正则编辑器
+
+* [Reginald](#) - 
+* [Reggy](#) - 
+* [RegExRX](#) - 正则表达式的开发工具
+
 ## 测试工具
 
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。![Freeware][Freeware Icon]
@@ -118,6 +124,7 @@
 ## 版本控制
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon]](https://github.com/git/git) ![Freeware][Freeware Icon]
+* [SVN](http://subversion.apache.org/) - 版本控制工具。 ![Freeware][Freeware Icon]
 
 #### GUI
 
@@ -127,6 +134,9 @@
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
+* [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
+* [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
+
 
 #### 版本控制系统
 
@@ -138,6 +148,7 @@
 ## 数据库
 
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
+* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序 [![Open-Source Software][OSS Icon]](https://github.com/garrylachman/ElectroCRUD) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。 ![Freeware][Freeware Icon]
@@ -147,20 +158,32 @@
 
 ## 设计和产品
 
+#### 设计工具
+
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
-* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，作为样式管理器，或画原型。
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。
-* [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+
+#### 原型流程
+
+* [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。
+* [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。
+* [Mockplus](http://www.axure.com) - 更快更简单的原型设计工具。
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，作为样式管理器，或画原型。
+* [XMind](https://www.omnigroup.com/omnigraffle) - 是一款实用的思维导图软件。
+
+#### 图片处理工具
+
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标 ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色。
 * [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
+* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
 
 ## 虚拟机
 
@@ -203,6 +226,7 @@
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
+* [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。 [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
@@ -214,6 +238,7 @@
 ## 书签工具
 
 * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
+* [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速插接式客户端。
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
@@ -230,7 +255,7 @@
 ## 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
-* [Electron](https://github.com/electron/electron) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。![Freeware][Freeware Icon]
+* [Electron](http://electron.atom.io) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron)![Freeware][Freeware Icon]
 
 
 ## 制作电子书
@@ -267,7 +292,9 @@
 * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
+* [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 用于实现远程支持、远程访问、远程管理、家庭办公及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
+
 
 ## 第三方应用市场
 
