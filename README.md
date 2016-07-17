@@ -86,7 +86,7 @@
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon]](https://github.com/git/git) ![Freeware][Freeware Icon]
 
-### GUI
+#### GUI
 
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示Github贡献统计 [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 * [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用![Freeware][Freeware Icon]
@@ -95,7 +95,7 @@
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
 
-### 版本控制系统
+#### 版本控制系统
 
 * [GitLab](http://gitlab.com/) 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) phabricator支持Git、Svn、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
@@ -119,7 +119,7 @@
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可以用来绘制图表，流程图，组织结构图以及插图，也可以用来组织头脑中思考的信息，组织头脑风暴的结果，绘制心智图，作为样式管理器，或设计网页或PDF文档的原型。
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图以及插图，也可用来画思维导图，作为样式管理器，或设计网页或PDF文档的原型。
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。
 * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
@@ -127,13 +127,13 @@
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具，支持导出 GIF 动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 
 ## 虚拟机
 
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用单独买ParagonNTFS，省100块。![Freeware][Freeware Icon]
-* [VMWare Fusion](http://www.vmware.com/) - 
+* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件
 * [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，貌似只有跑windows才会收费的样子。比较新很多功能不支持。![Freeware][Freeware Icon]
 
 
@@ -157,7 +157,7 @@
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
-* [Bitpost](https://voluntary.net/bitpost/) - 比特信（Bitmessage）是一种用来向另一个人或者其它多个订阅者发送加密消息的协议。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
+* [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 
 ## 数据恢复
 
@@ -197,6 +197,7 @@
 ## APP打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
+[Electron](https://github.com/electron/electron) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。![Freeware][Freeware Icon]
 
 ## 其它实用工具
 
@@ -206,7 +207,7 @@
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
-* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，并有更多的生产与自定义的行动来控制你的苹果。
+* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。 ![Freeware][Freeware Icon]
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
@@ -218,6 +219,7 @@
 * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
+* [TeamViewer](https://www.teamviewer.com) - 用于实现远程支持、远程访问、远程管理、家庭办公及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 
 ## 第三方应用市场
 
