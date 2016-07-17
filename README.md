@@ -11,9 +11,9 @@
 - [开发者工具](#开发者工具)
 - [测试工具](#测试工具)
 - [命令行工具](#命令行工具)
-- [版本控制Git/SVN](#版本控制Git/SVN)
+- [版本控制Git|SVN](#版本控制Git|SVN)
 - [数据库](#数据库)
-- [设计/产品](#设计/产品)
+- [设计|产品](#设计|产品)
 - [虚拟机](#虚拟机)
 - [通信](#通信)
 - [数据恢复](#数据恢复)
@@ -76,7 +76,7 @@
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew/) ![Freeware][Freeware Icon]
 
-## 版本控制Git/SVN
+## 版本控制Git|SVN
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon]](https://github.com/git/git) ![Freeware][Freeware Icon]
 
@@ -106,7 +106,7 @@
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 这个是一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 
-## 设计/产品
+## 设计|产品
 
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
