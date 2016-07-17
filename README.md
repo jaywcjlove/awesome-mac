@@ -17,7 +17,7 @@
 - [虚拟机](#虚拟机)
 - [通信](#通信)
 - [数据恢复](#数据恢复)
-- [音频/视频](#音频/视频)
+- [音频和视频](#音频和视频)
 - [FTP客户端](#FTP客户端)
 - [APP打包工具](#APP打包工具)
 - [其它实用工具](#其它实用工具)
@@ -156,7 +156,7 @@
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 
-## 音频/视频
+## 音频和视频
 
 * [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
