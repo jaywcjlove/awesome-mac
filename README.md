@@ -346,7 +346,7 @@
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
-* [TeamViewer](https://www.teamviewer.com) - 用于实现远程支持、远程访问、远程管理、家庭办公及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
+* [TeamViewer](https://www.teamviewer.com) - 远程支持、访问、管理、办公及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
