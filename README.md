@@ -10,6 +10,7 @@
 ![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**  
 ![hot][hot Icon] 表示**热门**的软件  
 ![tuijian][tuijian Icon] 表示**推荐**的软件  
+★★★★★ 强烈推荐的神器
 
 ## 目录
 
