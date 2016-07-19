@@ -6,7 +6,7 @@
 
 ### 图标说明
 
-![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库  
+![Open-Source Software][OSS Icon] 表示**开源软件**，`点击进入`**开源**仓库  
 ![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**  
 ![hot][hot Icon] 表示**热门**的软件  
 ![tuijian][tuijian Icon] 表示**推荐**的软件  
@@ -98,7 +98,7 @@
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具 [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
-* [Dash](https://kapeli.com/dash) - 强大到你无法想象的AIP离线文档软件。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite) ![Freeware][Freeware Icon]
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
