@@ -160,6 +160,7 @@
 * [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/paralect/robomongo) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 这个是一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
+* [medis](http://getmedis.com) - 漂亮的Redis管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) 
 
 ## 设计和产品
 
@@ -243,7 +244,7 @@
 * [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) ![Freeware][Freeware Icon]
-* [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文。 ![Freeware][Freeware Icon]
+* [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。 [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [MPlayerX](http://mplayerx.org) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
