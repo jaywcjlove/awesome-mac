@@ -200,7 +200,7 @@
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。 
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。★★★★☆ [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
