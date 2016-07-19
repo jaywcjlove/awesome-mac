@@ -223,6 +223,17 @@
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 
+## 网盘
+*推荐一些有Mac客户端的网盘。*
+
+* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
+* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon]
+* [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
+* [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
+* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
+
+
+
 ## 音频和视频
 
 * [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
@@ -283,6 +294,7 @@
 * [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [鱼摆摆](https://ybb1024.com/) - 科学上网
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
+* [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 
 
 ## 其它实用工具
