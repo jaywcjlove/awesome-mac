@@ -2,15 +2,14 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 
- 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。欢迎给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作。
+ 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。欢迎给我推荐优秀好用的Mac应用，请Star、Pull Request或或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 提交给我，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时分享给你。
 
-### 图标说明
+### 说明
 
 ![Open-Source Software][OSS Icon] 表示**开源软件**，`点击进入`**开源**仓库  
 ![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**  
 ![hot][hot Icon] 表示**热门**的软件  
 ![tuijian][tuijian Icon] 表示**推荐**的软件  
-
 
 ## 目录
 
@@ -25,6 +24,7 @@
 - [通信](#通信)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
+- [书签阅读写作](#书签阅读写作)
 - [FTP客户端](#ftp客户端)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
@@ -95,6 +95,7 @@
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。 [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
+* [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具 [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
@@ -103,9 +104,8 @@
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
-* [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
-* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
 
 
 #### 正则编辑器
@@ -188,18 +188,26 @@
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
 * [Mockplus](http://www.axure.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，作为样式管理器，或画原型。
-* [XMind](https://www.omnigroup.com/omnigraffle) - 是一款实用的思维导图软件。 ![hot][hot Icon]
+* [XMind](https://www.omnigroup.com/omnigraffle) - 一款实用的思维导图软件。 ![hot][hot Icon]
+* [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。 ![hot][hot Icon]
 
-#### 图片处理工具
+#### 其它工具
 
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 将你的图片转换成图标 [![Open-Source Software][OSS Icon]](https://github.com/kyleduo/TinyPNG4Mac) ![Freeware][Freeware Icon]
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标 ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
-* [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色。 ![tuijian][tuijian Icon]
+* [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
+* [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。 
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
 * [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
+* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
+* [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。★★★★★ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+
+
 
 ## 虚拟机
 
@@ -255,7 +263,7 @@
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [mpv](https://mpv.io/) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 
-## 书签工具
+## 书签阅读写作
 
 * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon]
@@ -263,6 +271,12 @@
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon] 
+* [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。 ![Freeware][Freeware Icon] 
+* [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
+* [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换！ ![Freeware][Freeware Icon] 
 
 
 ## FTP客户端
@@ -333,6 +347,9 @@
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 用于实现远程支持、远程访问、远程管理、家庭办公及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
+* [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
+* [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 第三方应用市场
@@ -341,11 +358,14 @@
 * [hack store](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场。![tuijian][tuijian Icon]
 * [腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。
 * [迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。
+* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
+* [Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。
 
 ## Mac软件下载
 
 *这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
 
+* App Shopper：http://appshopper.com/
 * 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
 * 玩转苹果：http://www.ifunmac.com
 * 玩儿法：http://www.waerfa.com
@@ -355,6 +375,7 @@
 * Mac软件分享：http://www.waitsun.com
 * AppKed：http://www.macbed.com
 * 苹果软件园：http://www.maczapp.com
+* Macx：http://www.macx.cn/
 
 **[⬆ 返回顶部](#目录)**
 
