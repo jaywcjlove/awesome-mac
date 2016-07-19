@@ -6,8 +6,8 @@
 
 ### 图标说明
 
-![Open-Source Software][OSS Icon] 表示开源软件，点击进入开源仓库  
-![Freeware][Freeware Icon] 表示免费使用，或者个人免费  
+![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库  
+![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**  
 
 
 ## 目录
