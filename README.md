@@ -27,6 +27,7 @@
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [下载工具](#下载工具)
+- [网盘](#网盘)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [第三方应用市场](#第三方应用市场)
@@ -224,16 +225,6 @@
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 
-## 网盘
-*推荐一些有Mac客户端的网盘。*
-
-* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
-* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon]
-* [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
-* [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
-* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
-
-
 
 ## 音频和视频
 
@@ -286,6 +277,15 @@
 ## 下载工具
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+
+## 网盘
+*推荐一些有Mac客户端的网盘。*
+
+* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
+* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon]
+* [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
+* [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
+* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
 
 
 ## 科学上网
