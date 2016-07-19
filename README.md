@@ -168,7 +168,7 @@
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。
-    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon]
 
 #### 原型流程
 
@@ -225,12 +225,15 @@
 ## 音频和视频
 
 * [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
+* [Radiant Player](http://radiant-player.github.io/radiant-player-mac/
+) - Google Play音乐播放器[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac)![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
 * [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/) ![Freeware][Freeware Icon]
+* [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文。 ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。 [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [MPlayerX](http://mplayerx.org) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
@@ -244,6 +247,7 @@
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速插接式客户端。
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
+* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
 
 
 ## FTP客户端
@@ -266,12 +270,18 @@
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书编辑器。
 * [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
+## 下载工具
+
+* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+
+
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [鱼摆摆](https://ybb1024.com/) - 科学上网
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
 
 
 ## 其它实用工具
