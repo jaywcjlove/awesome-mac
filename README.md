@@ -8,6 +8,8 @@
 
 ![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库  
 ![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**  
+![hot][hot Icon] 表示**热门**的软件  
+![tuijian][tuijian Icon] 表示**推荐**的软件  
 
 
 ## 目录
@@ -38,7 +40,7 @@
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
 
-* [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon]
+* [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。
     * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
@@ -58,7 +60,7 @@
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
-* [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+* [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Nuclide](http://nuclide.io) - Atom 插件用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
     * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
@@ -72,18 +74,18 @@
     * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
     * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
 * [TextMate](https://macromates.com) - 是Mac下的著名的文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim。![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
-* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon]
+* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - 使用vim开发前端的利剑，包括其他语言；[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
     * [vim-web](https://github.com/jaywcjlove/vim-web) - 使用vim开发前端的利剑，包括其他语言；[![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon]
+* [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon]
+* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 ## 开发者工具
 
@@ -91,24 +93,26 @@
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。 [![Open-Source Software][OSS Icon]](https://github.com/weixin/WeFlow) ![Freeware][Freeware Icon]
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。 [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具 [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
-* [Dash](https://kapeli.com/dash) - 强大到你无法想象的AIP离线文档软件。![Freeware][Freeware Icon]
+* [Dash](https://kapeli.com/dash) - 强大到你无法想象的AIP离线文档软件。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite) ![Freeware][Freeware Icon]
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
-* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
+* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
+* [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
+
 
 #### 正则编辑器
 
 * [Reginald](#) - 
 * [Reggy](#) - 
-* [RegExRX](#) - 正则表达式的开发工具
+* [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
 
 ## 测试工具
 
@@ -117,18 +121,18 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
-* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API![Freeware][Freeware Icon]
+* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API![Freeware][Freeware Icon] ![hot][hot Icon]
 
 ## 命令行工具
 
-* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
-* [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) ![Freeware][Freeware Icon]
+* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew/) ![Freeware][Freeware Icon]
 
 ## 版本控制
 
-* [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon]](https://github.com/git/git) ![Freeware][Freeware Icon]
+* [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon]](https://github.com/git/git) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SVN](http://subversion.apache.org/) - 版本控制工具。 ![Freeware][Freeware Icon]
 
 #### GUI
@@ -137,7 +141,7 @@
 * [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用![Freeware][Freeware Icon]
 * [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
-* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon]
+* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
 * [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
@@ -145,14 +149,14 @@
 
 #### 版本控制系统
 
-* [GitLab](http://gitlab.com/) 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon]
+* [GitLab](http://gitlab.com/) 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [phabricator](https://phabricator.com) phabricator支持Git、Svn、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务。 [![Open-Source Software][OSS Icon]](https://github.com/gogits/gogs) ![Freeware][Freeware Icon]
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
 
 ## 数据库
 
-* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
+* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序 [![Open-Source Software][OSS Icon]](https://github.com/garrylachman/ElectroCRUD) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
@@ -171,7 +175,7 @@
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
-* [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。
+* [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，网络和移动设计。 ![hot][hot Icon]
     * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
@@ -181,10 +185,10 @@
 #### 原型流程
 
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。
-* [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。
+* [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
 * [Mockplus](http://www.axure.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，作为样式管理器，或画原型。
-* [XMind](https://www.omnigroup.com/omnigraffle) - 是一款实用的思维导图软件。
+* [XMind](https://www.omnigroup.com/omnigraffle) - 是一款实用的思维导图软件。 ![hot][hot Icon]
 
 #### 图片处理工具
 
@@ -194,12 +198,12 @@
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色。
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF动画图片格式，轻量级、使用简单，录制过程中可以随意改变录屏范围。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
 
 ## 虚拟机
 
-* [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
+* [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。 ![hot][hot Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用单独买ParagonNTFS，省100块。![Freeware][Freeware Icon]
 * [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件
 * [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，貌似只有跑windows才会收费的样子。比较新很多功能不支持。![Freeware][Freeware Icon]
@@ -210,7 +214,7 @@
 
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App ![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App ![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat) ![Freeware][Freeware Icon]
+* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
 * [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![Freeware][Freeware Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
@@ -222,7 +226,7 @@
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
 * [Slack](https://slack.com/) - 邮件应用程序。
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
+* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
@@ -235,7 +239,7 @@
 
 ## 音频和视频
 
-* [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
+* [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/
 ) - Google Play音乐播放器[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac)![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
@@ -256,9 +260,9 @@
 * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速插接式客户端。
-* [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
+* [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
-* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
+* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 
 ## FTP客户端
@@ -266,13 +270,14 @@
 * [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。
+* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。 ![Freeware][Freeware Icon]
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。 ![hot][hot Icon]
 
 ## 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
-* [Electron](http://electron.atom.io) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon]
+* [Electron](http://electron.atom.io) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - 前身是 AtomShell,可以让你写使用 JavaScript,HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon]
 
 
 ## 制作电子书
@@ -289,7 +294,7 @@
 *推荐一些有Mac客户端的网盘。*
 
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
-* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon]
+* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。 ![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
 * [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
@@ -299,8 +304,8 @@
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
-* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
-* [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [鱼摆摆](https://ybb1024.com/) - 科学上网
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
@@ -320,7 +325,7 @@
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon]
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持这些格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon]
+* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持这些格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
 * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
 * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
@@ -356,3 +361,5 @@
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
+[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
+[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
