@@ -357,17 +357,17 @@
 
 ## 第三方应用市场
 
-* [Macupdate](https://www.macupdate.com/desktop) - 一个古老的应用商店。
 * [hack store](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场。![tuijian][tuijian Icon]
 * [腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。
 * [迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。
-* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。
+* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
 * [Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。
 
 ## Mac软件下载
 
 *这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
 
+* MacUpdate：https://www.macupdate.com/
 * App Shopper：http://appshopper.com/
 * 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
 * 玩转苹果：http://www.ifunmac.com
