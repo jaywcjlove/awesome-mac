@@ -120,7 +120,8 @@
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。![Freeware][Freeware Icon]
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
-- [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
+* [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
+* [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - HTTP调试客户端。
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API![Freeware][Freeware Icon] ![hot][hot Icon]
 
@@ -163,6 +164,7 @@
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。 ![Freeware][Freeware Icon]
 * [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/paralect/robomongo) ![Freeware][Freeware Icon]
+* [Mongo Management Studio](https://robomongo.org/) - MongoDB图形化客户端管理软件。
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [medis](http://getmedis.com) - 漂亮的Redis管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) 
@@ -293,6 +295,7 @@
 ## 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
+* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon] ![hot][hot Icon] 
 * [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [React Native Desktop](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/appjs/appjs) ![Freeware][Freeware Icon] 
@@ -364,6 +367,7 @@
 * [迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
 * [Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。
+* [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
 
 ## Mac软件下载
 
