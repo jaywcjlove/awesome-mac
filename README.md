@@ -42,8 +42,8 @@
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。
-    * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。★★★★★
+    * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。★★★★☆
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
     * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
     * [jQuery](https://packagecontrol.io/packages/jQuery) - jQuery语法提示。
@@ -56,7 +56,7 @@
     * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
     * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
     * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
-    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示Git的状态，比对。
+    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示Git的状态，比对。★★★★★
     * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
@@ -65,7 +65,7 @@
     * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。★★★★☆ [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
     * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
-    * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。
+    * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。★★★★☆
     * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
     * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
     * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
@@ -237,6 +237,8 @@
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
+* [零信](https://pubu.im/apps/osx) - 随时随地工作, 跨平台
+* [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 
