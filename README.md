@@ -229,6 +229,8 @@
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon] 
+* [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 
 
 
@@ -247,7 +249,7 @@
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。 ![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
-* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 * [Telegram](https://desktop.telegram.org) - 新时代的信息。
 * [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
@@ -272,7 +274,7 @@
 
 ## 音频和视频
 
-* [VOX Player](https://coppertino.com/vox/mac) - Mac 上最好用的免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac)![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
@@ -283,7 +285,7 @@
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。 [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-* [MPlayerX](http://mplayerx.org) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
+* [MPlayerX](http://mplayerx.org) - 媒体播放器。 ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [mpv](https://mpv.io/) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
@@ -434,7 +436,7 @@
 * App Shopper：http://appshopper.com/
 * 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
 * 少数派：http://sspai.com/tag/Mac
-* Mac玩儿法：http://www.waerfa.com ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* Mac玩儿法：http://www.waerfa.com(站长承诺没有盗版) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
 
 ### 盗版软件下载网站黑名单
 
