@@ -79,7 +79,7 @@
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-* [TextMate](https://macromates.com) - 是Mac下的著名的文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim。![Freeware][Freeware Icon]
+* [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
@@ -239,7 +239,7 @@
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 * [Gitter](https://www.skype.com/) - 关于Github的项目交流，支持 Markdown，对开发者极为友好。
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
-* [Slack](https://slack.com/) - 邮件应用程序。
+* [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
@@ -334,6 +334,7 @@
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。 ![Freeware][Freeware Icon]
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。 ![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。 ![Freeware][Freeware Icon]
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
 
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
