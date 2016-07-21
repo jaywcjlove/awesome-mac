@@ -114,7 +114,9 @@
 
 #### 正则编辑器
 
+* [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
 * [Reginald](#) - 
+* [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
 * [Reggy](#) - 
 * [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
 
@@ -279,7 +281,7 @@
 
 * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速插接式客户端。
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速RSS客户端。
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon] 
@@ -327,6 +329,7 @@
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
 * [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。 ![Freeware][Freeware Icon]
+* [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。 ![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
 * [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
 * [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
