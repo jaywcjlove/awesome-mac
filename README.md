@@ -13,6 +13,7 @@
 ![hot][hot Icon] 表示**热门**的软件；  
 ![tuijian][tuijian Icon] 表示**推荐**的软件；  
 ![必备][bibei Icon] 表示**装机必备**的软件；  
+
 ★ 表示强烈推荐的必装神器，星星的数量来表达强烈的程度； 
 
 ## 目录
@@ -135,7 +136,7 @@
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - HTTP调试客户端。
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
-* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
+* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 
 ## 命令行工具
 
@@ -154,7 +155,7 @@
 #### GUI
 
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示Github贡献统计 [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
-* [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用![Freeware][Freeware Icon]
+* [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用 ![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - Github的star功能弱，比如分类，本地组织你的github star!
 * [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。★★★☆☆ [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
@@ -173,9 +174,9 @@
 
 ## 数据库
 
-* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件
-* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
-* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序 [![Open-Source Software][OSS Icon]](https://github.com/garrylachman/ElectroCRUD) ![Freeware][Freeware Icon]
+* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
+* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
+* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序。[![Open-Source Software][OSS Icon]](https://github.com/garrylachman/ElectroCRUD) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。 ![Freeware][Freeware Icon]
@@ -197,7 +198,7 @@
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。★★★★★ ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。 [![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。 ![tuijian][tuijian Icon]
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。 ![Freeware][Freeware Icon]
@@ -215,8 +216,8 @@
 
 #### 其它工具
 
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 将你的图片转换成图标 [![Open-Source Software][OSS Icon]](https://github.com/kyleduo/TinyPNG4Mac) ![Freeware][Freeware Icon]
-* [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标 ![Freeware][Freeware Icon]
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 将你的图片转换成图标。 [![Open-Source Software][OSS Icon]](https://github.com/kyleduo/TinyPNG4Mac) ![Freeware][Freeware Icon]
+* [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。 ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
@@ -226,7 +227,7 @@
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。★★★★★ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon] 
 
@@ -236,15 +237,15 @@
 
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。 ![hot][hot Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件
+* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 * [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑windows才会收费。比较新很多功能不支持。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 通信
 *推荐一些通信工具，沟通，团队协同。*
 
-* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App ![Freeware][Freeware Icon]
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App ![Freeware][Freeware Icon]
+* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。 ![Freeware][Freeware Icon]
+* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。 ![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon]](https://github.com/geeeeeeeeek/electronic-wechat) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
 * [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
@@ -260,7 +261,7 @@
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [零信](https://pubu.im/apps/osx) - 随时随地工作, 跨平台
-* [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台
+* [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 
@@ -301,8 +302,8 @@
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
 * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换！ ![Freeware][Freeware Icon] 
-* [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon] 
+* [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 
 ## FTP客户端
@@ -333,7 +334,7 @@
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
-* [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。  ![Freeware][Freeware Icon]
+* [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。 ![Freeware][Freeware Icon]
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*
@@ -409,7 +410,7 @@
 ## 远程协助
 
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具 [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
 ## 第三方应用市场APP
 
@@ -457,3 +458,4 @@
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
 [tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
 [bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
+[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
