@@ -343,7 +343,7 @@
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。 ![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。 ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
-* [RIME](http://matthewpalmer.net/rocket/) - 中州韻輸入法引擎。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
+* [RIME](http://matthewpalmer.net/rocket/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime)![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
 
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
