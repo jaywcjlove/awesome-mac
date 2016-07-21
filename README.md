@@ -392,12 +392,14 @@
 
 ## 第三方应用市场
 
-* [hack store](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场。![tuijian][tuijian Icon]
-* [腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。
-* [迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。
-* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
-* [Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。
-* [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+
+* <del>[hack store](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场。</del>
+* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。</del>
+* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。</del>
+* <del>[MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆</del>
+* <del>[Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。</del>
+* <del>[homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。</del>
 
 ## Mac软件下载
 
