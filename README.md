@@ -144,6 +144,7 @@
 
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示Github贡献统计 [![Open-Source Software][OSS Icon]](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 * [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用![Freeware][Freeware Icon]
+* [Oh My Star](http://www.ohmystarapp.com/) - Github的star功能弱，比如分类，本地组织你的github star!
 * [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。★★★☆☆ [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
@@ -372,6 +373,7 @@
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
 
 
 ## 第三方应用市场
