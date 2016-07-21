@@ -35,6 +35,7 @@
 - [下载工具](#下载工具)
 - [网盘](#网盘)
 - [输入法](#输入法)
+- [翻译工具](#翻译工具)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [远程协助](#远程协助)
@@ -226,6 +227,7 @@
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。★★★★★ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon] 
 
 
 
@@ -352,6 +354,10 @@
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime)![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
 
+## 翻译工具
+
+* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon] 
+
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
@@ -392,6 +398,9 @@
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
 * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
+* [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
 
 ## 远程协助
 
@@ -424,7 +433,7 @@
 
 ### 盗版软件下载网站黑名单
 
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下。*
 
 * <del>玩转苹果：http://www.ifunmac.com</del>
 * <del>Mac软件下载站：http://www.pshezi.com</del>
