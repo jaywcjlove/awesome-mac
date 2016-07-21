@@ -417,11 +417,11 @@
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。★★★★☆![tuijian][tuijian Icon]![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。</del>
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 迅雷Thunder for Mac 带应用市场。</del>
-* <del>[Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。</del>
-* <del>[homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。</del>
-* <del>[MacHunter](http://www.machunter.net/) - Mac应用市场。</del>
+* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
+* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
+* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
+* <del>[homebrew-cask](http://caskroom.io)</del> - 体验通过命令行安装Mac软件的工具。
+* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
 ## Mac软件下载网站
 
@@ -439,15 +439,15 @@
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下。*
 
-* <del>玩转苹果：http://www.ifunmac.com</del>
-* <del>Mac软件下载站：http://www.pshezi.com</del>
-* <del>MacPeers：http://www.macpeers.com</del>
-* <del>Mac志：http://www.isofts.org</del>
-* <del>Mac软件分享：http://www.waitsun.com</del>
-* <del>AppKed：http://www.macbed.com</del>
-* <del>苹果软件园：http://www.maczapp.com</del>
-* <del>Mac精品软件：http://xclient.info/</del>
-* <del>Macx：http://www.macx.cn/</del>
+* 玩转苹果：<del>http://www.ifunmac.com</del>
+* Mac软件下载站：<del>http://www.pshezi.com</del>
+* MacPeers：<del>http://www.macpeers.com</del>
+* Mac志：<del>http://www.isofts.org</del>
+* Mac软件分享：<del>http://www.waitsun.com</del>
+* AppKed：<del>http://www.macbed.com</del>
+* 苹果软件园：<del>http://www.maczapp.com</del>
+* Mac精品软件：<del>http://xclient.info/</del>
+* Macx：<del>http://www.macx.cn/</del>
 
 **[⬆ 返回顶部](#目录)**
 
