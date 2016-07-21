@@ -77,6 +77,9 @@
     * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
     * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
     * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
+    * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
+    * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
+    * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
