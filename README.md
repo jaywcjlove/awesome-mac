@@ -162,6 +162,7 @@
 
 ## 数据库
 
+* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序 [![Open-Source Software][OSS Icon]](https://github.com/garrylachman/ElectroCRUD) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
