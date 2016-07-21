@@ -354,6 +354,7 @@
 * [鱼摆摆](https://ybb1024.com/) - 科学上网
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+* [Surge](http://surge.run/manual/) - 科学上网。 ![Freeware][Freeware Icon]
 
 
 ## 其它实用工具
