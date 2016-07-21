@@ -372,6 +372,7 @@
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
+* [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
 * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
