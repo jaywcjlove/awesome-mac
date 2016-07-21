@@ -202,6 +202,7 @@
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。 ![Freeware][Freeware Icon]
 * [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。 
+* [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 #### 原型流程
 
@@ -352,11 +353,14 @@
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。 ![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。 ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
+* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。 ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime)![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
 
 ## 翻译工具
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon] 
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon] 
+* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon] 
 
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
