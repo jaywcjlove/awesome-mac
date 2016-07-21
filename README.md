@@ -2,7 +2,7 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 
- 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单的启发。
+ 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
 
 ### 说明
 
@@ -399,7 +399,7 @@
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。★★★★☆![tuijian][tuijian Icon]![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。</del>
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。</del>
+* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 迅雷Thunder for Mac 带应用市场。</del>
 * <del>[Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。</del>
 * <del>[homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。</del>
 * <del>[MacHunter](http://www.machunter.net/) - Mac应用市场。</del>
