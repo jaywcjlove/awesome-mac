@@ -157,7 +157,7 @@
 * [Oh My Star](http://www.ohmystarapp.com/) - Github的star功能弱，比如分类，本地组织你的github star!
 * [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。★★★☆☆ [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
-* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git夸平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
+* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
 * [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
