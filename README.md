@@ -394,7 +394,7 @@
 
 *第三方应用市场黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
 
-* <del>[HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场。</del>
+* [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。★★★★☆![tuijian][tuijian Icon]![Freeware][Freeware Icon]
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。</del>
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 电脑管家for Mac 带应用市场。</del>
 * <del>[MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆</del>
