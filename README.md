@@ -319,6 +319,7 @@
 ## 下载工具
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*
@@ -398,6 +399,7 @@
 * Mac软件下载站：http://www.pshezi.com
 * MacPeers：http://www.macpeers.com
 * Mac志：http://www.isofts.org
+* 少数派：http://sspai.com/tag/Mac
 * Mac软件分享：http://www.waitsun.com
 * AppKed：http://www.macbed.com
 * 苹果软件园：http://www.maczapp.com
