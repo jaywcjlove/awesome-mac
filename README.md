@@ -48,7 +48,7 @@
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![red Icon][red Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star5 Icon][star5 Icon]
     * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。![star5 Icon][star5 Icon]
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
     * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
@@ -360,6 +360,7 @@
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon] 
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon] 
+* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。 
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon] 
 
 ## 科学上网
@@ -437,7 +438,7 @@
 
 ### 盗版软件下载网站黑名单
 
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下。*
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载。*
 
 * 玩转苹果：<del>http://www.ifunmac.com</del>
 * Mac软件下载站：<del>http://www.pshezi.com</del>
