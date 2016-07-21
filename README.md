@@ -376,6 +376,7 @@
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
+* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
 
 
 ## 第三方应用市场
