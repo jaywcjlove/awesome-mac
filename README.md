@@ -398,6 +398,7 @@
 * Mac软件分享：http://www.waitsun.com
 * AppKed：http://www.macbed.com
 * 苹果软件园：http://www.maczapp.com
+* Mac精品软件：http://xclient.info/
 * Macx：http://www.macx.cn/
 
 **[⬆ 返回顶部](#目录)**
