@@ -4,6 +4,8 @@
 
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
 
+> 感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的推荐
+
 ### 说明
 
 ![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库；  
@@ -365,80 +367,4 @@
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - MacOS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
-* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-* [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
-* [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
-* [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
-* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。 ![Freeware][Freeware Icon]
-* [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
-* [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
-* [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
-* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
-* [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
-* [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
-* [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
-* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
-* [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
-* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
-* [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
-* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-
-## 远程协助
-
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具 [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
-
-## 第三方应用市场
-
-*第三方应用市场黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
-
-* [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。★★★★☆![tuijian][tuijian Icon]![Freeware][Freeware Icon]
-* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/) - 电脑管家for Mac 带应用市场。</del>
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/) - 迅雷Thunder for Mac 带应用市场。</del>
-* <del>[Mac软件宝箱](http://box.macx.cn/) - Macx退出软件宝箱。</del>
-* <del>[homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。</del>
-* <del>[MacHunter](http://www.machunter.net/) - Mac应用市场。</del>
-
-## Mac软件下载
-
-*这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
-
-### 正版/介绍
-
-* MacUpdate：https://www.macupdate.com/
-* App Shopper：http://appshopper.com/
-* 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
-* 少数派：http://sspai.com/tag/Mac
-* Mac玩儿法：http://www.waerfa.com ★★★★★ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
-
-### 盗版软件下载网站黑名单
-
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
-
-* <del>玩转苹果：http://www.ifunmac.com</del>
-* <del>Mac软件下载站：http://www.pshezi.com</del>
-* <del>MacPeers：http://www.macpeers.com</del>
-* <del>Mac志：http://www.isofts.org</del>
-* <del>Mac软件分享：http://www.waitsun.com</del>
-* <del>AppKed：http://www.macbed.com</del>
-* <del>苹果软件园：http://www.maczapp.com</del>
-* <del>Mac精品软件：http://xclient.info/</del>
-* <del>Macx：http://www.macx.cn/</del>
-
-**[⬆ 返回顶部](#目录)**
-
-
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
+* [Qu
