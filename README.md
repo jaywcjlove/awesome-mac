@@ -403,20 +403,27 @@
 
 *这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
 
+### 正版/介绍
+
 * MacUpdate：https://www.macupdate.com/
 * App Shopper：http://appshopper.com/
 * 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
 * 少数派：http://sspai.com/tag/Mac
-<del>* 玩转苹果：http://www.ifunmac.com</del>
-<del>* 玩儿法：http://www.waerfa.com</del>
-<del>* Mac软件下载站：http://www.pshezi.com</del>
-<del>* MacPeers：http://www.macpeers.com</del>
-<del>* Mac志：http://www.isofts.org</del>
-<del>* Mac软件分享：http://www.waitsun.com</del>
-<del>* AppKed：http://www.macbed.com</del>
-<del>* 苹果软件园：http://www.maczapp.com</del>
-<del>* Mac精品软件：http://xclient.info/</del>
-<del>* Macx：http://www.macx.cn/</del>
+
+### 盗版网站黑名单
+
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+
+* <del>玩转苹果：http://www.ifunmac.com</del>
+* <del>玩儿法：http://www.waerfa.com</del>
+* <del>Mac软件下载站：http://www.pshezi.com</del>
+* <del>MacPeers：http://www.macpeers.com</del>
+* <del>Mac志：http://www.isofts.org</del>
+* <del>Mac软件分享：http://www.waitsun.com</del>
+* <del>AppKed：http://www.macbed.com</del>
+* <del>苹果软件园：http://www.maczapp.com</del>
+* <del>Mac精品软件：http://xclient.info/</del>
+* <del>Macx：http://www.macx.cn/</del>
 
 **[⬆ 返回顶部](#目录)**
 
