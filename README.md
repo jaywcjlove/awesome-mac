@@ -193,9 +193,9 @@
 
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。 ![tuijian][tuijian Icon]
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
-* [Mockplus](http://www.axure.com) - 更快更简单的原型设计工具。
+* [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，或画原型。
-* [XMind](https://www.omnigroup.com/omnigraffle) - 一款实用的思维导图软件。 ![hot][hot Icon] ![必备][bibei Icon]
+* [XMind](http://www.xmind.net) - 一款实用的思维导图软件。 ![hot][hot Icon] ![必备][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。 ![hot][hot Icon]
 
 #### 其它工具
