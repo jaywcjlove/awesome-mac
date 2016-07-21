@@ -39,8 +39,8 @@
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [远程协助](#远程协助)
-- [第三方应用市场](#第三方应用市场)
-- [Mac软件下载网站推荐](#Mac软件下载网站推荐)
+- [第三方应用市场APP](#第三方应用市场app)
+- [Mac软件下载网站](#Mac软件下载网站)
 
 
 ## 编辑器
@@ -411,9 +411,9 @@
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。★★★★☆ ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具 [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
-## 第三方应用市场
+## 第三方应用市场APP
 
-*第三方应用市场黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+*第三方应用市场APP黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。★★★★☆![tuijian][tuijian Icon]![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。★★★★☆
@@ -423,7 +423,7 @@
 * <del>[homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。</del>
 * <del>[MacHunter](http://www.machunter.net/) - Mac应用市场。</del>
 
-## Mac软件下载
+## Mac软件下载网站
 
 *这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
 
