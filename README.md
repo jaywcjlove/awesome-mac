@@ -117,7 +117,7 @@
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
-
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。![hot][hot Icon] ![tuijian][tuijian Icon]
 
 #### 正则编辑器
 
@@ -265,6 +265,7 @@
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
+* [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 
 ## 数据恢复
 
