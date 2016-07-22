@@ -458,7 +458,7 @@
 
 ### 盗版软件下载网站黑名单
 
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载。*
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载。[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)*
 
 * 玩转苹果：<del>http://www.ifunmac.com</del>
 * Mac软件下载站：<del>http://www.pshezi.com</del>
