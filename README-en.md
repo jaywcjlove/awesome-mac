@@ -19,6 +19,8 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 ![must-have][bibei Icon] means **must have** app;  
 ![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;
 
+You may see some non-English characters and you don't understand them. Don't worry, this means the app doesn't have English version yet. So you can't use the app.
+
 ## Contents
 
 - [Editors](#editors)
