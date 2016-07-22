@@ -48,7 +48,7 @@
 
 ## 编辑器
 
-*一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
+*一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
