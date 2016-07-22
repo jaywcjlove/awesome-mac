@@ -13,7 +13,7 @@
 ![hot][hot Icon] 表示**热门**的软件；  
 ![tuijian][tuijian Icon] 表示**推荐**的软件；  
 ![必备][bibei Icon] 表示**装机必备**的软件；  
-![1 star][red Icon] 表示强烈推荐的必装神器，星星的数量来表达强烈的程度； 
+![1 star][red Icon] 表示强烈推荐的必装神器，星星的数量来表达强烈的程度；
 
 ## 目录
 
@@ -122,9 +122,9 @@
 #### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
-* [Reginald](#) - 
+* [Reginald](#) -
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
-* [Reggy](#) - 
+* [Reggy](#) -
 * [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
 
 ## 测试工具
@@ -140,8 +140,8 @@
 ## 命令行工具
 
 * [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon] 
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) ![Freeware][Freeware Icon] 
+* [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) ![Freeware][Freeware Icon]
 * [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew/) ![Freeware][Freeware Icon]
@@ -184,7 +184,7 @@
 * [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。 [![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
-* [medis](http://getmedis.com) - 漂亮的Redis管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) 
+* [medis](http://getmedis.com) - 漂亮的Redis管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
 
 ## 设计和产品
@@ -201,7 +201,7 @@
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。 ![tuijian][tuijian Icon]
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。 ![Freeware][Freeware Icon]
-* [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。 
+* [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 #### 原型流程
@@ -220,7 +220,7 @@
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
-* [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。 
+* [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
 * [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
@@ -228,7 +228,7 @@
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon] 
+* [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 
@@ -296,14 +296,14 @@
 * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
 * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
-* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon] 
+* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
-* [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。 ![Freeware][Freeware Icon] 
+* [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。 ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
 * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon] 
+* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 
@@ -313,17 +313,17 @@
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。 ![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。 ![hot][hot Icon] 
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。 ![hot][hot Icon]
 
 ## 软件打包工具
 
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
-* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon] ![hot][hot Icon] 
+* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] 
-* [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/appjs/appjs) ![Freeware][Freeware Icon] 
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[![Open-Source Software][OSS Icon]](https://github.com/netease-youdao/hex) ![Freeware][Freeware Icon] 
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[![Open-Source Software][OSS Icon]](https://github.com/AlloyTeam/webtop) ![Freeware][Freeware Icon] 
+* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/appjs/appjs) ![Freeware][Freeware Icon]
+* [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[![Open-Source Software][OSS Icon]](https://github.com/netease-youdao/hex) ![Freeware][Freeware Icon]
+* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[![Open-Source Software][OSS Icon]](https://github.com/AlloyTeam/webtop) ![Freeware][Freeware Icon]
 
 ## 制作电子书
 
@@ -356,20 +356,20 @@
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。 ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。 ![Freeware][Freeware Icon]
-* [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
+* [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 ## 翻译工具
 
-* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon] 
-* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon] 
-* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。 
-* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon] 
+* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon]
+* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon]
+* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
+* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon]
 
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![hot][hot Icon] 
+* [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![hot][hot Icon]
 * [鱼摆摆](https://ybb1024.com/) - 科学上网
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
@@ -432,11 +432,11 @@
 
 ### 正版/介绍
 
-* MacUpdate：https://www.macupdate.com/
-* App Shopper：http://appshopper.com/
-* 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
-* 少数派：http://sspai.com/tag/Mac
-* Mac玩儿法：http://www.waerfa.com(站长承诺没有盗版) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
+* App Shopper：[http://appshopper.com/](http://appshopper.com/)
+* 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
+* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) (站长承诺没有盗版) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
 
 ### 盗版软件下载网站黑名单
 
