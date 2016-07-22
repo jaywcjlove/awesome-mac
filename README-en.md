@@ -58,8 +58,8 @@ You may see some non-English characters and you don't understand them. Don't wor
 
 * [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
  ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin.![star 5][star5 Icon]
-    * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers.![star 5][star5 Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin. ![star 5][star5 Icon]
+    * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers. ![star 5][star5 Icon]
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - A framework for error highlighting. Support HTML, CSS, JS, PHP, Java, C++, etc.
     * [JsFormat](https://packagecontrol.io/packages/JsFormat) - Javascript formatting.
     * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery.
@@ -78,11 +78,11 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - A hackable text editor
-for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+for the 21st Century by GitHub. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
     * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
-    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.![star 4][star4 Icon]
+    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
     * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
     * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
     * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
@@ -94,19 +94,19 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
     * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
     * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
     * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
-* [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe.[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly.[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
-* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors.![Freeware][Freeware Icon]
+* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors. ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - A doesn’t suck editor.
 * [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
-* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager.[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
+* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
     * [vim-web](https://github.com/jaywcjlove/vim-web) - Vim for front-end developers [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
-* [Vimr](http://vimr.org/) - Refined Vim Experience for OS X.[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - An IDE for web deveploment(Support HTML5) built by DCloud ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains.
-* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps.[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## Development Tools
 
@@ -142,7 +142,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 * [Charles](https://www.charlesproxy.com/) - A proxy tool which supports checking all the requests with http or https protocol.
 * [Insomnia 3.0](http://insomnia.rest/) - A beautiful HTTP testing tool. ![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/RESET endpoints and it's more beautiful than PostMan.[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/RESET endpoints and it's more beautiful than PostMan. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - An advanced HTTP client.
 * [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - Client for testing HTTP request.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Find out all the invalid links. ![Freeware][Freeware Icon]
@@ -246,10 +246,10 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 ## Virtual Machines
 
-* [Parallels Desktop](http://www.parallels.com/) - Powerful and easy to use VM. But need upgrade version for new macOS version (general yearly), and no free upgrade.![hot][hot Icon]
-* [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product.![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Parallels Desktop](http://www.parallels.com/) - Powerful and easy to use VM. But need upgrade version for new macOS version (general yearly), and no free upgrade. ![hot][hot Icon]
+* [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [VMWare Fusion](http://www.vmware.com/) - A powerful commerical VM developed by VMware.
-* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac.![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 通信
@@ -324,7 +324,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [Transmit](https://panic.com/transmit/) - A highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 * [Flow](http://fivedetails.com/flow/) - An award-winning, beautiful, fast, and reliable FTP + SFTP client.
 * [Yummy FTP](http://www.yummysoftware.com) - An easy to use, yet powerful FTP/S + SFTP + WebDAV/S file transfer app.
-* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser.![Freeware][Freeware Icon]
+* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application, supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
 ## 软件打包工具
