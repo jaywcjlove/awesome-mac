@@ -128,6 +128,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [zeplin](https://www.zeplin.io/) - Collaboration tool between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序
 
 #### 正则编辑器
 
