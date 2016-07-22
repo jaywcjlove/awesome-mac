@@ -124,38 +124,38 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [Dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite) ![Freeware][Freeware Icon]
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organize code snippets.
 * [StarUML](http://staruml.io) - Powerful UML app.
-* [Vagrant Manager](http://vagrantmanager.com) - Manage locale services. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
+* [Vagrant Manager](http://vagrantmanager.com) - Manage local services. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - Collaboration tool between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序
+* [SecureCRT](https://www.vandyke.com/products/securecrt/) - A terminal emulation which supports SSH, Telnet or other protocols.
 
-#### 正则编辑器
+#### Editor of regular expression
 
-* [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
+* [Patterns](http://krillapps.com/patterns/) - Editor of regular expression.
 * [Reginald](#) -
-* [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
+* [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - It might be the prettiest app for testing regular express.
 * [Reggy](#) -
-* [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
+* [RegExRX](#) - Development tool for regular express. ![hot][hot Icon]
 
 ## Test Tools
 
-* [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
-* [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
-* [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
-* [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - HTTP调试客户端。
-* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
-* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
+* [Charles](https://www.charlesproxy.com/) - A proxy tool which supports checking all the requests with http or https protocol.
+* [Insomnia 3.0](http://insomnia.rest/) - A beautiful HTTP testing tool. ![Freeware][Freeware Icon]
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/RESET endpoints and it's more beautiful than PostMan.[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [Paw](https://luckymarmot.com/paw) - An advanced HTTP client.
+* [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - Client for testing HTTP request.
+* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Find out all the invalid links. ![Freeware][Freeware Icon]
+* [Postman](https://www.getpostman.com) - Postman, help us test API quickly. ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
 
 ## Command Line Tools
 
-* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) ![Freeware][Freeware Icon]
-* [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
-* [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew/) ![Freeware][Freeware Icon]
+* [iTerm2](http://www.iterm2.com) - iTerm2 is a terminal emulator for OS X that does amazing thing. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [HyperTerm](https://hyperterm.org/) - Super terminal. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon]](https://github.com/Swordfish90/cool-retro-term) ![Freeware][Freeware Icon]
+* [Oh my zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout. [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
+* [Cakebrew](http://www.cakebrew.com) - Client of [Homebrew](http://brew.sh). You have the GUI to install, check or remove app, no commander needed. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew/) ![Freeware][Freeware Icon]
 
 ## 版本控制
 
