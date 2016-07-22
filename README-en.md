@@ -434,7 +434,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
-* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件，解决flash播放视频电脑发热的情况。
+* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。![tuijian][tuijian Icon]
 
 ## 远程协助
 
