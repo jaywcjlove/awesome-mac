@@ -216,7 +216,7 @@
 
 #### 其它工具
 
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 将你的图片转换成图标。 [![Open-Source Software][OSS Icon]](https://github.com/kyleduo/TinyPNG4Mac) ![Freeware][Freeware Icon]
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/kyleduo/TinyPNG4Mac) ![Freeware][Freeware Icon]
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。 ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
