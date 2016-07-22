@@ -102,33 +102,32 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager.[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
-    * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
+    * [vim-web](https://github.com/jaywcjlove/vim-web) - Vim for front-end developers [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X.[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
+* [HBuilder](http://www.dcloud.io/) - An IDE for web deveploment(Support HTML5) built by DCloud ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains.
 * [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps.[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## Development Tools
 
-
-* [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。 [![Open-Source Software][OSS Icon]](https://github.com/weixin/WeFlow) ![Freeware][Freeware Icon]
-* [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
-* [CodeKit](https://incident57.com/codekit/) - 自动编译Less, Sass, Stylus, CoffeeScript, Jade & Haml等文件。
-* [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。 [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
-* [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
-* [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
-* [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
-* [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
-* [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具 [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
-* [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite) ![Freeware][Freeware Icon]
-* [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
-* [StarUML](http://staruml.io) - 强大的软件建模软件。
-* [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
-* [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。![hot][hot Icon] ![tuijian][tuijian Icon]
+* [WeFlow](https://weflow.io/) - A development tools for front-end workflows based on [tmt-workflow](https://github.com/weixin/tmt-workflow). [![Open-Source Software][OSS Icon]](https://github.com/weixin/WeFlow) ![Freeware][Freeware Icon]
+* [Koala](http://koala-app.com) - A GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
+* [CodeKit](https://incident57.com/codekit/) - Automatically compile Less, Sass, Stylus, CoffeeScript, Jade, Haml and etc.
+* [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - A development tool to edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - A development tool to edit hosts file, it's more easy and convenient. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
+* [DiffMerge](http://sourcegear.com/diffmerge/) - Diff files, directories and merge them visually. ![Freeware][Freeware Icon]
+* [Beyond Compare](http://www.scootersoftware.com/download.php) - Diff files or directories and marked the differences by different colors. ![Freeware][Freeware Icon]
+* [Kaleidoscope](http://www.kaleidoscopeapp.com/) - A powerful compare tool for text and image, and it works perfectly with git, svn or other version control tools.
+* [Fanvas](https://github.com/TencentOpen/Fanvas) - Convert swf to animation of html canvas. [![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
+* [EnvPane](https://github.com/hschmidt/EnvPane) - An OS X preference pane for environment variables. [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
+* [Dash](https://kapeli.com/dash) - Ungodlly app for offline API documents. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [Dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon]](https://github.com/nlf/dlite) ![Freeware][Freeware Icon]
+* [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organize code snippets.
+* [StarUML](http://staruml.io) - Powerful UML app.
+* [Vagrant Manager](http://vagrantmanager.com) - Manage locale services. [![Open-Source Software][OSS Icon]](https://github.com/lanayotech/vagrant-manager/) ![Freeware][Freeware Icon]
+* [zeplin](https://www.zeplin.io/) - Collaboration tool between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 #### 正则编辑器
 
