@@ -426,6 +426,7 @@
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
+* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ## 远程协助
 
