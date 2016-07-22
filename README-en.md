@@ -37,7 +37,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
 - [书签阅读写作](#书签阅读写作)
-- [FTP客户端](#ftp客户端)
+- [FTP Clients](#ftp-clients)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [下载工具](#下载工具)
@@ -320,13 +320,13 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
 
-## FTP客户端
+## FTP Clients
 
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
-* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。 ![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。 ![hot][hot Icon]
+* [Transmit](https://panic.com/transmit/) - A highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Flow](http://fivedetails.com/flow/) - An award-winning, beautiful, fast, and reliable FTP + SFTP client.
+* [Yummy FTP](http://www.yummysoftware.com) - An easy to use, yet powerful FTP/S + SFTP + WebDAV/S file transfer app.
+* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser.![Freeware][Freeware Icon]
+* [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application, supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
 ## 软件打包工具
 
