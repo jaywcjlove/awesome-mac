@@ -433,7 +433,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
-* [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 
 ## 远程协助
 
