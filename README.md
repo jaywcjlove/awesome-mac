@@ -303,6 +303,7 @@
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
+* [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
