@@ -21,7 +21,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 ## Contents
 
-- [编辑器](#编辑器)
+- [Editors](#Editors)
 - [开发者工具](#开发者工具)
 - [测试工具](#测试工具)
 - [命令行工具](#命令行工具)
@@ -48,30 +48,31 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 - [Mac软件下载网站](#Mac软件下载网站)
 
 
-## 编辑器
+## Editors
 
-*一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
+*applications to edit text, suggest open source editors*
 
-* [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
-    * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是must-have插件。![star 5][star5 Icon]
-    * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
-    * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
-    * [jQuery](https://packagecontrol.io/packages/jQuery) - jQuery语法提示。
-    * [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets) - Underscore语法提示。
-    * [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - 快速编写注释。
-    * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - 智能语法分析提示。
-    * [ColorPicker](https://packagecontrol.io/packages/ColorPicker) - 快速选取颜色。
-    * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - html/css/js 格式化。
-    * [Alignment](https://packagecontrol.io/packages/Alignment) - 用于代码对齐。
-    * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
-    * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
-    * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
-    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示Git的状态，比对。![star 5][star5 Icon]
-    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
-    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
-    * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
-    * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
+* [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin.![star 5][star5 Icon]
+    * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers.![star 5][star5 Icon]
+    * [sublimelint](https://github.com/lunixbochs/sublimelint) - A framework for error highlighting. Support HTML, CSS, JS, PHP, Java, C++, etc.
+    * [JsFormat](https://packagecontrol.io/packages/JsFormat) - Javascript formatting.
+    * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery.
+    * [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets) - Underscore 1.4 snippets for Sublime Text 2.
+    * [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++.
+    * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine.
+    * [ColorPicker](https://packagecontrol.io/packages/ColorPicker) - A multi-platform color picker plugin.
+    * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via `node.js`.
+    * [Alignment](https://packagecontrol.io/packages/Alignment) - Easy alignment of multiple selections and multi-line selections.
+    * [WakaTime](https://packagecontrol.io/packages/WakaTime) - A plugin for metrics, insights, and time tracking automatically generated from your programming activity.
+    * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - A beautiful theme, including file icons.
+    * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - Live previewer/exporter for markup files (markdown, rst, creole, textile...).
+    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter![star 5][star5 Icon]
+    * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter.
+    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+    * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
+    * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
@@ -471,7 +472,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 * Mac精品软件：<del>http://xclient.info/</del>
 * Macx：<del>http://www.macx.cn/</del>
 
-**[⬆ 返回顶部](#目录)**
+**[⬆ Top](#Contents)**
 
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
