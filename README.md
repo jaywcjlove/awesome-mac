@@ -8,6 +8,8 @@
 
 ### 说明
 
+[中文](README.md) | [English](README-en.md)  
+
 ![Open-Source Software][OSS Icon] 表示**开源软件**，点击进入**开源**仓库；  
 ![Freeware][Freeware Icon] 表示**免费**使用，或者个人**免费**；  
 ![hot][hot Icon] 表示**热门**的软件；  
@@ -107,7 +109,7 @@
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。 [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。 [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
-* [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。![Freeware][Freeware Icon]
+* [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为html5 canvas动画的系统[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具 [![Open-Source Software][OSS Icon]](https://github.com/hschmidt/EnvPane) ![Freeware][Freeware Icon]
@@ -130,7 +132,7 @@
 
 ## 测试工具
 
-* [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。![Freeware][Freeware Icon]
+* [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
@@ -432,11 +434,20 @@
 
 ## 第三方应用市场APP
 
-*第三方应用市场APP黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
+
+### 正版
+
+*这里只提供正版软件购买下载的应用商店。*
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。![star 4][star4 Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
 * [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+
+### 应用商店黑名单
+
+*第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
+
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
 * <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
@@ -444,7 +455,7 @@
 
 ## Mac软件下载网站
 
-*这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
+*这里主要是推荐一些软件下载的网站，还有一些MacOSX软件分享网站*
 
 ### 正版/介绍
 
@@ -456,7 +467,7 @@
 
 ### 盗版软件下载网站黑名单
 
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载。*
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
 * 玩转苹果：<del>http://www.ifunmac.com</del>
 * Mac软件下载站：<del>http://www.pshezi.com</del>

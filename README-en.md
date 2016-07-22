@@ -12,6 +12,8 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 ### Explanation
 
+[中文](README.md) | [English](README-en.md)  
+
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
 ![Freeware][Freeware Icon] means **free** to use, or personal **free**;  
 ![hot][hot Icon] means **hot** app;  
@@ -137,7 +139,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 ## Test Tools
 
-* [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。![Freeware][Freeware Icon]
+* [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
@@ -438,11 +440,20 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 ## 第三方应用市场APP
 
-*第三方应用市场APP黑名单，上面有大量的开源软件或者免费软件，拒绝盗版从我做起。*
+*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
+
+### 正版
+
+*这里只提供正版软件购买下载的应用商店。*
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。![star 4][star4 Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
 * [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+
+### 应用商店黑名单
+
+*第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
+
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
 * <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
@@ -450,7 +461,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 ## Mac软件下载网站
 
-*这里主要是推荐一下软件下载的网站，还有一些MacOSX软件分享网站*
+*这里主要是推荐一些软件下载的网站，还有一些MacOSX软件分享网站*
 
 ### 正版/介绍
 
@@ -462,7 +473,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 
 ### 盗版软件下载网站黑名单
 
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载。*
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
 * 玩转苹果：<del>http://www.ifunmac.com</del>
 * Mac软件下载站：<del>http://www.pshezi.com</del>
