@@ -32,7 +32,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [版本控制](#版本控制)
 - [数据库](#数据库)
 - [设计和产品](#设计和产品)
-- [虚拟机](#虚拟机)
+- [Virtual Machines](#virtual-machines)
 - [通信](#通信)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
@@ -244,13 +244,12 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://githu
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 
 
+## Virtual Machines
 
-## 虚拟机
-
-* [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。 ![hot][hot Icon]
-* [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
-* [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑windows才会收费。比较新很多功能不支持。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Parallels Desktop](http://www.parallels.com/) - Powerful and easy to use VM. But need upgrade version for new macOS version (general yearly), and no free upgrade.![hot][hot Icon]
+* [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product.![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [VMWare Fusion](http://www.vmware.com/) - A powerful commerical VM developed by VMware.
+* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac.![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 通信
