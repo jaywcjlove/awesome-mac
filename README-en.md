@@ -403,7 +403,7 @@ for the 21st Century by GitHub. [![Open-Source Software][OSS Icon]](https://gith
 ## 其它实用工具
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
-* [WWDC](https://github.com/insidegui/WWDC) - MacOS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
+* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
@@ -463,7 +463,7 @@ for the 21st Century by GitHub. [![Open-Source Software][OSS Icon]](https://gith
 
 ## Mac软件下载网站
 
-*这里主要是推荐一些软件下载的网站，还有一些MacOSX软件分享网站*
+*这里主要是推荐一些软件下载的网站，还有一些Mac OSX软件分享网站*
 
 ### 正版/介绍
 
