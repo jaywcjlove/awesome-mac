@@ -450,7 +450,7 @@
 
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
+* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
 * <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
 ## Mac软件下载网站
