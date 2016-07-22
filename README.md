@@ -96,7 +96,7 @@
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## 开发者工具
 
