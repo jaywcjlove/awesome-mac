@@ -73,35 +73,36 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
-* [Atom](https://atom.io) - Github推出的开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
-    * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
-    * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
-    * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
-    * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
-    * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
-    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
-    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
-    * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
-    * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
-    * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
-    * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
-    * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
-    * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
-* [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
-* [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
-* [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-* [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
-* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
+* [Atom](https://atom.io) - A hackable text editor
+for the 21st Century by GitHub.[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
+    * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
+    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.![star 4][star4 Icon]
+    * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
+    * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
+    * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
+    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
+    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
+    * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
+    * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
+    * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
+    * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
+    * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
+    * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
+* [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe.[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly.[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
+* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors.![Freeware][Freeware Icon]
+* [BBEdit](http://www.barebones.com/products/bbedit/) - A doesn’t suck editor.
+* [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
+* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager.[![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
     * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
-* [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [Vimr](http://vimr.org/) - Refined Vim Experience for OS X.[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
-* [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Webstorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains.
+* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps.[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## Development Tools
 
