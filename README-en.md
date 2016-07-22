@@ -32,15 +32,15 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [版本控制](#版本控制)
 - [数据库](#数据库)
 - [设计和产品](#设计和产品)
-- [虚拟机](#虚拟机)
+- [Virtual Machines](#virtual-machines)
 - [通信](#通信)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
 - [书签阅读写作](#书签阅读写作)
-- [FTP客户端](#ftp客户端)
+- [FTP Clients](#ftp-clients)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
-- [下载工具](#下载工具)
+- [Download Tools](#download-tools)
 - [网盘](#网盘)
 - [输入法](#输入法)
 - [浏览器](#浏览器)
@@ -58,8 +58,8 @@ You may see some non-English characters and you don't understand them. Don't wor
 
 * [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
  ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin.![star 5][star5 Icon]
-    * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers.![star 5][star5 Icon]
+    * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin. ![star 5][star5 Icon]
+    * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers. ![star 5][star5 Icon]
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - A framework for error highlighting. Support HTML, CSS, JS, PHP, Java, C++, etc.
     * [JsFormat](https://packagecontrol.io/packages/JsFormat) - Javascript formatting.
     * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery.
@@ -72,17 +72,17 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [WakaTime](https://packagecontrol.io/packages/WakaTime) - A plugin for metrics, insights, and time tracking automatically generated from your programming activity.
     * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - A beautiful theme, including file icons.
     * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - Live previewer/exporter for markup files (markdown, rst, creole, textile...).
-    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter![star 5][star5 Icon]
+    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter. ![star 5][star5 Icon]
     * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter.
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - A hackable text editor
-for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/atom/atom)
-    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+for the 21st Century by GitHub. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
     * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
-    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.![star 4][star4 Icon]
+    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
     * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
     * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
     * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
@@ -94,19 +94,19 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
     * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
     * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
     * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
-* [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/adobe/brackets/)
-* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/Microsoft/vscode)
+* [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
-* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors.![Freeware][Freeware Icon]
+* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors. ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - A doesn’t suck editor.
 * [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
-* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
-    * [vim-web](https://github.com/jaywcjlove/vim-web) - Vim for front-end developers [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
-* [Vimr](http://vimr.org/) - Refined Vim Experience for OS X.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
-* [HBuilder](http://www.dcloud.io/) - An IDE for web deveploment(Support HTML5) built by DCloud ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
+    * [vim-web](https://github.com/jaywcjlove/vim-web) - Vim for front-end developers. [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
+* [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [HBuilder](http://www.dcloud.io/) - An IDE for web deveploment (Support HTML5) built by DCloud. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains.
-* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]](https://github.com/decosoftware/deco-ide)
+* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## Development Tools
 
@@ -142,7 +142,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 
 * [Charles](https://www.charlesproxy.com/) - A proxy tool which supports checking all the requests with http or https protocol.
 * [Insomnia 3.0](http://insomnia.rest/) - A beautiful HTTP testing tool. ![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/RESET endpoints and it's more beautiful than PostMan.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/RESET endpoints and it's more beautiful than PostMan. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - An advanced HTTP client.
 * [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - Client for testing HTTP request.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Find out all the invalid links. ![Freeware][Freeware Icon]
@@ -244,13 +244,12 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 
 
+## Virtual Machines
 
-## 虚拟机
-
-* [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。 ![hot][hot Icon]
-* [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
-* [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑windows才会收费。比较新很多功能不支持。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Parallels Desktop](http://www.parallels.com/) - Powerful and easy to use VM. But need upgrade version for new macOS version (general yearly), and no free upgrade. ![hot][hot Icon]
+* [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [VMWare Fusion](http://www.vmware.com/) - A powerful commerical VM developed by VMware.
+* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 通信
@@ -320,13 +319,13 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
 
-## FTP客户端
+## FTP Clients
 
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
-* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。 ![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。 ![hot][hot Icon]
+* [Transmit](https://panic.com/transmit/) - A highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Flow](http://fivedetails.com/flow/) - An award-winning, beautiful, fast, and reliable FTP + SFTP client.
+* [Yummy FTP](http://www.yummysoftware.com) - An easy to use, yet powerful FTP/S + SFTP + WebDAV/S file transfer app.
+* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. ![Freeware][Freeware Icon]
+* [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application, supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
 ## 软件打包工具
 
@@ -344,11 +343,11 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书编辑器。
 * [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
-## 下载工具
+## Download Tools
 
-* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aria2)
-* [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。 ![Freeware][Freeware Icon]
+* [Transmission](https://www.transmissionbt.com/) - A Fast, Easy, Free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+* [aria2](https://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*
