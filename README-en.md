@@ -56,7 +56,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 
 *applications to edit text, suggest open source editors*
 
-* [Sublime Text 3](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+* [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin.![star 5][star5 Icon]
     * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers.![star 5][star5 Icon]
