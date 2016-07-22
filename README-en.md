@@ -21,10 +21,10 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 ## Contents
 
-- [Editors](#Editors)
-- [开发者工具](#开发者工具)
-- [测试工具](#测试工具)
-- [命令行工具](#命令行工具)
+- [Editors](#editors)
+- [Development Tools](#development-tools)
+- [Test Tools](#test-tools)
+- [Command Line Tools](#command-line-tools)
 - [版本控制](#版本控制)
 - [数据库](#数据库)
 - [设计和产品](#设计和产品)
@@ -103,7 +103,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IED 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 
-## 开发者工具
+## Development Tools
 
 
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具。 [![Open-Source Software][OSS Icon]](https://github.com/weixin/WeFlow) ![Freeware][Freeware Icon]
@@ -133,7 +133,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 * [Reggy](#) -
 * [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
 
-## 测试工具
+## Test Tools
 
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。![Freeware][Freeware Icon]
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
@@ -143,7 +143,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
 
-## 命令行工具
+## Command Line Tools
 
 * [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
@@ -472,7 +472,7 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 * Mac精品软件：<del>http://xclient.info/</del>
 * Macx：<del>http://www.macx.cn/</del>
 
-**[⬆ Top](#Contents)**
+**[⬆ Top](#contents)**
 
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
