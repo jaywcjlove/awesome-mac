@@ -420,10 +420,10 @@
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。![star 4][star4 Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
+* [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
 * <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
-* <del>[homebrew-cask](http://caskroom.io)</del> - 体验通过命令行安装Mac软件的工具。
 * <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
 ## Mac软件下载网站
