@@ -35,6 +35,7 @@
 - [下载工具](#下载工具)
 - [网盘](#网盘)
 - [输入法](#输入法)
+- [浏览器](#浏览器)
 - [翻译工具](#翻译工具)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
@@ -357,6 +358,16 @@
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。 ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+
+## 浏览器
+
+*这里放Mac的浏览器应用*
+
+* [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。 ![Freeware][Freeware Icon]
+* [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。 ![Freeware][Freeware Icon]
+* [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。 ![Freeware][Freeware Icon]
+* [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。 ![Freeware][Freeware Icon]
+* [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。 ![Freeware][Freeware Icon]
 
 ## 翻译工具
 
