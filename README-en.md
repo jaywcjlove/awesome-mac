@@ -78,7 +78,7 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - A hackable text editor
-for the 21st Century by GitHub. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
+for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
     * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.

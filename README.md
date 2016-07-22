@@ -70,8 +70,8 @@
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
-* [Atom](https://atom.io) - GitHub推出的开源编辑器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/atom/atom)
-    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+* [Atom](https://atom.io) - GitHub推出的开源编辑器。[![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/atom/atom)
+    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
     * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
     * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
