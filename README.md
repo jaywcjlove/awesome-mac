@@ -121,6 +121,7 @@
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。![hot][hot Icon] ![tuijian][tuijian Icon]
+* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序
 
 #### 正则编辑器
 
