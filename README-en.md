@@ -12,6 +12,8 @@ Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 ### Explanation
 
+[中文](README.md) | [English](README-en.md)  
+
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
 ![Freeware][Freeware Icon] means **free** to use, or personal **free**;  
 ![hot][hot Icon] means **hot** app;  
