@@ -71,7 +71,7 @@
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
 * [Atom](https://atom.io) - GitHub推出的开源编辑器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/atom/atom)
-    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
     * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
     * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
@@ -143,7 +143,7 @@
 
 ## 命令行工具
 
-* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
+* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
 * [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
@@ -160,7 +160,7 @@
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用 ![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的github star!
-* [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
+* [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。[![star 3][star3 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
@@ -281,8 +281,8 @@
 
 * [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/radiant-player/radiant-player-mac)
-* [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
-* [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+* [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
+* [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
 * [Stringed 2](https://itunes.apple.com/us/app/stringed/id698710517?mt=12) - 音频编辑处理工具。
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代Traktor。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)

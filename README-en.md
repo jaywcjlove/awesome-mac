@@ -79,7 +79,7 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - A hackable text editor
 for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/atom/atom)
-    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
     * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
     * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
     * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.![star 4][star4 Icon]
@@ -150,7 +150,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 
 ## Command Line Tools
 
-* [iTerm2](http://www.iterm2.com) - iTerm2 is a terminal emulator for OS X that does amazing thing. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/gnachman/iTerm2)
+* [iTerm2](http://www.iterm2.com) - iTerm2 is a terminal emulator for OS X that does amazing thing. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/gnachman/iTerm2)
 * [HyperTerm](https://hyperterm.org/) - Super terminal. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
@@ -233,7 +233,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
@@ -297,7 +297,7 @@ for the 21st Century by GitHub.[![Open-Source Software][OSS Icon] ![Freeware][Fr
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://code.google.com/archive/p/xld/source)
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-* [MPlayerX](http://mplayerx.org) - 媒体播放器。 ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
+* [MPlayerX](http://mplayerx.org) - 媒体播放器。 [![star 3][star3 Icon] ![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [mpv](https://mpv.io/) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
