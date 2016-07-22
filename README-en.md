@@ -72,7 +72,7 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [WakaTime](https://packagecontrol.io/packages/WakaTime) - A plugin for metrics, insights, and time tracking automatically generated from your programming activity.
     * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - A beautiful theme, including file icons.
     * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - Live previewer/exporter for markup files (markdown, rst, creole, textile...).
-    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter![star 5][star5 Icon]
+    * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter. ![star 5][star5 Icon]
     * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter.
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
