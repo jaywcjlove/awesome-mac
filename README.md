@@ -365,6 +365,7 @@
 
 *这里放Mac的浏览器应用*
 
+* [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。 ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。 ![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。 ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。 ![Freeware][Freeware Icon]
