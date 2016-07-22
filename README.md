@@ -308,6 +308,7 @@
 * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 
 ## FTP客户端
