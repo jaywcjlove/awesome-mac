@@ -48,7 +48,7 @@
 
 ## 编辑器
 
-*一种用于编辑纯文本文件的程序，建议使用免费开源的编辑*
+*一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
 * [Sublime Text 3](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
@@ -450,7 +450,7 @@
 
 * <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
 * <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx退出软件宝箱。
+* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
 * <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
 ## Mac软件下载网站
