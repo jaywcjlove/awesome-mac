@@ -270,6 +270,7 @@
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 * [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
+* [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
 * [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
@@ -350,8 +351,8 @@
 
 ## 下载工具
 
-* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aria2)
+* [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+* [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。 ![Freeware][Freeware Icon]
 
 ## 网盘
@@ -492,6 +493,7 @@
 * 苹果软件园：<del>http://www.maczapp.com</del>
 * Mac精品软件：<del>http://xclient.info/</del>
 * Macx：<del>http://www.macx.cn/</del>
+* 腾牛网：<del>http://www.qqtn.com/mac/r_17_1.html</del>
 
 **[⬆ 返回顶部](#目录)**
 
