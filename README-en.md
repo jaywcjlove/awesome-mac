@@ -58,31 +58,31 @@ You may see some non-English characters and you don't understand them. Don't wor
 
 * [Atom](https://atom.io) - A hackable text editor
 for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* Common
-    * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
-    * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
-    * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
-    * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
-    * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
-    * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
-    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
-    * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
-    * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
+    * Common
+        * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
+        * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
+        * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
+        * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
+        * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
+        * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
+        * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
+        * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
+        * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
 
-* Front-end
-    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
-    * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
-    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
-    * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
-    * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
-    * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
-    * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
+    * Front-end
+        * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+        * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
+        * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
+        * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
+        * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
+        * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
+        * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
+        * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
 
-* Python
-    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
-    * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
-    * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
+    * Python
+        * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
+        * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
+        * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
 
 * [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
  ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
