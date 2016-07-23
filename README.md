@@ -324,6 +324,7 @@
 * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [leanote](http://leanote.com) - 支持markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 
 
 ## FTP客户端
@@ -366,6 +367,7 @@
 * [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
 * [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
 * [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
+* [owncloud](https://owncloud.org) 私有云网盘
 
 ## 输入法
 
