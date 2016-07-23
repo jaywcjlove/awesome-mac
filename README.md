@@ -60,7 +60,6 @@
         * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
         * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
         * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
-
     * 前端
         * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
@@ -70,12 +69,10 @@
         * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
         * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
         * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
-
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
         * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
-
 * [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。 ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Plain​Tasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
     * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。![star 5][star5 Icon]
@@ -96,15 +93,15 @@
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
-
-* [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/adobe/brackets/)
-* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/Microsoft/vscode)
+* [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+* [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
 * [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
+    * [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
     * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
