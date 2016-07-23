@@ -29,7 +29,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Development Tools](#development-tools)
 - [Test Tools](#test-tools)
 - [Command Line Tools](#command-line-tools)
-- [版本控制](#版本控制)
+- [Version control](#Version control)
 - [数据库](#数据库)
 - [设计和产品](#设计和产品)
 - [Virtual Machines](#virtual-machines)
@@ -79,21 +79,32 @@ You may see some non-English characters and you don't understand them. Don't wor
     * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
 * [Atom](https://atom.io) - A hackable text editor
 for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-    * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
-    * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
-    * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
-    * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
-    * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
-    * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
-    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
-    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
-    * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
-    * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
-    * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
-    * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
-    * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
-    * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
+    * Common
+        * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
+        * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
+        * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
+        * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
+        * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
+        * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
+        * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
+        * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
+        * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
+
+    * Front-end
+        * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+        * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
+        * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
+        * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
+        * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
+        * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
+        * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
+        * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
+
+    * Python
+        * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
+        * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
+        * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
+
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
@@ -157,32 +168,32 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - Client of [Homebrew](http://brew.sh). You have the GUI to install, check or remove app, no commander needed. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 
-## 版本控制
+## Version control
 
-* [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/git/git)
-* [SVN](http://subversion.apache.org/) - 版本控制工具。 ![Freeware][Freeware Icon]
+* [Git](https://git-scm.com/) - The Version Control Tool, Official website provides [dozens of GUI clients](https://git-scm.com/download/gui/mac) for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/git/git)
+* [SVN](http://subversion.apache.org/) - The Version Control Tool. ![Freeware][Freeware Icon]
 
 #### GUI
 
-* [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示Github贡献统计 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
-* [GitHub Desktop](https://desktop.github.com/) - 使用Github的GUI应用 ![Freeware][Freeware Icon]
-* [Oh My Star](http://www.ohmystarapp.com/) - Github的star功能弱，比如分类，本地组织你的github star!
-* [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
-* [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
-* [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
-* [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
-* [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
+* [Gitbar](https://github.com/Shikkic/gitbar) - Open Source，display Github contribution statistics on your menu bar [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
+* [GitHub Desktop](https://desktop.github.com/) - Github GUI APP ![Freeware][Freeware Icon]
+* [Oh My Star](http://www.ohmystarapp.com/) - The best way to organize your Github Stars.
+* [GitUp](http://gitup.co/) - a simple and powerful git client. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
+* [Hub](https://hub.github.com/) - hub is a command-line wrapper for git that makes you better at GitHub. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
+* [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
+* [Versions](http://www.versionsapp.com/) - Mac Subversion Client (SVN).
+* [Cornerstone](http://www.zennaware.com/cornerstone/) - Best Mac SVN Client.
 
 
-#### 版本控制系统
+#### Version control system
 
-* [GitLab](http://gitlab.com/) 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [phabricator](https://phabricator.com) phabricator支持Git、Svn、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
-* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
-* [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
+* [GitLab](http://gitlab.com/) open source git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [phabricator](https://phabricator.com) Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
+* [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
+* [Gerrit](https://www.gerritcodereview.com) Code Review for Git. ![Freeware][Freeware Icon]
 
-## 数据库
+## DataBase
 
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/sequelpro/sequelpro)

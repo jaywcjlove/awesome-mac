@@ -71,21 +71,32 @@
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
 * [Atom](https://atom.io) - GitHub推出的开源编辑器。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-    * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
-    * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
-    * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
-    * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
-    * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
-    * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
-    * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
-    * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
-    * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
-    * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
-    * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
-    * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
-    * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
-    * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
+    * 通用
+        * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
+        * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格
+        * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
+        * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
+        * [ex-mode](https://atom.io/packages/ex-mode) - vim 模式的拓展。
+        * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
+        * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
+        * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
+        * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
+
+    * 前端
+        * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+        * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
+        * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
+        * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
+        * [tag](https://atom.io/packages/tag) - Sublime 风格的 HTML 标签自动闭合。
+        * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
+        * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
+        * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
+
+    * Python
+        * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
+        * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
+        * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
+
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/adobe/brackets/)
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/Microsoft/vscode)
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
