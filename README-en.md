@@ -43,7 +43,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Ebooks](#ebooks)
 - [Download Tools](#download-tools)
 - [Online Storage](#online-storage)
-- [输入法](#输入法)
+- [Input Method](#input-method)
 - [Web Browsers](#web-browsers)
 - [Translation Tools](#translation-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
@@ -388,7 +388,7 @@ editing software.
 * [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
 * [owncloud](https://owncloud.org) 私有云网盘
 
-## 输入法
+## Input Method
 
 * [QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。 ![Freeware][Freeware Icon]
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。 ![Freeware][Freeware Icon]
