@@ -48,7 +48,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Translation Tools](#translation-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
 - [Other](#other)
-- [Remote Login](#remote login)
+- [Remote Login](#remote-login)
 - [Third-Party App Markets](#third-party-app-markets)
 - [Mac App Download Sites](#mac-app-download-sites)
 
@@ -457,8 +457,8 @@ editing software.
 
 ## Remote Login
 
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [TeamViewer](https://www.teamviewer.com) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [tmux](https://github.com/tmux/tmux) Multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
 ## 第三方应用市场APP
 
