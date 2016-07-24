@@ -273,15 +273,17 @@
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
 * [Slack](https://slack.com/) - 团队协作，沟通工具。
-* [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [零信](https://pubu.im/apps/osx) - 随时随地工作, 跨平台
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
-* [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 * [Coding.net](https://coding.net) - 一站式云端开发平台，免费提供代码托管，项目协作，代码质量管理，Pages 等服务。![Freeware][Freeware Icon]
+    * Email
+        * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
+        * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+        * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
+        * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
+        * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 
 ## 数据恢复
 
@@ -426,7 +428,6 @@
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
 * [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
-* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
