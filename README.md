@@ -275,6 +275,7 @@
 * [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [零信](https://pubu.im/apps/osx) - 随时随地工作, 跨平台
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
+* [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 * [Coding.net](https://coding.net) - 一站式云端开发平台，免费提供代码托管，项目协作，代码质量管理，Pages 等服务。![Freeware][Freeware Icon]
