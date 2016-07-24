@@ -318,6 +318,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 editing software.
 * [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - A simple, powerful, efficient subtitle creation software. ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [Perian](http://perian.org/#download) - Let QuickTime play all the common formats of free plug-ins. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] 
 
 ## Reading and Writing
 
