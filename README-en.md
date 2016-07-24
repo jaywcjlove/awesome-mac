@@ -297,8 +297,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 ## Data Recovery
 
-* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
-* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - A disk utility, the world’s most advanced repair and recovery tool for Mac.
+* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - A comprehensive and professional data recovery tool in most cases.
 
 
 ## Audio and Video
