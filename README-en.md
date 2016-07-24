@@ -47,7 +47,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Web Browsers](#web-browsers)
 - [Translation Tools](#translation-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
-- [Other](#other)
+- [Utilities](#Utilities)
 - [Remote Login](#remote-login)
 - [Third-Party App Markets](#third-party-app-markets)
 - [Mac App Download Sites](#mac-app-download-sites)
@@ -419,7 +419,7 @@ editing software.
 * [Surge](http://surge.run/manual/) - 科学上网。 ![Freeware][Freeware Icon]
 
 
-## 其它实用工具
+## Utilities
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。![star 4][star4 Icon] ![Freeware][Freeware Icon] 
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
@@ -462,7 +462,7 @@ editing software.
 * [TeamViewer](https://www.teamviewer.com) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [tmux](https://github.com/tmux/tmux) Multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
-## 第三方应用市场APP
+## Third-Party App Markets
 
 *[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
 
