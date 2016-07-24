@@ -333,7 +333,7 @@ editing software.
         * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
     * Markdown 
         * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-        * [marp](https://yhatt.github.io/marp/) -  Markdown 编辑器 [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+        * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器 [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
         * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
         * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
         * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
