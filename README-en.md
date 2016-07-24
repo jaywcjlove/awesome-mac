@@ -29,27 +29,28 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Development Tools](#development-tools)
 - [Test Tools](#test-tools)
 - [Command Line Tools](#command-line-tools)
-- [Version control](#Version control)
-- [DataBase](#DataBase)
-- [设计和产品](#设计和产品)
+- [Version Control](#version-control)
+- [Database](#database)
+- [Graphics](#graphics)
 - [Virtual Machines](#virtual-machines)
-- [通信](#通信)
-- [数据恢复](#数据恢复)
-- [音频和视频](#音频和视频)
-- [书签阅读写作](#书签阅读写作)
+- [Communication](#communication)
+- [Data Recovery](#data-recovery)
+- [Audio and Video](#audio-and-video)
+- [Reading and Writing](#reading-and-writing)
 - [FTP Clients](#ftp-clients)
 - [软件打包工具](#软件打包工具)
-- [制作电子书](#制作电子书)
+- [Web Development](#web-development)
+- [Ebooks](#ebooks)
 - [Download Tools](#download-tools)
-- [网盘](#网盘)
+- [Online Storage](#online-storage)
 - [输入法](#输入法)
-- [浏览器](#浏览器)
-- [翻译工具](#翻译工具)
-- [科学上网](#科学上网)
-- [其它实用工具](#其它实用工具)
-- [远程协助](#远程协助)
-- [第三方应用市场APP](#第三方应用市场app)
-- [Mac软件下载网站](#Mac软件下载网站)
+- [Web Browsers](#web-browsers)
+- [Translation Tools](#translation-tools)
+- [Proxy and VPN Tools](#proxy-and-vpn-tools)
+- [Other](#other)
+- [Remote Login](#remote login)
+- [Third-Party App Markets](#third-party-app-markets)
+- [Mac App Download Sites](#mac-app-download-sites)
 
 
 ## Editors
@@ -208,9 +209,9 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to read, view & export Microsoft Access files on Mac.
 
-## 设计和产品
+## Design and Product
 
-#### 设计工具
+#### Design tools
 
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
@@ -225,7 +226,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
-#### 原型流程
+#### Prototype workflow
 
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。 ![tuijian][tuijian Icon]
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
@@ -234,7 +235,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。 ![hot][hot Icon] ![must-have][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。 ![hot][hot Icon]
 
-#### 其它工具
+#### Other tools
 
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。 ![Freeware][Freeware Icon]
@@ -262,20 +263,21 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
-## 通信
+## Communication
+
 *推荐一些通信工具，沟通，团队协同。*
 
-* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。 ![Freeware][Freeware Icon]
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。 ![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
+* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App. ![Freeware][Freeware Icon]
+* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - WeChat for Mac App. ![Freeware][Freeware Icon]
+* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
-* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![star 3][star3 Icon] ![Freeware][Freeware Icon] 
-* [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
-* [Telegram](https://desktop.telegram.org) - 新时代的信息。
-* [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
-* [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
+* [WeiboX](http://weiboformac.sinaapp.com/) - A third-party weibo client for Mac OS. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [御飯](https://imach.me/gohanapp/) - A third-party FanFou client for Mac OS. ![star 3][star3 Icon] ![Freeware][Freeware Icon]
+* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
+* [Telegram](https://desktop.telegram.org) - A new era of messaging.
+* [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
+* [Adium](https://adium.im/) -  An old chat client integrated with many chat platforms. ![Freeware][Freeware Icon]
+* [Textual](https://www.codeux.com/textual) - Textual is the world's most popular application for interacting with Internet Relay Chat (IRC) chatrooms on OS X.
 * [Gitter](https://gitter.im) - 关于Github的项目交流，支持 Markdown，对开发者极为友好。
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
@@ -290,13 +292,13 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 * [Coding.net](https://coding.net) - 一站式云端开发平台，免费提供代码托管，项目协作，代码质量管理，Pages 等服务。![Freeware][Freeware Icon]
 
-## 数据恢复
+## Data Recovery
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 
 
-## 音频和视频
+## Audio and Video
 
 * [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
@@ -314,7 +316,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [mpv](https://mpv.io/) - 媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
-## 书签阅读写作
+## Reading and Writing
 
 * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
 * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
@@ -350,7 +352,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
 * [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
 
-## 制作电子书
+## Ebooks
 
 * [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书编辑器。
@@ -362,7 +364,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [aria2](https://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
 
-## 网盘
+## Online Storage
+
 *推荐一些有Mac客户端的网盘。*
 
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
@@ -385,7 +388,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。 ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 
-## 浏览器
+## Web Browsers
 
 *这里放Mac的浏览器应用*
 
@@ -396,14 +399,14 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。 ![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。 ![Freeware][Freeware Icon]
 
-## 翻译工具
+## Translation Tools
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon]
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon]
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon]
 
-## 科学上网
+## Proxy and VPN Tools
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks)
@@ -418,13 +421,13 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ## 其它实用工具
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
-* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
-* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-* [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
-* [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
-* [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
-* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。 ![Freeware][Freeware Icon]
+* [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC APP of Mac OS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
+* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A plugin for previewing files in Finder.
+* [Path Finder](http://www.cocoatech.com/pathfinder/) - Powerful replacement of Finder which has many features.
+* [TotalFinder](http://totalfinder.binaryage.com/) - A powerful replacement of Finder, the style of UI is most likely Chrome.
+* [XtraFinder](https://www.trankynam.com/xtrafinder/) - Add features to Finder. ![Freeware][Freeware Icon]
+* [xScope](http://xscopeapp.com/) - Measure, check and test the graphics and layout of the screen. Search your Mac and network and open applications quickly.
+* [f.lux](https://justgetflux.com/) -  Adjust your screen to match the brightness automatically. ![Freeware][Freeware Icon]
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
@@ -451,7 +454,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。![tuijian][tuijian Icon]
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 
-## 远程协助
+## Remote Login
 
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
@@ -477,7 +480,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
 * <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
-## Mac软件下载网站
+## Mac App Download Sites
 
 *这里主要是推荐一些软件下载的网站，还有一些Mac OSX软件分享网站*
 
