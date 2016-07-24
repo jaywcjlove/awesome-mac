@@ -355,9 +355,9 @@ editing software.
 
 ## Ebooks
 
-* [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
-* [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书编辑器。
-* [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
+* [Calibre](http://calibre-ebook.com/) - A free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as to create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
+* [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle eBook editor.
+* [Sigil](https://sigil-ebook.com/) - A multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
 ## Download Tools
 
