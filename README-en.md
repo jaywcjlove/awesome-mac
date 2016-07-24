@@ -265,12 +265,12 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 ## Communication
 
-*推荐一些通信工具，沟通，团队协同。*
+*Team communication and collaboration tool recommendation*
 
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App. ![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - WeChat for Mac App. ![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
-* [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
+* [Skype](https://www.skype.com/) - A cross-platform application that provides video chat and voice call services, users can exchange images, text, video and any other digital documents.
 * [WeiboX](http://weiboformac.sinaapp.com/) - A third-party weibo client for Mac OS. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [御飯](https://imach.me/gohanapp/) - A third-party FanFou client for Mac OS. ![star 3][star3 Icon] ![Freeware][Freeware Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
@@ -278,27 +278,27 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) -  An old chat client integrated with many chat platforms. ![Freeware][Freeware Icon]
 * [Textual](https://www.codeux.com/textual) - Textual is the world's most popular application for interacting with Internet Relay Chat (IRC) chatrooms on OS X.
-* [Gitter](https://gitter.im) - 关于Github的项目交流，支持 Markdown，对开发者极为友好。
-* [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
-* [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
-* [Slack](https://slack.com/) - 团队协作，沟通工具。
-* [零信](https://pubu.im/apps/osx) - 随时随地工作, 跨平台
-* [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
-* [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
-* [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
-* [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
-* [Coding.net](https://coding.net) - 一站式云端开发平台，免费提供代码托管，项目协作，代码质量管理，Pages 等服务。![Freeware][Freeware Icon]
+* [Gitter](https://gitter.im) - An instant messaging and chat room system for developers and users of GitHub repositories, support Markdown and friendly to developers.
+* [简聊](https://github.com/jianliaoim/talk-os) - A communication tool for enterprise, you can build your own service with its open source version. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
+* [钉钉](http://www.dingtalk.com/index-b.html#download_block) - A free office communication platform for enterprise. ![Freeware][Freeware Icon]
+* [Slack](https://slack.com/) - A tool for team collaboration and communication.
+* [零信](https://pubu.im/apps/osx) - Work anywhere and anytime, cross platform
+* [今目标](http://www.jingoal.com/client/mac/mac.htm) - An internet work platform for small-medium sized enterprises.
+* [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet team.
+* [Bitpost](https://voluntary.net/bitpost/) - A private decentralized messaging system. Instead of connecting to centralized servers(like Facebook, Gmail, etc) or federated servers(like email, IRC, Jabber), it use P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
+* [Teambition](https://www.teambition.com) - A team collaboration tool, provides many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborate with other team members. ![Freeware][Freeware Icon]
+* [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free for repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
     * Email
-        * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-        * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-        * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-        * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
-        * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
+        * [Airmail](http://airmailapp.com) - A fast email client, can run on your Mac and iPhone.
+        * [Foxmail](http://www.foxmail.com/mac/) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+        * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule
+        * [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
+        * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
 
 ## Data Recovery
 
-* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
-* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - A disk utility, the world’s most advanced repair and recovery tool for Mac.
+* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - A comprehensive and professional data recovery tool in most cases.
 
 
 ## Audio and Video
