@@ -421,39 +421,41 @@ editing software.
 
 ## 其它实用工具
 
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
-* [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC APP of Mac OS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
-* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A plugin for previewing files in Finder.
-* [Path Finder](http://www.cocoatech.com/pathfinder/) - Powerful replacement of Finder which has many features.
-* [TotalFinder](http://totalfinder.binaryage.com/) - A powerful replacement of Finder, the style of UI is most likely Chrome.
-* [XtraFinder](https://www.trankynam.com/xtrafinder/) - Add features to Finder. ![Freeware][Freeware Icon]
-* [xScope](http://xscopeapp.com/) - Measure, check and test the graphics and layout of the screen. Search your Mac and network and open applications quickly.
-* [f.lux](https://justgetflux.com/) -  Adjust your screen to match the brightness automatically. ![Freeware][Freeware Icon]
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。![star 4][star4 Icon] ![Freeware][Freeware Icon] 
+* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
+* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
+* [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。 ![Freeware][Freeware Icon]
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
-* [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
-* [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
-* [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
 * [Alfred](https://www.alfredapp.com/) - 效率神器。![tuijian][tuijian Icon] ![hot][hot Icon]
 * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-* [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [iStat pro](http://istat-pro.en.softonic.com/mac) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
-* [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
-* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。![tuijian][tuijian Icon]
+* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
+* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
+    * 窗口管理
+        * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
+        * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
+        * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+    * 密码管理 
+        * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+        * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
+        * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
+        * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+    * Finder
+        * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
+        * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
+        * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
+        * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
 
 ## Remote Login
 
