@@ -326,7 +326,7 @@ editing software.
 * [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。 ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
-    RSS 
+    * RSS 
         * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
         * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
         * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
