@@ -259,7 +259,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [Parallels Desktop](http://www.parallels.com/) - Powerful and easy to use VM. But need upgrade version for new macOS version (general yearly), and no free upgrade. ![hot][hot Icon]
 * [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [VMWare Fusion](http://www.vmware.com/) - A powerful commerical VM developed by VMware.
+* [VMWare Fusion](http://www.vmware.com/) - A powerful commercial VM developed by VMware.
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VMs on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
