@@ -158,6 +158,8 @@
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
+* [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端![hot][hot Icon] ![tuijian][tuijian Icon]
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在fishshell framework上![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## 版本控制
 
