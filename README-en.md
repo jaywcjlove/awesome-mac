@@ -38,7 +38,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Audio and Video](#audio-and-video)
 - [Reading and Writing](#reading-and-writing)
 - [FTP Clients](#ftp-clients)
-- [软件打包工具](#软件打包工具)
+- [Application package tool](#application-package-tool)
 - [Web Development](#web-development)
 - [Ebooks](#ebooks)
 - [Download Tools](#download-tools)
@@ -238,22 +238,24 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### Other tools
 
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
-* [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。 ![Freeware][Freeware Icon]
-* [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pornel/ImageAlpha)
-* [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
-* [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。 ![tuijian][tuijian Icon]
-* [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
-* [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
-* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
-* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
-* [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon]
-* [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open source tool to compress image. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
+* [Image2icon](http://www.img2icnsapp.com) - Change your image to icon. ![Freeware][Freeware Icon]
+* [ImageAlpha](https://pngmini.com/) - Compress image with PNG format and remove the useless transparent. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pornel/ImageAlpha)
+* [ImageOptim](https://imageoptim.com/mac) - Compress image and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
+* [Sip](http://theolabrothers.com/) - Pick color, collect, manage or share them. ![tuijian][tuijian Icon]
+* [Frank DeLoupe](http://jumpzero.com/frank/) - Pick color tool, support Retina.
+* [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App icon generator.
+* [Licecap](http://www.cockos.com/licecap/) - Record the screen and export to GIF. Supports to change the area everytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
+* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share screen with GIF. ![Freeware][Freeware Icon]
+* [ColorSchemer](http://www.colorschemer.com/) - A professional color matching application for your Mac.
+* [Skitch](https://evernote.com/intl/zh-cn/skitch/) - Screen shot with a powerful
+annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - Screen shot with a powerful annotation capabilities, Tencent produced. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [Snip](http://snip.qq.com/) - efficient tool to screen shot and support scrolling the screen while screen shoting.
+Tencent produced. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [iPic](http://toolinbox.net/iPic/) - Upload image and share link. ![Freeware][Freeware Icon]
+* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [RightFont](http://rightfontapp.com/) - Fonts managment tool. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 
 
 ## Virtual Machines
@@ -362,15 +364,15 @@ editing software.
 * [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application, supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
-## 软件打包工具
+## Application package tool
 
-* [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
-* [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
-* [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
-* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
-* [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，有道出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - 同上，腾讯出品，给个差评。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
+* [Finicky](https://johnste.github.io/finicky/) - Convert web application to Applce application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
+* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io) - Develop cross-platform desktop application with JS, HTML and CSS, evolved from AtomShell. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
+* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - Build desktop application for OS X with React Native. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
+* [AppJS](http://appjs.com/) - Build cross-platform desktop application with HTML and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. YouDao produced. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
+* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Tencent produced(Not very recommended).[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
 
 
 ## Download Tools
@@ -381,16 +383,16 @@ editing software.
 
 ## Online Storage
 
-*推荐一些有Mac客户端的网盘。*
+*Recommend some online storage with Mac client.*
 
-* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
-* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。 ![Freeware][Freeware Icon]
-* [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。 ![Freeware][Freeware Icon]
-* [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
-* [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
-* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
-* [owncloud](https://owncloud.org) 私有云网盘
+* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - File synchronization tool, offers online storage service. ![Freeware][Freeware Icon]
+* [Baidu cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud client. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. ![Freeware][Freeware Icon]
+* [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - JianGuo cloud client. ![Freeware][Freeware Icon]
+* [115](http://pc.115.com/) - 115 cloud client. ![Freeware][Freeware Icon]
+* [360](http://c49.yunpan.360.cn/) - 360 cloud client. ![Freeware][Freeware Icon]
+* [KuaiPan](http://web.kuaipan.cn/d/mac) - KuaiPan of JinShan(closed??) ![Freeware][Freeware Icon]
+* [owncloud](https://owncloud.org) Cloud storage.
 
 ## Input Method
 
