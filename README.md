@@ -193,6 +193,7 @@
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。 ![Freeware][Freeware Icon]
 * [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
+* [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件, 内嵌MongoShell, ES6语法，流畅查询接及智能感知. ![Freeware][Freeware Icon]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
 * [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
@@ -456,7 +457,7 @@
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
-    * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
+    * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
 
 ## 远程协助
