@@ -167,6 +167,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - Client of [Homebrew](http://brew.sh). You have the GUI to install, check or remove app, no commander needed. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
+* [Fish Shell](https://fishshell.com/) - A smart and user-friendly terminal, which is similar with zsh![hot][hot Icon] ![tuijian][tuijian Icon]
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Alternative to oh-my-zsh，on fishShell framework![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## Version control
 
@@ -256,6 +258,7 @@ Tencent produced. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - Upload image and share link. ![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - Fonts managment tool. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
+* [Solarized](http://ethanschoonover.com/solarized) - clean and beautiful color theme，perfectly suppoorting Iterm, Intellij IDEA, Vim etc..![tuijian][tuijian Icon]
 
 
 ## Virtual Machines

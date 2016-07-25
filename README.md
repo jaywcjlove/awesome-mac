@@ -158,6 +158,8 @@
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
+* [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端![hot][hot Icon] ![tuijian][tuijian Icon]
+* [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在fishshell framework上![hot][hot Icon] ![tuijian][tuijian Icon]
 
 ## 版本控制
 
@@ -245,6 +247,7 @@
 * [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。 ![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。 ![star 4][star4 Icon] ![tuijian][tuijian Icon]
+* [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iterm, Intellij IDEA, Vim等![tuijian][tuijian Icon]
 
 ## 虚拟机
 
