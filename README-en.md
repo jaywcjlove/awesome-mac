@@ -339,20 +339,20 @@ editing software.
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
     * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
-    * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [Reeder 3](http://reederapp.com/mac/) - RSS service subscription. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
     * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 * Markdown
-    * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器 [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+    * [Mou](http://25.io/mou/) - Free Markdown editing artifact. ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Marp](https://yhatt.github.io/marp/) -  Markdown making slide tools. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
     * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
     * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
     * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
     * [MacDown](http://macdown.uranusjr.com/) - An open source Markdown editor for OS X.  ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
 * 笔记
-    * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook.
     * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [为知笔记](http://www.wiz.cn/download.html) - Support Markdown, collect and organize picture links to import document. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [leanote](http://app.leanote.com) - 支持markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 
 ## Ebooks
