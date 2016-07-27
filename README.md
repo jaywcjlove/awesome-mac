@@ -416,7 +416,6 @@
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
-* [srocket](http://50r.cn/ifn76I) - 开启科学上网。 ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
@@ -425,6 +424,7 @@
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Surge](http://surge.run/manual/) - 科学上网。 ![Freeware][Freeware Icon]
 * [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商 ![hot][hot Icon]![tuijian][tuijian Icon]
+* [srocket](http://50r.cn/ifn76I) - 开启科学上网。![Freeware][Freeware Icon]
 
 
 ## 其它实用工具
