@@ -268,7 +268,7 @@
 * [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![star 3][star3 Icon] ![Freeware][Freeware Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
-* [Telegram](https://desktop.telegram.org) - 新时代的信息。
+* [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
@@ -369,6 +369,7 @@
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。 ![Freeware][Freeware Icon]
+* [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*
