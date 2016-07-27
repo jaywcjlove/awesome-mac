@@ -69,6 +69,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete+ paths suggestions
         * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
         * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
+        * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom.
     * Front-end
         * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
