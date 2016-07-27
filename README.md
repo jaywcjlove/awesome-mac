@@ -261,6 +261,7 @@
 ## 通信
 *推荐一些通信工具，沟通，团队协同。*
 
+* [Franz](http://meetfranz.com/) - a [Electron](http://electron.atom.io/) based multi protocol Web-Chat-Client wrapper - One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。 ![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。 ![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
