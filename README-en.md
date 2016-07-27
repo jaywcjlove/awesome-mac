@@ -297,6 +297,7 @@ Tencent produced. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Bitpost](https://voluntary.net/bitpost/) - A private decentralized messaging system. Instead of connecting to centralized servers(like Facebook, Gmail, etc) or federated servers(like email, IRC, Jabber), it use P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - A team collaboration tool, provides many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborate with other team members. ![Freeware][Freeware Icon]
 * [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free for repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
+* [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
 * Email
     * [Airmail](http://airmailapp.com) - A fast email client, can run on your Mac and iPhone.
     * [Foxmail](http://www.foxmail.com/mac/) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
