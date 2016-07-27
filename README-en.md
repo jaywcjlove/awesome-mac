@@ -274,6 +274,7 @@ Tencent produced. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 *Team communication and collaboration tool recommendation*
 
+* [Franz](http://meetfranz.com/) - a [Electron](http://electron.atom.io/) based multi protocol Web-Chat-Client wrapper - One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App. ![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - WeChat for Mac App. ![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
