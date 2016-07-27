@@ -402,25 +402,25 @@ editing software.
 
 ## Input Method
 
-* [QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。 ![Freeware][Freeware Icon]
-* [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。 ![Freeware][Freeware Icon]
-* [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。 ![Freeware][Freeware Icon]
-* [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。 ![Freeware][Freeware Icon]
-* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。 ![Freeware][Freeware Icon]
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji标签输入。 ![Freeware][Freeware Icon]
-* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。 ![Freeware][Freeware Icon]
-* [RIME](http://rime.im/) - 中州韻輸入法引擎。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
+* [QQ输入法](http://qq.pinyin.cn/) - Produced by Tencent. ![Freeware][Freeware Icon]
+* [搜狗输入法](http://pinyin.sogou.com/mac/) - Sogou input ![Freeware][Freeware Icon]
+* [百度输入法](https://srf.baidu.com/input/mac.html) - Baidu input methdo, support PinYin and Wubi. ![Freeware][Freeware Icon]
+* [清歌五笔输入法](https://qingg.im/index.html) - Wubi input method, produced for iOS and Mac. ![Freeware][Freeware Icon]
+* [WBIM](http://www.pawpawsoft.com) - Wubi input method. ![Freeware][Freeware Icon]
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji. ![Freeware][Freeware Icon]
+* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - YanWenZi(Emoticons icons or characters) input method. ![Freeware][Freeware Icon]
+* [RIME](http://rime.im/) - Rime input method engine. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 
 ## Web Browsers
 
-*这里放Mac的浏览器应用*
+*Browsers on Mac OS*
 
-* [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。 ![Freeware][Freeware Icon]
-* [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome浏览器谷歌出品。 ![Freeware][Freeware Icon]
-* [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。 ![Freeware][Freeware Icon]
-* [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。 ![Freeware][Freeware Icon]
-* [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。 ![Freeware][Freeware Icon]
-* [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。 ![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/cn/safari/) - Build-in browser of Mac OS. ![Freeware][Freeware Icon]
+* [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
+* [Firefox](http://www.firefox.com.cn/) - Firefox. ![Freeware][Freeware Icon]
+* [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
+* [QQ浏览器](http://browser.qq.com/mac/) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
+* [傲游云浏览器](http://www.maxthon.cn/mac/) - Maxthon ![Freeware][Freeware Icon]
 
 ## Translation Tools
 
