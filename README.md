@@ -510,16 +510,16 @@
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
-* 玩转苹果：<del>http://www.ifunmac.com</del>
-* Mac软件下载站：<del>http://www.pshezi.com</del>
-* MacPeers：<del>http://www.macpeers.com</del>
-* Mac志：<del>http://www.isofts.org</del>
-* Mac软件分享：<del>http://www.waitsun.com</del>
-* AppKed：<del>http://www.macbed.com</del>
-* 苹果软件园：<del>http://www.maczapp.com</del>
-* Mac精品软件：<del>http://xclient.info/</del>
-* Macx：<del>http://www.macx.cn/</del>
-* 腾牛网：<del>http://www.qqtn.com/mac/r_17_1.html</del>
+* 玩转苹果：<del>`http://www.ifunmac.com`</del>
+* Mac软件下载站：<del>`http://www.pshezi.com`</del>
+* MacPeers：<del>`http://www.macpeers.com`</del>
+* Mac志：<del>`http://www.isofts.org`</del>
+* Mac软件分享：<del>`http://www.waitsun.com`</del>
+* AppKed：<del>`http://www.macbed.com`</del>
+* 苹果软件园：<del>`http://www.maczapp.com`</del>
+* Mac精品软件：<del>`http://xclient.info/`</del>
+* Macx：<del>`http://www.macx.cn/`</del>
+* 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
 
 **[⬆ 返回顶部](#目录)**
 
