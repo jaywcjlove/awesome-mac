@@ -70,6 +70,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
         * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
         * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom.
+        * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
     * Front-end
         * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
@@ -79,6 +80,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
         * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
         * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
+        * [pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python Autocomplete Package.
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
