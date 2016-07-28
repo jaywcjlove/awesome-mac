@@ -61,6 +61,7 @@
         * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
         * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
         * [atom-beautify](https://atom.io/packages/atom-beautify) - 自动美化代码格式。
+        * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
     * 前端
         * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
@@ -70,6 +71,7 @@
         * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
         * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
         * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
+        * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
