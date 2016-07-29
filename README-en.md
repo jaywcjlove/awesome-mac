@@ -409,7 +409,7 @@ editing software.
 * [360](http://c49.yunpan.360.cn/) - 360 cloud client. ![Freeware][Freeware Icon]
 * [KuaiPan](http://web.kuaipan.cn/d/mac) - KuaiPan of JinShan(closed??) ![Freeware][Freeware Icon]
 * [owncloud](https://owncloud.org) Cloud storage.
-* [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage.
+* [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 
 ## Input Method
 
@@ -432,7 +432,7 @@ editing software.
 * [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - Maxthon ![Freeware][Freeware Icon]
-* [Vivaldi](https://vivaldi.com/) - Vivaldi, new browser from Opera's developers.
+* [Vivaldi](https://vivaldi.com/) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 
 ## Translation Tools
 

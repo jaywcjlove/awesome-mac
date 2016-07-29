@@ -232,6 +232,7 @@
 #### 原型流程
 
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。 ![tuijian][tuijian Icon]
+* [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，或画原型。
@@ -392,6 +393,7 @@
 * [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
 * [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
 * [owncloud](https://owncloud.org) 私有云网盘
+* [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
 
 ## 输入法
 
@@ -414,6 +416,7 @@
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。 ![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。 ![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。 ![Freeware][Freeware Icon]
+* [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。 ![Freeware][Freeware Icon]
 
 ## 翻译工具
 
@@ -462,10 +465,12 @@
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
+* [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 * 窗口管理
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+    * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
 * 密码管理
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
