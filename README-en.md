@@ -150,7 +150,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Patterns](http://krillapps.com/patterns/) - Editor of regular expression.
 * [Reginald](#) -
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - It might be the prettiest app for testing regular express.
-* [Reggy](https://github.com/samsouder) -
+* [Reggy](http://reggyapp.com/) - Editor of regular expression. [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](#) - Development tool for regular express. ![hot][hot Icon]
 
 ## Test Tools

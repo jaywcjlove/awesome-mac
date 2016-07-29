@@ -141,7 +141,7 @@
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
 * [Reginald](#) -
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
-* [Reggy](https://github.com/samsouder) -
+* [Reggy](http://reggyapp.com/) - 正则表达式编辑器 [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
 
 ## 测试工具
