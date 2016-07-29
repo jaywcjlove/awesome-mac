@@ -31,7 +31,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Command Line Tools](#command-line-tools)
 - [Version Control](#version-control)
 - [Database](#database)
-- [Graphics](#graphics)
+- [Design and Product](#design-and-product)
 - [Virtual Machines](#virtual-machines)
 - [Communication](#communication)
 - [Data Recovery](#data-recovery)
@@ -240,12 +240,12 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### Prototype workflow
 
-* [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。 ![tuijian][tuijian Icon]
-* [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
-* [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，或画原型。
-* [XMind](http://www.xmind.net) - 一款实用的思维导图软件。 ![hot][hot Icon] ![must-have][bibei Icon]
-* [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。 ![hot][hot Icon]
+* [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![tuijian][tuijian Icon]
+* [Axure RP 8](http://www.axure.com) - Prototypes, Specifications, and Diagrams in One Tool. ![hot][hot Icon]
+* [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - OmniGraffle - diagramming and graphic design for Mac, iPhone, and iPad.
+* [XMind](http://www.xmind.net) - The Most Popular Mind Mapping Tool on The Planet. ![hot][hot Icon] ![must-have][bibei Icon]
+* [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
 
 #### Other tools
 
