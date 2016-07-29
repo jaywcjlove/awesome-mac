@@ -62,6 +62,7 @@
         * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
         * [atom-beautify](https://atom.io/packages/atom-beautify) - 自动美化代码格式。
         * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
+        * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
     * 前端
         * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
@@ -460,6 +461,7 @@
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
+* [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * 窗口管理
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)

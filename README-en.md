@@ -71,6 +71,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
         * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom.
         * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
+        * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
     * Front-end
         * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
@@ -475,6 +476,7 @@ editing software.
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
+* [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * Window Management
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
