@@ -47,7 +47,7 @@ You may see some non-English characters and you don't understand them. Don't wor
 - [Web Browsers](#web-browsers)
 - [Translation Tools](#translation-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
-- [Utilities](#Utilities)
+- [Utilities](#utilities)
 - [Remote Login](#remote-login)
 - [Third-Party App Markets](#third-party-app-markets)
 - [Mac App Download Sites](#mac-app-download-sites)
