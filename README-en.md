@@ -71,6 +71,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
         * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom.
         * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
+        * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
     * Front-end
         * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
@@ -222,20 +223,20 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### Design tools
 
-* [Acorn](https://secure.flyingmeat.com/acorn/) - 一个像PS，全面的功能集的图像编辑器。
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
-* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
-* [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
-* [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图象处理软件的选择。
-* [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
-* [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。 ![tuijian][tuijian Icon]
-* [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
-* [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。 ![Freeware][Freeware Icon]
-* [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。
-* [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Acorn](https://secure.flyingmeat.com/acorn/) - a great Mac OS X picture and photo editor, built for humans.
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
+* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
+* [Blender](https://www.blender.org/) - Free and Open 3D Creation Software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
+* [Sketch](http://www.sketchapp.com/) - Professional Digital Design for Mac. ![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+    * [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+* [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac Trackpad to drawing board. ![tuijian][tuijian Icon]
+* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. ![Freeware][Freeware Icon]
+* [SketchBook](https://www.sketchbook.com/?locale=cn) - drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
+* [Sketches Pro](http://www.tayasui.com/sketches/) - Professional drawing software.
+* [Nik Collection](https://www.google.com/nikcollection/) - Google Nik Collection. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - The Bitmap Image Editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
-* [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
+* [Krita](https://krita.org/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 
 #### Prototype workflow
 
@@ -475,6 +476,7 @@ editing software.
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
+* [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * Window Management
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
