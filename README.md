@@ -231,7 +231,7 @@
 
 #### 原型流程
 
-* [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作不方便。 ![tuijian][tuijian Icon]
+* [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。 ![tuijian][tuijian Icon]
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。 ![hot][hot Icon]
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，或画原型。
