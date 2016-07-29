@@ -241,6 +241,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 #### Prototype workflow
 
 * [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![tuijian][tuijian Icon]
+* [MockFlow](https://www.mockflow.com) - Online prototyping suite for web design and usability testing.
 * [Axure RP 8](http://www.axure.com) - Prototypes, Specifications, and Diagrams in One Tool. ![hot][hot Icon]
 * [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - OmniGraffle - diagramming and graphic design for Mac, iPhone, and iPad.
@@ -408,6 +409,7 @@ editing software.
 * [360](http://c49.yunpan.360.cn/) - 360 cloud client. ![Freeware][Freeware Icon]
 * [KuaiPan](http://web.kuaipan.cn/d/mac) - KuaiPan of JinShan(closed??) ![Freeware][Freeware Icon]
 * [owncloud](https://owncloud.org) Cloud storage.
+* [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage.
 
 ## Input Method
 
@@ -430,6 +432,7 @@ editing software.
 * [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - Maxthon ![Freeware][Freeware Icon]
+* [Vivaldi](https://vivaldi.com/) - Vivaldi, new browser from Opera's developers.
 
 ## Translation Tools
 
@@ -477,10 +480,12 @@ editing software.
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
 * [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
 * [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
+* [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 * Window Management
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+    * [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts.
 * Password Manager
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
