@@ -26,7 +26,7 @@ You may come across some non-English characters. Don't worry, those apps doesn't
 
 ## Contents
 
-- [Editors](#editors)
+- [Editors](#editors-and-ide)
 - [Development Tools](#development-tools)
 - [Test Tools](#test-tools)
 - [Command Line Tools](#command-line-tools)
