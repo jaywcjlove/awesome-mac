@@ -321,7 +321,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
     * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
     * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
-    * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface. ![Freeware][Freeware Icon]
+    * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface. 
 
 ## Data Recovery
 
