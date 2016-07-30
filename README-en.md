@@ -452,6 +452,12 @@ editing software.
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Surge](http://surge.run/manual/) - 科学上网。 ![Freeware][Freeware Icon]
 * [srocket](http://50r.cn/ifn76I) - 开启科学上网。 ![Freeware][Freeware Icon]
+* [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得2小时免费VPN加速。![Freeware][Freeware Icon]
+* [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。![Freeware][Freeware Icon]
+* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。![Freeware][Freeware Icon]
+* [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。![Freeware][Freeware Icon]
+* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。![Freeware][Freeware Icon]
+* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。![Freeware][Freeware Icon]
 
 
 ## Utilities
