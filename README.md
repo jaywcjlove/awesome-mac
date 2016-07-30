@@ -107,11 +107,18 @@
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
     * [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
+    * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
     * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
     * [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。
+    * **学生**免费, [点击这里](https://www.jetbrains.com/student/) 查看更多.
+    * 一些很好的插件
+        * [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它, 很多功能需要它。
+        * [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
+        * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]](https://github.com/decosoftware/deco-ide)
 
 ## 开发者工具
@@ -134,16 +141,17 @@
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lanayotech/vagrant-manager/)
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。![hot][hot Icon] ![tuijian][tuijian Icon]
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序
 
 #### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
-* [Reginald](#) -
+* [Reginald](https://github.com/michaeltyson/Reginald) - 
+Regular Expression test application, using
+正则表达式测试应用程序，使用 [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/). [![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
 * [Reggy](http://reggyapp.com/) - 正则表达式编辑器 [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
-* [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
+* [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具 ![hot][hot Icon]
 
 ## 测试工具
 
@@ -151,7 +159,7 @@
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
-* [Cellist](https://itunes.apple.com/us/app/cellist/id897814548?ls=1&mt=12) - HTTP调试客户端。
+* [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 
@@ -188,6 +196,7 @@
 #### 版本控制系统
 
 * [GitLab](http://gitlab.com/) 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+[Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) phabricator支持Git、Svn、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
@@ -224,7 +233,7 @@
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。 ![tuijian][tuijian Icon]
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。 ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。 ![Freeware][Freeware Icon]
-* [Sketches Pro](http://www.tayasui.com/sketches/) - 专业的绘图软件。
+* [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器. ![star 2][star2 Icon] [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
@@ -247,10 +256,10 @@
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。![tuijian][tuijian Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
+* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
 * [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]](https://github.com/justinfrankel/licecap)
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。 ![Freeware][Freeware Icon]
-* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。 ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
@@ -279,7 +288,7 @@
 * [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![star 3][star3 Icon] ![Freeware][Freeware Icon]
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
-* [FB-mac-messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
+* [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
 * [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
@@ -291,7 +300,7 @@
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
-* [Coding.net](https://coding.net) - 一站式云端开发平台，免费提供代码托管，项目协作，代码质量管理，Pages 等服务。![Freeware][Freeware Icon]
+* [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端. ![Freeware][Freeware Icon]
 * Email
     * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
