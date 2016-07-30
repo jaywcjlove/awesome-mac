@@ -496,6 +496,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 * Window Management
+    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows—on one display, or to another display—using either the mouse or the keyboard.
     * [Slate](https://github.com/jigish/slate) - A window management application similar to Divvy and SizeUp (except better and free!). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
     * [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
