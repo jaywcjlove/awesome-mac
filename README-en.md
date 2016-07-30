@@ -7,7 +7,7 @@
 Feel free to **Star** and **Fork**.
 Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues).
 
-we love PR :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
+we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 > Special thanks for the recommendation of  [@GitHubDaily](http://weibo.com/GitHubDaily).
 
