@@ -256,6 +256,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - OmniGraffle - diagramming and graphic design for Mac, iPhone, and iPad.
 * [XMind](http://www.xmind.net) - The Most Popular Mind Mapping Tool on The Planet. ![hot][hot Icon] ![must-have][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
+* [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 
 #### Other tools
 

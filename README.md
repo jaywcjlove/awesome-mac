@@ -236,7 +236,7 @@ Regular Expression test application, using
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器. ![star 2][star2 Icon] [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
-* [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
+* [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。  [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 
 #### 原型流程
 
@@ -247,6 +247,7 @@ Regular Expression test application, using
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表，流程图，组织结构图、思维导图以及插图，或画原型。
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。 ![hot][hot Icon] ![必备][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。 ![hot][hot Icon]
+* [Framer](http://framerjs.com/) - 做交互原型的工具。 ![star 5][star5 Icon]![hot][hot Icon]
 
 #### 其它工具
 
