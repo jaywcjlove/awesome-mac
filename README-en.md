@@ -117,7 +117,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [LightTable](https://www.lighttable.com) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors. ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - A doesn’t suck editor.
-* [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
     * [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
@@ -130,6 +129,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ### IDE
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. ![hot][hot Icon] ![tuijian][tuijian Icon]
 	* **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
 	* Some good-to-have Plugins
