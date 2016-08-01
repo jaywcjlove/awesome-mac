@@ -58,6 +58,8 @@ You may come across some non-English characters. Don't worry, those apps doesn't
 
 *applications to edit text, suggest open source editors*
 
+### Editors
+
 * [Atom](https://atom.io) - A hackable text editor
 for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * Common plugins
@@ -124,6 +126,9 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+
+### IDE
+
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. ![hot][hot Icon] ![tuijian][tuijian Icon]
 	* **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
@@ -153,6 +158,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [zeplin](https://www.zeplin.io/) - Collaboration tool between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A terminal emulation which supports SSH, Telnet or other protocols.
+* [Finicky](https://johnste.github.io/finicky/) - An application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
 
 #### Editor of regular expression
 
@@ -351,50 +357,51 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ## Reading and Writing
 
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
-* [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。 ![Freeware][Freeware Icon]
-* [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
+* [iChm](http://www.robinlu.com/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. ![Freeware][Freeware Icon]
+* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
 * RSS
-    * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
-    * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
-    * [Reeder 3](http://reederapp.com/mac/) - RSS service subscription. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。 ![hot][hot Icon]
-    * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+    * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
+    * [ReadKit](http://readkitapp.com/) - Have all your reading in one place.
+    * [Reeder 3](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
+    * [Vienna](http://www.vienna-rss.org/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 * Markdown
-    * [Mou](http://25.io/mou/) - Free Markdown editing artifact. ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Marp](https://yhatt.github.io/marp/) -  Markdown making slide tools. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
-    * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
-    * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
-    * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * [MacDown](http://macdown.uranusjr.com/) - An open source Markdown editor for OS X.  ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
-* 笔记
-    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook.
-    * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - Support Markdown, collect and organize picture links to import document. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [leanote](http://app.leanote.com) - 支持markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
+    * [Mou](http://25.io/mou/) - A Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Marp](https://yhatt.github.io/marp/) - A Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+    * [TextNut](http://www.textnutwriter.com/) - A rich-format editor featuring Markdown export and Markdown syntax hint. ![Freeware][Freeware Icon]
+    * [MWeb](http://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App. ![hot][hot Icon]
+    * [Typora](http://www.typora.io/) - A truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+    * [MacDown](http://macdown.uranusjr.com/) - An open source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
+* Note-taking
+    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
+    * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [OneNote](https://www.onenote.com/) - Note-taking app by MicroSoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [有道云笔记](http://note.youdao.com/) - A note-taking app. It features multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [为知笔记](http://www.wiz.cn/download.html) - A note-taking app. It features multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Leanote](http://app.leanote.com) - A note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 
 ## Ebooks
 
-* [Calibre](http://calibre-ebook.com/) - A free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as to create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
+* [Calibre](http://calibre-ebook.com/) - A free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
 * [Sigil](https://sigil-ebook.com/) - A multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
 ## FTP Clients
 
 * [Transmit](https://panic.com/transmit/) - A highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 * [Flow](http://fivedetails.com/flow/) - An award-winning, beautiful, fast, and reliable FTP + SFTP client.
-* [Yummy FTP](http://www.yummysoftware.com) - An easy to use, yet powerful FTP/S + SFTP + WebDAV/S file transfer app.
-* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. ![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application, supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
+* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, fast, reliable FTP/S + SFTP + WebDAV/S file transfer app.
+* [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
+* [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
-## Application package tool
+## Frameworks for Hybrid App
 
-* [Finicky](https://johnste.github.io/finicky/) - Convert web application to Applce application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
-* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
-* [Electron](http://electron.atom.io) - Develop cross-platform desktop application with JS, HTML and CSS, evolved from AtomShell. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
-* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - Build desktop application for OS X with React Native. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
-* [AppJS](http://appjs.com/) - Build cross-platform desktop application with HTML and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. YouDao produced. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Tencent produced(Not very recommended).[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
+* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
+* [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
+* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
+* [AppJS](http://appjs.com/) - Build desktop application for Linux, Windows and Mac using HTML, CSS and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. Made by YouDao. (**Broken official website**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
+* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Made by Tencent (Not very recommended). (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
 
 
 ## Download Tools
@@ -402,32 +409,31 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Transmission](https://www.transmissionbt.com/) - A Fast, Easy, Free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [aria2](https://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
-* [You-Get](https://you-get.org/) - Dumb downloader that scrapes the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
+* [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 
 ## Online Storage
 
 *Recommend some online storage with Mac client.*
 
-* [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - File synchronization tool, offers online storage service. ![Freeware][Freeware Icon]
-* [Baidu cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud client. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. ![Freeware][Freeware Icon]
-* [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - JianGuo cloud client. ![Freeware][Freeware Icon]
-* [115](http://pc.115.com/) - 115 cloud client. ![Freeware][Freeware Icon]
-* [360](http://c49.yunpan.360.cn/) - 360 cloud client. ![Freeware][Freeware Icon]
-* [KuaiPan](http://web.kuaipan.cn/d/mac) - KuaiPan of JinShan(closed??) ![Freeware][Freeware Icon]
-* [owncloud](https://owncloud.org) Cloud storage.
+* [Dropbox](https://www.dropbox.com/) - A file hosting serviced that offers cloud storage, file synchronization, personal cloud and collaborative edit. ![Freeware][Freeware Icon] ![hot][hot icon] ![tuijian][tuijian Icon]
+* [Baidu cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud official client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. (**Require Tencent Account, Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - Jianguo cloud client. (**Not recommended**) ![Freeware][Freeware Icon]
+* [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [360](http://c49.yunpan.360.cn/) - 360 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [ownCloud](https://owncloud.org) Cloud storage.
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 
 ## Input Method
 
-* [QQ输入法](http://qq.pinyin.cn/) - Produced by Tencent. ![Freeware][Freeware Icon]
-* [搜狗输入法](http://pinyin.sogou.com/mac/) - Sogou input ![Freeware][Freeware Icon]
-* [百度输入法](https://srf.baidu.com/input/mac.html) - Baidu input methdo, support PinYin and Wubi. ![Freeware][Freeware Icon]
-* [清歌五笔输入法](https://qingg.im/index.html) - Wubi input method, produced for iOS and Mac. ![Freeware][Freeware Icon]
+* [QQ Input for Chinese](http://qq.pinyin.cn/) - Produced by Tencent. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Sogou Input for Chinese](http://pinyin.sogou.com/mac/) - Sogou input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Baidu Input for Chinese](https://srf.baidu.com/input/mac.html) - Baidu input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Qingge Wubi Input](https://qingg.im/index.html) - Wubi input produced for iOS and Mac. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [WBIM](http://www.pawpawsoft.com) - Wubi input method. ![Freeware][Freeware Icon]
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji. ![Freeware][Freeware Icon]
-* [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - YanWenZi(Emoticons icons or characters) input method. ![Freeware][Freeware Icon]
-* [RIME](http://rime.im/) - Rime input method engine. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
+* [Rocket](http://matthewpalmer.net/rocket/) - Emoji input method. ![Freeware][Freeware Icon]
+* [Emoticon Input](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - Emoticons icons or characters input method. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [RIME](http://rime.im/) - Rime input method. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 
 ## Web Browsers
 
