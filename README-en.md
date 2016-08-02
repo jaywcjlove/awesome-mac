@@ -181,6 +181,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ## Command Line Tools
 
 * [iTerm2](http://www.iterm2.com) - iTerm2 is a terminal emulator for OS X that does amazing thing. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/gnachman/iTerm2)
+* [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [HyperTerm](https://hyperterm.org/) - Beautiful, extensible terminal built on open web standards. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
@@ -443,132 +444,133 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - Firefox. ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
-* [QQ浏览器](http://browser.qq.com/mac/) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
-* [傲游云浏览器](http://www.maxthon.cn/mac/) - Maxthon ![Freeware][Freeware Icon]
-* [Vivaldi](https://vivaldi.com/) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
+* [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
+* [傲游云浏览器](http://www.maxthon.cn/mac/) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 
 ## Translation Tools
+*(Or you could just use Mac OS built-in dictionary)*
 
-* [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。 ![Freeware][Freeware Icon]
-* [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。 ![Freeware][Freeware Icon]
-* [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
-* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。 ![Freeware][Freeware Icon]
+* [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
+* [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [海词词典](http://cidian.dict.cn/mac.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
 
 ## Proxy and VPN Tools
-*假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
-* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks)
-* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
-* [Lantern](https://getlantern.org) - 科学上网 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
-* [鱼摆摆](https://ybb1024.com/) - 科学上网
-* [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
-* [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
-* [Surge](http://surge.run/manual/) - 科学上网。 ![Freeware][Freeware Icon]
-* [srocket](http://50r.cn/ifn76I) - 开启科学上网。 ![Freeware][Freeware Icon]
-* [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得2小时免费VPN加速。![Freeware][Freeware Icon]
-* [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。![Freeware][Freeware Icon]
-* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。![Freeware][Freeware Icon]
-* [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。![Freeware][Freeware Icon]
-* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。![Freeware][Freeware Icon]
-* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。![Freeware][Freeware Icon]
-
+* [ShadowsocksX](http://shadowsocks.org/) - A secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks/shadowsocks)
+* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
+* [Lantern](https://getlantern.org) - Lantern is a free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
+* [鱼摆摆](https://ybb1024.com/) - An application for the access to open internet.
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - A free, open source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
+* [GoAgentX](https://github.com/OldFrank/GoAgentX) - An application for the access to open internet. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
+* [Surge](http://surge.run/manual/) - Surge is a web developer tool and proxy utility for iOS 9. ![Freeware][Freeware Icon]
+* [srocket](http://50r.cn/ifn76I) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [LoCoVPN](https://www.locovpn.co/mannul/) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [二师兄VPN](http://www.2-vpn4.cc/home.action) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [GreenVPN](http://www.evergreenvpn.com/) - A powerful and fun tools that helps you to solve any network issues. (Mainly used for the access to open internet) ![Freeware][Freeware Icon]
+* [风驰VPN](http://fengchinet2.com/) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 
 ## Utilities
+### General Tools
+* [Alfred](https://www.alfredapp.com/) - An award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![tuijian][tuijian Icon] ![hot][hot Icon]
+* [BetterZip 3](https://macitbetter.com/) - An archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Numi](http://numi.io/) - A beautiful calculator app for Mac. ![Freeware][Freeware Icon]
+* [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
+* [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Good commutity. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。![star 4][star4 Icon] ![Freeware][Freeware Icon]
-* [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
-* [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [f.lux](https://justgetflux.com/) - Adapt screen colour setting at night, to contain less blue light for preventing insomnia. ![Freeware][Freeware Icon]
-* [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
-* [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
-* [Keytty](http://keytty.com) - 放弃使用鼠标，用键盘控制光标操作，很酷的感觉。
-* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
-* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
-* [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
-* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac上的NTFS文件系统驱动。
-* [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
-* [Alfred](https://www.alfredapp.com/) - Spotlight on Stereoids ![tuijian][tuijian Icon] ![hot][hot Icon]
-* [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
-* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
-* [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
-* [BitBar](https://getbitbar.com/) - Put the output from any script or program in your Mac OS X Menu Bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
-* [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
-* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome插件解决中国视频网站播放视频电脑发热的情况。
-* [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。![star 3][star3 Icon]
-* [BetterTouchTool](http://www.bettertouchtool.net/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
+### GTD (Getting Things Done)
+* [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
+* [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![tuijian][tuijian Icon]
+* [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
+* [2Do](http://www.2doapp.com/) - A nice todo app.
+* [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
+
+### Productivity
+* [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
+* [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/tekezo/Karabiner)
+* [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
+* [BetterTouchTool](http://www.bettertouchtool.net/) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
+* [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* **Window Management**
+	* [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+	* [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
+	* [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
+	* [Slate](https://github.com/jigish/slate) - A window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
+	* [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
+	* [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts.
+	* [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+* **Password Management**
+	* [1password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+	* [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
+	* [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
+	* [MacPass](http://mstarke.github.io/MacPass/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+* **Finder**
+	* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
+	* [Path Finder](http://www.cocoatech.com/pathfinder/) - An all-around file management app.
+	* [TotalFinder](http://totalfinder.binaryage.com/) - A Chrome-like app as finder sustitute.
+	* [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adding tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+
+### Nice to have
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - An application to show the current short cuts. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
+* [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
+* [f.lux](https://justgetflux.com/) - An application makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
+
+### System Related
+
+* [AppCleaner](http://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
+* [Monity](http://www.monityapp.com/) - A system monitoring widget for OS X. ![star 3][star3 Icon]
+* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - An application to manage your SSH.
+* [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
+* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [DaisyDisk](https://daisydiskapp.com/) - An app gives you a great overview of all connected disks. It also make more spaces for you by cleaning up your disk.
+* [iStat Menu](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![tuijian][tuijian Icon]
+* [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - An HTML 5 video player. Keep your mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
-* Window Management
-    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows—on one display, or to another display—using either the mouse or the keyboard.
-    * [Slate](https://github.com/jigish/slate) - A window management application similar to Divvy and SizeUp (except better and free!). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
-    * [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
-    * [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts.
-* Password Manager
-    * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
-    * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
-    * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
-* Finder
-    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-    * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
-    * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格相Chrome。
-    * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。 ![Freeware][Freeware Icon]
+* [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your mac to fall asleep.
+
+### For Gamers
+* [openEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
+
+### Other
+* [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 
 ## Remote Login
 
-* [TeamViewer](https://www.teamviewer.com) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) Multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
-## Third-Party App Markets
+## Talking about Pirate Software
 
-*[这里讨论盗版问题或者提供黑名单？](https://github.com/jaywcjlove/awesome-mac/issues/17)，拒绝盗版从我做起，欢迎大家监督。*
+* If you came across some websites offering pirate software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, authentic only :)
 
-### 正版
+### Get Apps
 
-*这里只提供正版软件购买下载的应用商店。*
+*No pirate here, definitely*
 
-* [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。![star 4][star4 Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
-* [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
-* [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+* **I personally recommend downloading from official website of the apps you want. App Store may not offer the latest version of that app.**
+* [Homebrew](http://brew.sh/) - If you are familiar with Terminal, feel free to get it here.
+* [Homebrew-cask](http://caskroom.io) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. Again, if you are familiar with Terminal.
 
-### 应用商店黑名单
+### Black-List
 
-*第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
+**Not planning disclose it.**
 
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
-* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
+### Something Useful
+**By the way, any comments, recommendations, concerns... FEEL FREE TO OPEN AN ISSUE**
 
-## Mac App Download Sites
-
-*这里主要是推荐一些软件下载的网站，还有一些Mac OSX软件分享网站*
-
-### 正版/介绍
-
-* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
-* App Shopper：[http://appshopper.com/](http://appshopper.com/)
-* 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
-* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
-
-### 盗版软件下载网站黑名单
-
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
-
-* 玩转苹果：<del>`http://www.ifunmac.com`</del>
-* Mac软件下载站：<del>`http://www.pshezi.com`</del>
-* MacPeers：<del>`http://www.macpeers.com`</del>
-* Mac志：<del>`http://www.isofts.org`</del>
-* Mac软件分享：<del>`http://www.waitsun.com`</del>
-* AppKed：<del>`http://www.macbed.com`</del>
-* 苹果软件园：<del>`http://www.maczapp.com`</del>
-* Mac精品软件：<del>`http://xclient.info/`</del>
-* Macx：<del>`http://www.macx.cn/`</del>
+* [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you could compare apps side-by-side. You might get an idea by other users who may struggle just like you. Contribute if you know something. ![tuijian][tuijian Icon] ![hot][hot Icon]
+* [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FROM** Windows or other platform, `else if` you want some alternative apps **FOR** Windows platform, check this site.
+* Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) is somewhere else you could go for.
+* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill. 
+* **Chinese community**
+	* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+	* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+	
 
 **[⬆ Top](#contents)**
 
