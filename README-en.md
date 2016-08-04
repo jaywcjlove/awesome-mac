@@ -570,12 +570,16 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 ### Genuine / Introduction
 
-* **Chinese community**
-    * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-    * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you could compare apps side-by-side. You might get an idea by other users who may struggle just like you. Contribute if you know something. ![tuijian][tuijian Icon] ![hot][hot Icon]
+* [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FROM** Windows or other platform, `else if` you want some alternative apps **FOR** Windows platform, check this site.
+* Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) is somewhere else you could go for.
+* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill. 
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [HackStore](http://hack-store.com) it is an amazing free alternative of App Store for side developers and apps for Mac OS which Apple doesnt accept.
+* **Chinese community**
+    * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+    * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
 	
 ### Pirated software download site blacklist
 *Refuse piracy from me. Software vendors can go to these places rights.*
