@@ -546,33 +546,50 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
-## Talking about Pirate Software
+## Third Party App Markets
 
 * If you came across some websites offering pirate software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, authentic only :)
 
 ### Get Apps
+*Here are some of the major software to download the site, there are a number of OSX Mac software to share the site*
 
-*No pirate here, definitely*
-
-* **I personally recommend downloading from official website of the apps you want. App Store may not offer the latest version of that app.**
 * [Homebrew](http://brew.sh/) - If you are familiar with Terminal, feel free to get it here.
+* [MacUpdate Desktop](https://www.macupdate.com/) - Change the way you install and update apps with the all new. ![star 4][star4 Icon]
 * [Homebrew-cask](http://caskroom.io) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. Again, if you are familiar with Terminal.
 
 ### Black-List
+*Third party application market APP black list, there is the spread of pirated software and download, refused to start from me, welcome everyone to monitor them And adults.*
 
-**Not planning disclose it.**
+* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
+* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
+* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
+* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
-### Something Useful
-**By the way, any comments, recommendations, concerns... FEEL FREE TO OPEN AN ISSUE**
+## Mac App Download Sites
+*Here are some of the major software to download the site, there are a number of OSX Mac software to share the site.*
 
-* [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you could compare apps side-by-side. You might get an idea by other users who may struggle just like you. Contribute if you know something. ![tuijian][tuijian Icon] ![hot][hot Icon]
-* [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FROM** Windows or other platform, `else if` you want some alternative apps **FOR** Windows platform, check this site.
-* Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) is somewhere else you could go for.
-* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill. 
+### Genuine / Introduction
+
 * **Chinese community**
-	* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-	* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+    * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
+    * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
+* App Shopper：[http://appshopper.com/](http://appshopper.com/)
+* [HackStore](http://hack-store.com) it is an amazing free alternative of App Store for side developers and apps for Mac OS which Apple doesnt accept.
 	
+### Pirated software download site blacklist
+*Refuse piracy from me. Software vendors can go to these places rights.*
+
+* 玩转苹果：<del>`http://www.ifunmac.com`</del>
+* Mac软件下载站：<del>`http://www.pshezi.com`</del>
+* MacPeers：<del>`http://www.macpeers.com`</del>
+* Mac志：<del>`http://www.isofts.org`</del>
+* Mac软件分享：<del>`http://www.waitsun.com`</del>
+* AppKed：<del>`http://www.macbed.com`</del>
+* 苹果软件园：<del>`http://www.maczapp.com`</del>
+* Mac精品软件：<del>`http://xclient.info/`</del>
+* Macx：<del>`http://www.macx.cn/`</del>
+* 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
 
 **[⬆ Top](#contents)**
 
