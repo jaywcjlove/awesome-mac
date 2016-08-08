@@ -175,6 +175,7 @@ Regular Expression test application, using
 * [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端![hot][hot Icon] ![tuijian][tuijian Icon]
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在fishshell framework上![hot][hot Icon] ![tuijian][tuijian Icon]
+* [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ## 版本控制
 
