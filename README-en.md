@@ -191,6 +191,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Black Screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
 * [Fish Shell](https://fishshell.com/) - A smart and user-friendly terminal, which is similar with zsh![hot][hot Icon] ![tuijian][tuijian Icon]
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Alternative to oh-my-zsh，on fishShell framework![hot][hot Icon] ![tuijian][tuijian Icon]
+* [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ## Version control
 
@@ -330,7 +331,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
     * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
     * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
-    * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface. 
+    * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
 
 ## Data Recovery
 
@@ -574,14 +575,14 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you could compare apps side-by-side. You might get an idea by other users who may struggle just like you. Contribute if you know something. ![tuijian][tuijian Icon] ![hot][hot Icon]
 * [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FROM** Windows or other platform, `else if` you want some alternative apps **FOR** Windows platform, check this site.
 * Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) is somewhere else you could go for.
-* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill. 
+* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [HackStore](http://hack-store.com) it is an amazing free alternative of App Store for side developers and apps for Mac OS which Apple doesnt accept.
 * **Chinese community**
     * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
     * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
-	
+
 ### Pirated software download site blacklist
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
@@ -611,7 +612,3 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
-
-
-
-
