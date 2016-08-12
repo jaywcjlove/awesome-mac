@@ -362,7 +362,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [iChm](http://www.robinlu.com/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. ![Freeware][Freeware Icon]
-* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon] 
+* [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read your CHM documents. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
