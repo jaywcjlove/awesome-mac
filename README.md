@@ -65,7 +65,6 @@
         * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
         * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
         * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
-        * [atom-beautify](https://atom.io/packages/atom-beautify) - 格式化插件，支持目前流行语言。
         * [filecolor](https://atom.io/packages/filecolor) - 不通文件类型，不通颜色显示，方便查找文件。
         * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
         * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
@@ -83,7 +82,7 @@
         * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
         * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
         * [atom-html-preview](https://atom.io/packages/atom-html-preview) - 内置Chrome浏览器写移动端非常棒。
-        * [tree-view-copy-relative-path](https://atom.io/packages/atom-html-preview) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
+        * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
@@ -111,7 +110,6 @@
     * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - 自动完成文件名。
     * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP同步插件，本地与虚拟机做文件同步非常方便。
     * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - 高亮颜色关键字，非常适合CSS编写。
-    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 侧边栏增强。
     * [File History](https://packagecontrol.io/packages/File%20History) - 本地文件历史，每次修改文件都会有历史。
     * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - 原生Javascript补全。
     * [Json Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON格式化。
