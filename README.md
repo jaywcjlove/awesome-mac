@@ -63,6 +63,14 @@
         * [atom-beautify](https://atom.io/packages/atom-beautify) - 自动美化代码格式。
         * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
         * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
+        * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
+        * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
+        * [filecolor](https://atom.io/packages/filecolor) - 不通文件类型，不通颜色显示，方便查找文件。
+        * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
+        * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
+        * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不通项目，多项目同时工作利器。
+        * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 可以图形化显示正则表达式。
+
     * 前端
         * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
@@ -73,6 +81,8 @@
         * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
         * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
         * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
+        * [atom-html-preview](https://atom.io/packages/atom-html-preview) - 内置Chrome浏览器写移动端非常棒。
+        * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
@@ -97,6 +107,15 @@
     * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
     * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
     * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
+    * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - 自动完成文件名。
+    * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP同步插件，本地与虚拟机做文件同步非常方便。
+    * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - 高亮颜色关键字，非常适合CSS编写。
+    * [File History](https://packagecontrol.io/packages/File%20History) - 本地文件历史，每次修改文件都会有历史。
+    * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - 原生Javascript补全。
+    * [Json Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON格式化。
+    * [Git](https://packagecontrol.io/packages/Git) - Sublime Text Git插件功能比较全面。
+    * [GitStatus](https://packagecontrol.io/packages/GitStatus) - 监控更改的文件和项目状态实时提示。
+    * [Gitignore](https://packagecontrol.io/packages/Gitignore) - Git的Gitignore文件生成，内置常用过滤文件。
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
@@ -110,6 +129,8 @@
     * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
     * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
     * [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
+    * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
@@ -176,6 +197,8 @@ Regular Expression test application, using
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端![hot][hot Icon] ![tuijian][tuijian Icon]
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在fishshell framework上![hot][hot Icon] ![tuijian][tuijian Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
+* [hyperterm](https://github.com/zeit/hyperterm) - 一款基于Node开发的终端软件，逼格很高。
 
 ## 版本控制
 
@@ -202,6 +225,7 @@ Regular Expression test application, using
 * [phabricator](https://phabricator.com) phabricator支持Git、Svn、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
+* [Github](https://github.com) Github 代码托管，项目管理，演示部署，瞧，您现在就访问Github。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 ## 数据库
 
@@ -359,6 +383,7 @@ Regular Expression test application, using
     * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
     * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
     * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器, 深受[Mou](http://25.io/mou/)的影响 ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
+    * [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
 * 笔记
     * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
     * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
@@ -570,5 +595,3 @@ Regular Expression test application, using
 [star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
 [star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
