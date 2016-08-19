@@ -77,7 +77,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
         * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
         * [dracula-theme](https://atom.io/packages/dracula-theme) - Dracula beautiful color。
-        * [atom-beautify](https://atom.io/packages/atom-beautify) - Formatting plug-ins, support the current popular languages。
         * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
         * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
         * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
@@ -95,7 +94,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
         * [linter-eslint](https://atom.io/packages/linter-eslint) - Lint JavaScript on the fly, using ESLint
         * [atom-html-preview](https://atom.io/packages/atom-html-preview) - The built-in Chrome, mobile terminal, is very good。
-        * [tree-view-copy-relative-path](https://atom.io/packages/atom-html-preview) - You can talk with the current file output, the relative path to the target file for file call each other more。
+        * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - You can talk with the current file output, the relative path to the target file for file call each other more。
     * Python
         * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python packages, variables, methods and functions with their arguments autocompletion in Atom powered by [Jedi](https://github.com/davidhalter/jedi)
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
@@ -124,7 +123,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - Automatically complete the file name。
     * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP sync plug-in, local file synchronization with the virtual machine is very convenient。
     * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - Highlight color key word, very suitable for CSS code。
-    * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - The sidebar to enhance。
     * [File History](https://packagecontrol.io/packages/File%20History) - Local file history, every time modify the file will be history。
     * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - Native Javascript completion。
     * [Json Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON formatting。
