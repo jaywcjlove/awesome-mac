@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node build.js"
+    "start": "node build.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaywcjlove/awesome-mac-osx.git"
+    "url": "https://github.com/jaywcjlove/awesome-mac.git"
   },
   "keywords": [
     "awesome",
@@ -21,11 +21,13 @@
   "author": "kenny wang <wowohoo@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaywcjlove/awesome-mac-osx/issues"
+    "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
-  "homepage": "https://github.com/jaywcjlove/awesome-mac-osx#readme",
+  "homepage": "https://github.com/jaywcjlove/awesome-mac#readme",
   "devDependencies": {
     "colors-cli": "^1.0.7",
+    "gh-pages": "^0.11.0",
+    "loading-cli": "^1.0.2",
     "marked": "^0.3.6",
     "mkdirp": "^0.5.1",
     "pygmentize-bundled": "^2.3.0"
