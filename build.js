@@ -18,7 +18,7 @@ var success = color.green;
 
 renderer.heading = function (text, level) {
     if(/[\u4E00-\u9FA5]/i.test(text)){
-        return '<h' + level + ' id="'+text+'">'+text+'</h' + level + '>';
+        return '<h' + level + ' id="'+text.toLowerCase()+'">'+text+'</h' + level + '>';
     }else{
         var escapedText = text.toLowerCase().replace(/[^\w]+/g, '-');
         return '<h' + level + ' id="'+escapedText+'">'+text+'</h' + level + '>';
