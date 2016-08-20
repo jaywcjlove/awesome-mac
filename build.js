@@ -2,12 +2,15 @@ var exec = require('child_process').exec;
 var fs = require('fs');
 var path = require('path');
 var marked = require('marked');
+var ghpages = require('gh-pages');
+var loading =  require('loading-cli');
 var mkdirp = require('mkdirp');
 var renderer = new marked.Renderer();
 var color = require('colors-cli/safe')
 var error = color.red.bold;
 var warn = color.yellow;
 var notice = color.blue;
+var success = color.green;
 
 // console.log(error('Error!'));
 // console.log(warn('Warning'));
@@ -52,6 +55,19 @@ MarkedToHTMLSave('.deploy/index.html','README.md'.toString(),function(err){
     MarkedToHTMLSave('.deploy/index.en.html','README-en.md'.toString(),function(err){
         if (err) return console.log(error(err));
         console.log(notice('  → '+"ok!"));
+        var load = loading('  Pushing code!!')
+        load.start()
+        ghpages.publish(path.join(__dirname, '.deploy'),{ 
+            repo: 'https://github.com/jaywcjlove/awesome-mac.git',
+            branch: 'gh-pages'
+        }, function(err) { 
+            if(err) return console.log(error('  → '+"ok!"+err));
+            load.stop()
+            console.log(success('\n\n   '+"Push success!!"));
+            // 删除文件夹
+            exec('rm -rf .deploy');
+        });
+
     })
 
 })
