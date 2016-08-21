@@ -1,7 +1,7 @@
 # Awesome Mac
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
-[![https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md) [![https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
+
 
  This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
