@@ -209,6 +209,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - A the end of style restoring ancient ways, very cool。
 * [hyperterm](https://github.com/zeit/hyperterm) - A terminal based on Node development software, pretend bility is very high。
+* [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via your terminal [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote)
 
 ## Version control
 
