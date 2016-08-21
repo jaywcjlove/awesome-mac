@@ -420,6 +420,7 @@ Regular Expression test application, using
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。 ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。 [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
+* [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器 ![Freeware][Freeware Icon]
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*
