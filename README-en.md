@@ -207,8 +207,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Alternative to oh-my-zsh，on fishShell framework![hot][hot Icon] ![tuijian][tuijian Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - A the end of style restoring ancient ways, very cool。
-* [HyperTerm](https://hyperterm.org/) - A terminal based on Node development software, pretend bility is very high。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
-* [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via your terminal [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote)
+* [HyperTerm](https://hyperterm.org/) - A terminal based on Node development software, pretend bility is very high。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
+* [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via your terminal [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 
 ## Version control
 
