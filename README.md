@@ -188,7 +188,6 @@ Regular Expression test application, using
 ## 命令行工具
 
 * [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
-* [HyperTerm](https://hyperterm.org/) - 超级终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -198,7 +197,7 @@ Regular Expression test application, using
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在fishshell framework上![hot][hot Icon] ![tuijian][tuijian Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
-* [hyperterm](https://github.com/zeit/hyperterm) - 一款基于Node开发的终端软件，逼格很高。
+* [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 
 ## 版本控制
 

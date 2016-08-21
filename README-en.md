@@ -198,7 +198,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [iTerm2](http://www.iterm2.com) - iTerm2 is a terminal emulator for OS X that does amazing thing. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/gnachman/iTerm2)
 * [tmux](https://github.com/tmux/tmux) tmux is a "terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
-* [HyperTerm](https://hyperterm.org/) - Beautiful, extensible terminal built on open web standards. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -208,7 +207,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Alternative to oh-my-zsh，on fishShell framework![hot][hot Icon] ![tuijian][tuijian Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - A the end of style restoring ancient ways, very cool。
-* [hyperterm](https://github.com/zeit/hyperterm) - A terminal based on Node development software, pretend bility is very high。
+* [HyperTerm](https://hyperterm.org/) - A terminal based on Node development software, pretend bility is very high。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zeit/hyperterm)
 * [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via your terminal [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote)
 
 ## Version control
