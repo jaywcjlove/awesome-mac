@@ -355,7 +355,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) -The world’s most advanced repair and recovery tool for Mac.
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - A comprehensive and professional data recovery tool for most cases.
-
+* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - A powerful recovery tool for Mac file recovery, Time machine recovery, Encrypted Disk recovery and much more.
 
 ## Audio and Video
 
