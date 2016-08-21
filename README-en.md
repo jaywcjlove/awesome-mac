@@ -560,12 +560,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [iStat Menu](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![tuijian][tuijian Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - An HTML 5 video player. Keep your mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
-<<<<<<< HEAD
 * [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your mac to fall asleep.
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
-=======
-* [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your mac to fall asleep. ![Freeware][Freeware Icon]
->>>>>>> cca0207c60b54d35f4b7f3338869572d6a4f636a
 
 ### For Gamers
 * [openEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
