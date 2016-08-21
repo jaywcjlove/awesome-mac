@@ -507,6 +507,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Good commutity. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. ![Freeware][Freeware Icon]
+* [Caffeine](http://lightheadsw.com/caffeine/) - A great utility app for preventing the Mac from sleeping with a single click in the OS X menu bar. ![Freeware][Freeware Icon]
 
 ### GTD (Getting Things Done)
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
