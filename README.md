@@ -142,6 +142,7 @@
         * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]](https://github.com/decosoftware/deco-ide)
 * [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发 [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
+* [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于java，但为多种语言和平台的插件支持。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 ## 开发者工具
 
