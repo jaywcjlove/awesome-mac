@@ -12,11 +12,11 @@
 [中文](README.md) | [English](README-en.md) 
 
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
 ![hot][hot Icon] means **hot** app;  
 ![tuijian][tuijian Icon] means **recommended** app;  
 ![must-have][bibei Icon] means **must have** app;  
-![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;
+![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;  
 
 You may come across some non-English characters. Don't worry, those apps doesn't have an English version yet. So you might not wanna step into it.
 
