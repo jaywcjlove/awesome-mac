@@ -386,6 +386,7 @@ Regular Expression test application, using
     * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
     * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器, 深受[Mou](http://25.io/mou/)的影响 ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
     * [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
+    * [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 * 笔记
     * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
     * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
