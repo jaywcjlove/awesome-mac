@@ -399,6 +399,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Typora](http://www.typora.io/) - A truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
     * [MacDown](http://macdown.uranusjr.com/) - An open source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
     * [EME](https://github.com/egoist/eme) - Recently launched a Markdown editor, interface is like Chrome browser interface, very simple。
+    * [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful yet powerful text editor for your Mac
 * Note-taking
     * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
     * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
