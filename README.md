@@ -88,7 +88,7 @@
         * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
         * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
 * [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器。 ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Plain​Tasks](https://packagecontrol.io/packages/Plain​Tasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
+    * [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
     * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。![star 5][star5 Icon]
     * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
     * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
