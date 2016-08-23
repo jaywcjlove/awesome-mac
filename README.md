@@ -180,7 +180,7 @@ Regular Expression test application, using
 
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/RESET endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比PostMan看起来漂亮的客户端，测试HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。 ![Freeware][Freeware Icon]
