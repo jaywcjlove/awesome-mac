@@ -274,6 +274,7 @@
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。![hot][hot Icon] ![必备][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。![hot][hot Icon]
 * [Framer](http://framerjs.com/) - 做交互原型的工具。![star 5][star5 Icon]![hot][hot Icon]
+* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 
 #### 其它工具
 
