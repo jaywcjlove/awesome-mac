@@ -52,7 +52,7 @@
 * [Atom](https://atom.io) - GitHub推出的开源编辑器。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * 通用
         * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
-        * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格
+        * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格。
         * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
         * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
         * [ex-mode](https://atom.io/packages/ex-mode) - vim 模式的拓展。
@@ -65,10 +65,10 @@
         * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
         * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
         * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
-        * [filecolor](https://atom.io/packages/filecolor) - 不通文件类型，不通颜色显示，方便查找文件。
+        * [filecolor](https://atom.io/packages/filecolor) - 不同文件类型，不同颜色显示，方便查找文件。
         * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
         * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
-        * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不通项目，多项目同时工作利器。
+        * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不同项目，多项目同时工作利器。
         * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 可以图形化显示正则表达式。
 
     * 前端
@@ -127,7 +127,7 @@
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
     * [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
     * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
-    * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
+    * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
     * [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
     * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
@@ -189,7 +189,7 @@ Regular Expression test application, using
 
 ## 命令行工具
 
-* [iTerm2](http://www.iterm2.com) - 免费的的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
+* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -212,7 +212,7 @@ Regular Expression test application, using
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用 ![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的github star!
-* [GitUp](http://gitup.co/) - 一个简单单功能强大的git客户端。[![star 3][star3 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
+* [GitUp](http://gitup.co/) - 一个简单功能强大的git客户端。[![star 3][star3 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
@@ -239,7 +239,7 @@ Regular Expression test application, using
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。 ![Freeware][Freeware Icon]
 * [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
-* [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件, 内嵌MongoShell, ES6语法，流畅查询接及智能感知. ![Freeware][Freeware Icon]
+* [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件，内嵌MongoShell，ES6语法，流畅查询及智能感知. ![Freeware][Freeware Icon]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
 * [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
@@ -337,7 +337,7 @@ Regular Expression test application, using
     * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
     * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
     * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
-    * [Polymail](https://polymail.io/) - 简单, 功能强大, 长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
+    * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
     * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
 
 ## 数据恢复
@@ -351,7 +351,7 @@ Regular Expression test application, using
 ## 音频和视频
 
 * [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
+* [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。
@@ -382,18 +382,18 @@ Regular Expression test application, using
     * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。 [![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 * Markdown
     * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。 ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器 [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+    * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
     * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。 ![Freeware][Freeware Icon]
     * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。 ![hot][hot Icon]
     * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器, 深受[Mou](http://25.io/mou/)的影响 ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
+    * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响 ![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
     * [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
     * [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
 * 笔记
     * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
     * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [leanote](http://app.leanote.com) - 支持markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
+    * [leanote](http://app.leanote.com) - 支持Markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 
 ## 制作电子书
 
@@ -436,8 +436,8 @@ Regular Expression test application, using
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。 ![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115云客户端。 ![Freeware][Freeware Icon]
 * [360](http://c49.yunpan.360.cn/) - 360云客户端。 ![Freeware][Freeware Icon]
-* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？。 ![Freeware][Freeware Icon]
-* [owncloud](https://owncloud.org) 私有云网盘
+* [快盘](http://web.kuaipan.cn/d/mac) - 金山快盘，倒闭了？ ![Freeware][Freeware Icon]
+* [owncloud](https://owncloud.org) - 私有云网盘
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
 
 ## 输入法
@@ -498,7 +498,7 @@ Regular Expression test application, using
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。 ![Freeware][Freeware Icon]
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的OS X的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
-* [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
+* [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。 ![Freeware][Freeware Icon]
@@ -529,7 +529,7 @@ Regular Expression test application, using
     * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。
 * 密码管理
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [LastPass](https://lastpass.com/) - 密码管理器，和安全的数字笔记。
+    * [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
     * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
     * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * Finder
