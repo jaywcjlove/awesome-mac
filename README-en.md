@@ -288,6 +288,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [XMind](http://www.xmind.net) - The Most Popular Mind Mapping Tool on The Planet. ![hot][hot Icon] ![must-have][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
 * [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
+* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A rapid wireframing tool that helps you work faster and smarter.
 
 #### Other tools
 
