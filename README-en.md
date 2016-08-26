@@ -179,6 +179,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A terminal emulation which supports SSH, Telnet or other protocols.
 * [Finicky](https://johnste.github.io/finicky/) - An application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
+* [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]] 
 
 #### Editor of regular expression
 
