@@ -167,6 +167,7 @@
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
+* [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
 
 #### 正则编辑器
 
@@ -264,6 +265,8 @@
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。![star 2][star2 Icon] [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
+* [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
+* [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。
 
 #### 原型流程
 
@@ -463,6 +466,7 @@
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。![Freeware][Freeware Icon]
+* [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中![Freeware][Freeware Icon]
 
 ## 翻译工具
 
