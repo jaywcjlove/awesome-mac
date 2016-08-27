@@ -266,7 +266,7 @@
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。![star 2][star2 Icon] [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 * [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
-* [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。
+* [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。![star 5][star5 Icon]
 
 #### 原型流程
 
