@@ -168,7 +168,7 @@
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从Finder打开命令行。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
-* [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [![Open-Source Software][OSS Icon](https://sourceforge.net/projects/texstudio/)] ![Freeware][Freeware Icon]
+* [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 
 
 #### 正则编辑器
