@@ -244,7 +244,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Gerrit](https://www.gerritcodereview.com) Code Review for Git. ![Freeware][Freeware Icon]
 * [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
-## DataBase
+## Database
 
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
@@ -261,6 +261,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [JackDB](https://www.jackdb.com/) - Direct SQL access to all your data, no matter where it lives. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
+* [Datum - SQLite](http://www.macexplorer.co/en/mdb-explorer.php) - Unlock all the power of your databases in an instant. Datum is a full featured, modern, and fast SQLite manager.
 
 ## Design and Product
 
