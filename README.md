@@ -248,7 +248,7 @@
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [medis](http://getmedis.com) - 漂亮的Redis管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/luin/medis)
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
-* [Datum - SQLite](http://www.macexplorer.co/en/mdb-explorer.php) - Sqlite3数据库管理软件。
+* [Datum - SQLite](http://datumapps.com/datum.html) - Sqlite3数据库管理软件。
 
 ## 设计和产品
 

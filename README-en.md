@@ -261,7 +261,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [JackDB](https://www.jackdb.com/) - Direct SQL access to all your data, no matter where it lives. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
-* [Datum - SQLite](http://www.macexplorer.co/en/mdb-explorer.php) - Unlock all the power of your databases in an instant. Datum is a full featured, modern, and fast SQLite manager.
+* [Datum - SQLite](http://datumapps.com/datum.html) - Unlock all the power of your databases in an instant. Datum is a full featured, modern, and fast SQLite manager.
 
 ## Design and Product
 
