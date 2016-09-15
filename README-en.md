@@ -451,6 +451,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [Free Download Manager](http://www.freedownloadmanager.org/) - A powerful modern download accelerator and organizer for Windows and Mac. (FREE) ![Freeware][Freeware Icon]
+* [FOLX](http://mac.eltima.com/download-manager.html) - Folx is a free download manager for Mac OS X with a true Mac-style interface. ![Freeware][Freeware Icon]
 
 ## Online Storage
 
