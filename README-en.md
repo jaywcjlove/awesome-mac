@@ -298,7 +298,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
 * [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A rapid wireframing tool that helps you work faster and smarter.
-* [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.
+* [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
 
 #### Other tools
 
