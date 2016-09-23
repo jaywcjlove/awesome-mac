@@ -204,6 +204,7 @@
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
 * [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
+* [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 
 ## 版本控制
 
