@@ -479,6 +479,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Rocket](http://matthewpalmer.net/rocket/) - Emoji input method. ![Freeware][Freeware Icon]
 * [Emoticon Input](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - Emoticons icons or characters input method. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - Rime input method. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
+* [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujah English input method. ![Freeware][Freeware Icon]
 
 ## Web Browsers
 
