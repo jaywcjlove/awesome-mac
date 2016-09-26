@@ -456,7 +456,7 @@
 
 ## 输入法
 
-* [QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。![Freeware][Freeware Icon]
+* <del>[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。![Freeware][Freeware Icon]</del>
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。![Freeware][Freeware Icon]
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。![Freeware][Freeware Icon]
