@@ -287,6 +287,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Krita](https://krita.org/en/) - Open Source software for Concept Artists, Digital Painters, and Illustrators. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality. ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  Makes it easy to design animated and interactive user interfaces. Whether you're designing the flow of a multi-screen app, or new interactions and animations, Principle lets you create designs that look and feel amazing.
+* [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
 
 #### Prototype workflow
 
