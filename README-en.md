@@ -9,7 +9,7 @@
 
 ### Explanation
 
-[中文](README.md) | [English](README-en.md) 
+[中文](README.md) | [English](README-en.md)
 
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
@@ -78,6 +78,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
         * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
         * [project-plus](https://atom.io/packages/project-plus) - Project management, can quickly switch impassability projects, multiple projects at the same time working tool。
         * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Graphical display of regular expressions。
+        * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - Quick look in tree view。
     * Front-end
         * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
         * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
