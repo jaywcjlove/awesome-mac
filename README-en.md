@@ -421,6 +421,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
     * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [OneNote](https://www.onenote.com/) - Note-taking app by MicroSoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [Inkdrop](https://www.inkdrop.info/) - The notebook app for Markdown lovers built on top of Electron.
     * [有道云笔记](http://note.youdao.com/) - A note-taking app. It features multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [为知笔记](http://www.wiz.cn/download.html) - A note-taking app. It features multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Leanote](http://app.leanote.com) - A note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
