@@ -469,13 +469,13 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. (**Require Tencent Account, Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - Jianguo cloud client. (**Not recommended**) ![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* <del>[360](http://c49.yunpan.360.cn/) - 360 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] </del>
+* ~~[360](http://c49.yunpan.360.cn/) - 360 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ~~
 * [ownCloud](https://owncloud.org) Cloud storage.
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 
 ## Input Method
 
-* <del>[QQ Input for Chinese](http://qq.pinyin.cn/) - Produced by Tencent. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]</del>
+* ~~[QQ Input for Chinese](http://qq.pinyin.cn/) - Produced by Tencent. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]~~
 * [Sogou Input for Chinese](http://pinyin.sogou.com/mac/) - Sogou input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Baidu Input for Chinese](https://srf.baidu.com/input/mac.html) - Baidu input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Qingge Wubi Input](https://qingg.im/index.html) - Wubi input produced for iOS and Mac. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
@@ -612,10 +612,10 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 ### Black-List
 *Third party application market APP black list, there is the spread of pirated software and download, refused to start from me, welcome everyone to monitor them And adults.*
 
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
-* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
+* ~~[腾讯电脑管家](http://mac.guanjia.qq.com/)~~ - 电脑管家for Mac 带应用市场。
+* ~~[迅雷Thunder Store](http://mac.xunlei.com/app/)~~ - 迅雷Thunder for Mac 带应用市场。
+* ~~[Mac软件宝箱](http://box.macx.cn/)~~ - Macx推出软件宝箱。
+* ~~[MacHunter](http://www.machunter.net/)~~ - Mac应用市场。
 
 ## Mac App Download Sites
 *Here are some of the major software to download the site, there are a number of OSX Mac software to share the site.*
@@ -636,16 +636,16 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 ### Pirated software download site blacklist
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
-* 玩转苹果：<del>`http://www.ifunmac.com`</del>
-* Mac软件下载站：<del>`http://www.pshezi.com`</del>
-* MacPeers：<del>`http://www.macpeers.com`</del>
-* Mac志：<del>`http://www.isofts.org`</del>
-* Mac软件分享：<del>`http://www.waitsun.com`</del>
-* AppKed：<del>`http://www.macbed.com`</del>
-* 苹果软件园：<del>`http://www.maczapp.com`</del>
-* Mac精品软件：<del>`http://xclient.info/`</del>
-* Macx：<del>`http://www.macx.cn/`</del>
-* 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
+* 玩转苹果：~~`http://www.ifunmac.com`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* MacPeers：~~`http://www.macpeers.com`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* AppKed：~~`http://www.macbed.com`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* Mac精品软件：~~`http://xclient.info/`~~
+* Macx：~~`http://www.macx.cn/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 
 **[⬆ Top](#contents)**
 

@@ -453,14 +453,14 @@
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115云客户端。![Freeware][Freeware Icon]
-* <del>[360](http://c49.yunpan.360.cn/) - 360云客户端。![Freeware][Freeware Icon]</del>
-* <del>[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。 ![Freeware][Freeware Icon]</del>
+* ~~[360](http://c49.yunpan.360.cn/) - 360云客户端。![Freeware][Freeware Icon]~~
+* ~~[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。 ![Freeware][Freeware Icon]~~
 * [owncloud](https://owncloud.org) - 私有云网盘。
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
 
 ## 输入法
 
-* <del>[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。![Freeware][Freeware Icon]</del>
+* ~~[QQ输入法](http://qq.pinyin.cn/) - 腾讯出品的输入法。![Freeware][Freeware Icon]~~
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。![Freeware][Freeware Icon]
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。![Freeware][Freeware Icon]
@@ -584,10 +584,10 @@
 
 *第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
 
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
-* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
+* ~~[腾讯电脑管家](http://mac.guanjia.qq.com/)~~ - 电脑管家for Mac 带应用市场。
+* ~~[迅雷Thunder Store](http://mac.xunlei.com/app/)~~ - 迅雷Thunder for Mac 带应用市场。
+* ~~[Mac软件宝箱](http://box.macx.cn/)~~ - Macx推出软件宝箱。
+* ~~[MacHunter](http://www.machunter.net/)~~ - Mac应用市场。
 
 ## Mac软件下载网站
 
@@ -605,16 +605,16 @@
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
-* 玩转苹果：<del>`http://www.ifunmac.com`</del>
-* Mac软件下载站：<del>`http://www.pshezi.com`</del>
-* MacPeers：<del>`http://www.macpeers.com`</del>
-* Mac志：<del>`http://www.isofts.org`</del>
-* Mac软件分享：<del>`http://www.waitsun.com`</del>
-* AppKed：<del>`http://www.macbed.com`</del>
-* 苹果软件园：<del>`http://www.maczapp.com`</del>
-* Mac精品软件：<del>`http://xclient.info/`</del>
-* Macx：<del>`http://www.macx.cn/`</del>
-* 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
+* 玩转苹果：~~`http://www.ifunmac.com`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* MacPeers：~~`http://www.macpeers.com`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* AppKed：~~`http://www.macbed.com`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* Mac精品软件：~~`http://xclient.info/`~~
+* Macx：~~`http://www.macx.cn/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 
 **[⬆ 返回顶部](#目录)**
 
