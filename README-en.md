@@ -316,6 +316,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [IconKit](http://appersian.net/) - App icon generator.
 * [Snagit](https://www.techsmith.com/snagit.html) - All-in-one screenshot app. Supports scrolling capture, panoramic capture, even video and audio capture. ![tuijian][tuijian Icon]
 * [LICEcap](http://www.cockos.com/licecap/) - Record the screen and export to GIF. You can change the recording area anytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
+* [Kap](https://getkap.co/) - An open-source screen recorder built with web technology。![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share screen with GIF. ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/?noredirect) - Screen shot with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
