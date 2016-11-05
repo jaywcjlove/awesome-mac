@@ -381,7 +381,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 ## Audio and Video
 
-* [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [Kodi](https://kodi.tv/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [MPV](https://www.mpv.io/) - A free, open source, and cross-platform media player.[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [VOX Player](https://coppertino.com/vox/mac) - \#1 high-definition audio player for Mac and iPhone. Music just sounds better! ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Third party Google Play Music client. [![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
