@@ -220,7 +220,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [HyperTerm](https://hyperterm.org/) - A terminal based on Node development software, pretend bility is very high。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - Control iTunes via your terminal [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [LNav](http://lnav.org) - Log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon] 
+* [LNav](http://lnav.org) - Log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 
 ## Version control
 
@@ -454,6 +454,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. Made by YouDao. (**Broken official website**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
 * [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Made by Tencent (Not very recommended). (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
 * [MacGap](http://macgapproject.github.io/) - 桌面WebKit打包HTML、CSS、JS应用。[![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 
 ## Download Tools
 
