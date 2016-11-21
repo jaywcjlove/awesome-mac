@@ -589,7 +589,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - An app gives you a great overview of all connected disks. It also make more spaces for you by cleaning up your disk.
-* [iStat Menu](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![tuijian][tuijian Icon]
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![tuijian][tuijian Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - An HTML 5 video player. Keep your mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 * [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your mac to fall asleep.
