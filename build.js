@@ -59,7 +59,8 @@ MarkedToHTMLSave('.deploy/index.html','README.md'.toString(),function(err){
         load.start()
         ghpages.publish(path.join(__dirname, '.deploy'),{ 
             repo: 'https://github.com/jaywcjlove/awesome-mac.git',
-            branch: 'gh-pages'
+            branch: 'gh-pages',
+            message: 'Compiler generation page ' + new Date()
         }, function(err) { 
             if(err) return console.log(error('  → '+"ok!"+err));
             load.stop()
