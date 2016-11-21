@@ -384,7 +384,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 ## Audio and Video
 
 * [Kodi](https://kodi.tv/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
-* [MPV](https://www.mpv.io/) - A free, open source, and cross-platform media player. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
+* [mpv](https://www.mpv.io/) - A free, open source, and cross-platform media player. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [VOX Player](https://coppertino.com/vox/mac) - \#1 high-definition audio player for Mac and iPhone. Music just sounds better! ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Third party Google Play Music client. [![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
@@ -398,7 +398,6 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [HandBrake](https://handbrake.fr/) - A tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [MPlayerX](http://mplayerx.org) - A simple, powerful, beautiful media player. [![star 3][star3 Icon] ![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
-* [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - A simple, powerful, efficient subtitle creation software. (**Missing English UI and Docs**) ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Perian](http://perian.org/#download) - (**Retired, no longer supported**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
