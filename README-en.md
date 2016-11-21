@@ -16,6 +16,7 @@
 ![hot][hot Icon] means **hot** app;  
 ![tuijian][tuijian Icon] means **recommended** app;  
 ![must-have][bibei Icon] means **must have** app;  
+![App Store][app-store Icon] **App store** hyperlink;  
 ![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;  
 
 You may come across some non-English characters. Don't worry, those apps doesn't have an English version yet. So you might not wanna step into it.
@@ -165,6 +166,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Koala](http://koala-app.com) - A GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [CodeKit](https://incident57.com/codekit/) - Automatically compile, such as Less, Sass, CoffeeScript, TypeScript, Jade, JavaScript. Auto-refresh browsers. And so on.
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - A system preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
+* [iHosts](http://toolinbox.net/en/iHosts/) - The only /etc/hosts editor on Mac App Store. [![App Store]](https://itunes.apple.com/app/id1102004240) ![Freeware][Freeware Icon]
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - is an App for hosts management & switching.
 It is a free and open source software.[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/2ndalpha/gasmask)
@@ -661,6 +663,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 [tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
 [bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
 [red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
+[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
 [star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
 [star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
 [star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
