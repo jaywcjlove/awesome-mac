@@ -143,7 +143,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Spf13](http://vim.spf13.com/) - A set of comprehensive configuration items。
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tincta](https://mr-fridge.de/software/tincta/index.php) - Tincta is a text editor for Mac OS X. ![Freeware][Freeware Icon]
+* [Tincta](https://itunes.apple.com/us/app/tincta/id448340648) - Tincta is a text editor for Mac OS X. ![Freeware][Freeware Icon]
 
 ### IDE
 
