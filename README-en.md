@@ -176,7 +176,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - Convert swf to animation of html canvas. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - An OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nlf/dlite)
+* [DLite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nlf/dlite)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [StarUML](http://staruml.io) - Powerful UML app.
 * [Vagrant Manager](http://vagrantmanager.com) - Manage local services. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lanayotech/vagrant-manager/)
