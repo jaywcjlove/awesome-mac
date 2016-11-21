@@ -596,7 +596,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
 
 ### For Gamers
-* [openEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
+* [OpenEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
 
 ### Other
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
