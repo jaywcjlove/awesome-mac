@@ -15,7 +15,7 @@
 ![hot][hot Icon] 表示**热门**的软件；  
 ![tuijian][tuijian Icon] 表示**推荐**的软件；  
 ![必备][bibei Icon] 表示**装机必备**的软件；  
-![App Store][app-store Icon] **App store** 连接地址;
+![App Store][app-store Icon] **App store** 连接地址;  
 ![1 star][red Icon] 表示强烈推荐的必装神器，星星的数量来表达强烈的程度；
 
 ## 目录
