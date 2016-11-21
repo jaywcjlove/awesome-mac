@@ -563,7 +563,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 	* [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts.
 	* [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * **Password Management**
-	* [1password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+	* [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 	* [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
 	* [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
 	* [MacPass](http://mstarke.github.io/MacPass/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
