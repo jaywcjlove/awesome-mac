@@ -16,7 +16,7 @@
 ![hot][hot Icon] means **hot** app;  
 ![tuijian][tuijian Icon] means **recommended** app;  
 ![must-have][bibei Icon] means **must have** app;  
-![App Store][app-store Icon] **App store** hyperlink;  
+![App Store][app-store Icon] means **App store** hyperlink;  
 ![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;  
 
 You may come across some non-English characters. Don't worry, those apps doesn't have an English version yet. So you might not wanna step into it.
@@ -586,6 +586,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Monity](http://www.monityapp.com/) - A system monitoring widget for OS X. ![star 3][star3 Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - An application to manage your SSH.
 * [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
+* [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - An app gives you a great overview of all connected disks. It also make more spaces for you by cleaning up your disk.
