@@ -123,7 +123,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - Highlight color key word, very suitable for CSS code。
     * [File History](https://packagecontrol.io/packages/File%20History) - Local file history, every time modify the file will be history。
     * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - Native Javascript completion。
-    * [Json Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON formatting。
+    * [JSON Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON formatting。
     * [Git](https://packagecontrol.io/packages/Git) - Comprehensive Sublime does Text Git plug-in function。
     * [GitStatus](https://packagecontrol.io/packages/GitStatus) - Monitoring changes of files and project status in real time。
     * [Gitignore](https://packagecontrol.io/packages/Gitignore) - The Git Gitignore files are generated, commonly used built-in filter file。
