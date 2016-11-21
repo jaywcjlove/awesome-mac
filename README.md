@@ -462,6 +462,7 @@
 * ~~[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。 ![Freeware][Freeware Icon]~~
 * [owncloud](https://owncloud.org) - 私有云网盘。
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
+* [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
 
 ## 输入法
 
