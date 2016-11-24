@@ -45,69 +45,84 @@ marked.setOptions({
 
 // 删除文件夹
 exec('rm -rf .deploy');
-
+exec('mkdir .deploy');
 
 MarkedToHTMLSave('.deploy/index.html','README.md'.toString(),function(err){
     if (err) return console.log(error(err));
     console.log(notice('  → '+"ok!"));
+})
 
+MarkedToHTMLSave('.deploy/index.en.html','README-en.md'.toString(),function(err){
+    if (err) return console.log(error(err));
+    console.log(notice('  → README-en.md - '+"ok!"));
+})
 
-    MarkedToHTMLSave('.deploy/index.en.html','README-en.md'.toString(),function(err){
-        if (err) return console.log(error(err));
-        console.log(notice('  → '+"ok!"));
-        var load = loading('  Pushing code!!')
-        load.start()
-        ghpages.publish(path.join(__dirname, '.deploy'),{ 
-            repo: 'https://github.com/jaywcjlove/awesome-mac.git',
-            branch: 'gh-pages',
-            message: 'Compiler generation page ' + new Date()
-        }, function(err) { 
-            if(err) return console.log(error('  → '+"ok!"+err));
-            load.stop()
-            console.log(success('\n\n   '+"Push success!!"));
-            // 删除文件夹
-            exec('rm -rf .deploy');
-        });
-
-    })
+MarkedToHTMLSave('.deploy/editor-plugin.html','editor-plugin.md'.toString(),function(err){
+    if (err) return console.log(error(err));
+    console.log(notice('  → editor-plugin.md - '+"ok!"));
 
 })
 
+MarkedToHTMLSave('.deploy/editor-plugin-en.html','editor-plugin-en.md'.toString(),function(err){
+    if (err) return console.log(error(err));
+    console.log(notice('  → editor-plugin-en.md - '+"ok!"));
+})
 
-function MarkedToHTMLSave(_path,form_file,callback){
-    var README_str = fs.readFileSync(form_file);
-    var dirname = path.dirname(_path)
-    var basename = path.basename(_path)
-    var md_basename = path.basename(form_file)
-    // console.log("md_basename::",md_basename)
-    console.log('\n  ☆ '+_path+'\n');
-    mkdirp(dirname, function (err) {
-        if (err) return callback(err);
-        console.log(notice('  → '+dirname+"文件夹创建成功!"));
-        marked(README_str.toString(),function(err,html){
-            if (err) return callback(err);
-            console.log(notice('  → ['+form_file+"]成功转换成HTML!"));
-            html = MDhrefToPath(html);
-            fs.writeFile(_path,htmlAndStyle(html),function(err){
-                if (err) return callback(err);
-                callback(err)
-            })
-        })
+
+PushGhpage()
+
+function PushGhpage(){
+    // upload gh-page！～～
+    var load = loading('  Pushing code!!')
+    load.start()
+    ghpages.publish(path.join(__dirname, '.deploy'),{ 
+        repo: 'https://github.com/jaywcjlove/awesome-mac.git',
+        branch: 'gh-pages',
+        message: 'Compiler generation page ' + new Date()
+    }, function(err) { 
+        if(err) return console.log(error('  → '+"ok!"+err));
+        load.stop()
+        console.log(success('\n\n   '+"Push success!!"));
+        // 删除文件夹
+        exec('rm -rf .deploy');
     });
 }
 
 
-function MDhrefToPath(html){
-    var reg = new RegExp('<a[^>]*href="([^"]*\.md)"[^>]*>','ig')
-    return html.replace(reg,function(a,st){
-        // console.log(a,st)
-        var a 
 
+function MarkedToHTMLSave(_path,form_file,callback){
+    var dirname = path.dirname(_path)
+
+    var README_str = fs.readFileSync(form_file);
+    var basename = path.basename(_path)
+    var md_basename = path.basename(form_file)
+    // console.log("md_basename::",md_basename)
+    console.log('\n  ☆ '+_path+'\n');
+    marked(README_str.toString(),function(err,html){
+        if (err) return callback(err);
+        console.log(notice('  → ['+form_file+"]成功转换成HTML!"+ _path));
+        html = MDhrefToPath(html);
+        fs.writeFileSync(_path,htmlAndStyle(html),{
+            encoding:'utf8'
+        },function(err){
+            if (err) return callback(err);
+            callback(err)
+        })
+    })
+}
+
+
+function MDhrefToPath(html){
+    var reg = new RegExp('<*href="(.*?)"*>','ig')
+    return html.replace(reg,function(a,st){
         if(st.indexOf('README.md')>-1){
-            a = a.replace(st,'index.html')
+            return a.replace(st,'index.html')
         }
         if(st.indexOf('README-en.md')>-1){
-            a = a.replace(st,'index.en.html')
+            return a.replace(st,'index.en.html')
+        }
+        if(st.indexOf('editor-plugin.md')>-1 || st.indexOf('editor-plugin-en.md')>-1){
+            return a.replace(/.md#/,'.html#').replace(/.md\"\>$/,'.html">')
         }
         return a
     })
