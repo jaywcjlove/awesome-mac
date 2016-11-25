@@ -476,6 +476,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 ### GTD (Getting Things Done)
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
+* [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![tuijian][tuijian Icon]
 * [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
