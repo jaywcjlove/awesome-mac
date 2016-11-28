@@ -144,6 +144,7 @@
 * [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
+* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 
 ## 版本控制
 
@@ -511,7 +512,7 @@
 ## 远程协助
 
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 
 ## 第三方应用市场APP
 
