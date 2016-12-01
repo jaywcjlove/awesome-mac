@@ -308,6 +308,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
     * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
     * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
+    * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
 
 ## Data Recovery
 
