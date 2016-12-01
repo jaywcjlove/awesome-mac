@@ -286,15 +286,17 @@
 * [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
-* Email
-    * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
-    * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
-    * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
-    * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
-    * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
-    * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
-    * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。![Freeware][Freeware Icon]
+
+#### Email
+
+* [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
+* [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
+* [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
+* [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
+* [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
+* [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
+* [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。![Freeware][Freeware Icon]
 
 ## 数据恢复
 

@@ -300,15 +300,17 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Bitpost](https://voluntary.net/bitpost/) - A private decentralized messaging system. Instead of connecting to centralized servers(like Facebook, Gmail etc) or federated servers(like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - A team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
-* Email
-    * [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
-    * [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule
-    * [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
-    * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
-    * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
-    * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
-    * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
+
+#### Email
+
+* [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
+* [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule
+* [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
+* [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
+* [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
+* [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
+* [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
 
 ## Data Recovery
 
