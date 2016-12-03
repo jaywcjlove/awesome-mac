@@ -303,6 +303,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 #### Email
 
+* [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
 * [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule
@@ -453,6 +454,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 ## Proxy and VPN Tools
 
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - A secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks/shadowsocks)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [Lantern](https://getlantern.org) - Lantern is a free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
