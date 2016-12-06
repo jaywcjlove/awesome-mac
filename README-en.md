@@ -228,6 +228,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality. ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  Makes it easy to design animated and interactive user interfaces. Whether you're designing the flow of a multi-screen app, or new interactions and animations, Principle lets you create designs that look and feel amazing.
 * [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
+* [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
 
 #### Prototype workflow
 
