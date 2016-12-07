@@ -242,6 +242,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A rapid wireframing tool that helps you work faster and smarter.
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
+* [MindNode](http://mindnode.com/) - MindNode makes mind mapping delightful.
 
 #### Other tools
 
