@@ -230,6 +230,7 @@
 * [Framer](http://framerjs.com/) - 做交互原型的工具。![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
+* [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
 
 #### 其它工具
 
