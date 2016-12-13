@@ -108,6 +108,7 @@
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
+* [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
 
 
 #### 正则编辑器
