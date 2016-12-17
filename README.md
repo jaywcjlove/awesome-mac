@@ -51,7 +51,7 @@
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
-* [Atom](https://atom.io) - GitHub推出的开源编辑器，[Atom常用插件](editor-plugin.md#atom-plugin)。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Atom](https://atom.io) - GitHub推出的开源编辑器，[Atom常用插件](editor-plugin.md#atom-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![star 4][star4 Icon] 
 * [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin.md#sublime-text-plugin)。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Visual Studio Code](http://code.visualstudio.com) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
@@ -98,7 +98,7 @@
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把swf转为HTML5 canvas动画的系统。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
-* [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Dash](https://kapeli.com/dash) - 强大到你无法想象的API离线文档软件。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
 * [Dlite](https://github.com/nlf/dlite) - 简单的使用Docker的一个软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nlf/dlite)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
@@ -131,7 +131,7 @@
 
 ## 命令行工具
 
-* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/gnachman/iTerm2)
+* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon] 
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Oh my zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -144,7 +144,7 @@
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
 * [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
-* [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon] 
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
@@ -159,7 +159,7 @@
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
-* [GitUp](http://gitup.co/) - 一个简单功能强大的git客户端。[![star 3][star3 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
+* [GitUp](http://gitup.co/) - 一个简单功能强大的git客户端。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp) [![star 3][star3 Icon] 
 * [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
@@ -206,14 +206,14 @@
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
-* [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
     * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。![tuijian][tuijian Icon]
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。![star 2][star2 Icon] [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
+* [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon] ![star 2][star2 Icon] 
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 * [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的Web和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。![star 5][star5 Icon]
@@ -229,7 +229,7 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。![hot][hot Icon] ![必备][bibei Icon]
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。![hot][hot Icon]
-* [Framer](http://framerjs.com/) - 做交互原型的工具。![star 5][star5 Icon]![hot][hot Icon]
+* [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] ![star 5][star5 Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
@@ -245,21 +245,21 @@
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [IconKit](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12) - App图标自动生成器。
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。![star 4][star4 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]](https://github.com/justinfrankel/licecap)
-* [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 4][star4 Icon] 
+* [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
 * [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon] ![hot][hot Icon]
-* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。![Freeware][Freeware Icon]
-* [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [RightFont](http://rightfontapp.com/) - 字体管理工具。![star 4][star4 Icon] ![tuijian][tuijian Icon]
+* [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon] 
+* [RightFont](http://rightfontapp.com/) - 字体管理工具。![tuijian][tuijian Icon] ![star 4][star4 Icon] 
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。![tuijian][tuijian Icon]
 
 ## 虚拟机
 
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。![hot][hot Icon]
-* [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 4][star4 Icon] 
 * [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 * [Veertu](https://veertu.com) - Mac上最轻便的虚拟机，只有跑Windows才会收费。比较新，很多功能不支持。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
@@ -272,8 +272,8 @@
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。![Freeware][Freeware Icon]
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
 * [Skype](https://www.skype.com/) - Skype共享、跨平台的短信和电话。
-* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![star 3][star3 Icon] ![Freeware][Freeware Icon]
+* [WeiboX](http://weiboformac.sinaapp.com/) - 微博第三方Mac应用。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon] 
+* [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![Freeware][Freeware Icon] ![star 3][star3 Icon] 
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
@@ -315,8 +315,8 @@
 ## 音频和视频
 
 * [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
-* [MPV](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。 ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
-* [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [MPV](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon] ![star 5][star5 Icon] 
+* [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
@@ -327,11 +327,11 @@
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-* [MPlayerX](http://mplayerx.org) - 媒体播放器。 ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
+* [MPlayerX](http://mplayerx.org) - 媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX) ![star 3][star3 Icon] 
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [mpv](https://mpv.io/) - 媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 
 ## 书签阅读写作
 
@@ -431,7 +431,7 @@
 *这里放Mac的浏览器应用*
 
 * [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。![Freeware][Freeware Icon]
-* [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。![star 4][star4 Icon] ![Freeware][Freeware Icon]
+* [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。![Freeware][Freeware Icon] ![star 4][star4 Icon] 
 * [Firefox](http://www.firefox.com.cn/) - 火狐浏览器。![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ浏览器－腾讯出品。![Freeware][Freeware Icon]
@@ -469,9 +469,9 @@
 
 ## 其它实用工具
 
-* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fancymax/12306ForMac) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[![Open-Source Software][OSS Icon]](https://github.com/fancymax/12306ForMac) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon] ![star 5][star5 Icon] 
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。![star 4][star4 Icon] ![Freeware][Freeware Icon]
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon] ![star 4][star4 Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
@@ -508,7 +508,7 @@
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 合上盖子不眠不休，继续听歌下载。
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
 * 窗口管理
-    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon]
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
@@ -526,7 +526,7 @@
 
 ## 远程协助
 
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon] 
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 
 ## 第三方应用市场APP
@@ -537,7 +537,7 @@
 
 *这里只提供正版软件购买下载的应用商店。*
 
-* [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。![star 4][star4 Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
+* [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。 ![tuijian][tuijian Icon] ![Freeware][Freeware Icon] ![star 4][star4 Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
 * [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
 
@@ -560,7 +560,7 @@
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
+* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon] ![star 5][star5 Icon] 
 
 ### 盗版软件下载网站黑名单
 
