@@ -196,7 +196,7 @@
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
 * [Datum - SQLite](http://datumapps.com/datum.html) - Sqlite3数据库管理软件。
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon]
-* [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+* [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 
 ## 设计和产品
 
