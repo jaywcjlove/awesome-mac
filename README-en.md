@@ -208,8 +208,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 * [Datum - SQLite](http://datumapps.com/datum.html) - Unlock all the power of your databases in an instant. Datum is a full featured, modern, and fast SQLite manager.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
-* [DataGrip](http://www.jetbrains.com/datagrip/) - A database management by JetBrains.
-	* **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
+* [DataGrip](http://www.jetbrains.com/datagrip/) - A database management by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
 
 ## Design and Product
 
