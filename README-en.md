@@ -182,11 +182,12 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 #### Version control system
 
 * [GitLab](http://gitlab.com/) open source git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
+* [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free for repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
 * [Gerrit](https://www.gerritcodereview.com) Code Review for Git. ![Freeware][Freeware Icon]
-* [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Gitblit](http://www.gitblit.com/) pure java git solution. [![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
 
 ## Database
 
