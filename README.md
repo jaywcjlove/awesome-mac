@@ -170,11 +170,12 @@
 #### 版本控制系统
 
 * [GitLab](http://gitlab.com/) - 一个用于仓库管理系统的开源项目。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) phabricator支持Git、SVN、HG 基于 PHP + Mysql 的开放源代码软件开发平台。![Freeware][Freeware Icon]
-* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
+* [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务Golang版本。[![Open-Source Software][OSS Icon]](https://github.com/gogits/gogs)  ![Freeware][Freeware Icon]
 * [Gerrit](https://gerrit.rockbox.org) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
-* [GitHub](https://github.com) GitHub代码托管，项目管理，演示部署，瞧，您现在就访问GitHub。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
 
 ## 数据库
 
