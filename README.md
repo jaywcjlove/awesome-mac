@@ -414,6 +414,7 @@
 * [owncloud](https://owncloud.org) - 私有云网盘。
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
+* [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。![Freeware][Freeware Icon]
 
 ## 输入法
 
