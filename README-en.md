@@ -494,6 +494,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![tuijian][tuijian Icon]
+* [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
 * [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
 * [2Do](http://www.2doapp.com/) - A nice todo app.
