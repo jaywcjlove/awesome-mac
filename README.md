@@ -331,6 +331,7 @@
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [HandBrake](https://handbrake.fr/) - 高性能的视频编码和转换工具，具有很好的图形用户界面。[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [MPlayerX](http://mplayerx.org) - 媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX) ![star 3][star3 Icon] 
+* [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
