@@ -489,6 +489,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. ![Freeware][Freeware Icon]
+* [Paste](http://pasteapp.me) - smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac based on where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) -  is the most advanced screen mirroring software receiver for Mac.
 
