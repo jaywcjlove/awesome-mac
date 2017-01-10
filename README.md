@@ -335,7 +335,8 @@
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
+* [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] 
 
 ## 书签阅读写作
 
