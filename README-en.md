@@ -349,6 +349,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ArcTime](http://www.arctime.org/) - A simple, powerful, efficient subtitle creation software. (**Missing English UI and Docs**) ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Perian](http://perian.org/#download) - (**Retired, no longer supported**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] 
 
 ## Reading and Writing
 
