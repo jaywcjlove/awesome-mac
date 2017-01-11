@@ -564,6 +564,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 * [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [RealVNC](https://www.realvnc.com) The original and best for remote access across desktop and mobile.
+* [AnyDesk](https://anydesk.com) remote access across desktop.
 
 ## Third Party App Markets
 
