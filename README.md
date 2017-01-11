@@ -536,6 +536,7 @@
 
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon] 
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
+* [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
 
 ## 第三方应用市场APP
 
