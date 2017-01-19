@@ -375,6 +375,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [MacDown](http://macdown.uranusjr.com/) - An open source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
     * [EME](https://github.com/egoist/eme) - Recently launched a Markdown editor, interface is like Chrome browser interface, very simple。
     * [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful yet powerful text editor for your Mac
+    * [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
 * Note-taking
     * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
     * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
