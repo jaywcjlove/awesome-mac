@@ -362,6 +362,7 @@
     * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![tuijian][tuijian Icon] ![Freeware][Freeware Icon]
     * [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
     * [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
+    * [Marked 2](http://marked2app.com/) - Markdown文本预览编辑。
     * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
 * 笔记
     * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
