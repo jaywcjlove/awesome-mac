@@ -339,6 +339,14 @@
 * [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] 
 
+----
+
+* [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
+* [QQ音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
+* [虾米音乐](http://www.xiami.com/apps/mac) ![Freeware][Freeware Icon]
+* [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
+* [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
+
 ## 书签阅读写作
 
 * [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套跨平台的办公室软件套件。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![Freeware][Freeware Icon]
