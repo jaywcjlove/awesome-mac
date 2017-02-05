@@ -343,6 +343,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 * [Stringed 2](http://stringed.buenosapps.com/) - The perfect tool for every musician.
 * [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
+* [MuseScore](https://musescore.org/) -  is an open source and free music notation software. [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - A free open source audio player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://bitbucket.org/mamburu/cog/)
 * [VLC](http://www.videolan.org/index.html) - A free and open source cross-platform multimedia player as well as framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - A tool to decode/convert/play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://code.google.com/archive/p/xld/source)
