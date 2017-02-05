@@ -211,11 +211,12 @@
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
-    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+    * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。![tuijian][tuijian Icon]
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
+* [FontForge](http://fontforge.github.io/) - 字体编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon] ![star 2][star2 Icon] 
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]

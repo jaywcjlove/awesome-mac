@@ -228,6 +228,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
+* [FontForge](http://fontforge.github.io/) - Free (libre) font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [Nik Collection](https://www.google.com/intl/en/nikcollection/) - Google Nik collection. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - The Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - Open Source software for Concept Artists, Digital Painters, and Illustrators. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
