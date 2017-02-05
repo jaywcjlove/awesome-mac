@@ -338,8 +338,9 @@
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] 
+* [Synfig Studio](http://synfig.org) - 工业级、强大的2D矢量动画制作软件。[![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon] 
 
-----
+#### 云音乐播放器
 
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
 * [QQ音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
