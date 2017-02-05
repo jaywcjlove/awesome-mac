@@ -213,6 +213,7 @@
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
     * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。![tuijian][tuijian Icon]
+* [Alchemy](http://al.chemy.org/) - 开源的绘图工具软件，用于素描、会话以及一种新的绘图方式。[![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
