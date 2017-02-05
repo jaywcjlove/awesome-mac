@@ -325,6 +325,7 @@
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+* [Natron](https://natron.fr/) - 开源的视频合成软件，功能与 Adobe After Effects 或者 Nuke 类似。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Ardour](http://www.audacityteam.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Hydrogen](http://www.hydrogen-music.org/hcms/) - 专业鼓乐类工具，创建专业但简单而直观的鼓乐节目。[![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话Skype，网络流从Safari，以及更多。

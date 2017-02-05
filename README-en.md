@@ -338,6 +338,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Third party Google Play Music client. [![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Audacity](http://www.audacityteam.org/) - A free, open source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+* [Natron](https://natron.fr/) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Ardour](http://www.audacityteam.org/) - cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Hydrogen](http://www.hydrogen-music.org/hcms/) - It's main goal is to bring professional yet simple and intuitive pattern-based drum programming. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
