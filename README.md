@@ -488,6 +488,7 @@
 * [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。![Freeware][Freeware Icon]
 * [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。![Freeware][Freeware Icon]
 * [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。![Freeware][Freeware Icon]
+* [PlutoX](https://www.plutox.top/) - 一款网络调试工具，科学上网工具。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
 
 
 ## 其它实用工具
