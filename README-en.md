@@ -194,6 +194,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
 * [SQLPro Studio](http://www.sqlprostudio.com/) - A simple, powerful database manager for macOS.
+* [Bdash](https://github.com/bdash-app/bdash) - A modern SQL client application,support MySQL、 PostgreSQL (Redshift)、 BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Base 2](http://menial.co.uk/base/) - Base is an application for creating, designing, editing and browsing SQLite 3 database files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]]()

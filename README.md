@@ -182,6 +182,7 @@
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持SQL Server, Postgres, Oracle 以及MySQL等主流的数据库可视化管理工具.
+* [Bdash](https://github.com/bdash-app/bdash) - SQL客户端应用程序，支持MySQL、 PostgreSQL (Redshift)、 BigQuery、。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]]()
