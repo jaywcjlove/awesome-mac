@@ -262,6 +262,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [ImageAlpha](https://pngmini.com/) - Compress image with PNG format and remove the useless transparent. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pornel/ImageAlpha)
 * [ImageOptim](https://imageoptim.com/mac) - Compress image and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
 * [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors. ![tuijian][tuijian Icon]
+* [Mark Man](http://getmarkman.com/) - Measure & Spec Fast. ![tuijian][tuijian Icon] ![star 4][star4 Icon] 
 * [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, support Retina.
 * [ColorSchemer](http://www.colorschemer.com/) - A professional color matching application for your Mac.
 * [IconKit](http://appersian.net/) - App icon generator.
