@@ -570,7 +570,8 @@
 
 * [HackStore](http://hack-store.com/) - 一个类似于cydia的第三方Mac应用市场，平台拒绝盗版。 ![tuijian][tuijian Icon] ![Freeware][Freeware Icon] ![star 4][star4 Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
-* [homebrew-cask](http://caskroom.io) - 体验通过命令行安装Mac软件的工具。
+* [Homebrew Cask](http://caskroom.io) - 基于[Homebrew](https://brew.sh/)扩展的，通过命令行安装Mac GUI软件的工具。[![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask) ![star 5][star5 Icon] ![Freeware][Freeware Icon]
+* [Homebrew](https://brew.sh/) - 体验通过命令行安装Mac软件的工具(大部分是命令行工具)。[![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/) ![star 4][star4 Icon] ![Freeware][Freeware Icon]
 
 ### 应用商店黑名单
 
