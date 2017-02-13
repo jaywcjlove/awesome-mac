@@ -590,6 +590,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Homebrew](http://brew.sh/) - If you are familiar with Terminal, feel free to get it here.
 * [MacUpdate Desktop](https://www.macupdate.com/) - Change the way you install and update apps with the all new. ![star 4][star4 Icon]
 * [Homebrew Cask](http://caskroom.io) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. Again, if you are familiar with Terminal.
+* [Homebrew](https://brew.sh/) - The missing package manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/) ![star 4][star4 Icon] ![Freeware][Freeware Icon]
 
 ### Black-List
 *Third party application market APP black list, there is the spread of pirated software and download, refused to start from me, welcome everyone to monitor them And adults.*
