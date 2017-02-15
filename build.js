@@ -52,9 +52,9 @@ MarkedToHTMLSave('.deploy/index.html','README.md'.toString(),function(err){
     console.log(notice('  → '+"ok!"));
 })
 
-MarkedToHTMLSave('.deploy/index.en.html','README-en.md'.toString(),function(err){
+MarkedToHTMLSave('.deploy/index.zh.html','README-zh.md'.toString(),function(err){
     if (err) return console.log(error(err));
-    console.log(notice('  → README-en.md - '+"ok!"));
+    console.log(notice('  → README-zh.md - '+"ok!"));
 })
 
 MarkedToHTMLSave('.deploy/editor-plugin.html','editor-plugin.md'.toString(),function(err){
@@ -63,9 +63,9 @@ MarkedToHTMLSave('.deploy/editor-plugin.html','editor-plugin.md'.toString(),func
 
 })
 
-MarkedToHTMLSave('.deploy/editor-plugin-en.html','editor-plugin-en.md'.toString(),function(err){
+MarkedToHTMLSave('.deploy/editor-plugin-zh.html','editor-plugin-zh.md'.toString(),function(err){
     if (err) return console.log(error(err));
-    console.log(notice('  → editor-plugin-en.md - '+"ok!"));
+    console.log(notice('  → editor-plugin-zh.md - '+"ok!"));
 })
 
 
@@ -118,10 +118,10 @@ function MDhrefToPath(html){
         if(st.indexOf('README.md')>-1){
             return a.replace(st,'index.html')
         }
-        if(st.indexOf('README-en.md')>-1){
-            return a.replace(st,'index.en.html')
+        if(st.indexOf('README-zh.md')>-1){
+            return a.replace(st,'index.zh.html')
         }
-        if(st.indexOf('editor-plugin.md')>-1 || st.indexOf('editor-plugin-en.md')>-1){
+        if(st.indexOf('editor-plugin.md')>-1 || st.indexOf('editor-plugin-zh.md')>-1){
             return a.replace(/.md#/,'.html#').replace(/.md\"\>$/,'.html">')
         }
         return a
