@@ -1,85 +1,82 @@
 Plugin
 ---
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin-en.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Atom Plugin
 
-* 通用
-
-  * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
-  * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格。
-  * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
-  * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
-  * [ex-mode](https://atom.io/packages/ex-mode) - vim 模式的拓展。
-  * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
-  * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
-  * [docblockr](https://atom.io/packages/docblockr) - 编写注释好帮手。
-  * [file-icons](https://atom.io/packages/file-icons) - 美化编辑器图标。
-  * [atom-beautify](https://atom.io/packages/atom-beautify) - 自动美化代码格式。
-  * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
-  * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
-  * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
-  * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
-  * [filecolor](https://atom.io/packages/filecolor) - 不同文件类型，不同颜色显示，方便查找文件。
-  * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
-  * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
-  * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不同项目，多项目同时工作利器。
-  * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 可以图形化显示正则表达式。
-  * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - 文件列表快速查找工具。
-
-* 前端
-
-  * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
-  * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
-  * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
-  * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
-  * [tag](https://atom.io/packages/tag) - Sublime 风格的 HTML 标签自动闭合。
-  * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
-  * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
-  * [linter-jshint](https://atom.io/packages/linter-jshint) - JavaScript语法检查。
-  * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
-  * [atom-html-preview](https://atom.io/packages/atom-html-preview) - 内置Chrome浏览器写移动端非常棒。
-  * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
-
-* Python
-
-  * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
-  * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
-  * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
+  * Common plugins
+      * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
+      * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
+      * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
+      * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
+      * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
+      * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
+      * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete + paths suggestions
+      * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
+      * [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colors for improved visual grep.
+      * [atom-beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom.
+      * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
+      * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
+      * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
+      * [dracula-theme](https://atom.io/packages/dracula-theme) - Dracula beautiful color。
+      * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
+      * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
+      * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
+      * [project-plus](https://atom.io/packages/project-plus) - Project management, can quickly switch impassability projects, multiple projects at the same time working tool。
+      * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Graphical display of regular expressions。
+      * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - Quick look in tree view。
+  * Front-end
+      * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+      * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
+      * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
+      * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
+      * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
+      * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
+      * [pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
+      * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
+      * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
+      * [linter-eslint](https://atom.io/packages/linter-eslint) - Lint JavaScript on the fly, using ESLint
+      * [atom-html-preview](https://atom.io/packages/atom-html-preview) - The built-in Chrome, mobile terminal, is very good。
+      * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - You can talk with the current file output, the relative path to the target file for file call each other more。
+  * Python
+      * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python packages, variables, methods and functions with their arguments autocompletion in Atom powered by [Jedi](https://github.com/davidhalter/jedi)
+      * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
+      * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
 
 ## Sublime Text Plugin
 
-  * [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
-  * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。![star 5][star5 Icon]
-  * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
-  * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
-  * [jQuery](https://packagecontrol.io/packages/jQuery) - jQuery语法提示。
-  * [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets) - Underscore语法提示。
-  * [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - 快速编写注释。
-  * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - 智能语法分析提示。
-  * [ColorPicker](https://packagecontrol.io/packages/ColorPicker) - 快速选取颜色。
-  * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML/CSS/JS 格式化。
-  * [Alignment](https://packagecontrol.io/packages/Alignment) - 用于代码对齐。
-  * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
-  * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
-  * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
-  * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对Git的状态。![star 5][star5 Icon]
-  * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
-  * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
-  * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
-  * [Babel](https://packagecontrol.io/packages/Babel) - ES6语法高亮。
-  * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - 自动完成文件名。
-  * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP同步插件，本地与虚拟机做文件同步非常方便。
-  * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - 高亮颜色关键字，非常适合CSS编写。
-  * [File History](https://packagecontrol.io/packages/File%20History) - 本地文件历史，每次修改文件都会有历史。
-  * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - 原生JavaScript补全。
-  * [Json Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON格式化。
-  * [Git](https://packagecontrol.io/packages/Git) - Sublime Text Git插件功能比较全面。
-  * [GitStatus](https://packagecontrol.io/packages/GitStatus) - 监控更改的文件和项目状态实时提示。
-  * [Gitignore](https://packagecontrol.io/packages/Gitignore) - Git的.gitignore文件生成，内置常用过滤文件。
+  * [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin. ![star 5][star5 Icon]
+  * [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers. ![star 5][star5 Icon]
+  * [sublimelint](https://github.com/lunixbochs/sublimelint) - A framework for error highlighting. Support AppleScript, C, C++, CSS, CoffeeScript, Go, HAML, HTML, Java, JavaScript, Lua, NASM, PHP, Perl, Python, Puppet, Ruby, XML.
+  * [JsFormat](https://packagecontrol.io/packages/JsFormat) - Javascript formatting.
+  * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery.
+  * [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets) - Underscore 1.4 snippets for Sublime Text 2.
+  * [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, ActionScript, C & C++.
+  * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine.
+  * [ColorPicker](https://packagecontrol.io/packages/ColorPicker) - A multi-platform color picker plugin.
+  * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via `node.js`.
+  * [Alignment](https://packagecontrol.io/packages/Alignment) - Easy alignment of multiple selections and multi-line selections.
+  * [WakaTime](https://packagecontrol.io/packages/WakaTime) - A plugin for metrics, insights, and time tracking automatically generated from your programming activity.
+  * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - A beautiful theme, including file icons.
+  * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - Live previewer/exporter for markup files (markdown, rst, creole, textile...).
+  * [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter. ![star 5][star5 Icon]
+  * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter.
+  * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+  * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
+  * [Babel](https://packagecontrol.io/packages/Babel) - Syntax definitions for ES6 JavaScript with React JSX extensions.
+  * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - Automatically complete the file name。
+  * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP sync plug-in, local file synchronization with the virtual machine is very convenient。
+  * [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - Highlight color key word, very suitable for CSS code。
+  * [File History](https://packagecontrol.io/packages/File%20History) - Local file history, every time modify the file will be history。
+  * [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) - Native Javascript completion。
+  * [JSON Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - JSON formatting。
+  * [Git](https://packagecontrol.io/packages/Git) - Comprehensive Sublime does Text Git plug-in function。
+  * [GitStatus](https://packagecontrol.io/packages/GitStatus) - Monitoring changes of files and project status in real time。
+  * [Gitignore](https://packagecontrol.io/packages/Gitignore) - The Git Gitignore files are generated, commonly used built-in filter file。
 
 
+  
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
