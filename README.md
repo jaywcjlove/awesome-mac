@@ -271,7 +271,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Skitch](https://evernote.com/skitch/?noredirect) - Screen shot with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Snip](http://snip.qq.com/) - Efficient tool for screenshot. Supports scrolling windows capture. By Tencent. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - Upload image and share link. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
+* [iPic](https://en.toolinbox.net/iPic/) - Upload image and share link. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - clean and beautiful color theme. Work well with iTerm, JetBrains products, Vim etc. ![tuijian][tuijian Icon]
