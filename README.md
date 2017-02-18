@@ -517,6 +517,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [2Do](http://www.2doapp.com/) - A nice todo app.
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 * [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
+* [Focus](https://masterbuilders.io) - A beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12)
 
 ### Productivity
 * [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
