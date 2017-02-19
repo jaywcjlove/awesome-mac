@@ -565,6 +565,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - An HTML 5 video player. Keep your mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 * [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your mac to fall asleep.
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) – Alternative to Caffeine with better support for dark mode in Mac. ![OSS Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
 
 ### For Gamers
