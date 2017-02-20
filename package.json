@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node build.js"
+    "start": "node build/build.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,9 @@
   "homepage": "https://github.com/jaywcjlove/awesome-mac#readme",
   "devDependencies": {
     "colors-cli": "^1.0.7",
+    "ejs": "^2.5.6",
     "gh-pages": "^0.11.0",
+    "html-minifier": "^3.3.3",
     "loading-cli": "^1.0.2",
     "marked": "^0.3.6",
     "mkdirp": "^0.5.1",
