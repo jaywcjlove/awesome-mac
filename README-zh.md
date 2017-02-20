@@ -515,6 +515,7 @@
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。![tuijian][tuijian Icon]
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
+* [Focus](https://masterbuilders.io) - 一个漂亮的番茄工作法为基础的时间管理工具。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12)
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的SSH。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在Mac OS X中完全读写、修改、访问Windows NTFS硬盘、U盘等外接设备的文件。
