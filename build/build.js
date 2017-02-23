@@ -78,18 +78,18 @@ function PushGhpage(){
       .pipe(fs.createWriteStream(path.join(__dirname, '../.deploy/favicon.ico')));
     // upload gh-page！～～
     var load = loading('  Pushing code!!')
-    // load.start()
-    // ghpages.publish(path.join(__dirname, '../.deploy'),{ 
-    //     repo: 'https://github.com/jaywcjlove/awesome-mac.git',
-    //     branch: 'gh-pages',
-    //     message: 'Compiler generation page ' + new Date()
-    // }, function(err) { 
-    //     if(err) return console.log(error('  → '+"ok!"+err));
-    //     load.stop()
-    //     console.log(success('\n\n   '+"Push success!!"));
-    //     // 删除文件夹
-    //     exec('rm -rf .deploy');
-    // });
+    load.start()
+    ghpages.publish(path.join(__dirname, '../.deploy'),{ 
+        repo: 'https://github.com/jaywcjlove/awesome-mac.git',
+        branch: 'gh-pages',
+        message: 'Compiler generation page ' + new Date()
+    }, function(err) { 
+        if(err) return console.log(error('  → '+"ok!"+err));
+        load.stop()
+        console.log(success('\n\n   '+"Push success!!"));
+        // 删除文件夹
+        exec('rm -rf .deploy');
+    });
 }
 
 function MarkedToHTMLSave(_path,form_file,callback){
