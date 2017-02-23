@@ -73,20 +73,23 @@ MarkedToHTMLSave('.deploy/editor-plugin-zh.html','editor-plugin-zh.md'.toString(
 PushGhpage()
 
 function PushGhpage(){
+    //copy favicon.ico
+    fs.createReadStream(path.join(__dirname, './favicon.ico'))
+      .pipe(fs.createWriteStream(path.join(__dirname, '../.deploy/favicon.ico')));
     // upload gh-page！～～
     var load = loading('  Pushing code!!')
-    load.start()
-    ghpages.publish(path.join(__dirname, '../.deploy'),{ 
-        repo: 'https://github.com/jaywcjlove/awesome-mac.git',
-        branch: 'gh-pages',
-        message: 'Compiler generation page ' + new Date()
-    }, function(err) { 
-        if(err) return console.log(error('  → '+"ok!"+err));
-        load.stop()
-        console.log(success('\n\n   '+"Push success!!"));
-        // 删除文件夹
-        exec('rm -rf .deploy');
-    });
+    // load.start()
+    // ghpages.publish(path.join(__dirname, '../.deploy'),{ 
+    //     repo: 'https://github.com/jaywcjlove/awesome-mac.git',
+    //     branch: 'gh-pages',
+    //     message: 'Compiler generation page ' + new Date()
+    // }, function(err) { 
+    //     if(err) return console.log(error('  → '+"ok!"+err));
+    //     load.stop()
+    //     console.log(success('\n\n   '+"Push success!!"));
+    //     // 删除文件夹
+    //     exec('rm -rf .deploy');
+    // });
 }
 
 function MarkedToHTMLSave(_path,form_file,callback){
@@ -102,7 +105,23 @@ function MarkedToHTMLSave(_path,form_file,callback){
         if (err) return callback(err);
         console.log(notice('  → ['+form_file+"]成功转换成HTML!"+ _path));
         html = MDhrefToPath(html);
-        var data =  {html: html};
+
+        var title="",description="",keywords="";
+        if (_path.indexOf('zh.html')>0){
+          title = "精品Mac应用分享推荐 - Awesome Mac";
+          description = "收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac";
+          keywords = "mac,osx,app,mac软件,awesome mac,苹果软件下载,免费软件,mac免费软件下载,精品mac应用";
+        }else{
+          title = "Awesome Mac application sharing recommendation - Awesome Mac";
+          description = "A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac";
+          keywords = "mac,osx,app,softwares,applications,mac softwares,awesome mac,free softwares,Freeware";
+        }
+        var data =  {
+          html: html,
+          title: title,
+          description:description,
+          keywords:keywords
+        };
         var options = {
             // delimiter: '$'
         };
