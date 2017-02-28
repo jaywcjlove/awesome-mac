@@ -574,6 +574,7 @@
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载App，跟踪优惠信息。![star 4][star4 Icon]
 * [Homebrew Cask](http://caskroom.io) - 基于[Homebrew](https://brew.sh/)扩展的，通过命令行安装Mac GUI软件的工具。[![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask) ![star 5][star5 Icon] ![Freeware][Freeware Icon]
 * [Homebrew](https://brew.sh/) - 体验通过命令行安装Mac软件的工具(大部分是命令行工具)。[![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/) ![star 4][star4 Icon] ![Freeware][Freeware Icon]
+* [MacPorts](https://www.macports.org/) - 一个软件包管理系统，可用于简化OS X和Darwin操作系统内软件的安装。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/) 
 
 ### 应用商店黑名单
 
