@@ -82,7 +82,7 @@ function PushGhpage(){
     ghpages.publish(path.join(__dirname, '../.deploy'),{ 
         repo: 'https://github.com/jaywcjlove/awesome-mac.git',
         branch: 'gh-pages',
-        message: 'Compiler generation page ' + new Date()
+        message: 'MacOSX software list update, Compiler generation page.' + new Date()
     }, function(err) { 
         if(err) return console.log(error('  → '+"ok!"+err));
         load.stop()
