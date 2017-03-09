@@ -224,6 +224,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Sketch](http://www.sketchapp.com/) - Professional Digital Design for Mac. ![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
 * [FLINTO](https://www.flinto.com/) - Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps. ![tuijian][tuijian Icon]
+* [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![tuijian][tuijian Icon]
 * [Alchemy](http://al.chemy.org/) - Alchemy is an open drawing project aimed at exploring how we can sketch, draw, and create on computers in new ways. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
