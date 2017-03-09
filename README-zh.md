@@ -214,6 +214,7 @@
 * [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon] 
     * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [FLINTO](https://www.flinto.com/) - 快速制作高保真的互交原型工具，支持Sketch导入。 ![tuijian][tuijian Icon]
+* [Kite](https://kiteapp.co/) - 一个强大的动画制作工具制作Mac和iOS原型中的应用。 ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。![tuijian][tuijian Icon]
 * [Alchemy](http://al.chemy.org/) - 开源的绘图工具软件，用于素描、会话以及一种新的绘图方式。[![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称Linux下的PhotoShop，同时有Mac版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
