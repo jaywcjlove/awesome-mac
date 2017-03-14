@@ -26,6 +26,21 @@
     del code{text-decoration: inherit; } 
     code::before, code::after, tt::before, tt::after{letter-spacing: -0.2em; content: "\00a0"; } 
     del{color: #727272; }  
+    ul{list-style-type: square;} 
+    ul ul{list-style-type:circle;} 
+    ul ul ul{list-style-type:disc; }
+    .totop{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: inline-block;
+        background: rgba(0, 0, 0, 0.74);
+        padding: 10px;
+        border-radius: 3px;
+        z-index: 9999;
+        color: #fff;
+        font-size: 10px;
+    }
     a.github-corner {position: fixed; top: 0; right: 0; } 
     .github-corner svg{fill:#e1e1e1;color:#000;position:absolute;top:0;border:0;right:0;z-index:99;width:4.375rem;height:4.375rem}
     .github-corner:hover .octo-arm{-webkit-animation:octocat-wave 560ms ease-in-out;animation:octocat-wave 560ms ease-in-out}
@@ -39,14 +54,9 @@
         20%,60%{-webkit-transform:rotate(-25deg);transform:rotate(-25deg)}
         40%,80%{-webkit-transform:rotate(10deg);transform:rotate(10deg)}
     }
-    ul{list-style-type: square;} 
-    ul ul{list-style-type:circle;} 
-    ul ul ul{
-        list-style-type:disc;
-    }
     </style>
 </head>
-<body>
+<body id="totop">
 <a href="https://github.com/jaywcjlove/awesome-mac" target="_blank" class="github-corner"> 
     <svg viewBox="0 0 250 250">
     <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -56,5 +66,7 @@
 </a>
 <article class="markdown-body">
 <%- html %>
-</article></body>
+</article>
+<a href="#totop" class="totop">Top</a>
+</body>
 </html>
