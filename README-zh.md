@@ -82,6 +82,7 @@
 * [Xamarin Studio](https://www.xamarin.com/studio) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
 * [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 * [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 
 ## 开发者工具
 
