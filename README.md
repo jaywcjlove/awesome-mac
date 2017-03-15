@@ -171,12 +171,12 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [GitHub Desktop](https://desktop.github.com/) - Github official GUI. ![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - The best way to organize your Github Stars.
 * [GitUp](http://gitup.co/) - A simple and powerful git client. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
-* [Hub](https://hub.github.com/) -Hub is a command-line wrapper for git that makes you better at GitHub. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
+* [Hub](https://hub.github.com/) -Hub is a command-line wrapper for git that makes you better at GitHub. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 * [Versions](http://www.versionsapp.com/) - Mac Subversion Client (SVN).
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Best Mac SVN Client.
-
+* [SmartGit](http://www.syntevo.com/smartgit/) -  is a Git client with support.   
 
 #### Version control system
 

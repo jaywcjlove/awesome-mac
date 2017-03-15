@@ -161,11 +161,12 @@
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - GitHub的star功能弱，比如分类，本地组织你的GitHub star!
 * [GitUp](http://gitup.co/) - 一个简单功能强大的git客户端。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon] ![star 3][star3 Icon] 
-* [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
+* [Hub](https://hub.github.com/) - 将GitHub接口和git命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的Git跨平台客户端。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tower2](https://www.git-tower.com/) - 最强大的Git客户端。
 * [Versions](http://www.versionsapp.com/) - Mac上最好的SVN管理工具。
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac上最佳的SVN管理工具。
+* [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 Github服务。
 
 
 #### 版本控制系统
