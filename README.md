@@ -545,6 +545,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [MacPass](http://mstarke.github.io/MacPass/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
 * **Finder**
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
+    * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - An all-around file management app.
     * [TotalFinder](http://totalfinder.binaryage.com/) - A Chrome-like app as finder sustitute.
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adding tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
