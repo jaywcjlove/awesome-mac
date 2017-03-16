@@ -557,6 +557,7 @@
     * [MacPass](http://mstarke.github.io/MacPass/) - 密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
+    * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。![Freeware][Freeware Icon]
