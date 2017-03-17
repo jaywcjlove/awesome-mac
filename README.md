@@ -444,8 +444,10 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * ~~[360](http://c49.yunpan.360.cn/) - 360 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ~~
 * [ownCloud](https://owncloud.org) Cloud storage.
+* [NextCloud](https://nextcloud.com/) - Nextcloud is an actively maintained fork of ownCloud, faster and completely open source ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 * [Seafile](https://www.seafile.com/) - Reliable and High Speed File Sync and Share.![Freeware][Freeware Icon]
+
 
 ## Input Method
 
