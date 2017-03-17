@@ -441,7 +441,8 @@
 * [115](http://pc.115.com/) - 115云客户端。![Freeware][Freeware Icon]
 * ~~[360](http://c49.yunpan.360.cn/) - 360云客户端。![Freeware][Freeware Icon]~~
 * ~~[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。 ![Freeware][Freeware Icon]~~
-* [owncloud](https://owncloud.org) - 私有云网盘。
+* [ownCloud](https://owncloud.org) - 私有云网盘。
+* [NextCloud](https://nextcloud.com/) - 基于ownCloud完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
 * [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。![Freeware][Freeware Icon]
