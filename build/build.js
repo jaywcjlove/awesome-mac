@@ -106,21 +106,15 @@ function MarkedToHTMLSave(_path,form_file,callback){
         console.log(notice('  → ['+form_file+"]成功转换成HTML!"+ _path));
         html = MDhrefToPath(html);
 
-        var title="",description="",keywords="";
+        var title="",description="",keywords="",lang;
         if (_path.indexOf('zh.html')>0){
-          title = "精品Mac应用分享推荐 - Awesome Mac";
-          description = "收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac";
-          keywords = "mac,osx,app,mac软件,awesome mac,苹果软件下载,免费软件,mac免费软件下载,精品mac应用";
+          lang="zh";
         }else{
-          title = "Awesome Mac application sharing recommendation - Awesome Mac";
-          description = "A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac";
-          keywords = "mac,osx,app,softwares,applications,mac softwares,awesome mac,free softwares,Freeware";
+          lang="en";
         }
         var data =  {
-          html: html,
-          title: title,
-          description:description,
-          keywords:keywords
+          lang:lang,
+          html: html
         };
         var options = {
             // delimiter: '$'
