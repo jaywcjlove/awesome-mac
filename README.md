@@ -120,6 +120,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [MJML](https://mjmlio.github.io/mjml-app/) - Simplify the way people design responsive emails. The only framework that makes responsive-email easy. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [TeXstudio](http://www.texstudio.org) - An integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Vagrant](https://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
+* [FinderGo](https://github.com/onmyway133/FinderGo) 🐢 Open terminal quickly from Finder [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 
 #### Editor of regular expression
 
