@@ -474,6 +474,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - Ōryōki, small web browser with a thin interface. This is an experimental project, currently in development. ![Freeware][Freeware Icon]
+* [Brave](https://brave.com/) - Browse faster and safer with Brave. ![Freeware][Freeware Icon]
 
 ## Translation Tools
 *(Or you could just use Mac OS built-in dictionary)*

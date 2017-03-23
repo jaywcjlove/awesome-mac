@@ -472,6 +472,7 @@
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - Opera开发商出品新的浏览器。![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - 小的web浏览器。这是一个试验性的项目，目前正在开发中![Freeware][Freeware Icon]
+* [Brave](https://brave.com/) - Browse faster and safer with Brave. ![Freeware][Freeware Icon]
 
 ## 翻译工具
 
