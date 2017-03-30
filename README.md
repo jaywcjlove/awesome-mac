@@ -502,6 +502,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [风驰VPN](http://fengchinet2.com/) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 * [PlutoX](https://www.plutox.top/) - An application that connects you to the VPN. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
+* [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 
 ## Utilities
 ### General Tools
