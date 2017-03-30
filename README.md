@@ -270,6 +270,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [IconKit](http://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
 * [Snagit](https://www.techsmith.com/snagit.html) - All-in-one screenshot app. Supports scrolling capture, panoramic capture, even video and audio capture. ![tuijian][tuijian Icon]
 * [GifCapture](https://github.com/onmyway133/GifCapture) Gif capture app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
+* [APNGb](https://github.com/mancunianetz/APNGb) - .apng image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [LICEcap](http://www.cockos.com/licecap/) - Record the screen and export to GIF. You can change the recording area anytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
 * [Kap](https://getkap.co/) - An open-source screen recorder built with web technology。![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share screen with GIF. ![Freeware][Freeware Icon]
