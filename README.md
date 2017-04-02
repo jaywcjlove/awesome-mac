@@ -178,6 +178,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Versions](http://www.versionsapp.com/) - Mac Subversion Client (SVN).
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Best Mac SVN Client.
 * [SmartGit](http://www.syntevo.com/smartgit/) -  is a Git client with support.   
+* [GitKraken](https://www.gitkraken.com/) -  The most popular Git GUI for Windows, Mac AND Linux. ![hot][hot Icon] ![tuijian][tuijian Icon] 
 
 #### Version control system
 
@@ -187,7 +188,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [phabricator](https://phabricator.com) Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
 * [Gerrit](https://www.gerritcodereview.com) Code Review for Git. ![Freeware][Freeware Icon]
-* [Gitblit](http://www.gitblit.com/) pure java git solution. [![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
+* [Gitblit](http://www.gitblit.com/) pure java git solution. [![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon] ![must-have][bibei Icon] ![hot][hot Icon]
 
 ## Database
 
