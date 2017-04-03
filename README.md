@@ -394,6 +394,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful yet powerful text editor for your Mac
     * [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
     * [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience 
+    * [Cmd Markdown](https://www.zybuluo.com/cmd/) - Cmd Markdown Open the journey of excellence. ![Freeware][Freeware Icon]
 * Note-taking
     * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
     * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
