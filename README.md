@@ -522,6 +522,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Paste](http://pasteapp.me) - smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac based on where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) -  is the most advanced screen mirroring software receiver for Mac.
+* [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 
 ### GTD (Getting Things Done)
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
