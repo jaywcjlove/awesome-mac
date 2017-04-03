@@ -572,6 +572,7 @@
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。![Freeware][Freeware Icon]
+    * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 
 ## 远程协助
 
