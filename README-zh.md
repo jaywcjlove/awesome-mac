@@ -415,6 +415,7 @@
 
 ## 软件打包工具
 
+* [create-dmg](https://github.com/sindresorhus/create-dmg) - 快速创建一个压缩镜像文件。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。[![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon] ![hot][hot Icon]
