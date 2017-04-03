@@ -524,7 +524,7 @@
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-* [Keka](http://www.kekaosx.com) - 压缩支持格式：7z, Zip, Tar, Gzip, Bzip2, DMG, ISO。解压支持格式：RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Keka](http://www.kekaosx.com) - 一个免费的 macOS 文件解压缩程序。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。![tuijian][tuijian Icon]
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
