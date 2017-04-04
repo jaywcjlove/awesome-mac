@@ -254,6 +254,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - OmniGraffle - diagramming and graphic design for Mac, iPhone, and iPad.
 * [XMind](http://www.xmind.net) - The Most Popular Mind Mapping Tool on The Planet. ![hot][hot Icon] ![must-have][bibei Icon]
+* [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts. 
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
 * [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A rapid wireframing tool that helps you work faster and smarter.

@@ -244,6 +244,7 @@
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。![hot][hot Icon] ![必备][bibei Icon]
+* [Lighten](http://lighten.xmind.net/) - XMind出品的一款实用的思维导图软件。
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。![hot][hot Icon]
 * [Framer](http://framerjs.com/) - 做交互原型的工具。![hot][hot Icon] ![star 5][star5 Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
