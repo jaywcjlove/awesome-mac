@@ -240,7 +240,7 @@
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。![tuijian][tuijian Icon]
 * [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
 * [Axure RP 8](http://www.axure.com) - 画原型图工具，团队协作SVN方便好用。![hot][hot Icon]
-* [pencil](http://pencil.evolus.vn/) - 开源免费制作软件原型的工具 [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
+* [pencil](http://pencil.evolus.vn/) - 开源免费制作软件原型的工具 [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) ![Freeware][Freeware Icon]
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。![hot][hot Icon] ![必备][bibei Icon]
