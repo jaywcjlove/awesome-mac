@@ -493,7 +493,8 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
 * [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [海词词典](http://cidian.dict.cn/mac.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
+* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)  
+* [Grammarly](https://app.grammarly.com/) - Refine your english
 
 ## Proxy and VPN Tools
 
