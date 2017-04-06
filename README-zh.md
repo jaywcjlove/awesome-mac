@@ -387,6 +387,7 @@
     * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。![hot][hot Icon]
     * [Vienna](http://www.vienna-rss.org/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
+    * [texpad](https://www.texpad.com/) - 研究很难，写作应该容易。 
 * Markdown
     * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
