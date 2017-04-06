@@ -137,6 +137,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer.  [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Charles](https://www.charlesproxy.com/) - A proxy tool which supports checking all the requests with http or https protocol.
 * [James](https://github.com/james-proxy/james) - Open source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
+* [mitmproxy](https://mitmproxy.org/) - An interactive intercepting HTTP proxy for penetration testers and software developers [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Insomnia 3.0](http://insomnia.rest/) - A beautiful HTTP testing tool. ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/REST endpoints and it's more beautiful than PostMan. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - An advanced HTTP client.
