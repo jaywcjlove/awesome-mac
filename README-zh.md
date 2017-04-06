@@ -380,6 +380,7 @@
 * [iChm](http://www.robinlu.com/ichm) - 读chm文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Skim](http://www.hewbo.com/chm-reader.html) - is a PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]

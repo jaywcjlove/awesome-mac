@@ -383,6 +383,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [iChm](http://www.robinlu.com/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read your CHM documents. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Skim](http://www.hewbo.com/chm-reader.html) - is a PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
