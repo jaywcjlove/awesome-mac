@@ -479,7 +479,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 *Browsers on Mac OS*
 
-* [Safari](http://www.apple.com/cn/safari/) - Build-in browser of Mac OS. ![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - Firefox. ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
