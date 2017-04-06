@@ -200,6 +200,7 @@
 * [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件，内嵌MongoShell，ES6语法，流畅查询及智能感知。![Freeware][Freeware Icon]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
 * [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。![Freeware][Freeware Icon]
+* [Mongotron](http://mongotron.io/) - 使用Electron和Angular开发的MongoDB图形化客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/officert/mongotron)
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个Chrome插件，是MySQL开发的跨平台、可视化数据库工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [JackDB](https://www.jackdb.com/) - 直接的SQL访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [medis](http://getmedis.com) - 漂亮的Redis管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/luin/medis)
