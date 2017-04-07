@@ -549,6 +549,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Focus](https://masterbuilders.io) - A beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12)
 
 ### Productivity
+
 * [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/tekezo/Karabiner)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
@@ -576,6 +577,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
 ### Nice to have
+
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - An application to show the current shortcuts. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - An application makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
@@ -602,9 +604,11 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Coolant](https://coolantformac.com) - A menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 
 ### For Gamers
+
 * [OpenEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
 
 ### Other
+
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 
 ## Remote Login
@@ -615,9 +619,10 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 ## Third Party App Markets
 
-* If you came across some websites offering pirate software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, authentic only :)
+If you came across some websites offering pirate software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, authentic only :)
 
 ### Get Apps
+
 *Here are some of the major software download sites, there are a number of OSX Mac software to share the site*
 
 * [MacUpdate Desktop](https://www.macupdate.com/) - Change the way you install and update apps with the all new. ![star 4][star4 Icon]
@@ -626,6 +631,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [MacPorts](https://www.macports.org/) - The MacPorts Project is an open-source community initiative to design an easy-to-use  system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 
 ### Black-List
+
 *Third party app market black list*
 
 * ~~[腾讯电脑管家](http://mac.guanjia.qq.com/)~~ - 电脑管家for Mac 带应用市场。
@@ -634,6 +640,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * ~~[MacHunter](http://www.machunter.net/)~~ - Mac应用市场。
 
 ## Mac App Download Sites
+
 *Here are some of the major software to download the site, there are a number of OSX Mac software to share the site.*
 
 ### Genuine / Introduction
