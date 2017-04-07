@@ -522,6 +522,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 * [PlutoX](https://www.plutox.top/) - An application that connects you to the VPN. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
+* [Shimo](https://www.shimovpn.com/) - An application that connects to a lot of VPNs.
 
 ## Utilities
 ### General Tools
@@ -536,6 +537,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac based on where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) -  is the most advanced screen mirroring software receiver for Mac.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
+
 
 ### GTD (Getting Things Done)
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
