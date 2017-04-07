@@ -568,6 +568,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts.
     * [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
     * [Magnet](http://magnet.crowdcafe.com/) - A window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
+
 * **Password Management**
     * [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
