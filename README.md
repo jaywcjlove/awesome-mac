@@ -175,7 +175,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 
 #### GUI
 
-* [Fork](https://github.com/Shikkic/gitbar) - a fast and friendly git client for Mac. ![Freeware][Freeware Icon]
+* [Fork](https://git-fork.com/) - a fast and friendly git client for Mac. ![Freeware][Freeware Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - Open Source，display Github contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - Github official GUI. ![Freeware][Freeware Icon]
 * [Oh My Star](http://www.ohmystarapp.com/) - The best way to organize your Github Stars.
