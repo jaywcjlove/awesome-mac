@@ -340,7 +340,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [N1](https://www.nylas.com/n1) - An extensible, open source mail app, free for developers and $7/month for Pro.
 * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
-* [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
+* [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface.
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
 
 ## Data Recovery
