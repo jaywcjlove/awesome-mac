@@ -511,6 +511,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [Lantern](https://getlantern.org) - Lantern is a free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
 * [鱼摆摆](https://ybb1024.com/) - An application for the access to open internet.
+* [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - A free, open source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - An application for the access to open internet. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Surge](http://surge.run/manual/) - Surge is a web developer tool and proxy utility for iOS 9. ![Freeware][Freeware Icon]
