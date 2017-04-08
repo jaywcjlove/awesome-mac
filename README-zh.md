@@ -327,7 +327,7 @@
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
-* [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
+* [Newton(原Cloudmagic)](https://newtonhq.com) - 界面非常简洁的一个邮件客户端。
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。![Freeware][Freeware Icon]
 
 ## 数据恢复
