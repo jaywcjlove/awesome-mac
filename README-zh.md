@@ -522,7 +522,7 @@
 * [PlutoX](https://www.plutox.top/) - 一款网络调试工具，科学上网工具。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
 * [tinc](https://www.tinc-vpn.org) - VPN软件. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com/) - 连接大量VPN的应用
-
+* [V2Ray](https://www.v2ray.com/) - 原生支持Socks、HTTP、Shadowsocks、VMess 等协议。
 
 ## 其它实用工具
 
