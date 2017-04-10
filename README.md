@@ -520,7 +520,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [LoCoVPN](https://www.locovpn.co/mannul/) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [GTX加速器](http://www.jsqgtx.cc/DownLoad) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [GreenVPN](http://www.evergreenvpn.com/) - A powerful and fun tools that helps you to solve any network issues. (Mainly used for the access to open internet) ![Freeware][Freeware Icon]
+* [GreenVPN](https://www.greenjsq.me/) - A powerful and fun tools that helps you to solve any network issues. (Mainly used for the access to open internet) ![Freeware][Freeware Icon]
 * [风驰VPN](http://fengchinet2.com/) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 * [PlutoX](https://www.plutox.top/) - An application that connects you to the VPN. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
