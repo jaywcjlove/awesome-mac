@@ -394,7 +394,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
     * [ReadKit](http://readkitapp.com/) - Have all your reading in one place.
     * [Reeder 3](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-    * [Vienna](http://www.vienna-rss.org/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+    * [Vienna](http://www.vienna-rss.com/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
     * [texpad](https://www.texpad.com/) - Research is hard, writing should be easy.
 * Markdown
     * [Mou](http://25.io/mou/) - A Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
