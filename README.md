@@ -611,6 +611,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) – Alternative to Caffeine with better support for dark mode in Mac. ![OSS Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
 * [Coolant](https://coolantformac.com) - A menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
+* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
 
 ### For Gamers
 
