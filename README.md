@@ -393,13 +393,8 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
     * [ReadKit](http://readkitapp.com/) - A Mac read later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
     * [Reeder 3](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-<<<<<<< HEAD
     * [Vienna](http://www.vienna-rss.com/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
     * [texpad](https://www.texpad.com/) - Research is hard, writing should be easy.
-=======
-    * [Vienna](http://www.vienna-rss.org/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
-    * [texpad](https://www.texpad.com/) - An editor and a productivity tool for academic and professional writing.
->>>>>>> Style, wording and description updates
 * Markdown
     * [Mou](http://25.io/mou/) - A Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Marp](https://yhatt.github.io/marp/) - A Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
