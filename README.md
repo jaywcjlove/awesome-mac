@@ -578,6 +578,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
     * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
     * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
     * [MacPass](http://mstarke.github.io/MacPass/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+    * [Keeweb](https://keeweb.info/) - pretty web/desktop interface for keepass, ![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * **Finder**
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
     * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
