@@ -124,6 +124,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [Vagrant](https://www.vagrantup.com) - A tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
 * [FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Localname](http://localname.io/) - Provide access to your local development server ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [LaunchRocket](https://github.com/jimbojsb/launchrocket) - brew services management in Mac System Preferences. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 
 #### Editor of regular expression
 
