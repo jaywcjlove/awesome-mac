@@ -577,6 +577,7 @@
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你CPU100%让Mac电脑过热电池耗尽的菜单应用程序。
 * [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
+* [Qbserve](https://qotoqot.com/qbserve/) - 观察你如何度过你的时间。
 * 窗口管理
     * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon]
     * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。

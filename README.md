@@ -565,6 +565,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [BetterTouchTool](http://www.bettertouchtool.net/) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Qbserve](https://qotoqot.com/qbserve/) - Automatic Private Time Tracking.
 * **Window Management**
     * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
