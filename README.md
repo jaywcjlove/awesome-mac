@@ -106,6 +106,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/2ndalpha/gasmask)
 * [DiffMerge](http://sourcegear.com/diffmerge/) - An application to visually compare and merge files. ![Freeware][Freeware Icon]
 * [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. 
+* [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/better-rename-9/id414209656)
 * [PPRows](https://github.com/jkpang/PPRows) - It Can Calculate how many lines of code you write on Mac. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - A powerful compare tool for text, images and folders. It works perfectly with git, svn or other version control tools.
