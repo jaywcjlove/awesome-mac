@@ -594,6 +594,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 ### Nice to have
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
+* [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 * [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - An application makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 
