@@ -77,6 +77,7 @@ for the 21st Century by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin). ![s
 * [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tincta](https://itunes.apple.com/us/app/tincta/id448340648) - Tincta is a text editor for Mac OS X. ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
+* [Chocolat](https://chocolatapp.com/) Native text editor.
 
 ### IDE
 
