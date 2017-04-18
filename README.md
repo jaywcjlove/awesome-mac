@@ -294,7 +294,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Snip](http://snip.qq.com/) - An application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - Easily upload images and save markdown links. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
-* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc. ![tuijian][tuijian Icon]
 
