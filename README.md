@@ -25,27 +25,27 @@ You may come across some non-English characters. Those apps don't have an Englis
 - [Development Tools](#development-tools)
 - [Test Tools](#test-tools)
 - [Command Line Tools](#command-line-tools)
-- [Version Control](#version-control)
-- [Database](#database)
+- [Version Control Systems](#version-control-systems)
+- [Databases](#databases)
 - [Design and Product](#design-and-product)
 - [Virtual Machines](#virtual-machines)
 - [Communication](#communication)
-- [Data Recovery](#data-recovery)
-- [Audio and Video](#audio-and-video)
-- [Reading and Writing](#reading-and-writing)
-- [FTP Clients](#ftp-clients)
-- [Application package tool](#application-package-tool)
-- [Web Development](#web-development)
+- [Data Recovery Tools](#data-recovery-tools)
+- [Audio and Video Tools](#audio-and-video-tools)
+- [Reading and Writing Tools](#reading-and-writing-tools)
 - [Ebooks](#ebooks)
-- [Download Tools](#download-tools)
+- [FTP Clients](#ftp-clients)
+- [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
+- [Development Tools](#development-tools)
+- [Download Tools](#download-management-tools)
 - [Online Storage](#online-storage)
-- [Input Method](#input-method)
+- [Input Methods](#input-methods)
 - [Web Browsers](#web-browsers)
 - [Translation Tools](#translation-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
 - [Utilities](#utilities)
-- [Remote Login](#remote-login)
-- [Third-Party App Markets](#third-party-app-markets)
+- [Remote Login Software](#remote-login-software)
+- [Third Party App Markets](#third-party-app-markets)
 - [Mac App Download Sites](#mac-app-download-sites)
 
 
@@ -137,7 +137,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Reggy](http://reggyapp.com/) - An open-source regular expression editor. [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - A development tool for regular expressions. ![hot][hot Icon]
 
-## Test Tools
+#### Test Tools
 
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer.  [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Charles](https://www.charlesproxy.com/) - An HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
