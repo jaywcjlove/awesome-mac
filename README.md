@@ -239,6 +239,7 @@ It is a free and open-source software.[![Open-Source Software][OSS Icon]](https:
 * [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Sketch](http://www.sketchapp.com/) - Professional digital design for mac. ![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+    * [Measure](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [FLINTO](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![tuijian][tuijian Icon]
 * [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![tuijian][tuijian Icon]
