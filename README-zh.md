@@ -157,6 +157,7 @@
 * [HyperTerm](https://hyperterm.org/) - 一款基于Node开发的终端软件，逼格很高。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的iTunes。[![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - 为MySQL命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
+* [m-cli](https://github.com/rgcr/m-cli) - 用于macOS的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的OS X系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
