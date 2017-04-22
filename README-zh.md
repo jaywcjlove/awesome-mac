@@ -395,13 +395,13 @@
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Skim](http://www.hewbo.com/chm-reader.html) - is a PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
+* [texpad](https://www.texpad.com/) - Mac下非常棒的LaTeX编辑器。 支持自动编译预览，自动补全等。
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
     * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
     * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。![hot][hot Icon]
     * [Vienna](http://www.vienna-rss.com/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
-    * [texpad](https://www.texpad.com/) - 研究很难，写作应该容易。 
 * Markdown
     * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
