@@ -377,6 +377,8 @@
 * [Perian](http://perian.org/#download) - 让QuickTime播放所有常见格式的免费插件。 ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Synfig Studio](http://synfig.org) - 工业级、强大的2D矢量动画制作软件。[![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
+* [Aegisub](http://www.aegisub.org/) - 免费、开源、跨平台的专业字幕编辑软件，可以快速打轴，制作特效字幕等，字幕组必备。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 4][star4 Icon]
+* [iFFmpeg](http://www.iffmpeg.com/) - MacOS 上功能强大、易用的视频压制软件。 ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 
 #### 云音乐播放器
 
