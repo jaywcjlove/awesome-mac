@@ -537,6 +537,7 @@
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。![Freeware][Freeware Icon]
 * [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。![Freeware][Freeware Icon]
 * [GreenVPN](https://www.greenjsq.me/) - 注册激活送免费VPN加速流量。![Freeware][Freeware Icon]
+* [WiseVPN](https://www.wisevpn.net) - 无限流量，免费VPN。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/%E6%99%BA%E8%A1%8Cvpn-%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F-%E5%85%8D%E8%B4%B9vpn/id1213730464)
 * [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。![Freeware][Freeware Icon]
 * [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。![Freeware][Freeware Icon]
 * [PlutoX](https://www.plutox.top/) - 一款网络调试工具，科学上网工具。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
