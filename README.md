@@ -408,7 +408,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
     * [ReadKit](http://readkitapp.com/) - A Mac read later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
     * [Reeder 3](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-    * [Vienna](http://www.vienna-rss.com/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+    * [Vienna](http://viennarss.github.io/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 * Markdown
     * [Mou](http://25.io/mou/) - A Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Marp](https://yhatt.github.io/marp/) - A Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
