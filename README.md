@@ -210,6 +210,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
+* [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - Is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. 
 * [SQLPro Studio](http://www.sqlprostudio.com/) - A simple, powerful database manager for macOS.
 * [Bdash](https://github.com/bdash-app/bdash) - A modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL client for Mac.

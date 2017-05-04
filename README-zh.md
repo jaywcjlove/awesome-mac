@@ -200,6 +200,7 @@
 
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
+* [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - 一个数据库设计工具，它帮助创建高质素的概念、逻辑和物理数据模型。
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持SQL Server, Postgres, Oracle 以及MySQL等主流的数据库可视化管理工具.
 * [Bdash](https://github.com/bdash-app/bdash) - SQL客户端应用程序，支持MySQL、 PostgreSQL (Redshift)、 BigQuery、。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。
