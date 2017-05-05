@@ -582,6 +582,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [BetterTouchTool](http://www.bettertouchtool.net/) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Qbserve](https://qotoqot.com/qbserve/) - Automatic Private Time Tracking.
+* [Bear Writer](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * **Window Management**
     * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
