@@ -401,6 +401,7 @@
 * [Skim](http://skim-app.sourceforge.net) - is a PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 * [texpad](https://www.texpad.com/) - Mac下非常棒的LaTeX编辑器。 支持自动编译预览，自动补全等。
+* [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
     * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
