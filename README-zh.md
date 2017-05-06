@@ -452,6 +452,7 @@
 * [Finicky](https://johnste.github.io/finicky/) - Web应用程序转化为苹果的应用程序。[![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [nw.js](http://nwjs.io) - 使用HTML和JavaScript来制作桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Electron](http://electron.atom.io) - 前身是 AtomShell，使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Electrino](https://github.com/pojala/electrino) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序，构建出的应用体积比Electron小。[![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 * [react-desktop](http://reactdesktop.js.org) - 为 macOS Sierra带来React UI组件。[![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
 * [ReactXP](https://microsoft.github.io/reactxp/) - 微软官方出品，支持平台Web，iOS，Android和Windows UWP仍然是一项正在进行的工作。[![Open-Source Software][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
 * [React Native macOS](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
