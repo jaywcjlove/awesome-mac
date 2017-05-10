@@ -85,12 +85,10 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Coda2](https://panic.com/coda) - A fast, clean and powerful text editor.
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. ![hot][hot Icon] ![tuijian][tuijian Icon]
-    * **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
-    * Some good-to-have Plugins
-        * [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - `Node.js` integration. You definitely need this, quite a few features require it.
-        * [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - A JetBrains IDE plugin supporting the EditorConfig standard.
-        * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Provides 3 modes, nice and clean.
+* [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info. ![hot][hot Icon] ![tuijian][tuijian Icon]
+    * [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - `Node.js` integration. You definitely need this, quite a few features require it.
+    * [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - A JetBrains IDE plugin supporting the EditorConfig standard.
+    * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Provides 3 modes, nice and clean.
 * [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Xamarin Studio](https://www.xamarin.com/studio) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
 * [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
