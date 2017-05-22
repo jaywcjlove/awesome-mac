@@ -263,6 +263,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Principle](http://principleformac.com/) -  An application for designing animated and interactive user interfaces.
 * [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
 * [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
+* [Pixel Perfect](https://itunes.apple.com/us/app/pixel-perfect/id916097243?mt=12) - A tool to overlay design images over implementation and make it pixel perfect. ![Freeware][Freeware Icon]
 
 #### Prototyping And Mind-mapping Tools
 
@@ -274,7 +275,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming and graphic design for Mac, iPhone, and iPad.
 * [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet. ![hot][hot Icon] ![must-have][bibei Icon]
 * [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
-* [Scapple](http://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software. ![hot][hot Icon]
+* [Scapple](http://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software with free whiteboard-like layout. ![hot][hot Icon]
 * [Framer](http://framerjs.com/) - A tool for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A wire-framing tool that helps you work faster and smarter.
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
@@ -353,7 +354,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [N1](https://www.nylas.com/n1) - An extensible, open-source mail app, free for developers and $7/month for Pro.
 * [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
-* [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface.
+* [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface, scheduling and read receipts.
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
 
 ## Data Recovery Tools
@@ -585,7 +586,8 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [BetterTouchTool](http://www.bettertouchtool.net/) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Qbserve](https://qotoqot.com/qbserve/) - Automatic Private Time Tracking.
+* [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
+
 * **Window Management**
     * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
