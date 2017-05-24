@@ -253,6 +253,7 @@
 * [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。![star 5][star5 Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]
 * [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
+* [Pixel Perfect](http://pixelperfect-app.com/) - 比较UI模型和开发结果非常容易。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 
 #### 原型流程
 

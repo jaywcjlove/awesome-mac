@@ -263,7 +263,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Principle](http://principleformac.com/) -  An application for designing animated and interactive user interfaces.
 * [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
 * [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
-* [Pixel Perfect](https://itunes.apple.com/us/app/pixel-perfect/id916097243?mt=12) - A tool to overlay design images over implementation and make it pixel perfect. ![Freeware][Freeware Icon]
+* [Pixel Perfect](http://pixelperfect-app.com/) - A tool to overlay design images over implementation and make it pixel perfect. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 
 #### Prototyping And Mind-mapping Tools
 
