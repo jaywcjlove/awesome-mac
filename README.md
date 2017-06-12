@@ -511,7 +511,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 * [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Homes) - Chromium is an open-source web browser project by Google, to provide the source code for  Google Chrome. ![Freeware][Freeware Icon]
+* [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for  Google Chrome. ![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - Firefox is a free, open-source web browser developed by the Mozilla Foundation. ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
 * [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
