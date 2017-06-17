@@ -199,6 +199,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 * [GitLab](http://gitlab.com/) - Open-source Git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Github](https://github.com) - Code hosting, project management and deployment for software projects. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+* [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292) ![必备][bibei Icon]
 * [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
 * [phabricator](https://phabricator.com) - Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
 * [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
