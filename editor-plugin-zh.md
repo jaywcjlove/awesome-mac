@@ -80,6 +80,12 @@ Plugin
   * [Gitignore](https://packagecontrol.io/packages/Gitignore) - Git的.gitignore文件生成，内置常用过滤文件。
 
 
+## VSCode Plugin
+
+  * [react-beautify](https://github.com/taichi/react-beautify) - 这个扩展封保存自动美化 JS, JSX, typescript, TSX 文件。
+  * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
+  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
+
 ## Vim Plugin
 
   * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
@@ -89,7 +95,7 @@ Plugin
   * [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
   * [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
   * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
-    
+
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg

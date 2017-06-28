@@ -76,6 +76,12 @@ Plugin
   * [Gitignore](https://packagecontrol.io/packages/Gitignore) - The Git Gitignore files are generated, commonly used built-in filter file。
 
 
+## VSCode Plugin
+
+  * [react-beautify](https://github.com/taichi/react-beautify) - This extension wraps prettydiff/esformatter to format your javascript, JSX, typescript, TSX file.
+  * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - Code snippets for Reactjs development in ES6 syntax.
+  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
+
 ## Vim Plugin
 
   * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
