@@ -27,7 +27,7 @@
   "devDependencies": {
     "colors-cli": "^1.0.7",
     "ejs": "^2.5.6",
-    "gh-pages": "^0.11.0",
+    "gh-pages": "^1.0.0",
     "html-minifier": "^3.3.3",
     "loading-cli": "^1.0.2",
     "marked": "^0.3.6",
