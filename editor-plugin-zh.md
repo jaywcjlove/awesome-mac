@@ -80,6 +80,16 @@ Plugin
   * [Gitignore](https://packagecontrol.io/packages/Gitignore) - Git的.gitignore文件生成，内置常用过滤文件。
 
 
+## Vim Plugin
+
+  * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
+  * [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
+  * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
+  * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
+  * [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+  * [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
+  * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
+    
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg

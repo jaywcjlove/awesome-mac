@@ -76,7 +76,17 @@ Plugin
   * [Gitignore](https://packagecontrol.io/packages/Gitignore) - The Git Gitignore files are generated, commonly used built-in filter file。
 
 
-  
+## Vim Plugin
+
+  * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
+  * [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
+  * [WebVim](https://github.com/krampstudio/webvim) - Vim-based distribution targeting JavaScript and Web development
+  * [vim-web](https://github.com/jaywcjlove/vim-web) - Based on WebVim, Vim for front-end developers (docs are in Chinese). [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
+  * [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+  * [Spacevim](https://github.com/ctjhoa/spacevim) -  Spacemacs for vim. It can be used as a full distribution or you can just use the Spacemacs key bindings.
+  * [spf13](http://vim.spf13.com/) - A completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.
+    
+
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
