@@ -565,6 +565,7 @@
 * [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Keka](http://www.kekaosx.com) - 一个免费的 macOS 文件解压缩程序。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
+* [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。![tuijian][tuijian Icon]
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
