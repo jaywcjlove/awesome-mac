@@ -289,6 +289,7 @@
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![tuijian][tuijian Icon] ![star 5][star5 Icon]
+* [svgus](http://www.svgs.us/) - SVG 图片管理器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。![tuijian][tuijian Icon]
 
