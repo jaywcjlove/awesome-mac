@@ -346,6 +346,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 * [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
+* [Nylas Mail](https://nylas.com/nylas-mail/) - An extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule
 * [N1](https://www.nylas.com/n1) - An extensible, open-source mail app, free for developers and $7/month for Pro.
