@@ -6,7 +6,7 @@
 
 > 在这里非常感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的推荐
 
-### 说明
+**说明**
 
 [English](README.md) | [中文](README-zh.md)  
 
@@ -336,6 +336,7 @@
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持Mac和iPhone。
 * [Nylas Mail](https://nylas.com/nylas-mail/) - 免费邮件客户端。  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [网易邮箱大师](http://mail.163.com/dashi/) - 全平台的邮箱管理客户端，网易邮箱大师电脑版。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
 * [N1](https://www.nylas.com/n1) - 可以扩展的开源收费邮件客户端。
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
