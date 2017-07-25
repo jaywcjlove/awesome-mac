@@ -265,6 +265,7 @@
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
+* [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
 * [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 用于网站和移动应用的设计和原型设计。
 
 #### 其它工具
