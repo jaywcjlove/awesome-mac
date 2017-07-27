@@ -240,6 +240,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
     * [Measure](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
     * [User Flows](https://abynim.github.io/UserFlows/) -  generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) -Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon] 
+* [Gravit Designer](https://designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertips.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
 * [FLINTO](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![tuijian][tuijian Icon]
 * [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![tuijian][tuijian Icon]

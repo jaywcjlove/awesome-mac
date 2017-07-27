@@ -230,6 +230,7 @@
     * [Measure](http://utom.design/measure/) - 设计稿标注、测量工具。 [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
     * [User Flows](https://abynim.github.io/UserFlows/) - 直接从画板生成流程图。 [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon] 
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - 清理 Sketch 历史文件，释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon] 
+* [Gravit Designer](https://designer.io/) - 混合矢量/位图布局应用，比起Sketch还差一点。  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
 * [FLINTO](https://www.flinto.com/) - 快速制作高保真的互交原型工具，支持Sketch导入。 ![tuijian][tuijian Icon]
 * [Kite](https://kiteapp.co/) - 一个强大的动画制作工具制作Mac和iOS原型中的应用。 ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac上的触摸板变成绘图板。![tuijian][tuijian Icon]
