@@ -283,7 +283,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Skitch](https://evernote.com/skitch/?noredirect) - Screen shot with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Snip](http://snip.qq.com/) - Efficient tool for screenshot. Supports scrolling windows capture. By Tencent. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](https://en.toolinbox.net/iPic/) - Easily Upload Images With Markdown Supported. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
+* [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon]
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - clean and beautiful color theme. Work well with iTerm, JetBrains products, Vim etc. ![tuijian][tuijian Icon]
@@ -382,6 +382,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read your CHM documents. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
+* [Klib](http://klib.me/) - A new way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon]
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
     * [ReadKit](http://readkitapp.com/) - Have all your reading in one place.
@@ -526,6 +527,7 @@ It is a free and open source software.[![Open-Source Software][OSS Icon]](https:
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
+* [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon]
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac based on where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) -  is the most advanced screen mirroring software receiver for Mac.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
