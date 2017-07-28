@@ -94,7 +94,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [CodeKit](https://incident57.com/codekit/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 * [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - A system preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
-* [iHosts](http://toolinbox.net/en/iHosts/) - The only /etc/hosts editor on Mac App Store. [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240) ![Freeware][Freeware Icon]
+* [iHosts](http://toolinbox.net/en/iHosts/) - The only /etc/hosts editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?ls=1&mt=12&at=1000lv4R&ct=iHosts_me)
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - A free and open-source app for hosts management & switching.
 .[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/2ndalpha/gasmask)
@@ -301,7 +301,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 * [Snip](http://snip.qq.com/) - An application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](https://en.toolinbox.net/iPic/) - Easily upload images and save markdown links. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
+* [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![tuijian][tuijian Icon]
 * [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
@@ -407,6 +407,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Skim](http://skim-app.sourceforge.net) - A PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
+* [Klib](http://klib.me/) - A new way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
 * [texpad](https://www.texpad.com/) - A great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 * [Bear Writer](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Boostnote](https://boostnote.io/) - note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![tuijian][tuijian Icon]
@@ -566,6 +567,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Has a good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
+* [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
 * [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) - The most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
