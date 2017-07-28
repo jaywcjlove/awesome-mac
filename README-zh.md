@@ -272,11 +272,10 @@
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - 上传插图链接分享。![Freeware][Freeware Icon]
+* [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云图床，支持 Markdown 链接链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等。![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云图床，支持 Markdown 链接链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 
 ## 虚拟机
 
