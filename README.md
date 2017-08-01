@@ -208,7 +208,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Bdash](https://github.com/bdash-app/bdash) - A modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL client for Mac.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - A modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
-* [Base 2](http://menial.co.uk/base/) - An application for creating, designing, editing and browsing SQLite 3 database files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]]()
+* [Base 2](http://menial.co.uk/base/) - An application for creating, designing, editing and browsing SQLite 3 database files. 
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
 * [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
