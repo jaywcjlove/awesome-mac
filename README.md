@@ -242,8 +242,6 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
     * [User Flows](https://abynim.github.io/UserFlows/) -  generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) -Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon] 
 * [Gravit Designer](https://designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertips.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
-* [FLINTO](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![tuijian][tuijian Icon]
-* [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![tuijian][tuijian Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![tuijian][tuijian Icon]
 * [Alchemy](http://al.chemy.org/) - An experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [MyPaint](http://mypaint.org/) - Is a simple drawing and painting program that works well with Wacom-style graphics tablets.[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
@@ -264,6 +262,8 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 #### Prototyping And Mind-mapping Tools
 
+* [FLINTO](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![tuijian][tuijian Icon]
+* [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![tuijian][tuijian Icon]
 * [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![tuijian][tuijian Icon]
 * [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
 * [Axure RP 8](http://www.axure.com) - Prototypes, specifications and diagrams in one tool. ![hot][hot Icon]
