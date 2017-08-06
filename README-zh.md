@@ -252,6 +252,7 @@
 
 #### 原型流程
 
+* [Origami Studio](http://origami.design/) - 一种设计现代界面的新工具，由Facebook设计师构建和使用。
 * [FLINTO](https://www.flinto.com/) - 快速制作高保真的互交原型工具，支持Sketch导入。 ![tuijian][tuijian Icon]
 * [Kite](https://kiteapp.co/) - 一个强大的动画制作工具制作Mac和iOS原型中的应用。 ![tuijian][tuijian Icon]
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。![tuijian][tuijian Icon]
