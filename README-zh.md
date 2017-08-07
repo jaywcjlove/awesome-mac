@@ -216,6 +216,7 @@
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon]
 * [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 * [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。 ![Freeware][Freeware Icon]
+* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 
 ## 设计和产品
 
