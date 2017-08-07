@@ -209,6 +209,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL client for Mac.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - A modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Base 2](http://menial.co.uk/base/) - An application for creating, designing, editing and browsing SQLite 3 database files. 
+* [SQLight](http://aurvan.com/index.php?act=sqlight_details) - Is an SQLite database manager tool. ![Freeware][Freeware Icon] ![star 5][star5 Icon]
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - The Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
