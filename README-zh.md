@@ -191,12 +191,12 @@
 
 ## 数据库
 
-* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]](https://github.com/sequelpro/sequelpro)
+* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
 * [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - 一个数据库设计工具，它帮助创建高质素的概念、逻辑和物理数据模型。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/navicat-data-modeler-essentials-%E8%A7%86%E8%A7%89%E5%8C%96%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E5%99%A8/id532423082)
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持SQL Server, Postgres, Oracle 以及MySQL等主流的数据库可视化管理工具.
 * [Bdash](https://github.com/bdash-app/bdash) - SQL客户端应用程序，支持MySQL、 PostgreSQL (Redshift)、 BigQuery、。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
-* [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。
+* [Postico](https://eggerapps.at/postico/) - 现代PostgreSQL客户端，漂亮功能多。 ![star 4][star4 Icon]
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL数据库CRUD应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理SQLite数据库的软件。
 * [SQLight](http://aurvan.com/index.php?act=sqlight_details) - 一个SQLite数据库管理器工具，非常好用。 ![Freeware][Freeware Icon] ![star 5][star5 Icon]
