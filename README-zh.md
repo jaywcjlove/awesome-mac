@@ -414,6 +414,7 @@
 * [texpad](https://www.texpad.com/) - Mac下非常棒的LaTeX编辑器。 支持自动编译预览，自动补全等。
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![tuijian][tuijian Icon]
+* [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有markdown支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
     * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
