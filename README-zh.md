@@ -665,7 +665,7 @@
 * [QLVideo](https://github.com/Marginal/QLVideo) - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。`brew cask install qlvideo`
 * [QuickLookAPK](https://github.com/hezi/QuickLookAPK) - 预览Android APK文件。`brew cask install quicklookapk`
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - 预览 iOS/macOS 应用和配置信息。`brew cask install provisionql`
-* [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - 预览 iOS/macOS 应用和配置信息。`brew cask install quicklook-pat`
+* [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - 预览Adobe Photoshop图案文件。`brew cask install quicklook-pat`
 
 ## 第三方应用市场APP
 
