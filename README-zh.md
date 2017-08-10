@@ -43,6 +43,7 @@
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [远程协助](#远程协助)
+- [QuickLook插件](#quicklook插件)
 - [第三方应用市场APP](#第三方应用市场app)
 - [Mac软件下载网站](#mac软件下载网站)
 
@@ -644,6 +645,25 @@
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 4][star4 Icon]
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
+
+## QuickLook插件
+
+*使用 [Homebrew Cask](https://github.com/phinze/homebrew-cask) 将通过命令安装即为简单。开发人员使用的[Quick Look](http://en.wikipedia.org/wiki/Quick_Look)插件列表。如果手动安装，你可将下载的 `.qlgenerator` 文件移动到 `~/Library/QuickLook` 运行 `qlmanage -r`*
+
+* [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
+* [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - 在预览源代码文件，高亮代码。`brew cask install qlcolorcode`
+* [QLMarkdown](https://github.com/toland/qlmarkdown) - Markdown文件转换成静态页面预览。`brew cask install qlmarkdown`
+* [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - 格式化预览JSON文件。`brew cask install quicklook-json`
+* [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch) - 预览`.patch`文件。`brew cask install qlprettypatch`
+* [QuickLookCSV](https://github.com/p2/quicklook-csv) - 预览`.CSV`文件。`brew cask install quicklook-csv`
+* [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/) - 预览BetterZip软件的压缩格式文件。`brew cask install betterzipql`
+* [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - 显示图像大小和分辨率。`brew cask install qlimagesize`
+* [WebP](https://github.com/dchest/webp-quicklook) - 预览WebP图像。`brew cask install webpquicklook`
+* [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - 预览Apple安装程序包的标准内容。`brew cask install suspicious-package`
+* [QuickLookASE](https://github.com/rsodre/QuickLookASE) - 预览使用Photoshop，Illustrator，Prisma等生成的Adobe ASE Color色板等。`brew cask install quicklookase`
+* [QLVideo](https://github.com/Marginal/QLVideo) - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。`brew cask install qlvideo`
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - 预览 iOS/macOS 应用和配置信息。`brew cask install quicklookapk`
+* [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - 预览 iOS/macOS 应用和配置信息。`brew cask install quicklook-pat`
 
 ## 第三方应用市场APP
 
