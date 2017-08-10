@@ -44,6 +44,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
 - [Utilities](#utilities)
 - [Remote Login Software](#remote-login-software)
+- [QuickLook Plugins](#quickLook-plugins)
 - [Third Party App Markets](#third-party-app-markets)
 - [Mac App Download Sites](#mac-app-download-sites)
 
@@ -565,6 +566,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - Never expired Mac free VPN. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-永不过期mac免费vpn/id1202726435)
 
 ## Utilities
+
 ### General Tools
 * [Alfred](https://www.alfredapp.com/) - An award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
 * [BetterZip 3](https://macitbetter.com/) - An archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
@@ -673,6 +675,26 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 4][star4 Icon]
 * [RealVNC](https://www.realvnc.com) The original and best software for remote access across desktop and mobile.
 * [AnyDesk](https://anydesk.com) An application which provides Remote access across multiple machines.
+
+## QuickLook Plugins
+
+*Using [Homebrew Cask](https://github.com/phinze/homebrew-cask) to install. List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers. If you install it manually, you can move the downloaded `.qlgenerator` file to` ~ / Library / QuickLook` `qlmanage -r`*
+
+* [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
+* [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - Preview source code files with syntax highlighting. `brew cask install qlcolorcode`
+* [QLMarkdown](https://github.com/toland/qlmarkdown) - Preview Markdown files. `brew cask install qlmarkdown`
+* [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files. `brew cask install quicklook-json`
+* [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch) - Preview .patch files. `brew cask install qlprettypatch`
+* [QuickLookCSV](https://github.com/p2/quicklook-csv) - Preview CSV files. `brew cask install quicklook-csv`
+* [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/) - Preview the compressed format file for BetterZip software. `brew cask install betterzipql`
+* [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - Display image size and resolution. `brew cask install qlimagesize`
+* [WebP](https://github.com/dchest/webp-quicklook) - Preview WebP images. `brew cask install webpquicklook`
+* [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - Preview the contents of a standard Apple installer package. `brew cask install suspicious-package`
+* [QuickLookASE](https://github.com/rsodre/QuickLookASE) - Preview  Adobe ASE Color Swatches generated with Photoshop，Illustrator，Prisma among many others. `brew cask install quicklookase`
+* [QLVideo](https://github.com/Marginal/QLVideo) - Preview most types of video files, as well as their thumbnails, cover art and metadata. `brew cask install qlvideo`
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Preview iOS / macOS app and provision information. `brew cask install quicklookapk`
+* [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - Preview Adobe Photoshop pattern files. `brew cask install quicklook-pat`
+
 
 ## Third Party App Markets
 
