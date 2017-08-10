@@ -693,7 +693,8 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - Preview the contents of a standard Apple installer package. `brew cask install suspicious-package`
 * [QuickLookASE](https://github.com/rsodre/QuickLookASE) - Preview  Adobe ASE Color Swatches generated with Photoshop，Illustrator，Prisma among many others. `brew cask install quicklookase`
 * [QLVideo](https://github.com/Marginal/QLVideo) - Preview most types of video files, as well as their thumbnails, cover art and metadata. `brew cask install qlvideo`
-* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Preview iOS / macOS app and provision information. `brew cask install quicklookapk`
+* [QuickLookAPK](https://github.com/hezi/QuickLookAPK) - Preview Android APK files. `brew cask install quicklookapk`
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Preview iOS / macOS app and provision information. `brew cask install provisionql`
 * [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - Preview Adobe Photoshop pattern files. `brew cask install quicklook-pat`
 
 

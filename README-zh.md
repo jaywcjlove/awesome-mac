@@ -663,7 +663,8 @@
 * [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - 预览Apple安装程序包的标准内容。`brew cask install suspicious-package`
 * [QuickLookASE](https://github.com/rsodre/QuickLookASE) - 预览使用Photoshop，Illustrator，Prisma等生成的Adobe ASE Color色板等。`brew cask install quicklookase`
 * [QLVideo](https://github.com/Marginal/QLVideo) - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。`brew cask install qlvideo`
-* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - 预览 iOS/macOS 应用和配置信息。`brew cask install quicklookapk`
+* [QuickLookAPK](https://github.com/hezi/QuickLookAPK) - 预览Android APK文件。`brew cask install quicklookapk`
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - 预览 iOS/macOS 应用和配置信息。`brew cask install provisionql`
 * [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - 预览 iOS/macOS 应用和配置信息。`brew cask install quicklook-pat`
 
 ## 第三方应用市场APP
