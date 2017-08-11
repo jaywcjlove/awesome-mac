@@ -85,7 +85,7 @@ Plugin
   * [react-beautify](https://github.com/taichi/react-beautify) - 这个扩展封保存自动美化 JS, JSX, typescript, TSX 文件。
   * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
   * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
-  * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
+  * [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
 
 ## Vim Plugin
 
