@@ -483,7 +483,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 ## Download Management Tools
 
-* [Transmission](https://www.transmissionbt.com/) - A Fast, Easy, Free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+* [Transmission](https://www.transmissionbt.com/) - A Fast, Easy, Free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [aria2](https://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
