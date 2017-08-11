@@ -753,17 +753,16 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 **[⬆ Top](#contents)**
 
-
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
-[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
+[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
+[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Free Software"
+[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot Software"
+[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg "Recommend Software"
+[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg "Must Have Software"
+[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg "1 Star Software"
+[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
+[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg "0 Star Recommend Software"
+[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg "1 Star Recommend Software"
+[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg "2 Star Recommend Software"
+[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3 Star Recommend Software"
+[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4 Star Recommend Software"
+[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software" 
