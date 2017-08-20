@@ -576,6 +576,7 @@
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
+* [滴答清单](https://help.dida365.com/) - 轻便的待办事项应用。![Freeware][Freeware Icon]
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Wunderlist](https://todoist.com/mac) - 奇妙清单跨平台的任务管理器与移动应用程序。![Freeware][Freeware Icon]
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode键盘布局编辑器。

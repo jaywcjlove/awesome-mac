@@ -590,6 +590,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 
 ### GTD (Getting Things Done)
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
+* [dida365](https://help.dida365.com/) - Lightweight to-do application。![Freeware][Freeware Icon]
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Recommend][tuijian Icon]
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
