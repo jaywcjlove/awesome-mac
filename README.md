@@ -228,6 +228,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [DataGrip](http://www.jetbrains.com/datagrip/) - Database management software by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
 
 ## Design and Product
 
