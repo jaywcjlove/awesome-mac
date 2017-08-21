@@ -158,6 +158,7 @@
 * [tmux](https://github.com/tmux/tmux) 终端登录远程主机的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 
 ## 版本控制
 
