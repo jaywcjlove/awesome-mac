@@ -64,6 +64,7 @@
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
+* [ONI](https://github.com/extr0py/oni) - 由Neovim提供的IDE。[![Open-Source Software][OSS Icon]](https://github.com/extr0py/oni) ![Freeware][Freeware Icon]
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tincta](https://mr-fridge.de/software/tincta/index.php) - 一个免费的文本编辑器。![Freeware][Freeware Icon]
 * [Xcode](https://developer.apple.com/xcode/) - 开发iOS和MacOS基本IDE。 ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
