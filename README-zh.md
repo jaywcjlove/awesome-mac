@@ -418,6 +418,7 @@
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读chm文件的软件。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Skim](http://skim-app.sourceforge.net) - PDF阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
+* [MarginNote](https://marginnote.com/?lang=zh-hans) - 一款优秀的 PDF 有标注软件，批注、抽认卡、思维导图、汇总视图等功能。 ![Freeware][Freeware Icon]
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、iBooks 标注管理工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
 * [texpad](https://www.texpad.com/) - Mac下非常棒的LaTeX编辑器。 支持自动编译预览，自动补全等。
