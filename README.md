@@ -285,6 +285,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - A wire-framing tool that helps you work faster and smarter.
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
+* [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
 * [SimpleMind](https://simplemind.eu/) - Is the world leader in cross platform Mind Mapping tools.
 * [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - The first all-in-one cross-platform tool for designing and prototyping websites and mobile apps.
 
