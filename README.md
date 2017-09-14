@@ -370,6 +370,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
 * [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface, scheduling and read receipts.
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier.。![Freeware][Freeware Icon]
+* [Yomail](http://www.yomail.com/) - Maybe the best email client for email。![Freeware][Freeware Icon]
 
 ## Data Recovery Tools
 
