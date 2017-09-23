@@ -247,6 +247,7 @@
 * [Monodraw](http://helftone.com/) - 一款文本图像编辑器。
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
+* [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。 ![star 4][star4 Icon]
 * [FontForge](http://fontforge.github.io/) - 字体编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [Nik Collection](https://www.google.com/nikcollection/) - 专业照片后期制作工具Google收购后免费。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon] ![star 2][star2 Icon]

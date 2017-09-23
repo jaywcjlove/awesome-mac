@@ -257,6 +257,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. 
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
+* [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects. ![star 4][star4 Icon]
 * [FontForge](http://fontforge.github.io/) - Free (libre) font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [Nik Collection](https://www.google.com/intl/en/nikcollection/) - Google Nik collection. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - A bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
