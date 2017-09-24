@@ -217,7 +217,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - The Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
-* [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
+* [Robo 3T](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
 * [MongoBooster](http://www.mongobooster.com/) - Shell-centric and cross-platform GUI tool for MongoDB. It provides update-in-place, fluent query builder, ES6 syntax support and True IntelliSense experience. ![Freeware][Freeware Icon]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - A simple MongoDB GUI.
 * [MongoChef](http://3t.io/mongochef) - The GUI for MongoDB. ![Freeware][Freeware Icon]
@@ -233,6 +233,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
+* [DBeaver](https://dbeaver.jkiss.org/) - A Universal SQL Client
 
 ## Design and Product
 
