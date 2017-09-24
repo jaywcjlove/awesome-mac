@@ -207,7 +207,7 @@
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - 一个用于管理SQLite数据库的软件，跨平台。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - Mac上最简单的方法的使用PostgreSQL关系型数据库管理系统。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL数据库GUI软件。![Freeware][Freeware Icon]
-* [Robomongo](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
+* [Robo 3T](https://robomongo.org/) - 基于Shell的MongoDB图形化客户端管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
 * [MongoBooster](http://www.mongobooster.com/) - MongoDB图形化管理软件，内嵌MongoShell，ES6语法，流畅查询及智能感知。![Freeware][Freeware Icon]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB图形化客户端管理软件。
 * [MongoChef](http://3t.io/mongochef) - MongoDB图形化客户端管理软件。![Freeware][Freeware Icon]
