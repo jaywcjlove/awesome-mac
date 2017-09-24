@@ -223,6 +223,7 @@
 * [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。 ![Freeware][Freeware Icon]
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端。
+* [DBeaver](https://dbeaver.jkiss.org/) - 跨平台SQL客户端，支持大部分主流数据库
 
 ## 设计和产品
 
