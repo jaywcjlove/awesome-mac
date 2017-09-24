@@ -70,7 +70,7 @@
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Xcode](https://developer.apple.com/xcode/) - 开发iOS和MacOS基本IDE。 ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
-* [Webstorm](http://www.jetbrains.com/webstorm/) - 是jetbrains公司旗下一款JavaScript开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+* [Webstorm](http://www.jetbrains.com/webstorm/) - 是JetBrains公司旗下一款JavaScript开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
     * [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
     * [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
     * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Google为React开发的主题。
@@ -219,7 +219,7 @@
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac上查看编辑Access数据库的工具。
 * [Datum - SQLite](http://datumapps.com/datum.html) - Sqlite3数据库管理软件。
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用MongoDB [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon]
-* [DataGrip](http://www.jetbrains.com/datagrip/) - 是jetbrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
+* [DataGrip](http://www.jetbrains.com/datagrip/) - 是JetBrains公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 * [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。 ![Freeware][Freeware Icon]
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端。
