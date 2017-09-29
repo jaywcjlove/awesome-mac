@@ -501,7 +501,8 @@
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。![Freeware][Freeware Icon]
-* [FOLX](http://mac.eltima.com/download-manager.html) - Folx 是一个Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
+* [FOLX](http://mac.eltima.com/download-manager.html) - 一个Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
+* [Downie](https://software.charliemonroe.net/downie.php) - 支持多达近 1200 个视频站点的视频下载工具。
 
 ## 网盘
 *推荐一些有Mac客户端的网盘。*

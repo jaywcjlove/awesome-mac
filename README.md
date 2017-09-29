@@ -504,6 +504,7 @@ for the 21st century made by GitHub.[Atom Plugins](editor-plugin.md#atom-plugin)
 * [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [Free Download Manager](http://www.freedownloadmanager.org/) - A powerful, modern download accelerator and organizer for Windows and Mac. (FREE) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - A free download manager for Mac OS X with a true Mac-style interface. ![Freeware][Freeware Icon]
+* [Downie](https://software.charliemonroe.net/downie.php) - Video downloader for macOS with support for YouTube and other 1200 sites.
 
 ## Online Storage
 
