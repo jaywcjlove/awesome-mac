@@ -286,7 +286,8 @@
 
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。![Freeware][Freeware Icon]
-* [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pornel/ImageAlpha)
+* [ImageAlpha](https://pngmini.com/) - 压缩PNG图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
+* [Resize Master](http://www.boltnev.com/resizemaster/) - 更快速和容易批量调整图像和加水印。 [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797) ![Freeware][Freeware Icon]
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达80％，而不会影响质量。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/jpegmini-lite/id525742250) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。![tuijian][tuijian Icon]
