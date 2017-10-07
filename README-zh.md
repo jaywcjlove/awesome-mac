@@ -259,6 +259,7 @@
 * [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - 轻松导出桌面分层文件PSD文件。[![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
 * [Pixel Perfect](http://pixelperfect-app.com/) - 比较UI模型和开发结果非常容易。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - 可视化网页设计工具。 
+* [Figma](https://www.figma.com/) - 一款基于Web的实时协作的云设计软件。 ![Freeware][Freeware Icon]![Recommend][tuijian Icon]
 
 #### 原型流程
 
