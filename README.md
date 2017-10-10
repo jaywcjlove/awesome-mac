@@ -1,6 +1,7 @@
 # Awesome Mac
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 
 
  This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
@@ -788,3 +789,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3 Star Recommend Software"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4 Star Recommend Software"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software" 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_large)
