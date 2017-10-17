@@ -539,6 +539,7 @@
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。 ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
 * [Type2Phone](http://matthewpalmer.net/rocket/) - 把Macbook键盘变为iPhone的蓝牙键盘。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?mt=12)
+* [Kawa](https://github.com/utatti/kawa) - 给每个输入法定义一个快捷键. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 
 ## 浏览器
 
