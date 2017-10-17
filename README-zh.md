@@ -409,6 +409,7 @@
 * [Synfig Studio](http://synfig.org) - 工业级、强大的2D矢量动画制作软件。[![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - 免费、开源、跨平台的专业字幕编辑软件，可以快速打轴，制作特效字幕等，字幕组必备。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [iFFmpeg](http://www.iffmpeg.com/) - MacOS 上功能强大、易用的视频压制软件。 ![tuijian][tuijian Icon] ![star 5][star5 Icon]
+* [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 电影美剧搜索及在线观看离线下载软件，借助百度云实现离线下载以及在线播放功能。 [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
 
 #### 云音乐播放器
 

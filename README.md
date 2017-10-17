@@ -421,6 +421,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - Aegisub is a free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![star 4][star4 Icon]
 * [iFFmpeg](http://www.iffmpeg.com/) - A Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone. ![Recommend][tuijian Icon] ![star 5][star5 Icon]
+* [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
 
 ## Reading and Writing Tools
 
