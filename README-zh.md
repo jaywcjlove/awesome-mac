@@ -413,6 +413,7 @@
 #### 云音乐播放器
 
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
+* [ieaseMusic](http://music.163.com/) 基于网易云音乐 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [QQ音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [虾米音乐](http://www.xiami.com/apps/mac) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
