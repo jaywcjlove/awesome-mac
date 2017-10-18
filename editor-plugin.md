@@ -9,7 +9,7 @@ Plugin
   * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
   * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
   * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
-  * [vim-mode](https://atom.io/packages/vim-mode) - Add vim modal control.
+  * [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Add vim modal control.
   * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
   * [minimap](https://atom.io/packages/minimap) - A preview of the full source code.
   * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete + paths suggestions

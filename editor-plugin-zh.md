@@ -10,7 +10,7 @@ Plugin
   * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
   * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格。
   * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
-  * [vim-mode](https://atom.io/packages/vim-mode) - vim 模式。
+  * [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - vim 模式。
   * [ex-mode](https://atom.io/packages/ex-mode) - vim 模式的拓展。
   * [minimap](https://atom.io/packages/minimap) - 右侧小地图。
   * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - 对路径选择进行增强。
