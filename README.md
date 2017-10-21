@@ -680,6 +680,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware][Freeware Icon] 
 * [DaisyDisk](https://daisydiskapp.com/) - Gives you a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![Recommend][tuijian Icon]
