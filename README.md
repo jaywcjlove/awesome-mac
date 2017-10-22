@@ -275,7 +275,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 #### Prototyping And Mind-mapping Tools
 
 * [Origami Studio](http://origami.design/) -  A new tool for designing modern interfaces, built and used by designers at Facebook.
-* [FLINTO](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![Recommend][tuijian Icon]
+* [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![Recommend][tuijian Icon]
 * [Kite](https://kiteapp.co/) - A powerful animation and prototyping application for Mac & iOS. ![Recommend][tuijian Icon]
 * [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![Recommend][tuijian Icon]
 * [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
