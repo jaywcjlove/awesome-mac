@@ -82,6 +82,7 @@ Plugin
 * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - Code snippets for Reactjs development in ES6 syntax.
 * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
 * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
+* [Git Lens](https://github.com/wix/import-cost) - git blame annotations, code lens, and more.
 
 ## Vim Plugin
 
