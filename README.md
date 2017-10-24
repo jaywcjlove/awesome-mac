@@ -352,7 +352,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Telegram](https://desktop.telegram.org) - A messaging app with a focus on speed and security.
 * [Messenger For Mac](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - A free instant messaging application for Mac OS X, connecting to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - Textual is the world's most popular application for interacting with Internet Relay Chat (IRC) chatrooms on OS X.
+* [Textual](https://www.codeux.com/textual) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [Gitter](https://gitter.im) - An instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
 * [简聊](https://jianliao.com/site?lang=en) - A communication tool for enterprise use. You can build your own service with its open-source version. (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - A free office communication platform for enterprise use. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]

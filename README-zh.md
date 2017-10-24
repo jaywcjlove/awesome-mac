@@ -338,7 +338,7 @@
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [Messenger](https://fbmacmessenger.rsms.me/) - Facebook第三方聊天工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - 呃这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。
+* [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的KPI应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [Gitter](https://gitter.im) - 关于GitHub的项目交流，支持 Markdown，对开发者极为友好。
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
