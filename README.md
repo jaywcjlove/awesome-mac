@@ -694,7 +694,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
 * [Coolant](https://coolantformac.com) - A menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 * [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
-* [Amphetamine](https://itunes.apple.com/in/app/amphetamine/id937984704) - An app which is an alternative to Caffeine. It is available on the App Store. [![App Store][app-store Icon]](https://itunes.apple.com/in/app/amphetamine/id937984704)
+* [Amphetamine](https://itunes.apple.com/in/app/amphetamine/id937984704) - An app which is an alternative to Caffeine. It is available on the App Store. [![App Store][app-store Icon]](https://itunes.apple.com/in/app/amphetamine/id937984704) ![Freeware][Freeware Icon] 
 
 ### Gaming Software
 
