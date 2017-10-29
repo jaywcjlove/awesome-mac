@@ -353,6 +353,7 @@
 * [Coding.net](https://coding.net) - 代码托管，项目管理，WebIDE，演示部署，开启云端开发模式，让开发更简单。![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon] 
 
 #### Email
 
