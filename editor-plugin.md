@@ -93,6 +93,7 @@ Plugin
 * [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Spacevim](https://github.com/ctjhoa/spacevim) -  Spacemacs for vim. It can be used as a full distribution or you can just use the Spacemacs key bindings.
 * [spf13](http://vim.spf13.com/) - A completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.
+* [vimplus](https://github.com/chxuan/vimplus) - A fully automated project to build VIM development environment.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
     
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
