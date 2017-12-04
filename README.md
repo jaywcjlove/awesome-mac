@@ -42,6 +42,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 - [Input Methods](#input-methods)
 - [Web Browsers](#web-browsers)
 - [Translation Tools](#translation-tools)
+- [Security Tools](#security-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
 - [Utilities](#utilities)
 - [Remote Login Software](#remote-login-software)
