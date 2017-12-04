@@ -602,7 +602,7 @@ BlockBlock: "you got it 😇" [![Freeware][Freeware Icon] ![Recommended][tuijian
 
 ## Proxy and VPN Tools
 
-* [Algo] (https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]] (https://github.com/trailofbits/algo)
+* [Algo] (https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]] (https://github.com/trailofbits/algo) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]] 
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - A secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks/shadowsocks)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
