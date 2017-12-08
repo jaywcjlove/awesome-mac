@@ -137,6 +137,7 @@
 * [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
+* [Insomnia](https://insomnia.rest/) - 最直观的跨平台REST API客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 
 ## 命令行工具
 

@@ -148,6 +148,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Cellist](http://cellist.patr0n.us/index.html) - HTTP debugging proxy for OS X.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - A free website link checker for Mac. ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - A powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing. ![star 4][star4 Icon]![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
+* [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 
 ## Command Line Tools
 
