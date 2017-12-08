@@ -69,6 +69,7 @@
 * [HBuilder](http://www.dcloud.io/) - HBuilder是DCloud（数字天堂）推出的一款支持HTML5的Web开发IDE。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Xcode](https://developer.apple.com/xcode/) - 开发iOS和MacOS基本IDE。 ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
+* [AppCode](https://www.jetbrains.com/objc/) - 适用于iOS / macOS开发的智能IDE ![hot][hot Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是JetBrains公司旗下一款JavaScript开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
     * [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - 集成`Node.js`，你肯定需要它，很多功能需要它。
