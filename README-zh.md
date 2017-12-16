@@ -327,7 +327,7 @@
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。![hot][hot Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
-* [Veertu](https://veertu.com) - 图片管理，用于图片研究。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [Veertu](https://veertu.com) - Mac上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 
 
 ## 通信
