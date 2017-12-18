@@ -597,6 +597,8 @@
 * [Shimo](https://www.shimovpn.com/) - 连接大量VPN的应用
 * [V2Ray](https://www.v2ray.com/) - 原生支持Socks、HTTP、Shadowsocks、VMess 等协议。
 * [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期Mac免费VPN。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-永不过期mac免费vpn/id1202726435)
+* [Firefly 萤火虫](https://github.com/yinghuocho/firefly-proxy) - 免费科学上网。
+
 
 ## 其它实用工具
 
