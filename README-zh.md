@@ -175,7 +175,7 @@
 
 * [GitFinder](https://zigz.ag/GitFinder/) - 一个快速和轻量级的Git客户端的Mac与Finder集成。 ![Freeware][Freeware Icon]
 * [Fork](https://git-fork.com/) - 一个快速友好的git客户端。 ![Freeware][Freeware Icon]
-* [GitX](https://rowanj.github.io/gitx/) -  [Pieter's](https://github.com/pieter/gitx)的衍生版本，维护增强生产力和团队开发变化。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
+* [GitX](https://rowanj.github.io/gitx/) - [Pieter's](https://github.com/pieter/gitx)的衍生版本，维护增强生产力和团队开发变化。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) 最好的组织Github Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292) ![必备][bibei Icon]
@@ -661,7 +661,6 @@
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你CPU100%让Mac电脑过热电池耗尽的菜单应用程序。
 * [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
-* [Amphetamine](https://itunes.apple.com/in/app/amphetamine/id937984704) - 可以轻松地覆盖您的节能设置，并保持您的Mac清醒。 [![App Store][app-store Icon]](https://itunes.apple.com/in/app/amphetamine/id937984704) ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 * [Qbserve](https://qotoqot.com/qbserve/) - 观察你如何度过你的时间。
 * [Vanilla](http://vanilla.matthewpalmer.net) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
