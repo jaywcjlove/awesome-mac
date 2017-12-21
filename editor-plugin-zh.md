@@ -99,6 +99,7 @@ Plugin
 * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 * [vimplus](https://github.com/chxuan/vimplus) - 一套完全自动化打造Vim开发环境的项目。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
 * [ivim](https://github.com/kepbod/ivim) - 一套简单易用，高可定制化 vim 配置方案。
+* [7th-vim](https://github.com/dofy/7th-vim) - 轻量级，可定制化的 vim 配置方案。
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
