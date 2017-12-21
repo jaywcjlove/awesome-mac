@@ -95,6 +95,7 @@ Plugin
 * [spf13](http://vim.spf13.com/) - A completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.
 * [vimplus](https://github.com/chxuan/vimplus) - A fully automated project to build VIM development environment.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
+* [7th-vim](https://github.com/dofy/7th-vim) - Lightweight & Customizable Vim configuration options.
 
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
