@@ -175,6 +175,7 @@
 
 * [GitFinder](https://zigz.ag/GitFinder/) - 一个快速和轻量级的Git客户端的Mac与Finder集成。 ![Freeware][Freeware Icon]
 * [Fork](https://git-fork.com/) - 一个快速友好的git客户端。 ![Freeware][Freeware Icon]
+* [GitX](https://rowanj.github.io/gitx/) -  [Pieter's](https://github.com/pieter/gitx)的衍生版本，维护增强生产力和团队开发变化。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - 使用GitHub的GUI应用。![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) 最好的组织Github Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292) ![必备][bibei Icon]
