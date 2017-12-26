@@ -798,7 +798,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
 
-**[⬆ Top](#contents)**
+**[⬆ back to top](#contents)**
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Free Software"
@@ -813,9 +813,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3 Star Recommend Software"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4 Star Recommend Software"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software"
-
-
-**[⬆ back to top](#contents)**
 
 ## License
 
