@@ -326,6 +326,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
 * [Jietu](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
+* [Snipaste](https://zh.snipaste.com/) -  Is a simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 * [Snip](http://snip.qq.com/) - An application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
@@ -334,11 +335,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![Recommend][tuijian Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc. ![Recommend][tuijian Icon]
 * [Couleurs](http://couleursapp.com) - Couleurs is a simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
-<<<<<<< Updated upstream
-* [Tropy](https://tropy.org/) - 简单的屏幕取色应用程序。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
-=======
 * [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon] 
->>>>>>> Stashed changes
 
 
 ## Virtual Machines
@@ -665,6 +662,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
     * [Magnet](http://magnet.crowdcafe.com/) - A window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
 * **Password Management**
+    * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords. ![Freeware][Freeware Icon]
     * [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
     * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
     * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
@@ -800,7 +798,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
 
-**[⬆ Top](#contents)**
+**[⬆ back to top](#contents)**
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Free Software"
@@ -816,6 +814,8 @@ If you come across websites offering pirated software or cracks, please post [HE
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4 Star Recommend Software"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software"
 
-
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_large)
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

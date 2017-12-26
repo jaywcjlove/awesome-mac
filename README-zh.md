@@ -313,7 +313,8 @@
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
-* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![star 3][star3 Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 3][star3 Icon]
+* [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - 将屏幕捕获存为分层的PSD，便于编辑。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
@@ -673,6 +674,7 @@
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
     * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * 密码管理
+    * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
     * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
@@ -780,3 +782,9 @@
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3星推荐软件"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4星推荐软件"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5星推荐软件"
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
