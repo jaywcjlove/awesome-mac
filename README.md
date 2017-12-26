@@ -815,5 +815,10 @@ If you come across websites offering pirated software or cracks, please post [HE
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software"
 
 
+**[⬆ back to top](#contents)**
+
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_large)
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

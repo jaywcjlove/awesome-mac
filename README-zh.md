@@ -782,3 +782,9 @@
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3星推荐软件"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4星推荐软件"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5星推荐软件"
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
