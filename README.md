@@ -662,6 +662,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
     * [Magnet](http://magnet.crowdcafe.com/) - A window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
 * **Password Management**
+    * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords. ![Freeware][Freeware Icon]
     * [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
     * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
     * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)

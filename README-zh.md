@@ -674,6 +674,7 @@
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
     * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * 密码管理
+    * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [LastPass](https://lastpass.com/) - 密码管理器和安全的数字笔记。
     * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
