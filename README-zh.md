@@ -422,6 +422,7 @@
 * [iFFmpeg](http://www.iffmpeg.com/) - MacOS 上功能强大、易用的视频压制软件。 ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 电影美剧搜索及在线观看离线下载软件，借助百度云实现离线下载以及在线播放功能。 [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - 一款功能完备的歌词工具。 [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ![Freeware][Freeware Icon]
+* [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify和iTunes在状态菜单栏中显示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 
 #### 云音乐播放器
 
