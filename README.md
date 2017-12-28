@@ -589,7 +589,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - A free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - An application for the access to open internet. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
-* [Surge](http://surge.run/manual/) - Surge is a web developer tool and proxy utility for iOS 9. ![Freeware][Freeware Icon]
+* [Surge](https://nssurge.com/) - Surge is a web developer tool and proxy utility for iOS 9. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
 * [srocket](http://50r.cn/ifn76I) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [LoCoVPN](https://www.locovpn.co/mannul/) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
