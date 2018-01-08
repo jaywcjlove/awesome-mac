@@ -672,6 +672,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 * **Finder**
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
+    * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
     * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - An all-around file management app.
     * [TotalFinder](http://totalfinder.binaryage.com/) - A Chrome-like app as finder substitute.
