@@ -62,7 +62,7 @@
 * [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](https://panic.com/coda) - 编写Web应用长得漂亮的编辑器。
-* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
 * [ONI](https://github.com/extr0py/oni) - 由Neovim提供的IDE。[![Open-Source Software][OSS Icon]](https://github.com/extr0py/oni) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - 一个现代直观的基于终端的文本编辑器。[![Open-Source Software][OSS Icon](https://github.com/ory/editor) ![Freeware][Freeware Icon]]
@@ -587,7 +587,7 @@
 * [Tunnelbear](https://www.tunnelbear.com) - 简单的私人VPN。 ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [Surge](http://surge.run/manual/) - 科学上网。![Freeware][Freeware Icon]
+* [Surge](https://nssurge.com/) - 科学上网。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
 * [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。![hot][hot Icon]![tuijian][tuijian Icon]
 * [srocket](http://50r.cn/ifn76I) - 开启科学上网。![Freeware][Freeware Icon]
 * [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得2小时免费VPN加速。![Freeware][Freeware Icon]
@@ -684,6 +684,7 @@
     * [Keeweb](https://keeweb.info/) - 与KeePass兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
+    * [fman](https://fman.io) - 先进的双窗口文件管理器, 拥有很多特性。
     * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
