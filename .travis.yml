@@ -1,7 +1,4 @@
 language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md,README-zh.md,editor-plugin-zh.md,editor-plugin.md
+rvm: 2.4.1
+before_script: gem install awesome_bot
+script: awesome_bot README.md
