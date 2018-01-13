@@ -691,7 +691,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - This app helps you to make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
-* [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting by making your own measurement scale instead of a boring battery indicator. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
+* [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - CROSS-PLATFORM NETWORK FILE TRANSFER APPLICATION. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [Monity](http://www.monityapp.com/) - A system monitoring widget for OS X. ![star 3][star3 Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - An application to manage your SSH.
