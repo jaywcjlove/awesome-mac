@@ -598,7 +598,6 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [GreenVPN](https://www.greenjsq.me/) - A powerful and fun tools that helps you to solve any network issues. (Mainly used for the access to open internet) ![Freeware][Freeware Icon]
 * [WiseVPN](https://www.wisevpn.net) - Unlimited traffic, free VPN. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/%E6%99%BA%E8%A1%8Cvpn-%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F-%E5%85%8D%E8%B4%B9vpn/id1213730464)
 * [风驰VPN](http://fengchinet2.com/) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 * [PlutoX](https://www.plutox.top/) - An application that connects you to the VPN. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac, provides many features related to VPN usage.
