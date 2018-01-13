@@ -19,7 +19,7 @@ Plugin
   * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
   * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
   * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
-  * [dracula-theme](https://atom.io/packages/dracula-theme) - Dracula beautiful color。
+  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - Dracula beautiful color。
   * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
   * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
   * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。

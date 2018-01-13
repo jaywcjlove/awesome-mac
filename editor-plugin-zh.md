@@ -20,7 +20,7 @@ Plugin
   * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
   * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
   * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
-  * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
+  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - dracula漂亮的配色。
   * [filecolor](https://atom.io/packages/filecolor) - 不同文件类型，不同颜色显示，方便查找文件。
   * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
   * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
