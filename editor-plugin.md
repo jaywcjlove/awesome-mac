@@ -29,7 +29,6 @@ Plugin
 * Front-end
   * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
-  * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
   * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
   * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
   * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
