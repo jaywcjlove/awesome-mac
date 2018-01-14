@@ -609,6 +609,7 @@
 
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac版12306 订票/捡票 助手。[![Open-Source Software][OSS Icon]](https://github.com/fancymax/12306ForMac) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon] ![star 5][star5 Icon]
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
+* [Manta](https://manta.life/) - 灵活的发票桌面应用程序，漂亮和可定制模板。[![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款Mac上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon] ![star 4][star4 Icon]
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS的非官方的WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
