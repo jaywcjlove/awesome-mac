@@ -325,6 +325,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Skitch](https://evernote.com/skitch/) - A screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
+* [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 * [Jietu](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
 * [Snipaste](https://zh.snipaste.com/) -  Is a simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)

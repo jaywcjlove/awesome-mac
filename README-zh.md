@@ -313,6 +313,7 @@
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
+* [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 3][star3 Icon]
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - 将屏幕捕获存为分层的PSD，便于编辑。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
