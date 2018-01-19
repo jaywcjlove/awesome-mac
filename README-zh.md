@@ -299,6 +299,13 @@
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 4][star4 Icon]
+* [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
+* [GifCapture](https://github.com/onmyway133/GifCapture) 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
+* [Gifox](https://gifox.io/) 专业的高颜值 GIF 录制应用。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
+* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon]
+* [ScreenShot PSD](http://txtlabs.com/) - 将屏幕捕获存为分层的PSD，便于编辑。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 
 #### 其它工具
 
@@ -313,14 +320,7 @@
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
-* [GifCapture](https://github.com/onmyway133/GifCapture) 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
-* [Gifox](https://gifox.io/) 专业的高颜值 GIF 录制应用。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑apng图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 4][star4 Icon]
-* [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
-* [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
-* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon]
-* [ScreenShot PSD](http://txtlabs.com/) - 将屏幕捕获存为分层的PSD，便于编辑。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。 ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 * [svgus](http://www.svgs.us/) - SVG 图片管理器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)

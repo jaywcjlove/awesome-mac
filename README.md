@@ -310,6 +310,13 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Snipaste](https://zh.snipaste.com/) -  Is a simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [Snip](http://snip.qq.com/) - An application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
+* [LICEcap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
+* [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Kap](https://getkap.co/) - An open-source screen-recorder built with web technology. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Must Have][bibei Icon]
+* [GifCapture](https://github.com/onmyway133/GifCapture) GIF capture app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
+* [Gifox](https://gifox.io/) Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
+* [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share your screen as a GIF. ![Freeware][Freeware Icon]
+* [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 
 #### Other Tools
 
@@ -325,14 +332,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [ColorSchemer](http://www.colorschemer.com/) - A professional color matching application for your Mac.
 * [IconKit](http://appersian.net/) - An App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder. ![Recommend][tuijian Icon]
-* [GifCapture](https://github.com/onmyway133/GifCapture) GIF capture app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
-* [Gifox](https://gifox.io/) Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
 * [APNGb](https://github.com/mancunianetz/APNGb) - A png image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [LICEcap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
-* [Kap](https://getkap.co/) - An open-source screen-recorder built with web technology. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Must Have][bibei Icon]
-* [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
-* [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share your screen as a GIF. ![Freeware][Freeware Icon]
-* [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 * [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Recommend][tuijian Icon]
 * [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
