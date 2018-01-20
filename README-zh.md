@@ -520,6 +520,7 @@
 ## 下载工具
 
 * [Transmission](https://www.transmissionbt.com/) - 免费的BitTorrent客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [qBittorrent](https://www.qbittorrent.org/) - 一个替代μTorrent的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
