@@ -178,6 +178,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - A small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
+* [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为GIF动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 
 ## Version Control Systems
 

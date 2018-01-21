@@ -167,6 +167,7 @@
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
+* [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为GIF动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 
 ## 版本控制
 
