@@ -609,7 +609,7 @@
 * [tinc](https://www.tinc-vpn.org) - VPN软件. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com/) - 连接大量VPN的应用
 * [V2Ray](https://www.v2ray.com/) - 原生支持Socks、HTTP、Shadowsocks、VMess 等协议。
-* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期Mac免费VPN。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-永不过期mac免费vpn/id1202726435)
+* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期Mac免费VPN。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-%E6%B0%B8%E4%B8%8D%E8%BF%87%E6%9C%9Fmac%E5%85%8D%E8%B4%B9vpn/id1202726435)
 * [Firefly 萤火虫](https://github.com/yinghuocho/firefly-proxy) - 免费科学上网。
 
 
