@@ -654,7 +654,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
 * [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [Mos](http://mos.u2sk.com/) - A simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
-* [BetterTouchTool](http://www.bettertouchtool.net/) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
+* [BetterTouchTool](https://boastr.net) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
