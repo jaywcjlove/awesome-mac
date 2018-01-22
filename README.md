@@ -276,7 +276,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  An application for designing animated and interactive user interfaces.
 * [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
-* [ScreenToLayers](http://jeremyvizzini.com/screentolayers/) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/jeremyvizzini/ScreenToLayers) ![Freeware][Freeware Icon]
+* [ScreenToLayers](http://screentolayersapp.com/)- Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
 * [Pixel Perfect](http://pixelperfect-app.com/) - A tool to overlay design images over implementation and make it pixel perfect. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UIs prototyping. ![Freeware][Freeware Icon]![Recommend][tuijian Icon]
