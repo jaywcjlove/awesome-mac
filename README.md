@@ -591,18 +591,18 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 ## Security Tools
 
-* [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/ransomwhere.html)
-* [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/oversight.html)
-* [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/kextviewr.html)
-* [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "please alert me anytime, anything is persistently installed" BlockBlock: "you got it 😇" [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/blockblock.html)
-* [KnockKnock](https://objective-see.com/products/knockknock.html) - "Who's there?" See what's persistently installed on your Mac. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/knockknock.html)
-* [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac with TaskExplorer. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/taskexplorer.html)
-* [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information! [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/whatsyoursign.html)
-* [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib Hijack Scanner or DHS, is a simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. [![Freeware][Freeware Icon] ![Recommended][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://objective-see.com/products/dhs.html)
+* [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection. 
+* [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam. 
+* [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. 
+* [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "please alert me anytime, anything is persistently installed" BlockBlock: "you got it 😇" 
+* [KnockKnock](https://objective-see.com/products/knockknock.html) - "Who's there?" See what's persistently installed on your Mac. 
+* [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac with TaskExplorer. 
+* [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information! 
+* [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib Hijack Scanner or DHS, is a simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. 
 
 ## Proxy and VPN Tools
 
-* [Algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 5][star5 Icon]](https://github.com/trailofbits/algo) 
+* [Algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo) 
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - A secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks/shadowsocks)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)

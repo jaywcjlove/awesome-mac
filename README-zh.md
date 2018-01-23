@@ -40,6 +40,7 @@
 - [输入法](#输入法)
 - [浏览器](#浏览器)
 - [翻译工具](#翻译工具)
+- [安全工具](#安全工具)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [远程协助](#远程协助)
@@ -585,9 +586,22 @@
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1314980676?mt=12)
 
+
+## 安全工具
+
+* [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用Ransomware检测。
+* [OverSight](https://objective-see.com/products/oversight.html) - 监控Mac的麦克风和网络摄像头，当内部麦克风被激活，或者当进程访问摄像头时提醒用户。
+* [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在OS内核中加载的模块。
+* [BlockBlock](https://objective-see.com/products/blockblock.html) - 恶意软件会自行安装，以确保它在重新引导时自动重新执行。
+* [KnockKnock](https://objective-see.com/products/knockknock.html) - “谁在那？” 查看Mac上持久安装的内容。
+* [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用TaskExplorer探索在Mac上运行的所有任务（进程）。
+* [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 验证文件的加密签名可以推断其来源或可信度。
+* [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib劫机扫描仪或DHS，是一个简单的实用程序，将扫描您的计算机的应用程序是易受dylib劫持或被劫持。
+
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
+* [Algo](https://github.com/trailofbits/algo) - 在云中设置个人IPSEC VPN。 [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo) 
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
