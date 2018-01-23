@@ -52,7 +52,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Editors and IDE
 
-* Applications to edit text, I suggest the open-source editors*
+*Applications to edit text, I suggest the open-source editors*
 
 ### Text Editors
 
