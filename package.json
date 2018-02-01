@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node build/build.js"
+    "start": "node build/build.js",
+    "postinstall": "opencollective postinstall"
   },
   "repository": {
     "type": "git",
@@ -33,5 +34,13 @@
     "marked": "^0.3.6",
     "mkdirp": "^0.5.1",
     "pygmentize-bundled": "^2.3.0"
+  },
+  "dependencies": {
+    "opencollective": "^1.0.3"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/awesome-mac",
+    "logo": "https://opencollective.com/awesome-mac/logo.txt"
   }
 }
