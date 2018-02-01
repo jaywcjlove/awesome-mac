@@ -2,7 +2,7 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
-
+[![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors) 
 
  This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
@@ -836,6 +836,36 @@ If you come across websites offering pirated software or cracks, please post [HE
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg "3 Star Recommend Software"
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg "4 Star Recommend Software"
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg "5 Star Recommend Software"
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/awesome-mac/contributors.svg?width=890" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/awesome-mac#backer)]
+
+<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/awesome-mac#sponsor)]
+
+<a href="https://opencollective.com/awesome-mac/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/1/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/2/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/3/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/4/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/5/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/6/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/7/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/8/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-mac/sponsor/9/website" target="_blank"><img src="https://opencollective.com/awesome-mac/sponsor/9/avatar.svg"></a>
+
+
 
 ## License
 
