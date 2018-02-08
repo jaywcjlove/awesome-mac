@@ -71,6 +71,7 @@
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Xcode](https://developer.apple.com/xcode/) - 开发iOS和MacOS基本IDE。 ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 * [AppCode](https://www.jetbrains.com/objc/) - 适用于iOS / macOS开发的智能IDE ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [PyCharm](https://www.jetbrains.com/pycharm/) - 一款Python开发集成环境，有专业版和社区版。![hot][hot Icon] ![tuijian][tuijian Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款Java开发集成环境。(**学生**免费)![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Webstorm](http://www.jetbrains.com/webstorm/) - 是JetBrains公司旗下一款JavaScript开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
     * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成`Node.js`，你肯定需要它，很多功能需要它。
@@ -83,7 +84,8 @@
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费，功能齐全的IDE为学生，开源和个人开发人员。 ![Freeware][Freeware Icon]
 * [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
-* [Chocolat](https://chocolatapp.com/) 轻量级本地编辑器。
+* [Chocolat](https://chocolatapp.com/) - 轻量级本地编辑器。
+* [Qt](https://www1.qt.io/cn/) - 跨平台C++图形用户界面应用程序开发框架。![tuijian][tuijian Icon]
 
 ## 开发者工具
 
