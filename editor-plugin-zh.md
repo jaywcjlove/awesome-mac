@@ -85,7 +85,7 @@ Plugin
 * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
 * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
 * [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
-* [Git Lens](https://github.com/wix/import-cost) - 增强了内置的Visual Studio代码Git功能。
+* [Git Lens](https://github.com/eamodio/vscode-gitlens) - 增强了内置的Visual Studio代码Git功能。
 
 ## Vim Plugin
 
