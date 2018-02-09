@@ -155,7 +155,7 @@
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
-* [Black Screen](https://github.com/shockone/black-screen) - 来自 21 世纪的强大终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shockone/black-screen)
+* [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。![hot][hot Icon] ![tuijian][tuijian Icon]
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。![hot][hot Icon] ![tuijian][tuijian Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
