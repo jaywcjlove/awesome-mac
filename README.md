@@ -335,6 +335,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Mark Man](http://getmarkman.com/) - Measure & Spec Fast. ![Recommend][tuijian Icon] ![star 4][star4 Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - A color-picking tool, supports Retina.
 * [ColorSchemer](http://www.colorschemer.com/) - A professional color matching application for your Mac.
+* [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Spectrum is an app for easily and intuitively creating beautiful color schemes. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/spectrum/id518156125)
 * [IconKit](http://appersian.net/) - An App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder. ![Recommend][tuijian Icon]
 * [APNGb](https://github.com/mancunianetz/APNGb) - A png image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]

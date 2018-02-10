@@ -324,6 +324,7 @@
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
+* [Spectrum](http://www.eigenlogik.com/spectrum/mac) - 一款可以轻松直观地创建漂亮配色方案的应用程序。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/spectrum/id518156125)
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑apng图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
