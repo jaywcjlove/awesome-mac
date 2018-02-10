@@ -138,7 +138,7 @@
 * [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
-* [Cellist](http://cellist.patr0n.us/index.html) - HTTP调试客户端。
+* [Proxie](https://proxieapp.com/) - HTTP调试客户端。 [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [Insomnia](https://insomnia.rest/) - 最直观的跨平台REST API客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
