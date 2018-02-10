@@ -577,7 +577,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast for good. a free, open-source web browser developed by the Mozilla Foundation. ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
 * [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
-* [傲游云浏览器](http://www.maxthon.cn/mac/) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Maxthon](http://www.maxthon.com/?lang) - Maxthon provides you with the fastest web browser available ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - Ōryōki, small web browser with a thin interface. This is an experimental project, currently in development. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
