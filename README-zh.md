@@ -323,7 +323,6 @@
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。![tuijian][tuijian Icon]
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。![tuijian][tuijian Icon] ![star 4][star4 Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
-* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件。
 * [Spectrum](http://www.eigenlogik.com/spectrum/mac) - 一款可以轻松直观地创建漂亮配色方案的应用程序。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/spectrum/id518156125)
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑apng图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
