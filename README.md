@@ -247,6 +247,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
 * [DBeaver](https://dbeaver.jkiss.org/) - A Universal SQL Client.
+* [TablePlus](https://tableplus.io) - Modern, native, and friendly management tool for relational databases.
 
 ## Design and Product
 
