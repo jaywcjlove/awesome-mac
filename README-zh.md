@@ -792,6 +792,7 @@
 * AppKed：~~`http://www.macbed.com`~~
 * 苹果软件园：~~`http://www.maczapp.com`~~
 * Mac精品软件：~~`http://xclient.info/`~~
+* MacPeers：~~`https://www.macpeers.com`~~
 * Macx：~~`https://www.macx.cn/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
