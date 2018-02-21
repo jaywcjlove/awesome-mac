@@ -822,6 +822,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * 苹果软件园：~~`http://www.maczapp.com`~~
 * Mac精品软件：~~`http://xclient.info/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
+* Mac毒：~~`https://www.macdo.cn`~~
 * Macx：~~`http://www.macx.cn/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
