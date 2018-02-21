@@ -793,6 +793,12 @@
 * 卡卡源：~~`http://www.kkroot.com/`~~
 * AppKed：~~`http://www.macbed.com`~~
 * 苹果软件园：~~`http://www.maczapp.com`~~
+* 马可菠萝：~~`http://www.macbl.com/`~~
+* MacSky苹果软件园：~~`http://www.macsky.net/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 麦克社：~~`http://www.macshe.com/`~~
+* appaddict：~~`https://www.appaddict.org/`~~
+* 未来软件园：~~`http://www.orsoon.com/`~~
 * Softasm：~~`https://softasm.com/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
