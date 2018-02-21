@@ -805,6 +805,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
+* MacFlow：[https://macflow.net/](https://macflow.net/)
 * [HackStore](http://hack-store.com) An amazing free alternative to the App Store for side developers and apps for Mac OS which Apple doesn't accept.
 * **Chinese community**
     * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
@@ -818,8 +819,11 @@ If you come across websites offering pirated software or cracks, please post [HE
 * MacPeers：~~`http://www.macpeers.com`~~
 * Mac志：~~`http://www.isofts.org`~~
 * Mac软件分享：~~`http://www.waitsun.com`~~
+* Mac破解软件：~~`https://www.macappstore.net/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
 * AppKed：~~`http://www.macbed.com`~~
 * 苹果软件园：~~`http://www.maczapp.com`~~
+* Softasm：~~`https://softasm.com/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~

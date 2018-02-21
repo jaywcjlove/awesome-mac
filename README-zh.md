@@ -789,8 +789,11 @@
 * MacPeers：~~`http://www.macpeers.com`~~
 * Mac志：~~`http://www.isofts.org`~~
 * Mac软件分享：~~`http://www.waitsun.com`~~
+* Mac破解软件：~~`https://www.macappstore.net/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
 * AppKed：~~`http://www.macbed.com`~~
 * 苹果软件园：~~`http://www.maczapp.com`~~
+* Softasm：~~`https://softasm.com/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~
