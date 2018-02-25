@@ -206,7 +206,8 @@
 
 ## 数据库
 
-* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
+* [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![star 4][star4 Icon]
+* [TablePlus](https://tableplus.io) - 支持PostgreSQL，MySQL，RedShift，MariaDB ...各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL数据库官方管理软件。
 * [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - 一个数据库设计工具，它帮助创建高质素的概念、逻辑和物理数据模型。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/navicat-data-modeler-essentials-%E8%A7%86%E8%A7%89%E5%8C%96%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E5%99%A8/id532423082)
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持SQL Server, Postgres, Oracle 以及MySQL等主流的数据库可视化管理工具.
@@ -236,7 +237,6 @@
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端。
 * [DBeaver](https://dbeaver.jkiss.org/) - 跨平台SQL客户端，支持大部分主流数据库
-* [TablePlus](https://tableplus.io) - 现代，本地和友好的关系数据库管理工具，支持Redis。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![star 5][star5 Icon]
 
 ## 设计和产品
 

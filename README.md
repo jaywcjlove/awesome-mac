@@ -217,7 +217,8 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 ## Databases
 
-* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Must Have][bibei Icon] ![star 5][star5 Icon]
+* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![star 4][star4 Icon]
+* [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured. [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - Is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. [![App Store][app-store Icon]](https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082)
 * [SQLPro Studio](http://www.sqlprostudio.com/) - A simple, powerful database manager for macOS.
@@ -247,7 +248,6 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
 * [DBeaver](https://dbeaver.jkiss.org/) - A Universal SQL Client.
-* [TablePlus](https://tableplus.io) - Modern, native, and friendly management tool for relational databases. ![star 5][star5 Icon]
 
 ## Design and Product
 
