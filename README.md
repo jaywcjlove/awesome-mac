@@ -652,6 +652,8 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [HTTrack](http://www.httrack.com) - A useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 
 ### GTD (Getting Things Done)
+
+* [Taskade](https://todoist.com/mac) - This is building a real-time collaborative editor for teams. 
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
 * [dida365](https://help.dida365.com/) - Lightweight to-do application。![Freeware][Freeware Icon]
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
