@@ -840,7 +840,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 **[⬆ back to top](#contents)**
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Free Software"
+[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot Software"
 [tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg "Recommend Software"
 [bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg "Must Have Software"
