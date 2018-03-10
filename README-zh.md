@@ -135,7 +135,6 @@
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 * [James](https://github.com/james-proxy/james) - 用于https和http进行查询映射请求。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - 一款支持HTTP(S)的中间人代理工具，可在终端下运行，可用于抓包 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
-* [Insomnia 3.0](http://insomnia.rest/) - 漂亮的HTTP请求测试工具。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Proxie](https://proxieapp.com/) - HTTP调试客户端。 [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
