@@ -60,7 +60,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的，[VSCode常用插件](editor-plugin-zh.md#vscode-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
 * [LightTable](http://lighttable.com/) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-* [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。![Freeware][Freeware Icon]
+* [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](http://panic.com/coda/) - 编写Web应用长得漂亮的编辑器。
 * [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] ![hot][hot Icon]
