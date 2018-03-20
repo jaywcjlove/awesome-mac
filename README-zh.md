@@ -593,6 +593,7 @@
 
 ## 安全工具
 
+* [LinkLiar](https://github.com/halo/LinkLiar) - 可以帮助你哄骗Wi-Fi和以太网接口的MAC地址。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用Ransomware检测。
 * [OverSight](https://objective-see.com/products/oversight.html) - 监控Mac的麦克风和网络摄像头，当内部麦克风被激活，或者当进程访问摄像头时提醒用户。
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在OS内核中加载的模块。
