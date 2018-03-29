@@ -554,7 +554,7 @@
 * [落格输入法](https://im.logcg.com/loginputmac) - 打破 Mac 双拼多年来的窘境。
 * [iAvro](https://www.omicronlab.com/iavro.html) - 孟加拉语输入法。 [![Open-Source Software][OSS Icon]](https://github.com/torifat/iAvro) ![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。![Freeware][Freeware Icon]
-* [WBIM](http://www.pawpawsoft.com) - 五笔输入法。![Freeware][Freeware Icon]
+* [WBIM](http://www.glamtime.com.cn/product/wbim) - 五笔输入法。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?mt=12)
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。 ![Freeware][Freeware Icon]
