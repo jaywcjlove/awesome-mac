@@ -540,8 +540,6 @@
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。![Freeware][Freeware Icon]
 * [115](http://pc.115.com/) - 115云客户端。![Freeware][Freeware Icon]
-* ~~[360](http://c49.yunpan.360.cn/) - 360云客户端。![Freeware][Freeware Icon]~~
-* ~~[快盘](http://web.kuaipan.cn/d/mac) - 金山快盘。 ![Freeware][Freeware Icon]~~
 * [ownCloud](https://owncloud.org) - 私有云网盘。
 * [NextCloud](https://nextcloud.com/) - 基于ownCloud完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供50GB的免费存储空间。![Freeware][Freeware Icon]
