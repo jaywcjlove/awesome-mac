@@ -692,7 +692,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
     * [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
     * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
     * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
-    * [MacPass](http://mstarke.github.io/MacPass/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+    * [MacPass](https://macpass.github.io/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
     * [Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 
 * **Finder**
