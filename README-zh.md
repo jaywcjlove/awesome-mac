@@ -611,7 +611,6 @@
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - 科学上网。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637)
 * [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。![hot][hot Icon]![tuijian][tuijian Icon]
-* [srocket](http://50r.cn/ifn76I) - 开启科学上网。![Freeware][Freeware Icon]
 * [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得2小时免费VPN加速。![Freeware][Freeware Icon]
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。![Freeware][Freeware Icon]
 * [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。![Freeware][Freeware Icon]
