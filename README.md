@@ -279,7 +279,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  An application for designing animated and interactive user interfaces.
 * [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
-* [ScreenToLayers](http://screentolayersapp.com/)- Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
+* [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers)- Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
 * [Pixel Perfect](http://pixelperfect-app.com/) - A tool to overlay design images over implementation and make it pixel perfect. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UIs prototyping. ![Freeware][Freeware Icon]![Recommend][tuijian Icon]
@@ -806,7 +806,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * MacFlow：[https://macflow.net/](https://macflow.net/)
-* [HackStore](http://hack-store.com) An amazing free alternative to the App Store for side developers and apps for Mac OS which Apple doesn't accept.
 * **Chinese community**
     * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
     * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![hot][hot Icon] ![star 5][star5 Icon]
