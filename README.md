@@ -453,7 +453,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software. Development is open to new talent and new ideas, and our software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
 * [KOffice](https://www.kde.org/applications/office/) - KOffice contains a word processor (KWord), a spreadsheet (KSpread), a presentation program (KPresenter), and a number of other components that varied over the course of KOffice’s development. ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
-* [iChm](http://www.robinlu.com/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. ![Freeware][Freeware Icon]
+* [iChm](https://github.com/NSGod/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Skim](http://skim-app.sourceforge.net) - A PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
