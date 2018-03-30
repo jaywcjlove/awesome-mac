@@ -596,6 +596,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 ## Security Tools
 
+* [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes technology crushes the growing threat of Mac malware. So you are protected and your machine keeps running silky smooth. Finally, cybersecurity smart enough for the Mac. ![Freeware][Freeware Icon]
 * [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection.
 * [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
