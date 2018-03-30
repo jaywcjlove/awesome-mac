@@ -449,27 +449,27 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Reading and Writing Tools
 
+* [Bear Writer](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
+* [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![Recommend][tuijian Icon]
+* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
+* [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [OpenOffice](http://www.openoffice.org/download/index.html) - Compatible with other major office suites, Apache OpenOffice is free to download, use and distribute. 。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] ![Freeware][Freeware Icon]
 * [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software. Development is open to new talent and new ideas, and our software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
 * [KOffice](https://www.kde.org/applications/office/) - KOffice contains a word processor (KWord), a spreadsheet (KSpread), a presentation program (KPresenter), and a number of other components that varied over the course of KOffice’s development. ![Freeware][Freeware Icon]
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [iChm](https://github.com/NSGod/ichm) - An ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
-* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
-* [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [Skim](http://skim-app.sourceforge.net) - A PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 * [MarginNote](https://marginnote.com/) - An in-depth PDF and EPUB reading, learning, managing and note taking app. ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
 * [Klib](http://klib.me/) - A new way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
+* [Skim](http://skim-app.sourceforge.net) - A PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [texpad](https://www.texpad.com/) - A great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
-* [Bear Writer](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
-* [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![Recommend][tuijian Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Is the open source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * RSS
     * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
+    * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
     * [ReadKit](http://readkitapp.com/) - A Mac read later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
     * [Reeder 3](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Leaf](http://www.rockysandstudio.com/) - An amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
     * [Vienna](http://viennarss.github.io/) - An RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 * Markdown
     * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - A Markdown text editor that can find writing fun. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
@@ -486,15 +486,15 @@ You may come across some non-English characters. Those apps don't have an Englis
     * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
     * [Cmd Markdown](https://www.zybuluo.com/cmd/) - Open the journey of excellence. ![Freeware][Freeware Icon]
 * Note-taking
-    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX. ![Recommend][tuijian Icon]
     * [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
     * [Inkdrop](https://www.inkdrop.info/) - The notebook app for Markdown lovers built on top of Electron.
-    * [Notes](http://www.get-notes.com/) - A clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-    * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) Note-taking app. ![Freeware][Freeware Icon]
-    * [有道云笔记](http://note.youdao.com/) - A note-taking app. It features multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - A note-taking app. It features multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Leanote](http://app.leanote.com) - A note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
+    * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) Note-taking app. ![Freeware][Freeware Icon]
+    * [Notes](http://www.get-notes.com/) - A clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+    * [有道云笔记](http://note.youdao.com/) - A note-taking app. It features multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+    * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX. ![Recommend][tuijian Icon]
+    * [为知笔记](http://www.wiz.cn/download.html) - A note-taking app. It features multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 ## Ebooks
 
@@ -555,18 +555,18 @@ You may come across some non-English characters. Those apps don't have an Englis
 ## Input Methods
 
 * ~~[QQ Input for Chinese](http://qq.pinyin.cn/) - Produced by Tencent. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]~~
-* [Sogou Input for Chinese](http://pinyin.sogou.com/mac/) - Sogou input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Baidu Input for Chinese](https://srf.baidu.com/input/mac.html) - Baidu input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Emoticon Input](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - Emoticons icons or characters input method. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Sogou Input for Chinese](http://pinyin.sogou.com/mac/) - Sogou input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [LogInput](https://im.logcg.com/loginputmac) - Enter ShuangPin is a nightmare in macOS，From now on，This nightmare can end up.
 * [iAvro](https://www.omicronlab.com/iavro.html) - Phonetic Bangla input method for macOS. [![Open-Source Software][OSS Icon]](https://github.com/torifat/iAvro) ![Freeware][Freeware Icon]
 * [Qingge Wubi Input](https://qingg.im/index.html) - Wubi input produced for iOS and Mac. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [WBIM](http://www.glamtime.com.cn/product/wbim) - Wubi input method. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?mt=12)
-* [Emoticon Input](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - Emoticons icons or characters input method. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - Rime input method. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 * [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujah English input method. ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
 * [Type2Phone](http://matthewpalmer.net/rocket/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?mt=12)
 * [Kawa](https://github.com/utatti/kawa) - A better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [WBIM](http://www.glamtime.com.cn/product/wbim) - Wubi input method. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?mt=12)
 
 ## Web Browsers
 
