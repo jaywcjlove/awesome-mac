@@ -57,25 +57,23 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ### Text Editors
 
-* [Atom](https://atom.io) - A hackable text editor
-for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin). ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](editor-plugin.md#sublime-text-plugin).
- ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Brackets](http://brackets.io) - A modern, open-source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
-* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
-* [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-* [TextMate](https://macromates.com) - An editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
+* [Atom](https://atom.io) - A hackable text editor for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin). ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for Macintosh.
+* [Brackets](http://brackets.io) - A modern, open-source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
+* [Chocolat](https://chocolatapp.com/) - Native text editor.
+* [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
+* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
+* [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
+* [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+* [micro](https://micro-editor.github.io) - A modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
+* [ONI](https://github.com/onivim/oni) - An IDE powered by Neovim. [![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
+* [Sublime Text](http://www.sublimetext.com/3) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](editor-plugin.md#sublime-text-plugin). ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
+* [TextMate](https://macromates.com) - An editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
+* [Tincta](https://codingfriends.github.io/Tincta/) - A text editor for Mac OS X. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [ONI](https://github.com/onivim/oni) - An IDE powered by Neovim. [![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
-* [micro](https://micro-editor.github.io) - A modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
-* [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tincta](https://codingfriends.github.io/Tincta/) - A text editor for Mac OS X. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
-* [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
-* [Chocolat](https://chocolatapp.com/) - Native text editor.
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 ### IDEs
 
