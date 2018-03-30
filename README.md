@@ -631,13 +631,13 @@ You may come across some non-English characters. Those apps don't have an Englis
 ### General Tools
 * [Alfred](https://www.alfredapp.com/) - An award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
 * [BetterZip 3](https://macitbetter.com/) - An archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Has a good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 * [Keka](http://www.kekaosx.com) - A free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Numi](http://numi.io/) - A beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - Memo is a simple and elegant app,Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
-* [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Has a good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
@@ -649,23 +649,23 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [muCommander](http://www.mucommander.com) - A lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
-* [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
 * [HTTrack](http://www.httrack.com) - A useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
+* [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
 
 ### GTD (Getting Things Done)
 
-* [Taskade](https://www.taskade.com) - This is building a real-time collaborative editor for teams.
-* [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
-* [dida365](https://help.dida365.com/) - Lightweight to-do application。![Freeware][Freeware Icon]
-* [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
-* [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Recommend][tuijian Icon]
-* [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
-* [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
 * [2Do](http://www.2doapp.com/) - A nice todo app.
-* [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
-* [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
+* [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
+* [dida365](https://help.dida365.com/) - Lightweight to-do application。![Freeware][Freeware Icon]
+* [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Recommend][tuijian Icon]
 * [Focus](https://masterbuilders.io) - A beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12)
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
+* [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
+* [Taskade](https://www.taskade.com) - This is building a real-time collaborative editor for teams.
+* [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
+* [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
+* [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
+* [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 
 ### Productivity
 * [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
@@ -691,18 +691,18 @@ You may come across some non-English characters. Those apps don't have an Englis
     * [Magnet](http://magnet.crowdcafe.com/) - A window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
 * **Password Management**
-    * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords. ![Freeware][Freeware Icon]
     * [1Password](https://1password.com/) - A cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
     * [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
-    * [MacPass](https://macpass.github.io/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
     * [Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
+    * [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
+    * [MacPass](https://macpass.github.io/) - An open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+    * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords. ![Freeware][Freeware Icon]
 
 * **Finder**
-    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
     * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
     * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - An all-around file management app.
+    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
     * [TotalFinder](http://totalfinder.binaryage.com/) - A Chrome-like app as finder substitute.
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
