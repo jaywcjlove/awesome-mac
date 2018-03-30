@@ -596,8 +596,8 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 ## Security Tools
 
 * [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
-* [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection.
+* [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "please alert me anytime, anything is persistently installed" BlockBlock: "you got it 😇"
