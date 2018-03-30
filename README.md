@@ -133,10 +133,10 @@ You may come across some non-English characters. Those apps don't have an Englis
 #### Regular Expression Editors
 
 * [Patterns](http://krillapps.com/patterns/) - A regular expression editor.
-* [Reginald](https://github.com/michaeltyson/Reginald) - A regular expression test application. [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/). [![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
+* [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - A development tool for regular expressions. ![hot][hot Icon]
 * [Regex](https://motionobj.com/regex/) - A regular expression testing tool with an emphasis on simplicity.
 * [Reggy](http://reggyapp.com/) - An open-source regular expression editor. [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
-* [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - A development tool for regular expressions. ![hot][hot Icon]
+* [Reginald](https://github.com/michaeltyson/Reginald) - A regular expression test application. [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/). [![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
 
 #### Test Tools
 
