@@ -630,26 +630,26 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ### General Tools
 * [Alfred](https://www.alfredapp.com/) - An award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
+* [AirServer](http://www.airserver.com/Download) - The most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 * [BetterZip 3](https://macitbetter.com/) - An archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Has a good community. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
-* [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
-* [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
-* [Keka](http://www.kekaosx.com) - A free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [Numi](http://numi.io/) - A beautiful calculator app for Mac. ![Freeware][Freeware Icon]
-* [Memo](http://memo-app.net/) - Memo is a simple and elegant app,Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
-* [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
-* [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
+* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
+* [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
+* [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
+* [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
+* [HTTrack](http://www.httrack.com) - A useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
+* [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
+* [Itsycal](https://www.mowglii.com/itsycal/) - A tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
+* [Keka](http://www.kekaosx.com) - A free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
+* [Memo](http://memo-app.net/) - Memo is a simple and elegant app,Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
+* [muCommander](http://www.mucommander.com) - A lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
+* [Numi](http://numi.io/) - A beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - A nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
-* [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
-* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
-* [AirServer](http://www.airserver.com/Download) - The most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-* [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
-* [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
-* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [muCommander](http://www.mucommander.com) - A lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
-* [HTTrack](http://www.httrack.com) - A useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
+* [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 * [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
 
 ### GTD (Getting Things Done)
@@ -668,18 +668,18 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 
 ### Productivity
-* [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
-* [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/tekezo/Karabiner)
-* [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
-* [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
-* [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
-* [Mos](http://mos.u2sk.com/) - A simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [BetterTouchTool](https://boastr.net) - A great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - A tool for powerful automation of OS X, programmable by Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
+* [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/tekezo/Karabiner)
+* [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
+* [Keytty](http://keytty.com) - A app to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
+* [Mos](http://mos.u2sk.com/) - A simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 * [RescueTime](https://www.rescuetime.com/) - A personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
+* [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - Is the best way to visualize, maintain, and simplify your projects. Project Management made easy.
+* [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
+* [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
 - **Window Management**
     * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
     * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
@@ -757,21 +757,21 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 *Using [Homebrew Cask](https://github.com/phinze/homebrew-cask) to install. List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers. If you install it manually, you can move the downloaded `.qlgenerator` file to` ~ / Library / QuickLook` `qlmanage -r`*
 
-* [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
-* [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - Preview source code files with syntax highlighting. `brew cask install qlcolorcode`
-* [QLMarkdown](https://github.com/toland/qlmarkdown) - Preview Markdown files. `brew cask install qlmarkdown`
-* [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files. `brew cask install quicklook-json`
-* [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch) - Preview .patch files. `brew cask install qlprettypatch`
-* [QuickLookCSV](https://github.com/p2/quicklook-csv) - Preview CSV files. `brew cask install quicklook-csv`
 * [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/) - Preview the compressed format file for BetterZip software. `brew cask install betterzipql`
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Preview iOS / macOS app and provision information. `brew cask install provisionql`
+* [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - Preview source code files with syntax highlighting. `brew cask install qlcolorcode`
+* [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch) - Preview .patch files. `brew cask install qlprettypatch`
 * [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - Display image size and resolution. `brew cask install qlimagesize`
-* [WebP](https://github.com/dchest/webp-quicklook) - Preview WebP images. `brew cask install webpquicklook`
-* [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - Preview the contents of a standard Apple installer package. `brew cask install suspicious-package`
-* [QuickLookASE](https://github.com/rsodre/QuickLookASE) - Preview  Adobe ASE Color Swatches generated with Photoshop，Illustrator，Prisma among many others. `brew cask install quicklookase`
+* [QLMarkdown](https://github.com/toland/qlmarkdown) - Preview Markdown files. `brew cask install qlmarkdown`
 * [QLVideo](https://github.com/Marginal/QLVideo) - Preview most types of video files, as well as their thumbnails, cover art and metadata. `brew cask install qlvideo`
 * [QuickLookAPK](https://github.com/hezi/QuickLookAPK) - Preview Android APK files. `brew cask install quicklookapk`
-* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Preview iOS / macOS app and provision information. `brew cask install provisionql`
+* [QuickLookASE](https://github.com/rsodre/QuickLookASE) - Preview  Adobe ASE Color Swatches generated with Photoshop，Illustrator，Prisma among many others. `brew cask install quicklookase`
+* [QuickLookCSV](https://github.com/p2/quicklook-csv) - Preview CSV files. `brew cask install quicklook-csv`
+* [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files. `brew cask install quicklook-json`
+* [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
 * [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - Preview Adobe Photoshop pattern files. `brew cask install quicklook-pat`
+* [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - Preview the contents of a standard Apple installer package. `brew cask install suspicious-package`
+* [WebP](https://github.com/dchest/webp-quicklook) - Preview WebP images. `brew cask install webpquicklook`
 
 
 ## Third Party App Markets
@@ -782,10 +782,10 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
 
-* [MacUpdate Desktop](https://www.macupdate.com/) - Simplifies finding, buying and installing apps for your Mac. ![star 4][star4 Icon]
-* [Homebrew Cask](http://caskroom.github.io) - A command line installation manager which extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike.
 * [Homebrew](https://brew.sh/) - The missing package manager for macOS. ![star 4][star4 Icon] ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
-* [MacPorts](https://www.macports.org/) - The MacPorts Project is an open-source community initiative to design an easy-to-use  system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
+* [Homebrew Cask](http://caskroom.github.io) - A command line installation manager which extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike.
+* [MacPorts](https://www.macports.org/) - The MacPorts Project is an open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
+* [MacUpdate Desktop](https://www.macupdate.com/) - Simplifies finding, buying and installing apps for your Mac. ![star 4][star4 Icon]
 
 ### Black-List
 
