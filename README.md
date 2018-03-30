@@ -389,25 +389,25 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 #### Email Clients
 
-* [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
-* [Nylas Mail](https://nylas.com/nylas-mail/) - An extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Mail Master](http://mail.163.com/dashi/) - Netease full platform of the mailbox management client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
 * [N1](https://www.nylas.com/) - An extensible, open-source mail app, free for developers and $7/month for Pro.
-* [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
-* [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
 * [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface, scheduling and read receipts.
+* [Nylas Mail](https://nylas.com/nylas-mail/) - An extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
+* [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
+* [Postbox](https://www.postbox-inc.com) - A powerful, simple and beautiful email client, need to pay for a license.
+* [Spark](https://sparkmailapp.com/) - A fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier. ![Freeware][Freeware Icon]
 * [Yomail](http://www.yomail.com/) - Maybe the best email client for email。![Freeware][Freeware Icon]
 
 ## Data Recovery Tools
 
-* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - A comprehensive and professional data recovery tool for most cases.
-* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - A powerful recovery tool for Mac file recovery, Time machine recovery, Encrypted Disk recovery and much more.
+* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - A powerful tool which recovers data on disks, even if their partitions are formatted, damaged or deleted.
+* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - A powerful recovery tool for Mac file recovery, Time machine recovery, Encrypted Disk recovery and much more.
 
 ## Audio and Video Tools
 
