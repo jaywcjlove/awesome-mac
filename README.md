@@ -77,23 +77,23 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ### IDEs
 
-* [Xcode](https://developer.apple.com/xcode/) - The essential IDE for iOS/macOS development. ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
+* [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [PyCharm](https://www.jetbrains.com/pycharm/) - A powerful Python IDE, which has professional version and community version. ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [CLion](https://www.jetbrains.com/clion/) - A powerful C and C++ IDE. (**Free** for Students) ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Coda2](http://panic.com/coda/) - A fast, clean and powerful text editor.
+* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![Recommend][tuijian Icon]
+* [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+* [PyCharm](https://www.jetbrains.com/pycharm/) - A powerful Python IDE, which has professional version and community version. ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [Qt](https://www1.qt.io/cn/) - A cross-platform application framework. ![tuijian][tuijian Icon]
+* [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Free, fully-featured IDE for students, open-source and individual developers. ![Freeware][Freeware Icon]
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info. ![hot][hot Icon] ![Recommend][tuijian Icon]
     * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - `Node.js` integration. You definitely need this, quite a few features require it.
     * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - A JetBrains IDE plugin supporting the EditorConfig standard.
     * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Provides 3 modes, nice and clean.
-* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
-* [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
-* [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon]
-* [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Free, fully-featured IDE for students, open-source and individual developers. ![Freeware][Freeware Icon]
-* [Qt](https://www1.qt.io/cn/) - A cross-platform application framework. ![tuijian][tuijian Icon]
+* [Xcode](https://developer.apple.com/xcode/) - The essential IDE for iOS/macOS development. ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 
 ## Development Tools
 
