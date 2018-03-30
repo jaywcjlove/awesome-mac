@@ -349,43 +349,43 @@ You may come across some non-English characters. Those apps don't have an Englis
 ## Virtual Machines
 
 * [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS. ![hot][hot Icon]
+* [Veertu](https://veertu.com) - The lightest VM on Mac. A responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [VMWare Fusion](http://www.vmware.com/) - A powerful, commercial VM developed by VMware.
-* [Veertu](https://veertu.com) - The lightest VM on Mac. A responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 
 
 ## Communication
 
 *Team communication and collaboration tools*
 
-* [Franz](http://meetfranz.com/) - An [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat client. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
-* [QQ](http://im.qq.com/macqq/index.shtml) - Official QQ app for Mac. (**Missing English Docs**) ![Freeware][Freeware Icon]
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&lang=en) - Official WeChat app for Mac. ![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open-source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
-* [Skype](https://www.skype.com/) - A cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.
-* [Maipo](http://weiboformac.sinaapp.com/) - A third-party Weibo client for Mac OS. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512) ![star 5][star5 Icon]
-* [御飯](https://imach.me/gohanapp/macos/) - A third-party FanFou client for Mac OS. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon]
-* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
-* [Signal Desktop](https://signal.org/download/) - Fast, simple, secure. Privacy that fits in your pocket. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
-* [Telegram](https://desktop.telegram.org) - A messaging app with a focus on speed and security.
-* [Messenger For Mac](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - A free instant messaging application for Mac OS X, connecting to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-* [Gitter](https://gitter.im) - An instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
-* [TALK](https://jianliao.com/site?lang=en) - A communication tool for enterprise use. You can build your own service with its open-source version. (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
-* [DingTalk](https://www.dingtalk.com/en) - DingTalk is a free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
-* [LimeChat](http://limechat.net/mac/) - An open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
-* [Riot](https://about.riot.im/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
-* [Slack](https://slack.com/) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
-* [零信](https://pubu.im/apps/osx) - Work anywhere at anytime. Cross platform. (**Missing English UI and Docs**)
-* [今目标](http://www.jingoal.com/client/mac/mac.htm) - An internet work platform for small-to-medium sized enterprises. (**Missing English UI and Docs**)
-* [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet-based teams. (**Missing English UI and Docs**)
 * [Bitpost](https://voluntary.net/bitpost/) - A private decentralized messaging system. Instead of connecting to centralized servers (like Facebook, Gmail, etc.) or federated servers (like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
-* [Teambition](https://www.teambition.com) - A team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
-* [日事清](https://www.rishiqing.com) - A personal calendar management, team collaboration tool. Schedule, plan assignment, notes summary.(**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
-* [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet-based teams. (**Missing English UI and Docs**)
+* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
+* [DingTalk](https://www.dingtalk.com/en) - DingTalk is a free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
+* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open-source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
+* [Franz](http://meetfranz.com/) - An [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat client. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
+* [Gitter](https://gitter.im) - An instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
+* [御飯](https://imach.me/gohanapp/macos/) - A third-party FanFou client for Mac OS. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon]
+* [今目标](http://www.jingoal.com/client/mac/mac.htm) - An internet work platform for small-to-medium sized enterprises. (**Missing English UI and Docs**)
 * [Keybase](https://keybase.io/) - Crypto for everyone, not just programmers! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+* [LimeChat](http://limechat.net/mac/) - An open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
+* [Maipo](http://weiboformac.sinaapp.com/) - A third-party Weibo client for Mac OS. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512) ![star 5][star5 Icon]
+* [Messenger For Mac](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
+* [零信](https://pubu.im/apps/osx) - Work anywhere at anytime. Cross platform. (**Missing English UI and Docs**)
+* [QQ](http://im.qq.com/macqq/index.shtml) - Official QQ app for Mac. (**Missing English Docs**) ![Freeware][Freeware Icon]
+* [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [Riot](https://about.riot.im/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
+* [日事清](https://www.rishiqing.com) - A personal calendar management, team collaboration tool. Schedule, plan assignment, notes summary.(**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Signal Desktop](https://signal.org/download/) - Fast, simple, secure. Privacy that fits in your pocket. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
+* [Slack](https://slack.com/) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
+* [Skype](https://www.skype.com/) - A cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.
+* [TALK](https://jianliao.com/site?lang=en) - A communication tool for enterprise use. You can build your own service with its open-source version. (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
+* [Teambition](https://www.teambition.com) - A team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
+* [Telegram](https://desktop.telegram.org) - A messaging app with a focus on speed and security.
+* [Textual](https://www.codeux.com/textual) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&lang=en) - Official WeChat app for Mac. ![Freeware][Freeware Icon]
+* [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
 
 #### Email Clients
 
