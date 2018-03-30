@@ -204,13 +204,13 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 #### Version Control Managers
 
-* [GitLab](http://gitlab.com/) - Open-source Git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Github](https://github.com) - Code hosting, project management and deployment for software projects. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
-* [phabricator](https://phabricator.com) - Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
-* [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
 * [Gerrit](https://www.gerritcodereview.com) - Provides web based code review and repository management for the Git version control system. ![Freeware][Freeware Icon]
 * [Gitblit](http://www.gitblit.com/) - Pure java Git solution for managing, viewing, and serving Git repositories. [![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon] ![must-have][bibei Icon] ![hot][hot Icon]
+* [GitHub](https://github.com) - Code hosting, project management and deployment for software projects. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [GitLab](http://gitlab.com/) - Open-source Git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
+* [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
+* [phabricator](https://phabricator.com) - Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
 
 ## Databases
 
