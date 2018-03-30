@@ -10,13 +10,13 @@
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
-![hot][hot Icon] means **hot** app;  
-![Recommend][tuijian Icon] means **recommended** app;  
-![Must Have][bibei Icon] means **must have** app;  
-![App Store][app-store Icon] means **App store** hyperlink;  
-![1 star][red Icon] means highly recommended, must-have app. The number of stars represents how strongly I recommend it;  
+![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
+![hot][hot Icon] means **hot** app;
+![Recommend][tuijian Icon] means **recommended** app;
+![Must Have][bibei Icon] means **must have** app;
+![App Store][app-store Icon] means **App store** hyperlink;
+![1 star][red Icon] means highly recommended, must-have app. The number of stars represents how strongly I recommend it;
 
 You may come across some non-English characters. Those apps don't have an English version yet, so you might want steer clear of them.
 
@@ -201,7 +201,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 * [Versions](http://www.versionsapp.com/) - A Mac Subversion Client (SVN).
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Powerful version control with a gorgeous interface.
-* [SmartGit](http://www.syntevo.com/smartgit/) - A Git client with support.   
+* [SmartGit](http://www.syntevo.com/smartgit/) - A Git client with support.
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac and Linux. ![hot][hot Icon] ![Recommend][tuijian Icon]
 
 #### Version Control Managers
@@ -315,7 +315,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Snipaste](https://zh.snipaste.com/) -  Is a simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
 * [Snip](http://snip.qq.com/) - An application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
-* [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![star 3][star3 Icon] 
+* [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![star 3][star3 Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kap](https://getkap.co/) - An open-source screen-recorder built with web technology. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [GifCapture](https://github.com/onmyway133/GifCapture) GIF capture app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
@@ -574,7 +574,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 * [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for  Google Chrome. ![Freeware][Freeware Icon]
+* [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon]](https://chromium.googlesource.com/chromium/src/) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast for good. a free, open-source web browser developed by the Mozilla Foundation. ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
 * [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
@@ -582,6 +582,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - Ōryōki, small web browser with a thin interface. This is an experimental project, currently in development. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
+* [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity OnlineProtect your privacy. Defend yourself against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor-browser.git) ![Freeware][Freeware Icon]
 
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
@@ -589,12 +590,13 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
 * [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [海词词典](http://cidian.dict.cn/mac.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)  
+* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 
 ## Security Tools
 
 * [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
+* [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection.
 * [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
@@ -651,7 +653,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 ### GTD (Getting Things Done)
 
-* [Taskade](https://www.taskade.com) - This is building a real-time collaborative editor for teams. 
+* [Taskade](https://www.taskade.com) - This is building a real-time collaborative editor for teams.
 * [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
 * [dida365](https://help.dida365.com/) - Lightweight to-do application。![Freeware][Freeware Icon]
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
