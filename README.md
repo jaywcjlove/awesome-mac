@@ -214,37 +214,37 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Databases
 
-* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![star 4][star4 Icon]
-* [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured. [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
+* [Base 2](http://menial.co.uk/base/) - An application for creating, designing, editing and browsing SQLite 3 database files.
+* [Bdash](https://github.com/bdash-app/bdash) - A modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
+* [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - A powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
+* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [DB Browser for SQLite](http://sqlitebrowser.org/) - The Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
+* [DBeaver](https://dbeaver.jkiss.org/) - A Universal SQL Client.
+* [DataGrip](http://www.jetbrains.com/datagrip/) - Database management software by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+* [Datum - SQLite](http://datumapps.com/datum.html) - A full featured, modern, and fast SQLite manager.
+* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - A modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
+* [JackDB](https://www.jackdb.com/) - A secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
+* [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
+* [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
+* [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
+* [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - A simple MongoDB GUI.
+* [MongoBooster](http://www.mongobooster.com/) - Shell-centric and cross-platform GUI tool for MongoDB. It provides update-in-place, fluent query builder, ES6 syntax support and True IntelliSense experience. ![Freeware][Freeware Icon]
+* [MongoChef](https://studio3t.com/) - The GUI for MongoDB. ![Freeware][Freeware Icon]
+* [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
+* [Mongotron](http://mongotron.io/) - A Mongo DB GUI built using Electron and Angular Js. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/officert/mongotron)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - Is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. [![App Store][app-store Icon]](https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082)
-* [SQLPro Studio](http://www.sqlprostudio.com/) - A simple, powerful database manager for macOS.
-* [Bdash](https://github.com/bdash-app/bdash) - A modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
-* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL client for Mac. ![star 4][star4 Icon]
-* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - A modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
-* [Base 2](http://menial.co.uk/base/) - An application for creating, designing, editing and browsing SQLite 3 database files.
-* [SQLight](http://aurvan.com/index.php?act=sqlight_details) - Is an SQLite database manager tool. ![Freeware][Freeware Icon] ![star 5][star5 Icon]
-* [DB Browser for SQLite](http://sqlitebrowser.org/) - The Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
-* [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
-* [Robo 3T](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Studio3T/robomongo)
-* [MongoBooster](http://www.mongobooster.com/) - Shell-centric and cross-platform GUI tool for MongoDB. It provides update-in-place, fluent query builder, ES6 syntax support and True IntelliSense experience. ![Freeware][Freeware Icon]
-* [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - A simple MongoDB GUI.
-* [MongoChef](https://studio3t.com/) - The GUI for MongoDB. ![Freeware][Freeware Icon]
-* [Mongotron](http://mongotron.io/) - A Mongo DB GUI built using Electron and Angular Js. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/officert/mongotron)
-* [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - A powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [JackDB](https://www.jackdb.com/) - A secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
+* [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
+* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL client for Mac. ![star 4][star4 Icon]
 * [RedisClient](https://github.com/UUGU/redis-client-app) - A redis client application on mac, windows and linux. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app) ![star 5][star5 Icon]
 * [RedisDesktopManager](http://redisdesktop.com) - Cross-platform GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
-* [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
-* [Datum - SQLite](http://datumapps.com/datum.html) - A full featured, modern, and fast SQLite manager.
-* [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
-* [DataGrip](http://www.jetbrains.com/datagrip/) - Database management software by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+* [Robo 3T](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Studio3T/robomongo)
+* [SQLPro Studio](http://www.sqlprostudio.com/) - A simple, powerful database manager for macOS.
+* [SQLight](http://aurvan.com/index.php?act=sqlight_details) - Is an SQLite database manager tool. ![Freeware][Freeware Icon] ![star 5][star5 Icon]
+* [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![star 4][star4 Icon]
+* [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured. [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
-* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
-* [Keylord](https://protonail.com) - Keylord is a desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
-* [DBeaver](https://dbeaver.jkiss.org/) - A Universal SQL Client.
 
 ## Design and Product
 
@@ -709,35 +709,35 @@ You may come across some non-English characters. Those apps don't have an Englis
 ### Quality of Life Improvements
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
-* [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
-* [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - An application makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
+* [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 
 ### System Related Tools
 
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your Mac to fall asleep.
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - This app helps you to make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
-* [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
-* [NitroShare](https://nitroshare.net/) - CROSS-PLATFORM NETWORK FILE TRANSFER APPLICATION. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
-* [Monity](http://www.monityapp.com/) - A system monitoring widget for OS X. ![star 3][star3 Icon]
-* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - An application to manage your SSH.
-* [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
-* [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
-* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
-* [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [openEmu](http://openemu.org/) - it is extremely easy to add, browse, organize and with a compatible gamepad, play those favorite games (ROMs) you already own. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware][Freeware Icon]
+* [Coolant](https://coolantformac.com) - A menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 * [DaisyDisk](https://daisydiskapp.com/) - Gives you a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
-* [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![Recommend][tuijian Icon]
+* [gfxCardStatus](https://gfx.io/) - An unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - An HTML 5 video player. Keep your Mac from "burning".
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
-* [Caffeine](http://lightheadsw.com/caffeine/) - An app that doesn't let your Mac to fall asleep.
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor on the menubar. ![Recommend][tuijian Icon]
+* [iStats](https://github.com/Chris911/iStats) - iStats is a command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
+* [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) – Alternative to Caffeine with better support for dark mode in Mac. ![OSS Icon]
+* [Monity](http://www.monityapp.com/) - A system monitoring widget for OS X. ![star 3][star3 Icon]
+* [Mounty](http://enjoygineering.com/mounty/) - A tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
+* [NitroShare](https://nitroshare.net/) - CROSS-PLATFORM NETWORK FILE TRANSFER APPLICATION. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) NoSleep makes closing of your MacBook lid possible without going into sleep mode.
-* [Coolant](https://coolantformac.com) - A menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
-* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac on the management of Android mobile phone content. ![Freeware][Freeware Icon]
+* [openEmu](http://openemu.org/) - it is extremely easy to add, browse, organize and with a compatible gamepad, play those favorite games (ROMs) you already own. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
+* [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
+* [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware][Freeware Icon]
+* [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - An application to manage your SSH.
+* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 
 ### Gaming Software
 
@@ -749,9 +749,9 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Remote Login Software
 
-* [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 4][star4 Icon]
-* [RealVNC](https://www.realvnc.com) The original and best software for remote access across desktop and mobile.
 * [AnyDesk](https://anydesk.com) An application which provides Remote access across multiple machines.
+* [RealVNC](https://www.realvnc.com) The original and best software for remote access across desktop and mobile.
+* [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon] ![star 4][star4 Icon]
 
 ## QuickLook Plugins
 
