@@ -165,6 +165,7 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 * [Oh my zsh](http://ohmyz.sh) - An open-source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]](https://github.com/robbyrussell/oh-my-zsh)
 * [autojump](https://github.com/wting/autojump/wiki) - A cd command that learns - easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [Prezto — Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto) ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] - The configuration framework for Zsh; it enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+* [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Cakebrew](http://www.cakebrew.com) - A GUI client for [Homebrew](http://brew.sh). Install, check or remove apps, no command-line needed. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
@@ -574,15 +575,15 @@ for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin
 
 * [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon]](https://chromium.googlesource.com/chromium/src/) ![Freeware][Freeware Icon]
-* [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast for good. a free, open-source web browser developed by the Mozilla Foundation. ![Freeware][Freeware Icon]
+* [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast for good. a free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
 * [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
 * [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
 * [Maxthon](http://www.maxthon.com/?lang) - Maxthon provides you with the fastest web browser available ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - Ōryōki, small web browser with a thin interface. This is an experimental project, currently in development. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
-* [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity OnlineProtect your privacy. Defend yourself against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor-browser.git) ![Freeware][Freeware Icon]
+* [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity OnlineProtect your privacy. Defend yourself against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
 
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
