@@ -624,7 +624,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [风驰VPN](http://fengchinet2.com/) - VPN Client for Mac. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
-* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - Never expired Mac free VPN. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-%E6%B0%B8%E4%B8%8D%E8%BF%87%E6%9C%9Fmac%E5%85%8D%E8%B4%B9vpn/id1202726435)
+* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - Free VPN Client for Macs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/freevpn-plus-%E6%B0%B8%E4%B8%8D%E8%BF%87%E6%9C%9Fmac%E5%85%8D%E8%B4%B9vpn/id1202726435)
 
 ## Utilities
 
