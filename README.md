@@ -572,40 +572,40 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 *Browsers on Mac OS*
 
-* [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
+* [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Chromium is an open-source web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast for good. a free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
-* [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
-* [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
 * [Maxthon](http://www.maxthon.com/?lang) - Maxthon provides you with the fastest web browser available ![Freeware][Freeware Icon]
-* [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
+* [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
 * [Ōryōki](http://oryoki.io/) - Ōryōki, small web browser with a thin interface. This is an experimental project, currently in development. ![Freeware][Freeware Icon]
-* [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
+* [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
 * [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity OnlineProtect your privacy. Defend yourself against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
+* [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
 
-* [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
-* [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [海词词典](http://cidian.dict.cn/mac.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
+* [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
+* [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 
 ## Security Tools
 
-* [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes technology crushes the growing threat of Mac malware. So you are protected and your machine keeps running silky smooth. Finally, cybersecurity smart enough for the Mac. ![Freeware][Freeware Icon]
-* [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
-* [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection.
-* [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
-* [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
-* [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "please alert me anytime, anything is persistently installed" BlockBlock: "you got it 😇"
+* [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib Hijack Scanner or DHS, is a simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
+* [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - "Who's there?" See what's persistently installed on your Mac.
+* [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
+* [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
+* [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes technology crushes the growing threat of Mac malware. So you are protected and your machine keeps running silky smooth. Finally, cybersecurity smart enough for the Mac. ![Freeware][Freeware Icon]
+* [OverSight](https://objective-see.com/products/oversight.html) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
+* [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Towards Generic Ransomware Detection.
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac with TaskExplorer.
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - WhatsYourSign adds a menu item to Finder.app. Simply right-, or control-click on any file to display its cryptographic signing information!
-* [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib Hijack Scanner or DHS, is a simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
 
 ## Proxy and VPN Tools
 
