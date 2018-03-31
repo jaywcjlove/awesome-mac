@@ -22,72 +22,154 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Contents
 
-- [Editors and IDE](#editors-and-ide)
-- [Development Tools](#development-tools)
-- [Test Tools](#test-tools)
-- [Command Line Tools](#command-line-tools)
-- [Version Control Systems](#version-control-systems)
-- [Databases](#databases)
-- [Design and Product](#design-and-product)
-- [Virtual Machines](#virtual-machines)
-- [Communication](#communication)
-- [Data Recovery Tools](#data-recovery-tools)
-- [Audio and Video Tools](#audio-and-video-tools)
-- [Reading and Writing Tools](#reading-and-writing-tools)
-- [Ebooks](#ebooks)
-- [FTP Clients](#ftp-clients)
-- [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
-- [Download Management Tools](#download-management-tools)
-- [Online Storage](#online-storage)
-- [Input Methods](#input-methods)
-- [Web Browsers](#web-browsers)
-- [Translation Tools](#translation-tools)
-- [Security Tools](#security-tools)
-- [Proxy and VPN Tools](#proxy-and-vpn-tools)
-- [Utilities](#utilities)
-- [Remote Login Software](#remote-login-software)
-- [QuickLook Plugins](#quickLook-plugins)
-- [Third Party App Markets](#third-party-app-markets)
-- [Mac App Download Sites](#mac-app-download-sites)
++ [Reading and Writing Tools](#reading-and-writing-tools)
+    - [Text Editors](#text-editors)
+    - [Markdown Editors](#markdown-editors)
+    - [Note-taking](#note-taking)
+    - [Ebooks](#ebooks)
+    - [Utilities](#utilities)
++ [Developer Tools](#developer-tools)
+    - [IDEs](#ides)
+    - [Developer Utilities](#developer-utilities)
+    - [Regular Expression Editors](#regular-expression-editors)
+    - [Test Tools](#test-tools)
+    - [Command Line Tools](#command-line-tools)
+    - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
+    - [Version Control](#version-control)
+    - [Virtualization](#virtualization)
+    - [Databases](#databases)
++ [Design and Product](#design-and-product)
+    - [Design Tools](#design-tools)
+    - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
+    - [Screenshot Tools](#screenshot-tools)
+    - [Other Tools](#other-tools)
++ [Communication](#communication)
+    - [Collaboration and Team Tools](#collaboration-and-team-tools)
+    - [Email Clients](#email-clients)
++ [Data Recovery Tools](#data-recovery-tools)
++ [Audio and Video Tools](#audio-and-video-tools)
++ [FTP Clients](#ftp-clients)
++ [Download Management Tools](#download-management-tools)
++ [Cloud Storage](#cloud-storage)
++ [Input Methods](#input-methods)
++ [Browsers](#browsers)
++ [Translation Tools](#translation-tools)
++ [Security Tools](#security-tools)
++ [Proxy and VPN Tools](#proxy-and-vpn-tools)
++ [Utilities](#utilities)
+    - [General Tools](#general-tools)
+    - [To-Do Lists](#to-do-lists)
+    - [Productivity](#productivity)
+    - [Window Management](#window-management)
+    - [Password Management](#password-management)
+    - [Finder](#finder)
+    - [Quality of Life Improvements](#quality-of-life-improvements)
+    - [System Related Tools](#system-related-tools)
++ [Gaming Software](#gaming-software)
++ [Remote Login Software](#remote-login-software)
++ [QuickLook Plugins](#quickLook-plugins)
++ [Third Party App Markets](#third-party-app-markets)
+    - [Package Managers](#package-managers)
++ [Mac App Download Sites](#mac-app-download-sites)
 
-
-## Editors and IDEs
+## Reading and Writing Tools
 
 *Applications to edit text, I suggest the open-source editors*
 
-### Text Editors
+#### Text Editors
 
 * [Atom](https://atom.io) - Hackable text editor for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin). ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [BBEdit](http://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for Macintosh.
-* [Brackets](http://brackets.io) - Modern, open-source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Chocolat](https://chocolatapp.com/) - Native text editor.
 * [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
-* [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
-* [HBuilder](http://www.dcloud.io/) - IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software office software. Software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
 * [ONI](https://github.com/onivim/oni) - IDE powered by Neovim. [![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
+* [OpenOffice](http://www.openoffice.org/download/index.html) - Compatible with other major office suites, Apache OpenOffice is free to download, use and distribute. 。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] ![Freeware][Freeware Icon]
 * [Sublime Text](http://www.sublimetext.com/3) - Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](editor-plugin.md#sublime-text-plugin). ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
 * [TextMate](https://macromates.com) - Editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tincta](https://codingfriends.github.io/Tincta/) - Text editor for Mac OS X. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Vim](http://www.vim.org/) - Highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 
-### IDEs
+#### Markdown Editors
+
+* [Cmd Markdown](https://www.zybuluo.com/cmd/) - Open the journey of excellence. ![Freeware][Freeware Icon]
+* [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
+* [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
+* [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful, yet powerful text editor for your Mac.
+* [MacDown](http://macdown.uranusjr.com/) - Open-source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Recommend][tuijian Icon] ![Freeware][Freeware Icon]
+* [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
+* [Marp](https://yhatt.github.io/marp/) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+* [Mou](http://25.io/mou/) - Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [MWeb](http://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App. ![hot][hot Icon]
+* [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
+* [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
+* [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
+* [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - Markdown editor that can make writing fun. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
+
+#### Note-taking
+
+* [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![Recommend][tuijian Icon]
+* [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
+* [Leanote](http://app.leanote.com) - Note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
+* [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app. ![Freeware][Freeware Icon]
+* [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) Note-taking app. ![Freeware][Freeware Icon]
+* [Notes](http://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+* [有道云笔记](http://note.youdao.com/) - Note-taking app featuring multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
+* [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX. ![Recommend][tuijian Icon]
+* [为知笔记](http://www.wiz.cn/download.html) - Note-taking app featureing multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
+
+#### Ebooks
+
+* [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
+* [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
+* [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
+* [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
+* [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
+* [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
+
+#### Utilities
+
+* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
+* [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [KOffice](https://www.kde.org/applications/office/) - KOffice contains a word processor (KWord), a spreadsheet (KSpread), a presentation program (KPresenter), and a number of other components that varied over the course of KOffice’s development. ![Freeware][Freeware Icon]
+* [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
+* [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
+* [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
+* RSS
+    * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
+    * [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
+    * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+    * [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+    * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+
+## Developer Tools
+
+#### IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development ![hot][hot Icon] ![tuijian][tuijian Icon]
+* [BBEdit](http://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for Mac.
+* [Brackets](http://brackets.io) - Modern, open-source IDE for web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students) ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Coda2](http://panic.com/coda/) - Fast, clean and powerful text editor.
 * [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![Recommend][tuijian Icon]
+* [HBuilder](http://www.dcloud.io/) - IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version. ![hot][hot Icon] ![tuijian][tuijian Icon]
 * [Qt](https://www1.qt.io/cn/) - Cross-platform application framework. ![tuijian][tuijian Icon]
-* [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Free, fully-featured IDE for students, open-source and individual developers. ![Freeware][Freeware Icon]
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Fully-featured IDE **Free** for students, open-source and individual developers. ![Freeware][Freeware Icon]
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info. ![hot][hot Icon] ![Recommend][tuijian Icon]
     * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - `Node.js` integration. You definitely need this, quite a few features require it.
     * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - JetBrains IDE plugin supporting the EditorConfig standard.
@@ -95,7 +177,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
 * [Xcode](https://developer.apple.com/xcode/) - The essential IDE for iOS/macOS development. ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 
-## Development Tools
+#### Developer Utilities
 
 * [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/better-rename-9/id414209656)
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
@@ -105,14 +187,13 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [DLite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nlf/dlite)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - Convert swf to html canvas animation. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
-* [FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
+* [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Finicky](https://johnste.github.io/finicky/) - Application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
-* [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://toolinbox.net/en/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
-* [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. It works perfectly with git, svn or other version control tools.
+* [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Brew services management in Mac System Preferences. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Localname](http://localname.io/) - Provide access to your local development server. ![Freeware][Freeware Icon] ![hot][hot Icon]
@@ -121,6 +202,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Terminal emulation which supports SSH, Telnet or other protocols.
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
+* [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc. ![Recommend][tuijian Icon]
 * [StarUML](http://staruml.io) - Powerful UML app.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Free and open-source app for hosts management & switching. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
@@ -128,15 +210,14 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Vagrant](https://www.vagrantup.com) - Tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
 * [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lanayotech/vagrant-manager/)
 * [WeFlow](https://weflow.io/) - Development tools for front-end workflows based on [tmt-workflow](https://github.com/Tencent/tmt-workflow). (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
+* [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [zeplin](https://www.zeplin.io/) - Collaboration tool for work between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
 
 #### Regular Expression Editors
 
-* [Patterns](http://krillapps.com/patterns/) - Regular expression editor.
+* [Patterns](http://krillapps.com/patterns/) - Regular expression editor. ![Recommend][tuijian Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Development tool for regular expressions. ![hot][hot Icon]
 * [Regex](https://motionobj.com/regex/) - Regular expression testing tool with an emphasis on simplicity.
-* [Reggy](http://reggyapp.com/) - Open-source regular expression editor. [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
-* [Reginald](https://github.com/michaeltyson/Reginald) - Regular expression test application. [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/). [![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
 
 #### Test Tools
 
@@ -151,7 +232,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Proxie](https://proxieapp.com/) - HTTP debugging proxy. [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer.  [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
-## Command Line Tools
+#### Command Line Tools
 
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -181,39 +262,46 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为GIF动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
 
-## Version Control Systems
+#### Frameworks For Hybrid Applications
 
-* [Git](https://git-scm.com/) - Distributed version control tool, the official website provides [dozens of GUI clients](https://git-scm.com/download/gui/mac) for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]](https://github.com/git/git)
-* [SVN](http://subversion.apache.org/) - Open-source version control system. ![Freeware][Freeware Icon]
+* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Made by Tencent (Not very recommended). (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
+* [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
+* [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
+* [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
+* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. Made by YouDao. (**Broken official website**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
+* [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
+* [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
+* [react-desktop](http://reactdesktop.js.org) - React UI Components for macOS Sierra. [![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
+* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [React Native macOS](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
+* [ReactXP](https://microsoft.github.io/reactxp/) - Microsoft official production, support platform Web, iOS, Android and Windows UWP is still an ongoing work. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
 
-#### Version Control GUIs
+#### Version Control
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Powerful version control with a gorgeous interface.
 * [Fork](https://git-fork.com/) - Fast and friendly Git client for Mac. ![Freeware][Freeware Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - Open-source，display Github contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitFinder](https://zigz.ag/GitFinder/) - Fast and lightweight Git client for Mac with Finder integration. ![Freeware][Freeware Icon]
-* [GitHub Desktop](https://desktop.github.com/) - The GitHub official GUI. ![Freeware][Freeware Icon]
+* [GitHub Desktop](https://desktop.github.com/) - The official GitHub GUI. [![Freeware][Freeware Icon] ![star 4][star4 Icon] ![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac and Linux. ![hot][hot Icon] ![Recommend][tuijian Icon]
-* [GitUp](http://gitup.co/) - Simple and powerful Git client. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
 * [GitX-dev](https://rowanj.github.io/gitx/) -  Fork of [Pieter's](https://github.com/pieter/gitx) nice git GUI for OS X. Includes branch/tag sidebar and various fixes. [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - Command-line wrapper for Git that makes you better at GitHub. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292) ![Must Have][bibei Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - Git client with support.
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
-* [Versions](http://www.versionsapp.com/) - Mac Subversion Client (SVN).
+* [Versions](http://www.versionsapp.com/) - Mac Subversion (SVN) Client.
 
-#### Version Control Managers
+#### Virtualization
 
-* [Coding.net](https://coding.net) - One-stop cloud platform for developers, free repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
-* [Gerrit](https://www.gerritcodereview.com) - Provides web based code review and repository management for the Git version control system. ![Freeware][Freeware Icon]
-* [Gitblit](http://www.gitblit.com/) - Pure java Git solution for managing, viewing, and serving Git repositories. [![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon] ![must-have][bibei Icon] ![hot][hot Icon]
-* [GitHub](https://github.com) - Code hosting, project management and deployment for software projects. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-* [GitLab](http://gitlab.com/) - Open-source Git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
-* [phabricator](https://phabricator.com) - Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
+* [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS. ![hot][hot Icon]
+* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [VMWare Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
 
-## Databases
+#### Databases
 
 * [Base 2](http://menial.co.uk/base/) - Application for creating, designing, editing and browsing SQLite 3 database files.
 * [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
@@ -271,7 +359,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects. ![star 4][star4 Icon]
-* [FontForge](http://fontforge.github.io/) - Free (libre) font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
+* [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [Nik Collection](https://www.google.com/intl/en/nikcollection/) - Google Nik collection. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
@@ -283,88 +371,74 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware][Freeware Icon]![Recommend][tuijian Icon]
 
-#### Prototyping And Mind-mapping Tools
+#### Prototyping and Mind-Mapping Tools
 
-* [Origami Studio](http://origami.design/) -  Tool for designing modern interfaces, built and used by designers at Facebook.
-* [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![Recommend][tuijian Icon]
-* [Kite](https://kiteapp.co/) - Powerful animation and prototyping application for Mac & iOS. ![Recommend][tuijian Icon]
-* [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![Recommend][tuijian Icon]
-* [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
+* [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - First all-in-one cross-platform tool for designing and prototyping websites and mobile apps.
 * [Axure RP 8](http://www.axure.com) - Prototypes, specifications and diagrams in one tool. ![hot][hot Icon]
-* [pencil](http://pencil.evolus.vn/) - Free, open-source tool for making diagrams and GUI prototyping. [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) ![Freeware][Freeware Icon]
-* [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming and graphic design for Mac, iPhone, and iPad.
-* [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet. ![hot][hot Icon] ![must-have][bibei Icon]
-* [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
-* [Scapple](http://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software with free whiteboard-like layout. ![hot][hot Icon]
-* [Framer](http://framerjs.com/) - Tool for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
+* [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps. ![Recommend][tuijian Icon]
+* [Framer](http://framerjs.com/) - Tool for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
+* [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![Recommend][tuijian Icon]
+* [Kite](https://kiteapp.co/) - Powerful animation and prototyping application for Mac & iOS. ![Recommend][tuijian Icon]
+* [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
-* [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
+* [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
+* [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming and graphic design for Mac, iPhone, and iPad.
+* [Origami Studio](http://origami.design/) -  Tool for designing modern interfaces, built and used by designers at Facebook.
+* [pencil](http://pencil.evolus.vn/) - Free, open-source tool for making diagrams and GUI prototyping. [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) ![Freeware][Freeware Icon]
+* [Scapple](http://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software with free whiteboard-like layout. ![hot][hot Icon]
 * [SimpleMind](https://simplemind.eu/) - The world leader in cross platform Mind Mapping tools.
-* [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - First all-in-one cross-platform tool for designing and prototyping websites and mobile apps.
+* [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
+* [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet. ![hot][hot Icon] ![must-have][bibei Icon]
 
-#### Screenshot Tool
+#### Screenshot Tools
 
-* [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
-* [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
-* [Jietu](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Snipaste](https://zh.snipaste.com/) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
-* [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
-* [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![star 3][star3 Icon]
-* [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
-* [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
-* [GifCapture](https://github.com/onmyway133/GifCapture) GIF capture app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.io/) Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
-* [GIF Brewery](https://gfycat.com/gifbrewery) - gives everyone the power to create stunning GIFs from video files. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gif-brewery-by-gfycat/id1081413713) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
-* [GIPHY Capture](https://giphy.com/apps/giphycapture) - Capture and share your screen as a GIF. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?l=en&mt=12)
+* [Jietu](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
+* [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
+* [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon] ![star 3][star3 Icon]
+* [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655) ![star 5][star5 Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
+* [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [Snipaste](https://zh.snipaste.com/) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon] ![star 4][star3 Icon]
+* [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
+* [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![star 5][star5 Icon]
 
 #### Other Tools
 
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
+* [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
+* [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+* [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
+* [IconKit](http://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
+* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Recommend][tuijian Icon]
 * [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - Compress images with PNG format and remove transparency. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
-* [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797)
-* [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/jpegmini-lite/id525742250) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - Compress images and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
-* [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors. ![Recommend][tuijian Icon]
+* [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/jpegmini-lite/id525742250) ![Freeware][Freeware Icon]
 * [Mark Man](http://getmarkman.com/) - Measure & Spec Fast. ![Recommend][tuijian Icon] ![star 4][star4 Icon]
-* [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
-* [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Easily and intuitively creating beautiful color schemes. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/spectrum/id518156125)
-* [IconKit](http://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?mt=12)
-* [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder. ![Recommend][tuijian Icon]
-* [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
-* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Recommend][tuijian Icon]
-* [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
+* [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797)
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![Recommend][tuijian Icon]
-* [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc. ![Recommend][tuijian Icon]
-* [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+* [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors. ![Recommend][tuijian Icon]
+* [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder. ![Recommend][tuijian Icon]
+* [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Easily and intuitively creating beautiful color schemes. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/spectrum/id518156125)
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
-
-
-## Virtual Machines
-
-* [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS. ![hot][hot Icon]
-* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [VMWare Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
+* [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
 
 
 ## Communication
 
-*Team communication and collaboration tools*
+#### Collaboration and Team Tools
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X, connecting to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
 * [Bitpost](https://voluntary.net/bitpost/) - Private decentralized messaging system. Instead of connecting to centralized servers (like Facebook, Gmail, etc.) or federated servers (like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet-based teams. (**Missing English UI and Docs**)
-* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Open-source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat client. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
 * [御飯](https://imach.me/gohanapp/macos/) - Third-party FanFou client for Mac OS. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon]
@@ -385,8 +459,9 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Teambition](https://www.teambition.com) - Team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
 * [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security.
 * [Textual](https://www.codeux.com/textual) - Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&lang=en) - Official WeChat app for Mac. ![Freeware][Freeware Icon]
+* [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12) - Official WeChat app for Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
+* [WhatsApp Desktop](https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12) - Available in the Mac App Store, Whatsapp for Desktop. ![App Store][app-store Icon]
 
 #### Email Clients
 
@@ -400,8 +475,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - Powerful, simple and beautiful email client, need to pay for a license.
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
-* [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software made to make email easier. ![Freeware][Freeware Icon]
-* [Yomail](http://www.yomail.com/) - Maybe the best email client. ![Freeware][Freeware Icon]
+* [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
 
 ## Data Recovery Tools
 
@@ -439,7 +513,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ArcTime](http://www.arctime.org/) - Simple, powerful, efficient subtitle creation software. (**Missing English UI and Docs**) ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Perian](http://perian.org/#download) - (**Retired, no longer supported**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![star 4][star4 Icon]
@@ -448,61 +522,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 
-## Reading and Writing Tools
-
-* [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
-* [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) ![Recommend][tuijian Icon]
-* [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
-* [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [OpenOffice](http://www.openoffice.org/download/index.html) - Compatible with other major office suites, Apache OpenOffice is free to download, use and distribute. 。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon] ![Freeware][Freeware Icon]
-* [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software. Development is open to new talent and new ideas, and our software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
-* [KOffice](https://www.kde.org/applications/office/) - KOffice contains a word processor (KWord), a spreadsheet (KSpread), a presentation program (KPresenter), and a number of other components that varied over the course of KOffice’s development. ![Freeware][Freeware Icon]
-* [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
-* [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
-* [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app. ![Freeware][Freeware Icon]
-* [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
-* [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
-* [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
-* [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
-* [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
-* RSS
-    * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
-    * [Leaf](http://www.rockysandstudio.com/) - Aamazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-    * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
-    * [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
-* Markdown
-    * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - Markdown editor that can make writing fun. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [Mou](http://25.io/mou/) - Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Marp](https://yhatt.github.io/marp/) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
-    * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
-    * [MWeb](http://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App. ![hot][hot Icon]
-    * [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon]
-    * [MacDown](http://macdown.uranusjr.com/) - Open-source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Recommend][tuijian Icon] ![Freeware][Freeware Icon]
-    * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
-    * [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful, yet powerful text editor for your Mac.
-    * [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
-    * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
-    * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
-    * [Cmd Markdown](https://www.zybuluo.com/cmd/) - Open the journey of excellence. ![Freeware][Freeware Icon]
-* Note-taking
-    * [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
-    * [Leanote](http://app.leanote.com) - Note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
-    * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) Note-taking app. ![Freeware][Freeware Icon]
-    * [Notes](http://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-    * [有道云笔记](http://note.youdao.com/) - Note-taking app featuring multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX. ![Recommend][tuijian Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - Note-taking app featureing multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-
-## Ebooks
-
-* [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
-* [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
-* [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-
 ## FTP Clients
 
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
@@ -510,22 +529,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Flow](http://fivedetails.com/flow/) - Aard-winning, beautiful, fast, and reliable FTP + SFTP client.
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 * [Yummy FTP](http://www.yummysoftware.com) - Pro-level, fast, reliable FTP/S + SFTP + WebDAV/S file transfer app.
-
-## Frameworks For Hybrid Applications
-
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Made by Tencent (Not very recommended). (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
-* [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-* [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
-* [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
-* [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. Made by YouDao. (**Broken official website**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
-* [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
-* [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
-* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
-* [react-desktop](http://reactdesktop.js.org) - React UI Components for macOS Sierra. [![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
-* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [React Native macOS](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
-* [ReactXP](https://microsoft.github.io/reactxp/) - Microsoft official production, support platform Web, iOS, Android and Windows UWP is still an ongoing work. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
 
 ## Download Management Tools
 
@@ -538,20 +541,19 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 
-## Online Storage
+## Cloud Storage
 
 *I recommend using online storage with Mac clients*
 
 * [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Baidu cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud official client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Baidu Cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud official client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite can protect your Mac from all of the most common forms of data loss. ![Recommend][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 * [Dropbox](https://www.dropbox.com/) - File hosting service that offers cloud storage and file synchronization with collaborative edit features. ![Freeware][Freeware Icon] ![hot][hot icon] ![Recommend][tuijian Icon]
-* [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - Jianguo cloud client. (**Not recommended**) ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - Actively maintained fork of ownCloud, faster and completely open-source [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 * [ownCloud](https://owncloud.org) - Cloud storage.
 * [Seafile](https://www.seafile.com/) - Reliable and High Speed File Sync and Share.![Freeware][Freeware Icon]
-* [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. (**Require Tencent Account, Missing English UI and Docs**) ![Freeware][Freeware Icon]
-
+* [Tecent Cloud](https://www.weiyun.com/) - Tencent cloud client. (**Require Tencent Account, Missing English UI and Docs**) ![Freeware][Freeware Icon]
 
 ## Input Methods
 
@@ -569,20 +571,14 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [WBIM](http://www.glamtime.com.cn/product/wbim) - Wubi input method. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?mt=12)
 
-## Web Browsers
-
-*Browsers on Mac OS*
+## Browsers
 
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
-* [Maxthon](http://www.maxthon.com/?lang) - Maxthon provides you with the fastest web browser available ![Freeware][Freeware Icon]
-* [Opera](http://www.opera.com/) - Opera. ![Freeware][Freeware Icon]
-* [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
-* [Safari](http://www.apple.com/cn/safari/) - Built-in browser of Mac OS. ![Freeware][Freeware Icon]
-* [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity OnlineProtect your privacy. Defend yourself against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
-* [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/cn/safari/) - Native browser for Macs. ![Freeware][Freeware Icon]
+* [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
 
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
@@ -597,6 +593,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it"
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
+* [fortify](https://github.com/alichtman/fortify) - CLI for Easy, secure MacOS Sierra and High Sierra configuration. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/fortify) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 * [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
@@ -628,7 +625,8 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Utilities
 
-### General Tools
+#### General Tools
+
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
 * [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 * [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
@@ -652,7 +650,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 * [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
 
-### GTD (Getting Things Done)
+#### To-Do Lists
 
 * [2Do](http://www.2doapp.com/) - Nice todo app.
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
@@ -667,7 +665,8 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware][Freeware Icon]
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 
-### Productivity
+#### Productivity
+
 * [BetterTouchTool](https://boastr.net) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/tekezo/Karabiner)
@@ -680,40 +679,43 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
 * [xScope](http://xscopeapp.com/) - Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
-- **Window Management**
-    * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
-    * [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
-    * [Slate](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
-    * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
-    * [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
-    * [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
-    * [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
-* **Password Management**
-    * [1Password](https://1password.com/) - Cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [KeePassX](https://www.keepassx.org) - Light-weight, open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
-    * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
-    * [LastPass](https://lastpass.com/) - Password management tool for Mac OS and browser.
-    * [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
-    * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords.
+#### Window Management
 
-* **Finder**
-    * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
-    * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
-    * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
-    * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
-    * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
-    * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX.![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
+* [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
+* [Slate](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
+* [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
+* [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+* [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
-### Quality of Life Improvements
+#### Password Management
+* [1Password](https://1password.com/) - Cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [KeePassX](https://www.keepassx.org) - Light-weight, open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
+* [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
+* [LastPass](https://lastpass.com/) - Password management tool for Mac OS and browser.
+* [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+* [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords.
+
+#### Finder
+
+* [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
+* [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
+* [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
+* [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - A list of useful "Quick Look" plugins for developers.
+* [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
+* [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+
+#### Quality of Life Improvements
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 
-### System Related Tools
+#### System Related Tools
 
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Caffeine](http://lightheadsw.com/caffeine/) - Don't let your Mac fall asleep!
@@ -739,13 +741,9 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 
-### Gaming Software
+## Gaming Software
 
 * [OpenEmu](http://openemu.org/) - A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
-
-### Other
-
-* [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 
 ## Remote Login Software
 
@@ -778,7 +776,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 If you come across websites offering pirated software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, but only authentic ones. :)
 
-### Get Apps
+#### Package Managers
 
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
 
