@@ -1,8 +1,8 @@
-# Contribution Guidelines
+# Contributing Guidelines
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-**The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.**
+Each pull request and issue should have a useful title. Pull requests and issues with non-descriptive titles will be placed at the end of the to-do list. `Update readme.md` is an awful title. **Please carefully read everything in `Adding to this list`.**
 
 ## Table of Contents
 
@@ -16,8 +16,8 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
+- Make sure each list item is useful before moving to add it.
+- Create a individual pull requests/issues for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
 - Use the following format: `[List Name](link)`
 - Link additions should be added to the bottom of the relevant category.
@@ -25,19 +25,22 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- Annotate your PR to clarify what you did if the diff is confusing.
 
 Thank you for your suggestions!
 
-## Creating your own awesome list
+## Adding something to this list
 
-To create your own list, check out the [instructions](create-list.md).
+If you have something awesome to contribute to this list, this is how you do it.
 
-## Adding something to an awesome list
+If you have a GitHub account:
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+1. Fork this repo.
+2. Add item under correct section in `README.md`
+3. Update `Contents` (if applicable)
+4. Commit and open a Pull Request
 
-You'll need a [GitHub account](https://github.com/join)!
+If you don't have a [GitHub account](https://github.com/join), make one!
 
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
