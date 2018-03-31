@@ -4,13 +4,14 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
- This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
+ This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **star** and **fork**. 
+Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues). We love PRs :) Please take a look at the Contributing guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Explanation
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
 ![hot][hot Icon] means **hot** app;
 ![Recommend][tuijian Icon] means **recommended** app;
@@ -27,12 +28,14 @@ You may come across some non-English characters. Those apps don't have an Englis
     - [Markdown Editors](#markdown-editors)
     - [Note-taking](#note-taking)
     - [Ebooks](#ebooks)
+    - [RSS](#rss)
     - [Utilities](#utilities)
 + [Developer Tools](#developer-tools)
     - [IDEs](#ides)
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
-    - [Test Tools](#test-tools)
+    - [API Development and Analysis](#api-development-and-analysis-tools)
+    - [Network Analysis](#network-analysis)
     - [Command Line Tools](#command-line-tools)
     - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
     - [Version Control](#version-control)
@@ -46,9 +49,9 @@ You may come across some non-English characters. Those apps don't have an Englis
 + [Communication](#communication)
     - [Collaboration and Team Tools](#collaboration-and-team-tools)
     - [Email Clients](#email-clients)
+    - [File Sharing](#file-sharing)
 + [Data Recovery Tools](#data-recovery-tools)
 + [Audio and Video Tools](#audio-and-video-tools)
-+ [FTP Clients](#ftp-clients)
 + [Download Management Tools](#download-management-tools)
 + [Cloud Storage](#cloud-storage)
 + [Input Methods](#input-methods)
@@ -57,12 +60,15 @@ You may come across some non-English characters. Those apps don't have an Englis
 + [Security Tools](#security-tools)
 + [Proxy and VPN Tools](#proxy-and-vpn-tools)
 + [Utilities](#utilities)
+    - [Clipboard Tools](#clipboard-tools)
+    - [Menu Bar Tools](#menu-bar-tools)
+    - [File Organization Tools](#file-organization-tools)
     - [General Tools](#general-tools)
     - [To-Do Lists](#to-do-lists)
     - [Productivity](#productivity)
     - [Window Management](#window-management)
     - [Password Management](#password-management)
-    - [Finder](#finder)
+    - [Finder Tools](#finder-tools)
     - [Quality of Life Improvements](#quality-of-life-improvements)
     - [System Related Tools](#system-related-tools)
 + [Gaming Software](#gaming-software)
@@ -96,13 +102,13 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 #### Markdown Editors
 
-* [Cmd Markdown](https://www.zybuluo.com/cmd/) - Open the journey of excellence. ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 * [LightPaper](http://lightpaper.42squares.in/) - Simple, beautiful, yet powerful text editor for your Mac.
 * [MacDown](http://macdown.uranusjr.com/) - Open-source Markdown editor for OS X.  [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Recommend][tuijian Icon] ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
 * [Marp](https://yhatt.github.io/marp/) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+* [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
 * [Mou](http://25.io/mou/) - Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App. ![hot][hot Icon]
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
@@ -134,21 +140,22 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
+#### RSS
+
+* [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
+* [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
+* [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+* [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+
 #### Utilities
 
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [KOffice](https://www.kde.org/applications/office/) - KOffice contains a word processor (KWord), a spreadsheet (KSpread), a presentation program (KPresenter), and a number of other components that varied over the course of KOffice’s development. ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 * [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
-* RSS
-    * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
-    * [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-    * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
-    * [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 ## Developer Tools
 
@@ -171,11 +178,11 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - Fully-featured IDE **Free** for students, open-source and individual developers. ![Freeware][Freeware Icon]
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info. ![hot][hot Icon] ![Recommend][tuijian Icon]
-    * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - `Node.js` integration. You definitely need this, quite a few features require it.
-    * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - JetBrains IDE plugin supporting the EditorConfig standard.
-    * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Provides 3 modes, nice and clean.
+    * [NodeJS Plugin](https://plugins.jetbrains.com/plugin/6098-nodejs) - `Node.js` integration. You definitely need this, quite a few features require it.
+    * [EditorConfig Plugin](https://plugins.jetbrains.com/plugin/7294-editorconfig) - JetBrains IDE plugin supporting the EditorConfig standard.
+    * [Material Theme UI Plugin](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Provides 3 modes, nice and clean.
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
-* [Xcode](https://developer.apple.com/xcode/) - The essential IDE for iOS/macOS development. ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
+* [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. ![must-have][bibei Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 
 #### Developer Utilities
 
@@ -193,6 +200,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://toolinbox.net/en/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
+* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Brew services management in Mac System Preferences. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
@@ -219,22 +227,26 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Development tool for regular expressions. ![hot][hot Icon]
 * [Regex](https://motionobj.com/regex/) - Regular expression testing tool with an emphasis on simplicity.
 
-#### Test Tools
+#### API Development and Analysis
 
-* [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
-* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
+* [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing. ![star 4][star4 Icon]![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
+
+#### Network Analysis
+
+* [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections. 
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - Advanced HTTP client.
-* [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing. ![star 4][star4 Icon]![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
 * [Proxie](https://proxieapp.com/) - HTTP debugging proxy. [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
-* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer.  [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
+* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
 #### Command Line Tools
 
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
+* [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Cakebrew](http://www.cakebrew.com) - GUI client for [Homebrew](http://brew.sh). Install, check or remove apps, no command-line needed. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
@@ -259,7 +271,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create text documentation of installed applications, dotfiles, and more. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - Free terminal tool,comparable to xshell on windows platform. ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
-* [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为GIF动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
 
 #### Frameworks For Hybrid Applications
@@ -345,9 +356,9 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Sketch](http://www.sketchapp.com/) - Professional digital design for mac. ![star 5][star5 Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-    * [Sketch Toolbox](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
-    * [Measure](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-    * [User Flows](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
+    * [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
+    * [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+    * [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
 * [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![Recommend][tuijian Icon]
@@ -392,6 +403,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [SimpleMind](https://simplemind.eu/) - The world leader in cross platform Mind Mapping tools.
 * [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
 * [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet. ![hot][hot Icon] ![must-have][bibei Icon]
+* [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
 
 #### Screenshot Tools
 
@@ -430,16 +442,15 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [iPic](https://en.toolinbox.net/iPic/) - Easily upload images with Markdown supported. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [svgus](http://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
 
-
 ## Communication
 
 #### Collaboration and Team Tools
 
-* [Adium](https://adium.im/) - Free instant messaging application for Mac OS X, connecting to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
-* [Bitpost](https://voluntary.net/bitpost/) - Private decentralized messaging system. Instead of connecting to centralized servers (like Facebook, Gmail, etc.) or federated servers (like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
+* [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
+* [Bitpost](https://voluntary.net/bitpost/) - Private, decentralized messaging system. Instead of connecting to centralized servers (like Facebook, Gmail, etc.) or federated servers (like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet-based teams. (**Missing English UI and Docs**)
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
-* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat client. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
+* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
 * [御飯](https://imach.me/gohanapp/macos/) - Third-party FanFou client for Mac OS. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon]
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - Internet work platform for small-to-medium sized enterprises. (**Missing English UI and Docs**)
@@ -477,6 +488,15 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
 
+#### File Sharing
+
+* [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
+* [FileZilla](https://filezilla-project.org) - Free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
+* [Flow](http://fivedetails.com/flow/) - Aard-winning, beautiful, fast, and reliable FTP + SFTP client.
+* [Fu](https://github.com/klesh/fu) - Upload images/files to remote server in exchange for url for file sharing. [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
+* [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, fast, reliable FTP/S + SFTP + WebDAV/S file transfer app.
+
 ## Data Recovery Tools
 
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - Comprehensive and professional data recovery tool for most cases.
@@ -496,7 +516,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
-* [Natron](https://natron.fr/) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
+* [Natron](https://natron.fr/) - Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Hydrogen](http://www.hydrogen-music.org/hcms/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
@@ -521,14 +541,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
-
-## FTP Clients
-
-* [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - Free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
-* [Flow](http://fivedetails.com/flow/) - Aard-winning, beautiful, fast, and reliable FTP + SFTP client.
-* [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
-* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, fast, reliable FTP/S + SFTP + WebDAV/S file transfer app.
 
 ## Download Management Tools
 
@@ -625,30 +637,39 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Utilities
 
-#### General Tools
+#### Clipboard Tools
 
-* [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
-* [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
-* [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-* [BitBar](https://getbitbar.com/) - Place the output from any script or program right in your Mac OS X menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
-* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
-* [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
-* [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
-* [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
-* [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
-* [Keka](http://www.kekaosx.com) - Free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
-* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
-* [Memo](http://memo-app.net/) - Simple and elegant app,Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
-* [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
-* [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
+
+#### Menu Bar Tools
+
+* [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
+* [BitBar](https://getbitbar.com/) - Place the output from any script or program right in your Mac OS X menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
+* [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
+* [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
+
+#### File Organization Tools
+
+* [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
+* [Keka](http://www.kekaosx.com) - Free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
+* [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Nice tool for tagging and archiving tasks. [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
 * [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
-* [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
+
+#### General Tools
+
+* [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
+* [DNS Heaven](https://github.com/greenboxal/dns-heaven) - Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs. [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
+* [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
+* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
+* [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
+* [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 
 #### To-Do Lists
 
@@ -667,6 +688,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 #### Productivity
 
+* [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
 * [BetterTouchTool](https://boastr.net) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice. ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/tekezo/Karabiner)
@@ -692,6 +714,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/app/id441258766)
 
 #### Password Management
+
 * [1Password](https://1password.com/) - Cross-platform password management tool. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [KeePassX](https://www.keepassx.org) - Light-weight, open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
@@ -699,7 +722,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
 * [RememBear](https://www.remembear.com/) - The easiest way to remember all your passwords.
 
-#### Finder
+#### Finder Tools
 
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
@@ -729,7 +752,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar. ![Recommend][tuijian Icon]
 * [iStats](https://github.com/Chris911/iStats) - Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
-* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) – Alternative to Caffeine with better support for dark mode in Mac. ![OSS Icon]
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) – Alternative to Caffeine with better support for dark mode in Mac. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 * [Monity](http://www.monityapp.com/) - System monitoring widget for OS X. ![star 3][star3 Icon]
 * [Mounty](http://enjoygineering.com/mounty/) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
