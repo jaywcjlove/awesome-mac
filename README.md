@@ -233,7 +233,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Paw](https://luckymarmot.com/paw) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing. ![star 4][star4 Icon]![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
 * [Proxie](https://proxieapp.com/) - HTTP debugging proxy. [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
-* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer.  [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
+* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
 #### Command Line Tools
 
@@ -395,6 +395,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [SimpleMind](https://simplemind.eu/) - The world leader in cross platform Mind Mapping tools.
 * [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
 * [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet. ![hot][hot Icon] ![must-have][bibei Icon]
+* [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
 
 #### Screenshot Tools
 
@@ -632,6 +633,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. ![Recommend][tuijian Icon] ![hot][hot Icon]
 * [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
+* [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR。 ![Freeware][Freeware Icon] ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [BitBar](https://getbitbar.com/) - Place the output from any script or program right in your Mac OS X menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
@@ -645,7 +647,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Keka](http://www.kekaosx.com) - Free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
-* [Memo](http://memo-app.net/) - Simple and elegant app,Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
+* [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
