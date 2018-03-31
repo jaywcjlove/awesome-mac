@@ -24,7 +24,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 + [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
-    - [Mardown Editors](#markdown-editors)
+    - [Markdown Editors](#markdown-editors)
     - [Note-taking](#note-taking)
     - [Ebooks](#ebooks)
     - [Utilities](#utilities)
@@ -513,7 +513,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ArcTime](http://www.arctime.org/) - Simple, powerful, efficient subtitle creation software. (**Missing English UI and Docs**) ![hot][hot Icon] ![Recommend][tuijian Icon] ![must-have][bibei Icon]
-* [Perian](http://perian.org/#download) - (**Retired, no longer supported**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Perian](http://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon] ![Recommend][tuijian Icon] ![star 4][star4 Icon]
@@ -547,6 +547,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 * [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [Baidu Cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud official client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite can protect your Mac from all of the most common forms of data loss. ![Recommend][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 * [Dropbox](https://www.dropbox.com/) - File hosting service that offers cloud storage and file synchronization with collaborative edit features. ![Freeware][Freeware Icon] ![hot][hot icon] ![Recommend][tuijian Icon]
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - Actively maintained fork of ownCloud, faster and completely open-source [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
