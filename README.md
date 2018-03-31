@@ -27,6 +27,7 @@ You may come across some non-English characters. Those apps don't have an Englis
     - [Markdown Editors](#markdown-editors)
     - [Note-taking](#note-taking)
     - [Ebooks](#ebooks)
+    - [RSS](#rss)
     - [Utilities](#utilities)
 + [Developer Tools](#developer-tools)
     - [IDEs](#ides)
@@ -134,6 +135,14 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
+#### RSS
+
+* [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
+* [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
+* [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+* [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
+* [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
+
 #### Utilities
 
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
@@ -143,12 +152,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
-* RSS
-    * [Feeds 2](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
-    * [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions. ![hot][hot Icon]
-    * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
-    * [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
-    * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 ## Developer Tools
 
