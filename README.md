@@ -4,7 +4,7 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
- This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **star** and **fork**. 
+ This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **star** and **fork**.
 Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues). We love PRs :) Please take a look at the Contributing guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Explanation
@@ -236,7 +236,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 #### Network Analysis
 
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
-* [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections. 
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - Advanced HTTP client.
@@ -605,7 +605,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it"
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
-* [fortify](https://github.com/alichtman/fortify) - CLI for Easy, secure MacOS Sierra and High Sierra configuration. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/fortify) ![Freeware][Freeware Icon]
+* [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 * [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
