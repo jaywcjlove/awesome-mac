@@ -221,6 +221,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [WeFlow](https://weflow.io/) - Development tools for front-end workflows based on [tmt-workflow](https://github.com/Tencent/tmt-workflow). (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [zeplin](https://www.zeplin.io/) - Collaboration tool for work between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [DevDocs](https://devdocs.io) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++… [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/freeCodeCamp/devdocs) ![tuijian][tuijian Icon]
 
 #### Regular Expression Editors
 
