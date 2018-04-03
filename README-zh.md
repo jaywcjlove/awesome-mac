@@ -121,6 +121,7 @@
 * [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - 在Mac系统偏好设置中创建服务管理。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Xcode＆Finder扩展 Objective-C转Swift代码转换器
+* [DevDocs](https://devdocs.io) - 在线版API文档，支持离线浏览。HTML、CSS、JavaScript、PHP、Ruby、Python、Go、C、c++... [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/freeCodeCamp/devdocs) ![tuijian][tuijian Icon]
 
 #### 正则编辑器
 
