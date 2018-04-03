@@ -29,7 +29,6 @@
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
 - [书签阅读写作](#书签阅读写作)
-- [FTP客户端](#ftp客户端)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [下载工具](#下载工具)
@@ -126,7 +125,6 @@
 #### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
-* [Reginald](https://github.com/michaeltyson/Reginald) - 正则表达式测试应用程序，使用 [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/)。[![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
 * [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。![hot][hot Icon]
