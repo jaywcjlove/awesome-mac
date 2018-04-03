@@ -398,6 +398,7 @@
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
 * [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
+* [Fu](https://github.com/klesh/fu) - 将图像/文件上传到远程服务器以交换文件共享的URL。 [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
 * [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。![hot][hot Icon]
 
 ## 数据恢复
