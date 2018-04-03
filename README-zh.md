@@ -93,7 +93,7 @@
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/Tencent/tmt-workflow) 前端工作流的开发工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - 自动编译Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
-* [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成Objective-C,Swift或C#代码。
+* [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成Objective-C, Swift或C#代码。
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://toolinbox.net/en/iHosts/) - 唯一上架 Mac App Store 的 /etc/hosts 编辑神器。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
@@ -371,8 +371,7 @@
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
-* [日事清](https://www.rishiqing.com) - 工作计划软件,日志软件,项目管理,团队协作软件,电商erp,erp管理系统,外贸管理系统。 ![Freeware][Freeware Icon]
-* [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
+* [日事清](https://www.rishiqing.com) - 工作计划软件，日志软件，项目管理，团队协作软件，个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
@@ -715,7 +714,7 @@
     * [Keeweb](https://keeweb.info/) - 与KeePass兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-    * [fman](https://fman.io) - 先进的双窗口文件管理器, 拥有很多特性。
+    * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
     * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。
