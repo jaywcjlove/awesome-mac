@@ -11,7 +11,7 @@ Each pull request and issue should have a useful title. Pull requests and issues
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
-## Adding to this list
+## Pull Request Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -29,7 +29,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-## Adding something to this list
+## How to add to this list
 
 If you have something awesome to contribute to this list, this is how you do it.
 
