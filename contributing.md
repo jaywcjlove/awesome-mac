@@ -1,14 +1,15 @@
 # Contributing Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
-Each pull request and issue should have a useful title. Pull requests and issues with non-descriptive titles will be placed at the end of the to-do list. `Update readme.md` is an awful title. **Please carefully read everything in `Adding to this list`.**
+Each pull request and issue should have a useful title. Pull requests and issues with non-descriptive titles will be placed at the end of the to-do list. For example, `Update readme.md` is an awful title.
+
+---
 
 ## Table of Contents
 
-- [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [Pull Request Guidelines](#pull-request-guidelines)
+- [How to add to this list](#how-to-add-to-this-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
 ## Pull Request Guidelines
