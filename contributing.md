@@ -2,8 +2,6 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-Each pull request and issue should have a useful title. Pull requests and issues with non-descriptive titles will be placed at the end of the to-do list. `Update readme.md` is an awful title. **Please carefully read everything in `Adding to this list`.**
-
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
@@ -15,13 +13,12 @@ Each pull request and issue should have a useful title. Pull requests and issues
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure each list item is useful before moving to add it.
-- Create a individual pull requests/issues for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
+- Search previous suggestions to make sure your suggestion isn't a duplicate.
+- Make sure each list item is useful before adding it.
+- Create individual pull requests/issues for each suggestion.
+- Use [title-casing](http://titlecapitalization.com) (AP style) in the following format: `[List Name](link)`
+- Link additions should be added in alphabetical order in the relevant category.
+- New categories or changes to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
@@ -36,7 +33,7 @@ If you have something awesome to contribute to this list, this is how you do it.
 If you have a GitHub account:
 
 1. Fork this repo.
-2. Add item under correct section in `README.md`
+2. Make changes under correct section in `README.md`
 3. Update `Contents` (if applicable)
 4. Commit and open a Pull Request
 
