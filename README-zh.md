@@ -18,7 +18,6 @@
 
 ## 目录
 
-- [编辑器](#编辑器)
 - [开发者工具](#开发者工具)
 - [测试工具](#测试工具)
 - [命令行工具](#命令行工具)
@@ -30,7 +29,6 @@
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
 - [书签阅读写作](#书签阅读写作)
-- [FTP客户端](#ftp客户端)
 - [软件打包工具](#软件打包工具)
 - [制作电子书](#制作电子书)
 - [下载工具](#下载工具)
@@ -47,7 +45,11 @@
 - [Mac软件下载网站](#mac软件下载网站)
 
 
-## 编辑器
+
+## 开发者工具
+
+
+#### 编辑器
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
@@ -85,14 +87,15 @@
 * [Chocolat](https://chocolatapp.com/) - 轻量级本地编辑器。
 * [Qt](https://www1.qt.io/cn/) - 跨平台C++图形用户界面应用程序开发框架。![tuijian][tuijian Icon]
 
-## 开发者工具
+#### 开发者实用工具
 
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/Tencent/tmt-workflow) 前端工作流的开发工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - 自动编译Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
-* [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成Objective-C,Swift或C#代码。
+* [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成Objective-C, Swift或C#代码。
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://toolinbox.net/en/iHosts/) - 唯一上架 Mac App Store 的 /etc/hosts 编辑神器。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
+* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
@@ -122,25 +125,26 @@
 #### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
-* [Reginald](https://github.com/michaeltyson/Reginald) - 正则表达式测试应用程序，使用 [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/)。[![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
 * [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。![hot][hot Icon]
 
-## 测试工具
+#### API开发和分析
+
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
+* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
+* [Insomnia](https://insomnia.rest/) - 最直观的跨平台REST API客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
+
+#### 网络分析
 
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的HTTP和HTTPS流量。
 * [James](https://github.com/james-proxy/james) - 用于https和http进行查询映射请求。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - 一款支持HTTP(S)的中间人代理工具，可在终端下运行，可用于抓包 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比Postman看起来漂亮的客户端，测试HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Proxie](https://proxieapp.com/) - HTTP调试客户端。 [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
-* [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
-* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试API。![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon]
-* [Insomnia](https://insomnia.rest/) - 最直观的跨平台REST API客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 
-## 命令行工具
+#### 命令行工具
 
 * [Mac OS X Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/#) - 官方Mac命令操作手册。![Freeware][Freeware Icon] ![必备][bibei Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与windows平台的xshell媲美。 ![Freeware][Freeware Icon]
@@ -169,7 +173,7 @@
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 * [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为GIF动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 
-## 版本控制
+#### 版本控制
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/git/git)
 * [SVN](http://subversion.apache.org/) - 版本控制工具。![Freeware][Freeware Icon]
@@ -201,7 +205,7 @@
 * [Gerrit](https://www.gerritcodereview.com) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
 * [Gitblit](http://www.gitblit.com/) Java版本Git代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
 
-## 数据库
+#### 数据库
 
 * [Sequel Pro](http://www.sequelpro.com/) - 一个MySQL数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon] ![star 4][star4 Icon]
 * [TablePlus](https://tableplus.io) - 支持PostgreSQL，MySQL，RedShift，MariaDB ...各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon] ![hot][hot Icon] ![必备][bibei Icon] ![star 5][star5 Icon]
@@ -273,12 +277,14 @@
 
 #### 原型流程
 
+* [Axure RP 8](https://www.axure.com/) - 画原型图工具，团队协作SVN方便好用。![hot][hot Icon]
+* [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 用于网站和移动应用的设计和原型设计。
+* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 * [Origami Studio](http://origami.design/) - 一种设计现代界面的新工具，由Facebook设计师构建和使用。
 * [Flinto](https://www.flinto.com/) - 快速制作高保真的互交原型工具，支持Sketch导入。 ![tuijian][tuijian Icon]
 * [Kite](https://kiteapp.co/) - 一个强大的动画制作工具制作Mac和iOS原型中的应用。 ![tuijian][tuijian Icon]
 * [Justinmind](http://www.justinmind.com) - 功能更丰富团队协作方便。![tuijian][tuijian Icon]
 * [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件。
-* [Axure RP 8](https://www.axure.com/) - 画原型图工具，团队协作SVN方便好用。![hot][hot Icon]
 * [pencil](http://pencil.evolus.vn/) - 开源免费制作软件原型的工具 [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) ![Freeware][Freeware Icon]
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
@@ -286,12 +292,10 @@
 * [Lighten](http://lighten.xmind.net/) - XMind出品的一款实用的思维导图软件。
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。![hot][hot Icon]
 * [Framer](https://framer.com/) - 做交互原型的工具。![hot][hot Icon] ![star 5][star5 Icon]
-* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
 * [WriteMapper](https://writemapper.com/) - 专为写作者而设的脑图工具。
 * [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
-* [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 用于网站和移动应用的设计和原型设计。
 
 #### 截图工具
 
@@ -365,8 +369,7 @@
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [Bitpost](https://voluntary.net/bitpost/) - 私人分散消息。它是一个p2p的去中心化和无须第三方提供信用担保协议。[![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
-* [日事清](https://www.rishiqing.com) - 工作计划软件,日志软件,项目管理,团队协作软件,电商erp,erp管理系统,外贸管理系统。 ![Freeware][Freeware Icon]
-* [日事清](https://www.rishiqing.com) - 个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
+* [日事清](https://www.rishiqing.com) - 工作计划软件，日志软件，项目管理，团队协作软件，个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
@@ -385,6 +388,15 @@
 * [Newton(原Cloudmagic)](https://newtonhq.com) - 界面非常简洁的一个邮件客户端。
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的Email客户端程序。![Freeware][Freeware Icon]
 * [Yomail](http://www.yomail.com/) - 新出的国内开发的比较好的邮件客户端。![Freeware][Freeware Icon]
+
+#### 文件共享
+
+* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
+* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
+* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
+* [Fu](https://github.com/klesh/fu) - 将图像/文件上传到远程服务器以交换文件共享的URL。 [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
+* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。![hot][hot Icon]
 
 ## 数据恢复
 
@@ -496,13 +508,6 @@
 * [Sigil](https://sigil-ebook.com/) - 多平台EPUB编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 
-## FTP客户端
-
-* [Transmit](https://panic.com/transmit/) - 一个FTP客户端，支持FTP + SFTP + S3。
-* [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的FTP客户端。
-* [Cyberduck](https://cyberduck.io) - 免费FTP，SFTP，S3和WebDAV客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
-* [FileZilla](https://filezilla-project.org) - 跨平台的FTP，FTPS和SFTP客户端。![hot][hot Icon]
 
 ## 软件打包工具
 
@@ -707,7 +712,7 @@
     * [Keeweb](https://keeweb.info/) - 与KeePass兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * Finder
     * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder快速预览文件插件。
-    * [fman](https://fman.io) - 先进的双窗口文件管理器, 拥有很多特性。
+    * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
     * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
     * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的Finder替代者，拥有很多特性。
     * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的Finder替代者，界面风格像Chrome。

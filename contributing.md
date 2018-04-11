@@ -1,15 +1,14 @@
 # Contributing Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
 ## Table of Contents
 
-- [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [Pull Request Guidelines](#pull-request-guidelines)
+- [How to add to this list](#how-to-add-to-this-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
-## Adding to this list
+## Pull Request Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -26,7 +25,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-## Adding something to this list
+## How to add to this list
 
 If you have something awesome to contribute to this list, this is how you do it.
 
