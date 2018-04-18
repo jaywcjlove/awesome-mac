@@ -12,12 +12,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
-![hot][hot Icon] means **hot** app;
-![Recommend][tuijian Icon] means **recommended** app;
-![Must Have][bibei Icon] means **must have** app;
-![App Store][app-store Icon] means **App store** hyperlink;
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;  
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
+![hot][hot Icon] means **hot** app;  
+![Recommend][tuijian Icon] means **recommended** app;  
+![Must Have][bibei Icon] means **must have** app;  
+![App Store][app-store Icon] means **App store** hyperlink;  
 ![1 star][red Icon] means highly recommended, must-have app. The number of stars represents how strongly I recommend it;
 
 You may come across some non-English characters. Those apps don't have an English version yet, so you might want steer clear of them.
