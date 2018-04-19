@@ -768,10 +768,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 
-## Gaming Software
-
-* [OpenEmu](http://openemu.org/) - A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
-
 ## Remote Login Software
 
 * [AnyDesk](https://anydesk.com) - Provides Remote access across multiple machines.
