@@ -30,12 +30,12 @@ You may come across some non-English characters. Those apps don't have an Englis
     - [Note-taking](#note-taking)
     - [Ebooks](#ebooks)
     - [RSS](#rss)
-    - [Utilities](#utilities)
+    - [Others](#others)
 + [Developer Tools](#developer-tools)
     - [IDEs](#ides)
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
-    - [API Development and Analysis](#api-development-and-analysis-tools)
+    - [API Development and Analysis](#api-development-and-analysis)
     - [Network Analysis](#network-analysis)
     - [Command Line Tools](#command-line-tools)
     - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
@@ -148,7 +148,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![hot][hot Icon] ![Recommend][tuijian Icon] ![Must Have][bibei Icon]
 * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
-#### Utilities
+#### Others
 
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]
