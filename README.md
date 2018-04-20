@@ -35,7 +35,7 @@ You may come across some non-English characters. Those apps don't have an Englis
     - [IDEs](#ides)
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
-    - [API Development and Analysis](#api-development-and-analysis-tools)
+    - [API Development and Analysis](#api-development-and-analysis)
     - [Network Analysis](#network-analysis)
     - [Command Line Tools](#command-line-tools)
     - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
