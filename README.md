@@ -531,7 +531,6 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://code.google.com/archive/p/xld/source)
 * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-* [MPlayerX](http://mplayerx.org) - Simple, powerful, beautiful media player. [![star 3][star3 Icon] ![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
 * [Playback](https://mafintosh.github.io/playback/) - Experimental video player. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
