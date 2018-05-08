@@ -1,19 +1,19 @@
 ---
-name: Feature request
-about: Suggest a feature for this project
+name: Addition to list
+about: Suggest an addition to this list.
 
 ---
 
 NOTE: Each discrete (stand-alone) request should be in its own issue.
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Put "Add ____" as Title**
+ [ ] Done
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Provide a link to the proposed addition.**
+Place link here.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Explain why it should be added**
+A clear and concise description of why it should be added to this list.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
