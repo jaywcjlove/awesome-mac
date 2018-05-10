@@ -511,7 +511,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 
 ## Audio and Video Tools
 
-* [Popcorn Time](https://www.popcorn-time.to/mac.html) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy. ![Freeware][Freeware Icon]
+* [Popcorn Time](https://popcorntime.sh/zh_CN) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy. ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - Free, open-source, and cross-platform media player. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon] ![star 5][star5 Icon]
