@@ -296,6 +296,7 @@
 * [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
 * [WriteMapper](https://writemapper.com/) - 专为写作者而设的脑图工具。
 * [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
+* [macSVG](https://macsvg.org/) - 设计HTML5 SVG和动画. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 
 #### 截图工具
 
