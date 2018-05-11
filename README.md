@@ -772,6 +772,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 ## Gaming Software
 
 * [OpenEmu](http://openemu.org/) - A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![Recommend][tuijian Icon]](https://github.com/OpenEmu/OpenEmu)
+* [LuaStudio](http://scormpool.com/luastudio) - Helps your make OpenGL graphics games and mobile apps on Mac and export them to other OS including iOS, Android, Win easily. It's codding tool, based on Lua/LuaJIT programming language. [![Freeware][Freeware Icon]]
 
 ## Remote Login Software
 
