@@ -591,7 +591,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 ## Browsers
 
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
-* [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, developed by Google ![Freeware][Freeware Icon]
+* [Chrome](http://www.google.cn/chrome/browser/) - Chrome, developed by Google ![star 4][star4 Icon] ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
 * [Safari](http://www.apple.com/cn/safari/) - Native browser for Macs. ![Freeware][Freeware Icon]
