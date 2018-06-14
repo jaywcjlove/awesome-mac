@@ -605,6 +605,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
+* [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
 * [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 
 ## Security Tools
