@@ -589,6 +589,7 @@
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]  
+* [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1314980676?mt=12)
 
