@@ -27,9 +27,9 @@ Plugin
   * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Graphical display of regular expressions。
   * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - Quick look in tree view。
 * Front-end
-  * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+  * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
-  * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
+  * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers.
   * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
   * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
   * [pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
@@ -45,8 +45,8 @@ Plugin
 
 ## Sublime Text Plugin
 
-* [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin. ![star 5][star5 Icon]
-* [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers. ![star 5][star5 Icon]
+* [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - An opinionated todo-list plugin.
+* [Emmet](https://github.com/sergeche/emmet-sublime) - Upgrade version of zen coding, it's must-have plugin for front-end developers.
 * [sublimelint](https://github.com/lunixbochs/sublimelint) - A framework for error highlighting. Support AppleScript, C, C++, CSS, CoffeeScript, Go, HAML, HTML, Java, JavaScript, Lua, NASM, PHP, Perl, Python, Puppet, Ruby, XML.
 * [JsFormat](https://packagecontrol.io/packages/JsFormat) - Javascript formatting.
 * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery.
@@ -59,7 +59,7 @@ Plugin
 * [WakaTime](https://packagecontrol.io/packages/WakaTime) - A plugin for metrics, insights, and time tracking automatically generated from your programming activity.
 * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - A beautiful theme, including file icons.
 * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - Live previewer/exporter for markup files (markdown, rst, creole, textile...).
-* [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter. ![star 5][star5 Icon]
+* [GitGutter](https://packagecontrol.io/packages/GitGutter) - Show git diff in gutter.
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter.
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter.
@@ -89,7 +89,7 @@ Plugin
 * [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
 * [WebVim](https://github.com/krampstudio/webvim) - Vim-based distribution targeting JavaScript and Web development
 * [vim-web](https://github.com/jaywcjlove/vim-web) - Based on WebVim, Vim for front-end developers (docs are in Chinese). [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vim-web) ![Freeware][Freeware Icon]
-* [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Spacevim](https://github.com/ctjhoa/spacevim) -  Spacemacs for vim. It can be used as a full distribution or you can just use the Spacemacs key bindings.
 * [spf13](http://vim.spf13.com/) - A completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.
 * [vimplus](https://github.com/chxuan/vimplus) - A fully automated project to build VIM development environment.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
@@ -99,14 +99,4 @@ Plugin
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
