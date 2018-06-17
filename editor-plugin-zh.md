@@ -30,9 +30,9 @@ Plugin
 
 * 前端
 
-  * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+  * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
-  * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
+  * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。
   * [tag](https://atom.io/packages/tag) - Sublime 风格的 HTML 标签自动闭合。
   * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
   * [autoprefixer](https://atom.io/packages/autoprefixer) - 自动补全CSS前缀。
@@ -49,8 +49,8 @@ Plugin
 
 ## Sublime Text Plugin
 
-* [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。![star 5][star5 Icon]
-* [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。![star 5][star5 Icon]
+* [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。
+* [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。
 * [sublimelint](https://github.com/lunixbochs/sublimelint) - 用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言。
 * [JsFormat](https://packagecontrol.io/packages/JsFormat) - 用于JavaScript格式化。
 * [jQuery](https://packagecontrol.io/packages/jQuery) - jQuery语法提示。
@@ -63,7 +63,7 @@ Plugin
 * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
 * [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
 * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
-* [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对Git的状态。![star 5][star5 Icon]
+* [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对Git的状态。
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown语法高亮。
@@ -93,7 +93,7 @@ Plugin
 * [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
 * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
 * [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
-* [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
 * [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
 * [vimplus](https://github.com/chxuan/vimplus) - 一套完全自动化打造Vim开发环境的项目。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
@@ -102,14 +102,4 @@ Plugin
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
