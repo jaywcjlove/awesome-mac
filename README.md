@@ -768,6 +768,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.  ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware][Freeware Icon]
+* [smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler. [![Open-Source Software][OSS Icon]](https://github.com/hholtmann/smcFanControl) ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
