@@ -703,6 +703,8 @@
     * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用JavaScript写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
     * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
     * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
+    * [contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换
+
 * 密码管理
     * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
@@ -719,6 +721,8 @@
     * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给Finder添加有用的新特性。![Freeware][Freeware Icon]
     * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
     * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google 助手 [![Open-Source Software][OSS Icon]](https://github.com/vanshg/MacAssistant) ![Freeware][Freeware Icon]
+
+
 
 ## 远程协助
 
