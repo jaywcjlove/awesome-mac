@@ -12,9 +12,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;  
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
-![App Store][app-store Icon] means **App store** hyperlink;  
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
+![App Store][app-store Icon] means **App store** hyperlink;
 
 You may come across some non-English characters. Those apps don't have an English version yet, so you might want steer clear of them.
 
@@ -313,6 +313,8 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VMWare Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [DockStation](https://dockstation.io/) - Developer-centric application for managing projects based on Docker. [![Open-Source Software][OSS Icon]](https://github.com/DockStation/dockstation) ![Freeware][Freeware Icon]
+* [Portainer](https://portainer.io/) - An open-source lightweight management ui which allows you to easily manage your docker hosts or swarm clusters. [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
 
 #### Databases
 

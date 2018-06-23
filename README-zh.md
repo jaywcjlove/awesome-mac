@@ -6,11 +6,11 @@
 
 **说明**
 
-[English](README.md) | [中文](README-zh.md)  
+[English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；  
-![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；  
-![App Store][app-store Icon] 表示 **App store** 连接地址;  
+![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；
+![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；
+![App Store][app-store Icon] 表示 **App store** 连接地址;
 
 ## 目录
 
@@ -337,10 +337,13 @@
 
 ## 虚拟机
 
+* [Docker](https://www.docker.com/) - 开源的应用容器引擎。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![Freeware][Freeware Icon]
 * [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 * [Veertu](https://veertu.com) - Mac上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon]
+* [DockStation](https://dockstation.io/) - 管理 Docker 项目的程序。 [![Open-Source Software][OSS Icon]](https://github.com/DockStation/dockstation) ![Freeware][Freeware Icon]
+* [Portainer](https://portainer.io/) - 基于网页管理 Docker 容器和 swarm 集群。 [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
 
 
 ## 通信
@@ -584,7 +587,7 @@
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
-* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]  
+* [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1314980676?mt=12)
