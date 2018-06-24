@@ -314,7 +314,7 @@ You may come across some non-English characters. Those apps don't have an Englis
 * [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VMWare Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
 * [DockStation](https://dockstation.io/) - Developer-centric application for managing projects based on Docker. [![Open-Source Software][OSS Icon]](https://github.com/DockStation/dockstation) ![Freeware][Freeware Icon]
-* [Portainer](https://portainer.io/) - An open-source lightweight management ui which allows you to easily manage your docker hosts or swarm clusters. [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
+* [Portainer](https://portainer.io/) - An open-source lightweight management UI which allows you to easily manage your docker hosts or swarm clusters. [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
 
 #### Databases
 
