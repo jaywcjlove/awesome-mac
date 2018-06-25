@@ -712,7 +712,6 @@
     * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
     * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
     * [LastPass](https://www.lastpass.com/) - 密码管理器和安全的数字笔记。
-    * [KeePassX](https://www.keepassx.org) - 一个免费的，开源的，体积小的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
     * [MacPass](https://macpass.github.io/) - 密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
     * [Keeweb](https://keeweb.info/) - 与KeePass兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * Finder
