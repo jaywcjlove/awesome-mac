@@ -12,8 +12,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;
 
 ## Contents
