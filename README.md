@@ -72,6 +72,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 + [Third Party App Markets](#third-party-app-markets)
     - [Package Managers](#package-managers)
 + [Mac App Download Sites](#mac-app-download-sites)
++ [Podcasts](#podcasts)
 
 ## Reading and Writing Tools
 
@@ -798,6 +799,10 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 * AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https://softasm.com/`~~
+
+## Podcasts
+
+* [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 
 **[⬆ back to top](#contents)**
 
