@@ -2,15 +2,15 @@
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
- 现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的Mac应用程序、软件以及工具。通过 Pull Request 或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
+ 现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的Mac应用程序、软件以及工具。通过 Pull Request 或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
 
 **说明**
 
 [English](README.md) | [中文](README-zh.md)
 
-![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；
-![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；
-![App Store][app-store Icon] 表示 **App store** 连接地址;
+![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库； 
+![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ； 
+![App Store][app-store Icon] 表示 **App store** 连接地址;  
 
 ## 目录
 
@@ -456,9 +456,6 @@
 
 ## 书签阅读写作
 
-* [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套跨平台的办公室软件套件。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
-* [LibreOffice](https://zh-cn.libreoffice.org/) - 一款功能强大的免费开源办公软件，默认使用开放文档格式，并支持其他多种文档格式。[![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
-* [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
 * [iChm](https://github.com/NSGod/ichm) - 读chm文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读chm文件的软件。![Freeware][Freeware Icon]
@@ -472,36 +469,49 @@
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有markdown支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
-* RSS
-    * [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
-    * [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
-    * [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。
-    * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
-    * [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
-* Markdown
-    * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
-    * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon]
-    * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
-    * [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
-    * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
-    * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。![Freeware][Freeware Icon]
-    * [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-    * [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
-    * [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
-    * [Marked 2](http://marked2app.com/) - Markdown文本预览编辑。
-    * [iA Writer](https://ia.net/writer/) - Markdown文本预览编辑，注重语法检查，专门为作家提供的编辑器。
-    * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于Mac，iPad和iPhone的写作应用程序，支持Markdown。
-    * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
-* 笔记
-    * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
-    * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。![Freeware][Freeware Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
-    * [leanote](http://app.leanote.com) - 支持Markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
-    * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
-    * [OneNote](https://www.onenote.com/) - 微软备注应用。 ![Freeware][Freeware Icon]
-    * [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
-    * [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-    * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]
+
+#### Office
+
+* [WPS](http://www.wps.cn/product/wpsmac/) - 是一套跨平台的办公室软件套件。 ![Freeware][Freeware Icon]
+* [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html) - 是一套跨平台的办公室软件套件。[![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
+* [LibreOffice](https://zh-cn.libreoffice.org/) - 一款功能强大的免费开源办公软件，默认使用开放文档格式，并支持其他多种文档格式。[![Open-Source Software][OSS Icon]](http://zh-cn.libreoffice.org/download/source-code/) ![Freeware][Freeware Icon]
+* [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
+
+#### RSS
+
+* [Feeds 2](http://www.feedsapp.com/) - 监控任何RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
+* [ReadKit](http://readkitapp.com/) - 书签RSS管理客户端。
+* [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。
+* [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
+* [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
+
+#### Markdown
+
+* [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
+* [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon]
+* [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+* [TextNut](http://www.textnutwriter.com/) - Markdown编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
+* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
+* [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。![Freeware][Freeware Icon]
+* [MacDown](http://macdown.uranusjr.com/) - 一款开源的Markdown编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [EME](https://github.com/egoist/eme) - 最近刚出的一款Markdown编辑器，界面很像Chrome浏览器的界面，很简约。
+* [LightPaper](http://lightpaper.42squares.in/) - 简单的Markdown文本编辑器。
+* [Marked 2](http://marked2app.com/) - Markdown文本预览编辑。
+* [iA Writer](https://ia.net/writer/) - Markdown文本预览编辑，注重语法检查，专门为作家提供的编辑器。
+* [Ulysses](https://www.ulyssesapp.com/features/) - 适用于Mac，iPad和iPhone的写作应用程序，支持Markdown。
+* [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
+
+#### 笔记
+
+* [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+* [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office预览。![Freeware][Freeware Icon]
+* [为知笔记](http://www.wiz.cn/download.html) - 支持Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
+* [leanote](http://app.leanote.com) - 支持Markdown的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
+* [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
+* [OneNote](https://www.onenote.com/) - 微软备注应用。 ![Freeware][Freeware Icon]
+* [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
+* [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+* [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]
 
 ## 制作电子书
 
