@@ -21,7 +21,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 + [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
-    - [Office](#Office)
+    - [Office](#office)
     - [Markdown Editors](#markdown-editors)
     - [Note-taking](#note-taking)
     - [Ebooks](#ebooks)
