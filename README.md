@@ -112,7 +112,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Marked 2](http://marked2app.com/) - Markdown previewer, reviewer, and exporter.  Great for people that already have a preferred way of editing Markdown, but want to get a live preview of the document they are working on.
 * [Marp](https://yhatt.github.io/marp/) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
-* [Mou](http://25.io/mou/) - Markdown editor for developers, on Mac OS X. ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing, note taking and static blog generator App.
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon]
