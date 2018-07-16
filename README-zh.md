@@ -682,6 +682,7 @@
 * [Alfred](https://www.alfredapp.com/) - 效率神器。
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [FruitJuice](http://fruitjuiceapp.com) - 会让你知道每天保持不插电的时间，以保持你的电池健康。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/fruitjuice/id671736912)
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
 * [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的Mac OS电脑硬件信息检测软件。![Freeware][Freeware Icon]
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
