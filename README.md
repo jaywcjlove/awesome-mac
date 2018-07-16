@@ -168,6 +168,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects
   * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
   * [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students)
+  * [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful Java IDE. (**Free** for Students)
   * [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version.
 * [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
