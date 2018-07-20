@@ -83,7 +83,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Text Editors
 
 * [Atom](https://atom.io) - Hackable text editor for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin). [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
-* [BBEdit](http://www.barebones.com/products/bbedit/) - The leading professional HTML and text editor for Mac.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Chocolat](https://chocolatapp.com/) - Native text editor.
 * [Coda2](http://panic.com/coda/) - Fast, clean and powerful text editor.
