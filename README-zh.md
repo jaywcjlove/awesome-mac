@@ -75,6 +75,7 @@
     * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google为React开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
+* [Haskell for Mac](http://haskellformac.com) - Haskell的现代开发环境。 [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android的官方IDE，基于Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon]
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费，功能齐全的IDE为学生，开源和个人开发人员。 ![Freeware][Freeware Icon]
