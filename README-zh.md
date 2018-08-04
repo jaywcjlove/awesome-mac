@@ -11,6 +11,7 @@
 ![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；  
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；  
 ![App Store][app-store Icon] 表示 **App store** 连接地址；  
+![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；  
 
 ## 目录
 
@@ -49,17 +50,17 @@
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
-* [Atom](https://atom.io) - GitHub推出的开源编辑器，[Atom常用插件](editor-plugin-zh.md#atom-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
-* [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin-zh.md#sublime-text-plugin)。
+* [Atom](https://atom.io) - GitHub推出的开源编辑器，[Atom常用插件](editor-plugin-zh.md#atom-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
+* [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin-zh.md#sublime-text-plugin)。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [Brackets](http://brackets.io) - Adobe推出的Brackets免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - Web编程利器，具备了快速且强大的编辑功能、专业检查与分 类、即时预览编辑成果、发布与同步功能等。
-* [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的，[VSCode常用插件](editor-plugin-zh.md#vscode-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
-* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。
+* [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript支持杠杠的，[VSCode常用插件](editor-plugin-zh.md#vscode-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs是基于控制台的编辑器和高度可定制的。 [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [LightTable](http://lighttable.com/) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [TextMate](https://macromates.com) - 文本编辑器软件，与BBedit一起并称苹果机上的emacs和vim，这是以前。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Coda2](http://panic.com/coda/) - 编写Web应用长得漂亮的编辑器。
-* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
+* [Vim](http://www.vim.org/) - Vim古老命令行中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Vim客户端，升级Vim体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
 * [ONI](https://github.com/onivim/oni) - 由Neovim提供的IDE。[![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - 一个现代直观的基于终端的文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
@@ -74,10 +75,10 @@
     * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和IDE之间定义和维护一致的代码风格。
     * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google为React开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
-* [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
+* [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的C# IDE。支持iOS、Android和.net开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Haskell for Mac](http://haskellformac.com) - Haskell的现代开发环境。 [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/) - 免费、开源的IDE，主要用于java开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
-* [Android Studio](https://developer.android.com/studio/index.html) - Android的官方IDE，基于Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon]
+* [Android Studio](https://developer.android.com/studio/index.html) - Android的官方IDE，基于Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费，功能齐全的IDE为学生，开源和个人开发人员。 ![Freeware][Freeware Icon]
 * [Eclipse](https://www.eclipse.org) - 流行的开源IDE，主要用于Java，但为多种语言和平台的插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
@@ -114,7 +115,7 @@
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持SSH、Telnet等多种协议的终端仿真程序。
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [TeXstudio](http://www.texstudio.org) - 集成创建LaTeX文档的写作环境。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
-* [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
+* [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)(https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - 在Mac系统偏好设置中创建服务管理。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Xcode＆Finder扩展 Objective-C转Swift代码转换器
 
@@ -142,6 +143,8 @@
 
 #### 命令行工具
 
+> A curated list of shell commands and tools specific to OS X. [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与windows平台的xshell媲美。 ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - 基于Web技术的终端，直接替代自带的Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
@@ -153,7 +156,7 @@
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
-* [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。
+* [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 和**Oh my zsh**相似，建立在Fish Shell框架上。
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的bash的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
@@ -337,7 +340,7 @@
 
 ## 虚拟机
 
-* [Docker](https://www.docker.com/) - 开源的应用容器引擎。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
+* [Docker](https://www.docker.com/) - 开源的应用容器引擎。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带NTFS读写，不用买ParagonNTFS，省100块。![Freeware][Freeware Icon]
 * [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
@@ -488,6 +491,8 @@
 
 #### Markdown
 
+> A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
 * [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon]
 * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
@@ -583,7 +588,7 @@
 
 *这里放Mac的浏览器应用*
 
-* [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/cn/safari/) - Mac预装自带浏览器。![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Chrome](http://www.google.cn/chrome/browser/) - Chrome浏览器谷歌出品。![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - 迎接 Firefox Quantum。快，只为更好。火狐浏览器。![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
@@ -681,7 +686,7 @@
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon]
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，放松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [Porting Kit](http://portingkit.com/) - 在Mac中安装Windows®游戏。 ![Freeware][Freeware Icon]
-* [Alfred](https://www.alfredapp.com/) - 效率神器。
+* [Alfred](https://www.alfredapp.com/) - 效率神器。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [FruitJuice](http://fruitjuiceapp.com) - 会让你知道每天保持不插电的时间，以保持你的电池健康。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/fruitjuice/id671736912)
@@ -748,23 +753,11 @@
 
 ## QuickLook插件
 
+> List of useful [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) plugins for developers. [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
+
 *使用 [Homebrew Cask](https://github.com/phinze/homebrew-cask) 将通过命令安装即为简单。开发人员使用的[Quick Look](http://en.wikipedia.org/wiki/Quick_Look)插件列表。如果手动安装，你可将下载的 `.qlgenerator` 文件移动到 `~/Library/QuickLook` 运行 `qlmanage -r`*
 
 * [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
-* [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - 在预览源代码文件，高亮代码。`brew cask install qlcolorcode`
-* [QLMarkdown](https://github.com/toland/qlmarkdown) - Markdown文件转换成静态页面预览。`brew cask install qlmarkdown`
-* [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - 格式化预览JSON文件。`brew cask install quicklook-json`
-* [QLPrettyPatch](https://github.com/atnan/QLPrettyPatch) - 预览`.patch`文件。`brew cask install qlprettypatch`
-* [QuickLookCSV](https://github.com/p2/quicklook-csv) - 预览`.CSV`文件。`brew cask install quicklook-csv`
-* [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/) - 预览BetterZip软件的压缩格式文件。`brew cask install betterzipql`
-* [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - 显示图像大小和分辨率。`brew cask install qlimagesize`
-* [WebP](https://github.com/dchest/webp-quicklook) - 预览WebP图像。`brew cask install webpquicklook`
-* [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/) - 预览Apple安装程序包的标准内容。`brew cask install suspicious-package`
-* [QuickLookASE](https://github.com/rsodre/QuickLookASE) - 预览使用Photoshop，Illustrator，Prisma等生成的Adobe ASE Color色板等。`brew cask install quicklookase`
-* [QLVideo](https://github.com/Marginal/QLVideo) - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。`brew cask install qlvideo`
-* [QuickLookAPK](https://github.com/hezi/QuickLookAPK) - 预览Android APK文件。`brew cask install quicklookapk`
-* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - 预览 iOS/macOS 应用和配置信息。`brew cask install provisionql`
-* [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat) - 预览Adobe Photoshop图案文件。`brew cask install quicklook-pat`
 
 ## 第三方应用市场APP
 
@@ -833,6 +826,7 @@
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "开源软件"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "免费软件"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "苹果应用商店软件"
+[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
 
 
 ## Contributors
