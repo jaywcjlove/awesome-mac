@@ -794,7 +794,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
-[awesome-list Icon]: https://wangchujiang.com/sb/ico/awesome.svg "Awesome List"
+[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
 
 ## Contributors
 
