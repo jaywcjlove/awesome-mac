@@ -729,10 +729,11 @@
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
 * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 像ubuntu一样提供窗口管理，为工作区创建热键，使您可以轻松移动。
-* [contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换
+* [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换
 
 ### 密码管理
 
+* [Authy](https://authy.com) - 双因素身份验证令牌管理器，可在您的设备上进行备份和同步。 ![Freeware][Freeware Icon]
 * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/dashlane-password-manager/id552383089)
