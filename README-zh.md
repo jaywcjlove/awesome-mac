@@ -246,6 +246,7 @@
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 矢量图像设计工具，可能的Adobe Illustrator的替代。
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代Adobe PS图象处理软件。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台3D内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [Sculptris](http://pixologic.com/sculptris/#) - 所见所得玩 3D 建模。![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
 * [Sketch](https://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web和移动设计。
     * [Sketch Toolbox](http://sketchtoolbox.com/) - 一个超级简单的Sketch插件管理器。[![Open-Source Software][OSS Icon]](https://github.com/buzzfeed/Sketch-Toolbox) ![Freeware][Freeware Icon]
