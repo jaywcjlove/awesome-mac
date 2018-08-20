@@ -42,7 +42,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 + [Design and Product](#design-and-product)
     - [Design Tools](#design-tools)
     - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
-    - [Screenshot Tools](#screenshot-tools)
+    - [Screencapturing Software](#screencapturing-software)
     - [Other Tools](#other-tools)
 + [Communication](#communication)
     - [Collaboration and Team Tools](#collaboration-and-team-tools)
@@ -401,7 +401,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet.
 * [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
 
-#### Screenshot Tools
+#### Screencapturing Software
 
 * [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
