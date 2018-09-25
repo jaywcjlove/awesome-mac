@@ -293,6 +293,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292)
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - Git client with support.
+* [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 * [Versions](http://www.versionsapp.com/) - Mac Subversion (SVN) Client.
 
