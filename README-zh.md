@@ -191,6 +191,7 @@
 * [Versions](http://www.versionsapp.com/) - Mac 上最好的 SVN 管理工具。
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac 上最佳的 SVN 管理工具。
 * [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 Github 服务。
+* [Sublime Merge](https://www.sublimemerge.com/) -  Git客户端，来自Sublime Text的制造商。
 * [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的 git 管理工具。
 
 ### 版本控制系统
