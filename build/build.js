@@ -1,158 +1,175 @@
-var exec = require('child_process').exec;
-var fs = require('fs');
-var path = require('path');
-var marked = require('marked');
-var ejs = require('ejs');
-var minify = require('html-minifier').minify;
-var ghpages = require('gh-pages');
-var loading =  require('loading-cli');
-var mkdirp = require('mkdirp');
-var renderer = new marked.Renderer();
-var color = require('colors-cli/safe')
-var error = color.red.bold;
-var warn = color.yellow;
-var notice = color.blue;
-var success = color.green;
+const path = require('path');
+const ejs = require('ejs');
+const FS = require('fs-extra');
+const marked = require('marked');
+const loading = require('loading-cli');
+const ghpages = require('gh-pages');
+const minify = require("html-minifier").minify;
+const colors = require('colors-cli/toxic');
 
-// console.log(error('Error!'));
-// console.log(warn('Warning'));
-// console.log(notice('Notice'));
+const deployDir = path.resolve(process.cwd(), '.deploy');
+const templatePath = path.resolve(process.cwd(), 'build', 'template.ejs');
+const faviconPath = path.resolve(process.cwd(), 'build', 'favicon.ico');
 
-renderer.heading = function (text, level) {
-    if(/[\u4E00-\u9FA5]/i.test(text)){
-        return '<h' + level + ' id="'+text.toLowerCase()+'">'+text+'</h' + level + '>';
-    }else{
-        var escapedText = text.toLowerCase().replace(/[^\w]+/g, '-');
-        return '<h' + level + ' id="'+escapedText+'">'+text+'</h' + level + '>';
+mkdirs(deployDir)
+  .then(dir => emptyDir(dir))
+  .then(dir => MarkedToHTMLOutputFile(
+    path.resolve(process.cwd(), 'README.md'),
+    path.resolve(deployDir, 'index.html')
+  ))
+  .then(dir => MarkedToHTMLOutputFile(
+    path.resolve(process.cwd(), 'README-zh.md'),
+    path.resolve(deployDir, 'index.zh.html')
+  ))
+  .then(dir => MarkedToHTMLOutputFile(
+    path.resolve(process.cwd(), 'editor-plugin.md'),
+    path.resolve(deployDir, 'editor-plugin.html')
+  ))
+  .then(dir => MarkedToHTMLOutputFile(
+    path.resolve(process.cwd(), 'editor-plugin-zh.md'),
+    path.resolve(deployDir, 'editor-plugin-zh.html')
+  ))
+  .then(() => FS.copySync(faviconPath, path.resolve(deployDir, 'favicon.ico') ))
+  .then(() => PushGhpage(deployDir, {
+    repo: 'git@github.com:jaywcjlove/awesome-mac.git',
+    message: `MacOSX software list update, Compiler generation page. ${new Date()}`
+  }))
+  .then(() => console.log(`\n Push Success!!\n`.green))
+  .catch((err) => {
+    if (err && err.message) {
+      console.log(`\n ERROR :> ${err.message.red_bt}\n`)
     }
+  });
+
+/**
+ * Create a directory
+ * @param {String} dir
+ */
+function mkdirs(dir) {
+  return new Promise((resolve, reject) => {
+    FS.ensureDir(dir, err => {
+      err ? reject(err) : resolve(dir);
+    })
+  });
 }
 
-marked.setOptions({
-  renderer: renderer,
-  // gfm: true,
-  // tables: true,
-  // breaks: false,
-  // pedantic: false,
-  // sanitize: true,
-  // smartLists: true,
-  // smartypants: false
-  // highlight: function (code, lang, callback) {
-  //   console.log("tes")
-  //   require('pygmentize-bundled')({ lang: lang, format: 'html' }, code, function (err, result) {
-  //     callback(err, result.toString());
-  //   });
-  // }
-});
+/**
+ * Empty a directory
+ * @param {String} dir
+ */
+function emptyDir(dir) {
+  return new Promise((resolve, reject) => {
+    FS.emptyDir(dir, err => {
+      err ? reject(err) : resolve(dir);
+    })
+  });
+}
 
-// 删除文件夹
-exec('rm -rf .deploy');
-exec('mkdir .deploy');
+/**
+ * Output file.
+ * @param {String} filePath
+ * @param {String} html
+ */
+function outputFile(filePath, html) {
+  return new Promise((resolve, reject) => {
+    try {
+      FS.outputFileSync(filePath, minify(html, {
+        collapseWhitespace: true,
+        minifyCSS: true 
+      }));
+      resolve();
+    } catch (err) {
+      reject(err)
+    }
+  });
+}
 
-MarkedToHTMLSave('.deploy/index.html','README.md'.toString(),function(err){
-    if (err) return console.log(error(err));
-    console.log(notice('  → '+"ok!"));
-})
+/**
+ * Markdown to HTML
+ * @param {String} file Markdown path
+ */
+function MarkedToHTML(file) {
+  return new Promise((resolve, reject) => {
+    try {
+      const markdownStr = FS.readFileSync(file);
+      const renderer = new marked.Renderer();
+      renderer.heading = function (text, level) {
+        if (/[\u4E00-\u9FA5]/i.test(text)) {
+          return '<h' + level + ' id="' + text.toLowerCase() + '">' + text + '</h' + level + '>';
+        }
+        const escapedText = text.toLowerCase().replace(/[^\w]+/g, '-');
+        return '<h' + level + ' id="' + escapedText + '">' + text + '</h' + level + '>';
+      }
+      marked.setOptions({ renderer });
+      resolve(marked(markdownStr.toString()));
+    } catch (err) {
+      reject(err)
+    }
+  });
+}
 
-MarkedToHTMLSave('.deploy/index.zh.html','README-zh.md'.toString(),function(err){
-    if (err) return console.log(error(err));
-    console.log(notice('  → README-zh.md - '+"ok!"));
-})
+/**
+ * Replace 'README.md' => 'index.html'
+ * @param {String} html HTML code
+ * @param {Object} options 
+ */
+function MDhrefToPath(html, options = {}) {
+  const reg = new RegExp('<*href="(.*?)"*>', 'ig');
+  return new Promise((resolve, reject) => {
+    try {
+      const htmlResult = html.replace(reg, (a, st) => {
+        Object.keys(options).forEach((key) => {
+          if (st.indexOf(key) > -1) {
+            a = a.replace(st, options[key]);
+          }
+        })
+        return a
+      });
+      resolve(htmlResult);
+    } catch (err) {
+      reject(err)
+    }
+  });
+}
 
-MarkedToHTMLSave('.deploy/editor-plugin.html','editor-plugin.md'.toString(),function(err){
-    if (err) return console.log(error(err));
-    console.log(notice('  → editor-plugin.md - '+"ok!"));
+function ejsRenderFile(ejsPath, data, options = {}) {
+  return new Promise((resolve, reject) => {
+    ejs.renderFile(ejsPath, data, options, (err, str) => {
+      err ? reject(err) : resolve(str);
+    });
+  });
+}
 
-})
-
-MarkedToHTMLSave('.deploy/editor-plugin-zh.html','editor-plugin-zh.md'.toString(),function(err){
-    if (err) return console.log(error(err));
-    console.log(notice('  → editor-plugin-zh.md - '+"ok!"));
-})
-
-
-PushGhpage()
-
-function PushGhpage(){
-    //copy favicon.ico
-    fs.createReadStream(path.join(__dirname, './favicon.ico'))
-      .pipe(fs.createWriteStream(path.join(__dirname, '../.deploy/favicon.ico')));
-    // upload gh-page！～～
-    var load = loading('  Pushing code!!')
-    load.start()
-    ghpages.publish(path.join(__dirname, '../.deploy'),{ 
-        repo: 'https://github.com/jaywcjlove/awesome-mac.git',
-        branch: 'gh-pages',
-        message: 'MacOSX software list update, Compiler generation page.' + new Date()
-    }, function(err) { 
-        if(err) return console.log(error('  → '+"ok!"+err));
-        load.stop()
-        console.log(success('\n\n   '+"Push success!!"));
-        // 删除文件夹
-        exec('rm -rf .deploy');
+function MarkedToHTMLOutputFile(mdpath, toPath) {
+  return MarkedToHTML(mdpath)
+    .then(html => MDhrefToPath(html, {
+      'README.md': 'index.html',
+      'README-zh.md': 'index.zh.html',
+      'editor-plugin.md': 'editor-plugin.html',
+      'editor-plugin-zh.md': 'editor-plugin-zh.html',
+    }))
+    .then(html => ejsRenderFile(
+      templatePath,
+      {
+        lang: toPath.indexOf('zh.html') > 0 ? 'zh' : 'en',
+        html
+      }
+    ))
+    .then(html => outputFile(toPath, html))
+    .then(() => {
+      console.log(`${'Success:'.green} ${mdpath.replace(process.cwd(), '').blue} -> ${toPath.replace(process.cwd(), '').blue}`)
+      return toPath;
     });
 }
 
-function MarkedToHTMLSave(_path,form_file,callback){
-    var dirname = path.dirname(_path)
-
-    var README_str = fs.readFileSync(form_file);
-    var basename = path.basename(_path)
-    var md_basename = path.basename(form_file)
-    // console.log("md_basename::",md_basename)
-    console.log('\n  ☆ '+_path+'\n');
-
-    marked(README_str.toString(),function(err,html){
-        if (err) return callback(err);
-        console.log(notice('  → ['+form_file+"]成功转换成HTML!"+ _path));
-        html = MDhrefToPath(html);
-
-        var title="",description="",keywords="",lang;
-        if (_path.indexOf('zh.html')>0){
-          lang="zh";
-        }else{
-          lang="en";
-        }
-        var data =  {
-          lang:lang,
-          html: html
-        };
-        var options = {
-            // delimiter: '$'
-        };
-        ejs.renderFile('./build/template.ejs',data,options,function(err, str){
-            // str => Rendered HTML string
-            // HTML 代码压缩
-            var result = minify(str, {
-              // removeAttributeQuotes: true
-              // collapseInlineTagWhitespace:true
-              minifyCSS:true,
-              minifyJS:true,
-              collapseWhitespace:true,
-              conservativeCollapse:true
-            });
-            fs.writeFileSync(_path,result,{
-                encoding:'utf8'
-            },function(err){
-                if (err) return callback(err);
-                callback(err)
-            })
-        });
-    })
-}
-
-
-function MDhrefToPath(html){
-    var reg = new RegExp('<*href="(.*?)"*>','ig')
-    return html.replace(reg,function(a,st){
-        if(st.indexOf('README.md')>-1){
-            return a.replace(st,'index.html')
-        }
-        if(st.indexOf('README-zh.md')>-1){
-            return a.replace(st,'index.zh.html')
-        }
-        if(st.indexOf('editor-plugin.md')>-1 || st.indexOf('editor-plugin-zh.md')>-1){
-            return a.replace(/.md#/,'.html#').replace(/.md\"\>$/,'.html">')
-        }
-        return a
-    })
+function PushGhpage(dirPath, options = {}) {
+  if (!options.branch) options.branch = 'gh-pages';
+  return new Promise((resolve, reject) => {
+    const load = loading('  Pushing code!!');
+    load.start();
+    ghpages.publish(dirPath, options, (err) => {
+      load.stop();
+      err ? reject(err) : resolve(str);
+    });
+  });
 }
