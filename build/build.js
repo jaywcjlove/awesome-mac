@@ -74,8 +74,10 @@ function outputFile(filePath, html) {
   return new Promise((resolve, reject) => {
     try {
       FS.outputFileSync(filePath, minify(html, {
+        minifyCSS: true,
+        minifyJS: true,
         collapseWhitespace: true,
-        minifyCSS: true 
+        conservativeCollapse: true
       }));
       resolve();
     } catch (err) {
