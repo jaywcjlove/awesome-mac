@@ -802,7 +802,7 @@
 
 *这里只提供正版软件购买下载的应用商店。*
 
-* [Setapp](https://setapp.com) - 高质量的 Mac 软件包。
+* [Setapp](https://setapp.com) - MacPaw 推出的订阅制付费 App 平台服务。
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载 App，跟踪优惠信息。
 * [Homebrew Cask](http://caskroom.github.io) - 基于[Homebrew](https://brew.sh/)扩展的，通过命令行安装 Mac GUI 软件的工具。[![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask) ![Freeware][Freeware Icon]
 * [Homebrew](https://brew.sh/) - 体验通过命令行安装 Mac 软件的工具(大部分是命令行工具)。[![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/) ![Freeware][Freeware Icon]
