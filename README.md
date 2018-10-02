@@ -317,7 +317,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client.
-* [Datum - SQLite](http://datumapps.com/datum.html) - Full featured, modern, and fast SQLite manager.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [JackDB](https://www.jackdb.com/) - Secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Keylord](https://protonail.com) - Desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
@@ -334,7 +333,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RedisClient](https://github.com/UUGU/redis-client-app) - Redis client application on mac, windows and linux. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app)
 * [RedisDesktopManager](http://redisdesktop.com) - Cross-platform GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
 * [SQLPro Studio](http://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
-* [SQLight](http://aurvan.com/index.php?act=sqlight_details) - SQLite database manager tool. ![Freeware][Freeware Icon]
+* [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware][Freeware Icon]
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured. [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
@@ -354,7 +353,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     * [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
-* [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
+* [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1207744923)
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board.
 * [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [MyPaint](http://mypaint.org/) - Simple drawing and painting program that works well with Wacom-style graphics tablets.[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
@@ -365,9 +364,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
 * [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
-* [Nik Collection](https://www.google.com/intl/en/nikcollection/) - Google Nik collection. ![Freeware][Freeware Icon]
+* [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
-* [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
+* [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  Application for designing animated and interactive user interfaces.
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
@@ -444,7 +443,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Collaboration and Team Tools
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
-* [Bitpost](https://voluntary.net/bitpost/) - Private, decentralized messaging system. Instead of connecting to centralized servers (like Facebook, Gmail, etc.) or federated servers (like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
@@ -500,13 +498,13 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [mpv](https://www.mpv.io/) - Free, open-source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 * [Soda Player](https://www.sodaplayer.com/) - Player that can play seed, magnetic links, online video, automatic captions, links and local video files. ![Freeware][Freeware Icon]
-* [VOX Player](https://coppertino.com/vox/mac) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
+* [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Natron](https://natron.fr/) - Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
-* [Hydrogen](http://www.hydrogen-music.org/hcms/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
+* [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 * [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 * [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
