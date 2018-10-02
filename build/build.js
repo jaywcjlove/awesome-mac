@@ -5,6 +5,7 @@ const marked = require('marked');
 const loading = require('loading-cli');
 const ghpages = require('gh-pages');
 const minify = require("html-minifier").minify;
+const markdownParse = require("@textlint/markdown-to-ast").parse;
 const colors = require('colors-cli/toxic');
 
 const deployDir = path.resolve(process.cwd(), '.deploy');
@@ -13,6 +14,9 @@ const faviconPath = path.resolve(process.cwd(), 'build', 'favicon.ico');
 
 mkdirs(deployDir)
   .then(dir => emptyDir(dir))
+  .then(dir => markdownToAst(path.resolve(process.cwd(), 'README.md')))
+  // Output `awesome-mac-data.json` file, https://github.com/jaywcjlove/amac
+  .then(ast => outputFile(path.resolve(deployDir, 'awesome-mac-data.json'), JSON.stringify(ast)))
   .then(dir => MarkedToHTMLOutputFile(
     path.resolve(process.cwd(), 'README.md'),
     path.resolve(deployDir, 'index.html')
@@ -173,5 +177,87 @@ function PushGhpage(dirPath, options = {}) {
       load.stop();
       err ? reject(err) : resolve(str);
     });
+  });
+}
+
+function arrayToJsonAst(arr, depth = 2, result = []) {
+  const getArrayItems = (items) => {
+    const itemsLink = [];
+    for (let a = 0; a < items.length; a += 1) {
+      if (a !== 0 && items[a].type == 'Header' && items[a].depth <= depth) {
+        break;
+      } else if (a !== 0 && items[a].children && items[a].children[0] && items[a].children[0].children && items[a].children[0].type === 'ListItem') {
+        const itemsLinkChild = items[a].children[0];
+        let link = '';
+        let title = '';
+        let tag = [];
+        itemsLinkChild.children[0].children.forEach((_item, idx) => {
+          if (idx === 0 && _item.type === 'Link') link = _item.url;
+          if (idx === 1 && _item.type === 'Str') {
+            title = _item.value.replace(/^(-|\s-)\s/g, '');
+          }
+          if (idx > 1 && /(Link|imageReference)/.test(_item.type)) {
+            if (/(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.identifier)) {
+              tag.push({
+                alt: _item.alt,
+                identifier: _item.identifier,
+              })
+            }
+            if (/(Link)/.test(_item.type) && _item.children && _item.children[0] && /(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.children[0].identifier)) {
+              tag.push({
+                url: _item.url,
+                alt: _item.children[0].alt,
+                identifier: _item.children[0].identifier,
+              })
+            }
+          }
+        })
+        if (title) {
+          itemsLink.push({ link, title, tag });
+        }
+      }
+    }
+    return itemsLink;
+  }
+
+  arr.forEach((item, idx) => {
+    if (item.type == 'Header' && item.depth === depth) {
+      const title = item.children.filter(_item => _item.type === 'Str')[0];
+      let des = '';
+      if (arr[idx + 1] && arr[idx + 1].type === 'Paragraph') {
+        des = arr[idx + 1].raw;
+      }
+      const props = {
+        title: title.value,
+        des,
+        key: title.value.toLowerCase().replace(/\s/g, '-'),
+        items: getArrayItems(arr.slice(idx, arr.length)),
+      };
+      result.push(props);
+    }
+  });
+  if (depth <= 6 && result.length === 0) {
+    result = arrayToJsonAst(arr, depth + 1);
+  }
+  return result;
+}
+
+/**
+ * Markdown to JSON
+ * @param {String} markdownPath 
+ */
+function markdownToAst(markdownPath) {
+  return new Promise((resolve, reject) => {
+    try {
+      const markdownStr = FS.readFileSync(markdownPath);
+      const AST = markdownParse(markdownStr.toString());
+      let ASTData = [];
+      if (AST && AST.children && AST.children.length > 0) {
+        ASTData = arrayToJsonAst(AST.children);
+      }
+      resolve(ASTData);
+    } catch (err) {
+      reject(err);
+    }
   });
 }
