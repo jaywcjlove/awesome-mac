@@ -192,9 +192,15 @@ function arrayToJsonAst(arr, depth = 2, result = []) {
           if (child.children[0] && child.children[0].children.length > 0) {
             const itemChild = {};
             child.children[0].children.forEach((_item, idx) => {
-              if (idx === 0 && _item.type === 'Link') itemChild.link = _item.url;
+              if (idx === 0 && _item.type === 'Link') {
+                itemChild.link = _item.url;
+                itemChild.name = '';
+                if (_item.children && _item.children.length > 0) {
+                  itemChild.name = _item.children[0].value;
+                }
+              }
               if (idx === 1 && _item.type === 'Str') {
-                itemChild.title = _item.value.replace(/^(-|\s-)\s/g, '');
+                itemChild.des = _item.value.replace(/^(-|\s-\s|\s-|-\s)/g, '');
               }
               if (idx > 1 && /(Link|imageReference)/.test(_item.type)) {
                 if (!itemChild.tag) itemChild.tag = [];
@@ -213,9 +219,7 @@ function arrayToJsonAst(arr, depth = 2, result = []) {
                 }
               }
             })
-            if (itemChild.title) {
-              itemsLink.push(itemChild);
-            }
+            if (itemChild.des) itemsLink.push(itemChild);
           }
         })
       }
