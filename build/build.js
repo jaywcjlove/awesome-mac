@@ -7,6 +7,7 @@ const ghpages = require('gh-pages');
 const minify = require("html-minifier").minify;
 const markdownParse = require("@textlint/markdown-to-ast").parse;
 const colors = require('colors-cli/toxic');
+const pkg = require('../package.json');
 
 const deployDir = path.resolve(process.cwd(), '.deploy');
 const templatePath = path.resolve(process.cwd(), 'build', 'template.ejs');
@@ -251,9 +252,14 @@ function markdownToAst(markdownPath) {
     try {
       const markdownStr = FS.readFileSync(markdownPath);
       const AST = markdownParse(markdownStr.toString());
-      let ASTData = [];
+      const ASTData = {
+        version: pkg.version,
+        name: pkg.name,
+        description: pkg.description,
+        data: [],
+      };
       if (AST && AST.children && AST.children.length > 0) {
-        ASTData = arrayToJsonAst(AST.children);
+        ASTData.data = arrayToJsonAst(AST.children);
       }
       resolve(ASTData);
     } catch (err) {
