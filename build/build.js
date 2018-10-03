@@ -174,7 +174,7 @@ function PushGhpage(dirPath, options = {}) {
   return new Promise((resolve, reject) => {
     const load = loading('  Pushing code!!');
     load.start();
-    ghpages.publish(dirPath, options, (err) => {
+    return ghpages.publish(dirPath, options, (err) => {
       load.stop();
       err ? reject(err) : resolve(str);
     });
@@ -187,35 +187,37 @@ function arrayToJsonAst(arr, depth = 2, result = []) {
     for (let a = 0; a < items.length; a += 1) {
       if (a !== 0 && items[a].type == 'Header' && items[a].depth <= depth) {
         break;
-      } else if (a !== 0 && items[a].children && items[a].children[0] && items[a].children[0].children && items[a].children[0].type === 'ListItem') {
-        const itemsLinkChild = items[a].children[0];
-        let link = '';
-        let title = '';
-        let tag = [];
-        itemsLinkChild.children[0].children.forEach((_item, idx) => {
-          if (idx === 0 && _item.type === 'Link') link = _item.url;
-          if (idx === 1 && _item.type === 'Str') {
-            title = _item.value.replace(/^(-|\s-)\s/g, '');
-          }
-          if (idx > 1 && /(Link|imageReference)/.test(_item.type)) {
-            if (/(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.identifier)) {
-              tag.push({
-                alt: _item.alt,
-                identifier: _item.identifier,
-              })
-            }
-            if (/(Link)/.test(_item.type) && _item.children && _item.children[0] && /(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.children[0].identifier)) {
-              tag.push({
-                url: _item.url,
-                alt: _item.children[0].alt,
-                identifier: _item.children[0].identifier,
-              })
+      } else if (a !== 0 && items[a].type == 'List') {
+        items[a].children.forEach((child) => {
+          if (child.children[0] && child.children[0].children.length > 0) {
+            const itemChild = {};
+            child.children[0].children.forEach((_item, idx) => {
+              if (idx === 0 && _item.type === 'Link') itemChild.link = _item.url;
+              if (idx === 1 && _item.type === 'Str') {
+                itemChild.title = _item.value.replace(/^(-|\s-)\s/g, '');
+              }
+              if (idx > 1 && /(Link|imageReference)/.test(_item.type)) {
+                if (!itemChild.tag) itemChild.tag = [];
+                if (/(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.identifier)) {
+                  itemChild.tag.push({
+                    alt: _item.alt,
+                    identifier: _item.identifier,
+                  })
+                }
+                if (/(Link)/.test(_item.type) && _item.children && _item.children[0] && /(awesome-list\ icon|app-store\ icon|freeware\ icon|oss\ icon)/.test(_item.children[0].identifier)) {
+                  itemChild.tag.push({
+                    url: _item.url,
+                    alt: _item.children[0].alt,
+                    identifier: _item.children[0].identifier,
+                  })
+                }
+              }
+            })
+            if (itemChild.title) {
+              itemsLink.push(itemChild);
             }
           }
         })
-        if (title) {
-          itemsLink.push({ link, title, tag });
-        }
       }
     }
     return itemsLink;
@@ -234,7 +236,9 @@ function arrayToJsonAst(arr, depth = 2, result = []) {
         key: title.value.toLowerCase().replace(/\s/g, '-'),
         items: getArrayItems(arr.slice(idx, arr.length)),
       };
-      result.push(props);
+      if (props.items && props.items.length > 0) {
+        result.push(props);
+      }
     }
   });
   if (depth <= 6 && result.length === 0) {
