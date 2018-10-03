@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
-  "homepage": "https://github.com/jaywcjlove/awesome-mac#readme",
+  "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "devDependencies": {
     "@textlint/markdown-to-ast": "^6.0.9",
     "colors-cli": "^1.0.20",
