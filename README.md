@@ -18,6 +18,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ![App Store][app-store Icon] means **App store** hyperlink;\
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
+**Awesome Mac App for macOS**. Installers for the latest stable build for Mac can be [downloaded here](https://github.com/jaywcjlove/amac/releases).
+
+[![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
+
 ## Contents
 
 + [Reading and Writing Tools](#reading-and-writing-tools)
