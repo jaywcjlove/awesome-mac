@@ -38,7 +38,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Regular Expression Editors](#regular-expression-editors)
     - [API Development and Analysis](#api-development-and-analysis)
     - [Network Analysis](#network-analysis)
-    - [Command Line Tools](#command-line-tools)
+    - [Command Line Tools](#command-line-tools-)
     - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
     - [Version Control](#version-control)
     - [Virtualization](#virtualization)
