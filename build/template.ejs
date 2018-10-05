@@ -7,6 +7,7 @@
     <meta name="description" content="<% if(lang=='zh'){ %> 收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac <% }else{ %> A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac <% } %>" />
     <meta name="keywords" content="<% if(lang=='zh'){ %> mac,osx,app,mac软件,awesome mac,苹果软件下载,免费软件,mac免费软件下载,精品mac应用 <% }else{ %> mac,osx,app,softwares,applications,mac softwares,awesome mac,free softwares,Freeware <% } %>" />
     <link rel="shortcut icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
     <style type="text/css"> 
     * {box-sizing: border-box; } 
     body,html{padding: 0;margin:0;}
@@ -80,6 +81,9 @@
         background: #2186ff;
         color: #fff;
     }
+    #gitalk-container {
+        padding: 15px;
+    }
     </style>
 </head>
 <body id="totop">
@@ -99,6 +103,20 @@
 <article class="markdown-body">
 <%- html %>
 </article>
+<div id="gitalk-container"></div>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script type="text/javascript">
+    var gitalk = new Gitalk({
+        clientID: 'c51134df3166d2f3dc60',
+        clientSecret: '5ecaf0e8232d3589061512228f1950712bdb96e4',
+        repo: 'awesome-mac',
+        owner: 'jaywcjlove',
+        admin: ['jaywcjlove'],
+        id: window.location.pathname,
+        distractionFreeMode: true
+    });
+    gitalk.render('gitalk-container');
+</script>
 <a href="#totop" class="totop">Top</a>
 </body>
 </html>
