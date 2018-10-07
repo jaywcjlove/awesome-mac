@@ -75,7 +75,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [System Related Tools](#system-related-tools)
 + [Gaming Software](#gaming-software)
 + [Remote Login Software](#remote-login-software)
-+ [QuickLook Plugins](#quickLook-plugins)
++ [QuickLook Plugins](#quickLook-plugins-)
 + [Third Party App Markets](#third-party-app-markets)
     - [Package Managers](#package-managers)
 + [Mac App Download Sites](#mac-app-download-sites)
