@@ -617,6 +617,7 @@
 ## 安全工具
 
 * [LinkLiar](https://github.com/halo/LinkLiar) - 可以帮助你哄骗 Wi-Fi 和以太网接口的 MAC 地址。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
+* [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙，旨在阻止未经授权（传出）的网络流量。 [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [OverSight](https://objective-see.com/products/oversight.html) - 监控 Mac 的麦克风和网络摄像头，当内部麦克风被激活，或者当进程访问摄像头时提醒用户。
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在 OS 内核中加载的模块。
