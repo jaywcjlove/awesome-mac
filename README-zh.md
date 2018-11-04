@@ -340,6 +340,7 @@
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1101244278?ls=1&mt=12&at=1000lv4R&ct=iPic_me)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [svgus](http://www.svgs.us/) - SVG 图片管理器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/svgsus/id1106867065)
+* [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持 iTerm、Intellij IDEA、Vim 等。
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
