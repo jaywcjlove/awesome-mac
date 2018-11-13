@@ -281,7 +281,7 @@
 
 ### 原型流程
 
-* [Axure RP 8](https://www.axure.com/) - 画原型图工具，团队协作 SVN方 便好用。
+* [Axure RP 8](https://www.axure.com/) - 画原型图工具，团队协作，方便好用。
 * [ProtoPie](https://www.protopie.io/) - 高保真交互原型设计。
 * [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 用于网站和移动应用的设计和原型设计。
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 一个快速的网页设计原型工具，帮助你更快、更聪明的工作。
