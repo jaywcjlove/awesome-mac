@@ -473,7 +473,7 @@
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - PDF 阅读、批注，编辑文本，添加照片，填写表单。
-* [MarginNote](https://marginnote.com/?lang=zh-hans) - 一款优秀的 PDF 有标注软件，批注、抽认卡、思维导图、汇总视图等功能。 ![Freeware][Freeware Icon]
+* [MarginNote](https://marginnote.com/?lang=zh-hans) - 一款优秀的 PDF 有标注软件，批注、抽认卡、思维导图、汇总视图等功能。
 * [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、iBooks 标注管理工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
 * [texpad](https://www.texpad.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
@@ -494,7 +494,7 @@
 
 * [Feeds 2](http://www.feedsapp.com/) - 监控任何 RSS。[![Open-Source Software][OSS Icon]](https://github.com/nfarina/feeds) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
-* [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。
+* [Reeder 3](http://reederapp.com/mac/) - RSS 服务订阅。 ![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
 
