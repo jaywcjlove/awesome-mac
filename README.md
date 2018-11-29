@@ -616,6 +616,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 * [FreeVPN Plus](https://www.freevpn.pw) - Free VPN Client for Mac. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](itunes.apple.com/app/freevpn-plus-unlimited-free-vpn-for-mac/id1202726435)
 * [V2rayU](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yanue/V2rayU)
+
 ## Utilities
 
 #### Clipboard Tools
