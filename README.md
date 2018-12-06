@@ -211,6 +211,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MJML](https://mjmlio.github.io/mjml-app/) - Framework that utilizes a semantic syntax and a rich standard components library, which allow users to easily create responsive emails. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
+* [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Terminal emulation which supports SSH, Telnet or other protocols.
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.
