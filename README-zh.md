@@ -409,7 +409,6 @@
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Fu](https://github.com/klesh/fu) - 将图像/文件上传到远程服务器以交换文件共享的 URL。 [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
-* [FileZilla](https://filezilla-project.org) - 跨平台的 FTP，FTPS 和 SFTP 客户端。
 
 ## 数据恢复
 
