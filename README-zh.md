@@ -505,7 +505,6 @@
 > A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
-* [Mou](http://25.io/mou/) - 免费 Markdown 编辑神器。![Freeware][Freeware Icon]
 * [Marp](https://yhatt.github.io/marp/) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
 * [TextNut](http://www.textnutwriter.com/) - Markdown 编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
