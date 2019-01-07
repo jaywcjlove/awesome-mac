@@ -407,6 +407,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MindNode](http://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
 * [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.
 * [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
+* [Monodraw](https://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675) 
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming and graphic design for Mac, iPhone, and iPad.
 * [Origami Studio](http://origami.design/) -  Tool for designing modern interfaces, built and used by designers at Facebook.
 * [pencil](http://pencil.evolus.vn/) - Free, open-source tool for making diagrams and GUI prototyping. [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil) ![Freeware][Freeware Icon]
