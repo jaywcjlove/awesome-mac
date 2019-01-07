@@ -265,7 +265,7 @@
 * [MyPaint](http://mypaint.org/) - 开源的绘图工具软件，用于素描、会话以及一种新的绘图方式。[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Inkscape](https://inkscape.org/zh/) - 一款开源矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等其他软件相似。[![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
-* [Monodraw](https://helftone.com/) -  macOS 平台上强大的  ASCII 设计流程编辑器. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675) 
+* [Monodraw](https://helftone.com/) -  macOS 平台上强大的  ASCII 设计流程编辑器. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675) 
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。
