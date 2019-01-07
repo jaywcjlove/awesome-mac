@@ -281,6 +281,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software][OSS Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
 * [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
+* [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12) - Go2Shell opens a terminal window to the current directory in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12)
 
 #### Frameworks For Hybrid Applications
 
