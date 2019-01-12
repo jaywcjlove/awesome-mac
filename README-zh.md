@@ -211,6 +211,7 @@
 * [Gogs](https://gogs.io) - 一款极易搭建的自助 Git 服务 Golang 版本。[![Open-Source Software][OSS Icon]](https://github.com/gogits/gogs)  ![Freeware][Freeware Icon]
 * [Gerrit](https://www.gerritcodereview.com) Gerrit 是一个免费、开放源代码的代码审查软件，使用网页界面。![Freeware][Freeware Icon]
 * [Gitblit](http://www.gitblit.com/) Java 版本 Git 代码托管，项目管理。[![Open-Source Software][OSS Icon]](https://github.com/gitblit/gitblit) ![Freeware][Freeware Icon]
+* [Gitea](https://gitea.io) - Gogs 的 fork 版本。![Open-Source Software][OSS Icon]
 
 ### 数据库
 
@@ -347,6 +348,7 @@
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持 iTerm、Intellij IDEA、Vim 等。
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Tropy](https://tropy.org/) - 简单的屏幕取色应用程序。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
+* [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。![Open-Source Software][OSS Icon]
 
 ## 虚拟机
 
