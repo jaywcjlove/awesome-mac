@@ -244,7 +244,6 @@
 * [MongoBooster](http://www.mongobooster.com/) - MongoDB 图形化管理软件，内嵌 MongoShell，ES6 语法，流畅查询及智能感知。![Freeware][Freeware Icon]
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - 在Mac 上最简单的使用 MongoDB [![Open-Source Software][OSS Icon]]
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - MongoDB 图形化客户端管理软件。
-* [Robo 3T](https://robomongo.org/) - 另一款 MongoDB 图形化客户端管理软件。![Freeware][Freeware Icon]
 
 ## 设计和产品
 
