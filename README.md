@@ -606,7 +606,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection.
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
-
+* [Encrypto](https://macpaw.com/encrypto) - Free encryption tool for encrypting files and folders
 ## Proxy and VPN Tools
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
