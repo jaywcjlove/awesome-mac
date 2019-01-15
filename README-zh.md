@@ -84,6 +84,7 @@
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Chocolat](https://chocolatapp.com/) - 轻量级本地编辑器。
 * [Qt](https://www1.qt.io/cn/) - 跨平台 C++ 图形用户界面应用程序开发框架。
+* [GoLand](https://www.jetbrains.com/go/) - JetBrains出品的Go开发IDE，智能，灵活
 
 ### 开发者实用工具
 
