@@ -67,13 +67,18 @@
 * [HBuilder](http://www.dcloud.io/) - HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/tincta/id448340648)
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xcode/id497799835)
-* [AppCode](https://www.jetbrains.com/objc/) - 适用于 iOS / macOS 开发的智能 IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - 一款 Python 开发集成环境，有专业版和社区版。
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款 Java 开发集成环境。(**学生**免费)
-* [Webstorm](http://www.jetbrains.com/webstorm/) - 是 JetBrains 公司旗下一款 JavaScript 开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
-    * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成 `Node.js`，你肯定需要它，很多功能需要它。
-    * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和 IDE 之间定义和维护一致的代码风格。
-    * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
+* [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - 管理已安装的JetBrains工具，下载新工具并打开最近的项目。 ![Freeware][Freeware Icon]
+    * [CLion](https://www.jetbrains.com/clion/) - 强大的 C 和 C++ IDE。(**学生免费**)
+    * [DataGrip](http://www.jetbrains.com/datagrip/) - 用于数据库和SQL的跨平台IDE。 (**学生免费**), 查看[此处](https://www.jetbrains.com/student/)了解更多。
+    * [Rider](https://www.jetbrains.com/rider/) - 跨平台 C# IDE。 它是 Microsoft 的 Visual Studio 的替代方案.
+    * [AppCode](https://www.jetbrains.com/objc/) - 适用于 iOS / macOS 开发的智能 IDE
+    * [PyCharm](https://www.jetbrains.com/pycharm/) - 一款 Python 开发集成环境，有专业版和社区版。
+    * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款 Java 开发集成环境。(**学生**免费)
+    * [GoLand](https://www.jetbrains.com/go/) - JetBrains出品的Go开发IDE，智能，灵活
+    * [Webstorm](http://www.jetbrains.com/webstorm/) - 是 JetBrains 公司旗下一款 JavaScript 开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+        * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成 `Node.js`，你肯定需要它，很多功能需要它。
+        * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和 IDE 之间定义和维护一致的代码风格。
+        * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Haskell for Mac](http://haskellformac.com) - Haskell 的现代开发环境。 [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
@@ -84,7 +89,6 @@
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Chocolat](https://chocolatapp.com/) - 轻量级本地编辑器。
 * [Qt](https://www1.qt.io/cn/) - 跨平台 C++ 图形用户界面应用程序开发框架。
-* [GoLand](https://www.jetbrains.com/go/) - JetBrains出品的Go开发IDE，智能，灵活
 
 ### 开发者实用工具
 
