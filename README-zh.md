@@ -361,6 +361,7 @@
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Tropy](https://tropy.org/) - 简单的屏幕取色应用程序。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。![Open-Source Software][OSS Icon]
+* [Assetizr](https://assetizr.com) - 图片编辑应用，轻松更改图片尺寸，压缩图片，重命名图片。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
 
 ## 虚拟机
 
