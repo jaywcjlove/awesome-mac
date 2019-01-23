@@ -836,7 +836,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 ## Decoration
 
-* [Aerial](https://github.com/JohnCoates/Aerial) - Aerial is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Aerial](https://github.com/JohnCoates/Aerial) - Aerial is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 **[⬆ back to top](#contents)**
 
