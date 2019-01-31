@@ -781,6 +781,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 * [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
 
 ## Gaming Software
