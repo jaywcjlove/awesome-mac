@@ -363,6 +363,7 @@
 * [Tropy](https://tropy.org/) - 简单的屏幕取色应用程序。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。![Open-Source Software][OSS Icon]
 * [Assetizr](https://assetizr.com) - 图片编辑应用，轻松更改图片尺寸，压缩图片，重命名图片。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
+* [AppIconBuilder(图标构建)](https://itunes.apple.com/cn/app/shotbuilder/id1294179975?mt=12) - App图标多平台一键导出。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/shotbuilder/id1294179975?mt=12)
 
 ## 虚拟机
 
@@ -721,6 +722,7 @@
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
 * [HTTrack](http://www.httrack.com) - 可以下载整个网站和离线浏览。![Freeware][Freeware Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
+* [HWSensors](https://sourceforge.net/projects/hwsensors) - 自带FakeSMC的黑苹果硬件状态监控插件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kozlek/hwsensors/overview) ![Freeware][Freeware Icon]
 
 ### 剪贴板工具
 
@@ -803,7 +805,7 @@
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [Authy](https://authy.com) - 双因素身份验证令牌管理器，可在您的设备上进行备份和同步。 ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - 适用于Mac OS，iOS和浏览器的开源密码管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
-* [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
+* [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
 * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/dashlane-password-manager/id552383089)
 * [Enpass](https://www.enpass.io/) - 具有云集成的跨平台密码管理工具。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)
@@ -898,6 +900,7 @@
 * Macx：~~`https://www.macx.cn/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
+* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 
 **[⬆ 返回顶部](#目录)**
 
