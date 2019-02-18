@@ -37,6 +37,7 @@
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
 - [远程协助](#远程协助)
+- [社交网络](#社交网络)
 - [QuickLook插件](#quicklook插件)
 - [第三方应用市场APP](#第三方应用市场app)
 - [Mac软件下载网站](#mac软件下载网站)
@@ -830,6 +831,10 @@
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
+
+## 社交网络
+
+* [Flume](https://flumeapp.com) - 简约大气高逼格的Instagram，如果只是浏览点赞评论，免费版已经足够用。![Freeware][Freeware Icon]
 
 ## QuickLook插件
 
