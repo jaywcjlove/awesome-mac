@@ -81,11 +81,44 @@ Plugin
 
 ## VSCode Plugin
 
-* [react-beautify](https://github.com/taichi/react-beautify) - 这个扩展封保存自动美化 JS, JSX, typescript, TSX 文件。
-* [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
-* [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
-* [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
-* [Git Lens](https://github.com/eamodio/vscode-gitlens) - 增强了内置的Visual Studio代码Git功能。
+* 通用
+
+  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) -  Code设置vscode图标
+  * [Bracket Pair Colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - 着色匹配括号。
+  * [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) - 对缩进显示彩虹色作色，使得更加易读
+  * [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces) - 检测多余空格并高亮
+  * [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - TODO备忘插件
+  * [Code Spell Checker](https://github.com/Jason-Rev/vscode-spell-checker) - js或ts代码拼写检查
+  * [Document This](https://github.com/joelday/vscode-docthis) - doc注视自动生成
+  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
+  * [Git Lens](https://github.com/eamodio/vscode-gitlens) - 增强了内置的Visual Studio代码Git功能。
+  * [View In Browser](https://github.com/hellopao/view-in-browser) - 在vscode预览浏览器
+  * [SVG Viewer](https://github.com/cssho/vscode-svgviewer) - 在vscode内查看svg图标
+  * [Auto-Open Markdown Preview](https://github.com/hnw/vscode-auto-open-markdown-preview) - 实时预览markdown
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - 将markdown文档转为pdf、html、png或jpeg
+  * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - vscode中调试在chrome的js代码
+  * [ESlint](https://github.com/Microsoft/vscode-eslint) - eslint在vscode工具，帮助校验es语法等
+  * [TSLint](https://github.com/Microsoft/vscode-eslint) - tslint在vscode工具，帮助校验ts语法等
+
+* HTML
+  * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - 自动闭合标签
+  * [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) - 自动重命名标签
+  * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) -  html代码片段
+  * [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion) - 基于当前项目css文件，在html中智能提示CSS类名
+  * [HTML CSS Support](https://github.com/ecmel/vscode-html-css) - 在html中智能提示css样式
+
+* JS
+  * [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - 自动提示npm包的导入
+  * [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - 自动提示文件路径
+  * [Auto Import](https://github.com/soates/Auto-Import) - 自动识别解析导入
+  * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - 支持执行多语言测试代码
+  * [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
+  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) - 测试写的正则表达式
+
+* React/Vue
+  * [react-beautify](https://github.com/taichi/react-beautify) - 这个扩展封保存自动美化 JS, JSX, typescript, TSX 文件。
+  * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
+  * [Vetur](https://github.com/vuejs/vetur) - Vue-VSCode工具，支持高亮代码，自动补全，代码片段等
 
 ## Vim Plugin
 
