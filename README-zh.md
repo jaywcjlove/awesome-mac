@@ -755,7 +755,7 @@
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Things](https://culturedcode.com/things/) - 令人愉快且易于使用的任务管理器。
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
-* [滴答清单](https://help.dida365.com/) - 轻便的待办事项应用。![Freeware][Freeware Icon]
+* [滴答清单](https://www.dida365.com/) - 轻便且强大的跨平台任务管理应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id966085870)
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 奇妙清单跨平台的任务管理器与移动应用程序。![Freeware][Freeware Icon]
 
 ### 系统相关工具
