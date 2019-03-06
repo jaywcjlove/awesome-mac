@@ -67,13 +67,18 @@
 * [HBuilder](http://www.dcloud.io/) - HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/tincta/id448340648)
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xcode/id497799835)
-* [AppCode](https://www.jetbrains.com/objc/) - 适用于 iOS / macOS 开发的智能 IDE
-* [PyCharm](https://www.jetbrains.com/pycharm/) - 一款 Python 开发集成环境，有专业版和社区版。
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款 Java 开发集成环境。(**学生**免费)
-* [Webstorm](http://www.jetbrains.com/webstorm/) - 是 JetBrains 公司旗下一款 JavaScript 开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
-    * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成 `Node.js`，你肯定需要它，很多功能需要它。
-    * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和 IDE 之间定义和维护一致的代码风格。
-    * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
+* [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - 管理已安装的JetBrains工具，下载新工具并打开最近的项目。 ![Freeware][Freeware Icon]
+    * [CLion](https://www.jetbrains.com/clion/) - 强大的 C 和 C++ IDE。(**学生免费**)
+    * [DataGrip](http://www.jetbrains.com/datagrip/) - 用于数据库和SQL的跨平台IDE。 (**学生免费**), 查看[此处](https://www.jetbrains.com/student/)了解更多。
+    * [Rider](https://www.jetbrains.com/rider/) - 跨平台 C# IDE。 它是 Microsoft 的 Visual Studio 的替代方案.
+    * [AppCode](https://www.jetbrains.com/objc/) - 适用于 iOS / macOS 开发的智能 IDE
+    * [PyCharm](https://www.jetbrains.com/pycharm/) - 一款 Python 开发集成环境，有专业版和社区版。
+    * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 一款 Java 开发集成环境。(**学生**免费)
+    * [GoLand](https://www.jetbrains.com/go/) - JetBrains出品的Go开发IDE，智能，灵活
+    * [Webstorm](http://www.jetbrains.com/webstorm/) - 是 JetBrains 公司旗下一款 JavaScript 开发工具。**学生**免费，[点击这里](https://www.jetbrains.com/student/) 查看更多。
+        * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成 `Node.js`，你肯定需要它，很多功能需要它。
+        * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和 IDE 之间定义和维护一致的代码风格。
+        * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Haskell for Mac](http://haskellformac.com) - Haskell 的现代开发环境。 [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
@@ -149,6 +154,7 @@
 
 > A curated list of shell commands and tools specific to OS X. [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
+* [Terminus](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
@@ -167,6 +173,7 @@
 * [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
 * [HyperTerm](https://hyperterm.org/) - 一款基于 Node 开发的终端软件，逼格很高。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyperterm) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - 通过终端控制您的 iTunes。[![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
+* [pgcli](https://www.pgcli.com) - 为Postgres提供一个支持自动补全和语法高亮的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - 为 MySQL 命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的 OS X 系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
@@ -266,7 +273,7 @@
 * [MyPaint](http://mypaint.org/) - 开源的绘图工具软件，用于素描、会话以及一种新的绘图方式。[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Inkscape](https://inkscape.org/zh/) - 一款开源矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等其他软件相似。[![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
-* [Monodraw](https://helftone.com/) -  macOS 平台上强大的  ASCII 设计流程编辑器. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675) 
+* [Monodraw](https://helftone.com/) -  macOS 平台上强大的  ASCII 设计流程编辑器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675)
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。
@@ -306,6 +313,12 @@
 * [WriteMapper](https://writemapper.com/) - 专为写作者而设的脑图工具。
 * [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
 * [macSVG](https://macsvg.org/) - 设计 HTML5 SVG 和动画. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
+
+### 作图工具
+
+* [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图... 中文友好，免费保存 5 个文件。
+* [Draw.io](https://www.draw.io/) - 上百种图形，支持多种格式导出。 ![Freeware][Freeware Icon]
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - Omni 成员，native 应用。
 
 ### 截图工具
 
@@ -349,6 +362,8 @@
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Tropy](https://tropy.org/) - 简单的屏幕取色应用程序。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。![Open-Source Software][OSS Icon]
+* [Assetizr](https://assetizr.com) - 图片编辑应用，轻松更改图片尺寸，压缩图片，重命名图片。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
+* [AppIconBuilder(图标构建)](https://itunes.apple.com/cn/app/shotbuilder/id1294179975?mt=12) - App图标多平台一键导出。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/shotbuilder/id1294179975?mt=12)
 
 ## 虚拟机
 
@@ -362,32 +377,36 @@
 
 
 ## 通信
+
 *推荐一些通信工具，沟通，团队协同。*
 
-* [Franz](http://meetfranz.com/) - 一个使用 [Electron](https://electronjs.org/)开发的，可以同时登录 23 个平台的即时通讯软件。![Freeware][Freeware Icon]
-* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
-* [Skype](https://www.skype.com/) - Skype 共享、跨平台的短信和电话。
-* [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512)
-* [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![Freeware][Freeware Icon]
-* [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp 非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
-* [Telegram](https://desktop.telegram.org) - 通讯新时代。
-* [Messenger](https://fbmacmessenger.rsms.me/) - Facebook 第三方聊天工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - 呃，这个是老的集成多个平台的聊天客户端。![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+* [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
+* [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp 非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
+* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
+* [Franz](http://meetfranz.com/) - 一个使用 [Electron](https://electronjs.org/)开发的，可以同时登录 23 个平台的即时通讯软件。![Freeware][Freeware Icon]
+* [Flume](https://flumeapp.com) - 简约大气高逼格的Instagram，如果只是浏览点赞评论，免费版已经足够用。![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 关于 GitHub 的项目交流，支持 Markdown，对开发者极为友好。
+* [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+* [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512)
+* [Messenger](https://fbmacmessenger.rsms.me/) - Facebook 第三方聊天工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
+* [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
+* [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [Skype](https://www.skype.com/) - Skype 共享、跨平台的短信和电话。
+* [Slack](https://slack.com/) - 团队协作，沟通工具。
+* [Telegram](https://desktop.telegram.org) - 通讯新时代。
+* [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+* [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
+* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac App。![Freeware][Freeware Icon]
+* [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
+* [Zoom](https://zoom.us/) - 视频会议 & 屏幕共享，提供录制功能。
+* [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![Freeware][Freeware Icon]
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
-* [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
-* [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
-* [Teambition](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 * [日事清](https://www.rishiqing.com) - 工作计划软件，日志软件，项目管理，团队协作软件，个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
-* [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
-* [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
-* [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+* [RTX_腾讯通](https://www.rtxapp.com/mac) - 企业内部可以使用的聊天软件，企业内部可以使用此通讯工具，这个软件有Mac版本也是win版本，Mac版本专为 Retina 显示优化过![Freeware][Freeware Icon]
 
 ### Email
 
@@ -519,6 +538,7 @@
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
+* [马克飞象](https://maxiang.io/) - Markdown 编辑器，提供 Web 端 和 App 端，多种配色，支持同步到 印象笔记。
 
 ### 笔记
 
@@ -634,7 +654,7 @@
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 验证文件的加密签名可以推断其来源或可信度。
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib 劫机扫描仪或 DHS，是一个简单的实用程序，将扫描您的计算机的应用程序是易受 dylib 劫持或被劫持。
-
+* [Encrypto](https://macpaw.com/encrypto) - 免费加密工具，用于加密文件和文件夹
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
@@ -647,7 +667,6 @@
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
 * [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - 科学上网。
-* [云梯](https://www.ytpub.com/) - 在圈内小有名气的 VPN 服务提供商。
 * [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得 2 小时免费VPN加速。![Freeware][Freeware Icon]
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费 VPN 账号。![Freeware][Freeware Icon]
 * [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取 500M 流量。![Freeware][Freeware Icon]
@@ -680,7 +699,7 @@
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 界面简洁，功能完善，支持主流的多种压缩格式。支持 Mojave 深色模式、QuickLook预览、拖拽解压。 ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
-* [Keka](http://www.kekaosx.com) - 一个免费的 macOS 文件解压缩程序。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/) ![Freeware][Freeware Icon]
+* [Keka](https://www.keka.io) - 一个免费的 macOS 文件解压缩程序。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [openEmu](http://openemu.org/) - 模拟器，可以玩魂斗罗之类，轻松回到小时候。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
@@ -706,6 +725,7 @@
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
 * [HTTrack](http://www.httrack.com) - 可以下载整个网站和离线浏览。![Freeware][Freeware Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
+* [HWSensors](https://sourceforge.net/projects/hwsensors) - 自带FakeSMC的黑苹果硬件状态监控插件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kozlek/hwsensors/overview) ![Freeware][Freeware Icon]
 
 ### 剪贴板工具
 
@@ -736,7 +756,7 @@
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Things](https://culturedcode.com/things/) - 令人愉快且易于使用的任务管理器。
 * [Todoist](https://todoist.com/mac) - 跨平台的任务管理器与移动应用程序。
-* [滴答清单](https://help.dida365.com/) - 轻便的待办事项应用。![Freeware][Freeware Icon]
+* [滴答清单](https://www.dida365.com/) - 轻便且强大的跨平台任务管理应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id966085870)
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 奇妙清单跨平台的任务管理器与移动应用程序。![Freeware][Freeware Icon]
 
 ### 系统相关工具
@@ -744,6 +764,7 @@
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
 * [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/amphetamine/id937984704)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
+* [AppTrap](http://onnati.net/apptrap/) - 删除APP的同时移除文件。 [![Open-Source Software][OSS Icon]](https://github.com/kvijayan/AppTrap) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon]
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你 CPU100% 让 Mac 电脑过热电池耗尽的菜单应用程序。
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
@@ -778,7 +799,8 @@
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
 * [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 像 ubuntu 一样提供窗口管理，为工作区创建热键，使您可以轻松移动。
-* [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换
+* [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换。
+* [BetterSnapTool](https://folivora.ai/bettersnaptool/) - 窗口管理工具，可通过快捷键或窗口拖动快速实现分屏。  [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/dashlane-password-manager/id552383089)
 
 ### 密码管理
 
@@ -786,7 +808,7 @@
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [Authy](https://authy.com) - 双因素身份验证令牌管理器，可在您的设备上进行备份和同步。 ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - 适用于Mac OS，iOS和浏览器的开源密码管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
-* [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
+* [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
 * [RememBear](https://www.remembear.com/) - 治愈系密码管理工具。 ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/dashlane-password-manager/id552383089)
 * [Enpass](https://www.enpass.io/) - 具有云集成的跨平台密码管理工具。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)
@@ -811,6 +833,7 @@
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
+
 
 ## QuickLook插件
 
@@ -881,6 +904,7 @@
 * Macx：~~`https://www.macx.cn/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
+* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 
 **[⬆ 返回顶部](#目录)**
 
