@@ -104,6 +104,7 @@ Plugin
 * [WebVim](https://github.com/krampstudio/webvim) - Vim-based distribution targeting JavaScript and Web development
 * [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
+* [7th-vim](https://github.com/dofy/7th-vim) - Lightweight & Customizable Vim configuration options.
 
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
