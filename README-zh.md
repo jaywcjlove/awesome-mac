@@ -677,6 +677,7 @@
 * [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期 Mac 免费VPN。 ![Freeware][Freeware Icon]
 * [Firefly 萤火虫](https://github.com/yinghuocho/firefly-proxy) - 免费科学上网。
 * [V2rayU](https://github.com/yanue/V2rayU) - 一款 v2ray 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/yanue/V2rayU) ![Freeware][Freeware Icon]
+* [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 的一款支持规则过滤的科学上网工具。 [![Open-Source Software][OSS Icon]](https://github.com/yichengchen/clashX)![Freeware][Freeware Icon]
 
 
 ## 其它实用工具
