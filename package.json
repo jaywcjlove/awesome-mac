@@ -24,19 +24,18 @@
   "bugs": {
     "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
-  "homepage": "https://github.com/jaywcjlove/awesome-mac#readme",
+  "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "devDependencies": {
-    "colors-cli": "^1.0.7",
-    "ejs": "^2.5.6",
-    "gh-pages": "^1.0.0",
-    "html-minifier": "^3.3.3",
-    "loading-cli": "^1.0.2",
-    "marked": "^0.3.6",
-    "mkdirp": "^0.5.1",
+    "@textlint/markdown-to-ast": "^6.0.9",
+    "colors-cli": "^1.0.20",
+    "ejs": "^2.6.1",
+    "fs-extra": "^7.0.0",
+    "gh-pages": "^2.0.0",
+    "html-minifier": "^3.5.20",
+    "loading-cli": "^1.0.8",
+    "marked": "^0.5.1",
+    "opencollective": "^1.0.3",
     "pygmentize-bundled": "^2.3.0"
-  },
-  "dependencies": {
-    "opencollective": "^1.0.3"
   },
   "collective": {
     "type": "opencollective",
