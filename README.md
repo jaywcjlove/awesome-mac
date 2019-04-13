@@ -727,6 +727,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) – Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
+* [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - a super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
 * [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
 * [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 * [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
