@@ -329,6 +329,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 * [Versions](http://www.versionsapp.com/) - Mac Subversion (SVN) Client.
+* [GitUp](http://gitup.co/) - A simple & powerful Git client。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 
 #### Virtualization
 
