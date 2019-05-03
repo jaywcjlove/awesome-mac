@@ -534,6 +534,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - Powerful tool for recovering data on disks, even if their partitions are formatted, damaged or deleted.
 * [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - Powerful tool for file recovery, Time machine recovery, Encrypted Disk recovery and much more.
+* [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 
 ## Audio and Video Tools
 
