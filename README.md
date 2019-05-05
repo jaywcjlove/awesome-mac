@@ -261,6 +261,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
 * [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware][Freeware Icon]
+* [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software][OSS Icon]](https://github.com/obihann/archey-osx) ![Freeware][Freeware Icon]
 * [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
