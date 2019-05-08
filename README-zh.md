@@ -179,6 +179,7 @@
 * [mycli](https://github.com/dbcli/mycli) - 为 MySQL 命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的 OS X 系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
+* [job](https://github.com/liujianping/job) - 短命令并发、重复执行工具, 适用于压测. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
