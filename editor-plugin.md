@@ -77,7 +77,7 @@ Plugin
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - Convert Markdown file to pdf, html, png or jpeg file.
   * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code in the Google Chrome browser.
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
-  * [TSLint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
+  * [TSLint](https://github.com/microsoft/vscode-tslint) - Integrate tslint into VSCode.
 
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - Auto Close Tag
