@@ -496,7 +496,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
-* [Keybase](https://keybase.io/) - Crypto for everyone, not just programmers! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+* [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - Open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Messenger For Mac](https://fbmacmessenger.rsms.me/) - Third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
