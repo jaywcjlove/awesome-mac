@@ -33,7 +33,7 @@
     "gh-pages": "^2.0.0",
     "html-minifier": "^3.5.20",
     "loading-cli": "^1.0.8",
-    "marked": "^0.5.1",
+    "marked": "^0.6.1",
     "opencollective": "^1.0.3",
     "pygmentize-bundled": "^2.3.0"
   },
