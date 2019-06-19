@@ -104,19 +104,7 @@
 <%- html %>
 </article>
 <div id="gitalk-container"></div>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script type="text/javascript">
-    var gitalk = new Gitalk({
-        clientID: 'c51134df3166d2f3dc60',
-        clientSecret: '5ecaf0e8232d3589061512228f1950712bdb96e4',
-        repo: 'awesome-mac',
-        owner: 'jaywcjlove',
-        admin: ['jaywcjlove'],
-        id: window.location.pathname,
-        distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-</script>
+<script src="https://utteranc.es/client.js" repo="jaywcjlove/awesome-mac" issue-term="homepage" crossorigin theme="github-light" async></script>
 <a href="#totop" class="totop">Top</a>
 </body>
 </html>
