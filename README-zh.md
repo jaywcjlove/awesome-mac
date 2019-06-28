@@ -912,6 +912,7 @@
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
 * 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
+* appstorrent: ~~`https://appstorrent.ru`~~
 
 **[⬆ 返回顶部](#目录)**
 
