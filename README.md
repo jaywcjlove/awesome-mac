@@ -284,6 +284,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [itunes-remote](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software][OSS Icon]](https://github.com/mischah/itunes-remote) ![Freeware][Freeware Icon]
 * [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+* [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
@@ -406,7 +407,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
-* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675) 
+* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675)
 * [MyPaint](http://mypaint.org/) - Simple drawing and painting program that works well with Wacom-style graphics tablets.[![Open-Source Software][OSS Icon]](https://github.com/mypaint) ![Freeware][Freeware Icon]
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](http://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
@@ -692,7 +693,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [BitBar](https://getbitbar.com/) - Place the output from any script or program right in your Mac OS X menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
-* [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer) 
+* [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
