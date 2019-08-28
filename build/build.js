@@ -101,6 +101,7 @@ function MarkedToHTML(file) {
       const markdownStr = FS.readFileSync(file);
       const renderer = new marked.Renderer();
       renderer.heading = function (text, level) {
+        text = text.replace(/<+.*>/, '');
         if (/[\u4E00-\u9FA5]/i.test(text)) {
           return '<h' + level + ' id="' + text.toLowerCase() + '">' + text + '</h' + level + '>';
         }
