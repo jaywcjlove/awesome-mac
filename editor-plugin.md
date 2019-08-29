@@ -106,6 +106,9 @@ Plugin
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
 * [7th-vim](https://github.com/dofy/7th-vim) - Lightweight & Customizable Vim configuration options.
 
+## Cross Platform Plugins
+
+* [TabNine](https://tabnine.com) - Code autocompletion based on deep learning for all major IDEs / Text Editors for a variety of programming languages and syntax extensions (like JSX)
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
