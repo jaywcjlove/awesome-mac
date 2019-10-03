@@ -338,10 +338,11 @@
 * [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Shifty](http://shifty.natethompson.io) - 一个菜单栏应用程序，让您更多地控制夜班。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
 * [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
-* [GifCapture](https://github.com/onmyway133/GifCapture) 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
-* [Gifox](https://gifox.io/) 专业的高颜值 GIF 录制应用。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
+* [GifCapture](https://github.com/onmyway133/GifCapture) - 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
+* [Gifox](https://gifox.io/) - 专业的高颜值 GIF 录制应用。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gifox-gif-recording-and-sharing/id1082624744)
 * [GIF Brewery](https://gfycat.com/gifbrewery) - gives everyone the power to create stunning GIFs from video files. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gif-brewery-by-gfycat/id1081413713) ![Freeware][Freeware Icon]
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?l=en&mt=12)
+* [Pencil2D](https://www.pencil2d.org) - 制作2D手绘动画的简单直观的工具。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [ScreenShot PSD](http://txtlabs.com/) - 将屏幕捕获存为分层的 PSD，便于编辑。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screenshot-psd/id489880259)
 
 ### 其它工具
