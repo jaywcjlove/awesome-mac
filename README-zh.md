@@ -290,6 +290,7 @@
 * [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的 Web 和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]
+* [MakeHuman](http://www.makehumancommunity.org) - 功能强大且免费的3D人体建模器。 ![Freeware][Freeware Icon]
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 轻松导出桌面分层文件 PSD 文件。[![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
 * [Pixel Perfect](http://pixelperfect-app.com/) - 比较 UI 模型和开发结果非常容易。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pixel-perfect/id916097243) ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - 可视化网页设计工具。
