@@ -35,11 +35,11 @@ mkdirs(deployDir)
     path.resolve(deployDir, 'editor-plugin-zh.html')
   ))
   .then(() => FS.copySync(faviconPath, path.resolve(deployDir, 'favicon.ico') ))
-  .then(() => PushGhpage(deployDir, {
-    repo: 'git@github.com:jaywcjlove/awesome-mac.git',
-    message: `MacOSX software list update, Compiler generation page. ${new Date()}`
-  }))
-  .then(() => console.log(`\n Push Success!!\n`.green))
+  // .then(() => PushGhpage(deployDir, {
+  //   repo: 'git@github.com:jaywcjlove/awesome-mac.git',
+  //   message: `MacOSX software list update, Compiler generation page. ${new Date()}`
+  // }))
+  // .then(() => console.log(`\n Push Success!!\n`.green))
   .catch((err) => {
     if (err && err.message) {
       console.log(`\n ERROR :> ${err.message.red_bt}\n`)
