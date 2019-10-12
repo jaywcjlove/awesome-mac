@@ -12,5 +12,5 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: .deploy
+        FOLDER: dist
         BUILD_SCRIPT: npm install && npm run start
