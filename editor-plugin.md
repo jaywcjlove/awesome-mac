@@ -60,17 +60,55 @@ Plugin
 
 ## VSCode Plugin
 
-* [react-beautify](https://github.com/taichi/react-beautify) - This extension wraps prettydiff/esformatter to format your javascript, JSX, typescript, TSX file.
-* [Reactjs code snippets](https://github.com/xabikos/vscode-react) - Code snippets for Reactjs development in ES6 syntax.
-* [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
-* [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
+* Common
+
+  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio
+  * [Bracket Pair Colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
+  * [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Shows indentation with a faint rainbow colored background to make them more readable
+  * [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces) - Allows you to highlight trailing spaces and delete them in a flash
+  * [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - Highlighting todos, fixmes, and any annotations
+  * [Code Spell Checker](https://github.com/Jason-Rev/vscode-spell-checker) - A simple source code spell checker for typescript and javascript
+  * [Document This](https://github.com/joelday/vscode-docthis) - JSDoc generator extension for Visual Studio Code
+  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
+  * [Git Lens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code
+  * [View In Browser](https://github.com/hellopao/view-in-browser) - View a html file in system's default browser
+  * [SVG Viewer](https://github.com/cssho/vscode-svgviewer) - SVG Viewer for Visual Studio
+  * [Auto-Open Markdown Preview](https://github.com/hnw/vscode-auto-open-markdown-preview) - Opening Markdown-preview automatically when opening a Markdown file
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - Convert Markdown file to pdf, html, png or jpeg file.
+  * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code in the Google Chrome browser.
+  * [ESlint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
+  * [TSLint](https://github.com/microsoft/vscode-tslint) - Integrate tslint into VSCode.
+
+* HTML
+  * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - Auto Close Tag
+  * [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) - Automatically rename paired HTML/XML tag
+  * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - Html snippets
+  * [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion) - Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
+  * [HTML CSS Support](https://github.com/ecmel/vscode-html-css) - CSS support for HTML documents
+
+* JS
+  * [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - Autocompletes npm modules in import statements
+  * [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - Autocompletes filenames
+  * [Auto Import](https://github.com/soates/Auto-Import) - Automatically finds, parses and provides code actions for all available imports.
+  * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - Run code snippet or code file for multiple languages
+  * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
+  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) Test regex and preview
+
+* React/Vue
+  * [react-beautify](https://github.com/taichi/react-beautify) -  This extension wraps prettydiff/esformatter to format your javascript, JSX, typescript, TSX file.
+  * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - Code snippets for Reactjs development in ES6 syntax.
+  * [Vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code，support Syntax-highlighting，Auto Completion，Snippet...
 
 ## Vim Plugin
 
 * [WebVim](https://github.com/krampstudio/webvim) - Vim-based distribution targeting JavaScript and Web development
 * [Neovim](https://neovim.io/) - Vim-fork focused on extensibility and agility. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
+* [7th-vim](https://github.com/dofy/7th-vim) - Lightweight & Customizable Vim configuration options.
 
+## Cross Platform Plugins
+
+* [TabNine](https://tabnine.com) - Code autocompletion based on deep learning for all major IDEs / Text Editors for a variety of programming languages and syntax extensions (like JSX)
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg

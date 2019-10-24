@@ -9,7 +9,7 @@ const markdownParse = require("@textlint/markdown-to-ast").parse;
 const colors = require('colors-cli/toxic');
 const pkg = require('../package.json');
 
-const deployDir = path.resolve(process.cwd(), '.deploy');
+const deployDir = path.resolve(process.cwd(), 'dist');
 const templatePath = path.resolve(process.cwd(), 'build', 'template.ejs');
 const faviconPath = path.resolve(process.cwd(), 'build', 'favicon.ico');
 
@@ -35,11 +35,11 @@ mkdirs(deployDir)
     path.resolve(deployDir, 'editor-plugin-zh.html')
   ))
   .then(() => FS.copySync(faviconPath, path.resolve(deployDir, 'favicon.ico') ))
-  .then(() => PushGhpage(deployDir, {
-    repo: 'git@github.com:jaywcjlove/awesome-mac.git',
-    message: `MacOSX software list update, Compiler generation page. ${new Date()}`
-  }))
-  .then(() => console.log(`\n Push Success!!\n`.green))
+  // .then(() => PushGhpage(deployDir, {
+  //   repo: 'git@github.com:jaywcjlove/awesome-mac.git',
+  //   message: `MacOSX software list update, Compiler generation page. ${new Date()}`
+  // }))
+  // .then(() => console.log(`\n Push Success!!\n`.green))
   .catch((err) => {
     if (err && err.message) {
       console.log(`\n ERROR :> ${err.message.red_bt}\n`)
@@ -101,6 +101,7 @@ function MarkedToHTML(file) {
       const markdownStr = FS.readFileSync(file);
       const renderer = new marked.Renderer();
       renderer.heading = function (text, level) {
+        text = text.replace(/<+.*>/, '');
         if (/[\u4E00-\u9FA5]/i.test(text)) {
           return '<h' + level + ' id="' + text.toLowerCase() + '">' + text + '</h' + level + '>';
         }

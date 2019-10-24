@@ -1,3 +1,16 @@
-.deploy/
 node_modules/
+dist
+npm-debug.log*
+package-lock.json
+
 .DS_Store
+.cache
+.rdoc-dist
+.vscode
+
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
