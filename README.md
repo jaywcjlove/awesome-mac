@@ -622,6 +622,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - Video downloader for macOS with support for YouTube and other 1200 sites.
+* [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - Free download manager for Mac OS X with a true Mac-style interface. ![Freeware][Freeware Icon]
 * [Free Download Manager](http://www.freedownloadmanager.org/) - Powerful, modern download accelerator and organizer for Windows and Mac. (FREE) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - Free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
