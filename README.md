@@ -217,7 +217,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
-* [canSnippet](https://www.cansnippet.com/) - Powerful snippet management tool that works accross the whole operating system, always accessible via simple keyboard shortcut.
+* [canSnippet](https://www.cansnippet.com/) - Powerful snippet management tool that works across the whole operating system, always accessible via simple keyboard shortcut.
 * [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager.
@@ -580,7 +580,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
-* [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being choosen. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
+* [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
