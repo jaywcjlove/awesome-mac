@@ -732,7 +732,6 @@
 * [PasteBot](https://tapbots.com/pastebot/) - 强大的剪贴板管理器。 [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pastebot/id1179623856)
 * [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的 Mac OS 电脑硬件信息检测软件。![Freeware][Freeware Icon]
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
-* [iPaste](https://toolinbox.net/iPaste) - 简洁高效的剪贴板增加工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
 * [ControlPlane](http://www.controlplaneapp.com/) - 自定义 Mac 情景模式。某些场景让 Mac 自动静音或是自动打开 Mail 客户端等等。[![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [BetterTouchTool](https://boastr.net) - 代替默认的系统操作方式（组合键、修饰键、手势等）。![Freeware][Freeware Icon]
