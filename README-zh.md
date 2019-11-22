@@ -378,7 +378,7 @@
 * [Docker](https://www.docker.com/) - 开源的应用容器引擎。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。![Freeware][Freeware Icon]
-* [VMWare Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
+* [VMware Fusion](http://www.vmware.com/) - 强大的虚拟机，商业软件。
 * [Veertu](https://veertu.com) - Mac 上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon]
 * [DockStation](https://dockstation.io/) - 管理 Docker 项目的程序。 [![Open-Source Software][OSS Icon]](https://github.com/DockStation/dockstation) ![Freeware][Freeware Icon]
 * [Portainer](https://portainer.io/) - 基于网页管理 Docker 容器和 swarm 集群。 [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
