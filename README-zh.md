@@ -900,7 +900,7 @@
 * 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
-* [腾讯柠檬精选](https://lemon.qq.com/lab/) - 腾讯Lemon团队推出的一个Mac产品分享平台，收录免费、正版、好用的Mac产品。
+* 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 
 ### 盗版软件下载网站黑名单
 
