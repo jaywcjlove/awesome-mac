@@ -810,6 +810,7 @@
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的 SSH。
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
+* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
 
 ### 窗口管理
 
@@ -884,7 +885,6 @@
 
 *第三方应用市场APP黑名单，存在盗版软件传播和下载，拒绝盗版从我做起，欢迎大家监督它们。*
 
-* ~~[腾讯电脑管家](http://mac.guanjia.qq.com/)~~ - 电脑管家 for Mac 带应用市场。
 * ~~[迅雷Thunder Store](http://mac.xunlei.com/app/)~~ - 迅雷 Thunder for Mac 带应用市场。
 * ~~[Mac软件宝箱](http://box.macx.cn/)~~ - Macx 推出软件宝箱。
 * ~~[MacHunter](http://www.machunter.net/)~~ - Mac 应用市场。
@@ -900,6 +900,7 @@
 * 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com)
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
+* 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 
 ### 盗版软件下载网站黑名单
 
