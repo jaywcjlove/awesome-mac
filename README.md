@@ -160,7 +160,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
 * [Clearview](http://www.thecanoesoft.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.
 * [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
-* [Kindle App](https://www.amazon.com/gp/digital/fiona/kcp-landing-page) - Amazon official reading app of kindle.
+* [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 * [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
 * [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
@@ -229,7 +229,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/hex-fiend/id1342896380)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
-* [iHosts](https://en.toolinbox.net/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
+* [iHosts](https://toolinbox.net/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
@@ -658,7 +658,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
-* [Microsoft Edge](https://www.microsoft.com/en-us/edge) — Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
+* [Microsoft Edge](https://www.microsoft.com/edge) — Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
