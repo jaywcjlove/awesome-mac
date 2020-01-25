@@ -657,6 +657,7 @@
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
+* [Bob](https://github.com/ripperhe/Bob) - Mac 端翻译软件，支持划词翻译和截图翻译，多种翻译引擎。[![Open-Source Software][OSS Icon]](https://github.com/ripperhe/Bob) ![Freeware][Freeware Icon] 
 
 ## 安全工具
 
