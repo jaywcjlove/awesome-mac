@@ -535,6 +535,7 @@
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
 * [Reeder 4](http://reederapp.com/) - RSS 服务订阅。
 * [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
+* [irreader](http://irreader.fatecore.com) - 多功能的 RSS 阅读器，支持订阅播客和任何网站。[![Open-Source Software][OSS Icon]](https://github.com/skdjfla/irreader)![Freeware][Freeware Icon]
 
 ### Markdown
 
