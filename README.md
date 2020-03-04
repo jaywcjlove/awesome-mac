@@ -701,7 +701,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Proxy and VPN Tools
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
-* [FreeVPN Plus](https://www.freevpn.pw) - Free VPN Client for Mac. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](itunes.apple.com/app/freevpn-plus-unlimited-free-vpn-for-mac/id1202726435)
+* [tigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
