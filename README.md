@@ -503,6 +503,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+* [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402)
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
