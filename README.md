@@ -870,6 +870,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### System Related Tools
 
+
+* [CleanMyMac](https://macpaw.com/cleanmymac?campaign=cmmx_search_sitelink_en&ci=105095406&adgroupid=5816085726&adpos=&ck=cleanmymac&targetid=kwd-12573386450&match=%7Bif:e%7D&gnetwork=g&creative=294119496896&placement=&placecat=&accname=cmm&gclid=CjwKCAjwpqv0BRABEiwA-TySwaut8Z9aVtGhOMkQCHDKiW7r4Eg28ySVEMIpIxoUNvTobcBAPg_G_hoC69gQAvD_BwE) - An application which allows you to thoroughly uninstall unwanted apps and clean out junk clearing a lot of free space.
 * [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704) - Override your energy saver settings and keep your Mac awake. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/amphetamine/id937984704)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps. ![Freeware][Freeware Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
