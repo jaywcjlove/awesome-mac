@@ -438,7 +438,6 @@
 
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
-* [Fu](https://github.com/klesh/fu) - 将图像/文件上传到远程服务器以交换文件共享的 URL。 [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 
