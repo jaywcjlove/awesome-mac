@@ -30,7 +30,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   - [Reading and Writing Tools](#reading-and-writing-tools)
       - [Text Editors](#text-editors)
       - [Office](#office)
-      - [Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)](#markdown-tools-img-src%22httpsgithubcombubuanabelasawesome-markdowntools%22-alt%22awesome-list%22)
+      - [Markdown Tools [![Awesome List][awesome-list Icon](https://github.com/BubuAnabelas/awesome-markdown#tools)](#markdown-tools-img-src%22httpsgithubcombubuanabelasawesome-markdowntools%22-alt%22awesome-list%22)
       - [Note-taking](#note-taking)
       - [Journaling](#journaling)
       - [Ebooks](#ebooks)
