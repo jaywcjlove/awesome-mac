@@ -696,7 +696,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ## Encryption
 
-* [macOS Quick Lock](https://github.com/alichtman/macOS-quick-lock) - The easiest file encryption tool you'll ever use. Tightly integrated with macOS, and open-source so you can trust it. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/macOS-quick-lock) ![Freeware][Freeware Icon]
+* [Deadbolt](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
 
 ## Security Tools
 
