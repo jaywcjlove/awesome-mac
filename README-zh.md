@@ -656,6 +656,7 @@
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
+* [Bob][https://github.com/ripperhe/Bob]  简小，方便的翻译工具  ，支持图片扫描翻译 ![Open-Source Software][OSS Icon]
 
 ## 安全工具
 
@@ -748,6 +749,7 @@
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
+* [搬文工][[https://apps.apple.com/cn/app/%E6%90%AC%E6%96%87%E5%B7%A5-%E5%BF%AB%E9%80%9F%E7%A7%BB%E5%8A%A8%E6%96%87%E4%BB%B6/id1414457383?mt=12] 好用的右键增强软件，可以自定义文件类型 ![App Store][app-store Icon]
 
 ### 剪贴板工具
 
