@@ -5,10 +5,10 @@ Awesome Mac
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
- Now we have become very big, Different from the original idea.
-Collect premium software in various categories. Feel free to **star** and **fork**.
+ Now we have become very big and different from the original idea.
+Here we collect awesome macOS software in various categories. Feel free to **star** and **fork**.
 
-Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues). We love PRs :) Please take a look at the Contributing guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
 **Explanation**
 
