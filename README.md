@@ -945,7 +945,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
-* [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
+* [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
+
+
 
 ## Third Party App Markets
 
