@@ -33,7 +33,7 @@
     "gh-pages": "^2.0.1",
     "html-minifier": "^3.5.20",
     "loading-cli": "^1.0.8",
-    "marked": "^0.6.1",
+    "marked": "^1.2.5",
     "opencollective": "^1.0.3"
   },
   "collective": {
