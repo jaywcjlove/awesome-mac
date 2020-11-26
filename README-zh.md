@@ -803,6 +803,7 @@ Awesome Mac
 * [Vanilla](http://vanilla.matthewpalmer.net) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
 * [HiddenBar](https://github.com/dwarvesf/hidden) - 一个超轻MacOS实用工具，帮助隐藏菜单栏图标。。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)
 * [自动切换输入法](https://apps.apple.com/cn/app/%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E8%BE%93%E5%85%A5%E6%B3%95/id1470350547?mt=12) - 自动切换输入法。 ![Freeware][Freeware Icon]
+* [EyeSaver](https://github.com/MarnoDev/EyeSaver) - 定时提醒我们保护视力的应用。![Freeware][Freeware Icon]
 
 ### 待办事项工具
 
