@@ -883,6 +883,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [Xfile](https://rixstep.com/4/0/xfile/) - "The only fast" file manager, with binary size of 50 KB. Loads 10,000 file big folder in 720ms. Part of ACP advanced file management suite. Limited functionality demo works perpetually.
 
 #### Quality of Life Improvements
 
