@@ -878,6 +878,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Finder Tools
 
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
+* [File Cards](https://labsii.com/file-cards-file-manager-with-productivity-in-mind/) - Unique file manager [![App Store][app-store Icon]](https://apps.apple.com/en/app/file-cards/id1291791043)
 * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
