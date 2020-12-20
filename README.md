@@ -126,6 +126,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) Create impressive spreadsheets. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?mt=12)
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) A complete office suite that aims for full compatibility with Microsoft Office documents
+* [Quip](https://quip.com/) An online realtime collaboration office suite app, that feels and works like a native mac app. Google Docs competitor done right.
 
 #### Markdown Tools
 
@@ -693,6 +694,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [TorBrowser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitweb.torproject.org/tor-browser.git)
 * [Vivaldi](https://vivaldi.com) - The browser that puts you in control. [![Open-Source Software][OSS Icon]](https://vivaldi.com/source) ![Freeware][Freeware Icon]
+* [WebBuddy](https://apps.apple.com/en/app/webbuddy/id525308400) - Native WebView Pop up Menubar browser done right, when used with Alfred it gives superpowers.
 
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
