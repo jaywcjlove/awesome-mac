@@ -32,6 +32,6 @@
     "gh-pages": "^2.0.1",
     "html-minifier": "^3.5.20",
     "loading-cli": "^1.0.8",
-    "marked": "^1.2.5"
+    "marked": "^2.0.0"
   }
 }
