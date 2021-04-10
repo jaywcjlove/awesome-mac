@@ -650,7 +650,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
-
+* [Omniplayer](https://okaapps.com/product/1470926410#) - Best media player on Mac, support almost all format. [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
 ## Download Management Tools
 
 * [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
