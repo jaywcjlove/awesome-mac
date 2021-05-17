@@ -1,5 +1,6 @@
 Awesome Mac
 ----
+<!--rehype:style=font-size: 38px; border-bottom: 0; padding-bottom: 20px; padding-top: 26px;--> 
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
@@ -92,6 +93,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Backers](#backers)
 - [Sponsors](#sponsors)
 - [License](#license)
+
+<!--start-->
 
 ## Reading and Writing Tools
 
@@ -1001,10 +1004,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 **[⬆ back to top](#contents)**
 
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
-[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
-[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
+<!--end-->
 
 ## Contributors
 
@@ -1031,3 +1031,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
+[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
+[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
+[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"

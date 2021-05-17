@@ -1,5 +1,6 @@
 Awesome Mac
 ----
+<!--rehype:style=font-size: 38px; border-bottom: 0; padding-bottom: 20px; padding-top: 26px;-->
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
@@ -77,7 +78,7 @@ Awesome Mac
 - [Sponsors](#sponsors)
 - [License](#license)
 
-
+<!--start-->
 
 ## 开发者工具
 
@@ -967,6 +968,8 @@ Awesome Mac
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
 * 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 * MAC萌新网：~~`https://www.macxin.com`~~
+
+<!--end-->
 
 **[⬆ 返回顶部](#目录)**
 
