@@ -727,6 +727,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection.
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
+* [WebCatalog](https://webcatalog.app) - Turn any websites into real Mac apps with support for multiple accounts, menu bar and more. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/webcatalog-app)
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 
 ## Proxy and VPN Tools
