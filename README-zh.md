@@ -766,6 +766,7 @@ Awesome Mac
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [Keka](https://www.keka.io) - 一个免费的 macOS 文件解压缩程序。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
 * [Lungo](https://sindresorhus.com/lungo) - 防止Mac进入睡眠状态。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/lungo/id1263070803)
+* [LinearMouse](https://linearmouse.lujjjh.com/) - 告别 macOS 的鼠标加速。 [![Open-Source Software][OSS Icon]](https://github.com/lujjjh/LinearMouse) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [Manta](https://manta.life/) - 灵活的发票桌面应用程序，漂亮和可定制模板。[![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
 * [Mos](https://mos.caldis.me/) - 让你的鼠标滚轮丝滑如触控板。[![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
