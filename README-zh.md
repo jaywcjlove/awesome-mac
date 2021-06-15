@@ -477,6 +477,7 @@ Awesome Mac
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
+* [Seamless](https://apps.apple.com/app/id1537718448) - 基于 CloudKit 的文件和文本分享应用，主打便捷。 [![App Store][app-store Icon]]
 
 ## 数据恢复
 

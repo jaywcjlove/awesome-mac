@@ -605,6 +605,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Seamless](https://apps.apple.com/app/id1537718448) - Simple files and text sharing app based on CloudKit. [![App Store][app-store Icon]]
 
 ## Data Recovery Tools
 
