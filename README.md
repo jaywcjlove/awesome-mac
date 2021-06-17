@@ -647,7 +647,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Soda Player](https://www.sodaplayer.com/) - Player that can play seed, magnetic links, online video, automatic captions, links and local video files. ![Freeware][Freeware Icon]
-* [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
+* [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)’
+* [SoundSource](https://rogueamoeba.com/soundsource/) - Control the settings for your Mac's Output, Input, and Sound Effects audio devices right from your menu bar.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio. ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
