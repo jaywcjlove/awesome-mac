@@ -881,6 +881,7 @@ Awesome Mac
 
 ### Finder
 
+* [Eagle App](https://cn.eagle.cool/) - 强大的图片、视频、音频素材及文件管理软件。
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
