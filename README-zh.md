@@ -589,6 +589,7 @@ Awesome Mac
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
 * [马克飞象](https://maxiang.io/) - Markdown 编辑器，提供 Web 端 和 App 端，多种配色，支持同步到 印象笔记。
+* [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 
 ### 笔记
 
