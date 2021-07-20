@@ -598,6 +598,7 @@ Awesome Mac
 * [leanote](http://app.leanote.com) - 支持 Markdown 的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]
+* [Notion](https://www.notion.so/zh-cn) - 一个集大成的富文本笔记管理软件，支持丰富却又简单明了的的文字格式，甚至覆盖了`TODO`类软件的功能。数据在服务端存储，支持web访问，也提供了`macOS`/`Windows`/`iOS`/`安卓`等平台客户端。 ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - 微软备注应用。 ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
@@ -647,7 +648,9 @@ Awesome Mac
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - 基于 ownCloud 完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]
+* [Resilio Sync](https://www.resilio.com/individuals/) - P2P私有云盘，BitTorrent血统，支持`安卓`/`iOS`/`Windows`/`macOS`/`Linux`/`FreeBSD`/`NAS`等系统平台。注意：截止2021.7.20，macOS平台客户端存在休眠崩溃现象，除此之外可以正常使用。![Freeware][Freeware Icon]
 * [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。![Freeware][Freeware Icon]
+* [Syncthing](https://syncthing.net/) - [Resilio Sync](https://www.resilio.com/individuals/)的开源竞争者，架构上更加开放自由，良好的用户文档，基于Go语言支持大量系统平台，甚至包括`OpenWrt`！此项目的界面翻译工作也支持[开源共建](https://www.transifex.com/syncthing/syncthing/dashboard/)。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/) ![Freeware][Freeware Icon]
 * [ownCloud](https://owncloud.org) - 私有云网盘。
 * [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。![Freeware][Freeware Icon]
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
@@ -703,10 +706,12 @@ Awesome Mac
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 恶意软件会自行安装，以确保它在重新引导时自动重新执行。
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Dylib 劫机扫描仪或 DHS，是一个简单的实用程序，将扫描您的计算机的应用程序是易受 dylib 劫持或被劫持。
 * [Encrypto](https://macpaw.com/encrypto) - 免费加密工具，用于加密文件和文件夹
+* [GPG Suite](https://gpgtools.org/) - macOS平台的一站式GnuPG解决方案，提供命令行和GUI的加解密工具。开箱即用的`gpg-agent`密码缓存服务，还包括一个GUI的pinenry程序，支持与macOS原生钥匙串集成。[![Open-Source Software][OSS Icon]](https://gpgtools.org/) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在 OS 内核中加载的模块。
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - “谁在那？” 查看Mac上持久安装的内容。
 * [LinkLiar](https://github.com/halo/LinkLiar) - 可以帮助你哄骗 Wi-Fi 和以太网接口的 MAC 地址。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙，旨在阻止未经授权（传出）的网络流量。 [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
+* [Murus](https://www.murusfirewall.com/) - 强大、灵活且易于理解使用的防火墙，官方提供多种不同的APP以提供不同功能的组合。最基础的免费版本`Murus Lite`是纯粹基于传入端口的防火墙，跟基于应用程序的macOS原生防火墙形成有效互补。![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - 监控 Mac 的麦克风和网络摄像头，当内部麦克风被激活，或者当进程访问摄像头时提醒用户。
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
@@ -829,6 +834,7 @@ Awesome Mac
 * [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704) - 覆盖您的节能设置并让您的Mac保持清醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/amphetamine/id937984704)
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [AppTrap](http://onnati.net/apptrap/) - 删除APP的同时移除文件。 [![Open-Source Software][OSS Icon]](https://github.com/kvijayan/AppTrap) ![Freeware][Freeware Icon]
+* [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner) ![Freeware][Freeware Icon]
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你 CPU100% 让 Mac 电脑过热电池耗尽的菜单应用程序。
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
@@ -848,6 +854,8 @@ Awesome Mac
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [Porting Kit](http://portingkit.com/) - 在Mac中安装Windows®游戏。 ![Freeware][Freeware Icon]
+* [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
+* [smcFanControl](https://github.com/hholtmann/smcFanControl) - 短小精悍的风扇转速温控软件，可以预设两档风扇最低转速，方便在不同工作负载间人工强制切换。因为只是限制风扇最低速度，所以系统原生温控调速不会完全失效。[![Open-Source Software][OSS Icon]](https://github.com/hholtmann/smcFanControl) ![Freeware][Freeware Icon]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理你的 SSH。
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
