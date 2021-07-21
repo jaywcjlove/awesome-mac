@@ -761,6 +761,7 @@ Awesome Mac
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 界面简洁，功能完善，支持主流的多种压缩格式。支持 Mojave 深色模式、QuickLook预览、拖拽解压。 ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
+* [Lunar](https://lunar.fyi/) - 外接显示器亮度/对比度调节工具，从此告别物理按键。[![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HTTrack](http://www.httrack.com) - 可以下载整个网站和离线浏览。![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar 触觉反馈。 [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
