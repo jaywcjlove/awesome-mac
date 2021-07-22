@@ -8,6 +8,7 @@ import headings from 'remark-autolink-headings'
 import { html, template, doctype } from 'rehype-template'
 import stringify from 'rehype-stringify'
 import remark2rehype from 'remark-rehype'
+import gfm from 'remark-gfm'
 import rehypeAttrs from 'rehype-attr'
 import rehypeRaw from 'rehype-raw'
 import rehypeRewrite from 'rehype-rewrite'
@@ -180,6 +181,7 @@ function processorHandle(templ) {
   var processor = unified()
     .use(markdown)
     .use(slug)
+    .use(gfm)
     .use(headings)
     .use(remark2rehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
