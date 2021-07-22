@@ -2,7 +2,8 @@
   "name": "awesome-mac",
   "version": "1.0.0",
   "description": " This repo is a collection of awesome Mac applications and tools for developers and designers. ",
-  "main": "index.js",
+  "homepage": "https://jaywcjlove.github.io/awesome-mac",
+  "main": "dist/awesome-mac.json",
   "scripts": {
     "start": "npm run create:html && npm run create:ast",
     "create:html": "node build/create.mjs",
@@ -19,12 +20,14 @@
     "macosx",
     "osx"
   ],
+  "files": [
+    "dist"
+  ],
   "author": "kenny wang <wowohoo@qq.com>",
   "license": "CC-BY-SA-4.0",
   "bugs": {
     "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
-  "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "devDependencies": {
     "fs-extra": "10.0.0",
     "rehype-attr": "1.1.7",
