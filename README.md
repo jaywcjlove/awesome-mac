@@ -539,6 +539,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 * [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons.
 * [IconKit](http://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://itunes.apple.com/app/iconkit-icon-resizer-for-app/id507135296)
+* [IconMaker](https://iconmaker.app/) - Free online App Icon resizer for multiple platforms.
 * [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - Compress images with PNG format and remove transparency. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - Compress images and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
