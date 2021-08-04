@@ -796,7 +796,7 @@ Awesome Mac
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [360压缩](https://yasuo.360.cn/mac/index.html/) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
+* [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
 
 ### 剪贴板工具
 
