@@ -43,6 +43,7 @@ Awesome Mac
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
   - [云音乐播放器](#云音乐播放器)
+  - [音频录制与编辑](#音频录制与编辑)
 - [书签阅读写作](#书签阅读写作)
   - [Office](#office)
   - [RSS](#rss)
@@ -533,6 +534,10 @@ Awesome Mac
 * [虾米音乐](http://www.xiami.com/apps/mac) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
+
+### 音频录制与编辑
+* [GarageBand](https://www.apple.com.cn/mac/garageband/) 来自Apple的免费数字音频工作站（DAW)，提供简介低门槛的操作界面和完整的音乐录制、剪辑制作功能 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&mt=12)
+* [Logic Pro X](https://www.apple.com.cn/logic-pro/) 来自Apple的专业数字音频工作站（DAW），提供完整专业的音乐制作功能、优秀的自带插件和音源，原生支持Apple Silicon实现高效运行 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&mt=12)
 
 ## 书签阅读写作
 

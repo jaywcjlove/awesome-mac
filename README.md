@@ -58,6 +58,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [File Sharing](#file-sharing)
 - [Data Recovery Tools](#data-recovery-tools)
 - [Audio and Video Tools](#audio-and-video-tools)
+    - [Audio Record and Process](#audio-record-and-process)
 - [Download Management Tools](#download-management-tools)
 - [Cloud Storage](#cloud-storage)
 - [Input Methods](#input-methods)
@@ -660,6 +661,11 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Best media player on Mac, support almost all format. [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
+
+### Audio Record and Process
+* [GarageBand](https://www.apple.com/mac/garageband/) A free Digital Audio Workstation (DAW) from Apple，providing a simple interface and professional level audio production functions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&mt=12)
+* [Logic Pro X](https://www.apple.com/logic-pro/) A professional Digital Audio Workstation (DAW) from Apple，providing complete audio production functions along with high quality native plugins and soundtracks. With native Apple Silicon support. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&mt=12)
+
 ## Download Management Tools
 
 * [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
