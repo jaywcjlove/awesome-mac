@@ -799,6 +799,7 @@ Awesome Mac
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
+* [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/) - 快速解压单个多个不同种类的压缩文件/压缩文件到各类场景压缩格式。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/unarchiver-one-rar-zip-tool/id1127253508?l=en&mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
