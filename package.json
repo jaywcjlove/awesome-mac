@@ -1,6 +1,6 @@
 {
   "name": "awesome-mac",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": " This repo is a collection of awesome Mac applications and tools for developers and designers. ",
   "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "main": "dist/awesome-mac.json",
@@ -21,7 +21,8 @@
     "osx"
   ],
   "files": [
-    "dist"
+    "dist/awesome-mac.json",
+    "dist/awesome-mac.zh.json"
   ],
   "author": "kenny wang <wowohoo@qq.com>",
   "license": "CC-BY-SA-4.0",
