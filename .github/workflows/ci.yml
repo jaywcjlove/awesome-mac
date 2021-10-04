@@ -46,14 +46,14 @@ jobs:
           tag: ${{ steps.create_tag.outputs.version }}
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
-            [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/awesome-mac@${{steps.changelog.outputs.version}}/file/README.md)
+            [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/awesome-mac@${{steps.create_tag.outputs.versionNumber}}/file/README.md)
 
             ${{ steps.changelog.outputs.compareurl }}
             
             ${{ steps.changelog.outputs.changelog }}
             
             ```bash
-            npm i awesome-mac
+            npm i awesome-mac@${{steps.create_tag.outputs.versionNumber}}
             # dist/awesome-mac.json
             # dist/awesome-mac.zh.json
             ```
