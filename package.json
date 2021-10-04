@@ -30,20 +30,9 @@
   },
   "devDependencies": {
     "fs-extra": "10.0.0",
-    "rehype-attr": "1.1.7",
-    "rehype-raw": "5.1.0",
-    "rehype-rewrite": "1.0.0",
-    "rehype-stringify": "8.0.0",
-    "rehype-template": "0.3.0",
-    "rehype-urls": "1.1.1",
     "remark": "13.0.0",
-    "remark-autolink-headings": "6.0.1",
-    "remark-parse": "9.0.0",
     "remark-gfm": "1.0.0",
-    "remark-rehype": "8.1.0",
-    "remark-slug": "6.0.0",
-    "to-vfile": "7.0.0",
-    "unified": "9.2.1",
-    "vfile-reporter": "7.0.0"
+    "markdown-to-html-cli": "2.1.1",
+    "to-vfile": "7.0.0"
   }
 }
