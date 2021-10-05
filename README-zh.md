@@ -749,8 +749,6 @@ Awesome Mac
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 * [V2rayU](https://github.com/yanue/V2rayU) - 一款 v2ray 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/yanue/V2rayU) ![Freeware][Freeware Icon]
 * [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费 VPN 账号。![Freeware][Freeware Icon]
-* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费 VPN 加速服务。![Freeware][Freeware Icon]
-
 
 ## 其它实用工具
 
