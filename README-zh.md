@@ -965,6 +965,7 @@ Awesome Mac
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
+* MacWk：~~`https://macwk.com/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~
 * Macx：~~`https://www.macx.cn/`~~
