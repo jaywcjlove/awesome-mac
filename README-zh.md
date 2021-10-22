@@ -1,8 +1,9 @@
 Awesome Mac
-----
-<!--rehype:style=font-size: 38px; border-bottom: 0; padding-bottom: 20px; padding-top: 26px;-->
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
+<!--rehype:style=text-align: center;--> 
 
  现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 [issues](https://github.com/jaywcjlove/awesome-mac/issues/new/choose) 给我推荐优秀好用的Mac应用，很显然我是一个资深 Mac 用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
 
@@ -731,13 +732,7 @@ Awesome Mac
 
 * [Algo](https://github.com/trailofbits/algo) - 在云中设置个人 IPSEC VPN。 [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
 * [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 的一款支持规则过滤的科学上网工具。 [![Open-Source Software][OSS Icon]](https://github.com/yichengchen/clashX)![Freeware][Freeware Icon]
-* [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - 永不过期 Mac 免费VPN。 ![Freeware][Freeware Icon]
-* [Firefly 萤火虫](https://github.com/yinghuocho/firefly-proxy) - 免费科学上网。
-* [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取 500M 流量。![Freeware][Freeware Icon]
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得 2 小时免费VPN加速。![Freeware][Freeware Icon]
-* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - 科学上网。
@@ -746,10 +741,6 @@ Awesome Mac
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
 * [tinc](https://www.tinc-vpn.org) - VPN 软件. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
-* [V2rayU](https://github.com/yanue/V2rayU) - 一款 v2ray 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/yanue/V2rayU) ![Freeware][Freeware Icon]
-* [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费 VPN 账号。![Freeware][Freeware Icon]
-* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费 VPN 加速服务。![Freeware][Freeware Icon]
-
 
 ## 其它实用工具
 
@@ -974,6 +965,7 @@ Awesome Mac
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
+* MacWk：~~`https://macwk.com/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~
 * Macx：~~`https://www.macx.cn/`~~
