@@ -1,9 +1,9 @@
 Awesome Mac
 ===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746) [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175) [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
-<!--rehype:style=text-align: center;--> 
+<!--rehype:style=text-align: center;-->
 
  现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 [issues](https://github.com/jaywcjlove/awesome-mac/issues/new/choose) 给我推荐优秀好用的Mac应用，很显然我是一个资深 Mac 用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
 
@@ -749,7 +749,7 @@ Awesome Mac
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
 * [Alfred](https://www.alfredapp.com/) - 效率神器。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
-* [BetterZip 3](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。![Freeware][Freeware Icon]
+* [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。
 * [BetterTouchTool](https://folivora.ai/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [ControlPlane](http://www.controlplaneapp.com/) - 自定义 Mac 情景模式。某些场景让 Mac 自动静音或是自动打开 Mail 客户端等等。[![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]

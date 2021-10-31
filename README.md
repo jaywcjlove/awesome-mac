@@ -1,10 +1,10 @@
 Awesome Mac
 ===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-mac/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
-<!--rehype:style=text-align: center;--> 
+<!--rehype:style=text-align: center;-->
 
  Now we have become very big and different from the original idea.
 Here we collect awesome macOS software in various categories. Feel free to **star** and **fork**.
@@ -165,7 +165,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Notion](https://www.notion.so/) -Notion is the all-in-one workspace. From notes, tasks, wikis, to database, Notion is all you need. Works great for teams and individuals.
 * [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
-* [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting. 
+* [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting.
 * [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - Cloud note-taking knowledge management, collaboration platform, Markdown based writing, support embedded flow chart, brain diagram, timing sequence, code rendering, Sketch board creation, personal knowledge sharing, etc. Compared to youdao cloud note and evernote similar products, which include all of its functions, support knowledge sharing and more powerful creation, collaboration and editor, it comes from alibaba ant financial.![Freeware][Freeware Icon]
@@ -804,7 +804,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### File Organization Tools
 
-* [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR. ![Freeware][Freeware Icon]
+* [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](http://ezip.awehunt.com) - An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
