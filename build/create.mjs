@@ -57,6 +57,7 @@ a { text-decoration: none; }
 .topmenu { position: fixed; left: 5px; top: 5px; display: flex; }
 .topmenu a { background: #00000073; padding: 1px 5px; font-size: 12px; border-radius: 2px; margin-right: 5px; color: #fff; }
 .topmenu a:hover, .totop:hover { background: #2186ff; color: #fff; }
+.markdown-body { max-width: 760px; }
 `;
 
 const options = {

@@ -33,7 +33,7 @@
     "fs-extra": "10.0.0",
     "remark": "13.0.0",
     "remark-gfm": "1.0.0",
-    "markdown-to-html-cli": "2.1.1",
+    "markdown-to-html-cli": "3.1.5",
     "to-vfile": "7.0.0"
   }
 }
