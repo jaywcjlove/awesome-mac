@@ -221,7 +221,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
   * [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students)
   * [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Plaform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
-  * [DataSpell] (https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
+  * [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
   * [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
   * [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version.
