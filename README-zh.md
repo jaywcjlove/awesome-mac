@@ -231,6 +231,7 @@ Awesome Mac
 * [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
 * [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
+* [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令[![Open-Source Software][OSS Icon]]
 
 ### 版本控制
 
@@ -796,6 +797,8 @@ Awesome Mac
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
+* [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]]
+
 
 ### 剪贴板工具
 
