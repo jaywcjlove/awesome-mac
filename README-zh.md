@@ -877,6 +877,7 @@ Awesome Mac
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
+* [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用 JavaScript 写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理。
