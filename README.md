@@ -531,6 +531,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id540348655)
 * [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
+* [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup. ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon]
 * [Snip](http://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
