@@ -461,6 +461,7 @@ Awesome Mac
 * [御飯](https://imach.me/gohanapp/) - 饭否第三方Mac应用。![Freeware][Freeware Icon]
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
 * [钉钉](http://www.dingtalk.com/index-b.html#download_block) - 企业级办公通讯免费平台。![Freeware][Freeware Icon]
+* [飞书](https://www.feishu.cn/download) - 字节跳动旗下先进企业协作与管理平台。![Freeware][Freeware Icon]
 * [零信](https://pubu.im/apps/osx) - 随时随地工作，跨平台。
 * [今目标](http://www.jingoal.com/client/mac/mac.htm) - 一款面向中小企业的互联网工作平台。
 * [日事清](https://www.rishiqing.com) - 工作计划软件，日志软件，项目管理，团队协作软件，个人日程管理，团队协作工具。日程安排，计划分配，笔记总结等。![Freeware][Freeware Icon]
