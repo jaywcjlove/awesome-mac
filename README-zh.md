@@ -605,19 +605,20 @@ Awesome Mac
 > A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
+* [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - 最近刚出的一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
 * [LightPaper](http://lightpaper.42squares.in/) - 简单的 Markdown 文本编辑器。
-* [Marp](https://marp.app) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
-* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [MacDown](http://macdown.uranusjr.com/) - 一款开源的 Markdown 编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown 文本预览编辑，为所有作家提供一套优雅而强大的工具。
+* [MarkText](https://marktext.app/) - 简单而优雅的 Markdown 编辑器，专注于速度和可用性。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
+* [Marp](https://marp.app) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+* [Marxico马克飞象](https://maxiang.io/) - 一款专为印象笔记（Evernote）打造的Markdown编辑器，通过精心的设计与技术实现，配合印象笔记强大的存储和同步功能，带来前所未有的书写体验。
+* [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [TextNut](http://www.textnutwriter.com/) - Markdown 编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。![Freeware][Freeware Icon]
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
-* [马克飞象](https://maxiang.io/) - Markdown 编辑器，提供 Web 端 和 App 端，多种配色，支持同步到 印象笔记。
-* [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 
 ### 笔记
 
