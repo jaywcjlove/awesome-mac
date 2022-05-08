@@ -1010,7 +1010,6 @@ Awesome Mac
 * 苹果软件园：~~`http://www.maczapp.com`~~
 * 马可菠萝：~~`http://www.macbl.com/`~~
 * 极致分享：~~`https://alltoshare.com/`~~
-* 麦克社：~~`http://www.macshe.com/`~~
 * 未来软件园：~~`http://www.orsoon.com/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
