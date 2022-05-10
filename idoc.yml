@@ -8,6 +8,15 @@ logo: ./logo.svg
 
 dir: ./doc
 
+menus:
+  Home: index.html
+  Recommended: 
+    url: https://github.com/jaywcjlove/awesome-mac/issues
+    target: __blank
+  Link failure Report: 
+    url: https://github.com/jaywcjlove/awesome-mac/issues
+    target: __blank
+
 sideEffectFiles:
   - README-zh.md
   - editor-plugin.md
