@@ -5,8 +5,9 @@
   "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "main": "dist/awesome-mac.json",
   "scripts": {
-    "start": "npm run create:html && npm run create:ast",
-    "create:html": "node build/create.mjs",
+    "start": "npm run build && npm run create:ast",
+    "doc": "idoc --watch",
+    "build": "idoc",
     "create:ast": "node build/ast.mjs"
   },
   "repository": {
@@ -30,10 +31,10 @@
     "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
   "devDependencies": {
-    "fs-extra": "10.0.0",
-    "remark": "13.0.0",
-    "remark-gfm": "1.0.0",
-    "markdown-to-html-cli": "3.1.5",
-    "to-vfile": "7.0.0"
+    "fs-extra": "^10.1.0",
+    "idoc": "^1.18.0",
+    "remark": "^14.0.2",
+    "remark-gfm": "^3.0.1",
+    "to-vfile": "^7.2.3"
   }
 }

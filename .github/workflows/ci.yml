@@ -13,7 +13,7 @@ jobs:
           node-version: 14
 
       - run: npm install
-      - run: npm run create:html
+      - run: npm run build
       - run: npm run create:ast
 
       - name: Deploy
@@ -26,14 +26,13 @@ jobs:
 
       - name: Create Tag
         id: create_tag
-        uses: jaywcjlove/create-tag-action@v1.2.1
+        uses: jaywcjlove/create-tag-action@v1.3.6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           package-path: ./package.json
 
       - name: Generate Changelog
         id: changelog
-        uses: jaywcjlove/changelog-generator@v1.4.8
+        uses: jaywcjlove/changelog-generator@v1.5.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           head-ref: ${{steps.create_tag.outputs.version}}

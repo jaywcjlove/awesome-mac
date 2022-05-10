@@ -16,6 +16,8 @@ Awesome Mac
 ![App Store][app-store Icon] 表示 **App store** 连接地址；\
 ![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
 
+<!--idoc:ignore:start-->
+
 ## 目录
 
 - [Awesome Mac](#awesome-mac)
@@ -81,6 +83,7 @@ Awesome Mac
 - [License](#license)
 
 <!--start-->
+<!--idoc:ignore:end-->
 
 ## 开发者工具
 
@@ -1054,3 +1057,9 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).Ax
+
+
+<!--idoc:config:
+title: Awesome Mac 应用分享推荐 - 
+description: 收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac
+-->

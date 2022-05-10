@@ -1,0 +1,14 @@
+site: Awesome Mac
+
+description:  This repo is a collection of awesome Mac applications and tools for developers and designers. 
+keywords: mac,osx,app,softwares,applications,mac softwares,awesome mac,free softwares,Freeware
+
+favicon: ./logo.svg
+logo: ./logo.svg
+
+dir: ./doc
+
+sideEffectFiles:
+  - README-zh.md
+  - editor-plugin.md
+  - editor-plugin-zh.md

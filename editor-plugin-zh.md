@@ -8,7 +8,6 @@ Editors Plugin
 ## Atom Plugin
 
 * 通用
-
   * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
   * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格。
   * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
@@ -29,9 +28,7 @@ Editors Plugin
   * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不同项目，多项目同时工作利器。
   * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 可以图形化显示正则表达式。
   * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - 文件列表快速查找工具。
-
 * 前端
-
   * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
   * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。
@@ -42,9 +39,7 @@ Editors Plugin
   * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
   * [atom-html-preview](https://atom.io/packages/atom-html-preview) - 内置Chrome浏览器写移动端非常棒。
   * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
-
 * Python
-
   * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
   * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
   * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
@@ -138,3 +133,9 @@ Editors Plugin
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
+
+
+<!--idoc:config:
+title: Editors Plugin 分享推荐 -
+description: Editors Plugin 分享推荐 - Awesome Mac
+-->
