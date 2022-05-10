@@ -1,0 +1,27 @@
+@media only screen and (min-width: 1024px) {
+  footer.article-footer,
+  .warpper {
+    max-width: 1200px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .warpper-content.sidebar {
+    grid-template-areas: 'sidebar main';
+    grid-template-columns: 180px minmax(0, 38rem);
+  }
+  nav.tocs {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .warpper-content.sidebar {
+    grid-template-areas: 'main';
+    grid-template-columns: minmax(0, 38rem);
+  }
+  nav.tocs,
+  .sidebar-border {
+    display: none;
+  }
+}

@@ -1,0 +1,41 @@
+.sidebar-border {
+  border-right: 1px solid var(--color-border-muted);
+}
+aside.sidebar {
+  min-width: 160px;
+  margin-left: -5px;
+  padding-bottom: 20px;
+  padding-right: 6px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 56px;
+  grid-area: sidebar;
+  overflow: auto;
+  max-height: calc(100vh - 56px);
+  padding-bottom: 36px;
+}
+aside.sidebar label:first-child {
+  padding-top: 0 !important;
+}
+aside.sidebar a:first-child {
+  margin-top: 0 !important;
+}
+aside.sidebar label {
+  font-size: 12px;
+  padding: 5px 0 3px 0;
+  display: block;
+  padding-left: 5px !important;
+}
+aside.sidebar a.active {
+  color: var(--color-prettylights-syntax-markup-inserted-text);
+  background-color: var(--color-hover);
+}
+aside.sidebar a {
+  display: block;
+  padding: 3px 5px 3px 5px;
+  border-radius: 3px;
+  margin: 3px 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

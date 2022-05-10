@@ -1,0 +1,62 @@
+.idoc-demo-warpper {
+  overflow: hidden;
+  min-height: 60px;
+  margin-bottom: 16px;
+}
+
+div.idoc-demo-warpper {
+  position: relative;
+  background-color: var(--color-canvas-subtle);
+  border-radius: 6px;
+}
+
+div.idoc-demo-warpper > pre {
+  padding: 16px;
+  overflow: auto;
+  display: block;
+  margin-bottom: 0 !important;
+  height: 100%;
+}
+
+div.idoc-demo-previw {
+  padding: 10px;
+  font-size: initial;
+  line-height: initial;
+  line-height: initial;
+  font-family: initial;
+  overflow: auto;
+}
+.idoc-demo-previw {
+  border: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--color-canvas-subtle);
+  border: 1px solid var(--color-border-default);
+  border-radius: 6px;
+  z-index: 9;
+  transition: left 0.3s cubic-bezier(1, 0, 1, 0);
+}
+
+.idoc-demo-previw.ishiden {
+  left: -100%;
+}
+button.idoc-toggle-previw {
+  user-select: none;
+  position: absolute;
+  z-index: 10;
+  border: transparent;
+  background-color: var(--color-border-default);
+  cursor: pointer;
+  font-size: 12px;
+  padding: 2px 5px;
+  border-radius: 3px;
+  bottom: 5px;
+  right: 5px;
+}
+button.idoc-toggle-previw:hover {
+  color: var(--color-theme-text);
+}
