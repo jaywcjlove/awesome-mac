@@ -115,3 +115,8 @@ Editors Plugin
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
+
+<!--idoc:config:
+title: Editors Plugin Sharing Recommendation -
+description: Editors Plugin Sharing Recommendation - Awesome Mac
+-->

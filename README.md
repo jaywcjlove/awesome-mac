@@ -24,6 +24,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 [![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
 
+<!--idoc:ignore:start-->
+
 ## Contents
 
 - [Awesome Mac](#awesome-mac)
@@ -96,6 +98,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [License](#license)
 
 <!--start-->
+<!--idoc:ignore:end-->
 
 ## Reading and Writing Tools
 
@@ -1100,3 +1103,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
+
+
+<!--idoc:config:
+title: Awesome Mac application sharing recommendation - 
+description: A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac
+-->
