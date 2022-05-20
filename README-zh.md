@@ -229,7 +229,7 @@ Awesome Mac
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
-* [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令[![Open-Source Software][OSS Icon]]
+* [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令。[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
