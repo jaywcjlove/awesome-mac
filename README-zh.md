@@ -185,6 +185,7 @@ Awesome Mac
 * [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
+* [Apifox](https://www.apifox.cn) - Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter! [Freeware][Freeware Icon]
 
 ### 网络分析
 
