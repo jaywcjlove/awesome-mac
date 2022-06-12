@@ -48,8 +48,10 @@ jobs:
           body: |
             [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/awesome-mac@${{steps.create_tag.outputs.versionNumber}}/file/README.md)
 
-            ${{ steps.changelog.outputs.compareurl }}
+            Documentation ${{ steps.changelog.outputs.tag }}: https://raw.githack.com/jaywcjlove/awesome-mac/${{ steps.changelog.outputs.gh-pages-short-hash }}/index.html  
             
+            Comparing Changes: ${{ steps.changelog.outputs.compareurl }}  
+
             ${{ steps.changelog.outputs.changelog }}
             
             ```bash
@@ -58,5 +60,41 @@ jobs:
             # dist/awesome-mac.zh.json
             ```
 
+            ## Docker
+
+            ```bash
+            docker pull wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
+            ```
+
+            ```bash
+            docker run --name awesome-mac --rm -d -p 9881:80 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
+            # Or
+            docker run --name awesome-mac -itd -p 9881:80 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
+            ```
+
+            Visit the following URL in your browser
+
+            ```bash
+            http://localhost:9881/
+            ```
+
       - run: npm install @jsdevtools/npm-publish -g
       - run: npm-publish --token="${{ secrets.NPM_TOKEN }}" ./package.json
+
+      # Create Docker Image
+      - name: Docker login
+        if: steps.create_tag.outputs.successful
+        run: docker login -u ${{ secrets.DOCKER_USER }} -p ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Build Awesome Mac image
+        if: steps.create_tag.outputs.successful
+        run: docker image build -t tools .
+
+      - name: Tags & Push image
+        if: steps.create_tag.outputs.successful
+        run: |
+          echo "outputs.tag - ${{ steps.changelog.outputs.version }}"
+          docker tag tools ${{ secrets.DOCKER_USER }}/tools:${{steps.changelog.outputs.version}}
+          docker tag tools ${{ secrets.DOCKER_USER }}/tools:latest
+          docker push ${{ secrets.DOCKER_USER }}/tools:${{steps.changelog.outputs.version}}
+          docker push ${{ secrets.DOCKER_USER }}/tools:latest
