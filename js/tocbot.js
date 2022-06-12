@@ -1,4 +1,13 @@
 ;(() => {
+  function debounce(fn, delay = 1000) {
+    let time = null
+    function _debounce(...args) {
+      if (time !== null) clearTimeout(time);
+      time = setTimeout(() => fn.apply(this, args), delay)
+    }
+    return _debounce
+  }
+
   const scrollSmoothOffset = 56;
   function updateScroll() {
     const heading = document.getElementById(decodeURIComponent(location.hash.replace(/^#/, '')));
@@ -48,7 +57,7 @@
     }
   }
 
-  document.addEventListener('scroll', scrollListener, false);
+  document.addEventListener('scroll',debounce(scrollListener, 30), false);
 
   function updateAnchor(element) {
     const anchorContainer = document.querySelectorAll('.tocs aside.inner.toc a.tocs-link');
