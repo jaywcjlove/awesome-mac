@@ -46,7 +46,7 @@ jobs:
           tag: ${{ steps.create_tag.outputs.version }}
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
-            [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/awesome-mac@${{steps.create_tag.outputs.versionNumber}}/file/README.md)
+            [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/awesome-mac@${{steps.create_tag.outputs.versionNumber}}/file/README.md) [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 
             Documentation ${{ steps.changelog.outputs.tag }}: https://raw.githack.com/jaywcjlove/awesome-mac/${{ steps.changelog.outputs.gh-pages-short-hash }}/index.html  
             
