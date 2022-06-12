@@ -92,7 +92,6 @@ Awesome Mac
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
-* [Atom](https://atom.io) - GitHub 推出的开源编辑器，[Atom常用插件](editor-plugin-zh.md#atom-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
 * [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
@@ -246,7 +245,7 @@ Awesome Mac
 ### GUI
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac 上最佳的 SVN 管理工具。
-* [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端。 
+* [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端。
 * [GitFinder](https://gitfinder.com/) - 一个快速和轻量级的 Git 客户端的 Mac 与 Finder 集成。
 * [GitX](https://rowanj.github.io/gitx/) - [Pieter's](https://github.com/pieter/gitx)的衍生版本，维护增强生产力和团队开发变化。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示 GitHub 贡献统计。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
@@ -1063,6 +1062,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 <!--idoc:config:
-title: Awesome Mac 应用分享推荐 - 
+title: Awesome Mac 应用分享推荐 -
 description: 收集分享大量非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。 - Awesome Mac
 -->
