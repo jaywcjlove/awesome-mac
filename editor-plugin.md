@@ -1,37 +1,9 @@
 Editors Plugin
 ===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-<!--rehype:style=text-align: center;--> 
-
-## Atom Plugin
-
-* Common plugins
-  * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
-  * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
-  * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
-  * [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Add vim modal control.
-  * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
-  * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete + paths suggestions
-  * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
-  * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
-  * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
-  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - Dracula beautiful color。
-  * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
-  * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
-  * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
-  * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Graphical display of regular expressions。
-* Front-end
-  * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
-  * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
-  * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
-  * [atom-html-preview](https://atom.io/packages/atom-html-preview) - The built-in Chrome, mobile terminal, is very good。
-  * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - You can talk with the current file output, the relative path to the target file for file call each other more。
-* Python
-  * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python packages, variables, methods and functions with their arguments autocompletion in Atom powered by [Jedi](https://github.com/davidhalter/jedi)
-  * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
-  * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
+<!--rehype:style=text-align: center;-->
 
 ## Sublime Text Plugin
 

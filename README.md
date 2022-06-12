@@ -106,7 +106,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### Text Editors
 
-* [Atom](https://atom.io) - Hackable text editor for the 21st century made by GitHub. [Atom Plugins](editor-plugin.md#atom-plugin). [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [Chocolat](https://chocolatapp.com/) - Native text editor.
@@ -1110,6 +1109,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 <!--idoc:config:
-title: Awesome Mac application sharing recommendation - 
+title: Awesome Mac application sharing recommendation -
 description: A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac
 -->
