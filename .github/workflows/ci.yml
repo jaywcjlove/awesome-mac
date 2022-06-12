@@ -88,13 +88,13 @@ jobs:
 
       - name: Build Awesome Mac image
         if: steps.create_tag.outputs.successful
-        run: docker image build -t tools .
+        run: docker image build -t awesome-mac .
 
       - name: Tags & Push image
         if: steps.create_tag.outputs.successful
         run: |
           echo "outputs.tag - ${{ steps.changelog.outputs.version }}"
-          docker tag tools ${{ secrets.DOCKER_USER }}/tools:${{steps.changelog.outputs.version}}
-          docker tag tools ${{ secrets.DOCKER_USER }}/tools:latest
-          docker push ${{ secrets.DOCKER_USER }}/tools:${{steps.changelog.outputs.version}}
-          docker push ${{ secrets.DOCKER_USER }}/tools:latest
+          docker tag awesome-mac ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
+          docker tag awesome-mac ${{ secrets.DOCKER_USER }}/awesome-mac:latest
+          docker push ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
+          docker push ${{ secrets.DOCKER_USER }}/awesome-mac:latest
