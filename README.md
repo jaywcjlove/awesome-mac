@@ -1004,6 +1004,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Sensei](https://sensei.app/) - Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Application for managing SSH connections.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
+* [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
