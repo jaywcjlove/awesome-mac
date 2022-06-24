@@ -67,9 +67,9 @@ jobs:
             ```
 
             ```bash
-            docker run --name awesome-mac --rm -d -p 9881:80 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
+            docker run --name awesome-mac --rm -d -p 9881:3000 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
             # Or
-            docker run --name awesome-mac -itd -p 9881:80 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
+            docker run --name awesome-mac -itd -p 9881:3000 wcjiang/awesome-mac:${{steps.changelog.outputs.version}}
             ```
 
             Visit the following URL in your browser

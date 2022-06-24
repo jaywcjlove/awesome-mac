@@ -1,10 +1,7 @@
-FROM nginx:1-alpine
+# https://lipanski.com/posts/smallest-docker-image-static-website
+# https://github.com/lipanski/docker-static-website
+FROM lipanski/docker-static-website:latest
 
-ENV APPDIR /usr/share/nginx/html
-RUN mkdir -p $APPDIR 
-
-RUN cat /etc/nginx/conf.d/default.conf
-
-WORKDIR $APPDIR
-
-ADD ./dist /usr/share/nginx/html
+# Copy the static website
+# Use the .dockerignore file to control what ends up inside the image!
+COPY ./dist .
