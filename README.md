@@ -742,6 +742,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Translation Tools
 *(Or you could just use the Mac OS built-in dictionary)*
 
+* [DeepL](https://www.deepl.com/en/app/) - best quality translations ![Freeware][Freeware Icon]
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
