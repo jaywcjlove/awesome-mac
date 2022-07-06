@@ -253,9 +253,9 @@ Awesome Mac
 * [GitUp](http://gitup.co/) - 一个简单功能强大的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的 git 管理工具。
 * [Hub](https://hub.github.com/) - 将 GitHub 接口和 Git 命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
-* [OhMyStar](https://ohmystarapp.com/) - 最好的组织 Github Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/ohmystar2/id1218642292)
+* [OhMyStar](https://ohmystarapp.com/) - 最好的组织 GitHub Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/ohmystar2/id1218642292)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的 Git 跨平台客户端。![Freeware][Freeware Icon]
-* [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 Github 服务。
+* [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 GitHub 服务。
 * [Sublime Merge](https://www.sublimemerge.com/) -  Git客户端，来自Sublime Text的制造商。
 * [Tower2](https://www.git-tower.com/) - 最强大的 Git 客户端。
 * [Versions](http://www.versionsapp.com/) - Mac 上最好的 SVN 管理工具。
@@ -830,7 +830,7 @@ Awesome Mac
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - 面向开发者的干净简单的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [iPaste](https://en.toolinbox.net/iPaste) - 轻巧高效的剪贴板工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
-* [Maccy](https://github.com/p0deje/Maccy) - 开源于Github但不免费的剪贴板管理工具，应用商店中下载需要付费。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
+* [Maccy](https://github.com/p0deje/Maccy) - 开源于GitHub但不免费的剪贴板管理工具，应用商店中下载需要付费。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/paste-clipboard-history-manager/id967805235)
 * [PasteBot](https://tapbots.com/pastebot/) - 强大的剪贴板管理器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pastebot/id1179623856)
 * [Yippy](https://yippy.mattdavo.com/) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]

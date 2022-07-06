@@ -99,7 +99,7 @@ jobs:
           docker push ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
           docker push ${{ secrets.DOCKER_USER }}/awesome-mac:latest
 
-      # Create Docker Image in Github
+      # Create Docker Image in GitHub
       - name: Login to GitHub registry
         run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
