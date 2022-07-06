@@ -501,6 +501,7 @@ Awesome Mac
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 可恢复分区被格式化、损坏或被删除的文件。
 
 ## 音频和视频
+
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](http://www.aegisub.org/) - 用于创建和修改字幕的免费、跨平台开源工具。Aegisub可以快速方便地将字幕计时到音频中，并提供了许多强大的工具来设置字幕的样式，包括内置的实时视频预览。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - 允许您为连接设备的每个特定组合固定输入/输出设备。可能会禁止选择HDMI显示器。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
@@ -562,6 +563,7 @@ Awesome Mac
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
 
 ### 音频录制与编辑
+
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 来自Apple的免费数字音频工作站（DAW)，提供简介低门槛的操作界面和完整的音乐录制、剪辑制作功能 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&mt=12)
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 来自Apple的专业数字音频工作站（DAW），提供完整专业的音乐制作功能、优秀的自带插件和音源，原生支持Apple Silicon实现高效运行 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&mt=12)
 
@@ -637,8 +639,8 @@ Awesome Mac
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
-
 * [阿里语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，基于Markdown写作，支持内嵌流程图、脑图、时序、代码渲染以及Sketch画板创作，个人知识分享等！相比有道云笔记、印象笔记同类产品，包含其全部的功能以外，支持知识分享以及更强大的创作、协作、编辑器，它来自阿里巴巴蚂蚁金服。![Freeware][Freeware Icon]
+
 ## 制作电子书
 
 * [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
