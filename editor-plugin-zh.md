@@ -63,7 +63,7 @@ Editors Plugin
 * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对 Git 的状态。
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
 * [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - 扩展文件编辑右键菜单。
-* [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) -  markdown 语法高亮。
+* [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) -  Markdown 语法高亮。
 * [Babel](https://packagecontrol.io/packages/Babel) - ES6 语法高亮。
 * [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - 自动完成文件名。
 * [FTPSync](https://packagecontrol.io/packages/FTPSync) - FTP 同步插件，本地与虚拟机做文件同步非常方便。
