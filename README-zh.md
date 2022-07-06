@@ -431,6 +431,7 @@ Awesome Mac
 
 * [Docker](https://www.docker.com/) - 开源的应用容器引擎。 [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [DockStation](https://dockstation.io/) - 管理 Docker 项目的程序。 [![Open-Source Software][OSS Icon]](https://github.com/DockStation/dockstation) ![Freeware][Freeware Icon]
+* [Multipass](https://multipass.run/) - 适用于任何工作站的 Ubuntu 虚拟机。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Portainer](https://portainer.io/) - 基于网页管理 Docker 容器和 swarm 集群。 [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
 * [UTM](https://mac.getutm.app/) - 适用于 iOS 和 macOS 的全功能系统模拟器和虚拟机主机。[![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
@@ -827,11 +828,11 @@ Awesome Mac
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
+* [Flycut](https://github.com/TermiT/Flycut) - 面向开发者的干净简单的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [iPaste](https://en.toolinbox.net/iPaste) - 轻巧高效的剪贴板工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
+* [Maccy](https://github.com/p0deje/Maccy) - 开源于Github但不免费的剪贴板管理工具，应用商店中下载需要付费。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/paste-clipboard-history-manager/id967805235)
 * [PasteBot](https://tapbots.com/pastebot/) - 强大的剪贴板管理器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pastebot/id1179623856)
-* [Flycut](https://github.com/TermiT/Flycut) - 面向开发者的干净简单的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
-* [Maccy](https://github.com/p0deje/Maccy) - 开源于Github但不免费的剪贴板管理工具，应用商店中下载需要付费。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Yippy](https://yippy.mattdavo.com/) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 
 
