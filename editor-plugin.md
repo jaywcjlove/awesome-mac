@@ -66,7 +66,7 @@ Editors Plugin
   * [Auto Import](https://github.com/soates/Auto-Import) - Automatically finds, parses and provides code actions for all available imports.
   * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - Run code snippet or code file for multiple languages
   * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
-  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) Test regex and preview
+  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Test regex and preview
 
 * React/Vue
   * [react-beautify](https://github.com/taichi/react-beautify) -  This extension wraps prettydiff/esformatter to format your javascript, JSX, typescript, TSX file.
