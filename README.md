@@ -160,6 +160,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplin.cozic.net/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [MarginNote](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
+* [massCode](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
