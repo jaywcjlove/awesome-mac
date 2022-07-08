@@ -162,6 +162,10 @@ a.gototop:hover {
   list-style: none;
   padding-right: 10px;
 }
+.header .menu li {
+  display: flex;
+  align-items: center;
+}
 .header a {
   color: var(--color-theme-text);
   font-weight: bold;
