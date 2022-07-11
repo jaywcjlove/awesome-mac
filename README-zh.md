@@ -137,6 +137,7 @@ Awesome Mac
 * [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
 * [CodeKit](https://codekitapp.com/) - 自动编译 Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
 * [Cacher](https://www.cacher.io/) - 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。
+* [CubicBezier](https://github.com/isaced/CubicBezier) - 一个适用于 macOS 的贝塞尔曲线生成器。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
