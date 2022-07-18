@@ -25,3 +25,20 @@
     display: none;
   }
 }
+
+@media print {
+  .header,
+  nav.tocs,
+  section.article-footer,
+  .sidebar-border,
+  .previous,
+  .footer,
+  a.gototop {
+    display: none;
+  }
+  .warpper-content {
+    margin: 0;
+    padding: 0;
+    display: initial;
+  }
+}
