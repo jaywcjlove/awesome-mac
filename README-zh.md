@@ -536,6 +536,7 @@ Awesome Mac
 * [Natron](https://natron.fr/) - 开源的视频合成软件，功能与 Adobe After Effects 或者 Nuke 类似。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上最好的媒体播放器，支持几乎所有格式。 [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
 * [Popcorn Time](https://popcorntime.co/) - 电影播放器，观看 torrent 电影。![Freeware][Freeware Icon]
+* [PotPlayer X](https://zh.okaapps.com/product/1612400976#) - omi出品，音视频播放器，界面简洁，功能齐全 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?mt=12)
 * [Perian](http://perian.org/#download) - (**不再处于活跃开发中**) ~~让 QuickTime 播放所有常见格式的免费插件。~~. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [Playback](https://mafintosh.github.io/playback/) - 实验性质的视频播放器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - 发现并聆听来自Hype Machine的音乐。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074)
