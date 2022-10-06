@@ -884,7 +884,6 @@ Awesome Mac
 * [Coolant](https://coolantformac.com) - 这是能让你知道什么应用程序造成你 CPU100% 让 Mac 电脑过热电池耗尽的菜单应用程序。
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
-* [FruitJuice](http://fruitjuiceapp.com) - 会让你知道每天保持不插电的时间，以保持你的电池健康。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/fruitjuice/id671736912)
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon]
 * [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/) - Chrome 插件解决中国视频网站播放视频电脑发热的情况。
