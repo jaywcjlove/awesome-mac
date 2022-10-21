@@ -147,7 +147,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing, and static blog generator App.
 * [Obsidian](https://obsidian.md) - A second brain, for you, forever.
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
-* [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview. ![Freeware][Freeware Icon]
+* [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
 * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Zettlr](https://www.zettlr.com/) - A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
@@ -509,7 +509,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/screentolayers/id1077317077)
 * [Sculptris](http://pixologic.com/sculptris/#) - 3D sculpting software. ![Freeware][Freeware Icon]
 * [Sketch](http://www.sketchapp.com/) - Professional digital design for mac.
-	* [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
+    * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
     * [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
     * [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
@@ -587,6 +587,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 * [Nucleo](https://nucleoapp.com/) - Icon manager. Import, export, customize and convert icon libraries.
 * [Preset Brewery](https://www.presetbrewery.com) - Tool to convert Lightroom presets to Adobe Camera Raw.
+* [qView](https://interversehq.com/qview/) - qView is an image viewer designed with minimalism and usability in mind. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
 * [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797)
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
 * [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors.
@@ -1080,9 +1081,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
+* [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
-
-
+* [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 
 ## Third Party App Markets
 
