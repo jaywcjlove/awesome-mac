@@ -844,7 +844,7 @@ Awesome Mac
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [iGlance](https://github.com/Moneypulation/iGlance) - 状态栏的系统监视器。 [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
-* [Vanilla](http://vanilla.matthewpalmer.net) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
+* [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
 * [HiddenBar](https://github.com/dwarvesf/hidden) - 一个超轻MacOS实用工具，帮助隐藏菜单栏图标。。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022) ![Freeware][Freeware Icon]
 
