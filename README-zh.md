@@ -629,7 +629,7 @@ Awesome Mac
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。
 * [leanote](http://app.leanote.com) - 支持 Markdown 的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-* [NotePlan 3](https://noteplan.co/) - 您的任务、笔记和日历、纯文本 Markdown 文件。 [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629)
+* [NotePlan 3](https://noteplan.co/) - 您的任务、笔记和日历、纯文本 Markdown 文件。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/noteplan-3/id1505432629)
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Notion](https://www.notion.so/zh-cn) - 一个集大成的富文本笔记管理软件，支持丰富却又简单明了的的文字格式，甚至覆盖了`TODO`类软件的功能。数据在服务端存储，支持web访问，也提供了`macOS`/`Windows`/`iOS`/`安卓`等平台客户端。 ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - 微软备注应用。 ![Freeware][Freeware Icon]
