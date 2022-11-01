@@ -780,7 +780,6 @@ Awesome Mac
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。
 * [BetterTouchTool](https://folivora.ai/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
-* [ControlPlane](http://www.controlplaneapp.com/) - 自定义 Mac 情景模式。某些场景让 Mac 自动静音或是自动打开 Mail 客户端等等。[![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
