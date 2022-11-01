@@ -316,7 +316,7 @@ Awesome Mac
 * [Amadine](https://amadine.com) - 一款矢量绘图应用程序，将图形设计师所需的一切包装在一个整洁直观的界面中。
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台 3D 内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
-* [Colorpicker](https://colorpicker.crea-th.at) - 一个完整的开源颜色处理工具！ [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
+* [Colorpicker](https://colorpicker.fr/) - 一个完整的开源颜色处理工具！ [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [Figma](https://www.figma.com/) - 一款基于 Web 的实时协作的云设计软件。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 字体编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
@@ -890,7 +890,7 @@ Awesome Mac
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
 * [smcFanControl](https://github.com/hholtmann/smcFanControl) - 短小精悍的风扇转速温控软件，可以预设两档风扇最低转速，方便在不同工作负载间人工强制切换。因为只是限制风扇最低速度，所以系统原生温控调速不会完全失效。[![Open-Source Software][OSS Icon]](https://github.com/hholtmann/smcFanControl) ![Freeware][Freeware Icon]
-* [SSH Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707)
+* [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
