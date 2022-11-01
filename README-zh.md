@@ -517,7 +517,7 @@ Awesome Mac
 * [iFFmpeg](http://www.iffmpeg.com/) - MacOS 上功能强大、易用的视频压制软件。
 * [IINA](https://lhc70000.github.io/iina/) - 基于[MPV](https://github.com/mpv-player/mpv)的，现代视频播放器，支持多点触摸控制。[![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 一款一流的免费开源媒体中心软件，可用于播放视频、音乐，查看图片，玩游戏等。[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
-* [LMMS](https://www.lmms.io) - LMMS以前称为“Linux多媒体工作室”，是一个功能强大的数字音频工作站，设计类似FL Studio（以前称为Fruity Loops）。[![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
+* [LMMS](https://lmms.io) - LMMS以前称为“Linux多媒体工作室”，是一个功能强大的数字音频工作站，设计类似FL Studio（以前称为Fruity Loops）。[![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 跨平台工具，使用ffmpeg进行快速无损的视频和音频修剪。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - 一款功能完备的歌词工具。 [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
 * [Metadatics](http://markvapps.com/metadatics) - 音频元数据编辑器，支持大多数常见的音频文件。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/metadatics/id554883654?mt=12)
