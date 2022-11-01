@@ -479,7 +479,7 @@ Awesome Mac
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持 Mac 和 iPhone。
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [网易邮箱大师](http://mail.163.com/dashi/) - 全平台的邮箱管理客户端，网易邮箱大师电脑版。 ![Freeware][Freeware Icon]
-* [MailTags](https://smallcubed.com/mt/) - 管理和组织邮件，日程和标签进行分类邮件。
+* [MailTags](https://smallcubed.com/) - 管理和组织邮件，日程和标签进行分类邮件。
 * [Nylas Mail](https://nylas.com/nylas-mail/) - 免费邮件客户端。  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - 可以扩展的开源收费邮件客户端。
 * [Newton(原Cloudmagic)](https://newtonhq.com) - 界面非常简洁的一个邮件客户端。
