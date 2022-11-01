@@ -119,7 +119,7 @@ Awesome Mac
         * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
 * [LightTable](http://lighttable.com/) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - 一个现代直观的基于终端的文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
-* [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+* [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [ONI](https://github.com/onivim/oni) - 由 Neovim 提供的 IDE。[![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
 * [Qt](https://www1.qt.io/cn/) - 跨平台 C++ 图形用户界面应用程序开发框架。
 * [TextMate](https://macromates.com) - 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
