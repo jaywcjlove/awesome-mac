@@ -550,7 +550,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [CleanShot](https://getcleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
+* [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
