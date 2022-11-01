@@ -499,13 +499,12 @@ Awesome Mac
 ## 音频和视频
 
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
-* [Aegisub](http://www.aegisub.org/) - 用于创建和修改字幕的免费、跨平台开源工具。Aegisub可以快速方便地将字幕计时到音频中，并提供了许多强大的工具来设置字幕的样式，包括内置的实时视频预览。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aegisub](https://github.com/Aegisub/Aegisub) - 免费、开源、跨平台的专业字幕编辑软件，可以快速打轴，制作特效字幕等，字幕组必备。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - 允许您为连接设备的每个特定组合固定输入/输出设备。可能会禁止选择HDMI显示器。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话 Skype，网络流从 Safari，以及更多。
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
-* [Aegisub](http://www.aegisub.org/) - 免费、开源、跨平台的专业字幕编辑软件，可以快速打轴，制作特效字幕等，字幕组必备。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [BeMyEars](https://www.engineerdraft.com/bemyears/) - 听障人士免费, 系统语音本地识别实时生成字幕, 支持多种语言, 让你的每个音视频都拥有类似 YouTube 的字幕体验.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [Carol](https://github.com/AnaghSharma/Carol) - 为 macOS 提供最小化和美丽的歌词应用程序。[![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
