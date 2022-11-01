@@ -526,7 +526,6 @@ Awesome Mac
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 电影美剧搜索及在线观看离线下载软件，借助百度云实现离线下载以及在线播放功能。 [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher)
 * [mpv](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
-* [MusicPlus](https://musicplus.io) - 免费搜索、播放和下载音乐。 ![Freeware][Freeware Icon]
 * [Natron](https://natron.fr/) - 开源的视频合成软件，功能与 Adobe After Effects 或者 Nuke 类似。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上最好的媒体播放器，支持几乎所有格式。 [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
 * [Popcorn Time](https://popcorntime.co/) - 电影播放器，观看 torrent 电影。![Freeware][Freeware Icon]
