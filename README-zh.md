@@ -170,6 +170,7 @@ Awesome Mac
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/Tencent/tmt-workflow) 前端工作流的开发工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [Woodpecker](http://www.woodpeck.cn) - 在Mac上查看、编辑iOS App的沙盒文件, UserDefaults, Keychain项 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/woodpecker/id1333548463)
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon]
+* [He3](https://he3.app) - 免费智能的开发者万能工具箱. ![Freeware][Freeware Icon]
 
 ### 正则编辑器
 
