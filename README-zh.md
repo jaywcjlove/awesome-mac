@@ -644,7 +644,6 @@ Awesome Mac
 * [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wonderpen/id1173437104?l=en&mt=12)
 * [THORN](https://thorn.red) - 一款流畅，实用，美观，跨平台的基于 CRDT 技术构建的现代写作工具，支持本地优先、多设备同步、实时协作以及分享与导出。
 
-
 ## 制作电子书
 
 * [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
