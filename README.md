@@ -36,6 +36,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Markdown Tools](#markdown-tools)
     - [Note-taking](#note-taking)
     - [Journaling](#journaling)
+    - [Writing](#writing)
     - [Ebooks](#ebooks)
     - [RSS](#rss)
     - [Others](#others)
@@ -189,6 +190,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
 * [linked](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software][OSS Icon]
 
+#### Writing
+
+* [THORN](https://thorn.so) - A smooth, practical and beautiful cross-platform writing software.
 
 #### Ebooks
 

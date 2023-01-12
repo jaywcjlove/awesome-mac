@@ -52,6 +52,7 @@ Awesome Mac
   - [RSS](#rss)
   - [Markdown](#markdown)
   - [笔记](#笔记)
+  - [写作](#写作)
 - [制作电子书](#制作电子书)
 - [软件打包工具](#软件打包工具)
 - [下载工具](#下载工具)
@@ -581,7 +582,6 @@ Awesome Mac
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
 * [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
-* [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wonderpen/id1173437104?l=en&mt=12)
 
 ### Office
 
@@ -638,6 +638,11 @@ Awesome Mac
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
 * [阿里语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，基于Markdown写作，支持内嵌流程图、脑图、时序、代码渲染以及Sketch画板创作，个人知识分享等！相比有道云笔记、印象笔记同类产品，包含其全部的功能以外，支持知识分享以及更强大的创作、协作、编辑器，它来自阿里巴巴蚂蚁金服。![Freeware][Freeware Icon]
+
+### 写作
+
+* [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wonderpen/id1173437104?l=en&mt=12)
+* [THORN](https://thorn.red) - 一款流畅，实用，美观，跨平台的基于 CRDT 技术构建的现代写作工具，支持本地优先、多设备同步、实时协作以及分享与导出。
 
 ## 制作电子书
 
