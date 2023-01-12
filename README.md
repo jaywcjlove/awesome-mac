@@ -533,7 +533,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Framer](http://framerjs.com/) - Tool for interactive prototyping.
 * [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps.
 * [Kite](https://kiteapp.co/) - Powerful animation and prototyping application for Mac & iOS.
-* [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
+* [Lighten](https://lighten-test.xmind.net) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
 * [Marvel](https://marvelapp.com/) - Simple design, prototyping and collaboration.![Freeware][Freeware Icon]
 * [MindNode](https://mindnode.com/) - Mind-mapping software with an emphasis on simplicity and ease-of-use.
 * [MockFlow](https://www.mockflow.com) - Online prototyping suite for web-design and usability testing.

@@ -363,7 +363,7 @@ Awesome Mac
 * [Mockplus](http://www.mockplus.com) - 更快更简单的原型设计工具。
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 可用来绘制图表、流程图、组织结构图、思维导图以及插图或原型。
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。
-* [Lighten](http://lighten.xmind.net/) - XMind 出品的一款实用的思维导图软件。
+* [Lighten](https://lighten-test.xmind.net) - XMind 出品的一款实用的思维导图软件。
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
 * [Framer](https://framer.com/) - 做交互原型的工具。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
