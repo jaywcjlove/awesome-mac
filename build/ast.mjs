@@ -1,5 +1,5 @@
 import { toVFile } from 'to-vfile'
-import remark from 'remark'
+import { remark } from 'remark'
 import gfm from 'remark-gfm'
 import FS from 'fs-extra'
 
