@@ -268,6 +268,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager.
+* [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
