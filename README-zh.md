@@ -620,7 +620,7 @@ Awesome Mac
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [TextNut](http://www.textnutwriter.com/) - Markdown 编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
-* [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。![Freeware][Freeware Icon]
+* [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
 
