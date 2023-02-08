@@ -732,6 +732,7 @@ Awesome Mac
 * [360极速浏览器](https://browser.360.cn/ee/mac/index.html) - 更好用，不将就。![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - 由 Google 及社区开发的浏览器，开源免费，同时为 Chrome 提供源码 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium/) - ungoogled-chromium 移除了 Google 专有组件加强了隐私控制使其更加透明 [![Open-Source Software][OSS Icon](https://github.com/ungoogled-software/ungoogled-chromium/) ![Freeware][Freeware Icon]]
+* [Arc](https://arc.net) - 更好地使用互联网的方式 ![Freeware][Freeware Icon]
 
 ## 翻译工具
 
