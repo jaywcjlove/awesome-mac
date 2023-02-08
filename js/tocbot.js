@@ -30,6 +30,14 @@
       });
     }
   }
+  function tocButton() {
+    const tocElement = document.querySelector(`a.gototop`);
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+      tocElement.style.opacity = 0.5;
+    } else {
+      tocElement.style.opacity = 0;
+    }
+  }
   function scrollListener(evn) {
     const anchors = document.querySelectorAll('markdown-style a.anchor[href*="#"][aria-hidden]');
     const scrollTop = evn && evn.target && evn.target.scrollingElement && evn.target.scrollingElement.scrollTop;
@@ -41,7 +49,7 @@
         index = idx;
       }
     });
-
+    tocButton();
     if (element) {
       const tocElement = document.querySelector(`a.tocs-link[href='${decodeURIComponent(element.hash)}']`);
       if (tocElement) {

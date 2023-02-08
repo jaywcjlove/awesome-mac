@@ -110,7 +110,7 @@ a.gototop {
   z-index: 9999;
   color: var(--color-theme-bg);
   font-size: 10px;
-  opacity: 0.5;
+  opacity: 0;
   transition: all 0.3s;
 }
 a.gototop:hover {
