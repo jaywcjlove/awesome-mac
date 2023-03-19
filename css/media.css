@@ -6,9 +6,13 @@
 }
 
 @media screen and (max-width: 900px) {
+  .warpper-content {
+    grid-template-columns: minmax(0, 3.5fr);
+    grid-template-areas: 'main';
+  }
   .warpper-content.sidebar {
     grid-template-areas: 'sidebar main';
-    grid-template-columns: 180px minmax(0, 38rem);
+    grid-template-columns: 180px minmax(0, 41rem);
   }
   nav.tocs {
     display: none;
@@ -16,9 +20,13 @@
 }
 
 @media screen and (max-width: 600px) {
+  .warpper-content {
+    grid-template-columns: minmax(0, 3.5fr);
+    grid-template-areas: 'main';
+  }
   .warpper-content.sidebar {
     grid-template-areas: 'main';
-    grid-template-columns: minmax(0, 38rem);
+    grid-template-columns: minmax(0, 41rem);
   }
   nav.tocs,
   .sidebar-border {

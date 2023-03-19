@@ -141,8 +141,17 @@ a.gototop:hover {
   color: var(--color-theme-text);
   align-items: center;
 }
+.header .logo:hover {
+  text-decoration: none;
+}
 .header .logo .title {
   padding-left: 8px;
+  display: flex;
+}
+.header .logo .title sup {
+  margin-top: -5px;
+  font-weight: normal;
+  color: var(--color-fg-subtle);
 }
 .header .logo img,
 .header .logo svg {
