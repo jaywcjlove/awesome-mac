@@ -1038,6 +1038,7 @@ Awesome Mac
 * 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 * MAC萌新网：~~`https://www.macxin.com`~~
 * 佛系软件：~~`https://foxirj.com/`~~
+* appstorrent：~~`https://appstorrent.ru/`~~
 
 <!--end-->
 
