@@ -1076,6 +1076,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [PPSSPP](https://www.ppsspp.org) - A awesome PSP emulator for any OS you can dream of! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - The Open-source PlayStation 3 Emulator [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 
+## Finance
+
+* [OpenBB Terminal](https://www.openbb.co/) - Free and open-source investment research platform. [![Open-Source Software][OSS Icon]](https://github.com/OpenBB-finance/OpenBBTerminal/) ![Freeware][Freeware Icon]
+
 ## Remote Login Software
 
 * [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
