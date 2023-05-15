@@ -716,6 +716,7 @@ Awesome Mac
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。 ![Freeware][Freeware Icon]
 * [业火五笔输入法](https://github.com/qwertyyb/Fire) - 轻量干净，功能强大的五笔输入法，完全开源。[![Open-Source Software][OSS Icon]](https://github.com/qwertyyb/Fire) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 通过简洁的提示方式，配合输入法自动切换功能，让每一次输入都信心十足。
+* [微信键盘](https://z.weixin.qq.com/)-微信官方出品的中文输入法,弥补mac版本微信无法搜索表情发送的问题。
 
 ## 浏览器
 
