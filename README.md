@@ -45,6 +45,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
     - [API Development and Analysis](#api-development-and-analysis)
+    - [Application Security Tools](#application-security-tools)
     - [Network Analysis](#network-analysis)
     - [Command Line Tools](#command-line-tools)
     - [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
@@ -334,6 +335,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with channels, GitHub repositories.![Freeware][Freeware Icon]
 * [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
+
+#### Application Security Tools
+* [OWASP Zed Attack Proxy](https://www.zaproxy.org/) - Zed Attack Proxy (ZAP) is a free, open-source penetration testing tool, designed specifically for testing web applications and is both flexible and extensible. [![Open-Source Software][OSS Icon]](https://github.com/zaproxy/zaproxy/) ![Freeware][Freeware Icon]
 
 #### Network Analysis
 
