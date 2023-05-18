@@ -637,7 +637,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Krisp](https://krisp.ai/) - An AI-powered noise cancelling app that mutes background noise during calls.
 * [Lark](https://www.larksuite.com/en_us/) - The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place. ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - Open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
-* [Messenger For Mac](https://fbmacmessenger.rsms.me/) - Third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
 * [BlurScreen App](https://www.blurscreen.app) - Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.
 * [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
