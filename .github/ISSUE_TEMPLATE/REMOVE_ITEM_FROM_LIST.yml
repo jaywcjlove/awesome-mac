@@ -1,6 +1,6 @@
-name: 🐝 Removal from list
+name: 🗑 Removal from list
 description: Suggest a removal from this list.
-title: '🐝 Remove <App Name>'
+title: '🗑 Remove <App Name>'
 labels: ['addition']
 body:
   - type: markdown
@@ -10,7 +10,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Provide a link to the proposed addition
+      label: 🪩 Provide a link to the proposed addition
       description: Place link here.
       placeholder: | 
         https://github.com/jaywcjlove/awesome-mac
@@ -21,12 +21,12 @@ body:
       
   - type: textarea
     attributes:
-      label: Explain why it should be removed
+      label: 😳 Explain why it should be removed
       description: A clear and concise description of why it should be added to this list.
     validations:
       required: true
       
   - type: textarea
     attributes:
-      label: Additional context
+      label: 📖 Additional context
       description: Add any other context or screenshots about the feature request here.
