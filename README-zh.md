@@ -960,6 +960,7 @@ Awesome Mac
 * [Porting Kit](http://portingkit.com/) - 在Mac中安装Windows®游戏。 ![Freeware][Freeware Icon]
 * [PPSSPP](https://www.ppsspp.org) - 一个很棒的 PSP 模拟器，适用于您梦寐以求的任何操作系统！ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - 开源 PlayStation 3 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
+* [Ryujinx](https://ryujinx.org/) - 开源 任天堂 Switch 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryujinx/Ryujinx)
 
 ## 远程协助
 
