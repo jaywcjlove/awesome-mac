@@ -212,10 +212,10 @@ section.article-footer a {
   align-items: center;
 }
 
-section.article-footer .edit-button {
+.edit-button {
   padding-right: 8px;
 }
-section.article-footer .edit-button svg {
+.edit-button svg {
   height: 15px;
   margin-right: 6px;
 }
