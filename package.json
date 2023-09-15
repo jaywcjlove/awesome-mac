@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "fs-extra": "^10.1.0",
-    "idoc": "^1.18.0",
+    "idoc": "^1.26.5",
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
     "to-vfile": "^7.2.3"
