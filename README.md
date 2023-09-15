@@ -250,6 +250,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
+  * [RustRover](https://www.jetbrains.com/rust/) - A brand new JetBrains IDE for Rust Developers.
   * [CLion](https://www.jetbrains.com/clion/) - Powerful C and C++ IDE. (**Free** for Students)
   * [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Plaform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
   * [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
