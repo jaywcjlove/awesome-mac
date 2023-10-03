@@ -825,6 +825,7 @@ Awesome Mac
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://itunes.apple.com/app/pdf-archivar/id1352719750)
 * [Qbserve](https://qotoqot.com/qbserve/) - 观察你如何度过你的时间。
+* [Rapidmg](https://rapidmg.branchseer.com/) - 一键解压 DMG 镜像里的 app 至 “应用程序” 目录。[![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778)
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
