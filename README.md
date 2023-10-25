@@ -201,7 +201,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Writing
 
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
-* [THORN](https://thorn.so) - All you beed to power personal writing and website building.
+* [THORN](https://thorn.so) - All you need to power personal writing and website building.
 
 #### Ebooks
 
