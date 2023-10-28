@@ -1006,6 +1006,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut.
 * [Hungrymark](https://zhengying.github.io/hungrymark) - Useful app to bookmark your files, folders, and webs, quick access your bookmarks through menu bar  [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?l=en&mt=12)
 * [iCMD](https://icmd.app) - Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app.
+* [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 * [Keytty](http://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
