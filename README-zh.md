@@ -742,7 +742,7 @@ Awesome Mac
 
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
-* [Easydict](http://www.eudic.net/eudic/mac_dictionary.aspx) - 方便查找单词或翻译文本 [![Open-Source Software][OSS Icon]](https://github.com/learn-anything/safari-extensions#readme)
+* [Easydict](https://github.com/tisfeng/Easydict) - 方便查找单词或翻译文本 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1314980676?mt=12)
