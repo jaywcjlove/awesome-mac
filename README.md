@@ -828,6 +828,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 *(Or you could just use the Mac OS built-in dictionary)*
 
 * [DeepL](https://www.deepl.com/en/app/) - Best quality translations ![Freeware][Freeware Icon]
+* [Easydict](http://www.eudic.net/eudic/mac_dictionary.aspx) - Easy to look up words or translate text [![Open-Source Software][OSS Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
 * [Lingvanex](https://lingvanex.com) ![Freeware][Freeware Icon]
