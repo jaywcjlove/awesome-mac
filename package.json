@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": " This repo is a collection of awesome Mac applications and tools for developers and designers. ",
   "homepage": "https://jaywcjlove.github.io/awesome-mac",
+  "funding": "https://jaywcjlove.github.io/#/sponsor",
   "main": "dist/awesome-mac.json",
   "scripts": {
     "start": "npm run build && npm run create:ast",
