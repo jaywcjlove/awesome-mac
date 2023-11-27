@@ -91,7 +91,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [System Related Tools](#system-related-tools)
 - [Gaming Software](#gaming-software)
 - [Remote Login Software](#remote-login-software)
-- [Social Networking](#social-networking)
 - [QuickLook Plugins](#quicklook-plugins)
 - [Third Party App Markets](#third-party-app-markets)
     - [Package Managers](#package-managers)
@@ -1161,10 +1160,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to system with different protocols. ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon]
-
-## Social Networking
-
-* [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware][Freeware Icon]
 
 ## QuickLook Plugins
 

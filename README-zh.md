@@ -453,7 +453,6 @@ Awesome Mac
 * [ChitChat](https://github.com/stonesam92/ChitChat) - WhatsApp 非官方。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/stonesam92/ChitChat)
 * [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - 调用微信接口，使用 [Electron](https://github.com/electron/electron) 开发的第三方漂亮开源微信应用，现已停更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
 * [Franz](http://meetfranz.com/) - 一个使用 [Electron](https://electronjs.org/)开发的，可以同时登录 23 个平台的即时通讯软件。![Freeware][Freeware Icon]
-* [Flume](https://flumeapp.com) - 简约大气高逼格的Instagram，如果只是浏览点赞评论，免费版已经足够用。![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 关于 GitHub 的项目交流，支持 Markdown，对开发者极为友好。
 * [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 * [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512)
