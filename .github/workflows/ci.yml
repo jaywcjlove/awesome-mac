@@ -113,18 +113,18 @@ jobs:
           docker push ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
 
       # Create Docker Image in GitHub
-      - name: Login to GitHub registry
-        run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+      # - name: Login to GitHub registry
+      #   run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
-      - name: Build docker image
-        run: docker build -t ghcr.io/jaywcjlove/awesome-mac:latest .
+      # - name: Build docker image
+      #   run: docker build -t ghcr.io/jaywcjlove/awesome-mac:latest .
 
-      - name: Publish to GitHub registry
-        run: docker push ghcr.io/jaywcjlove/awesome-mac:latest
+      # - name: Publish to GitHub registry
+      #   run: docker push ghcr.io/jaywcjlove/awesome-mac:latest
 
-      - name: Tag docker image (beta) and publish to GitHub registry
-        if: steps.create_tag.outputs.successful
-        run: |
-            echo "version: v${{ steps.changelog.outputs.version }}"
-            docker tag ghcr.io/jaywcjlove/awesome-mac:latest ghcr.io/jaywcjlove/awesome-mac:${{steps.changelog.outputs.version}}
-            docker push ghcr.io/jaywcjlove/awesome-mac:${{steps.changelog.outputs.version}}
+      # - name: Tag docker image (beta) and publish to GitHub registry
+      #   if: steps.create_tag.outputs.successful
+      #   run: |
+      #       echo "version: v${{ steps.changelog.outputs.version }}"
+      #       docker tag ghcr.io/jaywcjlove/awesome-mac:latest ghcr.io/jaywcjlove/awesome-mac:${{steps.changelog.outputs.version}}
+      #       docker push ghcr.io/jaywcjlove/awesome-mac:${{steps.changelog.outputs.version}}
