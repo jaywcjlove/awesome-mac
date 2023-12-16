@@ -1,28 +1,17 @@
 name: 🗑 Removal from list
 description: Suggest a removal from this list.
 title: '🗑 Remove <App Name>'
-labels: ['addition']
+labels: ['removal']
 body:
   - type: markdown
     attributes:
       value: |
         NOTE: Each discrete (stand-alone) request should be in its own issue.
-
-  - type: textarea
-    attributes:
-      label: 🪩 Provide a link to the proposed addition
-      description: Place link here.
-      placeholder: | 
-        https://github.com/jaywcjlove/awesome-mac
-        https://github.com/jaywcjlove/awesome-mac
-        https://github.com/jaywcjlove/awesome-mac
-    validations:
-      required: true
       
   - type: textarea
     attributes:
       label: 😳 Explain why it should be removed
-      description: A clear and concise description of why it should be added to this list.
+      description: A clear and concise description of why it should be removed from this list.
     validations:
       required: true
       
