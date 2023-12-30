@@ -856,6 +856,7 @@ Awesome Mac
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/paste-clipboard-history-manager/id967805235)
 * [PasteBot](https://tapbots.com/pastebot/) - 强大的剪贴板管理器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pastebot/id1179623856)
 * [Yippy](https://yippy.mattdavo.com/) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
+* [CleanClip](https://cleanclip.cc?ref=awesomemac) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
 
 
 ### 菜单栏工具
