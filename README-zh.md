@@ -555,6 +555,7 @@ Awesome Mac
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [VOX Player](https://vox.rocks/mac-music-player) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
+* [YPlayer](https://www.engineerdraft.com/yplayer/) - 一款能够本地实时生成字幕, 音视频文件转文字生成字幕, 录音转文字, 字幕翻译的多功能 App.
 
 ### 云音乐播放器
 
