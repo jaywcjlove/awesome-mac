@@ -74,6 +74,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Input Methods](#input-methods)
 - [Browsers](#browsers)
 - [Translation Tools](#translation-tools)
+- [Education](#education)
 - [Encryption](#encryption)
 - [Security Tools](#security-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
