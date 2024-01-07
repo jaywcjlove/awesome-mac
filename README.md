@@ -168,6 +168,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [AppFlowy](https://www.appflowy.io/) - Open-source alternative to Notion. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Capacities](https://capacities.io/product) - It is also one of the different system where all documents are in a mindmap styled. [![Open-Source Software][OSS Icon]](https://capacities.io/download-app)
 * [Craft](https://www.craft.do/) - Notetaking and writing made beautiful. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127)
 * [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and a web interface. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - Email yourself and much more with just one tap, native on macOS, iOS and WatchOS. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587)
