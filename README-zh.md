@@ -7,7 +7,6 @@ Awesome Mac
 [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746)
 [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors) [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 <!--rehype:style=text-align: center;-->
 
@@ -21,6 +20,8 @@ Awesome Mac
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
 ![App Store][app-store Icon] 表示 **App store** 连接地址；\
 ![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
+
+[![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://wangchujiang.com/#/app)
 
 <!--idoc:ignore:start-->
 
