@@ -1091,7 +1091,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Password Management
 
 * [1Password](https://1password.com/) - Cross-platform password management tool.
-* [Authy](https://authy.com) - Two-factor authentication token manager that backs up and syncs across your devices. ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
