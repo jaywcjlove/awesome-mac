@@ -96,7 +96,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Package Managers](#package-managers)
 - [Mac App Download Sites](#mac-app-download-sites)
   - [Genuine Sites](#genuine-sites)
-  - [Pirated software download site blacklist](#pirated-software-download-site-blacklist)
+  - [Pirated software download site blocklist](#pirated-software-download-site-blocklist)
 - [Podcasts](#podcasts)
 - [Contributors](#contributors)
 - [Backers](#backers)
@@ -1218,7 +1218,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-### Pirated software download site blacklist
+### Pirated software download site blocklist
 
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
