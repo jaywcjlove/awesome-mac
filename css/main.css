@@ -1,7 +1,7 @@
 [data-color-mode*='dark'],
 [data-color-mode*='dark'] body {
   --color-header-bg: #3a3a3a8f;
-  --color-header-border: #21262d;
+  --color-header-border: #21262d7a;
   --color-hover: #ffffff1c;
   --color-hoc-bg: #fffefe08;
 }
@@ -9,7 +9,7 @@
 [data-color-mode*='light'],
 [data-color-mode*='light'] body {
   --color-header-bg: #ffffff52;
-  --color-header-border: #d3d3d3;
+  --color-header-border: #0000001c;
   --color-hover: #0000001a;
   --color-hoc-bg: #00000008;
 }
