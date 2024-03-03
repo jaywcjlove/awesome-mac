@@ -7,7 +7,7 @@ Awesome Mac
 [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![SegmentFault](https://jaywcjlove.github.io/sb/ico/segmentfault.svg)](https://segmentfault.com/g/1570000010622746)
 [![](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors) [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 <!--rehype:style=text-align: center;-->
 
  现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 [issues](https://github.com/jaywcjlove/awesome-mac/issues/new/choose) 给我推荐优秀好用的Mac应用，很显然我是一个资深 Mac 用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
@@ -21,7 +21,17 @@ Awesome Mac
 ![App Store][app-store Icon] 表示 **App store** 连接地址；\
 ![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
 
-[![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://wangchujiang.com/#/app)
+✦ 我的 macOS 应用程序：
+
+<div style="display: inline_block">
+  <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
+  <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS"><img align="center" alt="Textsound Saver" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
+  <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
+  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/a17d8424-9163-4cbb-bbee-a9b85c9d5b5e"></a>
+  <a target="_blank" href="https://apps.apple.com/app/resumerevise/id6476400184" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/palettegenius/id6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/symbolscribe/id6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
+</div>
 
 <!--idoc:ignore:start-->
 
@@ -144,6 +154,7 @@ Awesome Mac
 * [CodeKit](https://codekitapp.com/) - 自动编译 Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
 * [Cacher](https://www.cacher.io/) - 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。
 * [CubicBezier](https://github.com/isaced/CubicBezier) - 一个适用于 macOS 的贝塞尔曲线生成器。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
+* [DevHub](https://wangchujiang.com/DevHub/) - 一个功能丰富的离线应用程序，精心制作，以支持开发人员在他们的日常任务。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
 * [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)

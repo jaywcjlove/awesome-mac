@@ -25,9 +25,17 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ![App Store][app-store Icon] means **App store** hyperlink;\
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
-**Awesome Mac App for macOS**. Installers for the latest stable build for Mac can be [downloaded here](https://github.com/jaywcjlove/amac/releases).
+✦ My macOS application:
 
-[![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://wangchujiang.com/#/app)
+<div style="display: inline_block">
+  <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
+  <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS"><img align="center" alt="Textsound Saver" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
+  <a target="_blank" href="https://apps.apple.com/app/create-custom-symbols/id6476924627" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
+  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/a17d8424-9163-4cbb-bbee-a9b85c9d5b5e"></a>
+  <a target="_blank" href="https://apps.apple.com/app/resumerevise/id6476400184" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/palettegenius/id6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/symbolscribe/id6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="40" width="40" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
+</div>
 
 <!--idoc:ignore:start-->
 
@@ -288,7 +296,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool. ![Open-Source Software][OSS Icon]
-* [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager.
+* [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.  ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
+* [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
