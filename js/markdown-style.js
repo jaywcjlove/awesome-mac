@@ -110,7 +110,7 @@ ${octiconLinkStyle}
 markdown-style {
   display: block;
   -webkit-text-size-adjust: 100%;
-  font-family: -apple-system,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
@@ -579,6 +579,35 @@ markdown-style sup>a::after {
   content: "]";
 }
 
+.markdown-body .octicon-video {
+  border: 1px solid #d0d7de !important;
+  border-radius: 6px !important;
+  display: block;
+}
+
+markdown-style .octicon-video summary {
+    border-bottom: 1px solid #d0d7de !important;
+    padding: 8px 16px !important;
+    cursor: pointer;
+}
+
+markdown-style .octicon-video > video {
+    display: block !important;
+    max-width: 100% !important;
+    padding: 2px;
+    box-sizing: border-box;
+    border-bottom-right-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+}
+
+markdown-style details.octicon-video:not([open])>*:not(summary) {
+    display: none !important;
+}
+
+markdown-style details.octicon-video:not([open]) > summary {
+    border-bottom: 0 !important;
+}
+
 markdown-style h1 .octicon-link,
 markdown-style h2 .octicon-link,
 markdown-style h3 .octicon-link,
@@ -962,6 +991,13 @@ markdown-style ::-webkit-calendar-picker-indicator {
 <slot></slot>
 `;
 class MarkdownStyle extends HTMLElement {
+    get theme() {
+        const value = this.getAttribute('theme');
+        return value === null ? '' : value;
+    }
+    set theme(name) {
+        this.setAttribute('theme', name);
+    }
     constructor() {
         super();
         this.shadow = this.attachShadow({ mode: 'open' });
@@ -978,14 +1014,11 @@ class MarkdownStyle extends HTMLElement {
             }
         }
     }
-    get theme() {
-        const value = this.getAttribute('theme');
-        return value === null ? '' : value;
-    }
-    set theme(name) {
-        this.setAttribute('theme', name);
-    }
     connectedCallback() {
+        const disableThemeAutoSwitch = this.getAttribute('theme-auto-switch-disabled');
+        if (disableThemeAutoSwitch == "" || disableThemeAutoSwitch && disableThemeAutoSwitch.toLowerCase() === 'true') {
+            return;
+        }
         if (!this.theme) {
             const { colorMode } = document.documentElement.dataset;
             this.theme = colorMode;
@@ -1003,4 +1036,3 @@ class MarkdownStyle extends HTMLElement {
     }
 }
 customElements.define('markdown-style', MarkdownStyle);
-//# sourceMappingURL=index.js.map
