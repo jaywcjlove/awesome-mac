@@ -1,3 +1,12 @@
+/**
+ * Markdown Style
+ * @version 1.1.0
+ * @author 小弟调调
+ * https://github.com/jaywcjlove/markdown-style
+ * 
+ * Integrate markdown styles into web components, Markdown CSS styles will not be conflicted.
+ * The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
+ */
 const octiconLinkStyle = `
 markdown-style h1:hover a.anchor .icon-link:before,
 markdown-style h2:hover a.anchor .icon-link:before,
