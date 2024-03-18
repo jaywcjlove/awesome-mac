@@ -599,6 +599,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [XMind](http://www.xmind.net) - The most popular mind-mapping tool on the planet.
 * [Simple Diagrams](https://www.simplediagrams.com/) - A desktop app for creating hand-drawn-like, fast, clear sketches of problems, processes, workflows, ideas and more!
 * [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
+* [GitMind](https://gitmind.cn/) - The new generation of free mind map collaboration software.![Freeware][Freeware Icon]
 
 ### Screencapturing Software
 

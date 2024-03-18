@@ -389,6 +389,7 @@ Awesome Mac
 * [WriteMapper](https://writemapper.com/) - 专为写作者而设的脑图工具。
 * [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
 * [macSVG](https://macsvg.org/) - 设计 HTML5 SVG 和动画. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
+* [GitMind](https://gitmind.cn/) - 新一代免费思维导图协作软件，灵感流淌、思想共创，激发思想流动，让智慧自然涌现。![Freeware][Freeware Icon]
 
 ### 作图工具
 
