@@ -82,6 +82,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Browsers](#browsers)
 - [Translation Tools](#translation-tools)
 - [Education](#education)
+- [Finance](#finance)
 - [Encryption](#encryption)
 - [Security Tools](#security-tools)
 - [Proxy and VPN Tools](#proxy-and-vpn-tools)
@@ -864,6 +865,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825)
 
+## Finance
+
+* [SubManager](https://getsubmanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-manage-subs/id1632853914)
 
 ## Encryption
 
