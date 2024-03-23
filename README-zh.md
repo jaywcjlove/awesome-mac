@@ -692,7 +692,6 @@ Awesome Mac
 
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - 支持多达近 1200 个视频站点的视频下载工具。
-* [Free Download Manager](http://www.freedownloadmanager.org/) - 功能强大的下载加速器。![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 一个 Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 下载工具，下载文件的一键式托管。![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
