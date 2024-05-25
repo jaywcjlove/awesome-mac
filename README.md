@@ -958,6 +958,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1502527999)
 * [Later](https://getlater.app/) - Save all your Mac apps for later with one click. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 * [MeetingBar](https://meetingbar.onrender.com) - Menu bar app for your calendar meetings  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
+* [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - A monthly calendar right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383)
 * [MenubarX](https://menubarx.app/) - A powerful Mac menu bar browser, pin webpage like an App. [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MonitorControl/MonitorControl/)
 * [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982)
