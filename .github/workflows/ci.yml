@@ -10,8 +10,8 @@ jobs:
       contents: write
       id-token: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 18
           registry-url: 'https://registry.npmjs.org'
@@ -21,7 +21,7 @@ jobs:
       - run: npm run create:ast
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
@@ -42,10 +42,11 @@ jobs:
           head-ref: ${{steps.create_tag.outputs.version}}
           filter: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
 
-      - name: Generate Changelog
+      - name: Create Release
         uses: jaywcjlove/create-tag-action@main
         if: steps.create_tag.outputs.successful
         with:
+          package-path: ./package.json
           version: ${{steps.create_tag.outputs.version}}
           release: true
           body: |
@@ -121,8 +122,8 @@ jobs:
       #       http://localhost:9881/
       #       ```
 
-      - run: npm install @jsdevtools/npm-publish -g
-      - run: npm-publish --token="${{ secrets.NPM_TOKEN }}" ./package.json
+      # - run: npm install @jsdevtools/npm-publish -g
+      # - run: npm-publish --token="${{ secrets.NPM_TOKEN }}" ./package.json
 
       - run: npm publish --access public --provenance
         continue-on-error: true
