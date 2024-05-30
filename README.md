@@ -124,7 +124,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Text Editors
 
-* [Aurora Editor](https://auroraeditor.com/) - Lightweight Code Editor (IDE) for macOS. ![Open-Source Software][OSS Icon]
+* [Aurora Editor](https://auroraeditor.com/) - Lightweight Code Editor (IDE) for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/brackets-cont/brackets/) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]

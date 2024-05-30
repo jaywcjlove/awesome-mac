@@ -107,12 +107,12 @@ Awesome Mac
 
 ## 开发者工具
 
-
 ### 编辑器
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
+* [Aurora Editor](https://auroraeditor.com/) - 适用于 macOS 的轻量级代码编辑器 (IDE)。 [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Nova](http://panic.com/coda/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
