@@ -299,6 +299,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
 * [canSnippet](https://www.cansnippet.com/) - Powerful snippet management tool that works across the whole operating system, always accessible via simple keyboard shortcut.
+* [CodeMenu](https://extiri.com/codemenu.html) - An advanced snippets manager with features like side window, access in IDEs using Suggestions app, natural language search, placeholders, code running, HTML preview and more.
 * [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
