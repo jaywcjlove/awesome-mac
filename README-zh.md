@@ -579,7 +579,7 @@ Awesome Mac
 ### 云音乐播放器
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 基于网易云音乐 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
-* [music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]* 一个美观简约的 Material Design 3风格的网易云音乐播放器[music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
+* [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
@@ -709,6 +709,7 @@ Awesome Mac
 ## 网盘
 
 *推荐一些有Mac客户端的网盘。*
+
 * [115](http://pc.115.com/) - 115 云客户端。![Freeware][Freeware Icon]
 * [123云盘](https://www.123pan.com/) - 123 云盘客户端。![Freeware][Freeware Icon]
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
