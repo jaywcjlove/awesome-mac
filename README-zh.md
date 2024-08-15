@@ -579,7 +579,7 @@ Awesome Mac
 ### 云音乐播放器
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 基于网易云音乐 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
-* [QQ音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
+* [music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]* 一个美观简约的 Material Design 3风格的网易云音乐播放器[music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
