@@ -579,7 +579,7 @@ Awesome Mac
 ### 云音乐播放器
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 基于网易云音乐 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
-* [QQ音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
+* [music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]* 一个美观简约的 Material Design 3风格的网易云音乐播放器[music-you](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
@@ -709,8 +709,8 @@ Awesome Mac
 ## 网盘
 
 *推荐一些有Mac客户端的网盘。*
-
 * [115](http://pc.115.com/) - 115 云客户端。![Freeware][Freeware Icon]
+* [123云盘](https://www.123pan.com/) - 123 云盘客户端。![Freeware][Freeware Icon]
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 非常好用的免费网络文件同步工具，提供在线存储服务。![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - 基于 ownCloud 完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]
@@ -718,7 +718,7 @@ Awesome Mac
 * [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。![Freeware][Freeware Icon]
 * [Syncthing](https://syncthing.net/) - [Resilio Sync](https://www.resilio.com/individuals/)的开源竞争者，架构上更加开放自由，良好的用户文档，基于Go语言支持大量系统平台，甚至包括`OpenWrt`！此项目的界面翻译工作也支持[开源共建](https://www.transifex.com/syncthing/syncthing/dashboard/)。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/) ![Freeware][Freeware Icon]
 * [ownCloud](https://owncloud.org) - 私有云网盘。
-* [百度云](http://pan.baidu.com/download?from=header#pan) - 百度云客户端。![Freeware][Freeware Icon]
+* [百度网盘](http://pan.baidu.com/download?from=header#pan) - 百度网盘客户端。![Freeware][Freeware Icon]
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
 * [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云客户端。![Freeware][Freeware Icon]
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
@@ -802,6 +802,8 @@ Awesome Mac
 
 * [Algo](https://github.com/trailofbits/algo) - 在云中设置个人 IPSEC VPN。 [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
 * [ClashX](https://github.com/yichengchen/clashX) - 基于 clash 的一款支持规则过滤的科学上网工具。 [![Open-Source Software][OSS Icon]](https://github.com/yichengchen/clashX)![Freeware][Freeware Icon]
+* [Clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续，基于Tauri 的 Clash Meta GUI [![Open-Source Software][OSS Icon]](https://github.com/clash-verge-rev/clash-verge-rev)![Freeware][Freeware Icon]
+* [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - 基于 Tauri 的 Clash GUI 自由软件。[![Open-Source Software][OSS Icon]](https://github.com/LibNyanpasu/clash-nyanpasu)![Freeware][Freeware Icon]
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
@@ -954,6 +956,7 @@ Awesome Mac
 * [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换。
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
+* [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大 ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165)
@@ -1001,6 +1004,7 @@ Awesome Mac
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
 * [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) - 微软官方的远程桌面连接工具(国区App store没有上架,[下载地址](https://go.microsoft.com/fwlink/?linkid=868963))。[![App Store][app-store Icon]](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
+* [Parsec](https://parsec.app/) - 一款跨平台，高画质且低延时的远程桌面软件
 * [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
 
 ## QuickLook插件
