@@ -623,7 +623,7 @@ Awesome Mac
 * [WPS](https://www.wps.cn/product/wpsmac/) - 是一套跨平台的办公室软件套件。 ![Freeware][Freeware Icon]
 
 ### RSS
-
+* [follow](https://github.com/RSSNext/follow) - 下一代信息浏览器[![Open-Source Software][OSS Icon]](https://github.com/RSSNext/follow) ![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 免费的 RSS 阅读器。[![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
@@ -837,6 +837,7 @@ Awesome Mac
 * [eZip](http://ezip.awehunt.com) - 界面简洁，功能完善，支持主流的多种压缩格式。支持 Mojave 深色模式、QuickLook预览、拖拽解压。 ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) - 外接显示器亮度/对比度调节工具，从此告别物理按键。[![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
+* [Fix Tim ](https://github.com/Lakr233/FixTim) - 一款修复Mac上随机出现的Bug的妙妙小工具[![Open-Source Software][OSS Icon]](https://github.com/Lakr233/FixTim) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HTTrack](http://www.httrack.com) - 可以下载整个网站和离线浏览。![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar 触觉反馈。 [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
