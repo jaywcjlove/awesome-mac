@@ -588,7 +588,7 @@ markdown-style sup>a::after {
   content: "]";
 }
 
-.markdown-body .octicon-video {
+markdown-style .octicon-video {
   border: 1px solid #d0d7de !important;
   border-radius: 6px !important;
   display: block;
