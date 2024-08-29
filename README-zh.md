@@ -979,6 +979,7 @@ Awesome Mac
 * [Keeweb](https://keeweb.info/) - 与 KeePass 兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * [LastPass](https://www.lastpass.com/) - 密码管理器和安全的数字笔记。
 * [MacPass](https://macpass.github.io/) - 密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
+* [SafeInCloud](https://www.safe-in-cloud.com/) - 多功能密码保险箱 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/password-manager-safeincloud/id883070818) ![Freeware][Freeware Icon]
 
 ### Finder
 
