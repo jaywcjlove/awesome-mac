@@ -303,6 +303,7 @@ Awesome Mac
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理 SQLite 数据库的软件。
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个 Chrome 插件，是 MySQL 开发的跨平台、可视化数据库工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Dataflare](https://dataflare.app) - 简单易于使用的数据库客户端，支持 Postgres、MySQL、DuckDB、libSQL、Cloudflare D1 等。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - 一个跨平台的用于管理 SQLite 数据库的软件。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DataGrip](http://www.jetbrains.com/datagrip/) - JetBrains 公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 * [DBeaver](https://dbeaver.jkiss.org/) - 跨平台 SQL 客户端，支持大部分主流数据库
