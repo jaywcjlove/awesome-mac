@@ -587,15 +587,17 @@ markdown-style sup>a::before {
 markdown-style sup>a::after {
   content: "]";
 }
-
+markdown-style .octicon-video .octicon.octicon-device-camera-video {
+  margin: 0 0.5rem 0 0.25rem;
+}
 markdown-style .octicon-video {
-  border: 1px solid #d0d7de !important;
+  border: 1px solid var(--color-border-default) !important;
   border-radius: 6px !important;
   display: block;
 }
 
 markdown-style .octicon-video summary {
-    border-bottom: 1px solid #d0d7de !important;
+    border-bottom: 1px solid var(--color-border-default) !important;
     padding: 8px 16px !important;
     cursor: pointer;
 }
