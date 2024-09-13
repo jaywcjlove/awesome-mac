@@ -24,7 +24,7 @@ Awesome Mac
 ✦ 我的 macOS 应用程序：
 
 <div style="display: inline_block">
-  <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Quick RSS for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/deb91549-0347-458c-9768-3b0fcb18aebc"></a>
+  <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/deb91549-0347-458c-9768-3b0fcb18aebc"></a>
   <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
   <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="宝宝字帖 for macOS/iOS"><img align="center" alt="宝宝字帖" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
   <a target="_blank" href="https://wangchujiang.com/devtutor/" title="SwiftUI 辅导 for macOS/iOS"><img align="center" alt="SwiftUI 辅导" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
@@ -304,6 +304,7 @@ Awesome Mac
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理 SQLite 数据库的软件。
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个 Chrome 插件，是 MySQL 开发的跨平台、可视化数据库工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Dataflare](https://dataflare.app) - 简单易于使用的数据库客户端，支持 Postgres、MySQL、DuckDB、libSQL、Cloudflare D1 等。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - 一个跨平台的用于管理 SQLite 数据库的软件。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DataGrip](http://www.jetbrains.com/datagrip/) - JetBrains 公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 * [DBeaver](https://dbeaver.jkiss.org/) - 跨平台 SQL 客户端，支持大部分主流数据库
