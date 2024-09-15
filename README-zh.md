@@ -535,7 +535,7 @@ Awesome Mac
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话 Skype，网络流从 Safari，以及更多。
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
-* [BeMyEars](https://www.engineerdraft.com/bemyears/) - 听障人士免费, 系统语音本地识别实时生成字幕, 支持多种语言, 让你的每个音视频都拥有类似 YouTube 的字幕体验.
+* [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679) - 听障人士免费, 系统语音本地识别实时生成字幕, 支持多种语言, 让你的每个音视频都拥有类似 YouTube 的字幕体验.  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679)
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [Carol](https://github.com/AnaghSharma/Carol) - 为 macOS 提供最小化和美丽的歌词应用程序。[![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cog-kode54/id1630499622)
@@ -830,6 +830,7 @@ Awesome Mac
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。
 * [BetterTouchTool](https://folivora.ai/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。
+* [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度和输入
@@ -961,7 +962,7 @@ Awesome Mac
 * [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换。
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
-* [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大 ![Freeware][Freeware Icon]
+* [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大  [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop) ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165)
