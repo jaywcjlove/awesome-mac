@@ -889,8 +889,7 @@ Awesome Mac
 * [Maccy](https://github.com/p0deje/Maccy) - 开源于GitHub但不免费的剪贴板管理工具，应用商店中下载需要付费。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/paste-clipboard-history-manager/id967805235)
 * [PasteBot](https://tapbots.com/pastebot/) - 强大的剪贴板管理器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pastebot/id1179623856)
-* [Yippy](https://yippy.mattdavo.com/) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
-
+* [Yippy](https://github.com/mattDavo/Yippy) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 
 ### 菜单栏工具
 
