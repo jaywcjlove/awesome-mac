@@ -583,7 +583,7 @@ Awesome Mac
 
 ### 云音乐播放器
 
-* [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 基于网易云音乐 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
+* [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方播放器 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
@@ -652,6 +652,7 @@ Awesome Mac
 * [Marxico马克飞象](https://maxiang.io/) - 一款专为印象笔记（Evernote）打造的Markdown编辑器，通过精心的设计与技术实现，配合印象笔记强大的存储和同步功能，带来前所未有的书写体验。
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
+* [Obsidian](https://obsidian.md) - 你的第二大脑
 * [TextNut](http://www.textnutwriter.com/) - Markdown 编辑器，富文本之间自由切换。![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
@@ -680,7 +681,7 @@ Awesome Mac
 
 ## 制作电子书
 
-* [Calibre](http://calibre-ebook.com/) - 丑陋的软件，但强大的软件电子书管理和转换。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+* [Calibre](http://calibre-ebook.com/) - 看似UI粗糙，但具有强大的软件电子书管理和转换功能。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 
@@ -850,7 +851,7 @@ Awesome Mac
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的 OS X 的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行日常操作。
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
-* [Keka](https://www.keka.io/zh-cn/) - 一个免费的 macOS 文件解压缩程序。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/keka/id470158793)
+* [Keka](https://www.keka.io/zh-cn/) - 一个免费的 macOS 文件解压缩程序。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keka/id470158793?mt=12)
 * [Lungo](https://sindresorhus.com/lungo) - 防止Mac进入睡眠状态。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/lungo/id1263070803)
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [Manta](https://manta.life/) - 灵活的发票桌面应用程序，漂亮和可定制模板。[![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
@@ -873,7 +874,7 @@ Awesome Mac
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS 的非官方的 WWDC APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
-* [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]]
+* [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12)
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - 一款拖放文件辅助工具，可以将文件放在一个悬浮窗以方便移动到其他位置。![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - 一款拖放文件、文本辅助工具，可以在无需打开并排窗口的情况下，将可拖动内容存储、收集或移动，比 Dropshelf 功能更加丰富。[![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
 
