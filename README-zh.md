@@ -68,7 +68,7 @@ Awesome Mac
   - [文件共享](#文件共享)
 - [数据恢复](#数据恢复)
 - [音频和视频](#音频和视频)
-  - [云音乐播放器](#云音乐播放器)
+  - [流媒体音乐播放器](#流媒体音乐播放器)
   - [音频录制与编辑](#音频录制与编辑)
 - [书签阅读写作](#书签阅读写作)
   - [Office](#office)
@@ -581,14 +581,16 @@ Awesome Mac
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/yplayer/) - 一款能够本地实时生成字幕, 音视频文件转文字生成字幕, 录音转文字, 字幕翻译的多功能 App.
 
-### 云音乐播放器
+### 流媒体音乐播放器
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方播放器 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
+* [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云音乐客户端[![Open-Source Software][OSS Icon]](https://github.com/qier222/YesPlayMusic) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
+
 
 ### 音频录制与编辑
 
@@ -667,12 +669,12 @@ Awesome Mac
 * [Notes](http://www.get-notes.com/) - 简洁的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - 您的任务、笔记和日历、纯文本 Markdown 文件。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/noteplan-3/id1505432629)
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]
-* [Notion](https://www.notion.so/zh-cn) - 一个集大成的富文本笔记管理软件，支持丰富却又简单明了的的文字格式，甚至覆盖了`TODO`类软件的功能。数据在服务端存储，支持web访问，也提供了`macOS`/`Windows`/`iOS`/`安卓`等平台客户端。 ![Freeware][Freeware Icon]
-* [OneNote](https://www.onenote.com/) - 微软备注应用。 ![Freeware][Freeware Icon]
+* [Notion](https://www.notion.so/zh-cn) - 富文本云笔记管理软件，支持多平台客户端。![Freeware][Freeware Icon]
+* [OneNote](https://www.onenote.com/) - 微软笔记应用。 ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
-* [阿里语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，基于Markdown写作，支持内嵌流程图、脑图、时序、代码渲染以及Sketch画板创作，个人知识分享等！相比有道云笔记、印象笔记同类产品，包含其全部的功能以外，支持知识分享以及更强大的创作、协作、编辑器，它来自阿里巴巴蚂蚁金服。![Freeware][Freeware Icon]
+* [阿里语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，支持Markdown写作、流程图、脑图、代码渲染等功能，适合个人知识分享和团队协作。![Freeware][Freeware Icon]
 
 ### 写作
 
@@ -681,7 +683,7 @@ Awesome Mac
 
 ## 制作电子书
 
-* [Calibre](http://calibre-ebook.com/) - 看似UI粗糙，但具有强大的软件电子书管理和转换功能。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+* [Calibre](http://calibre-ebook.com/) - 看似UI粗糙，但具有强大的电子书管理和转换功能。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 
