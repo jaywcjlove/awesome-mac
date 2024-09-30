@@ -780,8 +780,8 @@ Awesome Mac
 
 ## 翻译工具
 
-* [Bob](https://github.com/ripperhe/Bob) - 简小好用的翻译工具，支持语言自动检测，截图翻译。[![Open-Source Software][OSS Icon]](https://github.com/ripperhe/Bob)
-* [DeepL]() - 拥有深度神经学习网络的翻译软件，自称世界上最准确的翻译软件，在学术论文和科技文章方面优于其他同类软件。![Freeware][Freeware Icon]
+* [Bob](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12) - 简小好用的翻译工具，支持语言自动检测，截图翻译。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12)
+* [DeepL](https://www.deepl.com/zh/macos-app) - 拥有深度神经学习网络的翻译软件，自称世界上最准确的翻译软件，在学术论文和科技文章方面优于其他同类软件。![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 方便查找单词或翻译文本 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](https://www.eudic.net/v4/en/app/download) - 欧路词典,权威的英语词典软件 英语学习者必备的工具
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
