@@ -574,7 +574,6 @@ Awesome Mac
 * [Stremio](https://www.stremio.com/) - 电影、电视节目、连续剧、电视直播或 YouTube 和 Twitch 等网络频道。电视-你可以在 Stremio 上找到这一切。 ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - 音频编辑处理工具。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/stringed/id698710517)
 * [Synfig Studio](http://synfig.org) - 工业级、强大的 2D 矢量动画制作软件。[![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
-https://www.catnapgames.com/tiny-player-for-mac/
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [VOX Player](https://vox.rocks/mac-music-player) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
@@ -1031,7 +1030,6 @@ https://www.catnapgames.com/tiny-player-for-mac/
 ## 远程协助
 
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
-* [Windows App](https://apps.apple.com/cn/app/windows-app/id1295203466?mt=12) - 微软官方的远程桌面连接工具 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/windows-app/id1295203466?mt=12) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app/) - 一款跨平台，高画质且低延时的远程桌面软件
 * [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117) - 通过局域网或互联网将您的 Steam 游戏串流到Mac上。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117) ![Freeware][Freeware Icon]
@@ -1068,8 +1066,6 @@ https://www.catnapgames.com/tiny-player-for-mac/
 * 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
 * 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
 * [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站
-* 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
-* 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
 
 
 ### 应用商店黑名单
