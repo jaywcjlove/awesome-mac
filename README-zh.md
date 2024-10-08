@@ -24,16 +24,17 @@ Awesome Mac
 ✦ 我的 macOS 应用程序：
 
 <div style="display: inline_block">
-  <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/deb91549-0347-458c-9768-3b0fcb18aebc"></a>
+  <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
+  <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
   <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
-  <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="宝宝字帖 for macOS/iOS"><img align="center" alt="宝宝字帖" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
-  <a target="_blank" href="https://wangchujiang.com/devtutor/" title="SwiftUI 辅导 for macOS/iOS"><img align="center" alt="SwiftUI 辅导" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
+  <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="Copybook Generator for macOS/iOS"><img align="center" alt="Copybook Generator" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
+  <a target="_blank" href="https://wangchujiang.com/devtutor/" title="DevTutor for macOS/iOS"><img align="center" alt="DevTutor for SwiftUI" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
   <a target="_blank" href="https://wangchujiang.com/regex-mate/" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
   <a target="_blank" href="https://wangchujiang.com/time-passage/" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="50" width="50" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
   <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
   <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
   <a target="_blank" href="https://wangchujiang.com/create-custom-symbols/" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
-  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/6d38923c-b97d-4687-9601-9865bd0eea1a"></a>
+  <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
   <a target="_blank" href="https://wangchujiang.com/ResumeRevise/" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
   <a target="_blank" href="https://wangchujiang.com/palette-genius/" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
   <a target="_blank" href="https://wangchujiang.com/symbol-scribe/" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
@@ -165,7 +166,6 @@ Awesome Mac
 * [Cacher](https://www.cacher.io/) - 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。
 * [CubicBezier](https://github.com/isaced/CubicBezier) - 一个适用于 macOS 的贝塞尔曲线生成器。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [DevHub](https://wangchujiang.com/DevHub/) - 一个功能丰富的离线应用程序，精心制作，以支持开发人员在他们的日常任务。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
-* [DevToys](https://github.com/DevToys-app/DevToys) - 开发者的瑞士军刀——一款帮助开发者处理日常任务的桌面应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/DevToys-app/DevToys)
 * [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
@@ -605,9 +605,7 @@ https://www.catnapgames.com/tiny-player-for-mac/
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
-* [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
-* [Jane Reader](https://janereader.com/) - 无干扰地阅读你的 ePub 电子书. ![Freeware][Freeware Icon]
-* [Joplin](https://joplinapp.org/) - 支持 markdown 的开源记事本和具有同步功能的待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]* [Joplin](https://joplinapp.org/) - 支持 markdown 的开源记事本和具有同步功能的待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?mt=12)
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-archiver/id1433801905)
@@ -772,6 +770,7 @@ https://www.catnapgames.com/tiny-player-for-mac/
 * [Safari](http://www.apple.com/cn/safari/) - Mac 预装自带浏览器。![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium/) - ungoogled-chromium 移除了 Google 专有组件加强了隐私控制使其更加透明 [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium/) ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - Opera 开发商出品新的浏览器。![Freeware][Freeware Icon]
+* [Zen](https://zen-browser.app/) - 设计优美、注重隐私、功能强大的浏览器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 * [Ōryōki](http://oryoki.io/) - 小的 web 浏览器。这是一个试验性的项目，目前正在开发中![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。![Freeware][Freeware Icon]
 * [360极速浏览器](https://browser.360.cn/ee/mac/index.html) - 更好用，不将就。![Freeware][Freeware Icon]
@@ -1032,7 +1031,10 @@ https://www.catnapgames.com/tiny-player-for-mac/
 ## 远程协助
 
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
-* [Chrome Remote Desktop](https://remotedesktop.google.com/) - 轻松地从远程连接您的家用/办公计算机或与他人共享您的屏幕。
+* [Windows App](https://apps.apple.com/cn/app/windows-app/id1295203466?mt=12) - 微软官方的远程桌面连接工具 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/windows-app/id1295203466?mt=12) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
+* [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
+* [Parsec](https://parsec.app/) - 一款跨平台，高画质且低延时的远程桌面软件
+* [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117) - 通过局域网或互联网将您的 Steam 游戏串流到Mac上。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - 高画质且低延时的游戏串流 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/moonlight-stream/moonlight-qt)
 * [Parsec](https://parsec.app/) - 一款跨平台，高画质且低延时的远程桌面软件
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
@@ -1066,6 +1068,9 @@ https://www.catnapgames.com/tiny-player-for-mac/
 * 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
 * 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
 * [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站
+* 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
+* 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
+
 
 ### 应用商店黑名单
 
