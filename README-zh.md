@@ -71,13 +71,15 @@ Awesome Mac
 - [音频和视频](#音频和视频)
   - [流媒体音乐播放器](#流媒体音乐播放器)
   - [音频录制与编辑](#音频录制与编辑)
-- [书签阅读写作](#书签阅读写作)
+- [阅读与写作工具](#阅读与写作工具)
+  - [日记](#日记)
   - [Office](#office)
   - [RSS](#rss)
   - [Markdown](#markdown)
   - [笔记](#笔记)
   - [写作](#写作)
-- [制作电子书](#制作电子书)
+  - [电子书](#电子书)
+  - [其他](#其他)
 - [软件打包工具](#软件打包工具)
 - [下载工具](#下载工具)
 - [网盘](#网盘)
@@ -420,6 +422,7 @@ Awesome Mac
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
+* [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439) ![Freeware][Freeware Icon]
@@ -533,7 +536,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 免费、开源、跨平台的专业字幕编辑软件，可以快速打轴，制作特效字幕等，字幕组必备。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
-[ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
+* [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器[![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - 允许您为连接设备的每个特定组合固定输入/输出设备。可能会禁止选择HDMI显示器。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
@@ -600,24 +603,14 @@ Awesome Mac
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 
-## 书签阅读写作
-* [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id1287445660?mt=12)
+## 阅读与写作工具
+
+### 日记
+
+* [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/agenda-notes-meets-calendar/)
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/bear-beautiful-writing-app/id1091189122)
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
-* [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
-* [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
-* [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]* [Joplin](https://joplinapp.org/) - 支持 markdown 的开源记事本和具有同步功能的待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
-* [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613) - 亚马逊 Kindle App 电子书阅读器。
-* [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?mt=12)
-* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-archiver/id1433801905)
-* [PDF Expert](https://pdfexpert.com/) - PDF 阅读、批注，编辑文本，添加照片，填写表单。
-* [PDFgear](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?mt=12) - 轻松处理 PDF 任务。阅读、编辑、转换、合并和签署 PDF 文件，跨设备免费使用，无需注册。还可以通过本地 AI 与 PDF 文件进行对话。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?mt=12)
-* [PDF Reader Pro](http://www.pdfreaderpro.com) - 可以查看，创建，签名，转换和压缩任何 PDF 文档。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pdf-reader-pro-your-pdf-office/id825459243)
-* [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有 markdown 支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
-* [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
-* [SwifDoo PDF](https://www.swifdoo.com/) - 最好的 PDF 编辑器/转换器，只需几个简单的步骤即可帮助您转换、编辑、压缩或密码保护 PDF 文件
-* [texifier](https://www.texifier.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
+
 
 ### Office
 
@@ -647,6 +640,7 @@ Awesome Mac
 * [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - 最近刚出的一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
+* [Joplin](https://joplinapp.org/) - 支持 markdown 的开源记事本和具有同步功能的待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - 简单的 Markdown 文本编辑器。
 * [MacDown](http://macdown.uranusjr.com/) - 一款开源的 Markdown 编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown 文本预览编辑，为所有作家提供一套优雅而强大的工具。
@@ -666,7 +660,6 @@ Awesome Mac
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587)
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。
-* [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
 * [leanote](http://app.leanote.com) - 支持 Markdown 的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - 一个以隐私为先的开源平台，用于知识管理和协作。 [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://apps.apple.com/cn/app/marginnote-4/id1531657269) - 笔记界的瑞士军刀，功能强大的笔记软件工具[![App Store][app-store Icon]](https://apps.apple.com/cn/app/marginnote-4/id1531657269)
@@ -685,12 +678,30 @@ Awesome Mac
 * [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/wonderpen/id1173437104?l=en&mt=12)
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台
 
-## 制作电子书
+## 电子书
 
 * [Calibre](http://calibre-ebook.com/) - 看似UI粗糙，但具有强大的电子书管理和转换功能。[![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [Comic2Books](https://github.com/manueldidonna/comic2books) - 将漫画转换为电子书的工具。[![Open-Source Software][OSS Icon]](https://github.com/manueldidonna/comic2books) ![Freeware][Freeware Icon]
+* [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613) - 亚马逊 Kindle App 电子书阅读器。
+* [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?mt=12)
+* [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+
+### 其他
+
+* [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
+* [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
+* [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
+* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-archiver/id1433801905)
+* [PDF Expert](https://pdfexpert.com/) - PDF 阅读、批注，编辑文本，添加照片，填写表单。
+* [PDFgear](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?mt=12) - 轻松处理 PDF 任务。阅读、编辑、转换、合并和签署 PDF 文件，跨设备免费使用，无需注册。还可以通过本地 AI 与 PDF 文件进行对话。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?mt=12)
+* [PDF Reader Pro](http://www.pdfreaderpro.com) - 可以查看，创建，签名，转换和压缩任何 PDF 文档。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/pdf-reader-pro-your-pdf-office/id825459243)
+* [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有 markdown 支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
+* [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
+* [SwifDoo PDF](https://www.swifdoo.com/) - 最好的 PDF 编辑器/转换器，只需几个简单的步骤即可帮助您转换、编辑、压缩或密码保护 PDF 文件
+* [texifier](https://www.texifier.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
 
 ## 软件打包工具
 
@@ -871,6 +882,7 @@ Awesome Mac
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]
 * [Mos](https://mos.caldis.me/) - 让你的鼠标滚轮丝滑如触控板。[![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
+* [Noi](https://github.com/lencx/Noi) - AI 赋能你的世界——探索、扩展、赋权。 [![Open-Source Software][OSS Icon]](https://github.com/lencx/Noi) ![Freeware][Freeware Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
