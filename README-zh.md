@@ -523,6 +523,7 @@ Awesome Mac
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [LocalSend](https://localsend.org/) - 跨平台的文件传输工具，界面简洁[![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 
@@ -640,7 +641,7 @@ Awesome Mac
 
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
 * [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
-* [EME](https://github.com/egoist/eme) - 最近刚出的一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
+* [EME](https://github.com/egoist/eme) - 一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
 * [Joplin](https://joplinapp.org/) - 支持 markdown 的开源记事本和具有同步功能的待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - 简单的 Markdown 文本编辑器。
@@ -732,6 +733,7 @@ Awesome Mac
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Transmission](https://www.transmissionbt.com/) - 免费的 BitTorrent 客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 一款功能丰富的命令行音视频下载器。 [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) ![Freeware][Freeware Icon]
 
 ## 网盘
 
@@ -752,6 +754,7 @@ Awesome Mac
 * [亿方云](https://www.fangcloud.com/) - 硅谷团队打造，个人免费。![Freeware][Freeware Icon]
 * [阿里云盘](https://www.aliyundrive.com/drive/) - 阿里云盘。![Freeware][Freeware Icon]
 * [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan/) - 阿里云盘小白羊版为阿里云盘第三方客户端，多平台支持，增加了 Aria2 下载，调用第三方播放器等功能
+* [小白羊网盘](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 Powered by 阿里云盘。
 
 ## 输入法
 
@@ -763,7 +766,6 @@ Awesome Mac
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。![Freeware][Freeware Icon]
 * [百度输入法](https://srf.baidu.com/input/mac.html) - 支持拼音五笔输入。![Freeware][Freeware Icon]
 * [落格输入法](https://im.logcg.com/loginputmac) - 打破 Mac 双拼多年来的窘境。
-* [iAvro](https://www.omicronlab.com/iavro.html) - 孟加拉语输入法。 [![Open-Source Software][OSS Icon]](https://github.com/torifat/iAvro) ![Freeware][Freeware Icon]
 * [清歌五笔输入法](https://qingg.im/index.html) - 为 iOS 和 Mac 专门打造的五笔输入法。![Freeware][Freeware Icon]
 * [颜文字](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - 颜文字输入。![Freeware][Freeware Icon]
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。[![Freeware][Freeware Icon]](https://github.com/dongyuwei/hallelujahIM)
@@ -894,10 +896,12 @@ Awesome Mac
 * [Rapidmg](https://rapidmg.branchseer.com/) - 一键解压 DMG 镜像里的 app 至 “应用程序” 目录。[![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778)
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
 * [scrcpy](https://github.com/Genymobile/scrcpy) - 可镜像通过 USB 或 TCP/IP 连接的 Android 设备（视频和音频），并允许使用电脑的键盘和鼠标控制设备。无需 root 权限，适用于 Linux、Windows 和 macOS 系统。[![Open-Source Software][OSS Icon]](https://github.com/Genymobile/scrcpy) ![Freeware][Freeware Icon]
+* [Sideloadly](https://sideloadly.io/) - 将你喜欢的游戏和应用程序侧载到 iOS 设备、Apple Silicon Mac 或 Apple TV 的全新最佳方式！ ![Freeware][Freeware Icon]
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353)
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
+* [uebersicht](https://github.com/felixhageloh/uebersicht) - 充分利用桌面空间的插件工具 [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 快速解压单个多个不同种类的压缩文件/压缩文件到各类常见压缩格式。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [WWDC](https://github.com/insidegui/WWDC) - 非官方的 WWDC Mac APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
