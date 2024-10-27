@@ -478,6 +478,7 @@ Awesome Mac
 
 
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
+* [Bluesky](https://bsky.app/) - Bluesky 是理想的社交媒体。在数百万用户中找到你的社区，释放你的创造力，再次享受乐趣。 [![Open-Source Software][OSS Icon]](https://github.com/bluesky-social) ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - 免费、安全的全方位游戏语音和文字聊天工具，适用于桌面和手机。
 * [Franz](http://meetfranz.com/) - 一个使用 [Electron](https://electronjs.org/)开发的，可以同时登录 23 个平台的即时通讯软件。![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 关于 GitHub 的项目交流，支持 Markdown，对开发者极为友好。
