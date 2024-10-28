@@ -455,6 +455,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [xcodes](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/xcodes)
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software][OSS Icon]](https://github.com/xxh/xxh) ![Freeware][Freeware Icon]
 * [x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd is a vast and interesting collection of tools guided by the Unix philosophy.[![Open-Source Software][OSS Icon]](https://github.com/x-cmd/x-cmd) ![Freeware][Freeware Icon]
+* [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software][OSS Icon]](https://github.com/zellij-org/zellij) ![Freeware][Freeware Icon]
 
 ### Frameworks For Hybrid Applications
 
