@@ -415,20 +415,20 @@ Awesome Mac
 * [Gifox](https://gifox.app) - 专业的高颜值 GIF 录制应用。
 * [GIF Brewery](https://gfycat.com/gifbrewery) - GIF Brewery gives everyone the power to create stunning GIFs from video files. [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/gif-brewery-by-gfycat/id1081413713) ![Freeware][Freeware Icon]
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?l=en&mt=12)
+* [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12) ![Freeware][Freeware Icon]
 * [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 是一款屏幕录制工具输出 GIF，录制过程中可以随意改变录屏范围。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id540348655)
-* [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
-* [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
-* [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
-* [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
-* [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
-* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
-* [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439) ![Freeware][Freeware Icon]
-* [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon]
-* [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 分分钟录制精美屏幕，自带精美帧动画，无须编辑。
+* [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
+* [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
+* [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
+* [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
+* [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monosnap/id1199502670)
+* [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://itunes.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?l=en&mt=12) ![Freeware][Freeware Icon]
+* [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439) ![Freeware][Freeware Icon]
+* [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
 
 ### 其它工具
 
@@ -838,6 +838,7 @@ Awesome Mac
 * [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - 基于 Tauri 的 Clash GUI 自由软件。[![Open-Source Software][OSS Icon]](https://github.com/LibNyanpasu/clash-nyanpasu)![Freeware][Freeware Icon]
 * [Clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续，基于 Tauri 的 Clash Meta GUI。[![Open-Source Software][OSS Icon]](https://github.com/clash-verge-rev/clash-verge-rev)![Freeware][Freeware Icon]
 * [FlClash](https://github.com/chen08209/FlClash) - 拥有 MD3 风格且基于 Clash Meta 的客户端。[![Open-Source Software][OSS Icon]](https://github.com/chen08209/FlClash)![Freeware][Freeware Icon]
+* [Hiddify](https://github.com/hiddify/hiddify-app) - 基于 Sing-box 的多平台代理客户端。[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern)![Freeware][Freeware Icon]
 * [Outline](https://getoutline.org/) - 借助 Outline，创建 VPN 服务器变得轻而易举，从而让任何人都能访问自由、开放的互联网。[![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code)![Freeware][Freeware Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks)![Freeware][Freeware Icon]
@@ -862,6 +863,7 @@ Awesome Mac
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到Mac OS的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
+* [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度和输入
