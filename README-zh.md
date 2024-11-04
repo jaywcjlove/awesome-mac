@@ -213,12 +213,12 @@ Awesome Mac
 
 ### API开发和分析
 
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比 Postman 看起来漂亮的客户端，测试 HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
-* [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
-* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
 * [Apifox](https://www.apifox.cn) - Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter ![Freeware][Freeware Icon]
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比 Postman 看起来漂亮的客户端，测试 HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [HTTPie](https://httpie.io/) - 经典的命令行 HTTP 客户端，现在提供 APP 版和网页版。HTTPie 简单、直观的 HTTP API 客户端。![Freeware][Freeware Icon]
+* [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
+* [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
 
 ### 网络分析
 
@@ -360,6 +360,7 @@ Awesome Mac
 * [MakeHuman](http://www.makehumancommunity.org) - 功能强大且免费的3D人体建模器。 ![Freeware][Freeware Icon]
 * [Monodraw](https://helftone.com/) -  macOS 平台上强大的 ASCII 设计流程编辑器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675)
 * [Nik Collection](https://nikcollection.dxo.com/) - 专业照片后期制作工具，Google 收购后免费![Freeware][Freeware Icon]
+* [RawTherapee](https://rawtherapee.com/) - 免费的跨平台原始图像处理程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - 制作2D手绘动画的简单直观的工具。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
@@ -947,6 +948,7 @@ Awesome Mac
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
+* [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
 
 ### 待办事项工具
@@ -1000,7 +1002,6 @@ Awesome Mac
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Raycast](https://raycast.com) - Raycast 让您可以通过几个按键控制工具。它旨在让您保持专注。
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
-* [smcFanControl](https://github.com/hholtmann/smcFanControl) - 短小精悍的风扇转速温控软件，可以预设两档风扇最低转速，方便在不同工作负载间人工强制切换。因为只是限制风扇最低速度，所以系统原生温控调速不会完全失效。[![Open-Source Software][OSS Icon]](https://github.com/hholtmann/smcFanControl) ![Freeware][Freeware Icon]
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
@@ -1094,9 +1095,6 @@ Awesome Mac
 * [Setapp](https://setapp.com) - MacPaw 推出的订阅制付费 App 平台服务。
 * 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
 * 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
-* [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站。
-* [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站
-
 
 ### 应用商店黑名单
 
@@ -1117,6 +1115,8 @@ Awesome Mac
 * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
+* [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站。
+* [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站
 
 
 ### 盗版软件下载网站黑名单
