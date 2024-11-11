@@ -1056,7 +1056,7 @@ Awesome Mac
 * [Porting Kit](http://portingkit.com/) - 在Mac中安装Windows®游戏。 ![Freeware][Freeware Icon]
 * [PPSSPP](https://www.ppsspp.org) - 一个很棒的 PSP 模拟器，适用于您梦寐以求的任何操作系统！ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - 开源 PlayStation 3 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
-* ~~[Ryujinx](https://ryujinx.org/) - 开源 任天堂 Switch 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryujinx/Ryujinx)~~
+* [Ryujinx](https://github.com/GreemDev/Ryujinx) - 继承原Ryujinx项目的衣钵开发的开源任天堂 Switch 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/GreemDev/Ryujinx)
 * [Steam](https://store.steampowered.com/about/) - Steam 是畅玩游戏、讨论游戏、创造游戏的快乐所在。
 * [Suyu](https://suyu.dev/) - 一款熟悉的、开源且功能强大的 Nintendo Switch 模拟器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
 
@@ -1116,7 +1116,8 @@ Awesome Mac
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 * [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站。
-* [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站
+* [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站。
+* [Open Alternative](https://openalternative.co/) - 发现流行软件的开源替代品。一个精心策划的最佳开源替代品集合 ，替代日常的SaaS产品。使用为您精心挑选的可靠工具节省金钱。
 
 
 ### 盗版软件下载网站黑名单

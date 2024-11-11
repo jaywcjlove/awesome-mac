@@ -1304,6 +1304,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - The place to find all the software you can buy one time, and own for a lifetime.
+* [Open Alternative](https://openalternative.co/) - Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
