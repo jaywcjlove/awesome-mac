@@ -1126,7 +1126,13 @@ Awesome Mac
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
 * AppKed：~~`http://www.macbed.com`~~
+* appstorrent：~~`https://appstorrent.ru/`~~
+* appaddict：~~`https://www.appaddict.org/`~~
 * Cmacked：~~`https://mac.cmacked.com/`~~
+* Softasm：~~`https://softasm.com/`~~
+* 佛系软件：~~`https://foxirj.com/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
 * MAC萌新网：~~`https://www.macxin.com`~~
 * MACPEDIA：~~`https://macpedia.xyz/`~~
 * MacPeers：~~`http://www.macpeers.com`~~
@@ -1141,20 +1147,14 @@ Awesome Mac
 * Macwk（非官方）：~~`https://macwk.com.cn/`~~
 * MacWk：~~`https://macwk.com/`~~
 * Macx：~~`https://www.macx.cn/`~~
-* Softasm：~~`https://softasm.com/`~~
-* appstorrent：~~`https://appstorrent.ru/`~~
-* appaddict：~~`https://www.appaddict.org/`~~
-* 佛系软件：~~`https://foxirj.com/`~~
-* 卡卡源：~~`http://www.kkroot.com/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 * 未来软件园：~~`http://www.orsoon.com/`~~
 * 未来软件园：~~`http://www.orsoon.com/mac/`~~
-* 极致分享：~~`https://alltoshare.com/`~~
-* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
+* 玩转苹果：~~`http://www.ifunmac.com`~~
 * 苹果软件园：~~`http://www.maczapp.com`~~
 * 苹果软件盒子：~~`https://www.macappbox.com/`~~
 * 马可菠萝：~~`http://www.macbl.com/`~~
-* 玩转苹果：~~`http://www.ifunmac.com`~~
 
 <!--end-->
 
