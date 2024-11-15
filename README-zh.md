@@ -236,6 +236,7 @@ Awesome Mac
 * [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录。 [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的 bash 的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - 带有语法高亮和Git集成的 `cat(1)` 克隆。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
+* [bclm](https://github.com/zackelia/bclm) - macOS 命令行工具，用于限制电池最大充电量。 [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 一款复古风格的终端，非常酷炫。怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
@@ -307,7 +308,6 @@ Awesome Mac
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一款稳定全新的Redis管理工具。![Open-Source Software][OSS Icon]![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - SQL 客户端应用程序，支持 MySQL、 PostgreSQL (Redshift)、 BigQuery。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理 SQLite 数据库的软件。
-* [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - 一个 Chrome 插件，是 MySQL 开发的跨平台、可视化数据库工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - 简单易于使用的数据库客户端，支持 Postgres、MySQL、DuckDB、libSQL、Cloudflare D1 等。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - 一个跨平台的用于管理 SQLite 数据库的软件。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
@@ -627,14 +627,14 @@ Awesome Mac
 ### RSS
 
 
+* [Elytra](https://elytra.app) - 一款简单又私密的 RSS 提要阅读器，支持原生渲染，适用于 macOS 和 iOS [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971)
 * [Follow](https://github.com/RSSNext/Follow) 🧡 下一代信息浏览器。[![Open-Source Software][OSS Icon]](https://github.com/RSSNext/Follow) ![Freeware][Freeware Icon]
+* [irreader](http://irreader.fatecore.com) - 多功能的 RSS 阅读器，支持订阅播客和任何网站。![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 免费的 RSS 阅读器。[![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
 * [Reeder 5](http://reederapp.com/) - RSS 服务订阅 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/reeder-5/id1529448980?mt=12)
 * [Vienna](http://viennarss.github.io/) - RSS/Atom 新闻阅读客户端。[![Open-Source Software][OSS Icon]](https://github.com/ViennaRSS/vienna-rss) ![Freeware][Freeware Icon]
-* [irreader](http://irreader.fatecore.com) - 多功能的 RSS 阅读器，支持订阅播客和任何网站。![Freeware][Freeware Icon]
-* [Elytra](https://elytra.app) - 一款简单又私密的 RSS 提要阅读器，支持原生渲染，适用于 macOS 和 iOS [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971)
 
 ### Markdown
 
@@ -761,6 +761,7 @@ Awesome Mac
 
 ## 输入法
 
+* [fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - 小企鹅输入法 macOS版本 [![Open-Source Software][OSS Icon]](https://github.com/fcitx-contrib/fcitx5-macos) ![Freeware][Freeware Icon]
 * [Kawa](https://github.com/utatti/kawa) - 给每个输入法定义一个快捷键. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
@@ -774,7 +775,7 @@ Awesome Mac
 * [哈利路亚英文输入法](https://github.com/dongyuwei/hallelujahIM) - 智能英文输入法，具备自动补全，自动纠错功能。[![Freeware][Freeware Icon]](https://github.com/dongyuwei/hallelujahIM)
 * [业火五笔输入法](https://github.com/qwertyyb/Fire) - 轻量干净，功能强大的五笔输入法，完全开源。[![Open-Source Software][OSS Icon]](https://github.com/qwertyyb/Fire) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 通过简洁的提示方式，配合输入法自动切换功能，让每一次输入都信心十足。
-* [微信键盘](https://z.weixin.qq.com/)-微信官方出品的中文输入法,弥补mac版本微信无法搜索表情发送的问题。
+* [微信键盘](https://z.weixin.qq.com/) - 微信官方出品的中文输入法,弥补mac版本微信无法搜索表情发送的问题。
 
 ## 浏览器
 
@@ -1124,35 +1125,36 @@ Awesome Mac
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
-* MACPEDIA：~~https://macpedia.xyz/~~
-* 苹果软件盒子：~~https://www.macappbox.com/~~
-* Cmacked：~~https://mac.cmacked.com/~~
-* 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
-* appaddict：~~`https://www.appaddict.org/`~~
-* Mac精品软件：~~`http://xclient.info/`~~
-* MacWk：~~`https://macwk.com/`~~
+* Cmacked：~~`https://mac.cmacked.com/`~~
+* MAC萌新网：~~`https://www.macxin.com`~~
+* MACPEDIA：~~`https://macpedia.xyz/`~~
+* MacPeers：~~`http://www.macpeers.com`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~
-* Macx：~~`https://www.macx.cn/`~~
-* Mac软件下载站：~~`http://www.pshezi.com`~~
-* MacPeers：~~`http://www.macpeers.com`~~
-* Mac志：~~`http://www.isofts.org`~~
-* Mac软件分享：~~`http://www.waitsun.com`~~
-* MacSky苹果软件园：~~`http://www.macsky.net/`~~
-* Softasm：~~`https://softasm.com/`~~
 * Mac破解软件：~~`https://www.macappstore.net/`~~
-* 卡卡源：~~`http://www.kkroot.com/`~~
-* 苹果软件园：~~`http://www.maczapp.com`~~
-* 马可菠萝：~~`http://www.macbl.com/`~~
-* 极致分享：~~`https://alltoshare.com/`~~
-* 未来软件园：~~`http://www.orsoon.com/`~~
-* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
-* 未来软件园：~~`http://www.orsoon.com/mac/`~~
-* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
-* MAC萌新网：~~`https://www.macxin.com`~~
-* 佛系软件：~~`https://foxirj.com/`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* Mac精品软件：~~`http://xclient.info/`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Macwk（非官方）：~~`https://macwk.cn/`~~
+* Macwk（非官方）：~~`https://macwk.com.cn/`~~
+* MacWk：~~`https://macwk.com/`~~
+* Macx：~~`https://www.macx.cn/`~~
+* Softasm：~~`https://softasm.com/`~~
 * appstorrent：~~`https://appstorrent.ru/`~~
+* appaddict：~~`https://www.appaddict.org/`~~
+* 佛系软件：~~`https://foxirj.com/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
+* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
+* 未来软件园：~~`http://www.orsoon.com/`~~
+* 未来软件园：~~`http://www.orsoon.com/mac/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* 苹果软件盒子：~~`https://www.macappbox.com/`~~
+* 马可菠萝：~~`http://www.macbl.com/`~~
+* 玩转苹果：~~`http://www.ifunmac.com`~~
 
 <!--end-->
 
