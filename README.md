@@ -262,6 +262,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
+* [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 * [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12)
 * [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
@@ -627,7 +628,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Screencapturing Software
 
-* [CleanShot](https://getcleanshot.com/) - Discover a superior way to capture your Mac's screen.
+* [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
@@ -690,9 +691,11 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Collaboration and Team Tools
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
+* [BlurScreen App](https://www.blurscreen.app) - Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.
 * [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+* [Element](https://element.io/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
 * [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favourite apps by combining them into one application. It is based on Franz with the difference that Ferdium gives you many additional features and doesn't restrict its usage. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
@@ -700,18 +703,15 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Krisp](https://krisp.ai/) - An AI-powered noise cancelling app that mutes background noise during calls.
 * [Lark](https://www.larksuite.com/en_us/) - The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place. ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - Open-source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
-* [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
-* [BlurScreen App](https://www.blurscreen.app) - Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.
-* [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
-* [Element](https://element.io/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
-* [Presentify](https://presentify.compzets.com/) - A mac app to draw on your screen while on calls, highlight your cursor, and more. ![App Store][app-store Icon]
-* [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Mastodon](https://mastodon.social/) - Your self-hosted, globally interconnected microblogging community [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 * [Matrix](https://matrix.org/) - An open network for secure, decentralised communication! ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Misskey](https://misskey-hub.net/) - 🌎 A completely free and open interplanetary microblogging platform 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
+* [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
+* [Presentify](https://presentify.compzets.com/) - A mac app to draw on your screen while on calls, highlight your cursor, and more. ![App Store][app-store Icon]
+* [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal Desktop](https://signal.org/download/) - Fast, simple, secure. Privacy that fits in your pocket. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Skype](https://www.skype.com/) - Cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.
-* [Shift](https://tryshift.com/) - De-clutter your desktop workspace and streamline your accounts, apps, and workflows.
 * [Slack](https://slack.com/downloads/mac) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon]
 * [Stack](https://getstack.app/) - Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.
 * [Teambition](https://www.teambition.com) - Team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
@@ -780,7 +780,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [ffWorks](https://www.ffworks.net/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
-* [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
+* [IINA](https://iina.io/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
@@ -812,7 +812,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
-* [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player as well as framework that plays most multimedia files, DVDs, Audio CDs, VCDs and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
+* [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - As the name suggests, a tiny player. ![Freeware][Freeware Icon]
+* [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player and framework that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
@@ -1085,13 +1086,17 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [1440 Minutes Left Today](https://1440app.com/) - Keep a track of how many minutes you have left until the day is over, right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819)
 * [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
+* [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
+
 * [BetterMouse](https://better-mouse.com) - Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.
 * [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
-* [Cerebro](https://cerebroapp.com/) -  Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
+* [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
+* [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202)
 * [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
+* [escrcpy](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - Open-source app that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
@@ -1103,6 +1108,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [iCMD](https://icmd.app) - Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app.
 * [Journey Navigation](https://gowithjourney.com) - A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
+* [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 * [Keytty](http://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
@@ -1111,11 +1117,14 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Memo Widget](https://sindresorhus.com/memo-widget) - Sticky notes on your desktop. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248)
 * [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
+* [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12)
 * [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+* [Parrotflow](https:/parrotflow.com) - Copilot for your Mac. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6450801102?)
 * [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) - Search and discovery with AI.
+* [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 * [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 * [RecurseChat](https://recurse.chat) - RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.
@@ -1133,13 +1142,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845)
 * [xScope](http://xscopeapp.com/) - Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
 * [Z](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
-* [Parrotflow](https:/parrotflow.com) - Copilot for your Mac. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6450801102?)
-* [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
-* [Workspaces](https://www.apptorium.com/workspaces) - Workspaces gives you the ability to quickly switch between different types of tasks. It allows you to select which apps to open and close when selecting a workspace. [![App Store][app-store Icon]](https://apps.apple.com/se/app/workspaces-2/id1540284555?mt=12)
-* [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
-* [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
-* [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
-* [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
+
 
 ### Window Management
 
