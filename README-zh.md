@@ -698,6 +698,7 @@ Awesome Mac
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - 支持PDF、CBZ和CBR格式的电子书阅读器，带有Live Text搜索功能。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
 
 ### 其他
 

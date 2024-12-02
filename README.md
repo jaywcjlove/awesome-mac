@@ -240,18 +240,17 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Koodo Reader](https://www.koodoreader.com/en) - Koodo Reader is an all-in-one eBook reader for Windows, macOS, Linux, and the web, supporting over 15 formats. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
 * [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for graphic novels in PDF, CBZ, CBR format. Find command powered by Live Text on recent Macs   [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
+* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for PDF, CBZ, and CBR formats with Live Text search. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
 
 ### RSS
 
 * [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
 * [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
 * [Follow](https://github.com/RSSNext/Follow) 🧡 Next generation information browser. [![Open-Source Software][OSS Icon]](https://github.com/dyerc/Doughnut) ![Freeware][Freeware Icon]
-* [ReadKit](http://readkitapp.com/) 
-* [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions.
+* [Leaf](http://www.rockysandstudio.com/) - A news reader for managing subscriptions and enjoying daily news.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - It’s a free and open source feed reader for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [Doughnut](https://doughnutapp.com/) - Beautiful, open-source podcast catcher for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
-* [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+* [ReadKit](http://readkitapp.com/) - Bookmark and RSS management client.
 * [Reeder 5](http://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
 * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
