@@ -133,6 +133,7 @@ Awesome Mac
 * [Eclipse](https://www.eclipse.org) - 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - 结合代码编辑器的简洁性和画布 UI，使代码更易于理解。提供全面的代码编辑、导航和理解支持，轻量级调试，丰富的扩展模型，以及与现有工具的轻量级集成。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin-zh.md#sublime-text-plugin)。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
+* [SubEthaEdit](https://subethaedit.net/) - 强大编辑器，支持写作、编程、协作，随时随地高效创作！ [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [Haskell for Mac](http://haskellformac.com) - Haskell 的现代开发环境。 [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [HBuilder](http://www.dcloud.io/) - HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - 管理已安装的JetBrains工具，下载新工具并打开最近的项目。 ![Freeware][Freeware Icon]
