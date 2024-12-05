@@ -572,11 +572,10 @@ Awesome Mac
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Natron](https://natron.fr/) - 开源的视频合成软件，功能与 Adobe After Effects 或者 Nuke 类似。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上最好的媒体播放器，支持几乎所有格式。 [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
-* [Popcorn Time](https://popcorntime.co/) - 电影播放器，观看 torrent 电影。![Freeware][Freeware Icon]
+* [Popcorn Time](https://popcorn-time.site/) - 电影播放器，观看 torrent 电影。[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [PotPlayer X](https://zh.okaapps.com/product/1612400976#) - omi出品，音视频播放器，界面简洁，功能齐全 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?mt=12)
 * [Playback](https://mafintosh.github.io/playback/) - 实验性质的视频播放器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - 发现并聆听来自Hype Machine的音乐。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074)
-* [Popcorn Time](https://popcorn-time.tw/) - 立即观看 torrent 电影，这项爆米花时间服务将永远不会被取消。下载并享受。![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - 直接从菜单栏或使用全局键盘快捷键录制音频。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
@@ -850,6 +849,7 @@ Awesome Mac
 * [FlClash](https://github.com/chen08209/FlClash) - 拥有 MD3 风格且基于 Clash Meta 的客户端。[![Open-Source Software][OSS Icon]](https://github.com/chen08209/FlClash)![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 基于 Sing-box 的多平台代理客户端。[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern)![Freeware][Freeware Icon]
+* [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) - 一个以mihomo内核的GUI [![Open-Source Software][OSS Icon]](https://github.com/mihomo-party-org/mihomo-party) ![Freeware][Freeware Icon]
 * [Outline](https://getoutline.org/) - 借助 Outline，创建 VPN 服务器变得轻而易举，从而让任何人都能访问自由、开放的互联网。[![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code)![Freeware][Freeware Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks)![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)![Freeware][Freeware Icon]
@@ -919,6 +919,7 @@ Awesome Mac
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353)
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
 * [uebersicht](https://github.com/felixhageloh/uebersicht) - 充分利用桌面空间的插件工具 [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
+* [Upscayl](https://github.com/upscayl/upscayl) - 免费开源的图像AI超分工具。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [TradingView](https://www.tradingview.com/desktop/) - TradingView 是一个社交媒体网络、分析平台的应用程序，适用于交易员和投资者，支持原生多显示器。
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 快速解压单个多个不同种类的压缩文件/压缩文件到各类常见压缩格式。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8)
 
@@ -966,6 +967,7 @@ Awesome Mac
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
+* [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 
 ### 待办事项工具
 
