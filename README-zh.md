@@ -889,7 +889,7 @@ Awesome Mac
 * [HTTrack](http://www.httrack.com) - 可以下载整个网站和离线浏览。![Freeware][Freeware Icon]
 * [Hungrymark](https://zhengying.github.io/hungrymark) - 非常有用的收藏夹应用，收藏文件，文件夹，网址，快速的通过状态栏菜单访问这些书签。  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hungrymark/id1482778901?l=en&mt=12)
 * [HWSensors](https://sourceforge.net/projects/hwsensors) - 自带FakeSMC的黑苹果硬件状态监控插件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kozlek/hwsensors/overview) ![Freeware][Freeware Icon]
-* [iStat pro](https://bjango.com/mac/istatmenus/) - 免费的 Mac OS 电脑硬件信息检测软件。![Freeware][Freeware Icon]
+* [iStat pro](https://bjango.com/mac/istatmenus/) - Mac OS 电脑硬件信息检测软件。
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 一个强大的和稳定的 OS X 的键盘定制。[![Open-Source Software][OSS Icon]](https://github.com/tekezo/Karabiner) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行日常操作。
@@ -1021,6 +1021,7 @@ Awesome Mac
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Raycast](https://raycast.com) - Raycast 让您可以通过几个按键控制工具。它旨在让您保持专注。
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
+* [SwiftQuit](https://swiftquit.com/) - 关闭窗口时自动退出 macOS 应用程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
@@ -1032,6 +1033,7 @@ Awesome Mac
 * [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换。
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
+* [JankyBorders](https://github.com/FelixKratz/JankyBorders) - 一个轻量级的 macOS 窗口边框系统。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大  [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop) ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - 多任务多窗口的软件。
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id441258766)
