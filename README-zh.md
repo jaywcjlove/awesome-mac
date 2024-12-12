@@ -258,6 +258,7 @@ Awesome Mac
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - 使用 OpenRecall，您可以轻松访问您的数字历史，增强您的记忆和生产力，同时不影响您的隐私。 [![Open-Source Software][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 为Postgres提供一个支持自动补全和语法高亮的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
+* [WezTerm](https://wezfurlong.org/wezterm/) - 一个用 Rust 实现的跨平台 GPU 加速终端模拟器和多路复用器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
@@ -365,7 +366,7 @@ Awesome Mac
 * [RawTherapee](https://rawtherapee.com/) - 免费的跨平台原始图像处理程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - 制作2D手绘动画的简单直观的工具。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
-* [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能PS图像处理软件的选择。
+* [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，PS的替代选择。
 * [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 轻松导出桌面分层文件 PSD 文件。[![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
 * [Sculptris](http://pixologic.com/sculptris/#) - 所见所得的 3D 建模。![Freeware][Freeware Icon]
@@ -696,6 +697,7 @@ Awesome Mac
 * [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?mt=12)
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
+* [Readest](https://github.com/chrox/readest) - Readest 是一款电子书阅读器，具有跨平台访问、强大的工具和直观的界面。[![Open-Source Software][OSS Icon]](https://github.com/chrox/readest) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - 支持PDF、CBZ和CBR格式的电子书阅读器，带有Live Text搜索功能。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
@@ -963,6 +965,7 @@ Awesome Mac
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?mt=12) 
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 控制 Mac 上显示器的亮度和音量，就像原生的 Apple 显示器一样。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MonitorControl/MonitorControl/)
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
+* [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
@@ -1169,6 +1172,7 @@ Awesome Mac
 * Macwk（非官方）：~~`https://macwk.com.cn/`~~
 * MacWk：~~`https://macwk.com/`~~
 * Macx：~~`https://www.macx.cn/`~~
+* xmac：~~`https://xmac.app/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 * 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
 * 未来软件园：~~`http://www.orsoon.com/`~~
