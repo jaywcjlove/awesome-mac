@@ -8,7 +8,7 @@ function copyTextToClipboard(text, cb) {
   el.style = {
     position: 'absolute',
     left: '-9999px',
-  }
+  };
   document.body.appendChild(el);
   const selected = document.getSelection().rangeCount > 0 ? document.getSelection().getRangeAt(0) : false;
   el.select();
@@ -25,13 +25,13 @@ function copyTextToClipboard(text, cb) {
     document.getSelection().addRange(selected);
   }
   cb && cb(isCopy);
-};
+}
 
 function copied(target, str) {
   target.classList.add('active');
   const input = target.parentElement.querySelector('input');
   if (input) {
-    copyTextToClipboard(input.value || '', function() {
+    copyTextToClipboard(input.value || '', function () {
       setTimeout(() => {
         target.classList.remove('active');
       }, 2000);

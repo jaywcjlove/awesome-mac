@@ -3,7 +3,7 @@ const demo = document.querySelectorAll('.idoc-demo-warpper .idoc-demo-previw');
 function getButton(elm, type = 'BUTTON') {
   let btn;
   do {
-    elm = elm.nextElementSibling
+    elm = elm.nextElementSibling;
     if (elm.tagName === type) {
       btn = elm;
       elm = undefined;
@@ -19,12 +19,12 @@ if (demo && demo.length > 0) {
       if (button) {
         button.innerHTML = item.classList.contains('ishiden') ? 'Preview' : 'Show Code';
         if (item.tagName === 'DIV') {
-          item.innerHTML = item.previousElementSibling.defaultValue
+          item.innerHTML = item.previousElementSibling.defaultValue;
         }
         button.onclick = () => {
           item.classList.toggle('ishiden');
           button.innerHTML = item.classList.contains('ishiden') ? 'Preview' : 'Show Code';
-        }
+        };
       }
     }
   });

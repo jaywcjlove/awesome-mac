@@ -1,11 +1,11 @@
-;(() => {
+(() => {
   function debounce(fn, delay = 1000) {
-    let time = null
+    let time = null;
     function _debounce(...args) {
       if (time !== null) clearTimeout(time);
-      time = setTimeout(() => fn.apply(this, args), delay)
+      time = setTimeout(() => fn.apply(this, args), delay);
     }
-    return _debounce
+    return _debounce;
   }
 
   const scrollSmoothOffset = 56;
@@ -25,7 +25,7 @@
           location.hash = anchor.getAttribute('href');
           updateScroll();
           updateAnchor();
-          tocsCollapse()
+          tocsCollapse();
         });
       });
     }
@@ -53,7 +53,7 @@
     if (element) {
       const tocElement = document.querySelector(`a.tocs-link[href='${decodeURIComponent(element.hash)}']`);
       if (tocElement) {
-        updateAnchor(tocElement)
+        updateAnchor(tocElement);
         tocsCollapse(tocElement);
       } else {
         const first = document.querySelector('a.tocs-link[href*="#"]');
@@ -65,7 +65,7 @@
     }
   }
 
-  document.addEventListener('scroll',debounce(scrollListener, 30), false);
+  document.addEventListener('scroll', debounce(scrollListener, 30), false);
 
   function updateAnchor(element) {
     const anchorContainer = document.querySelectorAll('.tocs aside.inner.toc a.tocs-link');
@@ -98,7 +98,12 @@
     if (!element) {
       element = document.querySelector(`a.tocs-link[href='${decodeURIComponent(location.hash)}']`);
     }
-    if (element && element.parentElement && element.parentElement.tagName !== 'ASIDE' && !element.parentElement.classList.contains('toc')) {
+    if (
+      element &&
+      element.parentElement &&
+      element.parentElement.tagName !== 'ASIDE' &&
+      !element.parentElement.classList.contains('toc')
+    ) {
       isOpen(element.parentElement);
       if (element.parentElement.classList.contains('is-collapsed')) {
         element.parentElement.classList.add('is-open');
@@ -121,8 +126,7 @@
     updateSiderBarScroll();
     updateScroll();
     updateAnchor();
-    tocsCollapse()
+    tocsCollapse();
     clearTimeout(timer);
   }, 100);
-
 })();
