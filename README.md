@@ -28,6 +28,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ✦ My macOS application:
 
 <p style="display: inline_block">
+  <a target="_blank" href="https://wangchujiang.com/iconed/" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
   <a target="_blank" href="https://wangchujiang.com/rightmenu-master/" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
   <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
   <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
@@ -1136,6 +1137,7 @@ highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli
 * [RecurseChat](https://recurse.chat) - RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.
 * [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 * [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.
+* [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful. [![App Store][app-store Icon]](https://apps.apple.com/app/iconed/id6739444407)
 * [Selectric](https://selectric.io/) - Private personal search engine for your emails, documents and messages. Search across Gmail, Outlook, Drive, Dropbox, Teams, Slack and more applications right from your computer. 
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.

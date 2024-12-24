@@ -914,6 +914,7 @@ Awesome Mac
 * [rem](https://github.com/jasonjmcghee/rem) - 一款开源软件，可以本地记录并搜索你在 Mac 上查看的所有内容。 [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
 * [Rewind](https://www.rewind.ai/) - Rewind 是一款专为 macOS 设计的应用程序，旨在记录和索引用户在 Mac 上的所有操作，包括屏幕内容和音频。用户可以通过 Rewind 回溯并搜索过去的活动，就像为 Mac 添加了一个“倒带键”。
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
+* [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大 [![App Store][app-store Icon]](https://apps.apple.com/app/iconed/id6739444407)
 * [scrcpy](https://github.com/Genymobile/scrcpy) - 可镜像通过 USB 或 TCP/IP 连接的 Android 设备（视频和音频），并允许使用电脑的键盘和鼠标控制设备。无需 root 权限，适用于 Linux、Windows 和 macOS 系统。[![Open-Source Software][OSS Icon]](https://github.com/Genymobile/scrcpy) ![Freeware][Freeware Icon]
 * [Sideloadly](https://sideloadly.io/) - 将你喜欢的游戏和应用程序侧载到 iOS 设备、Apple Silicon Mac 或 Apple TV 的全新最佳方式！ ![Freeware][Freeware Icon]
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
@@ -930,7 +931,7 @@ Awesome Mac
 * [Wallpaper Player](https://github.com/haren724/wallpaper-player-mac) - 一款强大的开源 Mac 动态壁纸应用，支持导入 Wallpaper Engine 上的壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/haren724/wallpaper-player-mac) ![Freeware][Freeware Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - 非官方的 WWDC Mac APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
-* [超级右键](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12)
+* [超级右键](https://www.better365.cn/apps.html) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?mt=12)
 
 
 ### 剪贴板工具
