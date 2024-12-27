@@ -244,6 +244,7 @@ Awesome Mac
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [Dnote](https://www.getdnote.com/) - 命令行上的笔记本，支持多设备同步和网络界面。 [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
+* [Ghostty](https://github.com/ghostty-org/ghostty) - 一个快速、功能丰富、跨平台的终端模拟器，使用平台原生UI和GPU加速。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
@@ -258,6 +259,7 @@ Awesome Mac
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - 使用 OpenRecall，您可以轻松访问您的数字历史，增强您的记忆和生产力，同时不影响您的隐私。 [![Open-Source Software][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 为Postgres提供一个支持自动补全和语法高亮的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
+* [Wave](https://github.com/wavetermdev/waveterm) - 一个将传统终端功能与图形功能(如文件预览、网络浏览和AI辅助)相结合的开源终端。[![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - 一个用 Rust 实现的跨平台 GPU 加速终端模拟器和多路复用器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
@@ -352,6 +354,7 @@ Awesome Mac
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台 3D 内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - 一个完整的开源颜色处理工具！ [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
+* [darktable](https://www.darktable.org) - 开源摄影工作流程应用程序和 RAW 开发工具。[![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Figma](https://www.figma.com/) - 一款基于 Web 的实时协作的云设计软件。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 字体编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
@@ -489,6 +492,7 @@ Awesome Mac
 * [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/weibox/id789066512)
 * [Mastodon](https://mastodon.social/) - 一个自由开源的去中心化的分布式微博客社交网络。[![Freeware][Freeware Icon]](https://joinmastodon.org/zh/apps) [![Open-Source Software][OSS Icon]](https://github.com/tootsuite/mastodon)
 * [Matrix](https://matrix.org/) - 一个用于安全、去中心化通信的开放网络。![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Microsoft Teams](https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/) - Microsoft Teams是一个通信和协作软件，它集成了聊天、视频会议、 文件存储 、Office 365等功能。
 * [Misskey](https://misskey-hub.net/) - Misskey是一个去中心化开源社交平台。[![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
@@ -497,7 +501,6 @@ Awesome Mac
 * [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
-* [Microsoft Teams](https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/) - Microsoft Teams是一个通信和协作软件，它集成了聊天、视频会议、 文件存储 、Office 365等功能。
 * [钉钉项目](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac ![Freeware][Freeware Icon]
 * [WeeChat](https://weechat.org/) - 一个命令行聊天客户端。![Freeware][Freeware Icon]
@@ -605,6 +608,7 @@ Awesome Mac
 
 ### 音频录制与编辑
 
+* [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 来自Apple的免费数字音频工作站（DAW），提供简介低门槛的操作界面和完整的音乐录制、剪辑制作功能 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&mt=12)
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 来自Apple的专业数字音频工作站（DAW），提供完整专业的音乐制作功能、优秀的自带插件和音源，原生支持Apple Silicon实现高效运行 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&mt=12)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]
