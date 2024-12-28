@@ -273,6 +273,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 * [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
 * [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
+* [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware][Freeware Icon]
 
 ## Developer Tools
 
