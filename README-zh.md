@@ -24,6 +24,9 @@ Awesome Mac
 ✦ 我的 macOS 应用程序：
 
 <div style="display: inline_block">
+  <a target="_blank" href="https://wangchujiang.com/daybar/" title="DayBar for macOS"><img align="center" alt="DayBar" height="50" width="50" src="https://github.com/user-attachments/assets/b67d4a2e-92e2-4d8c-8c6f-2a1eb3e2fa93"></a>
+  <a target="_blank" href="https://wangchujiang.com/iconed/" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
+  <a target="_blank" href="https://wangchujiang.com/rightmenu-master/" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
   <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
   <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
   <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
@@ -964,6 +967,7 @@ Awesome Mac
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 允许您使用 Mac 键盘上的媒体键控制基于Web的媒体播放器（SoundCloud，YouTube 等）和一些本机应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到 Mac OS 的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
+* [DayBar](https://wangchujiang.com/daybar/) - 菜单栏本地日历(农历)和提醒事件应用。 [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447)
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [HiddenBar](https://github.com/dwarvesf/hidden) - 一个超轻MacOS实用工具，帮助隐藏菜单栏图标。。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)
 * [Ice](https://github.com/jordanbaird/Ice) - 小巧且强大的菜单栏图标管理工具 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) [![Freeware][Freeware Icon]](https://github.com/jordanbaird/Ice)
