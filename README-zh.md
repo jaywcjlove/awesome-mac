@@ -58,7 +58,7 @@ Awesome Mac
   - [网络分析](#网络分析)
   - [命令行工具](#命令行工具)
   - [版本控制](#版本控制)
-  - [GUI](#gui)
+  - [版本控制 GUI](#版本控制-gui)
   - [版本控制系统](#版本控制系统)
   - [数据库](#数据库)
 - [设计和产品](#设计和产品)
@@ -109,8 +109,6 @@ Awesome Mac
   - [正版/介绍](#正版介绍)
   - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
 - [Contributors](#contributors)
-- [Backers](#backers)
-- [Sponsors](#sponsors)
 - [License](#license)
 
 <!--start-->
@@ -235,56 +233,12 @@ Awesome Mac
 * [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
-### 命令行工具
-
-> A curated list of shell commands and tools specific to OS X. [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-
-* [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录。 [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
-* [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的 bash 的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [bat](https://github.com/sharkdp/bat) - 带有语法高亮和Git集成的 `cat(1)` 克隆。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
-* [bclm](https://github.com/zackelia/bclm) - macOS 命令行工具，用于限制电池最大充电量。 [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 一款复古风格的终端，非常酷炫。怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
-* [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
-* [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
-* [Dnote](https://www.getdnote.com/) - 命令行上的笔记本，支持多设备同步和网络界面。 [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
-* [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
-* [Ghostty](https://github.com/ghostty-org/ghostty) - 一个快速、功能丰富、跨平台的终端模拟器，使用平台原生UI和GPU加速。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
-* [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
-* [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
-* [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
-* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
-* [job](https://github.com/liujianping/job) - 短命令并发、重复执行工具, 适用于压测. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
-* [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
-* [mycli](https://github.com/dbcli/mycli) - 为 MySQL 命令行客户端，提供语法高亮和提示功能的工具！ [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
-* [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
-* [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的 OS X 系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
-* [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
-* [ngrrram](https://github.com/wintermute-cell/ngrrram) - 一个帮助你提高打字速度并学习新布局的 TUI 工具，附赠一只免费的小猫。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wintermute-cell/ngrrram)
-* [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
-* [OpenRecall](https://github.com/openrecall/openrecall) - 使用 OpenRecall，您可以轻松访问您的数字历史，增强您的记忆和生产力，同时不影响您的隐私。 [![Open-Source Software][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
-* [pgcli](https://www.pgcli.com) - 为Postgres提供一个支持自动补全和语法高亮的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
-* [Wave](https://github.com/wavetermdev/waveterm) - 一个将传统终端功能与图形功能(如文件预览、网络浏览和AI辅助)相结合的开源终端。[![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
-* [WezTerm](https://wezfurlong.org/wezterm/) - 一个用 Rust 实现的跨平台 GPU 加速终端模拟器和多路复用器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
-* [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
-* [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
-* [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
-* [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
-* [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
-* [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令。[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
-* [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
-* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
-* [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
-* [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
-* [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
-* [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
-* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 一个由社区驱动,用于管理zsh配置的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
-
 ### 版本控制
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种 GUI 客户端](https://git-scm.com/download/gui/mac) for Mac。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git/git)
 * [SVN](http://subversion.apache.org/) - 版本控制工具。![Freeware][Freeware Icon]
 
-### GUI
+### 版本控制 GUI
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac 上最佳的 SVN 管理工具。
 * [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端。
