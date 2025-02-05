@@ -57,7 +57,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
     - [Office](#office)
-    - [Markdown Tools](#markdown-tools)
+    - [Markdown Tools](#markdown-tools-awesome-list)
     - [Note-taking](#note-taking)
     - [Journaling](#journaling)
     - [Writing](#writing)
@@ -162,9 +162,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - A complete office suite that aims for full compatibility with Microsoft Office documents.
 * [WPS](https://www.wps.com/mac) - Is a cross-platform office software suite. ![Freeware][Freeware Icon]
 
-### Markdown Tools
-
-> [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
