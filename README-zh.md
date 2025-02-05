@@ -61,6 +61,7 @@ Awesome Mac
   - [版本控制 GUI](#版本控制-gui)
   - [版本控制系统](#版本控制系统)
   - [数据库](#数据库)
+  - [命令行应用](#命令行应用)
 - [设计和产品](#设计和产品)
   - [设计工具](#设计工具)
   - [原型流程](#原型流程)
@@ -299,6 +300,15 @@ Awesome Mac
 * [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。 ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Redis，Bolt，LevelDB 和 Memcached 键值数据库的桌面GUI客户端。
 * [redis-pro](https://github.com/cmushroom/redis-pro) - 轻量，易用的 Redis 客户端管理工具，使用SwiftUI编写，很好的支持 Dark mode。 [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
+
+### 命令行应用
+
+* [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
+* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+* [Ghostty](https://github.com/ghostty-org/ghostty) - 一个快速、功能丰富、跨平台的终端模拟器，使用平台原生UI和GPU加速。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
+* [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
+* [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+* [Wave](https://github.com/wavetermdev/waveterm) - 一个将传统终端功能与图形功能(如文件预览、网络浏览和AI辅助)相结合的开源终端。[![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 
 ## 设计和产品
 

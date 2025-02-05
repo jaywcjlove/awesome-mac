@@ -13,7 +13,6 @@
 
 - [Awesome Mac](#优秀的命令行应用精选)
 - [目录](#目录)
-- [应用](#应用)
 - [数据库](#数据库)
 - [媒体](#媒体)
 - [开发者工具](#开发者工具)
@@ -23,15 +22,6 @@
 
 <!--start-->
 <!--idoc:ignore:end-->
-
-## 应用
-
-* [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
-* [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
-* [Ghostty](https://github.com/ghostty-org/ghostty) - 一个快速、功能丰富、跨平台的终端模拟器，使用平台原生UI和GPU加速。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
-* [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
-* [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
-* [Wave](https://github.com/wavetermdev/waveterm) - 一个将传统终端功能与图形功能(如文件预览、网络浏览和AI辅助)相结合的开源终端。[![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 
 ## 数据库
 
