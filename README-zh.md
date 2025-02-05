@@ -14,7 +14,7 @@ Awesome Mac
 
 **说明**
 
-[English](README.md) | [中文](README-zh.md)
+[English](README.md) | [优秀的命令行应用精选](./command-line-apps-zh.md)
 
 ![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
