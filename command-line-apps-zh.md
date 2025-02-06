@@ -36,7 +36,7 @@
 
 ## 目录
 
-- [Awesome Mac](#优秀的命令行应用精选)
+- [优秀的命令行应用精选](#优秀的命令行应用精选)
 - [目录](#目录)
 - [数据库](#数据库)
 - [媒体](#媒体)
@@ -81,7 +81,6 @@
 * [ngrrram](https://github.com/wintermute-cell/ngrrram) - 一个帮助你提高打字速度并学习新布局的 TUI 工具，附赠一只免费的小猫。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wintermute-cell/ngrrram)
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - 使用 OpenRecall，您可以轻松访问您的数字历史，增强您的记忆和生产力，同时不影响您的隐私。 [![Open-Source Software][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
-* [WezTerm](https://wezfurlong.org/wezterm/) - 一个用 Rust 实现的跨平台 GPU 加速终端模拟器和多路复用器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]

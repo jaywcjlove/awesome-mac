@@ -36,7 +36,7 @@ A curated list of useful command line apps
 
 ## Contents
 
-- [Awesome Mac](#awesome-command-line-apps)
+- [Awesome Command Line Apps](#awesome-command-line-apps)
 - [Contents](#contents)
 - [Databases](#databases)
 - [Media](#media)
