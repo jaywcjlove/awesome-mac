@@ -57,7 +57,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
     - [Office](#office)
-    - [Markdown Tools](#markdown-tools-awesome-list)
+    - [Markdown Tools](#markdown-tools)
     - [Note-taking](#note-taking)
     - [Journaling](#journaling)
     - [Writing](#writing)
