@@ -722,6 +722,7 @@ Awesome Mac
 * [Motrix](https://motrix.app/) - Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - Neat Download Manager 是一个简单轻量的图形用户界面，包裹着强大且优化的下载引擎。![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+* [Swads](https://swads.app/) - 群晖 Download Station 客户端，现代、原生、凭直觉再设计。
 * [Transmission](https://www.transmissionbt.com/) - 免费的 BitTorrent 客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 一款功能丰富的命令行音视频下载器。 [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) ![Freeware][Freeware Icon]
