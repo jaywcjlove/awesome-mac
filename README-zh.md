@@ -739,7 +739,7 @@ Awesome Mac
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]
 * [Resilio Sync](https://www.resilio.com/individuals/) - P2P私有云盘，BitTorrent血统，支持`安卓`/`iOS`/`Windows`/`macOS`/`Linux`/`FreeBSD`/`NAS`等系统平台。注意：截止2021.7.20，macOS平台客户端存在休眠崩溃现象，除此之外可以正常使用。![Freeware][Freeware Icon]
 * [Seafile](https://www.seafile.com/) - 是由国内团队开发的国际化的开源云存储软件项目。![Freeware][Freeware Icon]
-* [Syncthing](https://syncthing.net/) - [Resilio Sync](https://www.resilio.com/individuals/)的开源竞争者，架构上更加开放自由，良好的用户文档，基于Go语言支持大量系统平台，甚至包括`OpenWrt`！此项目的界面翻译工作也支持[开源共建](https://www.transifex.com/syncthing/syncthing/dashboard/)。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/) ![Freeware][Freeware Icon]
+* [Syncthing](https://syncthing.net/) - [Resilio Sync](https://www.resilio.com/individuals/)的开源竞争者，开源的实时文件同步。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/) ![Freeware][Freeware Icon]
 * [ownCloud](https://owncloud.org) - 私有云网盘。
 * [百度网盘](http://pan.baidu.com/download?from=header#pan) - 百度网盘客户端。![Freeware][Freeware Icon]
 * [腾讯微云](https://www.weiyun.com/) - 腾讯云客户端。![Freeware][Freeware Icon]
