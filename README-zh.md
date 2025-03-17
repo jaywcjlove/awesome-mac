@@ -950,7 +950,7 @@ Awesome Mac
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 控制 Mac 上显示器的亮度和音量，就像原生的 Apple 显示器一样。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MonitorControl/MonitorControl/)
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
-* [RunCat] - 一款你的电脑状态显示应用，隐藏在菜单栏里面，有 CPU, 内存，硬盘，电池，网络状态显示，菜单栏会变成一个跑动的小猫或其他你喜欢的动态图标 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12)
+* [RunCat](https://github.com/Kyome22/RunCat_for_windows) - 一款你的电脑状态显示应用，隐藏在菜单栏里面，有 CPU, 内存，硬盘，电池，网络状态显示，菜单栏会变成一个跑动的小猫或其他你喜欢的动态图标 [![Open-Source Software][OSS Icon]](https://github.com/Kyome22/RunCat_for_windows) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12)
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
