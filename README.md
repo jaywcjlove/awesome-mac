@@ -763,6 +763,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - Free, open-source music library management tool with audio conversion and tag management functionalities. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - As the name suggests, a tiny player. ![Freeware][Freeware Icon]
+* [Tuneful](https://www.tuneful.dev) - Control your Spotify and Apple Music from the notch, menu bar or mini player. Efortlessly and natively. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295)
 * [VLC](http://www.videolan.org/index.html) - Free, open-source, cross-platform multimedia player and framework that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
