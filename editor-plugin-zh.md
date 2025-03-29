@@ -1,4 +1,4 @@
-Editors Plugin
+编辑器插件
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
 
@@ -95,6 +95,7 @@ Editors Plugin
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - 将 Markdown 文档转为 pdf、html、png 或 jpeg。
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - VSCode ，帮助校验 ES 语法等。
   * [TSLint](https://github.com/Microsoft/vscode-eslint) - TSLint 在 VScode 工具，帮助校验 TS 语法等。
+  * [Typora](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) - 让你的VSCode拥有Typora级Markdown编辑体验。
 
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - 自动闭合标签。
