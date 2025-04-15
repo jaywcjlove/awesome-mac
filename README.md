@@ -276,6 +276,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
 * [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 * [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free. [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware][Freeware Icon]
+* [PDFsail](https://pdfsail.com/) - PDFsail offers free online PDF tools for editing, converting, merging, compressing, and OCR. No download required. Try this AI-powered all-in-one PDF solution now!.
 
 ## Developer Tools
 
