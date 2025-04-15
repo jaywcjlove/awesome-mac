@@ -667,6 +667,7 @@ Awesome Mac
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
 * [语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，支持Markdown写作、流程图、脑图、代码渲染等功能，适合个人知识分享和团队协作。![Freeware][Freeware Icon]
+* [remio](https://www.remio.ai/) - AI 驱动的本地优先个人知识库。
 
 ### 写作
 
