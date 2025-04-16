@@ -62,6 +62,7 @@ A curated list of useful command line apps
 
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
+* [mdctl](https://github.com/samzong/mdctl) - A command-line tool for processing Markdown files. Download Images, Translate Files, etc. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ## Other
 

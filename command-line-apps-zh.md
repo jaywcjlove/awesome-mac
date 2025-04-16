@@ -62,6 +62,7 @@
 
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
+* [mdctl](https://github.com/samzong/mdctl) - 一个用于处理 Markdown 文件的命令行工具。下载图片、翻译文件等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 ## Other
 
