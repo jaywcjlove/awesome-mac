@@ -6,7 +6,7 @@
     <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/c7f141e7-9751-407d-bb0e-d6f2c487b34f">
   </a>
   <br>
-  <h3><a href="https://warp.dev/awesome-mac">Warp, the intelligent terminal for developers!</a></h3>
+  <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
 </div>
 <hr>
