@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="https://www.warp.dev/awesome-mac">
-    <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/c7f141e7-9751-407d-bb0e-d6f2c487b34f">
+    <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/f931cbc6-b072-4b67-b96a-670f1dc9e4fa">
   </a>
   <br>
   <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
