@@ -32,7 +32,7 @@
     "url": "https://github.com/jaywcjlove/awesome-mac/issues"
   },
   "devDependencies": {
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.0.0",
     "idoc": "^1.26.5",
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
