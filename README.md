@@ -393,7 +393,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
-* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
+* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time. ![Freeware][Freeware Icon]
+* [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - A lightweight, fast, and full-featured API debugging tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
