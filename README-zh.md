@@ -862,6 +862,7 @@ Awesome Mac
 * [Shimo](https://www.shimovpn.com/) - 连接大量 VPN 的应用。
 * [Surge](https://nssurge.com/) - 科学上网。
 * [tinc](https://www.tinc-vpn.org) - VPN 软件。[![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc)![Freeware][Freeware Icon]
+* [Tailscale](https://tailscale.com) - Tailscale 是一种基于 Wireguard 的零配置、端到端加密、点对点 VPN。![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 简单的私人 VPN。![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
 
