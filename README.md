@@ -401,6 +401,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware][Freeware Icon]
+* [Yaak](https://yaak.app) - A modern API client supporting multiple protocols, offline usage, and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 
 ### Network Analysis
 
