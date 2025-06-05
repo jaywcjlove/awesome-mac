@@ -494,8 +494,7 @@ Awesome Mac
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/) - 畅所欲言来尝试一种别样的通讯体验吧。Signal 不仅提供各种常见的功能，还尤为注重隐私安全。![Freeware][Freeware Icon]
-* [Skype](https://www.skype.com/) - Skype 共享、跨平台的短信和电话。
-* [Slack](https://slack.com/) - 团队协作，沟通工具。
+* [Teams](https://teams.live.com/) - 免费在线会议和视频通话。
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [钉钉项目](https://www.teambition.com) - 团队协作。提供管理任务、安排日程、查找文件、即时讨论等团队所需要的一切协作功能。![Freeware][Freeware Icon]
