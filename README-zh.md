@@ -88,6 +88,7 @@ Awesome Mac
   - [截图工具](#截图工具)
   - [其它工具](#其它工具)
 - [虚拟机](#虚拟机)
+- [AI 客户端](#AI-客户端)
 - [通信](#通信)
   - [Email](#email)
   - [文件共享](#文件共享)
@@ -476,6 +477,12 @@ Awesome Mac
 * [Virtual Box](http://www.virtualbox.org) - 免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。![Freeware][Freeware Icon]
 * [VMware Fusion Pro](http://www.vmware.com/) - 功能强大的虚拟机软件，个人使用免费，企业需要许可![Freeware][Freeware Icon]
 
+## AI 客户端
+
+* [ChatGPT](https://openai.com/chatgpt/download/) - 一个能够倾听、学习并提出挑战的对话式人工智能系统。
+* [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
+* [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
+
 ## 通信
 
 *推荐一些通信工具，沟通，团队协同。*
@@ -494,6 +501,7 @@ Awesome Mac
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/) - 畅所欲言来尝试一种别样的通讯体验吧。Signal 不仅提供各种常见的功能，还尤为注重隐私安全。![Freeware][Freeware Icon]
+* [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [Teams](https://teams.live.com/) - 免费在线会议和视频通话。
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)

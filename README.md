@@ -100,6 +100,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
     - [Screencapturing Software](#screencapturing-software)
     - [Other Tools](#other-tools)
+- [AI Client](#ai-client)
 - [Communication](#communication)
     - [Collaboration and Team Tools](#collaboration-and-team-tools)
     - [Email Clients](#email-clients)
@@ -658,6 +659,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) - Export icons for multi-platform[![App Store][app-store Icon]](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12)
 * [uPic](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+
+## AI Client
+
+* [ChatGPT](https://openai.com/chatgpt/download/) - A conversational AI system that listens, learns, and challenges
+* [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
+* [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 
 ## Communication
 
