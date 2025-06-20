@@ -604,6 +604,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Screencapturing Software
 
+* [1001 Record](https://1001record.com/) - The Simple and Reliable Screen Recorder. [![App Store][app-store Icon]](https://itunes.apple.com/app/1001-record-screen-recorder/id6451834996)
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
