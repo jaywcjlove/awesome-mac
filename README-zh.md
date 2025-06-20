@@ -214,6 +214,7 @@ Awesome Mac
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
 * [PPRows](https://github.com/jkpang/PPRows) - 计算你写了多少行代码。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
+* [ProcessSpy](https://process-spy.app/) - 原生进程监视器，功能丰富，界面简洁。
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - 用于增强与git交互的shell脚本集(用于bash和zsh)。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
