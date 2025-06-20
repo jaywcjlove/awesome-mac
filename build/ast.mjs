@@ -1,5 +1,5 @@
 import { toVFile } from 'to-vfile'
-import remark from 'remark'
+import { remark } from 'remark'
 import gfm from 'remark-gfm'
 import FS from 'fs-extra'
 
@@ -117,7 +117,7 @@ remark()
     const data = tree.children.slice(startIndex + 1, endIndex)
     const dataAST = getMdToAST([...data])
     FS.outputJsonSync('./dist/awesome-mac.json', dataAST)
-    console.log('  create file: ./dist/awesome-mac.json')
+    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.json \x1b[0m');
   })
   .processSync(toVFile.readSync('README.md'))
 
@@ -130,6 +130,6 @@ remark()
     const data = tree.children.slice(startIndex + 1, endIndex)
     const dataAST = getMdToAST([...data])
     FS.outputJsonSync('./dist/awesome-mac.zh.json', dataAST)
-    console.log('  create file: ./dist/awesome-mac.zh.json')
+    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.zh.json \x1b[0m');
   })
   .processSync(toVFile.readSync('README-zh.md'))

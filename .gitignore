@@ -1,6 +1,7 @@
 node_modules/
 dist/*.html
 dist/*.json
+dist
 npm-debug.log*
 package-lock.json
 
