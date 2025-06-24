@@ -37,6 +37,7 @@ Awesome Mac
 ✦ 我的 macOS 应用程序：
 
 <p style="display: inline_block">
+<a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
 <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
 <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
 <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
@@ -947,6 +948,7 @@ Awesome Mac
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 快速解压单个多个不同种类的压缩文件/压缩文件到各类常见压缩格式。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/Uotan-Dev/UotanToolboxNT) ![Freeware][Freeware Icon]
+* [Vidwall](https://apps.apple.com/app/Vidwall/6747587746) - 支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [Wallpaper Player](https://github.com/haren724/wallpaper-player-mac) - 一款强大的开源 Mac 动态壁纸应用，支持导入 Wallpaper Engine 上的壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/haren724/wallpaper-player-mac) ![Freeware][Freeware Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - 非官方的 WWDC Mac APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 测量、检查和测试屏幕上的图形和布局的工具。搜索你的苹果和网络，快速打开应用程序。
