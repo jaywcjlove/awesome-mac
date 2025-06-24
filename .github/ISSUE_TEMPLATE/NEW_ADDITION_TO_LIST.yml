@@ -1,0 +1,44 @@
+name: 🎉 Addition to list
+description: Suggest an addition to this list.
+title: '🎉 Add <App Name>'
+labels: ['addition']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: Each discrete (stand-alone) request should be in its own issue.
+
+  - type: textarea
+    attributes:
+      label: 🪩 Provide a link to the proposed addition
+      description: Place link here.
+      placeholder: | 
+        https://github.com/jaywcjlove/awesome-mac
+        https://github.com/jaywcjlove/awesome-mac
+        https://github.com/jaywcjlove/awesome-mac
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: 😳 Explain why it should be added
+      description: A clear and concise description of why it should be added to this list.
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: 📖 Additional context
+      description: Add any other context or screenshots about the feature request here.
+
+
+  - type: checkboxes
+    attributes:
+      label: 🧨 Issue Checklist
+      description: Put an x in the boxes once you've completed each step. You can also fill these out after creating the issue. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before responding to the issue.
+      options:
+        - label: I have checked for other similar issues
+        - label: I have explained why this change is important
+        - label: I have added necessary documentation (if appropriate)
+    validations:
+      required: true

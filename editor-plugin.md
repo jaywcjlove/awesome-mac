@@ -1,35 +1,9 @@
-Plugin
----
+Editors Plugin
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-## Atom Plugin
-
-* Common plugins
-  * [relative-numbers](https://atom.io/packages/relative-numbers) - Relative line numbers.
-  * [trailing-spaces](https://atom.io/packages/trailing-spaces) - Highlights trailing whitespace.
-  * [terminal-plus](https://atom.io/packages/terminal-plus) - A terminal package for Atom, complete with themes and more.
-  * [vim-mode-plus](https://atom.io/packages/vim-mode-plus) - Add vim modal control.
-  * [ex-mode](https://atom.io/packages/ex-mode) - ex-mode for Atom's vim-mode.
-  * [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Autocomplete + paths suggestions
-  * [docblockr](https://atom.io/packages/docblockr) - A helper package for writing documentation.
-  * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
-  * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
-  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - Dracula beautiful color。
-  * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
-  * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
-  * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
-  * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Graphical display of regular expressions。
-* Front-end
-  * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
-  * [autoprefixer](https://atom.io/packages/autoprefixer) - Prefix CSS and SCSS.
-  * [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using `jshint`.
-  * [atom-html-preview](https://atom.io/packages/atom-html-preview) - The built-in Chrome, mobile terminal, is very good。
-  * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - You can talk with the current file output, the relative path to the target file for file call each other more。
-* Python
-  * [autocomplete-python](https://atom.io/packages/autocomplete-python) - Python packages, variables, methods and functions with their arguments autocompletion in Atom powered by [Jedi](https://github.com/davidhalter/jedi)
-  * [linter-flake8](https://atom.io/packages/linter-flake8) - Atom linter plugin for Python, using flake8.
-  * [python-tools](https://atom.io/packages/python-tools) - Goto definition, show usages, refactor/rename and more for python files.
+<!--rehype:style=text-align: center;-->
 
 ## Sublime Text Plugin
 
@@ -62,22 +36,23 @@ Plugin
 
 * Common
 
-  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio
-  * [Bracket Pair Colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
-  * [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Shows indentation with a faint rainbow colored background to make them more readable
-  * [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces) - Allows you to highlight trailing spaces and delete them in a flash
-  * [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - Highlighting todos, fixmes, and any annotations
-  * [Code Spell Checker](https://github.com/Jason-Rev/vscode-spell-checker) - A simple source code spell checker for typescript and javascript
-  * [Document This](https://github.com/joelday/vscode-docthis) - JSDoc generator extension for Visual Studio Code
-  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
-  * [Git Lens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code
-  * [View In Browser](https://github.com/hellopao/view-in-browser) - View a html file in system's default browser
-  * [SVG Viewer](https://github.com/cssho/vscode-svgviewer) - SVG Viewer for Visual Studio
   * [Auto-Open Markdown Preview](https://github.com/hnw/vscode-auto-open-markdown-preview) - Opening Markdown-preview automatically when opening a Markdown file
-  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - Convert Markdown file to pdf, html, png or jpeg file.
+  * [Bracket Pair Colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
+  * [Code Spell Checker](https://github.com/Jason-Rev/vscode-spell-checker) - A simple source code spell checker for typescript and javascript
   * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code in the Google Chrome browser.
+  * [Document This](https://github.com/joelday/vscode-docthis) - JSDoc generator extension for Visual Studio Code
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
+  * [Git Lens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code
+  * [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) - Shows indentation with a faint rainbow colored background to make them more readable
+  * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - Convert Markdown file to pdf, html, png or jpeg file.
+  * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
+  * [SVG Viewer](https://github.com/cssho/vscode-svgviewer) - SVG Viewer for Visual Studio
+  * [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - Highlighting todos, fixmes, and any annotations
+  * [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces) - Allows you to highlight trailing spaces and delete them in a flash
   * [TSLint](https://github.com/microsoft/vscode-tslint) - Integrate tslint into VSCode.
+  * [Typora](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) - Provides a Typora-like Markdown editing experience in VSCode.
+  * [View In Browser](https://github.com/hellopao/view-in-browser) - View a html file in system's default browser
+  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio
 
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - Auto Close Tag
@@ -87,12 +62,12 @@ Plugin
   * [HTML CSS Support](https://github.com/ecmel/vscode-html-css) - CSS support for HTML documents
 
 * JS
-  * [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - Autocompletes npm modules in import statements
-  * [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - Autocompletes filenames
   * [Auto Import](https://github.com/soates/Auto-Import) - Automatically finds, parses and provides code actions for all available imports.
-  * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - Run code snippet or code file for multiple languages
+  * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - Run code snippet or code file for multiple languages.
   * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
-  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) Test regex and preview
+  * [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - Autocompletes npm modules in import statements.
+  * [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - Autocompletes filenames.
+  * [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Test regex and preview.
 
 * React/Vue
   * [react-beautify](https://github.com/taichi/react-beautify) -  This extension wraps prettydiff/esformatter to format your javascript, JSX, typescript, TSX file.
@@ -113,3 +88,8 @@ Plugin
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
+
+<!--idoc:config:
+title: Editors Plugin Sharing Recommendation -
+description: Editors Plugin Sharing Recommendation - Awesome Mac
+-->
