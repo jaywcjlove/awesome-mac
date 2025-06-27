@@ -1,3 +1,25 @@
+<div align="center" markdown="1">
+  <sup>Special thanks to:</sup>
+  <br>
+  <br>
+  <a href="https://www.warp.dev/awesome-mac">
+    <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
+  </a>
+  <br>
+  <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
+  <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
+
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/zenquery.png">
+  </a>
+  <br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac"><b>ZenQuery</b></a><br>
+  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">Instant Q/A on your data files (CSV, JSON, Excel, Parquet)</a>
+  
+  <br><br>
+</div>
+<hr>
+
 编辑器插件
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
