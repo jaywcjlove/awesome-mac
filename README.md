@@ -257,6 +257,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Writing
 
+* [Monotype](https://monotype.app) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
