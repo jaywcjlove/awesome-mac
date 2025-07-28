@@ -833,6 +833,7 @@ Awesome Mac
 * [Safari](http://www.apple.com/cn/safari/) - Mac 预装自带浏览器。![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium/) - ungoogled-chromium 移除了 Google 专有组件加强了隐私控制使其更加透明 [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium/) ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - Opera 开发商出品新的浏览器。![Freeware][Freeware Icon]
+* [Web](https://github.com/nuance-dev/Web) - 为 macOS 打造的极简 AI 浏览器，基于 SwiftUI。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 * [Zen](https://zen-browser.app/) - 设计优美、注重隐私、功能强大的浏览器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 * [Ōryōki](http://oryoki.io/) - 小的 web 浏览器。这是一个试验性的项目，目前正在开发中![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。![Freeware][Freeware Icon]
