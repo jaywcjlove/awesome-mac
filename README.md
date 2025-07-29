@@ -1219,6 +1219,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon]
+* [FlowVision](https://github.com/netdcy/FlowVision) <img align="bottom" height="13" src="https://badgen.net/github/stars/netdcy/FlowVision?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/netdcy/FlowVision?style=flat&label=" /> - A smooth waterfall-style viewer for images and videos on macOS.
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.

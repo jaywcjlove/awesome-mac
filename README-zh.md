@@ -1100,6 +1100,7 @@ Awesome Mac
 
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
+* [FlowVision](https://github.com/netdcy/FlowVision) <img align="bottom" height="13" src="https://badgen.net/github/stars/netdcy/FlowVision?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/netdcy/FlowVision?style=flat&label=" /> - 瀑布流式图像与视频查看器。
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的 Finder 替代者，拥有很多特性。
