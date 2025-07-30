@@ -292,7 +292,7 @@ Awesome Mac
 * [OhMyStar](https://ohmystarapp.com/) - 最好的组织 GitHub Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ohmystar/id1218642292?mt=12)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的 Git 跨平台客户端。![Freeware][Freeware Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 GitHub 服务。
-* [Sublime Merge](https://www.sublimemerge.com/) -  Git客户端，来自Sublime Text的制造商。
+* [Sublime Merge](https://www.sublimemerge.com/) - Git客户端，来自Sublime Text的制造商。
 * [Tower2](https://www.git-tower.com/) - 最强大的 Git 客户端。
 * [Versions](http://www.versionsapp.com/) - Mac 上最好的 SVN 管理工具。
 
@@ -376,13 +376,14 @@ Awesome Mac
 * [macSVG](https://macsvg.org/) - 设计HTML5 SVG艺术和动画。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]
 * [MakeHuman](http://www.makehumancommunity.org) - 功能强大且免费的3D人体建模器。 ![Freeware][Freeware Icon]
-* [Monodraw](https://helftone.com/) -  macOS 平台上强大的 ASCII 设计流程编辑器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675)
+* [Monodraw](https://helftone.com/) - macOS 平台上强大的 ASCII 设计流程编辑器。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/monodraw/id920404675)
 * [Nik Collection](https://nikcollection.dxo.com/) - 专业照片后期制作工具，Google 收购后免费![Freeware][Freeware Icon]
 * [RawTherapee](https://rawtherapee.com/) - 免费的跨平台原始图像处理程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - 制作2D手绘动画的简单直观的工具。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](https://www.pixelmator.com/) - 强大的图像编辑器，PS的替代选择。
-* [Principle](http://principleformac.com/) -  使用它很容易设计动画和交互式用户界面。
+* [Principle](http://principleformac.com/) - 使用它很容易设计动画和交互式用户界面。
+* [Pika](https://superhighfives.com/pika) - 一个开源的取色器应用。[![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421)
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 轻松导出桌面分层文件 PSD 文件。[![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/screentolayers/id1077317077?l=en&mt=12)
 * [Sculptris](http://pixologic.com/sculptris/#) - 所见所得的 3D 建模。![Freeware][Freeware Icon]
 * [Sketch](https://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web 和移动设计。
@@ -683,7 +684,7 @@ Awesome Mac
 * [MacDown](http://macdown.uranusjr.com/) - 一款开源的 Markdown 编辑器，深受[Mou](http://25.io/mou/)的影响。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown 文本预览编辑，为所有作家提供一套优雅而强大的工具。
 * [MarkText](https://marktext.app/) - 简单而优雅的 Markdown 编辑器，专注于速度和可用性。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
-* [Marp](https://marp.app) -  Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
+* [Marp](https://marp.app) - Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/yhatt/marp) ![Freeware][Freeware Icon]
 * [Marxico马克飞象](https://maxiang.io/) - 专为印象笔记打造的Markdown编辑器，结合强大的存储和同步功能，带来极致的书写体验。
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
@@ -1041,7 +1042,7 @@ Awesome Mac
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [FixTim](https://github.com/Lakr233/FixTim) - 无须重启即可修复 macOS 上的所有运行时的 bug。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Lakr233/FixTim)
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon]
-* [HandShaker](http://www.smartisan.com/apps/handshaker) -  Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
+* [HandShaker](http://www.smartisan.com/apps/handshaker) - Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 菜单栏上的高级 Mac 系统监视器。
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - 让电池显示更有趣 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]

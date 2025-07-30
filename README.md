@@ -577,6 +577,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor for Mac.
 * [Principle](http://principleformac.com/) -  Application for designing animated and interactive user interfaces.
+* [Pika](https://superhighfives.com/pika) - An open-source color picker app. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421)
 * [RawTherapee](https://rawtherapee.com/) - A powerful cross-platform raw photo processing program! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/screentolayers/id1077317077)
 * [Sketch](http://www.sketchapp.com/) - Professional digital design for mac.
