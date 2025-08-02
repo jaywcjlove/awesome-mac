@@ -493,6 +493,7 @@ Awesome Mac
 
 ## AI 客户端
 
+* [AppleAi](https://www.theappleai.tech/) - 一键快捷访问菜单栏中的多款 AI 助手。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
 * [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
