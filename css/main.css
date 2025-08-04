@@ -16,6 +16,7 @@
   --color-done-emphasis: #8250df;
   --color-success-fg: #1a7f37;
   --color-success-emphasis: #1f883d;
+  --color-fg-muted: #8b949e;
 }
 
 [data-color-mode*='light'],
@@ -36,12 +37,24 @@
   --color-done-emphasis: #8957e5;
   --color-success-fg: #3fb950;
   --color-success-emphasis: #238636;
+  --color-fg-muted: #57606a;
 }
 
 *,
 :after,
 :before {
   box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  background: transparent;
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-fg-muted);
+  border-radius: 10px;
 }
 
 html {
