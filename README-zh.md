@@ -262,6 +262,7 @@ Awesome Mac
 * [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - 新一代 API 开发工具，先进的 API 调试代理和 REST 客户端。 ![Freeware][Freeware Icon]
+* [Trayce](https://trayce.dev) - 可监控 Docker 容器流量并内置 .bru HTTP 客户端。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/evanrolfe/trayce_gui)
 * [Yaak](https://yaak.app) - 支持多种协议、离线可用、兼容 Git 的现代化 API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 
 ### 网络分析
