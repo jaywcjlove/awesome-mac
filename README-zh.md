@@ -396,7 +396,7 @@ Awesome Mac
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) - 直接从画板生成流程图。[![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - 可视化网页设计工具。
-* [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - macOS颜色选择器是一款具有更多功能的应用程序。 [![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783)
+* [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - macOS颜色选择器是一款具有更多功能的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783)
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Vectornator: Design Software](https://www.vectornator.io/) - Galaxy中最直观、最精确的插图软件。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514)
 * [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的 Web 和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
@@ -807,9 +807,9 @@ Awesome Mac
 * [小白羊网盘](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 Powered by 阿里云盘。
 
 ## 输入法
+
 * [imewlconverter](https://github.com/studyzy/imewlconverter) 深蓝词库转换,一款开源免费的输入法词库转换程序 [![Open-Source Software][OSS Icon]](https://github.com/studyzy/imewlconverter) ![Freeware][Freeware Icon]
 * [fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - 小企鹅输入法 macOS版本 [![Open-Source Software][OSS Icon]](https://github.com/fcitx-contrib/fcitx5-macos) ![Freeware][Freeware Icon]
-* [Kawa](https://github.com/utatti/kawa) - 给每个输入法定义一个快捷键. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
 * [Type2Phone](https://www.houdah.com/support/) - 把 Macbook 键盘变为 iPhone 的蓝牙键盘。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?mt=12)
@@ -848,7 +848,7 @@ Awesome Mac
 
 ## 翻译工具
 
-* [Bob](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12) - 简小好用的翻译工具，支持语言自动检测，截图翻译。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12)
+* [Bob](https://apps.apple.com/cn/app/id1630034110?mt=12) - 简小好用的翻译工具，支持语言自动检测，截图翻译。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1630034110?mt=12)
 * [DeepL](https://www.deepl.com/zh/macos-app) - 拥有深度神经学习网络的翻译软件，自称世界上最准确的翻译软件，在学术论文和科技文章方面优于其他同类软件。![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 方便查找单词或翻译文本 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](https://www.eudic.net/v4/en/app/download) - 欧路词典,权威的英语词典软件 英语学习者必备的工具
@@ -917,9 +917,9 @@ Awesome Mac
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度和输入
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
-* [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - 一款适用于 Apple 设备（macOS 与 iOS）的 DNS 切换与性能基准测试工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dns-optimizer/id6741016224?platform=mac)
+* [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - 一款适用于 Apple 设备（macOS 与 iOS）的 DNS 切换与性能基准测试工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dns-optimizer/id6741016224?platform=mac)
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - 一款拖放文件辅助工具，可以将文件放在一个悬浮窗以方便移动到其他位置。![Freeware][Freeware Icon]
-* [Dropover](https://dropoverapp.com/) - 一款拖放文件、文本辅助工具，可以在无需打开并排窗口的情况下，将可拖动内容存储、收集或移动，比 Dropshelf 功能更加丰富。[![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
+* [Dropover](https://dropoverapp.com/) - 一款拖放文件、文本辅助工具，可以在无需打开并排窗口的情况下，将可拖动内容存储、收集或移动，比 Dropshelf 功能更加丰富。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/dropover-easier-drag-drop/id1355679052)
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 界面简洁，功能完善，支持主流的多种压缩格式。支持 Mojave 深色模式、QuickLook预览、拖拽解压。 ![Freeware][Freeware Icon]
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
