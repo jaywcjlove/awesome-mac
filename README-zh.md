@@ -1,5 +1,5 @@
 <div align="center" markdown="1">
-  <sup>Special thanks to:</sup>
+  <sup>特别感谢：</sup>
   <br>
   <br>
   <a href="https://www.warp.dev/awesome-mac">
