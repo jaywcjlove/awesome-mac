@@ -1053,6 +1053,7 @@ Awesome Mac
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
 * [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707)
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - 一款高效的 macOS 文件搜索工具，基于原生 Spotlight 引擎，支持极速搜索。[![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
 * [FixTim](https://github.com/Lakr233/FixTim) - 无须重启即可修复 macOS 上的所有运行时的 bug。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Lakr233/FixTim)
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon]
 * [HandShaker](http://www.smartisan.com/apps/handshaker) - Mac 电脑上也可以方便自如地管理您在 Android 手机中的内容。 ![Freeware][Freeware Icon]
