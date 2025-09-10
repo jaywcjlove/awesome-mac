@@ -1069,7 +1069,7 @@ Awesome Mac
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
-* [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+* [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon]
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Raycast](https://raycast.com) - Raycast 让您可以通过几个按键控制工具。它旨在让您保持专注。
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
