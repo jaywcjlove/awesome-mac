@@ -867,6 +867,7 @@ Awesome Mac
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/itext-ocr-translator/id1314980676?mt=12)
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
+* [Nani](https://nani.now) - 快速AI翻译，附带清晰解释。
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
 * [Translatium](https://translatium.app) - 在 100 多种语言之间翻译单词、短语和图像，并提供字典、音译和语音输出支持。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/translatium/id1547052291)
