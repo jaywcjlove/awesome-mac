@@ -3,14 +3,17 @@ import { remark } from 'remark'
 import gfm from 'remark-gfm'
 import FS from 'fs-extra'
 
-const getHeadingText = (arr = [], title = '') => {
+const getHeadingText = (arr = []) => {
+  let title = ''
   arr.forEach(child => {
-    title += child.value
+    if (typeof child.value === 'string') {
+      title += child.value
+    }
     if (child.children && Array.isArray(child.children)) {
-      title += getHeadingText(child.children, title)
+      title += getHeadingText(child.children)
     }
   })
-  return title;
+  return title
 }
 
 const getSoftwareName = (obj, result = { title: '' }) => {
