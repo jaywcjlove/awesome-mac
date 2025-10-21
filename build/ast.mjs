@@ -52,8 +52,9 @@ const getIconDetail = (data, url = '') => {
         type = 'awesome-list'
       }
       return { type, url }
+    }
+    return false
   }
-  return false
 }
 
 /**
@@ -90,7 +91,7 @@ const getMarkIcons = (arr = [], parent = {}) => {
 }
 
 const getMdToAST = (data = [], parent = {}) => {
-  data = data.map((child) => {
+  data = data.filter((m) => m.type !== 'html').map((child) => {
     if (child.position) {
       delete child.position
       if (child.type === 'listItem') { 
