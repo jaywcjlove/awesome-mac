@@ -638,6 +638,7 @@ Awesome Mac
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方播放器 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [Musicer](https://apps.apple.com/app/musicer/6745227444) - 轻巧的本地音乐播放器，支持多种格式，畅享随时随地的音乐。
+* [Fmusic](https://github.com/wandercn/fmusic) - 基于 SwiftUI 开发的 macOS 本地音乐播放器，支持多格式音频播放，集控制、元信息编辑、歌词显示等功能于一体，还可通过文件夹导入、收藏、搜索等操作管理音乐。
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com) - 全球流行的音乐流媒体服务，提供海量音乐和个性化推荐。
