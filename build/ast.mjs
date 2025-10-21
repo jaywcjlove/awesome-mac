@@ -35,21 +35,23 @@ const getSoftwareName = (obj, result = { title: '' }) => {
 }
 
 const getIconDetail = (data, url = '') => {
-  if (data.type === 'imageReference' && data.identifier && /^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-    let type = ''
-    if (/^(freeware\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'freeware'
-    }
-    if (/^(oss\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'oss'
-    }
-    if (/^(app-store\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'app-store'
-    }
-    if (/^(awesome-list\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'awesome-list'
-    }
-    return { type, url }
+  if (data.type === 'imageReference' && data.identifier) {
+    const identifier = data.identifier.toLocaleLowerCase()
+    if (/^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon)/.test(identifier)) {
+      let type = ''
+      if (/^(freeware\s+icon)/.test(identifier)) {
+        type = 'freeware'
+      }
+      if (/^(oss\s+icon)/.test(identifier)) {
+        type = 'oss'
+      }
+      if (/^(app-store\s+icon)/.test(identifier)) {
+        type = 'app-store'
+      }
+      if (/^(awesome-list\s+icon)/.test(identifier)) {
+        type = 'awesome-list'
+      }
+      return { type, url }
   }
   return false
 }
