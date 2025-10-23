@@ -1102,7 +1102,6 @@ Awesome Mac
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用 JavaScript 写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理。
-* [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)
 * [Total Spaces](http://totalspaces.binaryage.com/) - 像 ubuntu 一样提供窗口管理，为工作区创建热键，使您可以轻松移动。
 
