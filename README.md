@@ -437,7 +437,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Yaak](https://yaak.app) - A modern API client supporting multiple protocols, offline usage, and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 
 ### Network Analysis
-
+* [BurpSuite](https://portswigger.net/burp) - HTTP Proxy/Monitor tool for various cases.
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor to view HTTP and HTTPS traffic.
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
