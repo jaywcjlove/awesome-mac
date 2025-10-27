@@ -513,6 +513,8 @@ Awesome Mac
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
+* [remio](https://www.remio.ai/?utm_source=github_list) - 最懂你的 AI 客户端，支持多种大语言模型（LLM）与你的个人知识库智能对话。简单易用，运行在本地，并支持使用 LLM 的私有 API Key。
+  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 
 ## 通信
 
@@ -638,6 +640,7 @@ Awesome Mac
 
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方播放器 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [Musicer](https://apps.apple.com/app/musicer/6745227444) - 轻巧的本地音乐播放器，支持多种格式，畅享随时随地的音乐。
+* [Fmusic](https://github.com/wandercn/fmusic) - macOS 音乐播放器，支持多格式播放与歌词显示。
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com) - 全球流行的音乐流媒体服务，提供海量音乐和个性化推荐。
@@ -646,7 +649,6 @@ Awesome Mac
 * [酷狗音乐](http://download.kugou.com/mac.html) ![Freeware][Freeware Icon]
 * [酷我音乐](http://kuwo.cn/down/index) ![Freeware][Freeware Icon]
 * [网易云音乐](http://music.163.com/) ![Freeware][Freeware Icon]
-
 
 ### 音频录制与编辑
 
@@ -663,7 +665,6 @@ Awesome Mac
 * [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/agenda-notes-meets-calendar/)
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/bear-beautiful-writing-app/id1091189122)
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
-
 
 ### Office
 
@@ -1103,7 +1104,6 @@ Awesome Mac
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用 JavaScript 写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理。
-* [Spectacle](https://www.spectacleapp.com) - 简单的移动和调整大小的窗口，和可定制的键盘快捷键。 [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle) ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)
 * [Total Spaces](http://totalspaces.binaryage.com/) - 像 ubuntu 一样提供窗口管理，为工作区创建热键，使您可以轻松移动。
 

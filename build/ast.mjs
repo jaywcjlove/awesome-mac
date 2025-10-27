@@ -3,14 +3,17 @@ import { remark } from 'remark'
 import gfm from 'remark-gfm'
 import FS from 'fs-extra'
 
-const getHeadingText = (arr = [], title = '') => {
+const getHeadingText = (arr = []) => {
+  let title = ''
   arr.forEach(child => {
-    title += child.value
+    if (typeof child.value === 'string') {
+      title += child.value
+    }
     if (child.children && Array.isArray(child.children)) {
-      title += getHeadingText(child.children, title)
+      title += getHeadingText(child.children)
     }
   })
-  return title;
+  return title
 }
 
 const getSoftwareName = (obj, result = { title: '' }) => {
@@ -32,23 +35,26 @@ const getSoftwareName = (obj, result = { title: '' }) => {
 }
 
 const getIconDetail = (data, url = '') => {
-  if (data.type === 'imageReference' && data.identifier && /^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-    let type = ''
-    if (/^(freeware\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'freeware'
+  if (data.type === 'imageReference' && data.identifier) {
+    const identifier = data.identifier.toLocaleLowerCase()
+    if (/^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon)/.test(identifier)) {
+      let type = ''
+      if (/^(freeware\s+icon)/.test(identifier)) {
+        type = 'freeware'
+      }
+      if (/^(oss\s+icon)/.test(identifier)) {
+        type = 'oss'
+      }
+      if (/^(app-store\s+icon)/.test(identifier)) {
+        type = 'app-store'
+      }
+      if (/^(awesome-list\s+icon)/.test(identifier)) {
+        type = 'awesome-list'
+      }
+      return { type, url }
     }
-    if (/^(oss\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'oss'
-    }
-    if (/^(app-store\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'app-store'
-    }
-    if (/^(awesome-list\s+icon)/.test(data.identifier.toLocaleLowerCase())) {
-      type = 'awesome-list'
-    }
-    return { type, url }
+    return false
   }
-  return false
 }
 
 /**
@@ -85,7 +91,7 @@ const getMarkIcons = (arr = [], parent = {}) => {
 }
 
 const getMdToAST = (data = [], parent = {}) => {
-  data = data.map((child) => {
+  data = data.filter((m) => m.type !== 'html').map((child) => {
     if (child.position) {
       delete child.position
       if (child.type === 'listItem') { 
