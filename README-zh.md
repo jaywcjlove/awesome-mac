@@ -954,6 +954,7 @@ Awesome Mac
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]
 * [Mos](https://mos.caldis.me/) - 让你的鼠标滚轮丝滑如触控板。[![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
+* [MacPacker](https://macpacker.app) - 归档管理工具，支持归档文件的预览和提取。[![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Noi](https://github.com/lencx/Noi) - AI 赋能你的世界——探索、扩展、赋权。 [![Open-Source Software][OSS Icon]](https://github.com/lencx/Noi) ![Freeware][Freeware Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
