@@ -347,6 +347,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/) - Free, open-source IDE for Java and other languages. [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
+* [Trae](https://www.trae.ai/) - An IDE by ByteDance with advanced AI capabilities, including two modes: SOLO for fully AI-driven development and IDE for a more traditional editing experience.
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Windsurf](https://windsurf.com/) - The first agentic IDE where developers and AI flow together for a magical coding experience.
 * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
