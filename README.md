@@ -710,6 +710,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Claude](https://claude.ai/download) - Your AI partner on desktop. Fast, focused, and designed for deep work.
 * [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [Fluent](https://fluentmac.app) - Native AI assistant that brings 450+ models (BYOK) into any macOS app with instant app & browser context, customizable actions, shortcuts, and local models support.
 * [RecurseChat](https://recurse.chat) - RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
