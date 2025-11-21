@@ -967,12 +967,13 @@ Awesome Mac
 * [rem](https://github.com/jasonjmcghee/rem) - 一款开源软件，可以本地记录并搜索你在 Mac 上查看的所有内容。 [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
 * [Rewind](https://www.rewind.ai/) - Rewind 是一款专为 macOS 设计的应用程序，旨在记录和索引用户在 Mac 上的所有操作，包括屏幕内容和音频。用户可以通过 Rewind 回溯并搜索过去的活动，就像为 Mac 添加了一个“倒带键”。
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间和提供工具来帮助您提高工作效率。
-* [SuperCorners](https://supercorners.vercel.app/) - 让屏幕四角更强大，把热角变成高效工作流触发器。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756)
+* [SuperCorners](https://supercorners.vercel.app/) - 让屏幕四角更强大，把热角变成高效工作流触发器。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [scrcpy](https://github.com/Genymobile/scrcpy) - 可镜像通过 USB 或 TCP/IP 连接的 Android 设备（视频和音频），并允许使用电脑的键盘和鼠标控制设备。无需 root 权限，适用于 Linux、Windows 和 macOS 系统。[![Open-Source Software][OSS Icon]](https://github.com/Genymobile/scrcpy) ![Freeware][Freeware Icon]
 * [Sideloadly](https://sideloadly.io/) - 将你喜欢的游戏和应用程序侧载到 iOS 设备、Apple Silicon Mac 或 Apple TV 的全新最佳方式！ ![Freeware][Freeware Icon]
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/id418073146)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
+* [SwiftBiu](https://swiftbiu.com/) - SwiftBiu 一款macOS文本效率工具，在任何应用里选中文本，弹出一个可定制的扩展工具栏，让常用操作"一步完成"。支持 AI多模态（文生文、文生图）、javascript 插件、html扩展小程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?mt=12)
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353)
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
 * [uebersicht](https://github.com/felixhageloh/uebersicht) - 充分利用桌面空间的插件工具 [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
