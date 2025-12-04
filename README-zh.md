@@ -1052,7 +1052,7 @@ Awesome Mac
 
 ### 效率工具
 
-* [Table Habit](https://github.com/FriesI23/table_habit) – 跨平台的习惯追踪器，帮助你通过成长曲线和离线优先同步来建立微习惯。![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469)
+* [Table Habit](https://github.com/FriesI23/mhabit) – 跨平台的习惯追踪器，帮助你通过成长曲线和离线优先同步来建立微习惯。![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469)
 
 ### 系统相关工具
 
