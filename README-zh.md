@@ -1081,6 +1081,7 @@ Awesome Mac
 * [Juice](https://github.com/brianmichel/Juice) - 让电池显示更有趣 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 替代咖啡因，更好地支持Mac中的暗模式。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 * [Latest](https://github.com/mangerlahn/Latest) - 一个小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新。 [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/Latest) ![Freeware][Freeware Icon]
+* [LaunchOS](https://launchosapp.com) - 可能是目前最接近系统原生 Launchpad 操作体验的启动台替代品，颜值也很不错。![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 自动关闭未使用的应用程序以释放内存、整理桌面并提高电池寿命。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
