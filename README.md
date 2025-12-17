@@ -994,6 +994,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [ClashX Guide](https://clashx.tech) - Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
+* [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
