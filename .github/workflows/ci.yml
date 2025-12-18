@@ -10,10 +10,10 @@ jobs:
       contents: write
       id-token: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 24
           registry-url: 'https://registry.npmjs.org'
 
       - run: npm install
@@ -124,13 +124,8 @@ jobs:
       #       http://localhost:9881/
       #       ```
 
-      # - run: npm install @jsdevtools/npm-publish -g
-      # - run: npm-publish --token="${{ secrets.NPM_TOKEN }}" ./package.json
-
       - run: npm publish --access public --provenance
         continue-on-error: true
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       # Create Docker Image
       - name: Docker login
