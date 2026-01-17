@@ -129,6 +129,7 @@ A curated list of useful command line apps
 * [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe your voice from microphone directly to clipboard. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+* [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe, display colorful outputs with less [![Open-Source Software][OSS Icon]]
 * [lnav](http://lnav.org) - A log file navigator. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - macOS disk cleanup TUI with a preview-first workflow: scan caches and development artifacts, preview results, and move selected items to Trash. [![Open-Source Software][OSS Icon]](https://github.com/2ykwang/mac-cleanup-go) ![Freeware][Freeware Icon]
