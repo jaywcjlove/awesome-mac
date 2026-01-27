@@ -654,6 +654,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
+* [Capty](https://capty.app/) - Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
