@@ -33,6 +33,7 @@ Awesome Command Line Apps
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./command-line-apps-ko.md)
 <!--rehype:style=text-align: center;-->
 
 A curated list of useful command line apps
