@@ -123,6 +123,7 @@ Awesome Mac
   - [클립보드 도구](#클립보드-도구)
   - [메뉴 바 도구](#메뉴-바-도구)
   - [파일 정리 도구](#파일-정리-도구)
+  - [시스템 도구](#시스템-도구)
   - [할 일 목록 (To-Do Lists)](#할-일-목록-to-do-lists)
   - [생산성](#생산성)
   - [창 관리](#창-관리)
@@ -681,6 +682,10 @@ Awesome Mac
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [Keka](https://www.keka.io/) - macOS용 차세대 압축 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
+
+### 시스템 도구
+
+* [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 
 ### 할 일 목록 (To-Do Lists)
 
