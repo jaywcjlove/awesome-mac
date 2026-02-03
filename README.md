@@ -389,6 +389,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare text, images, and folders.
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
+* [Kunobi](https://kunobi.ninja) - Rust Kubernetes management from your desktop, with built-in MCP server.
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
 * [LINQPad](https://www.linqpad.net/) - Scratchpad for .NET development with instant feedback, LINQ query support, and database connectivity. ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
