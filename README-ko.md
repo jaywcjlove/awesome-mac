@@ -345,6 +345,7 @@ Awesome Mac
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - 앱 번역 분석 및 편집.
+* [Loupe](https://github.com/smughead/Loupe) - AI 에이전트 준비 출력을 생성하는 접근성 검사기. [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 네이티브 경량 텍스트 diff 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 반응형 이메일 제작 도구. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.

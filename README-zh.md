@@ -233,6 +233,7 @@ Awesome Mac
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持 Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限。 ![Freeware][Freeware Icon]
+* [Loupe](https://github.com/smughead/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
