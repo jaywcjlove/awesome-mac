@@ -1125,6 +1125,7 @@ Awesome Mac
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - 基于 Spectacle 的窗口管理应用程序，使用键盘快捷键在 macOS 上移动和调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+* [ShortcutCycle](https://github.com/xcv58/ShortcutCycle) - 告别 Command+Tab 大海捞针。按场景分组应用，一键丝滑切换，专注心流不中断。 [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle)
 * [Slate](https://github.com/jigish/slate) - 窗口管理器，可用 JavaScript 写配置。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理。
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)

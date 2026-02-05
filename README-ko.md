@@ -705,6 +705,7 @@ Awesome Mac
 
 * [Amethyst](https://ianyh.com/amethyst/) - 자동 창 타일링 관리자. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
+* [ShortcutCycle](https://github.com/xcv58/ShortcutCycle) - Command+Tab 노가다는 이제 그만. 웹, 코딩, 소셜 등 상황별로 앱을 묶고 단축키 하나로 척척 전환. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle)
 
 ### 비밀번호 관리
 
