@@ -41,6 +41,7 @@ Awesome Mac
 ✦ 나의 macOS 애플리케이션:
 
 <p style="display: inline_block">
+<a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" width="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
 <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
@@ -99,7 +100,8 @@ Awesome Mac
 - [디자인 및 제품](#디자인-및-제품)
   - [디자인 도구](#디자인-도구)
   - [프로토타이핑 및 마인드맵 도구](#프로토타이핑-및-마인드맵-도구)
-  - [스크린 캡처 소프트웨어](#스크린-캡처-소프트웨어)
+  - [스크린샷 도구](#스크린샷-도구)
+  - [화면 녹화](#화면-녹화)
   - [기타 도구](#기타-도구)
 - [AI 클라이언트](#ai-클라이언트)
 - [커뮤니케이션](#커뮤니케이션)
@@ -488,19 +490,23 @@ Awesome Mac
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 자유로운 레이아웃의 마인드맵 소프트웨어.
 * [XMind](http://www.xmind.net) - 전 세계적으로 인기 있는 마인드맵 도구.
 
-### 화면 캡처 소프트웨어
+### 스크린샷 도구
 
 * [CleanShot X](https://cleanshot.com/) - Mac 화면 캡처를 위한 최고의 방법.
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
+* [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
+* [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
+* [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
+
+### 화면 녹화
+
+* [BetterCapture](https://jsattler.github.io/BetterCapture/) - 전문적인 인코딩을 지원하는 무료 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - GIF 녹화 및 공유.
 * [Kap](https://getkap.co/) - 웹 기술로 만든 오픈 소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 화면을 GIF로 녹화. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
-* [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
-* [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
-* [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
 
 ### 기타 도구
 
