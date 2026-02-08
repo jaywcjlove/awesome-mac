@@ -534,6 +534,7 @@ Awesome Mac
 * [Jan](https://jan.ai/) - 완전히 오프라인으로 실행 가능한 ChatGPT 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/menloresearch/jan) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 여러 AI 코딩 에이전트를 병렬로 실행. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [Witsy](https://github.com/nbonamy/witsy) - 데스크톱 AI 어시스턴트 및 유니버설 MCP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/nbonamy/witsy) ![Freeware][Freeware Icon]
+* [Warden](https://karatsidhu.gumroad.com/l/warden) - 네이티브 Swift 기반 macOS 앱으로, 사용자 API 키로 여러 LLM 모델을 실행할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/WardenApp) ![Freeware][Freeware Icon]
 
 ### 이미지
 

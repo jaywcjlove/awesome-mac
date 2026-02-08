@@ -529,6 +529,7 @@ Awesome Mac
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - 最懂你的 AI 客户端，支持多种大语言模型（LLM）与你的个人知识库智能对话。简单易用，运行在本地，并支持使用 LLM 的私有 API Key。
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
+* [Warden](https://karatsidhu.gumroad.com/l/warden) - 原生 Swift 打造的 macOS 应用，可使用你的 API Key 运行多个大语言模型（LLM）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 
 ## 通信
 
