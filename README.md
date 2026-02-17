@@ -1334,6 +1334,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [PressButan](http://briankendall.net/presButan/) - A simple daemon program that lets you use return and/or enter to open icons in the Finder, and also use the delete or forward delete keys to delete items. ![Freeware][Freeware Icon]
+
 
 ### Quality of Life Improvements
 
