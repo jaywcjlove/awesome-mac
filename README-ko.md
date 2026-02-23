@@ -9,13 +9,6 @@
   <a href="https://warp.dev/awesome-mac"><b>Warp, 개발자를 위한 지능형 터미널!</b></a><br>
   <a href="https://warp.dev/awesome-mac">macOS, Linux, & Windows에서 사용 가능</a><br><br>
 
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
-    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/zenquery.png">
-  </a>
-  <br>
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac"><b>ZenQuery</b></a><br>
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">데이터 파일(CSV, JSON, Excel, Parquet)에 대한 즉각적인 Q&A</a><br><br>
-
   <a href="https://tuple.app/awesome-mac">
     <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
   </a>
