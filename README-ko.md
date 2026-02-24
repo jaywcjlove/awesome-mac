@@ -503,6 +503,7 @@ Awesome Mac
 * [Licecap](http://www.cockos.com/licecap/) - 화면을 GIF로 녹화. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
+* [Reframed](https://reframed.dev) - 비디오 에디터가 내장된 강력한 화면 녹화 도구입니다. 전체 화면, 특정 영역, 창 또는 iOS 기기를 웹캠 및 마이크와 함께 캡처할 수 있으며, 트리밍, 줌, 스타일 수정 및 내보내기 기능을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 앱 — Screen Studio 대안. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 
 ### 기타 도구
