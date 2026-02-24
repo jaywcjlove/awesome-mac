@@ -326,6 +326,7 @@ Awesome Mac
 * [CodeMenu](https://extiri.com/codemenu.html) - 고급 스니펫 관리자.
 * [CoilPad](https://coilpad.com) - 네이티브 Python 스크래치패드. ![Freeware][Freeware Icon]
 * [Conduktor](https://www.conduktor.io) - Kafka 데스크톱 클라이언트. ![Freeware][Freeware Icon]
+* [Configs](https://github.com/iHongRen/configEditor) - 구성 파일을 빠르게 보기, 편집 및 관리하는 구성 파일 관리기. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier 생성기. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon]
 * [Dash](https://kapeli.com/dash) - API 문서 브라우저 및 코드 스니펫 관리자. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 딥링크 관리자.
