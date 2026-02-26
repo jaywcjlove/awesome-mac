@@ -996,6 +996,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Finance
 
 * [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
+* [TickerBar](https://github.com/TerrifiedBug/TickerBar) - A lightweight macOS menu bar app for tracking stock prices in real-time with sparklines, price alerts, and multi-exchange support. [![Open-Source Software][OSS Icon]](https://github.com/TerrifiedBug/TickerBar) ![Freeware][Freeware Icon]
 
 ## Encryption
 
