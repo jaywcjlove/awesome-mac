@@ -656,6 +656,7 @@ Awesome Mac
 ## 금융
 
 * [SubManager](https://submanager.app/) - 구독 서비스를 한 곳에서 관리. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
+* [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) - 알림, 분석 및 iCloud 동기화를 통해 한 곳에서 구독, 갱신 및 지출을 추적.
 
 ## 암호화
 
@@ -685,6 +686,7 @@ Awesome Mac
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
+* [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814) - 사용자 지정 단축키와 스마트 자동화를 통해 메뉴 바에서 블루투스 기기를 손쉽게 관리.
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 일일 키보드 입력, 마우스 클릭, 이동 거리 및 스크롤 거리를 추적하는 가벼운 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
@@ -694,6 +696,8 @@ Awesome Mac
 ### 파일 정리 도구
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
+* [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
+* [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223) - 즐겨 쓰는 앱으로 선택한 폴더/파일을 빠르게 열 수 있는 사용자 지정 메뉴를 제공하는 Finder 확장.
 * [Keka](https://www.keka.io/) - macOS용 차세대 압축 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 

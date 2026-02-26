@@ -996,6 +996,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Finance
 
 * [SubManager](https://submanager.app) - Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
+* [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
 
 ## Encryption
 
@@ -1051,6 +1052,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - A simple macOS menu bar app that allows you to quickly switch between different DNS providers (or add custom ones). [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
+* [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762) - Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.
 
 ### Clipboard Tools
 
@@ -1080,6 +1082,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Anvil](https://anvilformac.com/) - Anvil is a beautiful menubar app for managing local websites. Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 * [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
+* [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814) - Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.  [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Boring Notch](https://theboring.name/) - Turn your MacBook notch into a music and file control center. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 * [Bye AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal menu bar app to quickly view and kill running processes. [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
@@ -1335,6 +1338,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
+* [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223) - A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
