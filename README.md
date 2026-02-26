@@ -1051,6 +1051,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - A simple macOS menu bar app that allows you to quickly switch between different DNS providers (or add custom ones). [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
+* [mac-ops](https://github.com/seunggabi/mac-ops) - Safe, zero-dependency macOS system optimizer with 72-hour trash recovery. [![Open-Source Software][OSS Icon]](https://github.com/seunggabi/mac-ops) ![Freeware][Freeware Icon]
 
 ### Clipboard Tools
 
