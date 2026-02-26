@@ -528,6 +528,7 @@ Awesome Mac
 * [remio](https://www.remio.ai/?utm_source=github_list) - 最懂你的 AI 客户端，支持多种大语言模型（LLM）与你的个人知识库智能对话。简单易用，运行在本地，并支持使用 LLM 的私有 API Key。
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 原生 Swift 打造的 macOS 应用，可使用你的 API Key 运行多个大语言模型（LLM）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
+* [Yume](https://github.com/aofp/yume) - Claude Code 的原生桌面 GUI 客户端，支持多标签会话、后台代理和插件系统。 ![Freeware][Freeware Icon]
 
 ## 通信
 
