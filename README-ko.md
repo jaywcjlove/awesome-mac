@@ -647,6 +647,7 @@ Awesome Mac
 
 * [DeepL](https://www.deepl.com/) - 최고의 품질을 자랑하는 기계 번역 서비스. ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 단어 조회 및 텍스트 번역을 쉽게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [MoePeek](https://github.com/cosZone/MoePeek) - 단어 선택 번역, OCR 캡처 번역, 클립보드 번역, 수동 입력 번역을 지원하는 경량 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek)
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - ChatGPT API를 기반으로 한 번역기. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
 
 ## 교육
