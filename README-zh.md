@@ -235,6 +235,7 @@ Awesome Mac
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
+* [PortKiller](https://github.com/productdevbook/port-killer) - 跨平台端口管理工具，可监控端口、管理 Kubernetes 端口转发与 Cloudflare Tunnel，并一键结束进程。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
 * [PPRows](https://github.com/jkpang/PPRows) - 计算你写了多少行代码。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - 原生进程监视器，功能丰富，界面简洁。

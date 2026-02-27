@@ -347,6 +347,7 @@ Awesome Mac
 * [MJML](https://mjmlio.github.io/mjml-app/) - 반응형 이메일 제작 도구. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
+* [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, Kubernetes 포트 포워딩 및 Cloudflare Tunnel 관리, 프로세스 원클릭 종료를 지원하는 크로스플랫폼 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 코드 라인 수 계산기. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [Responsively](https://responsively.app) - 반응형 웹 개발 도구. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
