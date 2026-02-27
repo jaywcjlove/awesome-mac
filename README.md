@@ -217,6 +217,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing, and static blog generator App.
 * [Obsidian](https://obsidian.md) - A second brain, for you, forever.
+* [Scratch](https://www.ericli.io/scratch) - Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
 * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Zettlr](https://www.zettlr.com/) - A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
