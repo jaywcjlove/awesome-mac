@@ -1346,6 +1346,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Quality of Life Improvements
 
 * [Actions](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Actions) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171)
+* [AFK](https://afk-app.vercel.app) - Lightweight break reminder following the 20-20-20 rule with fullscreen reminders, statistics, and health exercises. [![Open-Source Software][OSS Icon]](https://github.com/Harry-kp/afk) ![Freeware][Freeware Icon]
 * [AI Actions](https://sindresorhus.com/ai-actions) - AI actions for the Shortcuts app. ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
 * [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
