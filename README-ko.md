@@ -388,6 +388,7 @@ Awesome Mac
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
+* [rustnet](https://github.com/domcyrus/rustnet) - 프로세스 식별 및 심층 패킷 검사를 지원하는 크로스 플랫폼 네트워크 모니터링 TUI. [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - 네트워크 트래픽 모니터링 앱. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 네트워크 프로토콜 분석기. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - 올인원 API 디자인 및 테스트 환경.
