@@ -628,6 +628,7 @@ Awesome Mac
 ## 입력기
 
 * [Kawa](https://github.com/utatti/kawa) - OS X용 단축키 기반 입력 소스 전환기. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [LangSwitcher](https://github.com/reg2005/langSwitcher) - 오픈 소스 키보드 레이아웃 텍스트 변환기. 잘못된 레이아웃으로 입력한 텍스트를 선택하고 ⇧⇧를 누르면 즉시 변환됩니다. EN/RU/DE/FR/ES 지원. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
 
 ## 음성 텍스트 변환 (Voice-to-Text)
