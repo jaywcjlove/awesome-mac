@@ -1373,6 +1373,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control app volumes and record system audio. [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
+* [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM) to reclaim disk space on macOS. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Mac battery information and statistics.
 * [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - Screen activity timeline with AI support. [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
