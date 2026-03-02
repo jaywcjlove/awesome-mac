@@ -27,6 +27,7 @@
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./command-line-apps-ja.md)
 <!--rehype:style=text-align: center;-->
 
 엄선된 유용한 명령줄 애플리케이션 목록

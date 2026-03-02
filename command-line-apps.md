@@ -27,6 +27,7 @@ Awesome Command Line Apps
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
 [![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./command-line-apps-ko.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./command-line-apps-ja.md)
 <!--rehype:style=text-align: center;-->
 
 A curated list of useful command line apps
