@@ -1219,6 +1219,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 * [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
+* [CurrentKey](https://currentkey.com) - Assign unique icons and names to macOS Spaces and track time spent in apps. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
 * [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
