@@ -753,6 +753,7 @@ Awesome Mac
 ## QuickLook 플러그인
 
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - 마크다운 파일을 위한 Quick Look 도구. [![Open-Source Software][OSS Icon]](https://github.com/sbarex/QLMarkdown) ![Freeware][Freeware Icon]
+* [FluxMarkdown](https://github.com/xykong/flux-markdown) - Finder에서 Markdown을 즉시 미리 볼 수 있으며 Mermaid, KaTeX, GFM, TOC, 차트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
 
 ## 서드파티 앱 마켓

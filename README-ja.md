@@ -1446,6 +1446,7 @@ Awesome Mac
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Markdownファイル用のクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [FluxMarkdown](https://github.com/xykong/flux-markdown) - FinderでMarkdownを即時プレビューでき、Mermaid・KaTeX・GFM・目次・チャートに対応。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 開発者に便利な[クイックルック](https://en.wikipedia.org/wiki/Quick_Look)プラグインのリスト
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - ソースコードファイルをハイライト表示するクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 
