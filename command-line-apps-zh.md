@@ -27,6 +27,7 @@
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps.md)
 [![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./command-line-apps-ja.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps-ko.md)
 <!--rehype:style=text-align: center;-->
 
 一份精心挑选的有用命令行应用列表

@@ -25,8 +25,8 @@ Awesome Mac
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
-[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./README-zh.md)
+[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
 [![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
 <!--rehype:style=text-align: center;-->
 

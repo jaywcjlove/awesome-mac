@@ -23,7 +23,9 @@
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/japanese.svg)](editor-plugin-ja.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
+[![English](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md)
+[![Japanese](https://jaywcjlove.github.io/sb/lang/japanese.svg)](editor-plugin-ja.md)
 <!--rehype:style=text-align: center;--> 
 
 ## Atom Plugin
