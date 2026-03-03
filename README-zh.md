@@ -1138,6 +1138,7 @@ Awesome Mac
 ### 窗口管理
 
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+* [Convoker](https://github.com/varie-ai/convoker) - 输入应用名称，按回车即可聚拢该应用的所有窗口。[![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [BetterSnapTool](https://folivora.ai/bettersnaptool/) - 窗口管理工具，可通过快捷键或窗口拖动快速实现分屏。  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dashlane-password-manager/id552383089?platform=mac)
 * [Contexts](https://contexts.co/)- 提供比 Mac 原生 Dock 更强大功能尤其在你有多个屏幕的时候,它可以帮助你更快捷切换。
 * [Dockit](https://dockit-docs.pages.dev/) - 一款可以将任何窗口停靠到屏幕边缘的应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)

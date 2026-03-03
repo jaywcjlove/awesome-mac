@@ -724,6 +724,7 @@ Awesome Mac
 ### 창 관리
 
 * [Amethyst](https://ianyh.com/amethyst/) - 자동 창 타일링 관리자. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+* [Convoker](https://github.com/varie-ai/convoker) - 앱 이름을 입력하고 엔터를 누르면 해당 앱의 모든 창이 모입니다. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - Command+Tab 노가다는 이제 그만. 웹, 코딩, 소셜 등 상황별로 앱을 묶고 단축키 하나로 척척 전환. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 
