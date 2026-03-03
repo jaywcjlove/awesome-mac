@@ -139,6 +139,7 @@ Awesome Mac
 - [ユーティリティ](#ユーティリティ)
     - [クリップボードツール](#クリップボードツール)
     - [メニューバーツール](#メニューバーツール)
+    - [クリーンアップとアンインストール](#クリーンアップとアンインストール)
     - [ファイル整理ツール](#ファイル整理ツール)
     - [一般ツール](#一般ツール)
     - [ToDoリスト](#todoリスト)
@@ -1142,6 +1143,18 @@ Awesome Mac
 * [Xbar](https://xbarapp.com/) - あらゆるスクリプトやプログラムの出力をmacOSメニューバーに表示（BitBarのリブート版）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 * [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - FunKeyは、MacBookに人工的なメカニカルキーボードの打鍵音を追加できるMacアプリです。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
+### クリーンアップとアンインストール
+
+* [AppCleaner](http://freemacsoft.net/appcleaner/) - アプリを徹底的にアンインストール。 ![Freeware][Freeware Icon]
+* [CleanMyMac](https://macpaw.com/cleanmymac) - 大量のジャンクファイルやマルウェアを削除し、Macをより高速かつ整理整頓。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
+* [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュ（Xcode、node_modules、CocoaPods、SPM）を可視化してクリーンアップし、ディスク容量を取り戻すツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+* [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
+* [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [OmniDiskSweeper](https://www.omnigroup.com/more) - ドライブ上のファイルをサイズ順に表示。未使用のファイルを見つけて削除するのに使用可能。 ![Freeware][Freeware Icon]
+* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 無料でソースが公開されたフェアコードライセンスのMacアプリクリーナー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+
 ### ファイル管理ツール
 
 * [BetterZip](https://macitbetter.com/) - ZIP、TAR、TGZ、TBZ、TXZ（新規）、7-ZIP、RARをサポートするアーカイブツール。
@@ -1162,7 +1175,6 @@ Awesome Mac
 ### 一般ツール
 
 * [AirServer](http://www.airserver.com/Download) - Mac、PC、Xbox One向けの最も先進的な画面ミラーリングソフトウェアレシーバー。
-* [CleanMyMac](https://macpaw.com/cleanmymac) - 大量のジャンクファイルやマルウェアを削除し、Macをより高速かつ整理整頓。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - Appleデバイス（macOS & iOS）向けのDNS変更およびパフォーマンスベンチマークツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 * [DevKnife](https://devknife.app) - ネットワークスキャンからJSON整形まで、日々の開発タスクをこなすネイティブMacアプリ。
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - 開発者の日常業務を支援するオフラインツールボックス。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -1175,7 +1187,6 @@ Awesome Mac
 * [Lungo](https://sindresorhus.com/lungo) - Macのスリープを防止。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - クラシックなLaunchpad体験を再現、昔のmacOSを追体験。 [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 * [lo-rain](https://lo.cafe/lo-rain) - デスクトップやアプリの上にカスタマイズ可能な雨を降らせ、Dockにはしぶきエフェクトも。
-* [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - シンプルでエレガントなアプリ。Touch IDを使ってさらに素早くメモのロックを解除。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 * [Numi](http://numi.io/) - Mac用の美しい電卓アプリ。 ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - 現代のインターネットのための新しいファイアウォール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853?platform=mac)
@@ -1370,15 +1381,10 @@ Awesome Mac
 * [AlDente](https://apphousekitchen.com/) - MacBook用バッテリー充電制限ツール。 [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Macのスリープを防止。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Safari用の無料広告ブロッカー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8&platform=mac)
-* [AppCleaner](http://freemacsoft.net/appcleaner/) - アプリを徹底的にアンインストール。 ![Freeware][Freeware Icon]
 * [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/) - Apple Siliconアプリの互換性をチェック。 [![Open-Source Software][OSS Icon]](https://github.com/ThatGuySam/doesitarm) ![Freeware][Freeware Icon]
 * [AirBattery](https://lihaoyun6.github.io/airbattery/) - Dock、メニューバー、またはウィジェットですべてのデバイスのバッテリーを表示。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - アプリの音量を制御し、システムオーディオを録音。 [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
-* [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
-* [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
-* [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュ（Xcode、node_modules、CocoaPods、SPM）を可視化してクリーンアップし、ディスク容量を取り戻すツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Macのバッテリー情報と統計。
-* [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - AI対応の画面アクティビティタイムライン。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - マルチモニター環境でmacOSのDockを特定の画面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - Spotlightを使った高速ファイル検索。 [![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
@@ -1397,9 +1403,7 @@ Awesome Mac
 * [Monity](http://www.monityapp.com/) - OS X用のシステム監視ウィジェット。
 * [Mounty](http://enjoygineering.com/mounty/) - Mac OS X 10.9以降で書き込み保護されたNTFSボリュームを読み書きモードで再マウントする小さなツール。 ![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - クロスプラットフォームのネットワークファイル転送ユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
-* [OmniDiskSweeper](https://www.omnigroup.com/more) - ドライブ上のファイルをサイズ順に表示。未使用のファイルを見つけて削除するのに使用可能。 ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - ディスクやファイルの検証、クリーニングやシステムメンテナンスタスクの実行、隠しオプションの設定などを行う多機能ユーティリティ。 ![Freeware][Freeware Icon]
-* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 無料でソースが公開されたフェアコードライセンスのMacアプリクリーナー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - macOS SierraでNTFSへの読み書きアクセス。
 * [stats](https://github.com/exelban/stats) - メニューバー用の無料Macシステムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - ハードウェアとソフトウェアの両方にまたがる機能を持つMacパフォーマンス向上マルチツール。

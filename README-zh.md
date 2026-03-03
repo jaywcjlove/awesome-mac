@@ -136,6 +136,7 @@ Awesome Mac
 - [其它实用工具](#其它实用工具)
   - [剪贴板工具](#剪贴板工具)
   - [菜单栏工具](#菜单栏工具)
+  - [清理卸载](#清理卸载)
   - [待办事项工具](#待办事项工具)
   - [系统相关工具](#系统相关工具)
   - [窗口管理](#窗口管理)
@@ -979,7 +980,6 @@ Awesome Mac
 * [Lunar](https://lunar.fyi/) - 外接显示器亮度/对比度调节工具，从此告别物理按键。[![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - 防止Mac进入睡眠状态。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - 经典 Launchpad 体验，重现旧版 macOS。 [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
-* [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - 为 Apple Silicon Mac 创建可启动 macOS/OS X 安装器的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]
@@ -988,7 +988,6 @@ Awesome Mac
 * [Noi](https://github.com/lencx/Noi) - AI 赋能你的世界——探索、扩展、赋权。 [![Open-Source Software][OSS Icon]](https://github.com/lencx/Noi) ![Freeware][Freeware Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
-* [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
 * [Qbserve](https://qotoqot.com/qbserve/) - 观察你如何度过你的时间。
 * [Rapidmg](https://rapidmg.branchseer.com/) - 一键解压 DMG 镜像里的 app 至 “应用程序” 目录。[![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778?platform=mac)
@@ -1093,23 +1092,31 @@ Awesome Mac
 * [Textream](https://textream.fka.dev) - 免费提词器，具有实时单词跟踪和语音激活滚动功能。[![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - 开源的 Spotlight 替代品和快捷工具套件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
 
+### 清理卸载
+
+* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
+* [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)
+* [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化并清理开发缓存（Xcode、node_modules、CocoaPods、SPM）以释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
+* [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+* [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
+* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
+
 ### 系统相关工具
 
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 适用于MacOS/iOS的免费广告拦截器 停止在Safari中看到烦人的广告。更快地打开网站。更安全地浏览网页。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [AlDente](https://apphousekitchen.com/) - 充电保护软件，延长 MacBook 电池寿命。 [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704?platform=mac) - 覆盖您的节能设置并让您的Mac保持唤醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/amphetamine/id937984704?platform=mac)
-* [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [AirBattery](https://lihaoyun6.github.io/airbattery/) - 获取你所有设备的电量信息并显示在Dock/状态栏/小组件上。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - 自动暂停音乐、设置各个应用程序的音量并录制系统音频。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [BetterMouse](https://better-mouse.com) - 同时具有平滑滚动，光标加速控制，按键和手势映射等全功能的干净鼠标工具软件。
 * [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
-* [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)
-* [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
-* [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化并清理开发缓存（Xcode、node_modules、CocoaPods、SPM）以释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
 * [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707?platform=mac)
-* [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - 在多显示器环境中将 macOS 的 Dock 锁定在一个屏幕上。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - 一款高效的 macOS 文件搜索工具，基于原生 Spotlight 引擎，支持极速搜索。[![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
@@ -1126,16 +1133,12 @@ Awesome Mac
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 多功能实用工具来验证磁盘和文件，运行清洁和系统维护任务，配置隐藏选项等。![Freeware][Freeware Icon]
-* [OmniDiskSweeper](https://www.omnigroup.com/more) - 磁盘空间使用扫描工具。 ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
-* [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
-* [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Raycast](https://raycast.com) - Raycast 让您可以通过几个按键控制工具。它旨在让您保持专注。
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
 * [SwiftQuit](https://swiftquit.com/) - 关闭窗口时自动退出 macOS 应用程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
-* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
 
 ### 窗口管理
 

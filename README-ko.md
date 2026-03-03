@@ -119,6 +119,7 @@ Awesome Mac
 - [유틸리티](#유틸리티)
   - [클립보드 도구](#클립보드-도구)
   - [메뉴 바 도구](#메뉴-바-도구)
+  - [정리 및 제거](#정리-및-제거)
   - [파일 정리 도구](#파일-정리-도구)
   - [시스템 도구](#시스템-도구)
   - [할 일 목록 (To-Do Lists)](#할-일-목록-to-do-lists)
@@ -699,9 +700,13 @@ Awesome Mac
 * [Stats](https://github.com/exelban/stats) - 메뉴 바의 시스템 상태 모니터. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 
-### 파일 정리 도구
+### 정리 및 제거
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시(Xcode, node_modules, CocoaPods, SPM)를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+
+### 파일 정리 도구
+
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 즐겨 쓰는 앱으로 선택한 폴더/파일을 빠르게 열 수 있는 사용자 지정 메뉴를 제공하는 Finder 확장.
 * [Keka](https://www.keka.io/) - macOS용 차세대 압축 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
@@ -710,7 +715,6 @@ Awesome Mac
 ### 시스템 도구
 
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
-* [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시(Xcode, node_modules, CocoaPods, SPM)를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 
 ### 할 일 목록 (To-Do Lists)
 
