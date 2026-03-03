@@ -710,6 +710,7 @@ Awesome Mac
 ### 시스템 도구
 
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시(Xcode, node_modules, CocoaPods, SPM)를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 
 ### 할 일 목록 (To-Do Lists)
 

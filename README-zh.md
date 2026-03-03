@@ -1106,6 +1106,7 @@ Awesome Mac
 * [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)
 * [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化并清理开发缓存（Xcode、node_modules、CocoaPods、SPM）以释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
 * [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707?platform=mac)
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
