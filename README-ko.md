@@ -9,13 +9,6 @@
   <a href="https://warp.dev/awesome-mac"><b>Warp, 개발자를 위한 지능형 터미널!</b></a><br>
   <a href="https://warp.dev/awesome-mac">macOS, Linux, & Windows에서 사용 가능</a><br><br>
 
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
-    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/zenquery.png">
-  </a>
-  <br>
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac"><b>ZenQuery</b></a><br>
-  <a href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">데이터 파일(CSV, JSON, Excel, Parquet)에 대한 즉각적인 Q&A</a><br><br>
-
   <a href="https://tuple.app/awesome-mac">
     <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
   </a>
@@ -32,8 +25,9 @@ Awesome Mac
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
-[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./README-zh.md)
+[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
 <!--rehype:style=text-align: center;-->
 
 훌륭한 Mac 애플리케이션 및 도구 목록.
@@ -41,6 +35,8 @@ Awesome Mac
 ✦ 나의 macOS 애플리케이션:
 
 <p style="display: inline_block">
+<a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" width="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
 <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
@@ -56,16 +52,16 @@ Awesome Mac
 <a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img alt="KeyClicker" height="52" width="52" src="https://wangchujiang.com/appicon/key-clicker.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img alt="DayBar" height="52" width="52" src="https://wangchujiang.com/appicon/daybar.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img alt="Iconed" height="52" width="52" src="https://wangchujiang.com/appicon/iconed.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6737160756" title="Mousio for macOS"><img alt="Mousio" height="52" width="52" src="https://wangchujiang.com/appicon/rightmenu-master.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6737160756" title="Menuist for macOS"><img alt="Menuist" height="52" width="52" src="https://wangchujiang.com/appicon/rightmenu-master.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img alt="Quick RSS" height="52" width="52" src="https://wangchujiang.com/appicon/paste-quick.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6670696072" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" width="52" src="https://wangchujiang.com/appicon/quick-rss.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6670696072?platform=mac" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" width="52" src="https://wangchujiang.com/appicon/quick-rss.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img alt="Web Serve" height="52" width="52" src="https://wangchujiang.com/appicon/web-serve.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6503953628" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" width="52" src="https://wangchujiang.com/appicon/copybook-generator.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6471227008" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" width="52" src="https://wangchujiang.com/appicon/devtutor.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6479819388" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" width="52" src="https://wangchujiang.com/appicon/regex-mate.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6479194014" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" width="52" src="https://wangchujiang.com/appicon/time-passage.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6503953628?platform=mac" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" width="52" src="https://wangchujiang.com/appicon/copybook-generator.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6471227008?platform=mac" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" width="52" src="https://wangchujiang.com/appicon/devtutor.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6479819388?platform=mac" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" width="52" src="https://wangchujiang.com/appicon/regex-mate.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6479194014?platform=mac" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" width="52" src="https://wangchujiang.com/appicon/time-passage.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6478772538" title="IconizeFolder for macOS"><img alt="Iconize Folder" height="52" width="52" src="https://wangchujiang.com/appicon/iconize-folder.png"></a>
-<a target="_blank" href="https://apps.apple.com/app/6478511402" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" width="52" src="https://wangchujiang.com/appicon/textsound-saver.png"></a>
+<a target="_blank" href="https://apps.apple.com/app/6478511402?platform=mac" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" width="52" src="https://wangchujiang.com/appicon/textsound-saver.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6476924627" title="Create Custom Symbols for macOS"><img alt="Create Custom Symbols" height="52" width="52" src="https://wangchujiang.com/appicon/create-custom-symbols.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6476452351" title="DevHub for macOS"><img alt="DevHub" height="52" width="52" src="https://wangchujiang.com/appicon/devhub.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" width="52" src="https://wangchujiang.com/appicon/resume-revise.png"></a>
@@ -99,7 +95,8 @@ Awesome Mac
 - [디자인 및 제품](#디자인-및-제품)
   - [디자인 도구](#디자인-도구)
   - [프로토타이핑 및 마인드맵 도구](#프로토타이핑-및-마인드맵-도구)
-  - [스크린 캡처 소프트웨어](#스크린-캡처-소프트웨어)
+  - [스크린샷 도구](#스크린샷-도구)
+  - [화면 녹화](#화면-녹화)
   - [기타 도구](#기타-도구)
 - [AI 클라이언트](#ai-클라이언트)
 - [커뮤니케이션](#커뮤니케이션)
@@ -122,6 +119,7 @@ Awesome Mac
 - [유틸리티](#유틸리티)
   - [클립보드 도구](#클립보드-도구)
   - [메뉴 바 도구](#메뉴-바-도구)
+  - [정리 및 제거](#정리-및-제거)
   - [파일 정리 도구](#파일-정리-도구)
   - [시스템 도구](#시스템-도구)
   - [할 일 목록 (To-Do Lists)](#할-일-목록-to-do-lists)
@@ -147,23 +145,23 @@ Awesome Mac
 * [Aurora Editor](https://auroraeditor.com/) - macOS용 경량 코드 편집기 (IDE). [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap 프레임워크를 사용하여 반응형 웹사이트를 제작할 수 있는 강력한 데스크톱 앱.
 * [Nova](https://nova.app/) - Panic에서 만든 아름답고 빠르고 유연한 네이티브 Mac 코드 편집기.
-* [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - 단순하고 집중을 방해하지 않는 메모장. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501)
+* [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - 단순하고 집중을 방해하지 않는 메모장. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 * [Sublime Text](http://www.sublimetext.com/3) - 플러그인 관리 시스템을 갖춘 인기 있고 깔끔한 편집기. [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [SubEthaEdit](https://subethaedit.net/) - 쓰기, 코딩 및 협업을 위한 강력한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - 텍스트 편집기 세계에 Apple의 운영 체제 접근 방식을 도입한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
-* [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483)
+* [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
 * [Vim](http://www.vim.org/) - 오래된 터미널 기반 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X를 위해 정제된 Vim 경험. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - Atom과 Tree-sitter 제작자들이 만든 고성능 멀티플레이어 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### 오피스
 
-* [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) - 멋진 프레젠테이션 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?mt=12)
+* [Keynote](https://apps.apple.com/app/keynote/id409183694?platform=mac) - 멋진 프레젠테이션 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 대규모 커뮤니티에서 매일 사용하고 테스트하는 무료 오픈 소스 오피스 소프트웨어. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Mac용으로 설계된 확실한 Office. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
-* [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - 인상적인 스프레드시트 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?mt=12)
+* [Numbers](https://apps.apple.com/app/numbers/id409203825?platform=mac) - 인상적인 스프레드시트 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?platform=mac)
 * [OnlyOffice](https://www.onlyoffice.com/) - 텍스트, 스프레드시트 및 프레젠테이션 편집기를 결합한 오피스 스위트. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
-* [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) - 돋보이는 문서 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pages/id409201541?mt=12)
+* [Pages](https://apps.apple.com/app/pages/id409201541?platform=mac) - 돋보이는 문서 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pages/id409201541?platform=mac)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - Microsoft Office 문서와 완전한 호환성을 목표로 하는 오피스 스위트.
 * [WPS](https://www.wps.com/mac) - 교차 플랫폼 오피스 소프트웨어 스위트. ![Freeware][Freeware Icon]
 
@@ -179,6 +177,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
+* [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 한곳에서 읽는 전용 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.
 * [Zettlr](https://www.zettlr.com/) - 21세기를 위한 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
@@ -186,16 +185,16 @@ Awesome Mac
 ### 노트 작성
 
 * [Affine](https://affine.pro/) - 전문가를 위한 차세대 협업 지식 베이스. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
-* [Agenda](https://agenda.com/) - 프로젝트 계획 및 문서화를 위한 날짜 중심 노트 앱. [![App Store][app-store Icon]](https://itunes.apple.com/app/id1287445660?mt=12)
+* [Agenda](https://agenda.com/) - 프로젝트 계획 및 문서화를 위한 날짜 중심 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
 * [Anytype](https://anytype.io/) - 개인정보 보호에 중점을 둔 Notion 대안. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Notion의 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
-* [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
+* [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?platform=mac)
 * [Boostnote](https://boostnote.io/) - 프로그래머를 위해 제작된 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
-* [Craft](https://www.craft.do/) - 노트 작성과 쓰기를 아름답게. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127)
+* [Craft](https://www.craft.do/) - 노트 작성과 쓰기를 아름답게. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
 * [Dnote](https://www.getdnote.com/) - 멀티 디바이스 동기화를 지원하는 간단한 명령줄 노트북. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
-* [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587)
+* [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 다양한 플랫폼에서 사용 가능한 유명 노트 앱. ![Freeware][Freeware Icon]
-* [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?mt=12)
+* [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - 간단하고 대화형 디자인의 쓰기 앱 및 작업 관리자.
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
@@ -206,24 +205,24 @@ Awesome Mac
 * [Notable](https://github.com/notable/notable) - 마크다운 기반의 괜찮은 노트 앱.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 깔끔하고 단순한 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
-* [NotePlan 3](https://noteplan.co/) - 할 일, 노트, 캘린더를 하나의 마크다운 파일로 관리. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629)
+* [NotePlan 3](https://noteplan.co/) - 할 일, 노트, 캘린더를 하나의 마크다운 파일로 관리. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - 네이티브 노트 및 LLM 클라이언트.
-* [Noteship](https://noteship.com) - 노트를 지식으로 바꿉니다. 오프라인으로 작동하며 로컬에 저장됩니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
+* [Noteship](https://noteship.com) - 노트를 지식으로 바꿉니다. 오프라인으로 작동하며 로컬에 저장됩니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
 * [Notion](https://www.notion.so/) - 노트, 작업, 위키, 데이터베이스를 위한 올인원 워크스페이스.
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
-* [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438)
-* [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
+* [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
 * [Standard Notes](https://standardnotes.com/) - 전문가를 위한 종단간 암호화 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [QOwnNotes](http://www.qownnotes.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
-* [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12)
+* [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - 텍스트, 코드, 마크다운, LaTeX를 하나의 노트에서 믹스.
 * [VNote](https://app.vnote.fun/) - 뛰어난 편집 경험을 제공하기 위해 설계된 Qt 기반 앱. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 
 ### 저널링
 
-* [Day One](https://dayoneapp.com/) - 텍스트, 사진, 비디오 등을 사용하는 훌륭한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?mt=12)
-* [Journey](https://journey.cloud/) - 모든 플랫폼에서 사용 가능한 기능이 풍부한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
+* [Day One](https://dayoneapp.com/) - 텍스트, 사진, 비디오 등을 사용하는 훌륭한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?platform=mac)
+* [Journey](https://journey.cloud/) - 모든 플랫폼에서 사용 가능한 기능이 풍부한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac)
 * [Life Note](https://mylifenote.ai) - 인류 역사상 가장 위대한 정신들과 대화하는 저널. ![Freeware][Freeware Icon]
 * [linked](https://github.com/lostdesign/linked) - 생각을 날짜별로 연결합니다. [![Open-Source Software][OSS Icon]](https://github.com/lostdesign/linked)
 
@@ -237,28 +236,28 @@ Awesome Mac
 ### 전자책
 
 * [Calibre](http://calibre-ebook.com/) - 무료 오픈 소스 전자책 관리자 및 리더. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
-* [Clearview](http://www.clearview-reader.com/clearview/) - PDF, EPUB, CHM, MOBI를 위한 탭 스타일 전자책 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
+* [Clearview](http://www.clearview-reader.com/clearview/) - PDF, EPUB, CHM, MOBI를 위한 탭 스타일 전자책 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
 * [iChm](https://github.com/NSGod/ichm) - CHM 파일용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon Kindle 공식 앱.
-* [Klib](http://klib.me/) - Kindle 및 iBooks의 하이라이트를 관리하는 새로운 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
+* [Klib](http://klib.me/) - Kindle 및 iBooks의 하이라이트를 관리하는 새로운 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?at=1000lv4R&ct=klib_me&platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15개 이상의 형식을 지원하는 올인원 전자책 리더. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
 * [Readest](https://github.com/readest/readest) - 직관적인 인터페이스를 갖춘 교차 플랫폼 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 전문가 수준의 레이아웃 및 출판 소프트웨어. [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 멀티 플랫폼 EPUB 전자책 편집기. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - 라이브 텍스트 검색을 지원하는 PDF, CBZ, CBR용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
+* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac) - 라이브 텍스트 검색을 지원하는 PDF, CBZ, CBR용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac)
 
 ### RSS
 
-* [Elytra](https://elytra.app) - 개인정보 보호를 중점을 둔 간단한 RSS 피드 리더. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
-* [Feedy](https://krillapps.com/feedy/) - 우아하고 가벼운 RSS 클라이언트. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
+* [Elytra](https://elytra.app) - 개인정보 보호를 중점을 둔 간단한 RSS 피드 리더. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8&platform=mac)
+* [Feedy](https://krillapps.com/feedy/) - 우아하고 가벼운 RSS 클라이언트. [![App Store][app-store Icon]](https://apps.apple.com/us/app/feedy-rss-client/id588288104?platform=mac)
 * [Folo](https://github.com/RSSNext/Folo) - 차세대 정보 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/RSSNext/Folo) ![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - 구독 관리 및 뉴스 읽기를 위한 앱.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 무료 오픈 소스 피드 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [Doughnut](https://doughnutapp.com/) - 아름다운 오픈 소스 팟캐스트 수집기. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
 * [ReadKit](http://readkitapp.com/) - 북마크 및 RSS 관리 클라이언트.
-* [Reeder 5](http://reederapp.com) - Feedbin, Feedly 등을 지원하는 뉴스 리더. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
+* [Reeder 5](http://reederapp.com) - Feedbin, Feedly 등을 지원하는 뉴스 리더. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 * [Saga Reader](https://github.com/sopaco/saga-reader) - AI 기반의 매우 빠른 인터넷 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
-* [Unread](https://www.goldenhillsoftware.com/unread/) - 아름다운 타이포그래피를 제공하는 RSS 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349)
+* [Unread](https://www.goldenhillsoftware.com/unread/) - 아름다운 타이포그래피를 제공하는 RSS 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349?platform=mac)
 * [Vienna](http://viennarss.github.io/) - macOS용 RSS/Atom 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 ### 기타
@@ -268,19 +267,19 @@ Awesome Mac
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - 학습 및 연구를 위한 PDF 리더. ![Freeware][Freeware Icon]
-* [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 메타데이터, 글꼴, 보안 위험 분석 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8)
+* [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 메타데이터, 글꼴, 보안 위험 분석 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - PDF 읽기, 주석 및 편집 도구.
 * [PDF Pals](https://pdfpals.com) - PDF와 채팅할 수 있는 앱.
-* [PDFgear](https://www.pdfgear.com/) - AI 통합 PDF 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
-* [PDF Reader Pro](http://www.pdfreaderpro.com) - 보거나 제작, 서명, 압축 등을 할 수 있는 도구. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12)
+* [PDFgear](https://www.pdfgear.com/) - AI 통합 PDF 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079?platform=mac)
+* [PDF Reader Pro](http://www.pdfreaderpro.com) - 보거나 제작, 서명, 압축 등을 할 수 있는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 * [Skim](http://skim-app.sourceforge.net) - OS X용 PDF 리더 및 노트 작성 도구. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - 글꼴 설치 및 관리 도구.
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 빠르고 강력한 Pinboard 클라이언트.
 * [Tad](https://www.tadviewer.com) - CSV와 같은 표 데이터를 시각화하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 자동 업데이트를 지원하는 LaTeX 편집기.
-* [UPDF](https://updf.com/) - PDF 읽기 및 편집을 위한 무료 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
+* [UPDF](https://updf.com/) - PDF 읽기 및 편집을 위한 무료 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
 * [Zotero](https://www.zotero.org/) - 연구 자료 수집 및 관리 도구. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
-* [Collate](https://collate.one/get-started) - AI를 사용하여 PDF를 요약하고 쿼리하는 무료 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913)
+* [Collate](https://collate.one/get-started) - AI를 사용하여 PDF를 요약하고 쿼리하는 무료 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913?platform=mac)
 * [PDFsail](https://pdfsail.com/) - AI 기반 올인원 PDF 솔루션.
 * [TableTool](https://tabletool.io/) - 간편한 CSV 브라우저.
 * [Heynote](https://heynote.com/) - 개발자를 위한 전용 스크래치패드. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
@@ -330,11 +329,12 @@ Awesome Mac
 * [CodeMenu](https://extiri.com/codemenu.html) - 고급 스니펫 관리자.
 * [CoilPad](https://coilpad.com) - 네이티브 Python 스크래치패드. ![Freeware][Freeware Icon]
 * [Conduktor](https://www.conduktor.io) - Kafka 데스크톱 클라이언트. ![Freeware][Freeware Icon]
+* [Configs](https://github.com/iHongRen/configEditor) - 구성 파일을 빠르게 보기, 편집 및 관리하는 구성 파일 관리기. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier 생성기. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon]
 * [Dash](https://kapeli.com/dash) - API 문서 브라우저 및 코드 스니펫 관리자. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 딥링크 관리자.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 파일 비교 및 병합 도구. ![Freeware][Freeware Icon]
-* [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
+* [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
@@ -345,10 +345,12 @@ Awesome Mac
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - 앱 번역 분석 및 편집.
+* [Loupe](https://github.com/smughead/Loupe) - AI 에이전트 준비 출력을 생성하는 접근성 검사기. [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 네이티브 경량 텍스트 diff 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 반응형 이메일 제작 도구. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
+* [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, Kubernetes 포트 포워딩 및 Cloudflare Tunnel 관리, 프로세스 원클릭 종료를 지원하는 크로스플랫폼 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 코드 라인 수 계산기. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [Responsively](https://responsively.app) - 반응형 웹 개발 도구. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
@@ -368,7 +370,7 @@ Awesome Mac
 * [Patterns](http://krillapps.com/patterns/) - 정규 표현식 편집기.
 * [Regex](https://motionobj.com/regex/) - 간단한 정규 표현식 테스트 도구.
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 정규 표현식 개발 도구.
-* [RegexMate](https://apps.apple.com/app/6479819388) - 참조 가이드가 포함된 테스트 도구.
+* [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - 참조 가이드가 포함된 테스트 도구.
 
 ### API 개발 및 분석
 
@@ -466,7 +468,7 @@ Awesome Mac
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [MakeHuman](http://www.makehumancommunity.org) - 강력하고 무료인 3D 인간 모델러. ![Freeware][Freeware Icon]
-* [Monodraw](http://monodraw.helftone.com) - Mac용 강력한 ASCII 아트 편집기. [![App Store][app-store Icon]](https://itunes.apple.com/app/monodraw/id920404675)
+* [Monodraw](http://monodraw.helftone.com) - Mac용 강력한 ASCII 아트 편집기. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 비트맵 이미지 편집기. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pixelmator Pro](http://www.pixelmator.com/pro/) - Mac을 위한 모든 기능을 갖춘 이미지 편집기.
 * [Pika](https://superhighfives.com/pika) - 오픈 소스 색상 선택 앱. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika)
@@ -487,19 +489,26 @@ Awesome Mac
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 자유로운 레이아웃의 마인드맵 소프트웨어.
 * [XMind](http://www.xmind.net) - 전 세계적으로 인기 있는 마인드맵 도구.
 
-### 화면 캡처 소프트웨어
+### 스크린샷 도구
 
 * [CleanShot X](https://cleanshot.com/) - Mac 화면 캡처를 위한 최고의 방법.
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
+* [Scap](https://wangchujiang.com/scap/) - 그리기 도구, 블러/모자이크, 워터마크 기능을 갖춘 스크린샷 주석 및 캔버스 생성 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
+* [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
+* [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
+* [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
+
+### 화면 녹화
+
+* [BetterCapture](https://jsattler.github.io/BetterCapture/) - 전문적인 인코딩을 지원하는 무료 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - GIF 녹화 및 공유.
 * [Kap](https://getkap.co/) - 웹 기술로 만든 오픈 소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 화면을 GIF로 녹화. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
-* [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
-* [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
-* [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
+* [Reframed](https://reframed.dev) - 비디오 에디터가 내장된 강력한 화면 녹화 도구입니다. 전체 화면, 특정 영역, 창 또는 iOS 기기를 웹캠 및 마이크와 함께 캡처할 수 있으며, 트리밍, 줌, 스타일 수정 및 내보내기 기능을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 앱 — Screen Studio 대안. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 
 ### 기타 도구
 
@@ -526,6 +535,7 @@ Awesome Mac
 * [Jan](https://jan.ai/) - 완전히 오프라인으로 실행 가능한 ChatGPT 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/menloresearch/jan) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 여러 AI 코딩 에이전트를 병렬로 실행. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [Witsy](https://github.com/nbonamy/witsy) - 데스크톱 AI 어시스턴트 및 유니버설 MCP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/nbonamy/witsy) ![Freeware][Freeware Icon]
+* [Warden](https://karatsidhu.gumroad.com/l/warden) - 네이티브 Swift 기반 macOS 앱으로, 사용자 API 키로 여러 LLM 모델을 실행할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/WardenApp) ![Freeware][Freeware Icon]
 
 ### 이미지
 
@@ -591,12 +601,12 @@ Awesome Mac
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 전문적인 비디오 편집 및 색교정 도구. ![Freeware][Freeware Icon]
+* [FineTune](https://github.com/ronitsingh10/FineTune) - 앱별 볼륨 제어, 다중 장치 출력 및 10밴드 EQ. 무료 SoundSource 대안. [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 오픈 소스 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
-* [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 앱 — Screen Studio 대안. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 전 세계적으로 인기 있는 미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 
 ## 다운로드 관리 도구
@@ -608,6 +618,8 @@ Awesome Mac
 * [Motrix](https://motrix.app/) - HTTP, FTP, BitTorrent, Magnet 등을 지원하는 모든 기능을 갖춘 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Transmission](https://www.transmissionbt.com/) - 빠르고 쉽고 무료인 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [XGetter](https://xgetter.com/) - 미디어 다운로드 도구 - YouTube, Douyin, Facebook, Instagram, Twitter, TikTok 및 60개 이상의 사이트에서 비디오와 오디오를 다운로드하세요! ![프리웨어][Freeware Icon]
+
 
 ## 클라우드 스토리지
 
@@ -619,11 +631,12 @@ Awesome Mac
 ## 입력기
 
 * [Kawa](https://github.com/utatti/kawa) - OS X용 단축키 기반 입력 소스 전환기. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [LangSwitcher](https://github.com/reg2005/langSwitcher) - 오픈 소스 키보드 레이아웃 텍스트 변환기. 잘못된 레이아웃으로 입력한 텍스트를 선택하고 ⇧⇧를 누르면 즉시 변환됩니다. EN/RU/DE/FR/ES 지원. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
 
 ## 음성 텍스트 변환 (Voice-to-Text)
 
-* [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
+* [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
 
 ## 브라우저
@@ -633,21 +646,24 @@ Awesome Mac
 * [Chrome](https://www.google.com/chrome/) - Google의 웹 브라우저. ![Freeware][Freeware Icon]
 * [Firefox](https://www.mozilla.org/firefox/) - Mozilla의 자유 오픈 소스 웹 브라우저. [![Open-Source Software][OSS Icon]](https://hg.mozilla.org/mozilla-central) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Mac용 네이티브 브라우저. ![Freeware][Freeware Icon]
+* [Tabbit](https://tabbitbrowser.com/) - 문맥을 이해하고 웹페이지 대화와 작업 자동화를 지원하는 AI 네이티브 브라우저. ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - 사용자가 제어하는 브라우저. ![Freeware][Freeware Icon]
 
 ## 번역 도구
 
 * [DeepL](https://www.deepl.com/) - 최고의 품질을 자랑하는 기계 번역 서비스. ![Freeware][Freeware Icon]
-* [Easydict](https://github.com/tisfeng/Easydict) - 단어 조회 및 텍스트 번역을 쉽게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [Easydict](https://github.com/tisfeng/Easydict) - 단어 검색과 텍스트 번역을 간편하게 해주는 사전·번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [MoePeek](https://github.com/cosZone/MoePeek) - 단어 선택 번역, OCR 캡처 번역, 클립보드 번역, 수동 입력 번역을 지원하는 경량 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek)
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - ChatGPT API를 기반으로 한 번역기. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
 
 ## 교육
 
-* [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825)
+* [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 금융
 
-* [SubManager](https://submanager.app/) - 구독 서비스를 한 곳에서 관리. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
+* [SubManager](https://submanager.app/) - 구독 서비스를 한 곳에서 관리. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
+* [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - 알림, 분석 및 iCloud 동기화를 통해 한 곳에서 구독, 갱신 및 지출을 추적.
 
 ## 암호화
 
@@ -677,11 +693,22 @@ Awesome Mac
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
+* [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 사용자 지정 단축키와 스마트 자동화를 통해 메뉴 바에서 블루투스 기기를 손쉽게 관리.
+* [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
+* [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
+* [KeyStats](https://keystats.vercel.app) - 일일 키보드 입력, 마우스 클릭, 이동 거리 및 스크롤 거리를 추적하는 가벼운 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Stats](https://github.com/exelban/stats) - 메뉴 바의 시스템 상태 모니터. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
+* [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
+
+### 정리 및 제거
+
+* [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
+* [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시(Xcode, node_modules, CocoaPods, SPM)를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 
 ### 파일 정리 도구
 
-* [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
+* [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
+* [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 즐겨 쓰는 앱으로 선택한 폴더/파일을 빠르게 열 수 있는 사용자 지정 메뉴를 제공하는 Finder 확장.
 * [Keka](https://www.keka.io/) - macOS용 차세대 압축 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 
@@ -698,11 +725,14 @@ Awesome Mac
 
 * [Alfred](https://www.alfredapp.com/) - 효율성 향상을 위한 앱 및 검색 도구.
 * [Raycast](https://www.raycast.com/) - 생산성이 뛰어난 확장 가능한 런처. ![Freeware][Freeware Icon]
+* [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 
 ### 창 관리
 
 * [Amethyst](https://ianyh.com/amethyst/) - 자동 창 타일링 관리자. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+* [Convoker](https://github.com/varie-ai/convoker) - 앱 이름을 입력하고 엔터를 누르면 해당 앱의 모든 창이 모입니다. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
+* [ShortcutCycle](https://shortcutcycle.vercel.app/) - Command+Tab 노가다는 이제 그만. 웹, 코딩, 소셜 등 상황별로 앱을 묶고 단축키 하나로 척척 전환. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 
 ### 비밀번호 관리
 
@@ -723,6 +753,7 @@ Awesome Mac
 ## QuickLook 플러그인
 
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - 마크다운 파일을 위한 Quick Look 도구. [![Open-Source Software][OSS Icon]](https://github.com/sbarex/QLMarkdown) ![Freeware][Freeware Icon]
+* [FluxMarkdown](https://github.com/xykong/flux-markdown) - Finder에서 Markdown을 즉시 미리 볼 수 있으며 Mermaid, KaTeX, GFM, TOC, 차트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
 
 ## 서드파티 앱 마켓
