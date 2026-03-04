@@ -919,6 +919,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [XGetter](https://xgetter.com/) - Media Downloader - Download video, audio from YouTube, Douyin, Facebook, Instagram, Twitter, TikTok and 60+ sites ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of youtube-dl based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc) with added fixes and features, such as support for larger playlists and [SponsorBlock](https://sponsor.ajay.app/) integration.  [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) ![Freeware][Freeware Icon]
 
 ## Cloud Storage
 
