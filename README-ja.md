@@ -1051,6 +1051,7 @@ Awesome Mac
 * [tinc](https://www.tinc-vpn.org) - セキュアなメッシュVPNソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 本当にシンプルなVPNで、プライベートかつセキュアにWebを閲覧。Mac、PC、iOS、Android、Chrome用のアプリケーションで世界中のWebサイトのブロックを解除。
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OS X上のOpenVPN用の無料のオープンソースグラフィカルユーザーインターフェース。 ![Freeware][Freeware Icon]
+* [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 特定のドメインやサービスの通信をVPN経由から除外できるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 即座に月間10GBの無料帯域幅を提供し、サーバーロケーションのオプションは限定的（無料プランユーザーの場合）。接続も非常に短時間で完了。
 * [Tailscale](https://tailscale.com/) - ソフトウェア定義ネットワークの構築を簡単にし、ユーザー、サービス、デバイスをセキュアに接続。
 

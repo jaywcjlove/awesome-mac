@@ -942,6 +942,7 @@ Awesome Mac
 * [Tailscale](https://tailscale.com) - Tailscale 是一种基于 Wireguard 的零配置、端到端加密、点对点 VPN。![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 简单的私人 VPN。![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
+* [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 可按域名和服务将流量绕过 VPN 路由的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 
 ## 其它实用工具
 
