@@ -946,6 +946,7 @@ Awesome Mac
 
 * [Aiko](https://sindresorhus.com/aiko) - 高品質なデバイス上の文字起こし。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [buzz](https://github.com/chidiwilliams/buzz) - 個人のコンピューター上でオフラインで音声を文字起こし・翻訳。OpenAIのWhisperを使用。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - オープンソースのAI音声入力ツールで、ホットキーを押して話すだけで整形済みテキストを任意のアプリに入力できます。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Ottex](https://ottex.ai) - メール、Slackメッセージ、メモなどをディクテーション。アプリやWebサイトを検出し、それに応じてフォーマット — gmail.com → メール、Obsidian → markdownなど。
 * [Spokenly](https://spokenly.app/) - 100以上の言語、オフラインモード、AI搭載のフォーマットを備えた音声テキスト変換。
 * [Tambourine](https://tambourinevoice.com/) - あらゆるアプリで動作するオープンソースのカスタマイズ可能なAI音声ディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
