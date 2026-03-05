@@ -127,6 +127,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Audio Record and Process](#audio-record-and-process)
 - [Download Management Tools](#download-management-tools)
 - [Cloud Storage](#cloud-storage)
+
 - [Input Methods](#input-methods)
 - [Voice-to-Text](#voice-to-text)
 - [Browsers](#browsers)
@@ -935,6 +936,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ## Input Methods
 
+* [Emoji Picker for macOS](https://inndevs.com/emoji-picker-macos/) - Fast native emoji picker triggered while typing.
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter. Select text typed in wrong layout, press ⇧⇧ and it's instantly converted. Supports EN/RU/DE/FR/ES. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
