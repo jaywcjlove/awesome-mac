@@ -127,7 +127,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [Audio Record and Process](#audio-record-and-process)
 - [Download Management Tools](#download-management-tools)
 - [Cloud Storage](#cloud-storage)
-
 - [Input Methods](#input-methods)
 - [Voice-to-Text](#voice-to-text)
 - [Browsers](#browsers)
