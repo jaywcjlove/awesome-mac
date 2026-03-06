@@ -101,6 +101,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
     - [RSS](#rss)
     - [Others](#others)
 - [Developer Tools](#developer-tools)
+    - [ChronosBench](https://github.com/nishaantkumardas/chronosbench) - CLI stress tester for CPU and Metal GPU with live terminal UI         and real-time telemetry. ![Open-Source Software][OSS Icon]
     - [IDEs](#ides)
     - [Developer Utilities](#developer-utilities)
     - [Regular Expression Editors](#regular-expression-editors)
@@ -372,6 +373,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 * [CoilPad](https://coilpad.com) - Native macOS Python scratchpad designed for instant prototyping and interactive learning. ![Freeware][Freeware Icon]
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
+* - [ChronosBench](https://github.com/nishaantkumardas/chronosbench) - CLI stress tester for CPU and Metal GPU with live terminal UI and  real-time telemetry. ![Open-Source Software][OSS Icon]
 * [Swifka](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 * [Configs](https://github.com/iHongRen/configEditor) - Configuration file manager for quickly viewing, editing and managing config files. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
