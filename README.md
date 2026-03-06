@@ -262,6 +262,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
 * [VNote](https://app.vnote.fun/) - A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
+* [Zettel](https://github.com/AlexW00/Zettel) - Minimal, distraction-free note-taking app with Markdown and hashtag-based organization. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
 ### Journaling
 

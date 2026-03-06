@@ -262,6 +262,7 @@ Awesome Mac
 * [Quick Note](https://quicknoteapp.com) - メニューバーのカラフルな付箋。 [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - テキスト、コード、Markdown、LaTeXをライブプレビュー付きで1つのノートに統合。
 * [VNote](https://app.vnote.fun/) - 優れた編集体験を備えた快適なメモプラットフォームを提供するQtベースのアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
+* [Zettel](https://github.com/AlexW00/Zettel) - Markdownとハッシュタグ整理に対応した、ミニマルで集中しやすいメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
 ### ジャーナリング
 

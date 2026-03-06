@@ -747,6 +747,7 @@ Awesome Mac
 * [Notion](https://www.notion.so/zh-cn) - 富文本云笔记管理软件，支持多平台客户端。![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - 微软笔记应用。 ![Freeware][Freeware Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
+* [Zettel](https://github.com/AlexW00/Zettel) - 极简无干扰笔记应用，支持 Markdown 和标签整理。 [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
 * [语雀](https://www.yuque.com/install/desktop) - 云笔记类知识管理、协作平台，支持Markdown写作、流程图、脑图、代码渲染等功能，适合个人知识分享和团队协作。![Freeware][Freeware Icon]
