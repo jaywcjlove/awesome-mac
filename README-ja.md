@@ -997,6 +997,7 @@ Awesome Mac
 * [MoePeek](https://github.com/cosZone/MoePeek) - 選択テキストの即時翻訳、OCRスクリーンショット翻訳、クリップボード翻訳、手動入力翻訳を備えた軽量翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek)
 * [Nani](https://nani.now) - 解説付きの高速AI翻訳。
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - ChatGPT APIに基づくブラウザ拡張機能およびクロスプラットフォームデスクトップ翻訳アプリケーション。[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
+* [ScreenTranslate](https://screentranslate.filient.ai/) - 画面領域キャプチャやテキスト選択をその場で翻訳できるオンデバイス翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 辞書、音訳、音声出力サポートで100以上の言語間の単語、フレーズ、画像を翻訳。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium/id1547052291?platform=mac)
 
 ## 教育

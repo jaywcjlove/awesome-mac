@@ -658,6 +658,7 @@ Awesome Mac
 * [Easydict](https://github.com/tisfeng/Easydict) - 단어 검색과 텍스트 번역을 간편하게 해주는 사전·번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [MoePeek](https://github.com/cosZone/MoePeek) - 단어 선택 번역, OCR 캡처 번역, 클립보드 번역, 수동 입력 번역을 지원하는 경량 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek)
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - ChatGPT API를 기반으로 한 번역기. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
+* [ScreenTranslate](https://screentranslate.filient.ai/) - 화면 영역 캡처 또는 텍스트 선택으로 즉시 번역하는 온디바이스 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 
 ## 교육
 
