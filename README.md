@@ -1092,6 +1092,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Menu Bar Tools
 
 * [Anvil](https://anvilformac.com/) - Anvil is a beautiful menubar app for managing local websites. Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
+* [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 * [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.

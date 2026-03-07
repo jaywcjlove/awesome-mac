@@ -696,6 +696,7 @@ Awesome Mac
 
 ### 메뉴 바 도구
 
+* [Atoll](https://github.com/Ebullioscopic/Atoll) - 노치를 미디어 제어, 라이브 활동, 빠른 유틸리티를 담은 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]

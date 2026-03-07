@@ -1093,6 +1093,7 @@ Awesome Mac
 ### メニューバーツール
 
 * [Anvil](https://anvilformac.com/) - ローカルWebサイトを管理するための美しいメニューバーアプリ。シンプルなURLと設定不要で静的サイトやRackアプリを提供。 ![Freeware][Freeware Icon]
+* [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
 * [SaneBar](https://sanebar.com) - Touch IDロック、常時非表示ゾーン、7つの自動化トリガーを備えたプライバシーファーストのメニューバーマネージャー。Bartenderのオープンソース代替。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - カスタムホットキーとスマート自動化でメニューバーから簡単にBluetoothデバイスを管理。

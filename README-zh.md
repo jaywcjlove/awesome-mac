@@ -1043,6 +1043,7 @@ Awesome Mac
 
 ### 菜单栏工具
 
+* [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 允许您使用 Mac 键盘上的媒体键控制基于Web的媒体播放器（SoundCloud，YouTube 等）和一些本机应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Boring Notch](https://theboring.name/) - 让 MacBook 刘海变身音乐与文件控制中心。 [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
