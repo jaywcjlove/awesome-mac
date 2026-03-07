@@ -997,6 +997,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MoePeek](https://github.com/cosZone/MoePeek) - Lightweight translation tool with instant selection translation, OCR screenshot translation, clipboard translation, and manual input translation. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek)
 * [Nani](https://nani.now) - Fast AI translation with explanations.
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - Browser extension and cross-platform desktop application for translation based on ChatGPT API.[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
+* [ScreenTranslate](https://screentranslate.filient.ai/) - Capture any area or select text to translate instantly, fully on-device. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - Translate words, phrases and images between over 100 languages with dictionary, transliteration and voice output support. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium/id1547052291?platform=mac)
 
 ## Education
