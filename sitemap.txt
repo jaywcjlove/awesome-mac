@@ -4,8 +4,8 @@ https://jaywcjlove.github.io/awesome-mac/README-ja.html
 https://jaywcjlove.github.io/awesome-mac/editor-plugin.html
 https://jaywcjlove.github.io/awesome-mac/editor-plugin-zh.html
 https://jaywcjlove.github.io/awesome-mac/editor-plugin-ja.html
-https://jaywcjlove.github.io/awesome-mac/command-line-apps-zh.html
 https://jaywcjlove.github.io/awesome-mac/command-line-apps.html
+https://jaywcjlove.github.io/awesome-mac/command-line-apps-zh.html
 https://jaywcjlove.github.io/awesome-mac/command-line-apps-ko.html
 https://jaywcjlove.github.io/awesome-mac/command-line-apps-ja.html
 https://jaywcjlove.github.io/awesome-mac/index.html
