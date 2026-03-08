@@ -1355,6 +1355,7 @@ Awesome Mac
 
 * [Command X](https://sindresorhus.com/command-x) - Finderでファイルの切り取り＆貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - あらゆるアプリからファイルやフォルダに素早くアクセス。
+* [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` のアプリを外部ストレージへ移動し、元の場所に起動用リンクを残してそのまま使えるようにするツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [FileMinutes](https://www.fileminutes.com/) - ファイルを見つけてアクションを実行、すべてを一つで。
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finderウィンドウのサイズと位置を永続的に解決。 ![Freeware][Freeware Icon].
 * [SaneClick](https://saneclick.com) - ファイル管理、画像変換、開発者ツール向けの51以上の右クリックコンテキストメニューアクションを追加するFinder拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick)
