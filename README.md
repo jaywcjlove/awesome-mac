@@ -747,6 +747,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
+* [OpenClaw](https://openclaw.ai) - AI assistant that connects LLMs (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord. Runs locally, no server needed. [![Open-Source Software][OSS Icon]](https://github.com/openclaw/openclaw) ![Freeware][Freeware Icon]
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - A personal ChatGPT that ​​responds based on your knowledge​​. Lastest LLMs, Local first, and BYOK supported.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
