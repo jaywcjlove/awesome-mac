@@ -750,6 +750,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [MiniClaw](https://miniclaw.bot) - macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - A personal ChatGPT that ​​responds based on your knowledge​​. Lastest LLMs, Local first, and BYOK supported.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
+* [Wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for AI coding agents. Control Claude, Codex, and Gemini sessions across machines from your phone, secured by Tailscale. Self-hosted, no open ports. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/almogdepaz/wolfpack)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 
 
