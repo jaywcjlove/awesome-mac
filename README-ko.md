@@ -550,6 +550,7 @@ Awesome Mac
 ### 오디오
 
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+* [Spotifly](https://github.com/ralph/Spotifly) - 빠른 재생 제어에 초점을 맞춘 가벼운 Spotify 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com/) - 수백만 곡의 노래를 즐길 수 있는 디지털 음악 서비스. ![Freeware][Freeware Icon]
 
 ### 비디오

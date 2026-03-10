@@ -667,6 +667,7 @@ Awesome Mac
 * [Fmusic](https://github.com/wandercn/fmusic) - macOS 音乐播放器，支持多格式播放与歌词显示。
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
+* [Spotifly](https://github.com/ralph/Spotifly) - 轻量级 Spotify 播放器，专注于快速播放控制。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com) - 全球流行的音乐流媒体服务，提供海量音乐和个性化推荐。
 * [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云音乐客户端[![Open-Source Software][OSS Icon]](https://github.com/qier222/YesPlayMusic) ![Freeware][Freeware Icon]
 * [波点音乐](https://bodian.kuwo.cn/) ![Freeware][Freeware Icon]

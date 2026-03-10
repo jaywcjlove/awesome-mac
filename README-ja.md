@@ -880,6 +880,7 @@ Awesome Mac
 * [ScreenFlow](http://www.telestream.net/screenflow/) - スクリーンキャストとビデオ編集ソフトウェア。
 * [Shotcut](https://www.shotcut.org) - 無料のオープンソースビデオエディター。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) - ミニマルで美しくデザインされた音楽プレイヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
+* [Spotifly](https://github.com/ralph/Spotifly) - 再生操作をすばやく行える軽量なSpotifyプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - メニューバーにSpotifyとiTunesを表示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 映画、テレビ番組、シリーズ、ライブテレビ、YouTubeやTwitch.tvなどのWebチャンネル - すべてStremioで見つかる。 ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - ユーザーがお気に入りの曲の演奏を学ぶのを助けるために設計された音楽練習ソフトウェア。
