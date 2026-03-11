@@ -442,6 +442,7 @@ Awesome Mac
 * [RedisInsight](https://redislabs.com/redis-insight/) - Redis용 무료 시각화 도구. ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
+* [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
 
 ### 터미널 앱
 

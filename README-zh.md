@@ -357,6 +357,7 @@ Awesome Mac
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持 SQL Server, Postgres, Oracle 以及 MySQL 等主流的数据库可视化管理工具.
 * [SQLight](https://aurvan.com/sqlight/) - 一个 SQLite 数据库管理器工具，非常好用。 ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - 支持 PostgreSQL，MySQL，RedShift，MariaDB... 各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
+* [TablePro](https://github.com/datlechin/TablePro) - 轻量快速的数据库客户端，支持主流 SQL/NoSQL 数据源并提供 AI 辅助 SQL 编辑。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
 * [Tableau Public](https://public.tableau.com/s/) - 数据可视化工具。 ![Freeware][Freeware Icon]
 * [Keylord](https://protonail.com) - Redis，Bolt，LevelDB 和 Memcached 键值数据库的桌面GUI客户端。
 * [redis-pro](https://github.com/cmushroom/redis-pro) - 轻量，易用的 Redis 客户端管理工具，使用SwiftUI编写，很好的支持 Dark mode。 [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]

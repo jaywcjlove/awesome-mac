@@ -571,6 +571,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
 * [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured.
+* [TablePro](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
 * [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
 * [redis-pro](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
 
