@@ -1102,6 +1102,7 @@ Awesome Mac
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
 * [Claude God](https://claudegod.app) - メニューバーでClaudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
+* [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - メニューバーでClaudeの各種使用量上限をリアルタイムに監視できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - Touch IDロック、常時非表示ゾーン、7つの自動化トリガーを備えたプライバシーファーストのメニューバーマネージャー。Bartenderのオープンソース代替。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - カスタムホットキーとスマート自動化でメニューバーから簡単にBluetoothデバイスを管理。
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - Macキーボードのメディアキーを使用して、Webベースのメディアプレイヤー（SoundCloud、YouTubeなど）および一部のネイティブアプリを操作。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
