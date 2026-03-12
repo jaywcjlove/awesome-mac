@@ -614,6 +614,7 @@ Awesome Mac
 * [Kodi](https://kodi.tv/) - 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
+* [Petrichor](https://github.com/kushalpandya/Petrichor) - 다양한 포맷, 가사, 재생목록, 큐 관리를 지원하는 오프라인 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 전 세계적으로 인기 있는 미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 
 ## 다운로드 관리 도구
