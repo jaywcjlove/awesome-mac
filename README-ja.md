@@ -391,6 +391,7 @@ Awesome Mac
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - hostsファイルを管理するためのシステム環境設定パネル。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Icon Preview](https://sindresorhus.com/icon-preview) - アプリアイコンとメニューバーアイコンをプレビューできるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509?platform=mac)
 * [iHosts](https://en.toolinbox.net/iHosts/) - Mac App Store唯一の `/etc/hosts` エディター。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1102004240?platform=mac)
+* [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - メタデータ編集、TestFlight、レビュー、分析、AIローカライズをまとめて扱えるApp Store Connect管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [SaneHosts](https://sanehosts.com) - /etc/hostsを利用したシステムレベルの広告/トラッカーブロッカー。200以上の厳選されたブロックリスト、5段階の保護レベル、Touch IDロック機能を搭載。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [ILLA Cloud](https://www.illacloud.com/) - ローコードの社内ツールビルダー。 [![Open-Source Software][OSS Icon]](https://github.com/illacloud/illa-builder)
 * [ImHex](https://imhex.werwolv.net/) - リバースエンジニアやプログラマー向けのHexエディター。 [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]

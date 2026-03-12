@@ -345,6 +345,7 @@ Awesome Mac
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [ImHex](https://imhex.werwolv.net/) - 역공학 및 프로그래머를 위한 16진수 편집기. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
+* [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 메타데이터 편집, TestFlight, 리뷰, 분석, AI 현지화를 한곳에서 처리하는 App Store Connect 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - 앱 번역 분석 및 편집.

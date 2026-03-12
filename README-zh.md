@@ -233,6 +233,7 @@ Awesome Mac
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 快速而聪明的开源十六进制编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hex-fiend/id1342896380?platform=mac)
 * [iHosts](https://en.toolinbox.net/iHosts/) - 唯一上架 Mac App Store 的 /etc/hosts 编辑神器。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1102004240?platform=mac)
+* [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 一站式 App Store Connect 管理工具，支持元数据编辑、TestFlight、评论、数据分析与 AI 本地化。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持 Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
