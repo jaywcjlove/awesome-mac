@@ -115,53 +115,30 @@ const getMdToAST = (data = [], parent = {}) => {
   return data
 }
 
-remark()
-  .use(gfm)
-  .use(() => (tree) => {
-    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
-    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
-    const data = tree.children.slice(startIndex + 1, endIndex)
-    const dataAST = getMdToAST([...data])
-    FS.outputJsonSync('./dist/awesome-mac.json', dataAST)
-    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.json \x1b[0m');
-  })
-  .processSync(toVFile.readSync('README.md'))
+// Process markdown files and generate JSON data
+const processMarkdownToJson = (inputFile, outputFile) => {
+  remark()
+    .use(gfm)
+    .use(() => (tree) => {
+      const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
+      const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
+      const data = tree.children.slice(startIndex + 1, endIndex)
+      const dataAST = getMdToAST([...data])
+      FS.outputJsonSync(outputFile, dataAST)
+      console.log(' create file: \x1b[32;1m', outputFile, '\x1b[0m');
+    })
+    .processSync(toVFile.readSync(inputFile))
+}
 
+// Configuration for different language versions
+const configs = [
+  { input: 'README.md', output: './dist/awesome-mac.json' },
+  { input: 'README-zh.md', output: './dist/awesome-mac.zh.json' },
+  { input: 'README-ja.md', output: './dist/awesome-mac.ja.json' },
+  { input: 'README-ko.md', output: './dist/awesome-mac.ko.json' }
+]
 
-remark()
-  .use(gfm)
-  .use(() => (tree) => {
-    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
-    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
-    const data = tree.children.slice(startIndex + 1, endIndex)
-    const dataAST = getMdToAST([...data])
-    FS.outputJsonSync('./dist/awesome-mac.zh.json', dataAST)
-    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.zh.json \x1b[0m');
-  })
-  .processSync(toVFile.readSync('README-zh.md'))
-
-
-remark()
-  .use(gfm)
-  .use(() => (tree) => {
-    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
-    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
-    const data = tree.children.slice(startIndex + 1, endIndex)
-    const dataAST = getMdToAST([...data])
-    FS.outputJsonSync('./dist/awesome-mac.ja.json', dataAST)
-    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.ja.json \x1b[0m');
-  })
-  .processSync(toVFile.readSync('README-ja.md'))
-
-
-remark()
-  .use(gfm)
-  .use(() => (tree) => {
-    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
-    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
-    const data = tree.children.slice(startIndex + 1, endIndex)
-    const dataAST = getMdToAST([...data])
-    FS.outputJsonSync('./dist/awesome-mac.ko.json', dataAST)
-    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.ko.json \x1b[0m');
-  })
-  .processSync(toVFile.readSync('README-ko.md'))
+// Process all configurations
+configs.forEach(({ input, output }) => {
+  processMarkdownToJson(input, output)
+})
