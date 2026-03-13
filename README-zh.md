@@ -153,8 +153,8 @@ Awesome Mac
 - [Contributors](#contributors)
 - [License](#license)
 
-<!--start-->
 <!--idoc:ignore:end-->
+<!--start-->
 
 ## 开发者工具
 

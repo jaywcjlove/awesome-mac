@@ -139,3 +139,29 @@ remark()
     console.log(' create file: \x1b[32;1m ./dist/awesome-mac.zh.json \x1b[0m');
   })
   .processSync(toVFile.readSync('README-zh.md'))
+
+
+remark()
+  .use(gfm)
+  .use(() => (tree) => {
+    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
+    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
+    const data = tree.children.slice(startIndex + 1, endIndex)
+    const dataAST = getMdToAST([...data])
+    FS.outputJsonSync('./dist/awesome-mac.ja.json', dataAST)
+    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.ja.json \x1b[0m');
+  })
+  .processSync(toVFile.readSync('README-ja.md'))
+
+
+remark()
+  .use(gfm)
+  .use(() => (tree) => {
+    const startIndex = tree.children.findIndex(item => item.type === 'html' && /<!--start-->/.test(item.value))
+    const endIndex = tree.children.findIndex(item => item.type === 'html' && /<!--end-->/.test(item.value))
+    const data = tree.children.slice(startIndex + 1, endIndex)
+    const dataAST = getMdToAST([...data])
+    FS.outputJsonSync('./dist/awesome-mac.ko.json', dataAST)
+    console.log(' create file: \x1b[32;1m ./dist/awesome-mac.ko.json \x1b[0m');
+  })
+  .processSync(toVFile.readSync('README-ko.md'))

@@ -5,6 +5,31 @@
   "homepage": "https://jaywcjlove.github.io/awesome-mac",
   "funding": "https://jaywcjlove.github.io/#/sponsor",
   "main": "dist/awesome-mac.json",
+  "module": "dist/awesome-mac.json",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/awesome-mac.json",
+      "require": "./dist/awesome-mac.json",
+      "default": "./dist/awesome-mac.json"
+    },
+    "./ko": {
+      "import": "./dist/awesome-mac.ko.json",
+      "require": "./dist/awesome-mac.ko.json",
+      "default": "./dist/awesome-mac.ko.json"
+    },
+    "./ja": {
+      "import": "./dist/awesome-mac.ja.json",
+      "require": "./dist/awesome-mac.ja.json",
+      "default": "./dist/awesome-mac.ja.json"
+    },
+    "./zh": {
+      "import": "./dist/awesome-mac.zh.json",
+      "require": "./dist/awesome-mac.zh.json",
+      "default": "./dist/awesome-mac.zh.json"
+    },
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "start": "npm run build && npm run create:ast",
     "doc": "idoc --watch",
@@ -24,6 +49,8 @@
   ],
   "files": [
     "dist/awesome-mac.json",
+    "dist/awesome-mac.ko.json",
+    "dist/awesome-mac.ja.json",
     "dist/awesome-mac.zh.json"
   ],
   "author": "kenny wang <wowohoo@qq.com>",

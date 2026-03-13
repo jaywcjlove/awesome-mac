@@ -135,8 +135,9 @@ Awesome Mac
 - [기여자](#기여자)
 - [라이선스](#라이선스)
 
-<!--start-->
 <!--idoc:ignore:end-->
+
+<!--start-->
 
 ## 읽기 및 쓰기 도구
 
@@ -792,6 +793,8 @@ Awesome Mac
 * [Mac Power Users](https://www.relay.fm/mpu) - Apple 기술을 최대한 활용하는 방법. ![Freeware][Freeware Icon]
 
 **[⬆ 상단으로 이동](#목차)**
+
+<!--end-->
 
 ## 기여자
 

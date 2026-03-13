@@ -161,8 +161,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 - [Contributors](#contributors)
 - [License](#license)
 
-<!--start-->
 <!--idoc:ignore:end-->
+
+<!--start-->
 
 ## Reading and Writing Tools
 
