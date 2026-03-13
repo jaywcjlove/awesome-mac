@@ -1107,6 +1107,7 @@ Awesome Mac
 ### 效率工具
 
 * [Table Habit](https://github.com/FriesI23/mhabit) – 跨平台的习惯追踪器，帮助你通过成长曲线和离线优先同步来建立微习惯。![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
+* [Rustcast](https://rustcast.app) - 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - Mac 的自动时间和生产力跟踪。
 * [Textream](https://textream.fka.dev) - 免费提词器，具有实时单词跟踪和语音激活滚动功能。[![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - 开源的 Spotlight 替代品和快捷工具套件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)

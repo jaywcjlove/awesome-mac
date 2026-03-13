@@ -1245,6 +1245,7 @@ Awesome Mac
 * [ActivityWatch](https://activitywatch.net/) - クロスプラットフォーム、拡張可能、プライバシー重視の時間追跡ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - ホットキー、キーワード、テキスト展開などで効率を向上させる受賞歴のあるアプリ。Macとウェブを検索し、カスタムアクションでMacを操作してさらに生産性を向上。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Atomic](https://indiegoodies.com/atomic) - 良い習慣を作り、悪い習慣を断ち、日々のルーティンを管理するための習慣トラッカーアプリ。
+* [Rustcast](https://rustcast.app) - モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - 高速検索機能を備えた、よりスマートで無料、高度にカスタマイズ可能なmacOS用アプリケーションランチャー。
 * [BetterMouse](https://better-mouse.com) - サードパーティマウスのスムーズスクロール、カーソル加速の無効化、強力なボタン/ジェスチャーのリマッピングを1つのユーティリティで実現。かさばる公式ドライバーの代替を目指しています。
 * [BetterTouchTool](https://folivora.ai/) - Magic Mouse、MacBookトラックパッド、Magic Trackpadの多彩なジェスチャー設定や、通常のマウスのマウスジェスチャーも設定できる機能豊富なアプリ。
