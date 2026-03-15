@@ -581,6 +581,7 @@ Awesome Mac
 ## ターミナルアプリ
 
 * [alacritty](https://github.com/jwilm/alacritty) - クロスプラットフォームでGPUアクセラレーションに対応したターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+* [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - AIコンポーネント、複数プロバイダープロファイル、音声入力、Metalレンダリングを備えたLLMネイティブなターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - 長時間実行されるターミナルコマンド用のターミナルコンパニオン（フリーミアム）。
 * [electerm](https://electerm.github.io/electerm/) - 美しいインターフェースを備えた、無料のマルチプラットフォームターミナルおよびSSH/SFTPツール。WindowsのXShellの完璧な代替。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - プラットフォームネイティブのUIとGPUアクセラレーションを使用する、高速で機能豊富なクロスプラットフォームターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]

@@ -366,6 +366,7 @@ Awesome Mac
 ### 命令行应用
 
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+* [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 支持 AI 组件、多提供商配置、语音输入与 Metal 渲染的 LLM 原生终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 一个免费、多平台的 Terminal 和 SSH/SFTP 工具，界面美观，可以完美替代 Windows 平台的 XShell！[![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 一个快速、功能丰富、跨平台的终端模拟器，使用平台原生UI和GPU加速。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
