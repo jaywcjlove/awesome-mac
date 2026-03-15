@@ -653,6 +653,7 @@ Awesome Mac
 ## 음성 텍스트 변환 (Voice-to-Text)
 
 * [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
+* [FnKey](https://github.com/evoleinik/fnkey) - Fn 키를 누른 채 말하고 떼면 음성이 즉시 텍스트로 붙여넣어지는 실시간 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 오픈 소스 AI 음성 입력 도구로, 단축키를 누르고 말하면 다듬어진 텍스트를 어떤 앱에든 입력할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
 

@@ -611,6 +611,7 @@ Awesome Mac
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
+* [FnKey](https://github.com/evoleinik/fnkey) - 按住 Fn 说话并松开即可实时将语音转成文本粘贴出来。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，按下快捷键说话即可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - 允许您为连接设备的每个特定组合固定输入/输出设备。可能会禁止选择HDMI显示器。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
