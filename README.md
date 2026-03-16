@@ -766,6 +766,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.
+* [CaptionSnap](https://captionsnap.app/) - Save meeting captions from Teams, Zoom, and Google Meet as local markdown transcripts with real speaker names. No bots, no audio capture, no cloud.
 * [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
