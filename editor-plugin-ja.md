@@ -2,6 +2,12 @@
   <sup>スペシャルサンクス:</sup>
   <br>
   <br>
+  <a href="https://screensage.pro/">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.jpeg">
+  </a>
+  <br>
+  <a href="https://screensage.pro/">ScreenSage Pro、macOSで美しい画面録画を数分で作成</a>
+  <br><br>
   <a href="https://www.warp.dev/awesome-mac">
     <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
   </a>

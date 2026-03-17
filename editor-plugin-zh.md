@@ -2,6 +2,12 @@
   <sup>特别感谢：</sup>
   <br>
   <br>
+  <a href="https://screensage.pro/">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.jpeg">
+  </a>
+  <br>
+  <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
+  <br><br>
   <a href="https://www.warp.dev/awesome-mac">
     <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
   </a>

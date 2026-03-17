@@ -2,6 +2,12 @@
   <sup>특별한 감사:</sup>
   <br>
   <br>
+  <a href="https://screensage.pro/">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.jpeg">
+  </a>
+  <br>
+  <a href="https://screensage.pro/">ScreenSage Pro, macOS에서 몇 분 만에 아름다운 화면 녹화를 제작하세요</a>
+  <br><br>
   <a href="https://www.warp.dev/awesome-mac">
     <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
   </a>
