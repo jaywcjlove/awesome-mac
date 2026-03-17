@@ -490,6 +490,7 @@ Awesome Mac
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 功能强大的屏幕录制工具，内置视频编辑器。支持录制全屏、特定区域、窗口或 iOS 设备，并同步录制摄像头和麦克风。支持后期裁剪、缩放、样式调整及导出。 ![Open-Source Software][OSS Icon](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 分分钟录制精美屏幕，自带精美帧动画，无须编辑。
+* [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
 * [Screenize](https://syi0808.github.io/screenize/) - 开源屏幕录制应用，支持自动缩放、光标效果和时间轴编辑——Screen Studio 替代品。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 
 ### 其它工具

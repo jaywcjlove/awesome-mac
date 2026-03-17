@@ -705,6 +705,7 @@ Awesome Mac
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内蔵ビデオエディターを備えた強力なスクリーンレコーダー。画面、範囲、ウィンドウ、iOSデバイスをWebカメラとマイクでキャプチャし、トリミング、ズーム、スタイル設定、エクスポートが可能。 [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 精巧なフレームアニメーションを内蔵し、編集不要で美しい画面を数分で録画。
+* [ScreenSage Pro](https://screensage.pro/) - 数分で洗練された画面録画動画を作れるツール。
 * [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソルエフェクト、タイムライン編集機能を備えたオープンソースの画面録画アプリ - Screen Studioの代替。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AIによる検索機能付きの24時間365日のローカル画面・マイク録画。自然言語クエリで見たもの、言ったこと、聞いたことを何でも呼び出せる。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
