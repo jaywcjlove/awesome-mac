@@ -21,13 +21,6 @@
   <a href="https://warp.dev/awesome-mac"><b>Warp, 개발자를 위한 지능형 터미널!</b></a><br>
   <a href="https://warp.dev/awesome-mac">macOS, Linux, & Windows에서 사용 가능</a><br><br>
 
-  <a href="https://tuple.app/awesome-mac">
-    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
-  </a>
-  <br>
-  <a href="https://tuple.app/awesome-mac">Tuple, macOS와 Windows 개발자를 위한 최고의 화면 공유 앱.</a>
-
-  <br><br>
 </div>
 <hr>
 

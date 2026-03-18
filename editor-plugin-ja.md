@@ -21,13 +21,6 @@
   <a href="https://warp.dev/awesome-mac"><b>Warp、開発者のためのインテリジェントターミナル！</b></a><br>
   <a href="https://warp.dev/awesome-mac">MacOS、Linux、Windows対応</a><br><br>
 
-  <a href="https://tuple.app/awesome-mac">
-    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
-  </a>
-  <br>
-  <a href="https://tuple.app/awesome-mac">Tuple、macOSとWindows向けの最高峰の画面共有アプリ。</a>
-
-  <br><br>
 </div>
 <hr>
 
