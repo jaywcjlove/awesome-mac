@@ -558,6 +558,7 @@ Awesome Mac
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
 * [Cherry Studio](https://www.cherry-ai.com/) - 여러 LLM 어시스턴트를 지원하는 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/CherryHQ/cherry-studio) ![Freeware][Freeware Icon]
 * [Chatbox](https://chatboxai.app) - 여러 AI 모델을 지원하는 사용자 친화적 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chatboxai/chatbox) ![Freeware][Freeware Icon]
+* [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Fluent](https://fluentmac.app) - 모든 앱에서 사용 가능한 네이티브 AI 어시스턴트.
 * [Jan](https://jan.ai/) - 완전히 오프라인으로 실행 가능한 ChatGPT 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/menloresearch/jan) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 여러 AI 코딩 에이전트를 병렬로 실행. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)

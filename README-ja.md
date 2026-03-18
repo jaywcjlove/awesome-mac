@@ -762,6 +762,7 @@ Awesome Mac
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
 * [Cherry Studio](https://www.cherry-ai.com/) - 複数の大規模言語モデル（LLM）プロバイダーをサポートするデスクトップクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [Fazm](https://fazm.ai) - アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Fluent](https://fluentmac.app) - 450以上のモデル（BYOK）をあらゆるmacOSアプリに統合するネイティブAIアシスタント。即座のアプリ&ブラウザコンテキスト、カスタマイズ可能なアクション、ショートカット、ローカルモデルをサポート。
 * [GroAsk](https://groask.com) - macOSメニューバーAIランチャー。⌥Spaceを押してテキストをChatGPT、Claude、Gemini、CLIエージェントに送信 - APIキー不要。
 * [RecurseChat](https://recurse.chat) - パーソナルでローカルファーストのプライベートAIチャットアプリ。シンプルなインターフェース、強力なカスタマイズ、超高速のスピード。
