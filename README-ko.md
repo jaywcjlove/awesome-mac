@@ -334,6 +334,7 @@ Awesome Mac
 * [WebStorm](https://www.jetbrains.com/webstorm/) - 가장 지능적인 JavaScript IDE.
 * [Windsurf](https://windsurf.com/) - 첫 번째 에이전트형 IDE.
 * [Xcode](https://developer.apple.com/xcode/) - Swift 및 Objective-C용 IDE. ![Freeware][Freeware Icon]
+* [Nimbalyst](https://nimbalyst.com/) - AI 코딩 세션, 작업, 프로젝트 파일을 관리하는 시각적 워크스페이스.
 * [Zed](https://zed.dev/) - 고성능 오픈 소스 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 * [Spyder](https://www.spyder-ide.org/) - 파이썬을 위한 강력한 과학적 환경.
 

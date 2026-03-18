@@ -373,6 +373,7 @@ Awesome Mac
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Windsurf](https://windsurf.com/) - 開発者とAIが一体となって魔法のようなコーディング体験を実現する初のエージェント型IDE。
 * [Xcode](https://developer.apple.com/xcode/) - iOS/macOS開発に必須のIDE。 [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
+* [Nimbalyst](https://nimbalyst.com/) - AIコーディングのセッション、タスク、プロジェクトファイルを管理できるビジュアルワークスペース。
 * [Zed](https://zed.dev/) - AtomとTree-sitterの生みの親が作った、ハイパフォーマンスなマルチプレイヤーコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 * [Spyder](https://www.spyder-ide.org/) - Pythonで書かれた、Python用の強力な科学計算環境。
 
