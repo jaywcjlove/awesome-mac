@@ -812,6 +812,7 @@ Awesome Mac
 ## 软件打包工具
 
 * [AppJS](http://appjs.com/) - 使用 JS、HTML 和CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/appjs/appjs) ![Freeware][Freeware Icon]
+* [DMG Maker](https://github.com/saihgupr/DMGMaker) - 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 * [create-dmg](https://github.com/sindresorhus/create-dmg) - 快速创建一个压缩镜像文件。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 * [Electron](https://electronjs.org/) - 前身是 AtomShell，使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon]
 * [Electrino](https://github.com/pojala/electrino) - 使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序，构建出的应用体积比 Electron 小。[![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]

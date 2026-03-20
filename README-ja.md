@@ -485,6 +485,7 @@ Awesome Mac
 ### ハイブリッドアプリケーション用フレームワーク
 
 * [AppJS](http://appjs.com/) - ネイティブアプリのように動作するモバイルWebアプリを作成するための軽量JavaScript UIライブラリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [DMG Maker](https://github.com/saihgupr/DMGMaker) - 洗練されたビジュアルとCLI対応を備えたDMG作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 * [create-dmg](https://github.com/sindresorhus/create-dmg) - macOSアプリの見栄えの良いDMGを数秒で作成。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 * [Electrino](https://github.com/pojala/electrino) - システムのブラウザエンジンを使用するWebアプリ用デスクトップランタイム。 [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 * [Electron](http://electron.atom.io) - JavaScript、HTML、CSSでクロスプラットフォームのデスクトップアプリケーションを構築。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)

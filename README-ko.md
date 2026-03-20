@@ -412,6 +412,7 @@ Awesome Mac
 
 ### 하이브리드 애플리케이션 프레임워크
 
+* [DMG Maker](https://github.com/saihgupr/DMGMaker) - 세련된 시각 효과와 CLI 지원을 갖춘 DMG 제작 도구. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 * [Electron](http://electron.atom.io) - JS, HTML, CSS로 데스크톱 앱 빌드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [Ionic](http://ionicframework.com/) - 웹 기술로 네이티브 및 웹 앱 빌드. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - 크로스 플랫폼 애플리케이션 프레임워크.
