@@ -350,7 +350,7 @@ Awesome Mac
 * [DataGrip](http://www.jetbrains.com/datagrip/) - JetBrains 公司旗下一款数据库管理工具。[点击这里](https://www.jetbrains.com/student/) **学生**免费。
 * [DBeaver](https://dbeaver.jkiss.org/) - 跨平台 SQL 客户端，支持大部分主流数据库
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL 数据库 CRUD 应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
-* [Sequel Pro](http://www.sequelpro.com/) - 一个 MySQL 数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
+* [Sequel Pro](https://github.com/sequelpro/sequelpro) - 一个 MySQL 数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的 SQL 访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
 * [medis](http://getmedis.com) - 漂亮的 Redis 管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/luin/medis)
 * [MongoDB](https://www.mongodb.com) - 一个基于分布式文件存储的数据库。 [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
