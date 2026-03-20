@@ -579,7 +579,6 @@ Awesome Mac
 * [SQLPro Studio](http://www.sqlprostudio.com/) - macOS用のシンプルで強力なデータベースマネージャー。
 * [Studio 3T](https://studio3t.com/) - MongoDB用の究極のGUI。 ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - リアルタイムWeb向けのスケーラブルで分散型の協調的ドキュメント-グラフデータベース。 [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
-* [Tableau Public](https://public.tableau.com/s/) - 無料のデータ可視化ソフトウェア。 ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - PostgreSQL、MySQL、RedShift、MariaDBなどをサポート。高度なセキュリティを確保。
 * [TablePro](https://github.com/datlechin/TablePro) - 主要なSQL/NoSQLエンジン接続とAI支援SQL編集に対応した高速データベースクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
 * [TrailBase](https://trailbase.io) - 型安全なAPI、通知、組み込みJS/TSランタイム、認証と管理UIを備えた、オープンでサブミリ秒の単一実行ファイルFireBase代替。SQLite、Rust、V8で構築。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
