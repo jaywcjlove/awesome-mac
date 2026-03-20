@@ -557,7 +557,6 @@ Awesome Mac
 * [FastoNoSQL](https://fastonosql.com/) - 様々なキーバリューデータベース用のクロスプラットフォームGUIクライアント。 [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Redis用のクロスプラットフォーム・プロフェッショナルGUI管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - クエリとデータ駆動のインサイトのための安全で協調的な環境。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Keylord](https://protonail.com) - Redis、Bolt、LevelDB、Memcachedキーバリューデータベース用のデスクトップGUIクライアント。
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDBファイルを開き、読み取り、他のフォーマットやデータベースにエクスポートするMDBツール。
 * [Medis](http://getmedis.com) - Redis用のGUIマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - 驚くべき機能を備えた使いやすいMongoDB GUI。
