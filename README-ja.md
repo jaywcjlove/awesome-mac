@@ -39,11 +39,11 @@ Awesome Mac
 [![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
 <!--rehype:style=text-align: center;-->
 
-このプロジェクトは非常に大きくなり、当初のアイデアとはかなり異なるものになりました。
-ここでは、素晴らしいmacOSソフトウェアを収集し、さまざまなカテゴリーに分類しています。
-ぜひ**スター**と**フォーク**をお願いします。
+このプロジェクトは、高品質なmacOSソフトウェアを収集し、異なるカテゴリーごとに体系的に整理することで、簡単に検索・使用できるようにすることを目的としています。継続的な発展により、プロジェクトは当初の予想をはるかに超え、より包括的で洗練されたものとなりました。
 
-コメントやご提案はありますか？[ぜひお知らせください！](https://github.com/jaywcjlove/awesome-mac/issues) PRも大歓迎です :) PRを作成する前に、[コントリビューションガイドライン](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)をご確認ください。[awesome](https://github.com/sindresorhus/awesome)リストに準拠しています。
+ぜひ**スター** ⭐ と**フォーク** 🍴 でプロジェクトをサポートしてください！
+
+ご提案、アイデア、または優秀なソフトウェアを発見された場合は、ぜひPRを提出してこのリストの改善にご協力ください。貢献前には[コントリビューションガイドライン](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)をお読みください。また、この[Awesome](https://github.com/sindresorhus/awesome)リストを継続してフォローし、より良いmacOSツールコレクションを一緒に構築していただけることを歓迎します。
 
 **凡例**
 

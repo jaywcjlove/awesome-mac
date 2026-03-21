@@ -39,7 +39,11 @@ Awesome Mac
 [![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
 <!--rehype:style=text-align: center;-->
 
-훌륭한 Mac 애플리케이션 및 도구 목록.
+이 프로젝트는 고품질의 macOS 소프트웨어를 수집하고 다양한 카테고리로 체계적으로 정리하여 쉽게 검색하고 사용할 수 있도록 하는 것을 목표로 합니다. 지속적인 발전으로 프로젝트는 초기 예상을 훨씬 뛰어넘어 더욱 포괄적이고 세련된 내용으로 발전했습니다.
+
+프로젝트를 지원하기 위해 **스타** ⭐ 와 **포크** 🍴 를 자유롭게 해주세요!
+
+제안사항, 아이디어가 있거나 우수한 소프트웨어를 발견하시면 언제든지 PR을 제출하여 이 목록을 개선하는 데 도움을 주세요. 기여하기 전에 [기여 가이드라인](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)을 읽어주시기 바랍니다. 또한 이 [Awesome](https://github.com/sindresorhus/awesome) 목록을 지속적으로 팔로우하여 함께 더 나은 macOS 도구 모음을 구축하는 것을 환영합니다.
 
 ✦ 나의 macOS 애플리케이션:
 

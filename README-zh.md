@@ -43,7 +43,11 @@ Awesome Mac
 [![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
 <!--rehype:style=text-align: center;-->
 
- 现在我们变得非常大，与最初的想法不同，如今我们需要收集各种类别非常好用的 Mac 应用程序、软件以及工具。通过 Pull Request 或者 [issues](https://github.com/jaywcjlove/awesome-mac/issues/new/choose) 给我推荐优秀好用的Mac应用，很显然我是一个资深 Mac 用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。文档格式参照 [awesome](https://github.com/sindresorhus/awesome)。
+本项目致力于收集优质的 macOS 软件，并按照不同类别进行系统整理，方便快速查找与使用。随着不断发展，项目规模已远超最初设想，内容也更加丰富完善。
+
+欢迎大家 Star ⭐ 和 Fork 🍴 支持项目！
+
+如果你有任何建议、想法或发现优秀的软件，欢迎提交 PR 一起完善这个列表。在贡献之前，请先阅读[贡献指南](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)。也欢迎持续关注本 [Awesome](https://github.com/sindresorhus/awesome) 列表，一起打造更好的 macOS 工具集合。
 
 **说明**
 
