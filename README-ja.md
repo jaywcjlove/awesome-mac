@@ -570,6 +570,7 @@ Awesome Mac
 * [Postgres.app](http://postgresapp.com/) - MacでPostgreSQLを始める最も簡単な方法。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [Postico](https://eggerapps.at/postico/) - Mac用のモダンなPostgreSQLクライアント。
 * [PSequel](http://www.psequel.com/) - Mac OS X用のPostgreSQL GUIツール。 ![Freeware][Freeware Icon]
+* [Redis Insight](https://redis.io/insight/) - Redisデータの閲覧、デバッグ、可視化ができる公式ツール。 ![Freeware][Freeware Icon]
 * [RedisClient](https://github.com/UUGU/redis-client-app) - Mac、Windows、Linux対応のRedisクライアントアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app)
 * [RedisDesktopManager](http://redisdesktop.com) - Redis用のクロスプラットフォームGUI管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
 * [Sequel Pro](http://www.sequelpro.com/) - Mac OS X用のMySQLデータベース管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]

@@ -452,7 +452,7 @@ Awesome Mac
 * [DBeaver](https://dbeaver.io/) - 유니버설 SQL 클라이언트.
 * [Navicat Premium](https://www.navicat.com/en/products/navicat-premium) - 데이터베이스 관리 도구.
 * [Postico](https://eggerapps.at/postico/) - 현대적인 PostgreSQL 클라이언트.
-* [RedisInsight](https://redislabs.com/redis-insight/) - Redis용 무료 시각화 도구. ![Freeware][Freeware Icon]
+* [Redis Insight](https://redis.io/insight/) - Redis 데이터를 탐색하고 디버깅하며 시각화할 수 있는 공식 도구. ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
 * [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
