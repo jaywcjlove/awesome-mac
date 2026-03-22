@@ -1046,6 +1046,7 @@ Awesome Mac
 * [LuLu](https://objective-see.com/products/lulu.html) - 不正な（送信）ネットワークトラフィックをブロックすることを目的とした無料のmacOSファイアウォール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) [![Open-Source Software][OSS Icon]](1) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 増大するMacマルウェアの脅威を粉砕し、保護してスムーズな動作を維持。Macに賢いサイバーセキュリティ。 ![Freeware][Freeware Icon]
 * [Mana Security](https://www.manasecurity.com/) - 個人向けの脆弱性管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
+* [NoxKey](https://github.com/No-Box-Dev/Noxkey) - キーチェーンとTouch IDでAPIキーやトークンを管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - コードにアクセスすることなく、オープンソースの依存関係の脆弱性を検出してソフトウェアを保護。Js、PHP、Java、Pythonなどに対応。
 * [OverSight](https://objective-see.com/products/oversight.html) - マイクとWebカメラを監視し、内部マイクがアクティブになった時や、プロセスがWebカメラにアクセスした時にアラート。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight)
 * [ParetoSecurity](https://paretosecurity.com/) - Macの基本的なセキュリティ衛生を自動的に監査するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
