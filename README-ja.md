@@ -1120,6 +1120,7 @@ Awesome Mac
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
 * [Claude God](https://claudegod.app) - メニューバーでClaudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
+* [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - メニューバーでリアルタイムのカウンターからClaude使用量を追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - メニューバーでClaudeの各種使用量上限をリアルタイムに監視できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - メニューバーでClaude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - Touch IDロック、常時非表示ゾーン、7つの自動化トリガーを備えたプライバシーファーストのメニューバーマネージャー。Bartenderのオープンソース代替。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar)
