@@ -47,7 +47,7 @@ Awesome Mac
 
 **凡例**
 
-[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [素晴らしいコマンドラインアプリ](./command-line-apps-ja.md)
+[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [素晴らしいコマンドラインアプリ](./command-line-apps-ja.md) | [素晴らしいSwift macOSアプリ](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 ![Open-Source Software][OSS Icon] は**オープンソース**を意味します。アイコンをクリックするとリポジトリを確認できます。\
 ![Freeware][Freeware Icon] は**無料**で使用可能、または**無料**の個人ライセンスを意味します。\

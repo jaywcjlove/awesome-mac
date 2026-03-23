@@ -51,7 +51,7 @@ Awesome Mac
 
 **说明**
 
-[English](README.md) | [한국어](./README-ko.md) | [日本語](README-ja.md) | [优秀的命令行应用精选](./command-line-apps-zh.md)
+[English](README.md) | [한국어](./README-ko.md) | [日本語](README-ja.md) | [优秀的命令行应用精选](./command-line-apps-zh.md) | [优秀的 Swift macOS 应用精选](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 ![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\

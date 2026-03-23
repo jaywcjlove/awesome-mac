@@ -45,6 +45,10 @@ Awesome Mac
 
 제안사항, 아이디어가 있거나 우수한 소프트웨어를 발견하시면 언제든지 PR을 제출하여 이 목록을 개선하는 데 도움을 주세요. 기여하기 전에 [기여 가이드라인](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)을 읽어주시기 바랍니다. 또한 이 [Awesome](https://github.com/sindresorhus/awesome) 목록을 지속적으로 팔로우하여 함께 더 나은 macOS 도구 모음을 구축하는 것을 환영합니다.
 
+**설명**
+
+[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [멋진 명령줄 앱 모음](./command-line-apps-ko.md) | [멋진 Swift macOS 앱 모음](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+
 ✦ 나의 macOS 애플리케이션:
 
 <p style="display: inline_block">
