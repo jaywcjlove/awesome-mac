@@ -524,6 +524,7 @@ Awesome Mac
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 照片档案管理工具。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [uPic](https://github.com/gee1k/uPic) - macOS 原生应用，功能强大且简洁的图床客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [Zipic](https://zipic.app/) - 批量图片压缩工具，支持自定义预设、自动化工作流，集成快捷指令和 Raycast。
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。
 
 ## 虚拟机
