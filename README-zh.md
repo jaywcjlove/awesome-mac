@@ -986,6 +986,7 @@ Awesome Mac
 * [1440 Minutes Left Today](https://1440app.com/) - 在菜单栏中，直接记录到一天结束还剩多少分钟。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/1440/id1483764819?platform=mac)
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
+* [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
 * [Alfred](https://www.alfredapp.com/) - 效率神器。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [BetterTouchTool](https://folivora.ai/) - 代替默认的系统操作方式（组合键、修饰键、手势等）。

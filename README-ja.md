@@ -1212,6 +1212,7 @@ Awesome Mac
 ### 一般ツール
 
 * [AirServer](http://www.airserver.com/Download) - Mac、PC、Xbox One向けの最も先進的な画面ミラーリングソフトウェアレシーバー。
+* [Cadran](https://cadranapp.com) - Macのデスクトップ壁紙とスクリーンセーバーに22種類のカスタマイズ可能な時計を表示。
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - Appleデバイス（macOS & iOS）向けのDNS変更およびパフォーマンスベンチマークツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 * [DevKnife](https://devknife.app) - ネットワークスキャンからJSON整形まで、日々の開発タスクをこなすネイティブMacアプリ。
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - 開発者の日常業務を支援するオフラインツールボックス。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
