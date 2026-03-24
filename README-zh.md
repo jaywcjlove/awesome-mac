@@ -470,6 +470,7 @@ Awesome Mac
 
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
+* [macshot](https://github.com/sw33tlie/macshot) - 原生 macOS 截图和标注工具，灵感来自 Flameshot，支持屏幕录制、滚动截图和 OCR。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - 截图标注和画布创建工具，支持绘图工具、模糊/马赛克和水印功能。[![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
