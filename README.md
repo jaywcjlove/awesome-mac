@@ -530,6 +530,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - Native Wayland compositor for running Linux GUI apps on macOS without VM overhead. Uses waypipe for seamless integration. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
+* [Mocker](https://github.com/us/mocker) - Docker-compatible container management tool built natively on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS.
