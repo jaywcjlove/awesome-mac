@@ -1072,6 +1072,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
+* [Proton VPN](https://protonvpn.com) - Privacy-first VPN featuring Secure Core servers, Stealth protocols, and high-speed encryption. ![Freeware][Freeware Icon]
 * [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
 * [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware][Freeware Icon]
@@ -1377,6 +1378,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
+* [LastPass](https://www.lastpass.com) - Established veteran known for its user-friendly design and comprehensive security dashboard. ![Freeware][Freeware Icon]
+* [ProtonPass](https://proton.me/pass) - Privacy-first, open-source manager with unlimited devices and integrated email aliases. ![Freeware][Freeware Icon]
+* [NordPass](https://nordpass.com) - Modern, high-speed encryption with a user-friendly interface and unique XChaCha20 security. ![Freeware][Freeware Icon]
 * [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store][app-store Icon]](https://apps.apple.com/us/app/enpass-password-manager/id455566716?platform=mac)
 * [Keyzer](https://apps.apple.com/app/Keyzer/6500434773?platform=mac) - Simple password manager that supports saving portable password files.
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
