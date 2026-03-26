@@ -369,6 +369,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
 * [Trae](https://www.trae.ai/) - An IDE by ByteDance with advanced AI capabilities, including two modes: SOLO for fully AI-driven development and IDE for a more traditional editing experience.
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [VSCodium](https://vscodium.com/) VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. Free/Libre Open Source Software Binaries of VS Code.
 * [Windsurf](https://windsurf.com/) - The first agentic IDE where developers and AI flow together for a magical coding experience.
 * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
