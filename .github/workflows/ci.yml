@@ -21,7 +21,7 @@ jobs:
       - run: npm run create:ast
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
@@ -30,20 +30,20 @@ jobs:
 
       - name: Create Tag
         id: create_tag
-        uses: jaywcjlove/create-tag-action@main
+        uses: jaywcjlove/create-tag-action@5cd7624be00f5ca9f6c0929957553205dd035864 # main
         with:
           package-path: ./package.json
 
       - name: Generate Changelog
         id: changelog
-        uses: jaywcjlove/changelog-generator@main
+        uses: jaywcjlove/changelog-generator@8e2e0cff25d4500fb7cc4c7c87f0733b8f80ff5b # main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           head-ref: ${{steps.create_tag.outputs.version}}
           filter: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
 
       - name: Create Release
-        uses: jaywcjlove/create-tag-action@main
+        uses: jaywcjlove/create-tag-action@5cd7624be00f5ca9f6c0929957553205dd035864 # main
         if: steps.create_tag.outputs.successful
         with:
           package-path: ./package.json
@@ -130,7 +130,10 @@ jobs:
       # Create Docker Image
       - name: Docker login
         if: steps.create_tag.outputs.successful
-        run: docker login -u ${{ secrets.DOCKER_USER }} -p ${{ secrets.DOCKER_PASSWORD }}
+        run: docker login -u ${DOCKER_USER} -p ${DOCKER_PASSWORD}
+        env:
+          DOCKER_USER: ${{ secrets.DOCKER_USER }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Awesome Mac image
         run: docker image build -t awesome-mac .
@@ -139,16 +142,20 @@ jobs:
         if: steps.create_tag.outputs.successful
         run: |
           echo "outputs.tag - ${{ steps.changelog.outputs.version }}"
-          docker tag awesome-mac ${{ secrets.DOCKER_USER }}/awesome-mac:latest
-          docker push ${{ secrets.DOCKER_USER }}/awesome-mac:latest
+          docker tag awesome-mac ${DOCKER_USER}/awesome-mac:latest
+          docker push ${DOCKER_USER}/awesome-mac:latest
 
+        env:
+          DOCKER_USER: ${{ secrets.DOCKER_USER }}
       - name: Tags & Push image
         if: steps.create_tag.outputs.successful
         run: |
           echo "outputs.tag - ${{ steps.changelog.outputs.version }}"
-          docker tag awesome-mac ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
-          docker push ${{ secrets.DOCKER_USER }}/awesome-mac:${{steps.changelog.outputs.version}}
+          docker tag awesome-mac ${DOCKER_USER}/awesome-mac:${{steps.changelog.outputs.version}}
+          docker push ${DOCKER_USER}/awesome-mac:${{steps.changelog.outputs.version}}
 
+        env:
+          DOCKER_USER: ${{ secrets.DOCKER_USER }}
       # Create Docker Image in GitHub
       # - name: Login to GitHub registry
       #   run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
