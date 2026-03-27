@@ -1352,6 +1352,7 @@ Awesome Mac
 * [Magnet](http://magnet.crowdcafe.com/) - ワークスペースを整理するウィンドウマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/id441258766?platform=mac)
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - macOSのUIを拡張し、「画面外」領域にポインターでアクセスして、よく使うアプリケーションの素早い切り替えなどのクイックアクションを利用可能に。 ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - マウスまたはキーボードを使って、ウィンドウを簡単に移動・ズーム、または別のディスプレイに移動。
+* [Nudge](https://nudge.run) - キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - アニメーション付きのNiriおよびHyprlandにインスパイアされた公証済みタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - <kbd>⌘ 右Command</kbd>キーでアプリケーション名に基づいてアプリを切り替え。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - RectangleはSpectacleをベースにSwiftで書かれたウィンドウ管理アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
