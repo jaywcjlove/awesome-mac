@@ -569,6 +569,7 @@ Awesome Mac
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 캘린더, 메일, 메모, 미리알림, 음악 등 Apple 네이티브 앱과 연결하는 MCP 서버.
 * [Witsy](https://github.com/nbonamy/witsy) - 데스크톱 AI 어시스턴트 및 유니버설 MCP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/nbonamy/witsy) ![Freeware][Freeware Icon]
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 네이티브 Swift 기반 macOS 앱으로, 사용자 API 키로 여러 LLM 모델을 실행할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/WardenApp) ![Freeware][Freeware Icon]
+* [Yume](https://github.com/aofp/yume) - 멀티탭 세션, 백그라운드 에이전트, 플러그인 시스템을 지원하는 Claude Code 네이티브 데스크톱 GUI. ![Freeware][Freeware Icon]
 
 ### 이미지
 
