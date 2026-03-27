@@ -956,6 +956,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 监控 Mac 的麦克风和网络摄像头，当内部麦克风被激活，或者当进程访问摄像头时提醒用户。
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
+* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 使用手机指纹完成身份验证的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 验证文件的加密签名可以推断其来源或可信度。
 
 ## 科学上网

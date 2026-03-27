@@ -1060,6 +1060,7 @@ Awesome Mac
 * [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - macOSインストーラーパッケージを検査するためのアプリケーション。 ![Freeware][Freeware Icon]
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - システムのUSBポートを不正アクセスから保護し、さまざまな対策を実行する軽量アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Mac上で実行中のすべてのプロセスを探索。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/TaskExplorer)
+* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - スマホの指紋で認証できるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Finder.appにメニュー項目を追加し、任意のファイルの暗号署名情報を表示。[![Open-Source Software][OSS Icon]](https://github.com/objective-see/WhatsYourSign)
 
 ## プロキシ・VPNツール

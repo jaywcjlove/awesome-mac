@@ -1046,7 +1046,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Security Tools
 
-* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Trusted Mac Security Protection: Protect your Mac from viruses, malware and adware. Block potential web threats and protect your Mac against vulnerabilities.![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it" [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner)
@@ -1067,6 +1066,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware][Freeware Icon]
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/TaskExplorer)
+* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.[![Open-Source Software][OSS Icon]](https://github.com/objective-see/WhatsYourSign)
 
 ## Proxy and VPN Tools
