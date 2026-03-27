@@ -364,6 +364,7 @@ Awesome Mac
 * [Nova](https://nova.app/) - [Panic](https://panic.com/)製の美しく、高速で、柔軟なMacコードエディタ。
 * [Trae](https://www.trae.ai/) - ByteDanceによる高度なAI機能を備えたIDE。完全AI駆動の開発のためのSOLOモードと、より伝統的な編集体験のためのIDEモードの2つのモードを搭載。
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [VSCodium](https://vscodium.com/) - コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - 開発者とAIが一体となって魔法のようなコーディング体験を実現する初のエージェント型IDE。
 * [Xcode](https://developer.apple.com/xcode/) - iOS/macOS開発に必須のIDE。 [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
 * [Nimbalyst](https://nimbalyst.com/) - AIコーディングのセッション、タスク、プロジェクトファイルを管理できるビジュアルワークスペース。

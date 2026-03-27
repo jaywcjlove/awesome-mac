@@ -329,7 +329,7 @@ Awesome Mac
 * [Sublime Text](http://www.sublimetext.com/) - 수준 높은 텍스트 편집기.
 * [TextMate](http://macromates.com/) - 코드와 그 이상을 위한 도구. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - ByteDance의 고급 AI IDE.
-* [VSCodium](https://vscodium.com/) - Microsoft의 추적 기능이 제거된 자유 오픈 소스 소프트웨어 바이너리 배포판 (VS Code). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VSCodium/vscodium)
+* [VSCodium](https://vscodium.com/) - 커뮤니티가 제공하는 VS Code의 자유 오픈 소스 바이너리 배포판. [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft에서 만든 강력하고 확장 가능한 오픈 소스 코드 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - 고급 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 * [WebStorm](https://www.jetbrains.com/webstorm/) - 가장 지능적인 JavaScript IDE.
