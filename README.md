@@ -595,6 +595,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - LLM-native terminal emulator with AI components, multi-provider profiles, voice input, and Metal GPU rendering. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 * [electerm](https://electerm.github.io/electerm/) - A free, multi-platform Terminal and SSH/SFTP tool with a beautiful interface that is the perfect alternative to XShell for Windows! [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
+* [FAR.js](https://farjs.github.io/) - Cross-platform File and ARchive manager app in your terminal. [![Open-Source Software][OSS Icon]](https://github.com/farjs/farjs) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
@@ -1205,6 +1206,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppPorts](https://github.com/wzh4869/AppPorts) - One-click tool to move apps from `/Applications` to external storage while keeping local launch entries via links. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
+* [FAR.js](https://farjs.github.io/) - Cross-platform File and ARchive manager app in your terminal. [![Open-Source Software][OSS Icon]](https://github.com/farjs/farjs) ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
