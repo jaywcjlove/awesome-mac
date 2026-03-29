@@ -1306,6 +1306,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Memo Widget](https://sindresorhus.com/memo-widget) - Sticky notes on your desktop. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)
 * [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
+* [MuttonText](https://github.com/Muminur/MuttonText) - Free, privacy-focused text expansion tool with dynamic variables and sub-50ms latency. [![Open-Source Software][OSS Icon]](https://github.com/Muminur/MuttonText) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Archive manager that supports previewing and extracting archive files [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Switch your Magic Keyboard, Magic Mouse and Magic Trackpad between multiple Macs with different Apple IDs.
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
