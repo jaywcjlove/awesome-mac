@@ -717,6 +717,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 * [Tight Studio](https://tight.studio/) - Record impressive screens in minutes, with smart zooms, AI voice overs, easy captions, text overlays, and lots more, all in simple clicks.
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
+* [TuringShot (기존 ZoomShot)](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, and drawing for macOS presentations and recordings. [![App Store][app-store Icon]](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367)
 
 ### Other Tools
 
