@@ -70,6 +70,15 @@ jobs:
             # dist/awesome-mac.ko.json
             ```
 
+            ## Feed
+
+            ```text
+            https://jaywcjlove.github.io/awesome-mac/feed.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-zh.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-ko.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-ja.xml
+            ```
+            
             ## Docker
 
             ```bash
