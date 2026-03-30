@@ -5,708 +5,484 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:15:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
-      <title>Android Studio</title>
-      <link>https://developer.android.com/studio/index.html</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Android Studio</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Android Studio
-Description: Android 的官方 IDE，基于 Intellij IDEA。
-Website: https://developer.android.com/studio/index.html
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Android Studio<br/>Description: Android 的官方 IDE，基于 Intellij IDEA。<br/>Website: https://developer.android.com/studio/index.html<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Atomic Chat</title>
+      <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
+      <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
+      <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+App: Atomic Chat
+Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。
+Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
+Commit: Add Atomic Chat
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
+      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Atomic Chat<br/>Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
-      <title>Aurora Editor</title>
-      <link>https://auroraeditor.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Aurora Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Aurora Editor
-Description: 适用于 macOS 的轻量级代码编辑器 (IDE)。
-Website: https://auroraeditor.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Aurora Editor<br/>Description: 适用于 macOS 的轻量级代码编辑器 (IDE)。<br/>Website: https://auroraeditor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Dimly</title>
+      <link>https://feuerbacher.me/projects/dimly</link>
+      <guid isPermaLink="false">d53a3a575237426467147d25d929bdcc5eeb1f9a:Dimly</guid>
+      <pubDate>Mon, 30 Mar 2026 08:08:46 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Dimly
+Description: 从一个菜单栏应用统一控制多显示器环境下的亮度。
+Website: https://feuerbacher.me/projects/dimly
+Commit: Add Dimly to the ja/ko/zh list. (#1938)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a575237426467147d25d929bdcc5eeb1f9a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Dimly<br/>Description: 从一个菜单栏应用统一控制多显示器环境下的亮度。<br/>Website: https://feuerbacher.me/projects/dimly<br/>Commit: Add Dimly to the ja/ko/zh list. (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a575237426467147d25d929bdcc5eeb1f9a]]></content:encoded>
     </item>
     <item>
-      <title>Brackets</title>
-      <link>http://brackets.io</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Brackets</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Brackets
-Description: Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/)
-Website: http://brackets.io
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Brackets<br/>Description: Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/)<br/>Website: http://brackets.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>OnlyOffice</title>
+      <link>https://www.onlyoffice.com/</link>
+      <guid isPermaLink="false">ff47fff66161f57a8b0b19170e92bce30c8aba8f:OnlyOffice</guid>
+      <pubDate>Mon, 30 Mar 2026 07:50:33 GMT</pubDate>
+      <category>阅读与写作工具 / Office</category>
+      <description>Category: 阅读与写作工具 / Office
+App: OnlyOffice
+Description: 集成文档、表格和演示编辑器的办公套件。
+Website: https://www.onlyoffice.com/
+Commit: docs: simplify OnlyOffice and Pixley Reader descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ff47fff66161f57a8b0b19170e92bce30c8aba8f</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Office<br/>App: OnlyOffice<br/>Description: 集成文档、表格和演示编辑器的办公套件。<br/>Website: https://www.onlyoffice.com/<br/>Commit: docs: simplify OnlyOffice and Pixley Reader descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ff47fff66161f57a8b0b19170e92bce30c8aba8f]]></content:encoded>
     </item>
     <item>
-      <title>BBEdit</title>
-      <link>http://www.barebones.com/products/bbedit/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:BBEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: BBEdit
-Description: 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-Website: http://www.barebones.com/products/bbedit/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: BBEdit<br/>Description: 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。<br/>Website: http://www.barebones.com/products/bbedit/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ClawdHome</title>
+      <link>https://clawdhome.app/</link>
+      <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
+      <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+App: ClawdHome
+Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。
+Website: https://clawdhome.app/
+Commit: Add ClawdHome
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
+      <content:encoded><![CDATA[Category: AI 客户端<br/>App: ClawdHome<br/>Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
-      <title>Neovim</title>
-      <link>https://github.com/neovim/neovim</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Neovim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Neovim
-Description: 专注于可扩展性和可用性的 Vim 分支。
-Open Source: https://github.com/neovim/neovim
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Neovim<br/>Description: 专注于可扩展性和可用性的 Vim 分支。<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ClashBar</title>
+      <link>https://clashbar.vercel.app/</link>
+      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
+      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: ClashBar
+Description: 由 mihomo 驱动的菜单栏代理客户端。
+Website: https://clashbar.vercel.app/
+Commit: docs: add ClashBar to localized readmes
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: ClashBar<br/>Description: 由 mihomo 驱动的菜单栏代理客户端。<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
     </item>
     <item>
-      <title>Nova</title>
-      <link>https://nova.app/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Nova</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Nova
-Description: 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
-Website: https://nova.app/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Nova<br/>Description: 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。<br/>Website: https://nova.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Repose</title>
+      <link>https://github.com/fikrikarim/repose</link>
+      <guid isPermaLink="false">c53c14bea478c0c1512b71274582eaea627a7c93:Repose</guid>
+      <pubDate>Mon, 30 Mar 2026 02:17:35 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Repose
+Description: 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。
+Open Source: https://github.com/fikrikarim/repose
+Commit: Add Repose to the ja/ko/zh list. (#1935)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Repose<br/>Description: 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to the ja/ko/zh list. (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93]]></content:encoded>
     </item>
     <item>
-      <title>CodeEdit</title>
-      <link>https://www.codeedit.app/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CodeEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: CodeEdit
-Description: 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。
-Website: https://www.codeedit.app/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: CodeEdit<br/>Description: 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。<br/>Website: https://www.codeedit.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Flock</title>
+      <link>https://github.com/Divagation/flock</link>
+      <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
+      <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Flock
+Description: 一款可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。
+Open Source: https://github.com/Divagation/flock
+Commit: Add Flock to the ja/ko/zh list. #1936
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Flock<br/>Description: 一款可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
     </item>
     <item>
-      <title>CotEditor</title>
-      <link>https://coteditor.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CotEditor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: CotEditor
-Description: 轻量级的纯文本编辑器。
-Website: https://coteditor.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: CotEditor<br/>Description: 轻量级的纯文本编辑器。<br/>Website: https://coteditor.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>markdown-quicklook</title>
+      <link>https://github.com/ruspg/markdown-quicklook</link>
+      <guid isPermaLink="false">6f0cbac0aae80f402ed3d21d73a646b9a62a147b:markdown-quicklook</guid>
+      <pubDate>Sun, 29 Mar 2026 12:11:49 GMT</pubDate>
+      <category>QuickLook插件</category>
+      <description>Category: QuickLook插件
+App: markdown-quicklook
+Description: 渲染 Markdown 预览，支持语法高亮、YAML front matter、可配置字体/颜色，以及菜单栏切换开关。一键安装。
+Open Source: https://github.com/ruspg/markdown-quicklook
+Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b</description>
+      <content:encoded><![CDATA[Category: QuickLook插件<br/>App: markdown-quicklook<br/>Description: 渲染 Markdown 预览，支持语法高亮、YAML front matter、可配置字体/颜色，以及菜单栏切换开关。一键安装。<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b]]></content:encoded>
     </item>
     <item>
-      <title>Cursor</title>
-      <link>https://www.cursor.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Cursor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Cursor
-Description: 支持自动补全、聊天和智能体能力的 AI 代码编辑器。
-Website: https://www.cursor.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Cursor<br/>Description: 支持自动补全、聊天和智能体能力的 AI 代码编辑器。<br/>Website: https://www.cursor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Deco IDE</title>
-      <link>https://www.decosoftware.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Deco IDE</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Deco IDE
-Description: React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]
-Website: https://www.decosoftware.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Deco IDE<br/>Description: React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon]<br/>Website: https://www.decosoftware.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Espresso</title>
-      <link>http://espressoapp.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Espresso</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Espresso
-Description: Web 编程利器，具备了快速且强大的编辑功能、专业检查与分类、即时预览编辑成果、发布与同步功能等。
-Website: http://espressoapp.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Espresso<br/>Description: Web 编程利器，具备了快速且强大的编辑功能、专业检查与分类、即时预览编辑成果、发布与同步功能等。<br/>Website: http://espressoapp.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Emacs</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Emacs
-Description: Emacs 是基于控制台的编辑器和高度可定制的。
-Website: https://www.emacswiki.org/emacs/EmacsForMacOS
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Emacs<br/>Description: Emacs 是基于控制台的编辑器和高度可定制的。<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Eclipse</title>
-      <link>https://www.eclipse.org</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Eclipse</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Eclipse
-Description: 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon]
-Website: https://www.eclipse.org
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Eclipse<br/>Description: 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon]<br/>Website: https://www.eclipse.org<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Haystack Editor</title>
-      <link>https://github.com/haystackeditor/haystack-editor</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Haystack Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Haystack Editor
-Description: 结合简洁的代码编辑和画布 UI，提升代码理解。支持编辑、导航、调试和扩展。![Open-Source Software][OSS Icon]
-Open Source: https://github.com/haystackeditor/haystack-editor
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Haystack Editor<br/>Description: 结合简洁的代码编辑和画布 UI，提升代码理解。支持编辑、导航、调试和扩展。![Open-Source Software][OSS Icon]<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Itsypad</title>
-      <link>https://itsypad.app</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Itsypad</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Itsypad
-Description: 小巧快速的 macOS 草稿本和剪贴板管理器。
-Website: https://itsypad.app
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Itsypad<br/>Description: 小巧快速的 macOS 草稿本和剪贴板管理器。<br/>Website: https://itsypad.app<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Sublime Text</title>
-      <link>http://www.sublimetext.com/3</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Sublime Text</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Sublime Text
-Description: 拥有快速界面和丰富插件生态的文本编辑器。更多插件参考 Sublime 常用插件。
-Website: http://www.sublimetext.com/3
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Sublime Text<br/>Description: 拥有快速界面和丰富插件生态的文本编辑器。更多插件参考 Sublime 常用插件。<br/>Website: http://www.sublimetext.com/3<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>SubEthaEdit</title>
-      <link>https://subethaedit.net/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:SubEthaEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: SubEthaEdit
-Description: 强大编辑器，支持写作、编程、协作，随时随地高效创作！
-Website: https://subethaedit.net/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: SubEthaEdit<br/>Description: 强大编辑器，支持写作、编程、协作，随时随地高效创作！<br/>Website: https://subethaedit.net/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Haskell for Mac</title>
-      <link>http://haskellformac.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Haskell for Mac</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Haskell for Mac
-Description: Haskell 的现代开发环境。
-Website: http://haskellformac.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Haskell for Mac<br/>Description: Haskell 的现代开发环境。<br/>Website: http://haskellformac.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>HBuilder</title>
-      <link>http://www.dcloud.io/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:HBuilder</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: HBuilder
-Description: HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]
-Website: http://www.dcloud.io/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: HBuilder<br/>Description: HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]<br/>Website: http://www.dcloud.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>JetBrains Toolbox App</title>
-      <link>https://www.jetbrains.com/toolbox/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:JetBrains Toolbox App</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: JetBrains Toolbox App
-Description: 管理已安装的JetBrains工具，下载新工具并打开最近的项目。
-Website: https://www.jetbrains.com/toolbox/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: JetBrains Toolbox App<br/>Description: 管理已安装的JetBrains工具，下载新工具并打开最近的项目。<br/>Website: https://www.jetbrains.com/toolbox/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>LightTable</title>
-      <link>http://lighttable.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LightTable</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: LightTable
-Description: 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
-Website: http://lighttable.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: LightTable<br/>Description: 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)<br/>Website: http://lighttable.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>MacVim</title>
-      <link>https://github.com/macvim-dev/macvim</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MacVim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: MacVim
-Description: Vim for macOS.
-Open Source: https://github.com/macvim-dev/macvim
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: MacVim<br/>Description: Vim for macOS.<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>micro</title>
-      <link>https://micro-editor.github.io</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:micro</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: micro
-Description: 一个现代直观的基于终端的文本编辑器。
-Website: https://micro-editor.github.io
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: micro<br/>Description: 一个现代直观的基于终端的文本编辑器。<br/>Website: https://micro-editor.github.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>NetBeans IDE</title>
-      <link>https://netbeans.org/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:NetBeans IDE</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: NetBeans IDE
-Description: 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。
-Website: https://netbeans.org/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: NetBeans IDE<br/>Description: 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。<br/>Website: https://netbeans.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Qt</title>
-      <link>https://www1.qt.io/cn/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Qt</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Qt
-Description: 跨平台 C++ 图形用户界面应用程序开发框架。
-Website: https://www1.qt.io/cn/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Qt<br/>Description: 跨平台 C++ 图形用户界面应用程序开发框架。<br/>Website: https://www1.qt.io/cn/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>TextMate</title>
-      <link>https://macromates.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:TextMate</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: TextMate
-Description: 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
-Website: https://macromates.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: TextMate<br/>Description: 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)<br/>Website: https://macromates.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Tincta</title>
-      <link>https://codingfriends.github.io/Tincta/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Tincta</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Tincta
-Description: 一个免费的文本编辑器。![Freeware][Freeware Icon]
-Website: https://codingfriends.github.io/Tincta/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Tincta<br/>Description: 一个免费的文本编辑器。![Freeware][Freeware Icon]<br/>Website: https://codingfriends.github.io/Tincta/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Visual Studio Code</title>
-      <link>https://code.visualstudio.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Visual Studio Code</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Visual Studio Code
-Description: 微软推出的免费/开源编辑器，TypeScript 支持杠杠的，VSCode常用插件。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
-Website: https://code.visualstudio.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Visual Studio Code<br/>Description: 微软推出的免费/开源编辑器，TypeScript 支持杠杠的，VSCode常用插件。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)<br/>Website: https://code.visualstudio.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>TouchBridge</title>
+      <link>https://github.com/HMAKT99/UnTouchID</link>
+      <guid isPermaLink="false">dfbe3aa4b330a229e80509250ef88b70e9b5612e:TouchBridge</guid>
+      <pubDate>Fri, 27 Mar 2026 21:15:53 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: TouchBridge
+Description: 使用手机指纹完成身份验证的开源工具。
+Open Source: https://github.com/HMAKT99/UnTouchID
+Commit: Add TouchBridge to the ja/ko/zh lish. #1930
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: TouchBridge<br/>Description: 使用手机指纹完成身份验证的开源工具。<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge to the ja/ko/zh lish. #1930<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e]]></content:encoded>
     </item>
     <item>
       <title>VSCodium</title>
       <link>https://vscodium.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:VSCodium</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
+      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
+      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
       <category>开发者工具 / 编辑器</category>
       <description>Category: 开发者工具 / 编辑器
 App: VSCodium
 Description: 社区驱动的 VS Code 自由开源发行版。
 Website: https://vscodium.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: VSCodium<br/>Description: 社区驱动的 VS Code 自由开源发行版。<br/>Website: https://vscodium.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+Commit: Add VSCodium to the ja/ko/zh list. #1926
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: VSCodium<br/>Description: 社区驱动的 VS Code 自由开源发行版。<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
     </item>
     <item>
-      <title>Vim</title>
-      <link>http://www.vim.org/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Vim
-Description: Vim 古老的终端中使用的编辑器，Vim常用插件。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim)
-Website: http://www.vim.org/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Vim<br/>Description: Vim 古老的终端中使用的编辑器，Vim常用插件。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim)<br/>Website: http://www.vim.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>OpenDictation</title>
+      <link>https://github.com/kdcokenny/OpenDictation</link>
+      <guid isPermaLink="false">fc74bd6c3f22b939b3f70b345b40001648a61e64:OpenDictation</guid>
+      <pubDate>Fri, 27 Mar 2026 04:36:32 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: OpenDictation
+Description: 支持本地与云端语音转文字的开源听写工具。
+Open Source: https://github.com/kdcokenny/OpenDictation
+Commit: Add OpenDictation to the ja/ko/zh list (#1927).
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: OpenDictation<br/>Description: 支持本地与云端语音转文字的开源听写工具。<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to the ja/ko/zh list (#1927).<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64]]></content:encoded>
     </item>
     <item>
-      <title>Vimr</title>
-      <link>http://vimr.org/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vimr</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Vimr
-Description: Vim 客户端，升级 Vim 体验。[![Open-Source Software][OSS Icon]
-Website: http://vimr.org/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Vimr<br/>Description: Vim 客户端，升级 Vim 体验。[![Open-Source Software][OSS Icon]<br/>Website: http://vimr.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Nudge</title>
+      <link>https://nudge.run</link>
+      <guid isPermaLink="false">5954cd8e0fc69805edc52d757b247f49e2da3229:Nudge</guid>
+      <pubDate>Fri, 27 Mar 2026 03:55:58 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Nudge
+Description: 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)
+Website: https://nudge.run
+Commit: Add Nudge to the ja/zh/ko list. #1928
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Nudge<br/>Description: 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)<br/>Website: https://nudge.run<br/>Commit: Add Nudge to the ja/zh/ko list. #1928<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229]]></content:encoded>
     </item>
     <item>
-      <title>Windsurf</title>
-      <link>https://windsurf.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Windsurf</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Windsurf
-Description: 支持智能体编程、自动补全和 MCP 的 AI 代码编辑器。
-Website: https://windsurf.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Windsurf<br/>Description: 支持智能体编程、自动补全和 MCP 的 AI 代码编辑器。<br/>Website: https://windsurf.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>macshot</title>
+      <link>https://github.com/sw33tlie/macshot</link>
+      <guid isPermaLink="false">7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3:macshot</guid>
+      <pubDate>Wed, 25 Mar 2026 01:45:55 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: macshot
+Description: 原生 macOS 截图和标注工具，灵感来自 Flameshot，支持屏幕录制、滚动截图和 OCR。
+Open Source: https://github.com/sw33tlie/macshot
+Commit: Add macshot to Screenshot Tools (#1916)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: macshot<br/>Description: 原生 macOS 截图和标注工具，灵感来自 Flameshot，支持屏幕录制、滚动截图和 OCR。<br/>Open Source: https://github.com/sw33tlie/macshot<br/>Commit: Add macshot to Screenshot Tools (#1916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3]]></content:encoded>
     </item>
     <item>
-      <title>Xamarin Studio</title>
-      <link>https://www.visualstudio.com/vs/visual-studio-mac/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Xamarin Studio</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Xamarin Studio
-Description: 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop)
-Website: https://www.visualstudio.com/vs/visual-studio-mac/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Xamarin Studio<br/>Description: 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop)<br/>Website: https://www.visualstudio.com/vs/visual-studio-mac/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>App Uninstaller</title>
+      <link>https://github.com/kamjin3086/AppUninstaller</link>
+      <guid isPermaLink="false">ffcaf60b826240c20afa9d945b4bf748cae483d8:App Uninstaller</guid>
+      <pubDate>Mon, 23 Mar 2026 14:02:42 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: App Uninstaller
+Description: 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller)
+Open Source: https://github.com/kamjin3086/AppUninstaller
+Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: App Uninstaller<br/>Description: 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller)<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8]]></content:encoded>
     </item>
     <item>
-      <title>Xcode</title>
-      <link>https://developer.apple.com/xcode/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Xcode</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Xcode
-Description: 开发 iOS 和 MacOS 基本 IDE。
-Website: https://developer.apple.com/xcode/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Xcode<br/>Description: 开发 iOS 和 MacOS 基本 IDE。<br/>Website: https://developer.apple.com/xcode/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Claude Usage Monitor</title>
+      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
+      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
+      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Claude Usage Monitor
+Description: 在菜单栏通过实时计数器跟踪 Claude 用量的工具。
+Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
+Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Claude Usage Monitor<br/>Description: 在菜单栏通过实时计数器跟踪 Claude 用量的工具。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
+    </item>
+    <item>
+      <title>Zipic</title>
+      <link>https://zipic.app/</link>
+      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Zipic
+Description: 批量图片压缩工具，支持自定义预设、自动化工作流，集成快捷指令和 Raycast。
+Website: https://zipic.app/
+Commit: Add Zipic to Design and Product - Other Tools (#1910)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Zipic<br/>Description: 批量图片压缩工具，支持自定义预设、自动化工作流，集成快捷指令和 Raycast。<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
+    </item>
+    <item>
+      <title>Orchard</title>
+      <link>https://orchard.5km.tech/</link>
+      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+App: Orchard
+Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。
+Website: https://orchard.5km.tech/
+Commit: Add Orchard to AI Client (#1911)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
+      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Orchard<br/>Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
+    </item>
+    <item>
+      <title>Azex Speech</title>
+      <link>https://github.com/azex-ai/speech</link>
+      <guid isPermaLink="false">9f528db2256e29d17fdbc0fb740200746cb3bfeb:Azex Speech</guid>
+      <pubDate>Sun, 22 Mar 2026 04:15:25 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Azex Speech
+Description: 一款面向 AI 与加密场景、中英混说更友好的语音输入工具。
+Open Source: https://github.com/azex-ai/speech
+Commit: Add Azex Speech to the ja/ko/zh list. #1909
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Azex Speech<br/>Description: 一款面向 AI 与加密场景、中英混说更友好的语音输入工具。<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to the ja/ko/zh list. #1909<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb]]></content:encoded>
+    </item>
+    <item>
+      <title>NoxKey</title>
+      <link>https://github.com/No-Box-Dev/Noxkey</link>
+      <guid isPermaLink="false">f5cd3bcad0af7198b4dad407a0c096e559a4f042:NoxKey</guid>
+      <pubDate>Sun, 22 Mar 2026 04:10:59 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: NoxKey
+Description: 一款通过钥匙串和 Touch ID 管理 API 密钥与令牌的工具。
+Open Source: https://github.com/No-Box-Dev/Noxkey
+Commit: Add NoxKey to the ja/ko/zh list. #1907
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: NoxKey<br/>Description: 一款通过钥匙串和 Touch ID 管理 API 密钥与令牌的工具。<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to the ja/ko/zh list. #1907<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042]]></content:encoded>
+    </item>
+    <item>
+      <title>ProBoard</title>
+      <link>https://apps.apple.com/app/id6748314346?platform=mac</link>
+      <guid isPermaLink="false">ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0:ProBoard</guid>
+      <pubDate>Sat, 21 Mar 2026 10:00:10 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: ProBoard
+Description: 通过一个面板来帮助你高效管理所有项目信息。[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
+App Store: https://apps.apple.com/app/id6748314346?platform=mac
+Commit: Add ProBoard to productivity tools list (#1906)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: ProBoard<br/>Description: 通过一个面板来帮助你高效管理所有项目信息。[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)<br/>App Store: https://apps.apple.com/app/id6748314346?platform=mac<br/>Commit: Add ProBoard to productivity tools list (#1906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0]]></content:encoded>
+    </item>
+    <item>
+      <title>Lockpaw</title>
+      <link>https://getlockpaw.com</link>
+      <guid isPermaLink="false">3262420ea5ed4afd16d9c81bb1524c82ca4965f7:Lockpaw</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:07 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: Lockpaw
+Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.
+Website: https://getlockpaw.com
+Commit: Add Lockpaw to Security Tools (#1901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: Lockpaw<br/>Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to Security Tools (#1901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7]]></content:encoded>
+    </item>
+    <item>
+      <title>Redis Insight</title>
+      <link>https://redis.io/insight/</link>
+      <guid isPermaLink="false">f15cdc15655effd7aadc5db234b9597abe6baa7a:Redis Insight</guid>
+      <pubDate>Sat, 21 Mar 2026 01:35:38 GMT</pubDate>
+      <category>开发者工具 / 数据库</category>
+      <description>Category: 开发者工具 / 数据库
+App: Redis Insight
+Description: Redis 官方推出的数据浏览、调试与可视化工具。
+Website: https://redis.io/insight/
+Commit: Add Redis Insight fix #1899
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 数据库<br/>App: Redis Insight<br/>Description: Redis 官方推出的数据浏览、调试与可视化工具。<br/>Website: https://redis.io/insight/<br/>Commit: Add Redis Insight fix #1899<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a]]></content:encoded>
+    </item>
+    <item>
+      <title>DMG Maker</title>
+      <link>https://github.com/saihgupr/DMGMaker</link>
+      <guid isPermaLink="false">9a0dfca40df6df056ea648db3a05a2cdafd52510:DMG Maker</guid>
+      <pubDate>Fri, 20 Mar 2026 00:45:38 GMT</pubDate>
+      <category>软件打包工具</category>
+      <description>Category: 软件打包工具
+App: DMG Maker
+Description: 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。
+Open Source: https://github.com/saihgupr/DMGMaker
+Commit: Add DMG Maker
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
+      <content:encoded><![CDATA[Category: 软件打包工具<br/>App: DMG Maker<br/>Description: 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。<br/>Open Source: https://github.com/saihgupr/DMGMaker<br/>Commit: Add DMG Maker<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510]]></content:encoded>
+    </item>
+    <item>
+      <title>Fazm</title>
+      <link>https://fazm.ai</link>
+      <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
+      <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+App: Fazm
+Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。
+Website: https://fazm.ai
+Commit: Add Fazm to the ja/ko/zh list. #1894
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
+      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Fazm<br/>Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
     </item>
     <item>
       <title>Nimbalyst</title>
       <link>https://nimbalyst.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Nimbalyst</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
+      <guid isPermaLink="false">3e4582d3cfc79156f438420b91899d6810f54b31:Nimbalyst</guid>
+      <pubDate>Wed, 18 Mar 2026 01:40:27 GMT</pubDate>
       <category>开发者工具 / 编辑器</category>
       <description>Category: 开发者工具 / 编辑器
 App: Nimbalyst
 Description: 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
 Website: https://nimbalyst.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Nimbalyst<br/>Description: 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。<br/>Website: https://nimbalyst.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+Commit: Add Nimbalyst to the ja/ko/zh list. #1893
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Nimbalyst<br/>Description: 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。<br/>Website: https://nimbalyst.com/<br/>Commit: Add Nimbalyst to the ja/ko/zh list. #1893<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31]]></content:encoded>
     </item>
     <item>
-      <title>Zed</title>
-      <link>https://zed.dev/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Zed</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Zed
-Description: 由 Atom 和 Tree-sitter 的创建者开发的高性能多人代码编辑器。
-Website: https://zed.dev/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Zed<br/>Description: 由 Atom 和 Tree-sitter 的创建者开发的高性能多人代码编辑器。<br/>Website: https://zed.dev/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ScreenSage Pro</title>
+      <link>https://screensage.pro/</link>
+      <guid isPermaLink="false">4647770f5192c2fb0f5b782d49ebc49f137707b2:ScreenSage Pro</guid>
+      <pubDate>Tue, 17 Mar 2026 15:31:23 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+App: ScreenSage Pro
+Description: 一款可在几分钟内制作精美录屏视频的工具。
+Website: https://screensage.pro/
+Commit: Add ScreenSage Pro
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: ScreenSage Pro<br/>Description: 一款可在几分钟内制作精美录屏视频的工具。<br/>Website: https://screensage.pro/<br/>Commit: Add ScreenSage Pro<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2]]></content:encoded>
     </item>
     <item>
-      <title>AXe</title>
-      <link>https://github.com/cameroncooke/AXe</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:AXe</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
+      <title>FnKey</title>
+      <link>https://github.com/evoleinik/fnkey</link>
+      <guid isPermaLink="false">879641418098ced416f0d630f18b9f49382371e9:FnKey</guid>
+      <pubDate>Sun, 15 Mar 2026 09:11:08 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: FnKey
+Description: 按住 Fn 说话并松开即可实时将语音转成文本粘贴出来。
+Open Source: https://github.com/evoleinik/fnkey
+Commit: Add FnKey to the zh/ja/ko list. #1886
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: FnKey<br/>Description: 按住 Fn 说话并松开即可实时将语音转成文本粘贴出来。<br/>Open Source: https://github.com/evoleinik/fnkey<br/>Commit: Add FnKey to the zh/ja/ko list. #1886<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9]]></content:encoded>
+    </item>
+    <item>
+      <title>Awal Terminal</title>
+      <link>https://github.com/AwalTerminal/Awal-terminal</link>
+      <guid isPermaLink="false">f7669260f8c62cc280c2b17f52e4809be9e545c8:Awal Terminal</guid>
+      <pubDate>Sun, 15 Mar 2026 01:49:27 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Awal Terminal
+Description: 支持 AI 组件、多提供商配置、语音输入与 Metal 渲染的 LLM 原生终端模拟器。
+Open Source: https://github.com/AwalTerminal/Awal-terminal
+Commit: Add Awal Terminal to the ja/ko/zh #1884
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Awal Terminal<br/>Description: 支持 AI 组件、多提供商配置、语音输入与 Metal 渲染的 LLM 原生终端模拟器。<br/>Open Source: https://github.com/AwalTerminal/Awal-terminal<br/>Commit: Add Awal Terminal to the ja/ko/zh #1884<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8]]></content:encoded>
+    </item>
+    <item>
+      <title>Rustcast</title>
+      <link>https://rustcast.app</link>
+      <guid isPermaLink="false">1d091dcc93abdea49740871d0ad87a3d9e37f836:Rustcast</guid>
+      <pubDate>Fri, 13 Mar 2026 07:38:59 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: Rustcast
+Description: 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。
+Website: https://rustcast.app
+Commit: Add Rustcast to the ja/ko/zh #1882
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Rustcast<br/>Description: 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。<br/>Website: https://rustcast.app<br/>Commit: Add Rustcast to the ja/ko/zh #1882<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836]]></content:encoded>
+    </item>
+    <item>
+      <title>Mottie</title>
+      <link>https://recouse.me/apps/mottie/</link>
+      <guid isPermaLink="false">8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6:Mottie</guid>
+      <pubDate>Fri, 13 Mar 2026 02:11:45 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Mottie
+Description: 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。
+Website: https://recouse.me/apps/mottie/
+Commit: Add Mottie (#1880)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Mottie<br/>Description: 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。<br/>Website: https://recouse.me/apps/mottie/<br/>Commit: Add Mottie (#1880)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6]]></content:encoded>
+    </item>
+    <item>
+      <title>TokenMeter</title>
+      <link>https://priyans-hu.github.io/tokenmeter/</link>
+      <guid isPermaLink="false">a05da091d34ec02acb62b384c3a8fc64855e438f:TokenMeter</guid>
+      <pubDate>Fri, 13 Mar 2026 01:27:46 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: TokenMeter
+Description: 在菜单栏跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。
+Website: https://priyans-hu.github.io/tokenmeter/
+Commit: Add TokenMeter to the ja/ko/zh #1881
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: TokenMeter<br/>Description: 在菜单栏跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
+    </item>
+    <item>
+      <title>Itsyconnect</title>
+      <link>https://github.com/nickustinov/itsyconnect-macos</link>
+      <guid isPermaLink="false">f3f68fbc1d3019f9bf2142480217a07bef5940e6:Itsyconnect</guid>
+      <pubDate>Thu, 12 Mar 2026 13:49:28 GMT</pubDate>
       <category>开发者工具 / 开发者实用工具</category>
       <description>Category: 开发者工具 / 开发者实用工具
-App: AXe
-Description: 一个通过辅助功能 API 和 HID 自动化与 iOS 模拟器交互的命令行工具。
-Open Source: https://github.com/cameroncooke/AXe
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: AXe<br/>Description: 一个通过辅助功能 API 和 HID 自动化与 iOS 模拟器交互的命令行工具。<br/>Open Source: https://github.com/cameroncooke/AXe<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+App: Itsyconnect
+Description: 一站式 App Store Connect 管理工具，支持元数据编辑、TestFlight、评论、数据分析与 AI 本地化。
+Open Source: https://github.com/nickustinov/itsyconnect-macos
+Commit: Add Itsyconnect
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Itsyconnect<br/>Description: 一站式 App Store Connect 管理工具，支持元数据编辑、TestFlight、评论、数据分析与 AI 本地化。<br/>Open Source: https://github.com/nickustinov/itsyconnect-macos<br/>Commit: Add Itsyconnect<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6]]></content:encoded>
     </item>
     <item>
-      <title>BetterRename</title>
-      <link>http://www.publicspace.net/BetterRename/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:BetterRename</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: BetterRename
-Description: 一款强大的批量重命名工具，可以通过搜索功能改名。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/better-rename-11/id1501308038?platform=mac)
-Website: http://www.publicspace.net/BetterRename/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: BetterRename<br/>Description: 一款强大的批量重命名工具，可以通过搜索功能改名。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/better-rename-11/id1501308038?platform=mac)<br/>Website: http://www.publicspace.net/BetterRename/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Usage4Claude</title>
+      <link>https://github.com/f-is-h/Usage4Claude</link>
+      <guid isPermaLink="false">ba64c2aaa974eeb7d2460c45be19e1876c3069b1:Usage4Claude</guid>
+      <pubDate>Thu, 12 Mar 2026 13:43:42 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Usage4Claude
+Description: 在菜单栏实时监控 Claude 各类用量配额的工具。
+Open Source: https://github.com/f-is-h/Usage4Claude
+Commit: Add Usage4Claude
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Usage4Claude<br/>Description: 在菜单栏实时监控 Claude 各类用量配额的工具。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
     </item>
     <item>
-      <title>Beyond Compare</title>
-      <link>http://www.scootersoftware.com/download.php</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Beyond Compare</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Beyond Compare
-Description: 对比两个文件夹或者文件，并将差异以颜色标示。
-Website: http://www.scootersoftware.com/download.php
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Beyond Compare<br/>Description: 对比两个文件夹或者文件，并将差异以颜色标示。<br/>Website: http://www.scootersoftware.com/download.php<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>CodeKit</title>
-      <link>https://codekitapp.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CodeKit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: CodeKit
-Description: 自动编译 Less、Sass、Stylus、CoffeeScript、Jade &amp; Haml等文件。
-Website: https://codekitapp.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CodeKit<br/>Description: 自动编译 Less、Sass、Stylus、CoffeeScript、Jade &amp; Haml等文件。<br/>Website: https://codekitapp.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Cacher</title>
-      <link>https://www.cacher.io/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Cacher</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Cacher
-Description: 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。
-Website: https://www.cacher.io/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Cacher<br/>Description: 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。<br/>Website: https://www.cacher.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>CoilPad</title>
-      <link>https://coilpad.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CoilPad</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: CoilPad
-Description: 专为即时原型设计和交互式学习打造的原生 macOS Python 草稿本。
-Website: https://coilpad.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CoilPad<br/>Description: 专为即时原型设计和交互式学习打造的原生 macOS Python 草稿本。<br/>Website: https://coilpad.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Swifka</title>
-      <link>https://github.com/Ender-Wang/Swifka</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Swifka</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Swifka
-Description: 只读 Kafka 监控工具，可安全查看主题、消息和消费状态。
-Open Source: https://github.com/Ender-Wang/Swifka
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Swifka<br/>Description: 只读 Kafka 监控工具，可安全查看主题、消息和消费状态。<br/>Open Source: https://github.com/Ender-Wang/Swifka<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Configs</title>
-      <link>https://github.com/iHongRen/configEditor</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Configs</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Configs
-Description: 配置文件管理器，用于快速查看、编辑和管理配置文件。
-Open Source: https://github.com/iHongRen/configEditor
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Configs<br/>Description: 配置文件管理器，用于快速查看、编辑和管理配置文件。<br/>Open Source: https://github.com/iHongRen/configEditor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>CubicBezier</title>
-      <link>https://github.com/isaced/CubicBezier</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CubicBezier</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: CubicBezier
-Description: 一个适用于 macOS 的贝塞尔曲线生成器。
-Open Source: https://github.com/isaced/CubicBezier
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CubicBezier<br/>Description: 一个适用于 macOS 的贝塞尔曲线生成器。<br/>Open Source: https://github.com/isaced/CubicBezier<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>DevHub</title>
-      <link>https://wangchujiang.com/DevHub/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:DevHub</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: DevHub
-Description: 一个功能丰富的离线应用程序，精心制作，以支持开发人员在他们的日常任务。![Freeware][Freeware Icon]
-Website: https://wangchujiang.com/DevHub/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: DevHub<br/>Description: 一个功能丰富的离线应用程序，精心制作，以支持开发人员在他们的日常任务。![Freeware][Freeware Icon]<br/>Website: https://wangchujiang.com/DevHub/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>DevToys</title>
-      <link>https://github.com/DevToys-app/DevToys</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:DevToys</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: DevToys
-Description: 开发者的瑞士军刀——一款帮助开发者处理日常任务的桌面应用。[![Open-Source Software][OSS Icon]
-Open Source: https://github.com/DevToys-app/DevToys
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: DevToys<br/>Description: 开发者的瑞士军刀——一款帮助开发者处理日常任务的桌面应用。[![Open-Source Software][OSS Icon]<br/>Open Source: https://github.com/DevToys-app/DevToys<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Dash</title>
-      <link>https://kapeli.com/dash</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Dash</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Dash
-Description: 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
-Website: https://kapeli.com/dash
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Dash<br/>Description: 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]<br/>Website: https://kapeli.com/dash<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>DiffMerge</title>
-      <link>http://sourcegear.com/diffmerge/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:DiffMerge</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: DiffMerge
-Description: 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
-Website: http://sourcegear.com/diffmerge/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: DiffMerge<br/>Description: 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]<br/>Website: http://sourcegear.com/diffmerge/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>EnvPane</title>
-      <link>https://github.com/hschmidt/EnvPane</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:EnvPane</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: EnvPane
-Description: 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon]
-Open Source: https://github.com/hschmidt/EnvPane
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: EnvPane<br/>Description: 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon]<br/>Open Source: https://github.com/hschmidt/EnvPane<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ClashX 使用指南</title>
+      <link>https://clashx.tech</link>
+      <guid isPermaLink="false">f8ac156d1fbd319704c65c8f284300a3ba38e867:ClashX 使用指南</guid>
+      <pubDate>Thu, 12 Mar 2026 12:33:36 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: ClashX 使用指南
+Description: ClashX 完整中文教程，包含配置指南、故障排除和性能优化。![Freeware][Freeware Icon]
+Website: https://clashx.tech
+Commit: Add ClashX Guide to Chinese README (#1876)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8ac156d1fbd319704c65c8f284300a3ba38e867</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: ClashX 使用指南<br/>Description: ClashX 完整中文教程，包含配置指南、故障排除和性能优化。![Freeware][Freeware Icon]<br/>Website: https://clashx.tech<br/>Commit: Add ClashX Guide to Chinese README (#1876)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8ac156d1fbd319704c65c8f284300a3ba38e867]]></content:encoded>
     </item>
   </channel>
 </rss>

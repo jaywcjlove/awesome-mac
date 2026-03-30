@@ -5,708 +5,344 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:15:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
-      <title>Aurora Editor</title>
-      <link>https://auroraeditor.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Aurora Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Aurora Editor
-Description: Lightweight Code Editor (IDE) for macOS.
-Website: https://auroraeditor.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Aurora Editor<br/>Description: Lightweight Code Editor (IDE) for macOS.<br/>Website: https://auroraeditor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Atomic Chat</title>
+      <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
+      <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
+      <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
+      <category>AI Client</category>
+      <description>Category: AI Client
+App: Atomic Chat
+Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.
+Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
+Commit: Add Atomic Chat
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
+      <content:encoded><![CDATA[Category: AI Client<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
-      <title>Bootstrap Studio</title>
-      <link>https://bootstrapstudio.io/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Bootstrap Studio</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Bootstrap Studio
-Description: A powerful desktop app for creating responsive websites using the Bootstrap framework.
-Website: https://bootstrapstudio.io/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Bootstrap Studio<br/>Description: A powerful desktop app for creating responsive websites using the Bootstrap framework.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Dimly</title>
+      <link>https://github.com/punshnut/macos-dimly</link>
+      <guid isPermaLink="false">1f961ea0dc7c4634ff867de6242f86be0527e944:Dimly</guid>
+      <pubDate>Mon, 30 Mar 2026 08:04:19 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Dimly
+Description: Control brightness across mixed monitor setups from a single menu bar app.
+Open Source: https://github.com/punshnut/macos-dimly
+Commit: Add Dimly - mixed monitor control to app list (#1938)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Dimly<br/>Description: Control brightness across mixed monitor setups from a single menu bar app.<br/>Open Source: https://github.com/punshnut/macos-dimly<br/>Commit: Add Dimly - mixed monitor control to app list (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944]]></content:encoded>
     </item>
     <item>
-      <title>Brackets</title>
-      <link>http://brackets.io</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Brackets</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Brackets
-Description: A modern, open source text editor that understands web design.
-Website: http://brackets.io
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Brackets<br/>Description: A modern, open source text editor that understands web design.<br/>Website: http://brackets.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ClawdHome</title>
+      <link>https://clawdhome.app/</link>
+      <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
+      <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
+      <category>AI Client</category>
+      <description>Category: AI Client
+App: ClawdHome
+Description: Manage multiple isolated OpenClaw gateway instances from one control panel.
+Website: https://clawdhome.app/
+Commit: Add ClawdHome
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
+      <content:encoded><![CDATA[Category: AI Client<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
-      <title>CodeEdit</title>
-      <link>https://www.codeedit.app/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CodeEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: CodeEdit
-Description: A lightweight, natively-built editor. Open source. Free forever.
-Website: https://www.codeedit.app/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: CodeEdit<br/>Description: A lightweight, natively-built editor. Open source. Free forever.<br/>Website: https://www.codeedit.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>DashVPN</title>
+      <link>https://getdashvpn.com/</link>
+      <guid isPermaLink="false">5f9b05e4fbb3f75f634bf95a0149ef20ce88d392:DashVPN</guid>
+      <pubDate>Mon, 30 Mar 2026 06:34:00 GMT</pubDate>
+      <category>Proxy and VPN Tools</category>
+      <description>Category: Proxy and VPN Tools
+App: DashVPN
+Description: Simple and free menu bar proxy app for macOS/iOS with smart routing, supporting VLESS, Shadowsocks and HTTPS subscription.
+Website: https://getdashvpn.com/
+Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392</description>
+      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Simple and free menu bar proxy app for macOS/iOS with smart routing, supporting VLESS, Shadowsocks and HTTPS subscription.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
     </item>
     <item>
-      <title>CotEditor</title>
-      <link>https://coteditor.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CotEditor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: CotEditor
-Description: Lightweight plain-text editor for macOS.
-Website: https://coteditor.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: CotEditor<br/>Description: Lightweight plain-text editor for macOS.<br/>Website: https://coteditor.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ClashBar</title>
+      <link>https://clashbar.vercel.app/</link>
+      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
+      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
+      <category>Proxy and VPN Tools</category>
+      <description>Category: Proxy and VPN Tools
+App: ClashBar
+Description: mihomo-powered menu bar proxy client.
+Website: https://clashbar.vercel.app/
+Commit: docs: add ClashBar to localized readmes
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
+      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: ClashBar<br/>Description: mihomo-powered menu bar proxy client.<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
     </item>
     <item>
-      <title>Cursor</title>
-      <link>https://cursor.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Cursor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Cursor
-Description: AI code editor with autocomplete, chat, and coding agent features.
-Website: https://cursor.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Cursor<br/>Description: AI code editor with autocomplete, chat, and coding agent features.<br/>Website: https://cursor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Repose</title>
+      <link>https://github.com/fikrikarim/repose</link>
+      <guid isPermaLink="false">3571b91bcc6398fd79a5b680b1be125dbb417909:Repose</guid>
+      <pubDate>Mon, 30 Mar 2026 02:13:54 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Repose
+Description: Break reminder for macOS that automatically pauses during meetings.
+Open Source: https://github.com/fikrikarim/repose
+Commit: Add Repose to Productivity (#1935)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Repose<br/>Description: Break reminder for macOS that automatically pauses during meetings.<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to Productivity (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909]]></content:encoded>
     </item>
     <item>
-      <title>Emacs</title>
-      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Emacs</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Emacs
-Description: Popular Unix-based text editor for programmers and system administrators.
-Website: https://www.emacswiki.org/emacs/EmacsForMacOS
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Emacs<br/>Description: Popular Unix-based text editor for programmers and system administrators.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Flock</title>
+      <link>https://github.com/Divagation/flock</link>
+      <guid isPermaLink="false">a4ad4b90fe05d473d745ff558a165e0b6dac00f9:Flock</guid>
+      <pubDate>Mon, 30 Mar 2026 01:52:01 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Flock
+Description: Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression.
+Open Source: https://github.com/Divagation/flock
+Commit: Add Flock to Terminal Apps (#1936)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Flock<br/>Description: Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
     <item>
-      <title>Haystack Editor</title>
-      <link>https://github.com/haystackeditor/haystack-editor</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Haystack Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Haystack Editor
-Description: Code editor with a canvas UI for better code understanding.
-Open Source: https://github.com/haystackeditor/haystack-editor
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Haystack Editor<br/>Description: Code editor with a canvas UI for better code understanding.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>markdown-quicklook</title>
+      <link>https://github.com/ruspg/markdown-quicklook</link>
+      <guid isPermaLink="false">6f0cbac0aae80f402ed3d21d73a646b9a62a147b:markdown-quicklook</guid>
+      <pubDate>Sun, 29 Mar 2026 12:11:49 GMT</pubDate>
+      <category>QuickLook Plugins</category>
+      <description>Category: QuickLook Plugins
+App: markdown-quicklook
+Description: Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.
+Open Source: https://github.com/ruspg/markdown-quicklook
+Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b</description>
+      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: markdown-quicklook<br/>Description: Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b]]></content:encoded>
     </item>
     <item>
-      <title>Helix</title>
-      <link>https://helix-editor.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Helix</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Helix
-Description: A post-modern modal text editor.
-Website: https://helix-editor.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Helix<br/>Description: A post-modern modal text editor.<br/>Website: https://helix-editor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>TouchBridge</title>
+      <link>https://github.com/HMAKT99/UnTouchID</link>
+      <guid isPermaLink="false">8f67d57662e7e7369662d5315c29aa447525bd88:TouchBridge</guid>
+      <pubDate>Fri, 27 Mar 2026 21:05:34 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: TouchBridge
+Description: Use your phone&amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.
+Open Source: https://github.com/HMAKT99/UnTouchID
+Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Use your phone&amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
     </item>
     <item>
-      <title>Itsypad</title>
-      <link>https://itsypad.app</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Itsypad</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Itsypad
-Description: A tiny, fast scratchpad and clipboard manager for macOS.
-Website: https://itsypad.app
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Itsypad<br/>Description: A tiny, fast scratchpad and clipboard manager for macOS.<br/>Website: https://itsypad.app<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>VSCodium</title>
+      <link>https://vscodium.com/</link>
+      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
+      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
+      <category>Developer Tools / IDEs</category>
+      <description>Category: Developer Tools / IDEs
+App: VSCodium
+Description: Community-driven libre binaries of VS Code.
+Website: https://vscodium.com/
+Commit: Add VSCodium to the ja/ko/zh list. #1926
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
+      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: VSCodium<br/>Description: Community-driven libre binaries of VS Code.<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
     </item>
     <item>
-      <title>Lapce</title>
-      <link>https://lapce.dev/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Lapce</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Lapce
-Description: Lightning-fast and powerful code editor.
-Website: https://lapce.dev/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Lapce<br/>Description: Lightning-fast and powerful code editor.<br/>Website: https://lapce.dev/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>OpenDictation</title>
+      <link>https://github.com/kdcokenny/OpenDictation</link>
+      <guid isPermaLink="false">c1e98cf4d77c330c0652553d8368de30ddae654b:OpenDictation</guid>
+      <pubDate>Fri, 27 Mar 2026 04:20:12 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: OpenDictation
+Description: Notch-integrated dictation utility with local Whisper or BYOK cloud transcription and instant cursor insertion.
+Open Source: https://github.com/kdcokenny/OpenDictation
+Commit: Add OpenDictation to Voice-to-Text list (#1927)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenDictation<br/>Description: Notch-integrated dictation utility with local Whisper or BYOK cloud transcription and instant cursor insertion.<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to Voice-to-Text list (#1927)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b]]></content:encoded>
     </item>
     <item>
-      <title>LightTable</title>
-      <link>http://lighttable.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LightTable</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: LightTable
-Description: The next generation code editor.
-Website: http://lighttable.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LightTable<br/>Description: The next generation code editor.<br/>Website: http://lighttable.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Nudge</title>
+      <link>https://nudge.run</link>
+      <guid isPermaLink="false">e7141d43cf5ff47450fe640f774c0a2f4f059d3e:Nudge</guid>
+      <pubDate>Fri, 27 Mar 2026 03:50:15 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Nudge
+Description: Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.
+Website: https://nudge.run
+Commit: Add Nudge to Window Management section (#1928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Nudge<br/>Description: Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.<br/>Website: https://nudge.run<br/>Commit: Add Nudge to Window Management section (#1928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e]]></content:encoded>
     </item>
     <item>
-      <title>MacVim</title>
-      <link>https://github.com/macvim-dev/macvim</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MacVim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: MacVim
-Description: the text editor Vim - for macOS.
-Open Source: https://github.com/macvim-dev/macvim
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: MacVim<br/>Description: the text editor Vim - for macOS.<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Mocker</title>
+      <link>https://github.com/us/mocker</link>
+      <guid isPermaLink="false">0f07144172ed87ddea66917792bd82d7947e775b:Mocker</guid>
+      <pubDate>Thu, 26 Mar 2026 01:01:31 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: Mocker
+Description: Docker-compatible container management tool built natively on Apple&amp;apos;s Containerization framework.
+Open Source: https://github.com/us/mocker
+Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&amp;apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
     </item>
     <item>
-      <title>micro</title>
-      <link>https://micro-editor.github.io</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:micro</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: micro
-Description: Modern and intuitive terminal-based text editor.
-Website: https://micro-editor.github.io
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: micro<br/>Description: Modern and intuitive terminal-based text editor.<br/>Website: https://micro-editor.github.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>macshot</title>
+      <link>https://github.com/sw33tlie/macshot</link>
+      <guid isPermaLink="false">7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3:macshot</guid>
+      <pubDate>Wed, 25 Mar 2026 01:45:55 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: macshot
+Description: Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.
+Open Source: https://github.com/sw33tlie/macshot
+Commit: Add macshot to Screenshot Tools (#1916)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: macshot<br/>Description: Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.<br/>Open Source: https://github.com/sw33tlie/macshot<br/>Commit: Add macshot to Screenshot Tools (#1916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3]]></content:encoded>
     </item>
     <item>
-      <title>Neovim</title>
-      <link>https://github.com/neovim/neovim</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Neovim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Neovim
-Description: Vim-fork focused on extensibility and usability.
-Open Source: https://github.com/neovim/neovim
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Neovim<br/>Description: Vim-fork focused on extensibility and usability.<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>App Uninstaller</title>
+      <link>https://github.com/kamjin3086/AppUninstaller</link>
+      <guid isPermaLink="false">ffcaf60b826240c20afa9d945b4bf748cae483d8:App Uninstaller</guid>
+      <pubDate>Mon, 23 Mar 2026 14:02:42 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: App Uninstaller
+Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.
+Open Source: https://github.com/kamjin3086/AppUninstaller
+Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Uninstaller<br/>Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8]]></content:encoded>
     </item>
     <item>
-      <title>Nova</title>
-      <link>https://nova.app/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Nova</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Nova
-Description: The beautiful, fast, flexible, native Mac code editor from Panic.
-Website: https://nova.app/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Nova<br/>Description: The beautiful, fast, flexible, native Mac code editor from Panic.<br/>Website: https://nova.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Claude Usage Monitor</title>
+      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
+      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
+      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Claude Usage Monitor
+Description: Menu bar tool for tracking Claude usage with a live counter.
+Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
+Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claude Usage Monitor<br/>Description: Menu bar tool for tracking Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
     <item>
-      <title>Plain Text Editor</title>
-      <link>https://sindresorhus.com/plain-text-editor</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Plain Text Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Plain Text Editor
-Description: Simple distraction-free notepad.
-Website: https://sindresorhus.com/plain-text-editor
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Plain Text Editor<br/>Description: Simple distraction-free notepad.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Zipic</title>
+      <link>https://zipic.app/</link>
+      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Zipic
+Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
+Website: https://zipic.app/
+Commit: Add Zipic to Design and Product - Other Tools (#1910)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Zipic<br/>Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
     </item>
     <item>
-      <title>Sublime Text</title>
-      <link>http://www.sublimetext.com/3</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Sublime Text</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Sublime Text
-Description: Text editor with a fast interface and plugin ecosystem. For more plugins, check Sublime Text Plugins.
-Website: http://www.sublimetext.com/3
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Sublime Text<br/>Description: Text editor with a fast interface and plugin ecosystem. For more plugins, check Sublime Text Plugins.<br/>Website: http://www.sublimetext.com/3<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Orchard</title>
+      <link>https://orchard.5km.tech/</link>
+      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
+      <category>AI Client</category>
+      <description>Category: AI Client
+App: Orchard
+Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
+Website: https://orchard.5km.tech/
+Commit: Add Orchard to AI Client (#1911)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
+      <content:encoded><![CDATA[Category: AI Client<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
     <item>
-      <title>SubEthaEdit</title>
-      <link>https://subethaedit.net/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:SubEthaEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: SubEthaEdit
-Description: Powerful editor for writing, coding, and collaboration anytime, anywhere!
-Website: https://subethaedit.net/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: SubEthaEdit<br/>Description: Powerful editor for writing, coding, and collaboration anytime, anywhere!<br/>Website: https://subethaedit.net/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Azex Speech</title>
+      <link>https://github.com/azex-ai/speech</link>
+      <guid isPermaLink="false">5a5d1cd79002acc37b1210fe150b4566d0868c88:Azex Speech</guid>
+      <pubDate>Sun, 22 Mar 2026 04:12:11 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Azex Speech
+Description: Mac native voice input for Crypto &amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.
+Open Source: https://github.com/azex-ai/speech
+Commit: Add Azex Speech to Voice-to-Text section (#1909)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Mac native voice input for Crypto &amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
     </item>
     <item>
-      <title>TextMate</title>
-      <link>https://macromates.com</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:TextMate</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: TextMate
-Description: Editor that brings Apple&apos;s approach to operating systems into the world of text editors.
-Website: https://macromates.com
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: TextMate<br/>Description: Editor that brings Apple&apos;s approach to operating systems into the world of text editors.<br/>Website: https://macromates.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>NoxKey</title>
+      <link>https://noxkey.ai</link>
+      <guid isPermaLink="false">bcef19a8f5391734c9600fbac6ab55c8f5266456:NoxKey</guid>
+      <pubDate>Sun, 22 Mar 2026 04:08:04 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: NoxKey
+Description: Keychain-based secret manager with Touch ID. Stores API keys and tokens in the macOS Secure Enclave, detects AI agents via process-tree walking, and delivers secrets through encrypted handoff.
+Website: https://noxkey.ai
+Commit: Add NoxKey to Security Tools (#1907)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: NoxKey<br/>Description: Keychain-based secret manager with Touch ID. Stores API keys and tokens in the macOS Secure Enclave, detects AI agents via process-tree walking, and delivers secrets through encrypted handoff.<br/>Website: https://noxkey.ai<br/>Commit: Add NoxKey to Security Tools (#1907)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456]]></content:encoded>
     </item>
     <item>
-      <title>Tot</title>
-      <link>https://tot.rocks/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Tot</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Tot
-Description: Tot is an elegant, simple way to collect &amp; edit text. It’s your tiny text companion!
-Website: https://tot.rocks/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Tot<br/>Description: Tot is an elegant, simple way to collect &amp; edit text. It’s your tiny text companion!<br/>Website: https://tot.rocks/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>ProBoard</title>
+      <link>https://apps.apple.com/app/id6748314346?platform=mac</link>
+      <guid isPermaLink="false">ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0:ProBoard</guid>
+      <pubDate>Sat, 21 Mar 2026 10:00:10 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: ProBoard
+Description: Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
+App Store: https://apps.apple.com/app/id6748314346?platform=mac
+Commit: Add ProBoard to productivity tools list (#1906)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: ProBoard<br/>Description: Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)<br/>App Store: https://apps.apple.com/app/id6748314346?platform=mac<br/>Commit: Add ProBoard to productivity tools list (#1906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0]]></content:encoded>
     </item>
     <item>
-      <title>Vim</title>
-      <link>http://www.vim.org/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vim</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Vim
-Description: An old terminal-based editor. For common plugins, check Vim Common Plugins.
-Website: http://www.vim.org/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Vim<br/>Description: An old terminal-based editor. For common plugins, check Vim Common Plugins.<br/>Website: http://www.vim.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Lockpaw</title>
+      <link>https://getlockpaw.com</link>
+      <guid isPermaLink="false">3262420ea5ed4afd16d9c81bb1524c82ca4965f7:Lockpaw</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:07 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: Lockpaw
+Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.
+Website: https://getlockpaw.com
+Commit: Add Lockpaw to Security Tools (#1901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: Lockpaw<br/>Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to Security Tools (#1901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7]]></content:encoded>
     </item>
     <item>
-      <title>Vimr</title>
-      <link>http://vimr.org/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vimr</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Vimr
-Description: Refined Vim Experience for OS X.
-Website: http://vimr.org/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Vimr<br/>Description: Refined Vim Experience for OS X.<br/>Website: http://vimr.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>Redis Insight</title>
+      <link>https://redis.io/insight/</link>
+      <guid isPermaLink="false">f15cdc15655effd7aadc5db234b9597abe6baa7a:Redis Insight</guid>
+      <pubDate>Sat, 21 Mar 2026 01:35:38 GMT</pubDate>
+      <category>Developer Tools / Databases</category>
+      <description>Category: Developer Tools / Databases
+App: Redis Insight
+Description: Official Redis tool for browsing, debugging, and visualizing data.
+Website: https://redis.io/insight/
+Commit: Add Redis Insight fix #1899
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Redis Insight<br/>Description: Official Redis tool for browsing, debugging, and visualizing data.<br/>Website: https://redis.io/insight/<br/>Commit: Add Redis Insight fix #1899<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a]]></content:encoded>
     </item>
     <item>
-      <title>Windsurf</title>
-      <link>https://windsurf.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Windsurf</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Windsurf
-Description: AI code editor with agentic coding, autocomplete, and MCP support.
-Website: https://windsurf.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Windsurf<br/>Description: AI code editor with agentic coding, autocomplete, and MCP support.<br/>Website: https://windsurf.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Zed</title>
-      <link>https://zed.dev/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Zed</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Text Editors</category>
-      <description>Category: Reading and Writing Tools / Text Editors
-App: Zed
-Description: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-Website: https://zed.dev/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Zed<br/>Description: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br/>Website: https://zed.dev/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Keynote</title>
-      <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Keynote</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: Keynote
-Description: Build stunning presentations.
-App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Keynote<br/>Description: Build stunning presentations.<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>LibreOffice</title>
-      <link>https://www.libreoffice.org</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LibreOffice</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: LibreOffice
-Description: Free, open-source office software used and tested daily by a large community.
-Website: https://www.libreoffice.org
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: LibreOffice<br/>Description: Free, open-source office software used and tested daily by a large community.<br/>Website: https://www.libreoffice.org<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft Office</title>
-      <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Microsoft Office</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: Microsoft Office
-Description: Unmistakably Office, designed for Mac.
-Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Microsoft Office<br/>Description: Unmistakably Office, designed for Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Numbers</title>
-      <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Numbers</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: Numbers
-Description: Create impressive spreadsheets.
-App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Numbers<br/>Description: Create impressive spreadsheets.<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>OnlyOffice</title>
-      <link>https://www.onlyoffice.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:OnlyOffice</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: OnlyOffice
-Description: Office suite with document, spreadsheet, and presentation editors.
-Website: https://www.onlyoffice.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: OnlyOffice<br/>Description: Office suite with document, spreadsheet, and presentation editors.<br/>Website: https://www.onlyoffice.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Pages</title>
-      <link>https://apps.apple.com/app/pages/id409201541?platform=mac</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Pages</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: Pages
-Description: Documents that stand apart.
-App Store: https://apps.apple.com/app/pages/id409201541?platform=mac
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Pages<br/>Description: Documents that stand apart.<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>SoftMaker Office</title>
-      <link>https://www.softmaker.com/en/softmaker-office</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:SoftMaker Office</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: SoftMaker Office
-Description: A complete office suite that aims for full compatibility with Microsoft Office documents.
-Website: https://www.softmaker.com/en/softmaker-office
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: SoftMaker Office<br/>Description: A complete office suite that aims for full compatibility with Microsoft Office documents.<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>WPS</title>
-      <link>https://www.wps.com/mac</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:WPS</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: WPS
-Description: Is a cross-platform office software suite.
-Website: https://www.wps.com/mac
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: WPS<br/>Description: Is a cross-platform office software suite.<br/>Website: https://www.wps.com/mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Archimedes</title>
-      <link>https://furnacecreek.org/archimedes/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Archimedes</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Archimedes
-Description: Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
-Website: https://furnacecreek.org/archimedes/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Archimedes<br/>Description: Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.<br/>Website: https://furnacecreek.org/archimedes/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>EME</title>
-      <link>https://github.com/egoist/eme</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:EME</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: EME
-Description: Open-source Markdown editor with an interface like Chrome.
-Open Source: https://github.com/egoist/eme
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Open-source Markdown editor with an interface like Chrome.<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>iA Writer</title>
-      <link>https://ia.net/writer/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:iA Writer</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: iA Writer
-Description: Writing app with an emphasis on simplicity and design.
-Website: https://ia.net/writer/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: Writing app with an emphasis on simplicity and design.<br/>Website: https://ia.net/writer/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>LightPaper</title>
-      <link>https://getlightpaper.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LightPaper</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: LightPaper
-Description: Simple, beautiful, yet powerful text editor for your Mac.
-Website: https://getlightpaper.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: LightPaper<br/>Description: Simple, beautiful, yet powerful text editor for your Mac.<br/>Website: https://getlightpaper.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Marked 2</title>
-      <link>http://marked2app.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marked 2</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Marked 2
-Description: This is the Markdown preview with an elegant and powerful set of tools for all writers.
-Website: http://marked2app.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marked 2<br/>Description: This is the Markdown preview with an elegant and powerful set of tools for all writers.<br/>Website: http://marked2app.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>MarkText</title>
-      <link>https://github.com/marktext/marktext</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MarkText</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MarkText
-Description: Next generation markdown editor, running on platforms of MacOS Windows and Linux.
-Open Source: https://github.com/marktext/marktext
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkText<br/>Description: Next generation markdown editor, running on platforms of MacOS Windows and Linux.<br/>Open Source: https://github.com/marktext/marktext<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Marp</title>
-      <link>https://marp.app</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marp</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Marp
-Description: Markdown presentation writer with cross-platform support.
-Website: https://marp.app
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marp<br/>Description: Markdown presentation writer with cross-platform support.<br/>Website: https://marp.app<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Marxico</title>
-      <link>https://marxi.co/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marxico</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Marxico
-Description: Delicate Markdown editor for Evernote. Reliable storage and sync.
-Website: https://marxi.co/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marxico<br/>Description: Delicate Markdown editor for Evernote. Reliable storage and sync.<br/>Website: https://marxi.co/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>MWeb</title>
-      <link>http://www.mweb.im/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MWeb</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MWeb
-Description: Pro Markdown writing, and static blog generator App.
-Website: http://www.mweb.im/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MWeb<br/>Description: Pro Markdown writing, and static blog generator App.<br/>Website: http://www.mweb.im/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Obsidian</title>
-      <link>https://obsidian.md</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Obsidian</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Obsidian
-Description: A second brain, for you, forever.
-Website: https://obsidian.md
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Obsidian<br/>Description: A second brain, for you, forever.<br/>Website: https://obsidian.md<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Pixley Reader</title>
-      <link>https://github.com/Applacat/PixleyReader</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Pixley Reader</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Pixley Reader
-Description: Reader for Markdown specs, docs, and changelogs generated by AI tools.
-Open Source: https://github.com/Applacat/PixleyReader
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Pixley Reader<br/>Description: Reader for Markdown specs, docs, and changelogs generated by AI tools.<br/>Open Source: https://github.com/Applacat/PixleyReader<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Scratch</title>
-      <link>https://www.ericli.io/scratch</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Scratch</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Scratch
-Description: Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.
-Website: https://www.ericli.io/scratch
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Scratch<br/>Description: Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.<br/>Website: https://www.ericli.io/scratch<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Typora</title>
-      <link>http://www.typora.io/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Typora</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Typora
-Description: Truly minimal Markdown editor featuring seamless live preview.
-Website: http://www.typora.io/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typora<br/>Description: Truly minimal Markdown editor featuring seamless live preview.<br/>Website: http://www.typora.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Ulysses</title>
-      <link>https://www.ulyssesapp.com/features/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Ulysses</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Ulysses
-Description: The Ultimate Writing App for Mac, iPad and iPhone.
-Website: https://www.ulyssesapp.com/features/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Ulysses<br/>Description: The Ultimate Writing App for Mac, iPad and iPhone.<br/>Website: https://www.ulyssesapp.com/features/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Zettlr</title>
-      <link>https://www.zettlr.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Zettlr</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Zettlr
-Description: A markdown editor for the 21st century.
-Website: https://www.zettlr.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Zettlr<br/>Description: A markdown editor for the 21st century.<br/>Website: https://www.zettlr.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Affine</title>
-      <link>https://affine.pro/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Affine</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: Affine
-Description: Affine is the next-generation collaborative knowledge base for professionals.
-Website: https://affine.pro/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Affine<br/>Description: Affine is the next-generation collaborative knowledge base for professionals.<br/>Website: https://affine.pro/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
-    </item>
-    <item>
-      <title>Agenda</title>
-      <link>https://agenda.com/</link>
-      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Agenda</guid>
-      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: Agenda
-Description: Date-focused note taking app for both planning and documenting your projects.
-Website: https://agenda.com/
-Commit: Improve RSS HTML compatibility
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Agenda<br/>Description: Date-focused note taking app for both planning and documenting your projects.<br/>Website: https://agenda.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
+      <title>DMG Maker</title>
+      <link>https://github.com/saihgupr/DMGMaker</link>
+      <guid isPermaLink="false">9a0dfca40df6df056ea648db3a05a2cdafd52510:DMG Maker</guid>
+      <pubDate>Fri, 20 Mar 2026 00:45:38 GMT</pubDate>
+      <category>Developer Tools / Frameworks For Hybrid Applications</category>
+      <description>Category: Developer Tools / Frameworks For Hybrid Applications
+App: DMG Maker
+Description: DMG creation tool with polished visuals and CLI support.
+Open Source: https://github.com/saihgupr/DMGMaker
+Commit: Add DMG Maker
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Frameworks For Hybrid Applications<br/>App: DMG Maker<br/>Description: DMG creation tool with polished visuals and CLI support.<br/>Open Source: https://github.com/saihgupr/DMGMaker<br/>Commit: Add DMG Maker<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510]]></content:encoded>
     </item>
   </channel>
 </rss>
