@@ -128,11 +128,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed
       <category>Security Tools</category>
       <description>Category: Security Tools
 App: TouchBridge
-Description: Use your phone&apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.
+Description: Use your phone&amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.
 Open Source: https://github.com/HMAKT99/UnTouchID
 Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Use your phone&apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Use your phone&amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
     </item>
     <item>
       <title>VSCodium</title>
@@ -184,11 +184,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450f
       <category>Developer Tools / Virtualization</category>
       <description>Category: Developer Tools / Virtualization
 App: Mocker
-Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.
+Description: Docker-compatible container management tool built natively on Apple&amp;apos;s Containerization framework.
 Open Source: https://github.com/us/mocker
 Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&amp;apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
     </item>
     <item>
       <title>macshot</title>
@@ -268,11 +268,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83
       <category>Voice-to-Text</category>
       <description>Category: Voice-to-Text
 App: Azex Speech
-Description: Mac native voice input for Crypto &amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.
+Description: Mac native voice input for Crypto &amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.
 Open Source: https://github.com/azex-ai/speech
 Commit: Add Azex Speech to Voice-to-Text section (#1909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Mac native voice input for Crypto &amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Mac native voice input for Crypto &amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
     </item>
     <item>
       <title>NoxKey</title>
