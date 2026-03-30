@@ -1,412 +1,712 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Awesome Mac - 最近追加されたアプリ</title>
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Mar 2026 15:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:28:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
       <title>Aurora Editor</title>
       <link>https://auroraeditor.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Aurora Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Aurora Editor</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Aurora Editor<br/>Description: macOS用の軽量コードエディタ（IDE）。<br/>Website: https://auroraeditor.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Aurora Editor
+Description: macOS用の軽量コードエディタ（IDE）。
+Website: https://auroraeditor.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Aurora Editor<br/>Description: macOS用の軽量コードエディタ（IDE）。<br/>Website: https://auroraeditor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Bootstrap Studio</title>
       <link>https://bootstrapstudio.io/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Bootstrap Studio</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Bootstrap Studio</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Bootstrap Studio<br/>Description: Bootstrapフレームワークを使用してレスポンシブWebサイトを作成するための強力なデスクトップアプリ。<br/>Website: https://bootstrapstudio.io/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Bootstrap Studio
+Description: Bootstrapフレームワークを使用してレスポンシブWebサイトを作成するための強力なデスクトップアプリ。
+Website: https://bootstrapstudio.io/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Bootstrap Studio<br/>Description: Bootstrapフレームワークを使用してレスポンシブWebサイトを作成するための強力なデスクトップアプリ。<br/>Website: https://bootstrapstudio.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Brackets</title>
       <link>http://brackets.io</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Brackets</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Brackets</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Brackets<br/>Description: Webデザインを理解する、モダンなオープンソーステキストエディタ。<br/>Website: http://brackets.io<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Brackets
+Description: Webデザインを理解する、モダンなオープンソーステキストエディタ。
+Website: http://brackets.io
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Brackets<br/>Description: Webデザインを理解する、モダンなオープンソーステキストエディタ。<br/>Website: http://brackets.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>CodeEdit</title>
       <link>https://www.codeedit.app/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:CodeEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CodeEdit</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: CodeEdit<br/>Description: 軽量でネイティブ構築のエディタ。オープンソース。永久無料。<br/>Website: https://www.codeedit.app/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: CodeEdit
+Description: 軽量でネイティブ構築のエディタ。オープンソース。永久無料。
+Website: https://www.codeedit.app/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: CodeEdit<br/>Description: 軽量でネイティブ構築のエディタ。オープンソース。永久無料。<br/>Website: https://www.codeedit.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>CotEditor</title>
       <link>https://coteditor.com</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:CotEditor</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:CotEditor</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: CotEditor<br/>Description: macOS用の軽量プレーンテキストエディタ。<br/>Website: https://coteditor.com<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: CotEditor
+Description: macOS用の軽量プレーンテキストエディタ。
+Website: https://coteditor.com
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: CotEditor<br/>Description: macOS用の軽量プレーンテキストエディタ。<br/>Website: https://coteditor.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Cursor</title>
       <link>https://cursor.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Cursor</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Cursor</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Cursor<br/>Description: オートコンプリート、チャット、エージェント機能を備えたAIコードエディタ。<br/>Website: https://cursor.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Cursor
+Description: オートコンプリート、チャット、エージェント機能を備えたAIコードエディタ。
+Website: https://cursor.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Cursor<br/>Description: オートコンプリート、チャット、エージェント機能を備えたAIコードエディタ。<br/>Website: https://cursor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Emacs</title>
       <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Emacs</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Emacs</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Emacs<br/>Description: プログラマーやシステム管理者に人気のUnixベーステキストエディタ。<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Emacs
+Description: プログラマーやシステム管理者に人気のUnixベーステキストエディタ。
+Website: https://www.emacswiki.org/emacs/EmacsForMacOS
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Emacs<br/>Description: プログラマーやシステム管理者に人気のUnixベーステキストエディタ。<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Haystack Editor</title>
       <link>https://github.com/haystackeditor/haystack-editor</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Haystack Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Haystack Editor</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Haystack Editor<br/>Description: コード理解を向上させるキャンバスUIを備えたコードエディタ。<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Haystack Editor
+Description: コード理解を向上させるキャンバスUIを備えたコードエディタ。
+Open Source: https://github.com/haystackeditor/haystack-editor
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Haystack Editor<br/>Description: コード理解を向上させるキャンバスUIを備えたコードエディタ。<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Helix</title>
       <link>https://helix-editor.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Helix</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Helix</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Helix<br/>Description: ポストモダンなモーダルテキストエディタ。<br/>Website: https://helix-editor.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Helix
+Description: ポストモダンなモーダルテキストエディタ。
+Website: https://helix-editor.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Helix<br/>Description: ポストモダンなモーダルテキストエディタ。<br/>Website: https://helix-editor.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Itsypad</title>
       <link>https://itsypad.app</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Itsypad</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Itsypad</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Itsypad<br/>Description: macOS用の小さくて高速なスクラッチパッド兼クリップボードマネージャー。<br/>Website: https://itsypad.app<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Itsypad
+Description: macOS用の小さくて高速なスクラッチパッド兼クリップボードマネージャー。
+Website: https://itsypad.app
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Itsypad<br/>Description: macOS用の小さくて高速なスクラッチパッド兼クリップボードマネージャー。<br/>Website: https://itsypad.app<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Lapce</title>
       <link>https://lapce.dev/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Lapce</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Lapce</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Lapce<br/>Description: 超高速で強力なコードエディタ。<br/>Website: https://lapce.dev/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Lapce
+Description: 超高速で強力なコードエディタ。
+Website: https://lapce.dev/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Lapce<br/>Description: 超高速で強力なコードエディタ。<br/>Website: https://lapce.dev/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>LightTable</title>
       <link>http://lighttable.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:LightTable</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LightTable</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: LightTable<br/>Description: 次世代コードエディタ。<br/>Website: http://lighttable.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: LightTable
+Description: 次世代コードエディタ。
+Website: http://lighttable.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: LightTable<br/>Description: 次世代コードエディタ。<br/>Website: http://lighttable.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>MacVim</title>
       <link>https://github.com/macvim-dev/macvim</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:MacVim</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MacVim</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: MacVim<br/>Description: macOS用のテキストエディタVim。<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: MacVim
+Description: macOS用のテキストエディタVim。
+Open Source: https://github.com/macvim-dev/macvim
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: MacVim<br/>Description: macOS用のテキストエディタVim。<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>micro</title>
       <link>https://micro-editor.github.io</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:micro</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:micro</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: micro<br/>Description: モダンで直感的なターミナルベースのテキストエディタ。<br/>Website: https://micro-editor.github.io<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: micro
+Description: モダンで直感的なターミナルベースのテキストエディタ。
+Website: https://micro-editor.github.io
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: micro<br/>Description: モダンで直感的なターミナルベースのテキストエディタ。<br/>Website: https://micro-editor.github.io<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Neovim</title>
       <link>https://github.com/neovim/neovim</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Neovim</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Neovim</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Neovim<br/>Description: 拡張性と使いやすさに重点を置いたVimフォーク。<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Neovim
+Description: 拡張性と使いやすさに重点を置いたVimフォーク。
+Open Source: https://github.com/neovim/neovim
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Neovim<br/>Description: 拡張性と使いやすさに重点を置いたVimフォーク。<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Nova</title>
       <link>https://nova.app/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Nova</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Nova</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Nova<br/>Description: Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。<br/>Website: https://nova.app/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Nova
+Description: Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。
+Website: https://nova.app/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Nova<br/>Description: Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。<br/>Website: https://nova.app/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Plain Text Editor</title>
       <link>https://sindresorhus.com/plain-text-editor</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Plain Text Editor</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Plain Text Editor</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Plain Text Editor<br/>Description: シンプルで集中できるメモ帳。<br/>Website: https://sindresorhus.com/plain-text-editor<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Plain Text Editor
+Description: シンプルで集中できるメモ帳。
+Website: https://sindresorhus.com/plain-text-editor
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Plain Text Editor<br/>Description: シンプルで集中できるメモ帳。<br/>Website: https://sindresorhus.com/plain-text-editor<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Sublime Text</title>
       <link>http://www.sublimetext.com/3</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Sublime Text</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Sublime Text</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Sublime Text<br/>Description: 高速なインターフェースと豊富なプラグインを備えたテキストエディタ。プラグインの詳細はSublime Text Pluginsをご覧ください。<br/>Website: http://www.sublimetext.com/3<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Sublime Text
+Description: 高速なインターフェースと豊富なプラグインを備えたテキストエディタ。プラグインの詳細はSublime Text Pluginsをご覧ください。
+Website: http://www.sublimetext.com/3
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Sublime Text<br/>Description: 高速なインターフェースと豊富なプラグインを備えたテキストエディタ。プラグインの詳細はSublime Text Pluginsをご覧ください。<br/>Website: http://www.sublimetext.com/3<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>SubEthaEdit</title>
       <link>https://subethaedit.net/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:SubEthaEdit</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:SubEthaEdit</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: SubEthaEdit<br/>Description: いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！<br/>Website: https://subethaedit.net/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: SubEthaEdit
+Description: いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！
+Website: https://subethaedit.net/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: SubEthaEdit<br/>Description: いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！<br/>Website: https://subethaedit.net/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>TextMate</title>
       <link>https://macromates.com</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:TextMate</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:TextMate</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: TextMate<br/>Description: Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。<br/>Website: https://macromates.com<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: TextMate
+Description: Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。
+Website: https://macromates.com
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: TextMate<br/>Description: Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。<br/>Website: https://macromates.com<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Tot</title>
       <link>https://tot.rocks/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Tot</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Tot</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Tot<br/>Description: Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！<br/>Website: https://tot.rocks/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Tot
+Description: Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！
+Website: https://tot.rocks/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Tot<br/>Description: Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！<br/>Website: https://tot.rocks/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Vim</title>
       <link>http://www.vim.org/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Vim</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vim</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Vim<br/>Description: 古くからあるターミナルベースのエディタ。一般的なプラグインについてはVim Common Pluginsをご覧ください。<br/>Website: http://www.vim.org/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Vim
+Description: 古くからあるターミナルベースのエディタ。一般的なプラグインについてはVim Common Pluginsをご覧ください。
+Website: http://www.vim.org/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Vim<br/>Description: 古くからあるターミナルベースのエディタ。一般的なプラグインについてはVim Common Pluginsをご覧ください。<br/>Website: http://www.vim.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Vimr</title>
       <link>http://vimr.org/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Vimr</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Vimr</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Vimr<br/>Description: OS X向けの洗練されたVim体験。<br/>Website: http://vimr.org/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Vimr
+Description: OS X向けの洗練されたVim体験。
+Website: http://vimr.org/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Vimr<br/>Description: OS X向けの洗練されたVim体験。<br/>Website: http://vimr.org/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Windsurf</title>
       <link>https://windsurf.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Windsurf</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Windsurf</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Windsurf<br/>Description: エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。<br/>Website: https://windsurf.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Windsurf
+Description: エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。
+Website: https://windsurf.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Windsurf<br/>Description: エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。<br/>Website: https://windsurf.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Zed</title>
       <link>https://zed.dev/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Zed</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Zed</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ<br/>App: Zed<br/>Description: AtomとTree-sitterの生みの親が作った、ハイパフォーマンスなマルチプレイヤーコードエディタ。<br/>Website: https://zed.dev/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / テキストエディタ
+App: Zed
+Description: AtomとTree-sitterの生みの親が作った、ハイパフォーマンスなマルチプレイヤーコードエディタ。
+Website: https://zed.dev/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: Zed<br/>Description: AtomとTree-sitterの生みの親が作った、ハイパフォーマンスなマルチプレイヤーコードエディタ。<br/>Website: https://zed.dev/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Keynote</title>
       <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Keynote</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Keynote</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: Keynote<br/>Description: 美しいプレゼンテーションを作成。<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: Keynote
+Description: 美しいプレゼンテーションを作成。
+App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Keynote<br/>Description: 美しいプレゼンテーションを作成。<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>LibreOffice</title>
       <link>https://www.libreoffice.org</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:LibreOffice</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LibreOffice</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: LibreOffice<br/>Description: 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。<br/>Website: https://www.libreoffice.org<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: LibreOffice
+Description: 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。
+Website: https://www.libreoffice.org
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: LibreOffice<br/>Description: 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。<br/>Website: https://www.libreoffice.org<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Microsoft Office</title>
       <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Microsoft Office</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Microsoft Office</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: Microsoft Office<br/>Description: 紛れもなくOffice、Mac用に設計。<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: Microsoft Office
+Description: 紛れもなくOffice、Mac用に設計。
+Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Microsoft Office<br/>Description: 紛れもなくOffice、Mac用に設計。<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Numbers</title>
       <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Numbers</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Numbers</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: Numbers<br/>Description: 印象的なスプレッドシートを作成。<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: Numbers
+Description: 印象的なスプレッドシートを作成。
+App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Numbers<br/>Description: 印象的なスプレッドシートを作成。<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>OnlyOffice</title>
       <link>https://www.onlyoffice.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:OnlyOffice</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:OnlyOffice</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: OnlyOffice<br/>Description: 文書、スプレッドシート、プレゼンテーション編集を備えたオフィススイート。<br/>Website: https://www.onlyoffice.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: OnlyOffice
+Description: 文書、スプレッドシート、プレゼンテーション編集を備えたオフィススイート。
+Website: https://www.onlyoffice.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: OnlyOffice<br/>Description: 文書、スプレッドシート、プレゼンテーション編集を備えたオフィススイート。<br/>Website: https://www.onlyoffice.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Pages</title>
       <link>https://apps.apple.com/app/pages/id409201541?platform=mac</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Pages</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Pages</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: Pages<br/>Description: 際立つ文書を作成。<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: Pages
+Description: 際立つ文書を作成。
+App Store: https://apps.apple.com/app/pages/id409201541?platform=mac
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Pages<br/>Description: 際立つ文書を作成。<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>SoftMaker Office</title>
       <link>https://www.softmaker.com/en/softmaker-office</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:SoftMaker Office</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:SoftMaker Office</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: SoftMaker Office<br/>Description: Microsoft Officeドキュメントとの完全な互換性を目指した総合オフィススイート。<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: SoftMaker Office
+Description: Microsoft Officeドキュメントとの完全な互換性を目指した総合オフィススイート。
+Website: https://www.softmaker.com/en/softmaker-office
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: SoftMaker Office<br/>Description: Microsoft Officeドキュメントとの完全な互換性を目指した総合オフィススイート。<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>WPS</title>
       <link>https://www.wps.com/mac</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:WPS</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:WPS</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス<br/>App: WPS<br/>Description: クロスプラットフォームのオフィスソフトウェアスイート。<br/>Website: https://www.wps.com/mac<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / オフィス
+App: WPS
+Description: クロスプラットフォームのオフィスソフトウェアスイート。
+Website: https://www.wps.com/mac
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: WPS<br/>Description: クロスプラットフォームのオフィスソフトウェアスイート。<br/>Website: https://www.wps.com/mac<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Archimedes</title>
       <link>https://furnacecreek.org/archimedes/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Archimedes</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Archimedes</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Archimedes<br/>Description: インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。<br/>Website: https://furnacecreek.org/archimedes/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Archimedes
+Description: インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。
+Website: https://furnacecreek.org/archimedes/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Archimedes<br/>Description: インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。<br/>Website: https://furnacecreek.org/archimedes/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>EME</title>
       <link>https://github.com/egoist/eme</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:EME</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:EME</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: EME
+Description: Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。
+Open Source: https://github.com/egoist/eme
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>iA Writer</title>
       <link>https://ia.net/writer/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:iA Writer</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:iA Writer</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: シンプルさとデザインを重視したライティングアプリ。<br/>Website: https://ia.net/writer/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: iA Writer
+Description: シンプルさとデザインを重視したライティングアプリ。
+Website: https://ia.net/writer/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: シンプルさとデザインを重視したライティングアプリ。<br/>Website: https://ia.net/writer/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>LightPaper</title>
       <link>https://getlightpaper.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:LightPaper</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:LightPaper</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: LightPaper<br/>Description: Mac用のシンプルで美しく、かつ強力なテキストエディタ。<br/>Website: https://getlightpaper.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: LightPaper
+Description: Mac用のシンプルで美しく、かつ強力なテキストエディタ。
+Website: https://getlightpaper.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: LightPaper<br/>Description: Mac用のシンプルで美しく、かつ強力なテキストエディタ。<br/>Website: https://getlightpaper.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Marked 2</title>
       <link>http://marked2app.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Marked 2</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marked 2</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marked 2<br/>Description: すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。<br/>Website: http://marked2app.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marked 2
+Description: すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
+Website: http://marked2app.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marked 2<br/>Description: すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。<br/>Website: http://marked2app.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>MarkText</title>
       <link>https://github.com/marktext/marktext</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:MarkText</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MarkText</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkText<br/>Description: macOS、Windows、Linuxで動作する次世代Markdownエディタ。<br/>Open Source: https://github.com/marktext/marktext<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkText
+Description: macOS、Windows、Linuxで動作する次世代Markdownエディタ。
+Open Source: https://github.com/marktext/marktext
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkText<br/>Description: macOS、Windows、Linuxで動作する次世代Markdownエディタ。<br/>Open Source: https://github.com/marktext/marktext<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Marp</title>
       <link>https://marp.app</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Marp</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marp</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marp<br/>Description: クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。<br/>Website: https://marp.app<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marp
+Description: クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。
+Website: https://marp.app
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marp<br/>Description: クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。<br/>Website: https://marp.app<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Marxico</title>
       <link>https://marxi.co/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Marxico</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Marxico</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marxico<br/>Description: Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。<br/>Website: https://marxi.co/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marxico
+Description: Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
+Website: https://marxi.co/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marxico<br/>Description: Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。<br/>Website: https://marxi.co/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>MWeb</title>
       <link>http://www.mweb.im/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:MWeb</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:MWeb</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MWeb<br/>Description: プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。<br/>Website: http://www.mweb.im/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MWeb
+Description: プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
+Website: http://www.mweb.im/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MWeb<br/>Description: プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。<br/>Website: http://www.mweb.im/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Obsidian</title>
       <link>https://obsidian.md</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Obsidian</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Obsidian</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Obsidian<br/>Description: あなたのための第二の脳、永遠に。<br/>Website: https://obsidian.md<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Obsidian
+Description: あなたのための第二の脳、永遠に。
+Website: https://obsidian.md
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Obsidian<br/>Description: あなたのための第二の脳、永遠に。<br/>Website: https://obsidian.md<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Pixley Reader</title>
       <link>https://github.com/Applacat/PixleyReader</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Pixley Reader</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Pixley Reader</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Pixley Reader<br/>Description: AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。<br/>Open Source: https://github.com/Applacat/PixleyReader<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Pixley Reader
+Description: AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。
+Open Source: https://github.com/Applacat/PixleyReader
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Pixley Reader<br/>Description: AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。<br/>Open Source: https://github.com/Applacat/PixleyReader<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Scratch</title>
       <link>https://www.ericli.io/scratch</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Scratch</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Scratch</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Scratch<br/>Description: WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。<br/>Website: https://www.ericli.io/scratch<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Scratch
+Description: WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。
+Website: https://www.ericli.io/scratch
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Scratch<br/>Description: WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。<br/>Website: https://www.ericli.io/scratch<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Typora</title>
       <link>http://www.typora.io/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Typora</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Typora</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typora<br/>Description: シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。<br/>Website: http://www.typora.io/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typora
+Description: シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。
+Website: http://www.typora.io/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typora<br/>Description: シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。<br/>Website: http://www.typora.io/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Ulysses</title>
       <link>https://www.ulyssesapp.com/features/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Ulysses</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Ulysses</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Ulysses<br/>Description: Mac、iPad、iPhone用の究極のライティングアプリ。<br/>Website: https://www.ulyssesapp.com/features/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Ulysses
+Description: Mac、iPad、iPhone用の究極のライティングアプリ。
+Website: https://www.ulyssesapp.com/features/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Ulysses<br/>Description: Mac、iPad、iPhone用の究極のライティングアプリ。<br/>Website: https://www.ulyssesapp.com/features/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Zettlr</title>
       <link>https://www.zettlr.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Zettlr</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Zettlr</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Zettlr<br/>Description: 21世紀のためのMarkdownエディタ。<br/>Website: https://www.zettlr.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Zettlr
+Description: 21世紀のためのMarkdownエディタ。
+Website: https://www.zettlr.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Zettlr<br/>Description: 21世紀のためのMarkdownエディタ。<br/>Website: https://www.zettlr.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Affine</title>
       <link>https://affine.pro/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Affine</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Affine</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート<br/>App: Affine<br/>Description: プロフェッショナル向けの次世代コラボレーションナレッジベース。<br/>Website: https://affine.pro/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / メモ・ノート
+App: Affine
+Description: プロフェッショナル向けの次世代コラボレーションナレッジベース。
+Website: https://affine.pro/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Affine<br/>Description: プロフェッショナル向けの次世代コラボレーションナレッジベース。<br/>Website: https://affine.pro/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
     <item>
       <title>Agenda</title>
       <link>https://agenda.com/</link>
-      <guid isPermaLink="false">f8b7fa2ad90c81fe6e888247b4f2299c56c6358b:Agenda</guid>
-      <pubDate>Mon, 30 Mar 2026 15:55:36 GMT</pubDate>
+      <guid isPermaLink="false">8a32bca6144317b8a01f758a5bc22517664d854b:Agenda</guid>
+      <pubDate>Mon, 30 Mar 2026 16:28:14 GMT</pubDate>
       <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート<br/>App: Agenda<br/>Description: プロジェクトの計画と記録のための日付重視のメモアプリ。<br/>Website: https://agenda.com/<br/>Commit: Refine RSS item descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8b7fa2ad90c81fe6e888247b4f2299c56c6358b</description>
+      <description>Category: 読み書きツール / メモ・ノート
+App: Agenda
+Description: プロジェクトの計画と記録のための日付重視のメモアプリ。
+Website: https://agenda.com/
+Commit: Improve RSS HTML compatibility
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Agenda<br/>Description: プロジェクトの計画と記録のための日付重視のメモアプリ。<br/>Website: https://agenda.com/<br/>Commit: Improve RSS HTML compatibility<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a32bca6144317b8a01f758a5bc22517664d854b]]></content:encoded>
     </item>
   </channel>
 </rss>
