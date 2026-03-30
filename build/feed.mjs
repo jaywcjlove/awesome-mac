@@ -267,10 +267,16 @@ function parseDiffAppLine(line, sign) {
   const match = line.match(new RegExp(`^${escaped}\\* \\[([^\\]]+)\\]\\(([^)]+)\\)\\s+-\\s+(.+)$`));
   if (!match) return null;
 
+  const primaryUrl = match[2].trim();
+  const metadata = parseEntryMetadata(primaryUrl, match[3]);
+
   return {
     name: match[1].trim(),
-    url: match[2].trim(),
-    description: cleanDescription(match[3]),
+    url: primaryUrl,
+    description: metadata.description,
+    websiteUrl: metadata.websiteUrl,
+    sourceUrl: metadata.sourceUrl,
+    appStoreUrl: metadata.appStoreUrl,
   };
 }
 
@@ -357,12 +363,23 @@ function parseFeedItemsFromXml(xml) {
       const guid = decodeXml(extractXmlTag(itemXml, 'guid'));
       const pubDate = decodeXml(extractXmlTag(itemXml, 'pubDate'));
       const category = decodeXml(extractXmlTag(itemXml, 'category'));
-      const description = decodeXml(extractXmlTag(itemXml, 'description'));
+      const description = decodeXml(extractXmlTag(itemXml, 'description')).replace(
+        /<br\s*\/?>/gi,
+        '\n',
+      );
 
       const commitHash = guid.split(':')[0] || '';
       const descriptionLines = description.split('\n');
+      const nameFromDescription =
+        descriptionLines.find((line) => line.startsWith('App: '))?.slice(5) || '';
       const itemDescription =
         descriptionLines.find((line) => line.startsWith('Description: '))?.slice(13) || '';
+      const websiteUrl =
+        descriptionLines.find((line) => line.startsWith('Website: '))?.slice(9) || '';
+      const sourceUrl =
+        descriptionLines.find((line) => line.startsWith('Open Source: '))?.slice(13) || '';
+      const appStoreUrl =
+        descriptionLines.find((line) => line.startsWith('App Store: '))?.slice(11) || '';
       const commitSubject =
         descriptionLines.find((line) => line.startsWith('Commit: '))?.slice(8) || '';
       const commitUrl =
@@ -371,10 +388,13 @@ function parseFeedItemsFromXml(xml) {
       if (!title || !link || !commitHash || !pubDate) return null;
 
       return {
-        name: title,
+        name: nameFromDescription || title,
         url: link,
         description: itemDescription,
         category,
+        websiteUrl,
+        sourceUrl,
+        appStoreUrl,
         commitHash,
         commitSubject,
         commitUrl,
@@ -424,14 +444,7 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
   const xmlItems = items
     .map((item) => {
       const guid = `${item.commitHash}:${item.name}`;
-      const summary = [
-        `Category: ${item.category}`,
-        `Description: ${item.description}`,
-        `Commit: ${item.commitSubject}`,
-        item.commitUrl ? `Commit URL: ${item.commitUrl}` : '',
-      ]
-        .filter(Boolean)
-        .join('\n');
+      const summary = buildItemDescription(item);
 
       return [
         '    <item>',
@@ -440,7 +453,7 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
         `      <guid isPermaLink="false">${escapeXml(guid)}</guid>`,
         `      <pubDate>${new Date(item.committedAt).toUTCString()}</pubDate>`,
         `      <category>${escapeXml(item.category)}</category>`,
-        `      <description>${escapeXml(summary)}</description>`,
+        `      <description>${summary}</description>`,
         '    </item>',
       ].join('\n');
     })
@@ -464,10 +477,76 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
   ].join('\n');
 }
 
+// Extract website/source/App Store links from one README entry based on badge markers.
+function parseEntryMetadata(primaryUrl, rawTail) {
+  const markdownLinks = [...rawTail.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)].map((match) => ({
+    text: match[1].trim(),
+    url: match[2].trim(),
+  }));
+
+  let websiteUrl = '';
+  let sourceUrl = '';
+  let appStoreUrl = '';
+
+  for (const link of markdownLinks) {
+    if (link.text.includes('![Open-Source Software][OSS Icon]')) {
+      sourceUrl = link.url;
+      continue;
+    }
+
+    if (link.text.includes('![App Store][app-store Icon]')) {
+      appStoreUrl = link.url;
+    }
+  }
+
+  if (!sourceUrl && isRepositoryUrl(primaryUrl)) {
+    sourceUrl = primaryUrl;
+  } else if (!isRepositoryUrl(primaryUrl) && !isAppStoreUrl(primaryUrl)) {
+    websiteUrl = primaryUrl;
+  }
+
+  if (!appStoreUrl && isAppStoreUrl(primaryUrl)) {
+    appStoreUrl = primaryUrl;
+  }
+
+  return {
+    description: cleanDescription(rawTail),
+    websiteUrl,
+    sourceUrl,
+    appStoreUrl,
+  };
+}
+
+// Render the human-readable field list stored inside each RSS item description.
+function buildItemDescription(item) {
+  return [
+    `Category: ${escapeXml(item.category)}`,
+    `App: ${escapeXml(item.name)}`,
+    `Description: ${escapeXml(item.description)}`,
+    item.websiteUrl ? `Website: ${escapeXml(item.websiteUrl)}` : '',
+    item.sourceUrl ? `Open Source: ${escapeXml(item.sourceUrl)}` : '',
+    item.appStoreUrl ? `App Store: ${escapeXml(item.appStoreUrl)}` : '',
+    `Commit: ${escapeXml(item.commitSubject)}`,
+    item.commitUrl ? `Commit URL: ${escapeXml(item.commitUrl)}` : '',
+  ]
+    .filter(Boolean)
+    .join('<br/>');
+}
+
 // Normalize the repository URL so commit links can be built consistently.
 function normalizeRepositoryUrl(url) {
   if (!url) return '';
   return url.replace(/^git\+/, '').replace(/\.git$/, '');
+}
+
+// Check whether a URL points at a repository host rather than the app's website.
+function isRepositoryUrl(url) {
+  return /^(https?:\/\/)?(www\.)?(github\.com|gitlab\.com|bitbucket\.org)\//i.test(url);
+}
+
+// Check whether a URL is an App Store landing page.
+function isAppStoreUrl(url) {
+  return /apps\.apple\.com\//i.test(url);
 }
 
 // Remove README-only badges and markdown noise from an app description.
