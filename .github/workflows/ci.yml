@@ -11,6 +11,8 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 50
       - uses: actions/setup-node@v6
         with:
           node-version: 24
