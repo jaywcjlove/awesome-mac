@@ -201,7 +201,7 @@ Awesome Mac
 * [Tot](https://tot.rocks/) - Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！ ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
 * [Vim](http://www.vim.org/) - 古くからあるターミナルベースのエディタ。一般的なプラグインについては[Vim Common Plugins](editor-plugin-ja.md#vim-plugin)をご覧ください。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X向けの洗練されたVim体験。 [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [Windsurf](https://windsurf.com/) - Cascadeを搭載したAIコードエディタ。自律的にコードを書いて編集するエージェント型AI体験を提供。AIオートコンプリート、メモリ、MCP対応。 ![Freeware][Freeware Icon]
+* [Windsurf](https://windsurf.com/) - エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。 ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - AtomとTree-sitterの生みの親が作った、ハイパフォーマンスなマルチプレイヤーコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### オフィス

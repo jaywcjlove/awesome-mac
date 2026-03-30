@@ -218,7 +218,7 @@ Awesome Mac
 * [VSCodium](https://vscodium.com/) - 社区驱动的 VS Code 自由开源发行版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - Vim 古老的终端中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Vim 客户端，升级 Vim 体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
-* [Windsurf](https://windsurf.com/) - 首个智能体IDE，开发者与AI无缝协作，带来如魔法般的编程体验。
+* [Windsurf](https://windsurf.com/) - 支持智能体编程、自动补全和 MCP 的 AI 代码编辑器。
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/xcode/id497799835?platform=mac)
 * [Nimbalyst](https://nimbalyst.com/) - 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
