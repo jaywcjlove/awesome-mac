@@ -52,6 +52,7 @@ Awesome Mac
 ![Open-Source Software][OSS Icon] は**オープンソース**を意味します。アイコンをクリックするとリポジトリを確認できます。\
 ![Freeware][Freeware Icon] は**無料**で使用可能、または**無料**の個人ライセンスを意味します。\
 ![App Store][app-store Icon] は**App Store**へのリンクを意味します。\
+![Native App][Native Icon] は**ネイティブアプリ**を意味します。\
 ![Awesome List][awesome-list Icon] はそのアイテムに関連する**Awesomeリスト**へのリンクを意味します。
 
 ✦ 私のmacOSアプリケーション:
@@ -581,7 +582,7 @@ Awesome Mac
 * [Studio 3T](https://studio3t.com/) - MongoDB用の究極のGUI。 ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - リアルタイムWeb向けのスケーラブルで分散型の協調的ドキュメント-グラフデータベース。 [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
 * [TablePlus](https://tableplus.io) - PostgreSQL、MySQL、RedShift、MariaDBなどをサポート。高度なセキュリティを確保。
-* [TablePro](https://github.com/datlechin/TablePro) - 主要なSQL/NoSQLエンジン接続とAI支援SQL編集に対応した高速データベースクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
+* [TablePro](https://github.com/datlechin/TablePro) - 主要なSQL/NoSQLエンジン接続とAI支援SQL編集に対応した高速データベースクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - 型安全なAPI、通知、組み込みJS/TSランタイム、認証と管理UIを備えた、オープンでサブミリ秒の単一実行ファイルFireBase代替。SQLite、Rust、V8で構築。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
 * [redis-pro](https://github.com/cmushroom/redis-pro) - SwiftUIで書かれた小さく使いやすいRedis管理ツール。ダークモード対応。 [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
 
@@ -1558,7 +1559,8 @@ Awesome Mac
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
-[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
+[Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "ネイティブアプリ"
+[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesomeリスト"
 
 
 <!--idoc:config:

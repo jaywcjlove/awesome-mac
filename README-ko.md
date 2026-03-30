@@ -49,6 +49,8 @@ Awesome Mac
 
 [English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [멋진 명령줄 앱 모음](./command-line-apps-ko.md) | [멋진 Swift macOS 앱 모음](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
+![Native App][Native Icon] 은 **네이티브 앱**을 의미합니다.
+
 ✦ 나의 macOS 애플리케이션:
 
 <p style="display: inline_block">
@@ -463,7 +465,7 @@ Awesome Mac
 * [Redis Insight](https://redis.io/insight/) - Redis 데이터를 탐색하고 디버깅하며 시각화할 수 있는 공식 도구. ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
-* [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
+* [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 터미널 앱
 
@@ -848,7 +850,8 @@ Awesome Mac
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "오픈 소스 소프트웨어"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "무료 소프트웨어"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "Apple 앱 스토어 소프트웨어"
-[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
+[Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "네이티브 앱"
+[awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome 목록"
 
 <!--idoc:config:
 title: Awesome Mac 앱 공유 추천 -
