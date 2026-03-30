@@ -210,7 +210,7 @@ Awesome Mac
 * [LibreOffice](https://www.libreoffice.org) - 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - 紛れもなくOffice、Mac用に設計。 [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?platform=mac) - 印象的なスプレッドシートを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?platform=mac)
-* [OnlyOffice](https://www.onlyoffice.com/) - テキスト、スプレッドシート、プレゼンテーションエディタを統合したオフィススイート。ローカルドキュメントの作成、表示、編集が可能。 [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
+* [OnlyOffice](https://www.onlyoffice.com/) - 文書、スプレッドシート、プレゼンテーション編集を備えたオフィススイート。 [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
 * [Pages](https://apps.apple.com/app/pages/id409201541?platform=mac) - 際立つ文書を作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pages/id409201541?platform=mac)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - Microsoft Officeドキュメントとの完全な互換性を目指した総合オフィススイート。
 * [WPS](https://www.wps.com/mac) - クロスプラットフォームのオフィスソフトウェアスイート。 ![Freeware][Freeware Icon]
@@ -227,7 +227,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
 * [Obsidian](https://obsidian.md) - あなたのための第二の脳、永遠に。
-* [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を閲覧するための専用リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
+* [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Scratch](https://www.ericli.io/scratch) - WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac、iPad、iPhone用の究極のライティングアプリ。

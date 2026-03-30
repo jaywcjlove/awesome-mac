@@ -184,7 +184,7 @@ Awesome Mac
 * [LibreOffice](https://www.libreoffice.org) - 대규모 커뮤니티에서 매일 사용하고 테스트하는 무료 오픈 소스 오피스 소프트웨어. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Mac용으로 설계된 확실한 Office. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?platform=mac) - 인상적인 스프레드시트 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?platform=mac)
-* [OnlyOffice](https://www.onlyoffice.com/) - 텍스트, 스프레드시트 및 프레젠테이션 편집기를 결합한 오피스 스위트. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
+* [OnlyOffice](https://www.onlyoffice.com/) - 문서, 스프레드시트, 프레젠테이션 편집기를 갖춘 오피스 스위트. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
 * [Pages](https://apps.apple.com/app/pages/id409201541?platform=mac) - 돋보이는 문서 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pages/id409201541?platform=mac)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - Microsoft Office 문서와 완전한 호환성을 목표로 하는 오피스 스위트.
 * [WPS](https://www.wps.com/mac) - 교차 플랫폼 오피스 소프트웨어 스위트. ![Freeware][Freeware Icon]
@@ -201,7 +201,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
-* [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 한곳에서 읽는 전용 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
+* [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.
 * [Zettlr](https://www.zettlr.com/) - 21세기를 위한 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]

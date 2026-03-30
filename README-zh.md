@@ -727,6 +727,7 @@ Awesome Mac
 * [LibreOffice](https://www.libreoffice.org) - 免费开源的办公软件，广泛被用户社区日常使用和测试。[![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/zh-cn/mac) - 微软Office办公套件 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac)
 * [Numbers 表格](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac) - 创建令人印象深刻的电子表格。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac)
+* [OnlyOffice](https://www.onlyoffice.com/) - 集成文档、表格和演示编辑器的办公套件。 [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
 * [Pages 文稿](https://apps.apple.com/cn/app/pages/id409201541?platform=mac) - 引人注目的文稿。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pages/id409201541?platform=mac)
 * [WPS](https://www.wps.cn/product/wpsmac/) - 是一套跨平台的办公室软件套件。 ![Freeware][Freeware Icon]
 
@@ -759,7 +760,7 @@ Awesome Mac
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
-* [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于集中浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
+* [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
