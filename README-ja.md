@@ -183,7 +183,7 @@ Awesome Mac
 * [Brackets](http://brackets.io) - Webデザインを理解する、モダンなオープンソーステキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/brackets-cont/brackets/) ![Freeware][Freeware Icon]
 * [CodeEdit](https://www.codeedit.app/) - 軽量でネイティブ構築のエディタ。オープンソース。永久無料。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - macOS用の軽量プレーンテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
-* [Cursor](https://cursor.com/) - 驚異的な生産性を実現するAI搭載コードエディタ。AIオートコンプリート、チャット、自律型コーディングエージェントなどの機能を搭載。 ![Freeware][Freeware Icon]
+* [Cursor](https://cursor.com/) - オートコンプリート、チャット、エージェント機能を備えたAIコードエディタ。 ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - プログラマーやシステム管理者に人気のUnixベーステキストエディタ。 [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - コード理解を向上させるキャンバスUIを備えたコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/haystackeditor/haystack-editor) ![Freeware][Freeware Icon]
 * [Helix](https://helix-editor.com/) - ポストモダンなモーダルテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/helix-editor/helix/) ![Freeware][Freeware Icon]

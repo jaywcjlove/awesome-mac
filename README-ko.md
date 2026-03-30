@@ -320,7 +320,7 @@ Awesome Mac
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 인기 있고 강력한 HTML 및 텍스트 편집기.
 * [Brackets](http://brackets.io/) - 웹 디자인을 고집하는 오픈 소스 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 * [Coda 2](https://panic.com/coda/) - 빠르고 투명하며 강력한 텍스트 편집기.
-* [Cursor](https://www.cursor.com/) - AI 기반 코드 편집기. ![Freeware][Freeware Icon]
+* [Cursor](https://www.cursor.com/) - 자동 완성, 채팅, 에이전트 기능을 갖춘 AI 코드 편집기. ![Freeware][Freeware Icon]
 * [Eclipse](http://www.eclipse.org/) - 인기 있는 오픈 소스 IDE, 주로 Java로 작성됨. [![Open-Source Software][OSS Icon]](http://git.eclipse.org/c/) ![Freeware][Freeware Icon]
 * [Emacs](http://www.gnu.org/software/emacs/) - 확장 가능하고 사용자 정의 가능한 텍스트 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - 웹 개발용 IDE.
