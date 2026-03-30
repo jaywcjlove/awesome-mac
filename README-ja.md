@@ -195,7 +195,7 @@ Awesome Mac
 * [Neovim](https://github.com/neovim/neovim) - 拡張性と使いやすさに重点を置いたVimフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - シンプルで集中できるメモ帳。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
-* [Sublime Text](http://www.sublimetext.com/3) - プラグイン管理システムを備えた人気のクリーンでスタイリッシュなエディタ。プラグインの詳細は[Sublime Text Plugins](editor-plugin-ja.md#sublime-text-plugin)をご覧ください。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
+* [Sublime Text](http://www.sublimetext.com/3) - 高速なインターフェースと豊富なプラグインを備えたテキストエディタ。プラグインの詳細は[Sublime Text Plugins](editor-plugin-ja.md#sublime-text-plugin)をご覧ください。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [SubEthaEdit](https://subethaedit.net/) - いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！ [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！ ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)

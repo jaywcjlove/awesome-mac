@@ -191,7 +191,7 @@ Awesome Mac
 * [Eclipse](https://www.eclipse.org) - 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - 结合简洁的代码编辑和画布 UI，提升代码理解。支持编辑、导航、调试和扩展。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Itsypad](https://itsypad.app) - 小巧快速的 macOS 草稿本和剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsypad-macos) ![Freeware][Freeware Icon]
-* [Sublime Text](http://www.sublimetext.com/3) - 简洁大方的流行编辑器，带插件管理系统。更多插件参考 [Sublime 常用插件](editor-plugin-zh.md#sublime-text-plugin)。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
+* [Sublime Text](http://www.sublimetext.com/3) - 拥有快速界面和丰富插件生态的文本编辑器。更多插件参考 [Sublime 常用插件](editor-plugin-zh.md#sublime-text-plugin)。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [SubEthaEdit](https://subethaedit.net/) - 强大编辑器，支持写作、编程、协作，随时随地高效创作！ [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [Haskell for Mac](http://haskellformac.com) - Haskell 的现代开发环境。 [![App Store][app-store Icon]](https://apps.apple.com/app/haskell-development-platform/id841285201?platform=mac)
 * [HBuilder](http://www.dcloud.io/) - HBuilder 是 DCloud（数字天堂）推出的一款支持 HTML5 的 Web 开发 IDE。![Freeware][Freeware Icon]
