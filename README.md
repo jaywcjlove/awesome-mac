@@ -1077,6 +1077,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ClashBar](https://clashbar.vercel.app/) - mihomo-powered menu bar proxy client. [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClashX Guide](https://clashx.tech) - Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
+* [DashVPN](https://getdashvpn.com/) - Simple and free menu bar proxy app for macOS/iOS with smart routing, supporting VLESS, Shadowsocks and HTTPS subscription. ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
