@@ -335,6 +335,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
+* [TeX64](https://tex64.com) – Native macOS LaTeX editor with AI-powered error fixing, equation OCR, live PDF preview, and structured math editing.
 * [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
 * [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 * [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free. [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913?platform=mac) ![Freeware][Freeware Icon]
