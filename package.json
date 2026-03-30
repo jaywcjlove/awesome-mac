@@ -34,7 +34,8 @@
     "start": "npm run build && npm run create:ast",
     "doc": "idoc --watch",
     "build": "idoc",
-    "create:ast": "node build/ast.mjs"
+    "create:ast": "node build/ast.mjs",
+    "feed": "node build/feed.mjs"
   },
   "repository": {
     "type": "git",

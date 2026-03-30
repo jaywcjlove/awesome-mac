@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome Mac - 最近新增应用</title>
+    <link>https://jaywcjlove.github.io/awesome-mac</link>
+    <description>根据中文列表整理的最近新增 macOS 应用。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 30 Mar 2026 13:15:09 GMT</lastBuildDate>
+    <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
+    <generator>build/feed.mjs</generator>
+    <item>
+      <title>Atomic Chat</title>
+      <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
+      <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
+      <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。
+Commit: Add Atomic Chat
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
+    </item>
+    <item>
+      <title>Dimly</title>
+      <link>https://feuerbacher.me/projects/dimly</link>
+      <guid isPermaLink="false">d53a3a575237426467147d25d929bdcc5eeb1f9a:Dimly</guid>
+      <pubDate>Mon, 30 Mar 2026 08:08:46 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+Description: 从一个菜单栏应用统一控制多显示器环境下的亮度。
+Commit: Add Dimly to the ja/ko/zh list. (#1938)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a575237426467147d25d929bdcc5eeb1f9a</description>
+    </item>
+    <item>
+      <title>OnlyOffice</title>
+      <link>https://www.onlyoffice.com/</link>
+      <guid isPermaLink="false">ff47fff66161f57a8b0b19170e92bce30c8aba8f:OnlyOffice</guid>
+      <pubDate>Mon, 30 Mar 2026 07:50:33 GMT</pubDate>
+      <category>阅读与写作工具 / Office</category>
+      <description>Category: 阅读与写作工具 / Office
+Description: 集成文档、表格和演示编辑器的办公套件。
+Commit: docs: simplify OnlyOffice and Pixley Reader descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ff47fff66161f57a8b0b19170e92bce30c8aba8f</description>
+    </item>
+    <item>
+      <title>ClawdHome</title>
+      <link>https://clawdhome.app/</link>
+      <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
+      <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。
+Commit: Add ClawdHome
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
+    </item>
+    <item>
+      <title>ClashBar</title>
+      <link>https://clashbar.vercel.app/</link>
+      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
+      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+Description: 由 mihomo 驱动的菜单栏代理客户端。
+Commit: docs: add ClashBar to localized readmes
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
+    </item>
+    <item>
+      <title>Repose</title>
+      <link>https://github.com/fikrikarim/repose</link>
+      <guid isPermaLink="false">c53c14bea478c0c1512b71274582eaea627a7c93:Repose</guid>
+      <pubDate>Mon, 30 Mar 2026 02:17:35 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+Description: 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。
+Commit: Add Repose to the ja/ko/zh list. (#1935)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93</description>
+    </item>
+    <item>
+      <title>Flock</title>
+      <link>https://github.com/Divagation/flock</link>
+      <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
+      <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+Description: 一款可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。
+Commit: Add Flock to the ja/ko/zh list. #1936
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
+    </item>
+    <item>
+      <title>markdown-quicklook</title>
+      <link>https://github.com/ruspg/markdown-quicklook</link>
+      <guid isPermaLink="false">6f0cbac0aae80f402ed3d21d73a646b9a62a147b:markdown-quicklook</guid>
+      <pubDate>Sun, 29 Mar 2026 12:11:49 GMT</pubDate>
+      <category>QuickLook插件</category>
+      <description>Category: QuickLook插件
+Description: 渲染 Markdown 预览，支持语法高亮、YAML front matter、可配置字体/颜色，以及菜单栏切换开关。一键安装。
+Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b</description>
+    </item>
+    <item>
+      <title>TouchBridge</title>
+      <link>https://github.com/HMAKT99/UnTouchID</link>
+      <guid isPermaLink="false">dfbe3aa4b330a229e80509250ef88b70e9b5612e:TouchBridge</guid>
+      <pubDate>Fri, 27 Mar 2026 21:15:53 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+Description: 使用手机指纹完成身份验证的开源工具。
+Commit: Add TouchBridge to the ja/ko/zh lish. #1930
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e</description>
+    </item>
+    <item>
+      <title>VSCodium</title>
+      <link>https://vscodium.com/</link>
+      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
+      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+Description: 社区驱动的 VS Code 自由开源发行版。
+Commit: Add VSCodium to the ja/ko/zh list. #1926
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
+    </item>
+    <item>
+      <title>OpenDictation</title>
+      <link>https://github.com/kdcokenny/OpenDictation</link>
+      <guid isPermaLink="false">fc74bd6c3f22b939b3f70b345b40001648a61e64:OpenDictation</guid>
+      <pubDate>Fri, 27 Mar 2026 04:36:32 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+Description: 支持本地与云端语音转文字的开源听写工具。
+Commit: Add OpenDictation to the ja/ko/zh list (#1927).
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64</description>
+    </item>
+    <item>
+      <title>Nudge</title>
+      <link>https://nudge.run</link>
+      <guid isPermaLink="false">5954cd8e0fc69805edc52d757b247f49e2da3229:Nudge</guid>
+      <pubDate>Fri, 27 Mar 2026 03:55:58 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+Description: 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)
+Commit: Add Nudge to the ja/zh/ko list. #1928
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229</description>
+    </item>
+    <item>
+      <title>macshot</title>
+      <link>https://github.com/sw33tlie/macshot</link>
+      <guid isPermaLink="false">7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3:macshot</guid>
+      <pubDate>Wed, 25 Mar 2026 01:45:55 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+Description: 原生 macOS 截图和标注工具，灵感来自 Flameshot，支持屏幕录制、滚动截图和 OCR。
+Commit: Add macshot to Screenshot Tools (#1916)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3</description>
+    </item>
+    <item>
+      <title>App Uninstaller</title>
+      <link>https://github.com/kamjin3086/AppUninstaller</link>
+      <guid isPermaLink="false">ffcaf60b826240c20afa9d945b4bf748cae483d8:App Uninstaller</guid>
+      <pubDate>Mon, 23 Mar 2026 14:02:42 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+Description: 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller)
+Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
+    </item>
+    <item>
+      <title>Claude Usage Monitor</title>
+      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
+      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
+      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+Description: 在菜单栏通过实时计数器跟踪 Claude 用量的工具。
+Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
+    </item>
+    <item>
+      <title>Zipic</title>
+      <link>https://zipic.app/</link>
+      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+Description: 批量图片压缩工具，支持自定义预设、自动化工作流，集成快捷指令和 Raycast。
+Commit: Add Zipic to Design and Product - Other Tools (#1910)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
+    </item>
+    <item>
+      <title>Orchard</title>
+      <link>https://orchard.5km.tech/</link>
+      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
+      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。
+Commit: Add Orchard to AI Client (#1911)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
+    </item>
+    <item>
+      <title>Azex Speech</title>
+      <link>https://github.com/azex-ai/speech</link>
+      <guid isPermaLink="false">9f528db2256e29d17fdbc0fb740200746cb3bfeb:Azex Speech</guid>
+      <pubDate>Sun, 22 Mar 2026 04:15:25 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+Description: 一款面向 AI 与加密场景、中英混说更友好的语音输入工具。
+Commit: Add Azex Speech to the ja/ko/zh list. #1909
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb</description>
+    </item>
+    <item>
+      <title>NoxKey</title>
+      <link>https://github.com/No-Box-Dev/Noxkey</link>
+      <guid isPermaLink="false">f5cd3bcad0af7198b4dad407a0c096e559a4f042:NoxKey</guid>
+      <pubDate>Sun, 22 Mar 2026 04:10:59 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+Description: 一款通过钥匙串和 Touch ID 管理 API 密钥与令牌的工具。
+Commit: Add NoxKey to the ja/ko/zh list. #1907
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042</description>
+    </item>
+    <item>
+      <title>ProBoard</title>
+      <link>https://apps.apple.com/app/id6748314346?platform=mac</link>
+      <guid isPermaLink="false">ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0:ProBoard</guid>
+      <pubDate>Sat, 21 Mar 2026 10:00:10 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+Description: 通过一个面板来帮助你高效管理所有项目信息。[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
+Commit: Add ProBoard to productivity tools list (#1906)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0</description>
+    </item>
+    <item>
+      <title>Lockpaw</title>
+      <link>https://getlockpaw.com</link>
+      <guid isPermaLink="false">3262420ea5ed4afd16d9c81bb1524c82ca4965f7:Lockpaw</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:07 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.
+Commit: Add Lockpaw to Security Tools (#1901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7</description>
+    </item>
+    <item>
+      <title>Redis Insight</title>
+      <link>https://redis.io/insight/</link>
+      <guid isPermaLink="false">f15cdc15655effd7aadc5db234b9597abe6baa7a:Redis Insight</guid>
+      <pubDate>Sat, 21 Mar 2026 01:35:38 GMT</pubDate>
+      <category>开发者工具 / 数据库</category>
+      <description>Category: 开发者工具 / 数据库
+Description: Redis 官方推出的数据浏览、调试与可视化工具。
+Commit: Add Redis Insight fix #1899
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a</description>
+    </item>
+    <item>
+      <title>DMG Maker</title>
+      <link>https://github.com/saihgupr/DMGMaker</link>
+      <guid isPermaLink="false">9a0dfca40df6df056ea648db3a05a2cdafd52510:DMG Maker</guid>
+      <pubDate>Fri, 20 Mar 2026 00:45:38 GMT</pubDate>
+      <category>软件打包工具</category>
+      <description>Category: 软件打包工具
+Description: 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。
+Commit: Add DMG Maker
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
+    </item>
+    <item>
+      <title>Fazm</title>
+      <link>https://fazm.ai</link>
+      <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
+      <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
+      <category>AI 客户端</category>
+      <description>Category: AI 客户端
+Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。
+Commit: Add Fazm to the ja/ko/zh list. #1894
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
+    </item>
+    <item>
+      <title>Nimbalyst</title>
+      <link>https://nimbalyst.com/</link>
+      <guid isPermaLink="false">3e4582d3cfc79156f438420b91899d6810f54b31:Nimbalyst</guid>
+      <pubDate>Wed, 18 Mar 2026 01:40:27 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+Description: 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
+Commit: Add Nimbalyst to the ja/ko/zh list. #1893
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31</description>
+    </item>
+    <item>
+      <title>ScreenSage Pro</title>
+      <link>https://screensage.pro/</link>
+      <guid isPermaLink="false">4647770f5192c2fb0f5b782d49ebc49f137707b2:ScreenSage Pro</guid>
+      <pubDate>Tue, 17 Mar 2026 15:31:23 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+Description: 一款可在几分钟内制作精美录屏视频的工具。
+Commit: Add ScreenSage Pro
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2</description>
+    </item>
+    <item>
+      <title>FnKey</title>
+      <link>https://github.com/evoleinik/fnkey</link>
+      <guid isPermaLink="false">879641418098ced416f0d630f18b9f49382371e9:FnKey</guid>
+      <pubDate>Sun, 15 Mar 2026 09:11:08 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+Description: 按住 Fn 说话并松开即可实时将语音转成文本粘贴出来。
+Commit: Add FnKey to the zh/ja/ko list. #1886
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9</description>
+    </item>
+    <item>
+      <title>Awal Terminal</title>
+      <link>https://github.com/AwalTerminal/Awal-terminal</link>
+      <guid isPermaLink="false">f7669260f8c62cc280c2b17f52e4809be9e545c8:Awal Terminal</guid>
+      <pubDate>Sun, 15 Mar 2026 01:49:27 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+Description: 支持 AI 组件、多提供商配置、语音输入与 Metal 渲染的 LLM 原生终端模拟器。
+Commit: Add Awal Terminal to the ja/ko/zh #1884
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8</description>
+    </item>
+    <item>
+      <title>Rustcast</title>
+      <link>https://rustcast.app</link>
+      <guid isPermaLink="false">1d091dcc93abdea49740871d0ad87a3d9e37f836:Rustcast</guid>
+      <pubDate>Fri, 13 Mar 2026 07:38:59 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+Description: 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。
+Commit: Add Rustcast to the ja/ko/zh #1882
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836</description>
+    </item>
+    <item>
+      <title>Mottie</title>
+      <link>https://recouse.me/apps/mottie/</link>
+      <guid isPermaLink="false">8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6:Mottie</guid>
+      <pubDate>Fri, 13 Mar 2026 02:11:45 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+Description: 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。
+Commit: Add Mottie (#1880)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6</description>
+    </item>
+    <item>
+      <title>TokenMeter</title>
+      <link>https://priyans-hu.github.io/tokenmeter/</link>
+      <guid isPermaLink="false">a05da091d34ec02acb62b384c3a8fc64855e438f:TokenMeter</guid>
+      <pubDate>Fri, 13 Mar 2026 01:27:46 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+Description: 在菜单栏跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。
+Commit: Add TokenMeter to the ja/ko/zh #1881
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f</description>
+    </item>
+    <item>
+      <title>Itsyconnect</title>
+      <link>https://github.com/nickustinov/itsyconnect-macos</link>
+      <guid isPermaLink="false">f3f68fbc1d3019f9bf2142480217a07bef5940e6:Itsyconnect</guid>
+      <pubDate>Thu, 12 Mar 2026 13:49:28 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+Description: 一站式 App Store Connect 管理工具，支持元数据编辑、TestFlight、评论、数据分析与 AI 本地化。
+Commit: Add Itsyconnect
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6</description>
+    </item>
+    <item>
+      <title>Usage4Claude</title>
+      <link>https://github.com/f-is-h/Usage4Claude</link>
+      <guid isPermaLink="false">ba64c2aaa974eeb7d2460c45be19e1876c3069b1:Usage4Claude</guid>
+      <pubDate>Thu, 12 Mar 2026 13:43:42 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+Description: 在菜单栏实时监控 Claude 各类用量配额的工具。
+Commit: Add Usage4Claude
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
+    </item>
+    <item>
+      <title>ClashX 使用指南</title>
+      <link>https://clashx.tech</link>
+      <guid isPermaLink="false">f8ac156d1fbd319704c65c8f284300a3ba38e867:ClashX 使用指南</guid>
+      <pubDate>Thu, 12 Mar 2026 12:33:36 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+Description: ClashX 完整中文教程，包含配置指南、故障排除和性能优化。![Freeware][Freeware Icon]
+Commit: Add ClashX Guide to Chinese README (#1876)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8ac156d1fbd319704c65c8f284300a3ba38e867</description>
+    </item>
+    <item>
+      <title>Petrichor</title>
+      <link>https://github.com/kushalpandya/Petrichor</link>
+      <guid isPermaLink="false">631a1115e8a8288944cab4fb9449c915ffd834cc:Petrichor</guid>
+      <pubDate>Thu, 12 Mar 2026 02:44:52 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+Description: 离线音乐播放器，支持多种音频格式、歌词、播放列表与播放队列管理。
+Commit: Add Petrichor
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944cab4fb9449c915ffd834cc</description>
+    </item>
+  </channel>
+</rss>
