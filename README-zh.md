@@ -1002,6 +1002,7 @@ Awesome Mac
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度和输入
+* [Dimly](https://feuerbacher.me/projects/dimly) - 从一个菜单栏应用统一控制多显示器环境下的亮度。 [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - 一款适用于 Apple 设备（macOS 与 iOS）的 DNS 切换与性能基准测试工具。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dns-optimizer/id6741016224?platform=mac)
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - 一款拖放文件辅助工具，可以将文件放在一个悬浮窗以方便移动到其他位置。![Freeware][Freeware Icon]

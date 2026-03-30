@@ -1144,7 +1144,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Droppy](https://iordv.github.io/Droppy/) - Turns your screen's notch (or Dynamic Island) into a multifunctional tool. [![Open-Source Software][OSS Icon]](https://github.com/iordv/Droppy) ![Freeware][Freeware Icon]
 * [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107?platform=mac)
-* [Dimly](https://github.com/punshnut/macos-dimly) - Control brightness across mixed monitor setups from a single menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon]
 * [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
 * [Eye Timer](https://adelmaer.com/eyetimer) - Take Breaks to prevent Eye Strain timer for Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/eye-timer/id1485856873?platform=mac)
@@ -1421,6 +1420,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Actions](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Actions) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
 * [AI Actions](https://sindresorhus.com/ai-actions) - AI actions for the Shortcuts app. ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
+* [Dimly](https://feuerbacher.me/projects/dimly) - Control brightness across mixed monitor setups from one menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [Hyperduck](https://sindresorhus.com/hyperduck) - Receive links from your iOS & visionOS devices. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
