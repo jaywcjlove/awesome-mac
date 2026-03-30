@@ -1071,6 +1071,7 @@ Awesome Mac
 * [ClashBar](https://clashbar.vercel.app/) - mihomo搭載のメニューバープロキシクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClashX Guide](https://clashx.tech) - macOS上のClashXプロキシに関する包括的なチュートリアル、ツール、トラブルシューティングガイド。YAMLバリデーター、ルールジェネレーター、最適化のヒントを備える。 ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - デバイスとインターネット間の接続を、モダンで最適化されたプロトコルに置き換える。 ![Freeware][Freeware Icon]
+* [DashVPN](https://getdashvpn.com/) - VLESS、Shadowsocks、HTTPSサブスクリプションに対応したスマートルーティング対応プロキシクライアント。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dash-vpn-for-outline-vless/id6758860923?platform=mac)
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSHなどをサポートするマルチプラットフォーム自動プロキシクライアント。[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Jumper VPN](https://jumpervpn.com/) - Macおよびその他のプラットフォーム用のVPNクライアント。セキュアで高速なVPNプロキシ。
 * [Lantern](https://getlantern.org) - オープンなインターネットへの高速で信頼性の高いセキュアなアクセスを提供する無料アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)

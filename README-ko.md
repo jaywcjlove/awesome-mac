@@ -728,6 +728,7 @@ Awesome Mac
 
 * [Clash](https://github.com/Dreamacro/clash) - 규칙 기반 터널. [![Open-Source Software][OSS Icon]](https://github.com/Dreamacro/clash) ![Freeware][Freeware Icon]
 * [ClashBar](https://clashbar.vercel.app/) - mihomo 기반 메뉴 막대 프록시 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [DashVPN](https://getdashvpn.com/) - 스마트 라우팅을 지원하는 프록시 클라이언트로 VLESS, Shadowsocks, HTTPS 구독을 지원합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dash-vpn-for-outline-vless/id6758860923?platform=mac)
 * [Tailscale](https://tailscale.com/) - 제로 컨피그 VPN. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 특정 도메인과 서비스를 VPN 우회 경로로 보낼 수 있는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 
