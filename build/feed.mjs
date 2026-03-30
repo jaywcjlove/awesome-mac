@@ -363,10 +363,11 @@ function parseFeedItemsFromXml(xml) {
       const guid = decodeXml(extractXmlTag(itemXml, 'guid'));
       const pubDate = decodeXml(extractXmlTag(itemXml, 'pubDate'));
       const category = decodeXml(extractXmlTag(itemXml, 'category'));
-      const description = decodeXml(extractXmlTag(itemXml, 'description')).replace(
-        /<br\s*\/?>/gi,
-        '\n',
-      );
+      const contentEncoded = unwrapCdata(extractXmlTag(itemXml, 'content:encoded'));
+      const description = (
+        contentEncoded ||
+        decodeXml(extractXmlTag(itemXml, 'description'))
+      ).replace(/<br\s*\/?>/gi, '\n');
 
       const commitHash = guid.split(':')[0] || '';
       const descriptionLines = description.split('\n');
@@ -444,7 +445,8 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
   const xmlItems = items
     .map((item) => {
       const guid = `${item.commitHash}:${item.name}`;
-      const summary = buildItemDescription(item);
+      const summaryHtml = buildItemDescription(item);
+      const summaryText = buildItemPlainDescription(item);
 
       return [
         '    <item>',
@@ -453,7 +455,8 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
         `      <guid isPermaLink="false">${escapeXml(guid)}</guid>`,
         `      <pubDate>${new Date(item.committedAt).toUTCString()}</pubDate>`,
         `      <category>${escapeXml(item.category)}</category>`,
-        `      <description>${summary}</description>`,
+        `      <description>${escapeXml(summaryText)}</description>`,
+        `      <content:encoded><![CDATA[${summaryHtml}]]></content:encoded>`,
         '    </item>',
       ].join('\n');
     })
@@ -461,7 +464,7 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
 
   return [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">',
     '  <channel>',
     `    <title>${escapeXml(title)}</title>`,
     `    <link>${escapeXml(channelLink)}</link>`,
@@ -533,6 +536,22 @@ function buildItemDescription(item) {
     .join('<br/>');
 }
 
+// Render a plain-text fallback for RSS readers that ignore HTML in description.
+function buildItemPlainDescription(item) {
+  return [
+    `Category: ${item.category}`,
+    `App: ${item.name}`,
+    `Description: ${item.description}`,
+    item.websiteUrl ? `Website: ${item.websiteUrl}` : '',
+    item.sourceUrl ? `Open Source: ${item.sourceUrl}` : '',
+    item.appStoreUrl ? `App Store: ${item.appStoreUrl}` : '',
+    `Commit: ${item.commitSubject}`,
+    item.commitUrl ? `Commit URL: ${item.commitUrl}` : '',
+  ]
+    .filter(Boolean)
+    .join('\n');
+}
+
 // Normalize the repository URL so commit links can be built consistently.
 function normalizeRepositoryUrl(url) {
   if (!url) return '';
@@ -583,4 +602,11 @@ function decodeXml(value) {
     .replace(/&gt;/g, '>')
     .replace(/&lt;/g, '<')
     .replace(/&amp;/g, '&');
+}
+
+// Remove a CDATA wrapper when reading XML fields that intentionally contain HTML.
+function unwrapCdata(value) {
+  return String(value)
+    .replace(/^<!\[CDATA\[/, '')
+    .replace(/\]\]>$/, '');
 }
