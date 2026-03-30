@@ -727,6 +727,7 @@ Awesome Mac
 ## 프록시 및 VPN 도구
 
 * [Clash](https://github.com/Dreamacro/clash) - 규칙 기반 터널. [![Open-Source Software][OSS Icon]](https://github.com/Dreamacro/clash) ![Freeware][Freeware Icon]
+* [ClashBar](https://clashbar.vercel.app/) - mihomo 기반 메뉴 막대 프록시 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tailscale](https://tailscale.com/) - 제로 컨피그 VPN. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 특정 도메인과 서비스를 VPN 우회 경로로 보낼 수 있는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 

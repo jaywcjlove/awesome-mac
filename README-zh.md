@@ -967,6 +967,7 @@ Awesome Mac
 
 * [1.1.1.1](https://1.1.1.1/) - 让你的互联网更安全的免费应用。![Freeware][Freeware Icon]
 * [Algo](https://github.com/trailofbits/algo) - 在云中设置个人 IPSEC VPN。[![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
+* [ClashBar](https://clashbar.vercel.app/) - 由 mihomo 驱动的菜单栏代理客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clash Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - 基于 Tauri 的 Clash GUI 自由软件。[![Open-Source Software][OSS Icon]](https://github.com/LibNyanpasu/clash-nyanpasu)![Freeware][Freeware Icon]
 * [Clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续，基于 Tauri 的 Clash Meta GUI。[![Open-Source Software][OSS Icon]](https://github.com/clash-verge-rev/clash-verge-rev)![Freeware][Freeware Icon]
 * [ClashX 使用指南](https://clashx.tech) - ClashX 完整中文教程，包含配置指南、故障排除和性能优化。![Freeware][Freeware Icon]

@@ -1074,6 +1074,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Proxy and VPN Tools
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
+* [ClashBar](https://clashbar.vercel.app/) - mihomo-powered menu bar proxy client. [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClashX Guide](https://clashx.tech) - Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
