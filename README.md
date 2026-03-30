@@ -50,7 +50,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 **Explanation**
 
-[中文](README-zh.md) | [한국어](README-ko.md) | [日本語](README-ja.md) | [Awesome Command Line Apps](./command-line-apps.md) | [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+[中文](README-zh.md) | [한국어](README-ko.md) | [日本語](README-ja.md) | [RSS](./feed/feed.md) | [Awesome Command Line Apps](./command-line-apps.md) | [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\

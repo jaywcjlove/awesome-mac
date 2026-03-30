@@ -47,7 +47,7 @@ Awesome Mac
 
 **설명**
 
-[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [멋진 명령줄 앱 모음](./command-line-apps-ko.md) | [멋진 Swift macOS 앱 모음](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [RSS](./feed/feed-ko.md) | [멋진 명령줄 앱 모음](./command-line-apps-ko.md) | [멋진 Swift macOS 앱 모음](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 ![Open-Source Software][OSS Icon] 은 **오픈 소스**를 의미합니다. 아이콘을 클릭하면 해당 항목의 저장소를 볼 수 있습니다.\
 ![Freeware][Freeware Icon] 은 **무료**로 사용 가능하거나 **무료** 개인 라이선스를 의미합니다.\
