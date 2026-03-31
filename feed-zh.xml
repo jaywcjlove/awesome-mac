@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:20:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>StreamWindow</title>
+      <link>https://macdev.cn/</link>
+      <guid isPermaLink="false">5092da64a840d713f0567fbe231f5f8c41ee62fa:StreamWindow</guid>
+      <pubDate>Tue, 31 Mar 2026 00:20:34 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: StreamWindow
+Description: 带 3D 动画和直观视图的窗口管理工具。
+Website: https://macdev.cn/
+Commit: Add StreamWindow to the ja/ko/zh list. #1944
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: StreamWindow<br/>Description: 带 3D 动画和直观视图的窗口管理工具。<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow to the ja/ko/zh list. #1944<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Chat</title>
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>

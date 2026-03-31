@@ -16,11 +16,11 @@
       <category>Utilities / Window Management</category>
       <description>Category: Utilities / Window Management
 App: StreamWindow
-Description: StreamWindow is another beautiful and streaming window manager tool in macOS, it features intuitional view, cool 3D animation and expects to bring more streaming experiences.
+Description: 3D window manager with intuitive views and fluid transitions.
 Website: https://macdev.cn/
 Commit: Add StreamWindow - 3D window management tool for macOS (#1944)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc5905b5e742d13e59a3ee5</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: StreamWindow<br/>Description: StreamWindow is another beautiful and streaming window manager tool in macOS, it features intuitional view, cool 3D animation and expects to bring more streaming experiences.<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow - 3D window management tool for macOS (#1944)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc5905b5e742d13e59a3ee5]]></content:encoded>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: StreamWindow<br/>Description: 3D window manager with intuitive views and fluid transitions.<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow - 3D window management tool for macOS (#1944)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc5905b5e742d13e59a3ee5]]></content:encoded>
     </item>
     <item>
       <title>Atomic Chat</title>
@@ -38,17 +38,17 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c1
     </item>
     <item>
       <title>Dimly</title>
-      <link>https://github.com/punshnut/macos-dimly</link>
+      <link>https://feuerbacher.me/projects/dimly</link>
       <guid isPermaLink="false">1f961ea0dc7c4634ff867de6242f86be0527e944:Dimly</guid>
       <pubDate>Mon, 30 Mar 2026 08:04:19 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
+      <category>Utilities / Quality of Life Improvements</category>
+      <description>Category: Utilities / Quality of Life Improvements
 App: Dimly
-Description: Control brightness across mixed monitor setups from a single menu bar app.
-Open Source: https://github.com/punshnut/macos-dimly
+Description: Control brightness across mixed monitor setups from one menu bar app.
+Website: https://feuerbacher.me/projects/dimly
 Commit: Add Dimly - mixed monitor control to app list (#1938)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Dimly<br/>Description: Control brightness across mixed monitor setups from a single menu bar app.<br/>Open Source: https://github.com/punshnut/macos-dimly<br/>Commit: Add Dimly - mixed monitor control to app list (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944]]></content:encoded>
+      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Dimly<br/>Description: Control brightness across mixed monitor setups from one menu bar app.<br/>Website: https://feuerbacher.me/projects/dimly<br/>Commit: Add Dimly - mixed monitor control to app list (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff867de6242f86be0527e944]]></content:encoded>
     </item>
     <item>
       <title>ClawdHome</title>
@@ -72,11 +72,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4
       <category>Proxy and VPN Tools</category>
       <description>Category: Proxy and VPN Tools
 App: DashVPN
-Description: Simple and free menu bar proxy app for macOS/iOS with smart routing, supporting VLESS, Shadowsocks and HTTPS subscription.
+Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.
 Website: https://getdashvpn.com/
 Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Simple and free menu bar proxy app for macOS/iOS with smart routing, supporting VLESS, Shadowsocks and HTTPS subscription.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
+      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
     </item>
     <item>
       <title>ClashBar</title>
@@ -97,14 +97,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a56
       <link>https://github.com/fikrikarim/repose</link>
       <guid isPermaLink="false">3571b91bcc6398fd79a5b680b1be125dbb417909:Repose</guid>
       <pubDate>Mon, 30 Mar 2026 02:13:54 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
 App: Repose
-Description: Break reminder for macOS that automatically pauses during meetings.
+Description: Menu bar break timer that dims your screen and pauses during calls.
 Open Source: https://github.com/fikrikarim/repose
 Commit: Add Repose to Productivity (#1935)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Repose<br/>Description: Break reminder for macOS that automatically pauses during meetings.<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to Productivity (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909]]></content:encoded>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Repose<br/>Description: Menu bar break timer that dims your screen and pauses during calls.<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to Productivity (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909]]></content:encoded>
     </item>
     <item>
       <title>Flock</title>
@@ -114,11 +114,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a
       <category>Terminal Apps</category>
       <description>Category: Terminal Apps
 App: Flock
-Description: Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression.
+Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
 Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to Terminal Apps (#1936)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Flock<br/>Description: Native macOS multiplexer for running multiple Claude Code AI agent sessions in parallel with agent mode, themes, and prompt compression.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
     <item>
       <title>markdown-quicklook</title>
@@ -142,11 +142,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed
       <category>Security Tools</category>
       <description>Category: Security Tools
 App: TouchBridge
-Description: Use your phone&amp;amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.
+Description: Authenticate with your phone&apos;s fingerprint as a free Touch ID keyboard alternative.
 Open Source: https://github.com/HMAKT99/UnTouchID
 Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Use your phone&amp;amp;apos;s fingerprint to authenticate on any Mac. Free alternative to $199 Touch ID keyboard.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Authenticate with your phone&apos;s fingerprint as a free Touch ID keyboard alternative.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
     </item>
     <item>
       <title>VSCodium</title>
@@ -170,11 +170,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bd
       <category>Voice-to-Text</category>
       <description>Category: Voice-to-Text
 App: OpenDictation
-Description: Notch-integrated dictation utility with local Whisper or BYOK cloud transcription and instant cursor insertion.
+Description: Open-source dictation utility with local and cloud speech-to-text.
 Open Source: https://github.com/kdcokenny/OpenDictation
 Commit: Add OpenDictation to Voice-to-Text list (#1927)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenDictation<br/>Description: Notch-integrated dictation utility with local Whisper or BYOK cloud transcription and instant cursor insertion.<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to Voice-to-Text list (#1927)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b]]></content:encoded>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenDictation<br/>Description: Open-source dictation utility with local and cloud speech-to-text.<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to Voice-to-Text list (#1927)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b]]></content:encoded>
     </item>
     <item>
       <title>Nudge</title>
@@ -184,11 +184,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c065
       <category>Utilities / Window Management</category>
       <description>Category: Utilities / Window Management
 App: Nudge
-Description: Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.
+Description: Window manager with keyboard shortcuts and drag-to-edge snapping.
 Website: https://nudge.run
 Commit: Add Nudge to Window Management section (#1928)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Nudge<br/>Description: Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.<br/>Website: https://nudge.run<br/>Commit: Add Nudge to Window Management section (#1928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e]]></content:encoded>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Nudge<br/>Description: Window manager with keyboard shortcuts and drag-to-edge snapping.<br/>Website: https://nudge.run<br/>Commit: Add Nudge to Window Management section (#1928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e]]></content:encoded>
     </item>
     <item>
       <title>Mocker</title>
@@ -198,11 +198,11 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450f
       <category>Developer Tools / Virtualization</category>
       <description>Category: Developer Tools / Virtualization
 App: Mocker
-Description: Docker-compatible container management tool built natively on Apple&amp;amp;apos;s Containerization framework.
+Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.
 Open Source: https://github.com/us/mocker
 Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&amp;amp;apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
     </item>
     <item>
       <title>macshot</title>
@@ -282,25 +282,25 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83
       <category>Voice-to-Text</category>
       <description>Category: Voice-to-Text
 App: Azex Speech
-Description: Mac native voice input for Crypto &amp;amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.
+Description: Voice input tuned for mixed Chinese-English dictation in AI and crypto work.
 Open Source: https://github.com/azex-ai/speech
 Commit: Add Azex Speech to Voice-to-Text section (#1909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Mac native voice input for Crypto &amp;amp;amp; AI professionals. Local ASR (FireRedASR), 1800+ domain terms, pronunciation training.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Voice input tuned for mixed Chinese-English dictation in AI and crypto work.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
     </item>
     <item>
       <title>NoxKey</title>
-      <link>https://noxkey.ai</link>
+      <link>https://github.com/No-Box-Dev/Noxkey</link>
       <guid isPermaLink="false">bcef19a8f5391734c9600fbac6ab55c8f5266456:NoxKey</guid>
       <pubDate>Sun, 22 Mar 2026 04:08:04 GMT</pubDate>
       <category>Security Tools</category>
       <description>Category: Security Tools
 App: NoxKey
-Description: Keychain-based secret manager with Touch ID. Stores API keys and tokens in the macOS Secure Enclave, detects AI agents via process-tree walking, and delivers secrets through encrypted handoff.
-Website: https://noxkey.ai
+Description: Keychain-based secret manager for API keys and tokens with Touch ID.
+Open Source: https://github.com/No-Box-Dev/Noxkey
 Commit: Add NoxKey to Security Tools (#1907)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: NoxKey<br/>Description: Keychain-based secret manager with Touch ID. Stores API keys and tokens in the macOS Secure Enclave, detects AI agents via process-tree walking, and delivers secrets through encrypted handoff.<br/>Website: https://noxkey.ai<br/>Commit: Add NoxKey to Security Tools (#1907)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456]]></content:encoded>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: NoxKey<br/>Description: Keychain-based secret manager for API keys and tokens with Touch ID.<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to Security Tools (#1907)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456]]></content:encoded>
     </item>
     <item>
       <title>ProBoard</title>
