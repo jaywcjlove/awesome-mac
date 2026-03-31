@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 00:20:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>StreamWindow</title>
+      <link>https://macdev.cn/</link>
+      <guid isPermaLink="false">5092da64a840d713f0567fbe231f5f8c41ee62fa:StreamWindow</guid>
+      <pubDate>Tue, 31 Mar 2026 00:20:34 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: StreamWindow
+Description: 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。
+Website: https://macdev.cn/
+Commit: Add StreamWindow to the ja/ko/zh list. #1944
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: StreamWindow<br/>Description: 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow to the ja/ko/zh list. #1944<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Chat</title>
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
