@@ -10,17 +10,17 @@
     <generator>build/feed.mjs</generator>
     <item>
       <title>Claudoscope</title>
-      <link>https://claudoscope.com</link>
+      <link>https://github.com/cordwainersmith/claudoscope</link>
       <guid isPermaLink="false">7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f:Claudoscope</guid>
       <pubDate>Tue, 31 Mar 2026 18:04:19 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Claudoscope
 Description: 用于浏览、分析和管理 Claude Code 会话，支持时间线、成本估算和敏感信息扫描。
-Website: https://claudoscope.com
+Open Source: https://github.com/cordwainersmith/claudoscope
 Commit: Add Claudoscope to the ja/ko/zh list. #1946
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Claudoscope<br/>Description: 用于浏览、分析和管理 Claude Code 会话，支持时间线、成本估算和敏感信息扫描。<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Claudoscope<br/>Description: 用于浏览、分析和管理 Claude Code 会话，支持时间线、成本估算和敏感信息扫描。<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
     </item>
     <item>
       <title>StreamWindow</title>
@@ -41,14 +41,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f05
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
       <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
       <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
-      <category>AI 客户端</category>
-      <description>Category: AI 客户端
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Atomic Chat
 Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。
 Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
 Commit: Add Atomic Chat
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
-      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Atomic Chat<br/>Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Atomic Chat<br/>Description: 支持本地 LLM、云模型、MCP 和 OpenAI 兼容 API 的开源 AI 聊天客户端。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
       <title>Dimly</title>
@@ -83,14 +83,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ff47fff66161f57a8b0
       <link>https://clawdhome.app/</link>
       <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
       <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AI 客户端</category>
-      <description>Category: AI 客户端
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: ClawdHome
 Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。
 Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AI 客户端<br/>App: ClawdHome<br/>Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: ClawdHome<br/>Description: 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
       <title>ClashBar</title>
@@ -125,14 +125,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512
       <link>https://github.com/Divagation/flock</link>
       <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
       <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Flock
-Description: 一款可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。
+Description: 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。
 Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to the ja/ko/zh list. #1936
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Flock<br/>Description: 一款可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Flock<br/>Description: 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
     </item>
     <item>
       <title>markdown-quicklook</title>
@@ -237,14 +237,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20af
       <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
       <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
       <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Claude Usage Monitor
-Description: 在菜单栏通过实时计数器跟踪 Claude 用量的工具。
+Description: 通过实时计数器跟踪 Claude 用量的工具。
 Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Claude Usage Monitor<br/>Description: 在菜单栏通过实时计数器跟踪 Claude 用量的工具。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Claude Usage Monitor<br/>Description: 通过实时计数器跟踪 Claude 用量的工具。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
     <item>
       <title>Zipic</title>
@@ -265,14 +265,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d
       <link>https://orchard.5km.tech/</link>
       <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
       <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AI 客户端</category>
-      <description>Category: AI 客户端
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Orchard
 Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。
 Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Orchard<br/>Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Orchard<br/>Description: MCP 服务，将 AI 助手与日历、邮件、备忘录、提醒事项、音乐等 Apple 原生应用连接。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
     <item>
       <title>Azex Speech</title>
@@ -363,14 +363,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea
       <link>https://fazm.ai</link>
       <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
       <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
-      <category>AI 客户端</category>
-      <description>Category: AI 客户端
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Fazm
 Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。
 Website: https://fazm.ai
 Commit: Add Fazm to the ja/ko/zh list. #1894
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
-      <content:encoded><![CDATA[Category: AI 客户端<br/>App: Fazm<br/>Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Fazm<br/>Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
     </item>
     <item>
       <title>Nimbalyst</title>
@@ -461,14 +461,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015
       <link>https://priyans-hu.github.io/tokenmeter/</link>
       <guid isPermaLink="false">a05da091d34ec02acb62b384c3a8fc64855e438f:TokenMeter</guid>
       <pubDate>Fri, 13 Mar 2026 01:27:46 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: TokenMeter
-Description: 在菜单栏跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。
+Description: 跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。
 Website: https://priyans-hu.github.io/tokenmeter/
 Commit: Add TokenMeter to the ja/ko/zh #1881
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: TokenMeter<br/>Description: 在菜单栏跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: TokenMeter<br/>Description: 跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
     </item>
     <item>
       <title>Itsyconnect</title>
@@ -489,14 +489,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2
       <link>https://github.com/f-is-h/Usage4Claude</link>
       <guid isPermaLink="false">ba64c2aaa974eeb7d2460c45be19e1876c3069b1:Usage4Claude</guid>
       <pubDate>Thu, 12 Mar 2026 13:43:42 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
+      <category>AI 工具</category>
+      <description>Category: AI 工具
 App: Usage4Claude
-Description: 在菜单栏实时监控 Claude 各类用量配额的工具。
+Description: 实时监控 Claude 各类用量配额的工具。
 Open Source: https://github.com/f-is-h/Usage4Claude
 Commit: Add Usage4Claude
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Usage4Claude<br/>Description: 在菜单栏实时监控 Claude 各类用量配额的工具。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Usage4Claude<br/>Description: 实时监控 Claude 各类用量配额的工具。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
     </item>
     <item>
       <title>ClashX 使用指南</title>

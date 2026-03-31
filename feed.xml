@@ -10,17 +10,17 @@
     <generator>build/feed.mjs</generator>
     <item>
       <title>Claudoscope</title>
-      <link>https://claudoscope.com</link>
+      <link>https://github.com/cordwainersmith/claudoscope</link>
       <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
       <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Claudoscope
 Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.
-Website: https://claudoscope.com
+Open Source: https://github.com/cordwainersmith/claudoscope
 Commit: Add Claudoscope to Menu Bar Tools (#1946)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
     </item>
     <item>
       <title>StreamWindow</title>
@@ -41,14 +41,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
       <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
       <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Atomic Chat
 Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.
 Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
 Commit: Add Atomic Chat
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
       <title>Dimly</title>
@@ -69,14 +69,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff8
       <link>https://clawdhome.app/</link>
       <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
       <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: ClawdHome
 Description: Manage multiple isolated OpenClaw gateway instances from one control panel.
 Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
       <title>DashVPN</title>
@@ -125,14 +125,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a
       <link>https://github.com/Divagation/flock</link>
       <guid isPermaLink="false">a4ad4b90fe05d473d745ff558a165e0b6dac00f9:Flock</guid>
       <pubDate>Mon, 30 Mar 2026 01:52:01 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Flock
 Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
 Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to Terminal Apps (#1936)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
     <item>
       <title>markdown-quicklook</title>
@@ -251,14 +251,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20af
       <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
       <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
       <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Claude Usage Monitor
-Description: Menu bar tool for tracking Claude usage with a live counter.
+Description: Track Claude usage with a live counter.
 Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claude Usage Monitor<br/>Description: Menu bar tool for tracking Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage Monitor<br/>Description: Track Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
     <item>
       <title>Zipic</title>
@@ -279,14 +279,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d
       <link>https://orchard.5km.tech/</link>
       <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
       <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Orchard
 Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
 Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
     <item>
       <title>Azex Speech</title>
