@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:04:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claudoscope</title>
+      <link>https://claudoscope.com</link>
+      <guid isPermaLink="false">7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f:Claudoscope</guid>
+      <pubDate>Tue, 31 Mar 2026 18:04:19 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Claudoscope
+Description: タイムライン、コスト見積もり、シークレットスキャン付きでClaude Codeセッションを閲覧・分析・管理できるツール。
+Website: https://claudoscope.com
+Commit: Add Claudoscope to the ja/ko/zh list. #1946
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Claudoscope<br/>Description: タイムライン、コスト見積もり、シークレットスキャン付きでClaude Codeセッションを閲覧・分析・管理できるツール。<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
+    </item>
     <item>
       <title>StreamWindow</title>
       <link>https://macdev.cn/</link>
