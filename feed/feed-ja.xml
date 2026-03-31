@@ -10,17 +10,17 @@
     <generator>build/feed.mjs</generator>
     <item>
       <title>Claudoscope</title>
-      <link>https://claudoscope.com</link>
+      <link>https://github.com/cordwainersmith/claudoscope</link>
       <guid isPermaLink="false">7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f:Claudoscope</guid>
       <pubDate>Tue, 31 Mar 2026 18:04:19 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Claudoscope
-Description: タイムライン、コスト見積もり、シークレットスキャン付きでClaude Codeセッションを閲覧・分析・管理できるツール。
-Website: https://claudoscope.com
+Description: Claude Codeセッションを閲覧・分析・管理でき、タイムライン、コスト見積もり、シークレットスキャンも提供するツール。
+Open Source: https://github.com/cordwainersmith/claudoscope
 Commit: Add Claudoscope to the ja/ko/zh list. #1946
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Claudoscope<br/>Description: タイムライン、コスト見積もり、シークレットスキャン付きでClaude Codeセッションを閲覧・分析・管理できるツール。<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Claudoscope<br/>Description: Claude Codeセッションを閲覧・分析・管理でき、タイムライン、コスト見積もり、シークレットスキャンも提供するツール。<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
     </item>
     <item>
       <title>StreamWindow</title>
@@ -41,14 +41,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f05
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
       <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
       <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
-      <category>AIクライアント</category>
-      <description>Category: AIクライアント
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Atomic Chat
 Description: ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。
 Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
 Commit: Add Atomic Chat
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
-      <content:encoded><![CDATA[Category: AIクライアント<br/>App: Atomic Chat<br/>Description: ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Atomic Chat<br/>Description: ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
       <title>Dimly</title>
@@ -69,14 +69,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a5752374264671
       <link>https://clawdhome.app/</link>
       <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
       <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AIクライアント</category>
-      <description>Category: AIクライアント
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: ClawdHome
 Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。
 Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AIクライアント<br/>App: ClawdHome<br/>Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: ClawdHome<br/>Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
       <title>DashVPN</title>
@@ -125,14 +125,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512
       <link>https://github.com/Divagation/flock</link>
       <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
       <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
-      <category>ターミナルアプリ</category>
-      <description>Category: ターミナルアプリ
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Flock
 Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。
 Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to the ja/ko/zh list. #1936
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
-      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Flock<br/>Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Flock<br/>Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
     </item>
     <item>
       <title>TouchBridge</title>
@@ -209,14 +209,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748f
       <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
       <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
       <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Claude Usage Monitor
-Description: メニューバーでリアルタイムのカウンターからClaude使用量を追跡するツール。
+Description: リアルタイムのカウンターでClaude使用量を追跡するツール。
 Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Claude Usage Monitor<br/>Description: メニューバーでリアルタイムのカウンターからClaude使用量を追跡するツール。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Claude Usage Monitor<br/>Description: リアルタイムのカウンターでClaude使用量を追跡するツール。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
     <item>
       <title>Zipic</title>
@@ -237,14 +237,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d
       <link>https://orchard.5km.tech/</link>
       <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
       <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AIクライアント</category>
-      <description>Category: AIクライアント
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Orchard
 Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。
 Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AIクライアント<br/>App: Orchard<br/>Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Orchard<br/>Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
     <item>
       <title>Azex Speech</title>
@@ -321,14 +321,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea
       <link>https://fazm.ai</link>
       <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
       <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
-      <category>AIクライアント</category>
-      <description>Category: AIクライアント
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Fazm
 Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。
 Website: https://fazm.ai
 Commit: Add Fazm to the ja/ko/zh list. #1894
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
-      <content:encoded><![CDATA[Category: AIクライアント<br/>App: Fazm<br/>Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Fazm<br/>Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
     </item>
     <item>
       <title>Nimbalyst</title>
@@ -419,14 +419,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015
       <link>https://priyans-hu.github.io/tokenmeter/</link>
       <guid isPermaLink="false">a05da091d34ec02acb62b384c3a8fc64855e438f:TokenMeter</guid>
       <pubDate>Fri, 13 Mar 2026 01:27:46 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: TokenMeter
-Description: メニューバーでClaude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。
+Description: Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。
 Website: https://priyans-hu.github.io/tokenmeter/
 Commit: Add TokenMeter to the ja/ko/zh #1881
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: TokenMeter<br/>Description: メニューバーでClaude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: TokenMeter<br/>Description: Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
     </item>
     <item>
       <title>Itsyconnect</title>
@@ -447,14 +447,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2
       <link>https://github.com/f-is-h/Usage4Claude</link>
       <guid isPermaLink="false">ba64c2aaa974eeb7d2460c45be19e1876c3069b1:Usage4Claude</guid>
       <pubDate>Thu, 12 Mar 2026 13:43:42 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Usage4Claude
-Description: メニューバーでClaudeの各種使用量上限をリアルタイムに監視できるツール。
+Description: Claudeの各種使用量上限をリアルタイムに監視できるツール。
 Open Source: https://github.com/f-is-h/Usage4Claude
 Commit: Add Usage4Claude
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Usage4Claude<br/>Description: メニューバーでClaudeの各種使用量上限をリアルタイムに監視できるツール。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Usage4Claude<br/>Description: Claudeの各種使用量上限をリアルタイムに監視できるツール。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
     </item>
     <item>
       <title>Petrichor</title>
@@ -475,28 +475,28 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944c
       <link>https://github.com/gety-ai/apple-on-device-openai</link>
       <guid isPermaLink="false">0856b2377e3eccae2d3b2e6a783f6ea90c3a214a:Apple On-Device OpenAI</guid>
       <pubDate>Thu, 12 Mar 2026 02:15:30 GMT</pubDate>
-      <category>AIクライアント</category>
-      <description>Category: AIクライアント
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Apple On-Device OpenAI
 Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。
 Open Source: https://github.com/gety-ai/apple-on-device-openai
 Commit: Add Apple On-Device OpenAI
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a</description>
-      <content:encoded><![CDATA[Category: AIクライアント<br/>App: Apple On-Device OpenAI<br/>Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。<br/>Open Source: https://github.com/gety-ai/apple-on-device-openai<br/>Commit: Add Apple On-Device OpenAI<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Apple On-Device OpenAI<br/>Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。<br/>Open Source: https://github.com/gety-ai/apple-on-device-openai<br/>Commit: Add Apple On-Device OpenAI<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a]]></content:encoded>
     </item>
     <item>
       <title>Claude God</title>
       <link>https://claudegod.app</link>
       <guid isPermaLink="false">888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0:Claude God</guid>
       <pubDate>Thu, 12 Mar 2026 01:45:22 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
+      <category>AIツール</category>
+      <description>Category: AIツール
 App: Claude God
-Description: メニューバーでClaudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。
+Description: Claudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。
 Website: https://claudegod.app
 Commit: Add Claude God
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Claude God<br/>Description: メニューバーでClaudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。<br/>Website: https://claudegod.app<br/>Commit: Add Claude God<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0]]></content:encoded>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Claude God<br/>Description: Claudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。<br/>Website: https://claudegod.app<br/>Commit: Add Claude God<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0]]></content:encoded>
     </item>
   </channel>
 </rss>
