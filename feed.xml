@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:51:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claudoscope</title>
+      <link>https://claudoscope.com/</link>
+      <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
+      <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Claudoscope
+Description: Menu bar app for Claude Code with secret detection, config health linting (44 rules), and full-text session search alongside token/cost analytics.
+Website: https://claudoscope.com/
+Commit: Add Claudoscope to Menu Bar Tools (#1946)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claudoscope<br/>Description: Menu bar app for Claude Code with secret detection, config health linting (44 rules), and full-text session search alongside token/cost analytics.<br/>Website: https://claudoscope.com/<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
+    </item>
     <item>
       <title>StreamWindow</title>
       <link>https://macdev.cn/</link>
