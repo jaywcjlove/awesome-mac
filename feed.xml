@@ -10,17 +10,17 @@
     <generator>build/feed.mjs</generator>
     <item>
       <title>Claudoscope</title>
-      <link>https://claudoscope.com/</link>
+      <link>https://claudoscope.com</link>
       <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
       <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
 App: Claudoscope
-Description: Menu bar app for Claude Code with secret detection, config health linting (44 rules), and full-text session search alongside token/cost analytics.
-Website: https://claudoscope.com/
+Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.
+Website: https://claudoscope.com
 Commit: Add Claudoscope to Menu Bar Tools (#1946)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claudoscope<br/>Description: Menu bar app for Claude Code with secret detection, config health linting (44 rules), and full-text session search alongside token/cost analytics.<br/>Website: https://claudoscope.com/<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
     </item>
     <item>
       <title>StreamWindow</title>

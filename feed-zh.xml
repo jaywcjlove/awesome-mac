@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:04:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claudoscope</title>
+      <link>https://claudoscope.com</link>
+      <guid isPermaLink="false">7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f:Claudoscope</guid>
+      <pubDate>Tue, 31 Mar 2026 18:04:19 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Claudoscope
+Description: 用于浏览、分析和管理 Claude Code 会话，支持时间线、成本估算和敏感信息扫描。
+Website: https://claudoscope.com
+Commit: Add Claudoscope to the ja/ko/zh list. #1946
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Claudoscope<br/>Description: 用于浏览、分析和管理 Claude Code 会话，支持时间线、成本估算和敏感信息扫描。<br/>Website: https://claudoscope.com<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
+    </item>
     <item>
       <title>StreamWindow</title>
       <link>https://macdev.cn/</link>
