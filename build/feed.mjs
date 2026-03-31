@@ -63,6 +63,7 @@ const FEED_TARGETS = [
 mkdirSync(feedDir, { recursive: true });
 
 const sectionMapCache = new Map();
+const currentReadmeEntryCache = new Map();
 const reports = FEED_TARGETS.map(generateFeedForTarget);
 
 // Older runs generated /feed.xml in the repository root and later in /dist.
@@ -109,7 +110,10 @@ function generateFeedForTarget(target) {
     limit: feedItemLimit,
     logPrefix: target.readmePath,
   });
-  const feedItems = mergeFeedItems(newItems, existingFeed.items, feedItemLimit);
+  const feedItems = refreshFeedItemsFromCurrentReadme(
+    mergeFeedItems(newItems, existingFeed.items, feedItemLimit),
+    target.readmePath,
+  );
 
   console.log(
     `[feed] ${target.readmePath}: identified ${newItems.length} new apps from ${commitsToProcess.length} processed commits`,
@@ -259,7 +263,7 @@ function extractNewAppsFromCommit(commit, readmePath) {
 
 // Parse one added or removed README bullet line into a structured app record.
 function parseDiffAppLine(line, sign) {
-  const escaped = sign === '+' ? '\\+' : '-';
+  const escaped = sign ? (sign === '+' ? '\\+' : '-') : '';
 
   // README app entries consistently use:
   //   * [App Name](url) - Description
@@ -341,7 +345,7 @@ function loadExistingFeed(target) {
 
   try {
     const xml = readFileSync(outputPath, 'utf8');
-    const items = parseFeedItemsFromXml(xml);
+    const items = refreshFeedItemsFromCurrentReadme(parseFeedItemsFromXml(xml), target.readmePath);
     return {
       latestCommitHash: items[0]?.commitHash || '',
       items,
@@ -350,6 +354,66 @@ function loadExistingFeed(target) {
     console.log(`[feed] ${target.readmePath}: existing XML is invalid, rebuilding feed`);
     return { latestCommitHash: '', items: [] };
   }
+}
+
+// Reconcile persisted feed items with the latest README text so description fixes propagate.
+function refreshFeedItemsFromCurrentReadme(items, readmePath) {
+  const currentEntries = getCurrentReadmeEntries(readmePath);
+
+  return items.map((item) => {
+    const current = currentEntries.get(item.name);
+    if (!current) return item;
+
+    return {
+      ...item,
+      url: current.url,
+      description: current.description,
+      category: current.category,
+      websiteUrl: current.websiteUrl,
+      sourceUrl: current.sourceUrl,
+      appStoreUrl: current.appStoreUrl,
+    };
+  });
+}
+
+// Parse the current README file into a lookup table keyed by app name.
+function getCurrentReadmeEntries(readmePath) {
+  if (currentReadmeEntryCache.has(readmePath)) {
+    return currentReadmeEntryCache.get(readmePath);
+  }
+
+  const content = readFileSync(resolve(repoRoot, readmePath), 'utf8');
+  const entries = new Map();
+  let currentSection = '';
+  let currentSubsection = '';
+
+  for (const line of content.split('\n')) {
+    const sectionMatch = line.match(/^##\s+(.+)$/);
+    if (sectionMatch) {
+      currentSection = sectionMatch[1].trim();
+      currentSubsection = '';
+      continue;
+    }
+
+    const subsectionMatch = line.match(/^###\s+(.+)$/);
+    if (subsectionMatch) {
+      currentSubsection = subsectionMatch[1].trim();
+      continue;
+    }
+
+    const entry = parseDiffAppLine(line, '');
+    if (!entry) continue;
+
+    entries.set(entry.name, {
+      ...entry,
+      category: currentSubsection
+        ? `${currentSection} / ${currentSubsection}`
+        : currentSection || 'Uncategorized',
+    });
+  }
+
+  currentReadmeEntryCache.set(readmePath, entries);
+  return entries;
 }
 
 // Parse the current XML feed back into structured items for incremental updates.
@@ -596,12 +660,22 @@ function escapeXml(value) {
 
 // Decode escaped XML entities when reading existing feed items back from XML.
 function decodeXml(value) {
-  return String(value)
-    .replace(/&apos;/g, "'")
-    .replace(/&quot;/g, '"')
-    .replace(/&gt;/g, '>')
-    .replace(/&lt;/g, '<')
-    .replace(/&amp;/g, '&');
+  let decoded = String(value);
+
+  while (true) {
+    const next = decoded
+      .replace(/&apos;/g, "'")
+      .replace(/&quot;/g, '"')
+      .replace(/&gt;/g, '>')
+      .replace(/&lt;/g, '<')
+      .replace(/&amp;/g, '&');
+
+    if (next === decoded) {
+      return next;
+    }
+
+    decoded = next;
+  }
 }
 
 // Remove a CDATA wrapper when reading XML fields that intentionally contain HTML.
