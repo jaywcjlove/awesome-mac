@@ -980,22 +980,22 @@ Awesome Mac
 * [EnviousWispr](https://enviouswispr.com/) - 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。 ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Fnキーを押して話し、離すと音声が即座にテキストとして貼り付けられるリアルタイム音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。 [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - オープンソースのAI音声入力ツールで、ホットキーを押して話すだけで整形済みテキストを任意のアプリに入力できます。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
-* [Ottex](https://ottex.ai) - メール、Slackメッセージ、メモなどをディクテーション。アプリやWebサイトを検出し、それに応じてフォーマット — gmail.com → メール、Obsidian → markdownなど。
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 整形済みテキストを任意のアプリに入力できるオープンソースのAI音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+* [Ottex](https://ottex.ai) - 使用中のアプリやサイトに合わせて整形するAIディクテーションツール。
 * [Spokenly](https://spokenly.app/) - 100以上の言語、オフラインモード、AI搭載のフォーマットを備えた音声テキスト変換。
 * [Tambourine](https://tambourinevoice.com/) - あらゆるアプリで動作するオープンソースのカスタマイズ可能なAI音声ディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
-* [TypeWhisper](https://www.typewhisper.com) - Whisper AIを使用したローカル音声テキスト変換。グローバルホットキーによるシステム全体のディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
+* [TypeWhisper](https://www.typewhisper.com) - Whisperベースのローカル音声テキスト変換ツール。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - リアルタイム音声テキスト変換アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI変換とキーボードショートカットを備えたマルチプロバイダー音声テキスト変換。 [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - 自動編集、スタイルマッチング、ノイズ最適化を備えたAIディクテーション。
 
 ## ブラウザ
 
-* [Arc](https://arc.net/) - Arcはインターネット上で一息つける場所。2024年のインターネットの使い方に合わせて装備されたブラウザであり、将来の使い方の基盤でもある。 ![Freeware][Freeware Icon]
+* [Arc](https://arc.net/) - ワークスペース型インターフェースを備えたブラウザ。 ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - プライバシーと速度を重視したWebブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
-* [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT Atlasは、ChatGPTが組み込まれたブラウザ。どのページからでも即座に回答、要約、スマートなWeb支援を受けられる。 ![Freeware][Freeware Icon]
+* [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPTを内蔵したブラウザ。 ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Googleが開発したChrome ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - Google Chromeのソースコードを提供するためのGoogleによるオープンソースの無料Webブラウザプロジェクト。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Chromium](https://www.chromium.org/Home) - Google Chromeの基盤となるオープンソースのブラウザプロジェクト。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
   * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Webサービスへの依存を取り除く軽量なアプローチ。 [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - Mozillaが開発した無料のオープンソースWebブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - プライバシー、セキュリティ、自由に焦点を当てたFirefoxのフォーク。 [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
@@ -1003,14 +1003,14 @@ Awesome Mac
 * [Microsoft Edge](https://www.microsoft.com/edge) - Chromiumベースだが、Microsoftが構築したMicrosoft Edge ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) - プライバシーを保護する高速でミニマルなブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
 * [Opera](https://www.opera.com) - 広告ブロック機能でより速く、集中できるブラウジングを体験し、プライベートに閲覧。 ![Freeware][Freeware Icon]
-* [Ora](https://www.orabrowser.com/) - SwiftとWebKitで構築されたオープンソースのmacOSブラウザ。スムーズなタブ管理、スペース、垂直サイドバーを備えた高速でセキュアなネイティブArc代替。 [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
+* [Ora](https://www.orabrowser.com/) - スペース、タブ管理、垂直サイドバーを備えたオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - ChromeおよびFirefox拡張機能をサポートする軽量WebKitベースのブラウザ。 ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - PythonとQtベースのキーボード駆動のvimライクなブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Safari](https://www.apple.com/safari/) - Mac用のネイティブブラウザ。 ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Station](https://getstation.com/) - すべてのWebアプリケーションを1か所にまとめるオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - 文脈を理解し、Webページとの対話やタスク自動化ができるAIネイティブブラウザ。 ![Freeware][Freeware Icon]
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - オンラインでの匿名性。プライバシーを保護。ネットワーク監視やトラフィック分析から身を守る。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
-  * [Mullvad Browser](https://mullvad.net/en/download/browser/) - ネットワーク統合なしのTor Browser。VPNユーザー向けのフィンガープリント対策ブラウザ技術を提供することを目的としているが、Mullvad VPNは必須ではない。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - 匿名ブラウジング向けのプライバシーブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
+* [Mullvad Browser](https://mullvad.net/en/download/browser/) - フィンガープリント対策に重点を置いたプライバシーブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - SwiftUIで構築されたmacOS用のミニマルAIブラウザ。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 * [Vivaldi](https://vivaldi.com) - あなたが主導権を握るブラウザ。 ![Freeware][Freeware Icon]
 * [Yandex](https://browser.yandex.com/) - Yandexによるコンピューター用の高速でセキュアなブラウザ。 ![Freeware][Freeware Icon]

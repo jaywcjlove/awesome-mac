@@ -688,12 +688,12 @@ Awesome Mac
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Fn 키를 누른 채 말하고 떼면 음성이 즉시 텍스트로 붙여넣어지는 실시간 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 로컬 및 클라우드 음성 텍스트 변환을 지원하는 오픈 소스 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 오픈 소스 AI 음성 입력 도구로, 단축키를 누르고 말하면 다듬어진 텍스트를 어떤 앱에든 입력할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 다듬어진 텍스트를 어떤 앱에든 입력할 수 있는 오픈 소스 AI 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
 
 ## 브라우저
 
-* [Arc](https://arc.net/) - 현대적인 인터넷 사용을 위해 설계된 브라우저. ![Freeware][Freeware Icon]
+* [Arc](https://arc.net/) - 작업 공간형 인터페이스를 갖춘 브라우저. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - 개인정보 보호와 속도에 중점을 둔 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser) ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Google의 웹 브라우저. ![Freeware][Freeware Icon]
 * [Firefox](https://www.mozilla.org/firefox/) - Mozilla의 자유 오픈 소스 웹 브라우저. [![Open-Source Software][OSS Icon]](https://hg.mozilla.org/mozilla-central) ![Freeware][Freeware Icon]

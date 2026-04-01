@@ -637,7 +637,7 @@ Awesome Mac
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 按住 Fn 说话并松开即可实时将语音转成文本粘贴出来。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 支持本地与云端语音转文字的开源听写工具。 [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，按下快捷键说话即可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - 允许您为连接设备的每个特定组合固定输入/输出设备。可能会禁止选择HDMI显示器。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
@@ -902,11 +902,11 @@ Awesome Mac
 
 *这里放Mac的浏览器应用*
 
-* [Arc](https://arc.net) - 更好地使用互联网的方式 ![Freeware][Freeware Icon]
+* [Arc](https://arc.net) - 采用工作区式界面的浏览器。 ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - 用 Brave 浏览更快更安全。 ![Freeware][Freeware Icon]
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - 内置 ChatGPT 的浏览器。 ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - Chrome 浏览器谷歌出品。![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - 由 Google 及社区开发的浏览器，开源免费，同时为 Chrome 提供源码 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Chromium](https://www.chromium.org/Home) - Google Chrome 背后的开源浏览器项目。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Firefox](http://www.firefox.com.cn/) - 由 Mozilla 开发的免费开源网页浏览器。![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
@@ -920,7 +920,7 @@ Awesome Mac
 * [Ōryōki](http://oryoki.io/) - 小的 web 浏览器。这是一个试验性的项目，目前正在开发中![Freeware][Freeware Icon]
 * [傲游云浏览器](http://www.maxthon.cn/mac/) - 傲游云浏览器。![Freeware][Freeware Icon]
 * [360极速浏览器](https://browser.360.cn/ee/mac/index.html) - 更好用，不将就。![Freeware][Freeware Icon]
-* [洋葱浏览器](https://www.torproject.org/download/) - 多层加密，保护隐私![Freeware][Freeware Icon]
+* [洋葱浏览器](https://www.torproject.org/download/) - 面向匿名浏览的隐私浏览器。![Freeware][Freeware Icon]
 
 ## 翻译工具
 

@@ -983,22 +983,22 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [EnviousWispr](https://enviouswispr.com) - On-device AI dictation that turns speech into polished text. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
-* [Ottex](https://ottex.ai) - Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly — gmail.com → email, Obsidian → markdown, etc.
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+* [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
-* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
+* [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
 ## Browsers
 
-* [Arc](https://arc.net/) - Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2024, and foundational for how we hope to use it in the future. ![Freeware][Freeware Icon]
+* [Arc](https://arc.net/) - Browser with a distinctive workspace-style interface. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
-* [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT Atlas, the browser with ChatGPT built in. Get instant answers, summaries, and smart web help—right from any page. ![Freeware][Freeware Icon]
+* [ChatGPT Atlas](https://chatgpt.com/atlas/) - Browser with ChatGPT built in. ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Chromium](https://www.chromium.org/Home) - Open-source browser project behind Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
   * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - A free and open-source web browser developed by Mozilla. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
@@ -1006,14 +1006,14 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
 * [Opera](https://www.opera.com) - Experience faster, distraction-free browsing with Ad blocking, and browse privately. ![Freeware][Freeware Icon]
-* [Ora](https://www.orabrowser.com/) - Open-source macOS browser built with Swift and WebKit. Fast, secure, and native Arc alternative with smooth tab management, spaces, and vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
+* [Ora](https://www.orabrowser.com/) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Station](https://getstation.com/) - An open-source browser providing a single place for all of your web applications. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware][Freeware Icon]
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
-  * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser designed for anonymous web browsing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
+* [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 * [Vivaldi](https://vivaldi.com) - The browser that puts you in control. ![Freeware][Freeware Icon]
 * [Yandex](https://browser.yandex.com/) - The quick and secure browser from Yandex for computers. ![Freeware][Freeware Icon]
