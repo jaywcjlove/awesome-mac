@@ -363,7 +363,7 @@ function parseFeedItemsFromXml(xml) {
       const guid = decodeXml(extractXmlTag(itemXml, 'guid'));
       const pubDate = decodeXml(extractXmlTag(itemXml, 'pubDate'));
       const category = decodeXml(extractXmlTag(itemXml, 'category'));
-      const contentEncoded = unwrapCdata(extractXmlTag(itemXml, 'content:encoded'));
+      const contentEncoded = decodeXml(unwrapCdata(extractXmlTag(itemXml, 'content:encoded')));
       const description = (
         contentEncoded ||
         decodeXml(extractXmlTag(itemXml, 'description'))
