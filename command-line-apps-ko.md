@@ -14,12 +14,6 @@
   <br>
   <a href="https://ip.im/">IP.IM 무료 IP 주소 정보 조회 웹사이트</a>
   <br><br>
-  <a href="https://www.warp.dev/awesome-mac">
-    <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
-  </a>
-  <br>
-  <a href="https://warp.dev/awesome-mac"><b>Warp, 개발자를 위한 지능형 터미널!</b></a><br>
-  <a href="https://warp.dev/awesome-mac">macOS, Linux, & Windows에서 사용 가능</a><br><br>
 
 </div>
 <hr>

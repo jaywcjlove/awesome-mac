@@ -14,12 +14,6 @@
   <br>
   <a href="https://ip.im/">IP.IM 免费 IP 地址信息查询网站</a>
   <br><br>
-  <a href="https://www.warp.dev/awesome-mac">
-    <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
-  </a>
-  <br>
-  <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
-  <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
 
 </div>
 <hr>
