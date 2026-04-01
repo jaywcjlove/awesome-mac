@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:36:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mullvad Browser</title>
+      <link>https://mullvad.net/en/download/browser/</link>
+      <guid isPermaLink="false">ea3b60bc27c27ff89c0edc04144ed759004c7521:Mullvad Browser</guid>
+      <pubDate>Wed, 01 Apr 2026 04:36:38 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Mullvad Browser
+Description: Privacy browser focused on anti-fingerprinting protection.
+Website: https://mullvad.net/en/download/browser/
+Commit: Shorten app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Mullvad Browser<br/>Description: Privacy browser focused on anti-fingerprinting protection.<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
+    </item>
     <item>
       <title>EnviousWispr</title>
       <link>https://enviouswispr.com</link>
