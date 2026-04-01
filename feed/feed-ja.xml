@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:08:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EnviousWispr</title>
+      <link>https://enviouswispr.com/</link>
+      <guid isPermaLink="false">09be3dbc751fb9b903d10f8b663f2c345567de7e:EnviousWispr</guid>
+      <pubDate>Wed, 01 Apr 2026 03:08:36 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: EnviousWispr
+Description: 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。
+Website: https://enviouswispr.com/
+Commit: Add EnviousWispr (#1948)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: EnviousWispr<br/>Description: 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。<br/>Website: https://enviouswispr.com/<br/>Commit: Add EnviousWispr (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e]]></content:encoded>
+    </item>
     <item>
       <title>Claudoscope</title>
       <link>https://github.com/cordwainersmith/claudoscope</link>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:08:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EnviousWispr</title>
+      <link>https://enviouswispr.com/</link>
+      <guid isPermaLink="false">09be3dbc751fb9b903d10f8b663f2c345567de7e:EnviousWispr</guid>
+      <pubDate>Wed, 01 Apr 2026 03:08:36 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: EnviousWispr
+Description: 本地 AI 语音转文本工具，可将语音快速整理成可直接粘贴的文本。
+Website: https://enviouswispr.com/
+Commit: Add EnviousWispr (#1948)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: EnviousWispr<br/>Description: 本地 AI 语音转文本工具，可将语音快速整理成可直接粘贴的文本。<br/>Website: https://enviouswispr.com/<br/>Commit: Add EnviousWispr (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e]]></content:encoded>
+    </item>
     <item>
       <title>Claudoscope</title>
       <link>https://github.com/cordwainersmith/claudoscope</link>
