@@ -21,40 +21,8 @@
 </div>
 <hr>
 
-Awesome Mac
-===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
-[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
-[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
-[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
-[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
-<!--rehype:style=text-align: center;-->
-
-本项目致力于收集优质的 macOS 软件，并按照不同类别进行系统整理，方便快速查找与使用。随着不断发展，项目规模已远超最初设想，内容也更加丰富完善。
-
-欢迎大家 Star ⭐ 和 Fork 🍴 支持项目！
-
-如果你有任何建议、想法或发现优秀的软件，欢迎提交 PR 一起完善这个列表。在贡献之前，请先阅读[贡献指南](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)。也欢迎持续关注本 [Awesome](https://github.com/sindresorhus/awesome) 列表，一起打造更好的 macOS 工具集合。
-
-**说明**
-
-[English](README.md) | [한국어](./README-ko.md) | [日本語](README-ja.md) | [RSS](./feed/feed-zh.md) | [优秀的命令行应用精选](./command-line-apps-zh.md) | [优秀的 Swift macOS 应用精选](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-
-![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
-![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
-![App Store][app-store Icon] 表示 **App store** 链接地址；\
-![Native App][Native Icon] 表示 **原生应用**；\
-![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
-
-✦ 我的 macOS 应用程序：
-
 <p style="display: inline_block">
+<sup>使用 <a href="https://wangchujiang.com/#/app" target="_blank">我的应用</a> 也是支持我的一种方式：<a href="https://wangchujiang.com/#/sponsor" target="_blank">支持我</a></sup><br/>
 <a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -88,6 +56,39 @@ Awesome Mac
 <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" width="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" width="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
 </p>
+<hr>
+
+Awesome Mac
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
+[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
+<!--rehype:style=text-align: center;-->
+
+本项目致力于收集优质的 macOS 软件，并按照不同类别进行系统整理，方便快速查找与使用。随着不断发展，项目规模已远超最初设想，内容也更加丰富完善。
+
+欢迎大家 Star ⭐ 和 Fork 🍴 支持项目！
+
+如果你有任何建议、想法或发现优秀的软件，欢迎提交 PR 一起完善这个列表。在贡献之前，请先阅读[贡献指南](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)。也欢迎持续关注本 [Awesome](https://github.com/sindresorhus/awesome) 列表，一起打造更好的 macOS 工具集合。
+
+**说明**
+
+[English](README.md) | [한국어](./README-ko.md) | [日本語](README-ja.md) | [RSS](./feed/feed-zh.md) | [优秀的命令行应用精选](./command-line-apps-zh.md) | [优秀的 Swift macOS 应用精选](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+
+![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
+![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
+![App Store][app-store Icon] 表示 **App store** 链接地址；\
+![Native App][Native Icon] 表示 **原生应用**；\
+![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
+
 
 <!--idoc:ignore:start-->
 

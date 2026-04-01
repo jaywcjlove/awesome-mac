@@ -2,7 +2,7 @@
   <sup>スペシャルサンクス:</sup>
   <br>
   <br>
-  
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
@@ -20,40 +20,8 @@
 </div>
 <hr>
 
-Awesome Mac
-===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
-[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
-[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
-[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
-[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
-<!--rehype:style=text-align: center;-->
-
-このプロジェクトは、高品質なmacOSソフトウェアを収集し、異なるカテゴリーごとに体系的に整理することで、簡単に検索・使用できるようにすることを目的としています。継続的な発展により、プロジェクトは当初の予想をはるかに超え、より包括的で洗練されたものとなりました。
-
-ぜひ**スター** ⭐ と**フォーク** 🍴 でプロジェクトをサポートしてください！
-
-ご提案、アイデア、または優秀なソフトウェアを発見された場合は、ぜひPRを提出してこのリストの改善にご協力ください。貢献前には[コントリビューションガイドライン](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)をお読みください。また、この[Awesome](https://github.com/sindresorhus/awesome)リストを継続してフォローし、より良いmacOSツールコレクションを一緒に構築していただけることを歓迎します。
-
-**凡例**
-
-[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [RSS](./feed/feed-ja.md) | [素晴らしいコマンドラインアプリ](./command-line-apps-ja.md) | [素晴らしいSwift macOSアプリ](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-
-![Open-Source Software][OSS Icon] は**オープンソース**を意味します。アイコンをクリックするとリポジトリを確認できます。\
-![Freeware][Freeware Icon] は**無料**で使用可能、または**無料**の個人ライセンスを意味します。\
-![App Store][app-store Icon] は**App Store**へのリンクを意味します。\
-![Native App][Native Icon] は**ネイティブアプリ**を意味します。\
-![Awesome List][awesome-list Icon] はそのアイテムに関連する**Awesomeリスト**へのリンクを意味します。
-
-✦ 私のmacOSアプリケーション:
-
 <p style="display: inline_block">
+<sup><a href="https://wangchujiang.com/#/app" target="_blank">私のアプリ</a>を使うことも、<a href="https://wangchujiang.com/#/sponsor" target="_blank">支援</a>する方法のひとつです:</sup><br/>
 <a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -87,6 +55,38 @@ Awesome Mac
 <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" width="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" width="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
 </p>
+<hr>
+
+Awesome Mac
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
+[![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
+[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
+<!--rehype:style=text-align: center;-->
+
+このプロジェクトは、高品質なmacOSソフトウェアを収集し、異なるカテゴリーごとに体系的に整理することで、簡単に検索・使用できるようにすることを目的としています。継続的な発展により、プロジェクトは当初の予想をはるかに超え、より包括的で洗練されたものとなりました。
+
+ぜひ**スター** ⭐ と**フォーク** 🍴 でプロジェクトをサポートしてください！
+
+ご提案、アイデア、または優秀なソフトウェアを発見された場合は、ぜひPRを提出してこのリストの改善にご協力ください。貢献前には[コントリビューションガイドライン](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md)をお読みください。また、この[Awesome](https://github.com/sindresorhus/awesome)リストを継続してフォローし、より良いmacOSツールコレクションを一緒に構築していただけることを歓迎します。
+
+**凡例**
+
+[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [RSS](./feed/feed-ja.md) | [素晴らしいコマンドラインアプリ](./command-line-apps-ja.md) | [素晴らしいSwift macOSアプリ](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+
+![Open-Source Software][OSS Icon] は**オープンソース**を意味します。アイコンをクリックするとリポジトリを確認できます。\
+![Freeware][Freeware Icon] は**無料**で使用可能、または**無料**の個人ライセンスを意味します。\
+![App Store][app-store Icon] は**App Store**へのリンクを意味します。\
+![Native App][Native Icon] は**ネイティブアプリ**を意味します。\
+![Awesome List][awesome-list Icon] はそのアイテムに関連する**Awesomeリスト**へのリンクを意味します。
 
 <!--idoc:ignore:start-->
 
