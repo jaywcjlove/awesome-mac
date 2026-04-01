@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Apr 2026 03:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:52:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Buffer</title>
+      <link>https://github.com/samirpatil2000/Buffer</link>
+      <guid isPermaLink="false">7efb1f36272e794c3a07ec70c331d77a4bf24774:Buffer</guid>
+      <pubDate>Wed, 01 Apr 2026 10:52:58 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Buffer
+Description: 轻量的开源剪贴板管理工具，支持图片 OCR 和书签。
+Open Source: https://github.com/samirpatil2000/Buffer
+Commit: Add Buffer.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Buffer<br/>Description: 轻量的开源剪贴板管理工具，支持图片 OCR 和书签。<br/>Open Source: https://github.com/samirpatil2000/Buffer<br/>Commit: Add Buffer.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenScreen</title>
+      <link>https://github.com/siddharthvaddem/openscreen</link>
+      <guid isPermaLink="false">c207eeb5e8d96d3b1adc67484bf666907ff2105d:OpenScreen</guid>
+      <pubDate>Wed, 01 Apr 2026 10:36:02 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+App: OpenScreen
+Description: 用于制作产品演示和操作讲解视频的开源工具。
+Open Source: https://github.com/siddharthvaddem/openscreen
+Commit: Add OpenScreen
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: OpenScreen<br/>Description: 用于制作产品演示和操作讲解视频的开源工具。<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
+    </item>
     <item>
       <title>EnviousWispr</title>
       <link>https://enviouswispr.com/</link>
