@@ -743,7 +743,7 @@ Awesome Mac
 
 ### 클립보드 도구
 
-* [Buffer](https://github.com/samirpatil2000/Buffer) - 이미지 OCR과 북마크를 지원하는 가벼운 오픈 소스 클립보드 관리자입니다. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon]
+* [Buffer](https://samirpatil2000.github.io/products/buffer/) - 이미지 OCR과 북마크를 지원하는 가벼운 네이티브 클립보드 관리자입니다. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clipy](https://clipy-app.com/) - macOS용 클립보드 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - 가벼운 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - 클립보드의 민감한 정보를 마스킹해 주는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
