@@ -685,6 +685,7 @@ Awesome Mac
 
 * [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech](https://github.com/azex-ai/speech) - AI와 크립토 작업에서 중영 혼용 받아쓰기에 강한 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
+* [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Fn 키를 누른 채 말하고 떼면 음성이 즉시 텍스트로 붙여넣어지는 실시간 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 로컬 및 클라우드 음성 텍스트 변환을 지원하는 오픈 소스 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 오픈 소스 AI 음성 입력 도구로, 단축키를 누르고 말하면 다듬어진 텍스트를 어떤 앱에든 입력할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]

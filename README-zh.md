@@ -646,6 +646,7 @@ Awesome Mac
 * [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac) - 听障人士免费, 系统语音本地识别实时生成字幕, 支持多种语言, 让你的每个音视频都拥有类似 YouTube 的字幕体验.  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac)
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [buzz](https://github.com/chidiwilliams/buzz) - 在你的个人电脑上离线转录和翻译音频，由 OpenAI 的 Whisper 提供支持。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
+* [EnviousWispr](https://enviouswispr.com/) - 本地 AI 语音转文本工具，可将语音快速整理成可直接粘贴的文本。 ![Freeware][Freeware Icon]
 * [Carol](https://github.com/AnaghSharma/Carol) - 为 macOS 提供最小化和美丽的歌词应用程序。[![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cog-kode54/id1630499622?platform=mac)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - 免费、跨平台视频编辑、颜色分级、视频效果和音频编辑软件。
