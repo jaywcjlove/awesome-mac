@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 10:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:52:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Buffer</title>
+      <link>https://github.com/samirpatil2000/Buffer</link>
+      <guid isPermaLink="false">7efb1f36272e794c3a07ec70c331d77a4bf24774:Buffer</guid>
+      <pubDate>Wed, 01 Apr 2026 10:52:58 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: Buffer
+Description: 이미지 OCR과 북마크를 지원하는 가벼운 오픈 소스 클립보드 관리자입니다.
+Open Source: https://github.com/samirpatil2000/Buffer
+Commit: Add Buffer.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Buffer<br/>Description: 이미지 OCR과 북마크를 지원하는 가벼운 오픈 소스 클립보드 관리자입니다.<br/>Open Source: https://github.com/samirpatil2000/Buffer<br/>Commit: Add Buffer.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774]]></content:encoded>
+    </item>
     <item>
       <title>OpenScreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
