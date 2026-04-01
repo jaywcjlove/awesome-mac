@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:36:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenScreen</title>
+      <link>https://github.com/siddharthvaddem/openscreen</link>
+      <guid isPermaLink="false">c207eeb5e8d96d3b1adc67484bf666907ff2105d:OpenScreen</guid>
+      <pubDate>Wed, 01 Apr 2026 10:36:02 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: OpenScreen
+Description: Open-source tool for creating polished screen demos and walkthrough videos.
+Open Source: https://github.com/siddharthvaddem/openscreen
+Commit: Add OpenScreen
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: OpenScreen<br/>Description: Open-source tool for creating polished screen demos and walkthrough videos.<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
+    </item>
     <item>
       <title>Mullvad Browser</title>
       <link>https://mullvad.net/en/download/browser/</link>

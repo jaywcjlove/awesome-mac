@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:36:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenScreen</title>
+      <link>https://github.com/siddharthvaddem/openscreen</link>
+      <guid isPermaLink="false">c207eeb5e8d96d3b1adc67484bf666907ff2105d:OpenScreen</guid>
+      <pubDate>Wed, 01 Apr 2026 10:36:02 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: OpenScreen
+Description: プロダクトデモや操作説明動画を作れるオープンソースツール。
+Open Source: https://github.com/siddharthvaddem/openscreen
+Commit: Add OpenScreen
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: OpenScreen<br/>Description: プロダクトデモや操作説明動画を作れるオープンソースツール。<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
+    </item>
     <item>
       <title>Mullvad Browser</title>
       <link>https://mullvad.net/en/download/browser/</link>
