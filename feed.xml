@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:54:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EnviousWispr</title>
+      <link>https://enviouswispr.com</link>
+      <guid isPermaLink="false">2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775:EnviousWispr</guid>
+      <pubDate>Wed, 01 Apr 2026 02:54:04 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: EnviousWispr
+Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.
+Website: https://enviouswispr.com
+Commit: Add EnviousWispr to Voice-to-Text section (#1948)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: EnviousWispr<br/>Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.<br/>Website: https://enviouswispr.com<br/>Commit: Add EnviousWispr to Voice-to-Text section (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775]]></content:encoded>
+    </item>
     <item>
       <title>Claudoscope</title>
       <link>https://github.com/cordwainersmith/claudoscope</link>
