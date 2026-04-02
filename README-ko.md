@@ -264,6 +264,7 @@ Awesome Mac
 * [Klib](http://klib.me/) - Kindle 및 iBooks의 하이라이트를 관리하는 새로운 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?at=1000lv4R&ct=klib_me&platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15개 이상의 형식을 지원하는 올인원 전자책 리더. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
 * [Readest](https://github.com/readest/readest) - 직관적인 인터페이스를 갖춘 교차 플랫폼 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
+* [ReadAny](https://codedogqby.github.io/ReadAny/) - 시맨틱 검색, AI 채팅, 메모 관리를 지원하는 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 전문가 수준의 레이아웃 및 출판 소프트웨어. [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 멀티 플랫폼 EPUB 전자책 편집기. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 * [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac) - 라이브 텍스트 검색을 지원하는 PDF, CBZ, CBR용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac)
