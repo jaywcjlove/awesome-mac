@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:46:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Paul</title>
+      <link>https://guillim.github.io/products/paul</link>
+      <guid isPermaLink="false">9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3:Paul</guid>
+      <pubDate>Thu, 02 Apr 2026 23:46:23 GMT</pubDate>
+      <category>開発ツール / データベース</category>
+      <description>Category: 開発ツール / データベース
+App: Paul
+Description: デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。
+Website: https://guillim.github.io/products/paul
+Commit: Add Paul to the ja/zh/ko list. #1956
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3</description>
+      <content:encoded><![CDATA[Category: 開発ツール / データベース<br/>App: Paul<br/>Description: デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul to the ja/zh/ko list. #1956<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3]]></content:encoded>
+    </item>
     <item>
       <title>ReadAny</title>
       <link>https://codedogqby.github.io/ReadAny/</link>

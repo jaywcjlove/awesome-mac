@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:46:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Paul</title>
+      <link>https://guillim.github.io/products/paul</link>
+      <guid isPermaLink="false">9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3:Paul</guid>
+      <pubDate>Thu, 02 Apr 2026 23:46:23 GMT</pubDate>
+      <category>Developer Tools / Databases</category>
+      <description>Category: Developer Tools / Databases
+App: Paul
+Description: AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.
+Website: https://guillim.github.io/products/paul
+Commit: Add Paul to the ja/zh/ko list. #1956
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Paul<br/>Description: AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul to the ja/zh/ko list. #1956<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3]]></content:encoded>
+    </item>
     <item>
       <title>Paul 🐘</title>
       <link>https://guillim.github.io/products/paul</link>
