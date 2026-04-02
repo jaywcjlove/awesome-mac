@@ -564,6 +564,7 @@ Awesome Mac
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 公式MySQL GUI。
 * [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 高品質なデータモデルのためのコスト効率の良いデータベース設計ツール。
 * [neo4j](https://neo4j.com) - 主要なグラフデータベース! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/neo4j/neo4j)
+* [Paul](https://guillim.github.io/products/paul) - デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomemac) - 自然言語またはSQLでPostgresとチャット。
 * [pgModeler](https://pgmodeler.io) - PostgreSQL向けに設計されたオープンソースのデータモデリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/pgmodeler/pgmodeler) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - MacでPostgreSQLを始める最も簡単な方法。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)

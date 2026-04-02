@@ -359,6 +359,7 @@ Awesome Mac
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - Mac 上查看编辑 Access 数据库的工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL 数据库官方管理软件。
 * [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - 一个数据库设计工具，它帮助创建高质素的概念、逻辑和物理数据模型。
+* [Paul](https://guillim.github.io/products/paul) - AI 优先的 PostgreSQL 客户端，默认只读，帮你快速从数据库中获得答案。
 * [Postico](https://eggerapps.at/postico/) - 现代 PostgreSQL 客户端，漂亮功能多。
 * [Postgres.app](http://postgresapp.com/) - Mac 上最简单的方法的使用 PostgreSQL 关系型数据库管理系统。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [PSequel](http://www.psequel.com/) - PostgreSQL 数据库 GUI 软件。![Freeware][Freeware Icon]

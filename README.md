@@ -566,7 +566,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Cost-effective database design tool for high-quality data models.
 * [neo4j](https://neo4j.com) - The leading graph database! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/neo4j/neo4j)
-* [Paul 🐘](https://guillim.github.io/products/paul) - Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.
+* [Paul](https://guillim.github.io/products/paul) - AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomemac) - Chat to Postgres in natural language or SQL.
 * [pgModeler](https://pgmodeler.io) -  pgModeler is an open source data modeling tool designed for PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/pgmodeler/pgmodeler) ![Freeware][Freeware Icon]
 * [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
