@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:23:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ReadAny</title>
+      <link>https://codedogqby.github.io/ReadAny/</link>
+      <guid isPermaLink="false">6e1899b10d1d3623ab1293a3f5a55f18cc9a936c:ReadAny</guid>
+      <pubDate>Thu, 02 Apr 2026 23:23:04 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 전자책</category>
+      <description>Category: 읽기 및 쓰기 도구 / 전자책
+App: ReadAny
+Description: 시맨틱 검색, AI 채팅, 메모 관리를 지원하는 전자책 리더.
+Website: https://codedogqby.github.io/ReadAny/
+Commit: Add ReadAny
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 전자책<br/>App: ReadAny<br/>Description: 시맨틱 검색, AI 채팅, 메모 관리를 지원하는 전자책 리더.<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
+    </item>
     <item>
       <title>NetFluss</title>
       <link>https://www.ranagmbh.de/netfluss/</link>
