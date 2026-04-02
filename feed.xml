@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:37:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Paul 🐘</title>
+      <link>https://guillim.github.io/products/paul</link>
+      <guid isPermaLink="false">d199c89ae62c3821f8b851191946311896cb1e4a:Paul 🐘</guid>
+      <pubDate>Thu, 02 Apr 2026 23:37:48 GMT</pubDate>
+      <category>Developer Tools / Databases</category>
+      <description>Category: Developer Tools / Databases
+App: Paul 🐘
+Description: Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.
+Website: https://guillim.github.io/products/paul
+Commit: Add Paul (#1956)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Paul 🐘<br/>Description: Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul (#1956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a]]></content:encoded>
+    </item>
     <item>
       <title>ReadAny</title>
       <link>https://codedogqby.github.io/ReadAny/</link>
