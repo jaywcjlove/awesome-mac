@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:23:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ReadAny</title>
+      <link>https://codedogqby.github.io/ReadAny/</link>
+      <guid isPermaLink="false">6e1899b10d1d3623ab1293a3f5a55f18cc9a936c:ReadAny</guid>
+      <pubDate>Thu, 02 Apr 2026 23:23:04 GMT</pubDate>
+      <category>电子书</category>
+      <description>Category: 电子书
+App: ReadAny
+Description: 一款支持语义搜索、AI 问答和笔记管理的电子书阅读器。[![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny)
+Website: https://codedogqby.github.io/ReadAny/
+Commit: Add ReadAny
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
+      <content:encoded><![CDATA[Category: 电子书<br/>App: ReadAny<br/>Description: 一款支持语义搜索、AI 问答和笔记管理的电子书阅读器。[![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny)<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
+    </item>
     <item>
       <title>NetFluss</title>
       <link>https://www.ranagmbh.de/netfluss/</link>
