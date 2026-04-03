@@ -260,6 +260,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Revu](https://revu.cards/) - Local-first spaced repetition app with FSRS scheduling and Anki import. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
 * [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
@@ -1040,7 +1041,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
-* [Revu](https://revu.cards/) - Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance

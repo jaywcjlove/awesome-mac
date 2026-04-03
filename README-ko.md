@@ -232,6 +232,7 @@ Awesome Mac
 * [Notion](https://www.notion.so/) - 노트, 작업, 위키, 데이터베이스를 위한 올인원 워크스페이스.
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Revu](https://revu.cards/) - FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
 * [Standard Notes](https://standardnotes.com/) - 전문가를 위한 종단간 암호화 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
