@@ -1053,6 +1053,7 @@ Awesome Mac
 
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 信頼のMacセキュリティ保護：ウイルス、マルウェア、アドウェアからMacを保護。潜在的なWeb脅威をブロックし、脆弱性からMacを守る。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 何かが永続的にインストールされるたびにアラートを出す。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
+* [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 保護されたパスの読み取りや変更を行おうとする未許可プロセスを遮断する、ポリシーベースのファイルアクセス制御ツール。 [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylibハイジャックの影響を受けやすい、またはハイジャックされたアプリケーションをスキャンするシンプルなユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner)
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - OSカーネルにロードされているすべてのモジュールを表示。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KextViewr)
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - Mac上に永続的にインストールされているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KnockKnock)
