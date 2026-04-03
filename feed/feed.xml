@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:02:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClearanceKit</title>
+      <link>https://craigjbass.github.io/clearancekit/</link>
+      <guid isPermaLink="false">a4ab493a44a732d7b9770e8779c226a50453db30:ClearanceKit</guid>
+      <pubDate>Fri, 03 Apr 2026 00:02:02 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: ClearanceKit
+Description: intercepts file-system access events on macOS and enforces per-process access policies.
+Website: https://craigjbass.github.io/clearancekit/
+Commit: Add ClearanceKit to security tools list (#1958)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: ClearanceKit<br/>Description: intercepts file-system access events on macOS and enforces per-process access policies.<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to security tools list (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30]]></content:encoded>
+    </item>
     <item>
       <title>Paul</title>
       <link>https://guillim.github.io/products/paul</link>
