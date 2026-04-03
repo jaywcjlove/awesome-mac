@@ -32,7 +32,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add feed/*.xml
-          git commit -m "chore: update RSS feeds [skip ci]"
+          git commit \
+            -m "chore: update RSS feeds [skip ci]" \
+            -m "Refresh generated RSS feeds for recently added high-quality macOS apps." \
+            -m "Feeds:
+
+            https://jaywcjlove.github.io/awesome-mac/feed.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-zh.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-ko.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-ja.xml"
           git push
 
       - run: cp -rp feed/*.xml dist
