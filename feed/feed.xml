@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:22:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Revu</title>
+      <link>https://revu.cards/</link>
+      <guid isPermaLink="false">ccfdc358cab9ed99219052cc392114102aea5755:Revu</guid>
+      <pubDate>Fri, 03 Apr 2026 00:22:19 GMT</pubDate>
+      <category>Education</category>
+      <description>Category: Education
+App: Revu
+Description: Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.
+Website: https://revu.cards/
+Commit: Add Revu - local-first macOS spaced repetition app (#1955)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755</description>
+      <content:encoded><![CDATA[Category: Education<br/>App: Revu<br/>Description: Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.<br/>Website: https://revu.cards/<br/>Commit: Add Revu - local-first macOS spaced repetition app (#1955)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755]]></content:encoded>
+    </item>
     <item>
       <title>ClearanceKit</title>
       <link>https://craigjbass.github.io/clearancekit/</link>
