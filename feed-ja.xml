@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:35:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Santa</title>
+      <link>https://northpole.security/</link>
+      <guid isPermaLink="false">393e984e48f28791c9127c4d945a1d8aba009a44:Santa</guid>
+      <pubDate>Fri, 03 Apr 2026 00:35:27 GMT</pubDate>
+      <category>セキュリティツール</category>
+      <description>Category: セキュリティツール
+App: Santa
+Description: バイナリとファイルアクセスを制御する認可システム。
+Website: https://northpole.security/
+Commit: Add Santa to the ja/ko/zh list. #1957
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
+      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Santa<br/>Description: バイナリとファイルアクセスを制御する認可システム。<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
+    </item>
     <item>
       <title>Revu</title>
       <link>https://revu.cards/</link>
