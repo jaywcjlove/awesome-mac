@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:30:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Santa</title>
+      <link>https://northpole.security/</link>
+      <guid isPermaLink="false">13643e14c058e44dc384a92af9f6477009b83a78:Santa</guid>
+      <pubDate>Fri, 03 Apr 2026 00:30:29 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: Santa
+Description: A binary and file access authorization system for macOS.
+Website: https://northpole.security/
+Commit: Add Santa to the Security section (#1957)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: Santa<br/>Description: A binary and file access authorization system for macOS.<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the Security section (#1957)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78]]></content:encoded>
+    </item>
     <item>
       <title>Revu</title>
       <link>https://revu.cards/</link>
