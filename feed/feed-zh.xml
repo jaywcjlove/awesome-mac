@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:35:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Santa</title>
+      <link>https://northpole.security/</link>
+      <guid isPermaLink="false">393e984e48f28791c9127c4d945a1d8aba009a44:Santa</guid>
+      <pubDate>Fri, 03 Apr 2026 00:35:27 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: Santa
+Description: 二进制与文件访问授权系统。
+Website: https://northpole.security/
+Commit: Add Santa to the ja/ko/zh list. #1957
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: Santa<br/>Description: 二进制与文件访问授权系统。<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
+    </item>
     <item>
       <title>Revu</title>
       <link>https://revu.cards/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/saihgupr/DMGMaker
 Commit: Add DMG Maker
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
       <content:encoded><![CDATA[Category: 软件打包工具<br/>App: DMG Maker<br/>Description: 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。<br/>Open Source: https://github.com/saihgupr/DMGMaker<br/>Commit: Add DMG Maker<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510]]></content:encoded>
-    </item>
-    <item>
-      <title>Fazm</title>
-      <link>https://fazm.ai</link>
-      <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
-      <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Fazm
-Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。
-Website: https://fazm.ai
-Commit: Add Fazm to the ja/ko/zh list. #1894
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Fazm<br/>Description: 一款可用语音控制应用、文件和工作流的开源 AI 代理。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
     </item>
   </channel>
 </rss>

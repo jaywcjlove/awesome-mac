@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:35:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Santa</title>
+      <link>https://northpole.security/</link>
+      <guid isPermaLink="false">393e984e48f28791c9127c4d945a1d8aba009a44:Santa</guid>
+      <pubDate>Fri, 03 Apr 2026 00:35:27 GMT</pubDate>
+      <category>보안 도구</category>
+      <description>Category: 보안 도구
+App: Santa
+Description: 바이너리와 파일 접근을 제어하는 권한 부여 시스템.
+Website: https://northpole.security/
+Commit: Add Santa to the ja/ko/zh list. #1957
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
+      <content:encoded><![CDATA[Category: 보안 도구<br/>App: Santa<br/>Description: 바이너리와 파일 접근을 제어하는 권한 부여 시스템.<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
+    </item>
     <item>
       <title>Revu</title>
       <link>https://revu.cards/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/gety-ai/apple-on-device-openai
 Commit: Add Apple On-Device OpenAI
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Apple On-Device OpenAI<br/>Description: Apple 온디바이스 Foundation 모델을 OpenAI 호환 API로 제공하는 애플리케이션.<br/>Open Source: https://github.com/gety-ai/apple-on-device-openai<br/>Commit: Add Apple On-Device OpenAI<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude God</title>
-      <link>https://claudegod.app</link>
-      <guid isPermaLink="false">888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0:Claude God</guid>
-      <pubDate>Thu, 12 Mar 2026 01:45:22 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Claude God
-Description: Claude 사용량 한도, 비용, 세션 분석을 실시간 게이지·타임라인·알림으로 모니터링하는 도구.
-Website: https://claudegod.app
-Commit: Add Claude God
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Claude God<br/>Description: Claude 사용량 한도, 비용, 세션 분석을 실시간 게이지·타임라인·알림으로 모니터링하는 도구.<br/>Website: https://claudegod.app<br/>Commit: Add Claude God<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0]]></content:encoded>
     </item>
   </channel>
 </rss>
