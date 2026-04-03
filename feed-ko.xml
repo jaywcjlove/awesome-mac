@@ -5,9 +5,135 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:29:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Revu</title>
+      <link>https://revu.cards/</link>
+      <guid isPermaLink="false">11a0d97fb3707c4b5487e3b9618141cfdc20abb4:Revu</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: Revu
+Description: FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱.
+Website: https://revu.cards/
+Commit: Add Revu to the ja/ko/zh list. #1955
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Revu<br/>Description: FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱.<br/>Website: https://revu.cards/<br/>Commit: Add Revu to the ja/ko/zh list. #1955<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4]]></content:encoded>
+    </item>
+    <item>
+      <title>Stik</title>
+      <link>https://github.com/0xMassi/stik_app</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Stik</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: Stik
+Description: 전역 단축키와 AI 시맨틱 검색을 지원하는 빠른 마크다운 노트 앱.
+Open Source: https://github.com/0xMassi/stik_app
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Stik<br/>Description: 전역 단축키와 AI 시맨틱 검색을 지원하는 빠른 마크다운 노트 앱.<br/>Open Source: https://github.com/0xMassi/stik_app<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>BookShelves</title>
+      <link>https://getbookshelves.app/</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:BookShelves</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 전자책</category>
+      <description>Category: 읽기 및 쓰기 도구 / 전자책
+App: BookShelves
+Description: 퍼블릭 도메인 도서와 동기화를 지원하는 전자책 리더 및 라이브러리 관리자.
+Website: https://getbookshelves.app/
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 전자책<br/>App: BookShelves<br/>Description: 퍼블릭 도메인 도서와 동기화를 지원하는 전자책 리더 및 라이브러리 관리자.<br/>Website: https://getbookshelves.app/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>FlyEnv</title>
+      <link>https://www.flyenv.com</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:FlyEnv</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: FlyEnv
+Description: 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구.
+Website: https://www.flyenv.com
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: FlyEnv<br/>Description: 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구.<br/>Website: https://www.flyenv.com<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>LINQPad</title>
+      <link>https://www.linqpad.net/</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:LINQPad</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: LINQPad
+Description: 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드.
+Website: https://www.linqpad.net/
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: LINQPad<br/>Description: 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드.<br/>Website: https://www.linqpad.net/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>Poirot</title>
+      <link>https://github.com/LeonardoCardoso/Poirot</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Poirot</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Poirot
+Description: Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구.
+Open Source: https://github.com/LeonardoCardoso/Poirot
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Poirot<br/>Description: Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구.<br/>Open Source: https://github.com/LeonardoCardoso/Poirot<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneHosts</title>
+      <link>https://sanehosts.com</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:SaneHosts</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: SaneHosts
+Description: hosts 기반 광고 및 추적기 차단 도구.
+Website: https://sanehosts.com
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: SaneHosts<br/>Description: hosts 기반 광고 및 추적기 차단 도구.<br/>Website: https://sanehosts.com<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>Echolon</title>
+      <link>https://echolon.app</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Echolon</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / API 개발 및 분석</category>
+      <description>Category: 개발 도구 / API 개발 및 분석
+App: Echolon
+Description: 오픈 소스 API 클라이언트이자 Postman 대안.
+Website: https://echolon.app
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / API 개발 및 분석<br/>App: Echolon<br/>Description: 오픈 소스 API 클라이언트이자 Postman 대안.<br/>Website: https://echolon.app<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
+    <item>
+      <title>Cocoa-Way</title>
+      <link>https://github.com/J-x-Z/cocoa-way</link>
+      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Cocoa-Way</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: Cocoa-Way
+Description: 가상 머신 없이 Linux GUI 앱을 실행할 수 있는 Wayland 컴포지터.
+Open Source: https://github.com/J-x-Z/cocoa-way
+Commit: docs: refresh app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Cocoa-Way<br/>Description: 가상 머신 없이 Linux GUI 앱을 실행할 수 있는 Wayland 컴포지터.<br/>Open Source: https://github.com/J-x-Z/cocoa-way<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
+    </item>
     <item>
       <title>ClearanceKit</title>
       <link>https://craigjbass.github.io/clearancekit/</link>
@@ -581,20 +707,6 @@ Website: https://claudegod.app
 Commit: Add Claude God
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Claude God<br/>Description: Claude 사용량 한도, 비용, 세션 분석을 실시간 게이지·타임라인·알림으로 모니터링하는 도구.<br/>Website: https://claudegod.app<br/>Commit: Add Claude God<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0]]></content:encoded>
-    </item>
-    <item>
-      <title>TablePro</title>
-      <link>https://github.com/datlechin/TablePro</link>
-      <guid isPermaLink="false">ca8cf30db1f3ed156f08969accef62df3026be26:TablePro</guid>
-      <pubDate>Wed, 11 Mar 2026 04:21:40 GMT</pubDate>
-      <category>개발 도구 / 데이터베이스</category>
-      <description>Category: 개발 도구 / 데이터베이스
-App: TablePro
-Description: 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트.
-Open Source: https://github.com/datlechin/TablePro
-Commit: Add TablePro
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ca8cf30db1f3ed156f08969accef62df3026be26</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 데이터베이스<br/>App: TablePro<br/>Description: 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트.<br/>Open Source: https://github.com/datlechin/TablePro<br/>Commit: Add TablePro<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ca8cf30db1f3ed156f08969accef62df3026be26]]></content:encoded>
     </item>
   </channel>
 </rss>
