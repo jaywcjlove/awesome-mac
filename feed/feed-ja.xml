@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:29:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Revu</title>
+      <link>https://revu.cards/</link>
+      <guid isPermaLink="false">11a0d97fb3707c4b5487e3b9618141cfdc20abb4:Revu</guid>
+      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
+      <category>読み書きツール / メモ・ノート</category>
+      <description>Category: 読み書きツール / メモ・ノート
+App: Revu
+Description: FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。
+Website: https://revu.cards/
+Commit: Add Revu to the ja/ko/zh list. #1955
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Revu<br/>Description: FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。<br/>Website: https://revu.cards/<br/>Commit: Add Revu to the ja/ko/zh list. #1955<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4]]></content:encoded>
+    </item>
     <item>
       <title>ClearanceKit</title>
       <link>https://craigjbass.github.io/clearancekit/</link>
