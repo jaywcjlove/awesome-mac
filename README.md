@@ -1040,6 +1040,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
+* [Revu](https://revu.cards/) - Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
