@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:09:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClearanceKit</title>
+      <link>https://craigjbass.github.io/clearancekit/</link>
+      <guid isPermaLink="false">87607a5d4de2a044515a2a619beeba993fd6385e:ClearanceKit</guid>
+      <pubDate>Fri, 03 Apr 2026 00:09:37 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: ClearanceKit
+Description: 基于策略的文件访问控制工具，可阻止未授权进程读取或修改受保护路径。
+Website: https://craigjbass.github.io/clearancekit/
+Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: ClearanceKit<br/>Description: 基于策略的文件访问控制工具，可阻止未授权进程读取或修改受保护路径。<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e]]></content:encoded>
+    </item>
     <item>
       <title>Paul</title>
       <link>https://guillim.github.io/products/paul</link>
