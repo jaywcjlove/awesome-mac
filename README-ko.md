@@ -805,6 +805,7 @@ Awesome Mac
 ### 생산성
 
 * [Alfred](https://www.alfredapp.com/) - 효율성 향상을 위한 앱 및 검색 도구.
+* [CurrentKey](https://currentkey.com) - Spaces에 사용자 지정 이름과 아이콘을 붙이고 앱 사용 시간을 추적하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [Raycast](https://www.raycast.com/) - 생산성이 뛰어난 확장 가능한 런처. ![Freeware][Freeware Icon]
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]

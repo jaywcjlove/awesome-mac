@@ -1286,6 +1286,7 @@ Awesome Mac
 * [BetterTouchTool](https://folivora.ai/) - Magic Mouse、MacBookトラックパッド、Magic Trackpadの多彩なジェスチャー設定や、通常のマウスのマウスジェスチャーも設定できる機能豊富なアプリ。
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
+* [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - アクセラレーションカーブなどを調整できるマウス＆トラックパッドドライバー。
 * [Day Progress](https://sindresorhus.com/day-progress) - メニューバーに今日の残り時間を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
 * [Dropzone](https://aptonic.com) - カスタマイズ可能なアクションのポップアップグリッドを作成。RubyとPythonでスクリプト可能。
