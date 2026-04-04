@@ -804,11 +804,40 @@ Awesome Mac
 
 ### 생산성
 
-* [Alfred](https://www.alfredapp.com/) - 효율성 향상을 위한 앱 및 검색 도구.
+* [1440 Minutes Left Today](https://1440app.com/) - 메뉴 막대에서 오늘 남은 시간을 분 단위로 보여주는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
+* [Alfred](https://www.alfredapp.com/) - 검색, 실행, 자동화를 한곳에 모은 런처.
+* [Better Launchpad](https://github.com/rewhex/better-launchpad) - 빠른 검색을 지원하는 맞춤형 앱 런처.
+* [BetterMouse](https://better-mouse.com) - 서드파티 마우스의 스크롤, 가속, 버튼, 제스처를 조정하는 도구.
+* [BetterTouchTool](https://folivora.ai/) - 트랙패드, 마우스, 키보드의 제스처와 동작을 세밀하게 설정하는 도구.
 * [CurrentKey](https://currentkey.com) - Spaces에 사용자 지정 이름과 아이콘을 붙이고 앱 사용 시간을 추적하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
-* [Raycast](https://www.raycast.com/) - 생산성이 뛰어난 확장 가능한 런처. ![Freeware][Freeware Icon]
+* [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 메뉴 막대에서 기능 키를 빠르게 호출하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
+* [Freeter](https://freeter.io/) - 앱, 링크, 파일을 프로젝트별로 정리하는 작업 공간 도구. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
+* [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar에 촉각 피드백을 추가하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
+* [Hook for Mac](https://hookproductivity.com/) - 파일, 메일, 메모를 연결해 빠르게 이동하는 도구.
+* [Hungrymark](https://zhengying.github.io/hungrymark) - 파일, 폴더, 링크를 북마크하고 메뉴 막대에서 여는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?platform=mac)
+* [Hyperkey](https://hyperkey.app/) - Caps Lock이나 다른 보조 키를 Hyper 키로 바꾸는 도구. ![Freeware][Freeware Icon]
+* [iCMD](https://icmd.app) - 전역 퍼지 메뉴 검색과 Vim 스타일 탐색을 제공하는 도구.
+* [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
+* [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
+* [Magic Switch](https://magic-switch.com/) - 여러 Mac 사이에서 Magic Keyboard, Mouse, Trackpad를 전환하는 도구.
+* [MindMac](https://mindmac.app/) - 여러 AI 서비스를 한곳에서 쓰는 채팅 클라이언트.
+* [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 주기적 스크린샷으로 하루 작업을 돌아볼 수 있는 도구.
+* [Qbserve](https://qotoqot.com/qbserve/) - 프로젝트와 생산성 분석을 지원하는 자동 시간 추적 도구.
+* [Raycast](https://www.raycast.com/) - 확장 기능, 스니펫, 노트, AI를 갖춘 런처. ![Freeware][Freeware Icon]
+* [RescueTime](https://www.rescuetime.com/) - 시간 사용 기록과 생산성 리포트를 제공하는 도구.
+* [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finder 우클릭 메뉴에 더 많은 작업을 추가하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
+* [Rize](https://rize.io/) - AI로 시간을 추적하고 집중 습관 개선을 돕는 도구.
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
+* [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
+* [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
+* [Strategr](https://khrykin.github.io/strategr/) - 하루를 타임박싱으로 정리하는 시간 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
+* [SuperCorners](https://supercorners.vercel.app/) - 화면 모서리를 사용자 정의 워크플로 트리거로 바꾸는 도구. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
+* [SwiftBiu](https://swiftbiu.com/) - 맞춤형 작업 막대와 AI 확장을 갖춘 텍스트 효율 도구. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
+* [Table Habit](https://github.com/FriesI23/mhabit) – 성장 곡선과 오프라인 우선 동기화를 지원하는 습관 추적기. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
+* [Timing](https://timingapp.com/) - 자동으로 시간을 기록하고 작업 분석을 돕는 도구.
+* [xScope](http://xscopeapp.com/) - 화면 레이아웃과 그래픽을 측정하고 검사하는 도구 모음.
+* [Z](https://github.com/rupa/z) - 경로 일부만 입력해 자주 쓰는 디렉터리로 이동하는 도구.
 
 ### 창 관리
 

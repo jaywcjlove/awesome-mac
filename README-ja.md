@@ -1276,14 +1276,14 @@ Awesome Mac
 
 ### 生産性ツール
 
-* [1440 Minutes Left Today](https://1440app.com/) - メニューバーで今日の残り時間を確認。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
+* [1440 Minutes Left Today](https://1440app.com/) - メニューバーで今日の残り分数を確認できるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [ActivityWatch](https://activitywatch.net/) - クロスプラットフォーム、拡張可能、プライバシー重視の時間追跡ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
-* [Alfred](https://www.alfredapp.com/) - ホットキー、キーワード、テキスト展開などで効率を向上させる受賞歴のあるアプリ。Macとウェブを検索し、カスタムアクションでMacを操作してさらに生産性を向上。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
+* [Alfred](https://www.alfredapp.com/) - 検索、起動、操作自動化をまとめたランチャー。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Atomic](https://indiegoodies.com/atomic) - 良い習慣を作り、悪い習慣を断ち、日々のルーティンを管理するための習慣トラッカーアプリ。
 * [Rustcast](https://rustcast.app) - モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
-* [Better Launchpad](https://github.com/rewhex/better-launchpad) - 高速検索機能を備えた、よりスマートで無料、高度にカスタマイズ可能なmacOS用アプリケーションランチャー。
-* [BetterMouse](https://better-mouse.com) - サードパーティマウスのスムーズスクロール、カーソル加速の無効化、強力なボタン/ジェスチャーのリマッピングを1つのユーティリティで実現。かさばる公式ドライバーの代替を目指しています。
-* [BetterTouchTool](https://folivora.ai/) - Magic Mouse、MacBookトラックパッド、Magic Trackpadの多彩なジェスチャー設定や、通常のマウスのマウスジェスチャーも設定できる機能豊富なアプリ。
+* [Better Launchpad](https://github.com/rewhex/better-launchpad) - 高速検索に対応したカスタマイズ可能なランチャー。
+* [BetterMouse](https://better-mouse.com) - サードパーティ製マウスのスクロール、加速、ボタン、ジェスチャーを調整できるツール。
+* [BetterTouchTool](https://folivora.ai/) - トラックパッド、マウス、キーボードのジェスチャーや操作を細かくカスタマイズできるツール。
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
 * [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
@@ -1293,19 +1293,19 @@ Awesome Mac
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - Electronを使用した、Androidデバイスの表示と制御のためのグラフィカルなScrcpy。 [![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Trello、Notion、Asanaに代わるオープンソースのセルフホスト型ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 * [Focus Firewall](https://focusfirewall.com) - 作業中にSNSやその他の気を散らすものをブロックするミニマルなフォーカスアプリ。 [![App Store][app-store Icon]]([https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac))
-* [FnKeyboard](https://github.com/kotique123/FnKeyboard) - Macのファンクションキー（F1〜F12）をすぐに使えるようにする軽量なmacOSメニューバーユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
-* [Freeter](https://freeter.io/) - 仕事に必要なすべてをプロジェクトやワークフローごとに整理して一箇所にまとめ、素早くアクセスできるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
+* [FnKeyboard](https://github.com/kotique123/FnKeyboard) - メニューバーからファンクションキーをすばやく使えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
+* [Freeter](https://freeter.io/) - アプリ、リンク、ファイルをプロジェクトごとにまとめるワークスペースツール。 [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Luaスクリプトエンジンを使った強力なOSX自動化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
-* [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar付きMacBookでTouch Barをタップした際に触覚フィードバックを発生させるシンプルなユーティリティアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
+* [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar操作に触覚フィードバックを追加するツール。 [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
 * [HazeOver](https://hazeover.com) - バックグラウンドのアプリウィンドウを暗くしてメインタスクに集中できるアプリ！ [![App Store][app-store Icon]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?platform=mac)
-* [Hook for Mac](https://hookproductivity.com/) - ファイル同士を素早く簡単にリンクし、シンプルなキーボードショートカットで関連するものを見つけることが可能。
-* [Hungrymark](https://zhengying.github.io/hungrymark) - ファイル、フォルダ、Webをブックマークし、メニューバーから素早くアクセスできる便利なアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?platform=mac)
-* [Hyperkey](https://hyperkey.app/) - Caps Lockキーや任意の修飾キーをハイパーキー（⌃⌥⌘⇧の4つの修飾キーの組み合わせ）に変換。 ![Freeware][Freeware Icon]
-* [iCMD](https://icmd.app) - すべてのネイティブmacOSアプリでグローバルに動作するファジーメニューバー検索およびVim/EasyMotionエミュレーション。
-* [Journey Navigation](https://gowithjourney.com) - ルート沿いの天気、交通情報アラート、ターンバイターンナビゲーションなどを備えた強力なルートプランニングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
+* [Hook for Mac](https://hookproductivity.com/) - ファイル、メール、メモを関連付けてすばやく行き来できるツール。
+* [Hungrymark](https://zhengying.github.io/hungrymark) - ファイル、フォルダ、リンクをブックマークしてメニューバーから開けるツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?platform=mac)
+* [Hyperkey](https://hyperkey.app/) - Caps LockなどをHyperキーに変換するツール。 ![Freeware][Freeware Icon]
+* [iCMD](https://icmd.app) - グローバルなあいまいメニュー検索とVim風ナビゲーションを提供するツール。
+* [Journey Navigation](https://gowithjourney.com) - 天気や交通情報付きでルートを計画できるナビゲーションツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - OS X用の強力で安定したキーボードカスタマイザー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - macOSに欠けていたキーボードショートカットユーティリティ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
-* [Keyboard Maestro](http://www.keyboardmaestro.com) - キーボード、メニュー、位置情報、デバイス接続などのトリガーに基づいてルーチン作業を自動化。
+* [Keyboard Maestro](http://www.keyboardmaestro.com) - トリガーとマクロで繰り返し作業を自動化するツール。
 * [Keytty](http://keytty.com) - キーボードから手を離さずに操作できるアプリ。数回のキー操作で移動、クリック、スクロール、ドラッグなどが可能。
 * [Launchy](https://apple.co/3PLI2AH) - ラジアルメニューを活用したアプリランチャー＆スイッチャー。
 * [Lazy](https://www.lazy-app.com/) - キーボード駆動のコマンドでMacから直接周囲の環境を管理。
@@ -1313,39 +1313,39 @@ Awesome Mac
 * [Macaify](https://macaify.com) - ChatGPTの高速利用、軽量、クリーン、キーボードファースト。 ![Freeware][Freeware Icon]
 * [Mac Mouse Fix](https://www.mousefix.org/) - マウスをより快適にするシンプルな方法。 [![Open-Source Software][OSS Icon]](https://github.com/noah-nuebling/mac-mouse-fix) ![Freeware][Freeware Icon]
 * [Memo Widget](https://sindresorhus.com/memo-widget) - デスクトップ上の付箋。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)
-* [MindMac](https://mindmac.app/) - OpenAI、Azure OpenAI、Anthropic Claude、OpenRouterをすべて一か所で利用できる、多機能かつプライバシー重視のネイティブChatGPTアプリ。
+* [MindMac](https://mindmac.app/) - 複数のAIサービスを一つで使えるチャットクライアント。
 * [Mos](https://mos.caldis.me/) - Macでスムーズスクロールを提供し、マウスのスクロール方向を反転できるシンプルなツール。 [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - アーカイブファイルのプレビューと展開をサポートするアーカイブマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
-* [Magic Switch](https://magic-switch.com/) - 異なるApple IDを持つ複数のMac間でMagic Keyboard、Magic Mouse、Magic Trackpadを切り替え。
-* [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 生産性の視覚的な記録を簡単に残す方法。タイムシートの記入や一日の振り返りに便利。タイムシートエディター内蔵。
+* [Magic Switch](https://magic-switch.com/) - 複数のMac間でMagic Keyboard、Mouse、Trackpadを切り替えるツール。
+* [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 定期スクリーンショットで一日の作業を振り返れるツール。
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - プロジェクトを視覚化、管理、簡素化する最良の方法。プロジェクト管理を簡単に。
 * [OpenIn](https://loshadki.app/openin4/) - Macにインストールされたアプリを管理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
 * [PaletteBrain](https://palettebrain.com) - ショートカットキーひとつですべてのMacアプリケーションからChatGPTのパワーにアクセス。
 * [Pie Menu](https://www.pie-menu.com) – アクティブなアプリに合わせてカスタマイズされたラジアルメニューでツールを操作。
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - AIによる検索と発見。
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - ポモドーロトラッカー。
-* [Qbserve](https://qotoqot.com/qbserve/) - 時間追跡の自動化：フリーランスのプロジェクト追跡、タイムシート、請求書発行、リアルタイムの生産性フィードバック。
-* [Raycast](https://raycast.com?via=ae02) - ショートカットでツールやアプリを操作し、ストアから拡張機能をダウンロード、ChatGPT、DeepSeek、Gemini、ClaudeなどのAIモデルを使用可能。スニペットの作成やRaycast Notesで生産性を最大化。
-* [RescueTime](https://www.rescuetime.com/) - 時間の使い方を示し、生産性向上のためのツールを提供するパーソナル分析サービス。
-* [SuperCorners](https://supercorners.vercel.app/) - 画面の角をより強力に ─ ホットコーナーを効率的なワークフロートリガーに変換。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
-* [Rize](https://rize.io/) - AI搭載の時間追跡ツール。自動的に集中力を向上させ、より良い作業習慣の構築をサポート。
-* [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finderの右クリックメニューをより強力にする優れた右クリックメニュー拡張ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
-* [Selectric](https://selectric.io/) - メール、ドキュメント、メッセージのためのプライベートパーソナル検索エンジン。Gmail、Outlook、Drive、Dropbox、Teams、Slackなど、複数のアプリケーションをコンピューターから直接検索。
-* [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Windowsのように多くのアプリでマウスのサイドボタンを使って前後に移動。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
+* [Qbserve](https://qotoqot.com/qbserve/) - プロジェクト管理や工数集計に対応した自動時間追跡ツール。
+* [Raycast](https://raycast.com?via=ae02) - 拡張機能、スニペット、ノート、AIを備えたランチャー。
+* [RescueTime](https://www.rescuetime.com/) - 時間の使い方を記録して生産性レポートを出すツール。
+* [SuperCorners](https://supercorners.vercel.app/) - ホットコーナーをカスタム操作の起点に変えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
+* [Rize](https://rize.io/) - AIで時間を追跡し、集中習慣づくりを支援するツール。
+* [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finderの右クリックメニューを拡張するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
+* [Selectric](https://selectric.io/) - メール、書類、チャットを横断検索できるプライベート検索ツール。
+* [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - マウスのサイドボタンでより多くのアプリの戻る/進むを操作できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - macOS用のシンプルなホットキーデーモン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
-* [Strategr](https://khrykin.github.io/strategr/) - 手間のかからない時間管理アプリ。生産性を最大化し、一日をタイムボクシングするための最速かつ最も効果的な方法を提供。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
-* [SwiftBiu](https://swiftbiu.com/) - SwiftBiuはmacOS用のテキスト効率化ツールです。任意のアプリでテキストを選択すると、カスタマイズ可能な拡張ツールバーがポップアップし、よくある操作を「ワンステップ」で実行可能に。AIマルチモーダル（テキスト→テキスト、テキスト→グラフ）、AppleScript/JavaScriptプラグイン、HTML拡張アプレットに対応。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
-* [Table Habit](https://github.com/FriesI23/mhabit) – 成長曲線とオフラインファーストの同期で小さな習慣を築くのを助けるクロスプラットフォーム習慣トラッカー。 ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
+* [Strategr](https://khrykin.github.io/strategr/) - 1日をタイムボックスで整理する時間管理ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
+* [SwiftBiu](https://swiftbiu.com/) - カスタマイズ可能な操作バーとAI拡張を備えたテキスト効率化ツール。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
+* [Table Habit](https://github.com/FriesI23/mhabit) – 成長曲線とオフライン同期に対応した習慣トラッカー。 ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Time Out](https://www.dejal.com/timeout/) - ミクロブレイクや柔軟なカスタマイズが可能な、簡単な休憩リマインダー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?platform=mac)
 * [TimeScribe](https://timescribe.app/) - シンプルで無料の作業時間記録。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/WINBIGFOX/TimeScribe)
-* [Timing](https://timingapp.com/) - Mac用の自動時間＆生産性追跡。作業の軌道を維持し、時間課金の場合に請求可能時間の漏れを防止。
+* [Timing](https://timingapp.com/) - 自動で時間を記録し、作業分析や工数管理を支援するツール。
 * [Textream](https://textream.fka.dev) - リアルタイムの単語追跡と音声起動スクロールを備えた無料テレプロンプター。 [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - Spotlightの代替となるオープンソースのショートカットツールキット。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
 * [Trello](https://trello.com) - プロジェクトをカンバンボードで整理するコラボレーションツール。 ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicodeキーボードレイアウトエディター。
 * [Velja](https://sindresorhus.com/velja) - 特定のブラウザやデスクトップアプリでリンクを開けるブラウザピッカー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
-* [xScope](http://xscopeapp.com/) - 画面上のグラフィックスやレイアウトの計測、検査、テストに最適な強力なツールセット。
-* [Z](https://github.com/rupa/z) - ターミナルでディレクトリ名の一部を入力するだけで簡単にナビゲートできる強力な方法。
+* [xScope](http://xscopeapp.com/) - 画面上のレイアウトやグラフィックを計測・検査するツールセット。
+* [Z](https://github.com/rupa/z) - 部分一致でよく使うディレクトリへ移動できるツール。
 
 
 ### ウィンドウ管理
