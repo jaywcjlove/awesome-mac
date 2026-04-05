@@ -527,6 +527,7 @@ Awesome Mac
 * [Docker](https://www.docker.com/) - 強力なOSレベルの仮想化を実行するツール。 [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 仮想マシンなしでLinux GUIアプリを動かせるWaylandコンポジター。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Mac上で無料かつ無制限に仮想マシンを実行。
+* [Mocker](https://github.com/us/mocker) - AppleのContainerization framework上に構築されたコンテナ管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - あらゆるワークステーションでオンデマンドのUbuntu VM。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - macOSでDockerコンテナとLinuxマシンを実行する、高速で軽量かつシンプルな方法。 ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - 強力で使いやすいVM。新しいMac OSごとの無料アップグレードはなし。
@@ -552,7 +553,7 @@ Awesome Mac
 * [Dataflare](https://dataflare.app) - Postgres、MySQL、DuckDB、libSQL、Cloudflare D1などをサポートするシンプルなデータベースクライアント。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - DB Browser for SQLiteの公式ホームページ。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - ユニバーサルSQLクライアント。
-* [DB Pro](https://dbpro.app) - パフォーマンスと洗練された開発者体験に焦点を当てた、モダンなクロスプラットフォームデータベースクライアント。
+* [DB Pro](https://dbpro.app) - SQLデータベースのクエリと管理を行うクライアント。
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - モダンなMySQL CRUDアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [FastoNoSQL](https://fastonosql.com/) - 様々なキーバリューデータベース用のクロスプラットフォームGUIクライアント。 [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Redis用のクロスプラットフォーム・プロフェッショナルGUI管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
@@ -582,16 +583,16 @@ Awesome Mac
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - リアルタイムWeb向けのスケーラブルで分散型の協調的ドキュメント-グラフデータベース。 [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
 * [TablePlus](https://tableplus.io) - PostgreSQL、MySQL、RedShift、MariaDBなどをサポート。高度なセキュリティを確保。
 * [TablePro](https://github.com/datlechin/TablePro) - 主要なSQL/NoSQLエンジン接続とAI支援SQL編集に対応した高速データベースクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
-* [TrailBase](https://trailbase.io) - 型安全なAPI、通知、組み込みJS/TSランタイム、認証と管理UIを備えた、オープンでサブミリ秒の単一実行ファイルFireBase代替。SQLite、Rust、V8で構築。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
+* [TrailBase](https://trailbase.io) - 型安全なAPI、認証、管理ツールを備えたSQLiteベースのオープンソースバックエンド基盤。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
 * [redis-pro](https://github.com/cmushroom/redis-pro) - SwiftUIで書かれた小さく使いやすいRedis管理ツール。ダークモード対応。 [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
 
 ## ターミナルアプリ
 
 * [alacritty](https://github.com/jwilm/alacritty) - クロスプラットフォームでGPUアクセラレーションに対応したターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
-* [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - AIコンポーネント、複数プロバイダープロファイル、音声入力、Metalレンダリングを備えたLLMネイティブなターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
+* [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 複数プロバイダープロファイルと音声入力に対応したAIネイティブのターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - 長時間実行されるターミナルコマンド用のターミナルコンパニオン（フリーミアム）。
-* [electerm](https://electerm.github.io/electerm/) - 美しいインターフェースを備えた、無料のマルチプラットフォームターミナルおよびSSH/SFTPツール。WindowsのXShellの完璧な代替。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
-* [Ghostty](https://github.com/ghostty-org/ghostty) - プラットフォームネイティブのUIとGPUアクセラレーションを使用する、高速で機能豊富なクロスプラットフォームターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
+* [electerm](https://electerm.github.io/electerm/) - ターミナル、SSH、SFTPクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
+* [Ghostty](https://github.com/ghostty-org/ghostty) - 高速なGPUアクセラレーション対応ターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - Web技術で構築されたターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - OS X用の素晴らしいターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [kitty](https://github.com/kovidgoyal/kitty) - クロスプラットフォームで高速、フル機能のGPUベースターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
@@ -599,7 +600,7 @@ Awesome Mac
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - TypeScriptで構築された無料のターミナルツール。Hyperに強く触発されている。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - Mac用の美しいSSHおよびSFTPクライアント。モバイルでも利用可能。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 * [Warp](https://www.warp.dev) - Rustベースで超高速、モダンアプリのようにゼロから再設計されたターミナル。
-* [Wave](https://github.com/wavetermdev/waveterm) - 従来のターミナル機能とファイルプレビュー、Webブラウジング、AIアシスタントなどのグラフィカル機能を組み合わせたオープンソースのターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
+* [Wave](https://github.com/wavetermdev/waveterm) - ファイルプレビュー、Webブラウジング、AIツールを備えたオープンソースターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rustで実装されたGPUアクセラレーション対応のクロスプラットフォームターミナルエミュレーターおよびマルチプレクサー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
 
 ## デザインとプロダクト
@@ -615,7 +616,7 @@ Awesome Mac
 * [Blender](https://www.blender.org/) - 無料でオープンな3D制作ソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - ピッキング機能付きの完全なオープンソースカラー操作ツール! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - オープンソースの写真ワークフローアプリケーションおよびRAW現像ソフト。 [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
-* [Droply](https://convergencelab.gumroad.com/l/droply) - ワンクリックでオフラインのバッチ画像背景除去を行うネイティブmacOSアプリ。優れたエッジ品質。
+* [Droply](https://convergencelab.gumroad.com/l/droply) - 画像の背景をオフラインで一括削除できるツール。
 * [Draw.io](https://github.com/jgraph/drawio-desktop) ダイアグラムとホワイトボード用のデスクトップアプリ [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
 * [Figma](https://www.figma.com/) - ベクターグラフィックスとUIプロトタイピングのための協調的インターフェースデザインツール。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 無料でオープンソースのフォントエディター。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
@@ -673,7 +674,7 @@ Awesome Mac
 * [SimpleMind](https://simplemind.eu/) - クロスプラットフォームのマインドマッピングツールの世界的リーダー。
 * [WriteMapper](https://writemapper.com/) - アイデアから最終稿までをすぐに。
 * [XMind](http://www.xmind.net) - 世界で最も人気のあるマインドマッピングツール。
-* [Simple Diagrams](https://www.simplediagrams.com/) - 問題、プロセス、ワークフロー、アイデアなどの手描き風の高速で明確なスケッチを作成するデスクトップアプリ!
+* [Simple Diagrams](https://www.simplediagrams.com/) - 手描き風のラフ図を素早く作れるダイアグラムツール。
 * [yGraph Editor](https://www.yworks.com/products/yed) - 高品質なダイアグラムを簡単に作成。
 
 ### スクリーンショットツール
@@ -683,7 +684,8 @@ Awesome Mac
 * [Dropbox](https://www.dropbox.com/) - Dropboxアプリは簡単なスクリーンショットのキャプチャと共有を提供。 ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - 強力でありながらシンプルなスクリーンショットソフトウェア。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Lightshot](https://app.prntscr.com/) - カスタマイズ可能なスクリーンショットを撮る最速の方法。 ![Freeware][Freeware Icon]
-* [Scap](https://wangchujiang.com/scap/) - 描画ツール、ぼかし/モザイク、透かし機能を備えたスクリーンショットの注釈付けとキャンバス作成ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
+* [macshot](https://github.com/sw33tlie/macshot) - 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
+* [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
 * [Skitch](https://evernote.com/skitch/) - 強力な注釈機能を備えたスクリーンキャプチャアプリケーション。 ![Freeware][Freeware Icon]
 * [Snip](http://snip.qq.com/) - QQ Mailでキャプチャ画像を共有するアプリケーション。 ![Freeware][Freeware Icon]
@@ -695,23 +697,23 @@ Awesome Mac
 ### 画面録画
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - プロフェッショナルなエンコーディングサポートを備えた無料のオープンソーススクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
-* [Capty](https://capty.app/) - 内蔵のビデオエディター、注釈ツール、美しい壁紙背景を備えたmacOS用のプロフェッショナルな画面キャプチャ・録画ツール。
+* [Capty](https://capty.app/) - 編集機能と注釈機能を備えた画面キャプチャ・録画ツール。
 * [Gifox](https://gifox.app) - GIF録画と共有。
 * [Kap](https://getkap.co/) - Web技術で構築されたオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Mac用のシンプルな画面およびマイク音声レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
-* [Licecap](http://www.cockos.com/licecap/) - 画面を録画してGIFにエクスポート。録画中いつでも録画領域を変更可能。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
+* [Licecap](http://www.cockos.com/licecap/) - 直接GIFを書き出せる画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - スクリーンショットを撮り、書き込み、動画を撮影してファイルを共有。高速、簡単で無料。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - ライブ配信と画面録画のための無料でオープンソースのソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/siddharthvaddem/openscreen) - プロダクトデモや操作説明動画を作れるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
-* [Reframed](https://reframed.dev) - 内蔵ビデオエディターを備えた強力なスクリーンレコーダー。画面、範囲、ウィンドウ、iOSデバイスをWebカメラとマイクでキャプチャし、トリミング、ズーム、スタイル設定、エクスポートが可能。 [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
-* [Screen Studio](https://www.screen.studio/) - 精巧なフレームアニメーションを内蔵し、編集不要で美しい画面を数分で録画。
+* [Reframed](https://reframed.dev) - 内蔵エディター付きの画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Screen Studio](https://www.screen.studio/) - 自動モーション効果で見栄えのする動画を作れる画面録画ツール。
 * [ScreenSage Pro](https://screensage.pro/) - 数分で洗練された画面録画動画を作れるツール。
-* [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソルエフェクト、タイムライン編集機能を備えたオープンソースの画面録画アプリ - Screen Studioの代替。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AIによる検索機能付きの24時間365日のローカル画面・マイク録画。自然言語クエリで見たもの、言ったこと、聞いたことを何でも呼び出せる。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
+* [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソル効果、タイムライン編集に対応したオープンソース画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI検索に対応したローカル画面・マイク録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
-* [Tight Studio](https://tight.studio/) - スマートズーム、AIボイスオーバー、簡単な字幕、テキストオーバーレイなど、すべてシンプルなクリックで印象的な画面を数分で録画。
+* [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
 
 ### その他のツール
@@ -722,7 +724,7 @@ Awesome Mac
 * [Assetizr](https://assetizr.com) - Webおよびモバイルアプリケーション向けの画像リサイズと最適化。 ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - 画面に表示される色を取得・調整するシンプルなアプリ。 ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusionでコンピューター上でAIアートを生成する最も簡単な方法。 [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
-* [Eagle App](https://en.eagle.cool/) - すべてのデザインファイルにタグと注釈を付けて管理するシンプルで直感的なファイルマネージャー。主要なソース、画像、RAW、動画、3D、音声、フォント、オフィスファイルをサポート。
+* [Eagle App](https://en.eagle.cool/) - 画像、動画、音声、フォント、デザイン素材を管理するアセットマネージャー。
 * [ExifCleaner](https://exifcleaner.com) - ドラッグアンドドロップで画像や動画からExifメタデータを削除。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC画像をJPEGまたはPNGに変換。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
 * [Iconset](https://iconset.io) - 無料でクロスプラットフォームの高速SVGアイコンオーガナイザーおよびマネージャー（MacおよびWindows対応）。
@@ -747,37 +749,37 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
-* [Zipic](https://zipic.app/) - カスタムプリセット、自動化ワークフロー、ショートカットとRaycast連携を備えたバッチ画像圧縮ツール。
+* [Zipic](https://zipic.app/) - プリセットと自動化に対応した一括画像圧縮ツール。
 
 ## AIツール
 
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
-* [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
-* [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
+* [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - ローカルモデルとクラウドモデルに対応したMCP対応のオープンソースAIチャットクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
 * [BoltAI](https://boltai.com) - Mac用の美しく強力なChatGPTアプリ。AIをワークフローに統合して一歩先へ。
 * [ChatGPT](https://openai.com/chatgpt/mac/) - 聞き、学び、挑戦する対話型AIシステム。
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
-* [Claude God](https://claudegod.app) - Claudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
+* [Claude God](https://claudegod.app) - Claudeの使用量、コスト、セッション統計を監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - リアルタイムのカウンターでClaude使用量を追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
-* [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Claude Codeセッションを閲覧・分析・管理でき、タイムライン、コスト見積もり、シークレットスキャンも提供するツール。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
+* [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Claude Codeセッションを閲覧・分析するツール。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 複数の大規模言語モデル（LLM）プロバイダーをサポートするデスクトップクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - ログイン不要でOpenAI CodexとClaude Codeの使用状況を表示。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
-* [Fluent](https://fluentmac.app) - 450以上のモデル（BYOK）をあらゆるmacOSアプリに統合するネイティブAIアシスタント。即座のアプリ&ブラウザコンテキスト、カスタマイズ可能なアクション、ショートカット、ローカルモデルをサポート。
-* [GroAsk](https://groask.com) - macOSメニューバーAIランチャー。⌥Spaceを押してテキストをChatGPT、Claude、Gemini、CLIエージェントに送信 - APIキー不要。
-* [RecurseChat](https://recurse.chat) - パーソナルでローカルファーストのプライベートAIチャットアプリ。シンプルなインターフェース、強力なカスタマイズ、超高速のスピード。
+* [Fluent](https://fluentmac.app) - 各種アプリでモデルとコンテキストを使えるAIアシスタント。
+* [GroAsk](https://groask.com) - 選択したテキストをAIアシスタントやCLIエージェントに送れるメニューバーランチャー。
+* [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Claudeの各種使用量上限をリアルタイムに監視できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - コンピューター上で完全にオフラインで動作するChatGPTのオープンソース代替。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - 仕様駆動ワークフローで複数のAIコーディングエージェントを連携させるツール。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
-* [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - ローカル優先で動作し、文脈を記憶して文章作成・コーディング・自動化タスクを実行できる個人向けAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
-* [Orchard](https://orchard.5km.tech/) - AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。
+* [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 記憶機能と自動化機能を備えたローカルファーストの個人向けAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
+* [Orchard](https://orchard.5km.tech/) - AIアシスタントをAppleアプリへ接続するMCPサーバー。
 * [Witsy](https://github.com/nbonamy/witsy) - デスクトップAIアシスタント / ユニバーサルMCPクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
-* [remio](https://www.remio.ai/?utm_source=github_list) - あなたの知識に基づいて応答するパーソナルChatGPT。最新のLLM、ローカルファースト、BYOK対応。 [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
+* [remio](https://www.remio.ai/?utm_source=github_list) - 自分の知識ベースを使って応答するローカルファーストのAIチャットクライアント。 [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 独自のAPIキーを使って複数のLLMモデルを実行できるネイティブSwift macOSアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 
 
@@ -786,13 +788,13 @@ Awesome Mac
 ### コラボレーションとチームツール
 
 * [Adium](https://adium.im/) - Mac OS X用の無料インスタントメッセージングアプリケーション。AIM、MSN、SMPP、Yahooなどに接続。 ![Freeware][Freeware Icon]
-* [BlurScreen App](https://www.blurscreen.app) - 録画や画面共有中に画面上のどこでも機密データを即座にぼかし処理。後から編集する必要なし。
+* [BlurScreen App](https://www.blurscreen.app) - 録画や画面共有中の機密情報を即座にぼかせるツール。
 * [Caprine](https://github.com/sindresorhus/caprine) - プライバシー重視のサードパーティFacebook Messengerアプリ。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [DingTalk](https://www.dingtalk.com/en) - 世界中で500万以上の企業・組織に利用されている無料で強力かつプロフェッショナルなオフィスツール。 ![Freeware][Freeware Icon]
-* [Discord](https://discordapp.com/) - ゲーマー向けのオールインワン音声・テキストチャット。無料で安全、デスクトップとスマートフォンの両方で動作。
+* [DingTalk](https://www.dingtalk.com/en) - チーム向けのコミュニケーションとコラボレーションのプラットフォーム。 ![Freeware][Freeware Icon]
+* [Discord](https://discordapp.com/) - 音声、テキスト、コミュニティ向けのチャットプラットフォーム。
 * [Element](https://element.io/) - 作成、共有、コミュニケーション。安全なチャットと通話。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
 * [Ferdium](https://ferdium.org/) - お気に入りのアプリを1つのアプリケーションにまとめて管理を支援するデスクトップアプリ。Franzをベースに、多くの追加機能と使用制限のない点が異なる。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
-* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/)ベースの、Webベースチャット用マルチプロトコルラッパー。1つのアプリケーションで23のメッセンジャーサービスに対応。 ![Freeware][Freeware Icon]
+* [Franz](http://meetfranz.com/) - 複数のチャットサービスを1つにまとめるメッセージングアプリ。 ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 開発者およびGitHubユーザー向けのインスタントメッセージングおよびチャットルームシステム。Markdown構文をサポートし、開発者に優しい。
 * [Keybase](https://keybase.io/) - 誰でも使えるセキュアなグループ、ファイル、チャット！ [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 * [Krisp](https://krisp.ai/) - 通話中の背景ノイズをミュートするAI搭載のノイズキャンセリングアプリ。
@@ -800,20 +802,20 @@ Awesome Mac
 * [LimeChat](http://limechat.net/mac/) - Mac OS X用のオープンソースIRCクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Mastodon](https://mastodon.social/) - セルフホスト型で、グローバルに相互接続されたマイクロブログコミュニティ [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 * [Matrix](https://matrix.org/) - セキュアで分散型のコミュニケーションのためのオープンネットワーク！ ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
-* [Mattermost](https://mattermost.com/download/) - ソフトウェア開発ライフサイクル全体にわたるセキュアなコラボレーションのためのオープンソースプラットフォーム。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
+* [Mattermost](https://mattermost.com/download/) - オープンソースのチームコラボレーションプラットフォーム。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Misskey](https://misskey-hub.net/) - 🌎 完全に無料でオープンな惑星間マイクロブログプラットフォーム 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
 * [Muzzle](https://muzzleapp.com/) - 画面共有中に恥ずかしい通知を非表示にするシンプルなMacアプリ。
 * [Presentify](https://presentify.compzets.com/) - 通話中に画面上に描画したり、カーソルをハイライトしたりできるMacアプリ。 ![App Store][app-store Icon]
 * [Rambox](http://rambox.pro/) - 一般的なWebアプリケーションを1つにまとめたメッセージングおよびメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal Desktop](https://signal.org/download/) - 高速、シンプル、セキュア。ポケットに収まるプライバシー。 [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/downloads/mac) - チームコラボレーションとコミュニケーションのための優れたツール。 ![Freeware][Freeware Icon]
-* [Stack](https://getstack.app/) - 複数のWebアプリを1つの画面で開いて整理し、使用できる。カテゴリやプロジェクトごとにアプリをスタック。
+* [Stack](https://getstack.app/) - 複数のWebアプリを1画面で整理できるワークスペースブラウザ。
 * [Teams](https://teams.live.com/) - 無料のオンライン会議とビデオ通話
-* [Teambition](https://www.teambition.com) - タスク計画、スケジュール、ファイル共有、インスタントディスカッションなど、チームメンバーとのコラボレーションに必要なすべてを含むチームコラボレーションツール。 ![Freeware][Freeware Icon]
+* [Teambition](https://www.teambition.com) - タスク、予定、ファイル、ディスカッションをまとめて扱えるチームコラボレーションツール。 ![Freeware][Freeware Icon]
 * [Telegram](https://desktop.telegram.org) - 速度とセキュリティに重点を置いたメッセージングアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
 * [Textual](https://apps.apple.com/us/app/textual-7/id1262957439?platform=mac) - Internet Relay Chat (IRC)クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual) [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
 * [Unite](https://furnacecreek.org/unite/) - Mac用の唯一のネイティブGroupMeアプリ。
-* [Wavebox](https://wavebox.io) - Google Workspaces、Microsoft Teams、ClickUp、Monday、Atlassian、Asana、AirTable、Slackなど、仕事で使用するすべてのWebアプリにまたがる生産的な作業のために構築された、革新的で機能豊富なChromiumブラウザ。
+* [Wavebox](https://wavebox.io) - Webアプリやチームツールを整理して使えるブラウザ型ワークスペース。
 * [WeChat](https://apps.apple.com/app/wechat/id836500024?platform=mac) - Mac用の公式WeChatアプリ。 ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - 拡張可能なコマンドラインチャットクライアント。 ![Freeware][Freeware Icon]
 * [WhatsApp Desktop](https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?platform=mac) - Mac App Storeで利用可能なデスクトップ版WhatsApp。 ![App Store][app-store Icon]
