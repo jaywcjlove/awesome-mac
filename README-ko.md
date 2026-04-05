@@ -971,7 +971,6 @@ Awesome Mac
 
 ## 서드파티 앱 마켓
 
-* [Setapp](https://setapp.com/) - 엄선된 앱 모음을 제공하는 구독 서비스.
 * [Homebrew](https://brew.sh/index_ko) - macOS용 패키지 관리자. [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew) ![Freeware][Freeware Icon]
 * [MacPorts](https://www.macports.org/) - 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 

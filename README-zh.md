@@ -1389,7 +1389,6 @@ Awesome Mac
 * [Applite](https://github.com/milanvarady/Applite) - 用户友好的 Homebrew Casks GUI macOS 应用程序 [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite) ![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载 App，跟踪优惠信息。
 * [MacPorts](https://www.macports.org/) - 用于安装和管理开源软件的软件包管理器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
-* [Setapp](https://setapp.com) - 提供一组精选应用的订阅服务。
 * 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
 * 少数派商店：[https://sspai.com/mall](https://sspai.com/mall)
 

@@ -1519,8 +1519,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 If you come across websites offering pirated software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, but only authentic ones. :)
 
-* [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - Subscription service that bundles a curated library of apps.
-
 ### Package Managers
 
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
