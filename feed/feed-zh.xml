@@ -5,9 +5,205 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:31:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ferdium</title>
+      <link>https://ferdium.org/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Ferdium</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>通信</category>
+      <description>Category: 通信
+App: Ferdium
+Description: 将多个 Web 应用整合到一起的消息工作区。
+Website: https://ferdium.org/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 通信<br/>App: Ferdium<br/>Description: 将多个 Web 应用整合到一起的消息工作区。<br/>Website: https://ferdium.org/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Dropshare</title>
+      <link>https://dropshare.app</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Dropshare</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>通信 / 文件共享</category>
+      <description>Category: 通信 / 文件共享
+App: Dropshare
+Description: 用于分享截图、录屏和其他文件的工具。
+Website: https://dropshare.app
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: Dropshare<br/>Description: 用于分享截图、录屏和其他文件的工具。<br/>Website: https://dropshare.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>LyricGlow</title>
+      <link>https://github.com/ateymoori/lyricglow</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:LyricGlow</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: LyricGlow
+Description: 支持逐词发光效果的同步歌词播放器。
+Open Source: https://github.com/ateymoori/lyricglow
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: LyricGlow<br/>Description: 支持逐词发光效果的同步歌词播放器。<br/>Open Source: https://github.com/ateymoori/lyricglow<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>trax</title>
+      <link>https://github.com/nbonamy/trax</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:trax</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: trax
+Description: 支持音频转换和标签编辑的音乐资料库管理工具。
+Open Source: https://github.com/nbonamy/trax
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: trax<br/>Description: 支持音频转换和标签编辑的音乐资料库管理工具。<br/>Open Source: https://github.com/nbonamy/trax<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuneful</title>
+      <link>https://www.tuneful.dev</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Tuneful</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Tuneful
+Description: 用于从菜单栏或迷你播放器控制 Spotify 和 Apple Music 的工具。
+Website: https://www.tuneful.dev
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Tuneful<br/>Description: 用于从菜单栏或迷你播放器控制 Spotify 和 Apple Music 的工具。<br/>Website: https://www.tuneful.dev<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>YouTube Music</title>
+      <link>https://th-ch.github.io/youtube-music/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:YouTube Music</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: YouTube Music
+Description: 支持插件扩展的 YouTube Music 桌面播放器。
+Website: https://th-ch.github.io/youtube-music/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: YouTube Music<br/>Description: 支持插件扩展的 YouTube Music 桌面播放器。<br/>Website: https://th-ch.github.io/youtube-music/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Helium</title>
+      <link>https://helium.computer/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Helium</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Helium
+Description: 内置广告拦截的隐私导向 Chromium 浏览器。
+Website: https://helium.computer/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Helium<br/>Description: 内置广告拦截的隐私导向 Chromium 浏览器。<br/>Website: https://helium.computer/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>SubManager</title>
+      <link>https://submanager.app</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:SubManager</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>金融</category>
+      <description>Category: 金融
+App: SubManager
+Description: 带续费提醒的订阅管理工具。
+Website: https://submanager.app
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 金融<br/>App: SubManager<br/>Description: 带续费提醒的订阅管理工具。<br/>Website: https://submanager.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Deadbolt</title>
+      <link>https://github.com/alichtman/deadbolt</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Deadbolt</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: Deadbolt
+Description: 开源文件加密工具。
+Open Source: https://github.com/alichtman/deadbolt
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: Deadbolt<br/>Description: 开源文件加密工具。<br/>Open Source: https://github.com/alichtman/deadbolt<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>MalwareBytes</title>
+      <link>https://www.malwarebytes.com/mac-download/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:MalwareBytes</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: MalwareBytes
+Description: 用于扫描和移除恶意软件的安全工具。
+Website: https://www.malwarebytes.com/mac-download/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: MalwareBytes<br/>Description: 用于扫描和移除恶意软件的安全工具。<br/>Website: https://www.malwarebytes.com/mac-download/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Vulert</title>
+      <link>https://vulert.com</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Vulert</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: Vulert
+Description: 用于监控开源依赖漏洞的服务。
+Website: https://vulert.com
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: Vulert<br/>Description: 用于监控开源依赖漏洞的服务。<br/>Website: https://vulert.com<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>swiftGuard</title>
+      <link>https://github.com/Lennolium/swiftGuard</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:swiftGuard</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: swiftGuard
+Description: 用于保护 USB 端口免受未授权访问的工具。
+Open Source: https://github.com/Lennolium/swiftGuard
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: swiftGuard<br/>Description: 用于保护 USB 端口免受未授权访问的工具。<br/>Open Source: https://github.com/Lennolium/swiftGuard<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>ClashX Guide</title>
+      <link>https://clashx.tech</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:ClashX Guide</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: ClashX Guide
+Description: 用于 ClashX 的指南和故障排查工具。
+Website: https://clashx.tech
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: ClashX Guide<br/>Description: 用于 ClashX 的指南和故障排查工具。<br/>Website: https://clashx.tech<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Cloudflare WARP</title>
+      <link>https://1.1.1.1/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Cloudflare WARP</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: Cloudflare WARP
+Description: 通过 Cloudflare 路由流量的安全网络服务。
+Website: https://1.1.1.1/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: Cloudflare WARP<br/>Description: 通过 Cloudflare 路由流量的安全网络服务。<br/>Website: https://1.1.1.1/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
     <item>
       <title>DB Pro</title>
       <link>https://dbpro.app</link>
@@ -511,202 +707,6 @@ Website: https://www.trae.ai/
 Commit: docs: refresh app descriptions across localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Trae<br/>Description: 面向软件开发的 AI IDE。<br/>Website: https://www.trae.ai/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>LINQPad</title>
-      <link>https://www.linqpad.net/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:LINQPad</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: LINQPad
-Description: 用于运行代码、查询数据和探索数据库的 .NET 草稿本。
-Website: https://www.linqpad.net/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: LINQPad<br/>Description: 用于运行代码、查询数据和探索数据库的 .NET 草稿本。<br/>Website: https://www.linqpad.net/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Poirot</title>
-      <link>https://github.com/LeonardoCardoso/Poirot</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Poirot</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Poirot
-Description: 用于浏览 Claude Code 会话、查看差异和重跑命令的配套工具。
-Open Source: https://github.com/LeonardoCardoso/Poirot
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Poirot<br/>Description: 用于浏览 Claude Code 会话、查看差异和重跑命令的配套工具。<br/>Open Source: https://github.com/LeonardoCardoso/Poirot<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneHosts</title>
-      <link>https://sanehosts.com</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:SaneHosts</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: SaneHosts
-Description: 基于 hosts 的广告与追踪器拦截工具。
-Website: https://sanehosts.com
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: SaneHosts<br/>Description: 基于 hosts 的广告与追踪器拦截工具。<br/>Website: https://sanehosts.com<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Testpiler</title>
-      <link>https://furnacecreek.org/testpiler/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Testpiler</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Testpiler
-Description: 将 XCTest 测试转换为 Swift Testing 的工具。
-Website: https://furnacecreek.org/testpiler/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Testpiler<br/>Description: 将 XCTest 测试转换为 Swift Testing 的工具。<br/>Website: https://furnacecreek.org/testpiler/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Echolon</title>
-      <link>https://echolon.app</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Echolon</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / API开发和分析</category>
-      <description>Category: 开发者工具 / API开发和分析
-App: Echolon
-Description: 开源 API 客户端，也是 Postman 的替代品。
-Website: https://echolon.app
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / API开发和分析<br/>App: Echolon<br/>Description: 开源 API 客户端，也是 Postman 的替代品。<br/>Website: https://echolon.app<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Maestro</title>
-      <link>https://maestro.dev/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Maestro</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / API开发和分析</category>
-      <description>Category: 开发者工具 / API开发和分析
-App: Maestro
-Description: 面向移动和 Web 应用的端到端测试框架。
-Website: https://maestro.dev/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / API开发和分析<br/>App: Maestro<br/>Description: 面向移动和 Web 应用的端到端测试框架。<br/>Website: https://maestro.dev/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Cocoa-Way</title>
-      <link>https://github.com/J-x-Z/cocoa-way</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Cocoa-Way</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: Cocoa-Way
-Description: 无需虚拟机即可运行 Linux 图形应用的 Wayland 合成器。
-Open Source: https://github.com/J-x-Z/cocoa-way
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Cocoa-Way<br/>Description: 无需虚拟机即可运行 Linux 图形应用的 Wayland 合成器。<br/>Open Source: https://github.com/J-x-Z/cocoa-way<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Maestro</title>
-      <link>https://runmaestro.ai</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Maestro</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / API开发和分析</category>
-      <description>Category: 开发者工具 / API开发和分析
-App: Maestro
-Description: 采用规格驱动工作流的多 AI 编码代理协作工具。
-Website: https://runmaestro.ai
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / API开发和分析<br/>App: Maestro<br/>Description: 采用规格驱动工作流的多 AI 编码代理协作工具。<br/>Website: https://runmaestro.ai<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Anytype</title>
-      <link>https://anytype.io/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Anytype</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Anytype
-Description: 本地优先的笔记与知识管理应用。
-Website: https://anytype.io/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Anytype<br/>Description: 本地优先的笔记与知识管理应用。<br/>Website: https://anytype.io/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Noteship</title>
-      <link>https://noteship.com</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Noteship</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Noteship
-Description: 本地优先的笔记应用，可将笔记整理为结构化知识。
-Website: https://noteship.com
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Noteship<br/>Description: 本地优先的笔记应用，可将笔记整理为结构化知识。<br/>Website: https://noteship.com<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>Stik</title>
-      <link>https://github.com/0xMassi/stik_app</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Stik</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Stik
-Description: 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。
-Open Source: https://github.com/0xMassi/stik_app
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Stik<br/>Description: 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。<br/>Open Source: https://github.com/0xMassi/stik_app<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>VNote</title>
-      <link>https://app.vnote.fun/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:VNote</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: VNote
-Description: 带优秀编辑体验的开源 Markdown 笔记应用。
-Website: https://app.vnote.fun/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: VNote<br/>Description: 带优秀编辑体验的开源 Markdown 笔记应用。<br/>Website: https://app.vnote.fun/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>BookShelves</title>
-      <link>https://getbookshelves.app/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:BookShelves</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>电子书</category>
-      <description>Category: 电子书
-App: BookShelves
-Description: 集电子书阅读与书库管理于一体的应用，提供公共领域书籍与同步功能。
-Website: https://getbookshelves.app/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 电子书<br/>App: BookShelves<br/>Description: 集电子书阅读与书库管理于一体的应用，提供公共领域书籍与同步功能。<br/>Website: https://getbookshelves.app/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
-    </item>
-    <item>
-      <title>PDF Auditor</title>
-      <link>https://pura-vida.in/apps/pdf-auditor/?utm_source=github&amp;utm_medium=awesome-mac</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:PDF Auditor</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>电子书 / 其他</category>
-      <description>Category: 电子书 / 其他
-App: PDF Auditor
-Description: 用于分析元数据、结构和安全风险的 PDF 检查工具。
-Website: https://pura-vida.in/apps/pdf-auditor/?utm_source=github&amp;utm_medium=awesome-mac
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: PDF Auditor<br/>Description: 用于分析元数据、结构和安全风险的 PDF 检查工具。<br/>Website: https://pura-vida.in/apps/pdf-auditor/?utm_source=github&amp;utm_medium=awesome-mac<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
     </item>
   </channel>
 </rss>
