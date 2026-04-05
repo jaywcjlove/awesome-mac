@@ -5,9 +5,51 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 03 Apr 2026 00:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:07:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mocker</title>
+      <link>https://github.com/us/mocker</link>
+      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:Mocker</guid>
+      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
+      <category>開発ツール / 仮想化</category>
+      <description>Category: 開発ツール / 仮想化
+App: Mocker
+Description: AppleのContainerization framework上に構築されたコンテナ管理ツール。
+Open Source: https://github.com/us/mocker
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: Mocker<br/>Description: AppleのContainerization framework上に構築されたコンテナ管理ツール。<br/>Open Source: https://github.com/us/mocker<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
+    </item>
+    <item>
+      <title>macshot</title>
+      <link>https://github.com/sw33tlie/macshot</link>
+      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:macshot</guid>
+      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: macshot
+Description: 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。
+Open Source: https://github.com/sw33tlie/macshot
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: macshot<br/>Description: 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。<br/>Open Source: https://github.com/sw33tlie/macshot<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
+    </item>
+    <item>
+      <title>CurrentKey</title>
+      <link>https://currentkey.com</link>
+      <guid isPermaLink="false">d0795136db01ac01ee88c190d1ad8dba856f9f05:CurrentKey</guid>
+      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: CurrentKey
+Description: Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。
+Website: https://currentkey.com
+Commit: Add CurrentKey
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: CurrentKey<br/>Description: Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05]]></content:encoded>
+    </item>
     <item>
       <title>Santa</title>
       <link>https://northpole.security/</link>
