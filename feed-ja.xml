@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 06:29:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FunKey</title>
+      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: FunKey
+Description: キーボード入力にメカニカル風の打鍵音を加えるツール。
+App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: FunKey<br/>Description: キーボード入力にメカニカル風の打鍵音を加えるツール。<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
     <item>
       <title>Mocker</title>
       <link>https://github.com/us/mocker</link>

@@ -5,9 +5,163 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Apr 2026 03:31:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 06:29:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mullvad VPN</title>
+      <link>https://mullvad.net</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Mullvad VPN</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: Mullvad VPN
+Description: 注重隐私、支持匿名账号的 VPN 服务。
+Website: https://mullvad.net
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: Mullvad VPN<br/>Description: 注重隐私、支持匿名账号的 VPN 服务。<br/>Website: https://mullvad.net<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Windscribe</title>
+      <link>https://windscribe.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Windscribe</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: Windscribe
+Description: 提供广告拦截和节点切换的 VPN 与代理服务。
+Website: https://windscribe.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: Windscribe<br/>Description: 提供广告拦截和节点切换的 VPN 与代理服务。<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>DNS Easy Switcher</title>
+      <link>https://github.com/glinford/dns-easy-switcher</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DNS Easy Switcher</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: DNS Easy Switcher
+Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。
+Open Source: https://github.com/glinford/dns-easy-switcher
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: DNS Easy Switcher<br/>Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>ClipTools</title>
+      <link>https://macmost.com/cliptools</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:ClipTools</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: ClipTools
+Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。
+Website: https://macmost.com/cliptools
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipTools<br/>Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneClip</title>
+      <link>https://saneclip.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneClip</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: SaneClip
+Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。
+Website: https://saneclip.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: SaneClip<br/>Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>uPaste</title>
+      <link>https://okaapps.com/product/1503649026</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:uPaste</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: uPaste
+Description: 自动整理剪贴板历史和常用片段的管理器。
+Website: https://okaapps.com/product/1503649026
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: uPaste<br/>Description: 自动整理剪贴板历史和常用片段的管理器。<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Anvil</title>
+      <link>https://anvilformac.com/</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Anvil</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Anvil
+Description: 轻松托管本地静态网站和 Rack 应用的工具。
+Website: https://anvilformac.com/
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Anvil<br/>Description: 轻松托管本地静态网站和 Rack 应用的工具。<br/>Website: https://anvilformac.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneBar</title>
+      <link>https://sanebar.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneBar</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: SaneBar
+Description: 带隐藏区域和自动化能力的隐私优先菜单栏管理器。
+Website: https://sanebar.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SaneBar<br/>Description: 带隐藏区域和自动化能力的隐私优先菜单栏管理器。<br/>Website: https://sanebar.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>DynamicHorizon</title>
+      <link>https://dynamichorizon.app</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DynamicHorizon</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: DynamicHorizon
+Description: 为刘海区域加入媒体控制、通知和系统状态。
+Website: https://dynamichorizon.app
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: DynamicHorizon<br/>Description: 为刘海区域加入媒体控制、通知和系统状态。<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Today</title>
+      <link>https://sindresorhus.com/today</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Today</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Today
+Description: 在菜单栏查看今天日程和日历事件。
+Website: https://sindresorhus.com/today
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Today<br/>Description: 在菜单栏查看今天日程和日历事件。<br/>Website: https://sindresorhus.com/today<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>FunKey</title>
+      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: FunKey
+Description: 为键盘输入添加机械键盘音效的工具。
+App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: FunKey<br/>Description: 为键盘输入添加机械键盘音效的工具。<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
     <item>
       <title>Ferdium</title>
       <link>https://ferdium.org/</link>
@@ -553,160 +707,6 @@ Website: https://mindmac.app/
 Commit: Update productivity app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: MindMac<br/>Description: 在一个客户端中使用多种 AI 模型与服务。<br/>Website: https://mindmac.app/<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Magic Switch</title>
-      <link>https://magic-switch.com/</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:Magic Switch</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Magic Switch
-Description: 在多台电脑之间切换 Magic Keyboard、Mouse 和 Trackpad。
-Website: https://magic-switch.com/
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Magic Switch<br/>Description: 在多台电脑之间切换 Magic Keyboard、Mouse 和 Trackpad。<br/>Website: https://magic-switch.com/<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>nnScreenshots</title>
-      <link>https://www.nearnorthsoftware.com/software/screenshots.php</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:nnScreenshots</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: nnScreenshots
-Description: 定时截图，方便回顾工作过程和填写工时。
-Website: https://www.nearnorthsoftware.com/software/screenshots.php
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: nnScreenshots<br/>Description: 定时截图，方便回顾工作过程和填写工时。<br/>Website: https://www.nearnorthsoftware.com/software/screenshots.php<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Rize</title>
-      <link>https://rize.io/</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:Rize</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Rize
-Description: 用 AI 自动追踪时间并帮助改善专注习惯。
-Website: https://rize.io/
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Rize<br/>Description: 用 AI 自动追踪时间并帮助改善专注习惯。<br/>Website: https://rize.io/<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Selectric</title>
-      <link>https://selectric.io/</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:Selectric</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Selectric
-Description: 在邮件、文档和聊天内容中进行本地搜索。
-Website: https://selectric.io/
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Selectric<br/>Description: 在邮件、文档和聊天内容中进行本地搜索。<br/>Website: https://selectric.io/<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>SensibleSideButtons</title>
-      <link>http://sensible-side-buttons.archagon.net</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:SensibleSideButtons</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: SensibleSideButtons
-Description: 让鼠标侧键在更多应用中支持前进后退。
-Website: http://sensible-side-buttons.archagon.net
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: SensibleSideButtons<br/>Description: 让鼠标侧键在更多应用中支持前进后退。<br/>Website: http://sensible-side-buttons.archagon.net<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Strategr</title>
-      <link>https://khrykin.github.io/strategr/</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:Strategr</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Strategr
-Description: 用时间盒规划一天的时间管理工具。
-Website: https://khrykin.github.io/strategr/
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Strategr<br/>Description: 用时间盒规划一天的时间管理工具。<br/>Website: https://khrykin.github.io/strategr/<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Z</title>
-      <link>https://github.com/rupa/z</link>
-      <guid isPermaLink="false">0eb344f71263a769681732fd8294539503f723ee:Z</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Z
-Description: 通过输入部分路径快速跳转常用目录。
-Open Source: https://github.com/rupa/z
-Commit: Update productivity app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Z<br/>Description: 通过输入部分路径快速跳转常用目录。<br/>Open Source: https://github.com/rupa/z<br/>Commit: Update productivity app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb344f71263a769681732fd8294539503f723ee]]></content:encoded>
-    </item>
-    <item>
-      <title>CurrentKey</title>
-      <link>https://currentkey.com</link>
-      <guid isPermaLink="false">d0795136db01ac01ee88c190d1ad8dba856f9f05:CurrentKey</guid>
-      <pubDate>Sat, 04 Apr 2026 10:41:32 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: CurrentKey
-Description: 为空间添加自定义名称和图标，并统计各应用使用时长。
-Website: https://currentkey.com
-Commit: Add CurrentKey
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: CurrentKey<br/>Description: 为空间添加自定义名称和图标，并统计各应用使用时长。<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05]]></content:encoded>
-    </item>
-    <item>
-      <title>Santa</title>
-      <link>https://northpole.security/</link>
-      <guid isPermaLink="false">393e984e48f28791c9127c4d945a1d8aba009a44:Santa</guid>
-      <pubDate>Fri, 03 Apr 2026 00:35:27 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: Santa
-Description: 二进制与文件访问授权系统。
-Website: https://northpole.security/
-Commit: Add Santa to the ja/ko/zh list. #1957
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: Santa<br/>Description: 二进制与文件访问授权系统。<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
-    </item>
-    <item>
-      <title>Revu</title>
-      <link>https://revu.cards/</link>
-      <guid isPermaLink="false">11a0d97fb3707c4b5487e3b9618141cfdc20abb4:Revu</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Revu
-Description: 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。
-Website: https://revu.cards/
-Commit: Add Revu to the ja/ko/zh list. #1955
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Revu<br/>Description: 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。<br/>Website: https://revu.cards/<br/>Commit: Add Revu to the ja/ko/zh list. #1955<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4]]></content:encoded>
-    </item>
-    <item>
-      <title>Trae</title>
-      <link>https://www.trae.ai/</link>
-      <guid isPermaLink="false">ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a:Trae</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Trae
-Description: 面向软件开发的 AI IDE。
-Website: https://www.trae.ai/
-Commit: docs: refresh app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Trae<br/>Description: 面向软件开发的 AI IDE。<br/>Website: https://www.trae.ai/<br/>Commit: docs: refresh app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed0349ea7a5694641df21a7a6a66c1a0a9d5b98a]]></content:encoded>
     </item>
   </channel>
 </rss>
