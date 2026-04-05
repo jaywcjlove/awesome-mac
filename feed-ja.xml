@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Apr 2026 06:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:37:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>markdown-quicklook</title>
+      <link>https://github.com/ruspg/markdown-quicklook</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:markdown-quicklook</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>クイックルックプラグイン</category>
+      <description>Category: クイックルックプラグイン
+App: markdown-quicklook
+Description: レンダリング済み Markdown を表示する Quick Look プラグイン。
+Open Source: https://github.com/ruspg/markdown-quicklook
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: クイックルックプラグイン<br/>App: markdown-quicklook<br/>Description: レンダリング済み Markdown を表示する Quick Look プラグイン。<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
     <item>
       <title>FunKey</title>
       <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
