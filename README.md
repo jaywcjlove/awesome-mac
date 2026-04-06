@@ -174,6 +174,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 *Applications to edit text, I suggest the open-source editors*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Mac development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ### Text Editors
 
 * [Aurora Editor](https://auroraeditor.com/) - Lightweight Code Editor (IDE) for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
