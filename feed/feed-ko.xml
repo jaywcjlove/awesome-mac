@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Awesome Mac - 최근 추가된 앱</title>
+    <link>https://jaywcjlove.github.io/awesome-mac</link>
+    <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 05 Apr 2026 07:37:24 GMT</lastBuildDate>
+    <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
+    <generator>build/feed.mjs</generator>
+    <item>
+      <title>Modal File Manager</title>
+      <link>https://github.com/raguay/ModalFileManager/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Modal File Manager</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Modal File Manager
+Description: Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자.
+Open Source: https://github.com/raguay/ModalFileManager/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Modal File Manager<br/>Description: Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자.<br/>Open Source: https://github.com/raguay/ModalFileManager/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Oka Unarchiver</title>
+      <link>https://okaapps.com/product/1441507725</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Oka Unarchiver</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Oka Unarchiver
+Description: RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구.
+Website: https://okaapps.com/product/1441507725
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Oka Unarchiver<br/>Description: RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구.<br/>Website: https://okaapps.com/product/1441507725<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneClick</title>
+      <link>https://saneclick.com</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SaneClick</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: SaneClick
+Description: Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장.
+Website: https://saneclick.com
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: SaneClick<br/>Description: Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장.<br/>Website: https://saneclick.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Unarchive One</title>
+      <link>https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Unarchive One</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Unarchive One
+Description: 다양한 일반 압축 포맷을 압축하고 해제하는 도구.
+Website: https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Unarchive One<br/>Description: 다양한 일반 압축 포맷을 압축하고 해제하는 도구.<br/>Website: https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>DisplayBuddy</title>
+      <link>https://displaybuddy.app</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:DisplayBuddy</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: DisplayBuddy
+Description: 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.
+Website: https://displaybuddy.app
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: DisplayBuddy<br/>Description: 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.<br/>Website: https://displaybuddy.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Grayscale Mode</title>
+      <link>https://github.com/rkbhochalya/grayscale-mode</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Grayscale Mode</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Grayscale Mode
+Description: 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구.
+Open Source: https://github.com/rkbhochalya/grayscale-mode
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Grayscale Mode<br/>Description: 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구.<br/>Open Source: https://github.com/rkbhochalya/grayscale-mode<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>MagicQuit</title>
+      <link>https://magicquit.com/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MagicQuit</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: MagicQuit
+Description: 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구.
+Website: https://magicquit.com/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: MagicQuit<br/>Description: 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구.<br/>Website: https://magicquit.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>OnyX</title>
+      <link>https://www.titanium-software.fr/en/onyx.html</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:OnyX</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: OnyX
+Description: 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구.
+Website: https://www.titanium-software.fr/en/onyx.html
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: OnyX<br/>Description: 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구.<br/>Website: https://www.titanium-software.fr/en/onyx.html<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Sensei</title>
+      <link>https://sensei.app/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Sensei</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Sensei
+Description: 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
+Website: https://sensei.app/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Sensei<br/>Description: 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.<br/>Website: https://sensei.app/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>SteerMouse</title>
+      <link>https://plentycom.jp/en/steermouse/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SteerMouse</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: SteerMouse
+Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
+Website: https://plentycom.jp/en/steermouse/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: SteerMouse<br/>Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.<br/>Website: https://plentycom.jp/en/steermouse/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Nozbe</title>
+      <link>https://nozbe.com</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Nozbe</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 할 일 목록 (To-Do Lists)</category>
+      <description>Category: 유틸리티 / 할 일 목록 (To-Do Lists)
+App: Nozbe
+Description: 개인과 팀을 위한 GTD 작업 관리자.
+Website: https://nozbe.com
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Nozbe<br/>Description: 개인과 팀을 위한 GTD 작업 관리자.<br/>Website: https://nozbe.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Super Productivity</title>
+      <link>https://super-productivity.com</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Super Productivity</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 할 일 목록 (To-Do Lists)</category>
+      <description>Category: 유틸리티 / 할 일 목록 (To-Do Lists)
+App: Super Productivity
+Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.
+Website: https://super-productivity.com
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Super Productivity<br/>Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.<br/>Website: https://super-productivity.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Rewind</title>
+      <link>https://www.rewind.ai/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Rewind</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Rewind
+Description: 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.
+Website: https://www.rewind.ai/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Rewind<br/>Description: 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.<br/>Website: https://www.rewind.ai/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Seodisias</title>
+      <link>https://seodisias.com</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Seodisias</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Seodisias
+Description: 사이트의 기술 SEO 문제를 찾아주는 분석 도구.
+Website: https://seodisias.com
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Seodisias<br/>Description: 사이트의 기술 SEO 문제를 찾아주는 분석 도구.<br/>Website: https://seodisias.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>DevUtils.app</title>
+      <link>https://devutils.com/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:DevUtils.app</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: DevUtils.app
+Description: 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자.
+Website: https://devutils.com/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: DevUtils.app<br/>Description: 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자.<br/>Website: https://devutils.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>contexts</title>
+      <link>https://contexts.co/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:contexts</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: contexts
+Description: 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.
+Website: https://contexts.co/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: contexts<br/>Description: 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.<br/>Website: https://contexts.co/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>MakeItHome</title>
+      <link>https://github.com/Geckos-Ink/MakeItHome</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MakeItHome</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: MakeItHome
+Description: 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구.
+Open Source: https://github.com/Geckos-Ink/MakeItHome
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: MakeItHome<br/>Description: 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구.<br/>Open Source: https://github.com/Geckos-Ink/MakeItHome<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Moom</title>
+      <link>http://manytricks.com/moom/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Moom</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Moom
+Description: 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
+Website: http://manytricks.com/moom/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Moom<br/>Description: 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.<br/>Website: http://manytricks.com/moom/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Slate</title>
+      <link>https://github.com/jigish/slate</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slate</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Slate
+Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.
+Open Source: https://github.com/jigish/slate
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Slate<br/>Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.<br/>Open Source: https://github.com/jigish/slate<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Swift Shift</title>
+      <link>https://swiftshift.app</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Swift Shift</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Swift Shift
+Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.
+Website: https://swiftshift.app
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Swift Shift<br/>Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.<br/>Website: https://swiftshift.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Tiles</title>
+      <link>https://freemacsoft.net/tiles/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Tiles</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Tiles
+Description: 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구.
+Website: https://freemacsoft.net/tiles/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Tiles<br/>Description: 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구.<br/>Website: https://freemacsoft.net/tiles/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Total Spaces</title>
+      <link>http://totalspaces.binaryage.com/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Total Spaces</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Total Spaces
+Description: 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
+Website: http://totalspaces.binaryage.com/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Total Spaces<br/>Description: 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.<br/>Website: http://totalspaces.binaryage.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>yabai</title>
+      <link>https://github.com/koekeishiya/yabai</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:yabai</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: yabai
+Description: 키보드 중심의 타일링 창 관리자.
+Open Source: https://github.com/koekeishiya/yabai
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: yabai<br/>Description: 키보드 중심의 타일링 창 관리자.<br/>Open Source: https://github.com/koekeishiya/yabai<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Strongbox</title>
+      <link>https://strongboxsafe.com/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Strongbox</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>유틸리티 / 비밀번호 관리</category>
+      <description>Category: 유틸리티 / 비밀번호 관리
+App: Strongbox
+Description: KeePass와 Password Safe를 지원하는 비밀번호 관리자.
+Website: https://strongboxsafe.com/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 비밀번호 관리<br/>App: Strongbox<br/>Description: KeePass와 Password Safe를 지원하는 비밀번호 관리자.<br/>Website: https://strongboxsafe.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Parsec</title>
+      <link>https://parsec.app/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Parsec</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>원격 로그인 소프트웨어</category>
+      <description>Category: 원격 로그인 소프트웨어
+App: Parsec
+Description: 저지연 원격 데스크톱 및 게임 스트리밍 도구.
+Website: https://parsec.app/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: Parsec<br/>Description: 저지연 원격 데스크톱 및 게임 스트리밍 도구.<br/>Website: https://parsec.app/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>RoyalTSX</title>
+      <link>https://www.royalapps.com/ts/mac/features</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:RoyalTSX</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>원격 로그인 소프트웨어</category>
+      <description>Category: 원격 로그인 소프트웨어
+App: RoyalTSX
+Description: 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트.
+Website: https://www.royalapps.com/ts/mac/features
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: RoyalTSX<br/>Description: 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트.<br/>Website: https://www.royalapps.com/ts/mac/features<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>markdown-quicklook</title>
+      <link>https://github.com/ruspg/markdown-quicklook</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:markdown-quicklook</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>QuickLook 플러그인</category>
+      <description>Category: QuickLook 플러그인
+App: markdown-quicklook
+Description: 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인.
+Open Source: https://github.com/ruspg/markdown-quicklook
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: markdown-quicklook<br/>Description: 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>MacPorts</title>
+      <link>https://www.macports.org/</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MacPorts</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>서드파티 앱 마켓</category>
+      <description>Category: 서드파티 앱 마켓
+App: MacPorts
+Description: 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자.
+Website: https://www.macports.org/
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: 서드파티 앱 마켓<br/>App: MacPorts<br/>Description: 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자.<br/>Website: https://www.macports.org/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Slant</title>
+      <link>https://www.slant.co</link>
+      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slant</guid>
+      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
+      <category>Mac 앱 다운로드 사이트 / 정식 사이트</category>
+      <description>Category: Mac 앱 다운로드 사이트 / 정식 사이트
+App: Slant
+Description: 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
+Website: https://www.slant.co
+Commit: docs: refresh multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
+      <content:encoded><![CDATA[Category: Mac 앱 다운로드 사이트 / 정식 사이트<br/>App: Slant<br/>Description: 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
+    </item>
+    <item>
+      <title>Hiddify</title>
+      <link>https://github.com/hiddify/hiddify-app</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Hiddify</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: Hiddify
+Description: 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트.
+Open Source: https://github.com/hiddify/hiddify-app
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Hiddify<br/>Description: 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트.<br/>Open Source: https://github.com/hiddify/hiddify-app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Mullvad VPN</title>
+      <link>https://mullvad.net</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Mullvad VPN</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: Mullvad VPN
+Description: 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스.
+Website: https://mullvad.net
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Mullvad VPN<br/>Description: 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스.<br/>Website: https://mullvad.net<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Tunnelbear</title>
+      <link>https://www.tunnelbear.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Tunnelbear</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: Tunnelbear
+Description: 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스.
+Website: https://www.tunnelbear.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Tunnelbear<br/>Description: 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스.<br/>Website: https://www.tunnelbear.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Windscribe</title>
+      <link>https://windscribe.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Windscribe</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: Windscribe
+Description: 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스.
+Website: https://windscribe.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Windscribe<br/>Description: 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스.<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>DNS Easy Switcher</title>
+      <link>https://github.com/glinford/dns-easy-switcher</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DNS Easy Switcher</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티</category>
+      <description>Category: 유틸리티
+App: DNS Easy Switcher
+Description: DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구.
+Open Source: https://github.com/glinford/dns-easy-switcher
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티<br/>App: DNS Easy Switcher<br/>Description: DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구.<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Dropover</title>
+      <link>https://dropoverapp.com/</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Dropover</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티</category>
+      <description>Category: 유틸리티
+App: Dropover
+Description: 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반.
+Website: https://dropoverapp.com/
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티<br/>App: Dropover<br/>Description: 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반.<br/>Website: https://dropoverapp.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>ClipTools</title>
+      <link>https://macmost.com/cliptools</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:ClipTools</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: ClipTools
+Description: 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음.
+Website: https://macmost.com/cliptools
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipTools<br/>Description: 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음.<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneClip</title>
+      <link>https://saneclip.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneClip</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: SaneClip
+Description: 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자.
+Website: https://saneclip.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: SaneClip<br/>Description: 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자.<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>uPaste</title>
+      <link>https://okaapps.com/product/1503649026</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:uPaste</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: uPaste
+Description: 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자.
+Website: https://okaapps.com/product/1503649026
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: uPaste<br/>Description: 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자.<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Anvil</title>
+      <link>https://anvilformac.com/</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Anvil</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Anvil
+Description: 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구.
+Website: https://anvilformac.com/
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Anvil<br/>Description: 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구.<br/>Website: https://anvilformac.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>SaneBar</title>
+      <link>https://sanebar.com</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneBar</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: SaneBar
+Description: 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자.
+Website: https://sanebar.com
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: SaneBar<br/>Description: 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자.<br/>Website: https://sanebar.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>BeardedSpice</title>
+      <link>https://github.com/beardedspice/beardedspice</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:BeardedSpice</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: BeardedSpice
+Description: 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구.
+Open Source: https://github.com/beardedspice/beardedspice
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: BeardedSpice<br/>Description: 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구.<br/>Open Source: https://github.com/beardedspice/beardedspice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>DynamicHorizon</title>
+      <link>https://dynamichorizon.app</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DynamicHorizon</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: DynamicHorizon
+Description: 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
+Website: https://dynamichorizon.app
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DynamicHorizon<br/>Description: 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Ice</title>
+      <link>https://github.com/jordanbaird/Ice</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Ice</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Ice
+Description: 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자.
+Open Source: https://github.com/jordanbaird/Ice
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Ice<br/>Description: 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자.<br/>Open Source: https://github.com/jordanbaird/Ice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>MonitorControl</title>
+      <link>https://github.com/MonitorControl/MonitorControl/</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:MonitorControl</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: MonitorControl
+Description: 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구.
+Open Source: https://github.com/MonitorControl/MonitorControl/
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MonitorControl<br/>Description: 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구.<br/>Open Source: https://github.com/MonitorControl/MonitorControl/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Today</title>
+      <link>https://sindresorhus.com/today</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Today</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Today
+Description: 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구.
+Website: https://sindresorhus.com/today
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Today<br/>Description: 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구.<br/>Website: https://sindresorhus.com/today<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>FunKey</title>
+      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: FunKey
+Description: 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구.
+App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: FunKey<br/>Description: 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구.<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>Aegisub</title>
+      <link>https://github.com/Aegisub/Aegisub</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Aegisub</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>AI 도구 / 오디오</category>
+      <description>Category: AI 도구 / 오디오
+App: Aegisub
+Description: 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기.
+Open Source: https://github.com/Aegisub/Aegisub
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Aegisub<br/>Description: 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기.<br/>Open Source: https://github.com/Aegisub/Aegisub<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Audio Profile Manager</title>
+      <link>https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Audio Profile Manager</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>AI 도구 / 오디오</category>
+      <description>Category: AI 도구 / 오디오
+App: Audio Profile Manager
+Description: 입력과 출력 장치 구성을 저장하는 오디오 관리 도구.
+App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Audio Profile Manager<br/>Description: 입력과 출력 장치 구성을 저장하는 오디오 관리 도구.<br/>App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>BeMyEars</title>
+      <link>https://www.bemyears.cn/</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:BeMyEars</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>AI 도구 / 오디오</category>
+      <description>Category: AI 도구 / 오디오
+App: BeMyEars
+Description: 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구.
+Website: https://www.bemyears.cn/
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: BeMyEars<br/>Description: 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구.<br/>Website: https://www.bemyears.cn/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+    <item>
+      <title>Elmedia Player</title>
+      <link>https://mac.eltima.com/media-player.html</link>
+      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Elmedia Player</guid>
+      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
+      <category>AI 도구 / 오디오</category>
+      <description>Category: AI 도구 / 오디오
+App: Elmedia Player
+Description: 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
+Website: https://mac.eltima.com/media-player.html
+Commit: docs: refresh app descriptions in localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
+      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Elmedia Player<br/>Description: 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.<br/>Website: https://mac.eltima.com/media-player.html<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
+    </item>
+  </channel>
+</rss>
