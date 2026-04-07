@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:48:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lap</title>
+      <link>https://github.com/julyx10/lap</link>
+      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
+      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Lap
+Description: 개인 사진 라이브러리를 오프라인에서 둘러보고 정리할 수 있는 로컬 사진 관리자.
+Open Source: https://github.com/julyx10/lap
+Commit: Add Lap fix #1969
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Lap<br/>Description: 개인 사진 라이브러리를 오프라인에서 둘러보고 정리할 수 있는 로컬 사진 관리자.<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
+    </item>
     <item>
       <title>CompressO</title>
       <link>https://github.com/codeforreal1/compressO</link>
@@ -693,20 +707,6 @@ App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Audio Profile Manager<br/>Description: 입력과 출력 장치 구성을 저장하는 오디오 관리 도구.<br/>App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>BeMyEars</title>
-      <link>https://www.bemyears.cn/</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:BeMyEars</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>AI 도구 / 오디오</category>
-      <description>Category: AI 도구 / 오디오
-App: BeMyEars
-Description: 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구.
-Website: https://www.bemyears.cn/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: BeMyEars<br/>Description: 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구.<br/>Website: https://www.bemyears.cn/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:48:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lap</title>
+      <link>https://github.com/julyx10/lap</link>
+      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
+      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: Lap
+Description: 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。
+Open Source: https://github.com/julyx10/lap
+Commit: Add Lap fix #1969
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Lap<br/>Description: 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
+    </item>
     <item>
       <title>CompressO</title>
       <link>https://github.com/codeforreal1/compressO</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/f-is-h/Usage4Claude
 Commit: Add Usage4Claude
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Usage4Claude<br/>Description: Claudeの各種使用量上限をリアルタイムに監視できるツール。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
-    </item>
-    <item>
-      <title>Petrichor</title>
-      <link>https://github.com/kushalpandya/Petrichor</link>
-      <guid isPermaLink="false">631a1115e8a8288944cab4fb9449c915ffd834cc:Petrichor</guid>
-      <pubDate>Thu, 12 Mar 2026 02:44:52 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Petrichor
-Description: 多形式対応、歌詞表示、プレイリスト、キュー管理を備えたオフライン音楽プレイヤー。
-Open Source: https://github.com/kushalpandya/Petrichor
-Commit: Add Petrichor
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944cab4fb9449c915ffd834cc</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Petrichor<br/>Description: 多形式対応、歌詞表示、プレイリスト、キュー管理を備えたオフライン音楽プレイヤー。<br/>Open Source: https://github.com/kushalpandya/Petrichor<br/>Commit: Add Petrichor<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944cab4fb9449c915ffd834cc]]></content:encoded>
     </item>
   </channel>
 </rss>
