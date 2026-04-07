@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:25:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cadran</title>
+      <link>https://cadranapp.com</link>
+      <guid isPermaLink="false">9e81d475101acb1f6db37b5c062000d9b2739631:Cadran</guid>
+      <pubDate>Tue, 07 Apr 2026 01:25:48 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Cadran
+Description: 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
+Website: https://cadranapp.com
+Commit: Add Cadran to Utilities &gt; General Tools (#1914)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Cadran<br/>Description: 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
+    </item>
     <item>
       <title>DevUtils.app</title>
       <link>https://devutils.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/us/mocker
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
       <content:encoded><![CDATA[Category: 虚拟机<br/>App: Mocker<br/>Description: 基于 Apple Containerization framework 的容器管理工具。<br/>Open Source: https://github.com/us/mocker<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
-    </item>
-    <item>
-      <title>Fluent</title>
-      <link>https://fluentmac.app</link>
-      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:Fluent</guid>
-      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Fluent
-Description: 可在各类应用中调用模型和上下文的 AI 助手。
-Website: https://fluentmac.app
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Fluent<br/>Description: 可在各类应用中调用模型和上下文的 AI 助手。<br/>Website: https://fluentmac.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
     </item>
   </channel>
 </rss>

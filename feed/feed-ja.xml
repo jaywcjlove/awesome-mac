@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:25:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cadran</title>
+      <link>https://cadranapp.com</link>
+      <guid isPermaLink="false">9e81d475101acb1f6db37b5c062000d9b2739631:Cadran</guid>
+      <pubDate>Tue, 07 Apr 2026 01:25:48 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Cadran
+Description: Macのデスクトップ壁紙とスクリーンセーバーに22種類のカスタマイズ可能な時計を表示。
+Website: https://cadranapp.com
+Commit: Add Cadran to Utilities &gt; General Tools (#1914)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Cadran<br/>Description: Macのデスクトップ壁紙とスクリーンセーバーに22種類のカスタマイズ可能な時計を表示。<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
+    </item>
     <item>
       <title>markdown-quicklook</title>
       <link>https://github.com/ruspg/markdown-quicklook</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/gety-ai/apple-on-device-openai
 Commit: Add Apple On-Device OpenAI
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Apple On-Device OpenAI<br/>Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。<br/>Open Source: https://github.com/gety-ai/apple-on-device-openai<br/>Commit: Add Apple On-Device OpenAI<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude God</title>
-      <link>https://claudegod.app</link>
-      <guid isPermaLink="false">888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0:Claude God</guid>
-      <pubDate>Thu, 12 Mar 2026 01:45:22 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Claude God
-Description: Claudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。
-Website: https://claudegod.app
-Commit: Add Claude God
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Claude God<br/>Description: Claudeの使用量上限、コスト、セッション分析をリアルタイムのゲージ・タイムライン・通知で監視するツール。<br/>Website: https://claudegod.app<br/>Commit: Add Claude God<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/888d1f6d82d93b2fb4fb71a32dc15f82ee29e3b0]]></content:encoded>
     </item>
   </channel>
 </rss>
