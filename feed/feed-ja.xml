@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Apr 2026 01:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:35:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CompressO</title>
+      <link>https://github.com/codeforreal1/compressO</link>
+      <guid isPermaLink="false">8bf6add2922e6c7ab7d3fa0564ecaf556296821a:CompressO</guid>
+      <pubDate>Tue, 07 Apr 2026 03:35:21 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: CompressO
+Description: 動画や画像の容量を小さくできるオープンソースの圧縮ツール。
+Open Source: https://github.com/codeforreal1/compressO
+Commit: Add CompressO
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: CompressO<br/>Description: 動画や画像の容量を小さくできるオープンソースの圧縮ツール。<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
+    </item>
     <item>
       <title>Cadran</title>
       <link>https://cadranapp.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/kushalpandya/Petrichor
 Commit: Add Petrichor
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944cab4fb9449c915ffd834cc</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Petrichor<br/>Description: 多形式対応、歌詞表示、プレイリスト、キュー管理を備えたオフライン音楽プレイヤー。<br/>Open Source: https://github.com/kushalpandya/Petrichor<br/>Commit: Add Petrichor<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/631a1115e8a8288944cab4fb9449c915ffd834cc]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple On-Device OpenAI</title>
-      <link>https://github.com/gety-ai/apple-on-device-openai</link>
-      <guid isPermaLink="false">0856b2377e3eccae2d3b2e6a783f6ea90c3a214a:Apple On-Device OpenAI</guid>
-      <pubDate>Thu, 12 Mar 2026 02:15:30 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Apple On-Device OpenAI
-Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。
-Open Source: https://github.com/gety-ai/apple-on-device-openai
-Commit: Add Apple On-Device OpenAI
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Apple On-Device OpenAI<br/>Description: AppleのオンデバイスFoundationモデルをOpenAI互換APIとして利用できるようにするアプリ。<br/>Open Source: https://github.com/gety-ai/apple-on-device-openai<br/>Commit: Add Apple On-Device OpenAI<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0856b2377e3eccae2d3b2e6a783f6ea90c3a214a]]></content:encoded>
     </item>
   </channel>
 </rss>

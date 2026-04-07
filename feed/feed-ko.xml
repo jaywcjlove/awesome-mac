@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:35:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CompressO</title>
+      <link>https://github.com/codeforreal1/compressO</link>
+      <guid isPermaLink="false">8bf6add2922e6c7ab7d3fa0564ecaf556296821a:CompressO</guid>
+      <pubDate>Tue, 07 Apr 2026 03:35:21 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: CompressO
+Description: 이미지와 비디오 용량을 줄여 주는 오픈 소스 압축 도구.
+Open Source: https://github.com/codeforreal1/compressO
+Commit: Add CompressO
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: CompressO<br/>Description: 이미지와 비디오 용량을 줄여 주는 오픈 소스 압축 도구.<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
+    </item>
     <item>
       <title>Modal File Manager</title>
       <link>https://github.com/raguay/ModalFileManager/</link>
@@ -693,20 +707,6 @@ Website: https://www.bemyears.cn/
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: BeMyEars<br/>Description: 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구.<br/>Website: https://www.bemyears.cn/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Elmedia Player</title>
-      <link>https://mac.eltima.com/media-player.html</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Elmedia Player</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>AI 도구 / 오디오</category>
-      <description>Category: AI 도구 / 오디오
-App: Elmedia Player
-Description: 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
-Website: https://mac.eltima.com/media-player.html
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Elmedia Player<br/>Description: 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.<br/>Website: https://mac.eltima.com/media-player.html<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
