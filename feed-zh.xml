@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Apr 2026 09:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Recordly</title>
+      <link>https://recordly.dev/</link>
+      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
+      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+App: Recordly
+Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。
+Website: https://recordly.dev/
+Commit: Add Recordly
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Recordly<br/>Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
+    </item>
     <item>
       <title>Lap</title>
       <link>https://github.com/julyx10/lap</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/mediar-ai/screenpipe
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Screenpipe<br/>Description: 支持 AI 搜索的本地屏幕与麦克风录制工具。<br/>Open Source: https://github.com/mediar-ai/screenpipe<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
-    </item>
-    <item>
-      <title>Tight Studio</title>
-      <link>https://tight.studio/</link>
-      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:Tight Studio</guid>
-      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
-      <category>设计和产品 / 屏幕录制</category>
-      <description>Category: 设计和产品 / 屏幕录制
-App: Tight Studio
-Description: 支持智能缩放、字幕和 AI 配音的录屏工具。
-Website: https://tight.studio/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Tight Studio<br/>Description: 支持智能缩放、字幕和 AI 配音的录屏工具。<br/>Website: https://tight.studio/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
     </item>
   </channel>
 </rss>

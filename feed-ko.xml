@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 09:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Recordly</title>
+      <link>https://recordly.dev/</link>
+      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
+      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
+      <category>디자인 및 제품 / 화면 녹화</category>
+      <description>Category: 디자인 및 제품 / 화면 녹화
+App: Recordly
+Description: 데모, 튜토리얼, 제품 영상을 위한 오픈 소스 화면 녹화 및 편집 도구입니다.
+Website: https://recordly.dev/
+Commit: Add Recordly
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: Recordly<br/>Description: 데모, 튜토리얼, 제품 영상을 위한 오픈 소스 화면 녹화 및 편집 도구입니다.<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
+    </item>
     <item>
       <title>Lap</title>
       <link>https://github.com/julyx10/lap</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Aegisub/Aegisub
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Aegisub<br/>Description: 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기.<br/>Open Source: https://github.com/Aegisub/Aegisub<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Audio Profile Manager</title>
-      <link>https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Audio Profile Manager</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>AI 도구 / 오디오</category>
-      <description>Category: AI 도구 / 오디오
-App: Audio Profile Manager
-Description: 입력과 출력 장치 구성을 저장하는 오디오 관리 도구.
-App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Audio Profile Manager<br/>Description: 입력과 출력 장치 구성을 저장하는 오디오 관리 도구.<br/>App Store: https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;platform=mac<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
