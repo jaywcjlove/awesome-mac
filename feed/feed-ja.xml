@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Apr 2026 09:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Recordly</title>
+      <link>https://recordly.dev/</link>
+      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
+      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: Recordly
+Description: デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。
+Website: https://recordly.dev/
+Commit: Add Recordly
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Recordly<br/>Description: デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
+    </item>
     <item>
       <title>Lap</title>
       <link>https://github.com/julyx10/lap</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/nickustinov/itsyconnect-macos
 Commit: Add Itsyconnect
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6</description>
       <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Itsyconnect<br/>Description: メタデータ編集、TestFlight、レビュー、分析、AIローカライズをまとめて扱えるApp Store Connect管理ツール。<br/>Open Source: https://github.com/nickustinov/itsyconnect-macos<br/>Commit: Add Itsyconnect<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6]]></content:encoded>
-    </item>
-    <item>
-      <title>Usage4Claude</title>
-      <link>https://github.com/f-is-h/Usage4Claude</link>
-      <guid isPermaLink="false">ba64c2aaa974eeb7d2460c45be19e1876c3069b1:Usage4Claude</guid>
-      <pubDate>Thu, 12 Mar 2026 13:43:42 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Usage4Claude
-Description: Claudeの各種使用量上限をリアルタイムに監視できるツール。
-Open Source: https://github.com/f-is-h/Usage4Claude
-Commit: Add Usage4Claude
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Usage4Claude<br/>Description: Claudeの各種使用量上限をリアルタイムに監視できるツール。<br/>Open Source: https://github.com/f-is-h/Usage4Claude<br/>Commit: Add Usage4Claude<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ba64c2aaa974eeb7d2460c45be19e1876c3069b1]]></content:encoded>
     </item>
   </channel>
 </rss>
