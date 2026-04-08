@@ -558,6 +558,7 @@ Awesome Mac
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/siddharthvaddem/openscreen) - 제품 데모와 사용법 안내 영상을 만드는 오픈 소스 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
+* [Recordly](https://recordly.dev/) - 데모, 튜토리얼, 제품 영상을 위한 오픈 소스 화면 녹화 및 편집 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/webadderall/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 편집기가 내장된 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 자동 모션 효과로 보기 좋은 영상을 만드는 화면 녹화 도구입니다.
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.

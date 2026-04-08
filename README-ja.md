@@ -707,6 +707,7 @@ Awesome Mac
 * [OBS Studio](https://github.com/obsproject/obs-studio) - ライブ配信と画面録画のための無料でオープンソースのソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/siddharthvaddem/openscreen) - プロダクトデモや操作説明動画を作れるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
+* [Recordly](https://recordly.dev/) - デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。 [![Open-Source Software][OSS Icon]](https://github.com/webadderall/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内蔵エディター付きの画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 自動モーション効果で見栄えのする動画を作れる画面録画ツール。
 * [ScreenSage Pro](https://screensage.pro/) - 数分で洗練された画面録画動画を作れるツール。

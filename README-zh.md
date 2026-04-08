@@ -505,6 +505,7 @@ Awesome Mac
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]
 * [OpenScreen](https://github.com/siddharthvaddem/openscreen) - 用于制作产品演示和操作讲解视频的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
+* [Recordly](https://recordly.dev/) - 用于制作演示、教程和产品视频的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/webadderall/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内置编辑器的录屏工具。 ![Open-Source Software][OSS Icon](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 可自动生成动态效果的录屏工具。
 * [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
