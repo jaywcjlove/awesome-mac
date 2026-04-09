@@ -165,6 +165,7 @@ Awesome Mac
 
 * [Aurora Editor](https://auroraeditor.com/) - macOS용 경량 코드 편집기 (IDE). [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrap 프레임워크를 사용하여 반응형 웹사이트를 제작할 수 있는 강력한 데스크톱 앱.
+* [LiteEdit](https://arietan.github.io/lite-edit/) - 1MB 미만의 경량 네이티브 코드 편집기, 구문 강조와 파일 트리 제공. [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - Panic에서 만든 아름답고 빠르고 유연한 네이티브 Mac 코드 편집기.
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - 단순하고 집중을 방해하지 않는 메모장. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 * [Sublime Text](http://www.sublimetext.com/3) - 빠른 인터페이스와 플러그인 생태계를 갖춘 텍스트 편집기. [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)

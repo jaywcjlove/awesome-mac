@@ -186,6 +186,7 @@ Awesome Mac
 * [Itsypad](https://itsypad.app) - macOS用の小さくて高速なスクラッチパッド兼クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsypad-macos) ![Freeware][Freeware Icon]
 * [Lapce](https://lapce.dev/) - 超高速で強力なコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/lapce/lapce) ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - 次世代コードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+* [LiteEdit](https://arietan.github.io/lite-edit/) - 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。 [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [MacVim](https://github.com/macvim-dev/macvim) - macOS用のテキストエディタVim。 [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - モダンで直感的なターミナルベースのテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
 * [Neovim](https://github.com/neovim/neovim) - 拡張性と使いやすさに重点を置いたVimフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
