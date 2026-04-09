@@ -993,6 +993,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
+* [Silkwave Voice](https://www.silkwave.ai/silkwave-voice) - AI note taker and transcription app for macOS 26+. Record and transcribe in 10+ languages using on-device Apple models, and get ChatGPT-powered summaries via Apple Intelligence. [![App Store][app-store Icon]](https://apps.apple.com/us/app/silkwave-voice-ai-note-taker/id6758550154)
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
