@@ -1243,6 +1243,7 @@ Awesome Mac
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 按体积扫描文件，快速找出占空间内容。 ![Freeware][Freeware Icon]
 * [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+* [PureMac](https://github.com/momenbasel/PureMac) - 免费开源的系统清理工具，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
 

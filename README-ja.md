@@ -1213,6 +1213,7 @@ Awesome Mac
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - ファイルを容量順に表示して不要な大容量ファイルを見つけるツール。 ![Freeware][Freeware Icon]
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 無料でソースが公開されたフェアコードライセンスのMacアプリクリーナー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
+* [PureMac](https://github.com/momenbasel/PureMac) - テレメトリーなしの無料オープンソースシステムクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 
 ### ファイル管理ツール
 
