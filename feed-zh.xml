@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:47:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PureMac</title>
+      <link>https://github.com/momenbasel/PureMac</link>
+      <guid isPermaLink="false">6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f:PureMac</guid>
+      <pubDate>Thu, 09 Apr 2026 05:47:32 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: PureMac
+Description: 免费开源的系统清理工具，无遥测功能。
+Open Source: https://github.com/momenbasel/PureMac
+Commit: Add PureMac to the ja/ko/zh list. #1973
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: PureMac<br/>Description: 免费开源的系统清理工具，无遥测功能。<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to the ja/ko/zh list. #1973<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f]]></content:encoded>
+    </item>
     <item>
       <title>LiteEdit</title>
       <link>https://arietan.github.io/lite-edit/</link>
@@ -693,20 +707,6 @@ Website: https://icons8.com/lunacy
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: Lunacy<br/>Description: 内置素材并支持实时协作的矢量设计工具。<br/>Website: https://icons8.com/lunacy<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
-    </item>
-    <item>
-      <title>Simple Diagrams</title>
-      <link>https://www.simplediagrams.com/</link>
-      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:Simple Diagrams</guid>
-      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
-      <category>设计和产品 / 原型流程</category>
-      <description>Category: 设计和产品 / 原型流程
-App: Simple Diagrams
-Description: 用于快速绘制手绘风格草图的图表工具。
-Website: https://www.simplediagrams.com/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 原型流程<br/>App: Simple Diagrams<br/>Description: 用于快速绘制手绘风格草图的图表工具。<br/>Website: https://www.simplediagrams.com/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:47:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PureMac</title>
+      <link>https://github.com/momenbasel/PureMac</link>
+      <guid isPermaLink="false">6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f:PureMac</guid>
+      <pubDate>Thu, 09 Apr 2026 05:47:32 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: PureMac
+Description: テレメトリーなしの無料オープンソースシステムクリーナー。
+Open Source: https://github.com/momenbasel/PureMac
+Commit: Add PureMac to the ja/ko/zh list. #1973
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: PureMac<br/>Description: テレメトリーなしの無料オープンソースシステムクリーナー。<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to the ja/ko/zh list. #1973<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f]]></content:encoded>
+    </item>
     <item>
       <title>LiteEdit</title>
       <link>https://arietan.github.io/lite-edit/</link>
@@ -693,20 +707,6 @@ Website: https://rustcast.app
 Commit: Add Rustcast to the ja/ko/zh #1882
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Rustcast<br/>Description: モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。<br/>Website: https://rustcast.app<br/>Commit: Add Rustcast to the ja/ko/zh #1882<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836]]></content:encoded>
-    </item>
-    <item>
-      <title>Mottie</title>
-      <link>https://recouse.me/apps/mottie/</link>
-      <guid isPermaLink="false">8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6:Mottie</guid>
-      <pubDate>Fri, 13 Mar 2026 02:11:45 GMT</pubDate>
-      <category>デザインとプロダクト / その他のツール</category>
-      <description>Category: デザインとプロダクト / その他のツール
-App: Mottie
-Description: dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。
-Website: https://recouse.me/apps/mottie/
-Commit: Add Mottie (#1880)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Mottie<br/>Description: dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。<br/>Website: https://recouse.me/apps/mottie/<br/>Commit: Add Mottie (#1880)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6]]></content:encoded>
     </item>
   </channel>
 </rss>
