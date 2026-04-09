@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:14:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">9f29ab1e9bc70b7a95af20829ca5c3366106ef0b:LiteEdit</guid>
+      <pubDate>Thu, 09 Apr 2026 04:14:08 GMT</pubDate>
+      <category>読み書きツール / テキストエディタ</category>
+      <description>Category: 読み書きツール / テキストエディタ
+App: LiteEdit
+Description: 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。
+Website: https://arietan.github.io/lite-edit/
+Commit: Add LiteEdit to the ja/ko/zh list. #1970
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: LiteEdit<br/>Description: 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
+    </item>
+    <item>
+      <title>SuperCmd</title>
+      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
+      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
+      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: SuperCmd
+Description: Raycast互換拡張、音声ワークフロー、読み上げ、メモリ、AIアクションを備えたオープンソースランチャー。
+Open Source: https://github.com/SuperCmdLabs/SuperCmd
+Commit: Add SuperCmd
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: SuperCmd<br/>Description: Raycast互換拡張、音声ワークフロー、読み上げ、メモリ、AIアクションを備えたオープンソースランチャー。<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
+    </item>
     <item>
       <title>Recordly</title>
       <link>https://recordly.dev/</link>
@@ -679,34 +707,6 @@ Website: https://recouse.me/apps/mottie/
 Commit: Add Mottie (#1880)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Mottie<br/>Description: dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。<br/>Website: https://recouse.me/apps/mottie/<br/>Commit: Add Mottie (#1880)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d88c1bb88fb13b4015a22d8d5d9b91040ee5eb6]]></content:encoded>
-    </item>
-    <item>
-      <title>TokenMeter</title>
-      <link>https://priyans-hu.github.io/tokenmeter/</link>
-      <guid isPermaLink="false">a05da091d34ec02acb62b384c3a8fc64855e438f:TokenMeter</guid>
-      <pubDate>Fri, 13 Mar 2026 01:27:46 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: TokenMeter
-Description: Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。
-Website: https://priyans-hu.github.io/tokenmeter/
-Commit: Add TokenMeter to the ja/ko/zh #1881
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: TokenMeter<br/>Description: Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。<br/>Website: https://priyans-hu.github.io/tokenmeter/<br/>Commit: Add TokenMeter to the ja/ko/zh #1881<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a05da091d34ec02acb62b384c3a8fc64855e438f]]></content:encoded>
-    </item>
-    <item>
-      <title>Itsyconnect</title>
-      <link>https://github.com/nickustinov/itsyconnect-macos</link>
-      <guid isPermaLink="false">f3f68fbc1d3019f9bf2142480217a07bef5940e6:Itsyconnect</guid>
-      <pubDate>Thu, 12 Mar 2026 13:49:28 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: Itsyconnect
-Description: メタデータ編集、TestFlight、レビュー、分析、AIローカライズをまとめて扱えるApp Store Connect管理ツール。
-Open Source: https://github.com/nickustinov/itsyconnect-macos
-Commit: Add Itsyconnect
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Itsyconnect<br/>Description: メタデータ編集、TestFlight、レビュー、分析、AIローカライズをまとめて扱えるApp Store Connect管理ツール。<br/>Open Source: https://github.com/nickustinov/itsyconnect-macos<br/>Commit: Add Itsyconnect<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f3f68fbc1d3019f9bf2142480217a07bef5940e6]]></content:encoded>
     </item>
   </channel>
 </rss>
