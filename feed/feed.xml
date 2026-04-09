@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:34:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PureMac</title>
+      <link>https://github.com/momenbasel/PureMac</link>
+      <guid isPermaLink="false">0fb3932f0370da154a177e282fc5cde6e96ea8a6:PureMac</guid>
+      <pubDate>Thu, 09 Apr 2026 05:34:34 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: PureMac
+Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
+Open Source: https://github.com/momenbasel/PureMac
+Commit: Add PureMac to Cleanup and Uninstall section (#1973)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: PureMac<br/>Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to Cleanup and Uninstall section (#1973)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6]]></content:encoded>
+    </item>
     <item>
       <title>SuperCmd</title>
       <link>https://github.com/SuperCmdLabs/SuperCmd</link>
