@@ -1332,6 +1332,7 @@ Awesome Mac
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - ポモドーロトラッカー。
 * [Qbserve](https://qotoqot.com/qbserve/) - プロジェクト管理や工数集計に対応した自動時間追跡ツール。
 * [Raycast](https://raycast.com?via=ae02) - 拡張機能、スニペット、ノート、AIを備えたランチャー。
+* [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Raycast互換拡張、音声ワークフロー、読み上げ、メモリ、AIアクションを備えたオープンソースランチャー。 [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [RescueTime](https://www.rescuetime.com/) - 時間の使い方を記録して生産性レポートを出すツール。
 * [SuperCorners](https://supercorners.vercel.app/) - ホットコーナーをカスタム操作の起点に変えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - AIで時間を追跡し、集中習慣づくりを支援するツール。

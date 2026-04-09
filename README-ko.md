@@ -910,6 +910,7 @@ Awesome Mac
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 주기적 스크린샷으로 하루 작업을 돌아볼 수 있는 도구.
 * [Qbserve](https://qotoqot.com/qbserve/) - 프로젝트와 생산성 분석을 지원하는 자동 시간 추적 도구.
 * [Raycast](https://www.raycast.com/) - 확장 기능, 스니펫, 노트, AI를 갖춘 런처. ![Freeware][Freeware Icon]
+* [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처. [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [Rewind](https://www.rewind.ai/) - 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.
 * [RescueTime](https://www.rescuetime.com/) - 시간 사용 기록과 생산성 리포트를 제공하는 도구.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finder 우클릭 메뉴에 더 많은 작업을 추가하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
