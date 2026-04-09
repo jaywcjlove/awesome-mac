@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:14:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">9f29ab1e9bc70b7a95af20829ca5c3366106ef0b:LiteEdit</guid>
+      <pubDate>Thu, 09 Apr 2026 04:14:08 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 텍스트 편집기</category>
+      <description>Category: 읽기 및 쓰기 도구 / 텍스트 편집기
+App: LiteEdit
+Description: 1MB 미만의 경량 네이티브 코드 편집기, 구문 강조와 파일 트리 제공.
+Website: https://arietan.github.io/lite-edit/
+Commit: Add LiteEdit to the ja/ko/zh list. #1970
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 텍스트 편집기<br/>App: LiteEdit<br/>Description: 1MB 미만의 경량 네이티브 코드 편집기, 구문 강조와 파일 트리 제공.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
+    </item>
+    <item>
+      <title>SuperCmd</title>
+      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
+      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
+      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: SuperCmd
+Description: Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처.
+Open Source: https://github.com/SuperCmdLabs/SuperCmd
+Commit: Add SuperCmd
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: SuperCmd<br/>Description: Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처.<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
+    </item>
     <item>
       <title>Recordly</title>
       <link>https://recordly.dev/</link>
@@ -679,34 +707,6 @@ Website: https://sindresorhus.com/today
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Today<br/>Description: 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구.<br/>Website: https://sindresorhus.com/today<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>FunKey</title>
-      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: FunKey
-Description: 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구.
-App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: FunKey<br/>Description: 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구.<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Aegisub</title>
-      <link>https://github.com/Aegisub/Aegisub</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Aegisub</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>AI 도구 / 오디오</category>
-      <description>Category: AI 도구 / 오디오
-App: Aegisub
-Description: 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기.
-Open Source: https://github.com/Aegisub/Aegisub
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: AI 도구 / 오디오<br/>App: Aegisub<br/>Description: 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기.<br/>Open Source: https://github.com/Aegisub/Aegisub<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
