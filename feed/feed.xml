@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:09:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">c165a90383c00edddb3619e13e77ac864de04f83:LiteEdit</guid>
+      <pubDate>Thu, 09 Apr 2026 04:09:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: LiteEdit
+Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.
+Website: https://arietan.github.io/lite-edit/
+Commit: Add LiteEdit to Text Editors (#1970)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LiteEdit<br/>Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to Text Editors (#1970)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83]]></content:encoded>
+    </item>
     <item>
       <title>Recordly</title>
       <link>https://recordly.dev/</link>
