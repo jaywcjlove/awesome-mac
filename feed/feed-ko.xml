@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rockxy</title>
+      <link>https://github.com/LocNguyenHuu/Rockxy</link>
+      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
+      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
+      <category>개발 도구 / 네트워크 분석</category>
+      <description>Category: 개발 도구 / 네트워크 분석
+App: Rockxy
+Description: 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다.
+Open Source: https://github.com/LocNguyenHuu/Rockxy
+Commit: Add Rockxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 네트워크 분석<br/>App: Rockxy<br/>Description: 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
+    </item>
     <item>
       <title>PureMac</title>
       <link>https://github.com/momenbasel/PureMac</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/jordanbaird/Ice
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Ice<br/>Description: 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자.<br/>Open Source: https://github.com/jordanbaird/Ice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>MonitorControl</title>
-      <link>https://github.com/MonitorControl/MonitorControl/</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:MonitorControl</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: MonitorControl
-Description: 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구.
-Open Source: https://github.com/MonitorControl/MonitorControl/
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MonitorControl<br/>Description: 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구.<br/>Open Source: https://github.com/MonitorControl/MonitorControl/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

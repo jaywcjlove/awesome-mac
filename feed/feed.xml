@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rockxy</title>
+      <link>https://github.com/LocNguyenHuu/Rockxy</link>
+      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
+      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
+      <category>Developer Tools / Network Analysis</category>
+      <description>Category: Developer Tools / Network Analysis
+App: Rockxy
+Description: Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.
+Open Source: https://github.com/LocNguyenHuu/Rockxy
+Commit: Add Rockxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Rockxy<br/>Description: Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
+    </item>
     <item>
       <title>PureMac</title>
       <link>https://github.com/momenbasel/PureMac</link>
