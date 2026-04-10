@@ -5,22 +5,22 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
       <title>Kaset</title>
       <link>https://github.com/sozercan/kaset</link>
-      <guid isPermaLink="false">7951b58ae58bb9e8ddd87c38236d7ab2e08e0d39:Kaset</guid>
-      <pubDate>Fri, 10 Apr 2026 12:22:51 GMT</pubDate>
+      <guid isPermaLink="false">533befd8ed6cb8fad818666f318d0b09f1674325:Kaset</guid>
+      <pubDate>Fri, 10 Apr 2026 12:31:47 GMT</pubDate>
       <category>Audio and Video Tools</category>
       <description>Category: Audio and Video Tools
 App: Kaset
-Description: Native YouTube Music client for macOS.
+Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.
 Open Source: https://github.com/sozercan/kaset
-Commit: Add Kaset to audio and video tools (#1977)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7951b58ae58bb9e8ddd87c38236d7ab2e08e0d39</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Kaset<br/>Description: Native YouTube Music client for macOS.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to audio and video tools (#1977)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7951b58ae58bb9e8ddd87c38236d7ab2e08e0d39]]></content:encoded>
+Commit: Add Kaset to the zh/ja/ko list #1977
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Kaset<br/>Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
     </item>
     <item>
       <title>Switzy</title>
