@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rockxy</title>
+      <link>https://github.com/LocNguyenHuu/Rockxy</link>
+      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
+      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
+      <category>開発ツール / ネットワーク分析</category>
+      <description>Category: 開発ツール / ネットワーク分析
+App: Rockxy
+Description: リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。
+Open Source: https://github.com/LocNguyenHuu/Rockxy
+Commit: Add Rockxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
+      <content:encoded><![CDATA[Category: 開発ツール / ネットワーク分析<br/>App: Rockxy<br/>Description: リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
+    </item>
     <item>
       <title>PureMac</title>
       <link>https://github.com/momenbasel/PureMac</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/AwalTerminal/Awal-terminal
 Commit: Add Awal Terminal to the ja/ko/zh #1884
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Awal Terminal<br/>Description: AIコンポーネント、複数プロバイダープロファイル、音声入力、Metalレンダリングを備えたLLMネイティブなターミナルエミュレーター。<br/>Open Source: https://github.com/AwalTerminal/Awal-terminal<br/>Commit: Add Awal Terminal to the ja/ko/zh #1884<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8]]></content:encoded>
-    </item>
-    <item>
-      <title>Rustcast</title>
-      <link>https://rustcast.app</link>
-      <guid isPermaLink="false">1d091dcc93abdea49740871d0ad87a3d9e37f836:Rustcast</guid>
-      <pubDate>Fri, 13 Mar 2026 07:38:59 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: Rustcast
-Description: モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。
-Website: https://rustcast.app
-Commit: Add Rustcast to the ja/ko/zh #1882
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Rustcast<br/>Description: モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。<br/>Website: https://rustcast.app<br/>Commit: Add Rustcast to the ja/ko/zh #1882<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1d091dcc93abdea49740871d0ad87a3d9e37f836]]></content:encoded>
     </item>
   </channel>
 </rss>

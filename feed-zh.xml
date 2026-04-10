@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rockxy</title>
+      <link>https://github.com/LocNguyenHuu/Rockxy</link>
+      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
+      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
+      <category>开发者工具 / 网络分析</category>
+      <description>Category: 开发者工具 / 网络分析
+App: Rockxy
+Description: 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。
+Open Source: https://github.com/LocNguyenHuu/Rockxy
+Commit: Add Rockxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: Rockxy<br/>Description: 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
+    </item>
     <item>
       <title>PureMac</title>
       <link>https://github.com/momenbasel/PureMac</link>
@@ -693,20 +707,6 @@ Website: https://trailbase.io
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 数据库<br/>App: TrailBase<br/>Description: 基于 SQLite 的开源后端平台，提供类型安全 API、认证和管理工具。<br/>Website: https://trailbase.io<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
-    </item>
-    <item>
-      <title>Lunacy</title>
-      <link>https://icons8.com/lunacy</link>
-      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:Lunacy</guid>
-      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
-      <category>设计和产品 / 设计工具</category>
-      <description>Category: 设计和产品 / 设计工具
-App: Lunacy
-Description: 内置素材并支持实时协作的矢量设计工具。
-Website: https://icons8.com/lunacy
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: Lunacy<br/>Description: 内置素材并支持实时协作的矢量设计工具。<br/>Website: https://icons8.com/lunacy<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
     </item>
   </channel>
 </rss>
