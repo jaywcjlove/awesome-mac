@@ -885,6 +885,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ffWorks](https://www.ffworks.net/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
 * [IINA](https://iina.io/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
+* [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - Open-source media center for video, music, pictures, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - Open-source digital audio workstation for music production. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
