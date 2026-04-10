@@ -431,6 +431,7 @@ Awesome Mac
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-CからSwiftへのコードコンバーター、およびXcode & Finder拡張機能。
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - XcodeからSwiftコードのクラス図を生成・表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware][Freeware Icon]
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - hosts管理・切り替え用の無料オープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
+* [Switzy](https://github.com/yefga/Switzy) - Gitアイデンティティの切り替えとSSHキー管理のためのオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Switzy) ![Freeware][Freeware Icon]
 * [SYM](https://github.com/zqqf16/SYM) - iOSクラッシュログをシンボリケートするGUIアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
 * [Testpiler](https://furnacecreek.org/testpiler/) - XCTestのテストをSwift Testingへ変換するツール。
 * [TeXstudio](http://www.texstudio.org) - LaTeXドキュメントを作成するための統合執筆環境。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
