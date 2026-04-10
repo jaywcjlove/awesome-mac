@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:09:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Switzy</title>
+      <link>https://github.com/yefga/Switzy</link>
+      <guid isPermaLink="false">f8f53616b1ec8448a2546784016cbbef537baa29:Switzy</guid>
+      <pubDate>Fri, 10 Apr 2026 12:09:33 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Switzy
+Description: 用于切换 Git 身份并管理 SSH 密钥的开源工具。
+Open Source: https://github.com/yefga/Switzy
+Commit: Add Switzy to the ja/ko/zh list #1979
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Switzy<br/>Description: 用于切换 Git 身份并管理 SSH 密钥的开源工具。<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
+    </item>
     <item>
       <title>Rockxy</title>
       <link>https://github.com/LocNguyenHuu/Rockxy</link>
@@ -693,20 +707,6 @@ Website: https://dbpro.app
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 数据库<br/>App: DB Pro<br/>Description: 用于查询和管理 SQL 数据库的客户端。<br/>Website: https://dbpro.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
-    </item>
-    <item>
-      <title>TrailBase</title>
-      <link>https://trailbase.io</link>
-      <guid isPermaLink="false">be4a2d80c705562a79ec5ed9906aa6a21607053c:TrailBase</guid>
-      <pubDate>Sun, 05 Apr 2026 03:07:36 GMT</pubDate>
-      <category>开发者工具 / 数据库</category>
-      <description>Category: 开发者工具 / 数据库
-App: TrailBase
-Description: 基于 SQLite 的开源后端平台，提供类型安全 API、认证和管理工具。
-Website: https://trailbase.io
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 数据库<br/>App: TrailBase<br/>Description: 基于 SQLite 的开源后端平台，提供类型安全 API、认证和管理工具。<br/>Website: https://trailbase.io<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be4a2d80c705562a79ec5ed9906aa6a21607053c]]></content:encoded>
     </item>
   </channel>
 </rss>

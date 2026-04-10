@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:09:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Switzy</title>
+      <link>https://github.com/yefga/Switzy</link>
+      <guid isPermaLink="false">f8f53616b1ec8448a2546784016cbbef537baa29:Switzy</guid>
+      <pubDate>Fri, 10 Apr 2026 12:09:33 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Switzy
+Description: Git 신원 전환과 SSH 키 관리를 위한 오픈 소스 도구입니다.
+Open Source: https://github.com/yefga/Switzy
+Commit: Add Switzy to the ja/ko/zh list #1979
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Switzy<br/>Description: Git 신원 전환과 SSH 키 관리를 위한 오픈 소스 도구입니다.<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
+    </item>
     <item>
       <title>Rockxy</title>
       <link>https://github.com/LocNguyenHuu/Rockxy</link>
@@ -693,20 +707,6 @@ Website: https://dynamichorizon.app
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DynamicHorizon<br/>Description: 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Ice</title>
-      <link>https://github.com/jordanbaird/Ice</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Ice</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Ice
-Description: 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자.
-Open Source: https://github.com/jordanbaird/Ice
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Ice<br/>Description: 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자.<br/>Open Source: https://github.com/jordanbaird/Ice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
