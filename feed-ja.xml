@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:09:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Switzy</title>
+      <link>https://github.com/yefga/Switzy</link>
+      <guid isPermaLink="false">f8f53616b1ec8448a2546784016cbbef537baa29:Switzy</guid>
+      <pubDate>Fri, 10 Apr 2026 12:09:33 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Switzy
+Description: Gitアイデンティティの切り替えとSSHキー管理のためのオープンソースツール。
+Open Source: https://github.com/yefga/Switzy
+Commit: Add Switzy to the ja/ko/zh list #1979
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Switzy<br/>Description: Gitアイデンティティの切り替えとSSHキー管理のためのオープンソースツール。<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
+    </item>
     <item>
       <title>Rockxy</title>
       <link>https://github.com/LocNguyenHuu/Rockxy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/evoleinik/fnkey
 Commit: Add FnKey to the zh/ja/ko list. #1886
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: FnKey<br/>Description: Fnキーを押して話し、離すと音声が即座にテキストとして貼り付けられるリアルタイム音声入力ツール。<br/>Open Source: https://github.com/evoleinik/fnkey<br/>Commit: Add FnKey to the zh/ja/ko list. #1886<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9]]></content:encoded>
-    </item>
-    <item>
-      <title>Awal Terminal</title>
-      <link>https://github.com/AwalTerminal/Awal-terminal</link>
-      <guid isPermaLink="false">f7669260f8c62cc280c2b17f52e4809be9e545c8:Awal Terminal</guid>
-      <pubDate>Sun, 15 Mar 2026 01:49:27 GMT</pubDate>
-      <category>ターミナルアプリ</category>
-      <description>Category: ターミナルアプリ
-App: Awal Terminal
-Description: AIコンポーネント、複数プロバイダープロファイル、音声入力、Metalレンダリングを備えたLLMネイティブなターミナルエミュレーター。
-Open Source: https://github.com/AwalTerminal/Awal-terminal
-Commit: Add Awal Terminal to the ja/ko/zh #1884
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8</description>
-      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Awal Terminal<br/>Description: AIコンポーネント、複数プロバイダープロファイル、音声入力、Metalレンダリングを備えたLLMネイティブなターミナルエミュレーター。<br/>Open Source: https://github.com/AwalTerminal/Awal-terminal<br/>Commit: Add Awal Terminal to the ja/ko/zh #1884<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f7669260f8c62cc280c2b17f52e4809be9e545c8]]></content:encoded>
     </item>
   </channel>
 </rss>
