@@ -931,6 +931,7 @@ Awesome Mac
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - さまざまな「ロスレス」オーディオファイルをデコード、変換、再生するツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - メニューバーまたはグローバルキーボードショートカットで直接オーディオを録音。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上で最高のメディアプレイヤー。ほぼすべてのフォーマットに対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?platform=mac)
+* [Kaset](https://github.com/sozercan/kaset) - ライブラリ、歌詞、ポッドキャストに対応したオープンソースのYouTube Musicクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - プラグイン拡張に対応したYouTube Musicデスクトッププレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) - YouTube Music用の無料クロスプラットフォームデスクトッププレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - ライブキャプション、オーディオ/ビデオ文字起こし、字幕翻訳のための多機能アプリ。

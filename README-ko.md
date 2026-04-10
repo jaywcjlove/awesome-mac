@@ -711,6 +711,7 @@ Awesome Mac
 * [trax](https://github.com/nbonamy/trax) - 오디오 변환과 태그 편집을 지원하는 음악 라이브러리 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tuneful](https://www.tuneful.dev) - 메뉴 막대나 미니 플레이어에서 Spotify와 Apple Music을 제어하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](https://www.videolan.org/vlc/) - 다양한 오디오, 비디오, 스트리밍 포맷을 재생하는 오픈 소스 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
+* [Kaset](https://github.com/sozercan/kaset) - 라이브러리, 가사, 팟캐스트를 지원하는 오픈 소스 YouTube Music 클라이언트입니다. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - 플러그인 확장을 지원하는 YouTube Music 데스크톱 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 
 ## 다운로드 관리 도구

@@ -933,6 +933,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Best media player on Mac, support almost all format. [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?platform=mac)
+* [Kaset](https://github.com/sozercan/kaset) - Open-source YouTube Music client with library, lyrics, podcasts, and playback controls. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - Desktop player for YouTube Music with plugin support. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) -  Free cross platform Desktop Player for YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app for live captions, audio/video transcription, and subtitle translation.
