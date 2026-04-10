@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kaset</title>
+      <link>https://github.com/sozercan/kaset</link>
+      <guid isPermaLink="false">533befd8ed6cb8fad818666f318d0b09f1674325:Kaset</guid>
+      <pubDate>Fri, 10 Apr 2026 12:31:47 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Kaset
+Description: ライブラリ、歌詞、ポッドキャストに対応したオープンソースのYouTube Musicクライアント。
+Open Source: https://github.com/sozercan/kaset
+Commit: Add Kaset to the zh/ja/ko list #1977
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Kaset<br/>Description: ライブラリ、歌詞、ポッドキャストに対応したオープンソースのYouTube Musicクライアント。<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
+    </item>
     <item>
       <title>Switzy</title>
       <link>https://github.com/yefga/Switzy</link>
@@ -693,20 +707,6 @@ Website: https://screensage.pro/
 Commit: Add ScreenSage Pro
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: ScreenSage Pro<br/>Description: 数分で洗練された画面録画動画を作れるツール。<br/>Website: https://screensage.pro/<br/>Commit: Add ScreenSage Pro<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2]]></content:encoded>
-    </item>
-    <item>
-      <title>FnKey</title>
-      <link>https://github.com/evoleinik/fnkey</link>
-      <guid isPermaLink="false">879641418098ced416f0d630f18b9f49382371e9:FnKey</guid>
-      <pubDate>Sun, 15 Mar 2026 09:11:08 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: FnKey
-Description: Fnキーを押して話し、離すと音声が即座にテキストとして貼り付けられるリアルタイム音声入力ツール。
-Open Source: https://github.com/evoleinik/fnkey
-Commit: Add FnKey to the zh/ja/ko list. #1886
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: FnKey<br/>Description: Fnキーを押して話し、離すと音声が即座にテキストとして貼り付けられるリアルタイム音声入力ツール。<br/>Open Source: https://github.com/evoleinik/fnkey<br/>Commit: Add FnKey to the zh/ja/ko list. #1886<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/879641418098ced416f0d630f18b9f49382371e9]]></content:encoded>
     </item>
   </channel>
 </rss>

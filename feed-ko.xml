@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kaset</title>
+      <link>https://github.com/sozercan/kaset</link>
+      <guid isPermaLink="false">533befd8ed6cb8fad818666f318d0b09f1674325:Kaset</guid>
+      <pubDate>Fri, 10 Apr 2026 12:31:47 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Kaset
+Description: 라이브러리, 가사, 팟캐스트를 지원하는 오픈 소스 YouTube Music 클라이언트입니다.
+Open Source: https://github.com/sozercan/kaset
+Commit: Add Kaset to the zh/ja/ko list #1977
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Kaset<br/>Description: 라이브러리, 가사, 팟캐스트를 지원하는 오픈 소스 YouTube Music 클라이언트입니다.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
+    </item>
     <item>
       <title>Switzy</title>
       <link>https://github.com/yefga/Switzy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/beardedspice/beardedspice
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: BeardedSpice<br/>Description: 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구.<br/>Open Source: https://github.com/beardedspice/beardedspice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>DynamicHorizon</title>
-      <link>https://dynamichorizon.app</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DynamicHorizon</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: DynamicHorizon
-Description: 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
-Website: https://dynamichorizon.app
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DynamicHorizon<br/>Description: 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
