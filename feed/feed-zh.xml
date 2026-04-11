@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:59:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Capso</title>
+      <link>https://github.com/lzhgus/Capso</link>
+      <guid isPermaLink="false">128e8f614ad79ada6e353dff19a4f4bb915a1f2c:Capso</guid>
+      <pubDate>Sat, 11 Apr 2026 05:59:19 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Capso
+Description: 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。
+Open Source: https://github.com/lzhgus/Capso
+Commit: Add Capso #1982
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Capso<br/>Description: 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso #1982<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c]]></content:encoded>
+    </item>
     <item>
       <title>Kaset</title>
       <link>https://github.com/sozercan/kaset</link>
@@ -693,20 +707,6 @@ Website: https://clashx.tech
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: ClashX Guide<br/>Description: 用于 ClashX 的指南和故障排查工具。<br/>Website: https://clashx.tech<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Cloudflare WARP</title>
-      <link>https://1.1.1.1/</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Cloudflare WARP</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Cloudflare WARP
-Description: 通过 Cloudflare 路由流量的安全网络服务。
-Website: https://1.1.1.1/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Cloudflare WARP<br/>Description: 通过 Cloudflare 路由流量的安全网络服务。<br/>Website: https://1.1.1.1/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
