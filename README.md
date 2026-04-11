@@ -683,6 +683,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Screenshot Tools
 
+* [Capso](https://github.com/lzhgus/Capso) - Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 & GIF recording, webcam PiP, OCR, annotations, and screenshot beautification. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
