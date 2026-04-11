@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:59:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Capso</title>
+      <link>https://github.com/lzhgus/Capso</link>
+      <guid isPermaLink="false">128e8f614ad79ada6e353dff19a4f4bb915a1f2c:Capso</guid>
+      <pubDate>Sat, 11 Apr 2026 05:59:19 GMT</pubDate>
+      <category>디자인 및 제품 / 화면 녹화</category>
+      <description>Category: 디자인 및 제품 / 화면 녹화
+App: Capso
+Description: 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다.
+Open Source: https://github.com/lzhgus/Capso
+Commit: Add Capso #1982
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: Capso<br/>Description: 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다.<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso #1982<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c]]></content:encoded>
+    </item>
     <item>
       <title>Kaset</title>
       <link>https://github.com/sozercan/kaset</link>
@@ -693,20 +707,6 @@ Website: https://sanebar.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: SaneBar<br/>Description: 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자.<br/>Website: https://sanebar.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>BeardedSpice</title>
-      <link>https://github.com/beardedspice/beardedspice</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:BeardedSpice</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: BeardedSpice
-Description: 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구.
-Open Source: https://github.com/beardedspice/beardedspice
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: BeardedSpice<br/>Description: 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구.<br/>Open Source: https://github.com/beardedspice/beardedspice<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

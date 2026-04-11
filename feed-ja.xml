@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:59:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Capso</title>
+      <link>https://github.com/lzhgus/Capso</link>
+      <guid isPermaLink="false">128e8f614ad79ada6e353dff19a4f4bb915a1f2c:Capso</guid>
+      <pubDate>Sat, 11 Apr 2026 05:59:19 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: Capso
+Description: 注釈、OCR、Webcamオーバーレイに対応したオープンソースのスクリーンショット・画面録画ツール。
+Open Source: https://github.com/lzhgus/Capso
+Commit: Add Capso #1982
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Capso<br/>Description: 注釈、OCR、Webcamオーバーレイに対応したオープンソースのスクリーンショット・画面録画ツール。<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso #1982<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c]]></content:encoded>
+    </item>
     <item>
       <title>Kaset</title>
       <link>https://github.com/sozercan/kaset</link>
@@ -693,20 +707,6 @@ Website: https://nimbalyst.com/
 Commit: Add Nimbalyst to the ja/ko/zh list. #1893
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31</description>
       <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Nimbalyst<br/>Description: AIコーディングのセッション、タスク、プロジェクトファイルを管理できるビジュアルワークスペース。<br/>Website: https://nimbalyst.com/<br/>Commit: Add Nimbalyst to the ja/ko/zh list. #1893<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31]]></content:encoded>
-    </item>
-    <item>
-      <title>ScreenSage Pro</title>
-      <link>https://screensage.pro/</link>
-      <guid isPermaLink="false">4647770f5192c2fb0f5b782d49ebc49f137707b2:ScreenSage Pro</guid>
-      <pubDate>Tue, 17 Mar 2026 15:31:23 GMT</pubDate>
-      <category>デザインとプロダクト / 画面録画</category>
-      <description>Category: デザインとプロダクト / 画面録画
-App: ScreenSage Pro
-Description: 数分で洗練された画面録画動画を作れるツール。
-Website: https://screensage.pro/
-Commit: Add ScreenSage Pro
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: ScreenSage Pro<br/>Description: 数分で洗練された画面録画動画を作れるツール。<br/>Website: https://screensage.pro/<br/>Commit: Add ScreenSage Pro<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4647770f5192c2fb0f5b782d49ebc49f137707b2]]></content:encoded>
     </item>
   </channel>
 </rss>
