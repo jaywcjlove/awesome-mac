@@ -512,6 +512,7 @@ Awesome Mac
 * [Recordly](https://recordly.dev/) - 用于制作演示、教程和产品视频的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/webadderall/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内置编辑器的录屏工具。 ![Open-Source Software][OSS Icon](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 可自动生成动态效果的录屏工具。
+* [ScreenKite](https://www.screenkite.com/) - 原生 macOS 屏幕录制和编辑工具，支持自动缩放、设备模型和提词器。 ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
 * [Screenize](https://syi0808.github.io/screenize/) - 支持自动缩放、光标效果和时间轴编辑的开源录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - 支持 AI 搜索的本地屏幕与麦克风录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
