@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacSift</title>
+      <link>https://lcharvol.github.io/MacSift/</link>
+      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
+      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: MacSift
+Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。
+Website: https://lcharvol.github.io/MacSift/
+Commit: Add MacSift listings
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: MacSift<br/>Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
+    </item>
     <item>
       <title>GhostVM</title>
       <link>https://github.com/groundwater/GhostVM</link>
@@ -693,20 +707,6 @@ Website: https://submanager.app
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 金融<br/>App: SubManager<br/>Description: 带续费提醒的订阅管理工具。<br/>Website: https://submanager.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Deadbolt</title>
-      <link>https://github.com/alichtman/deadbolt</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Deadbolt</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: Deadbolt
-Description: 开源文件加密工具。
-Open Source: https://github.com/alichtman/deadbolt
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: Deadbolt<br/>Description: 开源文件加密工具。<br/>Open Source: https://github.com/alichtman/deadbolt<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
