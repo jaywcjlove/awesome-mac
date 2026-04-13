@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Apr 2026 05:59:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 00:30:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ScreenKite</title>
+      <link>https://www.screenkite.com/</link>
+      <guid isPermaLink="false">81a0cbb3a270d994828aeae2f98e67f2f95a2026:ScreenKite</guid>
+      <pubDate>Mon, 13 Apr 2026 00:30:34 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+App: ScreenKite
+Description: 原生屏幕录制和编辑工具，支持自动缩放、AI 增强、设备模型和提词器。
+Website: https://www.screenkite.com/
+Commit: Add ScreenKite (#1984)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: ScreenKite<br/>Description: 原生屏幕录制和编辑工具，支持自动缩放、AI 增强、设备模型和提词器。<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
+    </item>
     <item>
       <title>Capso</title>
       <link>https://github.com/lzhgus/Capso</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Lennolium/swiftGuard
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: swiftGuard<br/>Description: 用于保护 USB 端口免受未授权访问的工具。<br/>Open Source: https://github.com/Lennolium/swiftGuard<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>ClashX Guide</title>
-      <link>https://clashx.tech</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:ClashX Guide</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: ClashX Guide
-Description: 用于 ClashX 的指南和故障排查工具。
-Website: https://clashx.tech
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: ClashX Guide<br/>Description: 用于 ClashX 的指南和故障排查工具。<br/>Website: https://clashx.tech<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

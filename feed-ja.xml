@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 11 Apr 2026 05:59:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 00:30:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ScreenKite</title>
+      <link>https://www.screenkite.com/</link>
+      <guid isPermaLink="false">81a0cbb3a270d994828aeae2f98e67f2f95a2026:ScreenKite</guid>
+      <pubDate>Mon, 13 Apr 2026 00:30:34 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: ScreenKite
+Description: 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。
+Website: https://www.screenkite.com/
+Commit: Add ScreenKite (#1984)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: ScreenKite<br/>Description: 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
+    </item>
     <item>
       <title>Capso</title>
       <link>https://github.com/lzhgus/Capso</link>
@@ -693,20 +707,6 @@ Website: https://fazm.ai
 Commit: Add Fazm to the ja/ko/zh list. #1894
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Fazm<br/>Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
-    </item>
-    <item>
-      <title>Nimbalyst</title>
-      <link>https://nimbalyst.com/</link>
-      <guid isPermaLink="false">3e4582d3cfc79156f438420b91899d6810f54b31:Nimbalyst</guid>
-      <pubDate>Wed, 18 Mar 2026 01:40:27 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Nimbalyst
-Description: AIコーディングのセッション、タスク、プロジェクトファイルを管理できるビジュアルワークスペース。
-Website: https://nimbalyst.com/
-Commit: Add Nimbalyst to the ja/ko/zh list. #1893
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Nimbalyst<br/>Description: AIコーディングのセッション、タスク、プロジェクトファイルを管理できるビジュアルワークスペース。<br/>Website: https://nimbalyst.com/<br/>Commit: Add Nimbalyst to the ja/ko/zh list. #1893<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e4582d3cfc79156f438420b91899d6810f54b31]]></content:encoded>
     </item>
   </channel>
 </rss>
