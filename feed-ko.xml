@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacSift</title>
+      <link>https://lcharvol.github.io/MacSift/</link>
+      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
+      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: MacSift
+Description: 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다.
+Website: https://lcharvol.github.io/MacSift/
+Commit: Add MacSift listings
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MacSift<br/>Description: 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
+    </item>
     <item>
       <title>GhostVM</title>
       <link>https://github.com/groundwater/GhostVM</link>
@@ -693,20 +707,6 @@ Website: https://dropoverapp.com/
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티<br/>App: Dropover<br/>Description: 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반.<br/>Website: https://dropoverapp.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipTools</title>
-      <link>https://macmost.com/cliptools</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:ClipTools</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: ClipTools
-Description: 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음.
-Website: https://macmost.com/cliptools
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipTools<br/>Description: 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음.<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacSift</title>
+      <link>https://lcharvol.github.io/MacSift/</link>
+      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
+      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: MacSift
+Description: ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。
+Website: https://lcharvol.github.io/MacSift/
+Commit: Add MacSift listings
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: MacSift<br/>Description: ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
+    </item>
     <item>
       <title>GhostVM</title>
       <link>https://github.com/groundwater/GhostVM</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/No-Box-Dev/Noxkey
 Commit: Add NoxKey to the ja/ko/zh list. #1907
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042</description>
       <content:encoded><![CDATA[Category: セキュリティツール<br/>App: NoxKey<br/>Description: キーチェーンとTouch IDでAPIキーやトークンを管理するツール。<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to the ja/ko/zh list. #1907<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042]]></content:encoded>
-    </item>
-    <item>
-      <title>Lockpaw</title>
-      <link>https://getlockpaw.com</link>
-      <guid isPermaLink="false">e0e8f5ea3118ce622203be870d6026bd1b64d8ac:Lockpaw</guid>
-      <pubDate>Sat, 21 Mar 2026 01:38:57 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Lockpaw
-Description: ホットキーで画面ロックを切り替えられるメニューバーツール。
-Website: https://getlockpaw.com
-Commit: Add Lockpaw to the ja/ko list #1901
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e8f5ea3118ce622203be870d6026bd1b64d8ac</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Lockpaw<br/>Description: ホットキーで画面ロックを切り替えられるメニューバーツール。<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to the ja/ko list #1901<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e8f5ea3118ce622203be870d6026bd1b64d8ac]]></content:encoded>
     </item>
   </channel>
 </rss>
