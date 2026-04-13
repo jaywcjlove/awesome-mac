@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChargeMonitor</title>
+      <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
+      <guid isPermaLink="false">af63da0ebd63ccc2275b2ac871c7b3896fe95bf5:ChargeMonitor</guid>
+      <pubDate>Mon, 13 Apr 2026 16:15:29 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: ChargeMonitor
+Description: 충전 전력, 사이클 수, 완충/방전까지 남은 시간 등 실시간 배터리 정보를 메뉴 바에 표시하고 에너지 소비가 큰 앱을 강조 표시하는 유틸리티.
+Open Source: https://github.com/CrashSystemZ/ChargeMonitor
+Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: ChargeMonitor<br/>Description: 충전 전력, 사이클 수, 완충/방전까지 남은 시간 등 실시간 배터리 정보를 메뉴 바에 표시하고 에너지 소비가 큰 앱을 강조 표시하는 유틸리티.<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
+    </item>
     <item>
       <title>ScreenKite</title>
       <link>https://www.screenkite.com/</link>
@@ -693,20 +707,6 @@ Website: https://okaapps.com/product/1503649026
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: uPaste<br/>Description: 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자.<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Anvil</title>
-      <link>https://anvilformac.com/</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Anvil</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Anvil
-Description: 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구.
-Website: https://anvilformac.com/
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Anvil<br/>Description: 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구.<br/>Website: https://anvilformac.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChargeMonitor</title>
+      <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
+      <guid isPermaLink="false">af63da0ebd63ccc2275b2ac871c7b3896fe95bf5:ChargeMonitor</guid>
+      <pubDate>Mon, 13 Apr 2026 16:15:29 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: ChargeMonitor
+Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.
+Open Source: https://github.com/CrashSystemZ/ChargeMonitor
+Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: ChargeMonitor<br/>Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
+    </item>
     <item>
       <title>ScreenKite</title>
       <link>https://www.screenkite.com/</link>
@@ -693,20 +707,6 @@ Website: https://getlockpaw.com
 Commit: Add Lockpaw to Security Tools (#1901)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: Lockpaw<br/>Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to Security Tools (#1901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7]]></content:encoded>
-    </item>
-    <item>
-      <title>Redis Insight</title>
-      <link>https://redis.io/insight/</link>
-      <guid isPermaLink="false">f15cdc15655effd7aadc5db234b9597abe6baa7a:Redis Insight</guid>
-      <pubDate>Sat, 21 Mar 2026 01:35:38 GMT</pubDate>
-      <category>Developer Tools / Databases</category>
-      <description>Category: Developer Tools / Databases
-App: Redis Insight
-Description: Official Redis tool for browsing, debugging, and visualizing data.
-Website: https://redis.io/insight/
-Commit: Add Redis Insight fix #1899
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Redis Insight<br/>Description: Official Redis tool for browsing, debugging, and visualizing data.<br/>Website: https://redis.io/insight/<br/>Commit: Add Redis Insight fix #1899<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a]]></content:encoded>
     </item>
   </channel>
 </rss>
