@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:00:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacSift</title>
+      <link>https://lcharvol.github.io/MacSift/</link>
+      <guid isPermaLink="false">3329a74f6f18036fa2295aa71cfb40620afabda7:MacSift</guid>
+      <pubDate>Mon, 13 Apr 2026 17:00:25 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: MacSift
+Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.
+Website: https://lcharvol.github.io/MacSift/
+Commit: Add MacSift to Cleanup and Uninstall (#1987)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacSift<br/>Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift to Cleanup and Uninstall (#1987)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7]]></content:encoded>
+    </item>
     <item>
       <title>GhostVM</title>
       <link>https://github.com/groundwater/GhostVM</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/azex-ai/speech
 Commit: Add Azex Speech to Voice-to-Text section (#1909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Voice input tuned for mixed Chinese-English dictation in AI and crypto work.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
-    </item>
-    <item>
-      <title>NoxKey</title>
-      <link>https://github.com/No-Box-Dev/Noxkey</link>
-      <guid isPermaLink="false">bcef19a8f5391734c9600fbac6ab55c8f5266456:NoxKey</guid>
-      <pubDate>Sun, 22 Mar 2026 04:08:04 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: NoxKey
-Description: Keychain-based secret manager for API keys and tokens with Touch ID.
-Open Source: https://github.com/No-Box-Dev/Noxkey
-Commit: Add NoxKey to Security Tools (#1907)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: NoxKey<br/>Description: Keychain-based secret manager for API keys and tokens with Touch ID.<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to Security Tools (#1907)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456]]></content:encoded>
     </item>
   </channel>
 </rss>
