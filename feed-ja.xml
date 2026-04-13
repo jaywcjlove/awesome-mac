@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChargeMonitor</title>
+      <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
+      <guid isPermaLink="false">af63da0ebd63ccc2275b2ac871c7b3896fe95bf5:ChargeMonitor</guid>
+      <pubDate>Mon, 13 Apr 2026 16:15:29 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: ChargeMonitor
+Description: 充電電力、サイクル数、充電/放電までの時間などリアルタイムのバッテリー情報をメニューバーに表示し、エネルギー消費の大きいアプリを強調表示するユーティリティ。![Freeware][Freeware Icon]
+Open Source: https://github.com/CrashSystemZ/ChargeMonitor
+Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: ChargeMonitor<br/>Description: 充電電力、サイクル数、充電/放電までの時間などリアルタイムのバッテリー情報をメニューバーに表示し、エネルギー消費の大きいアプリを強調表示するユーティリティ。![Freeware][Freeware Icon]<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
+    </item>
     <item>
       <title>ScreenKite</title>
       <link>https://www.screenkite.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/saihgupr/DMGMaker
 Commit: Add DMG Maker
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
       <content:encoded><![CDATA[Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク<br/>App: DMG Maker<br/>Description: 洗練されたビジュアルとCLI対応を備えたDMG作成ツール。<br/>Open Source: https://github.com/saihgupr/DMGMaker<br/>Commit: Add DMG Maker<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510]]></content:encoded>
-    </item>
-    <item>
-      <title>Fazm</title>
-      <link>https://fazm.ai</link>
-      <guid isPermaLink="false">e9bce406b634e66ea822ba0462aa1fa8305ae89e:Fazm</guid>
-      <pubDate>Wed, 18 Mar 2026 03:43:16 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Fazm
-Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。
-Website: https://fazm.ai
-Commit: Add Fazm to the ja/ko/zh list. #1894
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Fazm<br/>Description: アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。<br/>Website: https://fazm.ai<br/>Commit: Add Fazm to the ja/ko/zh list. #1894<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9bce406b634e66ea822ba0462aa1fa8305ae89e]]></content:encoded>
     </item>
   </channel>
 </rss>
