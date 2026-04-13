@@ -1248,6 +1248,7 @@ Awesome Mac
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化清理开发缓存，快速释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [MacSift](https://lcharvol.github.io/MacSift/) - 按应用分组文件并移入废纸篓的开源磁盘清理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 按体积扫描文件，快速找出占空间内容。 ![Freeware][Freeware Icon]
 * [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [PureMac](https://github.com/momenbasel/PureMac) - 免费开源的系统清理工具，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]

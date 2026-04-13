@@ -1218,6 +1218,7 @@ Awesome Mac
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [MacSift](https://lcharvol.github.io/MacSift/) - ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - ファイルを容量順に表示して不要な大容量ファイルを見つけるツール。 ![Freeware][Freeware Icon]
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 無料でソースが公開されたフェアコードライセンスのMacアプリクリーナー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [PureMac](https://github.com/momenbasel/PureMac) - テレメトリーなしの無料オープンソースシステムクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]

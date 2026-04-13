@@ -867,6 +867,7 @@ Awesome Mac
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 드래그 앤 드롭을 지원하는 가벼운 앱 제거 도구. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+* [MacSift](https://lcharvol.github.io/MacSift/) - 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 
 ### 파일 정리 도구
