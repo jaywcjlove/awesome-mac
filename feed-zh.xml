@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GhostVM</title>
+      <link>https://github.com/groundwater/GhostVM</link>
+      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
+      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
+      <category>虚拟机</category>
+      <description>Category: 虚拟机
+App: GhostVM
+Description: 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。
+Open Source: https://github.com/groundwater/GhostVM
+Commit: Add GhostVM
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
+      <content:encoded><![CDATA[Category: 虚拟机<br/>App: GhostVM<br/>Description: 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
+    </item>
+    <item>
+      <title>SwiftMTP</title>
+      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
+      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
+      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: SwiftMTP
+Description: 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。
+Open Source: https://github.com/Neighbor-Z/SwiftMTP
+Commit: Add SwiftMTP
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SwiftMTP<br/>Description: 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
+    </item>
     <item>
       <title>ChargeMonitor</title>
       <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/alichtman/deadbolt
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: Deadbolt<br/>Description: 开源文件加密工具。<br/>Open Source: https://github.com/alichtman/deadbolt<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>MalwareBytes</title>
-      <link>https://www.malwarebytes.com/mac-download/</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:MalwareBytes</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: MalwareBytes
-Description: 用于扫描和移除恶意软件的安全工具。
-Website: https://www.malwarebytes.com/mac-download/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: MalwareBytes<br/>Description: 用于扫描和移除恶意软件的安全工具。<br/>Website: https://www.malwarebytes.com/mac-download/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Vulert</title>
-      <link>https://vulert.com</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Vulert</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: Vulert
-Description: 用于监控开源依赖漏洞的服务。
-Website: https://vulert.com
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: Vulert<br/>Description: 用于监控开源依赖漏洞的服务。<br/>Website: https://vulert.com<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
