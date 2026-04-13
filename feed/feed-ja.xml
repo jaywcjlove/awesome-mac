@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GhostVM</title>
+      <link>https://github.com/groundwater/GhostVM</link>
+      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
+      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
+      <category>開発ツール / 仮想化</category>
+      <description>Category: 開発ツール / 仮想化
+App: GhostVM
+Description: 隔離されたmacOS仮想マシンワークスペースを作成・管理するための仮想化ツール。
+Open Source: https://github.com/groundwater/GhostVM
+Commit: Add GhostVM
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: GhostVM<br/>Description: 隔離されたmacOS仮想マシンワークスペースを作成・管理するための仮想化ツール。<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
+    </item>
+    <item>
+      <title>SwiftMTP</title>
+      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
+      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
+      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: SwiftMTP
+Description: MacとAndroidデバイス間でファイルの閲覧と転送を行うためのオープンソースMTP管理ツール。
+Open Source: https://github.com/Neighbor-Z/SwiftMTP
+Commit: Add SwiftMTP
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: SwiftMTP<br/>Description: MacとAndroidデバイス間でファイルの閲覧と転送を行うためのオープンソースMTP管理ツール。<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
+    </item>
     <item>
       <title>ChargeMonitor</title>
       <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
@@ -679,34 +707,6 @@ Website: https://getlockpaw.com
 Commit: Add Lockpaw to the ja/ko list #1901
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e8f5ea3118ce622203be870d6026bd1b64d8ac</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Lockpaw<br/>Description: ホットキーで画面ロックを切り替えられるメニューバーツール。<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to the ja/ko list #1901<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e8f5ea3118ce622203be870d6026bd1b64d8ac]]></content:encoded>
-    </item>
-    <item>
-      <title>Redis Insight</title>
-      <link>https://redis.io/insight/</link>
-      <guid isPermaLink="false">f15cdc15655effd7aadc5db234b9597abe6baa7a:Redis Insight</guid>
-      <pubDate>Sat, 21 Mar 2026 01:35:38 GMT</pubDate>
-      <category>開発ツール / データベース</category>
-      <description>Category: 開発ツール / データベース
-App: Redis Insight
-Description: Redisデータの閲覧、デバッグ、可視化ができる公式ツール。
-Website: https://redis.io/insight/
-Commit: Add Redis Insight fix #1899
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a</description>
-      <content:encoded><![CDATA[Category: 開発ツール / データベース<br/>App: Redis Insight<br/>Description: Redisデータの閲覧、デバッグ、可視化ができる公式ツール。<br/>Website: https://redis.io/insight/<br/>Commit: Add Redis Insight fix #1899<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f15cdc15655effd7aadc5db234b9597abe6baa7a]]></content:encoded>
-    </item>
-    <item>
-      <title>DMG Maker</title>
-      <link>https://github.com/saihgupr/DMGMaker</link>
-      <guid isPermaLink="false">9a0dfca40df6df056ea648db3a05a2cdafd52510:DMG Maker</guid>
-      <pubDate>Fri, 20 Mar 2026 00:45:38 GMT</pubDate>
-      <category>開発ツール / ハイブリッドアプリケーション用フレームワーク</category>
-      <description>Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク
-App: DMG Maker
-Description: 洗練されたビジュアルとCLI対応を備えたDMG作成ツール。
-Open Source: https://github.com/saihgupr/DMGMaker
-Commit: Add DMG Maker
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510</description>
-      <content:encoded><![CDATA[Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク<br/>App: DMG Maker<br/>Description: 洗練されたビジュアルとCLI対応を備えたDMG作成ツール。<br/>Open Source: https://github.com/saihgupr/DMGMaker<br/>Commit: Add DMG Maker<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a0dfca40df6df056ea648db3a05a2cdafd52510]]></content:encoded>
     </item>
   </channel>
 </rss>

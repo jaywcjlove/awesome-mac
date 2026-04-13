@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GhostVM</title>
+      <link>https://github.com/groundwater/GhostVM</link>
+      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
+      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: GhostVM
+Description: 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다.
+Open Source: https://github.com/groundwater/GhostVM
+Commit: Add GhostVM
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: GhostVM<br/>Description: 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다.<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
+    </item>
+    <item>
+      <title>SwiftMTP</title>
+      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
+      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
+      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
+      <category>커뮤니케이션 / 파일 공유</category>
+      <description>Category: 커뮤니케이션 / 파일 공유
+App: SwiftMTP
+Description: Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다.
+Open Source: https://github.com/Neighbor-Z/SwiftMTP
+Commit: Add SwiftMTP
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
+      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: SwiftMTP<br/>Description: Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다.<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
+    </item>
     <item>
       <title>ChargeMonitor</title>
       <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
@@ -679,34 +707,6 @@ Website: https://macmost.com/cliptools
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipTools<br/>Description: 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음.<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClip</title>
-      <link>https://saneclip.com</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneClip</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: SaneClip
-Description: 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자.
-Website: https://saneclip.com
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: SaneClip<br/>Description: 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자.<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>uPaste</title>
-      <link>https://okaapps.com/product/1503649026</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:uPaste</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: uPaste
-Description: 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자.
-Website: https://okaapps.com/product/1503649026
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: uPaste<br/>Description: 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자.<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

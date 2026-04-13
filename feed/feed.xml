@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:38:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GhostVM</title>
+      <link>https://github.com/groundwater/GhostVM</link>
+      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
+      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: GhostVM
+Description: Virtualization tool for creating and managing isolated macOS virtual machine workspaces.
+Open Source: https://github.com/groundwater/GhostVM
+Commit: Add GhostVM
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: GhostVM<br/>Description: Virtualization tool for creating and managing isolated macOS virtual machine workspaces.<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
+    </item>
+    <item>
+      <title>SwiftMTP</title>
+      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
+      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
+      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: SwiftMTP
+Description: Open-source MTP device manager for browsing and transferring files between Mac and Android devices.
+Open Source: https://github.com/Neighbor-Z/SwiftMTP
+Commit: Add SwiftMTP
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SwiftMTP<br/>Description: Open-source MTP device manager for browsing and transferring files between Mac and Android devices.<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
+    </item>
     <item>
       <title>ChargeMonitor</title>
       <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/No-Box-Dev/Noxkey
 Commit: Add NoxKey to Security Tools (#1907)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: NoxKey<br/>Description: Keychain-based secret manager for API keys and tokens with Touch ID.<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to Security Tools (#1907)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcef19a8f5391734c9600fbac6ab55c8f5266456]]></content:encoded>
-    </item>
-    <item>
-      <title>ProBoard</title>
-      <link>https://apps.apple.com/app/id6748314346?platform=mac</link>
-      <guid isPermaLink="false">ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0:ProBoard</guid>
-      <pubDate>Sat, 21 Mar 2026 10:00:10 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: ProBoard
-Description: Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
-App Store: https://apps.apple.com/app/id6748314346?platform=mac
-Commit: Add ProBoard to productivity tools list (#1906)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: ProBoard<br/>Description: Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)<br/>App Store: https://apps.apple.com/app/id6748314346?platform=mac<br/>Commit: Add ProBoard to productivity tools list (#1906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed5f2436448b72a8cae2f8e01d5a0b5f5f883ba0]]></content:encoded>
-    </item>
-    <item>
-      <title>Lockpaw</title>
-      <link>https://getlockpaw.com</link>
-      <guid isPermaLink="false">3262420ea5ed4afd16d9c81bb1524c82ca4965f7:Lockpaw</guid>
-      <pubDate>Sat, 21 Mar 2026 01:36:07 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: Lockpaw
-Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.
-Website: https://getlockpaw.com
-Commit: Add Lockpaw to Security Tools (#1901)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: Lockpaw<br/>Description: Menu bar screen guard for macOS — lock and unlock your screen with a hotkey.<br/>Website: https://getlockpaw.com<br/>Commit: Add Lockpaw to Security Tools (#1901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3262420ea5ed4afd16d9c81bb1524c82ca4965f7]]></content:encoded>
     </item>
   </channel>
 </rss>
