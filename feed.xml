@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:05:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Desktop Control</title>
+      <link>https://github.com/yaroshevych/desktopctl</link>
+      <guid isPermaLink="false">a638622290d6449c6ec6d669778bb013415d9ecb:Desktop Control</guid>
+      <pubDate>Tue, 14 Apr 2026 22:05:55 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Desktop Control
+Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
+Open Source: https://github.com/yaroshevych/desktopctl
+Commit: Add Desktop Control to the list of AI tools (#1991)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Desktop Control<br/>Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.<br/>Open Source: https://github.com/yaroshevych/desktopctl<br/>Commit: Add Desktop Control to the list of AI tools (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb]]></content:encoded>
+    </item>
     <item>
       <title>MacSift</title>
       <link>https://lcharvol.github.io/MacSift/</link>
@@ -693,20 +707,6 @@ Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
-    </item>
-    <item>
-      <title>Azex Speech</title>
-      <link>https://github.com/azex-ai/speech</link>
-      <guid isPermaLink="false">5a5d1cd79002acc37b1210fe150b4566d0868c88:Azex Speech</guid>
-      <pubDate>Sun, 22 Mar 2026 04:12:11 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: Azex Speech
-Description: Voice input tuned for mixed Chinese-English dictation in AI and crypto work.
-Open Source: https://github.com/azex-ai/speech
-Commit: Add Azex Speech to Voice-to-Text section (#1909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Azex Speech<br/>Description: Voice input tuned for mixed Chinese-English dictation in AI and crypto work.<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to Voice-to-Text section (#1909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a5d1cd79002acc37b1210fe150b4566d0868c88]]></content:encoded>
     </item>
   </channel>
 </rss>
