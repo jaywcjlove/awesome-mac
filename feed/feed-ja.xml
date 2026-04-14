@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:19:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Desktop Control</title>
+      <link>https://desktopctl.com/</link>
+      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
+      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Desktop Control
+Description: AIエージェント向けに画面・マウス・キーボードで任意のアプリを操作できるローカルCLI。
+Website: https://desktopctl.com/
+Commit: Add Desktop Control listings (#1991)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Desktop Control<br/>Description: AIエージェント向けに画面・マウス・キーボードで任意のアプリを操作できるローカルCLI。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
+    </item>
     <item>
       <title>MacSift</title>
       <link>https://lcharvol.github.io/MacSift/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/azex-ai/speech
 Commit: Add Azex Speech to the ja/ko/zh list. #1909
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Azex Speech<br/>Description: AIや暗号資産の作業で中英混在の音声入力に強いツール。<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to the ja/ko/zh list. #1909<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb]]></content:encoded>
-    </item>
-    <item>
-      <title>NoxKey</title>
-      <link>https://github.com/No-Box-Dev/Noxkey</link>
-      <guid isPermaLink="false">f5cd3bcad0af7198b4dad407a0c096e559a4f042:NoxKey</guid>
-      <pubDate>Sun, 22 Mar 2026 04:10:59 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: NoxKey
-Description: キーチェーンとTouch IDでAPIキーやトークンを管理するツール。
-Open Source: https://github.com/No-Box-Dev/Noxkey
-Commit: Add NoxKey to the ja/ko/zh list. #1907
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: NoxKey<br/>Description: キーチェーンとTouch IDでAPIキーやトークンを管理するツール。<br/>Open Source: https://github.com/No-Box-Dev/Noxkey<br/>Commit: Add NoxKey to the ja/ko/zh list. #1907<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5cd3bcad0af7198b4dad407a0c096e559a4f042]]></content:encoded>
     </item>
   </channel>
 </rss>
