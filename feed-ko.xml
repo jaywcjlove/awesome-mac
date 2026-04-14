@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 19:39:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TypeWhisper</title>
+      <link>https://www.typewhisper.com</link>
+      <guid isPermaLink="false">624a3717afd6e7bd9f87b285a90771434b39cfaf:TypeWhisper</guid>
+      <pubDate>Tue, 14 Apr 2026 19:39:42 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: TypeWhisper
+Description: 전역 단축키를 지원하는 로컬 Whisper 기반 음성 텍스트 변환 도구입니다.
+Website: https://www.typewhisper.com
+Commit: Add TypeWhisper listings
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: TypeWhisper<br/>Description: 전역 단축키를 지원하는 로컬 Whisper 기반 음성 텍스트 변환 도구입니다.<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
+    </item>
     <item>
       <title>MacSift</title>
       <link>https://lcharvol.github.io/MacSift/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/glinford/dns-easy-switcher
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 유틸리티<br/>App: DNS Easy Switcher<br/>Description: DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구.<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Dropover</title>
-      <link>https://dropoverapp.com/</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Dropover</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티</category>
-      <description>Category: 유틸리티
-App: Dropover
-Description: 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반.
-Website: https://dropoverapp.com/
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티<br/>App: Dropover<br/>Description: 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반.<br/>Website: https://dropoverapp.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
