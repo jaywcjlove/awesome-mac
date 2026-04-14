@@ -338,6 +338,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PDFsail](https://pdfsail.com/) - All-in-one PDF tool for editing, converting, merging, compressing, and OCR.
 * [TableTool](https://tabletool.io/) - Effortless CSV Browser!
 * [Heynote](https://heynote.com/) - A dedicated scratchpad for developers. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Developer Tools
 
