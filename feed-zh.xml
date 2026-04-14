@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 14 Apr 2026 19:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:19:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Desktop Control</title>
+      <link>https://desktopctl.com/</link>
+      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
+      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: Desktop Control
+Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。
+Website: https://desktopctl.com/
+Commit: Add Desktop Control listings (#1991)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Desktop Control<br/>Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
+    </item>
     <item>
       <title>TypeWhisper</title>
       <link>https://www.typewhisper.com</link>
@@ -693,20 +707,6 @@ Website: https://th-ch.github.io/youtube-music/
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: YouTube Music<br/>Description: 支持插件扩展的 YouTube Music 桌面播放器。<br/>Website: https://th-ch.github.io/youtube-music/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Helium</title>
-      <link>https://helium.computer/</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Helium</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Helium
-Description: 内置广告拦截的隐私导向 Chromium 浏览器。
-Website: https://helium.computer/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Helium<br/>Description: 内置广告拦截的隐私导向 Chromium 浏览器。<br/>Website: https://helium.computer/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

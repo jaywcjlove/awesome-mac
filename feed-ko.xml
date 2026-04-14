@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 19:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:19:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Desktop Control</title>
+      <link>https://desktopctl.com/</link>
+      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
+      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Desktop Control
+Description: 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구.
+Website: https://desktopctl.com/
+Commit: Add Desktop Control listings (#1991)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Desktop Control<br/>Description: 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구.<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
+    </item>
     <item>
       <title>TypeWhisper</title>
       <link>https://www.typewhisper.com</link>
@@ -693,20 +707,6 @@ Website: https://windscribe.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Windscribe<br/>Description: 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스.<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>DNS Easy Switcher</title>
-      <link>https://github.com/glinford/dns-easy-switcher</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DNS Easy Switcher</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>유틸리티</category>
-      <description>Category: 유틸리티
-App: DNS Easy Switcher
-Description: DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구.
-Open Source: https://github.com/glinford/dns-easy-switcher
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 유틸리티<br/>App: DNS Easy Switcher<br/>Description: DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구.<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
