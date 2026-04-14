@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 19:39:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TypeWhisper</title>
+      <link>https://www.typewhisper.com</link>
+      <guid isPermaLink="false">624a3717afd6e7bd9f87b285a90771434b39cfaf:TypeWhisper</guid>
+      <pubDate>Tue, 14 Apr 2026 19:39:42 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: TypeWhisper
+Description: 支持全局热键的本地 Whisper 语音转文字工具。
+Website: https://www.typewhisper.com
+Commit: Add TypeWhisper listings
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: TypeWhisper<br/>Description: 支持全局热键的本地 Whisper 语音转文字工具。<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
+    </item>
     <item>
       <title>MacSift</title>
       <link>https://lcharvol.github.io/MacSift/</link>
@@ -693,20 +707,6 @@ Website: https://helium.computer/
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Helium<br/>Description: 内置广告拦截的隐私导向 Chromium 浏览器。<br/>Website: https://helium.computer/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>SubManager</title>
-      <link>https://submanager.app</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:SubManager</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>金融</category>
-      <description>Category: 金融
-App: SubManager
-Description: 带续费提醒的订阅管理工具。
-Website: https://submanager.app
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 金融<br/>App: SubManager<br/>Description: 带续费提醒的订阅管理工具。<br/>Website: https://submanager.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
