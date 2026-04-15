@@ -431,6 +431,7 @@ Awesome Mac
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
 * [Rockxy](https://github.com/LocNguyenHuu/Rockxy) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - 네트워크 트래픽 모니터링 앱. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
+* [What Is My IP](https://whatismyip.help/ko/) - 현재 사용 중인 공인 IP 주소와 외부에 표시되는 연결 정보를 확인할 수 있는 도구입니다. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 네트워크 프로토콜 분석기. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - 올인원 API 디자인 및 테스트 환경.
 
