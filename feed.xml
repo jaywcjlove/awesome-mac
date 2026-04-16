@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:32:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WaifuX</title>
+      <link>https://jipika.github.io/WaifuX</link>
+      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
+      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: WaifuX
+Description: Open-source ACG app for wallpapers, animated backgrounds, and anime videos.
+Website: https://jipika.github.io/WaifuX
+Commit: Add WaifuX fix #1992
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: WaifuX<br/>Description: Open-source ACG app for wallpapers, animated backgrounds, and anime videos.<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
+    </item>
     <item>
       <title>Desktop Control</title>
       <link>https://github.com/yaroshevych/desktopctl</link>
@@ -693,20 +707,6 @@ Website: https://zipic.app/
 Commit: Add Zipic to Design and Product - Other Tools (#1910)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Zipic<br/>Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
-    </item>
-    <item>
-      <title>Orchard</title>
-      <link>https://orchard.5km.tech/</link>
-      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Orchard
-Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
-Website: https://orchard.5km.tech/
-Commit: Add Orchard to AI Client (#1911)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
   </channel>
 </rss>
