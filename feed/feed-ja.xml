@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:32:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WaifuX</title>
+      <link>https://jipika.github.io/WaifuX</link>
+      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
+      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: WaifuX
+Description: 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。
+Website: https://jipika.github.io/WaifuX
+Commit: Add WaifuX fix #1992
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: WaifuX<br/>Description: 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
+    </item>
     <item>
       <title>Desktop Control</title>
       <link>https://desktopctl.com/</link>
@@ -693,20 +707,6 @@ Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Orchard<br/>Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
-    </item>
-    <item>
-      <title>Azex Speech</title>
-      <link>https://github.com/azex-ai/speech</link>
-      <guid isPermaLink="false">9f528db2256e29d17fdbc0fb740200746cb3bfeb:Azex Speech</guid>
-      <pubDate>Sun, 22 Mar 2026 04:15:25 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Azex Speech
-Description: AIや暗号資産の作業で中英混在の音声入力に強いツール。
-Open Source: https://github.com/azex-ai/speech
-Commit: Add Azex Speech to the ja/ko/zh list. #1909
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Azex Speech<br/>Description: AIや暗号資産の作業で中英混在の音声入力に強いツール。<br/>Open Source: https://github.com/azex-ai/speech<br/>Commit: Add Azex Speech to the ja/ko/zh list. #1909<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f528db2256e29d17fdbc0fb740200746cb3bfeb]]></content:encoded>
     </item>
   </channel>
 </rss>

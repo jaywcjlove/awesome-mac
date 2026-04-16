@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 02:32:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WaifuX</title>
+      <link>https://jipika.github.io/WaifuX</link>
+      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
+      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: WaifuX
+Description: 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다.
+Website: https://jipika.github.io/WaifuX
+Commit: Add WaifuX fix #1992
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: WaifuX<br/>Description: 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다.<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
+    </item>
     <item>
       <title>Desktop Control</title>
       <link>https://desktopctl.com/</link>
@@ -693,20 +707,6 @@ Website: https://www.tunnelbear.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Tunnelbear<br/>Description: 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스.<br/>Website: https://www.tunnelbear.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Windscribe</title>
-      <link>https://windscribe.com</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Windscribe</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>프록시 및 VPN 도구</category>
-      <description>Category: 프록시 및 VPN 도구
-App: Windscribe
-Description: 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스.
-Website: https://windscribe.com
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Windscribe<br/>Description: 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스.<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
