@@ -1073,6 +1073,7 @@ Awesome Mac
 * [LinkLiar](http://halo.github.io/LinkLiar) - macOS用のリンク層MACスプーフィングGUI。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [LockDown](https://objective-see.com/products/lockdown.html) - El Capitan用のセキュリティ構成設定を監査および修正するオープンソースツール。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 不正な（送信）ネットワークトラフィックをブロックすることを目的とした無料のmacOSファイアウォール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) [![Open-Source Software][OSS Icon]](1) ![Freeware][Freeware Icon]
+* [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID、Apple Watch、またはパスワードで任意のmacOSアプリをロックし、全モニターにぼかしオーバーレイを表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - マルウェアを検出・除去するセキュリティツール。 ![Freeware][Freeware Icon]
 * [Mana Security](https://www.manasecurity.com/) - 個人向けの脆弱性管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 * [NoxKey](https://github.com/No-Box-Dev/Noxkey) - キーチェーンとTouch IDでAPIキーやトークンを管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
