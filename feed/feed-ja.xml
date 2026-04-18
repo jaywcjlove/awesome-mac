@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Apr 2026 02:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 02:40:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clippy</title>
+      <link>https://github.com/yarasaa/Clippy</link>
+      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
+      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: Clippy
+Description: コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。
+Open Source: https://github.com/yarasaa/Clippy
+Commit: Add Clippy (#1998)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Clippy<br/>Description: コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
+    </item>
     <item>
       <title>WaifuX</title>
       <link>https://jipika.github.io/WaifuX</link>
@@ -693,20 +707,6 @@ Website: https://zipic.app/
 Commit: Add Zipic to Design and Product - Other Tools (#1910)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Zipic<br/>Description: カスタムプリセット、自動化ワークフロー、ショートカットとRaycast連携を備えたバッチ画像圧縮ツール。<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
-    </item>
-    <item>
-      <title>Orchard</title>
-      <link>https://orchard.5km.tech/</link>
-      <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Orchard
-Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。
-Website: https://orchard.5km.tech/
-Commit: Add Orchard to AI Client (#1911)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Orchard<br/>Description: AIアシスタントをカレンダー、メール、メモ、リマインダー、ミュージックなどAppleネイティブアプリと接続するMCPサーバー。<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
   </channel>
 </rss>
