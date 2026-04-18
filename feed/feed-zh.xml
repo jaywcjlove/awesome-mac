@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:56:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MakLock</title>
+      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
+      <guid isPermaLink="false">5503dbec1469b33f191cde1fdfdec0c812a16cf4:MakLock</guid>
+      <pubDate>Sat, 18 Apr 2026 07:56:26 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: MakLock
+Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。
+Open Source: https://github.com/dutkiewiczmaciej/MakLock
+Commit: Add MakLock (#1995)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: MakLock<br/>Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
+    </item>
     <item>
       <title>Clippy</title>
       <link>https://github.com/yarasaa/Clippy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ateymoori/lyricglow
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: LyricGlow<br/>Description: 支持逐词发光效果的同步歌词播放器。<br/>Open Source: https://github.com/ateymoori/lyricglow<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>trax</title>
-      <link>https://github.com/nbonamy/trax</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:trax</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: trax
-Description: 支持音频转换和标签编辑的音乐资料库管理工具。
-Open Source: https://github.com/nbonamy/trax
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: trax<br/>Description: 支持音频转换和标签编辑的音乐资料库管理工具。<br/>Open Source: https://github.com/nbonamy/trax<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

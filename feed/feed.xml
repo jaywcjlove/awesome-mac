@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:56:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MakLock</title>
+      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
+      <guid isPermaLink="false">5503dbec1469b33f191cde1fdfdec0c812a16cf4:MakLock</guid>
+      <pubDate>Sat, 18 Apr 2026 07:56:26 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: MakLock
+Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.
+Open Source: https://github.com/dutkiewiczmaciej/MakLock
+Commit: Add MakLock (#1995)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: MakLock<br/>Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
+    </item>
     <item>
       <title>Clippy</title>
       <link>https://github.com/yarasaa/Clippy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/kamjin3086/AppUninstaller
 Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Uninstaller<br/>Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage Monitor</title>
-      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
-      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
-      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claude Usage Monitor
-Description: Track Claude usage with a live counter.
-Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
-Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage Monitor<br/>Description: Track Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
   </channel>
 </rss>
