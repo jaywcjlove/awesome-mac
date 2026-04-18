@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Apr 2026 02:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 02:40:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clippy</title>
+      <link>https://github.com/yarasaa/Clippy</link>
+      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
+      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Clippy
+Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.
+Open Source: https://github.com/yarasaa/Clippy
+Commit: Add Clippy (#1998)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clippy<br/>Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
+    </item>
     <item>
       <title>WaifuX</title>
       <link>https://jipika.github.io/WaifuX</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage Monitor<br/>Description: Track Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
-    </item>
-    <item>
-      <title>Zipic</title>
-      <link>https://zipic.app/</link>
-      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Zipic
-Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.
-Website: https://zipic.app/
-Commit: Add Zipic to Design and Product - Other Tools (#1910)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Zipic<br/>Description: Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
     </item>
   </channel>
 </rss>
