@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:08:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MakLock</title>
+      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
+      <guid isPermaLink="false">5ccbe9e5bbaebc427875d37a8f8055529d1e8408:MakLock</guid>
+      <pubDate>Sat, 18 Apr 2026 08:08:33 GMT</pubDate>
+      <category>セキュリティツール</category>
+      <description>Category: セキュリティツール
+App: MakLock
+Description: Touch ID、Apple Watch、またはパスワードで任意のmacOSアプリをロックし、全モニターにぼかしオーバーレイを表示するツール。
+Open Source: https://github.com/dutkiewiczmaciej/MakLock
+Commit: Add MakLock to the ja/ko list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ccbe9e5bbaebc427875d37a8f8055529d1e8408</description>
+      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: MakLock<br/>Description: Touch ID、Apple Watch、またはパスワードで任意のmacOSアプリをロックし、全モニターにぼかしオーバーレイを表示するツール。<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock to the ja/ko list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ccbe9e5bbaebc427875d37a8f8055529d1e8408]]></content:encoded>
+    </item>
     <item>
       <title>Clippy</title>
       <link>https://github.com/yarasaa/Clippy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Claude Usage Monitor<br/>Description: リアルタイムのカウンターでClaude使用量を追跡するツール。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
-    </item>
-    <item>
-      <title>Zipic</title>
-      <link>https://zipic.app/</link>
-      <guid isPermaLink="false">74d4d600677a63bef7d165241f1552d4f672df4f:Zipic</guid>
-      <pubDate>Mon, 23 Mar 2026 06:45:35 GMT</pubDate>
-      <category>デザインとプロダクト / その他のツール</category>
-      <description>Category: デザインとプロダクト / その他のツール
-App: Zipic
-Description: カスタムプリセット、自動化ワークフロー、ショートカットとRaycast連携を備えたバッチ画像圧縮ツール。
-Website: https://zipic.app/
-Commit: Add Zipic to Design and Product - Other Tools (#1910)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Zipic<br/>Description: カスタムプリセット、自動化ワークフロー、ショートカットとRaycast連携を備えたバッチ画像圧縮ツール。<br/>Website: https://zipic.app/<br/>Commit: Add Zipic to Design and Product - Other Tools (#1910)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d165241f1552d4f672df4f]]></content:encoded>
     </item>
   </channel>
 </rss>
