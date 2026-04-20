@@ -1150,6 +1150,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
 
+- [UniClipboard](https://github.com/uniclipboard/uniclipboard) - Privacy-first, end-to-end encrypted clipboard sync across macOS, Windows, and Linux. (Apache-2.0)
 ### Menu Bar Tools
 
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
