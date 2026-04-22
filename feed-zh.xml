@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:02:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ConsoleMini</title>
+      <link>https://github.com/momenbasel/ConsoleMini</link>
+      <guid isPermaLink="false">89f7a72621818a933e9a6ff30686f291cf1e28cd:ConsoleMini</guid>
+      <pubDate>Wed, 22 Apr 2026 07:02:08 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: ConsoleMini
+Description: 控制器优先的大屏幕启动器，将 Mac mini 变成 PS1-PS4 + 复古游戏机（封装 DuckStation、PCSX2、RPCS3、shadPS4、PPSSPP、RetroArch、mGBA、Flycast）。
+Open Source: https://github.com/momenbasel/ConsoleMini
+Commit: Add ConsoleMini to Gaming Software (#2004)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: ConsoleMini<br/>Description: 控制器优先的大屏幕启动器，将 Mac mini 变成 PS1-PS4 + 复古游戏机（封装 DuckStation、PCSX2、RPCS3、shadPS4、PPSSPP、RetroArch、mGBA、Flycast）。<br/>Open Source: https://github.com/momenbasel/ConsoleMini<br/>Commit: Add ConsoleMini to Gaming Software (#2004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd]]></content:encoded>
+    </item>
     <item>
       <title>MakLock</title>
       <link>https://github.com/dutkiewiczmaciej/MakLock</link>
@@ -693,20 +707,6 @@ Website: https://dropshare.app
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: Dropshare<br/>Description: 用于分享截图、录屏和其他文件的工具。<br/>Website: https://dropshare.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>LyricGlow</title>
-      <link>https://github.com/ateymoori/lyricglow</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:LyricGlow</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: LyricGlow
-Description: 支持逐词发光效果的同步歌词播放器。
-Open Source: https://github.com/ateymoori/lyricglow
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: LyricGlow<br/>Description: 支持逐词发光效果的同步歌词播放器。<br/>Open Source: https://github.com/ateymoori/lyricglow<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>
