@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Apr 2026 07:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:02:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ConsoleMini</title>
+      <link>https://github.com/momenbasel/ConsoleMini</link>
+      <guid isPermaLink="false">89f7a72621818a933e9a6ff30686f291cf1e28cd:ConsoleMini</guid>
+      <pubDate>Wed, 22 Apr 2026 07:02:08 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: ConsoleMini
+Description: Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast).
+Open Source: https://github.com/momenbasel/ConsoleMini
+Commit: Add ConsoleMini to Gaming Software (#2004)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: ConsoleMini<br/>Description: Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast).<br/>Open Source: https://github.com/momenbasel/ConsoleMini<br/>Commit: Add ConsoleMini to Gaming Software (#2004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd]]></content:encoded>
+    </item>
     <item>
       <title>MakLock</title>
       <link>https://github.com/dutkiewiczmaciej/MakLock</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/sw33tlie/macshot
 Commit: Add macshot to Screenshot Tools (#1916)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: macshot<br/>Description: Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.<br/>Open Source: https://github.com/sw33tlie/macshot<br/>Commit: Add macshot to Screenshot Tools (#1916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3]]></content:encoded>
-    </item>
-    <item>
-      <title>App Uninstaller</title>
-      <link>https://github.com/kamjin3086/AppUninstaller</link>
-      <guid isPermaLink="false">ffcaf60b826240c20afa9d945b4bf748cae483d8:App Uninstaller</guid>
-      <pubDate>Mon, 23 Mar 2026 14:02:42 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: App Uninstaller
-Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.
-Open Source: https://github.com/kamjin3086/AppUninstaller
-Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Uninstaller<br/>Description: Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to Cleanup and Uninstall section (#1913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20afa9d945b4bf748cae483d8]]></content:encoded>
     </item>
   </channel>
 </rss>
