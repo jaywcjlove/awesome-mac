@@ -1441,6 +1441,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [PressButan](http://briankendall.net/presButan/) - A simple daemon program that lets you use return and/or enter to open icons in the Finder, and also use the delete or forward delete keys to delete items. ![Freeware][Freeware Icon]
+
 
 ### Quality of Life Improvements
 
