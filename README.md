@@ -1008,6 +1008,10 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
+## Text-to-Speech
+
+* [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices across 25+ languages, voice cloning, and four AI models (Kokoro, Qwen3-TTS, Fish S2 Pro, Chatterbox) running entirely on Apple Silicon via MLX.
+
 ## Browsers
 
 * [Arc](https://arc.net/) - Browser with a distinctive workspace-style interface. ![Freeware][Freeware Icon]
