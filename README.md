@@ -729,6 +729,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Generate images from text using Stable Diffusion. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1660147028?platform=mac)
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware][Freeware Icon]
+* [swipic](https://github.com/javipd/swipic) - Tinder-style photo cleaner for macOS Photos.app. Swipe to keep or delete with arrow keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/javipd/swipic)
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - Local photo manager for browsing and organizing personal media libraries offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
