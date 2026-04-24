@@ -395,6 +395,7 @@ Awesome Mac
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
+* [MOLTamp](https://moltamp.com/) - 为 AI 终端代理（Claude Code、Codex CLI、Gemini CLI、Aider、Cursor CLI）提供的可定制驾驶舱 Shell，支持主题皮肤、插件、音频可视化和社区市场。 ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.

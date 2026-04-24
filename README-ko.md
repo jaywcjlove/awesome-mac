@@ -496,6 +496,7 @@ Awesome Mac
 * [Hyper](https://hyper.is) - 웹 기술로 빌드된 터미널. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - macOS용 놀라운 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [Kitty](https://github.com/kovidgoyal/kitty) - GPU 기반의 고성능 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
+* [MOLTamp](https://moltamp.com/) - AI 터미널 에이전트(Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI)를 테마 스킨, 위젯, 오디오 비주얼라이저, 커뮤니티 마켓플레이스와 함께 감싸는 맞춤형 코크핏 셸. ![Freeware][Freeware Icon]
 * [Tabby](https://github.com/Eugeny/tabby) - 현대적인 터미널 도구. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - 현대적인 앱처럼 작동하도록 재설계된 빠른 터미널.
 * [Wave](https://github.com/wavetermdev/waveterm) - 파일 미리보기, 웹 브라우징, AI 도구를 갖춘 오픈 소스 터미널. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
