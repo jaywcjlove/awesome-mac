@@ -931,6 +931,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [trax](https://github.com/nbonamy/trax) - Music library manager with audio conversion and tag editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - As the name suggests, a tiny player. ![Freeware][Freeware Icon]
 * [Tuneful](https://www.tuneful.dev) - Controller for Spotify and Apple Music from the menu bar or mini player. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
+* [Vibes](https://vibesdj.io/) - DJ library organizer that sorts tracks by mood, energy, and technique. Exports prepped crates to Rekordbox, Serato DJ, Engine DJ, and Lexicon DJ.
 * [VLC](http://www.videolan.org/index.html) - Open-source multimedia player for most audio, video, and streaming formats. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - A simple video cropping tool that supports multiple formats and precise trimming.
