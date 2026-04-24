@@ -582,6 +582,7 @@ Awesome Mac
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - 显示 OpenAI Codex 和 Claude Code 的使用统计，无需登录。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Gai](https://webpath.iche2.com/gaidoc/en/) - 免注册无广告纯净无预设，新手友好可边使用边学习的生成式AI工具。 ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
@@ -1348,6 +1349,7 @@ Awesome Mac
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - 隐私优先的本地文件管理工具，支持智能搜索、重复检测、增量镜像、安全删除和定时任务。 ![Freeware][Freeware Icon]
 * [FlowVision](https://flowvision.app) - 瀑布流式图像与视频查看器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]

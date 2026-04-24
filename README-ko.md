@@ -606,6 +606,7 @@ Awesome Mac
 * [Chatbox](https://chatboxai.app) - 여러 AI 모델을 지원하는 사용자 친화적 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chatboxai/chatbox) ![Freeware][Freeware Icon]
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Gai](https://webpath.iche2.com/gaidoc/en/) - 등록 필요 없음, 광고 없음, 순수하고 프리셋 없음, 초보자 친화적이며 사용하면서 배울 수 있는 생성 AI 도구。 ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - 하나의 작업 공간에서 여러 Claude Code와 셸 세션을 병렬로 실행하는 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
 * [GroAsk](https://groask.com) - 선택한 텍스트를 AI 어시스턴트와 CLI 에이전트로 보내는 메뉴 막대 런처.
@@ -877,6 +878,7 @@ Awesome Mac
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications`의 실행 링크를 유지한 채 앱을 외부 저장소로 옮기는 도구. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - 개인정보 우선 로컬 파일 관리 도구. 지능형 검색, 중복 감지, 증분 미러링, 안전 삭제, 예약 작업 지원. ![Freeware][Freeware Icon]
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
 * [SaneClick](https://saneclick.com) - Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]

@@ -778,6 +778,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CodexBar](https://codexbar.app) - Show usage stats for OpenAI Codex and Claude Code, without having to login. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Desktop Control](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Gai](https://webpath.iche2.com/gaidoc/en/) - Registration-free, ad-free, pure without presets, beginner-friendly generative AI tool that can be learned while using. ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
@@ -1234,6 +1235,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - Privacy-first local file management tool with intelligent search, duplicate detection, incremental mirroring, secure deletion, and scheduled tasks. ![Freeware][Freeware Icon]
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 * [Keka](https://www.keka.io) - Open-source compression and extraction tool with broad format support. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
