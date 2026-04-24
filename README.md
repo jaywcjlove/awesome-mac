@@ -993,6 +993,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Voice-to-Text
 
+* [AI Dictation](https://aidictation.com/) - Speech-to-text for Mac with auto-switching offline/online recognition; AI removes filler words, fixes grammar, and formats per app. ![Freeware][Freeware Icon]
 * [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
