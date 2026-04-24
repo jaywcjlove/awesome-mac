@@ -878,6 +878,7 @@ Awesome Mac
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications`의 실행 링크를 유지한 채 앱을 외부 저장소로 옮기는 도구. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - 개인정보 우선 로컬 파일 관리 도구. 지능형 검색, 중복 감지, 증분 미러링, 안전 삭제, 예약 작업 지원. ![Freeware][Freeware Icon]
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
 * [SaneClick](https://saneclick.com) - Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]

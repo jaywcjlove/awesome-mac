@@ -1349,6 +1349,7 @@ Awesome Mac
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - 隐私优先的本地文件管理工具，支持智能搜索、重复检测、增量镜像、安全删除和定时任务。 ![Freeware][Freeware Icon]
 * [FlowVision](https://flowvision.app) - 瀑布流式图像与视频查看器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]

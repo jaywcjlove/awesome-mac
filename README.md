@@ -1235,6 +1235,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](http://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
+* [FileShows](https://webpath.iche2.com/fssdoc/en/) - Privacy-first local file management tool with intelligent search, duplicate detection, incremental mirroring, secure deletion, and scheduled tasks. ![Freeware][Freeware Icon]
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
 * [Keka](https://www.keka.io) - Open-source compression and extraction tool with broad format support. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
