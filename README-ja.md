@@ -990,6 +990,7 @@ Awesome Mac
 
 ## 音声テキスト変換
 
+* [AI Dictation](https://aidictation.com/) - オフライン/オンライン認識を自動切り替えする Mac 用音声入力。AI がフィラー語を削除し、文法を修正し、アプリごとにテキストを整形します。
 * [Aiko](https://sindresorhus.com/aiko) - 高品質なデバイス上の文字起こし。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech](https://github.com/azex-ai/speech) - AIや暗号資産の作業で中英混在の音声入力に強いツール。 [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - 個人のコンピューター上でオフラインで音声を文字起こし・翻訳。OpenAIのWhisperを使用。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
