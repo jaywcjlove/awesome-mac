@@ -748,6 +748,7 @@ Awesome Mac
 
 ## 음성 텍스트 변환 (Voice-to-Text)
 
+* [AI Dictation](https://aidictation.com/) - 오프라인/온라인 인식을 자동으로 전환하는 Mac용 음성 인식 도구. AI가 필러 단어를 제거하고, 문법을 수정하며, 앱별로 텍스트를 형식화합니다.
 * [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech](https://github.com/azex-ai/speech) - AI와 크립토 작업에서 중영 혼용 받아쓰기에 강한 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
