@@ -792,6 +792,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - Local-first AI chat client that answers from your knowledge base.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
+* [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero API key required for first run via Pollinations and Stable Horde free tiers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MohamedAbdallah-14/prompt-to-asset)
+* [unslop](https://github.com/MohamedAbdallah-14/unslop) - MCP server and CLI that removes named AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. Lint-only audit mode and five intensity levels. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MohamedAbdallah-14/unslop)
 
 
 ## Communication
