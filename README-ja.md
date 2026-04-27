@@ -776,6 +776,7 @@ Awesome Mac
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - ログイン不要でOpenAI CodexとClaude Codeの使用状況を表示。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Fello AI](https://felloai.com) - Mac、iPhone、iPad対応の高速ネイティブアプリ。主要なAIモデルをひとつにまとめて使えます。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6447705369?platform=mac)
 * [Flock](https://github.com/Divagation/flock) - 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 各種アプリでモデルとコンテキストを使えるAIアシスタント。
 * [GroAsk](https://groask.com) - 選択したテキストをAIアシスタントやCLIエージェントに送れるメニューバーランチャー。
