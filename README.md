@@ -126,6 +126,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 - [Communication](#communication)
     - [Collaboration and Team Tools](#collaboration-and-team-tools)
     - [Email Clients](#email-clients)
+  * [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, and video meetings. Built on JMAP. [![App Store][app-store Icon]](https://nubo.email/download)
     - [File Sharing](#file-sharing)
 - [Data Recovery Tools](#data-recovery-tools)
 - [Audio and Video Tools](#audio-and-video-tools)
