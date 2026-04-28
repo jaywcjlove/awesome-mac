@@ -220,6 +220,7 @@ Awesome Mac
 * [LightPaper](https://getlightpaper.com/) - Mac用のシンプルで美しく、かつ強力なテキストエディタ。
 * [Marked 2](http://marked2app.com/) - すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
 * [MarkText](https://github.com/marktext/marktext) - macOS、Windows、Linuxで動作する次世代Markdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
+* [MarkViewer](https://markviewer.com) - macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。 ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。

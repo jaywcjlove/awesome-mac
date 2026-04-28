@@ -195,6 +195,7 @@ Awesome Mac
 * [LightPaper](https://getlightpaper.com/) - 단순하고 아름다우면서도 강력한 Mac용 텍스트 편집기.
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
+* [MarkViewer](https://markviewer.com) - macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - 교차 플랫폼을 지원하는 마크다운 프레젠테이션 작성기. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
