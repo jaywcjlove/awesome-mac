@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MarkViewer</title>
+      <link>https://markviewer.com</link>
+      <guid isPermaLink="false">34e0d93267f45857c7f6e12cbebd890404970ac9:MarkViewer</guid>
+      <pubDate>Wed, 29 Apr 2026 09:35:11 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: MarkViewer
+Description: 适用于 macOS 的 Markdown 查看器和编辑器，支持 AI 辅助编辑。
+Website: https://markviewer.com
+Commit: Add MarkViewer to Markdown Tools (#2016)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: MarkViewer<br/>Description: 适用于 macOS 的 Markdown 查看器和编辑器，支持 AI 辅助编辑。<br/>Website: https://markviewer.com<br/>Commit: Add MarkViewer to Markdown Tools (#2016)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9]]></content:encoded>
+    </item>
     <item>
       <title>ConsoleMini</title>
       <link>https://github.com/momenbasel/ConsoleMini</link>
@@ -693,20 +707,6 @@ Website: https://ferdium.org/
 Commit: docs: refresh app descriptions in localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
       <content:encoded><![CDATA[Category: 通信<br/>App: Ferdium<br/>Description: 将多个 Web 应用整合到一起的消息工作区。<br/>Website: https://ferdium.org/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
-    </item>
-    <item>
-      <title>Dropshare</title>
-      <link>https://dropshare.app</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Dropshare</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>通信 / 文件共享</category>
-      <description>Category: 通信 / 文件共享
-App: Dropshare
-Description: 用于分享截图、录屏和其他文件的工具。
-Website: https://dropshare.app
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: Dropshare<br/>Description: 用于分享截图、录屏和其他文件的工具。<br/>Website: https://dropshare.app<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

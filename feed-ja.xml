@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 18 Apr 2026 08:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MarkViewer</title>
+      <link>https://markviewer.com</link>
+      <guid isPermaLink="false">34e0d93267f45857c7f6e12cbebd890404970ac9:MarkViewer</guid>
+      <pubDate>Wed, 29 Apr 2026 09:35:11 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkViewer
+Description: macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。
+Website: https://markviewer.com
+Commit: Add MarkViewer to Markdown Tools (#2016)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkViewer<br/>Description: macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。<br/>Website: https://markviewer.com<br/>Commit: Add MarkViewer to Markdown Tools (#2016)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9]]></content:encoded>
+    </item>
     <item>
       <title>MakLock</title>
       <link>https://github.com/dutkiewiczmaciej/MakLock</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/kamjin3086/AppUninstaller
 Commit: Add App Uninstaller to the ja/ko list. #1913
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: App Uninstaller<br/>Description: ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to the ja/ko list. #1913<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage Monitor</title>
-      <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
-      <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
-      <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Claude Usage Monitor
-Description: リアルタイムのカウンターでClaude使用量を追跡するツール。
-Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
-Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Claude Usage Monitor<br/>Description: リアルタイムのカウンターでClaude使用量を追跡するツール。<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
   </channel>
 </rss>

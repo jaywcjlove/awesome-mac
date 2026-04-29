@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 18 Apr 2026 08:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MarkViewer</title>
+      <link>https://markviewer.com</link>
+      <guid isPermaLink="false">34e0d93267f45857c7f6e12cbebd890404970ac9:MarkViewer</guid>
+      <pubDate>Wed, 29 Apr 2026 09:35:11 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkViewer
+Description: macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원.
+Website: https://markviewer.com
+Commit: Add MarkViewer to Markdown Tools (#2016)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkViewer<br/>Description: macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원.<br/>Website: https://markviewer.com<br/>Commit: Add MarkViewer to Markdown Tools (#2016)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9]]></content:encoded>
+    </item>
     <item>
       <title>MakLock</title>
       <link>https://github.com/dutkiewiczmaciej/MakLock</link>
@@ -693,20 +707,6 @@ Website: https://www.slant.co
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: Mac 앱 다운로드 사이트 / 정식 사이트<br/>App: Slant<br/>Description: 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Hiddify</title>
-      <link>https://github.com/hiddify/hiddify-app</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Hiddify</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>프록시 및 VPN 도구</category>
-      <description>Category: 프록시 및 VPN 도구
-App: Hiddify
-Description: 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트.
-Open Source: https://github.com/hiddify/hiddify-app
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: Hiddify<br/>Description: 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트.<br/>Open Source: https://github.com/hiddify/hiddify-app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

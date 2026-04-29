@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MarkViewer</title>
+      <link>https://markviewer.com</link>
+      <guid isPermaLink="false">34e0d93267f45857c7f6e12cbebd890404970ac9:MarkViewer</guid>
+      <pubDate>Wed, 29 Apr 2026 09:35:11 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkViewer
+Description: Markdown viewer and editor for macOS with AI-assisted editing.
+Website: https://markviewer.com
+Commit: Add MarkViewer to Markdown Tools (#2016)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkViewer<br/>Description: Markdown viewer and editor for macOS with AI-assisted editing.<br/>Website: https://markviewer.com<br/>Commit: Add MarkViewer to Markdown Tools (#2016)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34e0d93267f45857c7f6e12cbebd890404970ac9]]></content:encoded>
+    </item>
     <item>
       <title>ConsoleMini</title>
       <link>https://github.com/momenbasel/ConsoleMini</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/us/mocker
 Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b</description>
       <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
-    </item>
-    <item>
-      <title>macshot</title>
-      <link>https://github.com/sw33tlie/macshot</link>
-      <guid isPermaLink="false">7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3:macshot</guid>
-      <pubDate>Wed, 25 Mar 2026 01:45:55 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: macshot
-Description: Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.
-Open Source: https://github.com/sw33tlie/macshot
-Commit: Add macshot to Screenshot Tools (#1916)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: macshot<br/>Description: Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.<br/>Open Source: https://github.com/sw33tlie/macshot<br/>Commit: Add macshot to Screenshot Tools (#1916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ca42baf8d20b6225fb3aa12a1236e812f9fc9b3]]></content:encoded>
     </item>
   </channel>
 </rss>
