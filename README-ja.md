@@ -1508,7 +1508,7 @@ Awesome Mac
 * [RPCS3](https://rpcs3.net) - オープンソースのPlayStation 3エミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 * [Ryubing](https://github.com/Ryubing) - 開発終了したSwitchエミュレーターRyujinxのフォーク。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 * [Suyu](https://suyu.dev/) - 馴染みのある、オープンソースで強力なNintendo Switchエミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
-* [Whisky](https://getwhisky.app/) - GPTK（Game Porting Toolkit）をサポートするWineラッパー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Whisky-App/Whisky)
+* [Whisky](https://github.com/frankea/Whisky) - macOS向けのネイティブSwiftUI Wineラッパー。D3DMetalおよびDXVKバックエンドをサポート。アクティブなコミュニティフォーク。元の[whisky-app/whisky](https://github.com/whisky-app/whisky)は2025年4月にアーカイブされました。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 
 ## リモートログインソフトウェア
 

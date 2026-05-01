@@ -1511,7 +1511,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [RPCS3](https://rpcs3.net) - The Open-source PlayStation 3 Emulator [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 * [Ryubing](https://github.com/Ryubing) - A fork of the discontinued Switch emulator, Ryujinx. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 * [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
-* [Whisky](https://getwhisky.app/) - Wine wrapper that supports GPTK (Game Porting Toolkit) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Whisky-App/Whisky)
+* [Whisky](https://github.com/frankea/Whisky) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends. Active community fork; the original [whisky-app/whisky](https://github.com/whisky-app/whisky) was archived in April 2025. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 * [ConsoleMini](https://github.com/momenbasel/ConsoleMini) - Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/momenbasel/ConsoleMini)
 
 ## Remote Login Software
