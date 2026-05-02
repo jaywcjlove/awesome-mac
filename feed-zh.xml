@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:49:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Whisky</title>
+      <link>https://github.com/frankea/Whisky</link>
+      <guid isPermaLink="false">11e1ee89b1c4fa58ec0d36cef3eaf057ced68047:Whisky</guid>
+      <pubDate>Sat, 02 May 2026 15:49:54 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: Whisky
+Description: 在 macOS 上运行 Windows 应用的工具，使用 SwiftUI 构建，支持 D3DMetal 和 DXVK 后端。
+Open Source: https://github.com/frankea/Whisky
+Commit: Update Whisky description across locales (#2024)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Whisky<br/>Description: 在 macOS 上运行 Windows 应用的工具，使用 SwiftUI 构建，支持 D3DMetal 和 DXVK 后端。<br/>Open Source: https://github.com/frankea/Whisky<br/>Commit: Update Whisky description across locales (#2024)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047]]></content:encoded>
+    </item>
     <item>
       <title>MarkViewer</title>
       <link>https://markviewer.com</link>
@@ -693,20 +707,6 @@ App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id646942
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: FunKey<br/>Description: 为键盘输入添加机械键盘音效的工具。<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Ferdium</title>
-      <link>https://ferdium.org/</link>
-      <guid isPermaLink="false">de8e8cc05fe1d5868f23afa350f93eea843685e8:Ferdium</guid>
-      <pubDate>Sun, 05 Apr 2026 03:31:38 GMT</pubDate>
-      <category>通信</category>
-      <description>Category: 通信
-App: Ferdium
-Description: 将多个 Web 应用整合到一起的消息工作区。
-Website: https://ferdium.org/
-Commit: docs: refresh app descriptions in localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8</description>
-      <content:encoded><![CDATA[Category: 通信<br/>App: Ferdium<br/>Description: 将多个 Web 应用整合到一起的消息工作区。<br/>Website: https://ferdium.org/<br/>Commit: docs: refresh app descriptions in localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de8e8cc05fe1d5868f23afa350f93eea843685e8]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:49:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Whisky</title>
+      <link>https://github.com/frankea/Whisky</link>
+      <guid isPermaLink="false">11e1ee89b1c4fa58ec0d36cef3eaf057ced68047:Whisky</guid>
+      <pubDate>Sat, 02 May 2026 15:49:54 GMT</pubDate>
+      <category>게임 소프트웨어</category>
+      <description>Category: 게임 소프트웨어
+App: Whisky
+Description: macOS에서 Windows 앱을 실행하는 도구로, SwiftUI로 제작되었으며 D3DMetal 및 DXVK 백엔드를 지원합니다.
+Open Source: https://github.com/frankea/Whisky
+Commit: Update Whisky description across locales (#2024)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047</description>
+      <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: Whisky<br/>Description: macOS에서 Windows 앱을 실행하는 도구로, SwiftUI로 제작되었으며 D3DMetal 및 DXVK 백엔드를 지원합니다.<br/>Open Source: https://github.com/frankea/Whisky<br/>Commit: Update Whisky description across locales (#2024)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047]]></content:encoded>
+    </item>
     <item>
       <title>MarkViewer</title>
       <link>https://markviewer.com</link>
@@ -693,20 +707,6 @@ Website: https://www.macports.org/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 서드파티 앱 마켓<br/>App: MacPorts<br/>Description: 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자.<br/>Website: https://www.macports.org/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slant</title>
-      <link>https://www.slant.co</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slant</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>Mac 앱 다운로드 사이트 / 정식 사이트</category>
-      <description>Category: Mac 앱 다운로드 사이트 / 정식 사이트
-App: Slant
-Description: 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
-Website: https://www.slant.co
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: Mac 앱 다운로드 사이트 / 정식 사이트<br/>App: Slant<br/>Description: 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
