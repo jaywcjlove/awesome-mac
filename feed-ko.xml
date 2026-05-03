@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 02 May 2026 15:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Agenttrace</title>
+      <link>https://luoyuctl.github.io/agenttrace/</link>
+      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
+      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Agenttrace
+Description: AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI.
+Website: https://luoyuctl.github.io/agenttrace/
+Commit: Add Agenttrace (#2026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Agenttrace<br/>Description: AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI.<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
+    </item>
     <item>
       <title>Whisky</title>
       <link>https://github.com/frankea/Whisky</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ruspg/markdown-quicklook
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: markdown-quicklook<br/>Description: 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>MacPorts</title>
-      <link>https://www.macports.org/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MacPorts</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>서드파티 앱 마켓</category>
-      <description>Category: 서드파티 앱 마켓
-App: MacPorts
-Description: 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자.
-Website: https://www.macports.org/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 서드파티 앱 마켓<br/>App: MacPorts<br/>Description: 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자.<br/>Website: https://www.macports.org/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

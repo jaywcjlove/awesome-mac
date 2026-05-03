@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Agenttrace</title>
+      <link>https://luoyuctl.github.io/agenttrace/</link>
+      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
+      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Agenttrace
+Description: Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.
+Website: https://luoyuctl.github.io/agenttrace/
+Commit: Add Agenttrace (#2026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Agenttrace<br/>Description: Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
+    </item>
     <item>
       <title>MarkViewer</title>
       <link>https://markviewer.com</link>
@@ -693,20 +707,6 @@ Website: https://nudge.run
 Commit: Add Nudge to Window Management section (#1928)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Nudge<br/>Description: Window manager with keyboard shortcuts and drag-to-edge snapping.<br/>Website: https://nudge.run<br/>Commit: Add Nudge to Window Management section (#1928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e]]></content:encoded>
-    </item>
-    <item>
-      <title>Mocker</title>
-      <link>https://github.com/us/mocker</link>
-      <guid isPermaLink="false">0f07144172ed87ddea66917792bd82d7947e775b:Mocker</guid>
-      <pubDate>Thu, 26 Mar 2026 01:01:31 GMT</pubDate>
-      <category>Developer Tools / Virtualization</category>
-      <description>Category: Developer Tools / Virtualization
-App: Mocker
-Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.
-Open Source: https://github.com/us/mocker
-Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mocker<br/>Description: Docker-compatible container management tool built natively on Apple&apos;s Containerization framework.<br/>Open Source: https://github.com/us/mocker<br/>Commit: Add Mocker - Docker-compatible container CLI for macOS (#1922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f07144172ed87ddea66917792bd82d7947e775b]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Agenttrace</title>
+      <link>https://luoyuctl.github.io/agenttrace/</link>
+      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
+      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Agenttrace
+Description: AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。
+Website: https://luoyuctl.github.io/agenttrace/
+Commit: Add Agenttrace (#2026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Agenttrace<br/>Description: AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
+    </item>
     <item>
       <title>MarkViewer</title>
       <link>https://markviewer.com</link>
@@ -693,20 +707,6 @@ Website: https://nudge.run
 Commit: Add Nudge to the ja/zh/ko list. #1928
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Nudge<br/>Description: キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)<br/>Website: https://nudge.run<br/>Commit: Add Nudge to the ja/zh/ko list. #1928<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229]]></content:encoded>
-    </item>
-    <item>
-      <title>App Uninstaller</title>
-      <link>https://github.com/kamjin3086/AppUninstaller</link>
-      <guid isPermaLink="false">347dfed9d507966748fb5eeed5b2d9f1de02f2fe:App Uninstaller</guid>
-      <pubDate>Mon, 23 Mar 2026 14:06:15 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: App Uninstaller
-Description: ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。
-Open Source: https://github.com/kamjin3086/AppUninstaller
-Commit: Add App Uninstaller to the ja/ko list. #1913
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: App Uninstaller<br/>Description: ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。<br/>Open Source: https://github.com/kamjin3086/AppUninstaller<br/>Commit: Add App Uninstaller to the ja/ko list. #1913<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/347dfed9d507966748fb5eeed5b2d9f1de02f2fe]]></content:encoded>
     </item>
   </channel>
 </rss>
