@@ -753,6 +753,7 @@ Awesome Mac
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 画像のバッチリサイズと透かしを高速かつ簡単に。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](http://rightfontapp.com/) - Mac、Dropbox、Google Drive上のフォントのプレビュー、同期、インストール、管理。
 * [Snagit](https://www.techsmith.com/snagit.html) - シンプルで強力な画面キャプチャソフトウェアおよびスクリーンレコーダー。
+* [SmartPic](https://smartpic.store/) - 拡大、オブジェクト消去、背景除去をすべてデバイス上で処理するローカルAI画像エディタ。Finderのコンテキストメニューに統合。
 * [svgus](http://www.svgs.us/) - SVGの整理、クリーン、変換ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/svgsus/id1106867065?platform=mac)
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 画像を圧縮するオープンソースツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 研究写真管理。 [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
