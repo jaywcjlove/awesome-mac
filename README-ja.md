@@ -218,6 +218,7 @@ Awesome Mac
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
 * [LightPaper](https://getlightpaper.com/) - Mac用のシンプルで美しく、かつ強力なテキストエディタ。
+* [MacDown](https://macdown.uranusjr.com/) - ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
 * [MarkText](https://github.com/marktext/marktext) - macOS、Windows、Linuxで動作する次世代Markdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。 ![Freeware][Freeware Icon]

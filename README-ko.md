@@ -193,6 +193,7 @@ Awesome Mac
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
 * [LightPaper](https://getlightpaper.com/) - 단순하고 아름다우면서도 강력한 Mac용 텍스트 편집기.
+* [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원. ![Freeware][Freeware Icon]
