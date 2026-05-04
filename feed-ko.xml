@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Notchly</title>
+      <link>https://notchly.xyz</link>
+      <guid isPermaLink="false">0f102463c156fc8659468febe937c111066c0065:Notchly</guid>
+      <pubDate>Mon, 04 May 2026 00:17:19 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Notchly
+Description: 라이브 액티비티, 음악, 배터리, 커스텀 HUD를 위해 MacBook 노치를 인터랙티브한 공간으로 바꿔주는 가벼운 네이티브 macOS 앱입니다.
+Website: https://notchly.xyz
+Commit: Add notchly (#2025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Notchly<br/>Description: 라이브 액티비티, 음악, 배터리, 커스텀 HUD를 위해 MacBook 노치를 인터랙티브한 공간으로 바꿔주는 가벼운 네이티브 macOS 앱입니다.<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
+    </item>
     <item>
       <title>Agenttrace</title>
       <link>https://luoyuctl.github.io/agenttrace/</link>
@@ -693,20 +707,6 @@ Website: https://www.royalapps.com/ts/mac/features
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: RoyalTSX<br/>Description: 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트.<br/>Website: https://www.royalapps.com/ts/mac/features<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>markdown-quicklook</title>
-      <link>https://github.com/ruspg/markdown-quicklook</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:markdown-quicklook</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>QuickLook 플러그인</category>
-      <description>Category: QuickLook 플러그인
-App: markdown-quicklook
-Description: 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인.
-Open Source: https://github.com/ruspg/markdown-quicklook
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: markdown-quicklook<br/>Description: 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

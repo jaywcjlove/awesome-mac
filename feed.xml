@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Notchly</title>
+      <link>https://notchly.xyz</link>
+      <guid isPermaLink="false">0f102463c156fc8659468febe937c111066c0065:Notchly</guid>
+      <pubDate>Mon, 04 May 2026 00:17:19 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Notchly
+Description: Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs.
+Website: https://notchly.xyz
+Commit: Add notchly (#2025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Notchly<br/>Description: Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs.<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
+    </item>
     <item>
       <title>Agenttrace</title>
       <link>https://luoyuctl.github.io/agenttrace/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/kdcokenny/OpenDictation
 Commit: Add OpenDictation to Voice-to-Text list (#1927)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenDictation<br/>Description: Open-source dictation utility with local and cloud speech-to-text.<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to Voice-to-Text list (#1927)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1e98cf4d77c330c0652553d8368de30ddae654b]]></content:encoded>
-    </item>
-    <item>
-      <title>Nudge</title>
-      <link>https://nudge.run</link>
-      <guid isPermaLink="false">e7141d43cf5ff47450fe640f774c0a2f4f059d3e:Nudge</guid>
-      <pubDate>Fri, 27 Mar 2026 03:50:15 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Nudge
-Description: Window manager with keyboard shortcuts and drag-to-edge snapping.
-Website: https://nudge.run
-Commit: Add Nudge to Window Management section (#1928)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Nudge<br/>Description: Window manager with keyboard shortcuts and drag-to-edge snapping.<br/>Website: https://nudge.run<br/>Commit: Add Nudge to Window Management section (#1928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7141d43cf5ff47450fe640f774c0a2f4f059d3e]]></content:encoded>
     </item>
   </channel>
 </rss>

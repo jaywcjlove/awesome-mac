@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Notchly</title>
+      <link>https://notchly.xyz</link>
+      <guid isPermaLink="false">0f102463c156fc8659468febe937c111066c0065:Notchly</guid>
+      <pubDate>Mon, 04 May 2026 00:17:19 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Notchly
+Description: ライブアクティビティ、音楽、バッテリー、カスタムHUDのために、MacBookのノッチをインタラクティブなスペースに変える軽量なネイティブmacOSアプリです。
+Website: https://notchly.xyz
+Commit: Add notchly (#2025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Notchly<br/>Description: ライブアクティビティ、音楽、バッテリー、カスタムHUDのために、MacBookのノッチをインタラクティブなスペースに変える軽量なネイティブmacOSアプリです。<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
+    </item>
     <item>
       <title>Agenttrace</title>
       <link>https://luoyuctl.github.io/agenttrace/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/kdcokenny/OpenDictation
 Commit: Add OpenDictation to the ja/ko/zh list (#1927).
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: OpenDictation<br/>Description: ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to the ja/ko/zh list (#1927).<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64]]></content:encoded>
-    </item>
-    <item>
-      <title>Nudge</title>
-      <link>https://nudge.run</link>
-      <guid isPermaLink="false">5954cd8e0fc69805edc52d757b247f49e2da3229:Nudge</guid>
-      <pubDate>Fri, 27 Mar 2026 03:55:58 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Nudge
-Description: キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)
-Website: https://nudge.run
-Commit: Add Nudge to the ja/zh/ko list. #1928
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Nudge<br/>Description: キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge)<br/>Website: https://nudge.run<br/>Commit: Add Nudge to the ja/zh/ko list. #1928<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5954cd8e0fc69805edc52d757b247f49e2da3229]]></content:encoded>
     </item>
   </channel>
 </rss>

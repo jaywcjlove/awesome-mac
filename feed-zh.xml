@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 May 2026 03:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Notchly</title>
+      <link>https://notchly.xyz</link>
+      <guid isPermaLink="false">0f102463c156fc8659468febe937c111066c0065:Notchly</guid>
+      <pubDate>Mon, 04 May 2026 00:17:19 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Notchly
+Description: 一款轻量级原生 macOS 应用，可将 MacBook 刘海变成用于实时活动、音乐、电池和自定义 HUD 的交互空间。
+Website: https://notchly.xyz
+Commit: Add notchly (#2025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Notchly<br/>Description: 一款轻量级原生 macOS 应用，可将 MacBook 刘海变成用于实时活动、音乐、电池和自定义 HUD 的交互空间。<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
+    </item>
     <item>
       <title>Agenttrace</title>
       <link>https://luoyuctl.github.io/agenttrace/</link>
@@ -693,20 +707,6 @@ Website: https://dynamichorizon.app
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: DynamicHorizon<br/>Description: 为刘海区域加入媒体控制、通知和系统状态。<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Today</title>
-      <link>https://sindresorhus.com/today</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Today</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Today
-Description: 在菜单栏查看今天日程和日历事件。
-Website: https://sindresorhus.com/today
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Today<br/>Description: 在菜单栏查看今天日程和日历事件。<br/>Website: https://sindresorhus.com/today<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
