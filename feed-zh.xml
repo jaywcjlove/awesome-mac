@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:57:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacDown</title>
+      <link>https://macdown.uranusjr.com/</link>
+      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
+      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: MacDown
+Description: macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。
+Website: https://macdown.uranusjr.com/
+Commit: Add MacDown to Markdown Tools (#2031)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: MacDown<br/>Description: macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
+    </item>
     <item>
       <title>Notchly</title>
       <link>https://notchly.xyz</link>
@@ -693,20 +707,6 @@ Website: https://sanebar.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SaneBar<br/>Description: 带隐藏区域和自动化能力的隐私优先菜单栏管理器。<br/>Website: https://sanebar.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>DynamicHorizon</title>
-      <link>https://dynamichorizon.app</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DynamicHorizon</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: DynamicHorizon
-Description: 为刘海区域加入媒体控制、通知和系统状态。
-Website: https://dynamichorizon.app
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: DynamicHorizon<br/>Description: 为刘海区域加入媒体控制、通知和系统状态。<br/>Website: https://dynamichorizon.app<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

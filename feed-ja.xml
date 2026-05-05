@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 May 2026 00:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:57:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacDown</title>
+      <link>https://macdown.uranusjr.com/</link>
+      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
+      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MacDown
+Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。
+Website: https://macdown.uranusjr.com/
+Commit: Add MacDown to Markdown Tools (#2031)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
+    </item>
     <item>
       <title>Notchly</title>
       <link>https://notchly.xyz</link>
@@ -693,20 +707,6 @@ Website: https://vscodium.com/
 Commit: Add VSCodium to the ja/ko/zh list. #1926
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
       <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: VSCodium<br/>Description: コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDictation</title>
-      <link>https://github.com/kdcokenny/OpenDictation</link>
-      <guid isPermaLink="false">fc74bd6c3f22b939b3f70b345b40001648a61e64:OpenDictation</guid>
-      <pubDate>Fri, 27 Mar 2026 04:36:32 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: OpenDictation
-Description: ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。
-Open Source: https://github.com/kdcokenny/OpenDictation
-Commit: Add OpenDictation to the ja/ko/zh list (#1927).
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: OpenDictation<br/>Description: ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。<br/>Open Source: https://github.com/kdcokenny/OpenDictation<br/>Commit: Add OpenDictation to the ja/ko/zh list (#1927).<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc74bd6c3f22b939b3f70b345b40001648a61e64]]></content:encoded>
     </item>
   </channel>
 </rss>
