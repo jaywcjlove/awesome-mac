@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 May 2026 02:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:58:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CodexIsland</title>
+      <link>https://github.com/ericjypark/codex-island</link>
+      <guid isPermaLink="false">b7d59bed65320b104d02429c4d4d8233a8dd34d8:CodexIsland</guid>
+      <pubDate>Wed, 06 May 2026 16:58:37 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: CodexIsland
+Description: Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.
+Open Source: https://github.com/ericjypark/codex-island
+Commit: Add CodexIsland to Menu Bar Tools (#2036)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: CodexIsland<br/>Description: Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
+    </item>
     <item>
       <title>MacDown</title>
       <link>https://macdown.uranusjr.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/HMAKT99/UnTouchID
 Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Authenticate with your phone&apos;s fingerprint as a free Touch ID keyboard alternative.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
-    </item>
-    <item>
-      <title>VSCodium</title>
-      <link>https://vscodium.com/</link>
-      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
-      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: VSCodium
-Description: Community-driven libre binaries of VS Code.
-Website: https://vscodium.com/
-Commit: Add VSCodium to the ja/ko/zh list. #1926
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: VSCodium<br/>Description: Community-driven libre binaries of VS Code.<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
     </item>
   </channel>
 </rss>

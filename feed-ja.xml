@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 05 May 2026 02:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:58:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CodexIsland</title>
+      <link>https://github.com/ericjypark/codex-island</link>
+      <guid isPermaLink="false">b7d59bed65320b104d02429c4d4d8233a8dd34d8:CodexIsland</guid>
+      <pubDate>Wed, 06 May 2026 16:58:37 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: CodexIsland
+Description: MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。
+Open Source: https://github.com/ericjypark/codex-island
+Commit: Add CodexIsland to Menu Bar Tools (#2036)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: CodexIsland<br/>Description: MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
+    </item>
     <item>
       <title>MacDown</title>
       <link>https://macdown.uranusjr.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/HMAKT99/UnTouchID
 Commit: Add TouchBridge to the ja/ko/zh lish. #1930
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e</description>
       <content:encoded><![CDATA[Category: セキュリティツール<br/>App: TouchBridge<br/>Description: スマホの指紋で認証できるオープンソースツール。<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge to the ja/ko/zh lish. #1930<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e]]></content:encoded>
-    </item>
-    <item>
-      <title>VSCodium</title>
-      <link>https://vscodium.com/</link>
-      <guid isPermaLink="false">89efdda4fc72bd531bdd7dc25dd7633d00c684b7:VSCodium</guid>
-      <pubDate>Fri, 27 Mar 2026 05:46:23 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: VSCodium
-Description: コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。
-Website: https://vscodium.com/
-Commit: Add VSCodium to the ja/ko/zh list. #1926
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: VSCodium<br/>Description: コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。<br/>Website: https://vscodium.com/<br/>Commit: Add VSCodium to the ja/ko/zh list. #1926<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89efdda4fc72bd531bdd7dc25dd7633d00c684b7]]></content:encoded>
     </item>
   </channel>
 </rss>
