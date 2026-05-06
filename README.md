@@ -1002,6 +1002,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [EnviousWispr](https://enviouswispr.com) - Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Push-to-talk voice input tool that pastes transcribed text instantly. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
+* [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app for macOS, powered by WhisperKit on Apple Silicon. [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
