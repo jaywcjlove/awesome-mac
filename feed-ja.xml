@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 May 2026 02:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Voxt</title>
+      <link>https://github.com/hehehai/voxt</link>
+      <guid isPermaLink="false">cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c:Voxt</guid>
+      <pubDate>Thu, 07 May 2026 02:48:09 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: Voxt
+Description: 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。
+Open Source: https://github.com/hehehai/voxt
+Commit: Add Voxt
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Voxt<br/>Description: 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。<br/>Open Source: https://github.com/hehehai/voxt<br/>Commit: Add Voxt<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c]]></content:encoded>
+    </item>
     <item>
       <title>OpenQuack</title>
       <link>https://github.com/larryxiao/openquack</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/fikrikarim/repose
 Commit: Add Repose to the ja/ko/zh list. (#1935)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Repose<br/>Description: 休憩時間に画面を暗くし、通話中は自動で一時停止するメニューバー休憩タイマー。<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to the ja/ko/zh list. (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93]]></content:encoded>
-    </item>
-    <item>
-      <title>Flock</title>
-      <link>https://github.com/Divagation/flock</link>
-      <guid isPermaLink="false">6a9af21ad3f24ffe55573d39c44becf64389831e:Flock</guid>
-      <pubDate>Mon, 30 Mar 2026 02:02:22 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Flock
-Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。
-Open Source: https://github.com/Divagation/flock
-Commit: Add Flock to the ja/ko/zh list. #1936
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Flock<br/>Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
     </item>
   </channel>
 </rss>

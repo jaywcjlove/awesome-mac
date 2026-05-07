@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 02:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Voxt</title>
+      <link>https://github.com/hehehai/voxt</link>
+      <guid isPermaLink="false">cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c:Voxt</guid>
+      <pubDate>Thu, 07 May 2026 02:48:09 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Voxt
+Description: 按住说话、松开即粘贴的语音输入与翻译工具，支持按应用和 URL 设置不同的 AI 转写规则。
+Open Source: https://github.com/hehehai/voxt
+Commit: Add Voxt
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Voxt<br/>Description: 按住说话、松开即粘贴的语音输入与翻译工具，支持按应用和 URL 设置不同的 AI 转写规则。<br/>Open Source: https://github.com/hehehai/voxt<br/>Commit: Add Voxt<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c]]></content:encoded>
+    </item>
     <item>
       <title>OpenQuack</title>
       <link>https://github.com/larryxiao/openquack</link>
@@ -693,20 +707,6 @@ Website: https://saneclip.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: SaneClip<br/>Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>uPaste</title>
-      <link>https://okaapps.com/product/1503649026</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:uPaste</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: uPaste
-Description: 自动整理剪贴板历史和常用片段的管理器。
-Website: https://okaapps.com/product/1503649026
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: uPaste<br/>Description: 自动整理剪贴板历史和常用片段的管理器。<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

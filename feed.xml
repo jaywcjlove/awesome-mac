@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 May 2026 02:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Voxt</title>
+      <link>https://github.com/hehehai/voxt</link>
+      <guid isPermaLink="false">cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c:Voxt</guid>
+      <pubDate>Thu, 07 May 2026 02:48:09 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Voxt
+Description: Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation.
+Open Source: https://github.com/hehehai/voxt
+Commit: Add Voxt
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Voxt<br/>Description: Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation.<br/>Open Source: https://github.com/hehehai/voxt<br/>Commit: Add Voxt<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c]]></content:encoded>
+    </item>
     <item>
       <title>OpenQuack</title>
       <link>https://github.com/larryxiao/openquack</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to Terminal Apps (#1936)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
-    </item>
-    <item>
-      <title>markdown-quicklook</title>
-      <link>https://github.com/ruspg/markdown-quicklook</link>
-      <guid isPermaLink="false">6f0cbac0aae80f402ed3d21d73a646b9a62a147b:markdown-quicklook</guid>
-      <pubDate>Sun, 29 Mar 2026 12:11:49 GMT</pubDate>
-      <category>QuickLook Plugins</category>
-      <description>Category: QuickLook Plugins
-App: markdown-quicklook
-Description: Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.
-Open Source: https://github.com/ruspg/markdown-quicklook
-Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b</description>
-      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: markdown-quicklook<br/>Description: Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b]]></content:encoded>
     </item>
   </channel>
 </rss>
