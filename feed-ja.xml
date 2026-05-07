@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 06 May 2026 16:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:23:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenQuack</title>
+      <link>https://github.com/larryxiao/openquack</link>
+      <guid isPermaLink="false">a2573ab1b8fb087f1a9e849916de7cc972eed79b:OpenQuack</guid>
+      <pubDate>Thu, 07 May 2026 02:23:58 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: OpenQuack
+Description: プライバシー重視の音声ディクテーションツールで、ホットキーで話すとWhisperKitがローカルで文字起こしし、カーソル位置に入力します。
+Open Source: https://github.com/larryxiao/openquack
+Commit: Update OpenQuack (#2040)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: OpenQuack<br/>Description: プライバシー重視の音声ディクテーションツールで、ホットキーで話すとWhisperKitがローカルで文字起こしし、カーソル位置に入力します。<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Update OpenQuack (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b]]></content:encoded>
+    </item>
     <item>
       <title>CodexIsland</title>
       <link>https://github.com/ericjypark/codex-island</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to the ja/ko/zh list. #1936
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Flock<br/>Description: 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to the ja/ko/zh list. #1936<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a9af21ad3f24ffe55573d39c44becf64389831e]]></content:encoded>
-    </item>
-    <item>
-      <title>TouchBridge</title>
-      <link>https://github.com/HMAKT99/UnTouchID</link>
-      <guid isPermaLink="false">dfbe3aa4b330a229e80509250ef88b70e9b5612e:TouchBridge</guid>
-      <pubDate>Fri, 27 Mar 2026 21:15:53 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: TouchBridge
-Description: スマホの指紋で認証できるオープンソースツール。
-Open Source: https://github.com/HMAKT99/UnTouchID
-Commit: Add TouchBridge to the ja/ko/zh lish. #1930
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: TouchBridge<br/>Description: スマホの指紋で認証できるオープンソースツール。<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge to the ja/ko/zh lish. #1930<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dfbe3aa4b330a229e80509250ef88b70e9b5612e]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 May 2026 16:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:23:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenQuack</title>
+      <link>https://github.com/larryxiao/openquack</link>
+      <guid isPermaLink="false">a2573ab1b8fb087f1a9e849916de7cc972eed79b:OpenQuack</guid>
+      <pubDate>Thu, 07 May 2026 02:23:58 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: OpenQuack
+Description: 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。
+Open Source: https://github.com/larryxiao/openquack
+Commit: Update OpenQuack (#2040)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: OpenQuack<br/>Description: 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Update OpenQuack (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b]]></content:encoded>
+    </item>
     <item>
       <title>CodexIsland</title>
       <link>https://github.com/ericjypark/codex-island</link>
@@ -693,20 +707,6 @@ Website: https://okaapps.com/product/1503649026
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: uPaste<br/>Description: 自动整理剪贴板历史和常用片段的管理器。<br/>Website: https://okaapps.com/product/1503649026<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>Anvil</title>
-      <link>https://anvilformac.com/</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Anvil</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Anvil
-Description: 轻松托管本地静态网站和 Rack 应用的工具。
-Website: https://anvilformac.com/
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Anvil<br/>Description: 轻松托管本地静态网站和 Rack 应用的工具。<br/>Website: https://anvilformac.com/<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
