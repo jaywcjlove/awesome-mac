@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 May 2026 16:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:18:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenQuack</title>
+      <link>https://github.com/larryxiao/openquack</link>
+      <guid isPermaLink="false">e72dfcd0e4791ceb48dd631b5e6a3dc7022b01e4:OpenQuack</guid>
+      <pubDate>Thu, 07 May 2026 02:18:22 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: OpenQuack
+Description: Privacy-first local voice dictation menu bar app for macOS, powered by WhisperKit on Apple Silicon.
+Open Source: https://github.com/larryxiao/openquack
+Commit: Add OpenQuack to Voice-to-Text (#2040)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e72dfcd0e4791ceb48dd631b5e6a3dc7022b01e4</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenQuack<br/>Description: Privacy-first local voice dictation menu bar app for macOS, powered by WhisperKit on Apple Silicon.<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Add OpenQuack to Voice-to-Text (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e72dfcd0e4791ceb48dd631b5e6a3dc7022b01e4]]></content:encoded>
+    </item>
     <item>
       <title>CodexIsland</title>
       <link>https://github.com/ericjypark/codex-island</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ruspg/markdown-quicklook
 Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b</description>
       <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: markdown-quicklook<br/>Description: Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: Add markdown-quicklook to QuickLook Plugins section (#1934)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f0cbac0aae80f402ed3d21d73a646b9a62a147b]]></content:encoded>
-    </item>
-    <item>
-      <title>TouchBridge</title>
-      <link>https://github.com/HMAKT99/UnTouchID</link>
-      <guid isPermaLink="false">8f67d57662e7e7369662d5315c29aa447525bd88:TouchBridge</guid>
-      <pubDate>Fri, 27 Mar 2026 21:05:34 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: TouchBridge
-Description: Authenticate with your phone&apos;s fingerprint as a free Touch ID keyboard alternative.
-Open Source: https://github.com/HMAKT99/UnTouchID
-Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: TouchBridge<br/>Description: Authenticate with your phone&apos;s fingerprint as a free Touch ID keyboard alternative.<br/>Open Source: https://github.com/HMAKT99/UnTouchID<br/>Commit: Add TouchBridge — free Touch ID alternative for Macs without biometric sensor (#1930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f67d57662e7e7369662d5315c29aa447525bd88]]></content:encoded>
     </item>
   </channel>
 </rss>
