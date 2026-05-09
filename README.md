@@ -1451,7 +1451,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Quality of Life Improvements
 
-* [Actions](https://github.com/sindresorhus/Actions) - Provides many useful actions for the Shortcuts app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
+* [Actions](https://sindresorhus.com/actions) - Provides many useful actions for the Shortcuts app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
 * [AI Actions](https://sindresorhus.com/ai-actions) - AI actions for the Shortcuts app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465250302)
 * [DisplayBuddy](https://displaybuddy.app) - Control external display brightness, contrast, and input source.
 * [Dimly](https://feuerbacher.me/projects/dimly) - Control brightness across mixed monitor setups from one menu bar app. [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
