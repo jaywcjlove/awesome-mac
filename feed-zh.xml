@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:54:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Actions</title>
+      <link>https://sindresorhus.com/actions</link>
+      <guid isPermaLink="false">865a87a62dfe687e3d1bbe96632a32410483d54b:Actions</guid>
+      <pubDate>Sat, 09 May 2026 20:54:48 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Actions
+Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]
+Website: https://sindresorhus.com/actions
+Commit: Changes in &quot;Actions&quot; (#2046)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Actions<br/>Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]<br/>Website: https://sindresorhus.com/actions<br/>Commit: Changes in &quot;Actions&quot; (#2046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Actions</title>
+      <link>https://sindresorhus.com/ai-actions</link>
+      <guid isPermaLink="false">865a87a62dfe687e3d1bbe96632a32410483d54b:AI Actions</guid>
+      <pubDate>Sat, 09 May 2026 20:54:48 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: AI Actions
+Description: 快捷指令应用的AI操作。![Freeware][Freeware Icon]
+Website: https://sindresorhus.com/ai-actions
+Commit: Changes in &quot;Actions&quot; (#2046)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: AI Actions<br/>Description: 快捷指令应用的AI操作。![Freeware][Freeware Icon]<br/>Website: https://sindresorhus.com/ai-actions<br/>Commit: Changes in &quot;Actions&quot; (#2046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/glinford/dns-easy-switcher
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: DNS Easy Switcher<br/>Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipTools</title>
-      <link>https://macmost.com/cliptools</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:ClipTools</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: ClipTools
-Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。
-Website: https://macmost.com/cliptools
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipTools<br/>Description: 方便快速复制、粘贴和整理文本的剪贴板工具集。<br/>Website: https://macmost.com/cliptools<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClip</title>
-      <link>https://saneclip.com</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:SaneClip</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: SaneClip
-Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。
-Website: https://saneclip.com
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: SaneClip<br/>Description: 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。<br/>Website: https://saneclip.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
