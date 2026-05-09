@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:14:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: muxbar
+Description: メニューバーから tmux セッションの一覧表示・接続・終了・ライブプレビューを行えるツール。蓋を閉じたままの作業モードも備える。
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: muxbar<br/>Description: メニューバーから tmux セッションの一覧表示・接続・終了・ライブプレビューを行えるツール。蓋を閉じたままの作業モードも備える。<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -693,20 +707,6 @@ Website: https://clashbar.vercel.app/
 Commit: docs: add ClashBar to localized readmes
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
       <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: ClashBar<br/>Description: mihomo搭載のメニューバープロキシクライアント。<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
-    </item>
-    <item>
-      <title>Repose</title>
-      <link>https://github.com/fikrikarim/repose</link>
-      <guid isPermaLink="false">c53c14bea478c0c1512b71274582eaea627a7c93:Repose</guid>
-      <pubDate>Mon, 30 Mar 2026 02:17:35 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Repose
-Description: 休憩時間に画面を暗くし、通話中は自動で一時停止するメニューバー休憩タイマー。
-Open Source: https://github.com/fikrikarim/repose
-Commit: Add Repose to the ja/ko/zh list. (#1935)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Repose<br/>Description: 休憩時間に画面を暗くし、通話中は自動で一時停止するメニューバー休憩タイマー。<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to the ja/ko/zh list. (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c53c14bea478c0c1512b71274582eaea627a7c93]]></content:encoded>
     </item>
   </channel>
 </rss>

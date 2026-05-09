@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 May 2026 20:54:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:14:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: muxbar
+Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: muxbar<br/>Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
     <item>
       <title>Actions</title>
       <link>https://sindresorhus.com/actions</link>
@@ -693,20 +707,6 @@ Website: https://windscribe.com
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: Windscribe<br/>Description: 提供广告拦截和节点切换的 VPN 与代理服务。<br/>Website: https://windscribe.com<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>DNS Easy Switcher</title>
-      <link>https://github.com/glinford/dns-easy-switcher</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:DNS Easy Switcher</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: DNS Easy Switcher
-Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。
-Open Source: https://github.com/glinford/dns-easy-switcher
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: DNS Easy Switcher<br/>Description: 快速切换 DNS 提供商或自定义解析器的菜单栏工具。<br/>Open Source: https://github.com/glinford/dns-easy-switcher<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

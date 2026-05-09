@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 May 2026 02:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:14:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>muxbar</title>
+      <link>https://github.com/1989v/muxbar</link>
+      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
+      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: muxbar
+Description: Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.
+Open Source: https://github.com/1989v/muxbar
+Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: muxbar<br/>Description: Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
+    </item>
     <item>
       <title>Voxt</title>
       <link>https://github.com/hehehai/voxt</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/fikrikarim/repose
 Commit: Add Repose to Productivity (#1935)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Repose<br/>Description: Menu bar break timer that dims your screen and pauses during calls.<br/>Open Source: https://github.com/fikrikarim/repose<br/>Commit: Add Repose to Productivity (#1935)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a5b680b1be125dbb417909]]></content:encoded>
-    </item>
-    <item>
-      <title>Flock</title>
-      <link>https://github.com/Divagation/flock</link>
-      <guid isPermaLink="false">a4ad4b90fe05d473d745ff558a165e0b6dac00f9:Flock</guid>
-      <pubDate>Mon, 30 Mar 2026 01:52:01 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Flock
-Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
-Open Source: https://github.com/Divagation/flock
-Commit: Add Flock to Terminal Apps (#1936)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
   </channel>
 </rss>
