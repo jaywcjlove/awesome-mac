@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 09 May 2026 21:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SSH Keys Manager</title>
+      <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
+      <guid isPermaLink="false">3a1d903bf14752597429f32fd93ccee9face0f7b:SSH Keys Manager</guid>
+      <pubDate>Sun, 10 May 2026 14:06:25 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: SSH Keys Manager
+Description: ローカルSSHキーとGitアイデンティティを管理するためのネイティブmacOSアプリ。
+Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
+Commit: Add SSH Keys Manager to developer utilities (#2049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: SSH Keys Manager<br/>Description: ローカルSSHキーとGitアイデンティティを管理するためのネイティブmacOSアプリ。<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
+    </item>
     <item>
       <title>muxbar</title>
       <link>https://github.com/1989v/muxbar</link>
@@ -693,20 +707,6 @@ Website: https://getdashvpn.com/
 Commit: Add DashVPN to the ja/ko list. (#1939)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/613206a7f1c6cea5cc2b3480fb2815e9786a58b1</description>
       <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: DashVPN<br/>Description: VLESS、Shadowsocks、HTTPSサブスクリプションに対応したスマートルーティング対応プロキシクライアント。<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN to the ja/ko list. (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/613206a7f1c6cea5cc2b3480fb2815e9786a58b1]]></content:encoded>
-    </item>
-    <item>
-      <title>ClashBar</title>
-      <link>https://clashbar.vercel.app/</link>
-      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
-      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
-      <category>プロキシ・VPNツール</category>
-      <description>Category: プロキシ・VPNツール
-App: ClashBar
-Description: mihomo搭載のメニューバープロキシクライアント。
-Website: https://clashbar.vercel.app/
-Commit: docs: add ClashBar to localized readmes
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
-      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: ClashBar<br/>Description: mihomo搭載のメニューバープロキシクライアント。<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
     </item>
   </channel>
 </rss>
