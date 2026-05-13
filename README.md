@@ -1555,6 +1555,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
 
 * [Applite](https://aerolite.dev/applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
+* [Brewfile](https://github.com/marchenkovit/Brewfile) - Idempotent one-command MacBook setup script — Homebrew packages, Oh My Zsh, AWS/git/VS Code configs, macOS defaults, and EKS kubectl. Skips apps already installed manually. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/marchenkovit/Brewfile)
 * [Cork](https://corkmac.app) - An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features. [![Open-Source Software][OSS Icon]](https://github.com/buresdv/cork)
 * [Homebrew](https://brew.sh/) - The missing package manager for macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - Package manager for installing and maintaining open-source software. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
