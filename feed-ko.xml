@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Snapback
+Description: 키 한 번으로 전체 창 레이아웃을 저장하고 복원.
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Snapback<br/>Description: 키 한 번으로 전체 창 레이아웃을 저장하고 복원.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
     <item>
       <title>SSH Keys Manager</title>
       <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/jigish/slate
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Slate<br/>Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.<br/>Open Source: https://github.com/jigish/slate<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Swift Shift</title>
-      <link>https://swiftshift.app</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Swift Shift</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Swift Shift
-Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.
-Website: https://swiftshift.app
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Swift Shift<br/>Description: 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구.<br/>Website: https://swiftshift.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

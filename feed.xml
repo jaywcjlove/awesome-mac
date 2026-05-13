@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Snapback
+Description: Save and restore entire window layouts with one keystroke.
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Snapback<br/>Description: Save and restore entire window layouts with one keystroke.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
     <item>
       <title>SSH Keys Manager</title>
       <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
@@ -693,20 +707,6 @@ Website: https://getdashvpn.com/
 Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392</description>
       <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
-    </item>
-    <item>
-      <title>ClashBar</title>
-      <link>https://clashbar.vercel.app/</link>
-      <guid isPermaLink="false">7dec9ecd64368a50a565d99a83104f00a6bdd09d:ClashBar</guid>
-      <pubDate>Mon, 30 Mar 2026 05:23:18 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: ClashBar
-Description: mihomo-powered menu bar proxy client.
-Website: https://clashbar.vercel.app/
-Commit: docs: add ClashBar to localized readmes
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: ClashBar<br/>Description: mihomo-powered menu bar proxy client.<br/>Website: https://clashbar.vercel.app/<br/>Commit: docs: add ClashBar to localized readmes<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dec9ecd64368a50a565d99a83104f00a6bdd09d]]></content:encoded>
     </item>
   </channel>
 </rss>

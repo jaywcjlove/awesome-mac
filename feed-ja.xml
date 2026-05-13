@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: Snapback
+Description: キー操作一回でウィンドウレイアウト全体を保存・復元。
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Snapback<br/>Description: キー操作一回でウィンドウレイアウト全体を保存・復元。<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
     <item>
       <title>SSH Keys Manager</title>
       <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
@@ -693,20 +707,6 @@ Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: ClawdHome<br/>Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
-    </item>
-    <item>
-      <title>DashVPN</title>
-      <link>https://getdashvpn.com/</link>
-      <guid isPermaLink="false">613206a7f1c6cea5cc2b3480fb2815e9786a58b1:DashVPN</guid>
-      <pubDate>Mon, 30 Mar 2026 06:41:31 GMT</pubDate>
-      <category>プロキシ・VPNツール</category>
-      <description>Category: プロキシ・VPNツール
-App: DashVPN
-Description: VLESS、Shadowsocks、HTTPSサブスクリプションに対応したスマートルーティング対応プロキシクライアント。
-Website: https://getdashvpn.com/
-Commit: Add DashVPN to the ja/ko list. (#1939)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/613206a7f1c6cea5cc2b3480fb2815e9786a58b1</description>
-      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: DashVPN<br/>Description: VLESS、Shadowsocks、HTTPSサブスクリプションに対応したスマートルーティング対応プロキシクライアント。<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN to the ja/ko list. (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/613206a7f1c6cea5cc2b3480fb2815e9786a58b1]]></content:encoded>
     </item>
   </channel>
 </rss>

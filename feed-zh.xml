@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Snapback
+Description: 通过一次按键操作保存和恢复整个窗口布局。
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Snapback<br/>Description: 通过一次按键操作保存和恢复整个窗口布局。<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
     <item>
       <title>SSH Keys Manager</title>
       <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
@@ -693,20 +707,6 @@ Website: https://www.slant.co
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: Mac软件下载网站 / 正版/介绍<br/>App: Slant<br/>Description: 用于比较软件并查看社区推荐的平台。<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Mullvad VPN</title>
-      <link>https://mullvad.net</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Mullvad VPN</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Mullvad VPN
-Description: 注重隐私、支持匿名账号的 VPN 服务。
-Website: https://mullvad.net
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Mullvad VPN<br/>Description: 注重隐私、支持匿名账号的 VPN 服务。<br/>Website: https://mullvad.net<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
