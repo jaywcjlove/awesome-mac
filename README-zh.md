@@ -802,6 +802,7 @@ Awesome Mac
 * [EME](https://github.com/egoist/eme) - 一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
 * [Joplin](https://joplinapp.org/) - 跨平台开源记事本，支持 Markdown 和待办事项管理。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Kuku](https://kuku.mom) - 开源本地优先 Markdown 工作区，支持 AI 辅助编辑和可审查差异。 [![Open-Source Software][OSS Icon]](https://github.com/kuku-mom/kuku) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - 简单的 Markdown 文本编辑器。
 * [MacDown](https://macdown.uranusjr.com/) - macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown 文本预览编辑，为所有作家提供一套优雅而强大的工具。
