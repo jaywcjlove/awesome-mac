@@ -416,6 +416,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Loupe](https://github.com/smughead/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - A native, lightweight text diff tool with a clean UI and real-time highlighting. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
+* [My Styles](https://www.a2ra-ms.com/my-styles.html) - Safari extension for applying custom CSS to any website, hiding elements, and customizing page appearance. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/my-styles-custom-website-look/id6766115872?mt=12)
 * [MJML](https://mjmlio.github.io/mjml-app/) - Create responsive emails with a semantic syntax and rich components. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI-powered file renaming tool for macOS
 * [PaintCode](https://www.paintcodeapp.com/) - Vector drawing app that generates Objective-C or Swift code in real time.
@@ -1540,12 +1541,15 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
-* [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [FinderPeek](https://www.a2ra-ms.com/finderpeek.html) - Quick Look extension for previewing source code, JSON, Markdown, YAML, and 25+ file types in Finder. [![App Store][app-store Icon]](https://apps.apple.com/us/app/finderpeek-quick-code-viewer/id6761670824?mt=12)
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
+* [GIS Quick Viewer](https://www.a2ra-ms.com/gis-quick-viewer.html) - Quick Look extension for previewing GIS and shapefile data directly in Finder. [![App Store][app-store Icon]](https://apps.apple.com/us/app/gis-quick-viewer/id6762661962?mt=12)
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - Quick Look plugin for rendered Markdown previews with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
-* [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
+* [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Quick Data Insights](https://www.a2ra-ms.com/quick-data-insights.html) - Quick Look extension for previewing Parquet, SQLite, and Jupyter notebook files in Finder. [![App Store][app-store Icon]](https://apps.apple.com/us/app/quick-data-insights/id6764301485?mt=12)
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 
 ## Third Party App Markets
 
