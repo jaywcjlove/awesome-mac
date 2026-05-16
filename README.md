@@ -216,6 +216,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [AI Memory Reader](https://github.com/nvwalj/ai-memory-reader) - Native macOS & iOS app for browsing AI agent memory files, auto-detects Claude Code, OpenClaw, Codex, Cursor, Gemini directories. [![Open-Source Software][OSS Icon]](https://github.com/nvwalj/ai-memory-reader) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
