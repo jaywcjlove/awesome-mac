@@ -1195,6 +1195,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - Control external display brightness and volume directly. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - Menu bar app for tmux session management — list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work. [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - Native menu bar app for real-time upload/download speeds and top bandwidth-using apps. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [NotchIA](https://notchia.app/) - MacBook notch cockpit with multi-source music (synced lyrics), calendar, Pomodoro
+  Focus, on-device Apple Intelligence RSS digest, and live AI status (Claude Code/Codex/Copilot). Open-core fork of Boring
+  Notch with FR/EN/ES/DE i18n.
 * [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
 * [Notchly](https://notchly.xyz) - Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982?platform=mac)
