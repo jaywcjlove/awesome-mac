@@ -1141,6 +1141,7 @@ Awesome Mac
 * [iPaste](https://en.toolinbox.net/iPaste) - 軽量で効率的なクリップボードツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1056935452?ls=1&at=1000lv4R&ct=iPaste_me&platform=mac)
 * [Paste Quick](https://wangchujiang.com/paste-quick/) - シンプルでプライバシーファーストのクリップボードマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/paste-quick/6723903021?platform=mac)
 * [Paste](http://pasteapp.me) - スマートなクリップボード履歴とスニペットマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235?platform=mac)
+* [Pastique](https://github.com/yiyu0x/pastique) - コピーした内容をタイプ別に自動分類する軽量クリップボードマネージャー。即時検索対応。 [![Open-Source Software][OSS Icon]](https://github.com/yiyu0x/pastique) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [PasteBar](https://github.com/PasteBar/PasteBarApp) - MacとWindows用の無制限で無料のクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/PasteBar/PasteBarApp) ![Freeware][Freeware Icon]
 * [PasteBot](https://tapbots.com/pastebot/) - 強力なクリップボードマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/pastebot/id1179623856?platform=mac)
 * [Pure Paste](https://sindresorhus.com/pure-paste) - デフォルトでプレーンテキストとして貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
