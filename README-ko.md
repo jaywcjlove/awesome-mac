@@ -639,6 +639,7 @@ Awesome Mac
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
 * [Spotifly](https://github.com/ralph/Spotifly) - 빠른 재생 제어에 초점을 맞춘 가벼운 Spotify 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com/) - 수백만 곡의 노래를 즐길 수 있는 디지털 음악 서비스. ![Freeware][Freeware Icon]
+* [Spokio](https://spokio.pro/) - 로컬 음성 복제, 일괄 내보내기, 클라우드 업로드 없는 오프라인 텍스트 음성 변환 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6761289149?platform=mac)
 
 ### 비디오
 
