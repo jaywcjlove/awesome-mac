@@ -597,6 +597,7 @@ Awesome Mac
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - 跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - 实时监控 Claude 各类用量配额的工具。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
+* [Unfoldly](https://github.com/Unary-Works/Unfoldly) - 本地优先的开源 AI 文件搜索工具，可在设备端索引个人文件，并支持语义搜索、视觉搜索和本地 GGUF 模型。 [![Open-Source Software][OSS Icon]](https://github.com/Unary-Works/Unfoldly) ![Freeware][Freeware Icon]
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 原生 Swift 打造的 macOS 应用，可使用你的 API Key 运行多个大语言模型（LLM）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 
 ## 通信
