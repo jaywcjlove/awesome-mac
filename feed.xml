@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:49:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Dimsum
+Description: Minimalist menu bar app that dims inactive windows to highlight the focused one.
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Dimsum<br/>Description: Minimalist menu bar app that dims inactive windows to highlight the focused one.<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
     <item>
       <title>Snapback</title>
       <link>https://snapbackapp.com</link>
@@ -693,20 +707,6 @@ Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
-    </item>
-    <item>
-      <title>DashVPN</title>
-      <link>https://getdashvpn.com/</link>
-      <guid isPermaLink="false">5f9b05e4fbb3f75f634bf95a0149ef20ce88d392:DashVPN</guid>
-      <pubDate>Mon, 30 Mar 2026 06:34:00 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: DashVPN
-Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.
-Website: https://getdashvpn.com/
-Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: DashVPN<br/>Description: Smart-routing proxy client with support for VLESS, Shadowsocks, and HTTPS subscriptions.<br/>Website: https://getdashvpn.com/<br/>Commit: Add DashVPN - free menu bar proxy app for macOS/iOS (#1939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f9b05e4fbb3f75f634bf95a0149ef20ce88d392]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:49:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Dimsum
+Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Dimsum<br/>Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
     <item>
       <title>Snapback</title>
       <link>https://snapbackapp.com</link>
@@ -693,20 +707,6 @@ Website: https://www.royalapps.com/ts/mac/features
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 远程协助<br/>App: RoyalTSX<br/>Description: 管理多种协议远程连接的客户端。<br/>Website: https://www.royalapps.com/ts/mac/features<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slant</title>
-      <link>https://www.slant.co</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slant</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>Mac软件下载网站 / 正版/介绍</category>
-      <description>Category: Mac软件下载网站 / 正版/介绍
-App: Slant
-Description: 用于比较软件并查看社区推荐的平台。
-Website: https://www.slant.co
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: Mac软件下载网站 / 正版/介绍<br/>App: Slant<br/>Description: 用于比较软件并查看社区推荐的平台。<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

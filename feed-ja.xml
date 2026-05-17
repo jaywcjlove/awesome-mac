@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:49:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: Dimsum
+Description: 非アクティブなウィンドウを暗くしてフォーカス中のウィンドウを際立たせる、ミニマルなメニューバーユーティリティ。
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Dimsum<br/>Description: 非アクティブなウィンドウを暗くしてフォーカス中のウィンドウを際立たせる、ミニマルなメニューバーユーティリティ。<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
     <item>
       <title>Snapback</title>
       <link>https://snapbackapp.com</link>
@@ -693,20 +707,6 @@ Website: https://feuerbacher.me/projects/dimly
 Commit: Add Dimly to the ja/ko/zh list. (#1938)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a575237426467147d25d929bdcc5eeb1f9a</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Dimly<br/>Description: 1つのメニューバーアプリから複数モニターの明るさをまとめて調整するツール。<br/>Website: https://feuerbacher.me/projects/dimly<br/>Commit: Add Dimly to the ja/ko/zh list. (#1938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d53a3a575237426467147d25d929bdcc5eeb1f9a]]></content:encoded>
-    </item>
-    <item>
-      <title>ClawdHome</title>
-      <link>https://clawdhome.app/</link>
-      <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
-      <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: ClawdHome
-Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。
-Website: https://clawdhome.app/
-Commit: Add ClawdHome
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: ClawdHome<br/>Description: 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
   </channel>
 </rss>

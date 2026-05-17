@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 13 May 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:49:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Dimsum
+Description: 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티.
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Dimsum<br/>Description: 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티.<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
     <item>
       <title>Snapback</title>
       <link>https://snapbackapp.com</link>
@@ -693,20 +707,6 @@ Website: http://manytricks.com/moom/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Moom<br/>Description: 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.<br/>Website: http://manytricks.com/moom/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slate</title>
-      <link>https://github.com/jigish/slate</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slate</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Slate
-Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.
-Open Source: https://github.com/jigish/slate
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Slate<br/>Description: JavaScript 설정을 사용하는 스크립트형 창 관리자.<br/>Open Source: https://github.com/jigish/slate<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
