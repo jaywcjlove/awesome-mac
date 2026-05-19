@@ -124,6 +124,7 @@ Awesome Command Line Apps
 * [eureka](https://github.com/simeg/eureka) - ターミナルを離れることなくアイデアを入力・保存するCLIツール。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Fish](https://fishshell.com/) - zshに似たスマートでユーザーフレンドリーなシェル。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect) - SQLライクなクエリでファイルを検索。 [![Open-Source Software][OSS Icon]](https://github.com/jhspetersson/fselect)
+* [ft](https://github.com/huanguan1978/ft) - 完全にオープンソースのファイルストリームベースの高性能非同期ファイル管理および自動化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/huanguan1978/ft) ![Freeware][Freeware Icon]
 * [GitHub CLI](https://github.com/cli/cli) - ghはコマンドライン上のGitHub。プルリクエスト、イシュー、その他のGitHubの概念を、gitやコードの作業をしているターミナルに持ち込む。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glances](https://github.com/nicolargo/glances) - クロスプラットフォームのcursesベースシステム監視ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Go2Shell](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac) - Finderの現在のディレクトリでターミナルウィンドウを開く。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac)
