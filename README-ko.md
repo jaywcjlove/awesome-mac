@@ -387,6 +387,7 @@ Awesome Mac
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
+* [Muxy](https://github.com/muxy-app/muxy) - AI 코딩 세션 및 프로젝트 관리용 AI 네이티브 GUI. 분할 창, Git 통합, AI 사용량 추적 기능을 포함합니다.
 * [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, 포워딩·터널 관리, 프로세스 종료를 위한 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 코드 라인 수 계산기. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
@@ -504,7 +505,6 @@ Awesome Mac
 * [Warp](https://www.warp.dev) - 현대적인 앱처럼 작동하도록 재설계된 빠른 터미널. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 파일 미리보기, 웹 브라우징, AI 도구를 갖춘 오픈 소스 터미널. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rust로 구현된 GPU 가속 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
-* [Muxy](https://github.com/muxy-app/muxy) - 프로젝트 관리, 분할 창, Git 통합, AI 사용량 추적 및 200개 이상의 테마를 갖춘 AI 네이티브 터미널.
 
 ## 디자인 및 제품
 
