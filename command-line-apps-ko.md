@@ -114,6 +114,7 @@
 * [bclm](https://github.com/zackelia/bclm) - 배터리 최대 충전량을 제한하는 macOS 명령줄 도구. [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 향수를 불러일으키는 빈티지 스타일의 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh)를 위한 GUI 클라이언트. 명령어를 사용하지 않고도 소프트웨어 설치, 확인, 제거 가능. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
+* [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]

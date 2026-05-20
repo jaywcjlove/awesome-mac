@@ -116,6 +116,7 @@ A curated list of useful command line apps
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge. [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
+* [Clipport](https://github.com/arihantsethia/clipport) - Paste Mac clipboard text and screenshots into remote iTerm SSH sessions. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [ccat](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [ClamAV](https://www.clamav.net/) - Cross-platform, open-source antivirus engine. [![OSS][OSS Icon]](https://github.com/Cisco-Talos/clamav/) ![Freeware][Freeware Icon]
 * [cmatrix](https://github.com/abishekvashok/cmatrix/) - Terminal screensaver inspired by "The Matrix" movie. [![OSS][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
