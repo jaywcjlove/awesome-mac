@@ -809,6 +809,7 @@ Awesome Mac
 * [LuLu](https://objective-see.com/products/lulu.html) - 무단 네트워크 트래픽을 차단하는 무료 방화벽. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID, Apple Watch 또는 비밀번호로 원하는 macOS 앱을 잠그고 모든 모니터에 블러 오버레이를 표시하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 악성코드를 검사하고 제거하는 보안 도구. ![Freeware][Freeware Icon]
+* [Noxen](https://noxen.app/) - SSH로 관리되는 Linux 서버 플릿을 위한 Mac 네이티브 취약점 스캐너. 에이전트리스 CVE 매칭, 노출된 관리 인터페이스 탐지, 예약 스캔을 지원합니다. ![Freeware][Freeware Icon]
 * [NoxKey](https://github.com/No-Box-Dev/Noxkey) - 키체인과 Touch ID로 API 키와 토큰을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - 마이크와 웹캠 접근을 감시하는 도구. ![Freeware][Freeware Icon]
 * [Santa](https://northpole.security/) - 바이너리와 파일 접근을 제어하는 권한 부여 시스템. [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
