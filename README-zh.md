@@ -790,6 +790,7 @@ Awesome Mac
 * [irreader](http://irreader.fatecore.com) - 多功能的 RSS 阅读器，支持订阅播客和任何网站。![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - RSS 客户端程序。
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 免费的 RSS 阅读器。[![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]
+* [Papr](https://github.com/l0ng-ai/papr) - 排版可调、键盘驱动的 RSS 阅读器，高亮可导出到 Readwise、Notion 和 Obsidian。 [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 书签 RSS 管理客户端。
 * [Reeder 5](http://reederapp.com/) - RSS 服务订阅 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/reeder-5/id1529448980?platform=mac)
 * [Saga Reader](https://github.com/sopaco/saga-reader) - AI 驱动的网页与 RSS 阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/brentsimmons/NetNewsWire) ![Freeware][Freeware Icon]

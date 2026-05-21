@@ -284,6 +284,7 @@ Awesome Mac
 * [Leaf](http://www.rockysandstudio.com/) - 구독 관리 및 뉴스 읽기를 위한 앱.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - 무료 오픈 소스 피드 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [Doughnut](https://doughnutapp.com/) - 아름다운 오픈 소스 팟캐스트 수집기. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
+* [Papr](https://github.com/l0ng-ai/papr) - 타이포그래피를 조절할 수 있고 키보드 중심으로 동작하는 RSS 리더. 하이라이트를 Readwise, Notion, Obsidian으로 내보낼 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 북마크 및 RSS 관리 클라이언트.
 * [Reeder 5](http://reederapp.com) - Feedbin, Feedly 등을 지원하는 뉴스 리더. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 * [Saga Reader](https://github.com/sopaco/saga-reader) - AI 기반 웹 및 RSS 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)

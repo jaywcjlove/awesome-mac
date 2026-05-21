@@ -310,6 +310,7 @@ Awesome Mac
 * [Leaf](http://www.rockysandstudio.com/) - 購読管理と日々のニュースを楽しむためのニュースリーダー。
 * [NetNewsWire](https://ranchero.com/netnewswire/) - macOS用の無料オープンソースフィードリーダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [Doughnut](https://doughnutapp.com/) - Mac用の美しいオープンソースポッドキャストキャッチャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
+* [Papr](https://github.com/l0ng-ai/papr) - タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。 [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - ブックマークとRSS管理クライアント。
 * [Reeder 5](http://reederapp.com) - Feedbin、Feedly、Feed Wranglerなどに対応したニュースリーダー。 [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 * [Saga Reader](https://github.com/sopaco/saga-reader) - AIを活用したWeb・RSSリーダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
