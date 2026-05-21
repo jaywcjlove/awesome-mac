@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 19 May 2026 22:24:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papr</title>
+      <link>https://github.com/l0ng-ai/papr</link>
+      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
+      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
+      <category>読み書きツール / RSS</category>
+      <description>Category: 読み書きツール / RSS
+App: Papr
+Description: タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。
+Open Source: https://github.com/l0ng-ai/papr
+Commit: Add Papr to RSS (#2083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / RSS<br/>App: Papr<br/>Description: タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
+    </item>
     <item>
       <title>Muxy</title>
       <link>https://github.com/muxy-app/muxy</link>
@@ -693,20 +707,6 @@ Website: https://macdev.cn/
 Commit: Add StreamWindow to the ja/ko/zh list. #1944
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: StreamWindow<br/>Description: 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow to the ja/ko/zh list. #1944<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa]]></content:encoded>
-    </item>
-    <item>
-      <title>Atomic Chat</title>
-      <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
-      <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
-      <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Atomic Chat
-Description: ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。
-Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
-Commit: Add Atomic Chat
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Atomic Chat<br/>Description: ローカルLLM、クラウドモデル、MCP、OpenAI互換APIに対応したオープンソースのAIチャットクライアント。<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
   </channel>
 </rss>
