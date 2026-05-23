@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 01:08:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Live Translator</title>
+      <link>https://github.com/umutcetinkaya/live-translator</link>
+      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
+      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
+      <category>翻译工具</category>
+      <description>Category: 翻译工具
+App: Live Translator
+Description: 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。
+Open Source: https://github.com/umutcetinkaya/live-translator
+Commit: Add Live Translator to zh/ja/ko translation tools
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
+      <content:encoded><![CDATA[Category: 翻译工具<br/>App: Live Translator<br/>Description: 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
+    </item>
     <item>
       <title>Papr</title>
       <link>https://github.com/l0ng-ai/papr</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/raguay/ModalFileManager/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Modal File Manager<br/>Description: 带 Vim 风格快捷键的双栏文件管理器。<br/>Open Source: https://github.com/raguay/ModalFileManager/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Oka Unarchiver</title>
-      <link>https://okaapps.com/product/1441507725</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Oka Unarchiver</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: Oka Unarchiver
-Description: 支持 RAR、批量解压和加密压缩包的归档工具。
-Website: https://okaapps.com/product/1441507725
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Oka Unarchiver<br/>Description: 支持 RAR、批量解压和加密压缩包的归档工具。<br/>Website: https://okaapps.com/product/1441507725<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

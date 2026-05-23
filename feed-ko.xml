@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 01:08:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Live Translator</title>
+      <link>https://github.com/umutcetinkaya/live-translator</link>
+      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
+      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
+      <category>번역 도구</category>
+      <description>Category: 번역 도구
+App: Live Translator
+Description: OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구.
+Open Source: https://github.com/umutcetinkaya/live-translator
+Commit: Add Live Translator to zh/ja/ko translation tools
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
+      <content:encoded><![CDATA[Category: 번역 도구<br/>App: Live Translator<br/>Description: OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구.<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
+    </item>
     <item>
       <title>Papr</title>
       <link>https://github.com/l0ng-ai/papr</link>
@@ -693,20 +707,6 @@ Website: https://devutils.com/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: DevUtils.app<br/>Description: 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자.<br/>Website: https://devutils.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>contexts</title>
-      <link>https://contexts.co/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:contexts</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: contexts
-Description: 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.
-Website: https://contexts.co/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: contexts<br/>Description: 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.<br/>Website: https://contexts.co/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
