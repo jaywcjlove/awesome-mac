@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 May 2026 02:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 01:08:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Live Translator</title>
+      <link>https://github.com/umutcetinkaya/live-translator</link>
+      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
+      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
+      <category>翻訳ツール</category>
+      <description>Category: 翻訳ツール
+App: Live Translator
+Description: OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。
+Open Source: https://github.com/umutcetinkaya/live-translator
+Commit: Add Live Translator to zh/ja/ko translation tools
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
+      <content:encoded><![CDATA[Category: 翻訳ツール<br/>App: Live Translator<br/>Description: OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
+    </item>
     <item>
       <title>Papr</title>
       <link>https://github.com/l0ng-ai/papr</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/cordwainersmith/claudoscope
 Commit: Add Claudoscope to the ja/ko/zh list. #1946
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Claudoscope<br/>Description: Claude Codeセッションを閲覧・分析・管理でき、タイムライン、コスト見積もり、シークレットスキャンも提供するツール。<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to the ja/ko/zh list. #1946<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7fb9b937a00af6d6059b810ac2d99b6d69e3eb8f]]></content:encoded>
-    </item>
-    <item>
-      <title>StreamWindow</title>
-      <link>https://macdev.cn/</link>
-      <guid isPermaLink="false">5092da64a840d713f0567fbe231f5f8c41ee62fa:StreamWindow</guid>
-      <pubDate>Tue, 31 Mar 2026 00:20:34 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: StreamWindow
-Description: 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。
-Website: https://macdev.cn/
-Commit: Add StreamWindow to the ja/ko/zh list. #1944
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: StreamWindow<br/>Description: 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。<br/>Website: https://macdev.cn/<br/>Commit: Add StreamWindow to the ja/ko/zh list. #1944<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5092da64a840d713f0567fbe231f5f8c41ee62fa]]></content:encoded>
     </item>
   </channel>
 </rss>
