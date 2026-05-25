@@ -1371,7 +1371,7 @@ Awesome Mac
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - 支持 RAR、批量解压和加密压缩包的归档工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的 Finder 替代者，拥有很多特性。
-* [Pathly](https://pathly.sophinauta.com/zh-Hans/) - 在 Finder 中一键复制文件或文件夹的完整路径、父目录、文件 URL 和 Git 相对路径。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/pathly-copy-file-paths/id6761799555?mt=12) ![Native App][Native Icon]
+* [Pathly](https://pathly.sophinauta.com/zh-Hans/) - 在 Finder 中一键复制文件或文件夹的完整路径、父目录、文件 URL 和 Git 相对路径。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/pathly-copy-file-paths/id6761799555?mt=12)
 * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder 快速预览文件插件。
 * [QSpace](https://qspace.awehunt.com) - 一款简洁高效的多视图文件管理器。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - 一款简洁实用的 Finder 右键菜单增强工具 [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]

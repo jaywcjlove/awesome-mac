@@ -388,7 +388,7 @@ Awesome Mac
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
-* [Pathly](https://pathly.sophinauta.com/ko/) - Finder에서 파일이나 폴더의 전체 경로, 상위 디렉터리, file URL, Git 상대 경로를 바로 복사하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pathly-copy-file-paths/id6761799555?mt=12) ![Native App][Native Icon]
+* [Pathly](https://pathly.sophinauta.com/ko/) - Finder에서 파일이나 폴더의 전체 경로, 상위 디렉터리, file URL, Git 상대 경로를 바로 복사하는 도구. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/pathly-copy-file-paths/id6761799555?mt=12)
 * [Muxy](https://github.com/muxy-app/muxy) - AI 코딩 세션 및 프로젝트 관리용 AI 네이티브 GUI. 분할 창, Git 통합, AI 사용량 추적 기능을 포함합니다.
 * [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, 포워딩·터널 관리, 프로세스 종료를 위한 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
