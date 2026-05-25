@@ -1011,6 +1011,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
+* [Trace](https://traceapp.info) - On-device meeting transcription with mic and system-audio capture, speaker labels, and live key moments. [![App Store][app-store Icon]](https://apps.apple.com/app/trace-on-device-transcripts/id6768724888?platform=mac)
 * [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
