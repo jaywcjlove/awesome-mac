@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 23 May 2026 01:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:33:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PureSnitch</title>
+      <link>https://github.com/momenbasel/puresnitch</link>
+      <guid isPermaLink="false">369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7:PureSnitch</guid>
+      <pubDate>Mon, 25 May 2026 00:33:33 GMT</pubDate>
+      <category>보안 도구</category>
+      <description>Category: 보안 도구
+App: PureSnitch
+Description: Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음).
+Open Source: https://github.com/momenbasel/puresnitch
+Commit: Add PureSnitch (#2089)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7</description>
+      <content:encoded><![CDATA[Category: 보안 도구<br/>App: PureSnitch<br/>Description: Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음).<br/>Open Source: https://github.com/momenbasel/puresnitch<br/>Commit: Add PureSnitch (#2089)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7]]></content:encoded>
+    </item>
     <item>
       <title>Live Translator</title>
       <link>https://github.com/umutcetinkaya/live-translator</link>
@@ -693,20 +707,6 @@ Website: https://seodisias.com
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Seodisias<br/>Description: 사이트의 기술 SEO 문제를 찾아주는 분석 도구.<br/>Website: https://seodisias.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>DevUtils.app</title>
-      <link>https://devutils.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:DevUtils.app</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: DevUtils.app
-Description: 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자.
-Website: https://devutils.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: DevUtils.app<br/>Description: 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자.<br/>Website: https://devutils.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
