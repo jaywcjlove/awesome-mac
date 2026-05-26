@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 25 May 2026 00:33:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Parakey</title>
+      <link>https://github.com/rcourtman/parakey</link>
+      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
+      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: Parakey
+Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。
+Open Source: https://github.com/rcourtman/parakey
+Commit: Add Parakey under Voice-to-Text (#2050)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Parakey<br/>Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
+    </item>
     <item>
       <title>PureSnitch</title>
       <link>https://github.com/momenbasel/puresnitch</link>
@@ -693,20 +707,6 @@ Website: https://mullvad.net/en/download/browser/
 Commit: Shorten app descriptions across localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
       <content:encoded><![CDATA[Category: ブラウザ<br/>App: Mullvad Browser<br/>Description: フィンガープリント対策に重点を置いたプライバシーブラウザ。<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
-    </item>
-    <item>
-      <title>EnviousWispr</title>
-      <link>https://enviouswispr.com/</link>
-      <guid isPermaLink="false">09be3dbc751fb9b903d10f8b663f2c345567de7e:EnviousWispr</guid>
-      <pubDate>Wed, 01 Apr 2026 03:08:36 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: EnviousWispr
-Description: 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。
-Website: https://enviouswispr.com/
-Commit: Add EnviousWispr (#1948)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: EnviousWispr<br/>Description: 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。<br/>Website: https://enviouswispr.com/<br/>Commit: Add EnviousWispr (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09be3dbc751fb9b903d10f8b663f2c345567de7e]]></content:encoded>
     </item>
   </channel>
 </rss>
