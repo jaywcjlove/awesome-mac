@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 May 2026 00:33:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Parakey</title>
+      <link>https://github.com/rcourtman/parakey</link>
+      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
+      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Parakey
+Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。
+Open Source: https://github.com/rcourtman/parakey
+Commit: Add Parakey under Voice-to-Text (#2050)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Parakey<br/>Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
+    </item>
     <item>
       <title>PureSnitch</title>
       <link>https://github.com/momenbasel/puresnitch</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/koekeishiya/yabai
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: yabai<br/>Description: 键盘驱动的平铺式窗口管理器。<br/>Open Source: https://github.com/koekeishiya/yabai<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Strongbox</title>
-      <link>https://strongboxsafe.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Strongbox</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 密码管理</category>
-      <description>Category: 其它实用工具 / 密码管理
-App: Strongbox
-Description: 兼容 KeePass 和 Password Safe 的密码管理器。
-Website: https://strongboxsafe.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 密码管理<br/>App: Strongbox<br/>Description: 兼容 KeePass 和 Password Safe 的密码管理器。<br/>Website: https://strongboxsafe.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

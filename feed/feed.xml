@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 May 2026 00:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Parakey</title>
+      <link>https://github.com/rcourtman/parakey</link>
+      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
+      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Parakey
+Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).
+Open Source: https://github.com/rcourtman/parakey
+Commit: Add Parakey under Voice-to-Text (#2050)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Parakey<br/>Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
+    </item>
     <item>
       <title>PureSnitch</title>
       <link>https://github.com/momenbasel/puresnitch</link>
@@ -693,20 +707,6 @@ Website: https://enviouswispr.com
 Commit: Add EnviousWispr to Voice-to-Text section (#1948)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: EnviousWispr<br/>Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.<br/>Website: https://enviouswispr.com<br/>Commit: Add EnviousWispr to Voice-to-Text section (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775]]></content:encoded>
-    </item>
-    <item>
-      <title>Claudoscope</title>
-      <link>https://github.com/cordwainersmith/claudoscope</link>
-      <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
-      <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claudoscope
-Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.
-Open Source: https://github.com/cordwainersmith/claudoscope
-Commit: Add Claudoscope to Menu Bar Tools (#1946)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
     </item>
   </channel>
 </rss>
