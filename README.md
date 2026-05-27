@@ -932,6 +932,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Spotifly](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Spokio](https://spokio.pro/) - Offline text-to-speech app with local voice cloning, batch export, and no cloud uploads. [![App Store][app-store Icon]](https://apps.apple.com/app/id6761289149?platform=mac)
 * [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - Music practice software designed to help users learn how to play their favorite songs.
 * [Synfig Studio](http://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]

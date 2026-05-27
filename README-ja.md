@@ -929,6 +929,7 @@ Awesome Mac
 * [Sonora](https://github.com/sonoramac/Sonora) - ミニマルで美しくデザインされた音楽プレイヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Spotifly](https://github.com/ralph/Spotifly) - 再生操作をすばやく行える軽量なSpotifyプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - メニューバーにSpotifyとiTunesを表示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Spokio](https://spokio.pro/) - ローカル音声クローン、バッチ書き出し、クラウドアップロードなしに対応したオフライン音声読み上げアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6761289149?platform=mac)
 * [Stremio](https://www.stremio.com/) - 映画、テレビ、ライブ配信、各種ストリーミングソースをまとめて扱うメディアセンター。 ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - ユーザーがお気に入りの曲の演奏を学ぶのを助けるために設計された音楽練習ソフトウェア。
 * [Synfig Studio](http://synfig.org) - 無料のオープンソース2Dアニメーションソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]

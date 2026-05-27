@@ -727,6 +727,7 @@ Awesome Mac
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify 和 Apple music 在状态菜单栏中显示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Spokio](https://spokio.pro/) - 离线文本转语音应用，支持本地语音克隆、批量导出且无需云端上传。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6761289149?platform=mac)
 * [Stremio](https://www.stremio.com/) - 用于电影、剧集、直播频道和流媒体源的媒体中心。 ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 支持音频转换和标签编辑的音乐资料库管理工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tuneful](https://www.tuneful.dev) - 用于从菜单栏或迷你播放器控制 Spotify 和 Apple Music 的工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
