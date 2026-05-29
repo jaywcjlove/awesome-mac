@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:39:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>clawpypaste</title>
+      <link>https://github.com/krisbradley/clawpypaste</link>
+      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
+      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: clawpypaste
+Description: Menu bar block picker and session browser for Claude Code.
+Open Source: https://github.com/krisbradley/clawpypaste
+Commit: Add clawpypaste to AI Tools (#2112)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: clawpypaste<br/>Description: Menu bar block picker and session browser for Claude Code.<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
+    </item>
     <item>
       <title>Parakey</title>
       <link>https://github.com/rcourtman/parakey</link>
@@ -693,20 +707,6 @@ Website: https://mullvad.net/en/download/browser/
 Commit: Shorten app descriptions across localized READMEs
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
       <content:encoded><![CDATA[Category: Browsers<br/>App: Mullvad Browser<br/>Description: Privacy browser focused on anti-fingerprinting protection.<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
-    </item>
-    <item>
-      <title>EnviousWispr</title>
-      <link>https://enviouswispr.com</link>
-      <guid isPermaLink="false">2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775:EnviousWispr</guid>
-      <pubDate>Wed, 01 Apr 2026 02:54:04 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: EnviousWispr
-Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.
-Website: https://enviouswispr.com
-Commit: Add EnviousWispr to Voice-to-Text section (#1948)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: EnviousWispr<br/>Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.<br/>Website: https://enviouswispr.com<br/>Commit: Add EnviousWispr to Voice-to-Text section (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775]]></content:encoded>
     </item>
   </channel>
 </rss>
