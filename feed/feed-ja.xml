@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:39:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>clawpypaste</title>
+      <link>https://github.com/krisbradley/clawpypaste</link>
+      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
+      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: clawpypaste
+Description: Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。
+Open Source: https://github.com/krisbradley/clawpypaste
+Commit: Add clawpypaste to AI Tools (#2112)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: clawpypaste<br/>Description: Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
+    </item>
     <item>
       <title>Parakey</title>
       <link>https://github.com/rcourtman/parakey</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/siddharthvaddem/openscreen
 Commit: Add OpenScreen
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: OpenScreen<br/>Description: プロダクトデモや操作説明動画を作れるオープンソースツール。<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
-    </item>
-    <item>
-      <title>Mullvad Browser</title>
-      <link>https://mullvad.net/en/download/browser/</link>
-      <guid isPermaLink="false">ea3b60bc27c27ff89c0edc04144ed759004c7521:Mullvad Browser</guid>
-      <pubDate>Wed, 01 Apr 2026 04:36:38 GMT</pubDate>
-      <category>ブラウザ</category>
-      <description>Category: ブラウザ
-App: Mullvad Browser
-Description: フィンガープリント対策に重点を置いたプライバシーブラウザ。
-Website: https://mullvad.net/en/download/browser/
-Commit: Shorten app descriptions across localized READMEs
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
-      <content:encoded><![CDATA[Category: ブラウザ<br/>App: Mullvad Browser<br/>Description: フィンガープリント対策に重点を置いたプライバシーブラウザ。<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
     </item>
   </channel>
 </rss>
