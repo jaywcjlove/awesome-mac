@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 29 May 2026 04:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:18:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac Clean</title>
+      <link>https://github.com/iliyami/MacClean</link>
+      <guid isPermaLink="false">4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd:Mac Clean</guid>
+      <pubDate>Sat, 30 May 2026 10:18:25 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Mac Clean
+Description: 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。
+Open Source: https://github.com/iliyami/MacClean
+Commit: Add Mac Clean to the ja/ko/zh list. #2110
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Mac Clean<br/>Description: 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean to the ja/ko/zh list. #2110<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd]]></content:encoded>
+    </item>
     <item>
       <title>clawpypaste</title>
       <link>https://github.com/krisbradley/clawpypaste</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/samirpatil2000/Buffer
 Commit: Add Buffer.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Buffer<br/>Description: 画像OCRとブックマークに対応した軽量なオープンソースのクリップボードマネージャー。<br/>Open Source: https://github.com/samirpatil2000/Buffer<br/>Commit: Add Buffer.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenScreen</title>
-      <link>https://github.com/siddharthvaddem/openscreen</link>
-      <guid isPermaLink="false">c207eeb5e8d96d3b1adc67484bf666907ff2105d:OpenScreen</guid>
-      <pubDate>Wed, 01 Apr 2026 10:36:02 GMT</pubDate>
-      <category>デザインとプロダクト / 画面録画</category>
-      <description>Category: デザインとプロダクト / 画面録画
-App: OpenScreen
-Description: プロダクトデモや操作説明動画を作れるオープンソースツール。
-Open Source: https://github.com/siddharthvaddem/openscreen
-Commit: Add OpenScreen
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: OpenScreen<br/>Description: プロダクトデモや操作説明動画を作れるオープンソースツール。<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
     </item>
   </channel>
 </rss>
