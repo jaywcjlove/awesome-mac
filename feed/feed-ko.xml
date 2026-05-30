@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 29 May 2026 04:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:18:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac Clean</title>
+      <link>https://github.com/iliyami/MacClean</link>
+      <guid isPermaLink="false">4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd:Mac Clean</guid>
+      <pubDate>Sat, 30 May 2026 10:18:25 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: Mac Clean
+Description: 무료 오픈소스 정리, 최적화, 악성코드 검사 도구.
+Open Source: https://github.com/iliyami/MacClean
+Commit: Add Mac Clean to the ja/ko/zh list. #2110
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Mac Clean<br/>Description: 무료 오픈소스 정리, 최적화, 악성코드 검사 도구.<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean to the ja/ko/zh list. #2110<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd]]></content:encoded>
+    </item>
     <item>
       <title>clawpypaste</title>
       <link>https://github.com/krisbradley/clawpypaste</link>
@@ -693,20 +707,6 @@ Website: https://nozbe.com
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Nozbe<br/>Description: 개인과 팀을 위한 GTD 작업 관리자.<br/>Website: https://nozbe.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Productivity</title>
-      <link>https://super-productivity.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Super Productivity</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 할 일 목록 (To-Do Lists)</category>
-      <description>Category: 유틸리티 / 할 일 목록 (To-Do Lists)
-App: Super Productivity
-Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.
-Website: https://super-productivity.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Super Productivity<br/>Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.<br/>Website: https://super-productivity.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
