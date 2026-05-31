@@ -1163,6 +1163,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [uPaste](https://okaapps.com/product/1503649026) - Clipboard history and snippets manager for organizing reusable copied content. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
+* [Clipp](https://github.com/martona/clipp) - Peer-to-peer clipboard sync between Mac, Windows, iOS, and Linux. History plus a networked pbcopy-style CLI. [![Open-Source Software][OSS Icon]](https://github.com/martona/clipp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Menu Bar Tools
 
