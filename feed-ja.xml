@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 30 May 2026 10:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:41:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Harbor</title>
+      <link>https://github.com/tahseen-kakar/harbor</link>
+      <guid isPermaLink="false">02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039:Harbor</guid>
+      <pubDate>Sun, 31 May 2026 12:41:48 GMT</pubDate>
+      <category>ダウンロード管理ツール</category>
+      <description>Category: ダウンロード管理ツール
+App: Harbor
+Description: HTTP(S)、マグネットリンク、`.torrent` ファイルに対応するオープンソースのダウンロードマネージャー。
+Open Source: https://github.com/tahseen-kakar/harbor
+Commit: Add Harbor (#2123)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
+      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Harbor<br/>Description: HTTP(S)、マグネットリンク、`.torrent` ファイルに対応するオープンソースのダウンロードマネージャー。<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
+    </item>
     <item>
       <title>Mac Clean</title>
       <link>https://github.com/iliyami/MacClean</link>
@@ -693,20 +707,6 @@ Website: https://www.ranagmbh.de/netfluss/
 Commit: Add NetFluss
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NetFluss<br/>Description: リアルタイムの通信速度と帯域使用アプリを表示するネイティブなメニューバーアプリ。<br/>Website: https://www.ranagmbh.de/netfluss/<br/>Commit: Add NetFluss<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8]]></content:encoded>
-    </item>
-    <item>
-      <title>Buffer</title>
-      <link>https://github.com/samirpatil2000/Buffer</link>
-      <guid isPermaLink="false">7efb1f36272e794c3a07ec70c331d77a4bf24774:Buffer</guid>
-      <pubDate>Wed, 01 Apr 2026 10:52:58 GMT</pubDate>
-      <category>ユーティリティ / クリップボードツール</category>
-      <description>Category: ユーティリティ / クリップボードツール
-App: Buffer
-Description: 画像OCRとブックマークに対応した軽量なオープンソースのクリップボードマネージャー。
-Open Source: https://github.com/samirpatil2000/Buffer
-Commit: Add Buffer.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Buffer<br/>Description: 画像OCRとブックマークに対応した軽量なオープンソースのクリップボードマネージャー。<br/>Open Source: https://github.com/samirpatil2000/Buffer<br/>Commit: Add Buffer.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774]]></content:encoded>
     </item>
   </channel>
 </rss>
