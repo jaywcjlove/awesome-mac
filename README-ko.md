@@ -880,6 +880,7 @@ Awesome Mac
 * [muxbar](https://github.com/1989v/muxbar) - 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Today](https://sindresorhus.com/today) - 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
+* [Vibedock](https://vibedock.dev) - Claude Code MCP 서버를 켜고 끌 수 있는 macOS 메뉴 바 앱. 설정 파일 없이 세션 전환, 종료 및 재시작을 즉시 수행합니다.
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
 ### 정리 및 제거
