@@ -1145,6 +1145,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
+* [Clipp](https://github.com/martona/clipp) - Peer-to-peer clipboard sync between Mac, Windows, iOS, and Linux. History plus a networked pbcopy-style CLI. [![Open-Source Software][OSS Icon]](https://github.com/martona/clipp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipTools](https://macmost.com/cliptools) - Clipboard utility set for quick copy, paste, and text cleanup tasks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
@@ -1163,7 +1164,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [uPaste](https://okaapps.com/product/1503649026) - Clipboard history and snippets manager for organizing reusable copied content. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
-* [Clipp](https://github.com/martona/clipp) - Peer-to-peer clipboard sync between Mac, Windows, iOS, and Linux. History plus a networked pbcopy-style CLI. [![Open-Source Software][OSS Icon]](https://github.com/martona/clipp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Menu Bar Tools
 
