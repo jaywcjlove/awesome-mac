@@ -7,7 +7,7 @@
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
-  <a href="https://screensage.pro/">ScreenSage Pro, recrd beautiful screen recordings in minutes on macOS</a>
+  <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
   <br><br>
 
   <a href="https://ip.im/">
