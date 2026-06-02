@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 31 May 2026 12:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:01:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SystemEQ for Mac</title>
+      <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
+      <guid isPermaLink="false">180e1c96827db9eda58a5f120cccb5990b3200b6:SystemEQ for Mac</guid>
+      <pubDate>Tue, 02 Jun 2026 04:01:12 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: SystemEQ for Mac
+Description: 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。
+Website: https://denzam.github.io/SystemEQ-for-Mac/
+Commit: Add SystemEQ to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: SystemEQ for Mac<br/>Description: 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
+    </item>
     <item>
       <title>Harbor</title>
       <link>https://github.com/tahseen-kakar/harbor</link>
@@ -693,20 +707,6 @@ Website: https://codedogqby.github.io/ReadAny/
 Commit: Add ReadAny
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
       <content:encoded><![CDATA[Category: 読み書きツール / 電子書籍<br/>App: ReadAny<br/>Description: セマンティック検索、AIチャット、ノート管理に対応した電子書籍リーダー。<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
-    </item>
-    <item>
-      <title>NetFluss</title>
-      <link>https://www.ranagmbh.de/netfluss/</link>
-      <guid isPermaLink="false">26a025a470a54ccd166c7c99b44d65af5a1b93a8:NetFluss</guid>
-      <pubDate>Thu, 02 Apr 2026 00:43:25 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: NetFluss
-Description: リアルタイムの通信速度と帯域使用アプリを表示するネイティブなメニューバーアプリ。
-Website: https://www.ranagmbh.de/netfluss/
-Commit: Add NetFluss
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NetFluss<br/>Description: リアルタイムの通信速度と帯域使用アプリを表示するネイティブなメニューバーアプリ。<br/>Website: https://www.ranagmbh.de/netfluss/<br/>Commit: Add NetFluss<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8]]></content:encoded>
     </item>
   </channel>
 </rss>
