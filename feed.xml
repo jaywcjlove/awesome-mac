@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jun 2026 04:37:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:07:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sleepless</title>
+      <link>https://github.com/Aboudjem/Sleepless</link>
+      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
+      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: Sleepless
+Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
+Open Source: https://github.com/Aboudjem/Sleepless
+Commit: Add Sleepless to System Related Tools (#2134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
+    </item>
     <item>
       <title>ClipHistory</title>
       <link>https://weiykong.github.io/ClipHistory</link>
@@ -693,20 +707,6 @@ Website: https://guillim.github.io/products/paul
 Commit: Add Paul (#1956)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a</description>
       <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Paul 🐘<br/>Description: Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul (#1956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a]]></content:encoded>
-    </item>
-    <item>
-      <title>ReadAny</title>
-      <link>https://codedogqby.github.io/ReadAny/</link>
-      <guid isPermaLink="false">6e1899b10d1d3623ab1293a3f5a55f18cc9a936c:ReadAny</guid>
-      <pubDate>Thu, 02 Apr 2026 23:23:04 GMT</pubDate>
-      <category>Reading and Writing Tools / Ebooks</category>
-      <description>Category: Reading and Writing Tools / Ebooks
-App: ReadAny
-Description: AI-powered e-book reader with semantic search, chat, and note management.
-Website: https://codedogqby.github.io/ReadAny/
-Commit: Add ReadAny
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Ebooks<br/>App: ReadAny<br/>Description: AI-powered e-book reader with semantic search, chat, and note management.<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
     </item>
   </channel>
 </rss>

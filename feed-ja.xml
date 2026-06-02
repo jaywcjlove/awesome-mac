@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Jun 2026 04:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:07:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sleepless</title>
+      <link>https://github.com/Aboudjem/Sleepless</link>
+      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
+      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: Sleepless
+Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
+Open Source: https://github.com/Aboudjem/Sleepless
+Commit: Add Sleepless to System Related Tools (#2134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
+    </item>
     <item>
       <title>ClipHistory</title>
       <link>https://github.com/weiykong/ClipHistory</link>
@@ -693,20 +707,6 @@ Website: https://craigjbass.github.io/clearancekit/
 Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e</description>
       <content:encoded><![CDATA[Category: セキュリティツール<br/>App: ClearanceKit<br/>Description: 保護されたパスの読み取りや変更を行おうとする未許可プロセスを遮断する、ポリシーベースのファイルアクセス制御ツール。<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e]]></content:encoded>
-    </item>
-    <item>
-      <title>Paul</title>
-      <link>https://guillim.github.io/products/paul</link>
-      <guid isPermaLink="false">9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3:Paul</guid>
-      <pubDate>Thu, 02 Apr 2026 23:46:23 GMT</pubDate>
-      <category>開発ツール / データベース</category>
-      <description>Category: 開発ツール / データベース
-App: Paul
-Description: デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。
-Website: https://guillim.github.io/products/paul
-Commit: Add Paul to the ja/zh/ko list. #1956
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3</description>
-      <content:encoded><![CDATA[Category: 開発ツール / データベース<br/>App: Paul<br/>Description: デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul to the ja/zh/ko list. #1956<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3]]></content:encoded>
     </item>
   </channel>
 </rss>
