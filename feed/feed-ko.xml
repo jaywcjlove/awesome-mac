@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 31 May 2026 12:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:01:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SystemEQ for Mac</title>
+      <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
+      <guid isPermaLink="false">180e1c96827db9eda58a5f120cccb5990b3200b6:SystemEQ for Mac</guid>
+      <pubDate>Tue, 02 Jun 2026 04:01:12 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: SystemEQ for Mac
+Description: AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ.
+Website: https://denzam.github.io/SystemEQ-for-Mac/
+Commit: Add SystemEQ to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: SystemEQ for Mac<br/>Description: AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ.<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
+    </item>
     <item>
       <title>Harbor</title>
       <link>https://github.com/tahseen-kakar/harbor</link>
@@ -693,20 +707,6 @@ Website: https://sensei.app/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Sensei<br/>Description: 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.<br/>Website: https://sensei.app/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SteerMouse</title>
-      <link>https://plentycom.jp/en/steermouse/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SteerMouse</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: SteerMouse
-Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
-Website: https://plentycom.jp/en/steermouse/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: SteerMouse<br/>Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.<br/>Website: https://plentycom.jp/en/steermouse/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
