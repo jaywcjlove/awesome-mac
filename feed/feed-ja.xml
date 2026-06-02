@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Jun 2026 04:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:38:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipHistory</title>
+      <link>https://github.com/weiykong/ClipHistory</link>
+      <guid isPermaLink="false">ffe8b08f41f78e62471cb3efebfa172a746fd372:ClipHistory</guid>
+      <pubDate>Tue, 02 Jun 2026 04:38:50 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: ClipHistory
+Description: ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。
+Open Source: https://github.com/weiykong/ClipHistory
+Commit: Add ClipHistory
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipHistory<br/>Description: ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。<br/>Open Source: https://github.com/weiykong/ClipHistory<br/>Commit: Add ClipHistory<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372]]></content:encoded>
+    </item>
     <item>
       <title>SystemEQ for Mac</title>
       <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
@@ -693,20 +707,6 @@ Website: https://guillim.github.io/products/paul
 Commit: Add Paul to the ja/zh/ko list. #1956
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3</description>
       <content:encoded><![CDATA[Category: 開発ツール / データベース<br/>App: Paul<br/>Description: デフォルトで読み取り専用で、データベースからすばやく答えを得られるAIファーストのPostgreSQLクライアント。<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul to the ja/zh/ko list. #1956<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3]]></content:encoded>
-    </item>
-    <item>
-      <title>ReadAny</title>
-      <link>https://codedogqby.github.io/ReadAny/</link>
-      <guid isPermaLink="false">6e1899b10d1d3623ab1293a3f5a55f18cc9a936c:ReadAny</guid>
-      <pubDate>Thu, 02 Apr 2026 23:23:04 GMT</pubDate>
-      <category>読み書きツール / 電子書籍</category>
-      <description>Category: 読み書きツール / 電子書籍
-App: ReadAny
-Description: セマンティック検索、AIチャット、ノート管理に対応した電子書籍リーダー。
-Website: https://codedogqby.github.io/ReadAny/
-Commit: Add ReadAny
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / 電子書籍<br/>App: ReadAny<br/>Description: セマンティック検索、AIチャット、ノート管理に対応した電子書籍リーダー。<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
     </item>
   </channel>
 </rss>
