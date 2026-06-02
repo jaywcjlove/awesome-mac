@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jun 2026 01:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:37:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipHistory</title>
+      <link>https://weiykong.github.io/ClipHistory</link>
+      <guid isPermaLink="false">434f41a142388932436ead2925ffcc5b700527b2:ClipHistory</guid>
+      <pubDate>Tue, 02 Jun 2026 04:37:02 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: ClipHistory
+Description: Lightweight native macOS clipboard manager. Instant hotkey popup, captures text &amp; images, pin favourites, per-app privacy exclusions.
+Website: https://weiykong.github.io/ClipHistory
+Commit: Add ClipHistory — lightweight native macOS clipboard manager (#2132)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/434f41a142388932436ead2925ffcc5b700527b2</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: ClipHistory<br/>Description: Lightweight native macOS clipboard manager. Instant hotkey popup, captures text &amp; images, pin favourites, per-app privacy exclusions.<br/>Website: https://weiykong.github.io/ClipHistory<br/>Commit: Add ClipHistory — lightweight native macOS clipboard manager (#2132)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/434f41a142388932436ead2925ffcc5b700527b2]]></content:encoded>
+    </item>
     <item>
       <title>SystemEQ for Mac</title>
       <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
@@ -693,20 +707,6 @@ Website: https://codedogqby.github.io/ReadAny/
 Commit: Add ReadAny
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Ebooks<br/>App: ReadAny<br/>Description: AI-powered e-book reader with semantic search, chat, and note management.<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
-    </item>
-    <item>
-      <title>NetFluss</title>
-      <link>https://www.ranagmbh.de/netfluss/</link>
-      <guid isPermaLink="false">26a025a470a54ccd166c7c99b44d65af5a1b93a8:NetFluss</guid>
-      <pubDate>Thu, 02 Apr 2026 00:43:25 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: NetFluss
-Description: Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.
-Website: https://www.ranagmbh.de/netfluss/
-Commit: Add NetFluss
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: NetFluss<br/>Description: Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.<br/>Website: https://www.ranagmbh.de/netfluss/<br/>Commit: Add NetFluss<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8]]></content:encoded>
     </item>
   </channel>
 </rss>
