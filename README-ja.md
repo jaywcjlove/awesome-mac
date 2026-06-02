@@ -1509,7 +1509,7 @@ Awesome Mac
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - macOS SierraでNTFSへの読み書きアクセス。
 * [stats](https://github.com/exelban/stats) - メニューバー用の無料Macシステムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - 監視、クリーンアップ、診断を行うパフォーマンス管理ツール。
-* [Sleepless](https://github.com/Aboudjem/Sleepless) - Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ![Freeware][Freeware Icon]
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - ふたを閉じたままでもスリープを防ぎ、自動オフタイマーとバッテリー下限保護を備えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [Sleepr](https://sleepr.app/) - macOSにスリープタイマーを復活。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/sleepr-app/id6465683427?platform=mac)
 * [Sloth](https://sveinbjorn.org/sloth/) - 実行中のすべてのプロセスが使用している開いているファイル、ディレクトリ、ソケット、パイプ、デバイスを表示。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - マウスのボタン、ホイール、カーソル速度を細かく調整するツール。

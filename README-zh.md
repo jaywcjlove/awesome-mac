@@ -1311,7 +1311,7 @@ Awesome Mac
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 集清理、校验和隐藏设置于一体的系统维护工具。![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 提供监控、清理和硬件诊断的性能管理工具。
-* [Sleepless](https://github.com/Aboudjem/Sleepless) - Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless) ![Freeware][Freeware Icon]
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - 合盖后也能保持唤醒，支持自动关闭计时和最低电量保护。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 自定义鼠标按键、滚轮和指针速度的工具。
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [Raycast](https://raycast.com) - 集启动、扩展、片段、笔记和 AI 于一体的命令工具。
