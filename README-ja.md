@@ -1224,6 +1224,7 @@ Awesome Mac
 * [Today](https://sindresorhus.com/today) - メニューバーから今日の予定とカレンダーイベントを確認できるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) - macOSメニューバー用の世界一洗練されたポモドーロタイマー。 [![Open-Source Software][OSS Icon]](https://github.com/ivoronin/TomatoBar) ![Freeware][Freeware Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - メニューバーまたはウィジェットにUTC時刻を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904?platform=mac)
+* [Vibedock](https://vibedock.dev) - Claude Code MCPサーバーをオン/オフできるmacOSメニューバーアプリ。設定ファイル不要で、セッションの切り替え、強制終了、再起動が瞬時に可能。
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Macのメニューバーアイコンを非表示にする。 ![Freeware][Freeware Icon]
 * [Week Number](https://sindresorhus.com/week-number) - メニューバーに現在の週番号を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523?platform=mac)
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - メニューバーから勤務時間を追跡するシンプルなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
