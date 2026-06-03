@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 02 Jun 2026 16:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 01:01:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cursor Voice</title>
+      <link>https://cursorvoice.app</link>
+      <guid isPermaLink="false">982aed0bf7329e9bde5768420e6cf871024e359e:Cursor Voice</guid>
+      <pubDate>Wed, 03 Jun 2026 01:01:06 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Cursor Voice
+Description: カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。
+Website: https://cursorvoice.app
+Commit: Add Cursor Voice to the ja/ko/zh list. #2140
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Cursor Voice<br/>Description: カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
+    </item>
     <item>
       <title>Sleepless</title>
       <link>https://github.com/Aboudjem/Sleepless</link>
@@ -693,20 +707,6 @@ Website: https://revu.cards/
 Commit: Add Revu to the ja/ko/zh list. #1955
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4</description>
       <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Revu<br/>Description: FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。<br/>Website: https://revu.cards/<br/>Commit: Add Revu to the ja/ko/zh list. #1955<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4]]></content:encoded>
-    </item>
-    <item>
-      <title>ClearanceKit</title>
-      <link>https://craigjbass.github.io/clearancekit/</link>
-      <guid isPermaLink="false">87607a5d4de2a044515a2a619beeba993fd6385e:ClearanceKit</guid>
-      <pubDate>Fri, 03 Apr 2026 00:09:37 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: ClearanceKit
-Description: 保護されたパスの読み取りや変更を行おうとする未許可プロセスを遮断する、ポリシーベースのファイルアクセス制御ツール。
-Website: https://craigjbass.github.io/clearancekit/
-Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: ClearanceKit<br/>Description: 保護されたパスの読み取りや変更を行おうとする未許可プロセスを遮断する、ポリシーベースのファイルアクセス制御ツール。<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to the ja/ko/zh list. (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/87607a5d4de2a044515a2a619beeba993fd6385e]]></content:encoded>
     </item>
   </channel>
 </rss>
