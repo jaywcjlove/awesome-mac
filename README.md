@@ -1220,6 +1220,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Second Clock](https://sindresorhus.com/second-clock) - Show a second clock for a different time zone in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
 * [Thaw](https://github.com/stonerl/Thaw) - A powerful menu bar management tool for hiding and showing menu bar items. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
+* [Slouch Sniper](https://slouchsniper.com/) - Webcam posture coach that dims your screen when you slouch and restores it when you sit upright.
 * [Spaced](https://sindresorhus.com/spaced) - Organize your menu bar items into groups. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)

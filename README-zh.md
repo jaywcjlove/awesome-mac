@@ -1230,6 +1230,7 @@ Awesome Mac
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
+* [Slouch Sniper](https://slouchsniper.com/) - 通过摄像头识别坐姿，在你驼背时调暗屏幕，坐直后自动恢复。
 * [Thaw](https://github.com/stonerl/Thaw) - 强大的菜单栏管理工具，用于隐藏和显示菜单栏项目。[![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Today](https://sindresorhus.com/today) - 在菜单栏查看今天日程和日历事件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 为键盘输入添加机械键盘音效的工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
