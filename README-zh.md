@@ -316,7 +316,7 @@ Awesome Mac
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Proxie](https://proxieapp.com/) - HTTP 调试客户端。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cellist/id897814548?platform=mac)
 * [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理. ![Freeware][Freeware Icon]
-* [Rockxy](https://github.com/LocNguyenHuu/Rockxy) - 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
+* [Rockxy](https://rockxy.io) - 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
 ### 版本控制
@@ -582,9 +582,11 @@ Awesome Mac
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 通过实时计数器跟踪 Claude 用量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - 用于浏览和分析 Claude Code 会话的工具。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
+* [clawpypaste](https://github.com/krisbradley/clawpypaste) - 适用于 Claude Code 的菜单栏代码块选择器和会话浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - 显示 OpenAI Codex 和 Claude Code 的使用统计，无需登录。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Cursor Voice](https://cursorvoice.app) - 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
@@ -764,6 +766,7 @@ Awesome Mac
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
+* [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 
 ## 阅读与写作工具
 
@@ -910,6 +913,7 @@ Awesome Mac
 * [Downie](https://software.charliemonroe.net/downie.php) - 支持多达近 1200 个视频站点的视频下载工具。
 * [FDM](https://www.freedownloadmanager.org/) -一款跨平台的下载管理器 ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 一个 Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
+* [Harbor](https://github.com/tahseen-kakar/harbor) - 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/tahseen-kakar/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 用于链接、文件和网盘内容的下载管理器。![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - 支持 HTTP、FTP、BT、磁力链等协议的下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 具备优化传输引擎的轻量下载管理器。![Freeware][Freeware Icon]
@@ -1169,6 +1173,7 @@ Awesome Mac
 * [CleanClip](https://cleanclip.cc) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHistory](https://github.com/weiykong/ClipHistory) - 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
@@ -1266,6 +1271,7 @@ Awesome Mac
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)
+* [Mac Clean](https://github.com/iliyami/MacClean) - 免费开源的清理、优化和恶意软件扫描工具。[![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化清理开发缓存，快速释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
@@ -1306,6 +1312,7 @@ Awesome Mac
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 集清理、校验和隐藏设置于一体的系统维护工具。![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 提供监控、清理和硬件诊断的性能管理工具。
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - 合盖后也能保持唤醒，支持自动关闭计时和最低电量保护。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 自定义鼠标按键、滚轮和指针速度的工具。
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [Raycast](https://raycast.com) - 集启动、扩展、片段、笔记和 AI 于一体的命令工具。

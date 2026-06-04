@@ -435,7 +435,7 @@ Awesome Mac
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
-* [Rockxy](https://github.com/LocNguyenHuu/Rockxy) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
+* [Rockxy](https://rockxy.io) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - 네트워크 트래픽 모니터링 앱. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 네트워크 프로토콜 분석기. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - 올인원 API 디자인 및 테스트 환경.
@@ -609,9 +609,11 @@ Awesome Mac
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 실시간 카운터로 Claude 사용량을 추적하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Claude Code 세션을 탐색하고 분석하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 하나의 제어판에서 여러 OpenClaw 게이트웨이 인스턴스를 격리해 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
+* [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code용 메뉴 막대 블록 피커 및 세션 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 여러 LLM 어시스턴트를 지원하는 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/CherryHQ/cherry-studio) ![Freeware][Freeware Icon]
 * [Chatbox](https://chatboxai.app) - 여러 AI 모델을 지원하는 사용자 친화적 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chatboxai/chatbox) ![Freeware][Freeware Icon]
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Cursor Voice](https://cursorvoice.app) - 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 하나의 작업 공간에서 여러 Claude Code와 셸 세션을 병렬로 실행하는 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
@@ -719,6 +721,7 @@ Awesome Mac
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 다양한 포맷, 가사, 재생목록, 큐 관리를 지원하는 오프라인 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [Popcorn Time](https://popcorn-time.site/) - 토렌트 영화를 찾아보고 감상할 수 있는 스트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 영화, TV, 라이브 채널, 스트리밍 소스를 모아 보는 미디어 센터. ![Freeware][Freeware Icon]
+* [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 오디오 변환과 태그 편집을 지원하는 음악 라이브러리 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tuneful](https://www.tuneful.dev) - 메뉴 막대나 미니 플레이어에서 Spotify와 Apple Music을 제어하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](https://www.videolan.org/vlc/) - 다양한 오디오, 비디오, 스트리밍 포맷을 재생하는 오픈 소스 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
@@ -731,6 +734,7 @@ Awesome Mac
 * [Downie](https://software.charliemonroe.net/downie.php) - YouTube 등 1200개 이상의 사이트를 지원하는 macOS용 비디오 다운로더.
 * [FOLX](https://mac.eltima.com/download-manager.html) - Mac 스타일 인터페이스를 갖춘 무료 다운로드 관리자. ![Freeware][Freeware Icon]
 * [Free Download Manager](https://www.freedownloadmanager.org/) - 강력하고 사용하기 쉬운 무료 다운로드 가속기 및 관리자. ![Freeware][Freeware Icon]
+* [Harbor](https://github.com/tahseen-kakar/harbor) - HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/tahseen-kakar/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 링크, 파일, 호스팅 콘텐츠를 위한 오픈 소스 다운로드 관리자. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - HTTP, FTP, BitTorrent, Magnet 등을 지원하는 모든 기능을 갖춘 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 최적화된 전송 엔진을 갖춘 경량 다운로드 관리자. ![Freeware][Freeware Icon]
@@ -844,6 +848,7 @@ Awesome Mac
 
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 이미지 OCR과 북마크를 지원하는 가벼운 네이티브 클립보드 관리자입니다. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - 콘텐츠 인식 미리보기, AI 변환, 내장 스크린샷 편집기, 파일 변환기를 갖춘 스마트 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHistory](https://github.com/weiykong/ClipHistory) - 단축키 즉시 팝업, 검색, 고정, 텍스트/이미지 기록을 지원하는 가벼운 네이티브 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [ClipTools](https://macmost.com/cliptools) - 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - macOS용 클립보드 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - 가벼운 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
@@ -884,6 +889,7 @@ Awesome Mac
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 드래그 앤 드롭을 지원하는 가벼운 앱 제거 도구. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [Mac Clean](https://github.com/iliyami/MacClean) - 무료 오픈소스 정리, 최적화, 악성코드 검사 도구. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
@@ -909,6 +915,7 @@ Awesome Mac
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구. ![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - 덮개를 닫아도 절전을 막고 자동 종료 타이머와 배터리 하한 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
 
 ### 할 일 목록 (To-Do Lists)

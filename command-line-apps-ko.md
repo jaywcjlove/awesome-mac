@@ -104,6 +104,7 @@
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON 스키마 작업을 위한 CLI. 포맷팅, 린팅, 테스트, 번들링 등을 지원하며 로컬 개발 및 CI/CD 파이프라인에서 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 마크다운 파일 처리를 위한 명령줄 도구. 이미지 다운로드, 파일 번역 등 지원. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [quokka](https://github.com/dutradotdev/quokka) - 터미널에서 USB로 연결된 iPhone을 점검하고 정리. 저장공간, 앱, 미디어, 실시간 syslog 뷰어. 탈옥 불필요. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 강력한 앱 브라우징 및 파일 보기 기능을 갖춘 iOS 시뮬레이터 관리용 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## 기타

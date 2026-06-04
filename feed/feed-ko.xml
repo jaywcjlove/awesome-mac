@@ -5,9 +5,107 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 26 May 2026 07:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 01:01:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cursor Voice</title>
+      <link>https://cursorvoice.app</link>
+      <guid isPermaLink="false">982aed0bf7329e9bde5768420e6cf871024e359e:Cursor Voice</guid>
+      <pubDate>Wed, 03 Jun 2026 01:01:06 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Cursor Voice
+Description: 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트.
+Website: https://cursorvoice.app
+Commit: Add Cursor Voice to the ja/ko/zh list. #2140
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Cursor Voice<br/>Description: 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트.<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
+    </item>
+    <item>
+      <title>Sleepless</title>
+      <link>https://github.com/Aboudjem/Sleepless</link>
+      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
+      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Sleepless
+Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
+Open Source: https://github.com/Aboudjem/Sleepless
+Commit: Add Sleepless to System Related Tools (#2134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
+    </item>
+    <item>
+      <title>ClipHistory</title>
+      <link>https://github.com/weiykong/ClipHistory</link>
+      <guid isPermaLink="false">ffe8b08f41f78e62471cb3efebfa172a746fd372:ClipHistory</guid>
+      <pubDate>Tue, 02 Jun 2026 04:38:50 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: ClipHistory
+Description: 단축키 즉시 팝업, 검색, 고정, 텍스트/이미지 기록을 지원하는 가벼운 네이티브 클립보드 관리자.
+Open Source: https://github.com/weiykong/ClipHistory
+Commit: Add ClipHistory
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipHistory<br/>Description: 단축키 즉시 팝업, 검색, 고정, 텍스트/이미지 기록을 지원하는 가벼운 네이티브 클립보드 관리자.<br/>Open Source: https://github.com/weiykong/ClipHistory<br/>Commit: Add ClipHistory<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372]]></content:encoded>
+    </item>
+    <item>
+      <title>SystemEQ for Mac</title>
+      <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
+      <guid isPermaLink="false">180e1c96827db9eda58a5f120cccb5990b3200b6:SystemEQ for Mac</guid>
+      <pubDate>Tue, 02 Jun 2026 04:01:12 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: SystemEQ for Mac
+Description: AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ.
+Website: https://denzam.github.io/SystemEQ-for-Mac/
+Commit: Add SystemEQ to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: SystemEQ for Mac<br/>Description: AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ.<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
+    </item>
+    <item>
+      <title>Harbor</title>
+      <link>https://github.com/tahseen-kakar/harbor</link>
+      <guid isPermaLink="false">02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039:Harbor</guid>
+      <pubDate>Sun, 31 May 2026 12:41:48 GMT</pubDate>
+      <category>다운로드 관리 도구</category>
+      <description>Category: 다운로드 관리 도구
+App: Harbor
+Description: HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자.
+Open Source: https://github.com/tahseen-kakar/harbor
+Commit: Add Harbor (#2123)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
+      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Harbor<br/>Description: HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자.<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
+    </item>
+    <item>
+      <title>Mac Clean</title>
+      <link>https://github.com/iliyami/MacClean</link>
+      <guid isPermaLink="false">4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd:Mac Clean</guid>
+      <pubDate>Sat, 30 May 2026 10:18:25 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: Mac Clean
+Description: 무료 오픈소스 정리, 최적화, 악성코드 검사 도구.
+Open Source: https://github.com/iliyami/MacClean
+Commit: Add Mac Clean to the ja/ko/zh list. #2110
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Mac Clean<br/>Description: 무료 오픈소스 정리, 최적화, 악성코드 검사 도구.<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean to the ja/ko/zh list. #2110<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd]]></content:encoded>
+    </item>
+    <item>
+      <title>clawpypaste</title>
+      <link>https://github.com/krisbradley/clawpypaste</link>
+      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
+      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: clawpypaste
+Description: Claude Code용 메뉴 막대 블록 피커 및 세션 브라우저.
+Open Source: https://github.com/krisbradley/clawpypaste
+Commit: Add clawpypaste to AI Tools (#2112)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: clawpypaste<br/>Description: Claude Code용 메뉴 막대 블록 피커 및 세션 브라우저.<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
+    </item>
     <item>
       <title>Parakey</title>
       <link>https://github.com/rcourtman/parakey</link>
@@ -609,104 +707,6 @@ Open Source: https://github.com/rkbhochalya/grayscale-mode
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Grayscale Mode<br/>Description: 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구.<br/>Open Source: https://github.com/rkbhochalya/grayscale-mode<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>MagicQuit</title>
-      <link>https://magicquit.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MagicQuit</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: MagicQuit
-Description: 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구.
-Website: https://magicquit.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: MagicQuit<br/>Description: 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구.<br/>Website: https://magicquit.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>OnyX</title>
-      <link>https://www.titanium-software.fr/en/onyx.html</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:OnyX</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: OnyX
-Description: 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구.
-Website: https://www.titanium-software.fr/en/onyx.html
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: OnyX<br/>Description: 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구.<br/>Website: https://www.titanium-software.fr/en/onyx.html<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Sensei</title>
-      <link>https://sensei.app/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Sensei</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Sensei
-Description: 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
-Website: https://sensei.app/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Sensei<br/>Description: 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.<br/>Website: https://sensei.app/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SteerMouse</title>
-      <link>https://plentycom.jp/en/steermouse/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SteerMouse</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: SteerMouse
-Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
-Website: https://plentycom.jp/en/steermouse/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: SteerMouse<br/>Description: 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.<br/>Website: https://plentycom.jp/en/steermouse/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Nozbe</title>
-      <link>https://nozbe.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Nozbe</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 할 일 목록 (To-Do Lists)</category>
-      <description>Category: 유틸리티 / 할 일 목록 (To-Do Lists)
-App: Nozbe
-Description: 개인과 팀을 위한 GTD 작업 관리자.
-Website: https://nozbe.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Nozbe<br/>Description: 개인과 팀을 위한 GTD 작업 관리자.<br/>Website: https://nozbe.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Super Productivity</title>
-      <link>https://super-productivity.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Super Productivity</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 할 일 목록 (To-Do Lists)</category>
-      <description>Category: 유틸리티 / 할 일 목록 (To-Do Lists)
-App: Super Productivity
-Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.
-Website: https://super-productivity.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Super Productivity<br/>Description: 타임박싱과 시간 추적을 갖춘 작업 관리자.<br/>Website: https://super-productivity.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Rewind</title>
-      <link>https://www.rewind.ai/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Rewind</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Rewind
-Description: 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.
-Website: https://www.rewind.ai/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Rewind<br/>Description: 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.<br/>Website: https://www.rewind.ai/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

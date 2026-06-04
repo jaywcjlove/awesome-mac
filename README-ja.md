@@ -486,7 +486,7 @@ Awesome Mac
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxie](https://proxie.app) - HTTPデバッグプロキシ。
 * [Proxyman](https://proxyman.app) - macOS向けのモダンで直感的なHTTPデバッグプロキシ。 ![Freeware][Freeware Icon]
-* [Rockxy](https://github.com/LocNguyenHuu/Rockxy) - リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
+* [Rockxy](https://rockxy.io) - リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - ネットワークトラフィックを快適に監視するアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界で最も有名で広く使われているネットワークプロトコルアナライザー。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - API設計、ドキュメント、デバッグ、モック、テストのためのオールインワンワークスペース。
@@ -779,9 +779,11 @@ Awesome Mac
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - リアルタイムのカウンターでClaude使用量を追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Claude Codeセッションを閲覧・分析するツール。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
+* [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 複数の大規模言語モデル（LLM）プロバイダーをサポートするデスクトップクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - ログイン不要でOpenAI CodexとClaude Codeの使用状況を表示。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Cursor Voice](https://cursorvoice.app) - カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 1つのワークスペースで複数のClaude Codeとシェルセッションを並列実行できるターミナルマルチプレクサ。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 各種アプリでモデルとコンテキストを使えるAIアシスタント。
@@ -954,6 +956,7 @@ Awesome Mac
 * [GarageBand](https://www.apple.com/mac/garageband/) - 録音や音楽制作のためのデジタルオーディオワークステーション。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 音楽制作とオーディオ制作向けのプロ向けデジタルオーディオワークステーション。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 
 ## ダウンロード管理ツール
 
@@ -962,6 +965,7 @@ Awesome Mac
 * [Deluge](https://deluge-torrent.org/) - 軽量でフリーソフトウェアのクロスプラットフォームBitTorrentクライアント。 [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 本物のMacスタイルのインターフェースを持つMac OS X用の無料ダウンロードマネージャー。 ![Freeware][Freeware Icon]
 * [Free Download Manager](https://www.freedownloadmanager.org/) - 強力で使いやすく、完全に無料のダウンロードアクセラレータおよびマネージャー。 ![Freeware][Freeware Icon]
+* [Harbor](https://github.com/tahseen-kakar/harbor) - HTTP(S)、マグネットリンク、`.torrent` ファイルに対応するオープンソースのダウンロードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/tahseen-kakar/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - リンク、ファイル、ホスティングサービス向けのオープンソースダウンロードマネージャー。 ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - HTTP、FTP、BT、マグネットリンクなどに対応したダウンロードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 最適化された転送エンジンを備えた軽量ダウンロードマネージャー。 ![Freeware][Freeware Icon]
@@ -1140,6 +1144,7 @@ Awesome Mac
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHistory](https://github.com/weiykong/ClipHistory) - ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [ClipTools](https://macmost.com/cliptools) - コピー、ペースト、テキスト整形を手早くこなせるクリップボードツール集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - ClipMenuをベースにしたmacOS用クリップボード拡張アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高度な機能を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
@@ -1230,6 +1235,7 @@ Awesome Mac
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - アプリを徹底的にアンインストール。 ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。 [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [CleanMyMac](https://macpaw.com/cleanmymac) - 大量のジャンクファイルやマルウェアを削除し、Macをより高速かつ整理整頓。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
+* [Mac Clean](https://github.com/iliyami/MacClean) - 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。 [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
@@ -1504,6 +1510,7 @@ Awesome Mac
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - macOS SierraでNTFSへの読み書きアクセス。
 * [stats](https://github.com/exelban/stats) - メニューバー用の無料Macシステムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - 監視、クリーンアップ、診断を行うパフォーマンス管理ツール。
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - ふたを閉じたままでもスリープを防ぎ、自動オフタイマーとバッテリー下限保護を備えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [Sleepr](https://sleepr.app/) - macOSにスリープタイマーを復活。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/sleepr-app/id6465683427?platform=mac)
 * [Sloth](https://sveinbjorn.org/sloth/) - 実行中のすべてのプロセスが使用している開いているファイル、ディレクトリ、ソケット、パイプ、デバイスを表示。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - マウスのボタン、ホイール、カーソル速度を細かく調整するツール。

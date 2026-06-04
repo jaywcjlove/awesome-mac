@@ -487,7 +487,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxie](https://proxie.app) - HTTP debugging proxy.
 * [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
-* [Rockxy](https://github.com/LocNguyenHuu/Rockxy) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
+* [Rockxy](https://rockxy.io) - Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - All-in-One workspace for API Design, Documentation, Debug, Mock, Test.
@@ -780,9 +780,11 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - Track Claude usage with a live counter. [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Tool for browsing and analyzing Claude Code sessions. [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - Manage multiple isolated OpenClaw gateway instances from one control panel. [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
+* [clawpypaste](https://github.com/krisbradley/clawpypaste) - Menu bar block picker and session browser for Claude Code. [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - A desktop client that supports multiple large language model (LLM) providers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - Show usage stats for OpenAI Codex and Claude Code, without having to login. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Cursor Voice](https://cursorvoice.app) - Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Desktop Control](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
@@ -957,6 +959,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GarageBand](https://www.apple.com/mac/garageband/) - Digital audio workstation for recording and music production. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Logic Pro X](https://www.apple.com/logic-pro/) - Professional digital audio workstation for music and audio production. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 
 ## Download Management Tools
 
@@ -965,6 +968,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - Free download manager for Mac OS X with a true Mac-style interface. ![Freeware][Freeware Icon]
 * [Free Download Manager](https://www.freedownloadmanager.org/) - A powerful, easy-to-use, and completely free download accelerator and manager. ![Freeware][Freeware Icon]
+* [Harbor](https://github.com/tahseen-kakar/harbor) - Open-source download manager for HTTP(S), magnet links, and `.torrent` files. [![Open-Source Software][OSS Icon]](https://github.com/tahseen-kakar/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - Open-source download manager for links, files, and hosted content. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - Download manager for HTTP, FTP, BitTorrent, magnet links, and more. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - Lightweight download manager with an optimized transfer engine. ![Freeware][Freeware Icon]
@@ -1144,6 +1148,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHistory](https://github.com/weiykong/ClipHistory) - Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history. [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [ClipTools](https://macmost.com/cliptools) - Clipboard utility set for quick copy, paste, and text cleanup tasks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
@@ -1233,7 +1238,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
-* [clean-mac](https://github.com/milyzc/clean-mac) - Zsh script to reclaim disk space in iOS/Android dev environments: cleans Xcode caches, Android SDK, Gradle, node_modules, Docker and more. [![Open-Source Software][OSS Icon]](https://github.com/milyzc/clean-mac) ![Freeware][Freeware Icon]
+* [Clean-developer-mac](https://github.com/milyzc/clean-mac) - Zsh script to reclaim disk space in iOS/Android dev environments: cleans Xcode caches, Android SDK, Gradle, node_modules, Docker and more. [![Open-Source Software][OSS Icon]](https://github.com/milyzc/clean-mac) ![Freeware][Freeware Icon]
+* [Mac Clean](https://github.com/iliyami/MacClean) - Free, open-source cleaner, optimizer, and malware scanner. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - Disk cleaning and Mac optimization. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
@@ -1508,6 +1514,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [stats](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - Performance toolkit for monitoring, cleanup, and hardware diagnostics.
+* [Sleepless](https://github.com/Aboudjem/Sleepless) - Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [Sleepr](https://sleepr.app/) - Sleepr brings back sleep timer on macOS. [![App Store][app-store Icon]](https://apps.apple.com/us/app/sleepr-app/id6465683427?platform=mac)
 * [Sloth](https://sveinbjorn.org/sloth/) - Shows all open files, directories, sockets, pipes and devices in use by all running processes. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - Customize mouse buttons, wheel behavior, and cursor speed.
