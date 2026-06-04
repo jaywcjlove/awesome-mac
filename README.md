@@ -452,6 +452,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [zeplin](https://www.zeplin.io/) - Collaboration tool for work between designers and developers. ![Freeware][Freeware Icon]
 * [ZOC Terminal](https://www.emtec.com/zoc/index.html) - Terminal emulator which supports SSH, telnet, connections and other protocols.
 * [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac) - .nib to .xib converter [![App Store][app-store Icon]](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac)
+- [Ano](https://ano.chat/) - High-performance collaborative chat and workspace for devs that combines real-time messaging with a native in-app terminal and integrated AI (like Claude Code).
 
 ### Regular Expression Editors
 
