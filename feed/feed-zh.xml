@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:31:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>capcap</title>
+      <link>https://capcap.skyrin.fun</link>
+      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
+      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: capcap
+Description: 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。
+Website: https://capcap.skyrin.fun
+Commit: Add capcap to Screenshot Tools (#2153)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: capcap<br/>Description: 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
+    </item>
     <item>
       <title>Fader</title>
       <link>https://github.com/pantafive/fader</link>
@@ -693,20 +707,6 @@ Website: https://cadranapp.com
 Commit: Add Cadran to Utilities &gt; General Tools (#1914)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Cadran<br/>Description: 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
-    </item>
-    <item>
-      <title>DevUtils.app</title>
-      <link>https://devutils.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:DevUtils.app</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: DevUtils.app
-Description: 用于格式化、转换和调试常见数据的开发者工具箱。
-Website: https://devutils.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: DevUtils.app<br/>Description: 用于格式化、转换和调试常见数据的开发者工具箱。<br/>Website: https://devutils.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>

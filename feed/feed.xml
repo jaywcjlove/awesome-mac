@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:31:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>capcap</title>
+      <link>https://capcap.skyrin.fun</link>
+      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
+      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: capcap
+Description: Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload.
+Website: https://capcap.skyrin.fun
+Commit: Add capcap to Screenshot Tools (#2153)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: capcap<br/>Description: Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload.<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
+    </item>
     <item>
       <title>Fader</title>
       <link>https://github.com/pantafive/fader</link>
@@ -693,20 +707,6 @@ Website: https://revu.cards/
 Commit: Add Revu - local-first macOS spaced repetition app (#1955)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755</description>
       <content:encoded><![CDATA[Category: Education<br/>App: Revu<br/>Description: Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.<br/>Website: https://revu.cards/<br/>Commit: Add Revu - local-first macOS spaced repetition app (#1955)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755]]></content:encoded>
-    </item>
-    <item>
-      <title>ClearanceKit</title>
-      <link>https://craigjbass.github.io/clearancekit/</link>
-      <guid isPermaLink="false">a4ab493a44a732d7b9770e8779c226a50453db30:ClearanceKit</guid>
-      <pubDate>Fri, 03 Apr 2026 00:02:02 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: ClearanceKit
-Description: intercepts file-system access events on macOS and enforces per-process access policies.
-Website: https://craigjbass.github.io/clearancekit/
-Commit: Add ClearanceKit to security tools list (#1958)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: ClearanceKit<br/>Description: intercepts file-system access events on macOS and enforces per-process access policies.<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to security tools list (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30]]></content:encoded>
     </item>
   </channel>
 </rss>
