@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 03 Jun 2026 01:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:46:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fader</title>
+      <link>https://github.com/pantafive/fader</link>
+      <guid isPermaLink="false">51eed00ef094a5376358d6a74cca6448f58e5b5b:Fader</guid>
+      <pubDate>Fri, 05 Jun 2026 02:46:11 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Fader
+Description: アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。
+Open Source: https://github.com/pantafive/fader
+Commit: Add Fader to Audio and Video Tools (#2152)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Fader<br/>Description: アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。<br/>Open Source: https://github.com/pantafive/fader<br/>Commit: Add Fader to Audio and Video Tools (#2152)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b]]></content:encoded>
+    </item>
     <item>
       <title>Cursor Voice</title>
       <link>https://cursorvoice.app</link>
@@ -693,20 +707,6 @@ Website: https://northpole.security/
 Commit: Add Santa to the ja/ko/zh list. #1957
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
       <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Santa<br/>Description: バイナリとファイルアクセスを制御する認可システム。<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
-    </item>
-    <item>
-      <title>Revu</title>
-      <link>https://revu.cards/</link>
-      <guid isPermaLink="false">11a0d97fb3707c4b5487e3b9618141cfdc20abb4:Revu</guid>
-      <pubDate>Fri, 03 Apr 2026 00:29:32 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: Revu
-Description: FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。
-Website: https://revu.cards/
-Commit: Add Revu to the ja/ko/zh list. #1955
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Revu<br/>Description: FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。<br/>Website: https://revu.cards/<br/>Commit: Add Revu to the ja/ko/zh list. #1955<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11a0d97fb3707c4b5487e3b9618141cfdc20abb4]]></content:encoded>
     </item>
   </channel>
 </rss>

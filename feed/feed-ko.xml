@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 01:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:46:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fader</title>
+      <link>https://github.com/pantafive/fader</link>
+      <guid isPermaLink="false">51eed00ef094a5376358d6a74cca6448f58e5b5b:Fader</guid>
+      <pubDate>Fri, 05 Jun 2026 02:46:11 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Fader
+Description: 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서.
+Open Source: https://github.com/pantafive/fader
+Commit: Add Fader to Audio and Video Tools (#2152)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Fader<br/>Description: 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서.<br/>Open Source: https://github.com/pantafive/fader<br/>Commit: Add Fader to Audio and Video Tools (#2152)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b]]></content:encoded>
+    </item>
     <item>
       <title>Cursor Voice</title>
       <link>https://cursorvoice.app</link>
@@ -693,20 +707,6 @@ Website: https://displaybuddy.app
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: DisplayBuddy<br/>Description: 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.<br/>Website: https://displaybuddy.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Grayscale Mode</title>
-      <link>https://github.com/rkbhochalya/grayscale-mode</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Grayscale Mode</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Grayscale Mode
-Description: 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구.
-Open Source: https://github.com/rkbhochalya/grayscale-mode
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Grayscale Mode<br/>Description: 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구.<br/>Open Source: https://github.com/rkbhochalya/grayscale-mode<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
