@@ -549,6 +549,7 @@ Awesome Mac
 
 ### 스크린샷 도구
 
+* [Chaos](https://github.com/michaelmjhhhh/chaos) - 스크린샷을 감지하고 비전 모델을 사용해 내용을 기반으로 자동으로 이름을 변경하는 앱。[![Open-Source Software][OSS Icon]](https://github.com/michaelmjhhhh/chaos) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Mac 화면 캡처를 위한 최고의 방법.
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 화면 녹화, 스크롤 캡처, OCR을 지원하는 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]

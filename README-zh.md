@@ -483,6 +483,7 @@ Awesome Mac
 
 ### 截图工具
 
+* [Chaos](https://github.com/michaelmjhhhh/chaos) - 菜单栏应用，使用视觉模型识别截图内容并自动重命名。[![Open-Source Software][OSS Icon]](https://github.com/michaelmjhhhh/chaos) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 支持录屏、滚动截图和 OCR 的截图标注工具。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
