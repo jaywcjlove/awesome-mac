@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jun 2026 05:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 07:14:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CSV Quick Look</title>
+      <link>https://github.com/adamorad/csv-quick-look</link>
+      <guid isPermaLink="false">38ae34b0b8b2db6c2f2acb02d320e2d3af179418:CSV Quick Look</guid>
+      <pubDate>Fri, 05 Jun 2026 07:14:03 GMT</pubDate>
+      <category>QuickLook Plugins</category>
+      <description>Category: QuickLook Plugins
+App: CSV Quick Look
+Description: QuickLook extension for CSV and TSV files — virtual scroll, sort, filter, dark mode.
+Open Source: https://github.com/adamorad/csv-quick-look
+Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418</description>
+      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: CSV Quick Look<br/>Description: QuickLook extension for CSV and TSV files — virtual scroll, sort, filter, dark mode.<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418]]></content:encoded>
+    </item>
     <item>
       <title>SnippetCraft</title>
       <link>https://getsnippetcraft.com</link>
@@ -693,20 +707,6 @@ Website: https://currentkey.com
 Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: CurrentKey<br/>Description: Assign unique icons and names to macOS Spaces and track time spent in apps.<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c]]></content:encoded>
-    </item>
-    <item>
-      <title>Santa</title>
-      <link>https://northpole.security/</link>
-      <guid isPermaLink="false">13643e14c058e44dc384a92af9f6477009b83a78:Santa</guid>
-      <pubDate>Fri, 03 Apr 2026 00:30:29 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: Santa
-Description: A binary and file access authorization system for macOS.
-Website: https://northpole.security/
-Commit: Add Santa to the Security section (#1957)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: Santa<br/>Description: A binary and file access authorization system for macOS.<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the Security section (#1957)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78]]></content:encoded>
     </item>
   </channel>
 </rss>
