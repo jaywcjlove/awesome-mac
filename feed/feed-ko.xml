@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 05 Jun 2026 05:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:45:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SnippetCraft</title>
+      <link>https://getsnippetcraft.com</link>
+      <guid isPermaLink="false">0a6ea6f00b4f3eeb5d70e491610a173c56e370ab:SnippetCraft</guid>
+      <pubDate>Fri, 05 Jun 2026 05:45:42 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: SnippetCraft
+Description: macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.
+Website: https://getsnippetcraft.com
+Commit: Add SnippetCraft to Clipboard Tools (#2145)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: SnippetCraft<br/>Description: macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.<br/>Website: https://getsnippetcraft.com<br/>Commit: Add SnippetCraft to Clipboard Tools (#2145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab]]></content:encoded>
+    </item>
     <item>
       <title>capcap</title>
       <link>https://capcap.skyrin.fun</link>
@@ -693,20 +707,6 @@ Website: https://saneclick.com
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: SaneClick<br/>Description: Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장.<br/>Website: https://saneclick.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Unarchive One</title>
-      <link>https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Unarchive One</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: Unarchive One
-Description: 다양한 일반 압축 포맷을 압축하고 해제하는 도구.
-Website: https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Unarchive One<br/>Description: 다양한 일반 압축 포맷을 압축하고 해제하는 도구.<br/>Website: https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=githubproject<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
