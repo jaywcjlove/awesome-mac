@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jun 2026 07:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gantry</title>
+      <link>https://getgantry.github.io/</link>
+      <guid isPermaLink="false">f8e992feec19b8ade3b770068d6dcf2876c45148:Gantry</guid>
+      <pubDate>Fri, 05 Jun 2026 10:27:53 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: Gantry
+Description: Native Docker management: containers, images, live logs and stats, exec terminal — for local and SSH hosts.
+Website: https://getgantry.github.io/
+Commit: Add Gantry to Virtualization (#2154)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Gantry<br/>Description: Native Docker management: containers, images, live logs and stats, exec terminal — for local and SSH hosts.<br/>Website: https://getgantry.github.io/<br/>Commit: Add Gantry to Virtualization (#2154)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148]]></content:encoded>
+    </item>
     <item>
       <title>CSV Quick Look</title>
       <link>https://github.com/adamorad/csv-quick-look</link>
@@ -693,20 +707,6 @@ App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id646942
 Commit: doc: Update multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FunKey<br/>Description: Keyboard sound tool that adds mechanical-style typing audio.<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
-    </item>
-    <item>
-      <title>CurrentKey</title>
-      <link>https://currentkey.com</link>
-      <guid isPermaLink="false">fc600dcf1d9df3a5023ac4588aea9b82660ff51c:CurrentKey</guid>
-      <pubDate>Sat, 04 Apr 2026 02:34:32 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: CurrentKey
-Description: Assign unique icons and names to macOS Spaces and track time spent in apps.
-Website: https://currentkey.com
-Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: CurrentKey<br/>Description: Assign unique icons and names to macOS Spaces and track time spent in apps.<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c]]></content:encoded>
     </item>
   </channel>
 </rss>
