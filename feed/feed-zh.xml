@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Jun 2026 05:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:33:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gantry</title>
+      <link>https://github.com/getgantry/gantry</link>
+      <guid isPermaLink="false">4d4a90a18c2237537d3d4e71a82cff021efdafec:Gantry</guid>
+      <pubDate>Fri, 05 Jun 2026 10:33:31 GMT</pubDate>
+      <category>虚拟机</category>
+      <description>Category: 虚拟机
+App: Gantry
+Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。
+Open Source: https://github.com/getgantry/gantry
+Commit: Update Gantry to the ja/ko/zh list #2154.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
+      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Gantry<br/>Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
+    </item>
+    <item>
+      <title>CSV Quick Look</title>
+      <link>https://github.com/adamorad/csv-quick-look</link>
+      <guid isPermaLink="false">4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc:CSV Quick Look</guid>
+      <pubDate>Fri, 05 Jun 2026 10:31:17 GMT</pubDate>
+      <category>QuickLook插件</category>
+      <description>Category: QuickLook插件
+App: CSV Quick Look
+Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。
+Open Source: https://github.com/adamorad/csv-quick-look
+Commit: Add CSV Quick Look
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc</description>
+      <content:encoded><![CDATA[Category: QuickLook插件<br/>App: CSV Quick Look<br/>Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc]]></content:encoded>
+    </item>
     <item>
       <title>SnippetCraft</title>
       <link>https://getsnippetcraft.com</link>
@@ -679,34 +707,6 @@ Website: https://recordly.dev/
 Commit: Add Recordly
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Recordly<br/>Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
-    </item>
-    <item>
-      <title>Lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
-      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: Lap
-Description: 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。
-Open Source: https://github.com/julyx10/lap
-Commit: Add Lap fix #1969
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Lap<br/>Description: 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
-    </item>
-    <item>
-      <title>CompressO</title>
-      <link>https://github.com/codeforreal1/compressO</link>
-      <guid isPermaLink="false">8bf6add2922e6c7ab7d3fa0564ecaf556296821a:CompressO</guid>
-      <pubDate>Tue, 07 Apr 2026 03:35:21 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: CompressO
-Description: 一款用于压缩视频和图片体积的开源工具。
-Open Source: https://github.com/codeforreal1/compressO
-Commit: Add CompressO
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: CompressO<br/>Description: 一款用于压缩视频和图片体积的开源工具。<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
     </item>
   </channel>
 </rss>

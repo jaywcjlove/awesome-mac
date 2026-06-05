@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 05 Jun 2026 05:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:33:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gantry</title>
+      <link>https://github.com/getgantry/gantry</link>
+      <guid isPermaLink="false">4d4a90a18c2237537d3d4e71a82cff021efdafec:Gantry</guid>
+      <pubDate>Fri, 05 Jun 2026 10:33:31 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: Gantry
+Description: 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장.
+Open Source: https://github.com/getgantry/gantry
+Commit: Update Gantry to the ja/ko/zh list #2154.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Gantry<br/>Description: 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장.<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
+    </item>
+    <item>
+      <title>CSV Quick Look</title>
+      <link>https://github.com/adamorad/csv-quick-look</link>
+      <guid isPermaLink="false">4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc:CSV Quick Look</guid>
+      <pubDate>Fri, 05 Jun 2026 10:31:17 GMT</pubDate>
+      <category>QuickLook 플러그인</category>
+      <description>Category: QuickLook 플러그인
+App: CSV Quick Look
+Description: 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장.
+Open Source: https://github.com/adamorad/csv-quick-look
+Commit: Add CSV Quick Look
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc</description>
+      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: CSV Quick Look<br/>Description: 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장.<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc]]></content:encoded>
+    </item>
     <item>
       <title>SnippetCraft</title>
       <link>https://getsnippetcraft.com</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/raguay/ModalFileManager/
 Commit: docs: refresh multilingual app descriptions
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Modal File Manager<br/>Description: Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자.<br/>Open Source: https://github.com/raguay/ModalFileManager/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Oka Unarchiver</title>
-      <link>https://okaapps.com/product/1441507725</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Oka Unarchiver</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: Oka Unarchiver
-Description: RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구.
-Website: https://okaapps.com/product/1441507725
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Oka Unarchiver<br/>Description: RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구.<br/>Website: https://okaapps.com/product/1441507725<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClick</title>
-      <link>https://saneclick.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SaneClick</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: SaneClick
-Description: Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장.
-Website: https://saneclick.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: SaneClick<br/>Description: Finder 우클릭 메뉴에 파일 작업, 변환, 개발자 액션을 추가하는 확장.<br/>Website: https://saneclick.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
