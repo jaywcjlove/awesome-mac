@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:31:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>capcap</title>
+      <link>https://capcap.skyrin.fun</link>
+      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
+      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: capcap
+Description: Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。
+Website: https://capcap.skyrin.fun
+Commit: Add capcap to Screenshot Tools (#2153)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: capcap<br/>Description: Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
+    </item>
     <item>
       <title>Fader</title>
       <link>https://github.com/pantafive/fader</link>
@@ -693,20 +707,6 @@ Website: https://currentkey.com
 Commit: Add CurrentKey
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: CurrentKey<br/>Description: Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0795136db01ac01ee88c190d1ad8dba856f9f05]]></content:encoded>
-    </item>
-    <item>
-      <title>Santa</title>
-      <link>https://northpole.security/</link>
-      <guid isPermaLink="false">393e984e48f28791c9127c4d945a1d8aba009a44:Santa</guid>
-      <pubDate>Fri, 03 Apr 2026 00:35:27 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: Santa
-Description: バイナリとファイルアクセスを制御する認可システム。
-Website: https://northpole.security/
-Commit: Add Santa to the ja/ko/zh list. #1957
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Santa<br/>Description: バイナリとファイルアクセスを制御する認可システム。<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the ja/ko/zh list. #1957<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/393e984e48f28791c9127c4d945a1d8aba009a44]]></content:encoded>
     </item>
   </channel>
 </rss>
