@@ -331,6 +331,7 @@ Awesome Mac
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - PDFドキュメントの表示、作成、署名、変換、圧縮が可能。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 * [Skim](http://skim-app.sourceforge.net) - OS X用のPDFリーダー兼メモアプリ。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - フォントの試用、インストール、管理を最も簡単に。
+* [SmoothCSV](https://smoothcsv.com/) - SQLクエリに対応した高速で高機能なCSVエディタ。 ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - OS X用の強力で美しく、驚くほど高速なPinboardクライアント。
 * [Tad](https://www.tadviewer.com) - CSVファイルなどの表形式データを表示・分析するアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 自動更新PDFとLaTeXコマンドの自動補完を備えたMac用の優れたLaTeXエディタ。

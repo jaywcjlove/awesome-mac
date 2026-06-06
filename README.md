@@ -333,7 +333,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 * [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
-* [SmoothCSV](https://smoothcsv.com/) - Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries. ![Freeware][Freeware Icon]
+* [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.

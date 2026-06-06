@@ -889,6 +889,7 @@ Awesome Mac
 * [PDFsail](https://pdfsail.com/) - 集编辑、转换、合并、压缩和 OCR 于一体的 PDF 工具。
 * [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有 markdown 支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
+* [SmoothCSV](https://smoothcsv.com/) - 支持 SQL 查询的快速全功能 CSV 编辑器。 ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
 * [SwifDoo PDF](https://www.swifdoo.com/) - 最好的 PDF 编辑器/转换器，只需几个简单的步骤即可帮助您转换、编辑、压缩或密码保护 PDF 文件
 * [texifier](https://www.texifier.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
