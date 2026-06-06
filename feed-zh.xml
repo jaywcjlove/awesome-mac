@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:52:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SmoothCSV</title>
+      <link>https://smoothcsv.com/</link>
+      <guid isPermaLink="false">841c0d7c9059451b3cdaa452e01c7ed05c9b5f65:SmoothCSV</guid>
+      <pubDate>Sat, 06 Jun 2026 03:52:19 GMT</pubDate>
+      <category>电子书 / 其他</category>
+      <description>Category: 电子书 / 其他
+App: SmoothCSV
+Description: 支持 SQL 查询的快速全功能 CSV 编辑器。
+Website: https://smoothcsv.com/
+Commit: Add SmoothCSV to the ja/ko/zh list. #2155
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
+      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: SmoothCSV<br/>Description: 支持 SQL 查询的快速全功能 CSV 编辑器。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
+    </item>
     <item>
       <title>Mole Widget</title>
       <link>https://github.com/bsnkhua/mole-widget</link>
@@ -693,20 +707,6 @@ Website: https://arietan.github.io/lite-edit/
 Commit: Add LiteEdit to the ja/ko/zh list. #1970
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: LiteEdit<br/>Description: 轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
-    </item>
-    <item>
-      <title>SuperCmd</title>
-      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
-      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
-      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: SuperCmd
-Description: 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。
-Open Source: https://github.com/SuperCmdLabs/SuperCmd
-Commit: Add SuperCmd
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SuperCmd<br/>Description: 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
     </item>
   </channel>
 </rss>
