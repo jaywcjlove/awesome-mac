@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 05 Jun 2026 10:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:16:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mole Widget</title>
+      <link>https://github.com/bsnkhua/mole-widget</link>
+      <guid isPermaLink="false">355f149de3431629418b9065ee7041af3cf6899a:Mole Widget</guid>
+      <pubDate>Sat, 06 Jun 2026 02:16:57 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Mole Widget
+Description: CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯.
+Open Source: https://github.com/bsnkhua/mole-widget
+Commit: Add Mole Widget to the ja/ko list. #2156
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Mole Widget<br/>Description: CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯.<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget to the ja/ko list. #2156<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a]]></content:encoded>
+    </item>
     <item>
       <title>Gantry</title>
       <link>https://github.com/getgantry/gantry</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/codeforreal1/compressO
 Commit: Add CompressO
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: CompressO<br/>Description: 이미지와 비디오 용량을 줄여 주는 오픈 소스 압축 도구.<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
-    </item>
-    <item>
-      <title>Modal File Manager</title>
-      <link>https://github.com/raguay/ModalFileManager/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Modal File Manager</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: Modal File Manager
-Description: Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자.
-Open Source: https://github.com/raguay/ModalFileManager/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Modal File Manager<br/>Description: Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자.<br/>Open Source: https://github.com/raguay/ModalFileManager/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
