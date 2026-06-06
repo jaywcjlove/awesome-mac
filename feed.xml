@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Jun 2026 10:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:08:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mole Widget</title>
+      <link>https://github.com/bsnkhua/mole-widget</link>
+      <guid isPermaLink="false">a2115f4216124391b70062044ccb24b30599e927:Mole Widget</guid>
+      <pubDate>Sat, 06 Jun 2026 02:08:55 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Mole Widget
+Description: Lightweight macOS desktop system monitor: live CPU, memory, disk, network, battery, and process metrics in a resizable widget managed from the menu bar.
+Open Source: https://github.com/bsnkhua/mole-widget
+Commit: Add Mole Widget (Menu Bar Tools) (#2156)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Mole Widget<br/>Description: Lightweight macOS desktop system monitor: live CPU, memory, disk, network, battery, and process metrics in a resizable widget managed from the menu bar.<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
+    </item>
     <item>
       <title>Gantry</title>
       <link>https://getgantry.github.io/</link>
@@ -693,20 +707,6 @@ Website: https://cadranapp.com
 Commit: Add Cadran to Utilities &gt; General Tools (#1914)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Cadran<br/>Description: Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
-    </item>
-    <item>
-      <title>FunKey</title>
-      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: FunKey
-Description: Keyboard sound tool that adds mechanical-style typing audio.
-App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FunKey<br/>Description: Keyboard sound tool that adds mechanical-style typing audio.<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>

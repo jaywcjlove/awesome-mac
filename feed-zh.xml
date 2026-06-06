@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Jun 2026 10:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:08:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mole Widget</title>
+      <link>https://github.com/bsnkhua/mole-widget</link>
+      <guid isPermaLink="false">a2115f4216124391b70062044ccb24b30599e927:Mole Widget</guid>
+      <pubDate>Sat, 06 Jun 2026 02:08:55 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Mole Widget
+Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。
+Open Source: https://github.com/bsnkhua/mole-widget
+Commit: Add Mole Widget (Menu Bar Tools) (#2156)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mole Widget<br/>Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
+    </item>
     <item>
       <title>Gantry</title>
       <link>https://github.com/getgantry/gantry</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/SuperCmdLabs/SuperCmd
 Commit: Add SuperCmd
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SuperCmd<br/>Description: 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
-    </item>
-    <item>
-      <title>Recordly</title>
-      <link>https://recordly.dev/</link>
-      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
-      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
-      <category>设计和产品 / 屏幕录制</category>
-      <description>Category: 设计和产品 / 屏幕录制
-App: Recordly
-Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。
-Website: https://recordly.dev/
-Commit: Add Recordly
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Recordly<br/>Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
     </item>
   </channel>
 </rss>
