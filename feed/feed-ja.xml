@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:52:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SmoothCSV</title>
+      <link>https://smoothcsv.com/</link>
+      <guid isPermaLink="false">841c0d7c9059451b3cdaa452e01c7ed05c9b5f65:SmoothCSV</guid>
+      <pubDate>Sat, 06 Jun 2026 03:52:19 GMT</pubDate>
+      <category>読み書きツール / その他</category>
+      <description>Category: 読み書きツール / その他
+App: SmoothCSV
+Description: SQLクエリに対応した高速で高機能なCSVエディタ。
+Website: https://smoothcsv.com/
+Commit: Add SmoothCSV to the ja/ko/zh list. #2155
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: SmoothCSV<br/>Description: SQLクエリに対応した高速で高機能なCSVエディタ。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
+    </item>
     <item>
       <title>Mole Widget</title>
       <link>https://github.com/bsnkhua/mole-widget</link>
@@ -693,20 +707,6 @@ Website: https://cadranapp.com
 Commit: Add Cadran to Utilities &gt; General Tools (#1914)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Cadran<br/>Description: Macのデスクトップ壁紙とスクリーンセーバーに22種類のカスタマイズ可能な時計を表示。<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
-    </item>
-    <item>
-      <title>markdown-quicklook</title>
-      <link>https://github.com/ruspg/markdown-quicklook</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:markdown-quicklook</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>クイックルックプラグイン</category>
-      <description>Category: クイックルックプラグイン
-App: markdown-quicklook
-Description: レンダリング済み Markdown を表示する Quick Look プラグイン。
-Open Source: https://github.com/ruspg/markdown-quicklook
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: クイックルックプラグイン<br/>App: markdown-quicklook<br/>Description: レンダリング済み Markdown を表示する Quick Look プラグイン。<br/>Open Source: https://github.com/ruspg/markdown-quicklook<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
     </item>
   </channel>
 </rss>
