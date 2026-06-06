@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:21:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SmoothCSV</title>
+      <link>https://smoothcsv.com/</link>
+      <guid isPermaLink="false">a5805e2fcdbf3b25438dadbd86090d96af43634a:SmoothCSV</guid>
+      <pubDate>Sat, 06 Jun 2026 02:21:53 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: SmoothCSV
+Description: Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries.
+Website: https://smoothcsv.com/
+Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: SmoothCSV<br/>Description: Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries.<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a]]></content:encoded>
+    </item>
     <item>
       <title>Mole Widget</title>
       <link>https://github.com/bsnkhua/mole-widget</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/codeforreal1/compressO
 Commit: Add CompressO
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: CompressO<br/>Description: Open-source tool for compressing videos and images to smaller sizes.<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
-    </item>
-    <item>
-      <title>Cadran</title>
-      <link>https://cadranapp.com</link>
-      <guid isPermaLink="false">9e81d475101acb1f6db37b5c062000d9b2739631:Cadran</guid>
-      <pubDate>Tue, 07 Apr 2026 01:25:48 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Cadran
-Description: Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
-Website: https://cadranapp.com
-Commit: Add Cadran to Utilities &gt; General Tools (#1914)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Cadran<br/>Description: Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
     </item>
   </channel>
 </rss>
