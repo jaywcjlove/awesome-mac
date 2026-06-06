@@ -914,6 +914,9 @@ Awesome Mac
 
 ### 시스템 도구
 
+* [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - USB-C, HDMI, DisplayPort, Thunderbolt 케이블이 Mac에서 4K120, 5K60, 6K를 구동할 수 있는지 확인. ![Freeware][Freeware Icon]
+* [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - 각 Apple Silicon Mac의 외부 디스플레이 개수, 해상도, 주사율 참고 자료. ![Freeware][Freeware Icon]
+* [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - 모니터의 픽셀 밀도를 계산하고 macOS에서 Retina 수준으로 선명한지 확인. ![Freeware][Freeware Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]

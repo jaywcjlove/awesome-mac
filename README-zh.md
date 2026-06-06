@@ -1126,6 +1126,9 @@ Awesome Mac
 * [Lunar](https://lunar.fyi/) - 外接显示器亮度/对比度调节工具，从此告别物理按键。[![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - 防止Mac进入睡眠状态。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - 经典 Launchpad 体验，重现旧版 macOS。 [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
+* [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - 检测 USB-C、HDMI、DisplayPort 或雷雳线缆能否在 Mac 上驱动 4K120、5K60 或 6K。 ![Freeware][Freeware Icon]
+* [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - 各款 Apple Silicon Mac 外接显示器数量、分辨率与刷新率的参考。 ![Freeware][Freeware Icon]
+* [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - 计算显示器像素密度并检测其在 macOS 上是否达到 Retina 清晰度。 ![Freeware][Freeware Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - 为 Apple Silicon Mac 创建可启动 macOS/OS X 安装器的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]

@@ -1506,6 +1506,9 @@ Awesome Mac
 * [iStats](https://github.com/Chris911/iStats) - コマンドライン対応のシステム情報ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - 強化されたバッテリー情報表示。 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - ダークモード対応のCaffeine代替。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
+* [Mac Cable Bandwidth Calculator](https://retinadesk.com/tools/cable-bandwidth-calculator/) - USB-C・HDMI・DisplayPort・ThunderboltケーブルがMacで4K120・5K60・6Kを出力できるか確認。 ![Freeware][Freeware Icon]
+* [Mac External Display Support](https://retinadesk.com/tools/external-display-support/) - 各Apple Silicon Macの外部ディスプレイ数・解像度・リフレッシュレートのリファレンス。 ![Freeware][Freeware Icon]
+* [Mac PPI Calculator & Retina Checker](https://retinadesk.com/tools/ppi-calculator/) - モニターのピクセル密度を計算し、macOSでRetina相当の鮮明さになるか確認。 ![Freeware][Freeware Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac用の起動可能なmacOS/OS Xインストーラー作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 非アクティブなアプリを自動終了してリソースを整理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - macOSでの中クリックと中ドラッグのための3本指トラックパッドジェスチャー。 [![Open-Source Software][OSS Icon]](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ![Freeware][Freeware Icon]
