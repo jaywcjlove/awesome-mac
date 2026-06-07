@@ -1465,6 +1465,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
+* [Pathly](https://pathly.sophinauta.com/) - Copy file or folder paths from Finder as full paths, file URLs, and Git-relative paths. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/pathly-copy-file-paths/id6761799555?mt=12)
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
