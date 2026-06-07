@@ -1242,6 +1242,7 @@ Awesome Mac
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
+* [Vuvuzela](https://github.com/bsnkhua/vuvuzela) - FIFA 世界杯 2026 桌面小组件：在菜单栏管理的可调节窗口中实时显示比赛成绩、积分榜与淘汰赛对阵。 [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/vuvuzela) ![Freeware][Freeware Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 
 ### 待办事项工具
