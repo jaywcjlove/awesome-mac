@@ -1581,6 +1581,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * [Homebrew](https://brew.sh/) - The missing package manager for macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - Package manager for installing and maintaining open-source software. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 * [MacUpdate Desktop](https://www.macupdate.com/) - Simplifies finding, buying and installing apps for your Mac.
+* [Tappie](https://www.empiricapps.com/tappie) - Native GUI for managing Homebrew packages, casks, taps, and services. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## Mac App Download Sites
 
