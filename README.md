@@ -1458,6 +1458,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
+* [EmpiricCommander](https://www.empiricapps.com/empiric-commander) - Dual-pane file manager with SFTP, batch renaming, and Docker container file browsing. [![App Store][app-store Icon]](https://apps.apple.com/app/empiriccommander/id6763745217?platform=mac) ![Native App][Native Icon]
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon].
 * [SaneClick](https://saneclick.com) - Finder extension that adds right-click actions for file tasks, conversion, and developer tools. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
