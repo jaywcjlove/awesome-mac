@@ -217,6 +217,7 @@ Awesome Mac
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
+* [Editorio](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12) - AppKitで構築された高速なネイティブMarkdownエディタ。左右分割のライブプレビューに対応。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12)
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
 * [LightPaper](https://getlightpaper.com/) - Mac用のシンプルで美しく、かつ強力なテキストエディタ。
 * [MacDown](https://macdown.uranusjr.com/) - ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]

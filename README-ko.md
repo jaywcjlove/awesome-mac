@@ -192,6 +192,7 @@ Awesome Mac
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - 인라인 LaTeX를 지원하는 수학 쓰기에 최적화된 마크다운 편집기.
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
+* [Editorio](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12) - AppKit으로 제작된 빠른 네이티브 마크다운 에디터로, 좌우 분할 라이브 미리보기를 지원합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12)
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
 * [LightPaper](https://getlightpaper.com/) - 단순하고 아름다우면서도 강력한 Mac용 텍스트 편집기.
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
