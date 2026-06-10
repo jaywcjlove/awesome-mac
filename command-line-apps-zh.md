@@ -105,6 +105,7 @@
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 一个用于处理 Markdown 文件的命令行工具。下载图片、翻译文件等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [quokka](https://github.com/dutradotdev/quokka) - 在终端中检查和清理通过 USB 连接的 iPhone：存储、应用、媒体和实时系统日志查看器。无需越狱。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+* [say-it](https://pronounce.renlab.ai) - 朗读开发者术语的正确发音 — 社区发音词典，收录 1650+ 带出处的词条（kubectl、nginx、GIF、JSON），基于 macOS say 命令。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## Other
