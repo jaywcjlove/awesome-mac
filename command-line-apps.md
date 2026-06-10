@@ -105,6 +105,7 @@ A curated list of useful command line apps
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - A command-line tool for processing Markdown files. Download Images, Translate Files, etc. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from your terminal: storage, apps, media, and a live syslog viewer. No jailbreak. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+* [say-it](https://pronounce.renlab.ai) - Pronounce developer jargon out loud — community dictionary of 1,650+ sourced entries (kubectl, nginx, GIF, JSON) on top of the macOS say command. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## Other
