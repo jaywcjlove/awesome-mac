@@ -20,6 +20,7 @@
 
 <p style="display: inline_block">
   <sup><a href="https://wangchujiang.com/#/app" target="_blank">내 앱</a>을 사용하는 것도 <a href="https://wangchujiang.com/#/sponsor" target="_blank">후원</a>하는 한 가지 방법입니다:</sup><br/>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -103,6 +104,8 @@
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON 스키마 작업을 위한 CLI. 포맷팅, 린팅, 테스트, 번들링 등을 지원하며 로컬 개발 및 CI/CD 파이프라인에서 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 마크다운 파일 처리를 위한 명령줄 도구. 이미지 다운로드, 파일 번역 등 지원. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [quokka](https://github.com/dutradotdev/quokka) - 터미널에서 USB로 연결된 iPhone을 점검하고 정리. 저장공간, 앱, 미디어, 실시간 syslog 뷰어. 탈옥 불필요. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+* [say-it](https://pronounce.renlab.ai) - 개발자 용어의 올바른 발음을 소리 내어 읽어 주는 커뮤니티 발음 사전. 출처가 있는 1650개 이상의 항목(kubectl, nginx, GIF, JSON)을 수록하고 macOS say 명령을 활용. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 강력한 앱 브라우징 및 파일 보기 기능을 갖춘 iOS 시뮬레이터 관리용 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## 기타
@@ -113,6 +116,7 @@
 * [bclm](https://github.com/zackelia/bclm) - 배터리 최대 충전량을 제한하는 macOS 명령줄 도구. [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 향수를 불러일으키는 빈티지 스타일의 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh)를 위한 GUI 클라이언트. 명령어를 사용하지 않고도 소프트웨어 설치, 확인, 제거 가능. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
+* [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]

@@ -5,9 +5,317 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 14:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 12:34:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cate</title>
+      <link>https://cate.cero-ai.com</link>
+      <guid isPermaLink="false">febc8acb8ce125c6b276fbf34baecc259515eca8:Cate</guid>
+      <pubDate>Wed, 10 Jun 2026 12:34:14 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Cate
+Description: 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。
+Website: https://cate.cero-ai.com
+Commit: Add Cate to IDEs (#2178)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Cate<br/>Description: 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。<br/>Website: https://cate.cero-ai.com<br/>Commit: Add Cate to IDEs (#2178)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8]]></content:encoded>
+    </item>
+    <item>
+      <title>SmoothCSV</title>
+      <link>https://smoothcsv.com/</link>
+      <guid isPermaLink="false">841c0d7c9059451b3cdaa452e01c7ed05c9b5f65:SmoothCSV</guid>
+      <pubDate>Sat, 06 Jun 2026 03:52:19 GMT</pubDate>
+      <category>电子书 / 其他</category>
+      <description>Category: 电子书 / 其他
+App: SmoothCSV
+Description: 支持 SQL 查询的快速全功能 CSV 编辑器。
+Website: https://smoothcsv.com/
+Commit: Add SmoothCSV to the ja/ko/zh list. #2155
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
+      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: SmoothCSV<br/>Description: 支持 SQL 查询的快速全功能 CSV 编辑器。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
+    </item>
+    <item>
+      <title>Mole Widget</title>
+      <link>https://github.com/bsnkhua/mole-widget</link>
+      <guid isPermaLink="false">a2115f4216124391b70062044ccb24b30599e927:Mole Widget</guid>
+      <pubDate>Sat, 06 Jun 2026 02:08:55 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Mole Widget
+Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。
+Open Source: https://github.com/bsnkhua/mole-widget
+Commit: Add Mole Widget (Menu Bar Tools) (#2156)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mole Widget<br/>Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
+    </item>
+    <item>
+      <title>Gantry</title>
+      <link>https://github.com/getgantry/gantry</link>
+      <guid isPermaLink="false">4d4a90a18c2237537d3d4e71a82cff021efdafec:Gantry</guid>
+      <pubDate>Fri, 05 Jun 2026 10:33:31 GMT</pubDate>
+      <category>虚拟机</category>
+      <description>Category: 虚拟机
+App: Gantry
+Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。
+Open Source: https://github.com/getgantry/gantry
+Commit: Update Gantry to the ja/ko/zh list #2154.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
+      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Gantry<br/>Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
+    </item>
+    <item>
+      <title>CSV Quick Look</title>
+      <link>https://github.com/adamorad/csv-quick-look</link>
+      <guid isPermaLink="false">4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc:CSV Quick Look</guid>
+      <pubDate>Fri, 05 Jun 2026 10:31:17 GMT</pubDate>
+      <category>QuickLook插件</category>
+      <description>Category: QuickLook插件
+App: CSV Quick Look
+Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。
+Open Source: https://github.com/adamorad/csv-quick-look
+Commit: Add CSV Quick Look
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc</description>
+      <content:encoded><![CDATA[Category: QuickLook插件<br/>App: CSV Quick Look<br/>Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc]]></content:encoded>
+    </item>
+    <item>
+      <title>SnippetCraft</title>
+      <link>https://getsnippetcraft.com</link>
+      <guid isPermaLink="false">0a6ea6f00b4f3eeb5d70e491610a173c56e370ab:SnippetCraft</guid>
+      <pubDate>Fri, 05 Jun 2026 05:45:42 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: SnippetCraft
+Description: 适用于 macOS 的全系统文本扩展、片段管理和剪贴板历史工具。
+Website: https://getsnippetcraft.com
+Commit: Add SnippetCraft to Clipboard Tools (#2145)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: SnippetCraft<br/>Description: 适用于 macOS 的全系统文本扩展、片段管理和剪贴板历史工具。<br/>Website: https://getsnippetcraft.com<br/>Commit: Add SnippetCraft to Clipboard Tools (#2145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab]]></content:encoded>
+    </item>
+    <item>
+      <title>capcap</title>
+      <link>https://capcap.skyrin.fun</link>
+      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
+      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: capcap
+Description: 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。
+Website: https://capcap.skyrin.fun
+Commit: Add capcap to Screenshot Tools (#2153)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: capcap<br/>Description: 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
+    </item>
+    <item>
+      <title>Fader</title>
+      <link>https://github.com/pantafive/fader</link>
+      <guid isPermaLink="false">51eed00ef094a5376358d6a74cca6448f58e5b5b:Fader</guid>
+      <pubDate>Fri, 05 Jun 2026 02:46:11 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Fader
+Description: 菜单栏音量混音器，支持应用级音量、一键切换输出设备和蓝牙耳机控制。[![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader)
+Open Source: https://github.com/pantafive/fader
+Commit: Add Fader to Audio and Video Tools (#2152)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Fader<br/>Description: 菜单栏音量混音器，支持应用级音量、一键切换输出设备和蓝牙耳机控制。[![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader)<br/>Open Source: https://github.com/pantafive/fader<br/>Commit: Add Fader to Audio and Video Tools (#2152)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b]]></content:encoded>
+    </item>
+    <item>
+      <title>Cursor Voice</title>
+      <link>https://cursorvoice.app</link>
+      <guid isPermaLink="false">982aed0bf7329e9bde5768420e6cf871024e359e:Cursor Voice</guid>
+      <pubDate>Wed, 03 Jun 2026 01:01:06 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Cursor Voice
+Description: 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。
+Website: https://cursorvoice.app
+Commit: Add Cursor Voice to the ja/ko/zh list. #2140
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Cursor Voice<br/>Description: 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
+    </item>
+    <item>
+      <title>Sleepless</title>
+      <link>https://github.com/Aboudjem/Sleepless</link>
+      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
+      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: Sleepless
+Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
+Open Source: https://github.com/Aboudjem/Sleepless
+Commit: Add Sleepless to System Related Tools (#2134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
+    </item>
+    <item>
+      <title>ClipHistory</title>
+      <link>https://github.com/weiykong/ClipHistory</link>
+      <guid isPermaLink="false">ffe8b08f41f78e62471cb3efebfa172a746fd372:ClipHistory</guid>
+      <pubDate>Tue, 02 Jun 2026 04:38:50 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: ClipHistory
+Description: 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。
+Open Source: https://github.com/weiykong/ClipHistory
+Commit: Add ClipHistory
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipHistory<br/>Description: 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。<br/>Open Source: https://github.com/weiykong/ClipHistory<br/>Commit: Add ClipHistory<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372]]></content:encoded>
+    </item>
+    <item>
+      <title>SystemEQ for Mac</title>
+      <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
+      <guid isPermaLink="false">180e1c96827db9eda58a5f120cccb5990b3200b6:SystemEQ for Mac</guid>
+      <pubDate>Tue, 02 Jun 2026 04:01:12 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: SystemEQ for Mac
+Description: 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。
+Website: https://denzam.github.io/SystemEQ-for-Mac/
+Commit: Add SystemEQ to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: SystemEQ for Mac<br/>Description: 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
+    </item>
+    <item>
+      <title>Harbor</title>
+      <link>https://github.com/tahseen-kakar/harbor</link>
+      <guid isPermaLink="false">02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039:Harbor</guid>
+      <pubDate>Sun, 31 May 2026 12:41:48 GMT</pubDate>
+      <category>下载工具</category>
+      <description>Category: 下载工具
+App: Harbor
+Description: 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。
+Open Source: https://github.com/tahseen-kakar/harbor
+Commit: Add Harbor (#2123)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
+      <content:encoded><![CDATA[Category: 下载工具<br/>App: Harbor<br/>Description: 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
+    </item>
+    <item>
+      <title>Mac Clean</title>
+      <link>https://github.com/iliyami/MacClean</link>
+      <guid isPermaLink="false">4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd:Mac Clean</guid>
+      <pubDate>Sat, 30 May 2026 10:18:25 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Mac Clean
+Description: 免费开源的清理、优化和恶意软件扫描工具。[![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean)
+Open Source: https://github.com/iliyami/MacClean
+Commit: Add Mac Clean to the ja/ko/zh list. #2110
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Mac Clean<br/>Description: 免费开源的清理、优化和恶意软件扫描工具。[![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean)<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean to the ja/ko/zh list. #2110<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd]]></content:encoded>
+    </item>
+    <item>
+      <title>clawpypaste</title>
+      <link>https://github.com/krisbradley/clawpypaste</link>
+      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
+      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: clawpypaste
+Description: 适用于 Claude Code 的菜单栏代码块选择器和会话浏览器。
+Open Source: https://github.com/krisbradley/clawpypaste
+Commit: Add clawpypaste to AI Tools (#2112)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: clawpypaste<br/>Description: 适用于 Claude Code 的菜单栏代码块选择器和会话浏览器。<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
+    </item>
+    <item>
+      <title>Parakey</title>
+      <link>https://github.com/rcourtman/parakey</link>
+      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
+      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Parakey
+Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。
+Open Source: https://github.com/rcourtman/parakey
+Commit: Add Parakey under Voice-to-Text (#2050)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Parakey<br/>Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
+    </item>
+    <item>
+      <title>PureSnitch</title>
+      <link>https://github.com/momenbasel/puresnitch</link>
+      <guid isPermaLink="false">369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7:PureSnitch</guid>
+      <pubDate>Mon, 25 May 2026 00:33:33 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: PureSnitch
+Description: 开源应用防火墙，提供类似 Little Snitch 的世界地图、规则管理、DNS over HTTPS 和基于 pf 的拦截，并且无遥测。
+Open Source: https://github.com/momenbasel/puresnitch
+Commit: Add PureSnitch (#2089)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: PureSnitch<br/>Description: 开源应用防火墙，提供类似 Little Snitch 的世界地图、规则管理、DNS over HTTPS 和基于 pf 的拦截，并且无遥测。<br/>Open Source: https://github.com/momenbasel/puresnitch<br/>Commit: Add PureSnitch (#2089)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7]]></content:encoded>
+    </item>
+    <item>
+      <title>Live Translator</title>
+      <link>https://github.com/umutcetinkaya/live-translator</link>
+      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
+      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
+      <category>翻译工具</category>
+      <description>Category: 翻译工具
+App: Live Translator
+Description: 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。
+Open Source: https://github.com/umutcetinkaya/live-translator
+Commit: Add Live Translator to zh/ja/ko translation tools
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
+      <content:encoded><![CDATA[Category: 翻译工具<br/>App: Live Translator<br/>Description: 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
+    </item>
+    <item>
+      <title>Papr</title>
+      <link>https://github.com/l0ng-ai/papr</link>
+      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
+      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
+      <category>阅读与写作工具 / RSS</category>
+      <description>Category: 阅读与写作工具 / RSS
+App: Papr
+Description: 排版可调、键盘驱动的 RSS 阅读器，高亮可导出到 Readwise、Notion 和 Obsidian。
+Open Source: https://github.com/l0ng-ai/papr
+Commit: Add Papr to RSS (#2083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / RSS<br/>App: Papr<br/>Description: 排版可调、键盘驱动的 RSS 阅读器，高亮可导出到 Readwise、Notion 和 Obsidian。<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
+    </item>
+    <item>
+      <title>Muxy</title>
+      <link>https://github.com/muxy-app/muxy</link>
+      <guid isPermaLink="false">c07bf2d710be55b98e49a83d560a88cd200a995a:Muxy</guid>
+      <pubDate>Tue, 19 May 2026 22:24:43 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Muxy
+Description: AI 原生的终端，具有项目管理、分割窗格、Git 集成、AI 用量追踪和 200+ 主题。
+Open Source: https://github.com/muxy-app/muxy
+Commit: Add Muxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Muxy<br/>Description: AI 原生的终端，具有项目管理、分割窗格、Git 集成、AI 用量追踪和 200+ 主题。<br/>Open Source: https://github.com/muxy-app/muxy<br/>Commit: Add Muxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07bf2d710be55b98e49a83d560a88cd200a995a]]></content:encoded>
+    </item>
+    <item>
+      <title>Dimsum</title>
+      <link>https://github.com/nshi/dimsum</link>
+      <guid isPermaLink="false">c6cd5546dd85d1ae13b7fe842289afa327dd38b4:Dimsum</guid>
+      <pubDate>Sun, 17 May 2026 10:49:37 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Dimsum
+Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。
+Open Source: https://github.com/nshi/dimsum
+Commit: Add Dimsum (#2030)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Dimsum<br/>Description: 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapback</title>
+      <link>https://snapbackapp.com</link>
+      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
+      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Snapback
+Description: 通过一次按键操作保存和恢复整个窗口布局。
+Website: https://snapbackapp.com
+Commit: Add Snapback to Window Management section (#2058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Snapback<br/>Description: 通过一次按键操作保存和恢复整个窗口布局。<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
+    </item>
     <item>
       <title>SSH Keys Manager</title>
       <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
@@ -399,314 +707,6 @@ Open Source: https://github.com/momenbasel/PureMac
 Commit: Add PureMac to the ja/ko/zh list. #1973
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: PureMac<br/>Description: 免费开源的系统清理工具，无遥测功能。<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to the ja/ko/zh list. #1973<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f]]></content:encoded>
-    </item>
-    <item>
-      <title>LiteEdit</title>
-      <link>https://arietan.github.io/lite-edit/</link>
-      <guid isPermaLink="false">9f29ab1e9bc70b7a95af20829ca5c3366106ef0b:LiteEdit</guid>
-      <pubDate>Thu, 09 Apr 2026 04:14:08 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: LiteEdit
-Description: 轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。
-Website: https://arietan.github.io/lite-edit/
-Commit: Add LiteEdit to the ja/ko/zh list. #1970
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: LiteEdit<br/>Description: 轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
-    </item>
-    <item>
-      <title>SuperCmd</title>
-      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
-      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
-      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: SuperCmd
-Description: 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。
-Open Source: https://github.com/SuperCmdLabs/SuperCmd
-Commit: Add SuperCmd
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SuperCmd<br/>Description: 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
-    </item>
-    <item>
-      <title>Recordly</title>
-      <link>https://recordly.dev/</link>
-      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
-      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
-      <category>设计和产品 / 屏幕录制</category>
-      <description>Category: 设计和产品 / 屏幕录制
-App: Recordly
-Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。
-Website: https://recordly.dev/
-Commit: Add Recordly
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Recordly<br/>Description: 用于制作演示、教程和产品视频的开源录屏与编辑工具。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
-    </item>
-    <item>
-      <title>Lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
-      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: Lap
-Description: 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。
-Open Source: https://github.com/julyx10/lap
-Commit: Add Lap fix #1969
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Lap<br/>Description: 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
-    </item>
-    <item>
-      <title>CompressO</title>
-      <link>https://github.com/codeforreal1/compressO</link>
-      <guid isPermaLink="false">8bf6add2922e6c7ab7d3fa0564ecaf556296821a:CompressO</guid>
-      <pubDate>Tue, 07 Apr 2026 03:35:21 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: CompressO
-Description: 一款用于压缩视频和图片体积的开源工具。
-Open Source: https://github.com/codeforreal1/compressO
-Commit: Add CompressO
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: CompressO<br/>Description: 一款用于压缩视频和图片体积的开源工具。<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
-    </item>
-    <item>
-      <title>Cadran</title>
-      <link>https://cadranapp.com</link>
-      <guid isPermaLink="false">9e81d475101acb1f6db37b5c062000d9b2739631:Cadran</guid>
-      <pubDate>Tue, 07 Apr 2026 01:25:48 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Cadran
-Description: 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
-Website: https://cadranapp.com
-Commit: Add Cadran to Utilities &gt; General Tools (#1914)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Cadran<br/>Description: 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
-    </item>
-    <item>
-      <title>DevUtils.app</title>
-      <link>https://devutils.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:DevUtils.app</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: DevUtils.app
-Description: 用于格式化、转换和调试常见数据的开发者工具箱。
-Website: https://devutils.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: DevUtils.app<br/>Description: 用于格式化、转换和调试常见数据的开发者工具箱。<br/>Website: https://devutils.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Grayscale Mode</title>
-      <link>https://github.com/rkbhochalya/grayscale-mode</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Grayscale Mode</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Grayscale Mode
-Description: 通过菜单栏或快捷键快速切换灰度显示。
-Open Source: https://github.com/rkbhochalya/grayscale-mode
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Grayscale Mode<br/>Description: 通过菜单栏或快捷键快速切换灰度显示。<br/>Open Source: https://github.com/rkbhochalya/grayscale-mode<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Seodisias</title>
-      <link>https://seodisias.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Seodisias</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Seodisias
-Description: 用于扫描站点技术 SEO 问题的网站分析工具。
-Website: https://seodisias.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Seodisias<br/>Description: 用于扫描站点技术 SEO 问题的网站分析工具。<br/>Website: https://seodisias.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Sensei</title>
-      <link>https://sensei.app/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Sensei</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Sensei
-Description: 提供监控、清理和硬件诊断的性能管理工具。
-Website: https://sensei.app/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Sensei<br/>Description: 提供监控、清理和硬件诊断的性能管理工具。<br/>Website: https://sensei.app/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SteerMouse</title>
-      <link>https://plentycom.jp/en/steermouse/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SteerMouse</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: SteerMouse
-Description: 自定义鼠标按键、滚轮和指针速度的工具。
-Website: https://plentycom.jp/en/steermouse/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SteerMouse<br/>Description: 自定义鼠标按键、滚轮和指针速度的工具。<br/>Website: https://plentycom.jp/en/steermouse/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>MakeItHome</title>
-      <link>https://github.com/Geckos-Ink/MakeItHome</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:MakeItHome</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: MakeItHome
-Description: 将屏幕边缘扩展为可用鼠标触发的快捷操作区。
-Open Source: https://github.com/Geckos-Ink/MakeItHome
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: MakeItHome<br/>Description: 将屏幕边缘扩展为可用鼠标触发的快捷操作区。<br/>Open Source: https://github.com/Geckos-Ink/MakeItHome<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Swift Shift</title>
-      <link>https://swiftshift.app</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Swift Shift</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Swift Shift
-Description: 通过快捷键和鼠标快速移动、调整窗口大小。
-Website: https://swiftshift.app
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Swift Shift<br/>Description: 通过快捷键和鼠标快速移动、调整窗口大小。<br/>Website: https://swiftshift.app<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Tiles</title>
-      <link>https://freemacsoft.net/tiles/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Tiles</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Tiles
-Description: 通过贴边、快捷键或菜单栏整理窗口。
-Website: https://freemacsoft.net/tiles/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Tiles<br/>Description: 通过贴边、快捷键或菜单栏整理窗口。<br/>Website: https://freemacsoft.net/tiles/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>yabai</title>
-      <link>https://github.com/koekeishiya/yabai</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:yabai</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: yabai
-Description: 键盘驱动的平铺式窗口管理器。
-Open Source: https://github.com/koekeishiya/yabai
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: yabai<br/>Description: 键盘驱动的平铺式窗口管理器。<br/>Open Source: https://github.com/koekeishiya/yabai<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Strongbox</title>
-      <link>https://strongboxsafe.com/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Strongbox</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / 密码管理</category>
-      <description>Category: 其它实用工具 / 密码管理
-App: Strongbox
-Description: 兼容 KeePass 和 Password Safe 的密码管理器。
-Website: https://strongboxsafe.com/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 密码管理<br/>App: Strongbox<br/>Description: 兼容 KeePass 和 Password Safe 的密码管理器。<br/>Website: https://strongboxsafe.com/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Modal File Manager</title>
-      <link>https://github.com/raguay/ModalFileManager/</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Modal File Manager</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: Modal File Manager
-Description: 带 Vim 风格快捷键的双栏文件管理器。
-Open Source: https://github.com/raguay/ModalFileManager/
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Modal File Manager<br/>Description: 带 Vim 风格快捷键的双栏文件管理器。<br/>Open Source: https://github.com/raguay/ModalFileManager/<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Oka Unarchiver</title>
-      <link>https://okaapps.com/product/1441507725</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Oka Unarchiver</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: Oka Unarchiver
-Description: 支持 RAR、批量解压和加密压缩包的归档工具。
-Website: https://okaapps.com/product/1441507725
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Oka Unarchiver<br/>Description: 支持 RAR、批量解压和加密压缩包的归档工具。<br/>Website: https://okaapps.com/product/1441507725<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>SaneClick</title>
-      <link>https://saneclick.com</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:SaneClick</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: SaneClick
-Description: 为 Finder 右键菜单增加文件处理、转换和开发者操作。
-Website: https://saneclick.com
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: SaneClick<br/>Description: 为 Finder 右键菜单增加文件处理、转换和开发者操作。<br/>Website: https://saneclick.com<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>RoyalTSX</title>
-      <link>https://www.royalapps.com/ts/mac/features</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:RoyalTSX</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>远程协助</category>
-      <description>Category: 远程协助
-App: RoyalTSX
-Description: 管理多种协议远程连接的客户端。
-Website: https://www.royalapps.com/ts/mac/features
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: 远程协助<br/>App: RoyalTSX<br/>Description: 管理多种协议远程连接的客户端。<br/>Website: https://www.royalapps.com/ts/mac/features<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Slant</title>
-      <link>https://www.slant.co</link>
-      <guid isPermaLink="false">f53df8e06d3ac07dc1c60aedb50728ea7c426f26:Slant</guid>
-      <pubDate>Sun, 05 Apr 2026 07:37:24 GMT</pubDate>
-      <category>Mac软件下载网站 / 正版/介绍</category>
-      <description>Category: Mac软件下载网站 / 正版/介绍
-App: Slant
-Description: 用于比较软件并查看社区推荐的平台。
-Website: https://www.slant.co
-Commit: docs: refresh multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26</description>
-      <content:encoded><![CDATA[Category: Mac软件下载网站 / 正版/介绍<br/>App: Slant<br/>Description: 用于比较软件并查看社区推荐的平台。<br/>Website: https://www.slant.co<br/>Commit: docs: refresh multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f53df8e06d3ac07dc1c60aedb50728ea7c426f26]]></content:encoded>
-    </item>
-    <item>
-      <title>Mullvad VPN</title>
-      <link>https://mullvad.net</link>
-      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:Mullvad VPN</guid>
-      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Mullvad VPN
-Description: 注重隐私、支持匿名账号的 VPN 服务。
-Website: https://mullvad.net
-Commit: doc: Update multilingual app descriptions
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Mullvad VPN<br/>Description: 注重隐私、支持匿名账号的 VPN 服务。<br/>Website: https://mullvad.net<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
     </item>
   </channel>
 </rss>
