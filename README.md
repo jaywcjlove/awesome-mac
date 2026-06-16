@@ -1133,6 +1133,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9.
 * [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
+* [TrustTunnel](https://trusttunnel.org/) - A modern, open-source VPN protocol originally developed by AdGuard VPN. [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - Simple VPN service for secure browsing and location switching. ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]

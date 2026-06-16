@@ -1129,6 +1129,7 @@ Awesome Mac
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - macOS用のルールベースプロキシアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - iOS 9用のWeb開発者ツールおよびプロキシユーティリティ。
 * [tinc](https://www.tinc-vpn.org) - セキュアなメッシュVPNソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
+* [TrustTunnel](https://trusttunnel.org/) - 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。 [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 安全なブラウジングと地域切り替えができるシンプルなVPNサービス。 ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OS X上のOpenVPN用の無料のオープンソースグラフィカルユーザーインターフェース。 ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 特定のドメインやサービスの通信をVPN経由から除外できるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
