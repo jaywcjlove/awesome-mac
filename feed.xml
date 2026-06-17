@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Jun 2026 12:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:55:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MaCursor</title>
+      <link>https://github.com/writronic/MaCursor</link>
+      <guid isPermaLink="false">7ccc07cf7274c9f37cb7eb88941543f551f822b5:MaCursor</guid>
+      <pubDate>Wed, 17 Jun 2026 03:55:26 GMT</pubDate>
+      <category>Utilities / Quality of Life Improvements</category>
+      <description>Category: Utilities / Quality of Life Improvements
+App: MaCursor
+Description: Custom cursor themes for macOS.
+Open Source: https://github.com/writronic/MaCursor
+Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5</description>
+      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: MaCursor<br/>Description: Custom cursor themes for macOS.<br/>Open Source: https://github.com/writronic/MaCursor<br/>Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5]]></content:encoded>
+    </item>
     <item>
       <title>Cate</title>
       <link>https://cate.cero-ai.com</link>
@@ -693,20 +707,6 @@ Website: https://recordly.dev/
 Commit: Add Recordly
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
       <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Recordly<br/>Description: Open-source screen recorder and editor for polished demos, tutorials, and product videos.<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
-    </item>
-    <item>
-      <title>Lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
-      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Lap
-Description: Local photo manager for browsing and organizing personal media libraries offline.
-Open Source: https://github.com/julyx10/lap
-Commit: Add Lap fix #1969
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Lap<br/>Description: Local photo manager for browsing and organizing personal media libraries offline.<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
     </item>
   </channel>
 </rss>
