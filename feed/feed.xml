@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TrustTunnel</title>
+      <link>https://trusttunnel.org/</link>
+      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
+      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
+      <category>Proxy and VPN Tools</category>
+      <description>Category: Proxy and VPN Tools
+App: TrustTunnel
+Description: A modern, open-source VPN protocol originally developed by AdGuard VPN.
+Website: https://trusttunnel.org/
+Commit: Add TrustTunnel to VPN list (#2193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
+      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: TrustTunnel<br/>Description: A modern, open-source VPN protocol originally developed by AdGuard VPN.<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
+    </item>
     <item>
       <title>MaCursor</title>
       <link>https://github.com/writronic/MaCursor</link>
@@ -693,20 +707,6 @@ Website: https://arietan.github.io/lite-edit/
 Commit: Add LiteEdit to Text Editors (#1970)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LiteEdit<br/>Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to Text Editors (#1970)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83]]></content:encoded>
-    </item>
-    <item>
-      <title>Recordly</title>
-      <link>https://recordly.dev/</link>
-      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
-      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
-      <category>Design and Product / Screen Recording</category>
-      <description>Category: Design and Product / Screen Recording
-App: Recordly
-Description: Open-source screen recorder and editor for polished demos, tutorials, and product videos.
-Website: https://recordly.dev/
-Commit: Add Recordly
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Recordly<br/>Description: Open-source screen recorder and editor for polished demos, tutorials, and product videos.<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
     </item>
   </channel>
 </rss>

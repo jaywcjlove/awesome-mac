@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TrustTunnel</title>
+      <link>https://trusttunnel.org/</link>
+      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
+      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
+      <category>プロキシ・VPNツール</category>
+      <description>Category: プロキシ・VPNツール
+App: TrustTunnel
+Description: 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。
+Website: https://trusttunnel.org/
+Commit: Add TrustTunnel to VPN list (#2193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
+      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: TrustTunnel<br/>Description: 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
+    </item>
     <item>
       <title>MaCursor</title>
       <link>https://github.com/writronic/MaCursor</link>
@@ -693,20 +707,6 @@ Website: https://recordly.dev/
 Commit: Add Recordly
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Recordly<br/>Description: デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
-    </item>
-    <item>
-      <title>Lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
-      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
-      <category>デザインとプロダクト / その他のツール</category>
-      <description>Category: デザインとプロダクト / その他のツール
-App: Lap
-Description: 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。
-Open Source: https://github.com/julyx10/lap
-Commit: Add Lap fix #1969
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Lap<br/>Description: 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
     </item>
   </channel>
 </rss>

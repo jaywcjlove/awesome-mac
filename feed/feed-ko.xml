@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TrustTunnel</title>
+      <link>https://trusttunnel.org/</link>
+      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
+      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: TrustTunnel
+Description: 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다.
+Website: https://trusttunnel.org/
+Commit: Add TrustTunnel to VPN list (#2193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: TrustTunnel<br/>Description: 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다.<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
+    </item>
     <item>
       <title>MaCursor</title>
       <link>https://github.com/writronic/MaCursor</link>
@@ -693,20 +707,6 @@ Website: https://arietan.github.io/lite-edit/
 Commit: Add LiteEdit to the ja/ko/zh list. #1970
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 텍스트 편집기<br/>App: LiteEdit<br/>Description: 1MB 미만의 경량 네이티브 코드 편집기, 구문 강조와 파일 트리 제공.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
-    </item>
-    <item>
-      <title>SuperCmd</title>
-      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
-      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
-      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: SuperCmd
-Description: Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처.
-Open Source: https://github.com/SuperCmdLabs/SuperCmd
-Commit: Add SuperCmd
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: SuperCmd<br/>Description: Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처.<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
     </item>
   </channel>
 </rss>

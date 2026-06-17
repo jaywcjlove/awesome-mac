@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TrustTunnel</title>
+      <link>https://trusttunnel.org/</link>
+      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
+      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: TrustTunnel
+Description: 现代开源 VPN 协议，最初由 AdGuard VPN 开发。
+Website: https://trusttunnel.org/
+Commit: Add TrustTunnel to VPN list (#2193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: TrustTunnel<br/>Description: 现代开源 VPN 协议，最初由 AdGuard VPN 开发。<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
+    </item>
     <item>
       <title>MaCursor</title>
       <link>https://github.com/writronic/MaCursor</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/yefga/Switzy
 Commit: Add Switzy to the ja/ko/zh list #1979
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Switzy<br/>Description: 用于切换 Git 身份并管理 SSH 密钥的开源工具。<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
-    </item>
-    <item>
-      <title>Rockxy</title>
-      <link>https://github.com/LocNguyenHuu/Rockxy</link>
-      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
-      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
-      <category>开发者工具 / 网络分析</category>
-      <description>Category: 开发者工具 / 网络分析
-App: Rockxy
-Description: 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。
-Open Source: https://github.com/LocNguyenHuu/Rockxy
-Commit: Add Rockxy
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: Rockxy<br/>Description: 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
     </item>
   </channel>
 </rss>
