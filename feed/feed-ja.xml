@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:19:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Agent Island</title>
+      <link>https://github.com/tristan666666/agent-island</link>
+      <guid isPermaLink="false">f1b3f9828b2dc0db4a1da09242df13fb620e2f0c:Agent Island</guid>
+      <pubDate>Thu, 18 Jun 2026 11:19:31 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Agent Island
+Description: MacBookのノッチにClaude CodeとCodexのセッション状態を表示し、選択した長時間タスクを自動再開できるツール。
+Open Source: https://github.com/tristan666666/agent-island
+Commit: Add Agent Island (#2199)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Agent Island<br/>Description: MacBookのノッチにClaude CodeとCodexのセッション状態を表示し、選択した長時間タスクを自動再開できるツール。<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
+    </item>
     <item>
       <title>TrustTunnel</title>
       <link>https://trusttunnel.org/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/SuperCmdLabs/SuperCmd
 Commit: Add SuperCmd
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: SuperCmd<br/>Description: Raycast互換拡張、音声ワークフロー、読み上げ、メモリ、AIアクションを備えたオープンソースランチャー。<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
-    </item>
-    <item>
-      <title>Recordly</title>
-      <link>https://recordly.dev/</link>
-      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
-      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
-      <category>デザインとプロダクト / 画面録画</category>
-      <description>Category: デザインとプロダクト / 画面録画
-App: Recordly
-Description: デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。
-Website: https://recordly.dev/
-Commit: Add Recordly
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Recordly<br/>Description: デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
     </item>
   </channel>
 </rss>

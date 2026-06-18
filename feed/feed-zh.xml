@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:19:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Agent Island</title>
+      <link>https://github.com/tristan666666/agent-island</link>
+      <guid isPermaLink="false">f1b3f9828b2dc0db4a1da09242df13fb620e2f0c:Agent Island</guid>
+      <pubDate>Thu, 18 Jun 2026 11:19:31 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Agent Island
+Description: 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。
+Open Source: https://github.com/tristan666666/agent-island
+Commit: Add Agent Island (#2199)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Agent Island<br/>Description: 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
+    </item>
     <item>
       <title>TrustTunnel</title>
       <link>https://trusttunnel.org/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/sozercan/kaset
 Commit: Add Kaset to the zh/ja/ko list #1977
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 流媒体音乐播放器<br/>App: Kaset<br/>Description: 支持资料库、歌词和播客的开源 YouTube Music 客户端。<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
-    </item>
-    <item>
-      <title>Switzy</title>
-      <link>https://github.com/yefga/Switzy</link>
-      <guid isPermaLink="false">f8f53616b1ec8448a2546784016cbbef537baa29:Switzy</guid>
-      <pubDate>Fri, 10 Apr 2026 12:09:33 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Switzy
-Description: 用于切换 Git 身份并管理 SSH 密钥的开源工具。
-Open Source: https://github.com/yefga/Switzy
-Commit: Add Switzy to the ja/ko/zh list #1979
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Switzy<br/>Description: 用于切换 Git 身份并管理 SSH 密钥的开源工具。<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
     </item>
   </channel>
 </rss>
