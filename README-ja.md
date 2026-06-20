@@ -398,6 +398,7 @@ Awesome Mac
 * [DiffMerge](http://sourcegear.com/diffmerge/) - ファイルの視覚的な比較とマージを行うアプリケーション。 ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 環境変数用のOS Xプリファレンスペイン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finderからターミナルを素早く開く。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
+* [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 言語、データベース、サービスを管理できるローカル開発環境ツール。 [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Finicky](https://johnste.github.io/finicky/) - リンクごとに開くブラウザを決めるルールを設定できるツール。 [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Mac OS X用のシンプルなhostsファイルマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)

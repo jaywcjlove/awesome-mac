@@ -373,6 +373,7 @@ Awesome Mac
 * [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
+* [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]

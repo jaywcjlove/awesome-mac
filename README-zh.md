@@ -241,6 +241,7 @@ Awesome Mac
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把 swf 转为 HTML5 canvas 动画的系统。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder 中快速打开终端，定位到目录 [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
+* [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 用于管理语言、数据库和服务的本地开发环境工具。 [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行。![Freeware][Freeware Icon]
