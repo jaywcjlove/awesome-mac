@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:33:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tintpad</title>
+      <link>https://github.com/sorkila/tintpad</link>
+      <guid isPermaLink="false">6caec1eb50a74f4503af2901213c7cde6ae344c2:Tintpad</guid>
+      <pubDate>Sat, 20 Jun 2026 16:33:16 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Tintpad
+Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
+Open Source: https://github.com/sorkila/tintpad
+Commit: Add Tintpad (Developer Utilities) (#2206)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Tintpad<br/>Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.<br/>Open Source: https://github.com/sorkila/tintpad<br/>Commit: Add Tintpad (Developer Utilities) (#2206)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2]]></content:encoded>
+    </item>
     <item>
       <title>Agent Island</title>
       <link>https://github.com/tristan666666/agent-island</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/LocNguyenHuu/Rockxy
 Commit: Add Rockxy
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 네트워크 분석<br/>App: Rockxy<br/>Description: 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
-    </item>
-    <item>
-      <title>PureMac</title>
-      <link>https://github.com/momenbasel/PureMac</link>
-      <guid isPermaLink="false">6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f:PureMac</guid>
-      <pubDate>Thu, 09 Apr 2026 05:47:32 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: PureMac
-Description: 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구.
-Open Source: https://github.com/momenbasel/PureMac
-Commit: Add PureMac to the ja/ko/zh list. #1973
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: PureMac<br/>Description: 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구.<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to the ja/ko/zh list. #1973<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f]]></content:encoded>
     </item>
   </channel>
 </rss>
