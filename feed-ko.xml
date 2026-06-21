@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:00:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JsonStudio</title>
+      <link>https://jsonstudio.js.org/</link>
+      <guid isPermaLink="false">21fe432c4601693abd676f4279e1f834f0c5d759:JsonStudio</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:20 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: JsonStudio
+Description: JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스.
+Website: https://jsonstudio.js.org/
+Commit: Add JsonStudio (#2209)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: JsonStudio<br/>Description: JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스.<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
+    </item>
     <item>
       <title>Tintpad</title>
       <link>https://github.com/sorkila/tintpad</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/yefga/Switzy
 Commit: Add Switzy to the ja/ko/zh list #1979
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Switzy<br/>Description: Git 신원 전환과 SSH 키 관리를 위한 오픈 소스 도구입니다.<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
-    </item>
-    <item>
-      <title>Rockxy</title>
-      <link>https://github.com/LocNguyenHuu/Rockxy</link>
-      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
-      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
-      <category>개발 도구 / 네트워크 분석</category>
-      <description>Category: 개발 도구 / 네트워크 분석
-App: Rockxy
-Description: 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다.
-Open Source: https://github.com/LocNguyenHuu/Rockxy
-Commit: Add Rockxy
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 네트워크 분석<br/>App: Rockxy<br/>Description: 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
     </item>
   </channel>
 </rss>
