@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:00:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JsonStudio</title>
+      <link>https://jsonstudio.js.org/</link>
+      <guid isPermaLink="false">21fe432c4601693abd676f4279e1f834f0c5d759:JsonStudio</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:20 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: JsonStudio
+Description: 本地优先的 JSON 工作台，支持格式化、编辑、对比、转换、校验和从日志中提取 JSON。
+Website: https://jsonstudio.js.org/
+Commit: Add JsonStudio (#2209)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: JsonStudio<br/>Description: 本地优先的 JSON 工作台，支持格式化、编辑、对比、转换、校验和从日志中提取 JSON。<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
+    </item>
     <item>
       <title>Tintpad</title>
       <link>https://github.com/sorkila/tintpad</link>
@@ -693,20 +707,6 @@ Website: https://www.screenkite.com/
 Commit: Add ScreenKite (#1984)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: ScreenKite<br/>Description: 原生屏幕录制和编辑工具，支持自动缩放、AI 增强、设备模型和提词器。<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
-    </item>
-    <item>
-      <title>Capso</title>
-      <link>https://github.com/lzhgus/Capso</link>
-      <guid isPermaLink="false">128e8f614ad79ada6e353dff19a4f4bb915a1f2c:Capso</guid>
-      <pubDate>Sat, 11 Apr 2026 05:59:19 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Capso
-Description: 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。
-Open Source: https://github.com/lzhgus/Capso
-Commit: Add Capso #1982
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Capso<br/>Description: 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso #1982<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c]]></content:encoded>
     </item>
   </channel>
 </rss>

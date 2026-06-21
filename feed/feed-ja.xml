@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:00:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JsonStudio</title>
+      <link>https://jsonstudio.js.org/</link>
+      <guid isPermaLink="false">21fe432c4601693abd676f4279e1f834f0c5d759:JsonStudio</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:20 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: JsonStudio
+Description: JSONの整形、編集、差分、変換、検証、ログからの抽出に対応したローカル優先のJSONワークスペース。
+Website: https://jsonstudio.js.org/
+Commit: Add JsonStudio (#2209)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: JsonStudio<br/>Description: JSONの整形、編集、差分、変換、検証、ログからの抽出に対応したローカル優先のJSONワークスペース。<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
+    </item>
     <item>
       <title>Tintpad</title>
       <link>https://github.com/sorkila/tintpad</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/PureMac
 Commit: Add PureMac to the ja/ko/zh list. #1973
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: PureMac<br/>Description: テレメトリーなしの無料オープンソースシステムクリーナー。<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to the ja/ko/zh list. #1973<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e5a3f76f6fbd0b1a5ba353be56e0eef0d2ba90f]]></content:encoded>
-    </item>
-    <item>
-      <title>LiteEdit</title>
-      <link>https://arietan.github.io/lite-edit/</link>
-      <guid isPermaLink="false">9f29ab1e9bc70b7a95af20829ca5c3366106ef0b:LiteEdit</guid>
-      <pubDate>Thu, 09 Apr 2026 04:14:08 GMT</pubDate>
-      <category>読み書きツール / テキストエディタ</category>
-      <description>Category: 読み書きツール / テキストエディタ
-App: LiteEdit
-Description: 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。
-Website: https://arietan.github.io/lite-edit/
-Commit: Add LiteEdit to the ja/ko/zh list. #1970
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / テキストエディタ<br/>App: LiteEdit<br/>Description: 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to the ja/ko/zh list. #1970<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f29ab1e9bc70b7a95af20829ca5c3366106ef0b]]></content:encoded>
     </item>
   </channel>
 </rss>

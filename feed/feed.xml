@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:00:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JsonStudio</title>
+      <link>https://jsonstudio.js.org/</link>
+      <guid isPermaLink="false">21fe432c4601693abd676f4279e1f834f0c5d759:JsonStudio</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:20 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: JsonStudio
+Description: Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.
+Website: https://jsonstudio.js.org/
+Commit: Add JsonStudio (#2209)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: JsonStudio<br/>Description: Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
+    </item>
     <item>
       <title>Tintpad</title>
       <link>https://github.com/sorkila/tintpad</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/LocNguyenHuu/Rockxy
 Commit: Add Rockxy
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
       <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Rockxy<br/>Description: Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
-    </item>
-    <item>
-      <title>PureMac</title>
-      <link>https://github.com/momenbasel/PureMac</link>
-      <guid isPermaLink="false">0fb3932f0370da154a177e282fc5cde6e96ea8a6:PureMac</guid>
-      <pubDate>Thu, 09 Apr 2026 05:34:34 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: PureMac
-Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
-Open Source: https://github.com/momenbasel/PureMac
-Commit: Add PureMac to Cleanup and Uninstall section (#1973)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: PureMac<br/>Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to Cleanup and Uninstall section (#1973)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6]]></content:encoded>
     </item>
   </channel>
 </rss>
