@@ -412,6 +412,7 @@ Awesome Mac
 * [ILLA Cloud](https://www.illacloud.com/) - ローコードの社内ツールビルダー。 [![Open-Source Software][OSS Icon]](https://github.com/illacloud/illa-builder)
 * [ImHex](https://imhex.werwolv.net/) - リバースエンジニアやプログラマー向けのHexエディター。 [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Mac用の無料ウェブサイトリンクチェッカー。 ![Freeware][Freeware Icon]
+* [JsonStudio](https://jsonstudio.js.org/) - JSONの整形、編集、差分、変換、検証、ログからの抽出に対応したローカル優先のJSONワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - テキスト、画像、フォルダーを比較するツール。
 * [Koala](http://koala-app.com) - Less、Sass、Compass、CoffeeScriptコンパイル用のGUIアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - アプリの翻訳を分析、レビュー、編集するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707?platform=mac)

@@ -381,6 +381,7 @@ Awesome Mac
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [ImHex](https://imhex.werwolv.net/) - 역공학 및 프로그래머를 위한 16진수 편집기. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 메타데이터, TestFlight, 리뷰, 분석, 현지화를 관리하는 App Store Connect 도구. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
+* [JsonStudio](https://jsonstudio.js.org/) - JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [LINQPad](https://www.linqpad.net/) - 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드. ![Freeware][Freeware Icon]
