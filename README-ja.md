@@ -1001,6 +1001,7 @@ Awesome Mac
 * [Kawa](https://github.com/utatti/kawa) - OS X用のより良い入力ソース切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 間違ったキーボード配列で入力した文字を変換するツール。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Slackスタイルのショートカットを使用して絵文字入力をより速く簡単にする。 ![Freeware][Freeware Icon]
+* [RuSwitcher](https://github.com/rashn/RuSwitcher) - 間違ったキーボード配列で入力した文字を変換するレイアウトスイッチャー。任意の2つの配列に対応、テレメトリなし。 [![Open-Source Software][OSS Icon]](https://github.com/rashn/RuSwitcher) ![Freeware][Freeware Icon]
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - MacBook Pro Touch Bar用の絵文字ピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - MacをiPhone、iPad、Apple TVのキーボードとして使用。
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - macOSのGlobeキーをもっと便利に！ [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]

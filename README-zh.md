@@ -960,6 +960,7 @@ Awesome Mac
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 用于纠正错误键盘布局输入文本的转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
+* [RuSwitcher](https://github.com/rashn/RuSwitcher) - 纠正用错误键盘布局输入文本的布局切换器，支持任意两种布局，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/rashn/RuSwitcher) ![Freeware][Freeware Icon]
 * [Type2Phone](https://www.houdah.com/support/) - 把 Macbook 键盘变为 iPhone 的蓝牙键盘。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?platform=mac)
 * [WBIM](http://www.glamtime.com.cn/wbim) - 五笔输入法。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?platform=mac)
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。![Freeware][Freeware Icon]
