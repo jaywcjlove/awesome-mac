@@ -1221,6 +1221,7 @@ Awesome Mac
 * [Notchly](https://notchly.xyz) - 一款轻量级原生 macOS 应用，可将 MacBook 刘海变成用于实时活动、音乐、电池和自定义 HUD 的交互空间。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 无缝 Google Drive 同步的菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
+* [Headroom](https://headroom.walls.sh) - 菜单栏实时显示 Claude Code 用量：5 小时会话与 7 天每周使用百分比，接近限额时变色提醒。 [![Open-Source Software][OSS Icon]](https://github.com/patwalls/headroom) ![Freeware][Freeware Icon]
 * [HiddenBar](https://github.com/dwarvesf/hidden) - 一个超轻MacOS实用工具，帮助隐藏菜单栏图标。。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hidden-bar/id1452453066?platform=mac)
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 用快捷键和自动化管理蓝牙设备的菜单栏工具。 [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [Ice](https://github.com/jordanbaird/Ice) - 用于隐藏并整理菜单栏图标的管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
