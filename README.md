@@ -1344,6 +1344,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CurrentKey](https://currentkey.com) - Add custom names and icons to Spaces and track app usage time. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
+* [DynamicLake](https://www.dynamiclake.com) - Dynamic Island for Mac, Music, Notifications, File Tray and AirDrop, Convert, Timer and more
 * [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
 * [escrcpy](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android devices, powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
@@ -1365,6 +1366,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
 * [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
+* [Liqoria/Likoria](https://www.liqoria.com) - Beautiful Liquid Glass Music Player For Mac, Apple Music, Spotify, YouTube and more
 * [Macaify](https://macaify.com) - Fast use of ChatGPT, lightweight, clean, keyboard-first. ![Freeware][Freeware Icon]
 * [Mac Mouse Fix](https://www.mousefix.org/) - A simple way to make your mouse better. [![Open-Source Software][OSS Icon]](https://github.com/noah-nuebling/mac-mouse-fix) ![Freeware][Freeware Icon]
 * [Memo Widget](https://sindresorhus.com/memo-widget) - Sticky notes on your desktop. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)
