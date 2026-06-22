@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:09:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mysa</title>
+      <link>https://github.com/alishansnsn/mysa</link>
+      <guid isPermaLink="false">14e273dbfd26ededdb4c76acf46e3c738ac0f464:mysa</guid>
+      <pubDate>Mon, 22 Jun 2026 08:09:04 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: mysa
+Description: A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.
+Open Source: https://github.com/alishansnsn/mysa
+Commit: Add mysa (#2215)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: mysa<br/>Description: A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
+    </item>
     <item>
       <title>SiliconScope</title>
       <link>https://siliconscope.calidalab.ai</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/sozercan/kaset
 Commit: Add Kaset to the zh/ja/ko list #1977
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Kaset<br/>Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
-    </item>
-    <item>
-      <title>Switzy</title>
-      <link>https://github.com/yefga/Switzy</link>
-      <guid isPermaLink="false">d412dfe9ff0615d6289568f45dd6e812af0b5bf1:Switzy</guid>
-      <pubDate>Fri, 10 Apr 2026 12:00:18 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: Switzy
-Description: Minimalist SSH and Git profile identity management for macOS.
-Open Source: https://github.com/yefga/Switzy
-Commit: Add Switzy (#1979)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d412dfe9ff0615d6289568f45dd6e812af0b5bf1</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Switzy<br/>Description: Minimalist SSH and Git profile identity management for macOS.<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy (#1979)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d412dfe9ff0615d6289568f45dd6e812af0b5bf1]]></content:encoded>
     </item>
   </channel>
 </rss>
