@@ -708,6 +708,7 @@ Awesome Mac
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 支持多种音视频格式的媒体播放器。
 * [ffWorks](https://www.ffworks.net/) - macOS的综合媒体工具。使每个人都可以使用高质量的视频编码。
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款注重隐私的开源 YouTube 应用。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
+* [Fregata](https://fregata.app) - 基于 Frigate 的 IP 安防摄像头网络视频录像机（NVR），在 Apple 神经网络引擎上运行目标检测。
 * [Gifski](https://github.com/sindresorhus/gifski-app) - 将视频转换为高质量GIF。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
 * [HandBrake](https://handbrake.fr/) - 用于将媒体转换为现代格式的视频转码工具。[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [Hydrogen](http://hydrogen-music.org/) - 专业鼓乐类工具，创建专业但简单而直观的鼓乐节目。[![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
