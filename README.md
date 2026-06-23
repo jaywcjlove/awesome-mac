@@ -800,6 +800,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
+* [Unfoldly](https://github.com/Unary-Works/Unfoldly) - Open-source local-first AI file search for personal files with on-device indexing, visual search, and local GGUF models. [![Open-Source Software][OSS Icon]](https://github.com/Unary-Works/Unfoldly) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
