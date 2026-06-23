@@ -1248,6 +1248,7 @@ Awesome Mac
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
+* [Vibe Island](https://vibeisland.app) - 将 MacBook 刘海打造成 Claude Code、Codex、Gemini、Cursor 等 18 个 AI 编码 CLI 的控制面板，权限请求在刘海内处理，点通知跳回触发的终端窗口，每个 provider 的使用额度单独显示。 ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 
 ### 待办事项工具

@@ -896,6 +896,7 @@ Awesome Mac
 * [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Today](https://sindresorhus.com/today) - 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [Vibe Island](https://vibeisland.app) - 맥북 노치를 Claude Code, Codex, Gemini, Cursor 등 18종 AI 코딩 CLI의 컨트롤 패널로 바꿔, 권한 요청을 노치에서 처리하고, 알림 클릭으로 호출한 터미널로 복귀하며, provider별 사용 한도를 표시합니다. ![Native App][Native Icon]
 
 ### 정리 및 제거
 
