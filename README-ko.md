@@ -630,6 +630,7 @@ Awesome Mac
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 메모리와 자동화 기능을 갖춘 로컬 우선 개인 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Claude Code 사용량, 속도 제한, 비용, 활동 히트맵을 추적하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
+* [usage](https://github.com/aqua5230/usage) - 메뉴 바에서 Claude Code와 Codex의 한도, 토큰 사용량, 비용을 보여주는 도구. 로컬 파일만 읽으며 Anthropic이나 OpenAI API는 전혀 호출하지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/aqua5230/usage) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Claude의 다양한 사용량 한도를 실시간으로 모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Witsy](https://github.com/nbonamy/witsy) - 데스크톱 AI 어시스턴트 및 유니버설 MCP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/nbonamy/witsy) ![Freeware][Freeware Icon]
 * [remio](https://www.remio.ai/?utm_source=github_list) - 개인 지식 기반으로 답변하는 로컬 우선 AI 채팅 클라이언트. [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
