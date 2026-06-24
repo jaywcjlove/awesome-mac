@@ -803,6 +803,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
+* [MLX Core](https://ddalcu.github.io/mlx-serve/) - Native menu-bar app to run any LLM locally on Apple Silicon (MLX + GGUF), with chat, agent mode, and tool calling, plus an OpenAI- and Anthropic-compatible local server. [![Open-Source Software][OSS Icon]](https://github.com/ddalcu/mlx-serve) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - Local-first AI chat client that answers from your knowledge base.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
