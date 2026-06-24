@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vorssaint</title>
+      <link>https://vorssaint.com</link>
+      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Vorssaint
+Description: アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。
+Website: https://vorssaint.com
+Commit: Add Vorssaint to Menu Bar Tools (#2223)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Vorssaint<br/>Description: アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
+    </item>
     <item>
       <title>mysa</title>
       <link>https://github.com/alishansnsn/mysa</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/sozercan/kaset
 Commit: Add Kaset to the zh/ja/ko list #1977
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Kaset<br/>Description: ライブラリ、歌詞、ポッドキャストに対応したオープンソースのYouTube Musicクライアント。<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
-    </item>
-    <item>
-      <title>Switzy</title>
-      <link>https://github.com/yefga/Switzy</link>
-      <guid isPermaLink="false">f8f53616b1ec8448a2546784016cbbef537baa29:Switzy</guid>
-      <pubDate>Fri, 10 Apr 2026 12:09:33 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: Switzy
-Description: Gitアイデンティティの切り替えとSSHキー管理のためのオープンソースツール。
-Open Source: https://github.com/yefga/Switzy
-Commit: Add Switzy to the ja/ko/zh list #1979
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Switzy<br/>Description: Gitアイデンティティの切り替えとSSHキー管理のためのオープンソースツール。<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy to the ja/ko/zh list #1979<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8f53616b1ec8448a2546784016cbbef537baa29]]></content:encoded>
     </item>
   </channel>
 </rss>

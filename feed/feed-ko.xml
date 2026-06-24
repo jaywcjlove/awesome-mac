@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vorssaint</title>
+      <link>https://vorssaint.com</link>
+      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Vorssaint
+Description: 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음.
+Website: https://vorssaint.com
+Commit: Add Vorssaint to Menu Bar Tools (#2223)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Vorssaint<br/>Description: 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음.<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
+    </item>
     <item>
       <title>mysa</title>
       <link>https://github.com/alishansnsn/mysa</link>
@@ -693,20 +707,6 @@ Website: https://www.screenkite.com/
 Commit: Add ScreenKite (#1984)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: ScreenKite<br/>Description: 자동 줌, AI 향상, 디바이스 목업, 텔레프롬프터 기능을 갖춘 네이티브 화면 녹화 및 편집 도구입니다.<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
-    </item>
-    <item>
-      <title>Capso</title>
-      <link>https://github.com/lzhgus/Capso</link>
-      <guid isPermaLink="false">128e8f614ad79ada6e353dff19a4f4bb915a1f2c:Capso</guid>
-      <pubDate>Sat, 11 Apr 2026 05:59:19 GMT</pubDate>
-      <category>디자인 및 제품 / 화면 녹화</category>
-      <description>Category: 디자인 및 제품 / 화면 녹화
-App: Capso
-Description: 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다.
-Open Source: https://github.com/lzhgus/Capso
-Commit: Add Capso #1982
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: Capso<br/>Description: 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다.<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso #1982<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/128e8f614ad79ada6e353dff19a4f4bb915a1f2c]]></content:encoded>
     </item>
   </channel>
 </rss>

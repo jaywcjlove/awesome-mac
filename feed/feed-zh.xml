@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vorssaint</title>
+      <link>https://vorssaint.com</link>
+      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Vorssaint
+Description: 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。
+Website: https://vorssaint.com
+Commit: Add Vorssaint to Menu Bar Tools (#2223)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Vorssaint<br/>Description: 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
+    </item>
     <item>
       <title>mysa</title>
       <link>https://github.com/alishansnsn/mysa</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/groundwater/GhostVM
 Commit: Add GhostVM
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
       <content:encoded><![CDATA[Category: 虚拟机<br/>App: GhostVM<br/>Description: 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
-    </item>
-    <item>
-      <title>SwiftMTP</title>
-      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
-      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
-      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: SwiftMTP
-Description: 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。
-Open Source: https://github.com/Neighbor-Z/SwiftMTP
-Commit: Add SwiftMTP
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: SwiftMTP<br/>Description: 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
     </item>
   </channel>
 </rss>
