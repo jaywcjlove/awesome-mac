@@ -1403,6 +1403,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
 * [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
+* [Walter](https://walterlauncher.com) - Native launcher and Spotlight/Alfred/Raycast alternative; no Electron, no accounts, no telemetry, configured in a TOML file. [![Open-Source Software][OSS Icon]](https://github.com/ekinertac/walter) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
 
