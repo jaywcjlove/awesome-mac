@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vorssaint</title>
+      <link>https://vorssaint.com</link>
+      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
+      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Vorssaint
+Description: Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.
+Website: https://vorssaint.com
+Commit: Add Vorssaint to Menu Bar Tools (#2223)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Vorssaint<br/>Description: Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
+    </item>
     <item>
       <title>mysa</title>
       <link>https://github.com/alishansnsn/mysa</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/lzhgus/Capso
 Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Capso<br/>Description: Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 &amp; GIF recording, webcam PiP, OCR, annotations, and screenshot beautification.<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a]]></content:encoded>
-    </item>
-    <item>
-      <title>Kaset</title>
-      <link>https://github.com/sozercan/kaset</link>
-      <guid isPermaLink="false">533befd8ed6cb8fad818666f318d0b09f1674325:Kaset</guid>
-      <pubDate>Fri, 10 Apr 2026 12:31:47 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Kaset
-Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.
-Open Source: https://github.com/sozercan/kaset
-Commit: Add Kaset to the zh/ja/ko list #1977
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Kaset<br/>Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
     </item>
   </channel>
 </rss>
