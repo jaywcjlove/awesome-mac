@@ -734,6 +734,7 @@ Awesome Mac
 * [Recordia](https://sindresorhus.com/recordia) - 直接从菜单栏或使用全局键盘快捷键录制音频。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
+* [Showboard](https://showboard.app) - 原生 macOS 现场演出录音播放器，将六个来源（本地文件、nugs.net、Archive.org、Phish.in、TIDAL、Qobuz）整合到一个比特完美、无缝播放的音乐库中。
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify 和 Apple music 在状态菜单栏中显示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 用于电影、剧集、直播频道和流媒体源的媒体中心。 ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 支持音频转换和标签编辑的音乐资料库管理工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
