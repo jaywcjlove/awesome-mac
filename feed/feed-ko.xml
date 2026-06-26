@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:44:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claude Usage</title>
+      <link>https://github.com/Bread-bang/claude-usage</link>
+      <guid isPermaLink="false">0136ad87cd5608de92aca3500367e99bb9df939a:Claude Usage</guid>
+      <pubDate>Fri, 26 Jun 2026 01:44:42 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Claude Usage
+Description: Claude Code용 메뉴 막대 앱. 상태 줄에 페인별 컨텍스트를 표시하고, 세션·주간 사용량도 항상 확인 가능. usage·context 명령을 실행할 필요 없음.
+Open Source: https://github.com/Bread-bang/claude-usage
+Commit: Add Claude Usage to AI Tools (#2184)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Claude Usage<br/>Description: Claude Code용 메뉴 막대 앱. 상태 줄에 페인별 컨텍스트를 표시하고, 세션·주간 사용량도 항상 확인 가능. usage·context 명령을 실행할 필요 없음.<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
+    </item>
     <item>
       <title>Vorssaint</title>
       <link>https://vorssaint.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/CrashSystemZ/ChargeMonitor
 Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: ChargeMonitor<br/>Description: 충전 전력, 사이클 수, 완충/방전까지 남은 시간 등 실시간 배터리 정보를 메뉴 바에 표시하고 에너지 소비가 큰 앱을 강조 표시하는 유틸리티.<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
-    </item>
-    <item>
-      <title>ScreenKite</title>
-      <link>https://www.screenkite.com/</link>
-      <guid isPermaLink="false">81a0cbb3a270d994828aeae2f98e67f2f95a2026:ScreenKite</guid>
-      <pubDate>Mon, 13 Apr 2026 00:30:34 GMT</pubDate>
-      <category>디자인 및 제품 / 화면 녹화</category>
-      <description>Category: 디자인 및 제품 / 화면 녹화
-App: ScreenKite
-Description: 자동 줌, AI 향상, 디바이스 목업, 텔레프롬프터 기능을 갖춘 네이티브 화면 녹화 및 편집 도구입니다.
-Website: https://www.screenkite.com/
-Commit: Add ScreenKite (#1984)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: ScreenKite<br/>Description: 자동 줌, AI 향상, 디바이스 목업, 텔레프롬프터 기능을 갖춘 네이티브 화면 녹화 및 편집 도구입니다.<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
     </item>
   </channel>
 </rss>

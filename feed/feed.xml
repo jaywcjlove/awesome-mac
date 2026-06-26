@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Jun 2026 02:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:44:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claude Usage</title>
+      <link>https://github.com/Bread-bang/claude-usage</link>
+      <guid isPermaLink="false">0136ad87cd5608de92aca3500367e99bb9df939a:Claude Usage</guid>
+      <pubDate>Fri, 26 Jun 2026 01:44:42 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Claude Usage
+Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.
+Open Source: https://github.com/Bread-bang/claude-usage
+Commit: Add Claude Usage to AI Tools (#2184)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage<br/>Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
+    </item>
     <item>
       <title>Vorssaint</title>
       <link>https://vorssaint.com</link>
@@ -693,20 +707,6 @@ Website: https://www.screenkite.com/
 Commit: Add ScreenKite (#1984)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
       <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: ScreenKite<br/>Description: Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter.<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
-    </item>
-    <item>
-      <title>Capso</title>
-      <link>https://github.com/lzhgus/Capso</link>
-      <guid isPermaLink="false">2cca10add66fbf6c1c73f224c11e70b286c0046a:Capso</guid>
-      <pubDate>Sat, 11 Apr 2026 05:26:24 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Capso
-Description: Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 &amp; GIF recording, webcam PiP, OCR, annotations, and screenshot beautification.
-Open Source: https://github.com/lzhgus/Capso
-Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Capso<br/>Description: Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 &amp; GIF recording, webcam PiP, OCR, annotations, and screenshot beautification.<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a]]></content:encoded>
     </item>
   </channel>
 </rss>
