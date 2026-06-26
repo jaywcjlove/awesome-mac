@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:23:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pesty</title>
+      <link>https://github.com/momenbasel/pesty</link>
+      <guid isPermaLink="false">c45bbebc4b9f85db07a56cce3403ce58b4812476:Pesty</guid>
+      <pubDate>Fri, 26 Jun 2026 02:23:11 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Pesty
+Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。
+Open Source: https://github.com/momenbasel/pesty
+Commit: Add Pesty to the ja/ko/zh list. (#2229)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Pesty<br/>Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to the ja/ko/zh list. (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476]]></content:encoded>
+    </item>
     <item>
       <title>Claude Usage</title>
       <link>https://github.com/Bread-bang/claude-usage</link>
@@ -693,20 +707,6 @@ Website: https://www.typewhisper.com
 Commit: Add TypeWhisper listings
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: TypeWhisper<br/>Description: 支持全局热键的本地 Whisper 语音转文字工具。<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: MacSift
-Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: MacSift<br/>Description: 按应用分组文件并移入废纸篓的开源磁盘清理工具。<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
     </item>
   </channel>
 </rss>

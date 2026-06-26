@@ -10,6 +10,6 @@ https://jaywcjlove.github.io/awesome-mac/command-line-apps-ko.html
 https://jaywcjlove.github.io/awesome-mac/command-line-apps-ja.html
 https://jaywcjlove.github.io/awesome-mac/feed/feed.html
 https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.html
-https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.html
 https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.html
+https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.html
 https://jaywcjlove.github.io/awesome-mac/index.html
