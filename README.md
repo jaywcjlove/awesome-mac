@@ -1467,6 +1467,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Finder Tools
 
 * [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
+* [CreateFiles+](https://createfilesplus.com/) - Adds a "New File" command to the Finder context menu, toolbar, menu bar, and a keyboard shortcut, with templates and reusable Folder Packs. [![App Store][app-store Icon]](https://apps.apple.com/us/app/createfiles/id6770755091?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon].
