@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: VoxFlow
+Description: ローカル/クラウドASR、OCR、履歴、コーディングエージェントのワークフローに対応したオープンソース音声入力ワークスペース。
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: VoxFlow<br/>Description: ローカル/クラウドASR、OCR、履歴、コーディングエージェントのワークフローに対応したオープンソース音声入力ワークスペース。<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
     <item>
       <title>Pesty</title>
       <link>https://github.com/momenbasel/pesty</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/CrashSystemZ/ChargeMonitor
 Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: ChargeMonitor<br/>Description: 充電電力、サイクル数、充電/放電までの時間などリアルタイムのバッテリー情報をメニューバーに表示し、エネルギー消費の大きいアプリを強調表示するユーティリティ。![Freeware][Freeware Icon]<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
-    </item>
-    <item>
-      <title>ScreenKite</title>
-      <link>https://www.screenkite.com/</link>
-      <guid isPermaLink="false">81a0cbb3a270d994828aeae2f98e67f2f95a2026:ScreenKite</guid>
-      <pubDate>Mon, 13 Apr 2026 00:30:34 GMT</pubDate>
-      <category>デザインとプロダクト / 画面録画</category>
-      <description>Category: デザインとプロダクト / 画面録画
-App: ScreenKite
-Description: 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。
-Website: https://www.screenkite.com/
-Commit: Add ScreenKite (#1984)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: ScreenKite<br/>Description: 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。<br/>Website: https://www.screenkite.com/<br/>Commit: Add ScreenKite (#1984)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/81a0cbb3a270d994828aeae2f98e67f2f95a2026]]></content:encoded>
     </item>
   </channel>
 </rss>

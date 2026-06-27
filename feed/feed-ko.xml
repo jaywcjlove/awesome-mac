@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: VoxFlow
+Description: 로컬/클라우드 ASR, OCR, 기록, 코딩 에이전트 워크플로를 지원하는 오픈 소스 음성 입력 워크스페이스.
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: VoxFlow<br/>Description: 로컬/클라우드 ASR, OCR, 기록, 코딩 에이전트 워크플로를 지원하는 오픈 소스 음성 입력 워크스페이스.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
     <item>
       <title>Pesty</title>
       <link>https://github.com/momenbasel/pesty</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/groundwater/GhostVM
 Commit: Add GhostVM
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: GhostVM<br/>Description: 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다.<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
-    </item>
-    <item>
-      <title>SwiftMTP</title>
-      <link>https://github.com/Neighbor-Z/SwiftMTP</link>
-      <guid isPermaLink="false">5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0:SwiftMTP</guid>
-      <pubDate>Mon, 13 Apr 2026 16:37:21 GMT</pubDate>
-      <category>커뮤니케이션 / 파일 공유</category>
-      <description>Category: 커뮤니케이션 / 파일 공유
-App: SwiftMTP
-Description: Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다.
-Open Source: https://github.com/Neighbor-Z/SwiftMTP
-Commit: Add SwiftMTP
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: SwiftMTP<br/>Description: Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다.<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
     </item>
   </channel>
 </rss>

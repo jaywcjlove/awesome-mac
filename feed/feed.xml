@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: VoxFlow
+Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxFlow<br/>Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
     <item>
       <title>Pesty</title>
       <link>https://github.com/momenbasel/pesty</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Neighbor-Z/SwiftMTP
 Commit: Add SwiftMTP
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SwiftMTP<br/>Description: Open-source MTP device manager for browsing and transferring files between Mac and Android devices.<br/>Open Source: https://github.com/Neighbor-Z/SwiftMTP<br/>Commit: Add SwiftMTP<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5557ef13ae2d4dfe9d5072736c5f8c46c76ffea0]]></content:encoded>
-    </item>
-    <item>
-      <title>ChargeMonitor</title>
-      <link>https://github.com/CrashSystemZ/ChargeMonitor</link>
-      <guid isPermaLink="false">af63da0ebd63ccc2275b2ac871c7b3896fe95bf5:ChargeMonitor</guid>
-      <pubDate>Mon, 13 Apr 2026 16:15:29 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: ChargeMonitor
-Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.
-Open Source: https://github.com/CrashSystemZ/ChargeMonitor
-Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: ChargeMonitor<br/>Description: Menu bar utility that displays real-time battery insights including charging power, cycle count, time to full/discharge, and highlights apps with significant energy impact.<br/>Open Source: https://github.com/CrashSystemZ/ChargeMonitor<br/>Commit: Add ChargeMonitor to Menu Bar Tools section (#1986)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af63da0ebd63ccc2275b2ac871c7b3896fe95bf5]]></content:encoded>
     </item>
   </channel>
 </rss>
