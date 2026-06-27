@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Jun 2026 02:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxFlow</title>
+      <link>https://github.com/xingbofeng/VoxFlow</link>
+      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
+      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: VoxFlow
+Description: 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。
+Open Source: https://github.com/xingbofeng/VoxFlow
+Commit: Add VoxFlow (#2232)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxFlow<br/>Description: 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
+    </item>
     <item>
       <title>Pesty</title>
       <link>https://github.com/momenbasel/pesty</link>
@@ -693,20 +707,6 @@ Website: https://desktopctl.com/
 Commit: Add Desktop Control listings (#1991)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Desktop Control<br/>Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
-    </item>
-    <item>
-      <title>TypeWhisper</title>
-      <link>https://www.typewhisper.com</link>
-      <guid isPermaLink="false">624a3717afd6e7bd9f87b285a90771434b39cfaf:TypeWhisper</guid>
-      <pubDate>Tue, 14 Apr 2026 19:39:42 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: TypeWhisper
-Description: 支持全局热键的本地 Whisper 语音转文字工具。
-Website: https://www.typewhisper.com
-Commit: Add TypeWhisper listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: TypeWhisper<br/>Description: 支持全局热键的本地 Whisper 语音转文字工具。<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
     </item>
   </channel>
 </rss>
