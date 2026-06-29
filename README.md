@@ -284,6 +284,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Writing
 
+* [Core](https://corewrite.app/) - AI writing environment with an agentic editor that reads your whole manuscript; native Japanese vertical writing, National Diet Library research, and local-first storage. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/core-ai-writing-studio/id6761600363?platform=mac)
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
