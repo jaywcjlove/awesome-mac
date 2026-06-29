@@ -220,6 +220,7 @@ Awesome Mac
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - 免费的跨平台的 C# IDE。支持 IOS、Android 和 .net 开发。[![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/xcode/id497799835?platform=mac)
 * [Nimbalyst](https://nimbalyst.com/) - 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
+* [Orca](https://onorca.dev) - 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - 由 Atom 和 Tree-sitter 的创建者开发的高性能多人代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### 开发者实用工具
