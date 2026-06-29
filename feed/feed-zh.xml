@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:36:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Orca</title>
+      <link>https://onorca.dev</link>
+      <guid isPermaLink="false">65dcb46146c4a7fea28b2117d574d8d34e5cbc46:Orca</guid>
+      <pubDate>Mon, 29 Jun 2026 02:36:44 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Orca
+Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。
+Website: https://onorca.dev
+Commit: Add Orca to the ja/ko/zh list. #2235
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Orca<br/>Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。<br/>Website: https://onorca.dev<br/>Commit: Add Orca to the ja/ko/zh list. #2235<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46]]></content:encoded>
+    </item>
     <item>
       <title>VoxFlow</title>
       <link>https://github.com/xingbofeng/VoxFlow</link>
@@ -693,20 +707,6 @@ Website: https://jipika.github.io/WaifuX
 Commit: Add WaifuX fix #1992
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: WaifuX<br/>Description: 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
-    </item>
-    <item>
-      <title>Desktop Control</title>
-      <link>https://desktopctl.com/</link>
-      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
-      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: Desktop Control
-Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。
-Website: https://desktopctl.com/
-Commit: Add Desktop Control listings (#1991)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Desktop Control<br/>Description: 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
     </item>
   </channel>
 </rss>

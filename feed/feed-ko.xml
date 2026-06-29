@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 27 Jun 2026 01:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:36:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Orca</title>
+      <link>https://onorca.dev</link>
+      <guid isPermaLink="false">65dcb46146c4a7fea28b2117d574d8d34e5cbc46:Orca</guid>
+      <pubDate>Mon, 29 Jun 2026 02:36:44 GMT</pubDate>
+      <category>개발 도구 / IDE / 코드 편집기</category>
+      <description>Category: 개발 도구 / IDE / 코드 편집기
+App: Orca
+Description: 여러 AI 코딩 에이전트를 각각 독립된 git 워크트리에서 병렬로 실행하는 오픈소스 IDE.
+Website: https://onorca.dev
+Commit: Add Orca to the ja/ko/zh list. #2235
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Orca<br/>Description: 여러 AI 코딩 에이전트를 각각 독립된 git 워크트리에서 병렬로 실행하는 오픈소스 IDE.<br/>Website: https://onorca.dev<br/>Commit: Add Orca to the ja/ko/zh list. #2235<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46]]></content:encoded>
+    </item>
     <item>
       <title>VoxFlow</title>
       <link>https://github.com/xingbofeng/VoxFlow</link>
@@ -693,20 +707,6 @@ Website: https://lcharvol.github.io/MacSift/
 Commit: Add MacSift listings
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MacSift<br/>Description: 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
-    </item>
-    <item>
-      <title>GhostVM</title>
-      <link>https://github.com/groundwater/GhostVM</link>
-      <guid isPermaLink="false">b076dc331db8b9659f145e6d6d9e98351ec24b06:GhostVM</guid>
-      <pubDate>Mon, 13 Apr 2026 16:38:37 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: GhostVM
-Description: 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다.
-Open Source: https://github.com/groundwater/GhostVM
-Commit: Add GhostVM
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: GhostVM<br/>Description: 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다.<br/>Open Source: https://github.com/groundwater/GhostVM<br/>Commit: Add GhostVM<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b076dc331db8b9659f145e6d6d9e98351ec24b06]]></content:encoded>
     </item>
   </channel>
 </rss>
