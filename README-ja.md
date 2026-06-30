@@ -254,6 +254,7 @@ Awesome Mac
 * [MarginNote 4](https://marginnote.com/) - PDFとEPUBの深い読書、学習、管理、メモ取りアプリ。
 * [massCode](https://masscode.io/) - MarkdownとMermaidをサポートしたクロスプラットフォームオープンソースコードスニペット管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - 素晴らしい文章を書くのに役立つ軽量Markdownアプリ。
+* [Nod](https://hellonod.app/) - 会議、通話、ボイスメモを自動的に録音・文字起こし・要約するAIミーティングメモアプリ。ボットとして参加せず、13言語に対応。 ![Native App][Native Icon]
 * [Notable](https://github.com/notable/notable) - 優れたMarkdownベースのメモアプリ。
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - メモ取りアプリ。 ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - クリーンでシンプルなメモ取りアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
