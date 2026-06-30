@@ -510,6 +510,7 @@ Awesome Mac
 * [iTerm2](http://www.iterm2.com) - macOS용 놀라운 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [Kitty](https://github.com/kovidgoyal/kitty) - GPU 기반의 고성능 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [Tabby](https://github.com/Eugeny/tabby) - 현대적인 터미널 도구. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+* [Vesta](https://github.com/vestaterm/Vesta) - libghostty 기반의 네이티브 macOS 터미널로, 코딩 에이전트를 병렬로 실행합니다. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - 현대적인 앱처럼 작동하도록 재설계된 빠른 터미널. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 파일 미리보기, 웹 브라우징, AI 도구를 갖춘 오픈 소스 터미널. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rust로 구현된 GPU 가속 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
