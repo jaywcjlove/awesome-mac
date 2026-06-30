@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 29 Jun 2026 02:36:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:17:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Edmund</title>
+      <link>https://github.com/I7T5/Edmund</link>
+      <guid isPermaLink="false">3eedfd7588d7c53bde40217c210c412ad98fa218:Edmund</guid>
+      <pubDate>Tue, 30 Jun 2026 04:17:46 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Edmund
+Description: 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요.
+Open Source: https://github.com/I7T5/Edmund
+Commit: Add Edmund to the ja/ko/zh list. #2238
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund to the ja/ko/zh list. #2238<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218]]></content:encoded>
+    </item>
     <item>
       <title>Orca</title>
       <link>https://onorca.dev</link>
@@ -693,20 +707,6 @@ Website: https://www.typewhisper.com
 Commit: Add TypeWhisper listings
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: TypeWhisper<br/>Description: 전역 단축키를 지원하는 로컬 Whisper 기반 음성 텍스트 변환 도구입니다.<br/>Website: https://www.typewhisper.com<br/>Commit: Add TypeWhisper listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624a3717afd6e7bd9f87b285a90771434b39cfaf]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: MacSift
-Description: 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다.
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MacSift<br/>Description: 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
     </item>
   </channel>
 </rss>
