@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vesta</title>
+      <link>https://github.com/vestaterm/Vesta</link>
+      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
+      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Vesta
+Description: Native macOS terminal built on libghostty for running coding agents in parallel.
+Open Source: https://github.com/vestaterm/Vesta
+Commit: Add Vesta (#2243)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Vesta<br/>Description: Native macOS terminal built on libghostty for running coding agents in parallel.<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
+    </item>
     <item>
       <title>Edmund</title>
       <link>https://github.com/I7T5/Edmund</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/yaroshevych/desktopctl
 Commit: Add Desktop Control to the list of AI tools (#1991)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Desktop Control<br/>Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.<br/>Open Source: https://github.com/yaroshevych/desktopctl<br/>Commit: Add Desktop Control to the list of AI tools (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">3329a74f6f18036fa2295aa71cfb40620afabda7:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:00:25 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MacSift
-Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift to Cleanup and Uninstall (#1987)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacSift<br/>Description: Transparent disk cleaner for macOS Tahoe. Groups files by the owning app, moves everything to the Trash (never permanent deletion), dry-run by default. Native SwiftUI with Liquid Glass.<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift to Cleanup and Uninstall (#1987)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3329a74f6f18036fa2295aa71cfb40620afabda7]]></content:encoded>
     </item>
   </channel>
 </rss>

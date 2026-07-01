@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vesta</title>
+      <link>https://github.com/vestaterm/Vesta</link>
+      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
+      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Vesta
+Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。
+Open Source: https://github.com/vestaterm/Vesta
+Commit: Add Vesta (#2243)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Vesta<br/>Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
+    </item>
     <item>
       <title>Edmund</title>
       <link>https://github.com/I7T5/Edmund</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dutkiewiczmaciej/MakLock
 Commit: Add MakLock (#1995)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: MakLock<br/>Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippy</title>
-      <link>https://github.com/yarasaa/Clippy</link>
-      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
-      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Clippy
-Description: 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。
-Open Source: https://github.com/yarasaa/Clippy
-Commit: Add Clippy (#1998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Clippy<br/>Description: 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
     </item>
   </channel>
 </rss>
