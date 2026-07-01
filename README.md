@@ -1285,6 +1285,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353?platform=mac)
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Archive utility for extracting and compressing many common formats. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware][Freeware Icon]
+* [Forel](https://github.com/lab421/forel) - Open source alternative to Hazel automated file organization for macOS [![Open-Source Software][OSS Icon]](https://github.com/lab421/forel) ![Freeware][Freeware Icon]
 
 ### General Tools
 
