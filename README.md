@@ -806,6 +806,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
+* [Manather](https://github.com/Manath-iq/Manather) - Native macOS home for everything you feed your AI — references, skills, MCP configs, snippets, and prompts — exportable as a ready-to-use context pack. [![Open-Source Software][OSS Icon]](https://github.com/Manath-iq/Manather) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
 * [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 * [Witsy](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
