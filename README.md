@@ -220,6 +220,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
 * [Edmund](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
+* [Editorio](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12) - Fast native AppKit Markdown editor for Mac with live side-by-side preview. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/br/app/editorio/id6759334075?l=en-GB&mt=12)
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 * [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
 * [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS with live preview and HTML/PDF export. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
