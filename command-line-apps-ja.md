@@ -101,6 +101,7 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - Markdownファイルを処理するためのコマンドラインツール。画像のダウンロード、ファイルの翻訳など。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
