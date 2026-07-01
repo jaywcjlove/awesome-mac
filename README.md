@@ -262,6 +262,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [NotePlan 3](https://noteplan.co/) - Your tasks, notes, and calendar, plain-text markdown files.  [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - True Native Note and LLM Client
 * [Noteship](https://noteship.com) - Local-first note-taking app for turning notes into structured knowledge. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
+* [Notchkin](https://notchkin.app) - Note-taking utility that lives in the MacBook notch, with tags, pins, checklists, and hashtags. [![App Store][app-store Icon]](https://apps.apple.com/app/id6773256913?platform=mac)
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
