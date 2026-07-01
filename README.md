@@ -1031,6 +1031,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows. [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
+* [Weesper Transcribe](https://weesperneonflow.ai/en/transcribe/?utm_source=awesome_mac&utm_medium=directory&utm_campaign=transcribe_launch) - Offline audio and video transcription for Mac with searchable history, SRT/VTT export, and a local automation API for hands-off batch or agentic workflows. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6778776535?platform=mac)
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
