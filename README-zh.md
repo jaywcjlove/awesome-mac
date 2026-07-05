@@ -1296,6 +1296,7 @@ Awesome Mac
 * [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化清理开发缓存，快速释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
+* [Harbofly](https://harbofly.app/) - 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 按应用分组文件并移入废纸篓的开源磁盘清理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 按体积扫描文件，快速找出占空间内容。 ![Freeware][Freeware Icon]
