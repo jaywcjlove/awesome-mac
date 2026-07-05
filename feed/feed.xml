@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:30:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MoonProxy</title>
+      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
+      <guid isPermaLink="false">74fa526ab4863efbf1ca55e285275451a56e76fa:MoonProxy</guid>
+      <pubDate>Sun, 05 Jul 2026 00:30:44 GMT</pubDate>
+      <category>Remote Login Software</category>
+      <description>Category: Remote Login Software
+App: MoonProxy
+Description: GUI desktop client for FRP that puts local services on the internet with one click.
+Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
+Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa</description>
+      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: MoonProxy<br/>Description: GUI desktop client for FRP that puts local services on the internet with one click.<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa]]></content:encoded>
+    </item>
     <item>
       <title>StockDock</title>
       <link>https://github.com/simonsruggi/StockDock</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dutkiewiczmaciej/MakLock
 Commit: Add MakLock (#1995)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: MakLock<br/>Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippy</title>
-      <link>https://github.com/yarasaa/Clippy</link>
-      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
-      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Clippy
-Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.
-Open Source: https://github.com/yarasaa/Clippy
-Commit: Add Clippy (#1998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clippy<br/>Description: Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
     </item>
   </channel>
 </rss>
