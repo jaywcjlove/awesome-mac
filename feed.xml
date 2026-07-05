@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:59:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Off Grid AI Desktop</title>
+      <link>https://getoffgridai.co/desktop</link>
+      <guid isPermaLink="false">f35478aabb6b91edb5d81465bdf2a6168cba6be8:Off Grid AI Desktop</guid>
+      <pubDate>Sat, 04 Jul 2026 23:59:43 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Off Grid AI Desktop
+Description: Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device.
+Website: https://getoffgridai.co/desktop
+Commit: Add Off Grid AI (private on-device AI for Mac) to AI Tools (#2256)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f35478aabb6b91edb5d81465bdf2a6168cba6be8</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Off Grid AI Desktop<br/>Description: Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device.<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add Off Grid AI (private on-device AI for Mac) to AI Tools (#2256)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f35478aabb6b91edb5d81465bdf2a6168cba6be8]]></content:encoded>
+    </item>
     <item>
       <title>Vesta</title>
       <link>https://github.com/vestaterm/Vesta</link>
@@ -693,20 +707,6 @@ Website: https://jipika.github.io/WaifuX
 Commit: Add WaifuX fix #1992
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: WaifuX<br/>Description: Open-source ACG app for wallpapers, animated backgrounds, and anime videos.<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
-    </item>
-    <item>
-      <title>Desktop Control</title>
-      <link>https://github.com/yaroshevych/desktopctl</link>
-      <guid isPermaLink="false">a638622290d6449c6ec6d669778bb013415d9ecb:Desktop Control</guid>
-      <pubDate>Tue, 14 Apr 2026 22:05:55 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Desktop Control
-Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
-Open Source: https://github.com/yaroshevych/desktopctl
-Commit: Add Desktop Control to the list of AI tools (#1991)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Desktop Control<br/>Description: GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.<br/>Open Source: https://github.com/yaroshevych/desktopctl<br/>Commit: Add Desktop Control to the list of AI tools (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a638622290d6449c6ec6d669778bb013415d9ecb]]></content:encoded>
     </item>
   </channel>
 </rss>
