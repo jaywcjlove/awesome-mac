@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:30:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:14:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Harbofly</title>
+      <link>https://harbofly.app/</link>
+      <guid isPermaLink="false">25bb81d6539f923d2e61d93842baddad421aa350:Harbofly</guid>
+      <pubDate>Sun, 05 Jul 2026 08:14:54 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Harbofly
+Description: Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.
+Website: https://harbofly.app/
+Commit: Add Harbofly (#2252)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25bb81d6539f923d2e61d93842baddad421aa350</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Harbofly<br/>Description: Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly (#2252)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25bb81d6539f923d2e61d93842baddad421aa350]]></content:encoded>
+    </item>
     <item>
       <title>MoonProxy</title>
       <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/ConsoleMini
 Commit: Add ConsoleMini to Gaming Software (#2004)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd</description>
       <content:encoded><![CDATA[Category: Gaming Software<br/>App: ConsoleMini<br/>Description: Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast).<br/>Open Source: https://github.com/momenbasel/ConsoleMini<br/>Commit: Add ConsoleMini to Gaming Software (#2004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd]]></content:encoded>
-    </item>
-    <item>
-      <title>MakLock</title>
-      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
-      <guid isPermaLink="false">5503dbec1469b33f191cde1fdfdec0c812a16cf4:MakLock</guid>
-      <pubDate>Sat, 18 Apr 2026 07:56:26 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: MakLock
-Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.
-Open Source: https://github.com/dutkiewiczmaciej/MakLock
-Commit: Add MakLock (#1995)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: MakLock<br/>Description: Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
     </item>
   </channel>
 </rss>
