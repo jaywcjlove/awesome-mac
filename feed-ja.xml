@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:33:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MoonProxy</title>
+      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
+      <guid isPermaLink="false">a59272745a93357a103f7ddfd18c1ad6856a8d27:MoonProxy</guid>
+      <pubDate>Sun, 05 Jul 2026 00:33:23 GMT</pubDate>
+      <category>リモートログインソフトウェア</category>
+      <description>Category: リモートログインソフトウェア
+App: MoonProxy
+Description: FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。
+Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
+Commit: Add MoonProxy to the ja/ko/zh list. #2253
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27</description>
+      <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: MoonProxy<br/>Description: FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy to the ja/ko/zh list. #2253<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27]]></content:encoded>
+    </item>
     <item>
       <title>StockDock</title>
       <link>https://github.com/simonsruggi/StockDock</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/yarasaa/Clippy
 Commit: Add Clippy (#1998)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Clippy<br/>Description: コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
-    </item>
-    <item>
-      <title>WaifuX</title>
-      <link>https://jipika.github.io/WaifuX</link>
-      <guid isPermaLink="false">c2180cf5a3a41c12815a355768c95bae621da2e2:WaifuX</guid>
-      <pubDate>Thu, 16 Apr 2026 02:32:57 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: WaifuX
-Description: 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。
-Website: https://jipika.github.io/WaifuX
-Commit: Add WaifuX fix #1992
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: WaifuX<br/>Description: 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
     </item>
   </channel>
 </rss>

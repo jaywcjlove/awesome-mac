@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:33:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MoonProxy</title>
+      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
+      <guid isPermaLink="false">a59272745a93357a103f7ddfd18c1ad6856a8d27:MoonProxy</guid>
+      <pubDate>Sun, 05 Jul 2026 00:33:23 GMT</pubDate>
+      <category>원격 로그인 소프트웨어</category>
+      <description>Category: 원격 로그인 소프트웨어
+App: MoonProxy
+Description: FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개.
+Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
+Commit: Add MoonProxy to the ja/ko/zh list. #2253
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27</description>
+      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: MoonProxy<br/>Description: FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개.<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy to the ja/ko/zh list. #2253<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27]]></content:encoded>
+    </item>
     <item>
       <title>StockDock</title>
       <link>https://github.com/simonsruggi/StockDock</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dutkiewiczmaciej/MakLock
 Commit: Add MakLock to the ja/ko list.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ccbe9e5bbaebc427875d37a8f8055529d1e8408</description>
       <content:encoded><![CDATA[Category: 보안 도구<br/>App: MakLock<br/>Description: Touch ID, Apple Watch 또는 비밀번호로 원하는 macOS 앱을 잠그고 모든 모니터에 블러 오버레이를 표시하는 도구.<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock to the ja/ko list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ccbe9e5bbaebc427875d37a8f8055529d1e8408]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippy</title>
-      <link>https://github.com/yarasaa/Clippy</link>
-      <guid isPermaLink="false">4460bbe4603e476506bd0e41cbc43217149b4b75:Clippy</guid>
-      <pubDate>Sat, 18 Apr 2026 02:40:57 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Clippy
-Description: 콘텐츠 인식 미리보기, AI 변환, 내장 스크린샷 편집기, 파일 변환기를 갖춘 스마트 클립보드 관리자.
-Open Source: https://github.com/yarasaa/Clippy
-Commit: Add Clippy (#1998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Clippy<br/>Description: 콘텐츠 인식 미리보기, AI 변환, 내장 스크린샷 편집기, 파일 변환기를 갖춘 스마트 클립보드 관리자.<br/>Open Source: https://github.com/yarasaa/Clippy<br/>Commit: Add Clippy (#1998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4460bbe4603e476506bd0e41cbc43217149b4b75]]></content:encoded>
     </item>
   </channel>
 </rss>
