@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:19:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Harbofly</title>
+      <link>https://harbofly.app/</link>
+      <guid isPermaLink="false">9568458c70df1b8762f8f5056ca760c50f753922:Harbofly</guid>
+      <pubDate>Sun, 05 Jul 2026 08:19:58 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Harbofly
+Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。
+Website: https://harbofly.app/
+Commit: Add Harbofly to the zh/ja/ko list. #2252
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Harbofly<br/>Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
+    </item>
     <item>
       <title>MoonProxy</title>
       <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
@@ -693,20 +707,6 @@ Website: https://luoyuctl.github.io/agenttrace/
 Commit: Add Agenttrace (#2026)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Agenttrace<br/>Description: 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
-    </item>
-    <item>
-      <title>Whisky</title>
-      <link>https://github.com/frankea/Whisky</link>
-      <guid isPermaLink="false">11e1ee89b1c4fa58ec0d36cef3eaf057ced68047:Whisky</guid>
-      <pubDate>Sat, 02 May 2026 15:49:54 GMT</pubDate>
-      <category>游戏软件</category>
-      <description>Category: 游戏软件
-App: Whisky
-Description: 在 macOS 上运行 Windows 应用的工具，使用 SwiftUI 构建，支持 D3DMetal 和 DXVK 后端。
-Open Source: https://github.com/frankea/Whisky
-Commit: Update Whisky description across locales (#2024)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047</description>
-      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Whisky<br/>Description: 在 macOS 上运行 Windows 应用的工具，使用 SwiftUI 构建，支持 D3DMetal 和 DXVK 后端。<br/>Open Source: https://github.com/frankea/Whisky<br/>Commit: Update Whisky description across locales (#2024)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11e1ee89b1c4fa58ec0d36cef3eaf057ced68047]]></content:encoded>
     </item>
   </channel>
 </rss>
