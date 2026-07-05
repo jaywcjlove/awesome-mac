@@ -1024,6 +1024,7 @@ Awesome Mac
 ## 원격 로그인 소프트웨어
 
 * [AnyDesk](https://anydesk.com/) - 빠르고 안전한 원격 데스크톱 소프트웨어. ![Freeware][Freeware Icon]
+* [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app/) - 저지연 원격 데스크톱 및 게임 스트리밍 도구.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 오픈 소스 원격 데스크톱 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
