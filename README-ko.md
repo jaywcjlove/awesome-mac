@@ -814,6 +814,7 @@ Awesome Mac
 
 * [SubManager](https://submanager.app/) - 갱신 알림을 제공하는 구독 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - 알림, 분석 및 iCloud 동기화를 통해 한 곳에서 구독, 갱신 및 지출을 추적.
+* [StockDock](https://github.com/simonsruggi/StockDock) - 메뉴 바에서 주식, ETF, 암호화폐 실시간 시세를 보여주는 도구. 포트폴리오 손익과 다중 통화를 지원하며, 개인정보 보호에 중점을 둔 계정 불필요. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 
 ## 암호화
 
