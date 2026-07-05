@@ -610,6 +610,7 @@ Awesome Mac
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - 跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - 实时监控 Claude 各类用量配额的工具。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
+* [Vibe Island](https://vibeisland.app) - 将 MacBook 刘海打造成 Claude Code、Codex、Gemini、Cursor 等 25 个 AI 编码 CLI 的控制面板，权限请求在刘海内处理，点通知跳回触发的终端窗口，每个 provider 的使用额度单独显示。 ![Native App][Native Icon]
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 原生 Swift 打造的 macOS 应用，可使用你的 API Key 运行多个大语言模型（LLM）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 
 ## 通信
