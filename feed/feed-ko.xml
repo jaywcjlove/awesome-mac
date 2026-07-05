@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:04:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Off Grid AI Desktop</title>
+      <link>https://getoffgridai.co/desktop</link>
+      <guid isPermaLink="false">79727df0c0d285c93e234212932bfb0dcc9a6c5f:Off Grid AI Desktop</guid>
+      <pubDate>Sun, 05 Jul 2026 00:04:14 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Off Grid AI Desktop
+Description: 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행.
+Website: https://getoffgridai.co/desktop
+Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Off Grid AI Desktop<br/>Description: 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행.<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
+    </item>
     <item>
       <title>Vesta</title>
       <link>https://github.com/vestaterm/Vesta</link>
@@ -693,20 +707,6 @@ Website: https://jipika.github.io/WaifuX
 Commit: Add WaifuX fix #1992
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: WaifuX<br/>Description: 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다.<br/>Website: https://jipika.github.io/WaifuX<br/>Commit: Add WaifuX fix #1992<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c2180cf5a3a41c12815a355768c95bae621da2e2]]></content:encoded>
-    </item>
-    <item>
-      <title>Desktop Control</title>
-      <link>https://desktopctl.com/</link>
-      <guid isPermaLink="false">becf66f5a3bbbb19877f587ac176d5afab74230a:Desktop Control</guid>
-      <pubDate>Tue, 14 Apr 2026 22:19:20 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Desktop Control
-Description: 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구.
-Website: https://desktopctl.com/
-Commit: Add Desktop Control listings (#1991)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Desktop Control<br/>Description: 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구.<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
     </item>
   </channel>
 </rss>
