@@ -897,6 +897,7 @@ Awesome Mac
 * [Stats](https://github.com/exelban/stats) - 메뉴 바의 시스템 상태 모니터. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 실시간 업로드·다운로드 속도와 대역폭 사용 앱을 보여주는 네이티브 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AI 코딩 에이전트 알림을 지원하는 macOS용 경량 Dynamic Island입니다. [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [MenubarCC](https://github.com/ksterx/MenubarCC) - 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯. [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
