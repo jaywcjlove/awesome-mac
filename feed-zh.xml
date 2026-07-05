@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:04:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Off Grid AI Desktop</title>
+      <link>https://getoffgridai.co/desktop</link>
+      <guid isPermaLink="false">79727df0c0d285c93e234212932bfb0dcc9a6c5f:Off Grid AI Desktop</guid>
+      <pubDate>Sun, 05 Jul 2026 00:04:14 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Off Grid AI Desktop
+Description: 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。
+Website: https://getoffgridai.co/desktop
+Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Off Grid AI Desktop<br/>Description: 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
+    </item>
     <item>
       <title>Vesta</title>
       <link>https://github.com/vestaterm/Vesta</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/ConsoleMini
 Commit: Add ConsoleMini to Gaming Software (#2004)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd</description>
       <content:encoded><![CDATA[Category: 游戏软件<br/>App: ConsoleMini<br/>Description: 控制器优先的大屏幕启动器，将 Mac mini 变成 PS1-PS4 + 复古游戏机（封装 DuckStation、PCSX2、RPCS3、shadPS4、PPSSPP、RetroArch、mGBA、Flycast）。<br/>Open Source: https://github.com/momenbasel/ConsoleMini<br/>Commit: Add ConsoleMini to Gaming Software (#2004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/89f7a72621818a933e9a6ff30686f291cf1e28cd]]></content:encoded>
-    </item>
-    <item>
-      <title>MakLock</title>
-      <link>https://github.com/dutkiewiczmaciej/MakLock</link>
-      <guid isPermaLink="false">5503dbec1469b33f191cde1fdfdec0c812a16cf4:MakLock</guid>
-      <pubDate>Sat, 18 Apr 2026 07:56:26 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: MakLock
-Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。
-Open Source: https://github.com/dutkiewiczmaciej/MakLock
-Commit: Add MakLock (#1995)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: MakLock<br/>Description: 使用 Touch ID、Apple Watch 或密码锁定任意 macOS 应用，支持全屏模糊覆盖。<br/>Open Source: https://github.com/dutkiewiczmaciej/MakLock<br/>Commit: Add MakLock (#1995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5503dbec1469b33f191cde1fdfdec0c812a16cf4]]></content:encoded>
     </item>
   </channel>
 </rss>

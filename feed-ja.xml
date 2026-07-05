@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:04:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Off Grid AI Desktop</title>
+      <link>https://getoffgridai.co/desktop</link>
+      <guid isPermaLink="false">79727df0c0d285c93e234212932bfb0dcc9a6c5f:Off Grid AI Desktop</guid>
+      <pubDate>Sun, 05 Jul 2026 00:04:14 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Off Grid AI Desktop
+Description: プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。
+Website: https://getoffgridai.co/desktop
+Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Off Grid AI Desktop<br/>Description: プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
+    </item>
     <item>
       <title>Vesta</title>
       <link>https://github.com/vestaterm/Vesta</link>
@@ -693,20 +707,6 @@ Website: https://desktopctl.com/
 Commit: Add Desktop Control listings (#1991)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Desktop Control<br/>Description: AIエージェント向けに画面・マウス・キーボードで任意のアプリを操作できるローカルCLI。<br/>Website: https://desktopctl.com/<br/>Commit: Add Desktop Control listings (#1991)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/becf66f5a3bbbb19877f587ac176d5afab74230a]]></content:encoded>
-    </item>
-    <item>
-      <title>MacSift</title>
-      <link>https://lcharvol.github.io/MacSift/</link>
-      <guid isPermaLink="false">7d45ec2ae43dcf219b28a549cdcfec06a19e044a:MacSift</guid>
-      <pubDate>Mon, 13 Apr 2026 17:11:24 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: MacSift
-Description: ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。
-Website: https://lcharvol.github.io/MacSift/
-Commit: Add MacSift listings
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: MacSift<br/>Description: ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。<br/>Website: https://lcharvol.github.io/MacSift/<br/>Commit: Add MacSift listings<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d45ec2ae43dcf219b28a549cdcfec06a19e044a]]></content:encoded>
     </item>
   </channel>
 </rss>
