@@ -990,6 +990,7 @@ Awesome Mac
 * [Timing](https://timingapp.com/) - 자동으로 시간을 기록하고 작업 분석을 돕는 도구.
 * [Desktop Control](https://desktopctl.com/) - 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/yaroshevych/desktopctl) ![Freeware][Freeware Icon]
 * [DevUtils.app](https://devutils.com/) - 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자. [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
+* [Wox](https://wox-launcher.github.io/Wox/) - 빠른 로컬 검색과 플러그인 확장을 제공하는 오픈소스 크로스 플랫폼 런처. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 화면 레이아웃과 그래픽을 측정하고 검사하는 도구 모음.
 * [Z](https://github.com/rupa/z) - 경로 일부만 입력해 자주 쓰는 디렉터리로 이동하는 도구.
 
