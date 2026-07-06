@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Jul 2026 05:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:10:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Wox</title>
+      <link>https://wox-launcher.github.io/Wox/</link>
+      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
+      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Wox
+Description: 开源跨平台启动器，支持快速本地搜索和插件扩展。
+Website: https://wox-launcher.github.io/Wox/
+Commit: Add Wox #2047
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Wox<br/>Description: 开源跨平台启动器，支持快速本地搜索和插件扩展。<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
+    </item>
     <item>
       <title>cctop</title>
       <link>https://cctop.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ericjypark/codex-island
 Commit: Add CodexIsland to Menu Bar Tools (#2036)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: CodexIsland<br/>Description: 将 MacBook 刘海打造成动态岛风格的 Live Activity，实时显示 Claude Code 与 Codex CLI 的速率限制和花费。所有数据本地计算，无任何遥测。<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
-    </item>
-    <item>
-      <title>MacDown</title>
-      <link>https://macdown.uranusjr.com/</link>
-      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
-      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: MacDown
-Description: macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。
-Website: https://macdown.uranusjr.com/
-Commit: Add MacDown to Markdown Tools (#2031)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: MacDown<br/>Description: macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 06 Jul 2026 05:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:10:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Wox</title>
+      <link>https://wox-launcher.github.io/Wox/</link>
+      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
+      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Wox
+Description: 빠른 로컬 검색과 플러그인 확장을 제공하는 오픈소스 크로스 플랫폼 런처.
+Website: https://wox-launcher.github.io/Wox/
+Commit: Add Wox #2047
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Wox<br/>Description: 빠른 로컬 검색과 플러그인 확장을 제공하는 오픈소스 크로스 플랫폼 런처.<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
+    </item>
     <item>
       <title>cctop</title>
       <link>https://cctop.app</link>
@@ -693,20 +707,6 @@ Website: https://notchly.xyz
 Commit: Add notchly (#2025)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Notchly<br/>Description: 라이브 액티비티, 음악, 배터리, 커스텀 HUD를 위해 MacBook 노치를 인터랙티브한 공간으로 바꿔주는 가벼운 네이티브 macOS 앱입니다.<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
-    </item>
-    <item>
-      <title>Agenttrace</title>
-      <link>https://luoyuctl.github.io/agenttrace/</link>
-      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
-      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Agenttrace
-Description: AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI.
-Website: https://luoyuctl.github.io/agenttrace/
-Commit: Add Agenttrace (#2026)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Agenttrace<br/>Description: AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI.<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
     </item>
   </channel>
 </rss>

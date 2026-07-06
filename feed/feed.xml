@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 Jul 2026 05:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:10:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Wox</title>
+      <link>https://wox-launcher.github.io/Wox/</link>
+      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
+      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Wox
+Description: Open-source cross-platform launcher with fast local search and plugin extensibility.
+Website: https://wox-launcher.github.io/Wox/
+Commit: Add Wox #2047
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Wox<br/>Description: Open-source cross-platform launcher with fast local search and plugin extensibility.<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
+    </item>
     <item>
       <title>cctop</title>
       <link>https://cctop.app</link>
@@ -693,20 +707,6 @@ Website: https://notchly.xyz
 Commit: Add notchly (#2025)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Notchly<br/>Description: Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs.<br/>Website: https://notchly.xyz<br/>Commit: Add notchly (#2025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0f102463c156fc8659468febe937c111066c0065]]></content:encoded>
-    </item>
-    <item>
-      <title>Agenttrace</title>
-      <link>https://luoyuctl.github.io/agenttrace/</link>
-      <guid isPermaLink="false">d939f452c82a8a251c67f5074cec1b2235ca1374:Agenttrace</guid>
-      <pubDate>Sun, 03 May 2026 03:37:52 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Agenttrace
-Description: Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.
-Website: https://luoyuctl.github.io/agenttrace/
-Commit: Add Agenttrace (#2026)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Agenttrace<br/>Description: Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.<br/>Website: https://luoyuctl.github.io/agenttrace/<br/>Commit: Add Agenttrace (#2026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d939f452c82a8a251c67f5074cec1b2235ca1374]]></content:encoded>
     </item>
   </channel>
 </rss>
