@@ -801,6 +801,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
+* [Routines](https://getroutines.ai/) - Agentic AI on your Mac, like OpenClaw without the terminal. Build agents with memory and tools, schedule them by time or triggers, and keep all your context 100% local. ![Native App][Native Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Real-time monitoring of Claude usage quotas across time windows and plans. [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
