@@ -603,6 +603,7 @@ Awesome Mac
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - 采用规格驱动工作流的多 AI 编码代理协作工具。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
+* [ReserveGauge](https://reservegauge.com) - 预测你的 Claude Code 和 Codex 用量能否撑到下次重置，而不只是显示当前百分比。
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 具备记忆和自动化能力的本地优先个人 AI 代理。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。

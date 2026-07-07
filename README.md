@@ -802,6 +802,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
+* [ReserveGauge](https://reservegauge.com) - Forecasts your Claude Code and Codex usage to the next reset, not just a live percentage.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software][OSS Icon]](https://github.com/mm7894215/TokenTracker) ![Freeware][Freeware Icon]
