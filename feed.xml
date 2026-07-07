@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jul 2026 01:43:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:57:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Prevail</title>
+      <link>https://prevail.sh</link>
+      <guid isPermaLink="false">d3dc33f0560c77b9ab7df83d2bd620121548f8e2:Prevail</guid>
+      <pubDate>Tue, 07 Jul 2026 11:57:34 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Prevail
+Description: Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.
+Website: https://prevail.sh
+Commit: Add Prevail to AI Tools (#2267)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Prevail<br/>Description: Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.<br/>Website: https://prevail.sh<br/>Commit: Add Prevail to AI Tools (#2267)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2]]></content:encoded>
+    </item>
     <item>
       <title>tty7</title>
       <link>https://github.com/l0ng-ai/tty7</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/larryxiao/openquack
 Commit: Add OpenQuack to Voice-to-Text (#2040)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e72dfcd0e4791ceb48dd631b5e6a3dc7022b01e4</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: OpenQuack<br/>Description: Privacy-first local voice dictation menu bar app for macOS, powered by WhisperKit on Apple Silicon.<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Add OpenQuack to Voice-to-Text (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e72dfcd0e4791ceb48dd631b5e6a3dc7022b01e4]]></content:encoded>
-    </item>
-    <item>
-      <title>CodexIsland</title>
-      <link>https://github.com/ericjypark/codex-island</link>
-      <guid isPermaLink="false">b7d59bed65320b104d02429c4d4d8233a8dd34d8:CodexIsland</guid>
-      <pubDate>Wed, 06 May 2026 16:58:37 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: CodexIsland
-Description: Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.
-Open Source: https://github.com/ericjypark/codex-island
-Commit: Add CodexIsland to Menu Bar Tools (#2036)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: CodexIsland<br/>Description: Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
     </item>
   </channel>
 </rss>
