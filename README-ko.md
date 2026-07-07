@@ -778,6 +778,7 @@ Awesome Mac
 * [Azex Speech](https://github.com/azex-ai/speech) - AI와 크립토 작업에서 중영 혼용 받아쓰기에 강한 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 누르고 말한 뒤 놓으면 전사 텍스트를 바로 붙여넣는 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
+* [OATS](https://github.com/ariso-ai/oats) - 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 메뉴 바 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 로컬 및 클라우드 음성 텍스트 변환을 지원하는 오픈 소스 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenQuack](https://github.com/larryxiao/openquack) - 프라이버시 중심 음성 받아쓰기 도구로, 단축키로 말하면 WhisperKit이 로컬에서 전사해 커서 위치에 입력합니다. [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 다듬어진 텍스트를 어떤 앱에든 입력할 수 있는 오픈 소스 AI 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]

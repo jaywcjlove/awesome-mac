@@ -1021,6 +1021,7 @@ Awesome Mac
 * [buzz](https://github.com/chidiwilliams/buzz) - 個人のコンピューター上でオフラインで音声を文字起こし・翻訳。OpenAIのWhisperを使用。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [EnviousWispr](https://enviouswispr.com/) - 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。 ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 押して話し、離すと文字起こしをそのまま貼り付ける音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
+* [OATS](https://github.com/ariso-ai/oats) - ライブ文字起こし、話者ラベル、AI要約、完全オフラインのオンデバイスモードに対応したオープンソースのメニューバー会議ノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - ローカルとクラウドの音声テキスト変換に対応したオープンソースのディクテーションツール。 [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenQuack](https://github.com/larryxiao/openquack) - プライバシー重視の音声ディクテーションツールで、ホットキーで話すとWhisperKitがローカルで文字起こしし、カーソル位置に入力します。 [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 整形済みテキストを任意のアプリに入力できるオープンソースのAI音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
