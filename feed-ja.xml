@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 01:43:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>tty7</title>
+      <link>https://github.com/l0ng-ai/tty7</link>
+      <guid isPermaLink="false">258daea61a27fda55d57bea4be5d05b10c6c30a6:tty7</guid>
+      <pubDate>Tue, 07 Jul 2026 01:43:44 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: tty7
+Description: 純粋なRustで書かれたGPUレンダリングのデーモンバックドターミナル。tmuxなしでセッションを永続化できます。
+Open Source: https://github.com/l0ng-ai/tty7
+Commit: Add tty7 to Terminal Apps (#2263)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: tty7<br/>Description: 純粋なRustで書かれたGPUレンダリングのデーモンバックドターミナル。tmuxなしでセッションを永続化できます。<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
+    </item>
     <item>
       <title>TokenTracker</title>
       <link>https://www.tokentracker.cc</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ericjypark/codex-island
 Commit: Add CodexIsland to Menu Bar Tools (#2036)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: CodexIsland<br/>Description: MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
-    </item>
-    <item>
-      <title>MacDown</title>
-      <link>https://macdown.uranusjr.com/</link>
-      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
-      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
-      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MacDown
-Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。
-Website: https://macdown.uranusjr.com/
-Commit: Add MacDown to Markdown Tools (#2031)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 01:43:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>tty7</title>
+      <link>https://github.com/l0ng-ai/tty7</link>
+      <guid isPermaLink="false">258daea61a27fda55d57bea4be5d05b10c6c30a6:tty7</guid>
+      <pubDate>Tue, 07 Jul 2026 01:43:44 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: tty7
+Description: 순수 Rust로 작성된 GPU 렌더링 데몬 기반 터미널로, tmux 없이 세션을 유지합니다.
+Open Source: https://github.com/l0ng-ai/tty7
+Commit: Add tty7 to Terminal Apps (#2263)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: tty7<br/>Description: 순수 Rust로 작성된 GPU 렌더링 데몬 기반 터미널로, tmux 없이 세션을 유지합니다.<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
+    </item>
     <item>
       <title>TokenTracker</title>
       <link>https://www.tokentracker.cc</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ericjypark/codex-island
 Commit: Add CodexIsland to Menu Bar Tools (#2036)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: CodexIsland<br/>Description: 맥북 노치를 다이나믹 아일랜드 스타일의 Live Activity로 바꿔 Claude Code와 Codex CLI의 사용 한도와 지출을 보여줍니다. 모든 데이터는 로컬에서만 처리되며 텔레메트리는 없습니다.<br/>Open Source: https://github.com/ericjypark/codex-island<br/>Commit: Add CodexIsland to Menu Bar Tools (#2036)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7d59bed65320b104d02429c4d4d8233a8dd34d8]]></content:encoded>
-    </item>
-    <item>
-      <title>MacDown</title>
-      <link>https://macdown.uranusjr.com/</link>
-      <guid isPermaLink="false">f61cf842cd1811035b19344b4d91a06391e27340:MacDown</guid>
-      <pubDate>Tue, 05 May 2026 02:57:32 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MacDown
-Description: 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기.
-Website: https://macdown.uranusjr.com/
-Commit: Add MacDown to Markdown Tools (#2031)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기.<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Add MacDown to Markdown Tools (#2031)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61cf842cd1811035b19344b4d91a06391e27340]]></content:encoded>
     </item>
   </channel>
 </rss>
