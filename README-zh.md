@@ -1495,6 +1495,7 @@ Awesome Mac
 * [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站。
 * [Slant](https://www.slant.co) - 用于比较软件并查看社区推荐的平台。
 * [Open Alternative](https://openalternative.co/) - 发现流行软件的开源替代品。一个精心策划的最佳开源替代品集合 ，替代日常的SaaS产品。使用为您精心挑选的可靠工具节省金钱。
+* [Open Source Projects](https://opensourceprojects.cc/) - 发现开源项目和专有软件的开源替代品。一个可按分类搜索的目录，帮你找到可自托管的社区驱动工具。
 
 
 ### 盗版软件下载网站黑名单
