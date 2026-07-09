@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 04:48:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OATS</title>
+      <link>https://github.com/ariso-ai/oats</link>
+      <guid isPermaLink="false">9654998824e9692ac4d6953152ff997cd884ac6c:OATS</guid>
+      <pubDate>Thu, 09 Jul 2026 04:48:55 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: OATS
+Description: 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 로컬 우선 회의 노트 앱.
+Open Source: https://github.com/ariso-ai/oats
+Commit: Add Oats to Note-taking (#2268)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: OATS<br/>Description: 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 로컬 우선 회의 노트 앱.<br/>Open Source: https://github.com/ariso-ai/oats<br/>Commit: Add Oats to Note-taking (#2268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c]]></content:encoded>
+    </item>
     <item>
       <title>Prevail</title>
       <link>https://prevail.sh</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/hehehai/voxt
 Commit: Add Voxt
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Voxt<br/>Description: 누르고 말한 뒤 놓으면 바로 붙여넣는 음성 입력·번역 도구로, 앱과 URL별로 AI 전사 규칙을 다르게 설정할 수 있습니다.<br/>Open Source: https://github.com/hehehai/voxt<br/>Commit: Add Voxt<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfa7de91149e2ca2e826fe8f5e78dbf1aab5895c]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenQuack</title>
-      <link>https://github.com/larryxiao/openquack</link>
-      <guid isPermaLink="false">a2573ab1b8fb087f1a9e849916de7cc972eed79b:OpenQuack</guid>
-      <pubDate>Thu, 07 May 2026 02:23:58 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: OpenQuack
-Description: 프라이버시 중심 음성 받아쓰기 도구로, 단축키로 말하면 WhisperKit이 로컬에서 전사해 커서 위치에 입력합니다.
-Open Source: https://github.com/larryxiao/openquack
-Commit: Update OpenQuack (#2040)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: OpenQuack<br/>Description: 프라이버시 중심 음성 받아쓰기 도구로, 단축키로 말하면 WhisperKit이 로컬에서 전사해 커서 위치에 입력합니다.<br/>Open Source: https://github.com/larryxiao/openquack<br/>Commit: Update OpenQuack (#2040)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2573ab1b8fb087f1a9e849916de7cc972eed79b]]></content:encoded>
     </item>
   </channel>
 </rss>
