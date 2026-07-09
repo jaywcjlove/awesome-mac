@@ -822,6 +822,7 @@ Awesome Mac
 
 ## 암호화
 
+* [ChaBox](https://github.com/huanguan1978/chacrypt/tree/main/chabox) - ChaCha20-Poly1305 기반의 오픈 소스 크로스 플랫폼 파일 암호화 도구로, 일괄 암호화/복호화, 아카이브/해제, 안전 삭제, 보안 일기 기능을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/huanguan1978/chacrypt) ![Freeware][Freeware Icon]
 * [Cryptomator](https://cryptomator.org/) - 클라우드 파일의 투명한 클라이언트 측 암호화. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 
 ## 보안 도구

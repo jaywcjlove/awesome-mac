@@ -1094,6 +1094,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Encryption
 
+* [ChaBox](https://github.com/huanguan1978/chacrypt/tree/main/chabox) - Open-source cross-platform file encryption tool based on ChaCha20-Poly1305, with batch encrypt/decrypt, archive/unarchive, secure wipe, and secure journal features. [![Open-Source Software][OSS Icon]](https://github.com/huanguan1978/chacrypt) ![Freeware][Freeware Icon]
 * [Cryptomator](https://cryptomator.org/) -  Multi-platform transparent client-side encryption of your files in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - Open-source file encryption tool. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
 
