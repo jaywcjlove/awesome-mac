@@ -1,0 +1,21 @@
+name: 🗑 Removal from list
+description: Suggest a removal from this list.
+title: '🗑 Remove <App Name>'
+labels: ['removal']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: Each discrete (stand-alone) request should be in its own issue.
+      
+  - type: textarea
+    attributes:
+      label: 😳 Explain why it should be removed
+      description: A clear and concise description of why it should be removed from this list.
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: 📖 Additional context
+      description: Add any other context or screenshots about the feature request here.

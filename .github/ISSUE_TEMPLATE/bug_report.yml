@@ -1,0 +1,48 @@
+name: 🐞 Bug Report
+description: File a report when something goes wrong so it can get fixed!
+title: '🐞 Bug Report: xxx.md'
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: Each discrete (stand-alone) request should be in its own issue.  
+
+  - type: textarea
+    attributes:
+      label: 🐞 Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: ex. xxxx
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **To Reproduce**
+        Steps to reproduce the behavior:
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+
+  - type: textarea
+    attributes:
+      label: 📖 Expected behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: ex. xxxx
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 🌅 Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+      placeholder: ex. xxxx
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: "💻 Desktop"
+      placeholder: ex. `MacOS 13.0.1`
