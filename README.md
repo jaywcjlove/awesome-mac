@@ -992,6 +992,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
 * [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - Native SwiftUI macOS remote for the Transmission daemon; a modern transgui alternative. [![Open-Source Software][OSS Icon]](https://github.com/epaxpax/transmission-remote-gui) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XGetter](https://xgetter.com/) - Media downloader for video and audio from major websites. ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
