@@ -869,6 +869,7 @@ Awesome Mac
 
 ### 写作
 
+* [Core](https://corewrite.app/) - AI 编辑器通读整篇稿件进行批评与连贯性检查的写作应用，内置竖排排版与图书馆藏书检索。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/core-ai-writing-studio/id6761600363?platform=mac)
 * [Retrotype](https://retrotype.ink/) - 有趣且极简的写作应用，带来真实打字机的手感。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 一个开源的纯文本编辑器，专为写小说设计。它支持类似 Markdown 的最小语法来格式化文本。 [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台

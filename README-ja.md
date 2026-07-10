@@ -284,6 +284,7 @@ Awesome Mac
 
 ### ライティング
 
+* [Core](https://corewrite.app/) - 原稿全体を読む AI エディタで批評と整合性チェックを行い、縦書き組版と蔵書検索を内蔵したライティングアプリ。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/core-ai-writing-studio/id6761600363?platform=mac)
 * [Retrotype](https://retrotype.ink/) - 本物のタイプライターのような感覚の楽しくミニマルなライティングアプリ。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - ライターのための定番ワードプロセッサ。
