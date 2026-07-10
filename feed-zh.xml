@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:52:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Battery Hog</title>
+      <link>https://github.com/luke-fairbanks/BatteryHog</link>
+      <guid isPermaLink="false">e34fa129f9bce64dbc862880429b71ea15c1afa3:Battery Hog</guid>
+      <pubDate>Fri, 10 Jul 2026 07:52:03 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: Battery Hog
+Description: 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。
+Open Source: https://github.com/luke-fairbanks/BatteryHog
+Commit: Add Battery Hog (#2285)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Battery Hog<br/>Description: 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
+    </item>
     <item>
       <title>OATS</title>
       <link>https://github.com/ariso-ai/oats</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/1989v/muxbar
 Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: muxbar<br/>Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
-    </item>
-    <item>
-      <title>Actions</title>
-      <link>https://sindresorhus.com/actions</link>
-      <guid isPermaLink="false">865a87a62dfe687e3d1bbe96632a32410483d54b:Actions</guid>
-      <pubDate>Sat, 09 May 2026 20:54:48 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Actions
-Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]
-Website: https://sindresorhus.com/actions
-Commit: Changes in &quot;Actions&quot; (#2046)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Actions<br/>Description: 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon]<br/>Website: https://sindresorhus.com/actions<br/>Commit: Changes in &quot;Actions&quot; (#2046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/865a87a62dfe687e3d1bbe96632a32410483d54b]]></content:encoded>
     </item>
   </channel>
 </rss>
