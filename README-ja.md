@@ -1250,6 +1250,7 @@ Awesome Mac
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) - macOSメニューバー用の世界一洗練されたポモドーロタイマー。 [![Open-Source Software][OSS Icon]](https://github.com/ivoronin/TomatoBar) ![Freeware][Freeware Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - メニューバーまたはウィジェットにUTC時刻を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904?platform=mac)
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Macのメニューバーアイコンを非表示にする。 ![Freeware][Freeware Icon]
+* [Vibe Island](https://vibeisland.app) - MacBook のノッチを AI コーディングエージェント（Claude Code、Codex、Gemini CLI など）のコントロールパネルに変える。セッション監視、権限承認、該当ターミナルペインへのジャンプに対応。
 * [Vorssaint](https://vorssaint.com) - アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Week Number](https://sindresorhus.com/week-number) - メニューバーに現在の週番号を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523?platform=mac)
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - メニューバーから勤務時間を追跡するシンプルなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
