@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Jul 2026 07:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:03:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Profisor</title>
+      <link>https://github.com/yefga/Profisor</link>
+      <guid isPermaLink="false">68b54c06902da7c3eef7c2abcf1d28625dcb5de7:Profisor</guid>
+      <pubDate>Sat, 11 Jul 2026 09:03:09 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Profisor
+Description: 从菜单栏切换当前项目的 Xcode 描述文件。
+Open Source: https://github.com/yefga/Profisor
+Commit: Add Profisor (#2289)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Profisor<br/>Description: 从菜单栏切换当前项目的 Xcode 描述文件。<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
+    </item>
     <item>
       <title>Battery Hog</title>
       <link>https://github.com/luke-fairbanks/BatteryHog</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
 Commit: Add SSH Keys Manager to developer utilities (#2049)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: SSH Keys Manager<br/>Description: 用于管理本地 SSH 密钥和 Git 身份的原生 macOS 应用。<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
-    </item>
-    <item>
-      <title>muxbar</title>
-      <link>https://github.com/1989v/muxbar</link>
-      <guid isPermaLink="false">f391a6ecf7df89a765abc5fb746b163450eaa64d:muxbar</guid>
-      <pubDate>Sat, 09 May 2026 21:14:38 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: muxbar
-Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。
-Open Source: https://github.com/1989v/muxbar
-Commit: Add muxbar — menu bar tmux controller for macOS (#2044)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: muxbar<br/>Description: 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。<br/>Open Source: https://github.com/1989v/muxbar<br/>Commit: Add muxbar — menu bar tmux controller for macOS (#2044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f391a6ecf7df89a765abc5fb746b163450eaa64d]]></content:encoded>
     </item>
   </channel>
 </rss>
