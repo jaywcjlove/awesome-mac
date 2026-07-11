@@ -1184,7 +1184,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - Control your Apple TV from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
-* [Karafuru](https://github.com/yefga/karafuru) - Charming color assistant that lives in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/karafuru/id6757244075?platform=mac)
 * [KeyStats](https://keystats.vercel.app) - Menu bar tracker for daily keystrokes, clicks, movement, and scrolling. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - Save all your Mac apps for later with one click. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 * [LuxShot](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
@@ -1204,6 +1203,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264?platform=mac)
 * [Peninsula](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
+* [Profisor](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Quickgif](https://quickgif.app/) - Quickly Find and Share GIFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.

@@ -1208,7 +1208,6 @@ Awesome Mac
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [Itsyhome](https://itsyhome.app) - 从菜单栏控制 HomeKit 和 Home Assistant 智能家居。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - 从菜单栏控制 Apple TV。[![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
-* [Karafuru](https://github.com/yefga/karafuru) - 常驻于菜单栏的可爱色彩助手。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/karafuru/id6757244075?platform=mac)
 * [KeyStats](https://keystats.vercel.app) - 统计每日按键、点击、移动和滚动数据的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Logoer](https://github.com/lihaoyun6/Logoer) - 更换 macOS 菜单栏苹果 Logo 样式的小工具。[![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Logoer) ![Freeware][Freeware Icon]
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?platform=mac)
@@ -1219,6 +1218,7 @@ Awesome Mac
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 在菜单栏实时显示上下行网速和带宽占用应用的原生工具。 [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
+* [Profisor](https://github.com/yefga/Profisor) - 从菜单栏切换当前项目的 Xcode 描述文件。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 强大的菜单栏管理工具，用于隐藏和显示菜单栏项目。[![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Today](https://sindresorhus.com/today) - 在菜单栏查看今天日程和日历事件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)

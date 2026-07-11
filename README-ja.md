@@ -1180,7 +1180,6 @@ Awesome Mac
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - メニューバーからHomeKitおよびHome Assistantスマートホームを操作。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
-* [Karafuru](https://github.com/yefga/karafuru) - メニューバーに常駐するチャーミングなカラーアシスタント。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/karafuru/id6757244075?platform=mac)
 * [KeyStats](https://keystats.vercel.app) - 毎日のキー入力、クリック、移動、スクロールを追跡するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - ホットキーで画面ロックを切り替えられるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - ワンクリックですべてのMacアプリを後で使うために保存。 [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
@@ -1201,6 +1200,7 @@ Awesome Mac
 * [Pandan](https://sindresorhus.com/pandan) - メニューバーでの時間認識。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264?platform=mac)
 * [Peninsula](https://github.com/Celve/Peninsula) - ウィンドウ切り替え、通知、ファイルストレージに焦点を当てたmacOS用ダイナミックペニンシュラ。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [PowerMeister](https://naden.co) - MacBookのエネルギーを節約し、バッテリー寿命を改善。
+* [Profisor](https://github.com/yefga/Profisor) - メニューバーから現在のプロジェクトの Xcode プロビジョニングプロファイルを切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Quickgif](https://quickgif.app/) - GIFを素早く見つけて共有。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - リマインダーを表示・操作するシンプルなmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - AIの支援でテキストを書くのを助けるmacOSメニューバーアプリ。
