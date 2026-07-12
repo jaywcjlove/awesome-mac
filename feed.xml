@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:18:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Knopo</title>
+      <link>https://github.com/alkalim/Knopo</link>
+      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
+      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Knopo
+Description: Native macOS outliner for local-first notes stored as plain Markdown files.
+Open Source: https://github.com/alkalim/Knopo
+Commit: Add Knopo (#2291)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knopo<br/>Description: Native macOS outliner for local-first notes stored as plain Markdown files.<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
+    </item>
     <item>
       <title>Gemini Collector</title>
       <link>https://github.com/FirenzeLor/gemini-collector</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/nshi/dimsum
 Commit: Add Dimsum (#2030)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Dimsum<br/>Description: Minimalist menu bar app that dims inactive windows to highlight the focused one.<br/>Open Source: https://github.com/nshi/dimsum<br/>Commit: Add Dimsum (#2030)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6cd5546dd85d1ae13b7fe842289afa327dd38b4]]></content:encoded>
-    </item>
-    <item>
-      <title>Snapback</title>
-      <link>https://snapbackapp.com</link>
-      <guid isPermaLink="false">0c99392e774cb3f5f94f0c2c636c96c76d60030b:Snapback</guid>
-      <pubDate>Wed, 13 May 2026 23:00:43 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Snapback
-Description: Save and restore entire window layouts with one keystroke.
-Website: https://snapbackapp.com
-Commit: Add Snapback to Window Management section (#2058)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Snapback<br/>Description: Save and restore entire window layouts with one keystroke.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
     </item>
   </channel>
 </rss>
