@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 11 Jul 2026 09:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:08:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gemini Collector</title>
+      <link>https://github.com/FirenzeLor/gemini-collector</link>
+      <guid isPermaLink="false">5ac5d87f284028cf73b34cb7b9a722ea5d0629e1:Gemini Collector</guid>
+      <pubDate>Sun, 12 Jul 2026 00:08:52 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Gemini Collector
+Description: Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업.
+Open Source: https://github.com/FirenzeLor/gemini-collector
+Commit: Add Gemini Collector to AI Tools (#2295)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Gemini Collector<br/>Description: Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업.<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
+    </item>
     <item>
       <title>Profisor</title>
       <link>https://github.com/yefga/Profisor</link>
@@ -693,20 +707,6 @@ Website: https://snapbackapp.com
 Commit: Add Snapback to Window Management section (#2058)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Snapback<br/>Description: 키 한 번으로 전체 창 레이아웃을 저장하고 복원.<br/>Website: https://snapbackapp.com<br/>Commit: Add Snapback to Window Management section (#2058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c99392e774cb3f5f94f0c2c636c96c76d60030b]]></content:encoded>
-    </item>
-    <item>
-      <title>SSH Keys Manager</title>
-      <link>https://github.com/Stmol/ssh-keys-manager-macos-app</link>
-      <guid isPermaLink="false">3a1d903bf14752597429f32fd93ccee9face0f7b:SSH Keys Manager</guid>
-      <pubDate>Sun, 10 May 2026 14:06:25 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: SSH Keys Manager
-Description: 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다.
-Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app
-Commit: Add SSH Keys Manager to developer utilities (#2049)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: SSH Keys Manager<br/>Description: 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다.<br/>Open Source: https://github.com/Stmol/ssh-keys-manager-macos-app<br/>Commit: Add SSH Keys Manager to developer utilities (#2049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a1d903bf14752597429f32fd93ccee9face0f7b]]></content:encoded>
     </item>
   </channel>
 </rss>
