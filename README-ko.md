@@ -152,7 +152,6 @@ Awesome Mac
 - [QuickLook 플러그인](#quicklook-플러그인)
 - [서드파티 앱 마켓](#서드파티-앱-마켓)
 - [Mac 앱 다운로드 사이트](#mac-앱-다운로드-사이트)
-- [팟캐스트](#팟캐스트)
 - [기여자](#기여자)
 - [라이선스](#라이선스)
 
@@ -1066,10 +1065,6 @@ Awesome Mac
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
-
-## 팟캐스트
-
-* [Mac Power Users](https://www.relay.fm/mpu) - Apple 기술을 최대한 활용하는 방법. ![Freeware][Freeware Icon]
 
 **[⬆ 상단으로 이동](#목차)**
 

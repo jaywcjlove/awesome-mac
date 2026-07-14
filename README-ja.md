@@ -162,7 +162,6 @@ Awesome Mac
 - [Macアプリダウンロードサイト](#macアプリダウンロードサイト)
   - [正規サイト](#正規サイト)
   - [海賊版ソフトウェアダウンロードサイトのブロックリスト](#海賊版ソフトウェアダウンロードサイトのブロックリスト)
-- [ポッドキャスト](#ポッドキャスト)
 - [コントリビューター](#コントリビューター)
 - [ライセンス](#ライセンス)
 
@@ -1633,10 +1632,6 @@ Awesome Mac
 * AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
-
-## ポッドキャスト
-
-* [Mac Power Users](https://www.relay.fm/mpu) - 集中的なトピックとワークフローのゲストを通じて、Appleテクノロジーを最大限に活用する方法を学べます。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 **[⬆ トップに戻る](#contents)**
 

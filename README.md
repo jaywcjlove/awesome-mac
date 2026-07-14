@@ -163,7 +163,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 - [Mac App Download Sites](#mac-app-download-sites)
   - [Genuine Sites](#genuine-sites)
   - [Pirated software download site blocklist](#pirated-software-download-site-blocklist)
-- [Podcasts](#podcasts)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -1636,10 +1635,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 * AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
-
-## Podcasts
-
-* [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 **[⬆ back to top](#contents)**
 
