@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:18:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacTools</title>
+      <link>https://github.com/ggbond268/MacTools</link>
+      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
+      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: MacTools
+Description: 디스플레이 제어, 시스템 토글, 정리, 기기 상태, 일상 유틸리티를 제공하는 확장 가능한 플러그인 시스템 기반의 오픈 소스 메뉴 바 도구 모음.
+Open Source: https://github.com/ggbond268/MacTools
+Commit: Add MacTools to menu bar tools (#2313)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MacTools<br/>Description: 디스플레이 제어, 시스템 토글, 정리, 기기 상태, 일상 유틸리티를 제공하는 확장 가능한 플러그인 시스템 기반의 오픈 소스 메뉴 바 도구 모음.<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
+    </item>
     <item>
       <title>OpenDisplay</title>
       <link>https://opendisplay.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/puresnitch
 Commit: Add PureSnitch (#2089)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7</description>
       <content:encoded><![CDATA[Category: 보안 도구<br/>App: PureSnitch<br/>Description: Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음).<br/>Open Source: https://github.com/momenbasel/puresnitch<br/>Commit: Add PureSnitch (#2089)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7]]></content:encoded>
-    </item>
-    <item>
-      <title>Live Translator</title>
-      <link>https://github.com/umutcetinkaya/live-translator</link>
-      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
-      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
-      <category>번역 도구</category>
-      <description>Category: 번역 도구
-App: Live Translator
-Description: OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구.
-Open Source: https://github.com/umutcetinkaya/live-translator
-Commit: Add Live Translator to zh/ja/ko translation tools
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
-      <content:encoded><![CDATA[Category: 번역 도구<br/>App: Live Translator<br/>Description: OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구.<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
     </item>
   </channel>
 </rss>
