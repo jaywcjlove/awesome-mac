@@ -219,6 +219,7 @@ Awesome Mac
 * [Dnote](https://www.getdnote.com/) - 멀티 디바이스 동기화를 지원하는 간단한 명령줄 노트북. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 다양한 플랫폼에서 사용 가능한 유명 노트 앱. ![Freeware][Freeware Icon]
+* [Flyout](https://getflyout.app/) - 화면 가장자리에서 미끄러져 나오는 리치 텍스트 노트. 코드 블록, 리마인더, 마크다운 지원. ![Native App][Native Icon]
 * [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - 간단하고 대화형 디자인의 쓰기 앱 및 작업 관리자.
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
