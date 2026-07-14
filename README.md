@@ -560,6 +560,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Zenithal](https://www.empiricapps.com/zenithal) - Native GUI for managing Docker containers, Compose stacks, and Kubernetes, with image vulnerability scanning. ![Native App][Native Icon]
 
 ### Databases
 
