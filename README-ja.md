@@ -1209,6 +1209,7 @@ Awesome Mac
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - シームレスなGoogle Drive同期のためのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [Folder Peek](https://sindresorhus.com/folder-peek) - メニューバーからドキュメント、ファイル、フォルダ、アプリに素早くアクセス。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1615988943?platform=mac)
 * [Hidden](https://github.com/dwarvesf/hidden) - メニューバーアイコンの非表示を支援する超軽量macOSユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
+* [Hidey](https://qlinxx.gumroad.com/l/hidey) - マウスカーソルを隠す、Mac をスリープさせない、開いているウィンドウをすべて隠す、画面をロックする操作をそれぞれショートカット一つで行えるメニューバーアプリ。
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
