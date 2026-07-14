@@ -277,6 +277,7 @@ Awesome Mac
 
 ### ジャーナリング
 
+* [Cozy](https://cozyjournal.app) - ずっとあなたのものであり続けるプライベートな日記アプリ。
 * [Day One](https://dayoneapp.com/) - テキスト、写真、動画、音声、位置情報などを使った優れたジャーナルアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?platform=mac)
 * [Journey](https://journey.cloud/) - 豊富な機能を持ち、すべてのプラットフォームで利用可能なジャーナリングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac)
 * [Life Note](https://mylifenote.ai) - 人類史上の偉大な知性と共にジャーナルを。 ![Freeware][Freeware Icon]

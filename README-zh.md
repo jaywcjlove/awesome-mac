@@ -790,6 +790,7 @@ Awesome Mac
 * [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/agenda-notes-meets-calendar/?platform=mac)
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/bear-beautiful-writing-app/id1091189122?platform=mac)
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Cozy](https://cozyjournal.app) - 始终属于你自己的私密日记。
 
 ### Office
 
