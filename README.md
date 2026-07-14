@@ -384,8 +384,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
+* [A Better Finder Rename](http://www.publicspace.net/ABetterFinderRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename/id6738119141?mt=12)
 * [AXe](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
-* [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
