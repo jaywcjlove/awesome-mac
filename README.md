@@ -1183,6 +1183,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SnippetCraft](https://getsnippetcraft.com) - System-wide text expansion, snippet management, and clipboard history for macOS.
 * [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
+* [NanoClip](https://getnano.dev/clip) - Keyboard-first clipboard history, snippets, and automation flows for macOS. ![Freeware][Freeware Icon]
 * [OneClip](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - Clipboard history and snippets manager for organizing reusable copied content. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
