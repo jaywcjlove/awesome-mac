@@ -780,6 +780,7 @@ Awesome Mac
 
 ## AIツール
 
+* [Agent CLI Menu](https://github.com/roypadina/AgentCliMenu) - Claude Code と Codex のセッションを起動・再開するための TUI とメニューバー ランチャー。過去セッションの全文ファジー検索に対応。 [![Open-Source Software][OSS Icon]](https://github.com/roypadina/AgentCliMenu) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
