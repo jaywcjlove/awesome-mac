@@ -1090,6 +1090,7 @@ Awesome Mac
 * [SubManager](https://submanager.app) - 更新通知に対応したサブスクリプション管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - リマインダー、分析、iCloud同期でサブスクリプション、更新、支出を1か所で追跡。
 * [StockDock](https://github.com/simonsruggi/StockDock) - メニューバーで株・ETF・暗号資産のリアルタイム相場を表示するツール。ポートフォリオ損益と多通貨に対応し、プライバシー重視でアカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
+* [TickerNotch](https://bitvibelabs.com/tickernotch/) - MacBookのノッチ横の黒い領域に株・暗号資産のリアルタイム相場、RSSニュース、価格アラート、ポジション損益を表示。クリックでローソク足チャート、アカウント不要。 ![Native App][Native Icon]
 
 ## 暗号化
 
