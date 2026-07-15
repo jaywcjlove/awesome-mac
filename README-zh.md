@@ -1208,6 +1208,7 @@ Awesome Mac
 * [ClipTools](https://macmost.com/cliptools) - 方便快速复制、粘贴和整理文本的剪贴板工具集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Maccy](https://github.com/p0deje/Maccy) - 轻量级 macOS 剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - 在剪贴板中自动遮蔽敏感信息的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
+* [Nimclip](https://hukdoesn.github.io/Nimclip/) - 本地优先的剪贴板历史管理工具，支持搜索、标签和图片记录。 [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [OneClip](https://github.com/Wcowin/OneClip) - 简单专业的 macOS 剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 * [Paste Quick](https://wangchujiang.com/paste-quick/) - 简洁、注重隐私的剪贴板管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/paste-quick/6723903021?platform=mac)
 * [Paste](http://pasteapp.me) - 智能剪贴板历史片段管理。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/paste-clipboard-history-manager/id967805235?platform=mac)
