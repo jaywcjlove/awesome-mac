@@ -225,6 +225,7 @@ Awesome Mac
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - 노트를 일반 Markdown 파일로 저장하는 macOS 네이티브 로컬 우선 아웃라이너. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Logseq](https://logseq.com/) - 개인정보 우선의 오픈 소스 지식 베이스. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
+* [Lattics](https://lattics.com/) - 카드 메모, 장문 작성 및 심층 연구에 매우 적합한 강력한 비선형 시각화 텍스트 편집기입니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lattics-brain-like-writing/id1575605022)
 * [MarginNote 4](https://marginnote.com/) - 심도 있는 PDF 및 EPUB 읽기, 학습 및 노트 앱.
 * [massCode](https://masscode.io/) - 마크다운 및 Mermaid를 지원하는 오픈 소스 코드 스니펫 관리자. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - 좋은 문장을 쓰도록 돕는 경량 마크다운 앱.
