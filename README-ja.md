@@ -785,6 +785,7 @@ Awesome Mac
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - ローカルモデルとクラウドモデルに対応したMCP対応のオープンソースAIチャットクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
 * [BoltAI](https://boltai.com) - Mac用の美しく強力なChatGPTアプリ。AIをワークフローに統合して一歩先へ。
+* [ccglance](https://github.com/hatoya/ccglance) - すべてのClaude Codeセッションの状態を一目で確認できる常時最前面のフローティングパネル。許可待ちのセッションは黄色くパルスして知らせる。 [![Open-Source Software][OSS Icon]](https://github.com/hatoya/ccglance) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - 聞き、学び、挑戦する対話型AIシステム。
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
 * [Claude God](https://claudegod.app) - Claudeの使用量、コスト、セッション統計を監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
