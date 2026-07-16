@@ -604,6 +604,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TablePro](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - Open-source backend platform with type-safe APIs, auth, and admin tools built on SQLite. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
 * [redis-pro](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
+* [Stratum](https://stratum.mwn-digital.uk) - A fast, native macOS database GUI for MySQL, MariaDB, PostgreSQL, and SQLite. One-time purchase, no subscription. [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logo-color=white)](https://stratum.mwn-digital.uk)
 
 ## Terminal Apps
 
