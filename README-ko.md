@@ -247,6 +247,7 @@ Awesome Mac
 * [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - 텍스트, 코드, 마크다운, LaTeX를 하나의 노트에서 믹스.
 * [VNote](https://app.vnote.fun/) - 완성도 높은 편집 경험을 제공하는 오픈 소스 마크다운 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
+* [yap](https://useyap.app) - 소리 내어 생각하는 사람을 위한 음성 우선 노트. 단축키를 누른 채 말하면 원본 생각을 보존하고, 정리된 검색 가능한 노트와 결정·할 일 추출을 제공.
 * [Zettel](https://github.com/AlexW00/Zettel) - Markdown과 해시태그 정리를 지원하는 미니멀한 무방해 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
 ### 저널링
