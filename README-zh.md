@@ -1347,6 +1347,7 @@ Awesome Mac
 * [Latest](https://github.com/mangerlahn/Latest) - 一个小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新。 [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/Latest) ![Freeware][Freeware Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS自定义光标主题工具。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
+* [MEGAKILL](https://megakill.app/) - 用霰弹枪光标射击应用来强制退出。单击即可结束卡死的应用或仅关闭单个窗口。
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]

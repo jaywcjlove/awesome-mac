@@ -1540,6 +1540,7 @@ Awesome Mac
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - ダークモード対応のCaffeine代替。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac用の起動可能なmacOS/OS Xインストーラー作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 非アクティブなアプリを自動終了してリソースを整理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
+* [MEGAKILL](https://megakill.app/) - ショットガンカーソルでアプリを撃って強制終了するツール。ワンクリックでフリーズしたアプリを終了、またはウィンドウ1つだけを閉じる。
 * [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - macOSでの中クリックと中ドラッグのための3本指トラックパッドジェスチャー。 [![Open-Source Software][OSS Icon]](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ![Freeware][Freeware Icon]
 * [Monity](http://www.monityapp.com/) - OS X用のシステム監視ウィジェット。
 * [Mounty](http://enjoygineering.com/mounty/) - Mac OS X 10.9以降で書き込み保護されたNTFSボリュームを読み書きモードで再マウントする小さなツール。 ![Freeware][Freeware Icon]
