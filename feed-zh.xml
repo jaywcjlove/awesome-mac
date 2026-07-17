@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Jul 2026 02:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:50:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tura</title>
+      <link>https://turaai.net/</link>
+      <guid isPermaLink="false">179e5205a44847b71ec551a434481e3bd76eee50:Tura</guid>
+      <pubDate>Fri, 17 Jul 2026 05:50:47 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Tura
+Description: Tura 是一个本地、开源的编程智能体，面向厌倦模糊能力宣称、毫无证据的节省 token 扩展，以及在理解仓库之前就改动仓库的开发者。
+Website: https://turaai.net/
+Commit: Add Tura to AI tools (#2333)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Tura<br/>Description: Tura 是一个本地、开源的编程智能体，面向厌倦模糊能力宣称、毫无证据的节省 token 扩展，以及在理解仓库之前就改动仓库的开发者。<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
+    </item>
     <item>
       <title>TabType</title>
       <link>https://github.com/nilava/TabType</link>
@@ -693,20 +707,6 @@ Website: https://denzam.github.io/SystemEQ-for-Mac/
 Commit: Add SystemEQ to the ja/ko/zh list.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: SystemEQ for Mac<br/>Description: 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbor</title>
-      <link>https://github.com/tahseen-kakar/harbor</link>
-      <guid isPermaLink="false">02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039:Harbor</guid>
-      <pubDate>Sun, 31 May 2026 12:41:48 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: Harbor
-Description: 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。
-Open Source: https://github.com/tahseen-kakar/harbor
-Commit: Add Harbor (#2123)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: Harbor<br/>Description: 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
     </item>
   </channel>
 </rss>
