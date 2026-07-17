@@ -865,6 +865,7 @@ Awesome Mac
 
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
+* [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html) - macOS 10.13~15에서 NTFS 드라이브를 메뉴 막대에서 마운트하고 완전한 읽기·쓰기 접근을 제공하는 무료 도구. ![Freeware][Freeware Icon]
 
 ### 클립보드 도구
 
