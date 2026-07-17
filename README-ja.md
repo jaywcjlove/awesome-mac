@@ -810,6 +810,7 @@ Awesome Mac
 * [Tura](https://turaai.net/) - Tura は、曖昧なスキルの主張、根拠のないトークン節約拡張機能、リポジトリを理解する前に変更するエージェントにうんざりした開発者向けの、ローカルでオープンソースのコーディングエージェントです。 [![Open-Source Software][OSS Icon]](https://github.com/Tura-AI/tura) ![Freeware][Freeware Icon]
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Claudeの各種使用量上限をリアルタイムに監視できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - コンピューター上で完全にオフラインで動作するChatGPTのオープンソース代替。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
+* [LokalBot](https://www.lokalbot.com/) - macOS向けのオンデバイス会議ノート、音声入力、インライン自動補完、検索可能な仕事の記憶。 [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 仕様駆動ワークフローで複数のAIコーディングエージェントを連携させるツール。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 記憶機能と自動化機能を備えたローカルファーストの個人向けAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
