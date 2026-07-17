@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jul 2026 04:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:43:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TabType</title>
+      <link>https://github.com/nilava/TabType</link>
+      <guid isPermaLink="false">8b5b02e1fc9960348e88e2e327dada942434540e:TabType</guid>
+      <pubDate>Fri, 17 Jul 2026 01:43:27 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: TabType
+Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.
+Open Source: https://github.com/nilava/TabType
+Commit: Add TabType to list of Mac applications (#2339)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: TabType<br/>Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to list of Mac applications (#2339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e]]></content:encoded>
+    </item>
     <item>
       <title>Segue</title>
       <link>https://segue.npearce.me/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/tahseen-kakar/harbor
 Commit: Add Harbor (#2123)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
       <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Harbor<br/>Description: Open-source download manager for HTTP(S), magnet links, and `.torrent` files.<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Clean</title>
-      <link>https://github.com/iliyami/MacClean</link>
-      <guid isPermaLink="false">a0f814429a6335d4c8ab62623b78570ee1ead160:Mac Clean</guid>
-      <pubDate>Sat, 30 May 2026 10:10:40 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Mac Clean
-Description: Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, 16 junk categories, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. No telemetry, no subscription.
-Open Source: https://github.com/iliyami/MacClean
-Commit: Add Mac Clean (open-source CleanMyMac alternative) (#2110)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0f814429a6335d4c8ab62623b78570ee1ead160</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Mac Clean<br/>Description: Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, 16 junk categories, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor. No telemetry, no subscription.<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean (open-source CleanMyMac alternative) (#2110)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0f814429a6335d4c8ab62623b78570ee1ead160]]></content:encoded>
     </item>
   </channel>
 </rss>
