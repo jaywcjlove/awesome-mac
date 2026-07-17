@@ -740,6 +740,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - Local screen and microphone recorder with AI search. [![Open-Source Software][OSS Icon]](https://github.com/screenpipe/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 * [Tight Studio](https://tight.studio/) - Screen recorder with smart zoom, captions, and AI voiceovers.
+* [YAKC](https://github.com/iammodev/YAKC) - Yet Another Key Caster, a cross-platform keystroke and mouse-click visualizer for screencasts, streaming and presentations. [![Open-Source Software][OSS Icon]](https://github.com/iammodev/YAKC) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
 
 ### Other Tools
