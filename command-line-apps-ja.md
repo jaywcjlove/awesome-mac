@@ -20,6 +20,7 @@
 
 <p style="display: inline_block">
   <sup><a href="https://wangchujiang.com/#/app" target="_blank">私のアプリ</a>を使うことも、<a href="https://wangchujiang.com/#/sponsor" target="_blank">支援</a>する方法のひとつです:</sup><br/>
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -100,9 +101,12 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - Markdownファイルを処理するためのコマンドラインツール。画像のダウンロード、ファイルの翻訳など。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [quokka](https://github.com/dutradotdev/quokka) - ターミナルからUSB接続したiPhoneを検査・整理。ストレージ、アプリ、メディア、ライブsyslogビューア。脱獄不要。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
+* [say-it](https://pronounce.renlab.ai) - 開発者用語の正しい発音を読み上げるコミュニティ発音辞典。出典付きの1650以上のエントリ（kubectl、nginx、GIF、JSON）を収録し、macOSのsayコマンドを利用。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 強力なアプリブラウジングとファイル表示機能を備えたiOSシミュレーター管理用ターミナルUI。 [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
 
 ## その他
@@ -115,6 +119,7 @@ Awesome Command Line Apps
 * [bash-it](https://github.com/Bash-it/bash-it) - bash版のoh-my-zsh。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - シンタックスハイライトとGit統合を備えた`cat(1)`クローン。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - バッテリーの最大充電量を制限するmacOSコマンドラインユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
+* [Clipport](https://github.com/arihantsethia/clipport) - MacのクリップボードテキストやスクリーンショットをリモートのiTerm SSHセッションへ貼り付け。 [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [ccat](https://github.com/jingweno/ccat) - catと同様に動作するが、シンタックスハイライト付きでコンテンツを表示するカラーリングcat。 [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [ClamAV](https://www.clamav.net/) - クロスプラットフォームのオープンソースアンチウイルスエンジン。 [![OSS][OSS Icon]](https://github.com/Cisco-Talos/clamav/) ![Freeware][Freeware Icon]
 * [cmatrix](https://github.com/abishekvashok/cmatrix/) - 映画「マトリックス」にインスパイアされたターミナルスクリーンセーバー。 [![OSS][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
