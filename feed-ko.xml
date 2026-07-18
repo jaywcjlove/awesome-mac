@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:20:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Changes</title>
+      <link>https://github.com/maoyama/Changes</link>
+      <guid isPermaLink="false">2b914ff2e03ed8f449b44356cfcce5efee98c3c3:Changes</guid>
+      <pubDate>Sat, 18 Jul 2026 15:20:14 GMT</pubDate>
+      <category>개발 도구 / 버전 관리</category>
+      <description>Category: 개발 도구 / 버전 관리
+App: Changes
+Description: GUI Git 클라이언트. 명확한 UI와 AI 어시스트로 Git CLI를 대체.
+Open Source: https://github.com/maoyama/Changes
+Commit: Add Changes to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 버전 관리<br/>App: Changes<br/>Description: GUI Git 클라이언트. 명확한 UI와 AI 어시스트로 Git CLI를 대체.<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Add Changes to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3]]></content:encoded>
+    </item>
     <item>
       <title>StrokeMouse</title>
       <link>https://strokemouse.com</link>
@@ -693,20 +707,6 @@ Website: https://cursorvoice.app
 Commit: Add Cursor Voice to the ja/ko/zh list. #2140
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Cursor Voice<br/>Description: 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트.<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
-    </item>
-    <item>
-      <title>Sleepless</title>
-      <link>https://github.com/Aboudjem/Sleepless</link>
-      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
-      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Sleepless
-Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
-Open Source: https://github.com/Aboudjem/Sleepless
-Commit: Add Sleepless to System Related Tools (#2134)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
     </item>
   </channel>
 </rss>
