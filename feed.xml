@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 Jul 2026 15:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 02:03:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LingShu</title>
+      <link>https://royzhao1991.github.io/LingShu/</link>
+      <guid isPermaLink="false">cac4ce1bd06dd55a1504c2bd67548b4f19560284:LingShu</guid>
+      <pubDate>Sun, 19 Jul 2026 02:03:52 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: LingShu
+Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.
+Website: https://royzhao1991.github.io/LingShu/
+Commit: Add LingShu to AI Tools (#2355)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: LingShu<br/>Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
+    </item>
     <item>
       <title>Changes</title>
       <link>https://github.com/maoyama/Changes</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/pantafive/fader
 Commit: Add Fader to Audio and Video Tools (#2152)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Fader<br/>Description: Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control.<br/>Open Source: https://github.com/pantafive/fader<br/>Commit: Add Fader to Audio and Video Tools (#2152)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b]]></content:encoded>
-    </item>
-    <item>
-      <title>Cursor Voice</title>
-      <link>https://cursorvoice.app</link>
-      <guid isPermaLink="false">982aed0bf7329e9bde5768420e6cf871024e359e:Cursor Voice</guid>
-      <pubDate>Wed, 03 Jun 2026 01:01:06 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Cursor Voice
-Description: Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API.
-Website: https://cursorvoice.app
-Commit: Add Cursor Voice to the ja/ko/zh list. #2140
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Cursor Voice<br/>Description: Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API.<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
     </item>
   </channel>
 </rss>
