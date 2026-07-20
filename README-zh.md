@@ -871,6 +871,7 @@ Awesome Mac
 * [Revu](https://revu.cards/) - 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Stik](https://github.com/0xMassi/stik_app) - 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [VNote](https://app.vnote.fun/) - 带优秀编辑体验的开源 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
+* [yap](https://useyap.app) - 为爱边说边想的人打造的语音笔记：按住全局快捷键说话，即可保留原始语音内容，并生成可搜索的整洁笔记，自动提取决定和待办。
 * [Zettel](https://github.com/AlexW00/Zettel) - 极简无干扰笔记应用，支持 Markdown 和标签整理。 [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 * [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。![Freeware][Freeware Icon]
 * [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。![Freeware][Freeware Icon]
