@@ -1057,6 +1057,7 @@ Awesome Mac
 
 ## QuickLook 플러그인
 
+* [Burrete](https://burrete-landing.vercel.app/) - PDB, SDF, mmCIF, XYZ, 트래젝터리 및 화학 테이블을 Finder Quick Look으로 미리 보는 오픈 소스 분자 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/SergeiNikolenko/Burrete) ![Freeware][Freeware Icon]
 * [CSV Quick Look](https://github.com/adamorad/csv-quick-look) - 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/adamorad/csv-quick-look) ![Freeware][Freeware Icon]
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - 마크다운 파일을 위한 Quick Look 도구. [![Open-Source Software][OSS Icon]](https://github.com/sbarex/QLMarkdown) ![Freeware][Freeware Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Markdown, Mermaid, KaTeX 등을 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]

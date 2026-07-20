@@ -1597,6 +1597,7 @@ Awesome Mac
 
 > [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
+* [Burrete](https://burrete-landing.vercel.app/) - PDB、SDF、mmCIF、XYZ、トラジェクトリ、化学テーブルを Finder のクイックルックで表示できるオープンソースの分子ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/SergeiNikolenko/Burrete) ![Freeware][Freeware Icon]
 * [CSV Quick Look](https://github.com/adamorad/csv-quick-look) - 仮想スクロール、並べ替え、フィルター、ダークモードに対応した CSV/TSV 用 Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/adamorad/csv-quick-look) ![Freeware][Freeware Icon]
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Markdownファイル用のクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Mermaid や KaTeX にも対応した Markdown 用 Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
