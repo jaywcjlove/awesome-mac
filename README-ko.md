@@ -259,6 +259,7 @@ Awesome Mac
 
 ### 쓰기
 
+* [Nextline](https://www.thenextline.app/) - 로컬 LLM으로 구동되는 시스템 전역 인라인 자동완성 도구. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 실제 타자기 느낌을 주는 미니멀한 쓰기 앱. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
