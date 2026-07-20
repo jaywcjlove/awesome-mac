@@ -386,6 +386,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
+* [ASN1](https://asn1.inyosystems.com/) - ASN.1 workbench for validating schemas, encoding and decoding with BER, DER, OER, PER, UPER, and XER, and inspecting BER/DER structures. [![App Store][app-store Icon]](https://apps.apple.com/us/app/asn1/id6477905565?platform=mac) ![Native App][Native Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](https://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](https://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
