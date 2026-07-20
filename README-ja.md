@@ -1367,6 +1367,7 @@ Awesome Mac
 * [BetterTouchTool](https://folivora.ai/) - トラックパッド、マウス、キーボードのジェスチャーや操作を細かくカスタマイズできるツール。
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
+* [Chronoid](https://www.chronoid.app/) - アプリやウェブサイトの利用時間を自動記録し、データをローカルに保存する時間追跡ツール。
 * [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - アクセラレーションカーブなどを調整できるマウス＆トラックパッドドライバー。
 * [Day Progress](https://sindresorhus.com/day-progress) - メニューバーに今日の残り時間を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
