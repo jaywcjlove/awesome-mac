@@ -739,6 +739,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
 * [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recorder with auto-zoom, cursor effects, and timeline editing. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - Local screen and microphone recorder with AI search. [![Open-Source Software][OSS Icon]](https://github.com/screenpipe/screenpipe) ![Freeware][Freeware Icon]
+* [SmoothCapture](https://www.smoothcapture.app/) - Screen recorder for app demo videos with 3D device frames, auto zoom, cursor effects, and captions.
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 * [Tight Studio](https://tight.studio/) - Screen recorder with smart zoom, captions, and AI voiceovers.
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
