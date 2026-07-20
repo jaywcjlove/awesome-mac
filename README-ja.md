@@ -842,6 +842,7 @@ Awesome Mac
 * [LimeChat](http://limechat.net/mac/) - Mac OS X用のオープンソースIRCクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Mastodon](https://mastodon.social/) - セルフホスト型で、グローバルに相互接続されたマイクロブログコミュニティ [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 * [Matrix](https://matrix.org/) - セキュアで分散型のコミュニケーションのためのオープンネットワーク！ ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [MattCha](https://www.mattcha.app/) - チャット、スレッド、リアクション、添付ファイル、ボイスメッセージに対応したネイティブ Mattermost クライアント。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mattcha/id6782971560?platform=mac)
 * [Mattermost](https://mattermost.com/download/) - オープンソースのチームコラボレーションプラットフォーム。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Misskey](https://misskey-hub.net/) - 🌎 完全に無料でオープンな惑星間マイクロブログプラットフォーム 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
 * [Muzzle](https://muzzleapp.com/) - 画面共有中に恥ずかしい通知を非表示にするシンプルなMacアプリ。
