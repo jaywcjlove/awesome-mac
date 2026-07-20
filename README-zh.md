@@ -1231,7 +1231,7 @@ Awesome Mac
 
 ### 菜单栏工具
 
-* [Agent Island](https://github.com/tristan666666/agent-island) - 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。 [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [Agent Island](https://github.com/tristan666666/agent-island) - Claude Code 和 Codex 的开源状态伴侣，提供实时会话状态、轮到你时提醒和本地监控。 [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - 轻松托管本地静态网站和 Rack 应用的工具。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。

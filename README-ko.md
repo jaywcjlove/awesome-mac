@@ -890,7 +890,7 @@ Awesome Mac
 
 ### 메뉴 바 도구
 
-* [Agent Island](https://github.com/tristan666666/agent-island) - MacBook 노치에서 Claude Code와 Codex 세션 상태를 보여주고 선택한 장시간 작업을 자동으로 이어서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [Agent Island](https://github.com/tristan666666/agent-island) - Claude Code와 Codex용 오픈 소스 상태 동반 앱으로, 실시간 세션 상태, 사용자 응답 알림, 로컬 모니터링을 제공. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 노치를 미디어 제어, 라이브 활동, 빠른 유틸리티를 담은 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
