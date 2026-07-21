@@ -1099,6 +1099,7 @@ Awesome Mac
 
 ## 暗号化
 
+* [ChaBox](https://github.com/huanguan1978/chacrypt/tree/main/chabox) - ChaCha20-Poly1305 ベースのオープンソースなクロスプラットフォーム対応ファイル暗号化ツール。一括暗号化/復号、アーカイブ/展開、安全削除、セキュア日記機能を備えています。 [![Open-Source Software][OSS Icon]](https://github.com/huanguan1978/chacrypt) ![Freeware][Freeware Icon]
 * [Cryptomator](https://cryptomator.org/) - クラウド上のファイルのマルチプラットフォーム透過型クライアントサイド暗号化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - オープンソースのファイル暗号化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
 
