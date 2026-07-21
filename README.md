@@ -1195,6 +1195,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
 * [Pesty](https://github.com/momenbasel/pesty) - Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Drobu](https://drobu.app) - A clipboard manager you can edit: capture text, images, GIFs, files, and screen recordings, then crop, trim, and paste them. Local-only, one-time purchase. ![Native App][Native Icon]
 
 ### Menu Bar Tools
 
