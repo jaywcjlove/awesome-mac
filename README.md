@@ -611,6 +611,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - AI-native terminal emulator with multi-provider profiles and voice input. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
+* [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt — no command, no prefix — get an AI answer (Claude/Codex) and run any suggested commands from an interactive menu. [![Open-Source Software][OSS Icon]](https://github.com/jianshuo/ccline) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 * [electerm](https://electerm.github.io/electerm/) - Terminal, SSH, and SFTP client. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - Fast GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
