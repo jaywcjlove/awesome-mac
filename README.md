@@ -1187,6 +1187,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
 * [SaneClip](https://saneclip.com) - Clipboard manager with history, privacy protections, and sensitive data detection. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - System-wide text expansion, snippet management, and clipboard history for macOS.
+* [Tameo](https://tameo.ati-mirai.co.jp) - Privacy-first clipboard manager with history search, on-device image OCR, and snippets. [![Open-Source Software][OSS Icon]](https://github.com/supergodak/tameo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history manager with search, tags, and image support. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]

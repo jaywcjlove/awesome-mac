@@ -1226,6 +1226,7 @@ Awesome Mac
 * [PopClip](https://www.popclip.app/) - 当您在任何应用中选择文本时，PopClip 会出现，为您提供即时访问有用操作的功能。
 * [SaneClip](https://saneclip.com) - 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - 适用于 macOS 的全系统文本扩展、片段管理和剪贴板历史工具。
+* [Tameo](https://tameo.ati-mirai.co.jp) - 支持历史搜索、端侧图片 OCR 和文本片段的隐私优先剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/supergodak/tameo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - 自动整理剪贴板历史和常用片段的管理器。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 
