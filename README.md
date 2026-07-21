@@ -1092,6 +1092,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
+* [Leafy](https://leafyapp.uk) - Vocabulary builder: press ⌥A to scan any word on screen (PDFs, ebooks, and images via OCR), see the definition in place, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
