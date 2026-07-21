@@ -725,6 +725,7 @@ Awesome Mac
 ## 오디오 및 비디오 도구
 
 * [Adapter](https://macroplant.com/adapter) - 무료 오디오, 비디오, 이미지 변환 소프트웨어. ![Freeware][Freeware Icon]
+* [ANCBuddy](https://ancbuddy.com/) - Bose QC Ultra 헤드폰과 이어버드를 위한 메뉴 막대 제어 도구로 Quiet/Aware/Immersion 모드 전환과 배터리 상태 확인을 지원합니다.
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]

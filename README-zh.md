@@ -694,6 +694,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 支持时间轴和样式编辑的开源字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [ANCBuddy](https://ancbuddy.com/) - 面向 Bose QC Ultra 耳机和耳塞的菜单栏控制工具，可切换 Quiet/Aware/Immersion 模式并查看电量状态。
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [Azex Speech](https://github.com/azex-ai/speech) - 一款面向 AI 与加密场景、中英混说更友好的语音输入工具。 [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
