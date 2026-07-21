@@ -1076,6 +1076,7 @@ Awesome Mac
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
+* [Open Source Projects](https://opensourceprojects.cc/) - 오픈소스 프로젝트와 독점 소프트웨어의 오픈소스 대안을 발견하세요. 카테고리별로 자체 호스팅 가능한 커뮤니티 기반 도구를 찾을 수 있는 검색형 디렉터리.
 
 **[⬆ 상단으로 이동](#목차)**
 
