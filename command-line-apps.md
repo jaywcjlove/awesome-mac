@@ -98,6 +98,7 @@ A curated list of useful command line apps
 ## Media
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [pyimgtag](https://github.com/kurok/pyimgtag) - Command-line photo tagger that uses a local vision model (local by default) to add searchable tags, scene categories, and EXIF-GPS-derived location to images, then lets you query, score, and clean up the library from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/kurok/pyimgtag) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## Developer
