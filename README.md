@@ -808,6 +808,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
+* [SwarmClaw](https://swarmclaw.ai) - Self-hosted multi-agent AI runtime with 23+ LLM providers, MCP client + server support, and connectors for Discord, Slack, Telegram, WhatsApp, Teams, and Matrix. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swarmclawai/swarmclaw)
+* [SwarmVault](https://swarmvault.ai) - Local-first RAG knowledge base compiler with persistent markdown wiki, knowledge graph, and built-in MCP server. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swarmclawai/swarmvault)
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software][OSS Icon]](https://github.com/mm7894215/TokenTracker) ![Freeware][Freeware Icon]
 * [Tura](https://turaai.net/) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. [![Open-Source Software][OSS Icon]](https://github.com/Tura-AI/tura) ![Freeware][Freeware Icon]
