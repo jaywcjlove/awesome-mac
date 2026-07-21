@@ -975,6 +975,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app for live captions, audio/video transcription, and subtitle translation.
 * [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A lightweight local music player that supports multiple formats for enjoying music anytime.
 * [Fmusic](https://github.com/wandercn/fmusic) - A fmusic is a open source music player on SwiftUI.[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
+* [I/O](https://github.com/comdigis-community/IO) - A multiplatform spatial audio engine written in Swift, focused on high-performance, low-latency DSP, realtime audio graph processing, spatial audio, binaural rendering, XR, and interactive media.
 
 ### Audio Record and Process
 
