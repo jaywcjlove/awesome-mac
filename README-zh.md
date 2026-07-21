@@ -1315,6 +1315,7 @@ Awesome Mac
 
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [AskClean](https://www.askclean.app/zh-CN/) - AI 磁盘清理：每一项都有 AI 解释，先问后删；删除进废纸篓可恢复，绝不碰照片和文档。
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)
 * [Mac Clean](https://github.com/iliyami/MacClean) - 免费开源的清理、优化和恶意软件扫描工具。[![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能，立即运行快速扫描以验证什么占用了您的存储空间。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
