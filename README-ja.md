@@ -792,6 +792,7 @@ Awesome Mac
 * [Claude God](https://claudegod.app) - Claudeの使用量、コスト、セッション統計を監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage](https://github.com/Bread-bang/claude-usage) - Claude Code向けのメニューバーアプリ。ステータスラインにペインごとのコンテキストを表示し、セッションと週次の使用量も常に確認可能。usage や context コマンドを実行する必要はありません。 [![Open-Source Software][OSS Icon]](https://github.com/Bread-bang/claude-usage) ![Freeware][Freeware Icon]
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - リアルタイムのカウンターでClaude使用量を追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
+* [Claudexor](https://github.com/razzant/claudexor) - Claude Code、Codex、Cursor、OpenCode向けのローカルファーストなコントロールプレーンで、マルチモデルレビュー、Best-of-N実行、プロファイル単位のクォータルーティングに対応。 [![Open-Source Software][OSS Icon]](https://github.com/razzant/claudexor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - Claude Codeセッションを閲覧・分析するツール。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 1つのコントロールパネルで複数のOpenClawゲートウェイインスタンスを分離して管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
