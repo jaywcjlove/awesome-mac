@@ -259,6 +259,7 @@ Awesome Mac
 
 ### 쓰기
 
+* [Core](https://corewrite.app/) - 원고 전체를 읽는 AI 편집기로 비평과 일관성을 검사하고, 세로쓰기 조판과 도서관 검색을 갖춘 글쓰기 앱. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/core-ai-writing-studio/id6761600363?platform=mac)
 * [Retrotype](https://retrotype.ink/) - 실제 타자기 느낌을 주는 미니멀한 쓰기 앱. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
