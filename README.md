@@ -808,6 +808,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
+* [Skilly](https://tryskilly.app) - Voice-first AI tutor that watches your Mac screen and walks you through any app (Blender, Figma, Xcode, Photoshop) out loud. Native Swift + ScreenCaptureKit + OpenAI Realtime, 20+ languages with auto-detect. Ships with 5 free open-source skill curricula. [![Open-Source Software][OSS Icon]](https://github.com/tryskilly/skilly)
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Track Claude Code usage, rate limits, costs, and activity heatmaps. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [TokenTracker](https://www.tokentracker.cc) - Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools. [![Open-Source Software][OSS Icon]](https://github.com/mm7894215/TokenTracker) ![Freeware][Freeware Icon]
 * [Tura](https://turaai.net/) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. [![Open-Source Software][OSS Icon]](https://github.com/Tura-AI/tura) ![Freeware][Freeware Icon]
