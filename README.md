@@ -955,6 +955,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
+* [SoundPipe](https://soundpipe.app) - Create virtual audio devices to route audio between apps, with per-channel volume and live meters.
 * [Spotifly](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
