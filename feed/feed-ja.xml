@@ -5,9 +5,177 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Jul 2026 04:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:36:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TypeCue</title>
+      <link>https://typecue.app</link>
+      <guid isPermaLink="false">1bba52f8aa1dba5b58372916d00a37709c8d1b76:TypeCue</guid>
+      <pubDate>Mon, 20 Jul 2026 04:36:43 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: TypeCue
+Description: 用意したスクリプトをホットキー1回につき1行ずつ、実際のキーストロークとして自然なペースで任意のアプリに入力。デモ録画やライブプレゼンに。
+Website: https://typecue.app
+Commit: Add TypeCue to Menu Bar Tools (#2360)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: TypeCue<br/>Description: 用意したスクリプトをホットキー1回につき1行ずつ、実際のキーストロークとして自然なペースで任意のアプリに入力。デモ録画やライブプレゼンに。<br/>Website: https://typecue.app<br/>Commit: Add TypeCue to Menu Bar Tools (#2360)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76]]></content:encoded>
+    </item>
+    <item>
+      <title>LingShu</title>
+      <link>https://royzhao1991.github.io/LingShu/</link>
+      <guid isPermaLink="false">cac4ce1bd06dd55a1504c2bd67548b4f19560284:LingShu</guid>
+      <pubDate>Sun, 19 Jul 2026 02:03:52 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: LingShu
+Description: オープンソースでモデル非依存のmacOSエージェント。検証済みのコード、文書、スライド、コンピュータ操作を提供します。
+Website: https://royzhao1991.github.io/LingShu/
+Commit: Add LingShu to AI Tools (#2355)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: LingShu<br/>Description: オープンソースでモデル非依存のmacOSエージェント。検証済みのコード、文書、スライド、コンピュータ操作を提供します。<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
+    </item>
+    <item>
+      <title>Changes</title>
+      <link>https://github.com/maoyama/Changes</link>
+      <guid isPermaLink="false">2b914ff2e03ed8f449b44356cfcce5efee98c3c3:Changes</guid>
+      <pubDate>Sat, 18 Jul 2026 15:20:14 GMT</pubDate>
+      <category>開発ツール / バージョン管理</category>
+      <description>Category: 開発ツール / バージョン管理
+App: Changes
+Description: GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。
+Open Source: https://github.com/maoyama/Changes
+Commit: Add Changes to the ja/ko/zh list.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3</description>
+      <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: Changes<br/>Description: GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Add Changes to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3]]></content:encoded>
+    </item>
+    <item>
+      <title>StrokeMouse</title>
+      <link>https://strokemouse.com</link>
+      <guid isPermaLink="false">374d97eadae73a9fb5936f0ef116cfda5cfa051a:StrokeMouse</guid>
+      <pubDate>Fri, 17 Jul 2026 08:48:26 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: StrokeMouse
+Description: トリガーボタンを押しながら軌跡を描き、ショートカット・アプリ起動・ウィンドウ操作・Shell / AppleScript を実行できるマウスジェスチャーツール。
+Website: https://strokemouse.com
+Commit: Add StrokeMouse (#2348)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: StrokeMouse<br/>Description: トリガーボタンを押しながら軌跡を描き、ショートカット・アプリ起動・ウィンドウ操作・Shell / AppleScript を実行できるマウスジェスチャーツール。<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
+    </item>
+    <item>
+      <title>LokalBot</title>
+      <link>https://www.lokalbot.com/</link>
+      <guid isPermaLink="false">bbb627863dad9c5e4bd947cea7e7aa7d0ad73077:LokalBot</guid>
+      <pubDate>Fri, 17 Jul 2026 06:18:18 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: LokalBot
+Description: macOS向けのオンデバイス会議ノート、音声入力、インライン自動補完、検索可能な仕事の記憶。
+Website: https://www.lokalbot.com/
+Commit: Add LokalBot to AI Tools (#2340)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: LokalBot<br/>Description: macOS向けのオンデバイス会議ノート、音声入力、インライン自動補完、検索可能な仕事の記憶。<br/>Website: https://www.lokalbot.com/<br/>Commit: Add LokalBot to AI Tools (#2340)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077]]></content:encoded>
+    </item>
+    <item>
+      <title>Tura</title>
+      <link>https://turaai.net/</link>
+      <guid isPermaLink="false">179e5205a44847b71ec551a434481e3bd76eee50:Tura</guid>
+      <pubDate>Fri, 17 Jul 2026 05:50:47 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Tura
+Description: Tura は、曖昧なスキルの主張、根拠のないトークン節約拡張機能、リポジトリを理解する前に変更するエージェントにうんざりした開発者向けの、ローカルでオープンソースのコーディングエージェントです。
+Website: https://turaai.net/
+Commit: Add Tura to AI tools (#2333)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Tura<br/>Description: Tura は、曖昧なスキルの主張、根拠のないトークン節約拡張機能、リポジトリを理解する前に変更するエージェントにうんざりした開発者向けの、ローカルでオープンソースのコーディングエージェントです。<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
+    </item>
+    <item>
+      <title>TabType</title>
+      <link>https://github.com/nilava/TabType</link>
+      <guid isPermaLink="false">5ef732b6ad2f76c667cf280c44141fbe59ff2f84:TabType</guid>
+      <pubDate>Fri, 17 Jul 2026 02:15:16 GMT</pubDate>
+      <category>読み書きツール / その他</category>
+      <description>Category: 読み書きツール / その他
+App: TabType
+Description: ローカルLLMによる入力補完を行う無料オープンソースのAIオートコンプリートツール。完全オンデバイスで動作。
+Open Source: https://github.com/nilava/TabType
+Commit: Add TabType to the zh/ja/ko list. #2339
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: TabType<br/>Description: ローカルLLMによる入力補完を行う無料オープンソースのAIオートコンプリートツール。完全オンデバイスで動作。<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to the zh/ja/ko list. #2339<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84]]></content:encoded>
+    </item>
+    <item>
+      <title>Segue</title>
+      <link>https://segue.npearce.me/</link>
+      <guid isPermaLink="false">fd4414f8a839fa2245bc1a9e18b0667c6ba21358:Segue</guid>
+      <pubDate>Thu, 16 Jul 2026 04:08:32 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Segue
+Description: クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。
+Website: https://segue.npearce.me/
+Commit: Add Segue to Audio Record and Process (#2305)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Segue<br/>Description: クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。<br/>Website: https://segue.npearce.me/<br/>Commit: Add Segue to Audio Record and Process (#2305)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358]]></content:encoded>
+    </item>
+    <item>
+      <title>Nimclip</title>
+      <link>https://hukdoesn.github.io/Nimclip/</link>
+      <guid isPermaLink="false">a9d5cabf74d696936d908f0b638492382621e012:Nimclip</guid>
+      <pubDate>Wed, 15 Jul 2026 13:43:35 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: Nimclip
+Description: 検索、タグ、画像履歴に対応したローカルファーストのクリップボード履歴マネージャー。
+Website: https://hukdoesn.github.io/Nimclip/
+Commit: Add Nimclip to Clipboard Tools (#2328)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Nimclip<br/>Description: 検索、タグ、画像履歴に対応したローカルファーストのクリップボード履歴マネージャー。<br/>Website: https://hukdoesn.github.io/Nimclip/<br/>Commit: Add Nimclip to Clipboard Tools (#2328)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012]]></content:encoded>
+    </item>
+    <item>
+      <title>Agent Teams AI</title>
+      <link>https://agentteams.live/</link>
+      <guid isPermaLink="false">46652674d802cb0bd24ab7eb77f4514754286c0c:Agent Teams AI</guid>
+      <pubDate>Wed, 15 Jul 2026 02:28:26 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Agent Teams AI
+Description: チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。
+Website: https://agentteams.live/
+Commit: Add Agent Teams AI (#2322)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Agent Teams AI<br/>Description: チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
+    </item>
+    <item>
+      <title>MacTools</title>
+      <link>https://github.com/ggbond268/MacTools</link>
+      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
+      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: MacTools
+Description: ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。
+Open Source: https://github.com/ggbond268/MacTools
+Commit: Add MacTools to menu bar tools (#2313)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: MacTools<br/>Description: ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenDisplay</title>
+      <link>https://opendisplay.app</link>
+      <guid isPermaLink="false">3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d:OpenDisplay</guid>
+      <pubDate>Tue, 14 Jul 2026 02:25:55 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: OpenDisplay
+Description: 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。
+Website: https://opendisplay.app
+Commit: Add OpenDisplay to General Tools (#2308)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: OpenDisplay<br/>Description: 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
+    </item>
     <item>
       <title>Tactile</title>
       <link>https://tactile.masn.studio/</link>
@@ -539,174 +707,6 @@ Website: https://capcap.skyrin.fun
 Commit: Add capcap to Screenshot Tools (#2153)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: capcap<br/>Description: Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
-    </item>
-    <item>
-      <title>Fader</title>
-      <link>https://github.com/pantafive/fader</link>
-      <guid isPermaLink="false">51eed00ef094a5376358d6a74cca6448f58e5b5b:Fader</guid>
-      <pubDate>Fri, 05 Jun 2026 02:46:11 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Fader
-Description: アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。
-Open Source: https://github.com/pantafive/fader
-Commit: Add Fader to Audio and Video Tools (#2152)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Fader<br/>Description: アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。<br/>Open Source: https://github.com/pantafive/fader<br/>Commit: Add Fader to Audio and Video Tools (#2152)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51eed00ef094a5376358d6a74cca6448f58e5b5b]]></content:encoded>
-    </item>
-    <item>
-      <title>Cursor Voice</title>
-      <link>https://cursorvoice.app</link>
-      <guid isPermaLink="false">982aed0bf7329e9bde5768420e6cf871024e359e:Cursor Voice</guid>
-      <pubDate>Wed, 03 Jun 2026 01:01:06 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Cursor Voice
-Description: カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。
-Website: https://cursorvoice.app
-Commit: Add Cursor Voice to the ja/ko/zh list. #2140
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Cursor Voice<br/>Description: カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。<br/>Website: https://cursorvoice.app<br/>Commit: Add Cursor Voice to the ja/ko/zh list. #2140<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/982aed0bf7329e9bde5768420e6cf871024e359e]]></content:encoded>
-    </item>
-    <item>
-      <title>Sleepless</title>
-      <link>https://github.com/Aboudjem/Sleepless</link>
-      <guid isPermaLink="false">1adde8042c48bc0ba6d12c84f2ac5942c6eea6da:Sleepless</guid>
-      <pubDate>Tue, 02 Jun 2026 16:07:02 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: Sleepless
-Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.
-Open Source: https://github.com/Aboudjem/Sleepless
-Commit: Add Sleepless to System Related Tools (#2134)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Sleepless<br/>Description: Keep your MacBook awake with the lid closed on battery, with a battery-floor auto-off.<br/>Open Source: https://github.com/Aboudjem/Sleepless<br/>Commit: Add Sleepless to System Related Tools (#2134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1adde8042c48bc0ba6d12c84f2ac5942c6eea6da]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHistory</title>
-      <link>https://github.com/weiykong/ClipHistory</link>
-      <guid isPermaLink="false">ffe8b08f41f78e62471cb3efebfa172a746fd372:ClipHistory</guid>
-      <pubDate>Tue, 02 Jun 2026 04:38:50 GMT</pubDate>
-      <category>ユーティリティ / クリップボードツール</category>
-      <description>Category: ユーティリティ / クリップボードツール
-App: ClipHistory
-Description: ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。
-Open Source: https://github.com/weiykong/ClipHistory
-Commit: Add ClipHistory
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipHistory<br/>Description: ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。<br/>Open Source: https://github.com/weiykong/ClipHistory<br/>Commit: Add ClipHistory<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffe8b08f41f78e62471cb3efebfa172a746fd372]]></content:encoded>
-    </item>
-    <item>
-      <title>SystemEQ for Mac</title>
-      <link>https://denzam.github.io/SystemEQ-for-Mac/</link>
-      <guid isPermaLink="false">180e1c96827db9eda58a5f120cccb5990b3200b6:SystemEQ for Mac</guid>
-      <pubDate>Tue, 02 Jun 2026 04:01:12 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: SystemEQ for Mac
-Description: 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。
-Website: https://denzam.github.io/SystemEQ-for-Mac/
-Commit: Add SystemEQ to the ja/ko/zh list.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: SystemEQ for Mac<br/>Description: 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。<br/>Website: https://denzam.github.io/SystemEQ-for-Mac/<br/>Commit: Add SystemEQ to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/180e1c96827db9eda58a5f120cccb5990b3200b6]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbor</title>
-      <link>https://github.com/tahseen-kakar/harbor</link>
-      <guid isPermaLink="false">02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039:Harbor</guid>
-      <pubDate>Sun, 31 May 2026 12:41:48 GMT</pubDate>
-      <category>ダウンロード管理ツール</category>
-      <description>Category: ダウンロード管理ツール
-App: Harbor
-Description: HTTP(S)、マグネットリンク、`.torrent` ファイルに対応するオープンソースのダウンロードマネージャー。
-Open Source: https://github.com/tahseen-kakar/harbor
-Commit: Add Harbor (#2123)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039</description>
-      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Harbor<br/>Description: HTTP(S)、マグネットリンク、`.torrent` ファイルに対応するオープンソースのダウンロードマネージャー。<br/>Open Source: https://github.com/tahseen-kakar/harbor<br/>Commit: Add Harbor (#2123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/02a0ab3b1f9cdfeaa19af016ebb38ec16f43c039]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Clean</title>
-      <link>https://github.com/iliyami/MacClean</link>
-      <guid isPermaLink="false">4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd:Mac Clean</guid>
-      <pubDate>Sat, 30 May 2026 10:18:25 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Mac Clean
-Description: 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。
-Open Source: https://github.com/iliyami/MacClean
-Commit: Add Mac Clean to the ja/ko/zh list. #2110
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Mac Clean<br/>Description: 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。<br/>Open Source: https://github.com/iliyami/MacClean<br/>Commit: Add Mac Clean to the ja/ko/zh list. #2110<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ca8807cbd3fa2b9d45f23bceb0c9ee92fff7fcd]]></content:encoded>
-    </item>
-    <item>
-      <title>clawpypaste</title>
-      <link>https://github.com/krisbradley/clawpypaste</link>
-      <guid isPermaLink="false">c1406fb34adf00858cceabd0ac198e59d7ca23c3:clawpypaste</guid>
-      <pubDate>Fri, 29 May 2026 04:39:44 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: clawpypaste
-Description: Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。
-Open Source: https://github.com/krisbradley/clawpypaste
-Commit: Add clawpypaste to AI Tools (#2112)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: clawpypaste<br/>Description: Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。<br/>Open Source: https://github.com/krisbradley/clawpypaste<br/>Commit: Add clawpypaste to AI Tools (#2112)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c1406fb34adf00858cceabd0ac198e59d7ca23c3]]></content:encoded>
-    </item>
-    <item>
-      <title>Parakey</title>
-      <link>https://github.com/rcourtman/parakey</link>
-      <guid isPermaLink="false">df5cf1ff659026b5b7801b5a7d41fe93819d21da:Parakey</guid>
-      <pubDate>Tue, 26 May 2026 07:31:47 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Parakey
-Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。
-Open Source: https://github.com/rcourtman/parakey
-Commit: Add Parakey under Voice-to-Text (#2050)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Parakey<br/>Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。<br/>Open Source: https://github.com/rcourtman/parakey<br/>Commit: Add Parakey under Voice-to-Text (#2050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df5cf1ff659026b5b7801b5a7d41fe93819d21da]]></content:encoded>
-    </item>
-    <item>
-      <title>PureSnitch</title>
-      <link>https://github.com/momenbasel/puresnitch</link>
-      <guid isPermaLink="false">369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7:PureSnitch</guid>
-      <pubDate>Mon, 25 May 2026 00:33:33 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: PureSnitch
-Description: Little Snitch風の世界地図表示、ルール管理、DNS over HTTPS、pfベースのブロックに対応したオープンソースのアプリケーションファイアウォール（テレメトリなし）。
-Open Source: https://github.com/momenbasel/puresnitch
-Commit: Add PureSnitch (#2089)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: PureSnitch<br/>Description: Little Snitch風の世界地図表示、ルール管理、DNS over HTTPS、pfベースのブロックに対応したオープンソースのアプリケーションファイアウォール（テレメトリなし）。<br/>Open Source: https://github.com/momenbasel/puresnitch<br/>Commit: Add PureSnitch (#2089)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/369fb1b345def7ffb7c9dd8a8ebd11cdbe75f7b7]]></content:encoded>
-    </item>
-    <item>
-      <title>Live Translator</title>
-      <link>https://github.com/umutcetinkaya/live-translator</link>
-      <guid isPermaLink="false">48da75d4964c95828cfe9d8dbeac83b9baf03c76:Live Translator</guid>
-      <pubDate>Sat, 23 May 2026 01:08:31 GMT</pubDate>
-      <category>翻訳ツール</category>
-      <description>Category: 翻訳ツール
-App: Live Translator
-Description: OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。
-Open Source: https://github.com/umutcetinkaya/live-translator
-Commit: Add Live Translator to zh/ja/ko translation tools
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76</description>
-      <content:encoded><![CDATA[Category: 翻訳ツール<br/>App: Live Translator<br/>Description: OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。<br/>Open Source: https://github.com/umutcetinkaya/live-translator<br/>Commit: Add Live Translator to zh/ja/ko translation tools<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/48da75d4964c95828cfe9d8dbeac83b9baf03c76]]></content:encoded>
-    </item>
-    <item>
-      <title>Papr</title>
-      <link>https://github.com/l0ng-ai/papr</link>
-      <guid isPermaLink="false">dbe0b073a7e510ee83194d479e209f3af55e4b2f:Papr</guid>
-      <pubDate>Thu, 21 May 2026 02:53:12 GMT</pubDate>
-      <category>読み書きツール / RSS</category>
-      <description>Category: 読み書きツール / RSS
-App: Papr
-Description: タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。
-Open Source: https://github.com/l0ng-ai/papr
-Commit: Add Papr to RSS (#2083)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / RSS<br/>App: Papr<br/>Description: タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。<br/>Open Source: https://github.com/l0ng-ai/papr<br/>Commit: Add Papr to RSS (#2083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbe0b073a7e510ee83194d479e209f3af55e4b2f]]></content:encoded>
     </item>
   </channel>
 </rss>
