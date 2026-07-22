@@ -287,6 +287,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Writing
 
+* [Nextline](https://www.thenextline.app/) - System-wide inline autocomplete powered by a local LLM. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.

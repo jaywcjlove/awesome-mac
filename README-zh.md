@@ -878,6 +878,7 @@ Awesome Mac
 
 ### 写作
 
+* [Nextline](https://www.thenextline.app/) - 由本地大语言模型驱动的系统级行内自动补全工具，适用于任意应用。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 有趣且极简的写作应用，带来真实打字机的手感。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 一个开源的纯文本编辑器，专为写小说设计。它支持类似 Markdown 的最小语法来格式化文本。 [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台

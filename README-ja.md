@@ -285,6 +285,7 @@ Awesome Mac
 
 ### ライティング
 
+* [Nextline](https://www.thenextline.app/) - ローカルLLMで動作する、あらゆるアプリで使えるシステム全体のインライン自動補完ツール。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 本物のタイプライターのような感覚の楽しくミニマルなライティングアプリ。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - ライターのための定番ワードプロセッサ。
