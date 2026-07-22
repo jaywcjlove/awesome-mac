@@ -687,6 +687,7 @@ Awesome Mac
 * [Franz](http://meetfranz.com/) - 여러 채팅 서비스를 한곳에 모아 쓰는 메시징 앱. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 개발자와 GitHub 커뮤니티를 위한 채팅 플랫폼. ![Freeware][Freeware Icon]
 * [Lark](https://www.larksuite.com/en_us/) - 올인원 협업 스위트. ![Freeware][Freeware Icon]
+* [MattCha](https://www.mattcha.app/) - 채팅, 스레드, 반응, 첨부 파일 및 음성 메시지를 지원하는 네이티브 Mattermost 클라이언트. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mattcha/id6782971560?platform=mac)
 * [Mattermost](https://mattermost.com/) - 오픈 소스 팀 협업 플랫폼. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/download/) - 빠르고 단순하며 안전한 메시징 앱. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/) - 팀 커뮤니케이션 및 협업 도구. ![Freeware][Freeware Icon]
