@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:03:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pulse</title>
+      <link>https://www.pulseticker.app/</link>
+      <guid isPermaLink="false">e7164194544a0a69c3bdf342b5be9e295772729a:Pulse</guid>
+      <pubDate>Wed, 22 Jul 2026 05:03:17 GMT</pubDate>
+      <category>금융</category>
+      <description>Category: 금융
+App: Pulse
+Description: 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구.
+Website: https://www.pulseticker.app/
+Commit: Add Pulse to Finance (#2376)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a</description>
+      <content:encoded><![CDATA[Category: 금융<br/>App: Pulse<br/>Description: 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구.<br/>Website: https://www.pulseticker.app/<br/>Commit: Add Pulse to Finance (#2376)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a]]></content:encoded>
+    </item>
     <item>
       <title>TypeCue</title>
       <link>https://typecue.app</link>
@@ -693,20 +707,6 @@ Website: https://getsnippetcraft.com
 Commit: Add SnippetCraft to Clipboard Tools (#2145)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: SnippetCraft<br/>Description: macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.<br/>Website: https://getsnippetcraft.com<br/>Commit: Add SnippetCraft to Clipboard Tools (#2145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab]]></content:encoded>
-    </item>
-    <item>
-      <title>capcap</title>
-      <link>https://capcap.skyrin.fun</link>
-      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
-      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
-      <category>디자인 및 제품 / 스크린샷 도구</category>
-      <description>Category: 디자인 및 제품 / 스크린샷 도구
-App: capcap
-Description: Command 키 더블 탭 캡처, 주석, 스크롤 캡처, 꾸미기, 핀 고정, 이미지 호스팅 업로드를 지원하는 네이티브 메뉴 막대 스크린샷 도구.
-Website: https://capcap.skyrin.fun
-Commit: Add capcap to Screenshot Tools (#2153)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: capcap<br/>Description: Command 키 더블 탭 캡처, 주석, 스크롤 캡처, 꾸미기, 핀 고정, 이미지 호스팅 업로드를 지원하는 네이티브 메뉴 막대 스크린샷 도구.<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
     </item>
   </channel>
 </rss>

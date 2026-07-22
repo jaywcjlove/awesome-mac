@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:03:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pulse</title>
+      <link>https://www.pulseticker.app/</link>
+      <guid isPermaLink="false">e7164194544a0a69c3bdf342b5be9e295772729a:Pulse</guid>
+      <pubDate>Wed, 22 Jul 2026 05:03:17 GMT</pubDate>
+      <category>ファイナンス</category>
+      <description>Category: ファイナンス
+App: Pulse
+Description: 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。
+Website: https://www.pulseticker.app/
+Commit: Add Pulse to Finance (#2376)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a</description>
+      <content:encoded><![CDATA[Category: ファイナンス<br/>App: Pulse<br/>Description: 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。<br/>Website: https://www.pulseticker.app/<br/>Commit: Add Pulse to Finance (#2376)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a]]></content:encoded>
+    </item>
     <item>
       <title>TypeCue</title>
       <link>https://typecue.app</link>
@@ -693,20 +707,6 @@ Website: https://getsnippetcraft.com
 Commit: Add SnippetCraft to Clipboard Tools (#2145)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: SnippetCraft<br/>Description: macOS向けのシステム全体で使えるテキスト展開、スニペット管理、クリップボード履歴ツール。<br/>Website: https://getsnippetcraft.com<br/>Commit: Add SnippetCraft to Clipboard Tools (#2145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab]]></content:encoded>
-    </item>
-    <item>
-      <title>capcap</title>
-      <link>https://capcap.skyrin.fun</link>
-      <guid isPermaLink="false">f0d79d664b64c897c03f89a0d1e8d75ca46214ad:capcap</guid>
-      <pubDate>Fri, 05 Jun 2026 05:31:33 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: capcap
-Description: Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。
-Website: https://capcap.skyrin.fun
-Commit: Add capcap to Screenshot Tools (#2153)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: capcap<br/>Description: Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。<br/>Website: https://capcap.skyrin.fun<br/>Commit: Add capcap to Screenshot Tools (#2153)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f0d79d664b64c897c03f89a0d1e8d75ca46214ad]]></content:encoded>
     </item>
   </channel>
 </rss>
