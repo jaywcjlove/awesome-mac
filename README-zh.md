@@ -860,6 +860,7 @@ Awesome Mac
 * [Logseq](https://logseq.com/) - 一个以隐私为先的开源平台，用于知识管理和协作。 [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://apps.apple.com/cn/app/marginnote-4/id1531657269?platform=mac) - 笔记界的瑞士军刀，功能强大的笔记软件工具[![App Store][app-store Icon]](https://apps.apple.com/cn/app/marginnote-4/id1531657269?platform=mac)
 * [massCode](https://github.com/massCodeIO/massCode) - 跨平台开源代码片段管理器，支持 Markdown 和 Mermaid。 [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
+* [Meemo AI](https://meemo-ai.app/en/) - 会议笔记应用，支持实时转写麦克风和 Mac 音频、AI 问答、关联历史会议上下文和可选的端侧处理。 ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - 您的任务、笔记和日历、纯文本 Markdown 文件。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/noteplan-3/id1505432629?platform=mac)
 * [Noteship](https://noteship.com) - 本地优先的笔记应用，可将笔记整理为结构化知识。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) 漂亮的笔记本应用程序。 ![Freeware][Freeware Icon]

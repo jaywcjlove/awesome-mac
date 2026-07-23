@@ -256,6 +256,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
 * [massCode](https://masscode.io/) - Cross-platform open-source code snippets manager with markdown and mermaid support. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
+* [Meemo AI](https://meemo-ai.app/en/) - Meeting-notes app with live transcription of microphone and Mac audio, AI questions, related-conversation context, and optional on-device processing. ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - Lightweight Markdown app to help you write great sentences.
 * [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware][Freeware Icon]
