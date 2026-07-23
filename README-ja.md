@@ -1546,6 +1546,7 @@ Awesome Mac
 * [iStats](https://github.com/Chris911/iStats) - コマンドライン対応のシステム情報ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - 強化されたバッテリー情報表示。 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - ダークモード対応のCaffeine代替。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
+* [Liwu](https://liwu.app/?utm_source=awesome-mac&utm_medium=listing) - 設定した上限で充電を止め、スリープ中の過充電も防ぐメニューバー型バッテリー管理ツール。
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac用の起動可能なmacOS/OS Xインストーラー作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 非アクティブなアプリを自動終了してリソースを整理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - macOSでの中クリックと中ドラッグのための3本指トラックパッドジェスチャー。 [![Open-Source Software][OSS Icon]](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ![Freeware][Freeware Icon]
