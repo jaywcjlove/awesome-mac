@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 Jul 2026 05:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:01:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Berthly</title>
+      <link>https://berthly.net</link>
+      <guid isPermaLink="false">3ad1324d5a3e545cb049ff725732fdeec9ecf718:Berthly</guid>
+      <pubDate>Fri, 24 Jul 2026 09:01:09 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: Berthly
+Description: Native GUI for Apple&apos;s container tool, with menu bar monitoring and drag-and-drop image builds.
+Website: https://berthly.net
+Commit: Add Berthly to Virtualization (#2396)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Berthly<br/>Description: Native GUI for Apple&apos;s container tool, with menu bar monitoring and drag-and-drop image builds.<br/>Website: https://berthly.net<br/>Commit: Add Berthly to Virtualization (#2396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718]]></content:encoded>
+    </item>
     <item>
       <title>Pulse</title>
       <link>https://www.pulseticker.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/adamorad/csv-quick-look
 Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418</description>
       <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: CSV Quick Look<br/>Description: QuickLook extension for CSV and TSV files — virtual scroll, sort, filter, dark mode.<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418]]></content:encoded>
-    </item>
-    <item>
-      <title>SnippetCraft</title>
-      <link>https://getsnippetcraft.com</link>
-      <guid isPermaLink="false">0a6ea6f00b4f3eeb5d70e491610a173c56e370ab:SnippetCraft</guid>
-      <pubDate>Fri, 05 Jun 2026 05:45:42 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: SnippetCraft
-Description: System-wide text expansion, snippet management, and clipboard history for macOS.
-Website: https://getsnippetcraft.com
-Commit: Add SnippetCraft to Clipboard Tools (#2145)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: SnippetCraft<br/>Description: System-wide text expansion, snippet management, and clipboard history for macOS.<br/>Website: https://getsnippetcraft.com<br/>Commit: Add SnippetCraft to Clipboard Tools (#2145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0a6ea6f00b4f3eeb5d70e491610a173c56e370ab]]></content:encoded>
     </item>
   </channel>
 </rss>
