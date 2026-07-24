@@ -543,6 +543,7 @@ Awesome Mac
 ### 仮想化
 
 * [Docker](https://www.docker.com/) - 強力なOSレベルの仮想化を実行するツール。 [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
+* [Berthly](https://berthly.net) - Appleのcontainerツール向けネイティブGUI。メニューバーでのライブ監視とドラッグ&ドロップでのイメージビルドに対応。 [![Open-Source Software][OSS Icon]](https://github.com/henrywang/Berthly) ![Freeware][Freeware Icon]
 * [Gantry](https://github.com/getgantry/gantry) - ローカルと SSH リモートホストを一元管理できる Docker GUI クライアントで、MCP サーバーを内蔵。 [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 仮想マシンなしでLinux GUIアプリを動かせるWaylandコンポジター。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 隔離されたmacOS仮想マシンワークスペースを作成・管理するための仮想化ツール。 ![Freeware][Freeware Icon]
