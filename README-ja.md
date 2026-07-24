@@ -332,6 +332,7 @@ Awesome Mac
 * [PDF Pals](https://pdfpals.com) - Mac用PDFチャットアプリ。ファイルサイズ制限なし！
 * [PDFgear](https://www.pdfgear.com/) - AI統合PDFエディタ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079?platform=mac)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - PDFドキュメントの表示、作成、署名、変換、圧縮が可能。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
+* [PDFluent](https://pdfluent.com/download/) - フォーム入力、OCR、墨消し、署名、変換、ページ管理に対応したオフラインのPDFエディター。![Freeware][Freeware Icon]
 * [Skim](http://skim-app.sourceforge.net) - OS X用のPDFリーダー兼メモアプリ。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - フォントの試用、インストール、管理を最も簡単に。
 * [SmoothCSV](https://smoothcsv.com/) - SQLクエリに対応した高速で高機能なCSVエディタ。 ![Freeware][Freeware Icon]
