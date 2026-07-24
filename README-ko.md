@@ -617,6 +617,7 @@ Awesome Mac
 * [AppleAi](https://www.theappleai.tech/) - 메뉴바에서 여러 AI 어시스턴트 접근. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - Apple 온디바이스 모델을 OpenAI 호환 API 뒤에서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 로컬 및 클라우드 모델을 지원하는 MCP 기반 오픈 소스 AI 채팅 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [atrium](https://getatrium.dev) - 여러 AI 코딩 에이전트를 나란히 실행할 수 있는 워크스페이스. 세션 복원, 터미널, 내장 브라우저 지원. ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
