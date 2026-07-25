@@ -1476,6 +1476,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tiles](https://freemacsoft.net/tiles/) - Snap and rearrange windows with screen edges, shortcuts, or the menu bar. ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
+* [Wawona](https://github.com/Wawona/Wawona) - A Wayland compositor for MacOS, iOS and Android: Bringing your favourite Linux DEs to MacOS! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Wawona/Wawona)
 * [yabai](https://github.com/koekeishiya/yabai) - Keyboard-driven tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Password Management
