@@ -418,6 +418,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 * [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool. ![Open-Source Software][OSS Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - Feature-rich offline app for developers. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - Cross-platform GUI and CLI for building structured project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export. [![Open-Source Software][OSS Icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][Freeware Icon]
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 * [DiffMerge](https://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
