@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shuffle</title>
+      <link>https://shuffleapp.co</link>
+      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
+      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
+      <category>其它实用工具 / Finder</category>
+      <description>Category: 其它实用工具 / Finder
+App: Shuffle
+Description: 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。
+Website: https://shuffleapp.co
+Commit: Add Shuffle (file manager) (#2395)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Shuffle<br/>Description: 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
+    </item>
     <item>
       <title>Berthly</title>
       <link>https://berthly.net</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/getgantry/gantry
 Commit: Update Gantry to the ja/ko/zh list #2154.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
       <content:encoded><![CDATA[Category: 虚拟机<br/>App: Gantry<br/>Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
-    </item>
-    <item>
-      <title>CSV Quick Look</title>
-      <link>https://github.com/adamorad/csv-quick-look</link>
-      <guid isPermaLink="false">4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc:CSV Quick Look</guid>
-      <pubDate>Fri, 05 Jun 2026 10:31:17 GMT</pubDate>
-      <category>QuickLook插件</category>
-      <description>Category: QuickLook插件
-App: CSV Quick Look
-Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。
-Open Source: https://github.com/adamorad/csv-quick-look
-Commit: Add CSV Quick Look
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc</description>
-      <content:encoded><![CDATA[Category: QuickLook插件<br/>App: CSV Quick Look<br/>Description: 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shuffle</title>
+      <link>https://shuffleapp.co</link>
+      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
+      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Shuffle
+Description: Rust로 개발된 GPU 렌더링 고속 파일 관리자이자 Finder 대안.
+Website: https://shuffleapp.co
+Commit: Add Shuffle (file manager) (#2395)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Shuffle<br/>Description: Rust로 개발된 GPU 렌더링 고속 파일 관리자이자 Finder 대안.<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
+    </item>
     <item>
       <title>Berthly</title>
       <link>https://berthly.net</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/getgantry/gantry
 Commit: Update Gantry to the ja/ko/zh list #2154.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Gantry<br/>Description: 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장.<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
-    </item>
-    <item>
-      <title>CSV Quick Look</title>
-      <link>https://github.com/adamorad/csv-quick-look</link>
-      <guid isPermaLink="false">4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc:CSV Quick Look</guid>
-      <pubDate>Fri, 05 Jun 2026 10:31:17 GMT</pubDate>
-      <category>QuickLook 플러그인</category>
-      <description>Category: QuickLook 플러그인
-App: CSV Quick Look
-Description: 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장.
-Open Source: https://github.com/adamorad/csv-quick-look
-Commit: Add CSV Quick Look
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc</description>
-      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: CSV Quick Look<br/>Description: 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장.<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4bbbedab6ebe1dc3afef8ce357bcbff2d346eccc]]></content:encoded>
     </item>
   </channel>
 </rss>

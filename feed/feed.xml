@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shuffle</title>
+      <link>https://shuffleapp.co</link>
+      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
+      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
+      <category>Utilities / File Organization Tools</category>
+      <description>Category: Utilities / File Organization Tools
+App: Shuffle
+Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.
+Website: https://shuffleapp.co
+Commit: Add Shuffle (file manager) (#2395)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
+      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Shuffle<br/>Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
+    </item>
     <item>
       <title>Berthly</title>
       <link>https://berthly.net</link>
@@ -693,20 +707,6 @@ Website: https://getgantry.github.io/
 Commit: Add Gantry to Virtualization (#2154)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148</description>
       <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Gantry<br/>Description: Native Docker management: containers, images, live logs and stats, exec terminal — for local and SSH hosts.<br/>Website: https://getgantry.github.io/<br/>Commit: Add Gantry to Virtualization (#2154)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148]]></content:encoded>
-    </item>
-    <item>
-      <title>CSV Quick Look</title>
-      <link>https://github.com/adamorad/csv-quick-look</link>
-      <guid isPermaLink="false">38ae34b0b8b2db6c2f2acb02d320e2d3af179418:CSV Quick Look</guid>
-      <pubDate>Fri, 05 Jun 2026 07:14:03 GMT</pubDate>
-      <category>QuickLook Plugins</category>
-      <description>Category: QuickLook Plugins
-App: CSV Quick Look
-Description: QuickLook extension for CSV and TSV files — virtual scroll, sort, filter, dark mode.
-Open Source: https://github.com/adamorad/csv-quick-look
-Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418</description>
-      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: CSV Quick Look<br/>Description: QuickLook extension for CSV and TSV files — virtual scroll, sort, filter, dark mode.<br/>Open Source: https://github.com/adamorad/csv-quick-look<br/>Commit: Add CSV Quick Look — QuickLook extension for CSV/TSV files (#2144)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/38ae34b0b8b2db6c2f2acb02d320e2d3af179418]]></content:encoded>
     </item>
   </channel>
 </rss>
