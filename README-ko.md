@@ -228,6 +228,7 @@ Awesome Mac
 * [Logseq](https://logseq.com/) - 개인정보 우선의 오픈 소스 지식 베이스. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - 심도 있는 PDF 및 EPUB 읽기, 학습 및 노트 앱.
 * [massCode](https://masscode.io/) - 마크다운 및 Mermaid를 지원하는 오픈 소스 코드 스니펫 관리자. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
+* [Meemo AI](https://meemo-ai.app/en/) - 마이크와 Mac 오디오의 실시간 전사, AI 질문, 관련 과거 회의 맥락, 선택적 온디바이스 처리를 지원하는 회의 노트 앱. ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - 좋은 문장을 쓰도록 돕는 경량 마크다운 앱.
 * [Notable](https://github.com/notable/notable) - 마크다운 기반의 괜찮은 노트 앱.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
