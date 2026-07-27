@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WiFi Lens</title>
+      <link>https://github.com/SHIINASAMA/wifi-lens</link>
+      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
+      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
+      <category>开发者工具 / 网络分析</category>
+      <description>Category: 开发者工具 / 网络分析
+App: WiFi Lens
+Description: 原生开源 Wi-Fi 分析器和网络诊断应用，支持实时频谱扫描、信道拥塞可视化和 BLE 设备追踪。
+Open Source: https://github.com/SHIINASAMA/wifi-lens
+Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: WiFi Lens<br/>Description: 原生开源 Wi-Fi 分析器和网络诊断应用，支持实时频谱扫描、信道拥塞可视化和 BLE 设备追踪。<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
+    </item>
     <item>
       <title>Shuffle</title>
       <link>https://shuffleapp.co</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/bsnkhua/mole-widget
 Commit: Add Mole Widget (Menu Bar Tools) (#2156)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mole Widget<br/>Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
-    </item>
-    <item>
-      <title>Gantry</title>
-      <link>https://github.com/getgantry/gantry</link>
-      <guid isPermaLink="false">4d4a90a18c2237537d3d4e71a82cff021efdafec:Gantry</guid>
-      <pubDate>Fri, 05 Jun 2026 10:33:31 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: Gantry
-Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。
-Open Source: https://github.com/getgantry/gantry
-Commit: Update Gantry to the ja/ko/zh list #2154.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Gantry<br/>Description: 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
     </item>
   </channel>
 </rss>

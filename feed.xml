@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WiFi Lens</title>
+      <link>https://github.com/SHIINASAMA/wifi-lens</link>
+      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
+      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
+      <category>Developer Tools / Network Analysis</category>
+      <description>Category: Developer Tools / Network Analysis
+App: WiFi Lens
+Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.
+Open Source: https://github.com/SHIINASAMA/wifi-lens
+Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: WiFi Lens<br/>Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
+    </item>
     <item>
       <title>Shuffle</title>
       <link>https://shuffleapp.co</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/bsnkhua/mole-widget
 Commit: Add Mole Widget (Menu Bar Tools) (#2156)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Mole Widget<br/>Description: Lightweight macOS desktop system monitor: live CPU, memory, disk, network, battery, and process metrics in a resizable widget managed from the menu bar.<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
-    </item>
-    <item>
-      <title>Gantry</title>
-      <link>https://getgantry.github.io/</link>
-      <guid isPermaLink="false">f8e992feec19b8ade3b770068d6dcf2876c45148:Gantry</guid>
-      <pubDate>Fri, 05 Jun 2026 10:27:53 GMT</pubDate>
-      <category>Developer Tools / Virtualization</category>
-      <description>Category: Developer Tools / Virtualization
-App: Gantry
-Description: Native Docker management: containers, images, live logs and stats, exec terminal — for local and SSH hosts.
-Website: https://getgantry.github.io/
-Commit: Add Gantry to Virtualization (#2154)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Gantry<br/>Description: Native Docker management: containers, images, live logs and stats, exec terminal — for local and SSH hosts.<br/>Website: https://getgantry.github.io/<br/>Commit: Add Gantry to Virtualization (#2154)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f8e992feec19b8ade3b770068d6dcf2876c45148]]></content:encoded>
     </item>
   </channel>
 </rss>
