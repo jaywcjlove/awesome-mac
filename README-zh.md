@@ -843,6 +843,7 @@ Awesome Mac
 * [Marxico马克飞象](https://maxiang.io/) - 专为印象笔记打造的Markdown编辑器，结合强大的存储和同步功能，带来极致的书写体验。
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
+* [Nodes](https://nodes-web.com) - 原生 macOS 知识管理应用，用于 Markdown、PDF 和图片笔记，支持 wiki 式双向链接、LaTeX、全文搜索和力导向关系图。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/nodes-by-the-werk/id6745401961?platform=mac)
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
