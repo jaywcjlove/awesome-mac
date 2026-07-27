@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 26 Jul 2026 07:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WiFi Lens</title>
+      <link>https://github.com/SHIINASAMA/wifi-lens</link>
+      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
+      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
+      <category>개발 도구 / 네트워크 분석</category>
+      <description>Category: 개발 도구 / 네트워크 분석
+App: WiFi Lens
+Description: 네이티브 오픈소스 Wi-Fi 분석기 및 네트워크 진단 앱으로, 실시간 스펙트럼 스캔, 채널 혼잡 시각화, BLE 기기 추적을 지원합니다.
+Open Source: https://github.com/SHIINASAMA/wifi-lens
+Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 네트워크 분석<br/>App: WiFi Lens<br/>Description: 네이티브 오픈소스 Wi-Fi 분석기 및 네트워크 진단 앱으로, 실시간 스펙트럼 스캔, 채널 혼잡 시각화, BLE 기기 추적을 지원합니다.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
+    </item>
     <item>
       <title>Shuffle</title>
       <link>https://shuffleapp.co</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/bsnkhua/mole-widget
 Commit: Add Mole Widget to the ja/ko list. #2156
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Mole Widget<br/>Description: CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯.<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget to the ja/ko list. #2156<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a]]></content:encoded>
-    </item>
-    <item>
-      <title>Gantry</title>
-      <link>https://github.com/getgantry/gantry</link>
-      <guid isPermaLink="false">4d4a90a18c2237537d3d4e71a82cff021efdafec:Gantry</guid>
-      <pubDate>Fri, 05 Jun 2026 10:33:31 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: Gantry
-Description: 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장.
-Open Source: https://github.com/getgantry/gantry
-Commit: Update Gantry to the ja/ko/zh list #2154.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Gantry<br/>Description: 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장.<br/>Open Source: https://github.com/getgantry/gantry<br/>Commit: Update Gantry to the ja/ko/zh list #2154.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d4a90a18c2237537d3d4e71a82cff021efdafec]]></content:encoded>
     </item>
   </channel>
 </rss>
