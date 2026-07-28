@@ -184,6 +184,7 @@ Awesome Mac
 * [Cursor](https://www.cursor.com/) - 支持自动补全、聊天和智能体能力的 AI 代码编辑器。 ![Freeware][Freeware Icon]
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Espresso](http://espressoapp.com/) - Web 编程利器，具备了快速且强大的编辑功能、专业检查与分类、即时预览编辑成果、发布与同步功能等。
+* [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - 面向 AI 编程代理的原生 IDE，为每个代理提供仓库的沙盒化克隆以及共享的符号与调用图索引，合并前可进行差异审查。 [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs 是基于控制台的编辑器和高度可定制的。 [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Eclipse](https://www.eclipse.org) - 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - 结合简洁的代码编辑和画布 UI，提升代码理解。支持编辑、导航、调试和扩展。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]

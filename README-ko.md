@@ -336,6 +336,7 @@ Awesome Mac
 * [Eclipse](http://www.eclipse.org/) - 인기 있는 오픈 소스 IDE, 주로 Java로 작성됨. [![Open-Source Software][OSS Icon]](http://git.eclipse.org/c/) ![Freeware][Freeware Icon]
 * [Emacs](http://www.gnu.org/software/emacs/) - 확장 가능하고 사용자 정의 가능한 텍스트 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - 웹 개발용 IDE.
+* [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - AI 코딩 에이전트를 위한 네이티브 IDE로, 각 에이전트에 저장소의 샌드박스 클론과 공유 심볼·호출 그래프 인덱스를 제공하며 병합 전에 diff를 검토할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 가장 지능적인 Java IDE. ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - 차세대 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [NetBeans](https://netbeans.org/) - 데스크톱, 모바일 및 웹 애플리케이션 개발. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
