@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:54:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Crisp</title>
+      <link>https://didriksg.github.io/Crisp/</link>
+      <guid isPermaLink="false">9963b8e2708ce5c66c1423033ee8d990c6441681:Crisp</guid>
+      <pubDate>Tue, 28 Jul 2026 06:54:55 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Crisp
+Description: 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。
+Website: https://didriksg.github.io/Crisp/
+Commit: Add Crisp to the zh/ko/ja list. #2415
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Crisp<br/>Description: 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
+    </item>
     <item>
       <title>WiFi Lens</title>
       <link>https://github.com/SHIINASAMA/wifi-lens</link>
@@ -693,20 +707,6 @@ Website: https://smoothcsv.com/
 Commit: Add SmoothCSV to the ja/ko/zh list. #2155
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: SmoothCSV<br/>Description: 支持 SQL 查询的快速全功能 CSV 编辑器。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
-    </item>
-    <item>
-      <title>Mole Widget</title>
-      <link>https://github.com/bsnkhua/mole-widget</link>
-      <guid isPermaLink="false">a2115f4216124391b70062044ccb24b30599e927:Mole Widget</guid>
-      <pubDate>Sat, 06 Jun 2026 02:08:55 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Mole Widget
-Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。
-Open Source: https://github.com/bsnkhua/mole-widget
-Commit: Add Mole Widget (Menu Bar Tools) (#2156)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mole Widget<br/>Description: 一款轻量级的 macOS 桌面系统监控小组件：实时显示 CPU、内存、磁盘、网络、电池与进程指标，可调节大小，由菜单栏管理。<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
     </item>
   </channel>
 </rss>
