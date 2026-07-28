@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:51:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Crisp</title>
+      <link>https://didriksg.github.io/Crisp/</link>
+      <guid isPermaLink="false">44caf9d5982bf9b0abcf8cdb6ccfdd189070568c:Crisp</guid>
+      <pubDate>Tue, 28 Jul 2026 06:51:17 GMT</pubDate>
+      <category>Utilities / Quality of Life Improvements</category>
+      <description>Category: Utilities / Quality of Life Improvements
+App: Crisp
+Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.
+Website: https://didriksg.github.io/Crisp/
+Commit: Add Crisp to Quality of Life Improvements (#2415)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c</description>
+      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Crisp<br/>Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to Quality of Life Improvements (#2415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c]]></content:encoded>
+    </item>
     <item>
       <title>WiFi Lens</title>
       <link>https://github.com/SHIINASAMA/wifi-lens</link>
@@ -693,20 +707,6 @@ Website: https://smoothcsv.com/
 Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: SmoothCSV<br/>Description: Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries.<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a]]></content:encoded>
-    </item>
-    <item>
-      <title>Mole Widget</title>
-      <link>https://github.com/bsnkhua/mole-widget</link>
-      <guid isPermaLink="false">a2115f4216124391b70062044ccb24b30599e927:Mole Widget</guid>
-      <pubDate>Sat, 06 Jun 2026 02:08:55 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Mole Widget
-Description: Lightweight macOS desktop system monitor: live CPU, memory, disk, network, battery, and process metrics in a resizable widget managed from the menu bar.
-Open Source: https://github.com/bsnkhua/mole-widget
-Commit: Add Mole Widget (Menu Bar Tools) (#2156)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Mole Widget<br/>Description: Lightweight macOS desktop system monitor: live CPU, memory, disk, network, battery, and process metrics in a resizable widget managed from the menu bar.<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget (Menu Bar Tools) (#2156)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2115f4216124391b70062044ccb24b30599e927]]></content:encoded>
     </item>
   </channel>
 </rss>
