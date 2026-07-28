@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:55:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AQBot</title>
+      <link>https://app.aqbot.top/</link>
+      <guid isPermaLink="false">a2d6d5a179d094b4fa25f23801f1ed3818773d66:AQBot</guid>
+      <pubDate>Tue, 28 Jul 2026 07:55:55 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: AQBot
+Description: Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.
+Website: https://app.aqbot.top/
+Commit: Add AQBot to AI Tools (#2423)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: AQBot<br/>Description: Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
+    </item>
     <item>
       <title>Crisp</title>
       <link>https://didriksg.github.io/Crisp/</link>
@@ -693,20 +707,6 @@ Website: https://cate.cero-ai.com
 Commit: Add Cate to IDEs (#2178)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8</description>
       <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Cate<br/>Description: Open-source IDE on an infinite zoomable canvas, with editor, terminal, browser, and AI agent panels arranged in a spatial workspace.<br/>Website: https://cate.cero-ai.com<br/>Commit: Add Cate to IDEs (#2178)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8]]></content:encoded>
-    </item>
-    <item>
-      <title>SmoothCSV</title>
-      <link>https://smoothcsv.com/</link>
-      <guid isPermaLink="false">a5805e2fcdbf3b25438dadbd86090d96af43634a:SmoothCSV</guid>
-      <pubDate>Sat, 06 Jun 2026 02:21:53 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: SmoothCSV
-Description: Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries.
-Website: https://smoothcsv.com/
-Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: SmoothCSV<br/>Description: Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries.<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to Reading and Writing Tools (Others) (#2155)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5805e2fcdbf3b25438dadbd86090d96af43634a]]></content:encoded>
     </item>
   </channel>
 </rss>
