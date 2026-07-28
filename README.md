@@ -1,7 +1,8 @@
 <div align="center" markdown="1">
-    <sup>Special thanks to:</sup>
+  <sup>Special thanks to:</sup>
   <br>
   <br>
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
