@@ -1,4 +1,5 @@
 <div align="center" markdown="1">
+  - [Dictami](https://dictami.com) - Private offline voice dictation for Mac with live transcription, automatic punctuation, and no account required.
   <sup>Special thanks to:</sup>
   <br>
   <br>
