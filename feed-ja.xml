@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Jul 2026 02:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:54:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Crisp</title>
+      <link>https://didriksg.github.io/Crisp/</link>
+      <guid isPermaLink="false">9963b8e2708ce5c66c1423033ee8d990c6441681:Crisp</guid>
+      <pubDate>Tue, 28 Jul 2026 06:54:55 GMT</pubDate>
+      <category>ユーティリティ / 生活の質の向上</category>
+      <description>Category: ユーティリティ / 生活の質の向上
+App: Crisp
+Description: メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。
+Website: https://didriksg.github.io/Crisp/
+Commit: Add Crisp to the zh/ko/ja list. #2415
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Crisp<br/>Description: メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
+    </item>
     <item>
       <title>WiFi Lens</title>
       <link>https://github.com/SHIINASAMA/wifi-lens</link>
@@ -693,20 +707,6 @@ Website: https://smoothcsv.com/
 Commit: Add SmoothCSV to the ja/ko/zh list. #2155
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
       <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: SmoothCSV<br/>Description: SQLクエリに対応した高速で高機能なCSVエディタ。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
-    </item>
-    <item>
-      <title>Mole Widget</title>
-      <link>https://github.com/bsnkhua/mole-widget</link>
-      <guid isPermaLink="false">355f149de3431629418b9065ee7041af3cf6899a:Mole Widget</guid>
-      <pubDate>Sat, 06 Jun 2026 02:16:57 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Mole Widget
-Description: CPU、メモリ、ディスク、ネットワーク、バッテリー、プロセス情報をリアルタイム表示する、メニューバー管理の軽量システムモニターウィジェット。
-Open Source: https://github.com/bsnkhua/mole-widget
-Commit: Add Mole Widget to the ja/ko list. #2156
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Mole Widget<br/>Description: CPU、メモリ、ディスク、ネットワーク、バッテリー、プロセス情報をリアルタイム表示する、メニューバー管理の軽量システムモニターウィジェット。<br/>Open Source: https://github.com/bsnkhua/mole-widget<br/>Commit: Add Mole Widget to the ja/ko list. #2156<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/355f149de3431629418b9065ee7041af3cf6899a]]></content:encoded>
     </item>
   </channel>
 </rss>
