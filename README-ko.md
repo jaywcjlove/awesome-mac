@@ -581,6 +581,7 @@ Awesome Mac
 * [Gifox](https://gifox.app) - GIF 녹화 및 공유.
 * [Kap](https://getkap.co/) - 웹 기술로 만든 오픈 소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Keyty](https://keyty.app/) - 스크린캐스트, 발표, 데모를 위한 오픈 소스 키보드 및 마우스 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - GIF로 바로 내보내는 화면 녹화 도구. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
