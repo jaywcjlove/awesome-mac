@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:55:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AQBot</title>
+      <link>https://app.aqbot.top/</link>
+      <guid isPermaLink="false">a2d6d5a179d094b4fa25f23801f1ed3818773d66:AQBot</guid>
+      <pubDate>Tue, 28 Jul 2026 07:55:55 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: AQBot
+Description: 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。
+Website: https://app.aqbot.top/
+Commit: Add AQBot to AI Tools (#2423)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: AQBot<br/>Description: 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
+    </item>
     <item>
       <title>Crisp</title>
       <link>https://didriksg.github.io/Crisp/</link>
@@ -693,20 +707,6 @@ Website: https://cate.cero-ai.com
 Commit: Add Cate to IDEs (#2178)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8</description>
       <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Cate<br/>Description: 無限ズームキャンバス上のオープンソース IDE。エディタ、ターミナル、ブラウザ、AI エージェントのパネルを空間的に配置できます。<br/>Website: https://cate.cero-ai.com<br/>Commit: Add Cate to IDEs (#2178)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8]]></content:encoded>
-    </item>
-    <item>
-      <title>SmoothCSV</title>
-      <link>https://smoothcsv.com/</link>
-      <guid isPermaLink="false">841c0d7c9059451b3cdaa452e01c7ed05c9b5f65:SmoothCSV</guid>
-      <pubDate>Sat, 06 Jun 2026 03:52:19 GMT</pubDate>
-      <category>読み書きツール / その他</category>
-      <description>Category: 読み書きツール / その他
-App: SmoothCSV
-Description: SQLクエリに対応した高速で高機能なCSVエディタ。
-Website: https://smoothcsv.com/
-Commit: Add SmoothCSV to the ja/ko/zh list. #2155
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: SmoothCSV<br/>Description: SQLクエリに対応した高速で高機能なCSVエディタ。<br/>Website: https://smoothcsv.com/<br/>Commit: Add SmoothCSV to the ja/ko/zh list. #2155<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/841c0d7c9059451b3cdaa452e01c7ed05c9b5f65]]></content:encoded>
     </item>
   </channel>
 </rss>
