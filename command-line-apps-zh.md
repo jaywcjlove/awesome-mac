@@ -123,6 +123,7 @@
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [job](https://github.com/liujianping/job) - 短命令并发、重复执行工具, 适用于压测. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+* [kb-fx](https://github.com/MrBogomips/kb-fx) - 为任意键盘的每次按键合成音效，并可设置 VIA 兼容键盘的背光颜色。[![Open-Source Software][OSS Icon]](https://github.com/MrBogomips/kb-fx) ![Freeware][Freeware Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - 基于终端界面的 macOS 磁盘清理工具，支持预览优先的清理流程，可扫描缓存和开发构建产物，并安全地将选定文件移至废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/2ykwang/mac-cleanup-go) ![Freeware][Freeware Icon]
