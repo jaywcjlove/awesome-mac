@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:24:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fletch</title>
+      <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
+      <guid isPermaLink="false">05ec40b941f9f3730123cc23c5dde4bff88da234:Fletch</guid>
+      <pubDate>Wed, 29 Jul 2026 04:24:06 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Fletch
+Description: 面向 AI 编程代理的原生 IDE，为每个代理提供仓库的沙盒化克隆以及共享的符号与调用图索引，合并前可进行差异审查。
+Website: https://fletch.sh/?utm_source=dir-awesome-mac
+Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Fletch<br/>Description: 面向 AI 编程代理的原生 IDE，为每个代理提供仓库的沙盒化克隆以及共享的符号与调用图索引，合并前可进行差异审查。<br/>Website: https://fletch.sh/?utm_source=dir-awesome-mac<br/>Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234]]></content:encoded>
+    </item>
     <item>
       <title>AQBot</title>
       <link>https://app.aqbot.top/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/writronic/MaCursor
 Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: MaCursor<br/>Description: macOS自定义光标主题工具。<br/>Open Source: https://github.com/writronic/MaCursor<br/>Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5]]></content:encoded>
-    </item>
-    <item>
-      <title>Cate</title>
-      <link>https://cate.cero-ai.com</link>
-      <guid isPermaLink="false">febc8acb8ce125c6b276fbf34baecc259515eca8:Cate</guid>
-      <pubDate>Wed, 10 Jun 2026 12:34:14 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Cate
-Description: 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。
-Website: https://cate.cero-ai.com
-Commit: Add Cate to IDEs (#2178)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Cate<br/>Description: 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。<br/>Website: https://cate.cero-ai.com<br/>Commit: Add Cate to IDEs (#2178)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8]]></content:encoded>
     </item>
   </channel>
 </rss>

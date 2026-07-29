@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:24:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fletch</title>
+      <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
+      <guid isPermaLink="false">05ec40b941f9f3730123cc23c5dde4bff88da234:Fletch</guid>
+      <pubDate>Wed, 29 Jul 2026 04:24:06 GMT</pubDate>
+      <category>Developer Tools / IDEs</category>
+      <description>Category: Developer Tools / IDEs
+App: Fletch
+Description: Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge.
+Website: https://fletch.sh/?utm_source=dir-awesome-mac
+Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234</description>
+      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Fletch<br/>Description: Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge.<br/>Website: https://fletch.sh/?utm_source=dir-awesome-mac<br/>Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234]]></content:encoded>
+    </item>
     <item>
       <title>AQBot</title>
       <link>https://app.aqbot.top/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/writronic/MaCursor
 Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5</description>
       <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: MaCursor<br/>Description: Custom cursor themes for macOS.<br/>Open Source: https://github.com/writronic/MaCursor<br/>Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5]]></content:encoded>
-    </item>
-    <item>
-      <title>Cate</title>
-      <link>https://cate.cero-ai.com</link>
-      <guid isPermaLink="false">febc8acb8ce125c6b276fbf34baecc259515eca8:Cate</guid>
-      <pubDate>Wed, 10 Jun 2026 12:34:14 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Cate
-Description: Open-source IDE on an infinite zoomable canvas, with editor, terminal, browser, and AI agent panels arranged in a spatial workspace.
-Website: https://cate.cero-ai.com
-Commit: Add Cate to IDEs (#2178)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Cate<br/>Description: Open-source IDE on an infinite zoomable canvas, with editor, terminal, browser, and AI agent panels arranged in a spatial workspace.<br/>Website: https://cate.cero-ai.com<br/>Commit: Add Cate to IDEs (#2178)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/febc8acb8ce125c6b276fbf34baecc259515eca8]]></content:encoded>
     </item>
   </channel>
 </rss>
