@@ -257,6 +257,7 @@ Awesome Mac
 * [MiaoYan](https://miaoyan.app/) - 素晴らしい文章を書くのに役立つ軽量Markdownアプリ。
 * [Notable](https://github.com/notable/notable) - 優れたMarkdownベースのメモアプリ。
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - メモ取りアプリ。 ![Freeware][Freeware Icon]
+* [NoteGen](https://notegen.top/) - 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - クリーンでシンプルなメモ取りアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - タスク、メモ、カレンダーをプレーンテキストMarkdownファイルで管理。 [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - 真のネイティブノートおよびLLMクライアント
