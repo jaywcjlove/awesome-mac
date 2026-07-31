@@ -1160,6 +1160,7 @@ Awesome Mac
 * [macUSB](https://github.com/Kruszoneq/macUSB) - 为 Apple Silicon Mac 创建可启动 macOS/OS X 安装器的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/) - 给你的便笺加个密。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]
+* [Nox](https://getnoxapp.com/) - 面向光敏感用户的显示过滤工具，提供基于研究的光谱预设、软件调光和休息提醒。
 * [MindMac](https://mindmac.app/) - 在一个客户端中使用多种 AI 模型与服务。
 * [Mos](https://mos.caldis.me/) - 让你的鼠标滚轮丝滑如触控板。[![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - 归档管理工具，支持归档文件的预览和提取。[![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
