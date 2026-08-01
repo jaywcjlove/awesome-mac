@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:34:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Phosphene</title>
+      <link>https://kagerou.glass/phosphene/</link>
+      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
+      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Phosphene
+Description: 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。
+Website: https://kagerou.glass/phosphene/
+Commit: Add Phosphene to General Tools (#2465)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Phosphene<br/>Description: 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
+    </item>
     <item>
       <title>Rilmazafone</title>
       <link>https://kagerou.glass/rilmazafone/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/sorkila/tintpad
 Commit: Add Tintpad (Developer Utilities) (#2206)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Tintpad<br/>Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.<br/>Open Source: https://github.com/sorkila/tintpad<br/>Commit: Add Tintpad (Developer Utilities) (#2206)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Island</title>
-      <link>https://github.com/tristan666666/agent-island</link>
-      <guid isPermaLink="false">f1b3f9828b2dc0db4a1da09242df13fb620e2f0c:Agent Island</guid>
-      <pubDate>Thu, 18 Jun 2026 11:19:31 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Agent Island
-Description: 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。
-Open Source: https://github.com/tristan666666/agent-island
-Commit: Add Agent Island (#2199)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Agent Island<br/>Description: 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
     </item>
   </channel>
 </rss>
