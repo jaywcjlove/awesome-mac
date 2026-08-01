@@ -1197,6 +1197,7 @@ Awesome Mac
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 支持多种常见格式的压缩与解压工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/Uotan-Dev/UotanToolboxNT) ![Freeware][Freeware Icon]
+* [Phosphene](https://kagerou.glass/phosphene/) - 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - 支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [Vidwall Hub](https://wangchujiang.com/vidwall-hub/) - 轻松将 MP4/MOV 视频导入系统壁纸并用作锁屏动画。 ![Freeware][Freeware Icon]
 * [Wallpaper Player](https://github.com/haren724/wallpaper-player-mac) - 一款强大的开源 Mac 动态壁纸应用，支持导入 Wallpaper Engine 上的壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/haren724/wallpaper-player-mac) ![Freeware][Freeware Icon]
