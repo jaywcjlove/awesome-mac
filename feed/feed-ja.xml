@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:32:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rilmazafone</title>
+      <link>https://kagerou.glass/rilmazafone/</link>
+      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
+      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
+      <category>開発ツール / ハイブリッドアプリケーション用フレームワーク</category>
+      <description>Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク
+App: Rilmazafone
+Description: WYSIWYG キャンバスで DMG インストーラーをデザインし、描いたとおりにビルド。スクリプト不要です。
+Website: https://kagerou.glass/rilmazafone/
+Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
+      <content:encoded><![CDATA[Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク<br/>App: Rilmazafone<br/>Description: WYSIWYG キャンバスで DMG インストーラーをデザインし、描いたとおりにビルド。スクリプト不要です。<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
+    </item>
     <item>
       <title>NoteGen</title>
       <link>https://notegen.top/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/tristan666666/agent-island
 Commit: Add Agent Island (#2199)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Agent Island<br/>Description: MacBookのノッチにClaude CodeとCodexのセッション状態を表示し、選択した長時間タスクを自動再開できるツール。<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
-    </item>
-    <item>
-      <title>TrustTunnel</title>
-      <link>https://trusttunnel.org/</link>
-      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
-      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
-      <category>プロキシ・VPNツール</category>
-      <description>Category: プロキシ・VPNツール
-App: TrustTunnel
-Description: 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。
-Website: https://trusttunnel.org/
-Commit: Add TrustTunnel to VPN list (#2193)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
-      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: TrustTunnel<br/>Description: 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
     </item>
   </channel>
 </rss>

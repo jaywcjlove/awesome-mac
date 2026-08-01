@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:32:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rilmazafone</title>
+      <link>https://kagerou.glass/rilmazafone/</link>
+      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
+      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
+      <category>개발 도구 / 하이브리드 애플리케이션 프레임워크</category>
+      <description>Category: 개발 도구 / 하이브리드 애플리케이션 프레임워크
+App: Rilmazafone
+Description: WYSIWYG 캔버스에서 DMG 설치 프로그램을 디자인하고 그린 그대로 빌드하세요. 스크립트가 필요 없습니다.
+Website: https://kagerou.glass/rilmazafone/
+Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 하이브리드 애플리케이션 프레임워크<br/>App: Rilmazafone<br/>Description: WYSIWYG 캔버스에서 DMG 설치 프로그램을 디자인하고 그린 그대로 빌드하세요. 스크립트가 필요 없습니다.<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
+    </item>
     <item>
       <title>NoteGen</title>
       <link>https://notegen.top/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/tristan666666/agent-island
 Commit: Add Agent Island (#2199)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Agent Island<br/>Description: MacBook 노치에서 Claude Code와 Codex 세션 상태를 보여주고 선택한 장시간 작업을 자동으로 이어서 실행하는 도구.<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
-    </item>
-    <item>
-      <title>TrustTunnel</title>
-      <link>https://trusttunnel.org/</link>
-      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
-      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
-      <category>프록시 및 VPN 도구</category>
-      <description>Category: 프록시 및 VPN 도구
-App: TrustTunnel
-Description: 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다.
-Website: https://trusttunnel.org/
-Commit: Add TrustTunnel to VPN list (#2193)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
-      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: TrustTunnel<br/>Description: 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다.<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
     </item>
   </channel>
 </rss>
