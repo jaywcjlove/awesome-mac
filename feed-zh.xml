@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:32:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rilmazafone</title>
+      <link>https://kagerou.glass/rilmazafone/</link>
+      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
+      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
+      <category>软件打包工具</category>
+      <description>Category: 软件打包工具
+App: Rilmazafone
+Description: 在所见即所得画布上设计 DMG 安装器，构建结果与设计完全一致，无需脚本。
+Website: https://kagerou.glass/rilmazafone/
+Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
+      <content:encoded><![CDATA[Category: 软件打包工具<br/>App: Rilmazafone<br/>Description: 在所见即所得画布上设计 DMG 安装器，构建结果与设计完全一致，无需脚本。<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
+    </item>
     <item>
       <title>NoteGen</title>
       <link>https://notegen.top/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/tristan666666/agent-island
 Commit: Add Agent Island (#2199)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Agent Island<br/>Description: 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。<br/>Open Source: https://github.com/tristan666666/agent-island<br/>Commit: Add Agent Island (#2199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f1b3f9828b2dc0db4a1da09242df13fb620e2f0c]]></content:encoded>
-    </item>
-    <item>
-      <title>TrustTunnel</title>
-      <link>https://trusttunnel.org/</link>
-      <guid isPermaLink="false">bd053d570146cf2f7ab8527dfebc39dd6988fa21:TrustTunnel</guid>
-      <pubDate>Wed, 17 Jun 2026 05:23:48 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: TrustTunnel
-Description: 现代开源 VPN 协议，最初由 AdGuard VPN 开发。
-Website: https://trusttunnel.org/
-Commit: Add TrustTunnel to VPN list (#2193)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: TrustTunnel<br/>Description: 现代开源 VPN 协议，最初由 AdGuard VPN 开发。<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
     </item>
   </channel>
 </rss>
