@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jul 2026 04:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:14:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NoteGen</title>
+      <link>https://notegen.top/</link>
+      <guid isPermaLink="false">afa2b3e270c52f3eb659feedeb9b7a3951dbb45d:NoteGen</guid>
+      <pubDate>Sat, 01 Aug 2026 00:14:34 GMT</pubDate>
+      <category>阅读与写作工具 / 笔记</category>
+      <description>Category: 阅读与写作工具 / 笔记
+App: NoteGen
+Description: 开源、本地优先的 Markdown 笔记应用，借助 AI 将零散记录整理成结构化笔记。
+Website: https://notegen.top/
+Commit: Add NoteGen (#2462)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: NoteGen<br/>Description: 开源、本地优先的 Markdown 笔记应用，借助 AI 将零散记录整理成结构化笔记。<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
+    </item>
     <item>
       <title>Fletch</title>
       <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
@@ -693,20 +707,6 @@ Website: https://trusttunnel.org/
 Commit: Add TrustTunnel to VPN list (#2193)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: TrustTunnel<br/>Description: 现代开源 VPN 协议，最初由 AdGuard VPN 开发。<br/>Website: https://trusttunnel.org/<br/>Commit: Add TrustTunnel to VPN list (#2193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd053d570146cf2f7ab8527dfebc39dd6988fa21]]></content:encoded>
-    </item>
-    <item>
-      <title>MaCursor</title>
-      <link>https://github.com/writronic/MaCursor</link>
-      <guid isPermaLink="false">7ccc07cf7274c9f37cb7eb88941543f551f822b5:MaCursor</guid>
-      <pubDate>Wed, 17 Jun 2026 03:55:26 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: MaCursor
-Description: macOS自定义光标主题工具。
-Open Source: https://github.com/writronic/MaCursor
-Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: MaCursor<br/>Description: macOS自定义光标主题工具。<br/>Open Source: https://github.com/writronic/MaCursor<br/>Commit: Add MaCursor to Quality of Life / System Tools sections (#2194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ccc07cf7274c9f37cb7eb88941543f551f822b5]]></content:encoded>
     </item>
   </channel>
 </rss>
