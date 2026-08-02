@@ -470,6 +470,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Regex](https://motionobj.com/regex/) - Regular expression testing tool with an emphasis on simplicity.
 * [RegExRX](https://www.mactechnologies.com/index.php?page=downloads#regexrx) - Development tool for regular expressions.
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - A regular expression testing tool with a built-in quick reference guide.
+* [RegexPilot](https://regexpilot.com/) - Visual regex builder that runs patterns against 21 real language engines. [![App Store][app-store Icon]](https://apps.apple.com/us/app/regexpilot/id6764146125?platform=mac)
 
 ### API Development and Analysis
 
