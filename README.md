@@ -1175,6 +1175,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.
 
 ### Clipboard Tools
+* [Offscreen](https://github.com/bsmensah-ctrl/offscreen) - Privacy overlay notepad invisible to screen sharing. Uses NSWindowSharingNone to exclude from ScreenCaptureKit. [![Open-Source Software][OSS Icon]](https://github.com/bsmensah-ctrl/offscreen) ![Freeware][Freeware Icon]
 
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
