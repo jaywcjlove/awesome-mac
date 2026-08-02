@@ -1351,6 +1351,7 @@ Awesome Mac
 * [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
 * [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707?platform=mac)
+* [Dantrolene](https://kagerou.glass/dantrolene/) - 连接家庭 WiFi 时屏幕不再自动锁定，在其他任何网络下正常锁屏。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/dantrolene) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6790834557?platform=mac)
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - 在多显示器环境中将 macOS 的 Dock 锁定在一个屏幕上。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - 一款高效的 macOS 文件搜索工具，基于原生 Spotlight 引擎，支持极速搜索。[![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
