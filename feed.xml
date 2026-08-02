@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 01:10:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Adrafinil</title>
+      <link>https://kagerou.glass/adrafinil/</link>
+      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
+      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: Adrafinil
+Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.
+Website: https://kagerou.glass/adrafinil/
+Commit: Add Adrafinil to System Related Tools (#2466)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Adrafinil<br/>Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
+    </item>
     <item>
       <title>Phosphene</title>
       <link>https://kagerou.glass/phosphene/</link>
@@ -693,20 +707,6 @@ Website: https://jsonstudio.js.org/
 Commit: Add JsonStudio (#2209)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: JsonStudio<br/>Description: Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
-    </item>
-    <item>
-      <title>Tintpad</title>
-      <link>https://github.com/sorkila/tintpad</link>
-      <guid isPermaLink="false">6caec1eb50a74f4503af2901213c7cde6ae344c2:Tintpad</guid>
-      <pubDate>Sat, 20 Jun 2026 16:33:16 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: Tintpad
-Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
-Open Source: https://github.com/sorkila/tintpad
-Commit: Add Tintpad (Developer Utilities) (#2206)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Tintpad<br/>Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.<br/>Open Source: https://github.com/sorkila/tintpad<br/>Commit: Add Tintpad (Developer Utilities) (#2206)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2]]></content:encoded>
     </item>
   </channel>
 </rss>

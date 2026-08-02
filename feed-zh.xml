@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 01:10:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Adrafinil</title>
+      <link>https://kagerou.glass/adrafinil/</link>
+      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
+      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: Adrafinil
+Description: 仅在 AI 智能体仍在工作时保持 Mac 唤醒，任务结束后恢复正常睡眠。
+Website: https://kagerou.glass/adrafinil/
+Commit: Add Adrafinil to System Related Tools (#2466)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Adrafinil<br/>Description: 仅在 AI 智能体仍在工作时保持 Mac 唤醒，任务结束后恢复正常睡眠。<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
+    </item>
     <item>
       <title>Phosphene</title>
       <link>https://kagerou.glass/phosphene/</link>
@@ -693,20 +707,6 @@ Website: https://jsonstudio.js.org/
 Commit: Add JsonStudio (#2209)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: JsonStudio<br/>Description: 本地优先的 JSON 工作台，支持格式化、编辑、对比、转换、校验和从日志中提取 JSON。<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
-    </item>
-    <item>
-      <title>Tintpad</title>
-      <link>https://github.com/sorkila/tintpad</link>
-      <guid isPermaLink="false">6caec1eb50a74f4503af2901213c7cde6ae344c2:Tintpad</guid>
-      <pubDate>Sat, 20 Jun 2026 16:33:16 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Tintpad
-Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
-Open Source: https://github.com/sorkila/tintpad
-Commit: Add Tintpad (Developer Utilities) (#2206)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Tintpad<br/>Description: Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.<br/>Open Source: https://github.com/sorkila/tintpad<br/>Commit: Add Tintpad (Developer Utilities) (#2206)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6caec1eb50a74f4503af2901213c7cde6ae344c2]]></content:encoded>
     </item>
   </channel>
 </rss>
