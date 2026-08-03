@@ -221,6 +221,7 @@ Awesome Mac
 * [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 다양한 플랫폼에서 사용 가능한 유명 노트 앱. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
+* [Glyph](https://glyphformac.com/) - 노트, 문서, 작업, 선택적 AI 도구를 지원하는 오픈 소스 로컬 우선 Markdown 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/Glyph)
 * [Gooba](https://goobapp.com/) - 간단하고 대화형 디자인의 쓰기 앱 및 작업 관리자.
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
