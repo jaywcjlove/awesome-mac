@@ -1102,6 +1102,7 @@ Awesome Mac
 * [Shimo](https://www.shimovpn.com/) - 连接大量 VPN 的应用。
 * [Surge](https://nssurge.com/) - 科学上网。
 * [tinc](https://www.tinc-vpn.org) - VPN 软件。[![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc)![Freeware][Freeware Icon]
+* [Traveler's VPN](https://travelersvpn.com/) - 基于 sing-box 的智能分流旅行 VPN 客户端，支持 Outline/Shadowsocks、WireGuard 和 Trojan 服务器。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/travelers-vpn/id6764288591?platform=mac)
 * [Tailscale](https://tailscale.com) - 用于安全连接设备、服务和用户的网状 VPN。 ![Freeware][Freeware Icon]
 * [TrustTunnel](https://trusttunnel.org/) - 现代开源 VPN 协议，最初由 AdGuard VPN 开发。 [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 用于安全上网和切换地区的简洁 VPN 服务。 ![Freeware][Freeware Icon]
