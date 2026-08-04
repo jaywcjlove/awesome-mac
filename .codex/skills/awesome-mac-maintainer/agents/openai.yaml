@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome Mac Maintainer"
+  short_description: "Maintain multilingual Awesome Mac listings"
+  default_prompt: "Use $awesome-mac-maintainer to add or update app entries across README.md, README-zh.md, README-ja.md, and README-ko.md while preserving style and ordering."

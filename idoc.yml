@@ -10,11 +10,14 @@ dir: ./doc
 
 menus:
   Home: index.html
-  Recommended: 
+  Top Picks: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
     target: __blank
-  Link failure Report: 
+  Report: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
+    target: __blank
+  RSS: 
+    url: feed/feed.html
     target: __blank
 
 sideEffectFiles:
@@ -28,6 +31,10 @@ sideEffectFiles:
   - command-line-apps-zh.md
   - command-line-apps-ko.md
   - command-line-apps-ja.md
+  - feed/feed.md
+  - feed/feed-zh.md
+  - feed/feed-ja.md
+  - feed/feed-ko.md
 
 footer: |
   This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br>

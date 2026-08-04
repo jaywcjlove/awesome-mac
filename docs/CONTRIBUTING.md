@@ -23,6 +23,31 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 - Annotate your PR to clarify what you did if the diff is confusing.
 
+### AI-assisted contributions
+
+AI-assisted contributions are welcome, but they should follow the same repository rules as manual edits.
+
+This repository includes a Codex skill at `.codex/skills/awesome-mac-maintainer` for multilingual curation tasks. If you use Codex or a compatible agent, prefer `$awesome-mac-maintainer` when adding, updating, or reclassifying app entries.
+
+The skill is designed to help contributors:
+
+- choose the most appropriate category based on comparable existing entries
+- keep descriptions concise and limited to one sentence
+- sync entries across `README.md`, `README-zh.md`, `README-ja.md`, and `README-ko.md`
+- preserve local section structure, alphabetical ordering, and existing icon style
+
+Example prompts:
+
+```text
+Use $awesome-mac-maintainer to add this app to README.md, README-zh.md, README-ja.md, and README-ko.md.
+```
+
+```text
+Use $awesome-mac-maintainer to check whether this app belongs in Screen Recording or Screenshot Tools, then update the four README files.
+```
+
+If you use AI without this skill, please still make sure the final PR follows the repository's category, ordering, wording, and multilingual sync rules.
+
 Thank you for your suggestions!
 
 ## How to add to this list
