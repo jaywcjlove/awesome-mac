@@ -309,6 +309,7 @@ Awesome Mac
 * [Capd](https://capd.jxd.dev) - 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
+* [FS PDF Compressor](https://gitlares.github.io/fs-pdf-compressor/) - 업로드, 계정, 분석, 텔레메트리 없이 PDF를 로컬에서 압축. [![Open-Source Software][OSS Icon]](https://github.com/gitlares/fs-pdf-compressor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Highlights](https://highlightsapp.net) - 학습 및 연구를 위한 PDF 리더. ![Freeware][Freeware Icon]
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 메타데이터, 구조, 보안 위험을 분석하는 PDF 검사 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - PDF 읽기, 주석 및 편집 도구.

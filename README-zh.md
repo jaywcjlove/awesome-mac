@@ -916,6 +916,7 @@ Awesome Mac
 * [Capd](https://capd.jxd.dev) - 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
+* [FS PDF Compressor](https://gitlares.github.io/fs-pdf-compressor/) - 在本地压缩 PDF，无需上传、账户、分析或遥测。 [![Open-Source Software][OSS Icon]](https://github.com/gitlares/fs-pdf-compressor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-archiver/id1433801905?platform=mac)
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 用于分析元数据、结构和安全风险的 PDF 检查工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
