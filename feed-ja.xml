@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Aug 2026 04:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:59:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BitFun</title>
+      <link>https://openbitfun.com/</link>
+      <guid isPermaLink="false">3b4598704c70eff89416bbdc93a3155f68ce2082:BitFun</guid>
+      <pubDate>Wed, 05 Aug 2026 14:59:21 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: BitFun
+Description: タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。
+Website: https://openbitfun.com/
+Commit: Add BitFun to the zh/ja/ko list #2490
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: BitFun<br/>Description: タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to the zh/ja/ko list #2490<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082]]></content:encoded>
+    </item>
     <item>
       <title>GraphCode</title>
       <link>https://graphcode.app</link>
@@ -693,20 +707,6 @@ Website: https://vorssaint.com
 Commit: Add Vorssaint to Menu Bar Tools (#2223)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Vorssaint<br/>Description: アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
-    </item>
-    <item>
-      <title>mysa</title>
-      <link>https://github.com/alishansnsn/mysa</link>
-      <guid isPermaLink="false">14e273dbfd26ededdb4c76acf46e3c738ac0f464:mysa</guid>
-      <pubDate>Mon, 22 Jun 2026 08:09:04 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: mysa
-Description: 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。
-Open Source: https://github.com/alishansnsn/mysa
-Commit: Add mysa (#2215)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: mysa<br/>Description: 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
     </item>
   </channel>
 </rss>

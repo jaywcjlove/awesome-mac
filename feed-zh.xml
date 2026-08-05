@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 04:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:59:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BitFun</title>
+      <link>https://openbitfun.com/</link>
+      <guid isPermaLink="false">3b4598704c70eff89416bbdc93a3155f68ce2082:BitFun</guid>
+      <pubDate>Wed, 05 Aug 2026 14:59:21 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: BitFun
+Description: 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。
+Website: https://openbitfun.com/
+Commit: Add BitFun to the zh/ja/ko list #2490
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: BitFun<br/>Description: 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to the zh/ja/ko list #2490<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082]]></content:encoded>
+    </item>
     <item>
       <title>GraphCode</title>
       <link>https://graphcode.app</link>
@@ -693,20 +707,6 @@ Website: https://vorssaint.com
 Commit: Add Vorssaint to Menu Bar Tools (#2223)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Vorssaint<br/>Description: 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
-    </item>
-    <item>
-      <title>mysa</title>
-      <link>https://github.com/alishansnsn/mysa</link>
-      <guid isPermaLink="false">14e273dbfd26ededdb4c76acf46e3c738ac0f464:mysa</guid>
-      <pubDate>Mon, 22 Jun 2026 08:09:04 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: mysa
-Description: 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。
-Open Source: https://github.com/alishansnsn/mysa
-Commit: Add mysa (#2215)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: mysa<br/>Description: 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
     </item>
   </channel>
 </rss>
