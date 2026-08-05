@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:35:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GraphCode</title>
+      <link>https://graphcode.app</link>
+      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
+      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: GraphCode
+Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.
+Website: https://graphcode.app
+Commit: Add GraphCode to Developer Utilities (#2489)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: GraphCode<br/>Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
+    </item>
     <item>
       <title>Capd</title>
       <link>https://capd.jxd.dev</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/alishansnsn/mysa
 Commit: Add mysa (#2215)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: mysa<br/>Description: A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
-    </item>
-    <item>
-      <title>SiliconScope</title>
-      <link>https://siliconscope.calidalab.ai</link>
-      <guid isPermaLink="false">fb07331b5de1a1e46041a802de0c779f62f24152:SiliconScope</guid>
-      <pubDate>Sun, 21 Jun 2026 22:24:22 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: SiliconScope
-Description: Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown — the chip-level signals Activity Monitor doesn&apos;t show.
-Website: https://siliconscope.calidalab.ai
-Commit: Add SiliconScope (Apple Silicon system monitor) (#2211)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fb07331b5de1a1e46041a802de0c779f62f24152</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SiliconScope<br/>Description: Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown — the chip-level signals Activity Monitor doesn&apos;t show.<br/>Website: https://siliconscope.calidalab.ai<br/>Commit: Add SiliconScope (Apple Silicon system monitor) (#2211)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fb07331b5de1a1e46041a802de0c779f62f24152]]></content:encoded>
     </item>
   </channel>
 </rss>

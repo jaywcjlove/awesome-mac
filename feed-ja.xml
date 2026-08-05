@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:35:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GraphCode</title>
+      <link>https://graphcode.app</link>
+      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
+      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: GraphCode
+Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]
+Website: https://graphcode.app
+Commit: Add GraphCode to Developer Utilities (#2489)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: GraphCode<br/>Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
+    </item>
     <item>
       <title>Capd</title>
       <link>https://capd.jxd.dev</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/alishansnsn/mysa
 Commit: Add mysa (#2215)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: mysa<br/>Description: 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
-    </item>
-    <item>
-      <title>SiliconScope</title>
-      <link>https://siliconscope.calidalab.ai</link>
-      <guid isPermaLink="false">1dc6b5e73997fa68905ff66071f30ca9621ba1e1:SiliconScope</guid>
-      <pubDate>Sun, 21 Jun 2026 22:32:20 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: SiliconScope
-Description: 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。
-Website: https://siliconscope.calidalab.ai
-Commit: Add SiliconScope to zh/ko/ja list. #2211
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1dc6b5e73997fa68905ff66071f30ca9621ba1e1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: SiliconScope<br/>Description: 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。<br/>Website: https://siliconscope.calidalab.ai<br/>Commit: Add SiliconScope to zh/ko/ja list. #2211<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1dc6b5e73997fa68905ff66071f30ca9621ba1e1]]></content:encoded>
     </item>
   </channel>
 </rss>
