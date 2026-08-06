@@ -145,6 +145,7 @@ Awesome Command Line Apps
 * [hns](https://github.com/primaprashant/hns) - マイクからの音声を直接クリップボードに文字起こしする音声テキスト変換ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - Unixシステム向けのインタラクティブなテキストモードプロセスビューアー。より良い'top'を目指す。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [job](https://github.com/liujianping/job) - 短期的なコマンドを長期的なジョブに変換。 [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
+* [kb-fx](https://github.com/MrBogomips/kb-fx) - どのキーボードでもキーストロークごとに音を合成し、VIA対応ボードのバックライト色も設定。 [![Open-Source Software][OSS Icon]](https://github.com/MrBogomips/kb-fx) ![Freeware][Freeware Icon]
 * [lnav](http://lnav.org) - ログファイルナビゲーター。 [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - macOS用のスイスアーミーナイフ。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - プレビューファーストのワークフローを持つmacOSディスククリーンアップTUI：キャッシュと開発アーティファクトをスキャンし、結果をプレビューし、選択したアイテムをゴミ箱に移動。 [![Open-Source Software][OSS Icon]](https://github.com/2ykwang/mac-cleanup-go) ![Freeware][Freeware Icon]
