@@ -942,6 +942,7 @@ Awesome Mac
 * [TypeCue](https://typecue.app) - 준비한 스크립트를 단축키 한 번에 한 줄씩, 실제 키 입력으로 자연스러운 속도로 어떤 앱에나 입력합니다. 데모 녹화와 라이브 발표용. [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [Vorssaint](https://vorssaint.com) - 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [Performance Monitor](https://perfmon.knhome.nl) - 가벼운 메뉴 막대 시스템 모니터. CPU, 메모리, 네트워크, 디스크, GPU, 센서별 온도, SSD 마모도, 배터리 상태를 표시합니다. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/inequitas/performancemonitor) ![Freeware][Freeware Icon]
 
 ### 정리 및 제거
 
