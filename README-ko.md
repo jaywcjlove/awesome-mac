@@ -451,6 +451,7 @@ Awesome Mac
 
 ### 네트워크 분석
 
+* [Breakdown](https://breakdown.live/) - 메뉴 막대에서 연결 상태를 지속적으로 기록하고 문제가 Wi-Fi, ISP 경로 또는 앱 중 어디에서 시작되는지 보여줍니다. 표준 용도는 무료입니다.
 * [Charles](https://www.charlesproxy.com/) - HTTP 프록시/모니터.
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
