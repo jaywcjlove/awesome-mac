@@ -728,6 +728,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snip](https://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
 * [Teampaper Snap](https://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id1199502670?platform=mac)
+* [TetherShot](https://tethershot.apoorvdarshan.com) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi. [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/TetherShot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuji](https://tuji.app/) - Take a screenshot, annotate it, and beautify it. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [Xnip](https://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 
