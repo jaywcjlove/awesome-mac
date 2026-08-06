@@ -681,6 +681,7 @@ Awesome Mac
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - 입력과 출력 장치 구성을 저장하는 오디오 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [BeMyEars](https://www.bemyears.cn/) - 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구. ![Freeware][Freeware Icon]
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
+* [NotchLive](https://notchlive.app/ko/download) - 회의 봇 없이 온디바이스 전사를 지원하는 비공개 실시간 자막 및 번역 도구. ![Freeware][Freeware Icon]
 * [Spotifly](https://github.com/ralph/Spotifly) - 빠른 재생 제어에 초점을 맞춘 가벼운 Spotify 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com/) - 수백만 곡의 노래를 즐길 수 있는 디지털 음악 서비스. ![Freeware][Freeware Icon]
 
