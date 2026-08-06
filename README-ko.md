@@ -795,6 +795,7 @@ Awesome Mac
 
 * [Kawa](https://github.com/utatti/kawa) - OS X용 단축키 기반 입력 소스 전환기. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 고쳐주는 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
+* [Quant Keyboard](https://github.com/avklyuev79-hash/quant-keyboard) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 통계 트라이그램 엔진으로 자동 수정합니다. [![Open-Source Software][OSS Icon]](https://github.com/avklyuev79-hash/quant-keyboard) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 앱이나 웹사이트별로 입력 소스를 자동 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
