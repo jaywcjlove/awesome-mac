@@ -478,6 +478,7 @@ Awesome Mac
 * [Regex](https://motionobj.com/regex/) - シンプルさを重視した正規表現テストツール。
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正規表現用の開発ツール。
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - クイックリファレンスガイドを内蔵した正規表現テストツール。
+* [RegexPilot](https://regexpilot.com/) - 21 種類の実際の言語エンジンでパターンを実行できるビジュアル正規表現ビルダー。[![App Store][app-store Icon]](https://apps.apple.com/us/app/regexpilot/id6764146125?platform=mac)
 
 ### API開発と分析
 
