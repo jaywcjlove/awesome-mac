@@ -2,12 +2,21 @@
   <sup>特别感谢：</sup>
   <br>
   <br>
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
   <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP｜精选软件，正版保真，超值特惠" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -20,6 +29,7 @@
 
 <p style="display: inline_block">
   <sup>使用 <a href="https://wangchujiang.com/#/app" target="_blank">我的应用</a> 也是支持我的一种方式：<a href="https://wangchujiang.com/#/sponsor" target="_blank">支持我</a></sup><br/>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
@@ -101,6 +111,7 @@
 
 ## 开发者工具
 
+* [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 一个用于处理 Markdown 文件的命令行工具。下载图片、翻译文件等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]

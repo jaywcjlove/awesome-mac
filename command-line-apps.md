@@ -2,24 +2,34 @@
   <sup>Special thanks to:</sup>
   <br>
   <br>
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
   <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
   <br>
   <a href="https://ip.im/">IP.IM Free IP address information query website</a>
   <br><br>
-  
+
 </div>
 <hr>
 
 <p style="display: inline_block">
   <sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
@@ -101,6 +111,7 @@ A curated list of useful command line apps
 
 ## Developer
 
+* [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Docker Compose-compatible CLI for Apple's native container runtime on Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - A command-line tool for processing Markdown files. Download Images, Translate Files, etc. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
