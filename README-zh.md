@@ -1060,6 +1060,7 @@ Awesome Mac
 
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - 在一个地方跟踪订阅、续费和支出，提供提醒、分析和 iCloud 同步。
 * [StockDock](https://github.com/simonsruggi/StockDock) - 菜单栏股票/ETF/加密货币实时行情工具，支持投资组合盈亏、多币种，注重隐私无需账户。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
+* [TickerNotch](https://bitvibelabs.com/tickernotch/) - 在 MacBook 刘海两侧显示股票/加密货币行情、新闻、天气和社交关注数，也可固定到菜单栏。支持K线图窗口和价格提醒。 ![Native App][Native Icon]
 
 ## 安全工具
 
