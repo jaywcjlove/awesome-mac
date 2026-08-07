@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ItsPaint</title>
+      <link>https://itspaintmac.com/</link>
+      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
+      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
+      <category>Design and Product / Design Tools</category>
+      <description>Category: Design and Product / Design Tools
+App: ItsPaint
+Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.
+Website: https://itspaintmac.com/
+Commit: Add ItsPaint to Design and Product (#2457)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
+      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
+    </item>
     <item>
       <title>MacOSCleaner</title>
       <link>https://github.com/AlexTkDev/MacOSCleaner</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/pesty
 Commit: Add Pesty to Clipboard Tools (#2229)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Pesty<br/>Description: Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to Clipboard Tools (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage</title>
-      <link>https://github.com/Bread-bang/claude-usage</link>
-      <guid isPermaLink="false">0136ad87cd5608de92aca3500367e99bb9df939a:Claude Usage</guid>
-      <pubDate>Fri, 26 Jun 2026 01:44:42 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claude Usage
-Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.
-Open Source: https://github.com/Bread-bang/claude-usage
-Commit: Add Claude Usage to AI Tools (#2184)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage<br/>Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
     </item>
   </channel>
 </rss>

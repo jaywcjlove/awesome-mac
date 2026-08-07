@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ItsPaint</title>
+      <link>https://itspaintmac.com/</link>
+      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
+      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
+      <category>设计和产品 / 设计工具</category>
+      <description>Category: 设计和产品 / 设计工具
+App: ItsPaint
+Description: 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。
+Website: https://itspaintmac.com/
+Commit: Add ItsPaint to Design and Product (#2457)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: ItsPaint<br/>Description: 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
+    </item>
     <item>
       <title>BitFun</title>
       <link>https://openbitfun.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Bread-bang/claude-usage
 Commit: Add Claude Usage to AI Tools (#2184)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Claude Usage<br/>Description: 用于 Claude Code 的菜单栏应用，在状态行中分窗格显示上下文，会话与每周用量始终可见。无需运行 usage、context 等命令即可查看。<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
-    </item>
-    <item>
-      <title>Vorssaint</title>
-      <link>https://vorssaint.com</link>
-      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
-      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Vorssaint
-Description: 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。
-Website: https://vorssaint.com
-Commit: Add Vorssaint to Menu Bar Tools (#2223)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Vorssaint<br/>Description: 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
     </item>
   </channel>
 </rss>

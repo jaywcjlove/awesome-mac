@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ItsPaint</title>
+      <link>https://itspaintmac.com/</link>
+      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
+      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
+      <category>디자인 및 제품 / 디자인 도구</category>
+      <description>Category: 디자인 및 제품 / 디자인 도구
+App: ItsPaint
+Description: 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화 가리기, 인스턴트 알파. 계정과 텔레메트리 없음.
+Website: https://itspaintmac.com/
+Commit: Add ItsPaint to Design and Product (#2457)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 디자인 도구<br/>App: ItsPaint<br/>Description: 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화 가리기, 인스턴트 알파. 계정과 텔레메트리 없음.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
+    </item>
     <item>
       <title>BitFun</title>
       <link>https://openbitfun.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Bread-bang/claude-usage
 Commit: Add Claude Usage to AI Tools (#2184)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Claude Usage<br/>Description: Claude Code용 메뉴 막대 앱. 상태 줄에 페인별 컨텍스트를 표시하고, 세션·주간 사용량도 항상 확인 가능. usage·context 명령을 실행할 필요 없음.<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
-    </item>
-    <item>
-      <title>Vorssaint</title>
-      <link>https://vorssaint.com</link>
-      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
-      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Vorssaint
-Description: 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음.
-Website: https://vorssaint.com
-Commit: Add Vorssaint to Menu Bar Tools (#2223)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Vorssaint<br/>Description: 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음.<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
     </item>
   </channel>
 </rss>
