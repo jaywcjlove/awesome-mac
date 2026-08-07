@@ -111,6 +111,7 @@
 
 ## 开发者工具
 
+* [claude-session-tint](https://github.com/dotcomjack/claude-session-tint) - 按项目为每个 Terminal.app 窗口着色，当某个 Claude Code 会话在你不在时返回结果便将其点亮，重新聚焦后自动恢复。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/claude-session-tint) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
