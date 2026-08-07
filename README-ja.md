@@ -754,6 +754,7 @@ Awesome Mac
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI検索に対応したローカル画面・マイク録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
+* [TuringShot](https://www.turingshot.site/) - プレゼンや画面共有、授業、別の録画ツールでの収録中に、リアルタイムのズーム・ポインタ強調・画面への手書きを重ねられる macOS 向けライブ画面エフェクトユーティリティ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6758536367?platform=mac)
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
 
 ### その他のツール
