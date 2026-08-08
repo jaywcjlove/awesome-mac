@@ -1006,6 +1006,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - Video downloader for macOS with support for YouTube and other 1200 sites.
 * [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
+* [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent, eD2K, HLS and DASH. [![Open-Source Software][OSS Icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][Freeware Icon]
 * [FOLX](https://mac.eltima.com/download-manager.html) - Free download manager for Mac OS X with a true Mac-style interface. ![Freeware][Freeware Icon]
 * [Free Download Manager](https://www.freedownloadmanager.org/) - A powerful, easy-to-use, and completely free download accelerator and manager. ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - Open-source download manager for HTTP(S), magnet links, and `.torrent` files. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
