@@ -588,6 +588,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - Universal SQL Client.
 * [DB Pro](https://dbpro.app) - Database client for querying and managing SQL databases.
+* [DynoTable](https://dynotable.com) - DynamoDB GUI with a SQL Workbench for JOIN, GROUP BY and aggregates over live tables.
 * [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
