@@ -1524,6 +1524,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Path Finder](https://www.cocoatech.com/pathfinder/) - File management app.
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
+* [SADFinder](https://sadfinder.com/?utm_source=awesome_mac&utm_medium=product_directory&utm_campaign=product_launch_2026&utm_content=listing) - Native macOS Finder alternative with Windows-style shortcuts, tabs, an editable path bar, and Desktop control. ![Native App][Native Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
