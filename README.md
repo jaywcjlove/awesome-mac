@@ -400,6 +400,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Beyond Compare](https://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
+* [Codecast](https://codecast.sh) - See, steer, and remember every coding agent session (Claude Code, Codex, Cursor, Gemini) from one dashboard, with team-wide search and memory. [![Open-Source Software][OSS Icon]](https://github.com/codecast-sh/codecast) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - Web development tool for compiling and auto-refreshing.
 * [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 * [CoilPad](https://coilpad.com) - Native macOS Python scratchpad designed for instant prototyping and interactive learning. ![Freeware][Freeware Icon]
