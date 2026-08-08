@@ -1456,6 +1456,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](https://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
+* [GestureCraft](https://gesturecraft.app) - Custom trackpad gestures, mouse-button remaps, and keyboard shortcuts to trigger app and window actions.  
 
 
 ### Window Management
