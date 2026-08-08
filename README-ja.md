@@ -1562,6 +1562,7 @@ Awesome Mac
 * [gfxCardStatus](https://gfx.io/) - グラフィックカードの使用状況とバッテリーへの影響を監視。 ![Freeware][Freeware Icon]
 * [GrandPerspective](https://grandperspectiv.sourceforge.net) - ツリーマップでディスク使用量を視覚化。 [![Open-Source Software][OSS Icon]](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware][Freeware Icon]](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store][app-store Icon]](https://apps.apple.com/us/app/grandperspective/id1111570163?platform=mac)
 * [Gray](https://github.com/zenangst/Gray) - アプリごとのライト/ダークモード切り替え。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
+* [Headless Guard](https://github.com/study8677/HeadlessGuard) - 通常の Chrome セッションを保護しながら、孤立したヘッドレスブラウザを安全に検出・停止するオープンソースのメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/study8677/HeadlessGuard) ![Freeware][Freeware Icon]
 * [HandShaker](http://www.smartisan.com/apps/handshaker) - MacでAndroidスマートフォンのコンテンツを管理。 ![Freeware][Freeware Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - メニューバー向けの高度なシステムモニター。
 * [iStats](https://github.com/Chris911/iStats) - コマンドライン対応のシステム情報ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
