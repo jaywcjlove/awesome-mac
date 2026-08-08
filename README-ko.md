@@ -386,6 +386,7 @@ Awesome Mac
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 딥링크 관리자.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 파일 비교 및 병합 도구. ![Freeware][Freeware Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - 폴더 트리, 파일 내용, 토큰 계산, Smart Ignore, 미리보기 및 다중 형식 내보내기로 구조화된 프로젝트 컨텍스트를 만드는 크로스 플랫폼 GUI 및 CLI. [![Open-Source Software][OSS Icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
