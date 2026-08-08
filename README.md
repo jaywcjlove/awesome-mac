@@ -648,6 +648,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
 * [Alchemy](https://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software][OSS Icon]](https://svn.al.chemy.org/)
 * [Amadine](https://amadine.com) - Vector drawing app with an intuitive interface for graphic designers.
+* [ArtDeck](https://getartdeck.com/) - Visual reference boards with tools for studying color, value, composition, and motion. [![App Store][app-store Icon]](https://apps.apple.com/app/artdeck/id6764851724?platform=mac)
 * [Art Text 3](https://www.belightsoft.com/art-text/) - Graphic design software for lettering, typography, and text effects.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
