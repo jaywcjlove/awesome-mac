@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:46:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Plonk</title>
+      <link>https://github.com/ostapondo/plonk</link>
+      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
+      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Plonk
+Description: 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다.
+Open Source: https://github.com/ostapondo/plonk
+Commit: Add Plonk to Window Management (#2515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Plonk<br/>Description: 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
+    </item>
     <item>
       <title>Imark</title>
       <link>https://github.com/migsilva89/imark</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/xingbofeng/VoxFlow
 Commit: Add VoxFlow (#2232)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: VoxFlow<br/>Description: 로컬/클라우드 ASR, OCR, 기록, 코딩 에이전트 워크플로를 지원하는 오픈 소스 음성 입력 워크스페이스.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
-    </item>
-    <item>
-      <title>Pesty</title>
-      <link>https://github.com/momenbasel/pesty</link>
-      <guid isPermaLink="false">c45bbebc4b9f85db07a56cce3403ce58b4812476:Pesty</guid>
-      <pubDate>Fri, 26 Jun 2026 02:23:11 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Pesty
-Description: 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자.
-Open Source: https://github.com/momenbasel/pesty
-Commit: Add Pesty to the ja/ko/zh list. (#2229)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Pesty<br/>Description: 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자.<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to the ja/ko/zh list. (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:46:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Plonk</title>
+      <link>https://github.com/ostapondo/plonk</link>
+      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
+      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Plonk
+Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.
+Open Source: https://github.com/ostapondo/plonk
+Commit: Add Plonk to Window Management (#2515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Plonk<br/>Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
+    </item>
     <item>
       <title>Imark</title>
       <link>https://github.com/migsilva89/imark</link>
@@ -693,20 +707,6 @@ Website: https://onorca.dev
 Commit: Add Orca (#2235)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130</description>
       <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Orca<br/>Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.<br/>Website: https://onorca.dev<br/>Commit: Add Orca (#2235)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxFlow</title>
-      <link>https://github.com/xingbofeng/VoxFlow</link>
-      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
-      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: VoxFlow
-Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.
-Open Source: https://github.com/xingbofeng/VoxFlow
-Commit: Add VoxFlow (#2232)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxFlow<br/>Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
     </item>
   </channel>
 </rss>

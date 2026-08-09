@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:46:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Plonk</title>
+      <link>https://github.com/ostapondo/plonk</link>
+      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
+      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Plonk
+Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。
+Open Source: https://github.com/ostapondo/plonk
+Commit: Add Plonk to Window Management (#2515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Plonk<br/>Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
+    </item>
     <item>
       <title>Imark</title>
       <link>https://github.com/migsilva89/imark</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/xingbofeng/VoxFlow
 Commit: Add VoxFlow (#2232)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxFlow<br/>Description: 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
-    </item>
-    <item>
-      <title>Pesty</title>
-      <link>https://github.com/momenbasel/pesty</link>
-      <guid isPermaLink="false">c45bbebc4b9f85db07a56cce3403ce58b4812476:Pesty</guid>
-      <pubDate>Fri, 26 Jun 2026 02:23:11 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Pesty
-Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。
-Open Source: https://github.com/momenbasel/pesty
-Commit: Add Pesty to the ja/ko/zh list. (#2229)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Pesty<br/>Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to the ja/ko/zh list. (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476]]></content:encoded>
     </item>
   </channel>
 </rss>
