@@ -674,6 +674,7 @@ Awesome Mac
 * [Principle](http://principleformac.com/) - アニメーションおよびインタラクティブなユーザーインターフェースをデザインするアプリケーション。
 * [Pika](https://superhighfives.com/pika) - オープンソースのカラーピッカーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421?platform=mac)
 * [RawTherapee](https://rawtherapee.com/) - 強力なクロスプラットフォームのRAW写真処理プログラム! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
+* [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - 再利用可能なプロジェクトからストア用スクリーンショットを作成、ローカライズ、検証、書き出しできます。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/screen-studio-kit/id6796242724?mt=12)
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 画面をレイヤー付きPSDファイルに簡単にエクスポート。 [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/screentolayers/id1077317077?platform=mac)
 * [Sketch](http://www.sketchapp.com/) - Mac用のプロフェッショナルなデジタルデザインツール。
     * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - 隠れたSketch履歴ファイルを削除。 [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
