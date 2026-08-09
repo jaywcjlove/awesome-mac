@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 21:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:21:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Imark</title>
+      <link>https://github.com/migsilva89/imark</link>
+      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
+      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: Imark
+Description: 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。
+Open Source: https://github.com/migsilva89/imark
+Commit: Add Imark to Markdown Tools (#2521)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Imark<br/>Description: 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
+    </item>
     <item>
       <title>ItsPaint</title>
       <link>https://itspaintmac.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/momenbasel/pesty
 Commit: Add Pesty to the ja/ko/zh list. (#2229)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Pesty<br/>Description: 免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史。<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to the ja/ko/zh list. (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c45bbebc4b9f85db07a56cce3403ce58b4812476]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage</title>
-      <link>https://github.com/Bread-bang/claude-usage</link>
-      <guid isPermaLink="false">0136ad87cd5608de92aca3500367e99bb9df939a:Claude Usage</guid>
-      <pubDate>Fri, 26 Jun 2026 01:44:42 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Claude Usage
-Description: 用于 Claude Code 的菜单栏应用，在状态行中分窗格显示上下文，会话与每周用量始终可见。无需运行 usage、context 等命令即可查看。
-Open Source: https://github.com/Bread-bang/claude-usage
-Commit: Add Claude Usage to AI Tools (#2184)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Claude Usage<br/>Description: 用于 Claude Code 的菜单栏应用，在状态行中分窗格显示上下文，会话与每周用量始终可见。无需运行 usage、context 等命令即可查看。<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
     </item>
   </channel>
 </rss>
