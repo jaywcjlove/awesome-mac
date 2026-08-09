@@ -247,6 +247,7 @@ Awesome Mac
 * [DevToys](https://github.com/DevToys-app/DevToys) - 开发者的瑞士军刀——一款帮助开发者处理日常任务的桌面应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/DevToys-app/DevToys)
 * [DevUtils.app](https://devutils.com/) - 用于格式化、转换和调试常见数据的开发者工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
 * [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
+* [Diff Anything](https://martingruner.com/projects/diffanything) - 在本地比较文本、结构化数据、文件夹、图像等内容。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/diff-anything/id6795463996?mt=12)
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [Fanvas](https://github.com/TencentOpen/Fanvas) - 把 swf 转为 HTML5 canvas 动画的系统。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
