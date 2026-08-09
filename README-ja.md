@@ -411,6 +411,7 @@ Awesome Mac
 * [DevHub](https://wangchujiang.com/DevHub/) - 開発者向けの多機能オフラインアプリ。 ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [Dash](https://kapeli.com/dash) - 素晴らしいAPIドキュメントブラウザ兼コードスニペット管理ツール。 ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 開発者による開発者のためのディープリンク管理ツール。
+* [Diff Anything](https://martingruner.com/projects/diffanything) - テキスト、構造化データ、フォルダ、画像などをローカルで比較できます。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/diff-anything/id6795463996?mt=12)
 * [DiffMerge](http://sourcegear.com/diffmerge/) - ファイルの視覚的な比較とマージを行うアプリケーション。 ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 環境変数用のOS Xプリファレンスペイン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finderからターミナルを素早く開く。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
