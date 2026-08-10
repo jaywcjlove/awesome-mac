@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:39:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Leafy</title>
+      <link>https://leafyapp.uk/</link>
+      <guid isPermaLink="false">b5bf7c2ba05123832347fba7c8a50b41ea93d757:Leafy</guid>
+      <pubDate>Mon, 10 Aug 2026 01:39:51 GMT</pubDate>
+      <category>Education</category>
+      <description>Category: Education
+App: Leafy
+Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.
+Website: https://leafyapp.uk/
+Commit: Add Leafy (vocabulary builder) to Education (#2251)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757</description>
+      <content:encoded><![CDATA[Category: Education<br/>App: Leafy<br/>Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.<br/>Website: https://leafyapp.uk/<br/>Commit: Add Leafy (vocabulary builder) to Education (#2251)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757]]></content:encoded>
+    </item>
     <item>
       <title>Plonk</title>
       <link>https://github.com/ostapondo/plonk</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/I7T5/Edmund
 Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27]]></content:encoded>
-    </item>
-    <item>
-      <title>Orca</title>
-      <link>https://onorca.dev</link>
-      <guid isPermaLink="false">1f609c89b956fd69d55b722a81f14fa183c05130:Orca</guid>
-      <pubDate>Mon, 29 Jun 2026 02:32:36 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Orca
-Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.
-Website: https://onorca.dev
-Commit: Add Orca (#2235)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Orca<br/>Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.<br/>Website: https://onorca.dev<br/>Commit: Add Orca (#2235)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130]]></content:encoded>
     </item>
   </channel>
 </rss>
