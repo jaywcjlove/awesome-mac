@@ -894,6 +894,7 @@ Awesome Mac
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electronベースの非公式ProtonMailデスクトップクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - 高速メールクライアント。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - タグを使用してメールを整理し、スケジュールを管理。
+* [MailTwin](https://www.mailtwin.ai/ja/) - Apple Mail の中で返信を作成。要点を入力すると、アカウントごとにローカルで学習した文体で完成した返信を書き上げます。8 つのプロバイダーから選び、自分の API キーを使用。
 * [Mailspring](https://getmailspring.com/) - 美しく、高速で、完全にオープンソースのメールクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - 拡張可能なオープンソースのメールアプリ。開発者は無料、Proは月額$7。 ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - モダンなWebテクノロジーで構築された拡張可能なデスクトップメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
