@@ -3,6 +3,14 @@
   <br>
   <br>
 
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe, 60개 이상의 네이티브 Mac 앱을 만나보세요. 유틸리티, 업무, 창작, 생산성 향상 등 다양한 분야의 앱을 제공하며, 모든 기능은 기기 내에서 로컬로 실행되어 사용자의 데이터는 항상 안전하게 보호됩니다.</a>
+  <br><br>
+
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
