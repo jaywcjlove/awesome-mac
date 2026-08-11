@@ -10,6 +10,13 @@
   <a href="https://screensage.pro/">ScreenSage Pro、macOSで美しい画面録画を数分で作成</a>
   <br><br>
 
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - 厳選ソフトウェア。100% 正規品。お得な価格。" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -219,6 +226,7 @@ Awesome Mac
 * [Edmund](https://github.com/I7T5/Edmund) - ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
+* [Imark](https://github.com/migsilva89/imark) - コメントをHTMLコメントとしてドキュメント自体に保存するオープンソースのMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - Mac用のシンプルで美しく、かつ強力なテキストエディタ。
 * [MacDown](https://macdown.uranusjr.com/) - ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
@@ -325,6 +333,7 @@ Awesome Mac
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDFの編集、圧縮、パスワード保護に対応したPDFエディタ/コンバーター。
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - フレンドリーなUIで複数のPDFファイルを1つのPDFに結合。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
+* [Capd](https://capd.jxd.dev) - リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - MacでCompiled HTML（.chm）ドキュメントを読む。 ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - MacでCHMドキュメントを読む。 ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - Mac、iPad、iPhone向けの研究用PDFリーダー。 ![Freeware][Freeware Icon]
@@ -410,6 +419,7 @@ Awesome Mac
 * [Finicky](https://johnste.github.io/finicky/) - リンクごとに開くブラウザを決めるルールを設定できるツール。 [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Mac OS X用のシンプルなhostsファイルマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - インテリジェントな重複ファイル検索ツール。
+* [GraphCode](https://graphcode.app) - コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 高速で賢いオープンソースのHexエディター。 [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - hostsファイルを管理するためのシステム環境設定パネル。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Icon Preview](https://sindresorhus.com/icon-preview) - アプリアイコンとメニューバーアイコンをプレビューできるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509?platform=mac)
@@ -650,6 +660,7 @@ Awesome Mac
 * [GIMP](https://www.gimp.org) - GNU画像操作プログラム。 [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - Macのトラックパッドを描画ボードに変換。
 * [Inkscape](https://inkscape.org/en/) - プロフェッショナルなベクターグラフィックスエディター。 [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [ItsPaint](https://itspaintmac.com/) - ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化による伏せ字、インスタントアルファ。アカウントもテレメトリも不要。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - コンセプトアーティスト、デジタルペインター、イラストレーター向けのオープンソース의 デジタルペイントソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - HTML5 SVGアートとアニメーションのデザインツール。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 無料で軽量な8ビットボクセルエディターおよびインタラクティブなパストレーシングレンダラー。
@@ -792,6 +803,7 @@ Awesome Mac
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - ローカルモデルとクラウドモデルに対応したMCP対応のオープンソースAIチャットクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [BitFun](https://openbitfun.com/) - タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac用の美しく強力なChatGPTアプリ。AIをワークフローに統合して一歩先へ。
 * [ChatGPT](https://openai.com/chatgpt/mac/) - 聞き、学び、挑戦する対話型AIシステム。
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
@@ -1467,6 +1479,7 @@ Awesome Mac
 * [Moom](http://manytricks.com/moom/) - ウィンドウの移動、リサイズ、レイアウト保存を行うツール。
 * [Nudge](https://nudge.run) - キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - アニメーション付きのNiriおよびHyprlandにインスパイアされた公証済みタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
+* [Plonk](https://github.com/ostapondo/plonk) - スナップゾーン、ショートカット、アプリを再起動して各ウィンドウを元のディスプレイに戻すワークスペースを備えたメニューバー型ウィンドウマネージャー。MCP 経由で AI エージェントからも操作できます。 [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - <kbd>⌘ 右Command</kbd>キーでアプリケーション名に基づいてアプリを切り替え。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - RectangleはSpectacleをベースにSwiftで書かれたウィンドウ管理アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - OSXでウィンドウのサイズと位置を管理。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]

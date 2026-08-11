@@ -10,6 +10,13 @@
   <a href="https://screensage.pro/">ScreenSage Pro, macOS에서 몇 분 만에 아름다운 화면 녹화를 제작하세요</a>
   <br><br>
 
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - 엄선된 소프트웨어. 100% 정품. 최적의 할인가." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -194,6 +201,7 @@ Awesome Mac
 * [Edmund](https://github.com/I7T5/Edmund) - 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
+* [Imark](https://github.com/migsilva89/imark) - 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - 단순하고 아름다우면서도 강력한 Mac용 텍스트 편집기.
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
@@ -299,6 +307,7 @@ Awesome Mac
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDF 편집, 압축 및 암호 보호 도구.
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - 여러 PDF 파일을 하나로 결합. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
+* [Capd](https://capd.jxd.dev) - 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - 학습 및 연구를 위한 PDF 리더. ![Freeware][Freeware Icon]
@@ -383,6 +392,7 @@ Awesome Mac
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
+* [GraphCode](https://graphcode.app) - 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원. ![Freeware][Freeware Icon]
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
@@ -539,6 +549,7 @@ Awesome Mac
 * [FontForge](http://fontforge.github.io/) - 무료 오픈 소스 글꼴 편집기. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU 이미지 조작 프로그램. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화 가리기, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 이미지 배경을 오프라인으로 일괄 제거하는 도구.
 * [Lunacy](https://icons8.com/lunacy) - 내장 에셋과 실시간 협업을 지원하는 벡터 디자인 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
@@ -623,6 +634,7 @@ Awesome Mac
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - Apple 온디바이스 모델을 OpenAI 호환 API 뒤에서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 다중 제공자 채팅, 에이전트 워크플로, 지식 베이스, MCP 도구, OpenAI 호환 API 게이트웨이를 지원하는 오픈 소스 데스크톱 AI 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 로컬 및 클라우드 모델을 지원하는 MCP 기반 오픈 소스 AI 채팅 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [BitFun](https://openbitfun.com/) - 작업마다 전용 인터랙티브 화면을 만들고 채팅을 실시간 상태와 연결하는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
@@ -1036,6 +1048,7 @@ Awesome Mac
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
+* [Plonk](https://github.com/ostapondo/plonk) - 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 상황별로 묶은 앱 그룹을 단축키 하나로 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Slate](https://github.com/jigish/slate) - JavaScript 설정을 사용하는 스크립트형 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]

@@ -10,13 +10,19 @@
   <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
   <br><br>
 
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
   <br>
   <a href="https://ip.im/">IP.IM Free IP address information query website</a>
   <br><br>
-
 
 </div>
 <hr>
@@ -221,6 +227,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Edmund](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
+* [Imark](https://github.com/migsilva89/imark) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LightPaper](https://getlightpaper.com/) - Simple, beautiful, yet powerful text editor for your Mac.
 * [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS with live preview and HTML/PDF export. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](https://marked2app.com/) - This is the Markdown preview with an elegant and powerful set of tools for all writers.
@@ -327,6 +334,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDF editor/converter for editing, compressing, and password-protecting PDFs.
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
+* [Capd](https://capd.jxd.dev) - Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](https://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
 * [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
@@ -412,6 +420,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Finicky](https://johnste.github.io/finicky/) - Set rules to decide which browser opens each link. [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
+* [GraphCode](https://graphcode.app) - Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Icon Preview](https://sindresorhus.com/icon-preview) - Preview your app icon and menu bar icon. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509?platform=mac)
@@ -651,6 +660,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board.
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
@@ -793,6 +803,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - Runs Apple on-device models behind an OpenAI-compatible API. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway. [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Open-source AI chat client for local and cloud models with MCP support. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [BitFun](https://openbitfun.com/) - Open-source AI agent that gives each task its own interactive workspace with chat linked to live state. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - A conversational AI system that listens, learns, and challenges
 * [Claude](https://claude.ai/download) - Your AI partner on desktop. Fast, focused, and designed for deep work.
@@ -1099,6 +1110,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
+* [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
@@ -1292,6 +1304,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 * [Harbofly](https://harbofly.app/) - Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software][OSS Icon]](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - Scans files by size so you can quickly find space hogs. ![Freeware][Freeware Icon]
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
@@ -1471,6 +1484,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Moom](https://manytricks.com/moom/) - Window management tool for moving, resizing, and saving layouts.
 * [Nudge](https://nudge.run) - Window manager with keyboard shortcuts and drag-to-edge snapping. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - Notorized Niri and Hyprland inspired tiling window manager with animations. [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
+* [Plonk](https://github.com/ostapondo/plonk) - Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]

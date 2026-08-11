@@ -5,9 +5,121 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Aug 2026 01:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 01:39:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Leafy</title>
+      <link>https://leafyapp.uk/</link>
+      <guid isPermaLink="false">b5bf7c2ba05123832347fba7c8a50b41ea93d757:Leafy</guid>
+      <pubDate>Mon, 10 Aug 2026 01:39:51 GMT</pubDate>
+      <category>Education</category>
+      <description>Category: Education
+App: Leafy
+Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.
+Website: https://leafyapp.uk/
+Commit: Add Leafy (vocabulary builder) to Education (#2251)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757</description>
+      <content:encoded><![CDATA[Category: Education<br/>App: Leafy<br/>Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.<br/>Website: https://leafyapp.uk/<br/>Commit: Add Leafy (vocabulary builder) to Education (#2251)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757]]></content:encoded>
+    </item>
+    <item>
+      <title>Plonk</title>
+      <link>https://github.com/ostapondo/plonk</link>
+      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
+      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Plonk
+Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.
+Open Source: https://github.com/ostapondo/plonk
+Commit: Add Plonk to Window Management (#2515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Plonk<br/>Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
+    </item>
+    <item>
+      <title>Imark</title>
+      <link>https://github.com/migsilva89/imark</link>
+      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
+      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Imark
+Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.
+Open Source: https://github.com/migsilva89/imark
+Commit: Add Imark to Markdown Tools (#2521)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
+    </item>
+    <item>
+      <title>ItsPaint</title>
+      <link>https://itspaintmac.com/</link>
+      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
+      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
+      <category>Design and Product / Design Tools</category>
+      <description>Category: Design and Product / Design Tools
+App: ItsPaint
+Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.
+Website: https://itspaintmac.com/
+Commit: Add ItsPaint to Design and Product (#2457)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
+      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
+    </item>
+    <item>
+      <title>MacOSCleaner</title>
+      <link>https://github.com/AlexTkDev/MacOSCleaner</link>
+      <guid isPermaLink="false">647a310507047b4068be72c24caa05e10355a143:MacOSCleaner</guid>
+      <pubDate>Thu, 06 Aug 2026 14:20:34 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: MacOSCleaner
+Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.
+Open Source: https://github.com/AlexTkDev/MacOSCleaner
+Commit: Add MacOSCleaner (#2501)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacOSCleaner<br/>Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.<br/>Open Source: https://github.com/AlexTkDev/MacOSCleaner<br/>Commit: Add MacOSCleaner (#2501)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143]]></content:encoded>
+    </item>
+    <item>
+      <title>BitFun</title>
+      <link>https://openbitfun.com/</link>
+      <guid isPermaLink="false">c62d841a87d9789b243b09417f7350f3031d680e:BitFun</guid>
+      <pubDate>Wed, 05 Aug 2026 14:29:42 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: BitFun
+Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.
+Website: https://openbitfun.com/
+Commit: Add BitFun to AI Tools (#2490)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: BitFun<br/>Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to AI Tools (#2490)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e]]></content:encoded>
+    </item>
+    <item>
+      <title>GraphCode</title>
+      <link>https://graphcode.app</link>
+      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
+      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: GraphCode
+Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.
+Website: https://graphcode.app
+Commit: Add GraphCode to Developer Utilities (#2489)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: GraphCode<br/>Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
+    </item>
+    <item>
+      <title>Capd</title>
+      <link>https://capd.jxd.dev</link>
+      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
+      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: Capd
+Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.
+Website: https://capd.jxd.dev
+Commit: Add Capd (#2484)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Capd<br/>Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
+    </item>
     <item>
       <title>Adrafinil</title>
       <link>https://kagerou.glass/adrafinil/</link>
@@ -595,118 +707,6 @@ Open Source: https://github.com/I7T5/Edmund
 Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27]]></content:encoded>
-    </item>
-    <item>
-      <title>Orca</title>
-      <link>https://onorca.dev</link>
-      <guid isPermaLink="false">1f609c89b956fd69d55b722a81f14fa183c05130:Orca</guid>
-      <pubDate>Mon, 29 Jun 2026 02:32:36 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Orca
-Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.
-Website: https://onorca.dev
-Commit: Add Orca (#2235)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Orca<br/>Description: An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.<br/>Website: https://onorca.dev<br/>Commit: Add Orca (#2235)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f609c89b956fd69d55b722a81f14fa183c05130]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxFlow</title>
-      <link>https://github.com/xingbofeng/VoxFlow</link>
-      <guid isPermaLink="false">064235d50be31cc75a8e91bf34e93a4e162fbfa0:VoxFlow</guid>
-      <pubDate>Sat, 27 Jun 2026 01:19:07 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: VoxFlow
-Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.
-Open Source: https://github.com/xingbofeng/VoxFlow
-Commit: Add VoxFlow (#2232)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxFlow<br/>Description: Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.<br/>Open Source: https://github.com/xingbofeng/VoxFlow<br/>Commit: Add VoxFlow (#2232)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/064235d50be31cc75a8e91bf34e93a4e162fbfa0]]></content:encoded>
-    </item>
-    <item>
-      <title>Pesty</title>
-      <link>https://github.com/momenbasel/pesty</link>
-      <guid isPermaLink="false">9428ae79120a7460996fdfbcc8913a3839a8d1ad:Pesty</guid>
-      <pubDate>Fri, 26 Jun 2026 02:20:31 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Pesty
-Description: Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.
-Open Source: https://github.com/momenbasel/pesty
-Commit: Add Pesty to Clipboard Tools (#2229)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Pesty<br/>Description: Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.<br/>Open Source: https://github.com/momenbasel/pesty<br/>Commit: Add Pesty to Clipboard Tools (#2229)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9428ae79120a7460996fdfbcc8913a3839a8d1ad]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Usage</title>
-      <link>https://github.com/Bread-bang/claude-usage</link>
-      <guid isPermaLink="false">0136ad87cd5608de92aca3500367e99bb9df939a:Claude Usage</guid>
-      <pubDate>Fri, 26 Jun 2026 01:44:42 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Claude Usage
-Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.
-Open Source: https://github.com/Bread-bang/claude-usage
-Commit: Add Claude Usage to AI Tools (#2184)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage<br/>Description: Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run.<br/>Open Source: https://github.com/Bread-bang/claude-usage<br/>Commit: Add Claude Usage to AI Tools (#2184)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0136ad87cd5608de92aca3500367e99bb9df939a]]></content:encoded>
-    </item>
-    <item>
-      <title>Vorssaint</title>
-      <link>https://vorssaint.com</link>
-      <guid isPermaLink="false">90b5d18990518c5378bcda16b8ce710f5f6ac632:Vorssaint</guid>
-      <pubDate>Wed, 24 Jun 2026 02:10:17 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Vorssaint
-Description: Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.
-Website: https://vorssaint.com
-Commit: Add Vorssaint to Menu Bar Tools (#2223)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Vorssaint<br/>Description: Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.<br/>Website: https://vorssaint.com<br/>Commit: Add Vorssaint to Menu Bar Tools (#2223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90b5d18990518c5378bcda16b8ce710f5f6ac632]]></content:encoded>
-    </item>
-    <item>
-      <title>mysa</title>
-      <link>https://github.com/alishansnsn/mysa</link>
-      <guid isPermaLink="false">14e273dbfd26ededdb4c76acf46e3c738ac0f464:mysa</guid>
-      <pubDate>Mon, 22 Jun 2026 08:09:04 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: mysa
-Description: A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.
-Open Source: https://github.com/alishansnsn/mysa
-Commit: Add mysa (#2215)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: mysa<br/>Description: A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.<br/>Open Source: https://github.com/alishansnsn/mysa<br/>Commit: Add mysa (#2215)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/14e273dbfd26ededdb4c76acf46e3c738ac0f464]]></content:encoded>
-    </item>
-    <item>
-      <title>SiliconScope</title>
-      <link>https://siliconscope.calidalab.ai</link>
-      <guid isPermaLink="false">fb07331b5de1a1e46041a802de0c779f62f24152:SiliconScope</guid>
-      <pubDate>Sun, 21 Jun 2026 22:24:22 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: SiliconScope
-Description: Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown — the chip-level signals Activity Monitor doesn&apos;t show.
-Website: https://siliconscope.calidalab.ai
-Commit: Add SiliconScope (Apple Silicon system monitor) (#2211)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fb07331b5de1a1e46041a802de0c779f62f24152</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SiliconScope<br/>Description: Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown — the chip-level signals Activity Monitor doesn&apos;t show.<br/>Website: https://siliconscope.calidalab.ai<br/>Commit: Add SiliconScope (Apple Silicon system monitor) (#2211)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fb07331b5de1a1e46041a802de0c779f62f24152]]></content:encoded>
-    </item>
-    <item>
-      <title>JsonStudio</title>
-      <link>https://jsonstudio.js.org/</link>
-      <guid isPermaLink="false">21fe432c4601693abd676f4279e1f834f0c5d759:JsonStudio</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:20 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: JsonStudio
-Description: Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.
-Website: https://jsonstudio.js.org/
-Commit: Add JsonStudio (#2209)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: JsonStudio<br/>Description: Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.<br/>Website: https://jsonstudio.js.org/<br/>Commit: Add JsonStudio (#2209)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21fe432c4601693abd676f4279e1f834f0c5d759]]></content:encoded>
     </item>
   </channel>
 </rss>

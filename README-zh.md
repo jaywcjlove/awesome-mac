@@ -10,6 +10,13 @@
   <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
   <br><br>
 
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP｜精选软件，正版保真，超值特惠" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -249,6 +256,7 @@ Awesome Mac
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行。![Freeware][Freeware Icon]
 * [Gemini](https://macpaw.com/gemini) - 智能的重复文件查找器。
+* [GraphCode](https://graphcode.app) - 将编码代理会话组织成图：每个节点都是可在运行中接入的实时终端，每条边则是无人值守时自动触发的交接。支持 Claude Code、Copilot CLI 和 Codex。![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 快速而聪明的开源十六进制编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hex-fiend/id1342896380?platform=mac)
 * [iHosts](https://en.toolinbox.net/iHosts/) - 唯一上架 Mac App Store 的 /etc/hosts 编辑神器。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1102004240?platform=mac)
@@ -432,6 +440,7 @@ Awesome Mac
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - 将 Mac 上的触摸板变成绘图板。
 * [Inkscape](https://inkscape.org/zh/) - 一款开源矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等其他软件相似。[![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [ItsPaint](https://itspaintmac.com/) - 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - 设计HTML5 SVG艺术和动画。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]
@@ -591,6 +600,7 @@ Awesome Mac
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - 将 Apple 端侧模型封装为 OpenAI 兼容 API 的工具。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 开源桌面 AI 工作台，支持多服务商对话、智能体工作流、知识库、MCP 工具和 OpenAI 兼容 API 网关。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 支持本地和云模型并集成 MCP 的开源 AI 聊天客户端。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [BitFun](https://openbitfun.com/) - 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
 * [Claude God](https://claudegod.app) - 用于监控 Claude 用量、成本和会话统计的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
@@ -836,6 +846,7 @@ Awesome Mac
 * [Edmund](https://github.com/I7T5/Edmund) - 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - 一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
+* [Imark](https://github.com/migsilva89/imark) - 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [Joplin](https://joplinapp.org/) - 跨平台开源记事本，支持 Markdown 和待办事项管理。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [LightPaper](https://getlightpaper.com/) - 简单的 Markdown 文本编辑器。
 * [MacDown](https://macdown.uranusjr.com/) - macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
@@ -906,6 +917,7 @@ Awesome Mac
 
 ### 其他
 
+* [Capd](https://capd.jxd.dev) - 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
@@ -1400,6 +1412,7 @@ Awesome Mac
 * [Moom](http://manytricks.com/moom/) - 用于移动、调整和保存窗口布局的工具。
 * [Nudge](https://nudge.run) - 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id441258766?platform=mac)
+* [Plonk](https://github.com/ostapondo/plonk) - 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。 [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - 基于 Spectacle 的窗口管理应用程序，使用键盘快捷键在 macOS 上移动和调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
