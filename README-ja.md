@@ -1369,6 +1369,7 @@ Awesome Mac
 
 * [2Do](http://www.2doapp.com/) - 優れたTodoアプリ。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - カレンダー内蔵のメニューバー時計の代替アプリ。 ![Freeware][Freeware Icon]
+* [DueFlow](https://ustinian5.github.io/DueFlow/) - 散在する通知を実行可能なスケジュールに整理する、オープンソースでローカルファーストの締め切りプランナー。 [![Open-Source Software][OSS Icon]](https://github.com/Ustinian5/DueFlow) ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - シンプルで柔軟なフォーカスタイマー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)

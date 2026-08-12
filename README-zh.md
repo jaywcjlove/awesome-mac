@@ -1316,6 +1316,7 @@ Awesome Mac
 
 * [2Do](http://www.2doapp.com/) - 比较好的 TODO 应用程序。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
+* [DueFlow](https://ustinian5.github.io/DueFlow/) - 开源、本地优先的截止日期规划工具，可将零散通知整理为可执行日程。 [![Open-Source Software][OSS Icon]](https://github.com/Ustinian5/DueFlow) ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
 * [Focus](https://masterbuilders.io) - 一个漂亮的番茄工作法为基础的时间管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/focus-productivity-timer/id777233759?platform=mac)
 * [Microsoft To-Do](https://todo.microsoft.com/) - 任务管理工具微软出品。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?platform=mac)
