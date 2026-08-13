@@ -1070,6 +1070,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Voxt](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
+* [YazSes](https://mskazemi.com/yazses/) - Hold-to-talk dictation for Apple Silicon Macs that transcribes on-device with faster-whisper and types into any app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MSKazemi/yazses)
 
 ## Browsers
 
