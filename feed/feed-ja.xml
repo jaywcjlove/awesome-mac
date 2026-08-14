@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Atomic Agent</title>
+      <link>https://atomicagent.io/</link>
+      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
+      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Atomic Agent
+Description: オープンウェイトモデルをマシン上で完全に実行する、ローカルファーストのCLI・TUIコーディングエージェント。MCPと56個の組み込みツールに対応。
+Website: https://atomicagent.io/
+Commit: Add Atomic Agent to AI Tools (#2555)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Atomic Agent<br/>Description: オープンウェイトモデルをマシン上で完全に実行する、ローカルファーストのCLI・TUIコーディングエージェント。MCPと56個の組み込みツールに対応。<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
+    </item>
     <item>
       <title>fob</title>
       <link>https://getfob.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/vestaterm/Vesta
 Commit: Add Vesta (#2243)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Vesta<br/>Description: libghostty 上に構築されたネイティブ macOS ターミナル。コーディングエージェントを並列実行できます。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Edmund</title>
-      <link>https://github.com/I7T5/Edmund</link>
-      <guid isPermaLink="false">3eedfd7588d7c53bde40217c210c412ad98fa218:Edmund</guid>
-      <pubDate>Tue, 30 Jun 2026 04:17:46 GMT</pubDate>
-      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Edmund
-Description: ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。
-Open Source: https://github.com/I7T5/Edmund
-Commit: Add Edmund to the ja/ko/zh list. #2238
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund to the ja/ko/zh list. #2238<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218]]></content:encoded>
     </item>
   </channel>
 </rss>
