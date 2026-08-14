@@ -318,6 +318,7 @@ Awesome Mac
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - 학습 및 연구를 위한 PDF 리더. ![Freeware][Freeware Icon]
+* [OffPDF](https://offpdf.com/) - Apple Silicon이 탑재된 Mac용 오픈 소스 PDF 도구 모음으로, 파일 병합·분할·변환·압축·OCR을 모두 로컬에서 오프라인으로 처리합니다. [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 메타데이터, 구조, 보안 위험을 분석하는 PDF 검사 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - PDF 읽기, 주석 및 편집 도구.
 * [PDF Pals](https://pdfpals.com) - PDF와 채팅할 수 있는 앱.
