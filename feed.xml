@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Aug 2026 01:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:44:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ShengJi</title>
+      <link>https://github.com/maddylaneeee/ShengJi</link>
+      <guid isPermaLink="false">24257e51e280b4143db98cf5cad20d8bd26a50e3:ShengJi</guid>
+      <pubDate>Fri, 14 Aug 2026 09:44:02 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: ShengJi
+Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.
+Open Source: https://github.com/maddylaneeee/ShengJi
+Commit: Add ShengJi to Voice-to-Text (#2412)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ShengJi<br/>Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
+    </item>
     <item>
       <title>Leafy</title>
       <link>https://leafyapp.uk/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/vestaterm/Vesta
 Commit: Add Vesta (#2243)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Vesta<br/>Description: Native macOS terminal built on libghostty for running coding agents in parallel.<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Edmund</title>
-      <link>https://github.com/I7T5/Edmund</link>
-      <guid isPermaLink="false">be3e1f3e0f4def7643a7154b70f1037a1e873a27:Edmund</guid>
-      <pubDate>Tue, 30 Jun 2026 03:21:47 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Edmund
-Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.
-Open Source: https://github.com/I7T5/Edmund
-Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund (native macOS Markdown editor) to Markdown Tools (#2238)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/be3e1f3e0f4def7643a7154b70f1037a1e873a27]]></content:encoded>
     </item>
   </channel>
 </rss>
