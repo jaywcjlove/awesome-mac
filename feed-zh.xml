@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Atomic Agent</title>
+      <link>https://atomicagent.io/</link>
+      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
+      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Atomic Agent
+Description: 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。
+Website: https://atomicagent.io/
+Commit: Add Atomic Agent to AI Tools (#2555)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Atomic Agent<br/>Description: 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
+    </item>
     <item>
       <title>fob</title>
       <link>https://getfob.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/vestaterm/Vesta
 Commit: Add Vesta (#2243)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Vesta<br/>Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Edmund</title>
-      <link>https://github.com/I7T5/Edmund</link>
-      <guid isPermaLink="false">3eedfd7588d7c53bde40217c210c412ad98fa218:Edmund</guid>
-      <pubDate>Tue, 30 Jun 2026 04:17:46 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Edmund
-Description: 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。
-Open Source: https://github.com/I7T5/Edmund
-Commit: Add Edmund to the ja/ko/zh list. #2238
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Edmund<br/>Description: 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund to the ja/ko/zh list. #2238<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218]]></content:encoded>
     </item>
   </channel>
 </rss>
