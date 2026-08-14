@@ -840,7 +840,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [LingShu](https://royzhao1991.github.io/LingShu/) - Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions. [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
 * [LokalBot](https://www.lokalbot.com/) - On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS. [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
-* [Meeting Recorder](https://gensoft.ge/meeting-recorder) - Records Zoom, Meet, Teams, and in-person meetings, then transcribes, diarizes, and summarizes them fully on-device.
+* [Meeting Recorder](https://gensoft.ge/meeting-recorder) - Records Zoom, Meet, Teams, and in-person meetings, then transcribes them and labels speakers entirely on-device.
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
