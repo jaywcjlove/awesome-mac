@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:13:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>fob</title>
+      <link>https://getfob.app</link>
+      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
+      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: fob
+Description: 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。
+Website: https://getfob.app
+Commit: Add fob to Security Tools (#2553)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: fob<br/>Description: 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
+    </item>
     <item>
       <title>ShengJi</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/I7T5/Edmund
 Commit: Add Edmund to the ja/ko/zh list. #2238
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Edmund<br/>Description: 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add Edmund to the ja/ko/zh list. #2238<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eedfd7588d7c53bde40217c210c412ad98fa218]]></content:encoded>
-    </item>
-    <item>
-      <title>Orca</title>
-      <link>https://onorca.dev</link>
-      <guid isPermaLink="false">65dcb46146c4a7fea28b2117d574d8d34e5cbc46:Orca</guid>
-      <pubDate>Mon, 29 Jun 2026 02:36:44 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Orca
-Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。
-Website: https://onorca.dev
-Commit: Add Orca to the ja/ko/zh list. #2235
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Orca<br/>Description: 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。<br/>Website: https://onorca.dev<br/>Commit: Add Orca to the ja/ko/zh list. #2235<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65dcb46146c4a7fea28b2117d574d8d34e5cbc46]]></content:encoded>
     </item>
   </channel>
 </rss>

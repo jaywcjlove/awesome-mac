@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Aug 2026 09:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:13:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>fob</title>
+      <link>https://getfob.app</link>
+      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
+      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: fob
+Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.
+Website: https://getfob.app
+Commit: Add fob to Security Tools (#2553)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: fob<br/>Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
+    </item>
     <item>
       <title>ShengJi</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -693,20 +707,6 @@ Website: https://getoffgridai.co/desktop
 Commit: Add Off Grid AI (private on-device AI for Mac) to AI Tools (#2256)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f35478aabb6b91edb5d81465bdf2a6168cba6be8</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Off Grid AI Desktop<br/>Description: Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device.<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add Off Grid AI (private on-device AI for Mac) to AI Tools (#2256)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f35478aabb6b91edb5d81465bdf2a6168cba6be8]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta</title>
-      <link>https://github.com/vestaterm/Vesta</link>
-      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
-      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: Vesta
-Description: Native macOS terminal built on libghostty for running coding agents in parallel.
-Open Source: https://github.com/vestaterm/Vesta
-Commit: Add Vesta (#2243)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Vesta<br/>Description: Native macOS terminal built on libghostty for running coding agents in parallel.<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
     </item>
   </channel>
 </rss>
