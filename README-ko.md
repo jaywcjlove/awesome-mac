@@ -1039,6 +1039,7 @@ Awesome Mac
 * [StrokeMouse](https://strokemouse.com) - 트리거 버튼을 누른 채 궤적을 그려 단축키, 앱 실행, 창 작업, Shell/AppleScript 등을 실행하는 마우스 제스처 도구. [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]
 * [SuperCorners](https://supercorners.vercel.app/) - 화면 모서리를 사용자 정의 워크플로 트리거로 바꾸는 도구. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [SwiftBiu](https://swiftbiu.com/) - 맞춤형 작업 막대와 AI 확장을 갖춘 텍스트 효율 도구. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
+* [TabControl](https://tabcontrol.app/) - 저장된 세션, 탭 일시 중지, AI를 통한 탭 정리 및 iCloud 동기화를 지원하는 네이티브 Safari 탭 관리자. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tabcontrol-extension/id6756828264?mt=12)
 * [Table Habit](https://github.com/FriesI23/mhabit) – 성장 곡선과 오프라인 우선 동기화를 지원하는 습관 추적기. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - 자동으로 시간을 기록하고 작업 분석을 돕는 도구.

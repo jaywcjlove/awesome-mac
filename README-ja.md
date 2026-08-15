@@ -1361,6 +1361,7 @@ Awesome Mac
 * [Rewind](https://www.rewind.ai/) - 画面と音声の履歴を記録して検索できるツール。
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Cmd-Qショートカットにグローバルな1秒の遅延を追加するOS Xアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 * [Speediness](https://sindresorhus.com/speediness) - インターネット速度を測定。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466?platform=mac)
+* [TabControl](https://tabcontrol.app/) - 保存済みセッション、タブの休止、AIによるタブ整理、iCloud同期に対応したネイティブSafariタブマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/tabcontrol-extension/id6756828264?mt=12)
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Safari用のオープンソースタブマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - MP4/MOV動画をシステム壁紙やロック画面のアニメーションとして簡単にインポート。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
