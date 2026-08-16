@@ -227,6 +227,7 @@ Awesome Mac
 
 * [Affine](https://affine.pro/) - 전문가를 위한 차세대 협업 지식 베이스. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - 프로젝트 계획 및 문서화를 위한 날짜 중심 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
+* [Anql](https://github.com/anqlproject/anql) - 수학 계산 기능이 내장된 메모 작성 앱. [![Open-Source Software] ![Freeware][Freeware Icon]
 * [Anytype](https://anytype.io/) - 로컬 우선의 노트 및 지식 관리 앱. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Notion의 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?platform=mac)
