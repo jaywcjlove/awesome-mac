@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 02:55:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OffPDF</title>
+      <link>https://offpdf.com/</link>
+      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
+      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 기타</category>
+      <description>Category: 읽기 및 쓰기 도구 / 기타
+App: OffPDF
+Description: Apple Silicon이 탑재된 Mac용 오픈 소스 PDF 도구 모음으로, 파일 병합·분할·변환·압축·OCR을 모두 로컬에서 오프라인으로 처리합니다.
+Website: https://offpdf.com/
+Commit: Add OffPDF to Reading and Writing Tools (#2564)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: OffPDF<br/>Description: Apple Silicon이 탑재된 Mac용 오픈 소스 PDF 도구 모음으로, 파일 병합·분할·변환·압축·OCR을 모두 로컬에서 오프라인으로 처리합니다.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Agent</title>
       <link>https://atomicagent.io/</link>
@@ -693,20 +707,6 @@ Website: https://getoffgridai.co/desktop
 Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Off Grid AI Desktop<br/>Description: 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행.<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta</title>
-      <link>https://github.com/vestaterm/Vesta</link>
-      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
-      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: Vesta
-Description: libghostty 기반의 네이티브 macOS 터미널로, 코딩 에이전트를 병렬로 실행합니다.
-Open Source: https://github.com/vestaterm/Vesta
-Commit: Add Vesta (#2243)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Vesta<br/>Description: libghostty 기반의 네이티브 macOS 터미널로, 코딩 에이전트를 병렬로 실행합니다.<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
     </item>
   </channel>
 </rss>

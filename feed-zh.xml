@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 02:55:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OffPDF</title>
+      <link>https://offpdf.com/</link>
+      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
+      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
+      <category>电子书 / 其他</category>
+      <description>Category: 电子书 / 其他
+App: OffPDF
+Description: 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。
+Website: https://offpdf.com/
+Commit: Add OffPDF to Reading and Writing Tools (#2564)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
+      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: OffPDF<br/>Description: 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Agent</title>
       <link>https://atomicagent.io/</link>
@@ -693,20 +707,6 @@ Website: https://getoffgridai.co/desktop
 Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Off Grid AI Desktop<br/>Description: 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta</title>
-      <link>https://github.com/vestaterm/Vesta</link>
-      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
-      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: Vesta
-Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。
-Open Source: https://github.com/vestaterm/Vesta
-Commit: Add Vesta (#2243)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Vesta<br/>Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
     </item>
   </channel>
 </rss>
