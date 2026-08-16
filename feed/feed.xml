@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 02:55:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OffPDF</title>
+      <link>https://offpdf.com/</link>
+      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
+      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: OffPDF
+Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.
+Website: https://offpdf.com/
+Commit: Add OffPDF to Reading and Writing Tools (#2564)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: OffPDF<br/>Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Agent</title>
       <link>https://atomicagent.io/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
 Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa</description>
       <content:encoded><![CDATA[Category: Remote Login Software<br/>App: MoonProxy<br/>Description: GUI desktop client for FRP that puts local services on the internet with one click.<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa]]></content:encoded>
-    </item>
-    <item>
-      <title>StockDock</title>
-      <link>https://github.com/simonsruggi/StockDock</link>
-      <guid isPermaLink="false">0229ada97eb9c9461912c322b5b562a65e3c656f:StockDock</guid>
-      <pubDate>Sun, 05 Jul 2026 00:11:54 GMT</pubDate>
-      <category>Finance</category>
-      <description>Category: Finance
-App: StockDock
-Description: Menu bar app for real-time stocks, ETFs, crypto and portfolio P&amp;L. Privacy-first, no account, multi-currency.
-Open Source: https://github.com/simonsruggi/StockDock
-Commit: Add StockDock to Finance (#2255)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0229ada97eb9c9461912c322b5b562a65e3c656f</description>
-      <content:encoded><![CDATA[Category: Finance<br/>App: StockDock<br/>Description: Menu bar app for real-time stocks, ETFs, crypto and portfolio P&amp;L. Privacy-first, no account, multi-currency.<br/>Open Source: https://github.com/simonsruggi/StockDock<br/>Commit: Add StockDock to Finance (#2255)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0229ada97eb9c9461912c322b5b562a65e3c656f]]></content:encoded>
     </item>
   </channel>
 </rss>
