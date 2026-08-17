@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Aug 2026 02:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:20:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PasteClip</title>
+      <link>https://github.com/minsang-alt/PasteClip</link>
+      <guid isPermaLink="false">f78801b9f6ec40133d3d63c32d437d2b35c0f8da:PasteClip</guid>
+      <pubDate>Mon, 17 Aug 2026 03:20:52 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: PasteClip
+Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.
+Open Source: https://github.com/minsang-alt/PasteClip
+Commit: Add PasteClip to Clipboard Tools (#2577)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: PasteClip<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/minsang-alt/PasteClip<br/>Commit: Add PasteClip to Clipboard Tools (#2577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da]]></content:encoded>
+    </item>
     <item>
       <title>OffPDF</title>
       <link>https://offpdf.com/</link>
@@ -693,20 +707,6 @@ Website: https://harbofly.app/
 Commit: Add Harbofly (#2252)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25bb81d6539f923d2e61d93842baddad421aa350</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Harbofly<br/>Description: Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly (#2252)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25bb81d6539f923d2e61d93842baddad421aa350]]></content:encoded>
-    </item>
-    <item>
-      <title>MoonProxy</title>
-      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
-      <guid isPermaLink="false">74fa526ab4863efbf1ca55e285275451a56e76fa:MoonProxy</guid>
-      <pubDate>Sun, 05 Jul 2026 00:30:44 GMT</pubDate>
-      <category>Remote Login Software</category>
-      <description>Category: Remote Login Software
-App: MoonProxy
-Description: GUI desktop client for FRP that puts local services on the internet with one click.
-Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
-Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa</description>
-      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: MoonProxy<br/>Description: GUI desktop client for FRP that puts local services on the internet with one click.<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy — GUI FRP desktop client for intranet penetration (#2253)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74fa526ab4863efbf1ca55e285275451a56e76fa]]></content:encoded>
     </item>
   </channel>
 </rss>
