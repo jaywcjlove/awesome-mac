@@ -1541,6 +1541,7 @@ Awesome Mac
 
 ### 生活の質の向上
 
+* [Abendrot](https://abendrot.app) - 現地の日没に合わせてすべてのディスプレイを暖色にする、無料のオープンソース macOS メニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/matthewrball/abendrot) ![Freeware][Freeware Icon]
 * [Actions](https://sindresorhus.com/actions) - ショートカットアプリに多くの便利なアクションを提供。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
 * [AI Actions](https://sindresorhus.com/ai-actions) - ショートカットアプリ用のAIアクション。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/ai-actions-for-shortcuts/id6465250302)
 * [Crisp](https://didriksg.github.io/Crisp/) - メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。 [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
