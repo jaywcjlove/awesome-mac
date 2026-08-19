@@ -1557,6 +1557,7 @@ Awesome Mac
 * [Shifty](http://shifty.natethompson.io) - Night Shiftをより細かく制御できるmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
 * [Snap](http://indragie.com/snap) - アプリを素早く起動。非常に簡単なショートカット管理。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - コピー、保存、開くアクションでシステム共有メニューを強化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
+* [Sundown](https://trysundown.com) - Night Shiftの限界を超えてディスプレイを暖色・減光（最低500K）、日没から日の出のスケジュールで動作。 ![Native App][Native Icon]
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - マウスムーバーでMacのスリープを防止。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
 
 ### システム関連ツール
