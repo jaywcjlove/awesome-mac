@@ -531,6 +531,7 @@ Awesome Mac
 
 * [Alacritty](https://github.com/jwilm/alacritty) - GPU 가속을 지원하는 크로스 플랫폼 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 다중 제공자 프로필과 음성 입력을 지원하는 AI 네이티브 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
+* [Bento Term](https://bentoai.dev/term/) - 여러 AI 코딩 에이전트를 지켜보기 위한 터미널. tmux 컨트롤 모드 클라이언트로, 창별 에이전트 상태 표시와 음성 입력을 지원. [![Open-Source Software][OSS Icon]](https://github.com/NovaShang/BentoTerm) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 터미널, SSH, SFTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 빠른 GPU 가속 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [Hyper](https://hyper.is) - 웹 기술로 빌드된 터미널. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
