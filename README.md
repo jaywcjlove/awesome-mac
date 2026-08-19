@@ -1558,6 +1558,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 * [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
+* [Nox](https://getnoxapp.com/) - Screen filter with FL-41 presets for migraines and light sensitivity, plus break reminders and sunset scheduling.
 * [Shifty](https://shifty.natethompson.io) - A macOS menu bar app that gives you more control over Night Shift. [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
 * [Snap](https://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
