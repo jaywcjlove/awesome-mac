@@ -764,6 +764,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - Local screen and microphone recorder with AI search. [![Open-Source Software][OSS Icon]](https://github.com/screenpipe/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 * [Tight Studio](https://tight.studio/) - Screen recorder with smart zoom, captions, and AI voiceovers.
+* [TuringShot](https://www.turingshot.site/) - Live screen-effects utility for macOS that adds zoom, pointer focus, and on-screen drawing while you present, share your screen, teach, or record with a separate recorder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6758536367?platform=mac)
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
 
 ### Other Tools
