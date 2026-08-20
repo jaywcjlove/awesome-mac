@@ -1327,6 +1327,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppPorts](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](https://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
+* [Filemorph](https://filemorph.app) - Convert, compress and edit 80+ file formats fully on-device — images, PDF, video, audio, documents and archives — nothing is ever uploaded. [![App Store][app-store Icon]](https://apps.apple.com/us/app/filemorph-convert-edit/id6761300676?platform=mac)
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
