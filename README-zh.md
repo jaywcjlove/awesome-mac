@@ -1437,6 +1437,7 @@ Awesome Mac
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理。
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)
 * [Total Spaces](http://totalspaces.binaryage.com/) - 为工作区提供快捷键和空间总览的管理工具。
+* [Waindow](https://www.waindow.app/) - 免费的原生工作区工具，将窗口管理、窗口关联本地备忘录、长页面截图和防休眠会话整合于一体。 ![Freeware][Freeware Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - 键盘驱动的平铺式窗口管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 密码管理
