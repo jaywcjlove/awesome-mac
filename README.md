@@ -1074,6 +1074,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Voxt](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
+* [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar, with a hotkey to talk and no model to download. [![Open-Source Software][OSS Icon]](https://github.com/FrigadeHQ/yap) ![Freeware][Freeware Icon]
 
 ## Browsers
 
