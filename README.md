@@ -1582,6 +1582,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GrandPerspective](https://grandperspectiv.sourceforge.net) - Visualize disk usage with tree maps. [![Open-Source Software][OSS Icon]](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware][Freeware Icon]](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store][app-store Icon]](https://apps.apple.com/us/app/grandperspective/id1111570163?platform=mac)
 * [Gray](https://github.com/zenangst/Gray) - Per-app light/dark mode switcher. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
 * [HandShaker](https://www.smartisan.com/apps/handshaker) - Manage Android phone content on Mac. ![Freeware][Freeware Icon]
+* [HeatPilot](https://github.com/AgentC-Consulting/heatpilot) - Free menu-bar fan control for Apple Silicon: a cooler custom curve, Full Blast mode, and one click back to Apple's defaults. ![Freeware][Freeware Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced system monitor for menubar.
 * [iStats](https://github.com/Chris911/iStats) - Command-line system information tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - Enhanced battery information display. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
