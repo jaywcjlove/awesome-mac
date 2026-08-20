@@ -472,6 +472,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Testpiler](https://furnacecreek.org/testpiler/) - Tool for converting XCTest test suites to Swift Testing.
 * [TeXstudio](https://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Viaduct](https://magicelklabs.com/viaduct/) - Convert a Chrome extension into a Safari web extension without using the terminal. ![Native][Native Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN modeling platform.
 * [Woodpecker](https://www.woodpeck.cn) - View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac. [![App Store][app-store Icon]](https://apps.apple.com/app/woodpecker/id1333548463?platform=mac)
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
