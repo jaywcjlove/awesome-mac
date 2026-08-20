@@ -1200,6 +1200,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Clipboard Tools
 
+* [BracePaste](https://github.com/vishalnarkhede/BracePaste) - Format JSON and SQL from the clipboard with a double Command-C gesture. [![Open-Source Software][OSS Icon]](https://github.com/vishalnarkhede/BracePaste) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
