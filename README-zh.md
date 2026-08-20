@@ -331,6 +331,7 @@ Awesome Mac
 
 ### 网络分析
 
+* [Breakdown](https://breakdown.live/) - 持续从菜单栏记录证据，显示连接问题源自 Wi-Fi、ISP 路径还是应用。标准用途可免费使用。
 * [bruno](https://www.usebruno.com/) - 一款离线优先、快速且兼容 Git 的开源 API 客户端。 ![Freeware][Freeware Icon]
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量。
 * [James](https://github.com/james-proxy/james) - 用于 https 和 http 进行查询映射请求。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
