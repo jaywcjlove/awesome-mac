@@ -426,6 +426,7 @@ Awesome Mac
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - Git 인터랙션 강화 쉘 스크립트. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SaneHosts](https://sanehosts.com) - hosts 기반 광고 및 추적기 차단 도구. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 코드 스니펫 관리자.
+* [SSH Config Manager](https://www.sshmanager.app) - ssh_config를 손실 없이 편집하고 SSH 키, known_hosts, 포트 포워딩 터널을 관리하는 앱입니다. ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/ssh-config-manager/id6777915057?platform=mac)
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [StarUML](http://staruml.io) - 강력한 UML 앱.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift 변환기.
