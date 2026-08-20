@@ -1260,6 +1260,7 @@ Awesome Mac
 * [PopClip](https://www.popclip.app/) - 当您在任何应用中选择文本时，PopClip 会出现，为您提供即时访问有用操作的功能。
 * [SaneClip](https://saneclip.com) - 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - 适用于 macOS 的全系统文本扩展、片段管理和剪贴板历史工具。
+* [SparlaCopy](https://github.com/jeroensparla/sparlacopy) - 开源菜单栏剪贴板工具，提供编号槽位、FIFO 队列、纯文本转换和智能粘贴配置。 [![Open-Source Software][OSS Icon]](https://github.com/jeroensparla/sparlacopy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - 自动整理剪贴板历史和常用片段的管理器。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 
