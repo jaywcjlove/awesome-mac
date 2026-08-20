@@ -566,6 +566,7 @@ Awesome Mac
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 비트맵 이미지 편집기. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pixelmator Pro](http://www.pixelmator.com/pro/) - Mac을 위한 모든 기능을 갖춘 이미지 편집기.
 * [Pika](https://superhighfives.com/pika) - 오픈 소스 색상 선택 앱. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika)
+* [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - 재사용 가능한 프로젝트에서 앱 스토어 스크린샷을 제작, 현지화, 검증하고 내보냅니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/screen-studio-kit/id6796242724?mt=12)
 * [Sketch](http://www.sketchapp.com/) - 전문적인 네이티브 디지털 디자인 도구.
 * [SketchBook](https://www.sketchbook.com/) - 드로잉 및 페인팅 소프트웨어. ![Freeware][Freeware Icon]
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - 향상된 기능을 제공하는 macOS 색상 선택기 앱. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon]
