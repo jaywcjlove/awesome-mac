@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:08:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tungsten Edge</title>
+      <link>https://tungstenedge.app</link>
+      <guid isPermaLink="false">050fb17a63ab02a78793115758caeaa2cf7c9132:Tungsten Edge</guid>
+      <pubDate>Fri, 21 Aug 2026 08:08:19 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Tungsten Edge
+Description: Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons.
+Website: https://tungstenedge.app
+Commit: Add Tungsten Edge to Window Management (#2619)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Tungsten Edge<br/>Description: Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons.<br/>Website: https://tungstenedge.app<br/>Commit: Add Tungsten Edge to Window Management (#2619)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132]]></content:encoded>
+    </item>
     <item>
       <title>Loadout</title>
       <link>https://loadout.migsilva.dev</link>
@@ -693,20 +707,6 @@ Website: https://cctop.app
 Commit: Add cctop to Menu Bar Tools (#2257)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: cctop<br/>Description: Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window.<br/>Website: https://cctop.app<br/>Commit: Add cctop to Menu Bar Tools (#2257)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9]]></content:encoded>
-    </item>
-    <item>
-      <title>MenubarCC</title>
-      <link>https://github.com/ksterx/MenubarCC</link>
-      <guid isPermaLink="false">b197ea52da5a96b4566fe2c9f89384a3e5d39dff:MenubarCC</guid>
-      <pubDate>Sun, 05 Jul 2026 13:33:06 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: MenubarCC
-Description: Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.
-Open Source: https://github.com/ksterx/MenubarCC
-Commit: Add MenubarCC to Menu Bar Tools (#2249)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MenubarCC<br/>Description: Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
     </item>
   </channel>
 </rss>
