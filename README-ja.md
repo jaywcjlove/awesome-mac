@@ -1224,6 +1224,7 @@ Awesome Mac
 * [uPaste](https://okaapps.com/product/1503649026) - クリップボード履歴と定型文を整理して再利用しやすくするマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - ユーザーフレンドリーなUIのクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - ターミナルスタイルのナビゲーションを備えた無料のクリップボード履歴マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
+* [Zmina](https://zmina.app) - 貼り付け先のアプリに応じた操作を提案するクリップボードマネージャー。
 
 ### メニューバーツール
 
