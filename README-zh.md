@@ -1316,6 +1316,7 @@ Awesome Mac
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
 * [Vorssaint](https://vorssaint.com) - 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
+* [Zisla](https://github.com/wzz6423/zisla) - 将 Mac 顶部与刘海变为集媒体控制、文件中转、系统工具和本地 AI 活动于一体的原生工作台。 [![Open-Source Software][OSS Icon]](https://github.com/wzz6423/zisla) ![Freeware][Freeware Icon]
 
 ### 待办事项工具
 
