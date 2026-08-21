@@ -1220,6 +1220,7 @@ Awesome Mac
 * [Maccy](https://maccy.app/) - macOS用の軽量クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - クリップボード内の機密情報をマスクするメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 検索、タグ、画像履歴に対応したローカルファーストのクリップボード履歴マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Nori Clipboard](https://noriclipboard.com/ja) - 視覚的な履歴と再利用可能な複数ステップのペーストシーケンスを備えたネイティブクリップボードマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6794883956?platform=mac) ![Native App][Native Icon]
 * [OneClip](https://github.com/Wcowin/OneClip) - シンプルでプロフェッショナルなmacOSクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - クリップボード履歴と定型文を整理して再利用しやすくするマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - ユーザーフレンドリーなUIのクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
