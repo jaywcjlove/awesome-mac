@@ -869,7 +869,7 @@ Awesome Mac
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
-* [PullMark](https://pullmark.app) - 原生 Markdown 阅读器与 GitHub PR 审阅工具,支持渲染差异、词级高亮,以及编码智能体可处理的页边注释。界面支持 8 种语言。 [![Open-Source Software][OSS Icon]](https://github.com/jedijashwa/pullmark) ![Freeware][Freeware Icon]
+* [PullMark](https://pullmark.app) - 原生 Markdown 阅读器与 GitHub PR 审阅工具，支持渲染差异、词级高亮，以及编码智能体可处理的页边注释。界面支持 8 种语言。 [![Open-Source Software][OSS Icon]](https://github.com/jedijashwa/pullmark) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
