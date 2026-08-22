@@ -621,6 +621,7 @@ Awesome Mac
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Stable Diffusion을 사용한 텍스트-이미지 생성. ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - 이미지 크기 조정 및 최적화. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - 녹화나 화면 공유 중 민감한 화면 내용을 즉시 흐리게 처리하는 도구.
+* [CrossGen](https://www.corgnitor.com/products/crossgen) - 데스크톱 앱, JSON CLI 또는 MCP 호환 에이전트에서 이미지를 생성, 편집, 정리 및 재사용할 수 있는 로컬 우선 AI 이미지 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/Bliveren/CrossGen) ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusion AI 아트 생성 도구. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 이미지, 비디오, 오디오, 폰트, 디자인 파일을 관리하는 에셋 매니저.
 * [ExifCleaner](https://exifcleaner.com) - 이미지 및 비디오의 EXIF 데이터 제거. [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) ![Freeware][Freeware Icon]
