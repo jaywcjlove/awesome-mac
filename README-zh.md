@@ -535,6 +535,7 @@ Awesome Mac
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?platform=mac)
 * [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Keyty](https://keyty.app/) - 用于录屏、演示和讲解场景的开源键盘与鼠标可视化工具。 [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 可直接导出 GIF 的录屏工具。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id540348655?platform=mac)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]

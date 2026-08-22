@@ -750,6 +750,7 @@ Awesome Mac
 * [Gifox](https://gifox.app) - GIF録画と共有。
 * [Kap](https://getkap.co/) - Web技術で構築されたオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Keyty](https://keyty.app/) - スクリーンキャスト、プレゼン、デモ向けのオープンソースのキーボード・マウスビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Mac用のシンプルな画面およびマイク音声レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 直接GIFを書き出せる画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - スクリーンショットを撮り、書き込み、動画を撮影してファイルを共有。高速、簡単で無料。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
