@@ -744,6 +744,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Screen Recording
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
+* [Cadre](https://cadre.cam/) - Screen recorder and timeline video editor for Apple Silicon Macs, with cinematic zooms, on-device captions, and MCP agent control.
 * [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
 * [Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
