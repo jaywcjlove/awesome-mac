@@ -1482,6 +1482,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [contexts](https://contexts.co/) - App switcher for faster window and app switching across multiple screens.
 * [Dimsum](https://github.com/nshi/dimsum) - Minimalist menu bar app that dims inactive windows to highlight the focused one. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
 * [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
+* [DockFlow](https://dockflowapp.io) - Save Dock presets for different workflows and switch between them instantly.
 * [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
 * [Divvy](https://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
