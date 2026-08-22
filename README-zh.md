@@ -1235,6 +1235,7 @@ Awesome Mac
 
 ### 剪贴板工具
 
+* [Boldaram](https://boldaram.beside-co.com/) - 复制的内容由一只松鼠帮你叼着的剪贴板管理工具。
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 轻量的原生剪贴板管理工具，支持图片 OCR 和书签。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
