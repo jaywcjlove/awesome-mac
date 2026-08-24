@@ -156,6 +156,7 @@ Awesome Mac
 - [输入法](#输入法)
 - [浏览器](#浏览器)
 - [翻译工具](#翻译工具)
+- [教育](#教育)
 - [安全工具](#安全工具)
 - [科学上网](#科学上网)
 - [其它实用工具](#其它实用工具)
@@ -1066,6 +1067,10 @@ Awesome Mac
 * [Translatium](https://translatium.app) - 支持 100 多种语言文字与图片翻译的应用。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium/id1547052291?platform=mac)
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
+
+## 教育
+
+* [LeafyApp](https://leafyapp.uk/) - 按 ⌥A 查屏幕上任意单词，PDF 和图片里的字也能查，并存进可搜索的本地生词库。 ![Freeware][Freeware Icon]
 
 ## 金融
 
