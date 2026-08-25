@@ -271,6 +271,7 @@ Awesome Mac
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 用于管理元数据、TestFlight、评论、分析和本地化的 App Store Connect 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [LINQPad](https://www.linqpad.net/) - 用于运行代码、查询数据和探索数据库的 .NET 草稿本。 ![Freeware][Freeware Icon]
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - 用于浏览 Claude Code 会话、查看差异和重跑命令的配套工具。 [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
+* [CC-Switch](https://github.com/farion1231/cc-switch) - 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。 [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI 原生的 GUI，用于管理 AI 代码编写会话和项目，具有分割窗格、Git 集成和 AI 用量追踪功能。
 * [SaneHosts](https://sanehosts.com) - 基于 hosts 的广告与追踪器拦截工具。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
