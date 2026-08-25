@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:39:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CC-Switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <guid isPermaLink="false">3d84630d6033f2a9c109a17ffd8f47c4568304f5:CC-Switch</guid>
+      <pubDate>Tue, 25 Aug 2026 05:39:38 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: CC-Switch
+Description: 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。
+Open Source: https://github.com/farion1231/cc-switch
+Commit: Add CC-Switch to Developer Utilities (#2658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CC-Switch<br/>Description: 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to Developer Utilities (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5]]></content:encoded>
+    </item>
     <item>
       <title>Tungsten Edge 钨极</title>
       <link>https://tungstenedge.app</link>
@@ -693,20 +707,6 @@ Website: https://harbofly.app/
 Commit: Add Harbofly to the zh/ja/ko list. #2252
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Harbofly<br/>Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
-    </item>
-    <item>
-      <title>MoonProxy</title>
-      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
-      <guid isPermaLink="false">a59272745a93357a103f7ddfd18c1ad6856a8d27:MoonProxy</guid>
-      <pubDate>Sun, 05 Jul 2026 00:33:23 GMT</pubDate>
-      <category>远程协助</category>
-      <description>Category: 远程协助
-App: MoonProxy
-Description: FRP 的 GUI 客户端，一键将本地服务发布到互联网。
-Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
-Commit: Add MoonProxy to the ja/ko/zh list. #2253
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27</description>
-      <content:encoded><![CDATA[Category: 远程协助<br/>App: MoonProxy<br/>Description: FRP 的 GUI 客户端，一键将本地服务发布到互联网。<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy to the ja/ko/zh list. #2253<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27]]></content:encoded>
     </item>
   </channel>
 </rss>
