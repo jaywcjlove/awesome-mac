@@ -384,6 +384,7 @@ Awesome Mac
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.
 * [Bidbar](https://www.getbidbar.com) - 메뉴 바에서 bash 명령 관리.
 * [Cacher](https://www.cacher.io/) - 클라우드 기반 코드 스니펫 관리자.
+* [CC-Switch](https://github.com/farion1231/cc-switch) - Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - 컴파일 및 최적화 도구.
 * [CodeMenu](https://extiri.com/codemenu.html) - 고급 스니펫 관리자.
 * [CoilPad](https://coilpad.com) - 네이티브 Python 스크래치패드. ![Freeware][Freeware Icon]

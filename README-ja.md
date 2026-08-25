@@ -409,6 +409,7 @@ Awesome Mac
 * [Beyond Compare](http://www.scootersoftware.com/) - 強力なコマンドでファイルやフォルダを比較。 ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - メニューバーからbashコマンドを管理し、キーボードショートカットで実行。
 * [Cacher](https://www.cacher.io/) - Gist同期とマルチプラットフォーム対応のクラウドベースコードスニペット管理ツール。
+* [CC-Switch](https://github.com/farion1231/cc-switch) - Claude Code、Codex、OpenCodeなどのAIコーディングエージェントの設定とモデル切り替えを管理するクロスプラットフォームのデスクトップツール。 [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - コンパイルと自動リフレッシュのためのWeb開発ツール。
 * [CodeMenu](https://extiri.com/codemenu.html) - IDE統合、自然言語検索などを備えた高度なスニペット管理ツール。
 * [CoilPad](https://coilpad.com) - 即時プロトタイピングとインタラクティブな学習のために設計されたネイティブmacOS Pythonスクラッチパッド。 ![Freeware][Freeware Icon]
