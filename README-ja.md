@@ -1626,6 +1626,7 @@ Awesome Mac
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - 低遅延のリモートデスクトップ兼ゲームストリーミングツール。
 * [RealVNC](https://www.realvnc.com) - デスクトップとモバイルのリモートアクセスのためのオリジナルかつ最高のソフトウェア。
+* [reminal](https://reminal.app) - すべてのウィンドウとターミナルを任意のブラウザにストリーミングし、蓋を閉じてもMacを稼働させ続ける。 [![Open-Source Software][OSS Icon]](https://github.com/harshalgajjar/Reminal) ![Freeware][Freeware Icon]
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 複数プロトコルの接続をまとめて管理できるリモート接続クライアント。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - もう一つのリモートデスクトップソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - Steam Linkアプリを使えば、すべてのコンピューターでSteamゲームをプレイ可能。 ![Freeware][Freeware Icon]

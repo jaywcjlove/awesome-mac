@@ -1632,6 +1632,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - Low-latency remote desktop and game streaming tool.
 * [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.
+* [reminal](https://reminal.app) - Streams every window and terminal to any browser, keeping the Mac awake with the lid closed. [![Open-Source Software][OSS Icon]](https://github.com/harshalgajjar/Reminal) ![Freeware][Freeware Icon]
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Remote connection manager for multiple protocols. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - The Steam Link app allows you to play your Steam games across all your computers. ![Freeware][Freeware Icon]
