@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpotAsk</title>
+      <link>https://github.com/shiquda/SpotAsk</link>
+      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
+      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: SpotAsk
+Description: Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.
+Open Source: https://github.com/shiquda/SpotAsk
+Commit: Add SpotAsk (#2641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: SpotAsk<br/>Description: Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
+    </item>
     <item>
       <title>WandelBar</title>
       <link>https://github.com/alexiosus/WandelBar</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/l0ng-ai/tty7
 Commit: Add tty7 to Terminal Apps (#2263)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: tty7<br/>Description: A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
-    </item>
-    <item>
-      <title>TokenTracker</title>
-      <link>https://www.tokentracker.cc</link>
-      <guid isPermaLink="false">baa66734f625ca23b69f94f1b10bc972395eaca2:TokenTracker</guid>
-      <pubDate>Mon, 06 Jul 2026 23:32:36 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: TokenTracker
-Description: Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.
-Website: https://www.tokentracker.cc
-Commit: Add TokenTracker to AI Tools (#2101)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: TokenTracker<br/>Description: Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.<br/>Website: https://www.tokentracker.cc<br/>Commit: Add TokenTracker to AI Tools (#2101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpotAsk</title>
+      <link>https://github.com/shiquda/SpotAsk</link>
+      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
+      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: SpotAsk
+Description: すばやい質問のためのネイティブ macOS メニューバー AI アシスタント。まず質問を記録し、自分で設定した AI サービスで回答を得るか、他の AI・アプリ・ターミナルコマンドに送れます。
+Open Source: https://github.com/shiquda/SpotAsk
+Commit: Add SpotAsk (#2641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: SpotAsk<br/>Description: すばやい質問のためのネイティブ macOS メニューバー AI アシスタント。まず質問を記録し、自分で設定した AI サービスで回答を得るか、他の AI・アプリ・ターミナルコマンドに送れます。<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
+    </item>
     <item>
       <title>WandelBar</title>
       <link>https://github.com/alexiosus/WandelBar</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ksterx/MenubarCC
 Commit: Add MenubarCC to Menu Bar Tools (#2249)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: MenubarCC<br/>Description: Claude Code の各セッション状態をメニューバーのカニで一目表示し、作業中は歩き、入力待ちになると跳ねる。<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbofly</title>
-      <link>https://harbofly.app/</link>
-      <guid isPermaLink="false">9568458c70df1b8762f8f5056ca760c50f753922:Harbofly</guid>
-      <pubDate>Sun, 05 Jul 2026 08:19:58 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Harbofly
-Description: 開発ビルドの成果物やキャッシュ（DerivedData、node_modules、SPM/Homebrewキャッシュ）を自動検出して解放するメニューバーツール。テレメトリーなし。
-Website: https://harbofly.app/
-Commit: Add Harbofly to the zh/ja/ko list. #2252
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Harbofly<br/>Description: 開発ビルドの成果物やキャッシュ（DerivedData、node_modules、SPM/Homebrewキャッシュ）を自動検出して解放するメニューバーツール。テレメトリーなし。<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
     </item>
   </channel>
 </rss>

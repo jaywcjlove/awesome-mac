@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpotAsk</title>
+      <link>https://github.com/shiquda/SpotAsk</link>
+      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
+      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: SpotAsk
+Description: 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다.
+Open Source: https://github.com/shiquda/SpotAsk
+Commit: Add SpotAsk (#2641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: SpotAsk<br/>Description: 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다.<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
+    </item>
     <item>
       <title>WandelBar</title>
       <link>https://github.com/alexiosus/WandelBar</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ksterx/MenubarCC
 Commit: Add MenubarCC to Menu Bar Tools (#2249)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MenubarCC<br/>Description: 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구.<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbofly</title>
-      <link>https://harbofly.app/</link>
-      <guid isPermaLink="false">9568458c70df1b8762f8f5056ca760c50f753922:Harbofly</guid>
-      <pubDate>Sun, 05 Jul 2026 08:19:58 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Harbofly
-Description: 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음.
-Website: https://harbofly.app/
-Commit: Add Harbofly to the zh/ja/ko list. #2252
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Harbofly<br/>Description: 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음.<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
     </item>
   </channel>
 </rss>
