@@ -636,6 +636,7 @@ Awesome Mac
 * [alacritty](https://github.com/jwilm/alacritty) - クロスプラットフォームでGPUアクセラレーションに対応したターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 複数プロバイダープロファイルと音声入力に対応したAIネイティブのターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - 長時間実行されるターミナルコマンド用のターミナルコンパニオン（フリーミアム）。
+* [crterm](https://crterm.ai) - 高度なセッションナビゲーションとGPUアクセラレーション対応のレトロプリセットを備えた、美しくこだわりのあるターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/mbcltd/CRTerminal) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - ターミナル、SSH、SFTPクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 高速なGPUアクセラレーション対応ターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - Web技術で構築されたターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
