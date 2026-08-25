@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WandelBar</title>
+      <link>https://github.com/alexiosus/WandelBar</link>
+      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
+      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: WandelBar
+Description: 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。
+Open Source: https://github.com/alexiosus/WandelBar
+Commit: Add WandelBar (#2640)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: WandelBar<br/>Description: 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
+    </item>
     <item>
       <title>CC-Switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ksterx/MenubarCC
 Commit: Add MenubarCC to Menu Bar Tools (#2249)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MenubarCC<br/>Description: 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbofly</title>
-      <link>https://harbofly.app/</link>
-      <guid isPermaLink="false">9568458c70df1b8762f8f5056ca760c50f753922:Harbofly</guid>
-      <pubDate>Sun, 05 Jul 2026 08:19:58 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Harbofly
-Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。
-Website: https://harbofly.app/
-Commit: Add Harbofly to the zh/ja/ko list. #2252
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Harbofly<br/>Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
     </item>
   </channel>
 </rss>

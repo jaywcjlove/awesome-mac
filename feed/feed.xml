@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WandelBar</title>
+      <link>https://github.com/alexiosus/WandelBar</link>
+      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
+      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: WandelBar
+Description: Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.
+Open Source: https://github.com/alexiosus/WandelBar
+Commit: Add WandelBar (#2640)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: WandelBar<br/>Description: Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
+    </item>
     <item>
       <title>CC-Switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
@@ -693,20 +707,6 @@ Website: https://www.tokentracker.cc
 Commit: Add TokenTracker to AI Tools (#2101)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: TokenTracker<br/>Description: Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.<br/>Website: https://www.tokentracker.cc<br/>Commit: Add TokenTracker to AI Tools (#2101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2]]></content:encoded>
-    </item>
-    <item>
-      <title>Wox</title>
-      <link>https://wox-launcher.github.io/Wox/</link>
-      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
-      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Wox
-Description: Open-source cross-platform launcher with fast local search and plugin extensibility.
-Website: https://wox-launcher.github.io/Wox/
-Commit: Add Wox #2047
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Wox<br/>Description: Open-source cross-platform launcher with fast local search and plugin extensibility.<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
     </item>
   </channel>
 </rss>

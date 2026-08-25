@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:18:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WandelBar</title>
+      <link>https://github.com/alexiosus/WandelBar</link>
+      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
+      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: WandelBar
+Description: 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다.
+Open Source: https://github.com/alexiosus/WandelBar
+Commit: Add WandelBar (#2640)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: WandelBar<br/>Description: 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다.<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
+    </item>
     <item>
       <title>CC-Switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
@@ -693,20 +707,6 @@ Website: https://harbofly.app/
 Commit: Add Harbofly to the zh/ja/ko list. #2252
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Harbofly<br/>Description: 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음.<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
-    </item>
-    <item>
-      <title>MoonProxy</title>
-      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
-      <guid isPermaLink="false">a59272745a93357a103f7ddfd18c1ad6856a8d27:MoonProxy</guid>
-      <pubDate>Sun, 05 Jul 2026 00:33:23 GMT</pubDate>
-      <category>원격 로그인 소프트웨어</category>
-      <description>Category: 원격 로그인 소프트웨어
-App: MoonProxy
-Description: FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개.
-Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
-Commit: Add MoonProxy to the ja/ko/zh list. #2253
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27</description>
-      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: MoonProxy<br/>Description: FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개.<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy to the ja/ko/zh list. #2253<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27]]></content:encoded>
     </item>
   </channel>
 </rss>
