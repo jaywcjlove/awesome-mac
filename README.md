@@ -1442,6 +1442,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - Capture periodic screenshots to review your day and fill timesheets.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
+* [Optimal Desktop](https://optimal-desktop.pages.dev/) - A native, lightweight and privacy-first macOS productivity app with zero cloud tracking and a zero-signup trial.
 * [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 * [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - Search and discovery with AI.
