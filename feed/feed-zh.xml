@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:27:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Grux</title>
+      <link>https://gruxai.com</link>
+      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Grux
+Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。
+Website: https://gruxai.com
+Commit: Add Grux to AI Tools (#2647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Grux<br/>Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
+    </item>
     <item>
       <title>SpotAsk</title>
       <link>https://github.com/shiquda/SpotAsk</link>
@@ -693,20 +707,6 @@ Website: https://wox-launcher.github.io/Wox/
 Commit: Add Wox #2047
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Wox<br/>Description: 开源跨平台启动器，支持快速本地搜索和插件扩展。<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
-    </item>
-    <item>
-      <title>cctop</title>
-      <link>https://cctop.app</link>
-      <guid isPermaLink="false">bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9:cctop</guid>
-      <pubDate>Mon, 06 Jul 2026 05:33:17 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: cctop
-Description: 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。
-Website: https://cctop.app
-Commit: Add cctop to Menu Bar Tools (#2257)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: cctop<br/>Description: 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。<br/>Website: https://cctop.app<br/>Commit: Add cctop to Menu Bar Tools (#2257)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9]]></content:encoded>
     </item>
   </channel>
 </rss>

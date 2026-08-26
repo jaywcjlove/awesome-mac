@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:27:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Grux</title>
+      <link>https://gruxai.com</link>
+      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Grux
+Description: Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.
+Website: https://gruxai.com
+Commit: Add Grux to AI Tools (#2647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Grux<br/>Description: Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
+    </item>
     <item>
       <title>SpotAsk</title>
       <link>https://github.com/shiquda/SpotAsk</link>
@@ -693,20 +707,6 @@ Website: https://prevail.sh
 Commit: Add Prevail to AI Tools (#2267)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Prevail<br/>Description: Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.<br/>Website: https://prevail.sh<br/>Commit: Add Prevail to AI Tools (#2267)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2]]></content:encoded>
-    </item>
-    <item>
-      <title>tty7</title>
-      <link>https://github.com/l0ng-ai/tty7</link>
-      <guid isPermaLink="false">258daea61a27fda55d57bea4be5d05b10c6c30a6:tty7</guid>
-      <pubDate>Tue, 07 Jul 2026 01:43:44 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: tty7
-Description: A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.
-Open Source: https://github.com/l0ng-ai/tty7
-Commit: Add tty7 to Terminal Apps (#2263)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: tty7<br/>Description: A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
     </item>
   </channel>
 </rss>

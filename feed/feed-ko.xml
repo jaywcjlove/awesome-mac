@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:27:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Grux</title>
+      <link>https://gruxai.com</link>
+      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Grux
+Description: 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행.
+Website: https://gruxai.com
+Commit: Add Grux to AI Tools (#2647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Grux<br/>Description: 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행.<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
+    </item>
     <item>
       <title>SpotAsk</title>
       <link>https://github.com/shiquda/SpotAsk</link>
@@ -693,20 +707,6 @@ Website: https://cctop.app
 Commit: Add cctop to Menu Bar Tools (#2257)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: cctop<br/>Description: AI 코딩 세션(Claude Code, Codex, opencode, pi)의 상태를 메뉴 막대에서 보여주고 해당 터미널 창이나 에디터 창으로 바로 이동하는 오픈 소스 도구.<br/>Website: https://cctop.app<br/>Commit: Add cctop to Menu Bar Tools (#2257)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9]]></content:encoded>
-    </item>
-    <item>
-      <title>MenubarCC</title>
-      <link>https://github.com/ksterx/MenubarCC</link>
-      <guid isPermaLink="false">b197ea52da5a96b4566fe2c9f89384a3e5d39dff:MenubarCC</guid>
-      <pubDate>Sun, 05 Jul 2026 13:33:06 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: MenubarCC
-Description: 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구.
-Open Source: https://github.com/ksterx/MenubarCC
-Commit: Add MenubarCC to Menu Bar Tools (#2249)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MenubarCC<br/>Description: 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구.<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
     </item>
   </channel>
 </rss>
