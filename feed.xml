@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Aug 2026 01:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:18:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Metrune</title>
+      <link>https://treafree.github.io/Metrune/en/</link>
+      <guid isPermaLink="false">8417bce07fd1845c9f0f9cca4f770383eaa89f8f:Metrune</guid>
+      <pubDate>Fri, 28 Aug 2026 15:18:27 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Metrune
+Description: Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch.
+Website: https://treafree.github.io/Metrune/en/
+Commit: Add Metrune to productivity apps (#2668)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Metrune<br/>Description: Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch.<br/>Website: https://treafree.github.io/Metrune/en/<br/>Commit: Add Metrune to productivity apps (#2668)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f]]></content:encoded>
+    </item>
     <item>
       <title>Tracexy</title>
       <link>https://rockxy.io/tracexy</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/FirenzeLor/gemini-collector
 Commit: Add Gemini Collector to AI Tools (#2295)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Gemini Collector<br/>Description: Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Profisor</title>
-      <link>https://github.com/yefga/Profisor</link>
-      <guid isPermaLink="false">68b54c06902da7c3eef7c2abcf1d28625dcb5de7:Profisor</guid>
-      <pubDate>Sat, 11 Jul 2026 09:03:09 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Profisor
-Description: Switch Xcode provisioning profiles for the current project from the menu bar.
-Open Source: https://github.com/yefga/Profisor
-Commit: Add Profisor (#2289)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Profisor<br/>Description: Switch Xcode provisioning profiles for the current project from the menu bar.<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
     </item>
   </channel>
 </rss>
