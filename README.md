@@ -1550,6 +1550,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [DockDuck](https://dockduck.app) - Native dual-pane Finder replacement with remote servers, batch rename, and archive support.
 
 ### Quality of Life Improvements
 
