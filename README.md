@@ -1236,6 +1236,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Menu Bar Tools
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [Agent Sessions](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=awesome-mac) - Local-first session browser for 15 AI coding-agent CLIs (Codex, Claude Code, Cursor, Copilot CLI, and more), with live per-session quota-burn tracking in the menu bar, transcript search, and resume commands. [![Open-Source Software][OSS Icon]](https://github.com/jazzyalex/agent-sessions) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
