@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:19:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tracexy</title>
+      <link>https://rockxy.io/tracexy</link>
+      <guid isPermaLink="false">76fb6befe2e28ffc756eebd9d64b28df1b82e1d3:Tracexy</guid>
+      <pubDate>Fri, 28 Aug 2026 01:19:03 GMT</pubDate>
+      <category>Developer Tools / Network Analysis</category>
+      <description>Category: Developer Tools / Network Analysis
+App: Tracexy
+Description: Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.
+Website: https://rockxy.io/tracexy
+Commit: Add Tracexy (#2673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Tracexy<br/>Description: Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.<br/>Website: https://rockxy.io/tracexy<br/>Commit: Add Tracexy (#2673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3]]></content:encoded>
+    </item>
     <item>
       <title>Nifro</title>
       <link>https://github.com/PathGao/Nifro</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/yefga/Profisor
 Commit: Add Profisor (#2289)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Profisor<br/>Description: Switch Xcode provisioning profiles for the current project from the menu bar.<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
-    </item>
-    <item>
-      <title>Battery Hog</title>
-      <link>https://github.com/luke-fairbanks/BatteryHog</link>
-      <guid isPermaLink="false">e34fa129f9bce64dbc862880429b71ea15c1afa3:Battery Hog</guid>
-      <pubDate>Fri, 10 Jul 2026 07:52:03 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Battery Hog
-Description: Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.
-Open Source: https://github.com/luke-fairbanks/BatteryHog
-Commit: Add Battery Hog (#2285)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Battery Hog<br/>Description: Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
     </item>
   </channel>
 </rss>
