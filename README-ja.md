@@ -238,6 +238,7 @@ Awesome Mac
 * [LightPaper](https://getlightpaper.com/) - Mac用のシンプルで美しく、かつ強力なテキストエディタ。
 * [MacDown](https://macdown.uranusjr.com/) - ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
+* [Markout](https://github.com/maxmilian/markout) - Apple Silicon向けのmacOSネイティブMarkdownエディタ。分割ライブプレビュー、KaTeXの数式、Mermaidの図表に対応し、すべてオフラインでレンダリング、HTML/PDF出力も可能。 [![Open-Source Software][OSS Icon]](https://github.com/maxmilian/markout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MarkText](https://github.com/marktext/marktext) - macOS、Windows、Linuxで動作する次世代Markdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。 ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
