@@ -635,6 +635,7 @@ Awesome Mac
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottie 파일용 Quick Look 확장 기능을 갖춘 네이티브 Lottie 애니메이션 플레이어. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 이미지 호스팅 업로드 도구. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
+* [TinyImage](https://getapps.cafe/app/tinyimage) - PNG, JPEG, WebP 이미지를 완전히 로컬에서 일괄 압축하는 도구. ![Freeware][Freeware Icon]
 * [Zipic](https://zipic.app/) - 프리셋과 자동화를 지원하는 일괄 이미지 압축 도구.
 
 ## AI 도구
