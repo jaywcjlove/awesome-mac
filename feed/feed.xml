@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:07:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Purge</title>
+      <link>https://getpurge.com</link>
+      <guid isPermaLink="false">31ee838d6f50c568a8fc9f254d76af9bd13616f4:Purge</guid>
+      <pubDate>Sat, 29 Aug 2026 12:07:25 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Purge
+Description: Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.
+Website: https://getpurge.com
+Commit: Add Purge to Cleanup and Uninstall (#2690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Purge<br/>Description: Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.<br/>Website: https://getpurge.com<br/>Commit: Add Purge to Cleanup and Uninstall (#2690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4]]></content:encoded>
+    </item>
     <item>
       <title>Mixio</title>
       <link>https://github.com/RadixIV/Mixio</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/rcourtman/presspeech
 Commit: Update Presspeech listing (#2290)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Presspeech<br/>Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Knopo</title>
-      <link>https://github.com/alkalim/Knopo</link>
-      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
-      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: Knopo
-Description: Native macOS outliner for local-first notes stored as plain Markdown files.
-Open Source: https://github.com/alkalim/Knopo
-Commit: Add Knopo (#2291)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knopo<br/>Description: Native macOS outliner for local-first notes stored as plain Markdown files.<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
     </item>
   </channel>
 </rss>

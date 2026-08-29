@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:07:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Purge</title>
+      <link>https://getpurge.com</link>
+      <guid isPermaLink="false">31ee838d6f50c568a8fc9f254d76af9bd13616f4:Purge</guid>
+      <pubDate>Sat, 29 Aug 2026 12:07:25 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Purge
+Description: ファイルを削除せずゴミ箱に移動する、固定許可リストとテレメトリーなしのオープンソースキャッシュクリーナー。
+Website: https://getpurge.com
+Commit: Add Purge to Cleanup and Uninstall (#2690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Purge<br/>Description: ファイルを削除せずゴミ箱に移動する、固定許可リストとテレメトリーなしのオープンソースキャッシュクリーナー。<br/>Website: https://getpurge.com<br/>Commit: Add Purge to Cleanup and Uninstall (#2690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4]]></content:encoded>
+    </item>
     <item>
       <title>Mixio</title>
       <link>https://github.com/RadixIV/Mixio</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/luke-fairbanks/BatteryHog
 Commit: Add Battery Hog (#2285)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Battery Hog<br/>Description: リアルタイムのワット数、アプリごとの電力消費、充電履歴、消耗分析でバッテリーを消耗している原因を100%ローカルで表示。<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
-    </item>
-    <item>
-      <title>OATS</title>
-      <link>https://github.com/ariso-ai/oats</link>
-      <guid isPermaLink="false">9654998824e9692ac4d6953152ff997cd884ac6c:OATS</guid>
-      <pubDate>Thu, 09 Jul 2026 04:48:55 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: OATS
-Description: ライブ文字起こし、話者ラベル、AI要約、完全オフラインのオンデバイスモードに対応したオープンソースのローカルファースト会議ノートアプリ。
-Open Source: https://github.com/ariso-ai/oats
-Commit: Add Oats to Note-taking (#2268)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: OATS<br/>Description: ライブ文字起こし、話者ラベル、AI要約、完全オフラインのオンデバイスモードに対応したオープンソースのローカルファースト会議ノートアプリ。<br/>Open Source: https://github.com/ariso-ai/oats<br/>Commit: Add Oats to Note-taking (#2268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c]]></content:encoded>
     </item>
   </channel>
 </rss>
