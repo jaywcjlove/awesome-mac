@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:10:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mixio</title>
+      <link>https://github.com/RadixIV/Mixio</link>
+      <guid isPermaLink="false">aed80b5b970aee7281bf166d0533a5a3f6b79a23:Mixio</guid>
+      <pubDate>Sat, 29 Aug 2026 01:10:36 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Mixio
+Description: Menu bar app with per-app &amp; tab volume control, 10-band EQ with native style UI.
+Open Source: https://github.com/RadixIV/Mixio
+Commit: Add Mixio to Menu Bar Tools (#2670)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Mixio<br/>Description: Menu bar app with per-app &amp; tab volume control, 10-band EQ with native style UI.<br/>Open Source: https://github.com/RadixIV/Mixio<br/>Commit: Add Mixio to Menu Bar Tools (#2670)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23]]></content:encoded>
+    </item>
     <item>
       <title>Metrune</title>
       <link>https://treafree.github.io/Metrune/en/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/alkalim/Knopo
 Commit: Add Knopo (#2291)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knopo<br/>Description: Native macOS outliner for local-first notes stored as plain Markdown files.<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Collector</title>
-      <link>https://github.com/FirenzeLor/gemini-collector</link>
-      <guid isPermaLink="false">5ac5d87f284028cf73b34cb7b9a722ea5d0629e1:Gemini Collector</guid>
-      <pubDate>Sun, 12 Jul 2026 00:08:52 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Gemini Collector
-Description: Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.
-Open Source: https://github.com/FirenzeLor/gemini-collector
-Commit: Add Gemini Collector to AI Tools (#2295)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Gemini Collector<br/>Description: Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
     </item>
   </channel>
 </rss>

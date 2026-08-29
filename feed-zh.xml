@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:10:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mixio</title>
+      <link>https://github.com/RadixIV/Mixio</link>
+      <guid isPermaLink="false">aed80b5b970aee7281bf166d0533a5a3f6b79a23:Mixio</guid>
+      <pubDate>Sat, 29 Aug 2026 01:10:36 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Mixio
+Description: 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio)
+Open Source: https://github.com/RadixIV/Mixio
+Commit: Add Mixio to Menu Bar Tools (#2670)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mixio<br/>Description: 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio)<br/>Open Source: https://github.com/RadixIV/Mixio<br/>Commit: Add Mixio to Menu Bar Tools (#2670)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23]]></content:encoded>
+    </item>
     <item>
       <title>Metrune</title>
       <link>https://treafree.github.io/Metrune/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/luke-fairbanks/BatteryHog
 Commit: Add Battery Hog (#2285)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Battery Hog<br/>Description: 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
-    </item>
-    <item>
-      <title>OATS</title>
-      <link>https://github.com/ariso-ai/oats</link>
-      <guid isPermaLink="false">9654998824e9692ac4d6953152ff997cd884ac6c:OATS</guid>
-      <pubDate>Thu, 09 Jul 2026 04:48:55 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: OATS
-Description: 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。
-Open Source: https://github.com/ariso-ai/oats
-Commit: Add Oats to Note-taking (#2268)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: OATS<br/>Description: 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。<br/>Open Source: https://github.com/ariso-ai/oats<br/>Commit: Add Oats to Note-taking (#2268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c]]></content:encoded>
     </item>
   </channel>
 </rss>
