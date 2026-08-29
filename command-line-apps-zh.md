@@ -2,12 +2,29 @@
   <sup>特别感谢：</sup>
   <br>
   <br>
+
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe，60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。</a>
+  <br><br>
+
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
   <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP｜精选软件，正版保真，超值特惠" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -20,6 +37,7 @@
 
 <p style="display: inline_block">
   <sup>使用 <a href="https://wangchujiang.com/#/app" target="_blank">我的应用</a> 也是支持我的一种方式：<a href="https://wangchujiang.com/#/sponsor" target="_blank">支持我</a></sup><br/>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>

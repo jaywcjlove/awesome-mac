@@ -2,12 +2,29 @@
   <sup>특별한 감사:</sup>
   <br>
   <br>
+
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe, 60개 이상의 네이티브 Mac 앱을 만나보세요. 유틸리티, 업무, 창작, 생산성 향상 등 다양한 분야의 앱을 제공하며, 모든 기능은 기기 내에서 로컬로 실행되어 사용자의 데이터는 항상 안전하게 보호됩니다.</a>
+  <br><br>
+
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro, macOS에서 몇 분 만에 아름다운 화면 녹화를 제작하세요</a>
   <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - 엄선된 소프트웨어. 100% 정품. 최적의 할인가." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -20,6 +37,7 @@
 
 <p style="display: inline_block">
   <sup><a href="https://wangchujiang.com/#/app" target="_blank">내 앱</a>을 사용하는 것도 <a href="https://wangchujiang.com/#/sponsor" target="_blank">후원</a>하는 한 가지 방법입니다:</sup><br/>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
