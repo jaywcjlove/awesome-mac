@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:36:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clipbara</title>
+      <link>https://github.com/mobrava/Clipbara</link>
+      <guid isPermaLink="false">a875ee9980da747bd0ec9ccba20f5164768b2476:Clipbara</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:18 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Clipbara
+Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.
+Open Source: https://github.com/mobrava/Clipbara
+Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clipbara<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/mobrava/Clipbara<br/>Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476]]></content:encoded>
+    </item>
     <item>
       <title>Purge</title>
       <link>https://getpurge.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Mason363/Tactile
 Commit: Add Tactile to Menu Bar Tools (#2298)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tactile<br/>Description: Taps the Force Touch trackpad whenever the cursor is over a clickable element in any app, with optional visual cues as a low-vision aid.<br/>Open Source: https://github.com/Mason363/Tactile<br/>Commit: Add Tactile to Menu Bar Tools (#2298)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267]]></content:encoded>
-    </item>
-    <item>
-      <title>Presspeech</title>
-      <link>https://github.com/rcourtman/presspeech</link>
-      <guid isPermaLink="false">1a8e1aa613e808a6ac97d1aa478d57a698af7d2a:Presspeech</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:08 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: Presspeech
-Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).
-Open Source: https://github.com/rcourtman/presspeech
-Commit: Update Presspeech listing (#2290)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Presspeech<br/>Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
     </item>
   </channel>
 </rss>
