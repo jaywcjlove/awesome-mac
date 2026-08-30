@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:35:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Snapzy</title>
+      <link>https://snapzy.app/</link>
+      <guid isPermaLink="false">8c421a391f1839d7d78f2ca886eef511214a97be:Snapzy</guid>
+      <pubDate>Sun, 30 Aug 2026 07:35:29 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Snapzy
+Description: Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing.
+Website: https://snapzy.app/
+Commit: Add Snapzy to screenshot tools (#2666)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Snapzy<br/>Description: Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing.<br/>Website: https://snapzy.app/<br/>Commit: Add Snapzy to screenshot tools (#2666)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be]]></content:encoded>
+    </item>
     <item>
       <title>Clipbara</title>
       <link>https://github.com/mobrava/Clipbara</link>
@@ -693,20 +707,6 @@ Website: https://opendisplay.app
 Commit: Add OpenDisplay to General Tools (#2308)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: OpenDisplay<br/>Description: Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
-    </item>
-    <item>
-      <title>Tactile</title>
-      <link>https://github.com/Mason363/Tactile</link>
-      <guid isPermaLink="false">3b5fb45ce127372a39b453916df1e2054dc98267:Tactile</guid>
-      <pubDate>Mon, 13 Jul 2026 04:51:18 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Tactile
-Description: Taps the Force Touch trackpad whenever the cursor is over a clickable element in any app, with optional visual cues as a low-vision aid.
-Open Source: https://github.com/Mason363/Tactile
-Commit: Add Tactile to Menu Bar Tools (#2298)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tactile<br/>Description: Taps the Force Touch trackpad whenever the cursor is over a clickable element in any app, with optional visual cues as a low-vision aid.<br/>Open Source: https://github.com/Mason363/Tactile<br/>Commit: Add Tactile to Menu Bar Tools (#2298)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267]]></content:encoded>
     </item>
   </channel>
 </rss>
