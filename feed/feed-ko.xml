@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:47:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mole</title>
+      <link>https://mole.fit/</link>
+      <guid isPermaLink="false">73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0:Mole</guid>
+      <pubDate>Sun, 30 Aug 2026 08:47:48 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: Mole
+Description: 정리, 앱 관리, 디스크 분석, 시스템 모니터링을 지원하는 네이티브 Mac 유지 관리 도구.
+Website: https://mole.fit/
+Commit: Add Mole to Cleanup and Uninstall (#2663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Mole<br/>Description: 정리, 앱 관리, 디스크 분석, 시스템 모니터링을 지원하는 네이티브 Mac 유지 관리 도구.<br/>Website: https://mole.fit/<br/>Commit: Add Mole to Cleanup and Uninstall (#2663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0]]></content:encoded>
+    </item>
     <item>
       <title>Snapzy</title>
       <link>https://snapzy.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/FirenzeLor/gemini-collector
 Commit: Add Gemini Collector to AI Tools (#2295)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Gemini Collector<br/>Description: Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업.<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Profisor</title>
-      <link>https://github.com/yefga/Profisor</link>
-      <guid isPermaLink="false">68b54c06902da7c3eef7c2abcf1d28625dcb5de7:Profisor</guid>
-      <pubDate>Sat, 11 Jul 2026 09:03:09 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Profisor
-Description: 메뉴 바에서 현재 프로젝트의 Xcode 프로비저닝 프로파일을 전환.
-Open Source: https://github.com/yefga/Profisor
-Commit: Add Profisor (#2289)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Profisor<br/>Description: 메뉴 바에서 현재 프로젝트의 Xcode 프로비저닝 프로파일을 전환.<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
     </item>
   </channel>
 </rss>

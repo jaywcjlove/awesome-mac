@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:47:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mole</title>
+      <link>https://mole.fit/</link>
+      <guid isPermaLink="false">73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0:Mole</guid>
+      <pubDate>Sun, 30 Aug 2026 08:47:48 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Mole
+Description: Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring.
+Website: https://mole.fit/
+Commit: Add Mole to Cleanup and Uninstall (#2663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Mole<br/>Description: Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring.<br/>Website: https://mole.fit/<br/>Commit: Add Mole to Cleanup and Uninstall (#2663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0]]></content:encoded>
+    </item>
     <item>
       <title>Snapzy</title>
       <link>https://snapzy.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ggbond268/MacTools
 Commit: Add MacTools to menu bar tools (#2313)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MacTools<br/>Description: Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities.<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDisplay</title>
-      <link>https://opendisplay.app</link>
-      <guid isPermaLink="false">3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d:OpenDisplay</guid>
-      <pubDate>Tue, 14 Jul 2026 02:25:55 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: OpenDisplay
-Description: Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.
-Website: https://opendisplay.app
-Commit: Add OpenDisplay to General Tools (#2308)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: OpenDisplay<br/>Description: Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
     </item>
   </channel>
 </rss>
