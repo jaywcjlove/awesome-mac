@@ -1195,6 +1195,7 @@ Awesome Mac
 * [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码 [![Open-Source Software][OSS Icon]](https://github.com/LeeeSe/MessAuto) ![Freeware][Freeware Icon]
 * [Metrune](https://treafree.github.io/Metrune/) - 本地优先的专注工作台，将任务、AI 编程、GitHub 活动、设备事件、徽章和报告汇入 MacBook 刘海。 ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 在一个客户端中使用多种 AI 模型与服务。
+* [Mochi](https://getmochi.app/) - 集剪贴板历史、代码片段、截图与录屏编辑于一体的启动器。
 * [Mos](https://mos.caldis.me/) - 让你的鼠标滚轮丝滑如触控板。[![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - 归档管理工具，支持归档文件的预览和提取。[![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - 在多台电脑之间切换 Magic Keyboard、Mouse 和 Trackpad。
