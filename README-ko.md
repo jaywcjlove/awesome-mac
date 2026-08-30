@@ -860,6 +860,7 @@ Awesome Mac
 
 ## 금융
 
+* [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - 이메일에서 PDF, OFD, XML 전자 인보이스를 수집하고 OCR, 분류 보관, 검토 가능한 Excel 요약을 제공하는 오픈 소스 인보이스 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/Invoice-Downloader) ![Freeware][Freeware Icon]
 * [Pulse](https://www.pulseticker.app/) - 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app/) - 갱신 알림을 제공하는 구독 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - 알림, 분석 및 iCloud 동기화를 통해 한 곳에서 구독, 갱신 및 지출을 추적.
