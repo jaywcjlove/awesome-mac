@@ -672,6 +672,7 @@ Awesome Mac
 * [Loadout](https://loadout.migsilva.dev) - 코딩 어시스턴트가 로드하는 항목을 확인하고 관리 — Claude Code의 스킬, 서브에이전트, 슬래시 명령, 플러그인, MCP 서버를 실제 사용 횟수와 함께 표시. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/loadout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Maestro](https://runmaestro.ai) - 명세 기반 워크플로로 여러 AI 코딩 에이전트를 협업시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
+* [Solair AI](https://solairai.app) - iPhone, iPad, Mac, Watch에서 동작하는 무료 온디바이스 ChatGPT 스타일 앱. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6758450823)
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 메모리와 자동화 기능을 갖춘 로컬 우선 개인 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
