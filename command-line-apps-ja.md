@@ -119,6 +119,7 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [claude-session-tint](https://github.com/dotcomjack/claude-session-tint) - Terminal.appの各ウィンドウをプロジェクトごとに色分けし、目を離している間にClaude Codeの応答が届いたウィンドウを点灯させ、フォーカスすると元に戻す。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/claude-session-tint) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
