@@ -552,6 +552,7 @@ Awesome Mac
 * [Screenize](https://syi0808.github.io/screenize/) - 支持自动缩放、光标效果和时间轴编辑的开源录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - 支持 AI 搜索的本地屏幕与麦克风录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
 * [Tight Studio](https://tight.studio/) - 支持智能缩放、字幕和 AI 配音的录屏工具。
+* [TuringShot](https://www.turingshot.site/) - macOS 实时屏幕效果工具，在演示、共享屏幕、授课或使用其他录制工具录屏时叠加实时放大、指针聚焦和屏幕标注。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6758536367?platform=mac)
 
 ### 其它工具
 
