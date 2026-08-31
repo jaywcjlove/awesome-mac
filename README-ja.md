@@ -1124,6 +1124,7 @@ Awesome Mac
 
 ## 教育
 
+* [LeafyApp](https://leafyapp.uk/) - ⌥A で画面上のどんな単語も、PDF や画像の中の文字まで調べ、検索できるローカルの単語帳に保存。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## ファイナンス

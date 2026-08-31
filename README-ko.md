@@ -855,6 +855,7 @@ Awesome Mac
 
 ## 교육
 
+* [LeafyApp](https://leafyapp.uk/) - ⌥A로 화면의 모든 단어를 PDF와 이미지 속 글자까지 찾아보고, 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 금융
