@@ -976,6 +976,7 @@ Awesome Mac
 * [Perian](http://perian.org/#download) - （**開発終了**）~~QuickTimeであらゆる一般的な形式を無料プラグインで再生~~。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Pythonで書かれたクロスプラットフォームの音楽タグ付けツール。 [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [MyMedia](https://github.com/photangralenphie/MyMedia) - ローカルの映画やテレビ番組ライブラリを表示・視聴。 [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]
+* [Picmal](https://picmal.app/) - 画像・動画・音声・PDFを完全オフラインで変換・圧縮。Finder、ショートカット、Raycastと連携。
 * [Playback](https://mafintosh.github.io/playback/) - 実験的なビデオプレイヤー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - Hype Machineの音楽を発見して聴く。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074?platform=mac)
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 多形式対応、歌詞表示、プレイリスト、キュー管理を備えたオフライン音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
