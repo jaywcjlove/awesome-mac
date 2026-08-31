@@ -923,6 +923,7 @@ Awesome Mac
 * [SaneClip](https://saneclip.com) - 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.
 * [uPaste](https://okaapps.com/product/1503649026) - 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
+* [Zmina](https://zmina.app) - 붙여넣을 앱에 따라 알맞은 동작을 제안하는 클립보드 관리자.
 
 ### 메뉴 바 도구
 
