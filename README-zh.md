@@ -194,6 +194,7 @@ Awesome Mac
 * [Neovim](https://github.com/neovim/neovim) - 专注于可扩展性和可用性的 Vim 分支。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
 * [Cate](https://cate.cero-ai.com) - 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。 [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
+* [Caxton](https://caxton.app) - 面向超大文件的原生文本编辑器 — 内存映射架构，瞬间打开数 GB 的日志和 CSV 文件。
 * [CodeEdit](https://www.codeedit.app/) - 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Cursor](https://www.cursor.com/) - 支持自动补全、聊天和智能体能力的 AI 代码编辑器。 ![Freeware][Freeware Icon]
