@@ -771,6 +771,7 @@ Awesome Mac
 * [mpv](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Natron](https://natron.fr/) - 开源节点式视频合成工具。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
+* [NotchLive](https://notchlive.app/zh/download) - 无需会议机器人的私密实时字幕与翻译工具，支持设备端转写。 ![Freeware][Freeware Icon]
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上最好的媒体播放器，支持几乎所有格式。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?pt=119209922&ct=newhomepage)
 * [Popcorn Time](https://popcorn-time.site/) - 用于浏览和观看种子电影的流媒体工具。[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [PotPlayer X](https://zh.okaapps.com/product/1612400976#) - omi出品，音视频播放器，界面简洁，功能齐全 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
