@@ -946,6 +946,7 @@ Awesome Mac
 * [Cog](http://cogx.org/) - 無料のオープンソースオーディオプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622?platform=mac)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 無料のクロスプラットフォームビデオ編集、カラーグレーディング、ビデオエフェクト、オーディオ編集ソフトウェア。
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 幅広い音声・動画形式に対応するメディアプレーヤー。
+* [eonik](https://www.eonik.ai/) - AI生成の映像をブランドに沿った完成度の高い広告に仕上げる、オンデバイス解析対応のデスクトップ動画エディタ。 ![Freeware][Freeware Icon]
 * [Fader](https://github.com/pantafive/fader) - アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。 [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - マルチデバイス出力と10バンドEQに対応したアプリ別音量コントロール。 [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
 * [FreeTube](https://freetubeapp.io/) - プライバシーを重視して構築されたオープンソースのデスクトップYouTubeクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
