@@ -1398,6 +1398,7 @@ Awesome Mac
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - 让电池显示更有趣 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 替代咖啡因，更好地支持Mac中的暗模式。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
+* [Light Stats](https://evilirving.github.io/light-stats/) - 原生菜单栏系统监视器，用 0-100 健康分衡量实时压力，可选 AI 用量、代理、Finder 与窗口工具。 [![Open-Source Software][OSS Icon]](https://github.com/EvilIrving/light-stats) ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - 一个小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新。 [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/Latest) ![Freeware][Freeware Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS自定义光标主题工具。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
