@@ -1388,6 +1388,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [2Do](https://www.2doapp.com/) - Nice todo app.
 * [Day-O 2](https://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar. ![Freeware][Freeware Icon]
+* [DueFlow](https://ustinian5.github.io/DueFlow/) - Open-source, local-first deadline planner for turning scattered notices into actionable schedules. [![Open-Source Software][OSS Icon]](https://github.com/Ustinian5/DueFlow) ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 * [Focus](https://meaningful-things.com/focus) - Beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - A simple, flexible Focus Timer. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
