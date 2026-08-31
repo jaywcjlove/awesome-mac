@@ -608,6 +608,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
 * [MongoDB](https://www.mongodb.com) - Scalable, flexible document database with querying and indexing. [![OSS][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
+* [Mongrel](https://www.visorcraft.com/) - Database systems workbench for 30+ engines with terminals, SFTP, Docker, Kubernetes, and an API client.
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Cost-effective database design tool for high-quality data models.
 * [neo4j](https://neo4j.com) - The leading graph database! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/neo4j/neo4j)
