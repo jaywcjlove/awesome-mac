@@ -798,6 +798,7 @@ Awesome Mac
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 최적화된 전송 엔진을 갖춘 경량 다운로드 관리자. ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Transmission](https://www.transmissionbt.com/) - 빠르고 쉽고 무료인 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [WebVideoHarbor](https://phpfrank.github.io/web-video-harbor/) - macOS에서 웹페이지가 직접 제공하는 MP4/WebM 미디어와 암호화되지 않은 HLS 스트림을 저장하는 오픈 소스 Chrome 확장 프로그램 및 로컬 도우미. [![Open-Source Software][OSS Icon]](https://github.com/PHPfrank/web-video-harbor) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - 주요 웹사이트에서 동영상과 오디오를 내려받는 미디어 다운로드 도구. ![Freeware][Freeware Icon]
 
 
