@@ -1134,6 +1134,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SubManager](https://submanager.app) - Subscription tracker with renewal reminders. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
 * [StockDock](https://github.com/simonsruggi/StockDock) - Menu bar app for real-time stocks, ETFs, crypto and portfolio P&L. Privacy-first, no account, multi-currency. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
+* [Zielzeit](https://mannafee.github.io/zielzeit-scalable-capital/) - Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI. English and German. [![Open-Source Software][OSS Icon]](https://github.com/Mannafee/zielzeit-scalable-capital) ![Freeware][Freeware Icon]
 
 ## Encryption
 
