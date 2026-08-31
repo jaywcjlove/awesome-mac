@@ -734,6 +734,7 @@ Awesome Mac
 * [Airmail](https://airmailapp.com/) - Mac용 빠른 메일 클라이언트.
 * [Canary Mail](https://canarymail.io/) - PGP 및 AI를 지원하는 안전한 이메일 앱. ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
+* [MailTwin](https://www.mailtwin.ai/ko/) - Apple Mail 안에서 답장을 작성. 요점만 입력하면 계정별로 로컬에서 학습한 문체로 완성된 메일을 작성해 줌. 여덟 개 제공업체 중 선택해 본인 API 키를 사용.
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
