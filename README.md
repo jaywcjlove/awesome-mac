@@ -1181,6 +1181,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Mullvad VPN](https://mullvad.net) - Privacy-focused VPN service with anonymous accounts and flat-rate access. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
+* [Noctis](https://noctis.c0nn3ct.info/) - Browser-only proxy: routes Chrome through VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard using a local sing-box, Xray or mihomo core. ![Freeware][Freeware Icon]
 * [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
 * [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
