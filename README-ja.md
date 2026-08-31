@@ -1649,6 +1649,7 @@ Awesome Mac
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Markdownファイル用のクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Mermaid や KaTeX にも対応した Markdown 用 Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - レンダリング済み Markdown を表示する Quick Look プラグイン。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
+* [Spyglass](https://magicelklabs.com/spyglass/) - Google Drive のスタブファイル（.gdoc、.gsheet、.gslides など）を JSON ではなく実際の文書として表示する Quick Look 拡張。 ![Native App][Native Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` の中身とメタデータを確認できる Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 開発者に便利な[クイックルック](https://en.wikipedia.org/wiki/Quick_Look)プラグインのリスト
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - ソースコードファイルをハイライト表示するクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
