@@ -1168,6 +1168,7 @@ Awesome Mac
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
+* [Sundown](https://trysundown.com) - 将 Mac 屏幕调得比夜览（Night Shift）更暖更暗（低至 500K），按日落到日出的时间表自动运行。
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 通过菜单栏或快捷键快速切换灰度显示。 [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 在菜单栏快速调用功能键。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - 按项目整理应用、链接和文件的工作台。 [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
