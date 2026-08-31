@@ -511,6 +511,7 @@ Awesome Mac
 
 ### ネットワーク分析
 
+* [Breakdown](https://breakdown.live/) - メニューバーから継続的に証拠を記録し、接続問題が Wi-Fi、ISP 経路、アプリのどこで始まったかを示します。標準的な利用は無料です。
 * [Charles](https://www.charlesproxy.com/) - HTTPおよびHTTPSトラフィックを表示するHTTPプロキシ/モニター。
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
