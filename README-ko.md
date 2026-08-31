@@ -601,6 +601,7 @@ Awesome Mac
 ### 화면 녹화
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - 전문적인 인코딩을 지원하는 무료 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
+* [Cadre](https://cadre.cam/) - Apple Silicon Mac용 화면 녹화 및 타임라인 동영상 편집 도구로, 시네마틱 줌, 온디바이스 자막, MCP 에이전트 제어를 지원합니다.
 * [Capty](https://capty.app/) - 편집과 주석 기능을 갖춘 화면 캡처 및 녹화 도구.
 * [Capso](https://github.com/lzhgus/Capso) - 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - GIF 녹화 및 공유.

@@ -748,6 +748,7 @@ Awesome Mac
 ### 画面録画
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - プロフェッショナルなエンコーディングサポートを備えた無料のオープンソーススクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
+* [Cadre](https://cadre.cam/) - AppleシリコンMac向けの画面録画・タイムライン動画編集ツールで、シネマティックズーム、オンデバイス字幕、MCPエージェント操作に対応。
 * [Capty](https://capty.app/) - 編集機能と注釈機能を備えた画面キャプチャ・録画ツール。
 * [Capso](https://github.com/lzhgus/Capso) - 注釈、OCR、Webcamオーバーレイに対応したオープンソースのスクリーンショット・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - GIF録画と共有。
