@@ -1166,6 +1166,7 @@ Awesome Mac
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
+* [Filemorph](https://filemorph.app) - 完全在本机转换、压缩和编辑 80 多种文件格式（图片、PDF、视频、音频、文档、压缩包），绝不上传任何文件。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/filemorph-convert-edit/id6761300676?platform=mac)
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/) - 自动调整您的电脑屏幕，以匹配亮度。![Freeware][Freeware Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 通过菜单栏或快捷键快速切换灰度显示。 [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
