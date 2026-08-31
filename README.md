@@ -1205,6 +1205,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Clipboard Tools
 
+- [BetterClip](https://github.com/yarin-mag/BetterClip) - Native menu-bar clipboard manager with full-text search history and a snippet library. Global ⌘⇧V hotkey, auto-paste, and folder-organized snippets. [![Open-Source Software][OSS Icon]](https://github.com/yarin-mag/BetterClip) ![Freeware][Freeware Icon]
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
 * [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/clipbara/id6803537696?platform=mac)
