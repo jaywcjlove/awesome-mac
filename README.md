@@ -411,6 +411,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CC-Switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, and AI coding agents. [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - Web development tool for compiling and auto-refreshing.
 * [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
+* [Codex Skins](https://codexskins.org) - One-click wallpaper themes for the OpenAI Codex desktop app; reversible CDP theming, macOS & Windows. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [CoilPad](https://coilpad.com) - Native macOS Python scratchpad designed for instant prototyping and interactive learning. ![Freeware][Freeware Icon]
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [Swifka](https://github.com/Ender-Wang/Swifka) - Read-only Kafka monitor for safely inspecting topics, messages, and consumer state. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
