@@ -236,6 +236,7 @@ Awesome Mac
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
 * [Imark](https://github.com/migsilva89/imark) - コメントをHTMLコメントとしてドキュメント自体に保存するオープンソースのMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [MacDown](https://macdown.uranusjr.com/) - ライブプレビューおよびHTML/PDF出力に対応した、macOS向けのオープンソースMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
+* [Markdown Buddy](https://markdownbuddy.inawa.app/) - Finder でのレンダリング済みクイックルック表示と Xcode ソースエディタ拡張に対応した、ネイティブの Markdown エディタ。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6759007372?platform=mac) ![Native App][Native Icon]
 * [Marked 2](http://marked2app.com/) - すべてのライターのための洗練された強力なツールセットを備えたMarkdownプレビュー。
 * [MarkText](https://github.com/marktext/marktext) - macOS、Windows、Linuxで動作する次世代Markdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。 ![Freeware][Freeware Icon]
