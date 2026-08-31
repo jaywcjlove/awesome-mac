@@ -443,6 +443,7 @@ Awesome Mac
 * [Regex](https://motionobj.com/regex/) - 간단한 정규 표현식 테스트 도구.
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 정규 표현식 개발 도구.
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - 참조 가이드가 포함된 테스트 도구.
+* [RegexPilot](https://regexpilot.com/) - 21개 실제 언어 엔진에서 패턴을 실행하는 비주얼 정규식 빌더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/regexpilot/id6764146125?platform=mac)
 
 ### API 개발 및 분석
 
