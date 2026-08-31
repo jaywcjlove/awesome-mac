@@ -1574,6 +1574,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snap](https://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
+* [Fengge Pet](https://github.com/shaozhengmao/fengge-pet) - A pixel-art macOS desktop pet "Fengge" with 9 animations, click-to-quote, auto-start on boot, and customizable lines. [![Open-Source Software][OSS Icon]](https://github.com/shaozhengmao/fengge-pet) ![Freeware][Freeware Icon]
 
 ### System Related Tools
 
@@ -1620,6 +1621,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+* [WorkBuddy Dream Theme](https://github.com/shaozhengmao/workbuddy-dream-theme) - A macOS skin/theme tool for WorkBuddy with custom wallpaper and an in-app theme menu; zero-intrusion, no changes to the official app. [![Open-Source Software][OSS Icon]](https://github.com/shaozhengmao/workbuddy-dream-theme) ![Freeware][Freeware Icon]
 
 ## Gaming Software
 

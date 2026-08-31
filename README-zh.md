@@ -1417,6 +1417,8 @@ Awesome Mac
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
+* [WorkBuddy Dream Theme](https://github.com/shaozhengmao/workbuddy-dream-theme) - macOS 版 WorkBuddy 换肤工具，支持自定义壁纸与页面内主题菜单，零侵入、不修改官方安装包。 [![Open-Source Software][OSS Icon]](https://github.com/shaozhengmao/workbuddy-dream-theme) ![Freeware][Freeware Icon]
+* [Fengge Pet（峰哥桌面宠物）](https://github.com/shaozhengmao/fengge-pet) - 像素风 macOS 桌面宠物「二次元峰哥」，9 种动画、点击冒经典语录、开机自启、台词可自定义。 [![Open-Source Software][OSS Icon]](https://github.com/shaozhengmao/fengge-pet) ![Freeware][Freeware Icon]
 
 ### 窗口管理
 
