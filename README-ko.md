@@ -963,6 +963,7 @@ Awesome Mac
 * [Vorssaint](https://vorssaint.com) - 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [Performance Monitor](https://perfmon.knhome.nl) - 가벼운 메뉴 막대 시스템 모니터. CPU, 메모리, 네트워크, 디스크, GPU, 센서별 온도, SSD 마모도, 배터리 상태를 표시합니다. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/inequitas/performancemonitor) ![Freeware][Freeware Icon]
 
 ### 정리 및 제거
 
