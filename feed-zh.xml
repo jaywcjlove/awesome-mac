@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:47:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChessCafe</title>
+      <link>https://getapps.cafe/app/chesscafe</link>
+      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
+      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: ChessCafe
+Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]
+Website: https://getapps.cafe/app/chesscafe
+Commit: Add ChessCafe to Gaming Software (#2700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: ChessCafe<br/>Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
+    </item>
     <item>
       <title>LocalScribe</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -693,20 +707,6 @@ Website: https://tactile.masn.studio/
 Commit: Add Tactile to the zh/ja/ko list. #2298
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Tactile<br/>Description: 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。<br/>Website: https://tactile.masn.studio/<br/>Commit: Add Tactile to the zh/ja/ko list. #2298<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6]]></content:encoded>
-    </item>
-    <item>
-      <title>Presspeech</title>
-      <link>https://github.com/rcourtman/presspeech</link>
-      <guid isPermaLink="false">1a8e1aa613e808a6ac97d1aa478d57a698af7d2a:Presspeech</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:08 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Presspeech
-Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。
-Open Source: https://github.com/rcourtman/presspeech
-Commit: Update Presspeech listing (#2290)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Presspeech<br/>Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
     </item>
   </channel>
 </rss>

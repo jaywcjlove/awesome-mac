@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:47:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChessCafe</title>
+      <link>https://getapps.cafe/app/chesscafe</link>
+      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
+      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: ChessCafe
+Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。
+Website: https://getapps.cafe/app/chesscafe
+Commit: Add ChessCafe to Gaming Software (#2700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: ChessCafe<br/>Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
+    </item>
     <item>
       <title>LocalScribe</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/rcourtman/presspeech
 Commit: Update Presspeech listing (#2290)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Presspeech<br/>Description: Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Knopo</title>
-      <link>https://github.com/alkalim/Knopo</link>
-      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
-      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: Knopo
-Description: ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。
-Open Source: https://github.com/alkalim/Knopo
-Commit: Add Knopo (#2291)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Knopo<br/>Description: ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
     </item>
   </channel>
 </rss>

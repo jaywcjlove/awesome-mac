@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:47:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ChessCafe</title>
+      <link>https://getapps.cafe/app/chesscafe</link>
+      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
+      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: ChessCafe
+Description: Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.
+Website: https://getapps.cafe/app/chesscafe
+Commit: Add ChessCafe to Gaming Software (#2700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: ChessCafe<br/>Description: Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
+    </item>
     <item>
       <title>LocalScribe</title>
       <link>https://github.com/maddylaneeee/ShengJi</link>
@@ -693,20 +707,6 @@ Website: https://hukdoesn.github.io/Nimclip/
 Commit: Add Nimclip to Clipboard Tools (#2328)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Nimclip<br/>Description: Local-first clipboard history manager with search, tags, and image support.<br/>Website: https://hukdoesn.github.io/Nimclip/<br/>Commit: Add Nimclip to Clipboard Tools (#2328)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Teams AI</title>
-      <link>https://agentteams.live/</link>
-      <guid isPermaLink="false">46652674d802cb0bd24ab7eb77f4514754286c0c:Agent Teams AI</guid>
-      <pubDate>Wed, 15 Jul 2026 02:28:26 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Agent Teams AI
-Description: Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.
-Website: https://agentteams.live/
-Commit: Add Agent Teams AI (#2322)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Agent Teams AI<br/>Description: Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
     </item>
   </channel>
 </rss>
