@@ -978,6 +978,7 @@ Awesome Mac
 * [FOLX](http://mac.eltima.com/download-manager.html) - 一个 Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 用于链接、文件和网盘内容的下载管理器。![Freeware][Freeware Icon]
+* [MacYT](https://sameerbajaj.com/tools/macyt) - 基于 SwiftUI 的原生 macOS yt-dlp 前端，支持从任意 URL 下载音视频、格式选择及 SponsorBlock 跳过片段。 [![Open-Source Software][OSS Icon]](https://github.com/sameerbajaj/MacYT) ![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - 支持 HTTP、FTP、BT、磁力链等协议的下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 具备优化传输引擎的轻量下载管理器。![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
