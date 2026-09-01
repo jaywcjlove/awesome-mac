@@ -357,6 +357,7 @@ Awesome Mac
 * [TabType](https://github.com/nilava/TabType) - ローカルLLMによる入力補完を行う無料オープンソースのAIオートコンプリートツール。完全オンデバイスで動作。 [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 * [Tad](https://www.tadviewer.com) - CSVファイルなどの表形式データを表示・分析するアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 自動更新PDFとLaTeXコマンドの自動補完を備えたMac用の優れたLaTeXエディタ。
+* [Total Redact](https://ozvel.com/totalredact/) - 機密情報をファイルから完全に削除する、完全オフラインの本格的なPDF墨消しツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/total-redact/id6764473248?platform=mac)
 * [UPDF](https://updf.com/) - PDFの読み取り、注釈付け、編集のための無料PDFエディタ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
 * [Zotero](https://www.zotero.org/) - 研究資料の収集、整理、注釈付け、引用、共有のための無料ツール。 [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 * [Collate](https://collate.one/get-started) - AIでPDFを収集、要約、クエリするための無料ツール。完全オフラインで無料。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913?platform=mac) ![Freeware][Freeware Icon]
