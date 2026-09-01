@@ -1523,6 +1523,7 @@ Awesome Mac
 ### パスワード管理
 
 * [1Password](https://1password.com/) - クロスプラットフォームのパスワード管理ツール。
+* [Authier](https://www.authier.pm/) - ブラウザとWeb向けのオープンソースパスワードマネージャーで、まだ開発初期段階にあり、クライアント側で暗号化したデータの同期、TOTP、自動入力に対応しているが、第三者による独立監査は未実施。 [![Open-Source Software][OSS Icon]](https://github.com/authier-pm/authier) ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Mac OS、iOS、ブラウザ対応のオープンソースパスワード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - あなたにふさわしいパスワードマネージャー。 ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - 受賞歴のあるデザインを持つクラウドベースのパスワードマネージャー。

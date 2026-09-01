@@ -1086,6 +1086,7 @@ Awesome Mac
 ### 비밀번호 관리
 
 * [1Password](https://1password.com/) - 세계에서 가장 인기 있는 비밀번호 관리자.
+* [Authier](https://www.authier.pm/) - 브라우저와 웹에서 사용할 수 있는 초기 개발 단계의 오픈 소스 비밀번호 관리자로, 클라이언트 측에서 암호화한 데이터를 동기화하고 TOTP 및 자동 완성을 지원하지만 아직 독립적인 감사를 받지는 않았습니다. [![Open-Source Software][OSS Icon]](https://github.com/authier-pm/authier) ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com/) - 안전한 오픈 소스 비밀번호 관리 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden/desktop) ![Freeware][Freeware Icon]
 * [Strongbox](https://strongboxsafe.com/) - KeePass와 Password Safe를 지원하는 비밀번호 관리자. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?platform=mac)
 

@@ -1529,6 +1529,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Password Management
 
 * [1Password](https://1password.com/) - Cross-platform password management tool.
+* [Authier](https://www.authier.pm/) - Early-stage open-source password manager for browsers and the web with client-side encrypted sync, TOTP, and autofill; not independently audited. [![Open-Source Software][OSS Icon]](https://github.com/authier-pm/authier) ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
