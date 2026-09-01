@@ -1411,6 +1411,7 @@ Awesome Mac
 * [SiliconScope](https://siliconscope.calidalab.ai) - 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。 [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 合盖后也能保持唤醒，支持自动关闭计时和最低电量保护。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 自定义鼠标按键、滚轮和指针速度的工具。
+* [Super ADB Manager](https://adb.apiprime.com) - 用于通过 adb 管理 Android 设备的原生 macOS 应用，内置 scrcpy 投屏、应用/APK 与文件管理、无线 ADB 和 logcat。 ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [Raycast](https://raycast.com) - 集启动、扩展、片段、笔记和 AI 于一体的命令工具。
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。 [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
