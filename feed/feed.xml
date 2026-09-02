@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:48:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tomatino</title>
+      <link>https://tomatino.app</link>
+      <guid isPermaLink="false">214d12a83606e7a444e13d8e09d109b2320d98a7:Tomatino</guid>
+      <pubDate>Wed, 02 Sep 2026 01:48:36 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Tomatino
+Description: Menu bar Pomodoro timer that switches your Focus mode and your music with each session.
+Website: https://tomatino.app
+Commit: Add Tomatino to Menu Bar Tools (#2684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tomatino<br/>Description: Menu bar Pomodoro timer that switches your Focus mode and your music with each session.<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
+    </item>
     <item>
       <title>AI Novel Writer</title>
       <link>https://github.com/EthanYoQ/AI-Novel-Writer</link>
@@ -693,20 +707,6 @@ Website: https://strokemouse.com
 Commit: Add StrokeMouse (#2348)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: StrokeMouse<br/>Description: Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
-    </item>
-    <item>
-      <title>LokalBot</title>
-      <link>https://www.lokalbot.com/</link>
-      <guid isPermaLink="false">bbb627863dad9c5e4bd947cea7e7aa7d0ad73077:LokalBot</guid>
-      <pubDate>Fri, 17 Jul 2026 06:18:18 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: LokalBot
-Description: On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.
-Website: https://www.lokalbot.com/
-Commit: Add LokalBot to AI Tools (#2340)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: LokalBot<br/>Description: On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.<br/>Website: https://www.lokalbot.com/<br/>Commit: Add LokalBot to AI Tools (#2340)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077]]></content:encoded>
     </item>
   </channel>
 </rss>
