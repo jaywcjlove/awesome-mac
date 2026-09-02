@@ -1278,6 +1278,7 @@ Awesome Mac
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 显示实时充电状态和能耗信息的菜单栏电池监控工具。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
+* [claude-buddy](https://github.com/norbertsuski/claude-buddy) - 始终置顶的悬浮小组件，实时显示本机每个 Claude Code 会话的状态，支持逐会话详情、刘海模式和五小时用量窗口。 [![Open-Source Software][OSS Icon]](https://github.com/norbertsuski/claude-buddy) ![Freeware][Freeware Icon]
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 将 MacBook 刘海打造成动态岛风格的 Live Activity，实时显示 Claude Code 与 Codex CLI 的速率限制和花费。所有数据本地计算，无任何遥测。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - 带隐藏区域和自动化能力的隐私优先菜单栏管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 用媒体键控制网页播放器和部分应用播放。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
