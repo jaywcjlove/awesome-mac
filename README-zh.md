@@ -1144,6 +1144,7 @@ Awesome Mac
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - Mac 版 12306 订票/检票助手。[![Open-Source Software][OSS Icon]](https://github.com/fancymax/12306ForMac) ![Freeware][Freeware Icon]
 * [1440 Minutes Left Today](https://1440app.com/) - 在菜单栏显示今天还剩多少分钟。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/1440/id1483764819?platform=mac)
 * [360压缩](https://yasuo.360.cn/mac/index.html) - 简单易用，免费无广告的压缩工具。![Freeware][Freeware Icon]
+* [Abendrot](https://abendrot.app) - 免费开源的 macOS 菜单栏应用，在当地日落时温暖每一块显示器。 [![Open-Source Software][OSS Icon]](https://github.com/matthewrball/abendrot) ![Freeware][Freeware Icon]
 * [Actions](https://sindresorhus.com/actions) - 为快捷指令应用提供了许多实用操作。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
 * [AI Actions](https://sindresorhus.com/ai-actions) - 快捷指令应用的AI操作。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465250302)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。

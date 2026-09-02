@@ -1558,6 +1558,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Quality of Life Improvements
 
+* [Abendrot](https://abendrot.app) - Free open-source macOS menu bar app that warms every display around local sunset. [![Open-Source Software][OSS Icon]](https://github.com/matthewrball/abendrot) ![Freeware][Freeware Icon]
 * [Actions](https://sindresorhus.com/actions) - Provides many useful actions for the Shortcuts app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1586435171?platform=mac)
 * [AI Actions](https://sindresorhus.com/ai-actions) - AI actions for the Shortcuts app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465250302)
 * [Crisp](https://didriksg.github.io/Crisp/) - Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
