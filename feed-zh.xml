@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:49:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Whisk</title>
+      <link>https://github.com/nathan-poncet/whisk</link>
+      <guid isPermaLink="false">010f11a930472cfea46fd2bfac3abcdd23241cc7:Whisk</guid>
+      <pubDate>Wed, 02 Sep 2026 00:49:19 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Whisk
+Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。
+Open Source: https://github.com/nathan-poncet/whisk
+Commit: Add Whisk (#2729)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Whisk<br/>Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
+    </item>
     <item>
       <title>Blink</title>
       <link>https://github.com/megootronic/Blink</link>
@@ -693,20 +707,6 @@ Website: https://agentteams.live/
 Commit: Add Agent Teams AI (#2322)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Agent Teams AI<br/>Description: 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
-    </item>
-    <item>
-      <title>MacTools</title>
-      <link>https://github.com/ggbond268/MacTools</link>
-      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
-      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: MacTools
-Description: 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。
-Open Source: https://github.com/ggbond268/MacTools
-Commit: Add MacTools to menu bar tools (#2313)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MacTools<br/>Description: 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
     </item>
   </channel>
 </rss>
