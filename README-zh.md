@@ -1428,6 +1428,7 @@ Awesome Mac
 * [Contexts](https://contexts.co/)- 多显示器环境下更高效切换应用和窗口的工具。
 * [Dimsum](https://github.com/nshi/dimsum) - 通过淡化非活动窗口来突出当前焦点窗口的极简菜单栏小工具。 [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
 * [Dockit](https://dockit-docs.pages.dev/) - 一款可以将任何窗口停靠到屏幕边缘的应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
+* [Docks+](https://docksplus.app) - 在 Mac 屏幕任意边缘添加多个 Dock 风格的工具栏，支持文件夹项目和运行中应用指示。
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - 一个轻量级的 macOS 窗口边框系统。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
