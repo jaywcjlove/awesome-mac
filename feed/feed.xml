@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:49:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Whisk</title>
+      <link>https://github.com/nathan-poncet/whisk</link>
+      <guid isPermaLink="false">010f11a930472cfea46fd2bfac3abcdd23241cc7:Whisk</guid>
+      <pubDate>Wed, 02 Sep 2026 00:49:19 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Whisk
+Description: Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.
+Open Source: https://github.com/nathan-poncet/whisk
+Commit: Add Whisk (#2729)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Whisk<br/>Description: Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
+    </item>
     <item>
       <title>Blink</title>
       <link>https://github.com/megootronic/Blink</link>
@@ -693,20 +707,6 @@ Website: https://turaai.net/
 Commit: Add Tura to AI tools (#2333)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Tura<br/>Description: Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
-    </item>
-    <item>
-      <title>TabType</title>
-      <link>https://github.com/nilava/TabType</link>
-      <guid isPermaLink="false">8b5b02e1fc9960348e88e2e327dada942434540e:TabType</guid>
-      <pubDate>Fri, 17 Jul 2026 01:43:27 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: TabType
-Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.
-Open Source: https://github.com/nilava/TabType
-Commit: Add TabType to list of Mac applications (#2339)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: TabType<br/>Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to list of Mac applications (#2339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e]]></content:encoded>
     </item>
   </channel>
 </rss>
