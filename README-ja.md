@@ -1032,6 +1032,7 @@ Awesome Mac
 * [qBittorrent](https://www.qbittorrent.org/) - µTorrentに代わるオープンソースソフトウェアを提供するプロジェクト。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - あらゆるリンクに対応する簡単なダウンロードマネージャー。
 * [Swads](https://swads.app/) - Synology Download Stationクライアント。モダンでネイティブ、直感的に再設計。
+* [TorrentMilk](https://getapps.cafe/app/torrentmilk) - ダウンロード完了を待たずに再生できるストリーミング対応トレントクライアント。 ![Freeware][Freeware Icon]
 * [Transmission](https://www.transmissionbt.com/) - 高速で簡単、無料のBitTorrentクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - 主要サイトから動画や音声を保存できるメディアダウンローダー。 ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Webからメディアコンテンツ（ビデオ、オーディオ、画像）をダウンロードするための小さなコマンドラインユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
