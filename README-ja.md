@@ -1130,6 +1130,7 @@ Awesome Mac
 
 ## ファイナンス
 
+* [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - メールからPDF・OFD・XMLの請求書を収集し、OCR、分類保存、確認可能なExcel集計を行うオープンソースの請求書整理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/Invoice-Downloader) ![Freeware][Freeware Icon]
 * [Pulse](https://www.pulseticker.app/) - 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - 更新通知に対応したサブスクリプション管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - リマインダー、分析、iCloud同期でサブスクリプション、更新、支出を1か所で追跡。
