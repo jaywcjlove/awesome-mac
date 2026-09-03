@@ -1332,6 +1332,7 @@ Awesome Mac
 * [2Do](http://www.2doapp.com/) - 比较好的 TODO 应用程序。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
+* [Focuh](https://www.focuh.com) - 免费的 ADHD 待办与周计划工具，支持系统级网站屏蔽。 ![Freeware][Freeware Icon]
 * [Focus](https://masterbuilders.io) - 一个漂亮的番茄工作法为基础的时间管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/focus-productivity-timer/id777233759?platform=mac)
 * [Microsoft To-Do](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app) - 任务管理工具微软出品。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?platform=mac)
 * [Nozbe](https://nozbe.com) - 面向个人与团队的 GTD 任务管理器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/nozbe-tasks-projects-team/id508957583?platform=mac)
