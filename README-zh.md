@@ -950,6 +950,7 @@ Awesome Mac
 * [TabType](https://github.com/nilava/TabType) - 免费开源的 AI 输入自动补全工具，基于本地大模型在输入时提供幽灵文本建议，完全本地运行。 [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 * [SwifDoo PDF](https://www.swifdoo.com/) - 最好的 PDF 编辑器/转换器，只需几个简单的步骤即可帮助您转换、编辑、压缩或密码保护 PDF 文件
 * [texifier](https://www.texifier.com/) - Mac 下非常棒的 LaTeX 编辑器。 支持自动编译预览，自动补全等。
+* [Unbury](https://unbury.migsilva.dev) - 按含义而非标题搜索浏览器书签，使用你自己的 OpenRouter 或 OpenAI 密钥。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/unbury) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 软件打包工具
 
