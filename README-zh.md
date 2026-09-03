@@ -251,7 +251,7 @@ Awesome Mac
 * [Configs](https://github.com/iHongRen/configEditor) - 配置文件管理器，用于快速查看、编辑和管理配置文件。 [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - 一个适用于 macOS 的贝塞尔曲线生成器。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 * [DevHub](https://wangchujiang.com/DevHub/) - 一个功能丰富的离线应用程序，精心制作，以支持开发人员在他们的日常任务。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
-* [DevProjex](https://github.com/Avazbek22/DevProjex) - 用于构建结构化项目上下文的跨平台 GUI 和 CLI，支持目录树、文件内容、Token 统计、Smart Ignore、预览和多格式导出。 [![Open-Source Software][OSS Icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][Freeware Icon]
+* [DevProjex](https://github.com/Avazbek22/DevProjex) - 面向 macOS Intel 和 Apple Silicon 的跨平台代码库上下文应用，提供 GUI、TUI、CLI、实时预览、脱敏、压缩和内置只读 MCP 服务。 [![Open-Source Software][OSS Icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][Freeware Icon]
 * [DevToys](https://github.com/DevToys-app/DevToys) - 开发者的瑞士军刀——一款帮助开发者处理日常任务的桌面应用。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/DevToys-app/DevToys)
 * [DevUtils.app](https://devutils.com/) - 用于格式化、转换和调试常见数据的开发者工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
 * [Dash](https://kapeli.com/dash) - 强大到你无法想象的 API 离线文档软件。![Freeware][Freeware Icon]
