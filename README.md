@@ -1335,6 +1335,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### File Organization Tools
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [Archi](https://gg333.github.io/archi/) - Free, private archive manager for browsing, creating, testing, editing, and safely extracting ZIP, 7z, RAR, and other formats. [![Open-Source Software][OSS Icon]](https://github.com/gg333/archi) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [eZip](https://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
