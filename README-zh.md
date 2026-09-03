@@ -441,6 +441,7 @@ Awesome Mac
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 光栅图像设计工具，可以替代 Adobe PS 图象处理软件。
 * [Alchemy](http://al.chemy.org/) - 开源的绘图工具软件，用于素描、会话以及一种新的绘图方式。[![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
 * [Amadine](https://amadine.com) - 一款矢量绘图应用程序，将图形设计师所需的一切包装在一个整洁直观的界面中。
+* [ArtDeck](https://getartdeck.com/) - 视觉参考板，配备用于研究色彩、明度、构图和动态的工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/artdeck/id6764851724?platform=mac)
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 生成各种特效字体。
 * [Blender](https://www.blender.org/) - 全功能可扩展的跨平台 3D 内容套件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - 一个完整的开源颜色处理工具！ [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
