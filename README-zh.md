@@ -865,6 +865,7 @@ Awesome Mac
 * [Joplin](https://joplinapp.org/) - 跨平台开源记事本，支持 Markdown 和待办事项管理。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [MacDown](https://macdown.uranusjr.com/) - macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - Markdown 文本预览编辑，为所有作家提供一套优雅而强大的工具。
+* [Markout](https://github.com/maxmilian/markout) - 面向 Apple Silicon 的 macOS 原生 Markdown 编辑器，分栏实时预览，支持 KaTeX 数学公式与 Mermaid 图表——完全离线渲染，可导出 HTML/PDF。 [![Open-Source Software][OSS Icon]](https://github.com/maxmilian/markout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MarkText](https://marktext.app/) - 简单而优雅的 Markdown 编辑器，专注于速度和可用性。 [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - 适用于 macOS 的 Markdown 查看器和编辑器，支持 AI 辅助编辑。 ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
