@@ -660,6 +660,7 @@ Awesome Mac
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code용 메뉴 막대 블록 피커 및 세션 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 여러 LLM 어시스턴트를 지원하는 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/CherryHQ/cherry-studio) ![Freeware][Freeware Icon]
 * [Chatbox](https://chatboxai.app) - 여러 AI 모델을 지원하는 사용자 친화적 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chatboxai/chatbox) ![Freeware][Freeware Icon]
+* [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) - 터미널 명령이나 설정 파일 편집 없이 여러 Codex 계정을 전환할 수 있는 네이티브 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/liuzhao1225/codex-account-switcher) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
