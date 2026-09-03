@@ -1552,6 +1552,7 @@ Awesome Mac
 * [RClick](https://github.com/wflixu/RClick) - macOS Finderのコンテキストメニューに新しい機能を追加。 [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 選択したファイルやフォルダを指定アプリですばやく開く Finder 拡張。
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome風のFinder代替。
+* [Tr4wl](https://tr4wl.com/) - Spotlight がインデックスしないファイルまで名前で検索するツール。ドットファイル、キャッシュ、ビルド成果物、アプリバンドルの中身に対応。 ![Native App][Native Icon]
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Mac Finderにタブ機能と切り取り機能を追加。 ![Freeware][Freeware Icon]
 
 ### 生活の質の向上
