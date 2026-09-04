@@ -1249,7 +1249,7 @@ Awesome Mac
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
-* [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) - 在任意设备间复制粘贴，就像在同一台设备上操作一样自然流畅。 [![Open-Source Software][OSS Icon]](https://github.com/CrossPaste/crosspaste-desktop) ![Freeware][Freeware Icon]
+* [CrossPaste](https://crosspaste.com/) - 开源跨设备剪贴板，通过局域网在多台设备间端到端加密同步复制粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/CrossPaste/crosspaste-desktop) ![Freeware][Freeware Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - 面向开发者的干净简单的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac) - 剪贴板管理，快捷回复，效率倍增神器 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac)
 * [iPaste](https://en.toolinbox.net/iPaste) - 轻巧高效的剪贴板工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1056935452?ls=1&at=1000lv4R&ct=iPaste_me&platform=mac)
