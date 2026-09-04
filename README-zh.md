@@ -1036,6 +1036,7 @@ Awesome Mac
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - 内置 ChatGPT 的浏览器。 ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - Chrome 浏览器谷歌出品。![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Google Chrome 背后的开源浏览器项目。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Dao Browser](https://dao.msgbyte.com/) - 基于 Chromium 的开源、内容优先、类 Arc 浏览器，内置 AI 智能体并支持自带模型 API 密钥（BYOK）。 [![Open-Source Software][OSS Icon]](https://github.com/msgbyte/dao-browser) ![Freeware][Freeware Icon]
 * [Firefox](http://www.firefox.com.cn/) - 由 Mozilla 开发的免费开源网页浏览器。![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 内置广告拦截的隐私导向 Chromium 浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
