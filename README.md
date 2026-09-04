@@ -588,6 +588,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Databases
 
+* [1bench](https://1bench.dev) - Desktop client for Postgres, Redis, ClickHouse, MongoDB and about two dozen other databases.
 * [Apache Directory Studio](https://directory.apache.org/studio/) - LDAP browser and Active Directory client. [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
 * [Base 2](https://menial.co.uk/base/) - Application for creating, designing, editing and browsing SQLite 3 database files.
