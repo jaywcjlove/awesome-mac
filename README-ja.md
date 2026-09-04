@@ -219,6 +219,7 @@ Awesome Mac
 
 ### オフィス
 
+* [Accelerator Keys](https://acceleratorkeys.com) - Mac 版 Excel と PowerPoint で Windows スタイルの Alt キーリボンショートカットを使えるようにする。
 * [Keynote](https://apps.apple.com/app/keynote/id409183694?platform=mac) - 美しいプレゼンテーションを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - 紛れもなくOffice、Mac用に設計。 [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)

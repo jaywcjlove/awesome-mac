@@ -830,6 +830,7 @@ Awesome Mac
 
 ### Office
 
+* [Accelerator Keys](https://acceleratorkeys.com) - 在 Mac 版 Excel 和 PowerPoint 中使用 Windows 风格的 Alt 键功能区快捷键。
 * [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
 * [Keynote 讲演](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac) - 构建炫目的演示文稿。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 免费开源的办公软件，广泛被用户社区日常使用和测试。[![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
