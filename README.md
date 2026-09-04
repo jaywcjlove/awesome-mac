@@ -1311,6 +1311,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - Simple app that tracks your work hours from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - Keyboard sound tool that adds mechanical-style typing audio. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [MistBar](https://mistbar.app) - Hides menu-bar clutter and bundles a clipboard manager, app launcher, notes, and per-app usage readouts.
 
 ### Cleanup and Uninstall
 
@@ -1480,6 +1481,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](https://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
+* [GestureCraft](https://gesturecraft.app) - Custom trackpad gestures, mouse-button remaps, and keyboard shortcuts to trigger app and window actions.  
 
 
 ### Window Management
@@ -1522,7 +1524,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
 * [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - Keyboard-driven tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
-
+* [DockApp](https://dockapp.app) - Native Dock replacement with live window previews, a ⌘Tab window switcher, and window snapping with saved layouts.
+  
 ### Password Management
 
 * [1Password](https://1password.com/) - Cross-platform password management tool.
