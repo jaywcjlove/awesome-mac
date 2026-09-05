@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenClip</title>
+      <link>https://getopenclip.app</link>
+      <guid isPermaLink="false">e53096185089a63bf1b23041c9fb2a60f679c4bc:OpenClip</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:01 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: OpenClip
+Description: Lightweight floating action bar for macOS that turns selected text into instant actions.
+Website: https://getopenclip.app
+Commit: Add OpenClip to Productivity (#2627)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: OpenClip<br/>Description: Lightweight floating action bar for macOS that turns selected text into instant actions.<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
+    </item>
     <item>
       <title>Tomatino</title>
       <link>https://tomatino.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/maoyama/Changes
 Commit: Rename Tempo =&gt; Changes (#2353)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed</description>
       <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: Changes<br/>Description: GUI Git client. Replace the Git CLI with a clear UI and AI assist.<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Rename Tempo =&gt; Changes (#2353)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed]]></content:encoded>
-    </item>
-    <item>
-      <title>StrokeMouse</title>
-      <link>https://strokemouse.com</link>
-      <guid isPermaLink="false">374d97eadae73a9fb5936f0ef116cfda5cfa051a:StrokeMouse</guid>
-      <pubDate>Fri, 17 Jul 2026 08:48:26 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: StrokeMouse
-Description: Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.
-Website: https://strokemouse.com
-Commit: Add StrokeMouse (#2348)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: StrokeMouse<br/>Description: Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
     </item>
   </channel>
 </rss>
