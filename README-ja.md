@@ -1388,6 +1388,7 @@ Awesome Mac
 * [2Do](http://www.2doapp.com/) - 優れたTodoアプリ。
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - カレンダー内蔵のメニューバー時計の代替アプリ。 ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
+* [Focuh](https://www.focuh.com) - ADHD向けの無料ToDoリストと週間プランナー。システム全体のウェブサイトブロック付き。 ![Freeware][Freeware Icon]
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - シンプルで柔軟なフォーカスタイマー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
 * [Lunatask](https://lunatask.app) - 暗号化されたオールインワンのToDoリスト、習慣・気分トラッカー、ジャーナリング＆メモアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?platform=mac)

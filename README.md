@@ -1389,6 +1389,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [2Do](https://www.2doapp.com/) - Nice todo app.
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
+* [Focuh](https://www.focuh.com) - Free ADHD todo list and week planner with system-wide website blocking. ![Freeware][Freeware Icon]
 * [Focus](https://meaningful-things.com/focus) - Beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - A simple, flexible Focus Timer. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
 * [Lunatask](https://lunatask.app) - An all-in-one encrypted to-do list, habit and mood tracker, journaling and notes app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?platform=mac)
