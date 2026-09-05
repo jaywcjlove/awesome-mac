@@ -381,6 +381,7 @@ Awesome Mac
 
 ### 数据库
 
+* [1bench](https://1bench.dev) - 桌面数据库客户端，支持 Postgres、Redis、ClickHouse、MongoDB 等二十多种数据库。
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一款稳定全新的Redis管理工具。![Open-Source Software][OSS Icon]![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - SQL 客户端应用程序，支持 MySQL、 PostgreSQL (Redshift)、 BigQuery。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理 SQLite 数据库的软件。

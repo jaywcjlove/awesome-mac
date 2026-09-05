@@ -590,6 +590,7 @@ Awesome Mac
 
 ### データベース
 
+* [1bench](https://1bench.dev) - Postgres、Redis、ClickHouse、MongoDB など20種類以上のデータベースに対応したデスクトップクライアント。
 * [Apache Directory Studio](https://directory.apache.org/studio/) - LDAPブラウザおよびActive Directoryクライアント。 [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - より高速で安定したRedisデスクトップマネージャー。[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - SQLite 3データベースファイルの作成、設計、編集、ブラウジング用アプリケーション。

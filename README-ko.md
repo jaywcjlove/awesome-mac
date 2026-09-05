@@ -515,6 +515,7 @@ Awesome Mac
 
 ### 데이터베이스
 
+* [1bench](https://1bench.dev) - Postgres, Redis, ClickHouse, MongoDB 등 20여 종의 데이터베이스를 지원하는 데스크톱 클라이언트.
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 빠르고 안정적인 Redis 데스크톱 관리자. [![Open-Source Software][OSS Icon]](https://github.com/qishibo/AnotherRedisDesktopManager) ![Freeware][Freeware Icon]
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 매끄러운 SQL 편집기 및 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 많은 데이터베이스를 지원하는 지능형 도구.
