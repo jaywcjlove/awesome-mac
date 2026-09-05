@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenClip</title>
+      <link>https://getopenclip.app</link>
+      <guid isPermaLink="false">e53096185089a63bf1b23041c9fb2a60f679c4bc:OpenClip</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:01 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: OpenClip
+Description: 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。
+Website: https://getopenclip.app
+Commit: Add OpenClip to Productivity (#2627)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenClip<br/>Description: 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
+    </item>
     <item>
       <title>Tomatino</title>
       <link>https://tomatino.app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/nilava/TabType
 Commit: Add TabType to the zh/ja/ko list. #2339
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: TabType<br/>Description: 免费开源的 AI 输入自动补全工具，基于本地大模型在输入时提供幽灵文本建议，完全本地运行。<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to the zh/ja/ko list. #2339<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84]]></content:encoded>
-    </item>
-    <item>
-      <title>Segue</title>
-      <link>https://segue.npearce.me/</link>
-      <guid isPermaLink="false">fd4414f8a839fa2245bc1a9e18b0667c6ba21358:Segue</guid>
-      <pubDate>Thu, 16 Jul 2026 04:08:32 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Segue
-Description: 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。
-Website: https://segue.npearce.me/
-Commit: Add Segue to Audio Record and Process (#2305)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Segue<br/>Description: 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。<br/>Website: https://segue.npearce.me/<br/>Commit: Add Segue to Audio Record and Process (#2305)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358]]></content:encoded>
     </item>
   </channel>
 </rss>

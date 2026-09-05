@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenClip</title>
+      <link>https://getopenclip.app</link>
+      <guid isPermaLink="false">e53096185089a63bf1b23041c9fb2a60f679c4bc:OpenClip</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:01 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: OpenClip
+Description: 선택한 텍스트로 즉각적인 작업을 실행할 수 있는 macOS용 경량 플로팅 액션 바.
+Website: https://getopenclip.app
+Commit: Add OpenClip to Productivity (#2627)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: OpenClip<br/>Description: 선택한 텍스트로 즉각적인 작업을 실행할 수 있는 macOS용 경량 플로팅 액션 바.<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
+    </item>
     <item>
       <title>Tomatino</title>
       <link>https://tomatino.app</link>
@@ -693,20 +707,6 @@ Website: https://hukdoesn.github.io/Nimclip/
 Commit: Add Nimclip to Clipboard Tools (#2328)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Nimclip<br/>Description: 검색, 태그, 이미지 기록을 지원하는 로컬 우선 클립보드 기록 관리자.<br/>Website: https://hukdoesn.github.io/Nimclip/<br/>Commit: Add Nimclip to Clipboard Tools (#2328)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Teams AI</title>
-      <link>https://agentteams.live/</link>
-      <guid isPermaLink="false">46652674d802cb0bd24ab7eb77f4514754286c0c:Agent Teams AI</guid>
-      <pubDate>Wed, 15 Jul 2026 02:28:26 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Agent Teams AI
-Description: 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱.
-Website: https://agentteams.live/
-Commit: Add Agent Teams AI (#2322)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Agent Teams AI<br/>Description: 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱.<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
     </item>
   </channel>
 </rss>
