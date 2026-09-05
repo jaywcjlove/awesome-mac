@@ -796,6 +796,7 @@ Awesome Mac
 * [Free Download Manager](https://www.freedownloadmanager.org/) - 강력하고 사용하기 쉬운 무료 다운로드 가속기 및 관리자. ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 링크, 파일, 호스팅 콘텐츠를 위한 오픈 소스 다운로드 관리자. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [MacYT](https://sameerbajaj.com/tools/macyt) - 포맷 선택 및 SponsorBlock을 지원하여 모든 URL에서 동영상과 오디오를 다운로드할 수 있는 yt-dlp 기반 네이티브 macOS SwiftUI 앱. [![Open-Source Software][OSS Icon]](https://github.com/sameerbajaj/MacYT) ![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - HTTP, FTP, BitTorrent, Magnet 등을 지원하는 모든 기능을 갖춘 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 최적화된 전송 엔진을 갖춘 경량 다운로드 관리자. ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
