@@ -513,6 +513,7 @@ Awesome Mac
 ### ネットワーク分析
 
 * [Charles](https://www.charlesproxy.com/) - HTTPおよびHTTPSトラフィックを表示するHTTPプロキシ/モニター。
+* [DevPeek](https://devpeek.ypgao.com/) - モック、パラメータ自動復号、リクエスト再送に対応した HTTP(S) デバッグプロキシ。 ![Freeware][Freeware Icon]
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
