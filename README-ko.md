@@ -1107,6 +1107,7 @@ Awesome Mac
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 오픈 소스 원격 데스크톱 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/) - 원격 지원과 화면 공유를 위한 도구. ![Freeware][Freeware Icon]
+* [TouchNow](https://touchmac.app/en/) - iPhone이나 iPad에서 터치로 Mac을 제어하거나 화면 컨트롤러로 Mac 게임을 즐기는 도구. 같은 Wi-Fi에서는 무료. ![Freeware][Freeware Icon]
 
 ## QuickLook 플러그인
 
