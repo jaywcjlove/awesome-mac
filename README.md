@@ -1088,6 +1088,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Open-source browser project behind Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
   * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware][Freeware Icon]
+* [Dao Browser](https://dao.msgbyte.com/) - Open-source, content-first, Arc-like browser built on Chromium, with a built-in AI agent and bring-your-own-key (BYOK) support. [![Open-Source Software][OSS Icon]](https://github.com/msgbyte/dao-browser) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - A free and open-source web browser developed by Mozilla. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - Privacy-focused Chromium browser with built-in ad blocking. [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
