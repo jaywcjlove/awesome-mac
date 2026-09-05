@@ -1574,6 +1574,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snap](https://apps.apple.com/us/app/snap/id418073146) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
+* [Weedout](https://masteranza.github.io/weedout/) - Filters videos YouTube labels “Made with AI” from feeds, search, playlists, related videos, and Shorts in Safari. [![App Store][app-store Icon]](https://apps.apple.com/app/weedout-ai-for-youtube/id6804296217?mt=12)
 
 ### System Related Tools
 
