@@ -1103,6 +1103,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 用于监控麦克风和摄像头访问的工具。 ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [Santa](https://northpole.security/) - 二进制与文件访问授权系统。 [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sensitivity](https://sensitivityscan.com/) - 用于在本机检查“照片”图库或所选文件夹中可能包含敏感内容的照片和视频，不上传媒体。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/sensitivity-nsfw-cleaner/id6504330607?platform=mac)
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 使用手机指纹完成身份验证的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 用于监控开源依赖漏洞的服务。

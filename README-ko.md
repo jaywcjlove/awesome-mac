@@ -885,6 +885,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 마이크와 웹캠 접근을 감시하는 도구. ![Freeware][Freeware Icon]
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음). [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [Santa](https://northpole.security/) - 바이너리와 파일 접근을 제어하는 권한 부여 시스템. [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sensitivity](https://sensitivityscan.com/) - 미디어를 업로드하지 않고 사진 보관함이나 선택한 폴더에서 민감할 가능성이 있는 사진과 동영상을 기기 내에서 검토하는 스캐너. [![App Store][app-store Icon]](https://apps.apple.com/us/app/sensitivity-nsfw-cleaner/id6504330607?platform=mac)
 * [Vulert](https://vulert.com) - 오픈 소스 의존성 취약점을 모니터링하는 서비스.
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - USB 포트를 무단 접근으로부터 보호하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 파일의 코드 서명 정보를 보는 Finder 확장. ![Freeware][Freeware Icon]
