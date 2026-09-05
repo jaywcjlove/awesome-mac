@@ -1502,6 +1502,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [MacsyZones](https://macsyzones.com/) - Organize your windows with ease and boost your productivity. [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
 * [Lasso](https://thelasso.app) - Intuitive and easy to use grid-based window manager.
+* [Loadstone](https://github.com/mortenbrudvik/loadstone) - Native menu-bar window manager that snaps windows to halves, corners, and thirds. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mortenbrudvik/loadstone)
 * [Magnet](https://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id441258766?platform=mac)
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - Pointer-driven launcher for screen-edge quick actions and app switching. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](https://manytricks.com/moom/) - Window management tool for moving, resizing, and saving layouts.
