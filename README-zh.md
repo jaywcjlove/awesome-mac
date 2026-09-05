@@ -1511,6 +1511,7 @@ Awesome Mac
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 管理多种协议远程连接的客户端。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 一个开源的远程桌面应用程序，为自托管而设计。[![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
+* [SubnetDesk](https://github.com/zibo-chen/SubnetDesk) - 局域网与 VPN 专用的远程桌面，通过 IP 或主机名直连，无需公网信令或中继服务。[![Open-Source Software][OSS Icon]](https://github.com/zibo-chen/SubnetDesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) - 通过局域网或互联网将您的 Steam 游戏串流到 Mac 上。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) ![Freeware][Freeware Icon]
 * [Sunshine](https://github.com/LizardByte/Sunshine) - 自托管的游戏串流，用于 Moonlight。[![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 用于远程协助和屏幕共享的工具。![Freeware][Freeware Icon]
