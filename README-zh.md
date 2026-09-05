@@ -762,6 +762,7 @@ Awesome Mac
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 支持逐词发光效果的同步歌词播放器。 [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 跨平台工具，使用ffmpeg进行快速无损的视频和音频修剪。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - 一款功能完备的歌词工具。 [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
+* [Mac Classic Player](https://mcp.kkweb.io/) - 受 Media Player Classic 启发的轻量级、键盘友好的媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/piro0919/mac-classic-player) ![Freeware][Freeware Icon]
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - 一个干净、轻量级的常驻菜单栏的音乐播放器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Metadatics](http://markvapps.com/metadatics) - 音频元数据编辑器，支持大多数常见的音频文件。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/metadatics/id554883654?platform=mac)
 * [Mp3tag](https://mp3tag.app/) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/?platform=mac)
