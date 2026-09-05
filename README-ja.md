@@ -1204,6 +1204,7 @@ Awesome Mac
 
 ### クリップボードツール
 
+* [Boldaram](https://boldaram.beside-co.com/) - コピーしたものをリスがくわえて預かってくれるクリップボードマネージャー。
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 画像OCRとブックマークに対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - macOS史上最もクリーンなクリップボードマネージャー！ ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
