@@ -1252,6 +1252,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107?platform=mac)
 * [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
+* [Dynamic Menu Bar](https://dynamicmenubar.com) - Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.
 * [DynamicHorizon](https://dynamichorizon.app) - Adds media controls, notifications, and system indicators to the notch area.
 * [Repose](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
