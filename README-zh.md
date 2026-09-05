@@ -1456,6 +1456,7 @@ Awesome Mac
 ### 密码管理
 
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
+* [Authier](https://www.authier.pm/) - 一款尚处早期阶段、面向浏览器和 Web 的开源密码管理器，支持客户端加密同步、TOTP 和自动填充；尚未经过独立审计。 [![Open-Source Software][OSS Icon]](https://github.com/authier-pm/authier) ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - 适用于Mac OS，iOS和浏览器的开源密码管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。
