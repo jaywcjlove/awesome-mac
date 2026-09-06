@@ -5,9 +5,331 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenClip</title>
+      <link>https://getopenclip.app</link>
+      <guid isPermaLink="false">e53096185089a63bf1b23041c9fb2a60f679c4bc:OpenClip</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:01 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: OpenClip
+Description: 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。
+Website: https://getopenclip.app
+Commit: Add OpenClip to Productivity (#2627)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenClip<br/>Description: 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomatino</title>
+      <link>https://tomatino.app</link>
+      <guid isPermaLink="false">214d12a83606e7a444e13d8e09d109b2320d98a7:Tomatino</guid>
+      <pubDate>Wed, 02 Sep 2026 01:48:36 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Tomatino
+Description: 菜单栏番茄钟，开始专注时自动开启专注模式并播放音乐，休息时自动关闭。[![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino)
+Website: https://tomatino.app
+Commit: Add Tomatino to Menu Bar Tools (#2684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Tomatino<br/>Description: 菜单栏番茄钟，开始专注时自动开启专注模式并播放音乐，休息时自动关闭。[![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino)<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Novel Writer</title>
+      <link>https://github.com/EthanYoQ/AI-Novel-Writer</link>
+      <guid isPermaLink="false">9f2056f433190534764753ee32960ee40c922abc:AI Novel Writer</guid>
+      <pubDate>Wed, 02 Sep 2026 01:41:04 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: AI Novel Writer
+Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。
+Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
+Commit: Add AI Novel Writer to Writing (#2732)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: AI Novel Writer<br/>Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
+    </item>
+    <item>
+      <title>Whisk</title>
+      <link>https://github.com/nathan-poncet/whisk</link>
+      <guid isPermaLink="false">010f11a930472cfea46fd2bfac3abcdd23241cc7:Whisk</guid>
+      <pubDate>Wed, 02 Sep 2026 00:49:19 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Whisk
+Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。
+Open Source: https://github.com/nathan-poncet/whisk
+Commit: Add Whisk (#2729)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Whisk<br/>Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
+    </item>
+    <item>
+      <title>Blink</title>
+      <link>https://github.com/megootronic/Blink</link>
+      <guid isPermaLink="false">ea52d9e1cbdd4fdb8ebb215207d869338b28fea1:Blink</guid>
+      <pubDate>Tue, 01 Sep 2026 01:58:20 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Blink
+Description: 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。
+Open Source: https://github.com/megootronic/Blink
+Commit: Add Blink to Menu Bar Tools (#2726)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Blink<br/>Description: 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。<br/>Open Source: https://github.com/megootronic/Blink<br/>Commit: Add Blink to Menu Bar Tools (#2726)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1]]></content:encoded>
+    </item>
+    <item>
+      <title>Pixpresso</title>
+      <link>https://getapps.cafe/app/pixpresso</link>
+      <guid isPermaLink="false">e91a6a27466c30a33d7fa7624c74f86c4115ffa4:Pixpresso</guid>
+      <pubDate>Tue, 01 Sep 2026 01:50:53 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Pixpresso
+Description: 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
+Website: https://getapps.cafe/app/pixpresso
+Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Pixpresso<br/>Description: 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
+    </item>
+    <item>
+      <title>ChessCafe</title>
+      <link>https://getapps.cafe/app/chesscafe</link>
+      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
+      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: ChessCafe
+Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]
+Website: https://getapps.cafe/app/chesscafe
+Commit: Add ChessCafe to Gaming Software (#2700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: ChessCafe<br/>Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
+    </item>
+    <item>
+      <title>LocalScribe</title>
+      <link>https://github.com/maddylaneeee/ShengJi</link>
+      <guid isPermaLink="false">69118783de248fd090364ca88ff2cf9a8c9cf9e9:LocalScribe</guid>
+      <pubDate>Sun, 30 Aug 2026 09:10:57 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: LocalScribe
+Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。
+Open Source: https://github.com/maddylaneeee/ShengJi
+Commit: Rename ShengJi listing to LocalScribe (#2590)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: LocalScribe<br/>Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
+    </item>
+    <item>
+      <title>Mole</title>
+      <link>https://mole.fit/</link>
+      <guid isPermaLink="false">73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0:Mole</guid>
+      <pubDate>Sun, 30 Aug 2026 08:47:48 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Mole
+Description: 原生 Mac 系统维护工具，支持清理、应用管理、磁盘分析和系统监控。
+Website: https://mole.fit/
+Commit: Add Mole to Cleanup and Uninstall (#2663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Mole<br/>Description: 原生 Mac 系统维护工具，支持清理、应用管理、磁盘分析和系统监控。<br/>Website: https://mole.fit/<br/>Commit: Add Mole to Cleanup and Uninstall (#2663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapzy</title>
+      <link>https://snapzy.app/</link>
+      <guid isPermaLink="false">8c421a391f1839d7d78f2ca886eef511214a97be:Snapzy</guid>
+      <pubDate>Sun, 30 Aug 2026 07:35:29 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Snapzy
+Description: 支持截图、屏幕录制、标注和视频编辑的免费开源原生 macOS 应用。
+Website: https://snapzy.app/
+Commit: Add Snapzy to screenshot tools (#2666)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Snapzy<br/>Description: 支持截图、屏幕录制、标注和视频编辑的免费开源原生 macOS 应用。<br/>Website: https://snapzy.app/<br/>Commit: Add Snapzy to screenshot tools (#2666)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be]]></content:encoded>
+    </item>
+    <item>
+      <title>Purge</title>
+      <link>https://getpurge.com</link>
+      <guid isPermaLink="false">31ee838d6f50c568a8fc9f254d76af9bd13616f4:Purge</guid>
+      <pubDate>Sat, 29 Aug 2026 12:07:25 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Purge
+Description: 开源缓存清理工具，将文件移至废纸篓而非直接删除，基于固定白名单，无遥测功能。
+Website: https://getpurge.com
+Commit: Add Purge to Cleanup and Uninstall (#2690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Purge<br/>Description: 开源缓存清理工具，将文件移至废纸篓而非直接删除，基于固定白名单，无遥测功能。<br/>Website: https://getpurge.com<br/>Commit: Add Purge to Cleanup and Uninstall (#2690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4]]></content:encoded>
+    </item>
+    <item>
+      <title>Mixio</title>
+      <link>https://github.com/RadixIV/Mixio</link>
+      <guid isPermaLink="false">aed80b5b970aee7281bf166d0533a5a3f6b79a23:Mixio</guid>
+      <pubDate>Sat, 29 Aug 2026 01:10:36 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Mixio
+Description: 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio)
+Open Source: https://github.com/RadixIV/Mixio
+Commit: Add Mixio to Menu Bar Tools (#2670)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Mixio<br/>Description: 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio)<br/>Open Source: https://github.com/RadixIV/Mixio<br/>Commit: Add Mixio to Menu Bar Tools (#2670)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed80b5b970aee7281bf166d0533a5a3f6b79a23]]></content:encoded>
+    </item>
+    <item>
+      <title>Metrune</title>
+      <link>https://treafree.github.io/Metrune/</link>
+      <guid isPermaLink="false">8417bce07fd1845c9f0f9cca4f770383eaa89f8f:Metrune</guid>
+      <pubDate>Fri, 28 Aug 2026 15:18:27 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Metrune
+Description: 本地优先的专注工作台，将任务、AI 编程、GitHub 活动、设备事件、徽章和报告汇入 MacBook 刘海。
+Website: https://treafree.github.io/Metrune/
+Commit: Add Metrune to productivity apps (#2668)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Metrune<br/>Description: 本地优先的专注工作台，将任务、AI 编程、GitHub 活动、设备事件、徽章和报告汇入 MacBook 刘海。<br/>Website: https://treafree.github.io/Metrune/<br/>Commit: Add Metrune to productivity apps (#2668)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f]]></content:encoded>
+    </item>
+    <item>
+      <title>Tracexy</title>
+      <link>https://rockxy.io/tracexy</link>
+      <guid isPermaLink="false">76fb6befe2e28ffc756eebd9d64b28df1b82e1d3:Tracexy</guid>
+      <pubDate>Fri, 28 Aug 2026 01:19:03 GMT</pubDate>
+      <category>开发者工具 / 网络分析</category>
+      <description>Category: 开发者工具 / 网络分析
+App: Tracexy
+Description: 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。
+Website: https://rockxy.io/tracexy
+Commit: Add Tracexy (#2673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: Tracexy<br/>Description: 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。<br/>Website: https://rockxy.io/tracexy<br/>Commit: Add Tracexy (#2673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3]]></content:encoded>
+    </item>
+    <item>
+      <title>Nifro</title>
+      <link>https://github.com/PathGao/Nifro</link>
+      <guid isPermaLink="false">5eb9923ab6e18731065350b9c6a3f532578aea4d:Nifro</guid>
+      <pubDate>Wed, 26 Aug 2026 13:36:59 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Nifro
+Description: 将网站变为可配置的桌面壁纸，每块显示器可使用独立视图。
+Open Source: https://github.com/PathGao/Nifro
+Commit: Add Nifro to dynamic wallpaper apps (#2646)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Nifro<br/>Description: 将网站变为可配置的桌面壁纸，每块显示器可使用独立视图。<br/>Open Source: https://github.com/PathGao/Nifro<br/>Commit: Add Nifro to dynamic wallpaper apps (#2646)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d]]></content:encoded>
+    </item>
+    <item>
+      <title>Starcat</title>
+      <link>https://starcat.ink/</link>
+      <guid isPermaLink="false">6047967c838331bacd80ac19f709ef3b957fd75a:Starcat</guid>
+      <pubDate>Wed, 26 Aug 2026 13:31:01 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Starcat
+Description: 原生、本地优先的 GitHub Stars 管理器，将收藏的仓库转化为可搜索、AI 辅助的知识库。
+Website: https://starcat.ink/
+Commit: Add Starcat to Developer Utilities (#2650)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Starcat<br/>Description: 原生、本地优先的 GitHub Stars 管理器，将收藏的仓库转化为可搜索、AI 辅助的知识库。<br/>Website: https://starcat.ink/<br/>Commit: Add Starcat to Developer Utilities (#2650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a]]></content:encoded>
+    </item>
+    <item>
+      <title>Grux</title>
+      <link>https://gruxai.com</link>
+      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Grux
+Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。
+Website: https://gruxai.com
+Commit: Add Grux to AI Tools (#2647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Grux<br/>Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
+    </item>
+    <item>
+      <title>SpotAsk</title>
+      <link>https://github.com/shiquda/SpotAsk</link>
+      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
+      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: SpotAsk
+Description: 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。
+Open Source: https://github.com/shiquda/SpotAsk
+Commit: Add SpotAsk (#2641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: SpotAsk<br/>Description: 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
+    </item>
+    <item>
+      <title>WandelBar</title>
+      <link>https://github.com/alexiosus/WandelBar</link>
+      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
+      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: WandelBar
+Description: 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。
+Open Source: https://github.com/alexiosus/WandelBar
+Commit: Add WandelBar (#2640)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: WandelBar<br/>Description: 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
+    </item>
+    <item>
+      <title>CC-Switch</title>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <guid isPermaLink="false">3d84630d6033f2a9c109a17ffd8f47c4568304f5:CC-Switch</guid>
+      <pubDate>Tue, 25 Aug 2026 05:39:38 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: CC-Switch
+Description: 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。
+Open Source: https://github.com/farion1231/cc-switch
+Commit: Add CC-Switch to Developer Utilities (#2658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CC-Switch<br/>Description: 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to Developer Utilities (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5]]></content:encoded>
+    </item>
+    <item>
+      <title>Tungsten Edge 钨极</title>
+      <link>https://tungstenedge.app</link>
+      <guid isPermaLink="false">050fb17a63ab02a78793115758caeaa2cf7c9132:Tungsten Edge 钨极</guid>
+      <pubDate>Fri, 21 Aug 2026 08:08:19 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Tungsten Edge 钨极
+Description: 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。
+Website: https://tungstenedge.app
+Commit: Add Tungsten Edge to Window Management (#2619)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Tungsten Edge 钨极<br/>Description: 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。<br/>Website: https://tungstenedge.app<br/>Commit: Add Tungsten Edge to Window Management (#2619)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132]]></content:encoded>
+    </item>
+    <item>
+      <title>Loadout</title>
+      <link>https://loadout.migsilva.dev</link>
+      <guid isPermaLink="false">b123966c62b4c5094cc9627cb0a96ea5603eb37e:Loadout</guid>
+      <pubDate>Wed, 19 Aug 2026 05:26:21 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Loadout
+Description: 查看并管理编码助手加载的内容——Claude Code 的 skills、子代理、斜杠命令、插件和 MCP 服务器，并显示真实使用次数。
+Website: https://loadout.migsilva.dev
+Commit: Add Loadout to AI Tools (#2586)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Loadout<br/>Description: 查看并管理编码助手加载的内容——Claude Code 的 skills、子代理、斜杠命令、插件和 MCP 服务器，并显示真实使用次数。<br/>Website: https://loadout.migsilva.dev<br/>Commit: Add Loadout to AI Tools (#2586)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e]]></content:encoded>
+    </item>
+    <item>
+      <title>OffPDF</title>
+      <link>https://offpdf.com/</link>
+      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
+      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
+      <category>电子书 / 其他</category>
+      <description>Category: 电子书 / 其他
+App: OffPDF
+Description: 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。
+Website: https://offpdf.com/
+Commit: Add OffPDF to Reading and Writing Tools (#2564)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
+      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: OffPDF<br/>Description: 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
+    </item>
     <item>
       <title>Atomic Agent</title>
       <link>https://atomicagent.io/</link>
@@ -385,328 +707,6 @@ Open Source: https://github.com/nilava/TabType
 Commit: Add TabType to the zh/ja/ko list. #2339
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: TabType<br/>Description: 免费开源的 AI 输入自动补全工具，基于本地大模型在输入时提供幽灵文本建议，完全本地运行。<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to the zh/ja/ko list. #2339<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84]]></content:encoded>
-    </item>
-    <item>
-      <title>Segue</title>
-      <link>https://segue.npearce.me/</link>
-      <guid isPermaLink="false">fd4414f8a839fa2245bc1a9e18b0667c6ba21358:Segue</guid>
-      <pubDate>Thu, 16 Jul 2026 04:08:32 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Segue
-Description: 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。
-Website: https://segue.npearce.me/
-Commit: Add Segue to Audio Record and Process (#2305)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Segue<br/>Description: 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。<br/>Website: https://segue.npearce.me/<br/>Commit: Add Segue to Audio Record and Process (#2305)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358]]></content:encoded>
-    </item>
-    <item>
-      <title>Nimclip</title>
-      <link>https://hukdoesn.github.io/Nimclip/</link>
-      <guid isPermaLink="false">a9d5cabf74d696936d908f0b638492382621e012:Nimclip</guid>
-      <pubDate>Wed, 15 Jul 2026 13:43:35 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Nimclip
-Description: 本地优先的剪贴板历史管理工具，支持搜索、标签和图片记录。
-Website: https://hukdoesn.github.io/Nimclip/
-Commit: Add Nimclip to Clipboard Tools (#2328)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Nimclip<br/>Description: 本地优先的剪贴板历史管理工具，支持搜索、标签和图片记录。<br/>Website: https://hukdoesn.github.io/Nimclip/<br/>Commit: Add Nimclip to Clipboard Tools (#2328)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Teams AI</title>
-      <link>https://agentteams.live/</link>
-      <guid isPermaLink="false">46652674d802cb0bd24ab7eb77f4514754286c0c:Agent Teams AI</guid>
-      <pubDate>Wed, 15 Jul 2026 02:28:26 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Agent Teams AI
-Description: 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。
-Website: https://agentteams.live/
-Commit: Add Agent Teams AI (#2322)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Agent Teams AI<br/>Description: 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
-    </item>
-    <item>
-      <title>MacTools</title>
-      <link>https://github.com/ggbond268/MacTools</link>
-      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
-      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: MacTools
-Description: 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。
-Open Source: https://github.com/ggbond268/MacTools
-Commit: Add MacTools to menu bar tools (#2313)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MacTools<br/>Description: 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDisplay</title>
-      <link>https://opendisplay.app</link>
-      <guid isPermaLink="false">3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d:OpenDisplay</guid>
-      <pubDate>Tue, 14 Jul 2026 02:25:55 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: OpenDisplay
-Description: 把闲置的 iPhone 或 iPad 变成 Mac 的第二块屏幕，支持 USB 有线与 WiFi 无线连接，以及触控输入。
-Website: https://opendisplay.app
-Commit: Add OpenDisplay to General Tools (#2308)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenDisplay<br/>Description: 把闲置的 iPhone 或 iPad 变成 Mac 的第二块屏幕，支持 USB 有线与 WiFi 无线连接，以及触控输入。<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
-    </item>
-    <item>
-      <title>Tactile</title>
-      <link>https://tactile.masn.studio/</link>
-      <guid isPermaLink="false">bab25d5933f69e38a23a77b618cc66a24dbeefd6:Tactile</guid>
-      <pubDate>Mon, 13 Jul 2026 04:54:25 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Tactile
-Description: 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。
-Website: https://tactile.masn.studio/
-Commit: Add Tactile to the zh/ja/ko list. #2298
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Tactile<br/>Description: 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。<br/>Website: https://tactile.masn.studio/<br/>Commit: Add Tactile to the zh/ja/ko list. #2298<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bab25d5933f69e38a23a77b618cc66a24dbeefd6]]></content:encoded>
-    </item>
-    <item>
-      <title>Presspeech</title>
-      <link>https://github.com/rcourtman/presspeech</link>
-      <guid isPermaLink="false">1a8e1aa613e808a6ac97d1aa478d57a698af7d2a:Presspeech</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:08 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Presspeech
-Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。
-Open Source: https://github.com/rcourtman/presspeech
-Commit: Update Presspeech listing (#2290)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Presspeech<br/>Description: 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Knopo</title>
-      <link>https://github.com/alkalim/Knopo</link>
-      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
-      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Knopo
-Description: 原生 macOS 本地优先大纲笔记应用，以纯 Markdown 文件存储笔记。
-Open Source: https://github.com/alkalim/Knopo
-Commit: Add Knopo (#2291)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Knopo<br/>Description: 原生 macOS 本地优先大纲笔记应用，以纯 Markdown 文件存储笔记。<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Collector</title>
-      <link>https://github.com/FirenzeLor/gemini-collector</link>
-      <guid isPermaLink="false">5ac5d87f284028cf73b34cb7b9a722ea5d0629e1:Gemini Collector</guid>
-      <pubDate>Sun, 12 Jul 2026 00:08:52 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Gemini Collector
-Description: 将 Google Gemini 对话、附件与 AI 生成媒体以 JSON 格式备份到本地。
-Open Source: https://github.com/FirenzeLor/gemini-collector
-Commit: Add Gemini Collector to AI Tools (#2295)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Gemini Collector<br/>Description: 将 Google Gemini 对话、附件与 AI 生成媒体以 JSON 格式备份到本地。<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Profisor</title>
-      <link>https://github.com/yefga/Profisor</link>
-      <guid isPermaLink="false">68b54c06902da7c3eef7c2abcf1d28625dcb5de7:Profisor</guid>
-      <pubDate>Sat, 11 Jul 2026 09:03:09 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Profisor
-Description: 从菜单栏切换当前项目的 Xcode 描述文件。
-Open Source: https://github.com/yefga/Profisor
-Commit: Add Profisor (#2289)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Profisor<br/>Description: 从菜单栏切换当前项目的 Xcode 描述文件。<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
-    </item>
-    <item>
-      <title>Battery Hog</title>
-      <link>https://github.com/luke-fairbanks/BatteryHog</link>
-      <guid isPermaLink="false">e34fa129f9bce64dbc862880429b71ea15c1afa3:Battery Hog</guid>
-      <pubDate>Fri, 10 Jul 2026 07:52:03 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Battery Hog
-Description: 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。
-Open Source: https://github.com/luke-fairbanks/BatteryHog
-Commit: Add Battery Hog (#2285)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Battery Hog<br/>Description: 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
-    </item>
-    <item>
-      <title>OATS</title>
-      <link>https://github.com/ariso-ai/oats</link>
-      <guid isPermaLink="false">9654998824e9692ac4d6953152ff997cd884ac6c:OATS</guid>
-      <pubDate>Thu, 09 Jul 2026 04:48:55 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: OATS
-Description: 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。
-Open Source: https://github.com/ariso-ai/oats
-Commit: Add Oats to Note-taking (#2268)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: OATS<br/>Description: 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。<br/>Open Source: https://github.com/ariso-ai/oats<br/>Commit: Add Oats to Note-taking (#2268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Prevail</title>
-      <link>https://prevail.sh</link>
-      <guid isPermaLink="false">d3dc33f0560c77b9ab7df83d2bd620121548f8e2:Prevail</guid>
-      <pubDate>Tue, 07 Jul 2026 11:57:34 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Prevail
-Description: 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。
-Website: https://prevail.sh
-Commit: Add Prevail to AI Tools (#2267)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Prevail<br/>Description: 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。<br/>Website: https://prevail.sh<br/>Commit: Add Prevail to AI Tools (#2267)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2]]></content:encoded>
-    </item>
-    <item>
-      <title>tty7</title>
-      <link>https://github.com/l0ng-ai/tty7</link>
-      <guid isPermaLink="false">258daea61a27fda55d57bea4be5d05b10c6c30a6:tty7</guid>
-      <pubDate>Tue, 07 Jul 2026 01:43:44 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: tty7
-Description: 使用纯 Rust 编写、GPU 渲染、由守护进程托管的终端，无需 tmux 即可保持会话持久。
-Open Source: https://github.com/l0ng-ai/tty7
-Commit: Add tty7 to Terminal Apps (#2263)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: tty7<br/>Description: 使用纯 Rust 编写、GPU 渲染、由守护进程托管的终端，无需 tmux 即可保持会话持久。<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
-    </item>
-    <item>
-      <title>TokenTracker</title>
-      <link>https://www.tokentracker.cc</link>
-      <guid isPermaLink="false">baa66734f625ca23b69f94f1b10bc972395eaca2:TokenTracker</guid>
-      <pubDate>Mon, 06 Jul 2026 23:32:36 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: TokenTracker
-Description: 本地优先的菜单栏与命令行工具，追踪 20 多款 AI 编程工具的 Token 用量与花费。
-Website: https://www.tokentracker.cc
-Commit: Add TokenTracker to AI Tools (#2101)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: TokenTracker<br/>Description: 本地优先的菜单栏与命令行工具，追踪 20 多款 AI 编程工具的 Token 用量与花费。<br/>Website: https://www.tokentracker.cc<br/>Commit: Add TokenTracker to AI Tools (#2101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2]]></content:encoded>
-    </item>
-    <item>
-      <title>Wox</title>
-      <link>https://wox-launcher.github.io/Wox/</link>
-      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
-      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Wox
-Description: 开源跨平台启动器，支持快速本地搜索和插件扩展。
-Website: https://wox-launcher.github.io/Wox/
-Commit: Add Wox #2047
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Wox<br/>Description: 开源跨平台启动器，支持快速本地搜索和插件扩展。<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
-    </item>
-    <item>
-      <title>cctop</title>
-      <link>https://cctop.app</link>
-      <guid isPermaLink="false">bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9:cctop</guid>
-      <pubDate>Mon, 06 Jul 2026 05:33:17 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: cctop
-Description: 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。
-Website: https://cctop.app
-Commit: Add cctop to Menu Bar Tools (#2257)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: cctop<br/>Description: 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。<br/>Website: https://cctop.app<br/>Commit: Add cctop to Menu Bar Tools (#2257)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9]]></content:encoded>
-    </item>
-    <item>
-      <title>MenubarCC</title>
-      <link>https://github.com/ksterx/MenubarCC</link>
-      <guid isPermaLink="false">b197ea52da5a96b4566fe2c9f89384a3e5d39dff:MenubarCC</guid>
-      <pubDate>Sun, 05 Jul 2026 13:33:06 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: MenubarCC
-Description: 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。
-Open Source: https://github.com/ksterx/MenubarCC
-Commit: Add MenubarCC to Menu Bar Tools (#2249)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MenubarCC<br/>Description: 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
-    </item>
-    <item>
-      <title>Harbofly</title>
-      <link>https://harbofly.app/</link>
-      <guid isPermaLink="false">9568458c70df1b8762f8f5056ca760c50f753922:Harbofly</guid>
-      <pubDate>Sun, 05 Jul 2026 08:19:58 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Harbofly
-Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。
-Website: https://harbofly.app/
-Commit: Add Harbofly to the zh/ja/ko list. #2252
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Harbofly<br/>Description: 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。<br/>Website: https://harbofly.app/<br/>Commit: Add Harbofly to the zh/ja/ko list. #2252<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9568458c70df1b8762f8f5056ca760c50f753922]]></content:encoded>
-    </item>
-    <item>
-      <title>MoonProxy</title>
-      <link>https://github.com/MoonProxyHQ/moonproxy-desktop</link>
-      <guid isPermaLink="false">a59272745a93357a103f7ddfd18c1ad6856a8d27:MoonProxy</guid>
-      <pubDate>Sun, 05 Jul 2026 00:33:23 GMT</pubDate>
-      <category>远程协助</category>
-      <description>Category: 远程协助
-App: MoonProxy
-Description: FRP 的 GUI 客户端，一键将本地服务发布到互联网。
-Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop
-Commit: Add MoonProxy to the ja/ko/zh list. #2253
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27</description>
-      <content:encoded><![CDATA[Category: 远程协助<br/>App: MoonProxy<br/>Description: FRP 的 GUI 客户端，一键将本地服务发布到互联网。<br/>Open Source: https://github.com/MoonProxyHQ/moonproxy-desktop<br/>Commit: Add MoonProxy to the ja/ko/zh list. #2253<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a59272745a93357a103f7ddfd18c1ad6856a8d27]]></content:encoded>
-    </item>
-    <item>
-      <title>StockDock</title>
-      <link>https://github.com/simonsruggi/StockDock</link>
-      <guid isPermaLink="false">9c7ea9e1942d44b22cad2e39ad4424646b6f6668:StockDock</guid>
-      <pubDate>Sun, 05 Jul 2026 00:14:39 GMT</pubDate>
-      <category>金融</category>
-      <description>Category: 金融
-App: StockDock
-Description: 菜单栏股票/ETF/加密货币实时行情工具，支持投资组合盈亏、多币种，注重隐私无需账户。
-Open Source: https://github.com/simonsruggi/StockDock
-Commit: Add StockDock to the zh/ja/ko list #2255.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c7ea9e1942d44b22cad2e39ad4424646b6f6668</description>
-      <content:encoded><![CDATA[Category: 金融<br/>App: StockDock<br/>Description: 菜单栏股票/ETF/加密货币实时行情工具，支持投资组合盈亏、多币种，注重隐私无需账户。<br/>Open Source: https://github.com/simonsruggi/StockDock<br/>Commit: Add StockDock to the zh/ja/ko list #2255.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c7ea9e1942d44b22cad2e39ad4424646b6f6668]]></content:encoded>
-    </item>
-    <item>
-      <title>Off Grid AI Desktop</title>
-      <link>https://getoffgridai.co/desktop</link>
-      <guid isPermaLink="false">79727df0c0d285c93e234212932bfb0dcc9a6c5f:Off Grid AI Desktop</guid>
-      <pubDate>Sun, 05 Jul 2026 00:04:14 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Off Grid AI Desktop
-Description: 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。
-Website: https://getoffgridai.co/desktop
-Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Off Grid AI Desktop<br/>Description: 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。<br/>Website: https://getoffgridai.co/desktop<br/>Commit: Add &quot;Off Grid AI Desktopt&quot; to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79727df0c0d285c93e234212932bfb0dcc9a6c5f]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta</title>
-      <link>https://github.com/vestaterm/Vesta</link>
-      <guid isPermaLink="false">71b7e4bb8269a618f15398aee362dfd9d5d493bf:Vesta</guid>
-      <pubDate>Wed, 01 Jul 2026 03:13:12 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: Vesta
-Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。
-Open Source: https://github.com/vestaterm/Vesta
-Commit: Add Vesta (#2243)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Vesta<br/>Description: 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。<br/>Open Source: https://github.com/vestaterm/Vesta<br/>Commit: Add Vesta (#2243)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71b7e4bb8269a618f15398aee362dfd9d5d493bf]]></content:encoded>
     </item>
   </channel>
 </rss>
