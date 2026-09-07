@@ -898,6 +898,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Email Clients
 
 * [Airmail](https://airmailapp.com) - Fast email client. For both Mac OS and iOS.
+* [apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp) - Command-line and AI (MCP) access to Apple Mail: sub-millisecond full-text search over the whole store via Mail's own SQLite index, verified sends, bulk triage with review. [![Open-Source Software][OSS Icon]](https://github.com/parasxos/apple-mail-mcp) ![Freeware][Freeware Icon]
 * [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assistance. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?platform=mac)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](https://www.foxmail.com/mac/en) - Fast email client. ![Freeware][Freeware Icon]
