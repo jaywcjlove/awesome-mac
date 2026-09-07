@@ -533,6 +533,7 @@ Awesome Mac
 ### 屏幕录制
 
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - 免费开源的专业屏幕录制工具。[![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
+* [Cadre](https://cadre.cam/) - 面向 Apple 芯片 Mac 的屏幕录制与时间线视频编辑工具，支持电影级缩放、本地字幕和 MCP 智能体控制。
 * [GifCapture](https://github.com/onmyway133/GifCapture) - 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - 专业的高颜值 GIF 录制应用。
 * [GIF Brewery](https://gfycat.com/gifbrewery) - GIF Brewery gives everyone the power to create stunning GIFs from video files. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/gif-brewery-by-gfycat/id1081413713?platform=mac) ![Freeware][Freeware Icon]
