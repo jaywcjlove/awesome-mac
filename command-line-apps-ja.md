@@ -123,6 +123,7 @@ Awesome Command Line Apps
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - Markdownファイルを処理するためのコマンドラインツール。画像のダウンロード、ファイルの翻訳など。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [microfolio](https://microfolio.net) - Markdownファイルとフォルダからウェブサイトを構築する静的ポートフォリオジェネレーター。 [![Open-Source Software][OSS Icon]](https://github.com/aker-dev/microfolio) ![Freeware][Freeware Icon]
 * [quokka](https://github.com/dutradotdev/quokka) - ターミナルからUSB接続したiPhoneを検査・整理。ストレージ、アプリ、メディア、ライブsyslogビューア。脱獄不要。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 開発者用語の正しい発音を読み上げるコミュニティ発音辞典。出典付きの1650以上のエントリ（kubectl、nginx、GIF、JSON）を収録し、macOSのsayコマンドを利用。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 強力なアプリブラウジングとファイル表示機能を備えたiOSシミュレーター管理用ターミナルUI。 [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
