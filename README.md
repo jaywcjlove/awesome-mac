@@ -1325,6 +1325,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DaisyDisk](https://daisydiskapp.com/) - Disk usage analyzer and cleaner.
 * [Harbofly](https://harbofly.app/) - Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [MacGroom](https://gogenops.com/mac-apps/macgroom/) - Finds AI model caches (Ollama, LM Studio, Hugging Face), dev-tool clutter, and other disk-space hogs; everything reviewed before it moves to Trash. ![Native App][Native Icon]
 * [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software][OSS Icon]](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [Mole](https://mole.fit/) - Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring. ![Native App][Native Icon]
