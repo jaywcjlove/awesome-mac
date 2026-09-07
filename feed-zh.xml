@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:58:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pelmet</title>
+      <link>https://pelmet.fif7y.com</link>
+      <guid isPermaLink="false">507fa28dcc583ac092f5741170a5445f544c4d70:Pelmet</guid>
+      <pubDate>Mon, 07 Sep 2026 09:58:57 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Pelmet
+Description: 为 macOS 27 全新菜单栏打造的菜单栏管理工具，隐藏不需要的图标，需要时再显示。
+Website: https://pelmet.fif7y.com
+Commit: Add Pelmet to Menu Bar Tools (#2776)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Pelmet<br/>Description: 为 macOS 27 全新菜单栏打造的菜单栏管理工具，隐藏不需要的图标，需要时再显示。<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
+    </item>
     <item>
       <title>Leafy</title>
       <link>https://leafyapp.uk/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/maoyama/Changes
 Commit: Add Changes to the ja/ko/zh list.
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: Changes<br/>Description: GUI Git 客户端，用清晰的界面和 AI 辅助替代 Git 命令行。<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Add Changes to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3]]></content:encoded>
-    </item>
-    <item>
-      <title>StrokeMouse</title>
-      <link>https://strokemouse.com</link>
-      <guid isPermaLink="false">374d97eadae73a9fb5936f0ef116cfda5cfa051a:StrokeMouse</guid>
-      <pubDate>Fri, 17 Jul 2026 08:48:26 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: StrokeMouse
-Description: 自定义鼠标手势：按住触发键绘制轨迹后执行快捷键、打开应用、窗口操作、Shell 或 AppleScript。
-Website: https://strokemouse.com
-Commit: Add StrokeMouse (#2348)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: StrokeMouse<br/>Description: 自定义鼠标手势：按住触发键绘制轨迹后执行快捷键、打开应用、窗口操作、Shell 或 AppleScript。<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
     </item>
   </channel>
 </rss>

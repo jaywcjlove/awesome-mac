@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:58:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pelmet</title>
+      <link>https://pelmet.fif7y.com</link>
+      <guid isPermaLink="false">507fa28dcc583ac092f5741170a5445f544c4d70:Pelmet</guid>
+      <pubDate>Mon, 07 Sep 2026 09:58:57 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Pelmet
+Description: Menu bar manager built for macOS 27&apos;s rebuilt menu bar. Hides the icons you don&apos;t need until you do.
+Website: https://pelmet.fif7y.com
+Commit: Add Pelmet to Menu Bar Tools (#2776)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Pelmet<br/>Description: Menu bar manager built for macOS 27&apos;s rebuilt menu bar. Hides the icons you don&apos;t need until you do.<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
+    </item>
     <item>
       <title>Lyrimuse</title>
       <link>https://github.com/Yudaotor/lyrimuse</link>
@@ -693,20 +707,6 @@ Website: https://typecue.app
 Commit: Add TypeCue to Menu Bar Tools (#2360)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: TypeCue<br/>Description: Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.<br/>Website: https://typecue.app<br/>Commit: Add TypeCue to Menu Bar Tools (#2360)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76]]></content:encoded>
-    </item>
-    <item>
-      <title>LingShu</title>
-      <link>https://royzhao1991.github.io/LingShu/</link>
-      <guid isPermaLink="false">cac4ce1bd06dd55a1504c2bd67548b4f19560284:LingShu</guid>
-      <pubDate>Sun, 19 Jul 2026 02:03:52 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: LingShu
-Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.
-Website: https://royzhao1991.github.io/LingShu/
-Commit: Add LingShu to AI Tools (#2355)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: LingShu<br/>Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:58:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pelmet</title>
+      <link>https://pelmet.fif7y.com</link>
+      <guid isPermaLink="false">507fa28dcc583ac092f5741170a5445f544c4d70:Pelmet</guid>
+      <pubDate>Mon, 07 Sep 2026 09:58:57 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Pelmet
+Description: macOS 27 の新しいメニューバー向けに作られたメニューバー管理ツール。不要なアイコンを必要になるまで隠す。
+Website: https://pelmet.fif7y.com
+Commit: Add Pelmet to Menu Bar Tools (#2776)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Pelmet<br/>Description: macOS 27 の新しいメニューバー向けに作られたメニューバー管理ツール。不要なアイコンを必要になるまで隠す。<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
+    </item>
     <item>
       <title>Leafy</title>
       <link>https://leafyapp.uk/</link>
@@ -693,20 +707,6 @@ Website: https://turaai.net/
 Commit: Add Tura to AI tools (#2333)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Tura<br/>Description: Tura は、曖昧なスキルの主張、根拠のないトークン節約拡張機能、リポジトリを理解する前に変更するエージェントにうんざりした開発者向けの、ローカルでオープンソースのコーディングエージェントです。<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
-    </item>
-    <item>
-      <title>TabType</title>
-      <link>https://github.com/nilava/TabType</link>
-      <guid isPermaLink="false">5ef732b6ad2f76c667cf280c44141fbe59ff2f84:TabType</guid>
-      <pubDate>Fri, 17 Jul 2026 02:15:16 GMT</pubDate>
-      <category>読み書きツール / その他</category>
-      <description>Category: 読み書きツール / その他
-App: TabType
-Description: ローカルLLMによる入力補完を行う無料オープンソースのAIオートコンプリートツール。完全オンデバイスで動作。
-Open Source: https://github.com/nilava/TabType
-Commit: Add TabType to the zh/ja/ko list. #2339
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: TabType<br/>Description: ローカルLLMによる入力補完を行う無料オープンソースのAIオートコンプリートツール。完全オンデバイスで動作。<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to the zh/ja/ko list. #2339<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84]]></content:encoded>
     </item>
   </channel>
 </rss>
