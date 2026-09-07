@@ -817,7 +817,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Open-source AI chat client for local and cloud models with MCP support. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
 * [BitFun](https://openbitfun.com/) - Open-source AI agent that gives each task its own interactive workspace with chat linked to live state. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
-* [ChatGPT](https://openai.com/chatgpt/mac/) - A conversational AI system that listens, learns, and challenges
+** [Caravel](https://github.com/yy36295238/caravel-releases) - Local-first macOS workbench for dispatching, monitoring, and reviewing Claude Code, Codex, OpenCode, pi, and Grok sessions. ![Freeware][Freeware Icon]
+   [ChatGPT](https://openai.com/chatgpt/mac/) - A conversational AI system that listens, learns, and challenges
 * [Claude](https://claude.ai/download) - Your AI partner on desktop. Fast, focused, and designed for deep work.
 * [Claude God](https://claudegod.app) - Monitor Claude usage, costs, and session stats. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage](https://github.com/Bread-bang/claude-usage) - Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible — no usage or context command to run. [![Open-Source Software][OSS Icon]](https://github.com/Bread-bang/claude-usage) ![Freeware][Freeware Icon]
