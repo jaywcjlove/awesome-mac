@@ -326,6 +326,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8&platform=mac)
 * [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/feedy-rss-client/id588288104?ls=1&platform=mac)
+* [FeedsBar](https://feeds.bar) - Always-on desktop news ticker with a curated, ranked source catalogue and topic summaries.
 * [Folo](https://github.com/RSSNext/Folo) 🧡 Next generation information browser. [![Open-Source Software][OSS Icon]](https://github.com/RSSNext/Folo) ![Freeware][Freeware Icon]
 * [Leaf](https://www.rockysandstudio.com/) - A news reader for managing subscriptions and enjoying daily news.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - It’s a free and open source feed reader for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
