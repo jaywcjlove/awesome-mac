@@ -1445,6 +1445,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Memo Widget](https://sindresorhus.com/memo-widget) - Sticky notes on your desktop. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)
 * [Metrune](https://treafree.github.io/Metrune/en/) - Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - AI chat client for multiple providers in one place.
+* [Mochi](https://getmochi.app/) - Launcher with clipboard history, snippets, screenshots, and a screen recorder and editor.
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Archive manager that supports previewing and extracting archive files [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.
