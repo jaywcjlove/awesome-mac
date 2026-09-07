@@ -1051,6 +1051,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Input Methods
 
+* [FlicKey](https://flickey.site) - Keeps your keyboard layout per app, per website and per chat, and fixes wrong-layout typing. ![Native][Native Icon]
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
