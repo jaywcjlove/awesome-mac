@@ -695,6 +695,7 @@ Awesome Mac
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [网易邮箱大师](http://mail.163.com/dashi/) - 全平台的邮箱管理客户端，网易邮箱大师电脑版。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - 管理和组织邮件，日程和标签进行分类邮件。
+* [MailTwin](https://www.mailtwin.ai/zh-Hans/) - 在 Apple Mail 里写回复：输入要点，自动生成完整邮件，写作风格按邮箱账户分别在本机从已发送邮件中学习，可选八家 AI 服务商并自带密钥。
 * [Nylas Mail](https://nylas.com/nylas-mail/) - 免费邮件客户端。  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - 可以扩展的开源收费邮件客户端。
 * [Newton(原Cloudmagic)](https://newtonhq.com) - 界面非常简洁的一个邮件客户端。
