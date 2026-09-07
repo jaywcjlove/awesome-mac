@@ -463,6 +463,7 @@ Awesome Mac
 ### 네트워크 분석
 
 * [Charles](https://www.charlesproxy.com/) - HTTP 프록시/모니터.
+* [DevPeek](https://devpeek.ypgao.com/) - Mock, 파라미터 자동 복호화, 요청 재전송을 지원하는 HTTP(S) 디버깅 프록시. ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
