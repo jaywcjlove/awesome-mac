@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:14:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lyrimuse</title>
+      <link>https://github.com/Yudaotor/lyrimuse</link>
+      <guid isPermaLink="false">4b9365697f016cada10230dc14dcf1a2b7e01657:Lyrimuse</guid>
+      <pubDate>Mon, 07 Sep 2026 04:14:59 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Lyrimuse
+Description: Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.
+Open Source: https://github.com/Yudaotor/lyrimuse
+Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Lyrimuse<br/>Description: Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
+    </item>
     <item>
       <title>OpenClip</title>
       <link>https://getopenclip.app</link>
@@ -693,20 +707,6 @@ Website: https://royzhao1991.github.io/LingShu/
 Commit: Add LingShu to AI Tools (#2355)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: LingShu<br/>Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
-    </item>
-    <item>
-      <title>Changes</title>
-      <link>https://github.com/maoyama/Changes</link>
-      <guid isPermaLink="false">1cb8d656a855ddcba6dd6067cb872d1f664c0bed:Changes</guid>
-      <pubDate>Sat, 18 Jul 2026 15:16:48 GMT</pubDate>
-      <category>Developer Tools / Version Control</category>
-      <description>Category: Developer Tools / Version Control
-App: Changes
-Description: GUI Git client. Replace the Git CLI with a clear UI and AI assist.
-Open Source: https://github.com/maoyama/Changes
-Commit: Rename Tempo =&gt; Changes (#2353)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: Changes<br/>Description: GUI Git client. Replace the Git CLI with a clear UI and AI assist.<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Rename Tempo =&gt; Changes (#2353)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed]]></content:encoded>
     </item>
   </channel>
 </rss>

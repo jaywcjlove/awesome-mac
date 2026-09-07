@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:14:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lyrimuse</title>
+      <link>https://github.com/Yudaotor/lyrimuse</link>
+      <guid isPermaLink="false">4b9365697f016cada10230dc14dcf1a2b7e01657:Lyrimuse</guid>
+      <pubDate>Mon, 07 Sep 2026 04:14:59 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Lyrimuse
+Description: 逐字同步的桌面歌词，支持 Apple Music、Spotify、QQ 音乐、网易云音乐、酷狗及浏览器里的 YouTube Music / Spotify 网页版。
+Open Source: https://github.com/Yudaotor/lyrimuse
+Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Lyrimuse<br/>Description: 逐字同步的桌面歌词，支持 Apple Music、Spotify、QQ 音乐、网易云音乐、酷狗及浏览器里的 YouTube Music / Spotify 网页版。<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
+    </item>
     <item>
       <title>OpenClip</title>
       <link>https://getopenclip.app</link>
@@ -693,20 +707,6 @@ Website: https://turaai.net/
 Commit: Add Tura to AI tools (#2333)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Tura<br/>Description: Tura 是一个本地、开源的编程智能体，面向厌倦模糊能力宣称、毫无证据的节省 token 扩展，以及在理解仓库之前就改动仓库的开发者。<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
-    </item>
-    <item>
-      <title>TabType</title>
-      <link>https://github.com/nilava/TabType</link>
-      <guid isPermaLink="false">5ef732b6ad2f76c667cf280c44141fbe59ff2f84:TabType</guid>
-      <pubDate>Fri, 17 Jul 2026 02:15:16 GMT</pubDate>
-      <category>电子书 / 其他</category>
-      <description>Category: 电子书 / 其他
-App: TabType
-Description: 免费开源的 AI 输入自动补全工具，基于本地大模型在输入时提供幽灵文本建议，完全本地运行。
-Open Source: https://github.com/nilava/TabType
-Commit: Add TabType to the zh/ja/ko list. #2339
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84</description>
-      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: TabType<br/>Description: 免费开源的 AI 输入自动补全工具，基于本地大模型在输入时提供幽灵文本建议，完全本地运行。<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to the zh/ja/ko list. #2339<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef732b6ad2f76c667cf280c44141fbe59ff2f84]]></content:encoded>
     </item>
   </channel>
 </rss>
