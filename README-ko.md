@@ -3,11 +3,25 @@
   <br>
   <br>
 
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe, 60개 이상의 네이티브 Mac 앱을 만나보세요. 유틸리티, 업무, 창작, 생산성 향상 등 다양한 분야의 앱을 제공하며, 모든 기능은 기기 내에서 로컬로 실행되어 사용자의 데이터는 항상 안전하게 보호됩니다.</a>
+  <br><br>
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro, macOS에서 몇 분 만에 아름다운 화면 녹화를 제작하세요</a>
+  <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - 엄선된 소프트웨어. 100% 정품. 최적의 할인가." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
   <br><br>
 
   <a href="https://ip.im/">
@@ -194,7 +208,7 @@ Awesome Mac
 * [Edmund](https://github.com/I7T5/Edmund) - 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
-* [LightPaper](https://getlightpaper.com/) - 단순하고 아름다우면서도 강력한 Mac용 텍스트 편집기.
+* [Imark](https://github.com/migsilva89/imark) - 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
@@ -231,6 +245,7 @@ Awesome Mac
 * [MiaoYan](https://miaoyan.app/) - 좋은 문장을 쓰도록 돕는 경량 마크다운 앱.
 * [Notable](https://github.com/notable/notable) - 마크다운 기반의 괜찮은 노트 앱.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
+* [NoteGen](https://notegen.top/) - 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 깔끔하고 단순한 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - 할 일, 노트, 캘린더를 하나의 마크다운 파일로 관리. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - 네이티브 노트 및 LLM 클라이언트.
@@ -259,6 +274,7 @@ Awesome Mac
 
 ### 쓰기
 
+* [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - 실제 타자기 느낌을 주는 미니멀한 쓰기 앱. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
@@ -298,9 +314,11 @@ Awesome Mac
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDF 편집, 압축 및 암호 보호 도구.
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - 여러 PDF 파일을 하나로 결합. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
+* [Capd](https://capd.jxd.dev) - 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - 학습 및 연구를 위한 PDF 리더. ![Freeware][Freeware Icon]
+* [OffPDF](https://offpdf.com/) - Apple Silicon이 탑재된 Mac용 오픈 소스 PDF 도구 모음으로, 파일 병합·분할·변환·압축·OCR을 모두 로컬에서 오프라인으로 처리합니다. [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 메타데이터, 구조, 보안 위험을 분석하는 PDF 검사 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - PDF 읽기, 주석 및 편집 도구.
 * [PDF Pals](https://pdfpals.com) - PDF와 채팅할 수 있는 앱.
@@ -367,6 +385,7 @@ Awesome Mac
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.
 * [Bidbar](https://www.getbidbar.com) - 메뉴 바에서 bash 명령 관리.
 * [Cacher](https://www.cacher.io/) - 클라우드 기반 코드 스니펫 관리자.
+* [CC-Switch](https://github.com/farion1231/cc-switch) - Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
 * [CodeKit](https://codekitapp.com/) - 컴파일 및 최적화 도구.
 * [CodeMenu](https://extiri.com/codemenu.html) - 고급 스니펫 관리자.
 * [CoilPad](https://coilpad.com) - 네이티브 Python 스크래치패드. ![Freeware][Freeware Icon]
@@ -383,6 +402,7 @@ Awesome Mac
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
+* [GraphCode](https://graphcode.app) - 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원. ![Freeware][Freeware Icon]
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
@@ -409,6 +429,7 @@ Awesome Mac
 * [SaneHosts](https://sanehosts.com) - hosts 기반 광고 및 추적기 차단 도구. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 코드 스니펫 관리자.
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Starcat](https://starcat.ink/) - 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
 * [StarUML](http://staruml.io) - 강력한 UML 앱.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift 변환기.
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 호스트 관리 및 전환 앱. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
@@ -448,6 +469,7 @@ Awesome Mac
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - 네트워크 트래픽 모니터링 앱. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
+* [Tracexy](https://rockxy.io/tracexy) - 실시간 트래픽 캡처와 PCAP/PCAPNG 파일의 로컬 분석을 지원하는 오픈 소스 세션 중심 네트워크 인텔리전스 도구. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) ![Freeware][Freeware Icon]
 * [WiFi Lens](https://github.com/SHIINASAMA/wifi-lens) - 네이티브 오픈소스 Wi-Fi 분석기 및 네트워크 진단 앱으로, 실시간 스펙트럼 스캔, 채널 혼잡 시각화, BLE 기기 추적을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/SHIINASAMA/wifi-lens) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 네트워크 프로토콜 분석기. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - 올인원 API 디자인 및 테스트 환경.
@@ -455,6 +477,7 @@ Awesome Mac
 ### 하이브리드 애플리케이션 프레임워크
 
 * [DMG Maker](https://github.com/saihgupr/DMGMaker) - 세련된 시각 효과와 CLI 지원을 갖춘 DMG 제작 도구. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
+* [Rilmazafone](https://kagerou.glass/rilmazafone/) - WYSIWYG 캔버스에서 DMG 설치 프로그램을 디자인하고 그린 그대로 빌드하세요. 스크립트가 필요 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/rilmazafone) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6790960011?platform=mac)
 * [Electron](http://electron.atom.io) - JS, HTML, CSS로 데스크톱 앱 빌드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [Ionic](http://ionicframework.com/) - 웹 기술로 네이티브 및 웹 앱 빌드. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - 크로스 플랫폼 애플리케이션 프레임워크.
@@ -538,6 +561,7 @@ Awesome Mac
 * [FontForge](http://fontforge.github.io/) - 무료 오픈 소스 글꼴 편집기. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU 이미지 조작 프로그램. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화 가리기, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 이미지 배경을 오프라인으로 일괄 제거하는 도구.
 * [Lunacy](https://icons8.com/lunacy) - 내장 에셋과 실시간 협업을 지원하는 벡터 디자인 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
@@ -572,6 +596,7 @@ Awesome Mac
 * [macshot](https://github.com/sw33tlie/macshot) - 화면 녹화, 스크롤 캡처, OCR을 지원하는 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - 블러, 모자이크, 워터마크를 지원하는 스크린샷 주석 및 캔버스 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
+* [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
 
@@ -611,6 +636,7 @@ Awesome Mac
 * [Lap](https://github.com/julyx10/lap) - 개인 사진 라이브러리를 오프라인에서 둘러보고 정리할 수 있는 로컬 사진 관리자. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottie 파일용 Quick Look 확장 기능을 갖춘 네이티브 Lottie 애니메이션 플레이어. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 이미지 호스팅 업로드 도구. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
+* [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
 * [Zipic](https://zipic.app/) - 프리셋과 자동화를 지원하는 일괄 이미지 압축 도구.
 
@@ -621,7 +647,9 @@ Awesome Mac
 * [AppleAi](https://www.theappleai.tech/) - 메뉴바에서 여러 AI 어시스턴트 접근. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - Apple 온디바이스 모델을 OpenAI 호환 API 뒤에서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 다중 제공자 채팅, 에이전트 워크플로, 지식 베이스, MCP 도구, OpenAI 호환 API 게이트웨이를 지원하는 오픈 소스 데스크톱 AI 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
+* [Atomic Agent](https://atomicagent.io/) - 오픈 웨이트 모델을 기기에서 완전히 실행하는 로컬 우선 CLI 및 TUI 코딩 에이전트. MCP와 56개의 기본 제공 도구 지원. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 로컬 및 클라우드 모델을 지원하는 MCP 기반 오픈 소스 AI 채팅 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [BitFun](https://openbitfun.com/) - 작업마다 전용 인터랙티브 화면을 만들고 채팅을 실시간 상태와 연결하는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
@@ -640,11 +668,14 @@ Awesome Mac
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업. [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 선택한 텍스트를 AI 어시스턴트와 CLI 에이전트로 보내는 메뉴 막대 런처.
+* [Grux](https://gruxai.com) - 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Jan](https://jan.ai/) - 완전히 오프라인으로 실행 가능한 ChatGPT 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/menloresearch/jan) ![Freeware][Freeware Icon]
 * [LingShu](https://royzhao1991.github.io/LingShu/) - 오픈 소스 모델 독립형 macOS 에이전트로, 검증된 코드·문서·슬라이드·컴퓨터 작업을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
 * [LokalBot](https://www.lokalbot.com/) - macOS용 온디바이스 회의 노트, 받아쓰기, 인라인 자동 완성, 검색 가능한 업무 메모리. [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
+* [Loadout](https://loadout.migsilva.dev) - 코딩 어시스턴트가 로드하는 항목을 확인하고 관리 — Claude Code의 스킬, 서브에이전트, 슬래시 명령, 플러그인, MCP 서버를 실제 사용 횟수와 함께 표시. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/loadout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Maestro](https://runmaestro.ai) - 명세 기반 워크플로로 여러 AI 코딩 에이전트를 협업시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
+* [SpotAsk](https://github.com/shiquda/SpotAsk) - 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 메모리와 자동화 기능을 갖춘 로컬 우선 개인 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
@@ -744,6 +775,7 @@ Awesome Mac
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 음악과 오디오 제작을 위한 전문가용 디지털 오디오 워크스테이션. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 단어별 글로우 효과를 지원하는 동기화 가사 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
+* [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou 및 브라우저의 YouTube Music / Spotify Web을 지원하는 단어 단위 동기화 데스크톱 가사. [![Open-Source Software][OSS Icon]](https://github.com/Yudaotor/lyrimuse) ![Freeware][Freeware Icon]
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 영화와 영상 콘텐츠를 검색하고 스트리밍하거나 오프라인 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Natron](https://natrongithub.github.io/) - 오픈 소스 노드 기반 합성 도구. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
@@ -793,6 +825,7 @@ Awesome Mac
 * [Azex Speech](https://github.com/azex-ai/speech) - AI와 크립토 작업에서 중영 혼용 받아쓰기에 강한 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 누르고 말한 뒤 놓으면 전사 텍스트를 바로 붙여넣는 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
+* [LocalScribe](https://github.com/maddylaneeee/ShengJi) - 마이크, 미디어 파일, Mac 시스템 오디오를 위한 오픈 소스 로컬 전사 및 자막 편집 앱. [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 로컬 및 클라우드 음성 텍스트 변환을 지원하는 오픈 소스 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenQuack](https://github.com/larryxiao/openquack) - 프라이버시 중심 음성 받아쓰기 도구로, 단축키로 말하면 WhisperKit이 로컬에서 전사해 커서 위치에 입력합니다. [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 다듬어진 텍스트를 어떤 앱에든 입력할 수 있는 오픈 소스 AI 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
@@ -826,6 +859,7 @@ Awesome Mac
 
 ## 교육
 
+* [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 금융
@@ -846,6 +880,7 @@ Awesome Mac
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 영구적인 설치가 발생할 때 경고. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 보호 경로용 정책 기반 파일 접근 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylib 하이재킹 위험이 있는 앱을 검사하는 도구. ![Freeware][Freeware Icon]
+* [fob](https://getfob.app) - SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 무단 네트워크 트래픽을 차단하는 무료 방화벽. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID, Apple Watch 또는 비밀번호로 원하는 macOS 앱을 잠그고 모든 모니터에 블러 오버레이를 표시하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 악성코드를 검사하고 제거하는 보안 도구. ![Freeware][Freeware Icon]
@@ -906,12 +941,14 @@ Awesome Mac
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 맥북 노치를 다이나믹 아일랜드 스타일의 Live Activity로 바꿔 Claude Code와 Codex CLI의 사용 한도와 지출을 보여줍니다. 모든 데이터는 로컬에서만 처리되며 텔레메트리는 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
+* [Blink](https://github.com/megootronic/Blink) - 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 단축키와 자동화로 블루투스 기기를 관리하는 메뉴 막대 도구. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
+* [Keelhaven](https://keelhaven.app) - 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 하루 키 입력, 클릭, 이동 거리, 스크롤을 기록하는 메뉴 막대 추적기. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - 단축키로 화면 잠금을 잠그고 해제할 수 있는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - 디스플레이 제어, 시스템 토글, 정리, 기기 상태, 일상 유틸리티를 제공하는 확장 가능한 플러그인 시스템 기반의 오픈 소스 메뉴 바 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -921,15 +958,19 @@ Awesome Mac
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 실시간 업로드·다운로드 속도와 대역폭 사용 앱을 보여주는 네이티브 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AI 코딩 에이전트 알림을 지원하는 macOS용 경량 Dynamic Island입니다. [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
+* [Mixio](https://github.com/RadixIV/Mixio) - 앱별·탭별 볼륨 조절과 10밴드 EQ를 지원하는 네이티브 스타일 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯. [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 빠른 호흡 휴식을 위한 macOS 메뉴 바 앱으로, 프로스트 화면 오버레이와 손글씨 명언을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
+* [Pelmet](https://pelmet.fif7y.com) - macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/pelmet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Tactile](https://tactile.masn.studio/) - 클릭 가능한 요소 위에 커서를 올리면 트랙패드 촉각 피드백을 주고, 선택형 시각 보조 표시도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
 * [Today](https://sindresorhus.com/today) - 메뉴 막대에서 오늘 일정과 캘린더 이벤트를 확인하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
+* [Tomatino](https://tomatino.app) - 메뉴 막대 포모도로 타이머. 세션을 시작하면 집중 모드를 켜고 음악을 재생하며, 휴식에는 둘 다 끕니다. [![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 준비한 스크립트를 단축키 한 번에 한 줄씩, 실제 키 입력으로 자연스러운 속도로 어떤 앱에나 입력합니다. 데모 녹화와 라이브 발표용. [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [Vorssaint](https://vorssaint.com) - 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WandelBar](https://github.com/alexiosus/WandelBar) - 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
 ### 정리 및 제거
@@ -940,8 +981,10 @@ Awesome Mac
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
+* [Mole](https://mole.fit/) - 정리, 앱 관리, 디스크 분석, 시스템 모니터링을 지원하는 네이티브 Mac 유지 관리 도구. ![Native App][Native Icon]
 * [Profisor](https://github.com/yefga/Profisor) - 메뉴 바에서 현재 프로젝트의 Xcode 프로비저닝 프로파일을 전환. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
+* [Purge](https://getpurge.com) - 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 
 ### 파일 정리 도구
 
@@ -960,12 +1003,15 @@ Awesome Mac
 
 * [Crisp](https://didriksg.github.io/Crisp/) - 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
+* [Nifro](https://github.com/PathGao/Nifro) - 웹사이트를 설정 가능한 데스크톱 배경화면으로 바꾸고, 디스플레이마다 별도 화면을 설정할 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [DisplayBuddy](https://displaybuddy.app) - 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.
 * [OpenDisplay](https://opendisplay.app) - 여분의 iPhone이나 iPad를 USB 또는 WiFi로 Mac의 보조 디스플레이로 사용하는 도구 (터치 입력 지원). [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
+* [Phosphene](https://kagerou.glass/phosphene/) - 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구. [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS용 커스텀 커서 테마 도구. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
+* [Adrafinil](https://kagerou.glass/adrafinil/) - AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구. ![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
 * [SiliconScope](https://siliconscope.calidalab.ai) - 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。 [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
@@ -997,8 +1043,10 @@ Awesome Mac
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
 * [Magic Switch](https://magic-switch.com/) - 여러 Mac 사이에서 Magic Keyboard, Mouse, Trackpad를 전환하는 도구.
+* [Metrune](https://treafree.github.io/Metrune/ko/) - 작업, AI 코딩, GitHub 활동, 기기 이벤트, 배지, 리포트를 MacBook 노치에 모으는 로컬 우선 집중 작업 공간. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 여러 AI 서비스를 한곳에서 쓰는 채팅 클라이언트.
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 주기적 스크린샷으로 하루 작업을 돌아볼 수 있는 도구.
+* [OpenClip](https://getopenclip.app) - 선택한 텍스트로 즉각적인 작업을 실행할 수 있는 macOS용 경량 플로팅 액션 바. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
 * [Qbserve](https://qotoqot.com/qbserve/) - 프로젝트와 생산성 분석을 지원하는 자동 시간 추적 도구.
 * [Raycast](https://www.raycast.com/) - 확장 기능, 스니펫, 노트, AI를 갖춘 런처. ![Freeware][Freeware Icon]
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처. [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
@@ -1032,6 +1080,7 @@ Awesome Mac
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
+* [Plonk](https://github.com/ostapondo/plonk) - 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 상황별로 묶은 앱 그룹을 단축키 하나로 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Slate](https://github.com/jigish/slate) - JavaScript 설정을 사용하는 스크립트형 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
@@ -1050,6 +1099,7 @@ Awesome Mac
 
 ## 게임 소프트웨어
 
+* [ChessCafe](https://getapps.cafe/app/chesscafe) - 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스. ![Freeware][Freeware Icon]
 * [OpenEmu](https://openemu.org/) - 여러 콘솔을 지원하는 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [Steam](https://store.steampowered.com/) - 게임 플랫폼 및 커뮤니티. ![Freeware][Freeware Icon]
 * [Whisky](https://github.com/frankea/Whisky) - macOS에서 Windows 앱을 실행하는 도구로, SwiftUI로 제작되었으며 D3DMetal 및 DXVK 백엔드를 지원합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
