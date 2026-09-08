@@ -630,6 +630,7 @@ Awesome Mac
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - 将 Google Gemini 对话、附件与 AI 生成媒体以 JSON 格式备份到本地。 [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
+* [GEOKit](https://geokit.site) - 免费开源的生成式引擎优化 (GEO) 与 AI SEO 站长工具箱，支持 llms.txt 验证、AI 爬虫管理与就绪度评分。支持 Homebrew 一键安装（`brew install gstar-byte/tap/geokit`）。 [![Open-Source Software][OSS Icon]](https://github.com/gstar-byte/geokit-cli) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
 * [Grux](https://gruxai.com) - 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
