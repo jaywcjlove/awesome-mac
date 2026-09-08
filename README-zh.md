@@ -1158,6 +1158,7 @@ Awesome Mac
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [BetterTouchTool](https://folivora.ai/) - 自定义触控板、鼠标和键盘的手势与快捷操作。
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR
+* [Cactus](https://usecactus.app/) - 网站屏蔽工具，支持每周重复的屏蔽计划。
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
