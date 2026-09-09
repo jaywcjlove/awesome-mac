@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CalmMouse</title>
+      <link>https://calmmouse.malikzhang.com/</link>
+      <guid isPermaLink="false">7ba1e0f8f71bb636e2a725ac122a48ded786bc64:CalmMouse</guid>
+      <pubDate>Wed, 09 Sep 2026 06:06:04 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: CalmMouse
+Description: Stop the Magic Mouse scrolling the page every time you click.
+Website: https://calmmouse.malikzhang.com/
+Commit: Add CalmMouse to Productivity (#2805)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: CalmMouse<br/>Description: Stop the Magic Mouse scrolling the page every time you click.<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
+    </item>
     <item>
       <title>Keelhaven</title>
       <link>https://keelhaven.app</link>
@@ -693,20 +707,6 @@ Website: https://berthly.net
 Commit: Add Berthly to Virtualization (#2396)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718</description>
       <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Berthly<br/>Description: Native GUI for Apple&apos;s container tool, with menu bar monitoring and drag-and-drop image builds.<br/>Website: https://berthly.net<br/>Commit: Add Berthly to Virtualization (#2396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://www.pulseticker.app/</link>
-      <guid isPermaLink="false">e7164194544a0a69c3bdf342b5be9e295772729a:Pulse</guid>
-      <pubDate>Wed, 22 Jul 2026 05:03:17 GMT</pubDate>
-      <category>Finance</category>
-      <description>Category: Finance
-App: Pulse
-Description: Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&amp;L.
-Website: https://www.pulseticker.app/
-Commit: Add Pulse to Finance (#2376)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a</description>
-      <content:encoded><![CDATA[Category: Finance<br/>App: Pulse<br/>Description: Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&amp;L.<br/>Website: https://www.pulseticker.app/<br/>Commit: Add Pulse to Finance (#2376)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a]]></content:encoded>
     </item>
   </channel>
 </rss>

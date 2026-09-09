@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CalmMouse</title>
+      <link>https://calmmouse.malikzhang.com/</link>
+      <guid isPermaLink="false">7ba1e0f8f71bb636e2a725ac122a48ded786bc64:CalmMouse</guid>
+      <pubDate>Wed, 09 Sep 2026 06:06:04 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: CalmMouse
+Description: 让妙控鼠标在你点击时不再滚动页面。
+Website: https://calmmouse.malikzhang.com/
+Commit: Add CalmMouse to Productivity (#2805)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: CalmMouse<br/>Description: 让妙控鼠标在你点击时不再滚动页面。<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
+    </item>
     <item>
       <title>Keelhaven</title>
       <link>https://keelhaven.app</link>
@@ -693,20 +707,6 @@ Website: https://typecue.app
 Commit: Add TypeCue to Menu Bar Tools (#2360)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: TypeCue<br/>Description: 将预先准备好的脚本逐行输入到任意应用，每按一次快捷键输入一行，以真实按键和自然的节奏模拟人工输入，适用于产品演示录制和现场演讲。<br/>Website: https://typecue.app<br/>Commit: Add TypeCue to Menu Bar Tools (#2360)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76]]></content:encoded>
-    </item>
-    <item>
-      <title>LingShu</title>
-      <link>https://royzhao1991.github.io/LingShu/</link>
-      <guid isPermaLink="false">cac4ce1bd06dd55a1504c2bd67548b4f19560284:LingShu</guid>
-      <pubDate>Sun, 19 Jul 2026 02:03:52 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: LingShu
-Description: 开源、主脑可替换的 macOS Agent，可交付经验证的代码、文档、幻灯片和电脑操作。
-Website: https://royzhao1991.github.io/LingShu/
-Commit: Add LingShu to AI Tools (#2355)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: LingShu<br/>Description: 开源、主脑可替换的 macOS Agent，可交付经验证的代码、文档、幻灯片和电脑操作。<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CalmMouse</title>
+      <link>https://calmmouse.malikzhang.com/</link>
+      <guid isPermaLink="false">7ba1e0f8f71bb636e2a725ac122a48ded786bc64:CalmMouse</guid>
+      <pubDate>Wed, 09 Sep 2026 06:06:04 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: CalmMouse
+Description: クリックのたびにページがスクロールしてしまうMagic Mouseの挙動を止めるツール。
+Website: https://calmmouse.malikzhang.com/
+Commit: Add CalmMouse to Productivity (#2805)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: CalmMouse<br/>Description: クリックのたびにページがスクロールしてしまうMagic Mouseの挙動を止めるツール。<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
+    </item>
     <item>
       <title>Keelhaven</title>
       <link>https://keelhaven.app</link>
@@ -693,20 +707,6 @@ Website: https://strokemouse.com
 Commit: Add StrokeMouse (#2348)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: StrokeMouse<br/>Description: トリガーボタンを押しながら軌跡を描き、ショートカット・アプリ起動・ウィンドウ操作・Shell / AppleScript を実行できるマウスジェスチャーツール。<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
-    </item>
-    <item>
-      <title>LokalBot</title>
-      <link>https://www.lokalbot.com/</link>
-      <guid isPermaLink="false">bbb627863dad9c5e4bd947cea7e7aa7d0ad73077:LokalBot</guid>
-      <pubDate>Fri, 17 Jul 2026 06:18:18 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: LokalBot
-Description: macOS向けのオンデバイス会議ノート、音声入力、インライン自動補完、検索可能な仕事の記憶。
-Website: https://www.lokalbot.com/
-Commit: Add LokalBot to AI Tools (#2340)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: LokalBot<br/>Description: macOS向けのオンデバイス会議ノート、音声入力、インライン自動補完、検索可能な仕事の記憶。<br/>Website: https://www.lokalbot.com/<br/>Commit: Add LokalBot to AI Tools (#2340)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077]]></content:encoded>
     </item>
   </channel>
 </rss>
