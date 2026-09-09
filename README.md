@@ -1457,6 +1457,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
 * [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - Search and discovery with AI.
+* [Planim Time](https://time.planim.app/jira) - Menu bar time tracker for Jira with a one-click timer, two-way worklog sync, and offline-first local storage. ![Freeware][Freeware Icon]
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 * [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
 * [Qbserve](https://qotoqot.com/qbserve/) - Automatic time tracking with projects, timesheets, and productivity insights.

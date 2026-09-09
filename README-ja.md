@@ -1459,6 +1459,7 @@ Awesome Mac
 * [PaletteBrain](https://palettebrain.com) - ショートカットキーひとつですべてのMacアプリケーションからChatGPTのパワーにアクセス。
 * [Pie Menu](https://www.pie-menu.com) – アクティブなアプリに合わせてカスタマイズされたラジアルメニューでツールを操作。
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - AIによる検索と発見。
+* [Planim Time](https://time.planim.app/jira) - ワンクリック計測、作業ログの双方向同期、オフラインでも使えるローカル保存に対応した Jira 向けメニューバー時間追跡ツール。 ![Freeware][Freeware Icon]
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - ポモドーロトラッカー。
 * [Qbserve](https://qotoqot.com/qbserve/) - プロジェクト管理や工数集計に対応した自動時間追跡ツール。
 * [Raycast](https://raycast.com?via=ae02) - 拡張機能、スニペット、ノート、AIを備えたランチャー。
