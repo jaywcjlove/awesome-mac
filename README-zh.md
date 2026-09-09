@@ -1445,6 +1445,7 @@ Awesome Mac
 * [Moom](http://manytricks.com/moom/) - 用于移动、调整和保存窗口布局的工具。
 * [Nudge](https://nudge.run) - 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id441258766?platform=mac)
+* [OmniWM](https://omniwm.app) - 面向运行 macOS 26 或更高版本的 Apple 芯片 Mac 的免费开源平铺式窗口管理器，提供 Niri 风格的滚动容器和 Hyprland 风格的 Dwindle BSP。[![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
 * [Plonk](https://github.com/ostapondo/plonk) - 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。 [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - 基于 Spectacle 的窗口管理应用程序，使用键盘快捷键在 macOS 上移动和调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
