@@ -144,6 +144,7 @@
 * [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - 基于终端界面的 macOS 磁盘清理工具，支持预览优先的清理流程，可扫描缓存和开发构建产物，并安全地将选定文件移至废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/2ykwang/mac-cleanup-go) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的 OS X 系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
+* [mac-storage-cleaner](https://github.com/JubaKitiashvili/mac-storage-cleaner) - macOS 磁盘清理工具：默认只预览、不删除，仅自动清理经审核的缓存白名单，其余风险较高的文件移入废纸篓；代码内置的黑名单（含 47 条路径测试用例）拦截照片图库、备份、钥匙串和 SSH 密钥，且每次操作都会写入审计日志。 [![Open-Source Software][OSS Icon]](https://github.com/JubaKitiashvili/mac-storage-cleaner) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [ngrrram](https://github.com/wintermute-cell/ngrrram) - 一个帮助你提高打字速度并学习新布局的 TUI 工具，附赠一只免费的小猫。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wintermute-cell/ngrrram)
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
