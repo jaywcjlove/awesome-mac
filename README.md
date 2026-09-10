@@ -1008,6 +1008,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app for live captions, audio/video transcription, and subtitle translation.
 * [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A lightweight local music player that supports multiple formats for enjoying music anytime.
 * [Fmusic](https://github.com/wandercn/fmusic) - A fmusic is a open source music player on SwiftUI.[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
+* [WaveXML](https://wavexml.com/) - Free beta that syncs by waveform: recorder audio to cameras, and video clips to each other, via FCP7/FCPXML from DaVinci Resolve, Premiere Pro, and Final Cut. ![Freeware][Freeware Icon]
 
 ### Audio Record and Process
 
