@@ -710,6 +710,7 @@ Awesome Mac
 * [LocalSend](https://localsend.org/) - 跨平台的文件传输工具，界面简洁[![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - Rclone 和 s3 的图形用户界面。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
+* [Tethersnap](https://github.com/Luminoid/Tethersnap) - 通过 USB 导出 Nintendo Switch 2 截图与视频的开源应用及命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/Luminoid/Tethersnap) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 
