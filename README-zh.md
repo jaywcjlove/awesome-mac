@@ -1080,6 +1080,7 @@ Awesome Mac
 
 ## 金融
 
+* [Posnic](https://www.posnic.com/) - 面向零售商店和餐厅的离线优先开源 POS 与计费软件。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 原生菜单栏行情工具，支持美股、港股、A 股、加密货币、指数、ETF 和持仓盈亏。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - 带续费提醒的订阅管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 
