@@ -1001,6 +1001,7 @@ Awesome Mac
 ### 시스템 도구
 
 * [Crisp](https://didriksg.github.io/Crisp/) - 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Floodtide](https://bhopstudio.com/floodtide) - 각 앱의 자체 업데이트 소스에서 Mac의 모든 앱 업데이트를 찾아 한 번에 설치합니다.
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [Nifro](https://github.com/PathGao/Nifro) - 웹사이트를 설정 가능한 데스크톱 배경화면으로 바꾸고, 디스플레이마다 별도 화면을 설정할 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [DisplayBuddy](https://displaybuddy.app) - 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.
