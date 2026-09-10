@@ -664,6 +664,7 @@ Awesome Mac
 * [Cursor Voice](https://cursorvoice.app) - 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 하나의 작업 공간에서 여러 Claude Code와 셸 세션을 병렬로 실행하는 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
+* [FlowIn](https://flowin.so) - 온디바이스 AI 모델로 모든 Mac 앱에서 문장을 인라인으로 완성하는 시스템 전역 AI 자동완성. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업. [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 선택한 텍스트를 AI 어시스턴트와 CLI 에이전트로 보내는 메뉴 막대 런처.

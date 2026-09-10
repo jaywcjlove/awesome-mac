@@ -627,6 +627,7 @@ Awesome Mac
 * [Cursor Voice](https://cursorvoice.app) - 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
+* [FlowIn](https://flowin.so) - 系统级 AI 自动补全，在各类 Mac 应用中内联补全整句，由端侧 AI 模型驱动。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - 将 Google Gemini 对话、附件与 AI 生成媒体以 JSON 格式备份到本地。 [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
