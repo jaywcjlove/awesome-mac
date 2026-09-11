@@ -743,6 +743,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Teampaper Snap](https://teampaper.me/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id1199502670?platform=mac)
 * [Tuji](https://tuji.app/) - Take a screenshot, annotate it, and beautify it. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [Xnip](https://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
+* [Snapling](https://getsnapling.com/) - Transform screenshots into a searchable visual workspace with AI OCR, GIF recording, and clipboard memory. ![Freeware][Freeware Icon]
 
 ### Screen Recording
 
