@@ -873,6 +873,7 @@ Awesome Mac
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
+* [PinkDown](https://3xian.github.io/PinkDown/) - 使用 Rust 构建的原生分栏 Markdown 编辑器和阅读器，支持实时预览。 [![Open-Source Software][OSS Icon]](https://github.com/3xian/PinkDown) ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。

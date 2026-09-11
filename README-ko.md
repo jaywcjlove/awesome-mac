@@ -217,6 +217,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
+* [PinkDown](https://3xian.github.io/PinkDown/) - Rust로 제작된 네이티브 분할 창 Markdown 편집기 및 리더로, 실시간 미리보기를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/3xian/PinkDown) ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.

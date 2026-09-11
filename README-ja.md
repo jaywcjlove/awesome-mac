@@ -243,6 +243,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
 * [Obsidian](https://obsidian.md) - あなたのための第二の脳、永遠に。
+* [PinkDown](https://3xian.github.io/PinkDown/) - Rust製のネイティブな分割ペインMarkdownエディター兼リーダーで、ライブプレビューに対応。 [![Open-Source Software][OSS Icon]](https://github.com/3xian/PinkDown) ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Scratch](https://www.ericli.io/scratch) - WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。
