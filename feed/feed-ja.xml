@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:16:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Candela</title>
+      <link>https://candela.fyi</link>
+      <guid isPermaLink="false">bcc353ce0a24e8cde4aab04286ea010635548ed2:Candela</guid>
+      <pubDate>Fri, 11 Sep 2026 02:16:10 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Candela
+Description: 外部ディスプレイをいたわるメニューバーアプリ。OLED焼き付き防止、パネルの使用履歴、そして輝度・音量・コントラストの日常操作。
+Website: https://candela.fyi
+Commit: Add Candela to Menu Bar Tools (#2743)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Candela<br/>Description: 外部ディスプレイをいたわるメニューバーアプリ。OLED焼き付き防止、パネルの使用履歴、そして輝度・音量・コントラストの日常操作。<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
+    </item>
     <item>
       <title>Mactokio</title>
       <link>https://github.com/dalirnet/mactokio</link>
@@ -693,20 +707,6 @@ Website: https://royzhao1991.github.io/LingShu/
 Commit: Add LingShu to AI Tools (#2355)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: LingShu<br/>Description: オープンソースでモデル非依存のmacOSエージェント。検証済みのコード、文書、スライド、コンピュータ操作を提供します。<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
-    </item>
-    <item>
-      <title>Changes</title>
-      <link>https://github.com/maoyama/Changes</link>
-      <guid isPermaLink="false">2b914ff2e03ed8f449b44356cfcce5efee98c3c3:Changes</guid>
-      <pubDate>Sat, 18 Jul 2026 15:20:14 GMT</pubDate>
-      <category>開発ツール / バージョン管理</category>
-      <description>Category: 開発ツール / バージョン管理
-App: Changes
-Description: GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。
-Open Source: https://github.com/maoyama/Changes
-Commit: Add Changes to the ja/ko/zh list.
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3</description>
-      <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: Changes<br/>Description: GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Add Changes to the ja/ko/zh list.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2b914ff2e03ed8f449b44356cfcce5efee98c3c3]]></content:encoded>
     </item>
   </channel>
 </rss>
