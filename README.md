@@ -251,6 +251,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Note-taking
 
+* [Adversaria](https://lagharilabs.com/adversaria) - Meeting notetaker that records, transcribes and summarizes entirely on your Mac; no bot joins the call and the recording is deleted once transcribed. [![Open-Source Software][OSS Icon]](https://github.com/LaghariLabs/adversaria) ![Freeware][Freeware Icon]
 * [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - Date-focused note taking app for both planning and documenting your projects. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
 * [Anytype](https://anytype.io/) - Local-first note-taking and knowledge management app. ![Freeware][Freeware Icon]
