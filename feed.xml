@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Sep 2026 03:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:45:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NotchOTP</title>
+      <link>https://github.com/Photon94/NotchOTP</link>
+      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
+      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
+      <category>Utilities / Password Management</category>
+      <description>Category: Utilities / Password Management
+App: NotchOTP
+Description: Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage.
+Open Source: https://github.com/Photon94/NotchOTP
+Commit: Add NotchOTP to Password Management (#2835)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
+      <content:encoded><![CDATA[Category: Utilities / Password Management<br/>App: NotchOTP<br/>Description: Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage.<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
+    </item>
     <item>
       <title>Posnic</title>
       <link>https://www.posnic.com/</link>
@@ -693,20 +707,6 @@ Website: https://app.aqbot.top/
 Commit: Add AQBot to AI Tools (#2423)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: AQBot<br/>Description: Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
-    </item>
-    <item>
-      <title>Crisp</title>
-      <link>https://didriksg.github.io/Crisp/</link>
-      <guid isPermaLink="false">44caf9d5982bf9b0abcf8cdb6ccfdd189070568c:Crisp</guid>
-      <pubDate>Tue, 28 Jul 2026 06:51:17 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Crisp
-Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.
-Website: https://didriksg.github.io/Crisp/
-Commit: Add Crisp to Quality of Life Improvements (#2415)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Crisp<br/>Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to Quality of Life Improvements (#2415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c]]></content:encoded>
     </item>
   </channel>
 </rss>

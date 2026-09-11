@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 03:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:45:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NotchOTP</title>
+      <link>https://github.com/Photon94/NotchOTP</link>
+      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
+      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
+      <category>其它实用工具 / 密码管理</category>
+      <description>Category: 其它实用工具 / 密码管理
+App: NotchOTP
+Description: 原生 TOTP 验证器，提供与刘海等宽的面板、键盘快捷键和本地钥匙串存储。
+Open Source: https://github.com/Photon94/NotchOTP
+Commit: Add NotchOTP to Password Management (#2835)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 密码管理<br/>App: NotchOTP<br/>Description: 原生 TOTP 验证器，提供与刘海等宽的面板、键盘快捷键和本地钥匙串存储。<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
+    </item>
     <item>
       <title>Posnic</title>
       <link>https://www.posnic.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/SHIINASAMA/wifi-lens
 Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: WiFi Lens<br/>Description: 原生开源 Wi-Fi 分析器和网络诊断应用，支持实时频谱扫描、信道拥塞可视化和 BLE 设备追踪。<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
-    </item>
-    <item>
-      <title>Shuffle</title>
-      <link>https://shuffleapp.co</link>
-      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
-      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: Shuffle
-Description: 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。
-Website: https://shuffleapp.co
-Commit: Add Shuffle (file manager) (#2395)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Shuffle<br/>Description: 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
     </item>
   </channel>
 </rss>

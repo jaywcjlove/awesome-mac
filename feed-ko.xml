@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 03:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:45:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NotchOTP</title>
+      <link>https://github.com/Photon94/NotchOTP</link>
+      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
+      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
+      <category>유틸리티 / 비밀번호 관리</category>
+      <description>Category: 유틸리티 / 비밀번호 관리
+App: NotchOTP
+Description: 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱.
+Open Source: https://github.com/Photon94/NotchOTP
+Commit: Add NotchOTP to Password Management (#2835)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 비밀번호 관리<br/>App: NotchOTP<br/>Description: 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱.<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
+    </item>
     <item>
       <title>Posnic</title>
       <link>https://www.posnic.com/</link>
@@ -693,20 +707,6 @@ Website: https://www.pulseticker.app/
 Commit: Add Pulse to Finance (#2376)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a</description>
       <content:encoded><![CDATA[Category: 금융<br/>App: Pulse<br/>Description: 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구.<br/>Website: https://www.pulseticker.app/<br/>Commit: Add Pulse to Finance (#2376)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a]]></content:encoded>
-    </item>
-    <item>
-      <title>TypeCue</title>
-      <link>https://typecue.app</link>
-      <guid isPermaLink="false">1bba52f8aa1dba5b58372916d00a37709c8d1b76:TypeCue</guid>
-      <pubDate>Mon, 20 Jul 2026 04:36:43 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: TypeCue
-Description: 준비한 스크립트를 단축키 한 번에 한 줄씩, 실제 키 입력으로 자연스러운 속도로 어떤 앱에나 입력합니다. 데모 녹화와 라이브 발표용.
-Website: https://typecue.app
-Commit: Add TypeCue to Menu Bar Tools (#2360)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: TypeCue<br/>Description: 준비한 스크립트를 단축키 한 번에 한 줄씩, 실제 키 입력으로 자연스러운 속도로 어떤 앱에나 입력합니다. 데모 녹화와 라이브 발표용.<br/>Website: https://typecue.app<br/>Commit: Add TypeCue to Menu Bar Tools (#2360)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76]]></content:encoded>
     </item>
   </channel>
 </rss>
