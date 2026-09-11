@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:31:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Posnic</title>
+      <link>https://www.posnic.com/</link>
+      <guid isPermaLink="false">27cbfec86e75defa62277fc77202c9a705cc0c05:Posnic</guid>
+      <pubDate>Fri, 11 Sep 2026 03:31:19 GMT</pubDate>
+      <category>Finance</category>
+      <description>Category: Finance
+App: Posnic
+Description: Offline-first open-source POS and billing software for retail shops and restaurants.
+Website: https://www.posnic.com/
+Commit: Add Posnic POS (#2832)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05</description>
+      <content:encoded><![CDATA[Category: Finance<br/>App: Posnic<br/>Description: Offline-first open-source POS and billing software for retail shops and restaurants.<br/>Website: https://www.posnic.com/<br/>Commit: Add Posnic POS (#2832)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05]]></content:encoded>
+    </item>
     <item>
       <title>Candela</title>
       <link>https://candela.fyi</link>
@@ -693,20 +707,6 @@ Website: https://didriksg.github.io/Crisp/
 Commit: Add Crisp to Quality of Life Improvements (#2415)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c</description>
       <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Crisp<br/>Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to Quality of Life Improvements (#2415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c]]></content:encoded>
-    </item>
-    <item>
-      <title>WiFi Lens</title>
-      <link>https://github.com/SHIINASAMA/wifi-lens</link>
-      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
-      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
-      <category>Developer Tools / Network Analysis</category>
-      <description>Category: Developer Tools / Network Analysis
-App: WiFi Lens
-Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.
-Open Source: https://github.com/SHIINASAMA/wifi-lens
-Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: WiFi Lens<br/>Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
     </item>
   </channel>
 </rss>
