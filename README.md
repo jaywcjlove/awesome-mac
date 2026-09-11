@@ -752,6 +752,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Keyty](https://keyty.app/) - Open-source keyboard and mouse visualizer for screencasts, presentations, and demos. [![Open-Source Software][OSS Icon]](https://github.com/keytyapp/Keyty) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
 * [Licecap](https://www.cockos.com/licecap/) - Screen recorder that exports directly to GIF. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
