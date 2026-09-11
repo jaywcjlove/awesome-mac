@@ -1523,6 +1523,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snapback](https://snapbackapp.com) - Save and restore entire window layouts with one keystroke. ![Freeware][Freeware Icon]
 * [Swift Shift](https://swiftshift.app) - Move and resize windows with keyboard shortcuts and mouse gestures. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [StreamWindow](https://macdev.cn/) - 3D window manager with intuitive views and fluid transitions. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
+* [Tack](https://tack.website) - Group windows from any apps into one tabbed window, like Groupy on Windows.
 * [Tiles](https://freemacsoft.net/tiles/) - Snap and rearrange windows with screen edges, shortcuts, or the menu bar. ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.

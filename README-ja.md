@@ -1523,6 +1523,7 @@ Awesome Mac
 * [Snapback](https://snapbackapp.com) - キー操作一回でウィンドウレイアウト全体を保存・復元。 ![Freeware][Freeware Icon]
 * [StreamWindow](https://macdev.cn/) - 3Dアニメーションと直感的な表示切り替えを備えたウィンドウ管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
 * [Swift Shift](https://swiftshift.app) - キーボードショートカットとマウスでウィンドウを素早く移動・リサイズするツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
+* [Tack](https://tack.website) - 任意のアプリのウィンドウを1つのタブ付きウィンドウにまとめる。Windows の Groupy に相当。
 * [Tiles](https://freemacsoft.net/tiles/) - 画面端、ショートカット、メニューバーでウィンドウを整列できるツール。 ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - 任意のウィンドウを画面の最前面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - ワークスペースの切り替えや把握をしやすくする管理ツール。
