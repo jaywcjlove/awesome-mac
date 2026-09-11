@@ -1093,6 +1093,7 @@ Awesome Mac
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 用于扫描恶意软件、广告软件和网页威胁的安全工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 恶意软件会自行安装，以确保它在重新引导时自动重新执行。
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 用于受保护路径的策略式文件访问控制工具。 [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
+* [Cloak](https://trycloak.app) - 使用 Touch ID 或密码锁定应用，隐藏应用，并就地加密文件夹和文件。 ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - 用于扫描 dylib 劫持风险应用的工具。 ![Freeware][Freeware Icon]
 * [Encrypto](https://macpaw.com/encrypto) - 免费加密工具，用于加密文件和文件夹
 * [fob](https://getfob.app) - 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
