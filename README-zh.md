@@ -1476,6 +1476,7 @@ Awesome Mac
 * [LastPass](https://www.lastpass.com/) - 密码管理器和安全的数字笔记。
 * [MacPass](https://macpass.github.io/) - 密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/mstarke/MacPass) ![Freeware][Freeware Icon]
 * [Mactokio](https://github.com/dalirnet/mactokio) - 原生 TOTP/HOTP 验证器，通过摄像头扫描二维码导入账户，密钥以 AES-256 加密保存在本地。 [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [NotchOTP](https://github.com/Photon94/NotchOTP) - 原生 TOTP 验证器，提供与刘海等宽的面板、键盘快捷键和本地钥匙串存储。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SafeInCloud](https://www.safe-in-cloud.com/) - 多功能密码保险箱 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/password-manager-safeincloud/id883070818?platform=mac) ![Freeware][Freeware Icon]
 * [Strongbox](https://strongboxsafe.com/) - 兼容 KeePass 和 Password Safe 的密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?platform=mac)
 
