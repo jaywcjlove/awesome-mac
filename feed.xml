@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:16:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Candela</title>
+      <link>https://candela.fyi</link>
+      <guid isPermaLink="false">bcc353ce0a24e8cde4aab04286ea010635548ed2:Candela</guid>
+      <pubDate>Fri, 11 Sep 2026 02:16:10 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Candela
+Description: Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.
+Website: https://candela.fyi
+Commit: Add Candela to Menu Bar Tools (#2743)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Candela<br/>Description: Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
+    </item>
     <item>
       <title>Mactokio</title>
       <link>https://github.com/dalirnet/mactokio</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/SHIINASAMA/wifi-lens
 Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
       <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: WiFi Lens<br/>Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
-    </item>
-    <item>
-      <title>Shuffle</title>
-      <link>https://shuffleapp.co</link>
-      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
-      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: Shuffle
-Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.
-Website: https://shuffleapp.co
-Commit: Add Shuffle (file manager) (#2395)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Shuffle<br/>Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
     </item>
   </channel>
 </rss>
