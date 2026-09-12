@@ -901,6 +901,7 @@ Awesome Mac
 * [Cloudflare WARP](https://1.1.1.1/) - Cloudflare를 통해 트래픽을 라우팅하는 보안 네트워크 서비스. ![Freeware][Freeware Icon]
 * [DashVPN](https://getdashvpn.com/) - 스마트 라우팅을 지원하는 프록시 클라이언트로 VLESS, Shadowsocks, HTTPS 구독을 지원합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dash-vpn-for-outline-vless/id6758860923?platform=mac)
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
+* [Macxelio](https://github.com/dalirnet/macxelio) - Xray-core 기반 네이티브 메뉴 막대 프록시 클라이언트로 규칙 기반 라우팅, 사용자 지정 DNS, 공유 링크 가져오기를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/macxelio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mullvad VPN](https://mullvad.net) - 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [TrustTunnel](https://trusttunnel.org/) - 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스. ![Freeware][Freeware Icon]

@@ -1131,6 +1131,7 @@ Awesome Mac
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 支持多种代理协议与订阅的跨平台代理客户端。 [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Mullvad VPN](https://mullvad.net) - 注重隐私、支持匿名账号的 VPN 服务。 [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern)![Freeware][Freeware Icon]
+* [Macxelio](https://github.com/dalirnet/macxelio) - 基于 Xray-core 的原生菜单栏代理客户端，支持规则路由、自定义 DNS 和分享链接导入。 [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/macxelio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) - 一个以mihomo内核的GUI [![Open-Source Software][OSS Icon]](https://github.com/mihomo-party-org/mihomo-party) ![Freeware][Freeware Icon]
 * [Outline](https://getoutline.org/) - 借助 Outline，创建 VPN 服务器变得轻而易举，从而让任何人都能访问自由、开放的互联网。[![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code)![Freeware][Freeware Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks)![Freeware][Freeware Icon]

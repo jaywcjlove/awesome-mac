@@ -1182,6 +1182,7 @@ Awesome Mac
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 複数のプロキシプロトコルとサブスクリプションを扱えるマルチプラットフォームクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Jumper VPN](https://jumpervpn.com/) - Macおよびその他のプラットフォーム用のVPNクライアント。セキュアで高速なVPNプロキシ。
 * [Lantern](https://getlantern.org) - オープンなインターネットへの高速で信頼性の高いセキュアなアクセスを提供する無料アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
+* [Macxelio](https://github.com/dalirnet/macxelio) - Xray-core搭載のネイティブメニューバープロキシクライアント。ルールベースのルーティング、カスタムDNS、共有リンクのインポートに対応。 [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/macxelio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mullvad VPN](https://mullvad.net) - 匿名アカウントと強いプライバシー保護を重視したVPNサービス。 [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - VPNサーバーの作成を簡単にし、誰でも自由でオープンなインターネットにアクセスできるようにする。 [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
 * [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - 簡単ワンクリックのmacOSプロキシ設定アプリ。 ![Freeware][Freeware Icon]
