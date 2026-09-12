@@ -553,6 +553,7 @@ Awesome Mac
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 인간을 위해 만들어진 훌륭한 macOS용 이미지 및 사진 편집기.
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 전문적인 그래픽 디자인 소프트웨어.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 전문적인 이미지 편집 소프트웨어.
+* [ArtDeck](https://getartdeck.com/) - 색상, 명도, 구도, 움직임을 연구하기 위한 도구를 갖춘 비주얼 레퍼런스 보드. [![App Store][app-store Icon]](https://apps.apple.com/app/artdeck/id6764851724?platform=mac)
 * [Blender](https://www.blender.org/) - 무료 오픈 소스 3D 제작 소프트웨어. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - 오픈 소스 색상 조작 및 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - 오픈 소스 사진 워크플로우 및 RAW 현상 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
