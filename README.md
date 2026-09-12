@@ -1239,6 +1239,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Menu Bar Tools
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [AI-Cockpit](https://aicockpit.info) - Shows the limits and the spend of eight AI services in one menu bar panel — Claude, ChatGPT & Codex, the Anthropic and OpenAI APIs, Kimi K3, OpenRouter, Grok and GitHub Copilot — plus running Claude Code sessions, with a forecast of when each window runs out. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6802014255?platform=mac)
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
