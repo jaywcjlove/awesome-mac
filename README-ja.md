@@ -1548,6 +1548,7 @@ Awesome Mac
 
 ### Finderツール
 
+* [Arazio](https://arazioformac.com) - Finderでファイルをドラッグ中に修飾キーを押し、目的の形式へ離すだけで変換でき、すべてローカルで動作。
 * [Command X](https://sindresorhus.com/command-x) - Finderでファイルの切り取り＆貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - あらゆるアプリからファイルやフォルダに素早くアクセス。
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` の起動リンクを保ったままアプリを外部ストレージへ移せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
