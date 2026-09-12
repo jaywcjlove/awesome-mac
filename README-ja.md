@@ -923,6 +923,7 @@ Awesome Mac
 * [LocalSend](https://localsend.org/) - AirDropに代わるオープンソースのクロスプラットフォームアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
+* [Tethersnap](https://github.com/Luminoid/Tethersnap) - Nintendo Switch 2のスクリーンショットと動画をUSB経由で書き出すオープンソースのアプリとCLI。 [![Open-Source Software][OSS Icon]](https://github.com/Luminoid/Tethersnap) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 非常に柔軟で直感的なFTPクライアント。SFTP、S3、iDisk/WebDAVをサポート。
 
 ## データ復旧ツール
