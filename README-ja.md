@@ -1402,7 +1402,7 @@ Awesome Mac
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - OmniGroups製の優れたGTDアプリ。
 * [One Task](https://sindresorhus.com/one-task) - 一度に一つのタスクに集中。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322?platform=mac)
 * [Super Productivity](https://super-productivity.com) - タイムボクシングと時間追跡を備えたタスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
-* [Taskade](https://www.taskade.com) - チーム向けリアルタイムコラボレーションエディター。
+* [Taskade](https://www.taskade.com) - タスク、エージェント、リアルタイム共同編集を備えたチーム向け AI ワークスペース。
 * [TaskPaper](https://www.taskpaper.com/) - プレーンテキストベースのToDoリスト。
 * [Things](https://culturedcode.com/things/) - 使いやすく快適なタスクマネージャー。（**受賞歴のあるアプリ**）
 * [Todoist](https://todoist.com/mac) - クロスプラットフォームのToDoリストアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?platform=mac)
