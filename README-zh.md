@@ -290,6 +290,7 @@ Awesome Mac
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - 用于增强与git交互的shell脚本集(用于bash和zsh)。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持 SSH、Telnet 等多种协议的终端仿真程序。
+* [SnipperApp 3](https://snipperapp.com) - 原生代码片段管理器，支持 iCloud/Gist 同步，内置供 AI 助手使用的 MCP 服务器。[![App Store][app-store Icon]](https://apps.apple.com/us/app/snipperapp-3-code-snippets/id6757330954?mt=12)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 用于管理本地 SSH 密钥和 Git 身份的原生 macOS 应用。 [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Starcat](https://starcat.ink/) - 原生、本地优先的 GitHub Stars 管理器，将收藏的仓库转化为可搜索、AI 辅助的知识库。 [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
