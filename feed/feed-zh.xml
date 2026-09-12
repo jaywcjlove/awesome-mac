@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Highball</title>
+      <link>https://gethighball.com</link>
+      <guid isPermaLink="false">13e9a58445529bb53ea19d272a0af2580b6d0f6b:Highball</guid>
+      <pubDate>Sat, 12 Sep 2026 16:31:47 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: Highball
+Description: 通过 Wine 在 Apple Silicon 上运行 Windows 游戏，按游戏从开放的兼容性数据库中选择图形层（DXMT、DXVK 或 D3DMetal）。
+Website: https://gethighball.com
+Commit: Add Highball to Gaming Software (#2852)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Highball<br/>Description: 通过 Wine 在 Apple Silicon 上运行 Windows 游戏，按游戏从开放的兼容性数据库中选择图形层（DXMT、DXVK 或 D3DMetal）。<br/>Website: https://gethighball.com<br/>Commit: Add Highball to Gaming Software (#2852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b]]></content:encoded>
+    </item>
     <item>
       <title>JustMD</title>
       <link>https://justmd.nuta.life/</link>
@@ -693,20 +707,6 @@ Website: https://app.aqbot.top/
 Commit: Add AQBot to AI Tools (#2423)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: AQBot<br/>Description: 开源桌面 AI 工作台，支持多服务商对话、智能体工作流、知识库、MCP 工具和 OpenAI 兼容 API 网关。<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
-    </item>
-    <item>
-      <title>Crisp</title>
-      <link>https://didriksg.github.io/Crisp/</link>
-      <guid isPermaLink="false">9963b8e2708ce5c66c1423033ee8d990c6441681:Crisp</guid>
-      <pubDate>Tue, 28 Jul 2026 06:54:55 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Crisp
-Description: 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。
-Website: https://didriksg.github.io/Crisp/
-Commit: Add Crisp to the zh/ko/ja list. #2415
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Crisp<br/>Description: 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
     </item>
   </channel>
 </rss>

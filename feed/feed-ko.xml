@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:31:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Highball</title>
+      <link>https://gethighball.com</link>
+      <guid isPermaLink="false">13e9a58445529bb53ea19d272a0af2580b6d0f6b:Highball</guid>
+      <pubDate>Sat, 12 Sep 2026 16:31:47 GMT</pubDate>
+      <category>게임 소프트웨어</category>
+      <description>Category: 게임 소프트웨어
+App: Highball
+Description: Wine을 통해 Apple Silicon에서 Windows 게임을 실행하며, 공개 호환성 데이터베이스에서 게임별로 그래픽 계층(DXMT, DXVK 또는 D3DMetal)을 선택합니다.
+Website: https://gethighball.com
+Commit: Add Highball to Gaming Software (#2852)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b</description>
+      <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: Highball<br/>Description: Wine을 통해 Apple Silicon에서 Windows 게임을 실행하며, 공개 호환성 데이터베이스에서 게임별로 그래픽 계층(DXMT, DXVK 또는 D3DMetal)을 선택합니다.<br/>Website: https://gethighball.com<br/>Commit: Add Highball to Gaming Software (#2852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b]]></content:encoded>
+    </item>
     <item>
       <title>JustMD</title>
       <link>https://justmd.nuta.life/</link>
@@ -693,20 +707,6 @@ Website: https://shuffleapp.co
 Commit: Add Shuffle (file manager) (#2395)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Shuffle<br/>Description: Rust로 개발된 GPU 렌더링 고속 파일 관리자이자 Finder 대안.<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
-    </item>
-    <item>
-      <title>Berthly</title>
-      <link>https://berthly.net</link>
-      <guid isPermaLink="false">3ad1324d5a3e545cb049ff725732fdeec9ecf718:Berthly</guid>
-      <pubDate>Fri, 24 Jul 2026 09:01:09 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: Berthly
-Description: Apple container 도구용 네이티브 GUI. 메뉴바 실시간 모니터링과 드래그 앤 드롭 이미지 빌드 지원.
-Website: https://berthly.net
-Commit: Add Berthly to Virtualization (#2396)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Berthly<br/>Description: Apple container 도구용 네이티브 GUI. 메뉴바 실시간 모니터링과 드래그 앤 드롭 이미지 빌드 지원.<br/>Website: https://berthly.net<br/>Commit: Add Berthly to Virtualization (#2396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718]]></content:encoded>
     </item>
   </channel>
 </rss>
