@@ -1063,6 +1063,7 @@ Awesome Mac
 ## 音声テキスト変換
 
 * [Aiko](https://sindresorhus.com/aiko) - 高品質なデバイス上の文字起こし。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
+* [Aria](https://hfioafio.github.io/Aria-Downloads/en.html) - どのアプリでもカーソル位置に入力できるディクテーション。完全オフラインのローカルエンジンと音声ファイルの文字起こしに対応。 ![Freeware][Freeware Icon]
 * [Azex Speech](https://github.com/azex-ai/speech) - AIや暗号資産の作業で中英混在の音声入力に強いツール。 [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - 個人のコンピューター上でオフラインで音声を文字起こし・翻訳。OpenAIのWhisperを使用。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [EnviousWispr](https://enviouswispr.com/) - 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。 ![Freeware][Freeware Icon]
