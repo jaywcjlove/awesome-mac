@@ -218,6 +218,7 @@ Awesome Mac
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
+* [Quillite Markdown](https://qm.ssssa.cn/) - 가볍고 로컬 우선인 Markdown 리더 및 편집기로, 실시간 미리보기, 시각적 다이어그램 편집, 수식 및 다양한 형식의 내보내기를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/liuhang798/quillite-markdown) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.
 * [Zettlr](https://www.zettlr.com/) - 21세기를 위한 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
