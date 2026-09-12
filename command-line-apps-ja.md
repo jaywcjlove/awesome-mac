@@ -161,6 +161,7 @@ Awesome Command Line Apps
 * [MarkersExtractor](https://github.com/TheAcharya/MarkersExtractor) - Final Cut Pro用のマーカーメタデータ抽出・変換ツールおよびライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/MarkersExtractor) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - Mac App Store用のシンプルなコマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Miller](https://miller.readthedocs.io/en/latest/) - CSV、TSV、表形式JSONなどの名前付きインデックスデータに対するawk、sed、cut、join、sortのようなツール。 [![Open-Source Software][OSS Icon]](https://github.com/johnkerl/miller) ![Freeware][Freeware Icon]
+* [Mole](https://github.com/tw93/Mole) - ターミナルから Mac をクリーンアップ・アンインストール・分析・最適化・監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - ソファから直接[npm](http://npmjs.org/)を管理。 [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [nushell](https://github.com/nushell/nushell) - Rustで書かれたモダンなGitHub時代のシェル。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 * [nvm](https://github.com/nvm-sh/nvm) - 複数のアクティブなnode.jsバージョンを管理するPOSIX準拠のbashスクリプト。 [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
