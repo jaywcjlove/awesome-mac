@@ -686,6 +686,7 @@ Awesome Mac
 * [Witsy](https://github.com/nbonamy/witsy) - 데스크톱 AI 어시스턴트 및 유니버설 MCP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/nbonamy/witsy) ![Freeware][Freeware Icon]
 * [remio](https://www.remio.ai/?utm_source=github_list) - 개인 지식 기반으로 답변하는 로컬 우선 AI 채팅 클라이언트. [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 네이티브 Swift 기반 macOS 앱으로, 사용자 API 키로 여러 LLM 모델을 실행할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/WardenApp) ![Freeware][Freeware Icon]
+* [Wayfinder](https://wayfinder-ai.pages.dev/) - Codex와 Claude Code 세션, 분기, 실패, 결정, 파일 변경을 보존하는 로컬 우선 시각적 항해 지도. [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 
 ### 이미지
 
