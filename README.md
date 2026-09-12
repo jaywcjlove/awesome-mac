@@ -585,6 +585,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](https://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VMware Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Orchard](https://github.com/andrew-waters/orchard) - Native macOS GUI for managing containers, machines and local AI models using Apple's container tooling. [![Open-Source Software][OSS Icon]](https://github.com/andrew-waters/orchard) ![Freeware][Freeware Icon]
 
 ### Databases
 
