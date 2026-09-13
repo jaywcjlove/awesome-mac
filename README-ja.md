@@ -990,7 +990,6 @@ Awesome Mac
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - 10バンドEQ、カラオケモード、タイム同期歌詞を備えた美しいオーディオファイル音楽プレイヤー。 ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](http://www.telestream.net/screenflow/) - スクリーンキャストとビデオ編集ソフトウェア。
 * [Shotcut](https://www.shotcut.org) - 無料のオープンソースビデオエディター。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
-* [Sonora](https://github.com/sonoramac/Sonora) - ミニマルで美しくデザインされた音楽プレイヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Spotifly](https://github.com/ralph/Spotifly) - 再生操作をすばやく行える軽量なSpotifyプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - メニューバーにSpotifyとiTunesを表示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 映画、テレビ、ライブ配信、各種ストリーミングソースをまとめて扱うメディアセンター。 ![Freeware][Freeware Icon]
@@ -1009,7 +1008,7 @@ Awesome Mac
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - プラグイン拡張に対応したYouTube Musicデスクトッププレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) - YouTube Music用の無料クロスプラットフォームデスクトッププレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - ライブキャプション、オーディオ/ビデオ文字起こし、字幕翻訳のための多機能アプリ。
-* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - いつでも音楽を楽しめる、複数フォーマット対応の軽量ローカル音楽プレイヤー。
+* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - レトロなローカル音楽プレイヤー。複数フォーマットとAI操作に対応。
 * [Fmusic](https://github.com/wandercn/fmusic) - SwiftUIで作られたオープンソースの音楽プレイヤー。[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
 
 ### オーディオ録音・処理

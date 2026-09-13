@@ -989,7 +989,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
-* [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Spotifly](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
@@ -1008,7 +1007,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - Desktop player for YouTube Music with plugin support. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) -  Free cross platform Desktop Player for YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app for live captions, audio/video transcription, and subtitle translation.
-* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A lightweight local music player that supports multiple formats for enjoying music anytime.
+* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A retro local music player that supports multiple formats and AI control.
 * [Fmusic](https://github.com/wandercn/fmusic) - A fmusic is a open source music player on SwiftUI.[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
 
 ### Audio Record and Process
