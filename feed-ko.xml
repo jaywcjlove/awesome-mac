@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:27:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Wayfinder</title>
+      <link>https://wayfinder-ai.pages.dev/</link>
+      <guid isPermaLink="false">5ef9a3c115e23233512ba5315424a772c738030d:Wayfinder</guid>
+      <pubDate>Sun, 13 Sep 2026 06:27:40 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Wayfinder
+Description: Codex와 Claude Code 세션, 분기, 실패, 결정, 파일 변경을 보존하는 로컬 우선 시각적 항해 지도.
+Website: https://wayfinder-ai.pages.dev/
+Commit: Add Wayfinder to AI Tools (#2828)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Wayfinder<br/>Description: Codex와 Claude Code 세션, 분기, 실패, 결정, 파일 변경을 보존하는 로컬 우선 시각적 항해 지도.<br/>Website: https://wayfinder-ai.pages.dev/<br/>Commit: Add Wayfinder to AI Tools (#2828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d]]></content:encoded>
+    </item>
     <item>
       <title>MRRDock</title>
       <link>https://mrrdock.simoneruggiero.com</link>
@@ -693,20 +707,6 @@ Website: https://didriksg.github.io/Crisp/
 Commit: Add Crisp to the zh/ko/ja list. #2415
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Crisp<br/>Description: 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
-    </item>
-    <item>
-      <title>WiFi Lens</title>
-      <link>https://github.com/SHIINASAMA/wifi-lens</link>
-      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
-      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
-      <category>개발 도구 / 네트워크 분석</category>
-      <description>Category: 개발 도구 / 네트워크 분석
-App: WiFi Lens
-Description: 네이티브 오픈소스 Wi-Fi 분석기 및 네트워크 진단 앱으로, 실시간 스펙트럼 스캔, 채널 혼잡 시각화, BLE 기기 추적을 지원합니다.
-Open Source: https://github.com/SHIINASAMA/wifi-lens
-Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 네트워크 분석<br/>App: WiFi Lens<br/>Description: 네이티브 오픈소스 Wi-Fi 분석기 및 네트워크 진단 앱으로, 실시간 스펙트럼 스캔, 채널 혼잡 시각화, BLE 기기 추적을 지원합니다.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
     </item>
   </channel>
 </rss>
