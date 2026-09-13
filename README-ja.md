@@ -394,6 +394,7 @@ Awesome Mac
 * [NetBeans IDE](https://netbeans.org/) - Javaおよびその他の言語のための無料オープンソースIDE。 [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - [Panic](https://panic.com/)製の美しく、高速で、柔軟なMacコードエディタ。
 * [Orca](https://onorca.dev) - 複数のAIコーディングエージェントをそれぞれ独立したgitワークツリーで並列実行できるオープンソースIDE。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [SpeakCode](https://www.speakcode.ai) - Claude CodeやCodexのエージェントを1つのズーム可能なキャンバス上で並列実行できるネイティブmacOSアプリ。各ターミナルノードにリアルタイムの状態を表示し、リアルタイム共同作業にも対応。
 * [Trae](https://www.trae.ai/) - コーディングとソフトウェア開発のためのAI IDE。
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [VSCodium](https://vscodium.com/) - コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
