@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:31:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Musicer</title>
+      <link>https://apps.apple.com/cn/app/musicer/6745227444?platform=mac</link>
+      <guid isPermaLink="false">2d060bf844c081b9019c1d5686899dff30e0d70d:Musicer</guid>
+      <pubDate>Sun, 13 Sep 2026 16:31:16 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Musicer
+Description: 다양한 포맷과 AI 제어를 지원하는 복고풍 로컬 음악 플레이어.
+App Store: https://apps.apple.com/cn/app/musicer/6745227444?platform=mac
+Commit: Remove Sonora.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d060bf844c081b9019c1d5686899dff30e0d70d</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Musicer<br/>Description: 다양한 포맷과 AI 제어를 지원하는 복고풍 로컬 음악 플레이어.<br/>App Store: https://apps.apple.com/cn/app/musicer/6745227444?platform=mac<br/>Commit: Remove Sonora.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d060bf844c081b9019c1d5686899dff30e0d70d]]></content:encoded>
+    </item>
     <item>
       <title>Wayfinder</title>
       <link>https://wayfinder-ai.pages.dev/</link>
@@ -693,20 +707,6 @@ Website: https://app.aqbot.top/
 Commit: Add AQBot to AI Tools (#2423)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: AQBot<br/>Description: 다중 제공자 채팅, 에이전트 워크플로, 지식 베이스, MCP 도구, OpenAI 호환 API 게이트웨이를 지원하는 오픈 소스 데스크톱 AI 작업 공간.<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
-    </item>
-    <item>
-      <title>Crisp</title>
-      <link>https://didriksg.github.io/Crisp/</link>
-      <guid isPermaLink="false">9963b8e2708ce5c66c1423033ee8d990c6441681:Crisp</guid>
-      <pubDate>Tue, 28 Jul 2026 06:54:55 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Crisp
-Description: 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋.
-Website: https://didriksg.github.io/Crisp/
-Commit: Add Crisp to the zh/ko/ja list. #2415
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Crisp<br/>Description: 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to the zh/ko/ja list. #2415<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9963b8e2708ce5c66c1423033ee8d990c6441681]]></content:encoded>
     </item>
   </channel>
 </rss>
