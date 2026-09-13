@@ -504,6 +504,7 @@ Awesome Mac
 * [Berthly](https://berthly.net) - Apple container 도구용 네이티브 GUI. 메뉴바 실시간 모니터링과 드래그 앤 드롭 이미지 빌드 지원. [![Open-Source Software][OSS Icon]](https://github.com/henrywang/Berthly) ![Freeware][Freeware Icon]
 * [Gantry](https://github.com/getgantry/gantry) - 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장. [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 가상 머신 없이 Linux GUI 앱을 실행할 수 있는 Wayland 컴포지터. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
+* [Colima](https://github.com/abiosoft/colima) - macOS와 Linux에서 컨테이너 런타임을 간편하게 실행하는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/abiosoft/colima) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 격리된 macOS 가상 머신 작업 공간을 생성하고 관리하는 가상화 도구입니다. ![Freeware][Freeware Icon]
 * [Mocker](https://github.com/us/mocker) - Apple Containerization framework 기반 컨테이너 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [OrbStack](https://orbstack.dev/) - 빠르고 가벼운 Docker 및 Linux 머신 관리. ![Freeware][Freeware Icon]
