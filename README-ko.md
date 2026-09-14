@@ -639,6 +639,7 @@ Awesome Mac
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
 * [Zipic](https://zipic.app/) - 프리셋과 자동화를 지원하는 일괄 이미지 압축 도구.
+* [Lathe](https://latheapp.com) - 폴더에서 바로 작동하는 네이티브 미디어 브라우저로, RAW 사진 선별, 이미지와 동영상 일괄 처리, 기기 내 검색을 지원합니다. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 
 ## AI 도구
 
