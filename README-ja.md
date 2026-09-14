@@ -809,6 +809,7 @@ Awesome Mac
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - プリセットと自動化に対応した一括画像圧縮ツール。
+* [Lathe](https://latheapp.com) - フォルダを直接扱うネイティブのメディアブラウザ。RAW のセレクト、画像と動画の一括処理、端末内で完結する検索に対応。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 
 ## AIツール
 
