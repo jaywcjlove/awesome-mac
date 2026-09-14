@@ -167,6 +167,7 @@ Awesome Command Line Apps
 * [nvm](https://github.com/nvm-sh/nvm) - 複数のアクティブなnode.jsバージョンを管理するPOSIX準拠のbashスクリプト。 [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
 * [OpenBoot](https://github.com/openbootdotdev/openboot) - Homebrewパッケージ、Cask、dotfiles、シェル設定、git設定、macOS環境設定をキャプチャ・復元するMac開発環境マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/openbootdotdev/openboot) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - プライバシーを維持しながら、デジタル履歴にアクセスし、記憶と生産性を向上。 [![OSS][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
+* [purge-cli](https://github.com/soummyaanon/purge) - 再生成可能なビルド成果物、キャッシュ、Xcode DerivedDataを検出し、対話式チェックリストでチェックした項目だけを削除するターミナル用ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [Rebound](https://github.com/shobrook/rebound/) - コンパイルエラーが発生した際にターミナルで即座にStack Overflowの結果を閲覧。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [renamed.to](https://github.com/upspawn/cli.renamed.to) - ドキュメントの内容とOCRを使用したAI搭載のバルクファイルリネームCLI。Homebrewでインストール可能（`brew tap renamed-to/cli`）。 [![Open-Source Software][OSS Icon]](https://github.com/upspawn/cli.renamed.to) ![Freeware][Freeware Icon]
 * [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - ack、ag、grepに似た（しかしより高速な）非常に高速なテキスト検索ツール。 ![Freeware][Freeware Icon]
