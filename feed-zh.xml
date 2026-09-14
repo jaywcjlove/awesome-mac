@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:09:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DeepDeck</title>
+      <link>https://deepdeck.getmegaportal.com/</link>
+      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
+      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: DeepDeck
+Description: 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。
+Website: https://deepdeck.getmegaportal.com/
+Commit: Add DeepDeck to AI tools (#2869)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: DeepDeck<br/>Description: 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
+    </item>
     <item>
       <title>青简 Qingjian</title>
       <link>https://qingjian.app/</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/phosphene/
 Commit: Add Phosphene to General Tools (#2465)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Phosphene<br/>Description: 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
-    </item>
-    <item>
-      <title>Rilmazafone</title>
-      <link>https://kagerou.glass/rilmazafone/</link>
-      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
-      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
-      <category>软件打包工具</category>
-      <description>Category: 软件打包工具
-App: Rilmazafone
-Description: 在所见即所得画布上设计 DMG 安装器，构建结果与设计完全一致，无需脚本。
-Website: https://kagerou.glass/rilmazafone/
-Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
-      <content:encoded><![CDATA[Category: 软件打包工具<br/>App: Rilmazafone<br/>Description: 在所见即所得画布上设计 DMG 安装器，构建结果与设计完全一致，无需脚本。<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
     </item>
   </channel>
 </rss>
