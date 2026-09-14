@@ -806,6 +806,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Export icons for multi-platform[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - Batch image compression tool with presets and automation.
+* [Lathe](https://latheapp.com) - Native media browser that works directly on your folders, with RAW culling, batch image and video tools, and on-device search. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 
 ## AI Tools
 
