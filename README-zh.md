@@ -568,6 +568,7 @@ Awesome Mac
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达 80％，而不会影响质量。
+* [Lathe](https://latheapp.com) - 原生媒体浏览器，直接在你的文件夹中工作，支持 RAW 选片、图片与视频批量处理以及设备端搜索。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
@@ -584,7 +585,6 @@ Awesome Mac
 * [uPic](https://github.com/gee1k/uPic) - macOS 原生应用，功能强大且简洁的图床客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - 支持预设和自动化的批量图片压缩工具。
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。
-* [Lathe](https://latheapp.com) - 原生媒体浏览器，直接在你的文件夹中工作，支持 RAW 选片、图片与视频批量处理以及设备端搜索。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 
 ## 虚拟机
 
