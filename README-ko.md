@@ -217,6 +217,7 @@ Awesome Mac
 * [Marp](https://marp.app) - 교차 플랫폼을 지원하는 마크다운 프레젠테이션 작성기. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
+* [Nodes](https://nodes-web.com) - Markdown, PDF, 이미지 노트를 위한 macOS 네이티브 지식 관리 앱. 위키 스타일 링크, LaTeX, 전문 검색, 포스 유도 그래프를 지원합니다. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6745401961?pt=127809373&ct=github&mt=8)
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
