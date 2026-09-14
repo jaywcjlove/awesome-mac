@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:46:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Qingjian 青简</title>
+      <link>https://qingjian.app/</link>
+      <guid isPermaLink="false">35a3af262ea140508a74118c25266475b0926638:Qingjian 青简</guid>
+      <pubDate>Mon, 14 Sep 2026 05:46:29 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: Qingjian 青简
+Description: Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words.
+Website: https://qingjian.app/
+Commit: Add 青简 Qingjian
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: Qingjian 青简<br/>Description: Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words.<br/>Website: https://qingjian.app/<br/>Commit: Add 青简 Qingjian<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638]]></content:encoded>
+    </item>
     <item>
       <title>Wayfinder</title>
       <link>https://wayfinder-ai.pages.dev/</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/adrafinil/
 Commit: Add Adrafinil to System Related Tools (#2466)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Adrafinil<br/>Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
-    </item>
-    <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Phosphene
-Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Phosphene<br/>Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
     </item>
   </channel>
 </rss>
