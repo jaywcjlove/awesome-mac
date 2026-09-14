@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:14:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MangoDisk</title>
+      <link>https://mangodisk.app/ja</link>
+      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
+      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: MangoDisk
+Description: ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。
+Website: https://mangodisk.app/ja
+Commit: Add mangodisk (#2756)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: MangoDisk<br/>Description: ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。<br/>Website: https://mangodisk.app/ja<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
+    </item>
     <item>
       <title>DeepDeck</title>
       <link>https://deepdeck.getmegaportal.com/</link>
@@ -693,20 +707,6 @@ Website: https://notegen.top/
 Commit: Add NoteGen (#2462)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
       <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: NoteGen<br/>Description: 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
-    </item>
-    <item>
-      <title>Fletch</title>
-      <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
-      <guid isPermaLink="false">05ec40b941f9f3730123cc23c5dde4bff88da234:Fletch</guid>
-      <pubDate>Wed, 29 Jul 2026 04:24:06 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Fletch
-Description: AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。
-Website: https://fletch.sh/?utm_source=dir-awesome-mac
-Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Fletch<br/>Description: AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。<br/>Website: https://fletch.sh/?utm_source=dir-awesome-mac<br/>Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234]]></content:encoded>
     </item>
   </channel>
 </rss>

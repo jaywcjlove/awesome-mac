@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:14:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MangoDisk</title>
+      <link>https://mangodisk.app/</link>
+      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
+      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: MangoDisk
+Description: 로컬에서 스캔하고 삭제 전에 경로와 크기를 확인할 수 있는 무료 오픈 소스 디스크 정리 및 공간 분석 도구.
+Website: https://mangodisk.app/
+Commit: Add mangodisk (#2756)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MangoDisk<br/>Description: 로컬에서 스캔하고 삭제 전에 경로와 크기를 확인할 수 있는 무료 오픈 소스 디스크 정리 및 공간 분석 도구.<br/>Website: https://mangodisk.app/<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
+    </item>
     <item>
       <title>DeepDeck</title>
       <link>https://deepdeck.getmegaportal.com/</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/rilmazafone/
 Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 하이브리드 애플리케이션 프레임워크<br/>App: Rilmazafone<br/>Description: WYSIWYG 캔버스에서 DMG 설치 프로그램을 디자인하고 그린 그대로 빌드하세요. 스크립트가 필요 없습니다.<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
-    </item>
-    <item>
-      <title>NoteGen</title>
-      <link>https://notegen.top/</link>
-      <guid isPermaLink="false">afa2b3e270c52f3eb659feedeb9b7a3951dbb45d:NoteGen</guid>
-      <pubDate>Sat, 01 Aug 2026 00:14:34 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 노트 작성</category>
-      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
-App: NoteGen
-Description: 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱.
-Website: https://notegen.top/
-Commit: Add NoteGen (#2462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: NoteGen<br/>Description: 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱.<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
     </item>
   </channel>
 </rss>
