@@ -584,6 +584,7 @@ Awesome Mac
 * [uPic](https://github.com/gee1k/uPic) - macOS 原生应用，功能强大且简洁的图床客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - 支持预设和自动化的批量图片压缩工具。
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。
+* [Lathe](https://latheapp.com) - 原生媒体浏览器，直接在你的文件夹中工作，支持 RAW 选片、图片与视频批量处理以及设备端搜索。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6780042704?platform=mac)
 
 ## 虚拟机
 
