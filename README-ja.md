@@ -769,6 +769,7 @@ Awesome Mac
 * [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソル効果、タイムライン編集に対応したオープンソース画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI検索に対応したローカル画面・マイク録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
+* [Take](https://crestnotch.app/take) - 録画した映像に背景、なめらかなカーソル、自動ズームを自動で加え、そのままタイムラインで編集できる画面録画ツール。
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
 
