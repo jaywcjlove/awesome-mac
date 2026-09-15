@@ -943,6 +943,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Audacity](https://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 * [BeMyEars](https://www.bemyears.cn/) - Live captioning tool with on-device transcription and multilingual support. ![Freeware][Freeware Icon]
+* [BitMuse](https://bitmuse.app/) - Bit-perfect music player for local hi-res libraries, with DSD, a DSP chain and on-device quality analysis.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [Camera Preview](https://sindresorhus.com/camera-preview) - Preview your webcam, take photos, and use it as a mirror. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1632827132?platform=mac)
 * [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
