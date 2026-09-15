@@ -987,7 +987,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Popcorn Time](https://popcorn-time.site/) - Streaming app for browsing and watching torrent-based movies.[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
 * [Pulp](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/bazalp/pulp)
-* [Radior](https://kasbjorn.gitlab.io/radior) - Menubar radio player utility. [![Open-Source Software][OSS Icon]](https://kasbjorn.gitlab.com/radior)
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
@@ -1299,6 +1298,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 * [Profisor](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Quickgif](https://quickgif.app/) - Quickly Find and Share GIFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
+* [Radior](https://kasbjorn.gitlab.io/radior) - Menubar radio player utility. [![Open-Source Software][OSS Icon]](https://kasbjorn.gitlab.com/radior) [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6761861822?platform=mac)
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
 * [Second Clock](https://sindresorhus.com/second-clock) - Show a second clock for a different time zone in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
