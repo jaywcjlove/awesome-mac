@@ -708,6 +708,7 @@ Awesome Mac
 
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
+* [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
 * [LocalSend](https://localsend.org/) - 跨平台的文件传输工具，界面简洁[![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
