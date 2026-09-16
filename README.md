@@ -1299,6 +1299,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 * [Profisor](https://github.com/yefga/Profisor) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Quickgif](https://quickgif.app/) - Quickly Find and Share GIFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
+* [Radior](https://kasbjorn.gitlab.io/radior) - Menubar radio player utility. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://kasbjorn.gitlab.com/radior) [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6761861822?platform=mac)
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
 * [Second Clock](https://sindresorhus.com/second-clock) - Show a second clock for a different time zone in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
