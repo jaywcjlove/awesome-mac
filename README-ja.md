@@ -205,6 +205,7 @@ Awesome Mac
 * [LiteEdit](https://arietan.github.io/lite-edit/) - 1MB以下の軽量ネイティブコードエディタ、シンタックスハイライトとファイルツリーを搭載。 [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [MacVim](https://github.com/macvim-dev/macvim) - macOS用のテキストエディタVim。 [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - モダンで直感的なターミナルベースのテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
+* [MrEditor](https://mr-tabata.github.io/MrEditor/) - 巨大なテキストファイル向けのネイティブ macOS エディタ。10GB のログをそのまま開いて編集できる。 [![Open-Source Software][OSS Icon]](https://github.com/MR-TABATA/MrEditor) ![Freeware][Freeware Icon]
 * [Neovim](https://github.com/neovim/neovim) - 拡張性と使いやすさに重点を置いたVimフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - シンプルで集中できるメモ帳。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
