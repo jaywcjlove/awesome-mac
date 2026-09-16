@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:15:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Calyx</title>
+      <link>https://github.com/yuuichieguchi/Calyx</link>
+      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
+      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Calyx
+Description: 用于并行运行和管理编码 agent 的原生 macOS 终端。
+Open Source: https://github.com/yuuichieguchi/Calyx
+Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Calyx<br/>Description: 用于并行运行和管理编码 agent 的原生 macOS 终端。<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
+    </item>
     <item>
       <title>MangoDisk</title>
       <link>https://mangodisk.app/zh</link>
@@ -693,20 +707,6 @@ Website: https://capd.jxd.dev
 Commit: Add Capd (#2484)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: Capd<br/>Description: 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
-    </item>
-    <item>
-      <title>Adrafinil</title>
-      <link>https://kagerou.glass/adrafinil/</link>
-      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
-      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Adrafinil
-Description: 仅在 AI 智能体仍在工作时保持 Mac 唤醒，任务结束后恢复正常睡眠。
-Website: https://kagerou.glass/adrafinil/
-Commit: Add Adrafinil to System Related Tools (#2466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Adrafinil<br/>Description: 仅在 AI 智能体仍在工作时保持 Mac 唤醒，任务结束后恢复正常睡眠。<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
     </item>
   </channel>
 </rss>

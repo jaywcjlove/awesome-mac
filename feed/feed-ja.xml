@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:15:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Calyx</title>
+      <link>https://github.com/yuuichieguchi/Calyx</link>
+      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
+      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Calyx
+Description: コーディングエージェントを並列に実行・管理するためのネイティブ macOS ターミナル。
+Open Source: https://github.com/yuuichieguchi/Calyx
+Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Calyx<br/>Description: コーディングエージェントを並列に実行・管理するためのネイティブ macOS ターミナル。<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
+    </item>
     <item>
       <title>MangoDisk</title>
       <link>https://mangodisk.app/ja</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/rilmazafone/
 Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
       <content:encoded><![CDATA[Category: 開発ツール / ハイブリッドアプリケーション用フレームワーク<br/>App: Rilmazafone<br/>Description: WYSIWYG キャンバスで DMG インストーラーをデザインし、描いたとおりにビルド。スクリプト不要です。<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
-    </item>
-    <item>
-      <title>NoteGen</title>
-      <link>https://notegen.top/</link>
-      <guid isPermaLink="false">afa2b3e270c52f3eb659feedeb9b7a3951dbb45d:NoteGen</guid>
-      <pubDate>Sat, 01 Aug 2026 00:14:34 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: NoteGen
-Description: 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。
-Website: https://notegen.top/
-Commit: Add NoteGen (#2462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: NoteGen<br/>Description: 散在する記録をAIで構造化されたノートに整理する、オープンソースでローカルファーストなMarkdownノートアプリ。<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
     </item>
   </channel>
 </rss>

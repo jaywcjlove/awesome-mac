@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:15:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Calyx</title>
+      <link>https://github.com/yuuichieguchi/Calyx</link>
+      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
+      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Calyx
+Description: Native macOS terminal for running and supervising coding agents in parallel.
+Open Source: https://github.com/yuuichieguchi/Calyx
+Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Calyx<br/>Description: Native macOS terminal for running and supervising coding agents in parallel.<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
+    </item>
     <item>
       <title>MangoDisk</title>
       <link>https://mangodisk.app/</link>
@@ -693,20 +707,6 @@ Website: https://openbitfun.com/
 Commit: Add BitFun to AI Tools (#2490)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: BitFun<br/>Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to AI Tools (#2490)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e]]></content:encoded>
-    </item>
-    <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: GraphCode
-Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: GraphCode<br/>Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
     </item>
   </channel>
 </rss>
