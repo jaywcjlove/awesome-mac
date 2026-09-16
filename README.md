@@ -1446,6 +1446,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](https://www.keyboardmaestro.com) - Automate repetitive tasks with triggers and macros.
+* [Keysi](https://keysi.io) - Hold ⌘ to see and run the keyboard shortcuts of the frontmost app.
 * [Keytty](https://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
 * [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.

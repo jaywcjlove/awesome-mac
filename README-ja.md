@@ -1448,6 +1448,7 @@ Awesome Mac
 * [Karabiner](https://pqrs.org/osx/karabiner/) - OS X用の強力で安定したキーボードカスタマイザー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - macOSに欠けていたキーボードショートカットユーティリティ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - トリガーとマクロで繰り返し作業を自動化するツール。
+* [Keysi](https://keysi.io) - ⌘を長押しすると、最前面のアプリのキーボードショートカットを表示して実行できる。
 * [Keytty](http://keytty.com) - キーボードから手を離さずに操作できるアプリ。数回のキー操作で移動、クリック、スクロール、ドラッグなどが可能。
 * [Launchy](https://apple.co/3PLI2AH) - ラジアルメニューを活用したアプリランチャー＆スイッチャー。
 * [Lazy](https://www.lazy-app.com/) - キーボード駆動のコマンドでMacから直接周囲の環境を管理。
