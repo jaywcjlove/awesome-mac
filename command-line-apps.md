@@ -119,6 +119,7 @@ A curated list of useful command line apps
 
 ## Developer
 
+* [appstore-doctor](https://github.com/Bkessing/appstore-doctor) - Read-only App Store Connect diagnostics: finds stuck review submissions, phantom WAITING_FOR_REVIEW states, broken in-app purchase setups, and signing problems. [![Open-Source Software][OSS Icon]](https://github.com/Bkessing/appstore-doctor) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Docker Compose-compatible CLI for Apple's native container runtime on Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
