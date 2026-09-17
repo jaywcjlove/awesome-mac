@@ -216,6 +216,7 @@ Awesome Mac
 * [MarkViewer](https://markviewer.com) - macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - 교차 플랫폼을 지원하는 마크다운 프레젠테이션 작성기. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
+* [MDDock](https://mddock.com) - 로컬 우선 Markdown 에디터이자 AI 지식 베이스. 어떤 .md 폴더든 바로 열어 사용 — 임포트 불필요, 록인 없음. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6795160874)
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
