@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:46:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AirPoise</title>
+      <link>https://airpoise.vercel.app/</link>
+      <guid isPermaLink="false">b01f3f7561f44334be770f361479e043e2ea220b:AirPoise</guid>
+      <pubDate>Thu, 17 Sep 2026 02:46:05 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: AirPoise
+Description: AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱.
+Website: https://airpoise.vercel.app/
+Commit: Add AirPoise to the app directory (#2891)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AirPoise<br/>Description: AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱.<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
+    </item>
     <item>
       <title>Calyx</title>
       <link>https://github.com/yuuichieguchi/Calyx</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/adrafinil/
 Commit: Add Adrafinil to System Related Tools (#2466)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Adrafinil<br/>Description: AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다.<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
-    </item>
-    <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Phosphene
-Description: 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다.
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Phosphene<br/>Description: 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다.<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
     </item>
   </channel>
 </rss>
