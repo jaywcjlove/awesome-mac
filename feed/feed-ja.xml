@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:55:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HopToDesk</title>
+      <link>https://www.hoptodesk.com/</link>
+      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
+      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
+      <category>リモートログインソフトウェア</category>
+      <description>Category: リモートログインソフトウェア
+App: HopToDesk
+Description: エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。
+Website: https://www.hoptodesk.com/
+Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
+      <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: HopToDesk<br/>Description: エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
+    </item>
     <item>
       <title>AirPoise</title>
       <link>https://airpoise.vercel.app/</link>
@@ -693,20 +707,6 @@ Website: https://kagerou.glass/adrafinil/
 Commit: Add Adrafinil to System Related Tools (#2466)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Adrafinil<br/>Description: AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
-    </item>
-    <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Phosphene
-Description: 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Phosphene<br/>Description: 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
     </item>
   </channel>
 </rss>

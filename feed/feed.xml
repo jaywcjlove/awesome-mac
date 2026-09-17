@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:55:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HopToDesk</title>
+      <link>https://www.hoptodesk.com/</link>
+      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
+      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
+      <category>Remote Login Software</category>
+      <description>Category: Remote Login Software
+App: HopToDesk
+Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.
+Website: https://www.hoptodesk.com/
+Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
+      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: HopToDesk<br/>Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
+    </item>
     <item>
       <title>AirPoise</title>
       <link>https://airpoise.vercel.app/</link>
@@ -693,20 +707,6 @@ Website: https://itspaintmac.com/
 Commit: Add ItsPaint to Design and Product (#2457)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
       <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
-    </item>
-    <item>
-      <title>MacOSCleaner</title>
-      <link>https://github.com/AlexTkDev/MacOSCleaner</link>
-      <guid isPermaLink="false">647a310507047b4068be72c24caa05e10355a143:MacOSCleaner</guid>
-      <pubDate>Thu, 06 Aug 2026 14:20:34 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MacOSCleaner
-Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.
-Open Source: https://github.com/AlexTkDev/MacOSCleaner
-Commit: Add MacOSCleaner (#2501)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacOSCleaner<br/>Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.<br/>Open Source: https://github.com/AlexTkDev/MacOSCleaner<br/>Commit: Add MacOSCleaner (#2501)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143]]></content:encoded>
     </item>
   </channel>
 </rss>
