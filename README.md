@@ -1244,6 +1244,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Menu Bar Tools
 
+* [Agent Approval Inbox](https://github.com/stomeonst/agent-approval-inbox-preview) - Local approval inbox for scripts and automations, with persistent action cards and append only JSONL audit logs.
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
