@@ -518,6 +518,7 @@ Awesome Mac
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 支持录屏、滚动截图和 OCR 的截图标注工具。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
+* [Nitsend](https://nitsend.ai/) - 一键截图或录屏，并把截图和你的说明直接发送给 Claude Code、Codex、Cursor 或 OpenCode。
 * [Scap](https://wangchujiang.com/scap/) - 支持模糊、马赛克和水印的截图标注与画布工具。[![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Capty](https://capty.app/) - 内置编辑和标注功能的录屏与截图工具。
 * [Capso](https://github.com/lzhgus/Capso) - 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
