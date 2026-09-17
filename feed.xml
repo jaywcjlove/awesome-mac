@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:46:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AirPoise</title>
+      <link>https://airpoise.vercel.app/</link>
+      <guid isPermaLink="false">b01f3f7561f44334be770f361479e043e2ea220b:AirPoise</guid>
+      <pubDate>Thu, 17 Sep 2026 02:46:05 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: AirPoise
+Description: Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.
+Website: https://airpoise.vercel.app/
+Commit: Add AirPoise to the app directory (#2891)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AirPoise<br/>Description: Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
+    </item>
     <item>
       <title>Calyx</title>
       <link>https://github.com/yuuichieguchi/Calyx</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/AlexTkDev/MacOSCleaner
 Commit: Add MacOSCleaner (#2501)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacOSCleaner<br/>Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.<br/>Open Source: https://github.com/AlexTkDev/MacOSCleaner<br/>Commit: Add MacOSCleaner (#2501)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143]]></content:encoded>
-    </item>
-    <item>
-      <title>BitFun</title>
-      <link>https://openbitfun.com/</link>
-      <guid isPermaLink="false">c62d841a87d9789b243b09417f7350f3031d680e:BitFun</guid>
-      <pubDate>Wed, 05 Aug 2026 14:29:42 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: BitFun
-Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.
-Website: https://openbitfun.com/
-Commit: Add BitFun to AI Tools (#2490)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: BitFun<br/>Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to AI Tools (#2490)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e]]></content:encoded>
     </item>
   </channel>
 </rss>
