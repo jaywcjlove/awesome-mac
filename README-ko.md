@@ -767,6 +767,7 @@ Awesome Mac
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]
+* [Cinesalve](https://cinesalve.honorboxx.workers.dev/) - 누락된 moov atom을 재구성해 손상되거나 잘린 MP4·MOV 녹화 파일을 복구하는 앱. 카메라 전원이 꺼진 영상을 다시 재생할 수 있게 함. ![Native App][Native Icon]
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 전문적인 비디오 편집 및 색교정 도구. ![Freeware][Freeware Icon]
 * [Fader](https://github.com/pantafive/fader) - 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - 다중 장치 출력과 10밴드 EQ를 지원하는 앱별 볼륨 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
