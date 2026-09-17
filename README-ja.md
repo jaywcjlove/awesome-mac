@@ -1059,6 +1059,7 @@ Awesome Mac
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 間違ったキーボード配列で入力した文字を変換するツール。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Slackスタイルのショートカットを使用して絵文字入力をより速く簡単にする。 ![Freeware][Freeware Icon]
+* [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。 [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - MacBook Pro Touch Bar用の絵文字ピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - MacをiPhone、iPad、Apple TVのキーボードとして使用。
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - macOSのGlobeキーをもっと便利に！ [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
