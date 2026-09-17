@@ -782,6 +782,7 @@ Awesome Mac
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 离线音乐播放器，支持多种音频格式、歌词、播放列表与播放队列管理。 [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - 直接从菜单栏或使用全局键盘快捷键录制音频。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
+* [ShotTessera](https://github.com/ixiehao/ShotTessera) - 将本地视频生成分镜图和联系表。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotTessera) ![Freeware][Freeware Icon]
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify 和 Apple music 在状态菜单栏中显示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 用于电影、剧集、直播频道和流媒体源的媒体中心。 ![Freeware][Freeware Icon]
