@@ -263,6 +263,7 @@ Awesome Mac
 * [Email Me](https://emailmeapp.net/) - ワンタップで自分にメール。macOS、iOS、WatchOSにネイティブ対応。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 多くのプラットフォームで利用可能な有名なメモアプリ。 ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - macOSとiOSにネイティブ対応したモダンなメモ管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
+* [Glyph](https://glyphformac.com/) - ノート、ドキュメント、タスク、オプションのAIツールに対応した、オープンソースでローカルファーストのMarkdownワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/SidhuK/Glyph)
 * [Gooba](https://goobapp.com/) - シンプルでインタラクティブなデザインのライティングアプリ兼タスクマネージャー。
 * [Inkdrop](https://www.inkdrop.info/) - Electron上に構築されたMarkdown愛好者のためのノートブックアプリ。
 * [Joplin](https://joplinapp.org/) - Markdownサポートとタスク管理機能を備えたクロスプラットフォームオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
