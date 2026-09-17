@@ -314,6 +314,7 @@ Awesome Mac
 * [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - 带速查手册的正则表达式测试工具。
+* [RegexPilot](https://regexpilot.com/) - 可视化正则表达式构建器，可在 21 种真实语言引擎上测试。[![App Store][app-store Icon]](https://apps.apple.com/us/app/regexpilot/id6764146125?platform=mac)
 
 ### API开发和分析
 
