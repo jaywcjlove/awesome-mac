@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>vChewing 唯音</title>
+      <link>https://github.com/vChewing/vChewing-macOS</link>
+      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
+      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
+      <category>入力方法</category>
+      <description>Category: 入力方法
+App: vChewing 唯音
+Description: 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。
+Open Source: https://github.com/vChewing/vChewing-macOS
+Commit: Add vChewing 唯音
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
+      <content:encoded><![CDATA[Category: 入力方法<br/>App: vChewing 唯音<br/>Description: 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
+    </item>
     <item>
       <title>HopToDesk</title>
       <link>https://www.hoptodesk.com/</link>
@@ -693,20 +707,6 @@ Website: https://capd.jxd.dev
 Commit: Add Capd (#2484)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
       <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: Capd<br/>Description: リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
-    </item>
-    <item>
-      <title>Adrafinil</title>
-      <link>https://kagerou.glass/adrafinil/</link>
-      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
-      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: Adrafinil
-Description: AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。
-Website: https://kagerou.glass/adrafinil/
-Commit: Add Adrafinil to System Related Tools (#2466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Adrafinil<br/>Description: AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
     </item>
   </channel>
 </rss>

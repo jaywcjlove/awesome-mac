@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>vChewing 唯音</title>
+      <link>https://github.com/vChewing/vChewing-macOS</link>
+      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
+      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
+      <category>입력기</category>
+      <description>Category: 입력기
+App: vChewing 唯音
+Description: 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기.
+Open Source: https://github.com/vChewing/vChewing-macOS
+Commit: Add vChewing 唯音
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
+      <content:encoded><![CDATA[Category: 입력기<br/>App: vChewing 唯音<br/>Description: 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기.<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
+    </item>
     <item>
       <title>HopToDesk</title>
       <link>https://www.hoptodesk.com/</link>
@@ -693,20 +707,6 @@ Website: https://graphcode.app
 Commit: Add GraphCode to Developer Utilities (#2489)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: GraphCode<br/>Description: 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
-    </item>
-    <item>
-      <title>Capd</title>
-      <link>https://capd.jxd.dev</link>
-      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
-      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 기타</category>
-      <description>Category: 읽기 및 쓰기 도구 / 기타
-App: Capd
-Description: 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱.
-Website: https://capd.jxd.dev
-Commit: Add Capd (#2484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: Capd<br/>Description: 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱.<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
     </item>
   </channel>
 </rss>

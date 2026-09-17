@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Sep 2026 02:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>vChewing 唯音</title>
+      <link>https://github.com/vChewing/vChewing-macOS</link>
+      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
+      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: vChewing 唯音
+Description: Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.
+Open Source: https://github.com/vChewing/vChewing-macOS
+Commit: Add vChewing 唯音
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: vChewing 唯音<br/>Description: Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
+    </item>
     <item>
       <title>HopToDesk</title>
       <link>https://www.hoptodesk.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/migsilva89/imark
 Commit: Add Imark to Markdown Tools (#2521)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
-    </item>
-    <item>
-      <title>ItsPaint</title>
-      <link>https://itspaintmac.com/</link>
-      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
-      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
-      <category>Design and Product / Design Tools</category>
-      <description>Category: Design and Product / Design Tools
-App: ItsPaint
-Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.
-Website: https://itspaintmac.com/
-Commit: Add ItsPaint to Design and Product (#2457)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
-      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
     </item>
   </channel>
 </rss>
