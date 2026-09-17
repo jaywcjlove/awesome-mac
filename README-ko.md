@@ -1043,6 +1043,7 @@ Awesome Mac
 * [BetterMouse](https://better-mouse.com) - 서드파티 마우스의 스크롤, 가속, 버튼, 제스처를 조정하는 도구.
 * [BetterTouchTool](https://folivora.ai/) - 트랙패드, 마우스, 키보드의 제스처와 동작을 세밀하게 설정하는 도구.
 * [CalmMouse](https://calmmouse.malikzhang.com/) - 클릭할 때마다 페이지가 스크롤되는 Magic Mouse 동작을 막아주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
+* [Compact Contacts](https://compactcontacts.com/) - macOS 연락처에 이미 있는 연락처를 조밀한 표에서 검색하고 미리보기 기반 일괄 편집과 중복 병합을 수행하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/compact-contacts/id6790129187?mt=12)
 * [CurrentKey](https://currentkey.com) - Spaces에 사용자 지정 이름과 아이콘을 붙이고 앱 사용 시간을 추적하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 메뉴 막대에서 기능 키를 빠르게 호출하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - 앱, 링크, 파일을 프로젝트별로 정리하는 작업 공간 도구. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
