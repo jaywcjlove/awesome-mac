@@ -625,6 +625,7 @@ Awesome Mac
 * [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
 * [CodexBar](https://codexbar.app) - 显示 OpenAI Codex 和 Claude Code 的使用统计，无需登录。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - 在会话标题旁显示 Codex Desktop 剩余额度、重置时间和重置卡的开源悬浮层。 [![Open-Source Software][OSS Icon]](https://github.com/cpys/codex-quota-overlay) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。 [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
