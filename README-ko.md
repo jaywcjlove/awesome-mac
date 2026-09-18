@@ -556,6 +556,7 @@ Awesome Mac
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 전문적인 그래픽 디자인 소프트웨어.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 전문적인 이미지 편집 소프트웨어.
 * [Blender](https://www.blender.org/) - 무료 오픈 소스 3D 제작 소프트웨어. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [BoardEject](https://boardeject.dev) - Apple Freeform 선택 영역을 편집 가능한 Excalidraw와 검증된 로컬 아카이브로 내보내기. [![Open-Source Software][OSS Icon]](https://github.com/royalpinto007/boardeject) ![Freeware][Freeware Icon]
 * [Colorpicker](https://colorpicker.fr/) - 오픈 소스 색상 조작 및 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - 오픈 소스 사진 워크플로우 및 RAW 현상 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Figma](https://www.figma.com/) - 벡터 그래픽과 UI 프로토타이핑을 위한 협업 디자인 도구. ![Freeware][Freeware Icon]
