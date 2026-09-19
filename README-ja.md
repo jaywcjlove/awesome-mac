@@ -1055,6 +1055,7 @@ Awesome Mac
 
 ## 入力方法
 
+* [CmdIME](https://github.com/ShunmeiCho/cmd-ime) - 左Commandで英語、右Commandで中国語のように、入力ソースごとに専用キーを割り当てる切り替えツール。 [![Open-Source Software][OSS Icon]](https://github.com/ShunmeiCho/cmd-ime) ![Freeware][Freeware Icon]
 * [Kawa](https://github.com/utatti/kawa) - OS X用のより良い入力ソース切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 間違ったキーボード配列で入力した文字を変換するツール。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
