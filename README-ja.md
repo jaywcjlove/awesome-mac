@@ -563,6 +563,7 @@ Awesome Mac
 * [SourceTree](https://www.sourcetreeapp.com/) - WindowsまたはMac用の無料Git & Mercurialクライアント。 ![Freeware][Freeware Icon]
 * [Sublime Merge](https://www.sublimemerge.com/) - Sublime Textの開発者によるGitクライアント。
 * [Changes](https://github.com/maoyama/Changes) - GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
+* [teebe](https://teebe.io) - Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/klein-t/teebe)
 * [Tower2](https://www.git-tower.com/) - MacとWindows向けの最も強力なGitクライアント。
 * [Vershd](https://vershd.io/) - 個人使用無料の手軽なGit GUI、Windows、Mac、Linux対応。 ![Freeware][Freeware Icon]
 * [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) クライアント。
