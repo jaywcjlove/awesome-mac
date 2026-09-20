@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:13:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>개발 도구 / 버전 관리</category>
+      <description>Category: 개발 도구 / 버전 관리
+App: teebe
+Description: Git worktree 네이티브 관리 도구. 파일 변경 배지와 인라인 차이를 실시간으로 표시.
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 버전 관리<br/>App: teebe<br/>Description: Git worktree 네이티브 관리 도구. 파일 변경 배지와 인라인 차이를 실시간으로 표시.<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
     <item>
       <title>vChewing 唯音</title>
       <link>https://github.com/vChewing/vChewing-macOS</link>
@@ -693,20 +707,6 @@ Website: https://openbitfun.com/
 Commit: Add BitFun to the zh/ja/ko list #2490
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: BitFun<br/>Description: 작업마다 전용 인터랙티브 화면을 만들고 채팅을 실시간 상태와 연결하는 오픈 소스 AI 에이전트.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to the zh/ja/ko list #2490<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082]]></content:encoded>
-    </item>
-    <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: GraphCode
-Description: 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원.
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: GraphCode<br/>Description: 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
     </item>
   </channel>
 </rss>
