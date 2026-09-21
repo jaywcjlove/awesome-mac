@@ -154,6 +154,7 @@
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [SparkleBIOS](https://www.reactivepixels.com/sparklebios) - 每个新终端标签页都会显示 1995 年风格的开机自检画面，实际上是一次真实的检查：未提交的改动、被遗忘的进程占用的端口、被 git 跟踪的 .env 文件。 [![Open-Source Software][OSS Icon]](https://github.com/reactivepixels/sparklebios) ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令。[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
