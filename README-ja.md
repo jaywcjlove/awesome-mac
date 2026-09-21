@@ -1529,6 +1529,7 @@ Awesome Mac
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - OSXでウィンドウのサイズと位置を管理。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - コンテキストごとにまとめたアプリ群を1つのホットキーで切り替えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Sidebar](http://sidebarapp.net/) - Mac用のモダンなDock代替。
+* [SidePin](https://ddnnn-a.github.io/sidepin/) - 画面の一辺に常駐エリアを確保し、常に見ていたいアプリを並べて他のウィンドウに隠されないようにする。
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - キーボード中心の強力なウィンドウ管理。
 * [Slate](https://github.com/jigish/slate) - JavaScript で設定するスクリプト型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 * [Snapback](https://snapbackapp.com) - キー操作一回でウィンドウレイアウト全体を保存・復元。 ![Freeware][Freeware Icon]
