@@ -314,6 +314,7 @@ Awesome Mac
 * [BookShelves](https://getbookshelves.app/) - パブリックドメイン書籍と同期に対応した電子書籍リーダー兼ライブラリ管理アプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
 * [Clearview](https://clearview-reader.github.io/clearview-x/index.html) - PDF、EPUB（DRMフリー）、CHM、MOBIに対応したタブ形式の電子書籍リーダー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
 * [iChm](https://github.com/NSGod/ichm) - CHM（Microsoft Compiled HTML help）ファイル用の電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
+* [KindBeamer](https://jooray.github.io/kindbeamer/) - ドキュメントを Kindle 端末に送信する非公式のオープンソース Send to Kindle クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/jooray/kindbeamer) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon公式のKindle読書アプリ。
 * [Klib](http://klib.me/) - KindleとiBooksのハイライトを管理する新しい方法。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15以上のフォーマットに対応したオールインワン電子書籍リーダー。 ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
