@@ -451,6 +451,7 @@ Awesome Mac
 * [Figma](https://www.figma.com/) - 一款基于 Web 的实时协作的云设计软件。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 字体编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - 图像编辑软件，号称 Linux 下的 PhotoShop，同时有 Mac 版本。[![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
+* [IconVectors](https://iconvectors.io/) - 面向开发者的 SVG 图标编辑器，支持实时代码预览和框架代码导出。
 * [inklet](https://tenonedesign.com/inklet.php) - 将 Mac 上的触摸板变成绘图板。
 * [Inkscape](https://inkscape.org/zh/) - 一款开源矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等其他软件相似。[![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
