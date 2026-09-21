@@ -622,6 +622,7 @@ Awesome Mac
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI 검색을 지원하는 로컬 화면 및 마이크 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
+* [Take](https://crestnotch.app/take) - 녹화가 끝나면 배경, 부드러운 커서, 자동 줌을 바로 입히고 타임라인에서 계속 편집할 수 있는 화면 녹화 도구입니다.
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
 
 ### 기타 도구
