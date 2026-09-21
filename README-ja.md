@@ -709,6 +709,7 @@ Awesome Mac
 * [Adobe XD](http://www.adobe.com/products/experience-design.html) - ウェブサイトやモバイルアプリのデザインとプロトタイピングツール。
 * [Axure RP 8](http://www.axure.com) - プロトタイプ、仕様書、ダイアグラムを1つのツールで。
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - より速く、よりスマートに作業できるワイヤーフレーミングツール。
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [Flinto](https://www.flinto.com/) - モバイル、デスクトップ、Webアプリのインタラクティブなプロトタイプを素早く作成。
 * [Framer](http://framerjs.com/) - インタラクティブなプロトタイピングツール。
 * [Justinmind](http://www.justinmind.com) - Webおよびモバイルアプリのプロトタイピングプラットフォーム。

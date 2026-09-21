@@ -510,6 +510,7 @@ Awesome Mac
 ### 作图工具
 
 * [Draw.io](https://www.draw.io/) - 上百种图形，支持多种格式导出。 ![Freeware][Freeware Icon]
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。 [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - Omni 成员，native 应用。
 * [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图... 中文友好，免费保存 5 个文件。
 

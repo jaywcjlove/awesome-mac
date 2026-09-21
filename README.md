@@ -707,6 +707,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Adobe XD](https://www.adobe.com/products/experience-design.html) - Tool for designing and prototyping websites and mobile apps.
 * [Axure RP 8](https://www.axure.com) - Prototypes, specifications and diagrams in one tool.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - Open-source native Excalidraw client with local file management and iCloud sync. [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps.
 * [Framer](https://framerjs.com/) - Tool for interactive prototyping.
 * [Justinmind](https://www.justinmind.com) - Prototyping platform for web and mobile apps.
