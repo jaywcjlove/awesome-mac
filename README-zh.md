@@ -605,6 +605,7 @@ Awesome Mac
 * [Veertu](https://veertu.com) - Mac 上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。![Freeware][Freeware Icon]
 * [VMware Fusion Pro](http://www.vmware.com/) - 功能强大的虚拟机软件，个人使用免费，企业需要许可![Freeware][Freeware Icon]
+* [Velo Workspaces](https://www.veloworkspaces.com) - 用后即焚（一次性） Linux 与 macOS 虚拟机，通过 AI Bridge 提供本地 AI 推理。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6805509975?pt=129339260&ct=GitHub&mt=8)
 
 ## AI 工具
 

@@ -514,6 +514,7 @@ Awesome Mac
 * [Vagrant](https://www.vagrantup.com) - 개발 환경 구축 및 배포 도구. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
 * [VirtualBox](http://www.virtualbox.org) - 강력한 x86 및 AMD64/Intel64 가상화 제품. ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - 강력한 상용 VM.
+* [Velo Workspaces](https://www.veloworkspaces.com) - AI Bridge를 통해 로컬 AI 추론을 지원하는 일회용 Linux 및 macOS 가상 머신. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6805509975?pt=129339260&ct=GitHub&mt=8)
 
 ### 데이터베이스
 
