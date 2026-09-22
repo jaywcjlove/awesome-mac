@@ -369,6 +369,7 @@ Awesome Mac
 * [teebe](https://teebe.io) - 原生的 Git worktree 管理工具，实时显示文件变更标记和内联差异。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/klein-t/teebe)
 * [Tower2](https://www.git-tower.com/) - 最强大的 Git 客户端。
 * [Versions](http://www.versionsapp.com/) - Mac 上最好的 SVN 管理工具。
+* RabbitSVN](https://blog.vunguyen.io.vn/show-case/mac-os/rabbitsvn) - Mac 上最好的 SVN 管理工具。
 
 ### 版本控制系统
 
