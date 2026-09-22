@@ -1042,6 +1042,7 @@ Awesome Mac
 
 * [1440 Minutes Left Today](https://1440app.com/) - 메뉴 막대에서 오늘 남은 시간을 분 단위로 보여주는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [Alfred](https://www.alfredapp.com/) - 검색, 실행, 자동화를 한곳에 모은 런처.
+* [ApexMouse](https://apexmouse.tech) - 120Hz 부드러운 스크롤, 선형 가속 우회, 마그네틱 드롭 셸프를 지원하는 고정밀 마우스 유틸리티. ![Native App][Native Icon]
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - 빠른 검색을 지원하는 맞춤형 앱 런처.
 * [BetterMouse](https://better-mouse.com) - 서드파티 마우스의 스크롤, 가속, 버튼, 제스처를 조정하는 도구.
 * [BetterTouchTool](https://folivora.ai/) - 트랙패드, 마우스, 키보드의 제스처와 동작을 세밀하게 설정하는 도구.
