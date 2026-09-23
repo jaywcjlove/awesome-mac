@@ -2,12 +2,29 @@
   <sup>スペシャルサンクス:</sup>
   <br>
   <br>
+
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafeでは、60以上のネイティブMacアプリを提供しています。ユーティリティ、仕事効率化、クリエイティブ、オフィス向けなど多彩なアプリを揃え、すべてMac上でローカル実行。大切なデータは常にあなたのデバイス内に保たれます。</a>
+  <br><br>
+
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
   <a href="https://screensage.pro/">ScreenSage Pro、macOSで美しい画面録画を数分で作成</a>
   <br><br>
+
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP - 厳選ソフトウェア。100% 正規品。お得な価格。" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://ip.im/">
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
@@ -20,6 +37,7 @@
 
 <p style="display: inline_block">
   <sup><a href="https://wangchujiang.com/#/app" target="_blank">私のアプリ</a>を使うことも、<a href="https://wangchujiang.com/#/sponsor" target="_blank">支援</a>する方法のひとつです:</sup><br/>
+  <a target="_blank" href="https://wangchujiang.com/dock-lift/" title="DockLift: Windows, Here"><img alt="DockLift: Windows, Here" height="52" src="https://wangchujiang.com/appicon/dock-lift.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="https://wangchujiang.com/appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="https://wangchujiang.com/appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
@@ -143,11 +161,13 @@ Awesome Command Line Apps
 * [MarkersExtractor](https://github.com/TheAcharya/MarkersExtractor) - Final Cut Pro用のマーカーメタデータ抽出・変換ツールおよびライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/MarkersExtractor) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - Mac App Store用のシンプルなコマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Miller](https://miller.readthedocs.io/en/latest/) - CSV、TSV、表形式JSONなどの名前付きインデックスデータに対するawk、sed、cut、join、sortのようなツール。 [![Open-Source Software][OSS Icon]](https://github.com/johnkerl/miller) ![Freeware][Freeware Icon]
+* [Mole](https://github.com/tw93/Mole) - ターミナルから Mac をクリーンアップ・アンインストール・分析・最適化・監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - ソファから直接[npm](http://npmjs.org/)を管理。 [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [nushell](https://github.com/nushell/nushell) - Rustで書かれたモダンなGitHub時代のシェル。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 * [nvm](https://github.com/nvm-sh/nvm) - 複数のアクティブなnode.jsバージョンを管理するPOSIX準拠のbashスクリプト。 [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
 * [OpenBoot](https://github.com/openbootdotdev/openboot) - Homebrewパッケージ、Cask、dotfiles、シェル設定、git設定、macOS環境設定をキャプチャ・復元するMac開発環境マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/openbootdotdev/openboot) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - プライバシーを維持しながら、デジタル履歴にアクセスし、記憶と生産性を向上。 [![OSS][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
+* [purge-cli](https://github.com/soummyaanon/purge) - 再生成可能なビルド成果物、キャッシュ、Xcode DerivedDataを検出し、対話式チェックリストでチェックした項目だけを削除するターミナル用ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [Rebound](https://github.com/shobrook/rebound/) - コンパイルエラーが発生した際にターミナルで即座にStack Overflowの結果を閲覧。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [renamed.to](https://github.com/upspawn/cli.renamed.to) - ドキュメントの内容とOCRを使用したAI搭載のバルクファイルリネームCLI。Homebrewでインストール可能（`brew tap renamed-to/cli`）。 [![Open-Source Software][OSS Icon]](https://github.com/upspawn/cli.renamed.to) ![Freeware][Freeware Icon]
 * [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - ack、ag、grepに似た（しかしより高速な）非常に高速なテキスト検索ツール。 ![Freeware][Freeware Icon]
