@@ -146,8 +146,10 @@
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 自动化您的 OS X 系统的使用。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 一个简单的命令行界面的苹果应用商店。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [ngrrram](https://github.com/wintermute-cell/ngrrram) - 一个帮助你提高打字速度并学习新布局的 TUI 工具，附赠一只免费的小猫。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wintermute-cell/ngrrram)
+* [Mole](https://github.com/tw93/Mole) - 从终端清理、卸载、分析、优化并监控你的 Mac。 [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - 使用 OpenRecall，您可以轻松访问您的数字历史，增强您的记忆和生产力，同时不影响您的隐私。 [![Open-Source Software][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
+* [purge-cli](https://github.com/soummyaanon/purge) - 终端磁盘清理工具，扫描可再生的构建产物、缓存和 Xcode DerivedData，只删除你在交互式清单中勾选的内容。 [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [rustnet](https://github.com/domcyrus/rustnet) - 跨平台网络监控 TUI，支持进程识别和深度包检测。 [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
