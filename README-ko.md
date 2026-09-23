@@ -815,6 +815,7 @@ Awesome Mac
 
 * [Arq](https://www.arqbackup.com/) - AWS, GCP, Dropbox 등을 지원하는 클라우드 백업 클라이언트.
 * [Dropbox](https://www.dropbox.com/) - 클라우드 스토리지 및 파일 동기화 서비스. ![Freeware][Freeware Icon]
+* [JuiceMount](https://juicemount.com) - 직접 소유한 NAS를 Finder 볼륨으로 마운트하고, 접근한 블록만 로컬 SSD 캐시로 스트리밍하는 영상 편집용 스토리지. [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/juicemount) ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz/) - 50GB의 무료 저장 공간을 제공하는 클라우드 서비스. ![Freeware][Freeware Icon]
 * [Nextcloud](https://nextcloud.com/) - 개인용 클라우드 서버 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 

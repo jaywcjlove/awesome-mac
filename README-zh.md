@@ -1001,6 +1001,7 @@ Awesome Mac
 * [115](http://pc.115.com/) - 115 云客户端。![Freeware][Freeware Icon]
 * [123云盘](https://www.123pan.com/) - 123 云盘客户端。![Freeware][Freeware Icon]
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 云存储与文件同步服务。![Freeware][Freeware Icon]
+* [JuiceMount](https://juicemount.com) - 将自己的 NAS 挂载为 Finder 卷用于视频剪辑，只把访问到的数据块流式缓存到本地 SSD。[![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/juicemount) ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - 基于 ownCloud 完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]
 * [Resilio Sync](https://www.resilio.com/individuals/) - P2P私有云盘，BitTorrent血统，支持`安卓`/`iOS`/`Windows`/`macOS`/`Linux`/`FreeBSD`/`NAS`等系统平台。注意：截止2021.7.20，macOS平台客户端存在休眠崩溃现象，除此之外可以正常使用。![Freeware][Freeware Icon]
