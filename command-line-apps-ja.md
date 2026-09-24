@@ -177,6 +177,7 @@ Awesome Command Line Apps
 * [ShellHistory](https://loshadki.app/shellhistory/) - シェル履歴のバックアップ、同期、整理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12&platform=mac)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 速度を重視したackに似たコード検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 宇宙飛行士のためのZshプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [SparkleBIOS](https://www.reactivepixels.com/sparklebios) - 新しいターミナルタブごとに1995年風のPOST画面を表示しますが、実際はマシンの点検です。コミットしていない変更、放置されたプロセスが占有しているポート、gitで追跡されている .env ファイルを知らせます。 [![Open-Source Software][OSS Icon]](https://github.com/reactivepixels/sparklebios) ![Freeware][Freeware Icon]
 * [Taskbook](https://github.com/klaussinani/taskbook) - コマンドライン環境のためのタスク、ボード、メモ。 [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 * [Television](https://github.com/alexpasmantier/television) - 非常に高速な汎用ファジーファインダーTUI。 [![Open-Source Software][OSS Icon]](https://github.com/alexpasmantier/television) ![Freeware][Freeware Icon]
 * [TextQL](https://github.com/dinedal/textql) - CSVやTSVなどの構造化テキストに対してSQLを実行。 [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
