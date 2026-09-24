@@ -193,6 +193,7 @@ Awesome Mac
 * [Aurora Editor](https://auroraeditor.com/) - macOS用の軽量コードエディタ（IDE）。 [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - Bootstrapフレームワークを使用してレスポンシブWebサイトを作成するための強力なデスクトップアプリ。
 * [Brackets](http://brackets.io) - Webデザインを理解する、モダンなオープンソーステキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/brackets-cont/brackets/) ![Freeware][Freeware Icon]
+* [Caxton](https://caxton.app) - 巨大ファイル向けのネイティブテキストエディタ — メモリマップ方式で、数GBのログやCSVを瞬時に開けます。
 * [CodeEdit](https://www.codeedit.app/) - 軽量でネイティブ構築のエディタ。オープンソース。永久無料。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - macOS用の軽量プレーンテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Cursor](https://cursor.com/) - オートコンプリート、チャット、エージェント機能を備えたAIコードエディタ。 ![Freeware][Freeware Icon]
