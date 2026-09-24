@@ -1602,6 +1602,7 @@ Awesome Mac
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Safari用の無料広告ブロッカー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/) - Apple Siliconアプリの互換性をチェック。 [![Open-Source Software][OSS Icon]](https://github.com/ThatGuySam/doesitarm) ![Freeware][Freeware Icon]
 * [AirBattery](https://lihaoyun6.github.io/airbattery/) - Dock、メニューバー、またはウィジェットですべてのデバイスのバッテリーを表示。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
+* [AirStats](https://airstats.app) - CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - アプリの音量を制御し、システムオーディオを録音。 [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - リアルタイムのワット数、アプリごとの電力消費、充電履歴、消耗分析でバッテリーを消耗している原因を100%ローカルで表示。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Macのバッテリー情報と統計。
