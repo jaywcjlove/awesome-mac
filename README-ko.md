@@ -1152,6 +1152,7 @@ Awesome Mac
 ### 정식 사이트
 
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
+* [macss](https://macss.app/) - 미리보기, 가격 정보, Homebrew 설치 명령을 제공하는 엄선된 Mac 앱 카탈로그.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
 
