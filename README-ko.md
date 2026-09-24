@@ -941,6 +941,7 @@ Awesome Mac
 
 ### 메뉴 바 도구
 
+* [Actvt](https://actvt.io) - 실시간 시스템 지표와 Claude Code·Codex 세션 기록, 비용 및 토큰 분석을 한곳에 모으고 에이전트가 조회할 수 있는 MCP 서버를 내장한 메뉴 바 앱.
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook 노치에서 Claude Code와 Codex 세션 상태를 보여주고 선택한 장시간 작업을 자동으로 이어서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [AirStats](https://airstats.app) - CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
