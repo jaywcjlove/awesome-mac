@@ -1480,6 +1480,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SuperCorners](https://supercorners.vercel.app/) - Turn Hot Corners into custom workflow triggers. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - AI time tracker that helps you focus and build better work habits.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Add more useful actions to the Finder right-click menu. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
+* [Scroll Wheel Mission Control](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) - Switch desktops by holding the scroll wheel and dragging, and click it to open Mission Control. [![Open-Source Software][OSS Icon]](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) ![Freeware][Freeware Icon]
 * [Selectric](https://selectric.io/) - Private search across email, documents, and chat apps.
 * [SensibleSideButtons](https://sensible-side-buttons.archagon.net) - Make mouse side buttons work for back and forward in more apps. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)

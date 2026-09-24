@@ -1229,6 +1229,7 @@ Awesome Mac
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - 为 Finder 右键菜单增加更多常用操作。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Rize](https://rize.io/) - 用 AI 自动追踪时间并帮助改善专注习惯。
 * [Seodisias](https://seodisias.com) - 用于扫描站点技术 SEO 问题的网站分析工具。 [![Freeware][Freeware Icon]](https://seodisias.com)
+* [Scroll Wheel Mission Control](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) - 按住鼠标滚轮拖动即可切换桌面，点击滚轮打开调度中心。 [![Open-Source Software][OSS Icon]](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) ![Freeware][Freeware Icon]
 * [Selectric](https://selectric.io/) - 在邮件、文档和聊天内容中进行本地搜索。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 让鼠标侧键在更多应用中支持前进后退。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [Strategr](https://khrykin.github.io/strategr/) - 用时间盒规划一天的时间管理工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
