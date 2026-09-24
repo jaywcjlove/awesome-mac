@@ -928,6 +928,7 @@ Awesome Mac
 * [BookShelves](https://getbookshelves.app/) - 集电子书阅读与书库管理于一体的应用，提供公共领域书籍与同步功能。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
 * [Comic2Books](https://github.com/manueldidonna/comic2books) - 将漫画转换为电子书的工具。[![Open-Source Software][OSS Icon]](https://github.com/manueldidonna/comic2books) ![Freeware][Freeware Icon]
 * [Jane Reader](https://janereader.com/) - 阅读你的epub文件。无干扰阅读。 ![Freeware][Freeware Icon]
+* [KindBeamer](https://jooray.github.io/kindbeamer/) - 非官方的开源 Send to Kindle 客户端，将文档发送到 Kindle 设备。 [![Open-Source Software][OSS Icon]](https://github.com/jooray/kindbeamer) ![Freeware][Freeware Icon]
 * [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613?platform=mac) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?platform=mac)
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
