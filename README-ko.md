@@ -1074,6 +1074,7 @@ Awesome Mac
 * [Seodisias](https://seodisias.com) - 사이트의 기술 SEO 문제를 찾아주는 분석 도구. [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
+* [Starlie](https://apps.apple.com/app/id6761744867) - 이슈 탐색과 스프린트 관리를 지원하는 빠른 네이티브 Jira 클라이언트. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6761744867)
 * [Strategr](https://khrykin.github.io/strategr/) - 하루를 타임박싱으로 정리하는 시간 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [StrokeMouse](https://strokemouse.com) - 트리거 버튼을 누른 채 궤적을 그려 단축키, 앱 실행, 창 작업, Shell/AppleScript 등을 실행하는 마우스 제스처 도구. [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]
 * [SuperCorners](https://supercorners.vercel.app/) - 화면 모서리를 사용자 정의 워크플로 트리거로 바꾸는 도구. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
