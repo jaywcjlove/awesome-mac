@@ -1110,6 +1110,7 @@ Awesome Mac
 ### 비밀번호 관리
 
 * [1Password](https://1password.com/) - 세계에서 가장 인기 있는 비밀번호 관리자.
+* [Authier](https://www.authier.pm/) - 브라우저와 웹에서 사용할 수 있는 초기 개발 단계의 오픈 소스 비밀번호 관리자로, 클라이언트 측에서 암호화한 데이터를 동기화하고 TOTP 및 자동 완성을 지원하지만 아직 독립적인 감사를 받지는 않았습니다. [![Open-Source Software][OSS Icon]](https://github.com/authier-pm/authier) ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com/) - 안전한 오픈 소스 비밀번호 관리 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden/desktop) ![Freeware][Freeware Icon]
 * [Mactokio](https://github.com/dalirnet/mactokio) - 웹캠으로 QR 코드를 스캔해 계정을 가져오고 시크릿을 AES-256으로 기기에 암호화 저장하는 네이티브 TOTP/HOTP 인증 앱. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NotchOTP](https://github.com/Photon94/NotchOTP) - 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱. ![Freeware][Freeware Icon] ![Native App][Native Icon]
