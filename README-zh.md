@@ -1083,7 +1083,7 @@ Awesome Mac
 
 ## 教育
 
-* [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
+* [LeafyApp](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 金融
