@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 02:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:06:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lunavect</title>
+      <link>https://github.com/lovach/Lunavect</link>
+      <guid isPermaLink="false">54a20606b7b1b9d065e34a86055dc3b04a795656:Lunavect</guid>
+      <pubDate>Thu, 24 Sep 2026 02:06:38 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Lunavect
+Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
+Open Source: https://github.com/lovach/Lunavect
+Commit: Add Lunavect to Menu Bar Tools (#2952)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
+    </item>
     <item>
       <title>ExcalidrawZ</title>
       <link>https://excalidrawz.chocoford.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/maddylaneeee/ShengJi
 Commit: Add ShengJi to Voice-to-Text (#2412)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: ShengJi<br/>Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
-    </item>
-    <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Plonk
-Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Plonk<br/>Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
     </item>
   </channel>
 </rss>
