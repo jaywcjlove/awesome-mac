@@ -666,6 +666,7 @@ Awesome Mac
 * [Amadine](https://amadine.com) - グラフィックデザイナー向けの直感的なインターフェースを備えたベクタードローイングアプリ。
 * [Art Text 3](https://www.belightsoft.com/art-text/) - レタリング、タイポグラフィ、テキストエフェクト用のグラフィックデザインソフトウェア。
 * [Blender](https://www.blender.org/) - 無料でオープンな3D制作ソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [BoardEject](https://boardeject.dev) - Apple Freeformの選択範囲を編集可能なExcalidrawと検証済みローカルアーカイブにエクスポート。 [![Open-Source Software][OSS Icon]](https://github.com/royalpinto007/boardeject) ![Freeware][Freeware Icon]
 * [Colorpicker](https://colorpicker.fr/) - ピッキング機能付きの完全なオープンソースカラー操作ツール! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - オープンソースの写真ワークフローアプリケーションおよびRAW現像ソフト。 [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 画像の背景をオフラインで一括削除できるツール。
