@@ -1336,6 +1336,7 @@ Awesome Mac
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+* [Clip Sweeper](https://clipsweeper.com) - Premiere ProやDaVinci Resolveのどのタイムラインでも使われていないメディアを見つけ、ドライブの空き容量を安全に確保するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/clip-sweeper/id6760352269)
 * [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [Harbofly](https://harbofly.app/) - 開発ビルドの成果物やキャッシュ（DerivedData、node_modules、SPM/Homebrewキャッシュ）を自動検出して解放するメニューバーツール。テレメトリーなし。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
