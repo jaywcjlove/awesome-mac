@@ -1168,6 +1168,7 @@ Awesome Mac
 * [BetterTouchTool](https://folivora.ai/) - 自定义触控板、鼠标和键盘的手势与快捷操作。
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR
 * [CalmMouse](https://calmmouse.malikzhang.com/) - 让妙控鼠标在你点击时不再滚动页面。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
+* [Can Opener](https://canopener.app/) - 更改文件或链接的默认打开应用，可单个或整组一次切换，并支持配置文件快速切换。
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
