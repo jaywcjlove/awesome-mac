@@ -1088,6 +1088,7 @@ Awesome Mac
 * [Voxt](https://github.com/hehehai/voxt) - 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI変換とキーボードショートカットを備えたマルチプロバイダー音声テキスト変換。 [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - 自動編集、スタイルマッチング、ノイズ最適化を備えたAIディクテーション。
+* [Yorick](https://heyyorick.com/) - オンデバイスの文字起こしと、キーを押している間に話す音声入力に対応した小さなディクテーションツール。 [![Open-Source Software][OSS Icon]](https://github.com/damianr/yorick) ![Freeware][Freeware Icon]
 
 ## ブラウザ
 
