@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:52:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AirStats</title>
+      <link>https://airstats.app</link>
+      <guid isPermaLink="false">ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef:AirStats</guid>
+      <pubDate>Thu, 24 Sep 2026 02:52:50 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: AirStats
+Description: CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터.
+Website: https://airstats.app
+Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AirStats<br/>Description: CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터.<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
+    </item>
     <item>
       <title>Lunavect</title>
       <link>https://github.com/lovach/Lunavect</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/ostapondo/plonk
 Commit: Add Plonk to Window Management (#2515)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Plonk<br/>Description: 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
-    </item>
-    <item>
-      <title>Imark</title>
-      <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Imark
-Description: 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어.
-Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
     </item>
   </channel>
 </rss>
