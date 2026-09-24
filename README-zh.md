@@ -1231,6 +1231,7 @@ Awesome Mac
 * [Seodisias](https://seodisias.com) - 用于扫描站点技术 SEO 问题的网站分析工具。 [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 在邮件、文档和聊天内容中进行本地搜索。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 让鼠标侧键在更多应用中支持前进后退。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
+* [SpreadPaper](https://spreadpaper.app) - 将一张高分辨率壁纸横跨多台显示器展示，并可补偿屏幕边框的宽度。 [![Open-Source Software][OSS Icon]](https://github.com/spreadpaper/SpreadPaper) ![Freeware][Freeware Icon]
 * [Strategr](https://khrykin.github.io/strategr/) - 用时间盒规划一天的时间管理工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [StrokeMouse](https://strokemouse.com) - 自定义鼠标手势：按住触发键绘制轨迹后执行快捷键、打开应用、窗口操作、Shell 或 AppleScript。 [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]
 * [SuperCorners](https://supercorners.vercel.app/) - 把屏幕热角变成自定义工作流触发器。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
