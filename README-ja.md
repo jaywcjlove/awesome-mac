@@ -1249,6 +1249,7 @@ Awesome Mac
 * [AirPoise](https://airpoise.vercel.app/) - AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - ローカルの静的サイトやRackアプリを手軽に公開できるツール。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+* [BannerHither](https://github.com/KJeon10/BannerHither) - macOSの通知バナーを今見ているディスプレイ（マウスポインタのある画面、アクティブなウインドウのある画面、または特定のディスプレイ）に移動する。 [![Open-Source Software][OSS Icon]](https://github.com/KJeon10/BannerHither) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
 * [Candela](https://candela.fyi) - 外部ディスプレイをいたわるメニューバーアプリ。OLED焼き付き防止、パネルの使用履歴、そして輝度・音量・コントラストの日常操作。 [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - AI コーディングセッション(Claude Code、Codex、opencode、pi)の状態をメニューバーに表示し、対応するターミナルペインやエディタウィンドウへジャンプできるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
