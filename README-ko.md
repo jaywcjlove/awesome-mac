@@ -1031,6 +1031,7 @@ Awesome Mac
 * [Sensei](https://sensei.app/) - 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
 * [SiliconScope](https://siliconscope.calidalab.ai) - 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。 [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 덮개를 닫아도 절전을 막고 자동 종료 타이머와 배터리 하한 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
+* [Valpas](https://kirsulab.com/macos/valpas) - 정한 시간 동안 Mac이 잠들지 않게 하는 메뉴 막대 스위치입니다. 카운트다운을 보여 주며 전원 어댑터 연결, 외부 디스플레이 연결, 지정한 앱 실행 중에 자동으로 시작합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/valpas-keep-machine-awake/id6803307242)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
 
 ### 할 일 목록 (To-Do Lists)
