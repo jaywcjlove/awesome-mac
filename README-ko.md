@@ -656,6 +656,7 @@ Awesome Mac
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
+* [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - Anthropic API 호환 로컬 MLX 서버로 Apple Silicon에서 Claude Code를 완전히 온디바이스로 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/nicedreamzapp/claude-code-local) ![Freeware][Freeware Icon]
 * [Claude God](https://claudegod.app) - Claude 사용량, 비용, 세션 통계를 모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage](https://github.com/Bread-bang/claude-usage) - Claude Code용 메뉴 막대 앱. 상태 줄에 페인별 컨텍스트를 표시하고, 세션·주간 사용량도 항상 확인 가능. usage·context 명령을 실행할 필요 없음. [![Open-Source Software][OSS Icon]](https://github.com/Bread-bang/claude-usage) ![Freeware][Freeware Icon]
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 실시간 카운터로 Claude 사용량을 추적하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
