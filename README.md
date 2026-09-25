@@ -1453,6 +1453,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](https://www.keyboardmaestro.com) - Automate repetitive tasks with triggers and macros.
 * [Keytty](https://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
+* [Launchie](https://www.launchie.app) - Launchpad replacement with a full-screen app grid, your own layout, folders, and Spaces. [![App Store][app-store Icon]](https://apps.apple.com/app/launchie/id6752657468?platform=mac)
 * [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
 * [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
