@@ -1050,6 +1050,7 @@ Awesome Mac
 * [Arq](https://www.arqbackup.com/) - AWS、GCP、DropBoxなどをサポートするクラウドストレージバックアップクライアント。
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carboniteは最も一般的なデータ損失からMacを保護できる。
 * [Dropbox](https://www.dropbox.com/) - クラウドストレージとファイル同期サービス。 ![Freeware][Freeware Icon]
+* [JuiceMount](https://juicemount.com) - 自分のNASをFinderボリュームとしてマウントし、アクセスしたブロックだけをローカルSSDキャッシュにストリーミングする動画編集向けストレージ。 [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/juicemount) ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz) - 50GBの無料ストレージを提供する無料クラウドサービス。 ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - ownCloudの活発にメンテナンスされたフォーク。より高速で完全にオープンソース [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 * [ownCloud](https://owncloud.org) - クラウドストレージ。

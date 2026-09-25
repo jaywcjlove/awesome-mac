@@ -1049,6 +1049,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Arq](https://www.arqbackup.com/) - Cloud storage backup client that supports AWS, GCP, DropBox, and more.
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite can protect your Mac from all of the most common forms of data loss.
 * [Dropbox](https://www.dropbox.com/) - Cloud storage and file synchronization service. ![Freeware][Freeware Icon]
+* [JuiceMount](https://juicemount.com) - Mounts your own NAS as a Finder volume for video editing, streaming only the blocks you touch into a local SSD cache. [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/juicemount) ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - Actively maintained fork of ownCloud, faster and completely open-source [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 * [ownCloud](https://owncloud.org) - Cloud storage.
