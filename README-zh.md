@@ -882,6 +882,7 @@ Awesome Mac
 
 * [AliYuQue](https://www.yuque.com/install/desktop) - 一款基于云的知识管理与协作平台，支持Markdown写作、流程图、代码渲染等功能，由阿里巴巴蚂蚁金服开发。 ![Freeware][Freeware Icon]
 * [Anytype](https://anytype.io/) - 本地优先的笔记与知识管理应用。 ![Freeware][Freeware Icon]
+* [Cyanote](https://cyanote.app) - 集笔记、待办、日历、习惯和剪贴板历史于一体的本地优先应用。 ![Native App][Native Icon]
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。

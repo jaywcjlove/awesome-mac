@@ -258,6 +258,7 @@ Awesome Mac
 * [Bear Writer](http://www.bear-writer.com/) - ノートと散文を作成するための美しく柔軟なライティングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
 * [Boostnote](https://boostnote.io/) - プログラマー向けのメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [Craft](https://www.craft.do/) - 美しいノートテイキングとライティング。 [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
+* [Cyanote](https://cyanote.app) - ノート、ToDo、カレンダー、習慣、クリップボード履歴をまとめたオールインワンのローカルファーストアプリ。 ![Native App][Native Icon]
 * [Dnote](https://www.getdnote.com/) - マルチデバイス同期とWebインターフェースを備えたシンプルなコマンドラインノートブック。 [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - ワンタップで自分にメール。macOS、iOS、WatchOSにネイティブ対応。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 多くのプラットフォームで利用可能な有名なメモアプリ。 ![Freeware][Freeware Icon]
