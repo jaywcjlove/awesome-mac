@@ -1036,6 +1036,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - Lightweight download manager with an optimized transfer engine. ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - Easy Download Manager for any links.
+* [Sound Cache](https://soundcache.io) - Saves TikTok, Instagram and YouTube sounds as tagged audio files in a local folder, with artwork and on-device transcripts. [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/SoundCache) ![Freeware][Freeware Icon]
 * [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - Media downloader for video and audio from major websites. ![Freeware][Freeware Icon]

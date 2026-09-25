@@ -987,6 +987,7 @@ Awesome Mac
 * [Motrix](https://motrix.app/) - 支持 HTTP、FTP、BT、磁力链等协议的下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 具备优化传输引擎的轻量下载管理器。![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+* [Sound Cache](https://soundcache.io) - 将 TikTok、Instagram 和 YouTube 的声音保存为带标签的音频文件，存入本地文件夹，并附带封面和本地转录文本。 [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/SoundCache) ![Freeware][Freeware Icon]
 * [Swads](https://swads.app/) - 群晖 Download Station 客户端，现代、原生、凭直觉再设计。
 * [Transmission](https://www.transmissionbt.com/) - 免费的 BitTorrent 客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - 用于从主流网站下载音视频的媒体下载器。 ![Freeware][Freeware Icon]
