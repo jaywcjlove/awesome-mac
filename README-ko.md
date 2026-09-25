@@ -1073,6 +1073,7 @@ Awesome Mac
 * [Rize](https://rize.io/) - AI로 시간을 추적하고 집중 습관 개선을 돕는 도구.
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Seodisias](https://seodisias.com) - 사이트의 기술 SEO 문제를 찾아주는 분석 도구. [![Freeware][Freeware Icon]](https://seodisias.com)
+* [Scroll Wheel Mission Control](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) - 마우스 휠을 누른 채 드래그하여 데스크톱을 전환하고, 클릭하면 Mission Control을 엽니다. [![Open-Source Software][OSS Icon]](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) ![Freeware][Freeware Icon]
 * [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [Strategr](https://khrykin.github.io/strategr/) - 하루를 타임박싱으로 정리하는 시간 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
