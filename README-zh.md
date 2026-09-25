@@ -319,6 +319,7 @@ Awesome Mac
 
 * [Apifox](https://www.apifox.cn) - Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比 Postman 看起来漂亮的客户端，测试 HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
+* [Cortex](https://cortexdocs.dev) - 从 API 规范生成交互式 API 文档、类型化 SDK 和 MCP server 的开源命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/cortex-docs/cortex) ![Freeware][Freeware Icon]
 * [HTTPie](https://httpie.io/) - 经典的命令行 HTTP 客户端，现在提供 APP 版和网页版。HTTPie 简单、直观的 HTTP API 客户端。![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 一款轻量、快速且功能全面的 API 调试工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
