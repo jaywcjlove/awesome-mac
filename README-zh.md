@@ -748,6 +748,7 @@ Awesome Mac
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
 * [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac) - 支持本地实时转写和多语言字幕的实时字幕工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac)
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
+* [Bòcan Music](https://github.com/bocan/bocan-music) - 为仍然拥有自己音乐的人打造的原生开源音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/bocan/bocan-music) ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - 在你的个人电脑上离线转录和翻译音频，由 OpenAI 的 Whisper 提供支持。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [EnviousWispr](https://enviouswispr.com/) - 本地 AI 语音转文本工具，可将语音快速整理成可直接粘贴的文本。 ![Freeware][Freeware Icon]
 * [Carol](https://github.com/AnaghSharma/Carol) - 为 macOS 提供最小化和美丽的歌词应用程序。[![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
