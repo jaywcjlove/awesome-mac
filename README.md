@@ -1433,6 +1433,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CalmMouse](https://calmmouse.malikzhang.com/) - Stop the Magic Mouse scrolling the page every time you click. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
+* [Compact Contacts](https://compactcontacts.com/) - Dense, searchable table for the contacts already stored in macOS Contacts, with previewed bulk edit and duplicate merge. [![App Store][app-store Icon]](https://apps.apple.com/us/app/compact-contacts/id6790129187?mt=12)
 * [CurrentKey](https://currentkey.com) - Add custom names and icons to Spaces and track app usage time. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 * [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
