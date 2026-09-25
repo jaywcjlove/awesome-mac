@@ -834,6 +834,7 @@ Awesome Mac
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 複数の大規模言語モデル（LLM）プロバイダーをサポートするデスクトップクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [CodeAgentSwarm](https://www.codeagentswarm.com) - 複数のAIコーディングエージェント（Claude Code、Codex CLI、Antigravity）を並列の監視付きターミナルで実行。通知、セッション履歴、カンバンボード付き。 ![Freeware][Freeware Icon]
 * [CodexBar](https://codexbar.app) - ログイン不要でOpenAI CodexとClaude Codeの使用状況を表示。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - DeepSeek Harnessを基盤とし、Webサイト上のタスク向けにWebMCPツールを作成・再利用できるデスクトップAIワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
