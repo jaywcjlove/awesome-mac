@@ -1432,6 +1432,7 @@ Awesome Mac
 * [BetterMouse](https://better-mouse.com) - サードパーティ製マウスのスクロール、加速、ボタン、ジェスチャーを調整できるツール。
 * [BetterTouchTool](https://folivora.ai/) - トラックパッド、マウス、キーボードのジェスチャーや操作を細かくカスタマイズできるツール。
 * [CalmMouse](https://calmmouse.malikzhang.com/) - クリックのたびにページがスクロールしてしまうMagic Mouseの挙動を止めるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
+* [Can Opener](https://canopener.app/) - ファイルやリンクを開くアプリを1種類ずつ、またはグループ単位でまとめて変更し、プロファイルで素早く切り替えられるツール。
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
 * [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
