@@ -1317,6 +1317,7 @@ Awesome Mac
 * [Today](https://sindresorhus.com/today) - メニューバーから今日の予定とカレンダーイベントを確認できるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [Tomatino](https://tomatino.app) - メニューバーのポモドーロタイマー。セッションを開始すると集中モードをオンにして音楽を再生し、休憩で両方をオフに戻す。 [![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) - macOSメニューバー用の世界一洗練されたポモドーロタイマー。 [![Open-Source Software][OSS Icon]](https://github.com/ivoronin/TomatoBar) ![Freeware][Freeware Icon]
+* [TuckBar](https://tuckbar.com) - 選んだディスプレイだけでメニューバーを隠し、その領域をライブ壁紙で埋めてOLEDの焼き付きを軽減するツール。 [![Open-Source Software][OSS Icon]](https://github.com/lelanddutcher/TuckBar) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuckbar/id6779300947) ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 用意したスクリプトをホットキー1回につき1行ずつ、実際のキーストロークとして自然なペースで任意のアプリに入力。デモ録画やライブプレゼンに。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - メニューバーまたはウィジェットにUTC時刻を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904?platform=mac)
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Macのメニューバーアイコンを非表示にする。 ![Freeware][Freeware Icon]
