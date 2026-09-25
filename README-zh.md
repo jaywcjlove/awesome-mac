@@ -1366,6 +1366,7 @@ Awesome Mac
 * [Todoist](https://www.todoist.com/downloads) - 跨平台的任务管理器与移动应用程序。
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 奇妙清单跨平台的任务管理器与移动应用程序。![Freeware][Freeware Icon]
 * [滴答清单](https://www.dida365.com/) - 轻便且强大的跨平台任务管理应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id966085870?platform=mac)
+* [Tempo](https://github.com/Crows-Storm/Tempo) - 一款专为 macOS 打造的“本地优先”专注计时器、看板及私密工作记录工具。 ![Freeware][Freeware Icon] 
 
 ### 效率工具
 

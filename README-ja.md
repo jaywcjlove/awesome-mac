@@ -1420,6 +1420,7 @@ Awesome Mac
 * [Todoist](https://todoist.com/mac) - クロスプラットフォームのToDoリストアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?platform=mac)
 * [Tomato 2](https://tomato2.app) - 美しくシンプルなポモドーロタイマー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?platform=mac)
 * [TickTick](https://ticktick.com/) - 生活のあらゆる側面を整理するのに役立つシンプルで効果的なToDoリスト＆タスクマネージャー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id966085870?platform=mac)
+* [Tempo](https://github.com/Crows-Storm/Tempo) - macOS向けの、ローカルファーストなフォーカスタイマー、カンバンボード、そしてプライベートな作業履歴。 ![Freeware][Freeware Icon]
 
 ### 生産性ツール
 

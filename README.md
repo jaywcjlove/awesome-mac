@@ -1420,6 +1420,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Todoist](https://www.todoist.com/downloads) - Cross-platform todo list app. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?platform=mac)
 * [Tomato 2](https://tomato2.app) - Beautiful and simple Pomodoro timer. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?platform=mac)
 * [TickTick](https://ticktick.com/) - Simple and effective to-do list and task manager that helps you organize all aspects of life. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id966085870?platform=mac)
+* [Tempo](https://github.com/Crows-Storm/Tempo) - A local-first focus timer, kanban board, and private work history for macOS. ![Freeware][Freeware Icon]
 
 ### Productivity
 
