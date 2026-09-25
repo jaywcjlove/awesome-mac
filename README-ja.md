@@ -459,6 +459,7 @@ Awesome Mac
 * [ProcessSpy](https://process-spy.app/) - クリーンで強力なプロセスモニター。
 * [PushMate](https://pushmate.app) - macOSでのプッシュ通知に関する一般的な問題を解決するツール。
 * [Responsively](https://responsively.app) - レスポンシブWeb開発を高速化するWeb開発者必携のDevTool。 [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
+* [Runner](https://github.com/yicheng47/runner) - Claude Code、Codex、Copilot CLI、pi などの CLI コーディングエージェントがクルーとして一つのタスクに協力して取り組み、それぞれが本物のターミナルで動作するオープンソースのワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - gitとの対話を強化するシェルスクリプトセット（bashおよびzsh用）。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - SSH、Telnet、その他のプロトコルをサポートするターミナルエミュレーション。
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - ウェブサイトを自動的にダウンロードするツール。 [![App Store][app-store Icon]](https://apps.apple.com/in/app/sitesucker/id442168834?platform=mac)

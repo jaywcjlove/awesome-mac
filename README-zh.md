@@ -287,6 +287,7 @@ Awesome Mac
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
 * [PPRows](https://github.com/jkpang/PPRows) - 计算你写了多少行代码。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - 原生进程监视器，功能丰富，界面简洁。
+* [Runner](https://github.com/yicheng47/runner) - 开源工作台，让 Claude Code、Codex、Copilot CLI 和 pi 等命令行编码代理组队协作同一任务，每个代理都在各自的真实终端中运行。 [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - 用于增强与git交互的shell脚本集(用于bash和zsh)。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持 SSH、Telnet 等多种协议的终端仿真程序。
