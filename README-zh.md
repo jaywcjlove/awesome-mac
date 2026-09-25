@@ -1377,6 +1377,7 @@ Awesome Mac
 * [Textream](https://textream.fka.dev) - 免费提词器，具有实时单词跟踪和语音激活滚动功能。[![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - 开源的 Spotlight 替代品和快捷工具套件。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
 * [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - 通过一个面板来帮助你高效管理所有项目信息。[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
+* [WinKeys](https://github.com/neural-beat/winkeys) - 让 Windows 的键盘快捷键在 macOS 上生效，专为刚从 Windows 转过来的用户设计。 [![Open-Source Software][OSS Icon]](https://github.com/neural-beat/winkeys) ![Freeware][Freeware Icon]
 
 ### 清理卸载
 
