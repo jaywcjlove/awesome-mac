@@ -1294,7 +1294,7 @@ Awesome Mac
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 显示实时充电状态和能耗信息的菜单栏电池监控工具。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 将 MacBook 刘海打造成动态岛风格的 Live Activity，实时显示 Claude Code 与 Codex CLI 的速率限制和花费。所有数据本地计算，无任何遥测。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
-* [Crest](https://crestnotch.app/crest) - 将 MacBook 刘海展开为一块实时磁贴面板，包含正在播放、日历、待办、系统状态和 Claude Code 审批；在没有刘海的 Mac 上则显示为顶部的小胶囊。 ![Freeware][Freeware Icon]
+* [Crest](https://crestnotch.app/crest) - 在刘海中显示 Claude Code 和 Codex 的权限请求并一键批准的刘海面板，同时提供正在播放、日历、待办和系统状态磁贴；在没有刘海的 Mac 上显示为顶部的小胶囊。
 * [SaneBar](https://sanebar.com) - 带隐藏区域和自动化能力的隐私优先菜单栏管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 用媒体键控制网页播放器和部分应用播放。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
