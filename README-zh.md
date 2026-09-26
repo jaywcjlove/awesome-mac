@@ -755,6 +755,7 @@ Awesome Mac
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - 免费、跨平台视频编辑、颜色分级、视频效果和音频编辑软件。
 * [Fader](https://github.com/pantafive/fader) - 菜单栏音量混音器，支持应用级音量、一键切换输出设备和蓝牙耳机控制。[![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - 支持多设备输出和 10 段均衡器的应用级音量控制工具。[![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
+* [Frame Player](https://frameplayer.app/) - 基于 mpv 的视频播放器，支持边下边播的种子串流、投屏到电视以及多人同步观看。 [![Open-Source Software][OSS Icon]](https://github.com/risenxxx/frame-player) ![Freeware][Freeware Icon]
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 支持多种音视频格式的媒体播放器。
 * [ffWorks](https://www.ffworks.net/) - macOS的综合媒体工具。使每个人都可以使用高质量的视频编码。
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款注重隐私的开源 YouTube 应用。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
