@@ -1033,6 +1033,7 @@ Awesome Mac
 * [SiliconScope](https://siliconscope.calidalab.ai) - 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。 [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 덮개를 닫아도 절전을 막고 자동 종료 타이머와 배터리 하한 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
+* [TurtleBar](https://www.turtlebar.app) - 메뉴 막대에 배터리 남은 시간을 표시하고, 잔량·남은 시간·앱에 따라 저전력 모드를 자동으로 켭니다. ![Native App][Native Icon]
 
 ### 할 일 목록 (To-Do Lists)
 
