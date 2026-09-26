@@ -1094,6 +1094,7 @@ Awesome Mac
 * [Convoker](https://github.com/varie-ai/convoker) - 앱 이름을 입력하고 엔터를 누르면 해당 앱의 모든 창이 모입니다. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.
 * [Dimsum](https://github.com/nshi/dimsum) - 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
+* [Hammerdeck](https://hammerdeck.peach-studio.com) - 그리드 배치, 디스플레이 간 창 이동과 맞바꾸기, 키 한 번으로 되돌리기, 디스플레이를 연결하면 창을 다시 배치하는 규칙을 갖춘 대화면·다중 디스플레이용 키보드 중심 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/kouxing2000/hammerdeck) ![Freeware][Freeware Icon]
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
