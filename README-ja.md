@@ -1012,6 +1012,7 @@ Awesome Mac
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - プラグイン拡張に対応したYouTube Musicデスクトッププレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) - YouTube Music用の無料クロスプラットフォームデスクトッププレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - ライブキャプション、オーディオ/ビデオ文字起こし、字幕翻訳のための多機能アプリ。
+* [YT Float](https://github.com/dadhichgaurav1/yt_float) - コンパクトモードとログイン状態の保持に対応した、常に最前面に表示されるオープンソースのフローティングYouTubeウィンドウ。 [![Open-Source Software][OSS Icon]](https://github.com/dadhichgaurav1/yt_float) ![Freeware][Freeware Icon]
 * [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - レトロなローカル音楽プレイヤー。複数フォーマットとAI操作に対応。
 * [Fmusic](https://github.com/wandercn/fmusic) - SwiftUIで作られたオープンソースの音楽プレイヤー。[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
 
