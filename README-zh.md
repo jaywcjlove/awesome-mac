@@ -282,6 +282,7 @@ Awesome Mac
 * [Loupe](https://github.com/smughead/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
+* [Oh My Android](https://github.com/ateymoori/oh-my-android) - Android 模拟器控制面板，可一键切换深色模式、字体缩放、RTL 和 TalkBack，并内置供 AI 代理使用的 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/oh-my-android) ![Freeware][Freeware Icon]
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
 * [PortKiller](https://github.com/productdevbook/port-killer) - 用于查看端口、管理转发与隧道并结束占用进程的工具。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
