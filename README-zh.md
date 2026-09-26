@@ -798,6 +798,7 @@ Awesome Mac
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - 简单实用的视频裁剪工具，支持多种格式，精确截取所需片段。
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/xld/) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/yplayer/) - 一款多功能应用，支持实时字幕、音视频转文字、录音转写和字幕翻译。 [![Open-Source Software][OSS Icon]](https://github.com/Hiram-Wong/ZyPlayer) ![Freeware][Freeware Icon]
+* [YT Float](https://github.com/dadhichgaurav1/yt_float) - 开源的悬浮置顶 YouTube 窗口，支持精简模式并保持登录状态。 [![Open-Source Software][OSS Icon]](https://github.com/dadhichgaurav1/yt_float) ![Freeware][Freeware Icon]
 * [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 一款采用现代化技术栈开发的高颜值媒体播放器，它基于 electron-vite 框架，集成了 TDesign UI 组件库与 Vue3 全家桶，以清新的薄荷绿为主题，旨在为用户提供流畅的跨平台娱乐体验。[![Open-Source Software][OSS Icon]](https://github.com/Hiram-Wong/ZyPlayer) ![Freeware][Freeware Icon]
 
 
