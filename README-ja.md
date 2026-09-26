@@ -1514,6 +1514,7 @@ Awesome Mac
 * [Dockit](https://dockit-docs.pages.dev) - 任意のウィンドウを画面の端にドッキングできるアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [Dissolv](https://www.7sols.com/dissolv/) - 非アクティブなアプリを非表示および終了。 [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
 * [Divvy](http://mizage.com/divvy/) - 素晴らしいDivvy Gridシステムによる最高のウィンドウ管理。
+* [Hammerdeck](https://hammerdeck.peach-studio.com) - グリッド配置、ディスプレイ間の移動と入れ替え、ワンキーでの取り消し、ディスプレイ接続時にウィンドウを並べ直すルールを備えた、大画面・マルチディスプレイ向けのキーボード操作型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/kouxing2000/hammerdeck) ![Freeware][Freeware Icon]
 * [Hummingbird](https://finestructure.co/hummingbird) - ウィンドウ内のどこからでも、マウスクリックなしでウィンドウを簡単に移動・リサイズ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [IntelliDock](https://mightymac.app/intellidock/) - Dockを自動的に非表示に。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - macOS用の軽量ウィンドウボーダーシステム。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
