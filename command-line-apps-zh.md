@@ -133,6 +133,7 @@
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的 bash 的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - 带有语法高亮和Git集成的 `cat(1)` 克隆。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - macOS 命令行工具，用于限制电池最大充电量。 [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
+* [Broza](https://borlafu.github.io/broza/) - 开源磁盘清理工具，解释 APFS 存储的占用情况，并从开发缓存、快照和备份中回收空间，先演练再执行，删除内容进入可恢复的隔离区。 [![Open-Source Software][OSS Icon]](https://github.com/borlafu/broza) ![Freeware][Freeware Icon]
 * [Clipport](https://github.com/arihantsethia/clipport) - 将 Mac 剪贴板文本和截图粘贴到远程 iTerm SSH 会话中。 [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 一款复古风格的终端，非常酷炫。怀旧的命令行终端。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh) 的客户端软件。摆脱命令方便安装、查看、卸载软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
