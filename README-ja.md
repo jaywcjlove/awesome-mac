@@ -1314,7 +1314,7 @@ Awesome Mac
 * [TypeCue](https://typecue.app) - 用意したスクリプトをホットキー1回につき1行ずつ、実際のキーストロークとして自然なペースで任意のアプリに入力。デモ録画やライブプレゼンに。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - メニューバーまたはウィジェットにUTC時刻を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904?platform=mac)
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Macのメニューバーアイコンを非表示にする。 ![Freeware][Freeware Icon]
-* [Vibe Corgi](https://vibecorgi.net) - Claude Code や Codex の作業中は走り、承認が必要になると待ち、セッションが終わると休むコーギーのメニューバーコンパニオン。
+* [Vibe Corgi](https://vibecorgi.net) - Claude Code や Codex の作業中は走り、承認が必要になると待ち、セッションが終わると休むコーギーのメニューバーコンパニオン、ライセンスの購入が必要。 ![Native App][Native Icon]
 * [Vorssaint](https://vorssaint.com) - アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - ぼかし、色合い、影、テクスチャ、プリセット、Spaceごとの設定でメニューバーの背景をカスタマイズ。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Week Number](https://sindresorhus.com/week-number) - メニューバーに現在の週番号を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523?platform=mac)
