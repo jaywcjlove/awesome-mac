@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         NOTE: Each discrete (stand-alone) request should be in its own issue.
+        
+        If you plan to open a PR with AI assistance, prefer the repository skill `.codex/skills/awesome-mac-maintainer` to keep category selection, ordering, and multilingual updates consistent.
 
   - type: textarea
     attributes:
