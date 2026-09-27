@@ -1399,6 +1399,7 @@ Awesome Mac
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - MP4/MOV動画をシステム壁紙やロック画面のアニメーションとして簡単にインポート。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
+* [Walyro](https://walyro.com) - 自分の動画も、リアルタイムで描かれるシーンも動く壁紙にできる Wallpaper Engine の代替アプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/walyro-live-wallpaper-4k/id6762085079?platform=mac&pt=124124814&ct=awesome-mac-ja) ![Native App][Native Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - 高速タイピストのためにCaps Lockキーの有効化遅延を除去。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
 * [Seodisias](https://seodisias.com) - 技術的な SEO 問題を見つけるサイト分析ツール。 [![Freeware][Freeware Icon]](https://seodisias.com)
 

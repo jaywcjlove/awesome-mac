@@ -1251,6 +1251,7 @@ Awesome Mac
 * [Vidwall Hub](https://wangchujiang.com/vidwall-hub/) - 轻松将 MP4/MOV 视频导入系统壁纸并用作锁屏动画。 ![Freeware][Freeware Icon]
 * [Wallpaper Player](https://github.com/haren724/wallpaper-player-mac) - 一款强大的开源 Mac 动态壁纸应用，支持导入 Wallpaper Engine 上的壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/haren724/wallpaper-player-mac) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
+* [Walyro](https://walyro.com) - Wallpaper Engine 替代品，可将你自己的视频和实时绘制的动画场景设为动态壁纸。 [![App Store][app-store Icon]](https://apps.apple.com/app/walyro-live-wallpaper-4k/id6762085079?platform=mac&pt=124124814&ct=awesome-mac-zh) ![Native App][Native Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - 非官方的 WWDC Mac APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
 * [Wox](https://wox-launcher.github.io/Wox/) - 开源跨平台启动器，支持快速本地搜索和插件扩展。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 用于测量、检查和测试屏幕布局的工具集。
