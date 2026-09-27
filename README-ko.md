@@ -916,7 +916,7 @@ Awesome Mac
 * [Tunnelbear](https://www.tunnelbear.com) - 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스. ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스. ![Freeware][Freeware Icon]
 * [Tailscale](https://tailscale.com/) - 기기, 서비스, 사용자를 안전하게 연결하는 메시 VPN. ![Freeware][Freeware Icon]
-* [Vortix](https://github.com/Harry-kp/vortix) - 킬 스위치와 여러 터널 동시 연결을 지원하는 WireGuard 및 OpenVPN용 터미널 UI 겸 CLI. [![Open-Source Software][OSS Icon]](https://github.com/Harry-kp/vortix) ![Freeware][Freeware Icon]
+* [Vortix](https://github.com/Harry-kp/vortix) - 다중 터널 제어, 실시간 텔레메트리, 누출 방지를 지원하는 WireGuard 및 OpenVPN용 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/Harry-kp/vortix) ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 특정 도메인과 서비스를 VPN 우회 경로로 보낼 수 있는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 
 ## 유틸리티
