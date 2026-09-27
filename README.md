@@ -765,6 +765,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Recordly](https://recordly.dev/) - Open-source screen recorder and editor for polished demos, tutorials, and product videos. [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - Screen recorder with a built-in editor. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - Screen recorder for polished videos with automatic motion effects.
+* [ScreenBuddy](https://screenbuddy.xyz/) - Screen recorder and editor for product demos with auto-zoom, callouts, and local captions.
 * [ScreenKite](https://www.screenkite.com/) - Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
 * [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recorder with auto-zoom, cursor effects, and timeline editing. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
