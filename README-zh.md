@@ -989,6 +989,7 @@ Awesome Mac
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Swads](https://swads.app/) - 群晖 Download Station 客户端，现代、原生、凭直觉再设计。
 * [Transmission](https://www.transmissionbt.com/) - 免费的 BitTorrent 客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - 原生 SwiftUI 编写的 Transmission 守护进程远程客户端，支持种子规则、RSS 自动下载及按 Tracker/文件夹筛选，是 transgui 的现代替代品。 [![Open-Source Software][OSS Icon]](https://github.com/epaxpax/transmission-remote-gui) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XGetter](https://xgetter.com/) - 用于从主流网站下载音视频的媒体下载器。 ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 一款功能丰富的命令行音视频下载器。 [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) ![Freeware][Freeware Icon]

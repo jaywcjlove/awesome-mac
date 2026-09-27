@@ -808,6 +808,7 @@ Awesome Mac
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 최적화된 전송 엔진을 갖춘 경량 다운로드 관리자. ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Transmission](https://www.transmissionbt.com/) - 빠르고 쉽고 무료인 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - Transmission 데몬용 네이티브 SwiftUI 원격 클라이언트. 토렌트 규칙, RSS 자동 다운로드, 트래커/폴더별 필터를 지원하는 현대적인 transgui 대안. [![Open-Source Software][OSS Icon]](https://github.com/epaxpax/transmission-remote-gui) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XGetter](https://xgetter.com/) - 주요 웹사이트에서 동영상과 오디오를 내려받는 미디어 다운로드 도구. ![Freeware][Freeware Icon]
 
 
