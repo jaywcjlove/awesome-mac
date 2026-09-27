@@ -496,6 +496,7 @@ Awesome Mac
 * [Sourcetree](https://www.sourcetreeapp.com/) - 무료 Git & Mercurial 클라이언트. ![Freeware][Freeware Icon]
 * [Sublime Merge](https://www.sublimemerge.com/) - Sublime Text 제작자의 Git 클라이언트.
 * [Changes](https://github.com/maoyama/Changes) - GUI Git 클라이언트. 명확한 UI와 AI 어시스트로 Git CLI를 대체. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
+* [teebe](https://teebe.io) - Git worktree 네이티브 관리 도구. 파일 변경 배지와 인라인 차이를 실시간으로 표시. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/klein-t/teebe)
 * [Tower 2](https://www.git-tower.com/) - 가장 강력한 Git 클라이언트.
 
 ### 가상화
@@ -580,6 +581,7 @@ Awesome Mac
 * [Adobe XD](http://www.adobe.com/products/experience-design.html) - 웹 및 모바일 앱 디자인 및 프로토타이핑 도구.
 * [Axure RP](http://www.axure.com) - 프로토타입, 사양 및 다이어그램 도구.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 와이어프레임 도구.
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - 로컬 파일 관리와 iCloud 동기화를 지원하는 오픈 소스 네이티브 Excalidraw 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [Flinto](https://www.flinto.com/) - 상호작용 가능한 프로토타입 제작.
 * [Framer](http://framerjs.com/) - 상호작용 프로토타이핑 도구.
 * [MindNode](https://mindnode.com/) - 직관적인 마인드맵 소프트웨어.
@@ -619,7 +621,7 @@ Awesome Mac
 * [ScreenKite](https://www.screenkite.com/) - 자동 줌, AI 향상, 디바이스 목업, 텔레프롬프터 기능을 갖춘 네이티브 화면 녹화 및 편집 도구입니다. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI 검색을 지원하는 로컬 화면 및 마이크 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
+* [Screenpipe](https://github.com/screenpipe/screenpipe) - 소스 코드가 공개된 화면·오디오 기록 도구로, 로컬 기록 검색과 선택적 클라우드 AI 처리, 무료 및 유료 요금제를 제공합니다.
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
 
 ### 기타 도구
@@ -941,6 +943,7 @@ Awesome Mac
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook 노치에서 Claude Code와 Codex 세션 상태를 보여주고 선택한 장시간 작업을 자동으로 이어서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
+* [AirStats](https://airstats.app) - CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 노치를 미디어 제어, 라이브 활동, 빠른 유틸리티를 담은 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
@@ -958,6 +961,7 @@ Awesome Mac
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
+* [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook 노치를 미디어, 파일, 캘린더, 미리 알림, 메모, 타이머를 위한 트레이로 바꿔줍니다. [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keelhaven](https://keelhaven.app) - 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 하루 키 입력, 클릭, 이동 거리, 스크롤을 기록하는 메뉴 막대 추적기. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - 단축키로 화면 잠금을 잠그고 해제할 수 있는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
@@ -967,6 +971,7 @@ Awesome Mac
 * [Stats](https://github.com/exelban/stats) - 메뉴 바의 시스템 상태 모니터. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 실시간 업로드·다운로드 속도와 대역폭 사용 앱을 보여주는 네이티브 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AI 코딩 에이전트 알림을 지원하는 macOS용 경량 Dynamic Island입니다. [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - 메뉴 바의 게 캐릭터로 Claude Code 세션 상태를 한눈에 보여주며, 작업 중에는 걷고 입력을 기다릴 때는 뛰어오르는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - 앱별·탭별 볼륨 조절과 10밴드 EQ를 지원하는 네이티브 스타일 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - CPU, 메모리, 디스크, 네트워크, 배터리, 프로세스 정보를 실시간으로 보여주는 메뉴 바 관리형 경량 시스템 모니터 위젯. [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
@@ -990,6 +995,7 @@ Awesome Mac
 * [Mac Clean](https://github.com/iliyami/MacClean) - 무료 오픈소스 정리, 최적화, 악성코드 검사 도구. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원. [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
+* [Dusty](https://toprak.sh/dusty) - 고정된 허용 목록 안에서만 삭제하고, 삭제 전에 모든 경로를 보여 주며, 정리를 되돌릴 수 있는 오픈 소스 메뉴 막대 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/) - 로컬에서 스캔하고 삭제 전에 경로와 크기를 확인할 수 있는 무료 오픈 소스 디스크 정리 및 공간 분석 도구. [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]

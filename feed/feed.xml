@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:29:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ILoveNotch</title>
+      <link>https://github.com/niyamvora/ILoveNotch</link>
+      <guid isPermaLink="false">ad32c22dc61d51876e7e962dc99748a38afdfa2c:ILoveNotch</guid>
+      <pubDate>Sun, 27 Sep 2026 02:29:43 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: ILoveNotch
+Description: Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.
+Open Source: https://github.com/niyamvora/ILoveNotch
+Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: ILoveNotch<br/>Description: Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.<br/>Open Source: https://github.com/niyamvora/ILoveNotch<br/>Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c]]></content:encoded>
+    </item>
+    <item>
+      <title>Dusty</title>
+      <link>https://toprak.sh/dusty</link>
+      <guid isPermaLink="false">e28c259bc09a57a962e91f6d3e55a4c33f472a13:Dusty</guid>
+      <pubDate>Fri, 25 Sep 2026 03:18:46 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Dusty
+Description: Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean.
+Website: https://toprak.sh/dusty
+Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Dusty<br/>Description: Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean.<br/>Website: https://toprak.sh/dusty<br/>Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13]]></content:encoded>
+    </item>
+    <item>
+      <title>AirStats</title>
+      <link>https://airstats.app</link>
+      <guid isPermaLink="false">ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef:AirStats</guid>
+      <pubDate>Thu, 24 Sep 2026 02:52:50 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: AirStats
+Description: Lightweight menu bar system monitor for CPU, GPU, memory, network, disk, battery, and temperature, with a desktop widget.
+Website: https://airstats.app
+Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: AirStats<br/>Description: Lightweight menu bar system monitor for CPU, GPU, memory, network, disk, battery, and temperature, with a desktop widget.<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
+    </item>
+    <item>
+      <title>Lunavect</title>
+      <link>https://github.com/lovach/Lunavect</link>
+      <guid isPermaLink="false">54a20606b7b1b9d065e34a86055dc3b04a795656:Lunavect</guid>
+      <pubDate>Thu, 24 Sep 2026 02:06:38 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Lunavect
+Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
+Open Source: https://github.com/lovach/Lunavect
+Commit: Add Lunavect to Menu Bar Tools (#2952)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
+    </item>
+    <item>
+      <title>ExcalidrawZ</title>
+      <link>https://excalidrawz.chocoford.com/</link>
+      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
+      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
+      <category>Design and Product / Prototyping and Mind-Mapping Tools</category>
+      <description>Category: Design and Product / Prototyping and Mind-Mapping Tools
+App: ExcalidrawZ
+Description: Open-source native Excalidraw client with local file management and iCloud sync.
+Website: https://excalidrawz.chocoford.com/
+Commit: Add ExcalidrawZ (#2928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
+      <content:encoded><![CDATA[Category: Design and Product / Prototyping and Mind-Mapping Tools<br/>App: ExcalidrawZ<br/>Description: Open-source native Excalidraw client with local file management and iCloud sync.<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
+    </item>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>Developer Tools / Version Control</category>
+      <description>Category: Developer Tools / Version Control
+App: teebe
+Description: Native manager for Git worktrees, with live file change badges and inline diffs.
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: teebe<br/>Description: Native manager for Git worktrees, with live file change badges and inline diffs.<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
     <item>
       <title>vChewing 唯音</title>
       <link>https://github.com/vChewing/vChewing-macOS</link>
@@ -623,90 +707,6 @@ Website: https://offpdf.com/
 Commit: Add OffPDF to Reading and Writing Tools (#2564)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: OffPDF<br/>Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
-    </item>
-    <item>
-      <title>Atomic Agent</title>
-      <link>https://atomicagent.io/</link>
-      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
-      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Atomic Agent
-Description: Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools.
-Website: https://atomicagent.io/
-Commit: Add Atomic Agent to AI Tools (#2555)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Atomic Agent<br/>Description: Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools.<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
-    </item>
-    <item>
-      <title>fob</title>
-      <link>https://getfob.app</link>
-      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
-      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: fob
-Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.
-Website: https://getfob.app
-Commit: Add fob to Security Tools (#2553)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: fob<br/>Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
-    </item>
-    <item>
-      <title>ShengJi</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">24257e51e280b4143db98cf5cad20d8bd26a50e3:ShengJi</guid>
-      <pubDate>Fri, 14 Aug 2026 09:44:02 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: ShengJi
-Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Add ShengJi to Voice-to-Text (#2412)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ShengJi<br/>Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
-    </item>
-    <item>
-      <title>Leafy</title>
-      <link>https://leafyapp.uk/</link>
-      <guid isPermaLink="false">b5bf7c2ba05123832347fba7c8a50b41ea93d757:Leafy</guid>
-      <pubDate>Mon, 10 Aug 2026 01:39:51 GMT</pubDate>
-      <category>Education</category>
-      <description>Category: Education
-App: Leafy
-Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.
-Website: https://leafyapp.uk/
-Commit: Add Leafy (vocabulary builder) to Education (#2251)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757</description>
-      <content:encoded><![CDATA[Category: Education<br/>App: Leafy<br/>Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.<br/>Website: https://leafyapp.uk/<br/>Commit: Add Leafy (vocabulary builder) to Education (#2251)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757]]></content:encoded>
-    </item>
-    <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Plonk
-Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Plonk<br/>Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
-    </item>
-    <item>
-      <title>Imark</title>
-      <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Imark
-Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.
-Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
     </item>
   </channel>
 </rss>

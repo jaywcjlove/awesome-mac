@@ -563,6 +563,7 @@ Awesome Mac
 * [SourceTree](https://www.sourcetreeapp.com/) - WindowsまたはMac用の無料Git & Mercurialクライアント。 ![Freeware][Freeware Icon]
 * [Sublime Merge](https://www.sublimemerge.com/) - Sublime Textの開発者によるGitクライアント。
 * [Changes](https://github.com/maoyama/Changes) - GUI Gitクライアント。明確なUIとAIアシストでGit CLIを置き換え。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
+* [teebe](https://teebe.io) - Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/klein-t/teebe)
 * [Tower2](https://www.git-tower.com/) - MacとWindows向けの最も強力なGitクライアント。
 * [Vershd](https://vershd.io/) - 個人使用無料の手軽なGit GUI、Windows、Mac、Linux対応。 ![Freeware][Freeware Icon]
 * [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) クライアント。
@@ -708,6 +709,7 @@ Awesome Mac
 * [Adobe XD](http://www.adobe.com/products/experience-design.html) - ウェブサイトやモバイルアプリのデザインとプロトタイピングツール。
 * [Axure RP 8](http://www.axure.com) - プロトタイプ、仕様書、ダイアグラムを1つのツールで。
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - より速く、よりスマートに作業できるワイヤーフレーミングツール。
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [Flinto](https://www.flinto.com/) - モバイル、デスクトップ、Webアプリのインタラクティブなプロトタイプを素早く作成。
 * [Framer](http://framerjs.com/) - インタラクティブなプロトタイピングツール。
 * [Justinmind](http://www.justinmind.com) - Webおよびモバイルアプリのプロトタイピングプラットフォーム。
@@ -768,7 +770,7 @@ Awesome Mac
 * [ScreenKite](https://www.screenkite.com/) - 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。 ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 数分で洗練された画面録画動画を作れるツール。
 * [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソル効果、タイムライン編集に対応したオープンソース画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - AI検索に対応したローカル画面・マイク録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
+* [Screenpipe](https://github.com/screenpipe/screenpipe) - ソースコードを公開する画面・音声記録ツールで、ローカル履歴の検索、任意のクラウドAI処理、無料・有料プランに対応。
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
@@ -1269,6 +1271,7 @@ Awesome Mac
 * [Hidden](https://github.com/dwarvesf/hidden) - メニューバーアイコンの非表示を支援する超軽量macOSユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
+* [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - メニューバーからHomeKitおよびHome Assistantスマートホームを操作。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
@@ -1276,6 +1279,7 @@ Awesome Mac
 * [KeyStats](https://keystats.vercel.app) - 毎日のキー入力、クリック、移動、スクロールを追跡するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - ホットキーで画面ロックを切り替えられるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - ワンクリックですべてのMacアプリを後で使うために保存。 [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
+* [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LuxShot](https://github.com/lukebuild/LuxShot) - ネイティブでプライバシーファーストのメニューバーOCRツール。 [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MeetingBar](https://meetingbar.onrender.com) - カレンダーの会議用メニューバーアプリ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
@@ -1335,6 +1339,7 @@ Awesome Mac
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
+* [Dusty](https://toprak.sh/dusty) - 固定の許可リスト内だけを削除し、削除前にすべてのパスを表示して、クリーンアップを取り消せるオープンソースのメニューバー型ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 開発ビルドの成果物やキャッシュ（DerivedData、node_modules、SPM/Homebrewキャッシュ）を自動検出して解放するメニューバーツール。テレメトリーなし。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
@@ -1600,6 +1605,7 @@ Awesome Mac
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Safari用の無料広告ブロッカー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/) - Apple Siliconアプリの互換性をチェック。 [![Open-Source Software][OSS Icon]](https://github.com/ThatGuySam/doesitarm) ![Freeware][Freeware Icon]
 * [AirBattery](https://lihaoyun6.github.io/airbattery/) - Dock、メニューバー、またはウィジェットですべてのデバイスのバッテリーを表示。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
+* [AirStats](https://airstats.app) - CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - アプリの音量を制御し、システムオーディオを録音。 [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - リアルタイムのワット数、アプリごとの電力消費、充電履歴、消耗分析でバッテリーを消耗している原因を100%ローカルで表示。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Macのバッテリー情報と統計。

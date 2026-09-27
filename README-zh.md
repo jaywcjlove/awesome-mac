@@ -366,6 +366,7 @@ Awesome Mac
 * [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 GitHub 服务。
 * [Sublime Merge](https://www.sublimemerge.com/) - Git客户端，来自Sublime Text的制造商。
 * [Changes](https://github.com/maoyama/Changes) - GUI Git 客户端，用清晰的界面和 AI 辅助替代 Git 命令行。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
+* [teebe](https://teebe.io) - 原生的 Git worktree 管理工具，实时显示文件变更标记和内联差异。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/klein-t/teebe)
 * [Tower2](https://www.git-tower.com/) - 最强大的 Git 客户端。
 * [Versions](http://www.versionsapp.com/) - Mac 上最好的 SVN 管理工具。
 
@@ -509,6 +510,7 @@ Awesome Mac
 ### 作图工具
 
 * [Draw.io](https://www.draw.io/) - 上百种图形，支持多种格式导出。 ![Freeware][Freeware Icon]
+* [ExcalidrawZ](https://excalidrawz.chocoford.com/) - 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。 [![Open-Source Software][OSS Icon]](https://github.com/chocoford/ExcalidrawZ) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/excalidrawz/id6636493997?platform=mac)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - Omni 成员，native 应用。
 * [ProcessOn](https://www.processon.com/) - 流程图、思维导图、原型图... 中文友好，免费保存 5 个文件。
 
@@ -551,7 +553,7 @@ Awesome Mac
 * [ScreenKite](https://www.screenkite.com/) - 原生屏幕录制和编辑工具，支持自动缩放、AI 增强、设备模型和提词器。 ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
 * [Screenize](https://syi0808.github.io/screenize/) - 支持自动缩放、光标效果和时间轴编辑的开源录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) - 支持 AI 搜索的本地屏幕与麦克风录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]
+* [Screenpipe](https://github.com/screenpipe/screenpipe) - 提供源代码的屏幕与音频录制工具，可搜索本地历史记录，支持可选云端 AI，并提供免费及付费方案。
 * [Tight Studio](https://tight.studio/) - 支持智能缩放、字幕和 AI 配音的录屏工具。
 
 ### 其它工具
@@ -1312,6 +1314,7 @@ Awesome Mac
 * [Ice](https://github.com/jordanbaird/Ice) - 用于隐藏并整理菜单栏图标的管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [iBar](https://www.better365.cn/ibar.html?statId=67&bd_vid=7646361531731097336) - 强大的菜单栏图标管理工具。![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/ibar-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%9B%BE%E6%A0%87%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id6443843900?platform=mac)
 * [iGlance](https://github.com/Moneypulation/iGlance) - 状态栏的系统监视器。 [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
+* [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - 将 MacBook 刘海变成一个放置媒体、文件、日历、提醒事项、笔记和计时器的托盘。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [Itsyhome](https://itsyhome.app) - 从菜单栏控制 HomeKit 和 Home Assistant 智能家居。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - 从菜单栏控制 Apple TV。[![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
@@ -1319,6 +1322,7 @@ Awesome Mac
 * [KeyStats](https://keystats.vercel.app) - 统计每日按键、点击、移动和滚动数据的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Logoer](https://github.com/lihaoyun6/Logoer) - 更换 macOS 菜单栏苹果 Logo 样式的小工具。[![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Logoer) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。 [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?platform=mac)
 * [MenuScores](https://menuscores.vercel.app/) - 一在菜单栏实时呈现体育资讯与比分的应用。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
@@ -1385,6 +1389,7 @@ Awesome Mac
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 可视化清理开发缓存，快速释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
+* [Dusty](https://toprak.sh/dusty) - 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 按应用分组文件并移入废纸篓的开源磁盘清理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
@@ -1405,6 +1410,7 @@ Awesome Mac
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704?platform=mac) - 覆盖您的节能设置并让您的Mac保持唤醒状态。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/amphetamine/id937984704?platform=mac)
 * [AirBattery](https://lihaoyun6.github.io/airbattery/) - 获取你所有设备的电量信息并显示在Dock/状态栏/小组件上。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/AirBattery) ![Freeware][Freeware Icon]
+* [AirStats](https://airstats.app) - 轻量级菜单栏系统监视器，可查看 CPU、GPU、内存、网络、磁盘、电池和温度，并提供桌面小组件。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - 自动暂停音乐、设置各个应用程序的音量并录制系统音频。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
 * [BetterMouse](https://better-mouse.com) - 为第三方鼠标提供滚动、加速度、按键和手势自定义。

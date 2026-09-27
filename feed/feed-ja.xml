@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:29:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ILoveNotch</title>
+      <link>https://github.com/niyamvora/ILoveNotch</link>
+      <guid isPermaLink="false">ad32c22dc61d51876e7e962dc99748a38afdfa2c:ILoveNotch</guid>
+      <pubDate>Sun, 27 Sep 2026 02:29:43 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: ILoveNotch
+Description: MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。
+Open Source: https://github.com/niyamvora/ILoveNotch
+Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: ILoveNotch<br/>Description: MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。<br/>Open Source: https://github.com/niyamvora/ILoveNotch<br/>Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c]]></content:encoded>
+    </item>
+    <item>
+      <title>Dusty</title>
+      <link>https://toprak.sh/dusty</link>
+      <guid isPermaLink="false">e28c259bc09a57a962e91f6d3e55a4c33f472a13:Dusty</guid>
+      <pubDate>Fri, 25 Sep 2026 03:18:46 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Dusty
+Description: 固定の許可リスト内だけを削除し、削除前にすべてのパスを表示して、クリーンアップを取り消せるオープンソースのメニューバー型ディスククリーナー。
+Website: https://toprak.sh/dusty
+Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Dusty<br/>Description: 固定の許可リスト内だけを削除し、削除前にすべてのパスを表示して、クリーンアップを取り消せるオープンソースのメニューバー型ディスククリーナー。<br/>Website: https://toprak.sh/dusty<br/>Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13]]></content:encoded>
+    </item>
+    <item>
+      <title>AirStats</title>
+      <link>https://airstats.app</link>
+      <guid isPermaLink="false">ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef:AirStats</guid>
+      <pubDate>Thu, 24 Sep 2026 02:52:50 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: AirStats
+Description: CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。
+Website: https://airstats.app
+Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: AirStats<br/>Description: CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
+    </item>
+    <item>
+      <title>Lunavect</title>
+      <link>https://github.com/lovach/Lunavect</link>
+      <guid isPermaLink="false">54a20606b7b1b9d065e34a86055dc3b04a795656:Lunavect</guid>
+      <pubDate>Thu, 24 Sep 2026 02:06:38 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Lunavect
+Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
+Open Source: https://github.com/lovach/Lunavect
+Commit: Add Lunavect to Menu Bar Tools (#2952)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
+    </item>
+    <item>
+      <title>ExcalidrawZ</title>
+      <link>https://excalidrawz.chocoford.com/</link>
+      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
+      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
+      <category>デザインとプロダクト / プロトタイピングとマインドマッピングツール</category>
+      <description>Category: デザインとプロダクト / プロトタイピングとマインドマッピングツール
+App: ExcalidrawZ
+Description: ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。
+Website: https://excalidrawz.chocoford.com/
+Commit: Add ExcalidrawZ (#2928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / プロトタイピングとマインドマッピングツール<br/>App: ExcalidrawZ<br/>Description: ローカルファイル管理とiCloud同期に対応した、オープンソースのネイティブExcalidrawクライアント。<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
+    </item>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>開発ツール / バージョン管理</category>
+      <description>Category: 開発ツール / バージョン管理
+App: teebe
+Description: Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: teebe<br/>Description: Git worktreeのネイティブ管理ツール。ファイル変更のバッジとインライン差分をリアルタイムに表示。<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
     <item>
       <title>vChewing 唯音</title>
       <link>https://github.com/vChewing/vChewing-macOS</link>
@@ -623,90 +707,6 @@ Open Source: https://github.com/maddylaneeee/ShengJi
 Commit: Add ShengJi to Voice-to-Text (#2412)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: ShengJi<br/>Description: マイク、メディアファイル、Macのシステム音声に対応するオープンソースのローカル文字起こし・字幕編集アプリ。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
-    </item>
-    <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Plonk
-Description: スナップゾーン、ショートカット、アプリを再起動して各ウィンドウを元のディスプレイに戻すワークスペースを備えたメニューバー型ウィンドウマネージャー。MCP 経由で AI エージェントからも操作できます。
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Plonk<br/>Description: スナップゾーン、ショートカット、アプリを再起動して各ウィンドウを元のディスプレイに戻すワークスペースを備えたメニューバー型ウィンドウマネージャー。MCP 経由で AI エージェントからも操作できます。<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
-    </item>
-    <item>
-      <title>Imark</title>
-      <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
-      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Imark
-Description: コメントをHTMLコメントとしてドキュメント自体に保存するオープンソースのMarkdownビューア。
-Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: コメントをHTMLコメントとしてドキュメント自体に保存するオープンソースのMarkdownビューア。<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
-    </item>
-    <item>
-      <title>ItsPaint</title>
-      <link>https://itspaintmac.com/</link>
-      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
-      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
-      <category>デザインとプロダクト / デザインツール</category>
-      <description>Category: デザインとプロダクト / デザインツール
-App: ItsPaint
-Description: ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化による伏せ字、インスタントアルファ。アカウントもテレメトリも不要。
-Website: https://itspaintmac.com/
-Commit: Add ItsPaint to Design and Product (#2457)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / デザインツール<br/>App: ItsPaint<br/>Description: ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化による伏せ字、インスタントアルファ。アカウントもテレメトリも不要。<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
-    </item>
-    <item>
-      <title>BitFun</title>
-      <link>https://openbitfun.com/</link>
-      <guid isPermaLink="false">3b4598704c70eff89416bbdc93a3155f68ce2082:BitFun</guid>
-      <pubDate>Wed, 05 Aug 2026 14:59:21 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: BitFun
-Description: タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。
-Website: https://openbitfun.com/
-Commit: Add BitFun to the zh/ja/ko list #2490
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: BitFun<br/>Description: タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to the zh/ja/ko list #2490<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b4598704c70eff89416bbdc93a3155f68ce2082]]></content:encoded>
-    </item>
-    <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: GraphCode
-Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: GraphCode<br/>Description: コーディングエージェントのセッションをグラフとして実行。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ。Claude Code、Copilot CLI、Codex に対応。![Freeware][Freeware Icon]<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
-    </item>
-    <item>
-      <title>Capd</title>
-      <link>https://capd.jxd.dev</link>
-      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
-      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
-      <category>読み書きツール / その他</category>
-      <description>Category: 読み書きツール / その他
-App: Capd
-Description: リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。
-Website: https://capd.jxd.dev
-Commit: Add Capd (#2484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: Capd<br/>Description: リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
     </item>
   </channel>
 </rss>

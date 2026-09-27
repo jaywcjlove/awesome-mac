@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:29:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ILoveNotch</title>
+      <link>https://github.com/niyamvora/ILoveNotch</link>
+      <guid isPermaLink="false">ad32c22dc61d51876e7e962dc99748a38afdfa2c:ILoveNotch</guid>
+      <pubDate>Sun, 27 Sep 2026 02:29:43 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: ILoveNotch
+Description: 将 MacBook 刘海变成一个放置媒体、文件、日历、提醒事项、笔记和计时器的托盘。
+Open Source: https://github.com/niyamvora/ILoveNotch
+Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: ILoveNotch<br/>Description: 将 MacBook 刘海变成一个放置媒体、文件、日历、提醒事项、笔记和计时器的托盘。<br/>Open Source: https://github.com/niyamvora/ILoveNotch<br/>Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c]]></content:encoded>
+    </item>
+    <item>
+      <title>Dusty</title>
+      <link>https://toprak.sh/dusty</link>
+      <guid isPermaLink="false">e28c259bc09a57a962e91f6d3e55a4c33f472a13:Dusty</guid>
+      <pubDate>Fri, 25 Sep 2026 03:18:46 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Dusty
+Description: 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。
+Website: https://toprak.sh/dusty
+Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Dusty<br/>Description: 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。<br/>Website: https://toprak.sh/dusty<br/>Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13]]></content:encoded>
+    </item>
+    <item>
+      <title>AirStats</title>
+      <link>https://airstats.app</link>
+      <guid isPermaLink="false">ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef:AirStats</guid>
+      <pubDate>Thu, 24 Sep 2026 02:52:50 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: AirStats
+Description: 轻量级菜单栏系统监视器，可查看 CPU、GPU、内存、网络、磁盘、电池和温度，并提供桌面小组件。
+Website: https://airstats.app
+Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: AirStats<br/>Description: 轻量级菜单栏系统监视器，可查看 CPU、GPU、内存、网络、磁盘、电池和温度，并提供桌面小组件。<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
+    </item>
+    <item>
+      <title>Lunavect</title>
+      <link>https://github.com/lovach/Lunavect</link>
+      <guid isPermaLink="false">54a20606b7b1b9d065e34a86055dc3b04a795656:Lunavect</guid>
+      <pubDate>Thu, 24 Sep 2026 02:06:38 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Lunavect
+Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
+Open Source: https://github.com/lovach/Lunavect
+Commit: Add Lunavect to Menu Bar Tools (#2952)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
+    </item>
+    <item>
+      <title>ExcalidrawZ</title>
+      <link>https://excalidrawz.chocoford.com/</link>
+      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
+      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
+      <category>设计和产品 / 作图工具</category>
+      <description>Category: 设计和产品 / 作图工具
+App: ExcalidrawZ
+Description: 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。
+Website: https://excalidrawz.chocoford.com/
+Commit: Add ExcalidrawZ (#2928)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 作图工具<br/>App: ExcalidrawZ<br/>Description: 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
+    </item>
+    <item>
+      <title>teebe</title>
+      <link>https://teebe.io</link>
+      <guid isPermaLink="false">f9f259d47dea89e242d55e27d125ce2029742c63:teebe</guid>
+      <pubDate>Sun, 20 Sep 2026 22:13:44 GMT</pubDate>
+      <category>开发者工具 / 版本控制 GUI</category>
+      <description>Category: 开发者工具 / 版本控制 GUI
+App: teebe
+Description: 原生的 Git worktree 管理工具，实时显示文件变更标记和内联差异。
+Website: https://teebe.io
+Commit: Add teebe (#2931)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: teebe<br/>Description: 原生的 Git worktree 管理工具，实时显示文件变更标记和内联差异。<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
+    </item>
     <item>
       <title>vChewing 唯音</title>
       <link>https://github.com/vChewing/vChewing-macOS</link>
@@ -623,90 +707,6 @@ Website: https://offpdf.com/
 Commit: Add OffPDF to Reading and Writing Tools (#2564)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: OffPDF<br/>Description: 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
-    </item>
-    <item>
-      <title>Atomic Agent</title>
-      <link>https://atomicagent.io/</link>
-      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
-      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Atomic Agent
-Description: 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。
-Website: https://atomicagent.io/
-Commit: Add Atomic Agent to AI Tools (#2555)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Atomic Agent<br/>Description: 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
-    </item>
-    <item>
-      <title>fob</title>
-      <link>https://getfob.app</link>
-      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
-      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: fob
-Description: 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。
-Website: https://getfob.app
-Commit: Add fob to Security Tools (#2553)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: fob<br/>Description: 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
-    </item>
-    <item>
-      <title>ShengJi</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">24257e51e280b4143db98cf5cad20d8bd26a50e3:ShengJi</guid>
-      <pubDate>Fri, 14 Aug 2026 09:44:02 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: ShengJi
-Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Add ShengJi to Voice-to-Text (#2412)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: ShengJi<br/>Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
-    </item>
-    <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Plonk
-Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Plonk<br/>Description: 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
-    </item>
-    <item>
-      <title>Imark</title>
-      <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Imark
-Description: 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。
-Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Imark<br/>Description: 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
-    </item>
-    <item>
-      <title>ItsPaint</title>
-      <link>https://itspaintmac.com/</link>
-      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
-      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
-      <category>设计和产品 / 设计工具</category>
-      <description>Category: 设计和产品 / 设计工具
-App: ItsPaint
-Description: 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。
-Website: https://itspaintmac.com/
-Commit: Add ItsPaint to Design and Product (#2457)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: ItsPaint<br/>Description: 原生绘图与截图标注工具：步骤编号、马赛克遮盖、智能选取，无需账号，无遥测。<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
     </item>
   </channel>
 </rss>
