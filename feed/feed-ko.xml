@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 27 Sep 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Translate Like Me</title>
+      <link>https://github.com/wiltodelta/translate-like-me</link>
+      <guid isPermaLink="false">c4a247e26322c9fd2212ead5d4c370392784b4ac:Translate Like Me</guid>
+      <pubDate>Mon, 28 Sep 2026 02:50:37 GMT</pubDate>
+      <category>번역 도구</category>
+      <description>Category: 번역 도구
+App: Translate Like Me
+Description: Claude, ChatGPT 또는 Grok으로 모든 앱에서 선택한 텍스트를 나만의 문체로 번역해 바로 바꿔 주는 오픈소스 메뉴 막대 번역 도구.
+Open Source: https://github.com/wiltodelta/translate-like-me
+Commit: Add Translate Like Me to Translation Tools (#3025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac</description>
+      <content:encoded><![CDATA[Category: 번역 도구<br/>App: Translate Like Me<br/>Description: Claude, ChatGPT 또는 Grok으로 모든 앱에서 선택한 텍스트를 나만의 문체로 번역해 바로 바꿔 주는 오픈소스 메뉴 막대 번역 도구.<br/>Open Source: https://github.com/wiltodelta/translate-like-me<br/>Commit: Add Translate Like Me to Translation Tools (#3025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac]]></content:encoded>
+    </item>
     <item>
       <title>ILoveNotch</title>
       <link>https://github.com/niyamvora/ILoveNotch</link>
@@ -693,20 +707,6 @@ Website: https://atomicagent.io/
 Commit: Add Atomic Agent to AI Tools (#2555)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Atomic Agent<br/>Description: 오픈 웨이트 모델을 기기에서 완전히 실행하는 로컬 우선 CLI 및 TUI 코딩 에이전트. MCP와 56개의 기본 제공 도구 지원.<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
-    </item>
-    <item>
-      <title>fob</title>
-      <link>https://getfob.app</link>
-      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
-      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
-      <category>보안 도구</category>
-      <description>Category: 보안 도구
-App: fob
-Description: SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트.
-Website: https://getfob.app
-Commit: Add fob to Security Tools (#2553)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
-      <content:encoded><![CDATA[Category: 보안 도구<br/>App: fob<br/>Description: SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트.<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Sep 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Translate Like Me</title>
+      <link>https://github.com/wiltodelta/translate-like-me</link>
+      <guid isPermaLink="false">c4a247e26322c9fd2212ead5d4c370392784b4ac:Translate Like Me</guid>
+      <pubDate>Mon, 28 Sep 2026 02:50:37 GMT</pubDate>
+      <category>Translation Tools</category>
+      <description>Category: Translation Tools
+App: Translate Like Me
+Description: Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.
+Open Source: https://github.com/wiltodelta/translate-like-me
+Commit: Add Translate Like Me to Translation Tools (#3025)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac</description>
+      <content:encoded><![CDATA[Category: Translation Tools<br/>App: Translate Like Me<br/>Description: Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.<br/>Open Source: https://github.com/wiltodelta/translate-like-me<br/>Commit: Add Translate Like Me to Translation Tools (#3025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac]]></content:encoded>
+    </item>
     <item>
       <title>ILoveNotch</title>
       <link>https://github.com/niyamvora/ILoveNotch</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/minsang-alt/PasteClip
 Commit: Add PasteClip to Clipboard Tools (#2577)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: PasteClip<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/minsang-alt/PasteClip<br/>Commit: Add PasteClip to Clipboard Tools (#2577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da]]></content:encoded>
-    </item>
-    <item>
-      <title>OffPDF</title>
-      <link>https://offpdf.com/</link>
-      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
-      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: OffPDF
-Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.
-Website: https://offpdf.com/
-Commit: Add OffPDF to Reading and Writing Tools (#2564)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: OffPDF<br/>Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
     </item>
   </channel>
 </rss>
