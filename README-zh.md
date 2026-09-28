@@ -1441,6 +1441,7 @@ Awesome Mac
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 合盖后也能保持唤醒，支持自动关闭计时和最低电量保护。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 自定义鼠标按键、滚轮和指针速度的工具。
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
+* [Safe Drive Ejector](https://github.com/siraj-bd/Safe-Drive-Ejector-macOS) - 安全弹出外接磁盘与 USB 设备，检测阻止卸载的后台进程并释放占用。 [![Open-Source Software][OSS Icon]](https://github.com/siraj-bd/Safe-Drive-Ejector-macOS) ![Freeware][Freeware Icon]
 * [Raycast](https://raycast.com) - 集启动、扩展、片段、笔记和 AI 于一体的命令工具。
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。 [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
