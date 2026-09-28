@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskWise</title>
+      <link>https://github.com/DreamOfXM/diskwise</link>
+      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: DiskWise
+Description: 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원.
+Open Source: https://github.com/DreamOfXM/diskwise
+Commit: Add DiskWise to Cleanup and Uninstall (#2904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: DiskWise<br/>Description: 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원.<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
+    </item>
     <item>
       <title>Translate Like Me</title>
       <link>https://github.com/wiltodelta/translate-like-me</link>
@@ -693,20 +707,6 @@ Website: https://offpdf.com/
 Commit: Add OffPDF to Reading and Writing Tools (#2564)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: OffPDF<br/>Description: Apple Silicon이 탑재된 Mac용 오픈 소스 PDF 도구 모음으로, 파일 병합·분할·변환·압축·OCR을 모두 로컬에서 오프라인으로 처리합니다.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
-    </item>
-    <item>
-      <title>Atomic Agent</title>
-      <link>https://atomicagent.io/</link>
-      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
-      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Atomic Agent
-Description: 오픈 웨이트 모델을 기기에서 완전히 실행하는 로컬 우선 CLI 및 TUI 코딩 에이전트. MCP와 56개의 기본 제공 도구 지원.
-Website: https://atomicagent.io/
-Commit: Add Atomic Agent to AI Tools (#2555)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Atomic Agent<br/>Description: 오픈 웨이트 모델을 기기에서 완전히 실행하는 로컬 우선 CLI 및 TUI 코딩 에이전트. MCP와 56개의 기본 제공 도구 지원.<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
     </item>
   </channel>
 </rss>

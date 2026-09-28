@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskWise</title>
+      <link>https://github.com/DreamOfXM/diskwise</link>
+      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: DiskWise
+Description: 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。
+Open Source: https://github.com/DreamOfXM/diskwise
+Commit: Add DiskWise to Cleanup and Uninstall (#2904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: DiskWise<br/>Description: 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
+    </item>
     <item>
       <title>Translate Like Me</title>
       <link>https://github.com/wiltodelta/translate-like-me</link>
@@ -693,20 +707,6 @@ Website: https://tungstenedge.app
 Commit: Add Tungsten Edge to Window Management (#2619)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Tungsten Edge 钨极<br/>Description: 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。<br/>Website: https://tungstenedge.app<br/>Commit: Add Tungsten Edge to Window Management (#2619)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132]]></content:encoded>
-    </item>
-    <item>
-      <title>Loadout</title>
-      <link>https://loadout.migsilva.dev</link>
-      <guid isPermaLink="false">b123966c62b4c5094cc9627cb0a96ea5603eb37e:Loadout</guid>
-      <pubDate>Wed, 19 Aug 2026 05:26:21 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Loadout
-Description: 查看并管理编码助手加载的内容——Claude Code 的 skills、子代理、斜杠命令、插件和 MCP 服务器，并显示真实使用次数。
-Website: https://loadout.migsilva.dev
-Commit: Add Loadout to AI Tools (#2586)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Loadout<br/>Description: 查看并管理编码助手加载的内容——Claude Code 的 skills、子代理、斜杠命令、插件和 MCP 服务器，并显示真实使用次数。<br/>Website: https://loadout.migsilva.dev<br/>Commit: Add Loadout to AI Tools (#2586)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e]]></content:encoded>
     </item>
   </channel>
 </rss>

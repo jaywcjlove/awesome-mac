@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskWise</title>
+      <link>https://github.com/DreamOfXM/diskwise</link>
+      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: DiskWise
+Description: 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。
+Open Source: https://github.com/DreamOfXM/diskwise
+Commit: Add DiskWise to Cleanup and Uninstall (#2904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: DiskWise<br/>Description: 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
+    </item>
     <item>
       <title>Translate Like Me</title>
       <link>https://github.com/wiltodelta/translate-like-me</link>
@@ -693,20 +707,6 @@ Website: https://atomicagent.io/
 Commit: Add Atomic Agent to AI Tools (#2555)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Atomic Agent<br/>Description: オープンウェイトモデルをマシン上で完全に実行する、ローカルファーストのCLI・TUIコーディングエージェント。MCPと56個の組み込みツールに対応。<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
-    </item>
-    <item>
-      <title>fob</title>
-      <link>https://getfob.app</link>
-      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
-      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: fob
-Description: SSH鍵をSecure Enclaveに保存し、使用のたびにTouch IDで認証するメニューバー型SSHエージェント。
-Website: https://getfob.app
-Commit: Add fob to Security Tools (#2553)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: fob<br/>Description: SSH鍵をSecure Enclaveに保存し、使用のたびにTouch IDで認証するメニューバー型SSHエージェント。<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
     </item>
   </channel>
 </rss>

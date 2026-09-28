@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskWise</title>
+      <link>https://github.com/DreamOfXM/diskwise</link>
+      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: DiskWise
+Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.
+Open Source: https://github.com/DreamOfXM/diskwise
+Commit: Add DiskWise to Cleanup and Uninstall (#2904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: DiskWise<br/>Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
+    </item>
     <item>
       <title>Translate Like Me</title>
       <link>https://github.com/wiltodelta/translate-like-me</link>
@@ -693,20 +707,6 @@ Website: https://loadout.migsilva.dev
 Commit: Add Loadout to AI Tools (#2586)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Loadout<br/>Description: See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts.<br/>Website: https://loadout.migsilva.dev<br/>Commit: Add Loadout to AI Tools (#2586)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e]]></content:encoded>
-    </item>
-    <item>
-      <title>PasteClip</title>
-      <link>https://github.com/minsang-alt/PasteClip</link>
-      <guid isPermaLink="false">f78801b9f6ec40133d3d63c32d437d2b35c0f8da:PasteClip</guid>
-      <pubDate>Mon, 17 Aug 2026 03:20:52 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: PasteClip
-Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.
-Open Source: https://github.com/minsang-alt/PasteClip
-Commit: Add PasteClip to Clipboard Tools (#2577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: PasteClip<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/minsang-alt/PasteClip<br/>Commit: Add PasteClip to Clipboard Tools (#2577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da]]></content:encoded>
     </item>
   </channel>
 </rss>
