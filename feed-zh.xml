@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:01:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SquirrelDisk</title>
+      <link>https://github.com/adileo/squirreldisk</link>
+      <guid isPermaLink="false">9e59a129e4ae581e5ad4e7d16be5e5007a863f1e:SquirrelDisk</guid>
+      <pubDate>Mon, 28 Sep 2026 13:01:33 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: SquirrelDisk
+Description: 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。
+Open Source: https://github.com/adileo/squirreldisk
+Commit: Add SquirrelDisk to the ja/ko/zh list #1171
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: SquirrelDisk<br/>Description: 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Add SquirrelDisk to the ja/ko/zh list #1171<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e]]></content:encoded>
+    </item>
     <item>
       <title>DiskWise</title>
       <link>https://github.com/DreamOfXM/diskwise</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/farion1231/cc-switch
 Commit: Add CC-Switch to Developer Utilities (#2658)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: CC-Switch<br/>Description: 一款专为 Claude Code、Codex、OpenCode 等 AI Coding Agent 打造的跨平台桌面端配置与多模型切换助手。<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to Developer Utilities (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3d84630d6033f2a9c109a17ffd8f47c4568304f5]]></content:encoded>
-    </item>
-    <item>
-      <title>Tungsten Edge 钨极</title>
-      <link>https://tungstenedge.app</link>
-      <guid isPermaLink="false">050fb17a63ab02a78793115758caeaa2cf7c9132:Tungsten Edge 钨极</guid>
-      <pubDate>Fri, 21 Aug 2026 08:08:19 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Tungsten Edge 钨极
-Description: 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。
-Website: https://tungstenedge.app
-Commit: Add Tungsten Edge to Window Management (#2619)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Tungsten Edge 钨极<br/>Description: 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。<br/>Website: https://tungstenedge.app<br/>Commit: Add Tungsten Edge to Window Management (#2619)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/050fb17a63ab02a78793115758caeaa2cf7c9132]]></content:encoded>
     </item>
   </channel>
 </rss>
