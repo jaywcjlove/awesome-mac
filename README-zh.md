@@ -1560,6 +1560,7 @@ Awesome Mac
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - 支持 Mermaid、KaTeX 等内容的 Markdown 快速预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 用于渲染 Markdown 的 Quick Look 预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - 用于预览 `.torrent` 文件内容和元数据的 Quick Look 插件。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
+* [TypeFire](https://typefire.ai) - 在访达中渲染 Markdown 文件的快速查看扩展，随应用附带 Markdown 编辑器、剪贴板管理器和文本展开工具。![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 第三方应用市场APP
 

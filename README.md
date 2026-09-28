@@ -1685,6 +1685,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - Quick Look extension for previewing `.torrent` files, trackers, and metadata. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [TypeFire](https://typefire.ai) - Quick Look extension that renders Markdown files in Finder, bundled with a Markdown editor, clipboard manager, and text expander. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## Third Party App Markets
 
