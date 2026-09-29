@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Belay</title>
+      <link>https://perfectoweb.github.io/Belay/</link>
+      <guid isPermaLink="false">779d79aa98ed30fe295ddc9f58615602ccf46357:Belay</guid>
+      <pubDate>Tue, 29 Sep 2026 06:04:44 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Belay
+Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.
+Website: https://perfectoweb.github.io/Belay/
+Commit: Add Belay to Menu Bar Tools (#2603)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Belay<br/>Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
+    </item>
     <item>
       <title>Google AI Edge Eloquent</title>
       <link>https://developers.google.com/edge/eloquent</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/alexiosus/WandelBar
 Commit: Add WandelBar (#2640)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: WandelBar<br/>Description: ぼかし、色合い、影、テクスチャ、プリセット、Spaceごとの設定でメニューバーの背景をカスタマイズ。<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
-    </item>
-    <item>
-      <title>CC-Switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <guid isPermaLink="false">ef6b11bf4af2eec6c4518e926e6b2ed62c282592:CC-Switch</guid>
-      <pubDate>Tue, 25 Aug 2026 06:14:04 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: CC-Switch
-Description: Claude Code、Codex、OpenCodeなどのAIコーディングエージェントの設定とモデル切り替えを管理するクロスプラットフォームのデスクトップツール。
-Open Source: https://github.com/farion1231/cc-switch
-Commit: Add CC-Switch to the ja/ko list. (#2658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: CC-Switch<br/>Description: Claude Code、Codex、OpenCodeなどのAIコーディングエージェントの設定とモデル切り替えを管理するクロスプラットフォームのデスクトップツール。<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to the ja/ko list. (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592]]></content:encoded>
     </item>
   </channel>
 </rss>
