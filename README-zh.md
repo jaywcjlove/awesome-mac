@@ -561,6 +561,7 @@ Awesome Mac
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑 png 图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 离线批量图片去背景工具。
 * [AppIconBuilder(图标构建)](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac) - App图标多平台一键导出。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac)
+* [Confi](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac) - 离线批量转换图片的工具，支持 HEIC、AVIF、JPEG XL、RAW、PSD 等 35 种以上格式。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac)
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Eagle App](https://cn.eagle.cool/) - 用于管理图片、视频、音频、字体和设计素材的资源库工具。
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
