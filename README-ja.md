@@ -589,6 +589,7 @@ Awesome Mac
 * [Veertu](https://veertu.com) - Mac上で最も軽量なVM。レスポンシブでサンドボックス化されたネイティブな方法でVMを実行。 ![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - 強力なx86およびAMD64/Intel64仮想化製品。 ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - VMwareが開発した強力な商用VM。
+* [Velo Workspaces](https://www.veloworkspaces.com) - 使い捨てのLinux・macOS仮想マシン。AI Bridge経由でローカルAI推論を提供。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]]
 
 ### データベース
 

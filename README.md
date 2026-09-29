@@ -587,6 +587,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](https://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VMware Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Velo Workspaces](https://www.veloworkspaces.com) - Disposable Linux & macOS VMs with local AI inference via AI Bridge. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6805509975?pt=129339260&ct=GitHub&mt=8)
 
 ### Databases
 
