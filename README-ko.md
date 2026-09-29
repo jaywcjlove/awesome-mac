@@ -244,6 +244,7 @@ Awesome Mac
 * [MarginNote 4](https://marginnote.com/) - 심도 있는 PDF 및 EPUB 읽기, 학습 및 노트 앱.
 * [massCode](https://masscode.io/) - 마크다운 및 Mermaid를 지원하는 오픈 소스 코드 스니펫 관리자. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - 좋은 문장을 쓰도록 돕는 경량 마크다운 앱.
+* [Minutes](https://crestnotch.app/minutes) - 봇을 참여시키지 않고 통화 양쪽을 녹음해 기기에서 전사와 요약을 처리하고, 회의마다 Markdown 파일로 저장하는 회의 노트 앱.
 * [Notable](https://github.com/notable/notable) - 마크다운 기반의 괜찮은 노트 앱.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
 * [NoteGen](https://notegen.top/) - 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
