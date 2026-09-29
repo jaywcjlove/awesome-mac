@@ -565,6 +565,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 * [Vershd](https://vershd.io/) - The free for personal use effortless Git GUI, for Windows, Mac, & Linux. ![Freeware][Freeware Icon]
 * [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) Client.
+* [RabbitSVN](https://blog.vunguyen.io.vn/show-case/mac-os/rabbitsvn) - Mac Subversion (SVN) Client.
 
 ### Virtualization
 

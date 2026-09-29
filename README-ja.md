@@ -567,6 +567,7 @@ Awesome Mac
 * [Tower2](https://www.git-tower.com/) - MacとWindows向けの最も強力なGitクライアント。
 * [Vershd](https://vershd.io/) - 個人使用無料の手軽なGit GUI、Windows、Mac、Linux対応。 ![Freeware][Freeware Icon]
 * [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) クライアント。
+* [RabbitSVN]([https://blog.vunguyen.io.vn/show-case/mac-os/rabbitsvn](https://blog.vunguyen.io.vn/show-case/mac-os/rabbitsvn)) - Mac 上最好的 SVN 管理工具[![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]]
 
 ### 仮想化
 
