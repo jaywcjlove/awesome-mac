@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Belay</title>
+      <link>https://perfectoweb.github.io/Belay/</link>
+      <guid isPermaLink="false">779d79aa98ed30fe295ddc9f58615602ccf46357:Belay</guid>
+      <pubDate>Tue, 29 Sep 2026 06:04:44 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Belay
+Description: 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。
+Website: https://perfectoweb.github.io/Belay/
+Commit: Add Belay to Menu Bar Tools (#2603)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Belay<br/>Description: 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
+    </item>
     <item>
       <title>Google AI Edge Eloquent</title>
       <link>https://developers.google.com/edge/eloquent</link>
@@ -693,20 +707,6 @@ Website: https://gruxai.com
 Commit: Add Grux to AI Tools (#2647)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Grux<br/>Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
-    </item>
-    <item>
-      <title>SpotAsk</title>
-      <link>https://github.com/shiquda/SpotAsk</link>
-      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
-      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: SpotAsk
-Description: 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。
-Open Source: https://github.com/shiquda/SpotAsk
-Commit: Add SpotAsk (#2641)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: SpotAsk<br/>Description: 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
     </item>
   </channel>
 </rss>

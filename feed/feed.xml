@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Belay</title>
+      <link>https://perfectoweb.github.io/Belay/</link>
+      <guid isPermaLink="false">779d79aa98ed30fe295ddc9f58615602ccf46357:Belay</guid>
+      <pubDate>Tue, 29 Sep 2026 06:04:44 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Belay
+Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.
+Website: https://perfectoweb.github.io/Belay/
+Commit: Add Belay to Menu Bar Tools (#2603)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Belay<br/>Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
+    </item>
     <item>
       <title>Google AI Edge Eloquent</title>
       <link>https://developers.google.com/edge/eloquent</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/shiquda/SpotAsk
 Commit: Add SpotAsk (#2641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: SpotAsk<br/>Description: Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
-    </item>
-    <item>
-      <title>WandelBar</title>
-      <link>https://github.com/alexiosus/WandelBar</link>
-      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
-      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: WandelBar
-Description: Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.
-Open Source: https://github.com/alexiosus/WandelBar
-Commit: Add WandelBar (#2640)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: WandelBar<br/>Description: Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
     </item>
   </channel>
 </rss>

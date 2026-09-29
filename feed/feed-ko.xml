@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Belay</title>
+      <link>https://perfectoweb.github.io/Belay/</link>
+      <guid isPermaLink="false">779d79aa98ed30fe295ddc9f58615602ccf46357:Belay</guid>
+      <pubDate>Tue, 29 Sep 2026 06:04:44 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Belay
+Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.
+Website: https://perfectoweb.github.io/Belay/
+Commit: Add Belay to Menu Bar Tools (#2603)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Belay<br/>Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
+    </item>
     <item>
       <title>Google AI Edge Eloquent</title>
       <link>https://developers.google.com/edge/eloquent</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/shiquda/SpotAsk
 Commit: Add SpotAsk (#2641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: SpotAsk<br/>Description: 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다.<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
-    </item>
-    <item>
-      <title>WandelBar</title>
-      <link>https://github.com/alexiosus/WandelBar</link>
-      <guid isPermaLink="false">25cb09525d9af8ab61e1021f7dffb26b84cd51d4:WandelBar</guid>
-      <pubDate>Tue, 25 Aug 2026 07:18:30 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: WandelBar
-Description: 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다.
-Open Source: https://github.com/alexiosus/WandelBar
-Commit: Add WandelBar (#2640)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: WandelBar<br/>Description: 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다.<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
     </item>
   </channel>
 </rss>
