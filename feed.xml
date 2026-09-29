@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:45:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HeyMate</title>
+      <link>https://getheymate.vercel.app</link>
+      <guid isPermaLink="false">dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f:HeyMate</guid>
+      <pubDate>Tue, 29 Sep 2026 06:45:46 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: HeyMate
+Description: AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets.
+Website: https://getheymate.vercel.app
+Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: HeyMate<br/>Description: AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets.<br/>Website: https://getheymate.vercel.app<br/>Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f]]></content:encoded>
+    </item>
     <item>
       <title>Belay</title>
       <link>https://perfectoweb.github.io/Belay/</link>
@@ -693,20 +707,6 @@ Website: https://gruxai.com
 Commit: Add Grux to AI Tools (#2647)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Grux<br/>Description: Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
-    </item>
-    <item>
-      <title>SpotAsk</title>
-      <link>https://github.com/shiquda/SpotAsk</link>
-      <guid isPermaLink="false">172069a916a0ebf95e89fe4b06fe5f79ba379825:SpotAsk</guid>
-      <pubDate>Tue, 25 Aug 2026 07:22:16 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: SpotAsk
-Description: Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.
-Open Source: https://github.com/shiquda/SpotAsk
-Commit: Add SpotAsk (#2641)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: SpotAsk<br/>Description: Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.<br/>Open Source: https://github.com/shiquda/SpotAsk<br/>Commit: Add SpotAsk (#2641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/172069a916a0ebf95e89fe4b06fe5f79ba379825]]></content:encoded>
     </item>
   </channel>
 </rss>

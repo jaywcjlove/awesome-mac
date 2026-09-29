@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:45:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HeyMate</title>
+      <link>https://getheymate.vercel.app</link>
+      <guid isPermaLink="false">dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f:HeyMate</guid>
+      <pubDate>Tue, 29 Sep 2026 06:45:46 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: HeyMate
+Description: 住在 MacBook 刘海里的 AI 助手，可语音回答与屏幕内容相关的问题，并在你批准计划后运行 Claude Code、Codex 或 OpenCode 代理，还带有媒体、文件架和日历组件。
+Website: https://getheymate.vercel.app
+Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: HeyMate<br/>Description: 住在 MacBook 刘海里的 AI 助手，可语音回答与屏幕内容相关的问题，并在你批准计划后运行 Claude Code、Codex 或 OpenCode 代理，还带有媒体、文件架和日历组件。<br/>Website: https://getheymate.vercel.app<br/>Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f]]></content:encoded>
+    </item>
     <item>
       <title>Belay</title>
       <link>https://perfectoweb.github.io/Belay/</link>
@@ -693,20 +707,6 @@ Website: https://starcat.ink/
 Commit: Add Starcat to Developer Utilities (#2650)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Starcat<br/>Description: 原生、本地优先的 GitHub Stars 管理器，将收藏的仓库转化为可搜索、AI 辅助的知识库。<br/>Website: https://starcat.ink/<br/>Commit: Add Starcat to Developer Utilities (#2650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a]]></content:encoded>
-    </item>
-    <item>
-      <title>Grux</title>
-      <link>https://gruxai.com</link>
-      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
-      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Grux
-Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。
-Website: https://gruxai.com
-Commit: Add Grux to AI Tools (#2647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Grux<br/>Description: 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
     </item>
   </channel>
 </rss>
