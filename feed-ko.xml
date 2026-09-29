@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:43:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Google AI Edge Eloquent</title>
+      <link>https://developers.google.com/edge/eloquent</link>
+      <guid isPermaLink="false">e862cad451259a18e38696e421c9f7aac39e1961:Google AI Edge Eloquent</guid>
+      <pubDate>Tue, 29 Sep 2026 04:43:51 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: Google AI Edge Eloquent
+Description: Google의 무료 온디바이스 AI 받아쓰기·음성 편집 도구로, 어떤 앱에서나 사용할 수 있으며 현재는 영어만 지원합니다.
+Website: https://developers.google.com/edge/eloquent
+Commit: Add Google AI Edge Eloquent to Voice-to-Text (EN/ZH/JA/KO) (#3048)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e862cad451259a18e38696e421c9f7aac39e1961</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Google AI Edge Eloquent<br/>Description: Google의 무료 온디바이스 AI 받아쓰기·음성 편집 도구로, 어떤 앱에서나 사용할 수 있으며 현재는 영어만 지원합니다.<br/>Website: https://developers.google.com/edge/eloquent<br/>Commit: Add Google AI Edge Eloquent to Voice-to-Text (EN/ZH/JA/KO) (#3048)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e862cad451259a18e38696e421c9f7aac39e1961]]></content:encoded>
+    </item>
     <item>
       <title>Karabiner-Elements</title>
       <link>https://karabiner-elements.pqrs.org/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/alexiosus/WandelBar
 Commit: Add WandelBar (#2640)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: WandelBar<br/>Description: 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다.<br/>Open Source: https://github.com/alexiosus/WandelBar<br/>Commit: Add WandelBar (#2640)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25cb09525d9af8ab61e1021f7dffb26b84cd51d4]]></content:encoded>
-    </item>
-    <item>
-      <title>CC-Switch</title>
-      <link>https://github.com/farion1231/cc-switch</link>
-      <guid isPermaLink="false">ef6b11bf4af2eec6c4518e926e6b2ed62c282592:CC-Switch</guid>
-      <pubDate>Tue, 25 Aug 2026 06:14:04 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: CC-Switch
-Description: Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다.
-Open Source: https://github.com/farion1231/cc-switch
-Commit: Add CC-Switch to the ja/ko list. (#2658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: CC-Switch<br/>Description: Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다.<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to the ja/ko list. (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592]]></content:encoded>
     </item>
   </channel>
 </rss>
