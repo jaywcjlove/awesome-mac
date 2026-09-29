@@ -450,6 +450,7 @@ Awesome Mac
 
 * [bruno](https://www.usebruno.com/) - 오프라인 전용, Git 친화적 오픈 소스 API 클라이언트. ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - HTTP/REST 엔드포인트 테스트 도구. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [Cortex](https://cortexdocs.dev) - API 명세에서 대화형 API 문서, 형식화된 SDK, MCP 서버를 생성하는 오픈 소스 CLI. [![Open-Source Software][OSS Icon]](https://github.com/cortex-docs/cortex) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - 오픈 소스 API 클라이언트이자 Postman 대안.
 * [HTTPie](https://httpie.io/) - API를 단순하고 직관적으로 만드는 도구. ![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 경량 API 디버깅 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
