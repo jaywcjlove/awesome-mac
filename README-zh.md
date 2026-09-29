@@ -618,6 +618,7 @@ Awesome Mac
 * [BitFun](https://openbitfun.com/) - 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
+* [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - 通过本地 MLX 服务器（兼容 Anthropic API），在 Apple Silicon 上完全离线运行 Claude Code。 [![Open-Source Software][OSS Icon]](https://github.com/nicedreamzapp/claude-code-local) ![Freeware][Freeware Icon]
 * [Claude God](https://claudegod.app) - 用于监控 Claude 用量、成本和会话统计的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage](https://github.com/Bread-bang/claude-usage) - 用于 Claude Code 的菜单栏应用，在状态行中分窗格显示上下文，会话与每周用量始终可见。无需运行 usage、context 等命令即可查看。 [![Open-Source Software][OSS Icon]](https://github.com/Bread-bang/claude-usage) ![Freeware][Freeware Icon]
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 通过实时计数器跟踪 Claude 用量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
