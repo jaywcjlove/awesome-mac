@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:35:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Karabiner-Elements</title>
+      <link>https://karabiner-elements.pqrs.org/</link>
+      <guid isPermaLink="false">7018e8e17894167527c9227b069aa7874c05db2b:Karabiner-Elements</guid>
+      <pubDate>Tue, 29 Sep 2026 04:35:56 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Karabiner-Elements
+Description: macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구.
+Website: https://karabiner-elements.pqrs.org/
+Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Karabiner-Elements<br/>Description: macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구.<br/>Website: https://karabiner-elements.pqrs.org/<br/>Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b]]></content:encoded>
+    </item>
     <item>
       <title>SquirrelDisk</title>
       <link>https://github.com/adileo/squirreldisk</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/farion1231/cc-switch
 Commit: Add CC-Switch to the ja/ko list. (#2658)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: CC-Switch<br/>Description: Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다.<br/>Open Source: https://github.com/farion1231/cc-switch<br/>Commit: Add CC-Switch to the ja/ko list. (#2658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef6b11bf4af2eec6c4518e926e6b2ed62c282592]]></content:encoded>
-    </item>
-    <item>
-      <title>Loadout</title>
-      <link>https://loadout.migsilva.dev</link>
-      <guid isPermaLink="false">b123966c62b4c5094cc9627cb0a96ea5603eb37e:Loadout</guid>
-      <pubDate>Wed, 19 Aug 2026 05:26:21 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Loadout
-Description: 코딩 어시스턴트가 로드하는 항목을 확인하고 관리 — Claude Code의 스킬, 서브에이전트, 슬래시 명령, 플러그인, MCP 서버를 실제 사용 횟수와 함께 표시.
-Website: https://loadout.migsilva.dev
-Commit: Add Loadout to AI Tools (#2586)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Loadout<br/>Description: 코딩 어시스턴트가 로드하는 항목을 확인하고 관리 — Claude Code의 스킬, 서브에이전트, 슬래시 명령, 플러그인, MCP 서버를 실제 사용 횟수와 함께 표시.<br/>Website: https://loadout.migsilva.dev<br/>Commit: Add Loadout to AI Tools (#2586)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e]]></content:encoded>
     </item>
   </channel>
 </rss>
