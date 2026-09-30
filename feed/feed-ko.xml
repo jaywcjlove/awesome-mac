@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:07:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacFanPro</title>
+      <link>https://github.com/macfanpro/macfanpro</link>
+      <guid isPermaLink="false">2e4b997c82f27304f6b55ace1282490a98495054:MacFanPro</guid>
+      <pubDate>Wed, 30 Sep 2026 03:07:43 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: MacFanPro
+Description: Apple Silicon Mac용 팬 제어 도구. 메뉴 막대 앱, 온도 기반 프로필, CLI를 제공.
+Open Source: https://github.com/macfanpro/macfanpro
+Commit: Add MacFanPro to System Related Tools (#3072)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MacFanPro<br/>Description: Apple Silicon Mac용 팬 제어 도구. 메뉴 막대 앱, 온도 기반 프로필, CLI를 제공.<br/>Open Source: https://github.com/macfanpro/macfanpro<br/>Commit: Add MacFanPro to System Related Tools (#3072)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054]]></content:encoded>
+    </item>
     <item>
       <title>HeyMate</title>
       <link>https://getheymate.vercel.app</link>
@@ -693,20 +707,6 @@ Website: https://starcat.ink/
 Commit: Add Starcat to Developer Utilities (#2650)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Starcat<br/>Description: 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구.<br/>Website: https://starcat.ink/<br/>Commit: Add Starcat to Developer Utilities (#2650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a]]></content:encoded>
-    </item>
-    <item>
-      <title>Grux</title>
-      <link>https://gruxai.com</link>
-      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
-      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Grux
-Description: 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행.
-Website: https://gruxai.com
-Commit: Add Grux to AI Tools (#2647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Grux<br/>Description: 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행.<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
     </item>
   </channel>
 </rss>
