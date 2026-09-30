@@ -1569,6 +1569,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Finder Tools
 
+* [Cmdr](https://getcmdr.com?r=ghamj) - Damn fast and feature-rich two-pane file manager in the spirit of Total Commander, with _optional_ AI features. Free for personal use. Source available. [![Open-Source Software][OSS Icon]](https://github.com/vdavid/cmdr) ![Freeware][Freeware Icon]
 * [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
