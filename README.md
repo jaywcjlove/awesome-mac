@@ -1361,6 +1361,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - Move apps to external storage while keeping working launch links in `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
+* [Declutr](https://declutr.app/?ref=awesome-mac) - One-click file organizer that sorts a folder into category folders by file type, with custom rules and undo. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6747143693?pt=120177712&ct=eliorpom&mt=8)
 * [eZip](https://ezip.awehunt.com) - Lightweight archive tool for ZIP, RAR, 7Z, and other common formats. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
