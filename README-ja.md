@@ -956,6 +956,7 @@ Awesome Mac
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 幅広い音声・動画形式に対応するメディアプレーヤー。
 * [Fader](https://github.com/pantafive/fader) - アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。 [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - マルチデバイス出力と10バンドEQに対応したアプリ別音量コントロール。 [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
+* [Frame Player](https://frameplayer.app/) - mpv をベースにしたビデオプレイヤー。トレントの再生、テレビへのキャスト、同期視聴に対応。 [![Open-Source Software][OSS Icon]](https://github.com/risenxxx/frame-player) ![Freeware][Freeware Icon]
 * [FreeTube](https://freetubeapp.io/) - プライバシーを重視して構築されたオープンソースのデスクトップYouTubeクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - 動画を高品質なGIFに変換。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
 * [HandBrake](https://handbrake.fr/) - メディアをモダンな形式へ変換する動画トランスコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
