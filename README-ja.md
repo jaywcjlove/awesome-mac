@@ -1404,6 +1404,7 @@ Awesome Mac
 * [Speediness](https://sindresorhus.com/speediness) - インターネット速度を測定。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466?platform=mac)
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Safari用のオープンソースタブマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
+* [Verscout](https://verscout.app) - Homebrew、Mac App Store、スタンドアロンアプリ、ベンダーのアップデーターに対応したアプリとパッケージのアップデート管理ツール。
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - MP4/MOV動画をシステム壁紙やロック画面のアニメーションとして簡単にインポート。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - 高速タイピストのためにCaps Lockキーの有効化遅延を除去。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
