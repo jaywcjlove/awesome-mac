@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:14:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Yalqen</title>
+      <link>https://yalqen.com/</link>
+      <guid isPermaLink="false">9febb21e4157b0c1b3964167daa78454e5f52354:Yalqen</guid>
+      <pubDate>Wed, 30 Sep 2026 03:14:32 GMT</pubDate>
+      <category>브라우저</category>
+      <description>Category: 브라우저
+App: Yalqen
+Description: 수직 탭과 키보드 중심 명령 바를 갖춘 개발자용 오픈 소스 Chromium 기반 브라우저.
+Website: https://yalqen.com/
+Commit: Add yalqen to browsers (#3073)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
+      <content:encoded><![CDATA[Category: 브라우저<br/>App: Yalqen<br/>Description: 수직 탭과 키보드 중심 명령 바를 갖춘 개발자용 오픈 소스 Chromium 기반 브라우저.<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
+    </item>
     <item>
       <title>MacFanPro</title>
       <link>https://github.com/macfanpro/macfanpro</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/PathGao/Nifro
 Commit: Add Nifro to dynamic wallpaper apps (#2646)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Nifro<br/>Description: 웹사이트를 설정 가능한 데스크톱 배경화면으로 바꾸고, 디스플레이마다 별도 화면을 설정할 수 있습니다.<br/>Open Source: https://github.com/PathGao/Nifro<br/>Commit: Add Nifro to dynamic wallpaper apps (#2646)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d]]></content:encoded>
-    </item>
-    <item>
-      <title>Starcat</title>
-      <link>https://starcat.ink/</link>
-      <guid isPermaLink="false">6047967c838331bacd80ac19f709ef3b957fd75a:Starcat</guid>
-      <pubDate>Wed, 26 Aug 2026 13:31:01 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: Starcat
-Description: 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구.
-Website: https://starcat.ink/
-Commit: Add Starcat to Developer Utilities (#2650)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Starcat<br/>Description: 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구.<br/>Website: https://starcat.ink/<br/>Commit: Add Starcat to Developer Utilities (#2650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a]]></content:encoded>
     </item>
   </channel>
 </rss>

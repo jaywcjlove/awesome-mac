@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:14:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Yalqen</title>
+      <link>https://yalqen.com/</link>
+      <guid isPermaLink="false">9febb21e4157b0c1b3964167daa78454e5f52354:Yalqen</guid>
+      <pubDate>Wed, 30 Sep 2026 03:14:32 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Yalqen
+Description: 面向开发者的开源 Chromium 内核浏览器，支持垂直标签页和键盘优先的命令栏。
+Website: https://yalqen.com/
+Commit: Add yalqen to browsers (#3073)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Yalqen<br/>Description: 面向开发者的开源 Chromium 内核浏览器，支持垂直标签页和键盘优先的命令栏。<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
+    </item>
     <item>
       <title>MacFanPro</title>
       <link>https://github.com/macfanpro/macfanpro</link>
@@ -693,20 +707,6 @@ Website: https://rockxy.io/tracexy
 Commit: Add Tracexy (#2673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 网络分析<br/>App: Tracexy<br/>Description: 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。<br/>Website: https://rockxy.io/tracexy<br/>Commit: Add Tracexy (#2673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3]]></content:encoded>
-    </item>
-    <item>
-      <title>Nifro</title>
-      <link>https://github.com/PathGao/Nifro</link>
-      <guid isPermaLink="false">5eb9923ab6e18731065350b9c6a3f532578aea4d:Nifro</guid>
-      <pubDate>Wed, 26 Aug 2026 13:36:59 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Nifro
-Description: 将网站变为可配置的桌面壁纸，每块显示器可使用独立视图。
-Open Source: https://github.com/PathGao/Nifro
-Commit: Add Nifro to dynamic wallpaper apps (#2646)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Nifro<br/>Description: 将网站变为可配置的桌面壁纸，每块显示器可使用独立视图。<br/>Open Source: https://github.com/PathGao/Nifro<br/>Commit: Add Nifro to dynamic wallpaper apps (#2646)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d]]></content:encoded>
     </item>
   </channel>
 </rss>

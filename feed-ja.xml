@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:14:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Yalqen</title>
+      <link>https://yalqen.com/</link>
+      <guid isPermaLink="false">9febb21e4157b0c1b3964167daa78454e5f52354:Yalqen</guid>
+      <pubDate>Wed, 30 Sep 2026 03:14:32 GMT</pubDate>
+      <category>ブラウザ</category>
+      <description>Category: ブラウザ
+App: Yalqen
+Description: 垂直タブとキーボード中心のコマンドバーを備えた、開発者向けのオープンソースChromiumベースブラウザ。
+Website: https://yalqen.com/
+Commit: Add yalqen to browsers (#3073)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
+      <content:encoded><![CDATA[Category: ブラウザ<br/>App: Yalqen<br/>Description: 垂直タブとキーボード中心のコマンドバーを備えた、開発者向けのオープンソースChromiumベースブラウザ。<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
+    </item>
     <item>
       <title>MacFanPro</title>
       <link>https://github.com/macfanpro/macfanpro</link>
@@ -693,20 +707,6 @@ Website: https://starcat.ink/
 Commit: Add Starcat to Developer Utilities (#2650)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a</description>
       <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Starcat<br/>Description: 保存したリポジトリを検索可能な AI 支援ナレッジベースに変える、ネイティブかつローカルファーストの GitHub Stars 管理ツール。<br/>Website: https://starcat.ink/<br/>Commit: Add Starcat to Developer Utilities (#2650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6047967c838331bacd80ac19f709ef3b957fd75a]]></content:encoded>
-    </item>
-    <item>
-      <title>Grux</title>
-      <link>https://gruxai.com</link>
-      <guid isPermaLink="false">03d1b516a9344ab7009bd24873d4ae694393167d:Grux</guid>
-      <pubDate>Wed, 26 Aug 2026 13:27:59 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Grux
-Description: アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。
-Website: https://gruxai.com
-Commit: Add Grux to AI Tools (#2647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Grux<br/>Description: アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。<br/>Website: https://gruxai.com<br/>Commit: Add Grux to AI Tools (#2647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03d1b516a9344ab7009bd24873d4ae694393167d]]></content:encoded>
     </item>
   </channel>
 </rss>
