@@ -436,6 +436,7 @@ Awesome Mac
 * [Switzy](https://github.com/yefga/Switzy) - Git 신원 전환과 SSH 키 관리를 위한 오픈 소스 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Switzy) ![Freeware][Freeware Icon]
 * [SYM](https://github.com/zqqf16/SYM) - iOS 크래시 로그 심볼화 앱. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
 * [Testpiler](https://furnacecreek.org/testpiler/) - XCTest 테스트를 Swift Testing으로 변환하는 도구.
+* [Wayari](https://wayari.com/) - 격리된 Git 워크트리에서 Claude Code와 Codex를 조율하고, 검사와 독립적인 리뷰를 거친 풀 리퀘스트를 사용자 승인에 맡기는 도구.
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 여러 Xcode 버전 설치 및 전환. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [zeplin](https://www.zeplin.io/) - 디자이너와 개발자 협업 도구. ![Freeware][Freeware Icon]
 
