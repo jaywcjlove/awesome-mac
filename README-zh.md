@@ -1074,6 +1074,7 @@ Awesome Mac
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/itext-ocr-translator/id1314980676?platform=mac)
 * [iTranslate](http://www.itranslate.com/) - 支持文本、网页和多语言翻译的翻译应用。 ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
+* [LiveLingo](https://github.com/2570165831/LiveLingo) - 英语课堂的实时英文转写、中文字幕和学习笔记，支持麦克风或系统音频，模型全部在本机运行（Apple 芯片，macOS 14+）。 [![Open-Source Software][OSS Icon]](https://github.com/2570165831/LiveLingo) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可帮助您用英语写得更好。
 * [MoePeek](https://github.com/cosZone/MoePeek) - 支持划词、OCR、剪贴板和手动输入的翻译工具。 [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
 * [Nani](https://nani.now) - 快速AI翻译，附带清晰解释。
