@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:22:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Screen Loupe</title>
+      <link>https://ayenora.github.io/screen-loupe/</link>
+      <guid isPermaLink="false">22fa21a12f865e3e10d36bc27ef80a409743b7f4:Screen Loupe</guid>
+      <pubDate>Thu, 01 Oct 2026 07:22:25 GMT</pubDate>
+      <category>Design and Product / Design Tools</category>
+      <description>Category: Design and Product / Design Tools
+App: Screen Loupe
+Description: Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.
+Website: https://ayenora.github.io/screen-loupe/
+Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4</description>
+      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: Screen Loupe<br/>Description: Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.<br/>Website: https://ayenora.github.io/screen-loupe/<br/>Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4]]></content:encoded>
+    </item>
     <item>
       <title>Yalqen</title>
       <link>https://yalqen.com/</link>
@@ -693,20 +707,6 @@ Website: https://rockxy.io/tracexy
 Commit: Add Tracexy (#2673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3</description>
       <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Tracexy<br/>Description: Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.<br/>Website: https://rockxy.io/tracexy<br/>Commit: Add Tracexy (#2673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3]]></content:encoded>
-    </item>
-    <item>
-      <title>Nifro</title>
-      <link>https://github.com/PathGao/Nifro</link>
-      <guid isPermaLink="false">5eb9923ab6e18731065350b9c6a3f532578aea4d:Nifro</guid>
-      <pubDate>Wed, 26 Aug 2026 13:36:59 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Nifro
-Description: Turn websites into configurable desktop wallpapers, with separate views for each display.
-Open Source: https://github.com/PathGao/Nifro
-Commit: Add Nifro to dynamic wallpaper apps (#2646)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Nifro<br/>Description: Turn websites into configurable desktop wallpapers, with separate views for each display.<br/>Open Source: https://github.com/PathGao/Nifro<br/>Commit: Add Nifro to dynamic wallpaper apps (#2646)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5eb9923ab6e18731065350b9c6a3f532578aea4d]]></content:encoded>
     </item>
   </channel>
 </rss>
