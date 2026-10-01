@@ -588,7 +588,7 @@ Awesome Mac
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 다이어그램 및 그래픽 디자인.
 * [Origami Studio](http://origami.design/) - 현대적인 인터페이스 디자인 도구 (Facebook 제작).
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 자유로운 레이아웃의 마인드맵 소프트웨어.
-* [Simple Diagrams](https://www.simplediagrams.com/) - 손그림 스타일의 러프 스케치를 빠르게 만드는 다이어그램 도구.
+* [SimpleDiagrams](https://www.simplediagrams.com/) - 손그림 스타일의 러프 스케치를 빠르게 만드는 다이어그램 도구. ![Native App][Native Icon]
 * [XMind](http://www.xmind.net) - 전 세계적으로 인기 있는 마인드맵 도구.
 
 ### 스크린샷 도구

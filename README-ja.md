@@ -725,10 +725,10 @@ Awesome Mac
 * [ProtoPie](https://www.protopie.io/) - パイのように簡単に最先端のプロトタイプを作成。
 * [QuikFlow](https://quikflow.app) - マインドマッピングのワークフローでフローチャートを作成。
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 自由なホワイトボード風レイアウトを持つ実用的なマインドマッピングソフトウェア。
+* [SimpleDiagrams](https://www.simplediagrams.com/) - 手描き風のラフ図を素早く作れるダイアグラムツール。 ![Native App][Native Icon]
 * [SimpleMind](https://simplemind.eu/) - クロスプラットフォームのマインドマッピングツールの世界的リーダー。
 * [WriteMapper](https://writemapper.com/) - アイデアから最終稿までをすぐに。
 * [XMind](http://www.xmind.net) - 世界で最も人気のあるマインドマッピングツール。
-* [Simple Diagrams](https://www.simplediagrams.com/) - 手描き風のラフ図を素早く作れるダイアグラムツール。
 * [yGraph Editor](https://www.yworks.com/products/yed) - 高品質なダイアグラムを簡単に作成。
 
 ### スクリーンショットツール
