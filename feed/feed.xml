@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:06:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Brink</title>
+      <link>https://brinknotch.site</link>
+      <guid isPermaLink="false">7ae35e9445ae6f220da9461cc5c0e1f891116c2e:Brink</guid>
+      <pubDate>Fri, 02 Oct 2026 02:06:20 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Brink
+Description: A notch on your screen edge that keeps your Notion pages and tasks one hover away.
+Website: https://brinknotch.site
+Commit: Add Brink app to the README list (#3093)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Brink<br/>Description: A notch on your screen edge that keeps your Notion pages and tasks one hover away.<br/>Website: https://brinknotch.site<br/>Commit: Add Brink app to the README list (#3093)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e]]></content:encoded>
+    </item>
     <item>
       <title>Screen Loupe</title>
       <link>https://ayenora.github.io/screen-loupe/</link>
@@ -693,20 +707,6 @@ Website: https://treafree.github.io/Metrune/en/
 Commit: Add Metrune to productivity apps (#2668)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Metrune<br/>Description: Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch.<br/>Website: https://treafree.github.io/Metrune/en/<br/>Commit: Add Metrune to productivity apps (#2668)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8417bce07fd1845c9f0f9cca4f770383eaa89f8f]]></content:encoded>
-    </item>
-    <item>
-      <title>Tracexy</title>
-      <link>https://rockxy.io/tracexy</link>
-      <guid isPermaLink="false">76fb6befe2e28ffc756eebd9d64b28df1b82e1d3:Tracexy</guid>
-      <pubDate>Fri, 28 Aug 2026 01:19:03 GMT</pubDate>
-      <category>Developer Tools / Network Analysis</category>
-      <description>Category: Developer Tools / Network Analysis
-App: Tracexy
-Description: Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.
-Website: https://rockxy.io/tracexy
-Commit: Add Tracexy (#2673)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Tracexy<br/>Description: Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.<br/>Website: https://rockxy.io/tracexy<br/>Commit: Add Tracexy (#2673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/76fb6befe2e28ffc756eebd9d64b28df1b82e1d3]]></content:encoded>
     </item>
   </channel>
 </rss>
