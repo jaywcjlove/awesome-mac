@@ -787,6 +787,7 @@ Awesome Mac
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusionでコンピューター上でAIアートを生成する最も簡単な方法。 [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 画像、動画、音声、フォント、デザイン素材を管理するアセットマネージャー。
 * [ExifCleaner](https://exifcleaner.com) - ドラッグアンドドロップで画像や動画からExifメタデータを削除。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
+* [FolioSort](https://www.foliosort.app) - EXIFの撮影日で写真を実際のフォルダーに整理し、重複の検出とオンデバイスAI検索ができる写真管理アプリ。
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC画像をJPEGまたはPNGに変換。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
 * [Iconset](https://iconset.io) - 無料でクロスプラットフォームの高速SVGアイコンオーガナイザーおよびマネージャー（MacおよびWindows対応）。
 * [Iconjar](http://geticonjar.com/) - アイコンの整理や検索を行うアイコン管理ツール。
