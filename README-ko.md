@@ -613,6 +613,7 @@ Awesome Mac
 * [Kap](https://getkap.co/) - 웹 기술로 만든 오픈 소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - GIF로 바로 내보내는 화면 녹화 도구. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
+* [Mac-Monologue](https://mac-monologue.puschkin.co/) - 얼굴이 나오는 영상과 화면 녹화를 위한 네이티브 레코더. 웹캠 버블, 트랙패드에 손가락을 올려 화면과 나를 전환, 그린 스크린, 기기에서 만드는 자막을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexanderpuschkinberlin/Mac-Monologue) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/siddharthvaddem/openscreen) - 제품 데모와 사용법 안내 영상을 만드는 오픈 소스 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
