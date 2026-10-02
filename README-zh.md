@@ -1507,6 +1507,7 @@ Awesome Mac
 ### Finder
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - 一键将 `/Applications` 中的应用迁移到外部存储，并在原位置保留可启动入口的链接工具。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [Cmdr](https://getcmdr.com?r=ghamj-zh) - 快得惊人、功能丰富的双栏文件管理器，风格类似 Total Commander，AI 功能为*可选*。个人使用免费。源代码公开。 [![Open-Source Software][OSS Icon]](https://github.com/vdavid/cmdr) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。

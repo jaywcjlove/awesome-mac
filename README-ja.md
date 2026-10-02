@@ -1569,6 +1569,7 @@ Awesome Mac
 
 ### Finderツール
 
+* [Cmdr](https://getcmdr.com?r=ghamj-ja) - 驚くほど高速で多機能なTotal Commander風デュアルペインファイルマネージャー。AI機能は*オプション*。個人利用は無料。ソース公開。 [![Open-Source Software][OSS Icon]](https://github.com/vdavid/cmdr) ![Freeware][Freeware Icon]
 * [Command X](https://sindresorhus.com/command-x) - Finderでファイルの切り取り＆貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - あらゆるアプリからファイルやフォルダに素早くアクセス。
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` の起動リンクを保ったままアプリを外部ストレージへ移せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
