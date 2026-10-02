@@ -738,6 +738,7 @@ Awesome Mac
 * [FnKey](https://github.com/evoleinik/fnkey) - 按住说话、松开即粘贴转写文本的语音输入工具。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Google 出品的免费端侧 AI 听写与语音编辑工具，可在任意应用中全局使用，目前仅支持英语。 ![Freeware][Freeware Icon]
 * [LocalScribe](https://github.com/maddylaneeee/ShengJi) - 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
+* [MightyMouse](https://getmightymouse.com/) - 按住按键说话即可在任意应用中输入文字，由 Whisper 在本地转写，另外在一个账户中提供文字、图片和视频的主流 AI 模型。
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 支持本地与云端语音转文字的开源听写工具。 [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenQuack](https://github.com/larryxiao/openquack) - 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。 [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
