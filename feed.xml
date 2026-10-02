@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:08:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TBD</title>
+      <link>https://tbd.yt/</link>
+      <guid isPermaLink="false">8d42a1337f0f00ff142f424c12aef1abb315a5c4:TBD</guid>
+      <pubDate>Fri, 02 Oct 2026 03:08:55 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: TBD
+Description: Open-source YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can also drive.
+Website: https://tbd.yt/
+Commit: Add TBD to Download Management Tools (#3085)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: TBD<br/>Description: Open-source YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can also drive.<br/>Website: https://tbd.yt/<br/>Commit: Add TBD to Download Management Tools (#3085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4]]></content:encoded>
+    </item>
     <item>
       <title>Amber Notes</title>
       <link>https://ambernotes.app/</link>
@@ -693,20 +707,6 @@ Website: https://snapzy.app/
 Commit: Add Snapzy to screenshot tools (#2666)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Snapzy<br/>Description: Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing.<br/>Website: https://snapzy.app/<br/>Commit: Add Snapzy to screenshot tools (#2666)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be]]></content:encoded>
-    </item>
-    <item>
-      <title>Clipbara</title>
-      <link>https://github.com/mobrava/Clipbara</link>
-      <guid isPermaLink="false">a875ee9980da747bd0ec9ccba20f5164768b2476:Clipbara</guid>
-      <pubDate>Sat, 29 Aug 2026 12:36:18 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Clipbara
-Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.
-Open Source: https://github.com/mobrava/Clipbara
-Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clipbara<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/mobrava/Clipbara<br/>Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476]]></content:encoded>
     </item>
   </channel>
 </rss>
