@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Runner</title>
+      <link>https://github.com/yicheng47/runner</link>
+      <guid isPermaLink="false">b7afa7df5420716aa9fadadc411cbb847e2d1138:Runner</guid>
+      <pubDate>Fri, 02 Oct 2026 07:15:03 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Runner
+Description: Claude Code、Codex、Copilot CLI、pi などの CLI コーディングエージェントがクルーとして一つのタスクに協力して取り組み、それぞれが本物のターミナルで動作するオープンソースのワークスペース。
+Open Source: https://github.com/yicheng47/runner
+Commit: Add Runner to Developer Utilities (#2965)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Runner<br/>Description: Claude Code、Codex、Copilot CLI、pi などの CLI コーディングエージェントがクルーとして一つのタスクに協力して取り組み、それぞれが本物のターミナルで動作するオープンソースのワークスペース。<br/>Open Source: https://github.com/yicheng47/runner<br/>Commit: Add Runner to Developer Utilities (#2965)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138]]></content:encoded>
+    </item>
     <item>
       <title>Digisensus Recorder</title>
       <link>https://digisensus.com/call-recorder-mac/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/maddylaneeee/ShengJi
 Commit: Rename ShengJi listing to LocalScribe (#2590)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: LocalScribe<br/>Description: マイク、メディアファイル、Macのシステム音声に対応するオープンソースのローカル文字起こし・字幕編集アプリ。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
-    </item>
-    <item>
-      <title>Mole</title>
-      <link>https://mole.fit/</link>
-      <guid isPermaLink="false">73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0:Mole</guid>
-      <pubDate>Sun, 30 Aug 2026 08:47:48 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Mole
-Description: クリーンアップ、アプリ管理、ディスク分析、システム監視に対応するネイティブMacメンテナンスツール。
-Website: https://mole.fit/
-Commit: Add Mole to Cleanup and Uninstall (#2663)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Mole<br/>Description: クリーンアップ、アプリ管理、ディスク分析、システム監視に対応するネイティブMacメンテナンスツール。<br/>Website: https://mole.fit/<br/>Commit: Add Mole to Cleanup and Uninstall (#2663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0]]></content:encoded>
     </item>
   </channel>
 </rss>

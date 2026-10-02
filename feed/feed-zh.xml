@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Runner</title>
+      <link>https://github.com/yicheng47/runner</link>
+      <guid isPermaLink="false">b7afa7df5420716aa9fadadc411cbb847e2d1138:Runner</guid>
+      <pubDate>Fri, 02 Oct 2026 07:15:03 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Runner
+Description: 开源工作台，让 Claude Code、Codex、Copilot CLI 和 pi 等命令行编码代理组队协作同一任务，每个代理都在各自的真实终端中运行。
+Open Source: https://github.com/yicheng47/runner
+Commit: Add Runner to Developer Utilities (#2965)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Runner<br/>Description: 开源工作台，让 Claude Code、Codex、Copilot CLI 和 pi 等命令行编码代理组队协作同一任务，每个代理都在各自的真实终端中运行。<br/>Open Source: https://github.com/yicheng47/runner<br/>Commit: Add Runner to Developer Utilities (#2965)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138]]></content:encoded>
+    </item>
     <item>
       <title>Digisensus Recorder</title>
       <link>https://digisensus.com/call-recorder-mac/</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/pixpresso
 Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Pixpresso<br/>Description: 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
-    </item>
-    <item>
-      <title>ChessCafe</title>
-      <link>https://getapps.cafe/app/chesscafe</link>
-      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
-      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
-      <category>游戏软件</category>
-      <description>Category: 游戏软件
-App: ChessCafe
-Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]
-Website: https://getapps.cafe/app/chesscafe
-Commit: Add ChessCafe to Gaming Software (#2700)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
-      <content:encoded><![CDATA[Category: 游戏软件<br/>App: ChessCafe<br/>Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Runner</title>
+      <link>https://github.com/yicheng47/runner</link>
+      <guid isPermaLink="false">b7afa7df5420716aa9fadadc411cbb847e2d1138:Runner</guid>
+      <pubDate>Fri, 02 Oct 2026 07:15:03 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Runner
+Description: Claude Code, Codex, Copilot CLI, pi 같은 CLI 코딩 에이전트가 하나의 작업을 크루로 함께 수행하고, 각 에이전트가 자신의 실제 터미널에서 실행되는 오픈 소스 워크스페이스.
+Open Source: https://github.com/yicheng47/runner
+Commit: Add Runner to Developer Utilities (#2965)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Runner<br/>Description: Claude Code, Codex, Copilot CLI, pi 같은 CLI 코딩 에이전트가 하나의 작업을 크루로 함께 수행하고, 각 에이전트가 자신의 실제 터미널에서 실행되는 오픈 소스 워크스페이스.<br/>Open Source: https://github.com/yicheng47/runner<br/>Commit: Add Runner to Developer Utilities (#2965)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138]]></content:encoded>
+    </item>
     <item>
       <title>Digisensus Recorder</title>
       <link>https://digisensus.com/call-recorder-mac/</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/chesscafe
 Commit: Add ChessCafe to Gaming Software (#2700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
       <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: ChessCafe<br/>Description: 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스.<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
-    </item>
-    <item>
-      <title>LocalScribe</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">69118783de248fd090364ca88ff2cf9a8c9cf9e9:LocalScribe</guid>
-      <pubDate>Sun, 30 Aug 2026 09:10:57 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: LocalScribe
-Description: 마이크, 미디어 파일, Mac 시스템 오디오를 위한 오픈 소스 로컬 전사 및 자막 편집 앱.
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Rename ShengJi listing to LocalScribe (#2590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: LocalScribe<br/>Description: 마이크, 미디어 파일, Mac 시스템 오디오를 위한 오픈 소스 로컬 전사 및 자막 편집 앱.<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
     </item>
   </channel>
 </rss>
