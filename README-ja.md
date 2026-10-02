@@ -1360,6 +1360,7 @@ Awesome Mac
 ### ファイル管理ツール
 
 * [BetterZip](https://macitbetter.com/) - ZIP、TAR、TGZ、TBZ、TXZ（新規）、7-ZIP、RARをサポートするアーカイブツール。
+* [Declutr](https://declutr.app/?ref=awesome-mac) - フォルダ内のファイルを種類ごとのフォルダへワンクリックで整理し、カスタムルールと取り消しにも対応したツール。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6747143693?pt=120177712&ct=eliorpom&mt=8)
 * [eZip](http://ezip.awehunt.com) - ZIP、RAR、7Z などに対応した軽量な圧縮・解凍ツール。 ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - 無制限のペインを持つモダンなタイリングファイルマネージャー。
 * [Folders File Manager](https://foldersapp.dev) - Windowsエクスプローラーに似た展開可能なフォルダツリーを持つファイルマネージャー。
