@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:47:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Digisensus Recorder</title>
+      <link>https://digisensus.com/call-recorder-mac/</link>
+      <guid isPermaLink="false">bf6a6e76b63460732293d5c428801a8dfc7da940:Digisensus Recorder</guid>
+      <pubDate>Fri, 02 Oct 2026 03:47:11 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: Digisensus Recorder
+Description: 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。
+Website: https://digisensus.com/call-recorder-mac/
+Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Digisensus Recorder<br/>Description: 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。<br/>Website: https://digisensus.com/call-recorder-mac/<br/>Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940]]></content:encoded>
+    </item>
     <item>
       <title>TBD</title>
       <link>https://tbd.yt/</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/chesscafe
 Commit: Add ChessCafe to Gaming Software (#2700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
       <content:encoded><![CDATA[Category: 游戏软件<br/>App: ChessCafe<br/>Description: 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
-    </item>
-    <item>
-      <title>LocalScribe</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">69118783de248fd090364ca88ff2cf9a8c9cf9e9:LocalScribe</guid>
-      <pubDate>Sun, 30 Aug 2026 09:10:57 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: LocalScribe
-Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Rename ShengJi listing to LocalScribe (#2590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: LocalScribe<br/>Description: 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
     </item>
   </channel>
 </rss>

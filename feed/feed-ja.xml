@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:47:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Digisensus Recorder</title>
+      <link>https://digisensus.com/call-recorder-mac/</link>
+      <guid isPermaLink="false">bf6a6e76b63460732293d5c428801a8dfc7da940:Digisensus Recorder</guid>
+      <pubDate>Fri, 02 Oct 2026 03:47:11 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Digisensus Recorder
+Description: Zoom、Meet、Teams、FaceTime、WhatsApp、電話の通話を録音し、ボットなしで AI 会議メモを作成する通話レコーダー。
+Website: https://digisensus.com/call-recorder-mac/
+Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Digisensus Recorder<br/>Description: Zoom、Meet、Teams、FaceTime、WhatsApp、電話の通話を録音し、ボットなしで AI 会議メモを作成する通話レコーダー。<br/>Website: https://digisensus.com/call-recorder-mac/<br/>Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940]]></content:encoded>
+    </item>
     <item>
       <title>TBD</title>
       <link>https://tbd.yt/</link>
@@ -693,20 +707,6 @@ Website: https://mole.fit/
 Commit: Add Mole to Cleanup and Uninstall (#2663)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Mole<br/>Description: クリーンアップ、アプリ管理、ディスク分析、システム監視に対応するネイティブMacメンテナンスツール。<br/>Website: https://mole.fit/<br/>Commit: Add Mole to Cleanup and Uninstall (#2663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/73d7208e1fc2f0adbe0c87721cc1c6586c91c2e0]]></content:encoded>
-    </item>
-    <item>
-      <title>Snapzy</title>
-      <link>https://snapzy.app/</link>
-      <guid isPermaLink="false">8c421a391f1839d7d78f2ca886eef511214a97be:Snapzy</guid>
-      <pubDate>Sun, 30 Aug 2026 07:35:29 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: Snapzy
-Description: スクリーンショット、画面録画、注釈、動画編集に対応した無料のオープンソースmacOSネイティブアプリ。
-Website: https://snapzy.app/
-Commit: Add Snapzy to screenshot tools (#2666)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Snapzy<br/>Description: スクリーンショット、画面録画、注釈、動画編集に対応した無料のオープンソースmacOSネイティブアプリ。<br/>Website: https://snapzy.app/<br/>Commit: Add Snapzy to screenshot tools (#2666)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be]]></content:encoded>
     </item>
   </channel>
 </rss>
