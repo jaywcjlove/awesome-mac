@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:44:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:48:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Amber Notes</title>
+      <link>https://ambernotes.app/</link>
+      <guid isPermaLink="false">8c14cd9816afc9a9f1b60be08a80edcffa354065:Amber Notes</guid>
+      <pubDate>Fri, 02 Oct 2026 02:48:45 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: Amber Notes
+Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.
+Website: https://ambernotes.app/
+Commit: Add Amber Notes to Note-taking (#3090)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Amber Notes<br/>Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.<br/>Website: https://ambernotes.app/<br/>Commit: Add Amber Notes to Note-taking (#3090)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065]]></content:encoded>
+    </item>
     <item>
       <title>Delve</title>
       <link>https://khaosstudio.com/delve/</link>
@@ -693,20 +707,6 @@ Website: https://snapzy.app/
 Commit: Add Snapzy to screenshot tools (#2666)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Snapzy<br/>Description: 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다.<br/>Website: https://snapzy.app/<br/>Commit: Add Snapzy to screenshot tools (#2666)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c421a391f1839d7d78f2ca886eef511214a97be]]></content:encoded>
-    </item>
-    <item>
-      <title>Purge</title>
-      <link>https://getpurge.com</link>
-      <guid isPermaLink="false">31ee838d6f50c568a8fc9f254d76af9bd13616f4:Purge</guid>
-      <pubDate>Sat, 29 Aug 2026 12:07:25 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Purge
-Description: 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구.
-Website: https://getpurge.com
-Commit: Add Purge to Cleanup and Uninstall (#2690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Purge<br/>Description: 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구.<br/>Website: https://getpurge.com<br/>Commit: Add Purge to Cleanup and Uninstall (#2690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4]]></content:encoded>
     </item>
   </channel>
 </rss>
