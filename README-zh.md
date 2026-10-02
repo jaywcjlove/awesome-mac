@@ -1661,6 +1661,7 @@ Awesome Mac
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Ferrocast](https://ferrocast.app) - 用 Rust 编写的快速键盘启动器，内置剪贴板历史、文本片段、窗口管理和 275 种本地文件转换。 [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
 * [Hourmint](https://hourmint.abdur.tech) - 面向自由职业者的菜单栏计时工具，提供工作日志、工时表和 PDF 发票。 [![Open-Source Software][OSS Icon]](https://github.com/abdurrahmanriyad/hourmint) ![Freeware][Freeware Icon]
+* [My House, My Things](https://myhousemythings.com) - 无需账户、无需订阅，记录家中物品、收据、保修和定期维护事项的工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6812472034?platform=mac)
 
 ### 清理卸载
 
