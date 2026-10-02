@@ -254,6 +254,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - Date-focused note taking app for both planning and documenting your projects. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
+* [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - Local-first note-taking and knowledge management app. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Open-source alternative to Notion. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](https://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
