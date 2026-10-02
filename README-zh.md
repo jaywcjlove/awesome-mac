@@ -1454,6 +1454,7 @@ Awesome Mac
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 自定义鼠标按键、滚轮和指针速度的工具。
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 Mac OS X 中完全读写、修改、访问 Windows NTFS 硬盘、U 盘等外接设备的文件。
 * [Raycast](https://raycast.com) - 集启动、扩展、片段、笔记和 AI 于一体的命令工具。
+* [RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - 在 macOS 27 上关闭 Apple Intelligence 并删除已下载模型的开源命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/omlahore/RemoveMacAI) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - 开源启动器，支持 Raycast 兼容扩展、语音工作流、文本转语音、记忆与 AI 动作。 [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
 * [SwiftQuit](https://swiftquit.com/) - 关闭窗口时自动退出 macOS 应用程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit)
