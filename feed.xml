@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:44:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:48:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Amber Notes</title>
+      <link>https://ambernotes.app/</link>
+      <guid isPermaLink="false">8c14cd9816afc9a9f1b60be08a80edcffa354065:Amber Notes</guid>
+      <pubDate>Fri, 02 Oct 2026 02:48:45 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Amber Notes
+Description: Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable.
+Website: https://ambernotes.app/
+Commit: Add Amber Notes to Note-taking (#3090)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Amber Notes<br/>Description: Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable.<br/>Website: https://ambernotes.app/<br/>Commit: Add Amber Notes to Note-taking (#3090)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065]]></content:encoded>
+    </item>
     <item>
       <title>Delve</title>
       <link>https://khaosstudio.com/delve/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/mobrava/Clipbara
 Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clipbara<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/mobrava/Clipbara<br/>Commit: Update PasteClip entry: renamed to Clipbara, now on the Mac App Store (#2697)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a875ee9980da747bd0ec9ccba20f5164768b2476]]></content:encoded>
-    </item>
-    <item>
-      <title>Purge</title>
-      <link>https://getpurge.com</link>
-      <guid isPermaLink="false">31ee838d6f50c568a8fc9f254d76af9bd13616f4:Purge</guid>
-      <pubDate>Sat, 29 Aug 2026 12:07:25 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Purge
-Description: Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.
-Website: https://getpurge.com
-Commit: Add Purge to Cleanup and Uninstall (#2690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Purge<br/>Description: Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.<br/>Website: https://getpurge.com<br/>Commit: Add Purge to Cleanup and Uninstall (#2690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31ee838d6f50c568a8fc9f254d76af9bd13616f4]]></content:encoded>
     </item>
   </channel>
 </rss>
