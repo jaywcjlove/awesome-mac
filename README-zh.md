@@ -679,6 +679,7 @@ Awesome Mac
 * [Mattermost](https://mattermost.com/download/) - 开源团队协作平台。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [ScreenVeil](https://www.screenveil.io) - 屏幕共享工具，可将选定应用从用于共享的 Privacy Screen 窗口中排除，同时保留其在本地的正常使用（付费，提供三次会话试用）。
 * [Signal](https://signal.org/) - 畅所欲言来尝试一种别样的通讯体验吧。Signal 不仅提供各种常见的功能，还尤为注重隐私安全。![Freeware][Freeware Icon]
 * [Slack](https://slack.com/) - 团队协作，沟通工具。
 * [Stack](https://getstack.app/) - 用于在一个界面中整理多个 Web 应用的工作区浏览器。

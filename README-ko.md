@@ -645,6 +645,7 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 이미지 호스팅 업로드 도구. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
+* [ScreenVeil](https://www.screenveil.io) - 선택한 앱을 로컬에서 계속 사용하면서 공유용 Privacy Screen 창에서는 제외할 수 있는 화면 공유 도구(유료, 세 번의 세션 체험 제공).
 * [Zipic](https://zipic.app/) - 프리셋과 자동화를 지원하는 일괄 이미지 압축 도구.
 
 ## AI 도구
