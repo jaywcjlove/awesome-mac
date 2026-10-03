@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 05:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:59:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Classic Game Box</title>
+      <link>https://github.com/lazyfury/classic-game-box</link>
+      <guid isPermaLink="false">37da44f954b3be5770ca15b02ecc9f59048d319a:Classic Game Box</guid>
+      <pubDate>Sat, 03 Oct 2026 08:59:17 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: Classic Game Box
+Description: Open-source retro-console emulator frontend built on libretro cores.
+Open Source: https://github.com/lazyfury/classic-game-box
+Commit: Add Classic Game Box to Gaming Software (#3123)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Classic Game Box<br/>Description: Open-source retro-console emulator frontend built on libretro cores.<br/>Open Source: https://github.com/lazyfury/classic-game-box<br/>Commit: Add Classic Game Box to Gaming Software (#3123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a]]></content:encoded>
+    </item>
     <item>
       <title>OpenSpatial</title>
       <link>https://github.com/dortanes/openspatial</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/nathan-poncet/whisk
 Commit: Add Whisk (#2729)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Whisk<br/>Description: Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
-    </item>
-    <item>
-      <title>Blink</title>
-      <link>https://github.com/megootronic/Blink</link>
-      <guid isPermaLink="false">ea52d9e1cbdd4fdb8ebb215207d869338b28fea1:Blink</guid>
-      <pubDate>Tue, 01 Sep 2026 01:58:20 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Blink
-Description: A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal.
-Open Source: https://github.com/megootronic/Blink
-Commit: Add Blink to Menu Bar Tools (#2726)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Blink<br/>Description: A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal.<br/>Open Source: https://github.com/megootronic/Blink<br/>Commit: Add Blink to Menu Bar Tools (#2726)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1]]></content:encoded>
     </item>
   </channel>
 </rss>
