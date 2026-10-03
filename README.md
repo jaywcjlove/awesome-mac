@@ -1145,6 +1145,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [Zhenzhu](https://zhenzhu.app/) - Chinese pop-up dictionary for any app: select, hover or snip (OCR) to see pinyin, meaning and HSK level, and save words with their sentence as flashcards or to Anki. ![Native App][Native Icon]
 
 ## Finance
 
