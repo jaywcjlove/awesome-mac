@@ -144,6 +144,7 @@ Awesome Command Line Apps
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 古いブラウン管ディスプレイを模倣した見た目の良いターミナルエミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [CSV2Notion Neo](https://github.com/TheAcharya/csv2notion-neo) - CSVまたはJSONデータを画像付きでNotionデータベースにアップロード＆マージ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/csv2notion-neo) ![Freeware][Freeware Icon]
 * [dark-mode](https://github.com/sindresorhus/dark-mode) - コマンドラインからダークモードを制御。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Dockless](https://github.com/michaelmitchell-bit/dockless) - どのアプリでも Dock アイコンと ⌘-Tab の表示を隠す。Dock に強制的に戻ろうとするアプリにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/michaelmitchell-bit/dockless) ![Freeware][Freeware Icon]
 * [eureka](https://github.com/simeg/eureka) - ターミナルを離れることなくアイデアを入力・保存するCLIツール。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Fish](https://fishshell.com/) - zshに似たスマートでユーザーフレンドリーなシェル。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect) - SQLライクなクエリでファイルを検索。 [![Open-Source Software][OSS Icon]](https://github.com/jhspetersson/fselect)
