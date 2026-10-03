@@ -1043,6 +1043,7 @@ Awesome Mac
 * [业火五笔输入法](https://github.com/qwertyyb/Fire) - 轻量干净，功能强大的五笔输入法，完全开源。[![Open-Source Software][OSS Icon]](https://github.com/qwertyyb/Fire) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 可按应用或网站自动切换输入法的工具。 [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 * [微信键盘](https://z.weixin.qq.com/) - 微信官方出品的中文输入法,弥补mac版本微信无法搜索表情发送的问题。
+* [FlowKeys](https://flowkeys.app/) - 屏幕键盘，支持单词预测、语音听写、停留点击和开关扫描，为无法使用实体键盘的人设计。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 浏览器
 
