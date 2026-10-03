@@ -1076,6 +1076,7 @@ Awesome Mac
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
+* [Liftoff](https://github.com/firstfu/Liftoff) - 윈도우 실시간 미리보기, 윈도우 제목 검색, 원클릭 폴더 정리를 지원하는 오픈소스 Launchpad 대체 앱. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - 여러 Mac 사이에서 Magic Keyboard, Mouse, Trackpad를 전환하는 도구.
 * [Metrune](https://treafree.github.io/Metrune/ko/) - 작업, AI 코딩, GitHub 활동, 기기 이벤트, 배지, 리포트를 MacBook 노치에 모으는 로컬 우선 집중 작업 공간. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 여러 AI 서비스를 한곳에서 쓰는 채팅 클라이언트.

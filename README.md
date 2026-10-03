@@ -1394,6 +1394,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](https://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - A tiny app that checks if all your apps from any source are up to date. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [Liftoff](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - Classic Launchpad experience, relive old macOS. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 * [lo-rain](https://lo.cafe/lo-rain) - Create a customizable rain over your desktop and apps, with splash over the dock.

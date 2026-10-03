@@ -1393,6 +1393,7 @@ Awesome Mac
 * [Equinox](https://github.com/rlxone/Equinox) - macOS用のダイナミック壁紙を作成。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](http://www.httrack.com) - Webサイト全体をダウンロードしてオフラインブラウジングするのに便利なツール。 ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - あらゆるソースからインストールしたアプリが最新かどうかをチェックする小さなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [Liftoff](https://github.com/firstfu/Liftoff) - ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - Macのスリープを防止。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - クラシックなLaunchpad体験を再現、昔のmacOSを追体験。 [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 * [lo-rain](https://lo.cafe/lo-rain) - デスクトップやアプリの上にカスタマイズ可能な雨を降らせ、Dockにはしぶきエフェクトも。
