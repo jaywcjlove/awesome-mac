@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:26:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Frpc-Desktop</title>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <guid isPermaLink="false">b2f1ceb7ab36179a146f71301df5b32fb5de3f72:Frpc-Desktop</guid>
+      <pubDate>Sat, 03 Oct 2026 04:26:09 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: Frpc-Desktop
+Description: Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.
+Open Source: https://github.com/luckjiawei/frpc-desktop
+Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Frpc-Desktop<br/>Description: Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.<br/>Open Source: https://github.com/luckjiawei/frpc-desktop<br/>Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72]]></content:encoded>
+    </item>
     <item>
       <title>DockLens</title>
       <link>https://github.com/firstfu/DockLens-app</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/pixpresso
 Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Pixpresso<br/>Description: Image viewer and editor for cropping, resizing, annotating, and converting between PNG, JPG, WebP, and HEIC.<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
-    </item>
-    <item>
-      <title>ChessCafe</title>
-      <link>https://getapps.cafe/app/chesscafe</link>
-      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
-      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
-      <category>Gaming Software</category>
-      <description>Category: Gaming Software
-App: ChessCafe
-Description: Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.
-Website: https://getapps.cafe/app/chesscafe
-Commit: Add ChessCafe to Gaming Software (#2700)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
-      <content:encoded><![CDATA[Category: Gaming Software<br/>App: ChessCafe<br/>Description: Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:26:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Frpc-Desktop</title>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <guid isPermaLink="false">b2f1ceb7ab36179a146f71301df5b32fb5de3f72:Frpc-Desktop</guid>
+      <pubDate>Sat, 03 Oct 2026 04:26:09 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Frpc-Desktop
+Description: FRPリバースプロキシおよびイントラネット侵入（NAT越え）のためのオープンソースGUIクライアント。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)
+Open Source: https://github.com/luckjiawei/frpc-desktop
+Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Frpc-Desktop<br/>Description: FRPリバースプロキシおよびイントラネット侵入（NAT越え）のためのオープンソースGUIクライアント。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)<br/>Open Source: https://github.com/luckjiawei/frpc-desktop<br/>Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72]]></content:encoded>
+    </item>
     <item>
       <title>DockLens</title>
       <link>https://github.com/firstfu/DockLens-app</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/pixpresso
 Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Pixpresso<br/>Description: 切り抜き、リサイズ、注釈、PNG・JPG・WebP・HEIC変換に対応した画像ビューアー兼エディター。<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
-    </item>
-    <item>
-      <title>ChessCafe</title>
-      <link>https://getapps.cafe/app/chesscafe</link>
-      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
-      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
-      <category>ゲームソフトウェア</category>
-      <description>Category: ゲームソフトウェア
-App: ChessCafe
-Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。
-Website: https://getapps.cafe/app/chesscafe
-Commit: Add ChessCafe to Gaming Software (#2700)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
-      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: ChessCafe<br/>Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
     </item>
   </channel>
 </rss>
