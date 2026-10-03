@@ -1146,6 +1146,7 @@ Awesome Mac
 
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [Zhenzhu](https://zhenzhu.app/) - あらゆるアプリで使える中国語ポップアップ辞書。選択・ホバー・画面キャプチャ（OCR）でピンイン、意味、HSK レベルを表示し、単語を例文ごとフラッシュカードや Anki に保存。 ![Native App][Native Icon]
 
 ## ファイナンス
 

@@ -879,6 +879,7 @@ Awesome Mac
 
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [Zhenzhu](https://zhenzhu.app/) - 모든 앱에서 쓰는 중국어 팝업 사전. 선택, 호버 또는 화면 캡처(OCR)로 병음, 뜻, HSK 등급을 보고, 단어를 예문과 함께 플래시카드나 Anki에 저장. ![Native App][Native Icon]
 
 ## 금융
 
