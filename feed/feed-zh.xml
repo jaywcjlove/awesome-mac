@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 04:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:45:13 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenSpatial</title>
+      <link>https://github.com/dortanes/openspatial</link>
+      <guid isPermaLink="false">d5d3803cfbe8846371c3128779696c434d546306:OpenSpatial</guid>
+      <pubDate>Sat, 03 Oct 2026 05:45:13 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: OpenSpatial
+Description: 开源空间音频工具，让任意耳机以带头部追踪的 7.1 环绕声播放所有应用的声音。
+Open Source: https://github.com/dortanes/openspatial
+Commit: Add OpenSpatial (#3120)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: OpenSpatial<br/>Description: 开源空间音频工具，让任意耳机以带头部追踪的 7.1 环绕声播放所有应用的声音。<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
+    </item>
     <item>
       <title>Frpc-Desktop</title>
       <link>https://github.com/luckjiawei/frpc-desktop</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
 Commit: Add AI Novel Writer to Writing (#2732)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: AI Novel Writer<br/>Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
-    </item>
-    <item>
-      <title>Whisk</title>
-      <link>https://github.com/nathan-poncet/whisk</link>
-      <guid isPermaLink="false">010f11a930472cfea46fd2bfac3abcdd23241cc7:Whisk</guid>
-      <pubDate>Wed, 02 Sep 2026 00:49:19 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Whisk
-Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。
-Open Source: https://github.com/nathan-poncet/whisk
-Commit: Add Whisk (#2729)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Whisk<br/>Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
     </item>
   </channel>
 </rss>
