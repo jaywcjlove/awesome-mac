@@ -1054,6 +1054,7 @@ Awesome Mac
 
 * [Lotti](https://matthiasn.github.io/lotti/) - 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Nozbe](https://nozbe.com) - 개인과 팀을 위한 GTD 작업 관리자. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
+* [Satori](https://satorigtd.app) - 터미널 스타일의 오픈 소스 키보드 중심 GTD 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/emcee5000/satori) ![Freeware][Freeware Icon]
 * [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 * [Things](https://culturedcode.com/things/) - 수상 경력이 있는 작업 관리자.
 * [Todoist](https://todoist.com/) - 작업 및 할 일 관리. ![Freeware][Freeware Icon]
