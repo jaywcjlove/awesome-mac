@@ -1527,6 +1527,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Dimsum](https://github.com/nshi/dimsum) - Minimalist menu bar app that dims inactive windows to highlight the focused one. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
 * [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 * [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
+* [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
 * [Divvy](https://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 * [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
