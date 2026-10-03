@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 04:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:45:13 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenSpatial</title>
+      <link>https://github.com/dortanes/openspatial</link>
+      <guid isPermaLink="false">d5d3803cfbe8846371c3128779696c434d546306:OpenSpatial</guid>
+      <pubDate>Sat, 03 Oct 2026 05:45:13 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: OpenSpatial
+Description: 모든 앱의 소리를 헤드 트래킹이 적용된 7.1 서라운드로 재생하는 헤드폰용 오픈 소스 공간 음향 도구.
+Open Source: https://github.com/dortanes/openspatial
+Commit: Add OpenSpatial (#3120)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: OpenSpatial<br/>Description: 모든 앱의 소리를 헤드 트래킹이 적용된 7.1 서라운드로 재생하는 헤드폰용 오픈 소스 공간 음향 도구.<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
+    </item>
     <item>
       <title>Frpc-Desktop</title>
       <link>https://github.com/luckjiawei/frpc-desktop</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
 Commit: Add AI Novel Writer to Writing (#2732)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: AI Novel Writer<br/>Description: 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간.<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
-    </item>
-    <item>
-      <title>Blink</title>
-      <link>https://github.com/megootronic/Blink</link>
-      <guid isPermaLink="false">ea52d9e1cbdd4fdb8ebb215207d869338b28fea1:Blink</guid>
-      <pubDate>Tue, 01 Sep 2026 01:58:20 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Blink
-Description: 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다.
-Open Source: https://github.com/megootronic/Blink
-Commit: Add Blink to Menu Bar Tools (#2726)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Blink<br/>Description: 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다.<br/>Open Source: https://github.com/megootronic/Blink<br/>Commit: Add Blink to Menu Bar Tools (#2726)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1]]></content:encoded>
     </item>
   </channel>
 </rss>
