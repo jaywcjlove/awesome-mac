@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DockLens</title>
+      <link>https://github.com/firstfu/DockLens-app</link>
+      <guid isPermaLink="false">23ffea57b0b41e7c2c0b671dbe27fec27e5b2619:DockLens</guid>
+      <pubDate>Sat, 03 Oct 2026 02:27:18 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: DockLens
+Description: Dock 아이콘에 포인터를 올리면 해당 앱의 모든 창의 실시간 썸네일을 보여 주며, 전환·닫기·최소화할 수 있습니다.
+Open Source: https://github.com/firstfu/DockLens-app
+Commit: Add DockLens to Window Management (#3132)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: DockLens<br/>Description: Dock 아이콘에 포인터를 올리면 해당 앱의 모든 창의 실시간 썸네일을 보여 주며, 전환·닫기·최소화할 수 있습니다.<br/>Open Source: https://github.com/firstfu/DockLens-app<br/>Commit: Add DockLens to Window Management (#3132)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619]]></content:encoded>
+    </item>
     <item>
       <title>Runner</title>
       <link>https://github.com/yicheng47/runner</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/pixpresso
 Commit: Add Pixpresso to Design and Product - Other Tools (#2703)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Pixpresso<br/>Description: 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기.<br/>Website: https://getapps.cafe/app/pixpresso<br/>Commit: Add Pixpresso to Design and Product - Other Tools (#2703)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e91a6a27466c30a33d7fa7624c74f86c4115ffa4]]></content:encoded>
-    </item>
-    <item>
-      <title>ChessCafe</title>
-      <link>https://getapps.cafe/app/chesscafe</link>
-      <guid isPermaLink="false">2c267f6d1415ed3a45efb146dd28620cfd7d2094:ChessCafe</guid>
-      <pubDate>Tue, 01 Sep 2026 01:47:30 GMT</pubDate>
-      <category>게임 소프트웨어</category>
-      <description>Category: 게임 소프트웨어
-App: ChessCafe
-Description: 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스.
-Website: https://getapps.cafe/app/chesscafe
-Commit: Add ChessCafe to Gaming Software (#2700)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
-      <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: ChessCafe<br/>Description: 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스.<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
     </item>
   </channel>
 </rss>

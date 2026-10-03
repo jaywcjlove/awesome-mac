@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DockLens</title>
+      <link>https://github.com/firstfu/DockLens-app</link>
+      <guid isPermaLink="false">23ffea57b0b41e7c2c0b671dbe27fec27e5b2619:DockLens</guid>
+      <pubDate>Sat, 03 Oct 2026 02:27:18 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: DockLens
+Description: Dockのアイコンにポインタを置くと、そのアプリのすべてのウィンドウのライブサムネールを表示し、切り替え・閉じる・最小化ができるツール。
+Open Source: https://github.com/firstfu/DockLens-app
+Commit: Add DockLens to Window Management (#3132)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: DockLens<br/>Description: Dockのアイコンにポインタを置くと、そのアプリのすべてのウィンドウのライブサムネールを表示し、切り替え・閉じる・最小化ができるツール。<br/>Open Source: https://github.com/firstfu/DockLens-app<br/>Commit: Add DockLens to Window Management (#3132)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619]]></content:encoded>
+    </item>
     <item>
       <title>Runner</title>
       <link>https://github.com/yicheng47/runner</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/chesscafe
 Commit: Add ChessCafe to Gaming Software (#2700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
       <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: ChessCafe<br/>Description: 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
-    </item>
-    <item>
-      <title>LocalScribe</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">69118783de248fd090364ca88ff2cf9a8c9cf9e9:LocalScribe</guid>
-      <pubDate>Sun, 30 Aug 2026 09:10:57 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: LocalScribe
-Description: マイク、メディアファイル、Macのシステム音声に対応するオープンソースのローカル文字起こし・字幕編集アプリ。
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Rename ShengJi listing to LocalScribe (#2590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: LocalScribe<br/>Description: マイク、メディアファイル、Macのシステム音声に対応するオープンソースのローカル文字起こし・字幕編集アプリ。<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
     </item>
   </channel>
 </rss>

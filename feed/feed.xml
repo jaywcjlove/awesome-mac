@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DockLens</title>
+      <link>https://github.com/firstfu/DockLens-app</link>
+      <guid isPermaLink="false">23ffea57b0b41e7c2c0b671dbe27fec27e5b2619:DockLens</guid>
+      <pubDate>Sat, 03 Oct 2026 02:27:18 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: DockLens
+Description: Hover a Dock icon to see live thumbnails of all that app&apos;s windows, then switch, close or minimize them.
+Open Source: https://github.com/firstfu/DockLens-app
+Commit: Add DockLens to Window Management (#3132)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: DockLens<br/>Description: Hover a Dock icon to see live thumbnails of all that app&apos;s windows, then switch, close or minimize them.<br/>Open Source: https://github.com/firstfu/DockLens-app<br/>Commit: Add DockLens to Window Management (#3132)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619]]></content:encoded>
+    </item>
     <item>
       <title>Runner</title>
       <link>https://github.com/yicheng47/runner</link>
@@ -693,20 +707,6 @@ Website: https://getapps.cafe/app/chesscafe
 Commit: Add ChessCafe to Gaming Software (#2700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094</description>
       <content:encoded><![CDATA[Category: Gaming Software<br/>App: ChessCafe<br/>Description: Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.<br/>Website: https://getapps.cafe/app/chesscafe<br/>Commit: Add ChessCafe to Gaming Software (#2700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2c267f6d1415ed3a45efb146dd28620cfd7d2094]]></content:encoded>
-    </item>
-    <item>
-      <title>LocalScribe</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">69118783de248fd090364ca88ff2cf9a8c9cf9e9:LocalScribe</guid>
-      <pubDate>Sun, 30 Aug 2026 09:10:57 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: LocalScribe
-Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Rename ShengJi listing to LocalScribe (#2590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: LocalScribe<br/>Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Rename ShengJi listing to LocalScribe (#2590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/69118783de248fd090364ca88ff2cf9a8c9cf9e9]]></content:encoded>
     </item>
   </channel>
 </rss>
