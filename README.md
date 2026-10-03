@@ -1660,6 +1660,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [velcro](https://velcro.dgit.co) - Open-source menu bar app that keeps SMB and NFS network shares mounted, reconnecting them after sleep and network changes. [![Open-Source Software][OSS Icon]](https://github.com/dgitco/velcro) ![Freeware][Freeware Icon]
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## Gaming Software
