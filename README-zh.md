@@ -261,6 +261,7 @@ Awesome Mac
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder 中快速打开终端，定位到目录 [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 用于管理语言、数据库和服务的本地开发环境工具。 [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
+* [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) - 开源 FRP 跨平台桌面客户端，提供可视化的内网穿透与反向代理配置管理。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行。![Freeware][Freeware Icon]
 * [Gemini](https://macpaw.com/gemini) - 智能的重复文件查找器。
