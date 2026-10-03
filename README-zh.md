@@ -501,7 +501,7 @@ Awesome Mac
 * [XMind](http://www.xmind.net) - 一款实用的思维导图软件。
 * [Lighten](https://lighten-test.xmind.net) - XMind 出品的一款实用的思维导图软件。
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 一款实用的思维导图软件。
-* [Simple Diagrams](https://www.simplediagrams.com/) - 用于快速绘制手绘风格草图的图表工具。
+* [SimpleDiagrams](https://www.simplediagrams.com/) - 用于快速绘制手绘风格草图的图表工具。 ![Native App][Native Icon]
 * [Framer](https://framer.com/) - 做交互原型的工具。
 * [Marvel](https://marvelapp.com/) - 简单设计，原型设计和协作。![Freeware][Freeware Icon]
 * [MindNode](http://mindnode.com/) - 简洁的风格与人性化的操作，绘制思维脑图。
