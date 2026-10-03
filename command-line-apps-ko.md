@@ -133,6 +133,7 @@
 * [bash-it](https://github.com/Bash-it/bash-it) - 커뮤니티 기반의 bash 프레임워크.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - 구문 강조 및 Git 통합 기능이 있는 `cat(1)` 클론. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - 배터리 최대 충전량을 제한하는 macOS 명령줄 도구. [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
+* [Broza](https://borlafu.github.io/broza/) - APFS 저장 공간을 설명하고 개발 캐시, 스냅샷, 백업에서 공간을 회수하는 오픈 소스 디스크 정리 도구. 먼저 드라이 런으로 확인하고, 삭제한 항목은 복원 가능한 격리 영역으로 이동합니다. [![Open-Source Software][OSS Icon]](https://github.com/borlafu/broza) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 향수를 불러일으키는 빈티지 스타일의 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh)를 위한 GUI 클라이언트. 명령어를 사용하지 않고도 소프트웨어 설치, 확인, 제거 가능. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]

@@ -137,6 +137,7 @@ Awesome Command Line Apps
 * [bash-it](https://github.com/Bash-it/bash-it) - bash版のoh-my-zsh。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - シンタックスハイライトとGit統合を備えた`cat(1)`クローン。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - バッテリーの最大充電量を制限するmacOSコマンドラインユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
+* [Broza](https://borlafu.github.io/broza/) - APFSストレージの内訳を説明し、開発キャッシュ、スナップショット、バックアップから容量を回収するオープンソースのディスククリーンアップツール。まずドライランで確認し、削除したものは復元可能な隔離領域に移動。 [![Open-Source Software][OSS Icon]](https://github.com/borlafu/broza) ![Freeware][Freeware Icon]
 * [Clipport](https://github.com/arihantsethia/clipport) - MacのクリップボードテキストやスクリーンショットをリモートのiTerm SSHセッションへ貼り付け。 [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [ccat](https://github.com/jingweno/ccat) - catと同様に動作するが、シンタックスハイライト付きでコンテンツを表示するカラーリングcat。 [![Open-Source Software][OSS Icon]](https://github.com/jingweno/ccat) ![Freeware][Freeware Icon]
 * [ClamAV](https://www.clamav.net/) - クロスプラットフォームのオープンソースアンチウイルスエンジン。 [![OSS][OSS Icon]](https://github.com/Cisco-Talos/clamav/) ![Freeware][Freeware Icon]
