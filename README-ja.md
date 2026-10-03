@@ -859,6 +859,7 @@ Awesome Mac
 * [Loadout](https://loadout.migsilva.dev) - コーディングアシスタントが読み込む内容を確認・管理 — Claude Codeのスキル、サブエージェント、スラッシュコマンド、プラグイン、MCPサーバーを実際の使用回数付きで表示。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/loadout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Maestro](https://runmaestro.ai) - 仕様駆動ワークフローで複数のAIコーディングエージェントを連携させるツール。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 記憶機能と自動化機能を備えたローカルファーストの個人向けAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
+* [Octuo](https://www.tutuo.ai/en/octuo/) - AI・ツール・専門サービスをまたいで働くパーソナルアシスタント。接続・許可したツールやアカウントを連携させ、目標に沿って進捗を追跡し、結果をまとめる。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AIアシスタントをAppleアプリへ接続するMCPサーバー。
 * [Prevail](https://prevail.sh) - ローカルファーストのAIライフOS。生活ドメインごとに任意のモデルを実行し、データはMac上のプレーンMarkdownボールトに保存。署名・公証済み。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
