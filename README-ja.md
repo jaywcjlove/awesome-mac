@@ -1007,6 +1007,7 @@ Awesome Mac
 * [trax](https://github.com/nbonamy/trax) - 音声変換とタグ編集に対応した音楽ライブラリ管理ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - 名前の通り、小さなプレイヤー。 ![Freeware][Freeware Icon]
 * [Tuneful](https://www.tuneful.dev) - メニューバーやミニプレーヤーからSpotifyとApple Musicを操作するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
+* [Vespertine](https://szeremeta1.github.io/Vespertine/) - 曲ごとのネイティブフォーマットにDACを切り替え、DSD、Dolby Atmos、DTSの再生と偽ハイレゾ検出に対応したオープンソースのビットパーフェクト音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/szeremeta1/Vespertine) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [VLC](http://www.videolan.org/index.html) - 多くの音声・動画・ストリーミング形式を再生できるオープンソースプレーヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - MacとiPhone用の高精細オーディオプレイヤー。音楽がもっと良く聴こえる！ ![Freeware][Freeware Icon]
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - 複数のフォーマットと正確なトリミングをサポートするシンプルなビデオクロップツール。
