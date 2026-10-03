@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:37:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Liftoff</title>
+      <link>https://github.com/firstfu/Liftoff</link>
+      <guid isPermaLink="false">7b84d6a4f11737d31c2cf76cbda71a0df016fd3c:Liftoff</guid>
+      <pubDate>Sat, 03 Oct 2026 17:37:29 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Liftoff
+Description: ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。
+Open Source: https://github.com/firstfu/Liftoff
+Commit: Add Liftoff (#3131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Liftoff<br/>Description: ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
+    </item>
     <item>
       <title>Classic Game Box</title>
       <link>https://github.com/lazyfury/classic-game-box</link>
@@ -693,20 +707,6 @@ Website: https://tomatino.app
 Commit: Add Tomatino to Menu Bar Tools (#2684)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Tomatino<br/>Description: メニューバーのポモドーロタイマー。セッションを開始すると集中モードをオンにして音楽を再生し、休憩で両方をオフに戻す。<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Novel Writer</title>
-      <link>https://github.com/EthanYoQ/AI-Novel-Writer</link>
-      <guid isPermaLink="false">9f2056f433190534764753ee32960ee40c922abc:AI Novel Writer</guid>
-      <pubDate>Wed, 02 Sep 2026 01:41:04 GMT</pubDate>
-      <category>読み書きツール / ライティング</category>
-      <description>Category: 読み書きツール / ライティング
-App: AI Novel Writer
-Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。
-Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
-Commit: Add AI Novel Writer to Writing (#2732)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: AI Novel Writer<br/>Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
     </item>
   </channel>
 </rss>

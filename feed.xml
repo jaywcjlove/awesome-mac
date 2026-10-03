@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:37:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Liftoff</title>
+      <link>https://github.com/firstfu/Liftoff</link>
+      <guid isPermaLink="false">7b84d6a4f11737d31c2cf76cbda71a0df016fd3c:Liftoff</guid>
+      <pubDate>Sat, 03 Oct 2026 17:37:29 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Liftoff
+Description: Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing.
+Open Source: https://github.com/firstfu/Liftoff
+Commit: Add Liftoff (#3131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Liftoff<br/>Description: Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing.<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
+    </item>
     <item>
       <title>Classic Game Box</title>
       <link>https://github.com/lazyfury/classic-game-box</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/EthanYoQ/AI-Novel-Writer
 Commit: Add AI Novel Writer to Writing (#2732)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: AI Novel Writer<br/>Description: Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project.<br/>Open Source: https://github.com/EthanYoQ/AI-Novel-Writer<br/>Commit: Add AI Novel Writer to Writing (#2732)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f2056f433190534764753ee32960ee40c922abc]]></content:encoded>
-    </item>
-    <item>
-      <title>Whisk</title>
-      <link>https://github.com/nathan-poncet/whisk</link>
-      <guid isPermaLink="false">010f11a930472cfea46fd2bfac3abcdd23241cc7:Whisk</guid>
-      <pubDate>Wed, 02 Sep 2026 00:49:19 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Whisk
-Description: Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.
-Open Source: https://github.com/nathan-poncet/whisk
-Commit: Add Whisk (#2729)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Whisk<br/>Description: Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
     </item>
   </channel>
 </rss>
