@@ -752,6 +752,7 @@ Awesome Mac
 
 ### 파일 공유
 
+* [Bucketree](https://bucketree.app/download/) - 파일과 버킷부터 애플리케이션 키까지 Backblaze B2 계정 전체를 관리하는 클라이언트.
 * [Cyberduck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 등을 지원하는 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/iterate-ch/cyberduck) ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 스크린샷, 화면 녹화, 기타 파일을 공유하는 도구.
 * [LocalSend](https://localsend.org/) - AirDrop의 오픈 소스 크로스 플랫폼 대안. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
