@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 02:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:26:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Frpc-Desktop</title>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <guid isPermaLink="false">b2f1ceb7ab36179a146f71301df5b32fb5de3f72:Frpc-Desktop</guid>
+      <pubDate>Sat, 03 Oct 2026 04:26:09 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Frpc-Desktop
+Description: 开源 FRP 跨平台桌面客户端，提供可视化的内网穿透与反向代理配置管理。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)
+Open Source: https://github.com/luckjiawei/frpc-desktop
+Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Frpc-Desktop<br/>Description: 开源 FRP 跨平台桌面客户端，提供可视化的内网穿透与反向代理配置管理。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)<br/>Open Source: https://github.com/luckjiawei/frpc-desktop<br/>Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72]]></content:encoded>
+    </item>
     <item>
       <title>DockLens</title>
       <link>https://github.com/firstfu/DockLens-app</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/nathan-poncet/whisk
 Commit: Add Whisk (#2729)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Whisk<br/>Description: 键盘优先的剪贴板管理工具，Liquid Glass 面板，支持按来源应用和内容类型筛选，并提供丰富预览。<br/>Open Source: https://github.com/nathan-poncet/whisk<br/>Commit: Add Whisk (#2729)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/010f11a930472cfea46fd2bfac3abcdd23241cc7]]></content:encoded>
-    </item>
-    <item>
-      <title>Blink</title>
-      <link>https://github.com/megootronic/Blink</link>
-      <guid isPermaLink="false">ea52d9e1cbdd4fdb8ebb215207d869338b28fea1:Blink</guid>
-      <pubDate>Tue, 01 Sep 2026 01:58:20 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Blink
-Description: 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。
-Open Source: https://github.com/megootronic/Blink
-Commit: Add Blink to Menu Bar Tools (#2726)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Blink<br/>Description: 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。<br/>Open Source: https://github.com/megootronic/Blink<br/>Commit: Add Blink to Menu Bar Tools (#2726)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea52d9e1cbdd4fdb8ebb215207d869338b28fea1]]></content:encoded>
     </item>
   </channel>
 </rss>
