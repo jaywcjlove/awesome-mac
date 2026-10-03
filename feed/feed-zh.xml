@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:37:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Liftoff</title>
+      <link>https://github.com/firstfu/Liftoff</link>
+      <guid isPermaLink="false">7b84d6a4f11737d31c2cf76cbda71a0df016fd3c:Liftoff</guid>
+      <pubDate>Sat, 03 Oct 2026 17:37:29 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Liftoff
+Description: 开源的 Launchpad 替代品，支持窗口实时预览、窗口标题搜索和一键整理文件夹。
+Open Source: https://github.com/firstfu/Liftoff
+Commit: Add Liftoff (#3131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Liftoff<br/>Description: 开源的 Launchpad 替代品，支持窗口实时预览、窗口标题搜索和一键整理文件夹。<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
+    </item>
     <item>
       <title>Classic Game Box</title>
       <link>https://github.com/lazyfury/classic-game-box</link>
@@ -693,20 +707,6 @@ Website: https://getopenclip.app
 Commit: Add OpenClip to Productivity (#2627)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenClip<br/>Description: 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
-    </item>
-    <item>
-      <title>Tomatino</title>
-      <link>https://tomatino.app</link>
-      <guid isPermaLink="false">214d12a83606e7a444e13d8e09d109b2320d98a7:Tomatino</guid>
-      <pubDate>Wed, 02 Sep 2026 01:48:36 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Tomatino
-Description: 菜单栏番茄钟，开始专注时自动开启专注模式并播放音乐，休息时自动关闭。[![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino)
-Website: https://tomatino.app
-Commit: Add Tomatino to Menu Bar Tools (#2684)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Tomatino<br/>Description: 菜单栏番茄钟，开始专注时自动开启专注模式并播放音乐，休息时自动关闭。[![Open-Source Software][OSS Icon]](https://github.com/missaq/tomatino)<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
     </item>
   </channel>
 </rss>
