@@ -1867,6 +1867,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SaneClick](https://saneclick.com) - Finder extension that adds right-click actions for file tasks, conversion, and developer tools. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - RWaterfall-style Image Viewer for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
+* [Folia Files](https://foliafiles.com/) - File manager with side-by-side panes, search inside files, and servers and clouds mounted as disks.
 * [ForkLift](https://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 * [Path Finder](https://www.cocoatech.com/) - File management app.
 * [PC Mode](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]

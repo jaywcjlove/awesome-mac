@@ -1816,6 +1816,7 @@ Awesome Mac
 * [neatly](https://alpozaydin.github.io/neatly/) - AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。 [![Open-Source Software][OSS Icon]](https://github.com/alpozaydin/neatly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FinderRight](https://github.com/funny-dog/FinderRight) - 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
+* [Folia Files](https://foliafiles.com/) - 支持并排面板、文件内容搜索，并可将服务器和云盘挂载为磁盘的文件管理器。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
 * [FlowVision](https://flowvision.app) - 瀑布流式图像与视频查看器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
