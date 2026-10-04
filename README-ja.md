@@ -1120,7 +1120,7 @@ Awesome Mac
 * [Mullvad Browser](https://mullvad.net/en/download/browser/) - フィンガープリント対策に重点を置いたプライバシーブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - SwiftUIで構築されたmacOS用のミニマルAIブラウザ。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 * [Vivaldi](https://vivaldi.com) - あなたが主導権を握るブラウザ。 ![Freeware][Freeware Icon]
-* [Yalqen](https://yalqen.com/) - 垂直タブとキーボード中心のコマンドバーを備えた、開発者向けのオープンソースChromiumベースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
+* [Yalqen](https://yalqen.com/) - 垂直タブ、キーボード中心のコマンドバー、組み込みの開発者ツール、広告とトラッカーのブロック機能を備えた、開発者向けのオープンソースChromiumブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
 * [Yandex](https://browser.yandex.com/) - Yandexによるコンピューター用の高速でセキュアなブラウザ。 ![Freeware][Freeware Icon]
 * [Zen](https://zen-browser.app/) - 美しくデザインされた、プライバシー重視で機能豊富なブラウザ ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
