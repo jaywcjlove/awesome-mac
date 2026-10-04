@@ -1630,6 +1630,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Mac battery information and statistics.
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - Screen activity timeline with AI support. [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - Lock the macOS Dock to a single screen in a multi-monitor setup. [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
+* [DotQuit](https://github.com/mehmettalhairmak/dotquit) - Lightweight utility written in Swift that automatically quits apps when their last window is closed. [![Open-Source Software][OSS Icon]](https://github.com/mehmettalhairmak/dotquit) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - Fast file search using Spotlight. [![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
 * [ExtendFS](https://apps.kpchew.com/extendfs/) - Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension. [![Open-Source Software][OSS Icon]](https://github.com/kthchew/ExtendFS) [![App Store][app-store Icon]](https://apps.apple.com/us/app/mount-ext4-drives-extendfs/id6755664332?platform=mac)
 * [gfxCardStatus](https://gfx.io/) - Monitor graphics card usage and battery impact. ![Freeware][Freeware Icon]
