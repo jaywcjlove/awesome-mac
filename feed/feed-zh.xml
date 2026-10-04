@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:30:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DataNexa</title>
+      <link>https://mingozacwu.github.io/datanexa-site/</link>
+      <guid isPermaLink="false">465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b:DataNexa</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:12 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: DataNexa
+Description: 开源的桌面端数据库 MCP 网关，把多种数据库聚合为一个具备只读防护且可审计的入口，供 AI Agent 访问。
+Website: https://mingozacwu.github.io/datanexa-site/
+Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: DataNexa<br/>Description: 开源的桌面端数据库 MCP 网关，把多种数据库聚合为一个具备只读防护且可审计的入口，供 AI Agent 访问。<br/>Website: https://mingozacwu.github.io/datanexa-site/<br/>Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b]]></content:encoded>
+    </item>
     <item>
       <title>MacDirStat</title>
       <link>https://github.com/phalladar/MacDirStat</link>
@@ -693,20 +707,6 @@ Website: https://wokabulary.com/
 Commit: Sync Education section to zh/ja/ko READMEs (#2781)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217</description>
       <content:encoded><![CDATA[Category: 教育<br/>App: Wokabulary<br/>Description: 收集、练习和整理个人外语词汇。<br/>Website: https://wokabulary.com/<br/>Commit: Sync Education section to zh/ja/ko READMEs (#2781)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217]]></content:encoded>
-    </item>
-    <item>
-      <title>Lyrimuse</title>
-      <link>https://github.com/Yudaotor/lyrimuse</link>
-      <guid isPermaLink="false">4b9365697f016cada10230dc14dcf1a2b7e01657:Lyrimuse</guid>
-      <pubDate>Mon, 07 Sep 2026 04:14:59 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Lyrimuse
-Description: 逐字同步的桌面歌词，支持 Apple Music、Spotify、QQ 音乐、网易云音乐、酷狗及浏览器里的 YouTube Music / Spotify 网页版。
-Open Source: https://github.com/Yudaotor/lyrimuse
-Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Lyrimuse<br/>Description: 逐字同步的桌面歌词，支持 Apple Music、Spotify、QQ 音乐、网易云音乐、酷狗及浏览器里的 YouTube Music / Spotify 网页版。<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
     </item>
   </channel>
 </rss>
