@@ -462,6 +462,7 @@ Awesome Mac
 * [Paw](https://paw.cloud/) - 고급 HTTP 클라이언트.
 * [Postman](https://www.getpostman.com) - API 개발 플랫폼. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - 차세대 API 개발 도구. ![Freeware][Freeware Icon]
+* [Retriever](https://fetchretriever.app) - 컬렉션, 환경, 코드 생성을 지원하는 무료 네이티브 API 클라이언트. ![Freeware][Freeware Icon]
 * [Yaak](https://yaak.app) - 현대적인 API 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 
 ### 네트워크 분석

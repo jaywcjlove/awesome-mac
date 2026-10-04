@@ -511,6 +511,7 @@ Awesome Mac
 * [Reqable](https://reqable.com) - 次世代API開発ツール、高度なAPIデバッグプロキシおよびRESTクライアント。 ![Freeware][Freeware Icon]
 * [ReqRes](https://reqresapp.com/) - HTTP(S)リクエストとレスポンスの監視、デバッグ、モックを行うネイティブmacOSアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OloApps/ReqRes)
 * [Requestly](https://requestly.io) - モダンな開発者向けに構築された、オープンソースで軽量なGitフレンドリーAPIクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/requestly/requestly) ![Freeware][Freeware Icon]
+* [Retriever](https://fetchretriever.app) - コレクション、環境、コード生成に対応した無料のネイティブAPIクライアント。データはプレーンJSONで保存。 ![Freeware][Freeware Icon]
 * [Trayce](https://trayce.dev) - 内蔵の.bru HTTPクライアントを備えた、Dockerコンテナトラフィック監視用の軽量ツール。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/evanrolfe/trayce_gui)
 * [Yaak](https://yaak.app) - 複数プロトコル、オフライン使用、Git統合をサポートするモダンなAPIクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 

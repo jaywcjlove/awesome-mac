@@ -330,6 +330,7 @@ Awesome Mac
 * [Postman](https://www.getpostman.com) - Postman 帮助我们快速测试 API。![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - 新一代 API 开发工具，先进的 API 调试代理和 REST 客户端。 ![Freeware][Freeware Icon]
 * [ReqRes](https://reqresapp.com/) - 用于监视、调试和模拟 HTTP(S) 请求和响应的原生 macOS 应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OloApps/ReqRes)
+* [Retriever](https://fetchretriever.app) - 免费的原生 API 客户端，支持集合、环境和代码生成，数据以纯 JSON 保存。![Freeware][Freeware Icon]
 * [Trayce](https://trayce.dev) - 可监控 Docker 容器流量并内置 .bru HTTP 客户端。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/evanrolfe/trayce_gui)
 * [Yaak](https://yaak.app) - 支持多种协议、离线可用、兼容 Git 的现代化 API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
 
