@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:30:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DataNexa</title>
+      <link>https://mingozacwu.github.io/datanexa-site/</link>
+      <guid isPermaLink="false">465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b:DataNexa</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:12 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: DataNexa
+Description: 複数のデータベースを、読み取り専用保護と監査を備えた単一のアクセスポイントに集約し、AIエージェントに提供するオープンソースのデスクトップ向けデータベースMCPゲートウェイ。
+Website: https://mingozacwu.github.io/datanexa-site/
+Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: DataNexa<br/>Description: 複数のデータベースを、読み取り専用保護と監査を備えた単一のアクセスポイントに集約し、AIエージェントに提供するオープンソースのデスクトップ向けデータベースMCPゲートウェイ。<br/>Website: https://mingozacwu.github.io/datanexa-site/<br/>Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b]]></content:encoded>
+    </item>
     <item>
       <title>MacDirStat</title>
       <link>https://github.com/phalladar/MacDirStat</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Yudaotor/lyrimuse
 Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Lyrimuse<br/>Description: Apple Music、Spotify、QQ Music、NetEase Cloud Music、Kugou、ブラウザ内の YouTube Music / Spotify Web に対応した単語単位同期のデスクトップ歌詞。<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenClip</title>
-      <link>https://getopenclip.app</link>
-      <guid isPermaLink="false">e53096185089a63bf1b23041c9fb2a60f679c4bc:OpenClip</guid>
-      <pubDate>Sat, 05 Sep 2026 08:48:01 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: OpenClip
-Description: 選択したテキストから即座にアクションを実行できる、macOS向けの軽量フローティングアクションバー。
-Website: https://getopenclip.app
-Commit: Add OpenClip to Productivity (#2627)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: OpenClip<br/>Description: 選択したテキストから即座にアクションを実行できる、macOS向けの軽量フローティングアクションバー。<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
     </item>
   </channel>
 </rss>

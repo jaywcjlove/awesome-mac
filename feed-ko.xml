@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:30:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DataNexa</title>
+      <link>https://mingozacwu.github.io/datanexa-site/</link>
+      <guid isPermaLink="false">465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b:DataNexa</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:12 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: DataNexa
+Description: 여러 데이터베이스를 읽기 전용 보호와 감사를 갖춘 단일 접근 지점으로 통합하여 AI 에이전트에게 제공하는 오픈소스 데스크톱용 데이터베이스 MCP 게이트웨이.
+Website: https://mingozacwu.github.io/datanexa-site/
+Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: DataNexa<br/>Description: 여러 데이터베이스를 읽기 전용 보호와 감사를 갖춘 단일 접근 지점으로 통합하여 AI 에이전트에게 제공하는 오픈소스 데스크톱용 데이터베이스 MCP 게이트웨이.<br/>Website: https://mingozacwu.github.io/datanexa-site/<br/>Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b]]></content:encoded>
+    </item>
     <item>
       <title>MacDirStat</title>
       <link>https://github.com/phalladar/MacDirStat</link>
@@ -693,20 +707,6 @@ Website: https://leafyapp.uk/
 Commit: Sync Education section to zh/ja/ko READMEs (#2781)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217</description>
       <content:encoded><![CDATA[Category: 교육<br/>App: Leafy<br/>Description: ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장.<br/>Website: https://leafyapp.uk/<br/>Commit: Sync Education section to zh/ja/ko READMEs (#2781)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217]]></content:encoded>
-    </item>
-    <item>
-      <title>Lyrimuse</title>
-      <link>https://github.com/Yudaotor/lyrimuse</link>
-      <guid isPermaLink="false">4b9365697f016cada10230dc14dcf1a2b7e01657:Lyrimuse</guid>
-      <pubDate>Mon, 07 Sep 2026 04:14:59 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Lyrimuse
-Description: Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou 및 브라우저의 YouTube Music / Spotify Web을 지원하는 단어 단위 동기화 데스크톱 가사.
-Open Source: https://github.com/Yudaotor/lyrimuse
-Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Lyrimuse<br/>Description: Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou 및 브라우저의 YouTube Music / Spotify Web을 지원하는 단어 단위 동기화 데스크톱 가사.<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
     </item>
   </channel>
 </rss>

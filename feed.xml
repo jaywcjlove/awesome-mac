@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:30:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DataNexa</title>
+      <link>https://mingozacwu.github.io/datanexa-site/</link>
+      <guid isPermaLink="false">465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b:DataNexa</guid>
+      <pubDate>Sun, 04 Oct 2026 07:30:12 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: DataNexa
+Description: Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.
+Website: https://mingozacwu.github.io/datanexa-site/
+Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: DataNexa<br/>Description: Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.<br/>Website: https://mingozacwu.github.io/datanexa-site/<br/>Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b]]></content:encoded>
+    </item>
     <item>
       <title>MacDirStat</title>
       <link>https://github.com/phalladar/MacDirStat</link>
@@ -693,20 +707,6 @@ Website: https://getopenclip.app
 Commit: Add OpenClip to Productivity (#2627)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: OpenClip<br/>Description: Lightweight floating action bar for macOS that turns selected text into instant actions.<br/>Website: https://getopenclip.app<br/>Commit: Add OpenClip to Productivity (#2627)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e53096185089a63bf1b23041c9fb2a60f679c4bc]]></content:encoded>
-    </item>
-    <item>
-      <title>Tomatino</title>
-      <link>https://tomatino.app</link>
-      <guid isPermaLink="false">214d12a83606e7a444e13d8e09d109b2320d98a7:Tomatino</guid>
-      <pubDate>Wed, 02 Sep 2026 01:48:36 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Tomatino
-Description: Menu bar Pomodoro timer that switches your Focus mode and your music with each session.
-Website: https://tomatino.app
-Commit: Add Tomatino to Menu Bar Tools (#2684)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tomatino<br/>Description: Menu bar Pomodoro timer that switches your Focus mode and your music with each session.<br/>Website: https://tomatino.app<br/>Commit: Add Tomatino to Menu Bar Tools (#2684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d12a83606e7a444e13d8e09d109b2320d98a7]]></content:encoded>
     </item>
   </channel>
 </rss>
