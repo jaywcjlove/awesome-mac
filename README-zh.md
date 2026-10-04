@@ -1464,6 +1464,7 @@ Awesome Mac
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
+* [WheelClick](https://wheelclick.app) - 为触控板和妙控鼠标提供中键点击，三指按压和轻点永久免费。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/wheelclick-middle-click/id6793554096?platform=mac)
 
 ### 窗口管理
 
