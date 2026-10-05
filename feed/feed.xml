@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:34:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rapid Reader</title>
+      <link>https://github.com/Zer0codestuff/Rapid-Reader</link>
+      <guid isPermaLink="false">214d19fdcc23cd42fb7cf93f9825f7e79a8848e1:Rapid Reader</guid>
+      <pubDate>Mon, 05 Oct 2026 01:34:40 GMT</pubDate>
+      <category>Reading and Writing Tools / Ebooks</category>
+      <description>Category: Reading and Writing Tools / Ebooks
+App: Rapid Reader
+Description: Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view.
+Open Source: https://github.com/Zer0codestuff/Rapid-Reader
+Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Ebooks<br/>App: Rapid Reader<br/>Description: Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view.<br/>Open Source: https://github.com/Zer0codestuff/Rapid-Reader<br/>Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1]]></content:encoded>
+    </item>
     <item>
       <title>OpenNaga</title>
       <link>https://github.com/Zer0codestuff/OpenNaga</link>
@@ -693,20 +707,6 @@ Website: https://pelmet.fif7y.com
 Commit: Add Pelmet to Menu Bar Tools (#2776)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Pelmet<br/>Description: Menu bar manager built for macOS 27&apos;s rebuilt menu bar. Hides the icons you don&apos;t need until you do.<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Lyrimuse</title>
-      <link>https://github.com/Yudaotor/lyrimuse</link>
-      <guid isPermaLink="false">4b9365697f016cada10230dc14dcf1a2b7e01657:Lyrimuse</guid>
-      <pubDate>Mon, 07 Sep 2026 04:14:59 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Lyrimuse
-Description: Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.
-Open Source: https://github.com/Yudaotor/lyrimuse
-Commit: Add Lyrimuse to Music (all four READMEs) (#2772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Lyrimuse<br/>Description: Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.<br/>Open Source: https://github.com/Yudaotor/lyrimuse<br/>Commit: Add Lyrimuse to Music (all four READMEs) (#2772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9365697f016cada10230dc14dcf1a2b7e01657]]></content:encoded>
     </item>
   </channel>
 </rss>

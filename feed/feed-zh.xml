@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:34:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rapid Reader</title>
+      <link>https://github.com/Zer0codestuff/Rapid-Reader</link>
+      <guid isPermaLink="false">214d19fdcc23cd42fb7cf93f9825f7e79a8848e1:Rapid Reader</guid>
+      <pubDate>Mon, 05 Oct 2026 01:34:40 GMT</pubDate>
+      <category>电子书</category>
+      <description>Category: 电子书
+App: Rapid Reader
+Description: 开源 RSVP 快速阅读器，支持 EPUB、PDF 和网页文章，并提供全文视图。
+Open Source: https://github.com/Zer0codestuff/Rapid-Reader
+Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1</description>
+      <content:encoded><![CDATA[Category: 电子书<br/>App: Rapid Reader<br/>Description: 开源 RSVP 快速阅读器，支持 EPUB、PDF 和网页文章，并提供全文视图。<br/>Open Source: https://github.com/Zer0codestuff/Rapid-Reader<br/>Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1]]></content:encoded>
+    </item>
     <item>
       <title>OpenNaga</title>
       <link>https://github.com/Zer0codestuff/OpenNaga</link>
@@ -693,20 +707,6 @@ Website: https://pelmet.fif7y.com
 Commit: Add Pelmet to Menu Bar Tools (#2776)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Pelmet<br/>Description: 为 macOS 27 全新菜单栏打造的菜单栏管理工具，隐藏不需要的图标，需要时再显示。<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Leafy</title>
-      <link>https://leafyapp.uk/</link>
-      <guid isPermaLink="false">26a93f5a284c65acfbdc771df775485b93e67217:Leafy</guid>
-      <pubDate>Mon, 07 Sep 2026 09:22:24 GMT</pubDate>
-      <category>教育</category>
-      <description>Category: 教育
-App: Leafy
-Description: 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。
-Website: https://leafyapp.uk/
-Commit: Sync Education section to zh/ja/ko READMEs (#2781)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217</description>
-      <content:encoded><![CDATA[Category: 教育<br/>App: Leafy<br/>Description: 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。<br/>Website: https://leafyapp.uk/<br/>Commit: Sync Education section to zh/ja/ko READMEs (#2781)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a93f5a284c65acfbdc771df775485b93e67217]]></content:encoded>
     </item>
   </channel>
 </rss>
