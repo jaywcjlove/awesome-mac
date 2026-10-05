@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:43:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MAC-LIMPO</title>
+      <link>https://alexkads.github.io/MAC-LIMPO/</link>
+      <guid isPermaLink="false">140cc996fa3d3b6503d39760e836f034ee34d08b:MAC-LIMPO</guid>
+      <pubDate>Mon, 05 Oct 2026 23:43:35 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: MAC-LIMPO
+Description: Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.
+Website: https://alexkads.github.io/MAC-LIMPO/
+Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MAC-LIMPO<br/>Description: Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.<br/>Website: https://alexkads.github.io/MAC-LIMPO/<br/>Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b]]></content:encoded>
+    </item>
     <item>
       <title>WhisperDrop 2</title>
       <link>https://github.com/Zer0codestuff/whisperdrop-2</link>
@@ -693,20 +707,6 @@ Website: https://calmmouse.malikzhang.com/
 Commit: Add CalmMouse to Productivity (#2805)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: CalmMouse<br/>Description: Stop the Magic Mouse scrolling the page every time you click.<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
-    </item>
-    <item>
-      <title>Keelhaven</title>
-      <link>https://keelhaven.app</link>
-      <guid isPermaLink="false">f6e5b5a350c81f18b7953341e7febe0d1da5f3fe:Keelhaven</guid>
-      <pubDate>Tue, 08 Sep 2026 12:45:15 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Keelhaven
-Description: Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server.
-Website: https://keelhaven.app
-Commit: Add Keelhaven to Menu Bar Tools (#2795)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Keelhaven<br/>Description: Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server.<br/>Website: https://keelhaven.app<br/>Commit: Add Keelhaven to Menu Bar Tools (#2795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe]]></content:encoded>
     </item>
   </channel>
 </rss>
