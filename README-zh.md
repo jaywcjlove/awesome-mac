@@ -1097,6 +1097,7 @@ Awesome Mac
 ## 教育
 
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
+* [StudyDaily](https://www.studydaily.app/en) - 离线闪卡应用，采用 FSRS-6 间隔重复，可导入 Anki 牌组及其复习记录。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6799936066?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 金融
