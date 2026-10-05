@@ -1146,6 +1146,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
+* [Elmren Voice](https://elmren.com) - Fully offline text-to-speech for families: clone your own voice locally, turn PDF/EPUB/DOCX into read-along players with word-level highlighting, and export MP4/M4B audiobooks.
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
