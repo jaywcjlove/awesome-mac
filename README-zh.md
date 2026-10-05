@@ -1236,6 +1236,7 @@ Awesome Mac
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
 * [OpenClip](https://getopenclip.app) - 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。 [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
 * [OpenDisplay](https://opendisplay.app) - 把闲置的 iPhone 或 iPad 变成 Mac 的第二块屏幕，支持 USB 有线与 WiFi 无线连接，以及触控输入。 [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
+* [Parallex](https://parallex.mandip.dev/) - 同时运行同一个 Mac 应用的多个独立副本，每个副本拥有自己的账号、数据和程序坞图标。 ![Native App][Native Icon]
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - 面向 Razer Naga V2 HyperSpeed 的开源 Razer Synapse 替代工具，可重新映射侧键并设置 DPI 和回报率。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [Qbserve](https://qotoqot.com/qbserve/) - 自动追踪时间，并提供项目、工时和效率统计。
 * [Rapidmg](https://rapidmg.branchseer.com/) - 一键解压 DMG 镜像里的 app 至 “应用程序” 目录。[![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778?platform=mac)
