@@ -1216,6 +1216,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tunnelbear](https://www.tunnelbear.com) - Simple VPN service for secure browsing and location switching. ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+* [VPNonly](https://github.com/kanishkdan/vpnonly) - Open-source CLI that routes only the apps you choose through a WireGuard VPN, leaving everything else on your normal connection. [![Open-Source Software][OSS Icon]](https://github.com/kanishkdan/vpnonly) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - VPN and proxy service with ad blocking and flexible server switching. ![Freeware][Freeware Icon]
 * [Tailscale](https://tailscale.com/) - Mesh VPN for securely connecting devices, services, and users. ![Freeware][Freeware Icon]
 

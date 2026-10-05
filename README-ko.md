@@ -930,6 +930,7 @@ Awesome Mac
 * [Windscribe](https://windscribe.com) - 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스. ![Freeware][Freeware Icon]
 * [Tailscale](https://tailscale.com/) - 기기, 서비스, 사용자를 안전하게 연결하는 메시 VPN. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 특정 도메인과 서비스를 VPN 우회 경로로 보낼 수 있는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+* [VPNonly](https://github.com/kanishkdan/vpnonly) - 선택한 앱만 WireGuard VPN으로 보내고 나머지는 기존 연결을 유지하는 오픈 소스 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/kanishkdan/vpnonly) ![Freeware][Freeware Icon]
 
 ## 유틸리티
 

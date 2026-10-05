@@ -1166,6 +1166,7 @@ Awesome Mac
 * [Tunnelbear](https://www.tunnelbear.com) - 用于安全上网和切换地区的简洁 VPN 服务。 ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN 的免费软件。![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 可按域名和服务将流量绕过 VPN 路由的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+* [VPNonly](https://github.com/kanishkdan/vpnonly) - 仅让选定应用走 WireGuard VPN、其余应用保持原有连接的开源命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/kanishkdan/vpnonly) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 提供广告拦截和节点切换的 VPN 与代理服务。 ![Freeware][Freeware Icon]
 
 ## 其它实用工具
