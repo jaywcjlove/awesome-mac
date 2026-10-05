@@ -1147,6 +1147,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Education
 
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
+* [StudyDaily](https://www.studydaily.app/en) - Offline flashcards with FSRS-6 spaced repetition that import Anki decks with their review history. [![App Store][app-store Icon]](https://apps.apple.com/app/id6799936066?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
