@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:43:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MAC-LIMPO</title>
+      <link>https://alexkads.github.io/MAC-LIMPO/</link>
+      <guid isPermaLink="false">140cc996fa3d3b6503d39760e836f034ee34d08b:MAC-LIMPO</guid>
+      <pubDate>Mon, 05 Oct 2026 23:43:35 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: MAC-LIMPO
+Description: Xcode, Docker, 시뮬레이터, node_modules 등 개발자 캐시를 정리하는 메뉴 막대 앱으로, 2D/3D 트리맵으로 디스크 사용량을 보여 줍니다.
+Website: https://alexkads.github.io/MAC-LIMPO/
+Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MAC-LIMPO<br/>Description: Xcode, Docker, 시뮬레이터, node_modules 등 개발자 캐시를 정리하는 메뉴 막대 앱으로, 2D/3D 트리맵으로 디스크 사용량을 보여 줍니다.<br/>Website: https://alexkads.github.io/MAC-LIMPO/<br/>Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b]]></content:encoded>
+    </item>
     <item>
       <title>WhisperDrop 2</title>
       <link>https://github.com/Zer0codestuff/whisperdrop-2</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dalirnet/mactokio
 Commit: Add Mactokio to Password Management (#2821)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 비밀번호 관리<br/>App: Mactokio<br/>Description: 웹캠으로 QR 코드를 스캔해 계정을 가져오고 시크릿을 AES-256으로 기기에 암호화 저장하는 네이티브 TOTP/HOTP 인증 앱.<br/>Open Source: https://github.com/dalirnet/mactokio<br/>Commit: Add Mactokio to Password Management (#2821)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e]]></content:encoded>
-    </item>
-    <item>
-      <title>CalmMouse</title>
-      <link>https://calmmouse.malikzhang.com/</link>
-      <guid isPermaLink="false">7ba1e0f8f71bb636e2a725ac122a48ded786bc64:CalmMouse</guid>
-      <pubDate>Wed, 09 Sep 2026 06:06:04 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: CalmMouse
-Description: 클릭할 때마다 페이지가 스크롤되는 Magic Mouse 동작을 막아주는 도구.
-Website: https://calmmouse.malikzhang.com/
-Commit: Add CalmMouse to Productivity (#2805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: CalmMouse<br/>Description: 클릭할 때마다 페이지가 스크롤되는 Magic Mouse 동작을 막아주는 도구.<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
     </item>
   </channel>
 </rss>
