@@ -939,6 +939,7 @@ Awesome Mac
 * [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613?platform=mac) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?platform=mac)
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
+* [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - 开源 RSVP 快速阅读器，支持 EPUB、PDF 和网页文章，并提供全文视图。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://readest.com) - 开源电子书阅读器，界面清爽并提供丰富阅读工具。 [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - 一款支持语义搜索、AI 问答和笔记管理的电子书阅读器。[![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
