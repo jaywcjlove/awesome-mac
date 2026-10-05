@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:34:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rapid Reader</title>
+      <link>https://github.com/Zer0codestuff/Rapid-Reader</link>
+      <guid isPermaLink="false">214d19fdcc23cd42fb7cf93f9825f7e79a8848e1:Rapid Reader</guid>
+      <pubDate>Mon, 05 Oct 2026 01:34:40 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 전자책</category>
+      <description>Category: 읽기 및 쓰기 도구 / 전자책
+App: Rapid Reader
+Description: EPUB, PDF, 웹 문서를 지원하고 전체 텍스트 보기를 제공하는 오픈 소스 RSVP 속독 리더.
+Open Source: https://github.com/Zer0codestuff/Rapid-Reader
+Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 전자책<br/>App: Rapid Reader<br/>Description: EPUB, PDF, 웹 문서를 지원하고 전체 텍스트 보기를 제공하는 오픈 소스 RSVP 속독 리더.<br/>Open Source: https://github.com/Zer0codestuff/Rapid-Reader<br/>Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1]]></content:encoded>
+    </item>
     <item>
       <title>OpenNaga</title>
       <link>https://github.com/Zer0codestuff/OpenNaga</link>
@@ -693,20 +707,6 @@ Website: https://keelhaven.app
 Commit: Add Keelhaven to Menu Bar Tools (#2795)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Keelhaven<br/>Description: 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱.<br/>Website: https://keelhaven.app<br/>Commit: Add Keelhaven to Menu Bar Tools (#2795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe]]></content:encoded>
-    </item>
-    <item>
-      <title>Pelmet</title>
-      <link>https://pelmet.fif7y.com</link>
-      <guid isPermaLink="false">507fa28dcc583ac092f5741170a5445f544c4d70:Pelmet</guid>
-      <pubDate>Mon, 07 Sep 2026 09:58:57 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Pelmet
-Description: macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다.
-Website: https://pelmet.fif7y.com
-Commit: Add Pelmet to Menu Bar Tools (#2776)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Pelmet<br/>Description: macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다.<br/>Website: https://pelmet.fif7y.com<br/>Commit: Add Pelmet to Menu Bar Tools (#2776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/507fa28dcc583ac092f5741170a5445f544c4d70]]></content:encoded>
     </item>
   </channel>
 </rss>
