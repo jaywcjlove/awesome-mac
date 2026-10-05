@@ -646,6 +646,7 @@ Awesome Mac
 * [Maestro](https://runmaestro.ai) - 采用规格驱动工作流的多 AI 编码代理协作工具。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 具备记忆和自动化能力的本地优先个人 AI 代理。 [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
+* [Octuo](https://www.tutuo.ai/en/octuo/) - 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
 * [Prevail](https://prevail.sh) - 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
