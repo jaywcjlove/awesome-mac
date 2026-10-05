@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:42:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WhisperDrop 2</title>
+      <link>https://github.com/Zer0codestuff/whisperdrop-2</link>
+      <guid isPermaLink="false">f79d0998004a74b3cd43d2a99c50f0e1f313c328:WhisperDrop 2</guid>
+      <pubDate>Mon, 05 Oct 2026 01:42:30 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: WhisperDrop 2
+Description: 오디오, 동영상, YouTube, 회의를 로컬에서 전사하고 다른 앱에 받아쓰기도 할 수 있는 오픈 소스 도구.
+Open Source: https://github.com/Zer0codestuff/whisperdrop-2
+Commit: Add WhisperDrop 2 to Voice-to-Text (EN/ZH/JA/KO) (#3157)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f79d0998004a74b3cd43d2a99c50f0e1f313c328</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: WhisperDrop 2<br/>Description: 오디오, 동영상, YouTube, 회의를 로컬에서 전사하고 다른 앱에 받아쓰기도 할 수 있는 오픈 소스 도구.<br/>Open Source: https://github.com/Zer0codestuff/whisperdrop-2<br/>Commit: Add WhisperDrop 2 to Voice-to-Text (EN/ZH/JA/KO) (#3157)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f79d0998004a74b3cd43d2a99c50f0e1f313c328]]></content:encoded>
+    </item>
     <item>
       <title>Rapid Reader</title>
       <link>https://github.com/Zer0codestuff/Rapid-Reader</link>
@@ -693,20 +707,6 @@ Website: https://calmmouse.malikzhang.com/
 Commit: Add CalmMouse to Productivity (#2805)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: CalmMouse<br/>Description: 클릭할 때마다 페이지가 스크롤되는 Magic Mouse 동작을 막아주는 도구.<br/>Website: https://calmmouse.malikzhang.com/<br/>Commit: Add CalmMouse to Productivity (#2805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ba1e0f8f71bb636e2a725ac122a48ded786bc64]]></content:encoded>
-    </item>
-    <item>
-      <title>Keelhaven</title>
-      <link>https://keelhaven.app</link>
-      <guid isPermaLink="false">f6e5b5a350c81f18b7953341e7febe0d1da5f3fe:Keelhaven</guid>
-      <pubDate>Tue, 08 Sep 2026 12:45:15 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Keelhaven
-Description: 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱.
-Website: https://keelhaven.app
-Commit: Add Keelhaven to Menu Bar Tools (#2795)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Keelhaven<br/>Description: 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱.<br/>Website: https://keelhaven.app<br/>Commit: Add Keelhaven to Menu Bar Tools (#2795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6e5b5a350c81f18b7953341e7febe0d1da5f3fe]]></content:encoded>
     </item>
   </channel>
 </rss>
