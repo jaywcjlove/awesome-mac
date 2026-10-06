@@ -1438,6 +1438,7 @@ Awesome Mac
 * [Nozbe](https://nozbe.com) - 個人とチーム向けの GTD タスクマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - OmniGroups製の優れたGTDアプリ。
 * [One Task](https://sindresorhus.com/one-task) - 一度に一つのタスクに集中。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322?platform=mac)
+* [Satori](https://satorigtd.app) - ターミナル風の見た目を持つ、オープンソースでキーボード中心の GTD タスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/emcee5000/satori) ![Freeware][Freeware Icon]
 * [Super Productivity](https://super-productivity.com) - タイムボクシングと時間追跡を備えたタスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - チーム向けリアルタイムコラボレーションエディター。
 * [TaskPaper](https://www.taskpaper.com/) - プレーンテキストベースのToDoリスト。
