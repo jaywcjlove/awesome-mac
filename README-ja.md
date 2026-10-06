@@ -1420,7 +1420,7 @@ Awesome Mac
 * [ActivityWatch](https://activitywatch.net/) - クロスプラットフォーム、拡張可能、プライバシー重視の時間追跡ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - 検索、起動、操作自動化をまとめたランチャー。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Atomic](https://indiegoodies.com/atomic) - 良い習慣を作り、悪い習慣を断ち、日々のルーティンを管理するための習慣トラッカーアプリ。
-* [Avendo](https://avendo-app.com/ja/?utm_source=awesome-mac&utm_medium=referral&utm_campaign=isc013) - 顧客、案件、入金、タスク、リマインダー、予約を一つにまとめた、フリーランスや小規模サービス事業者向けの業務アシスタント（無料プランはオフラインで動作し、アカウント不要）。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/avendo-desktop/id6782857894?mt=12)
+* [Avendo](https://avendo-app.com/ja/?utm_source=awesome-mac&utm_medium=referral&utm_campaign=isc013) - フリーランスや小規模サービス事業者向けのオフライン業務管理ツールで、顧客・案件・タスク・予約・支払状況を管理し、無料ローカルプランは顧客30件と進行中の案件50件まで、クラウド同期とWebアクセスは任意の有料機能。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/avendo-desktop/id6782857894?mt=12)
 * [Rustcast](https://rustcast.app) - モード切り替え、素早いアプリ起動、ファイル検索、クリップボード履歴管理などをまとめたワークフローツール。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - 高速検索に対応したカスタマイズ可能なランチャー。
 * [BetterMouse](https://better-mouse.com) - サードパーティ製マウスのスクロール、加速、ボタン、ジェスチャーを調整できるツール。
