@@ -683,6 +683,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.
 * [MakeHuman](https://www.makehumancommunity.org) - Powerful and free 3D human modeler. ![Freeware][Freeware Icon]
 * [Monodraw](https://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
+* [Negatives](https://giaggito.github.io/Negatives-Positives/) - Open-source tool that converts photographed or scanned film negatives into positives automatically. [![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](https://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
