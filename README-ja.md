@@ -1534,6 +1534,7 @@ Awesome Mac
 * [AltTab](https://alt-tab-macos.netlify.app) - ウィンドウプレビュー付きのオープンソースウィンドウスイッチャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/) - タイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * [Assignee](https://assignee.app) - シンプルで即座に切り替えられるアプリスイッチャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8&platform=mac)
+* [ChainYourMac](https://chainyourmac.com) - ウィンドウを横に無限に続くストリップへ並べるスクロール型ウィンドウマネージャー。niri と PaperWM にインスパイアされています。
 * [Convoker](https://github.com/varie-ai/convoker) - アプリ名を入力してエンターキーを押すだけで、そのアプリのすべてのウィンドウを呼び出せます。 [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - マルチディスプレイ環境でアプリやウィンドウを素早く切り替えるツール。
 * [Dimsum](https://github.com/nshi/dimsum) - 非アクティブなウィンドウを暗くしてフォーカス中のウィンドウを際立たせる、ミニマルなメニューバーユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
