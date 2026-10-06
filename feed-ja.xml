@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:07:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sonar</title>
+      <link>https://github.com/can4hou6joeng4/Sonar</link>
+      <guid isPermaLink="false">3b88b72185d26c383965b9b7e870543fe56011ce:Sonar</guid>
+      <pubDate>Tue, 06 Oct 2026 09:07:25 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Sonar
+Description: 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。
+Open Source: https://github.com/can4hou6joeng4/Sonar
+Commit: Add Sonar (#3181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Sonar<br/>Description: 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。<br/>Open Source: https://github.com/can4hou6joeng4/Sonar<br/>Commit: Add Sonar (#3181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce]]></content:encoded>
+    </item>
     <item>
       <title>ThinkWatch Lite</title>
       <link>https://thinkwat.ch/lite/</link>
@@ -693,20 +707,6 @@ Website: https://candela.fyi
 Commit: Add Candela to Menu Bar Tools (#2743)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Candela<br/>Description: 外部ディスプレイをいたわるメニューバーアプリ。OLED焼き付き防止、パネルの使用履歴、そして輝度・音量・コントラストの日常操作。<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
-    </item>
-    <item>
-      <title>Mactokio</title>
-      <link>https://github.com/dalirnet/mactokio</link>
-      <guid isPermaLink="false">d988593b9ffded437e6fca04caf3621f16479d0e:Mactokio</guid>
-      <pubDate>Thu, 10 Sep 2026 05:26:22 GMT</pubDate>
-      <category>ユーティリティ / パスワード管理</category>
-      <description>Category: ユーティリティ / パスワード管理
-App: Mactokio
-Description: WebカメラでQRコードを読み取ってアカウントを取り込み、シークレットをAES-256で暗号化して端末内に保存するネイティブTOTP/HOTP認証アプリ。
-Open Source: https://github.com/dalirnet/mactokio
-Commit: Add Mactokio to Password Management (#2821)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / パスワード管理<br/>App: Mactokio<br/>Description: WebカメラでQRコードを読み取ってアカウントを取り込み、シークレットをAES-256で暗号化して端末内に保存するネイティブTOTP/HOTP認証アプリ。<br/>Open Source: https://github.com/dalirnet/mactokio<br/>Commit: Add Mactokio to Password Management (#2821)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:07:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sonar</title>
+      <link>https://github.com/can4hou6joeng4/Sonar</link>
+      <guid isPermaLink="false">3b88b72185d26c383965b9b7e870543fe56011ce:Sonar</guid>
+      <pubDate>Tue, 06 Oct 2026 09:07:25 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Sonar
+Description: 原生音乐播放器，支持同步歌词、菜单栏选歌与顶部播放器。
+Open Source: https://github.com/can4hou6joeng4/Sonar
+Commit: Add Sonar (#3181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Sonar<br/>Description: 原生音乐播放器，支持同步歌词、菜单栏选歌与顶部播放器。<br/>Open Source: https://github.com/can4hou6joeng4/Sonar<br/>Commit: Add Sonar (#3181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce]]></content:encoded>
+    </item>
     <item>
       <title>ThinkWatch Lite</title>
       <link>https://thinkwat.ch/lite/</link>
@@ -693,20 +707,6 @@ Website: https://candela.fyi
 Commit: Add Candela to Menu Bar Tools (#2743)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Candela<br/>Description: 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
-    </item>
-    <item>
-      <title>Mactokio</title>
-      <link>https://github.com/dalirnet/mactokio</link>
-      <guid isPermaLink="false">d988593b9ffded437e6fca04caf3621f16479d0e:Mactokio</guid>
-      <pubDate>Thu, 10 Sep 2026 05:26:22 GMT</pubDate>
-      <category>其它实用工具 / 密码管理</category>
-      <description>Category: 其它实用工具 / 密码管理
-App: Mactokio
-Description: 原生 TOTP/HOTP 验证器，通过摄像头扫描二维码导入账户，密钥以 AES-256 加密保存在本地。
-Open Source: https://github.com/dalirnet/mactokio
-Commit: Add Mactokio to Password Management (#2821)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 密码管理<br/>App: Mactokio<br/>Description: 原生 TOTP/HOTP 验证器，通过摄像头扫描二维码导入账户，密钥以 AES-256 加密保存在本地。<br/>Open Source: https://github.com/dalirnet/mactokio<br/>Commit: Add Mactokio to Password Management (#2821)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d988593b9ffded437e6fca04caf3621f16479d0e]]></content:encoded>
     </item>
   </channel>
 </rss>
