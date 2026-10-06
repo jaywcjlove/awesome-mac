@@ -1130,7 +1130,7 @@ Awesome Mac
 * [Highball](https://gethighball.com) - Wine을 통해 Apple Silicon에서 Windows 게임을 실행하며, 공개 호환성 데이터베이스에서 게임별로 그래픽 계층(DXMT, DXVK 또는 D3DMetal)을 선택합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](https://openemu.org/) - 여러 콘솔을 지원하는 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [Steam](https://store.steampowered.com/) - 게임 플랫폼 및 커뮤니티. ![Freeware][Freeware Icon]
-* [Uncork](https://uncork.win/en/) - 호환 계층을 통해 Apple Silicon에서 Steam과 Epic의 Windows 게임을 실행합니다(유료, 계정 없이 7일 체험 가능).
+* [Uncork](https://uncork.win/en/) - 호환 계층을 통해 Apple Silicon에서 Steam과 Epic의 Windows 게임을 실행합니다(무료, 유료 Pro는 선택 사항).
 * [Whisky](https://github.com/frankea/Whisky) - macOS에서 Windows 앱을 실행하는 도구로, SwiftUI로 제작되었으며 D3DMetal 및 DXVK 백엔드를 지원합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 
 ## 원격 로그인 소프트웨어
