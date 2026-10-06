@@ -1266,6 +1266,7 @@ Awesome Mac
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
 * [Belay](https://perfectoweb.github.io/Belay/) - Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
 * [Candela](https://candela.fyi) - 外部ディスプレイをいたわるメニューバーアプリ。OLED焼き付き防止、パネルの使用履歴、そして輝度・音量・コントラストの日常操作。 [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CapaTheNotch](https://capathenotch.tech/) - MacBook のノッチに Claude Code、Codex、OpenCode Go の使用量制限を表示するオープンソースツール。テレプロンプターとオンデバイス音声入力も備えます。 [![Open-Source Software][OSS Icon]](https://github.com/maximfakel/capa-the-notch) ![Freeware][Freeware Icon]
 * [cctop](https://cctop.app) - AI コーディングセッション(Claude Code、Codex、opencode、pi)の状態をメニューバーに表示し、対応するターミナルペインやエディタウィンドウへジャンプできるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - リアルタイムの充電状態と電力消費を表示するメニューバー型バッテリーモニター。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) - MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
