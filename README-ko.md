@@ -345,6 +345,7 @@ Awesome Mac
 
 ### IDE / 코드 편집기
 
+* [Agentastic.dev](https://www.agentastic.dev/) - Claude Code, Codex 등 코딩 에이전트 CLI를 각각 독립된 git 워크트리에서 병렬로 실행하는 멀티 에이전트 IDE. ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android의 공식 IDE로 IntelliJ IDEA를 기반으로 함. ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS 개발을 위한 스마트 IDE.
 * [Aptana](http://www.aptana.com/) - 강력한 오픈 소스 웹 개발 IDE. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aptana/studio3)

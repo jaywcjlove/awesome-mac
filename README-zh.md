@@ -188,6 +188,7 @@ Awesome Mac
 
 *一种用于编辑纯文本文件的程序，建议使用免费开源的编辑器*
 
+* [Agentastic.dev](https://www.agentastic.dev/) - 多智能体 IDE，可并行运行 Claude Code、Codex 等编程智能体 CLI，每个代理运行在独立的 git worktree 中。 ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Aurora Editor](https://auroraeditor.com/) - 适用于 macOS 的轻量级代码编辑器 (IDE)。 [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
