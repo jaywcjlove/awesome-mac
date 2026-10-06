@@ -1688,6 +1688,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Remote Login Software
 
 * [AnyDesk](https://anydesk.com) - Provides remote access across multiple machines.
+* [GOBL(in) Remote](https://goblin.red/articles/?a=goblin-remote) - Self-hosted remote desktop that streams your Mac to any browser or phone through your own PHP hosting, with mouse control and no viewer app. [![Open-Source Software][OSS Icon]](https://github.com/goblin-red/Goblin-Remote) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - Open-source remote desktop and remote support tool with end-to-end encrypted sessions. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]

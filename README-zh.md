@@ -1563,6 +1563,7 @@ Awesome Mac
 ## 远程协助
 
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
+* [GOBL(in) Remote](https://goblin.red/articles/?a=goblin-remote) - 自托管远程桌面，通过你自己的 PHP 主机将 Mac 屏幕串流到任意浏览器或手机，支持鼠标控制，无需安装客户端。 [![Open-Source Software][OSS Icon]](https://github.com/goblin-red/Goblin-Remote) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - 开源的远程桌面与远程协助工具，会话端到端加密。[![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRP 的 GUI 客户端，一键将本地服务发布到互联网。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - 高画质且低延时的游戏串流 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/moonlight-stream/moonlight-qt)

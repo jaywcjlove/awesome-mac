@@ -1688,6 +1688,7 @@ Awesome Mac
 ## リモートログインソフトウェア
 
 * [AnyDesk](https://anydesk.com) - 複数のマシン間でリモートアクセスを提供。
+* [GOBL(in) Remote](https://goblin.red/articles/?a=goblin-remote) - 自分の PHP ホスティング経由で Mac の画面を任意のブラウザやスマートフォンに配信し、マウス操作もできるセルフホスト型リモートデスクトップ（ビューアアプリ不要）。 [![Open-Source Software][OSS Icon]](https://github.com/goblin-red/Goblin-Remote) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。 [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
