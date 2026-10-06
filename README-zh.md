@@ -803,6 +803,7 @@ Awesome Mac
 * [VLC](http://www.videolan.org/) - 可播放多数音视频和流媒体格式的开源播放器。[![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - 支持插件扩展的 YouTube Music 桌面播放器。 [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [VOX Player](https://vox.rocks/mac-music-player) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
+* [Vibe](https://vibeplayer.app) - 开源音乐文件播放器，支持点击波形跳转、DJ 变速推子和比特完美输出。[![Open-Source Software][OSS Icon]](https://github.com/cmicali/vibe) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/vibe-music-player/id1582482361?platform=mac)
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - 简单实用的视频裁剪工具，支持多种格式，精确截取所需片段。
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/xld/) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/yplayer/) - 一款多功能应用，支持实时字幕、音视频转文字、录音转写和字幕翻译。 [![Open-Source Software][OSS Icon]](https://github.com/Hiram-Wong/ZyPlayer) ![Freeware][Freeware Icon]

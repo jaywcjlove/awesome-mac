@@ -1012,6 +1012,7 @@ Awesome Mac
 * [Tuneful](https://www.tuneful.dev) - メニューバーやミニプレーヤーからSpotifyとApple Musicを操作するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](http://www.videolan.org/index.html) - 多くの音声・動画・ストリーミング形式を再生できるオープンソースプレーヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - MacとiPhone用の高精細オーディオプレイヤー。音楽がもっと良く聴こえる！ ![Freeware][Freeware Icon]
+* [Vibe](https://vibeplayer.app) - シーク可能な波形表示、DJ向けピッチコントロール、ビットパーフェクト出力を備えたオープンソースの音楽ファイルプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/cmicali/vibe) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/vibe-music-player/id1582482361?platform=mac)
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - 複数のフォーマットと正確なトリミングをサポートするシンプルなビデオクロップツール。
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - さまざまな「ロスレス」オーディオファイルをデコード、変換、再生するツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - メニューバーまたはグローバルキーボードショートカットで直接オーディオを録音。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
