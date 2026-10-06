@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:44:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mu</title>
+      <link>https://github.com/qybaihe/mu</link>
+      <guid isPermaLink="false">1775d4f71d2e6f4b3f3554b3982b33449521f62b:mu</guid>
+      <pubDate>Tue, 06 Oct 2026 16:44:03 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: mu
+Description: 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。
+Open Source: https://github.com/qybaihe/mu
+Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: mu<br/>Description: 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。<br/>Open Source: https://github.com/qybaihe/mu<br/>Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b]]></content:encoded>
+    </item>
     <item>
       <title>Sonar</title>
       <link>https://github.com/can4hou6joeng4/Sonar</link>
@@ -693,20 +707,6 @@ Website: https://www.posnic.com/
 Commit: Add Posnic POS (#2832)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05</description>
       <content:encoded><![CDATA[Category: 金融<br/>App: Posnic<br/>Description: 面向零售商店和餐厅的离线优先开源 POS 与计费软件。<br/>Website: https://www.posnic.com/<br/>Commit: Add Posnic POS (#2832)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05]]></content:encoded>
-    </item>
-    <item>
-      <title>Candela</title>
-      <link>https://candela.fyi</link>
-      <guid isPermaLink="false">bcc353ce0a24e8cde4aab04286ea010635548ed2:Candela</guid>
-      <pubDate>Fri, 11 Sep 2026 02:16:10 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Candela
-Description: 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。
-Website: https://candela.fyi
-Commit: Add Candela to Menu Bar Tools (#2743)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Candela<br/>Description: 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
     </item>
   </channel>
 </rss>

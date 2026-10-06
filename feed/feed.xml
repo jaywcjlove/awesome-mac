@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:44:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mu</title>
+      <link>https://github.com/qybaihe/mu</link>
+      <guid isPermaLink="false">1775d4f71d2e6f4b3f3554b3982b33449521f62b:mu</guid>
+      <pubDate>Tue, 06 Oct 2026 16:44:03 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: mu
+Description: Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.
+Open Source: https://github.com/qybaihe/mu
+Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: mu<br/>Description: Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.<br/>Open Source: https://github.com/qybaihe/mu<br/>Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b]]></content:encoded>
+    </item>
     <item>
       <title>Sonar</title>
       <link>https://github.com/can4hou6joeng4/Sonar</link>
@@ -693,20 +707,6 @@ Website: https://www.posnic.com/
 Commit: Add Posnic POS (#2832)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05</description>
       <content:encoded><![CDATA[Category: Finance<br/>App: Posnic<br/>Description: Offline-first open-source POS and billing software for retail shops and restaurants.<br/>Website: https://www.posnic.com/<br/>Commit: Add Posnic POS (#2832)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27cbfec86e75defa62277fc77202c9a705cc0c05]]></content:encoded>
-    </item>
-    <item>
-      <title>Candela</title>
-      <link>https://candela.fyi</link>
-      <guid isPermaLink="false">bcc353ce0a24e8cde4aab04286ea010635548ed2:Candela</guid>
-      <pubDate>Fri, 11 Sep 2026 02:16:10 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Candela
-Description: Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.
-Website: https://candela.fyi
-Commit: Add Candela to Menu Bar Tools (#2743)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Candela<br/>Description: Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.<br/>Website: https://candela.fyi<br/>Commit: Add Candela to Menu Bar Tools (#2743)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcc353ce0a24e8cde4aab04286ea010635548ed2]]></content:encoded>
     </item>
   </channel>
 </rss>
