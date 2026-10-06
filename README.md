@@ -688,6 +688,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](https://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor for Mac.
+* [Positives](https://giaggito.github.io/Negatives-Positives/) - Open-source photo editor inspired by analogue photography, with film looks, grain, halation, masks and double exposures. [![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Principle](https://principleformac.com/) -  Application for designing animated and interactive user interfaces.
 * [Pika](https://superhighfives.com/pika) - An open-source color picker app. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421?platform=mac)
 * [RawTherapee](https://rawtherapee.com/) - A powerful cross-platform raw photo processing program! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
