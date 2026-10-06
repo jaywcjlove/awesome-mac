@@ -1124,6 +1124,7 @@ Awesome Mac
 * [contexts](https://contexts.co/) - 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.
 * [Dimsum](https://github.com/nshi/dimsum) - 비활성 창을 어둡게 만들어 포커스된 창을 강조하는 미니멀 메뉴 막대 유틸리티. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
 * [DockLens](https://github.com/firstfu/DockLens-app) - Dock 아이콘에 포인터를 올리면 해당 앱의 모든 창의 실시간 썸네일을 보여 주며, 전환·닫기·최소화할 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
+* [GOBL(in) Drag & Taskbar](https://goblin.red/articles/?a=goblin-drag) - 트랙패드 제스처로 창을 이동·최소화·최대화하고, Windows 스타일 작업 표시줄과 Option+Tab 창 전환기를 제공. [![Open-Source Software][OSS Icon]](https://github.com/goblin-red/Drag-and-Taskbar) ![Freeware][Freeware Icon]
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
