@@ -304,6 +304,7 @@ Awesome Mac
 * [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如图床、UUID、密码、翻译、JSON格式化等。[![Freeware][Freeware Icon]](https://u.tools/)
 * [Vagrant Manager](http://vagrantmanager.com) - 管理你本地服务。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lanayotech/vagrant-manager/)
 * [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
+* [Wayari](https://wayari.com/) - 在隔离的 Git 工作树中协调 Claude Code 和 Codex，提交经过检查和独立审查的拉取请求，由用户决定是否合并。
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/Tencent/tmt-workflow) 前端工作流的开发工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [Woodpecker](http://www.woodpeck.cn) - 在Mac上查看、编辑iOS App的沙盒文件, UserDefaults, Keychain项 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/woodpecker/id1333548463?platform=mac)
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon]
