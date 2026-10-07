@@ -722,6 +722,7 @@ Awesome Mac
 * [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - Rclone 和 s3 的图形用户界面。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
+* [Unison UI for macOS](https://bcourbage.github.io/unison-ui-mac/) - 原生的 Unison 文件同步工具图形界面，支持通过 SSH 双向同步和冲突审查。 [![Open-Source Software][OSS Icon]](https://github.com/bcourbage/unison-ui-mac) ![Freeware][Freeware Icon]
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 
 ## 数据恢复

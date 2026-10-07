@@ -938,6 +938,7 @@ Awesome Mac
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 非常に柔軟で直感的なFTPクライアント。SFTP、S3、iDisk/WebDAVをサポート。
+* [Unison UI for macOS](https://bcourbage.github.io/unison-ui-mac/) - Unisonファイル同期ツールのネイティブGUI。SSH経由の双方向同期と変更内容の確認に対応。 [![Open-Source Software][OSS Icon]](https://github.com/bcourbage/unison-ui-mac) ![Freeware][Freeware Icon]
 
 ## データ復旧ツール
 
