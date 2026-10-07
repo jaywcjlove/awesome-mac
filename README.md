@@ -1102,6 +1102,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
+* [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar, with a hotkey to talk and no model to download. [![Open-Source Software][OSS Icon]](https://github.com/FrigadeHQ/yap) ![Freeware][Freeware Icon]
 
 ## Browsers
 
