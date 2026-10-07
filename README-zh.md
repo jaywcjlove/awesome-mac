@@ -1004,6 +1004,7 @@ Awesome Mac
 * [Swads](https://swads.app/) - 群晖 Download Station 客户端，现代、原生、凭直觉再设计。
 * [TBD](https://tbd.yt/) - 基于 yt-dlp 的开源 YouTube 视频和音频下载工具，也可在同一 Wi-Fi 下用手机操控。 [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Transmission](https://www.transmissionbt.com/) - 免费的 BitTorrent 客户端 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [WebVideoHarbor](https://phpfrank.github.io/web-video-harbor/) - 用于在 macOS 上保存网页直接提供的 MP4/WebM 与非加密 HLS 流的开源 Chrome 扩展和本地助手。 [![Open-Source Software][OSS Icon]](https://github.com/PHPfrank/web-video-harbor) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - 用于从主流网站下载音视频的媒体下载器。 ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - 网络富媒体命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 一款功能丰富的命令行音视频下载器。 [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) ![Freeware][Freeware Icon]

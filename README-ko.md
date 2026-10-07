@@ -821,6 +821,7 @@ Awesome Mac
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [TBD](https://tbd.yt/) - 같은 Wi-Fi의 휴대폰으로도 조작할 수 있는 yt-dlp 기반 오픈 소스 YouTube 동영상·오디오 다운로더. [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Transmission](https://www.transmissionbt.com/) - 빠르고 쉽고 무료인 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [WebVideoHarbor](https://phpfrank.github.io/web-video-harbor/) - macOS에서 웹페이지가 직접 제공하는 MP4/WebM 미디어와 암호화되지 않은 HLS 스트림을 저장하는 오픈 소스 Chrome 확장 프로그램 및 로컬 도우미. [![Open-Source Software][OSS Icon]](https://github.com/PHPfrank/web-video-harbor) ![Freeware][Freeware Icon]
 * [XGetter](https://xgetter.com/) - 주요 웹사이트에서 동영상과 오디오를 내려받는 미디어 다운로드 도구. ![Freeware][Freeware Icon]
 
 
