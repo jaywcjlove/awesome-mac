@@ -426,6 +426,7 @@ Awesome Mac
 * [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, 포워딩·터널 관리, 프로세스 종료를 위한 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 코드 라인 수 계산기. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
+* [pymacos](https://macos.readthedocs.io) - macOS를 자동화하고 제어하는 오픈 소스 Python 라이브러리. [![Open-Source Software][OSS Icon]](https://github.com/JeanExtreme002/pymacos) ![Freeware][Freeware Icon]
 * [Responsively](https://responsively.app) - 반응형 웹 개발 도구. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
 * [Runjs](https://runjs.app/) - JavaScript 플레이그라운드. ![Freeware][Freeware Icon]
 * [Runner](https://github.com/yicheng47/runner) - Claude Code, Codex, Copilot CLI, pi 같은 CLI 코딩 에이전트가 하나의 작업을 크루로 함께 수행하고, 각 에이전트가 자신의 실제 터미널에서 실행되는 오픈 소스 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
