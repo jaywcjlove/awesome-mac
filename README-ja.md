@@ -658,6 +658,7 @@ Awesome Mac
 * [Warp](https://www.warp.dev) - Rustベースで超高速、モダンアプリのようにゼロから再設計されたターミナル。 [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - ファイルプレビュー、Webブラウジング、AIツールを備えたオープンソースターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rustで実装されたGPUアクセラレーション対応のクロスプラットフォームターミナルエミュレーターおよびマルチプレクサー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [wmux](https://github.com/openwong2kim/wmux) - タスクごとの git worktree と再起動後も維持されるセッションを備え、Claude Code や Codex などの CLI コーディングエージェントを並べて実行できるオープンソースのターミナルワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/openwong2kim/wmux) ![Freeware][Freeware Icon]
 
 ## デザインとプロダクト
 
