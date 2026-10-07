@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:14:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>IPTVMac</title>
+      <link>https://goelir.github.io/IPTVMac/</link>
+      <guid isPermaLink="false">598349d91faa643b275a2da8ba3c08de84d68ee6:IPTVMac</guid>
+      <pubDate>Wed, 07 Oct 2026 09:14:09 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: IPTVMac
+Description: Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다.
+Website: https://goelir.github.io/IPTVMac/
+Commit: Add IPTVMac (#3208)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: IPTVMac<br/>Description: Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다.<br/>Website: https://goelir.github.io/IPTVMac/<br/>Commit: Add IPTVMac (#3208)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6]]></content:encoded>
+    </item>
     <item>
       <title>mu</title>
       <link>https://github.com/qybaihe/mu</link>
@@ -693,20 +707,6 @@ Website: https://justmd.nuta.life/
 Commit: Add JustMD to Markdown Tools (#2853)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: JustMD<br/>Description: 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기.<br/>Website: https://justmd.nuta.life/<br/>Commit: Add JustMD to Markdown Tools (#2853)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchOTP</title>
-      <link>https://github.com/Photon94/NotchOTP</link>
-      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
-      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
-      <category>유틸리티 / 비밀번호 관리</category>
-      <description>Category: 유틸리티 / 비밀번호 관리
-App: NotchOTP
-Description: 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱.
-Open Source: https://github.com/Photon94/NotchOTP
-Commit: Add NotchOTP to Password Management (#2835)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 비밀번호 관리<br/>App: NotchOTP<br/>Description: 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱.<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
     </item>
   </channel>
 </rss>
