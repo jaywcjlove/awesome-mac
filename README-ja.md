@@ -897,6 +897,7 @@ Awesome Mac
 * [Muzzle](https://muzzleapp.com/) - 画面共有中に恥ずかしい通知を非表示にするシンプルなMacアプリ。
 * [Presentify](https://presentify.compzets.com/) - 通話中に画面上に描画したり、カーソルをハイライトしたりできるMacアプリ。 ![App Store][app-store Icon]
 * [Rambox](http://rambox.pro/) - 一般的なWebアプリケーションを1つにまとめたメッセージングおよびメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [ScreenVeil](https://www.screenveil.io) - 選択したアプリをローカルで使い続けながら、共有用の Privacy Screen ウィンドウから除外できる画面共有ツール（有料、3セッションの試用あり）。
 * [Signal Desktop](https://signal.org/download/) - 高速、シンプル、セキュア。ポケットに収まるプライバシー。 [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/downloads/mac) - チームコラボレーションとコミュニケーションのための優れたツール。 ![Freeware][Freeware Icon]
 * [Stack](https://getstack.app/) - 複数のWebアプリを1画面で整理できるワークスペースブラウザ。
