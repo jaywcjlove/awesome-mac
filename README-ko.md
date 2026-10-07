@@ -782,6 +782,7 @@ Awesome Mac
 * [Fader](https://github.com/pantafive/fader) - 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - 다중 장치 출력과 10밴드 EQ를 지원하는 앱별 볼륨 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 미디어를 현대적인 포맷으로 변환하는 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
+* [Hongguo Drama](https://github.com/jackotom/hongguo-drama-mac) - Apple Silicon용 비공식 플레이어 및 다운로더로, 중국 숏폼 드라마 서비스 Hongguo와 Xifan을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama-mac) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]

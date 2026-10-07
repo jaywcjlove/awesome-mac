@@ -965,6 +965,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [FreeTube](https://freetubeapp.io/) - Open source desktop YouTube client built with privacy in mind. [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
 * [HandBrake](https://handbrake.fr/) - Video transcoder for converting media to modern formats. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
+* [Hongguo Drama](https://github.com/jackotom/hongguo-drama-mac) - Unofficial player and downloader for Chinese short dramas from Hongguo and Xifan, built for Apple Silicon. [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama-mac) ![Freeware][Freeware Icon]
 * [Hydrogen](https://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [ffWorks](https://www.ffworks.net/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
 * [IINA](https://iina.io/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
