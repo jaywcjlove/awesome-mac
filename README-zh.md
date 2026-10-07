@@ -1477,6 +1477,7 @@ Awesome Mac
 ### 窗口管理
 
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
+* [ChainYourMac](https://chainyourmac.com) - 滚动式窗口管理器，将窗口并排放在一条可无限横向滚动的长条上，灵感来自 niri 和 PaperWM。
 * [Convoker](https://github.com/varie-ai/convoker) - 输入应用名称，按回车即可聚拢该应用的所有窗口。[![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [BetterSnapTool](https://folivora.ai/bettersnaptool/) - 窗口管理工具，可通过快捷键或窗口拖动快速实现分屏。  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dashlane-password-manager/id552383089?platform=mac)
 * [Contexts](https://contexts.co/)- 多显示器环境下更高效切换应用和窗口的工具。
