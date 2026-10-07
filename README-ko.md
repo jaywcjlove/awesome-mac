@@ -431,6 +431,7 @@ Awesome Mac
 * [Runner](https://github.com/yicheng47/runner) - Claude Code, Codex, Copilot CLI, pi 같은 CLI 코딩 에이전트가 하나의 작업을 크루로 함께 수행하고, 각 에이전트가 자신의 실제 터미널에서 실행되는 오픈 소스 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - Git 인터랙션 강화 쉘 스크립트. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SaneHosts](https://sanehosts.com) - hosts 기반 광고 및 추적기 차단 도구. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
+* [ShellPhone](https://shellphone.sggyamg.com) - 탭, SFTP 브라우저, SSH 터널, 스니펫을 지원하는 SSH 클라이언트입니다. Mac, iPhone, iPad, Windows, Android에서 사용할 수 있습니다. [![App Store][app-store Icon]](https://apps.apple.com/app/id6764346831)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 코드 스니펫 관리자.
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Starcat](https://starcat.ink/) - 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
