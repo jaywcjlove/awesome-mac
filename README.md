@@ -308,6 +308,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
+* [Wrighter](https://wrighterapp.com) - Novel-writing app that drafts, then scores every scene for what an editor would mark; one purchase covers Mac, iPhone, iPad, Windows, Android and Linux. [![App Store][app-store Icon]](https://apps.apple.com/app/id6785827545?platform=mac)
 
 ### Ebooks
 
