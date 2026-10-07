@@ -943,6 +943,7 @@ Awesome Mac
 * [Prevail](https://prevail.sh) - ローカルファーストのAIライフOS。生活ドメインごとに任意のモデルを実行し、データはMac上のプレーンMarkdownボールトに保存。署名・公証済み。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - Claude Code、Codex、Cursor、Copilot など70以上のAIコーディングサービスの残り使用量を、画面端にドッキングしたリングで表示するネイティブアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - Apple シリコン上で GGUF と MLX モデルを動かすローカルモデルサーバー。OpenAI・Anthropic 互換 API で Claude Code や Codex などのツールと接続。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Rapid-MLX](https://rapidmlx.com/) - Appleシリコン向けのオープンソースLLMサーバー兼Macアプリで、OpenAIとAnthropic互換のAPIを提供。 [![Open-Source Software][OSS Icon]](https://github.com/raullenchai/Rapid-MLX) ![Freeware][Freeware Icon]
 * [Witsy](https://github.com/nbonamy/witsy) - デスクトップAIアシスタント / ユニバーサルMCPクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - 自分の知識ベースを使って応答するローカルファーストのAIチャットクライアント。 [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 独自のAPIキーを使って複数のLLMモデルを実行できるネイティブSwift macOSアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
