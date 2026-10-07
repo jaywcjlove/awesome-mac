@@ -690,6 +690,7 @@ Awesome Mac
 * [mu](https://github.com/qybaihe/mu) - CLI와 데스크톱 앱을 갖춘 오픈 소스 코딩 에이전트로, 어떤 내용을 컨텍스트에 넣을지, 차단된 명령이 요청한 것인지 같은 일상적인 판단을 작은 판정 모델이 맡습니다. [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
+* [Ouroboros](https://ouroboros-agent.ai/) - 지속적인 정체성과 메모리, 검토를 거친 자기 수정, 데스크톱 및 CLI 인터페이스를 갖춘 오픈 소스 범용 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/razzant/ouroboros) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 로컬 우선 AI 라이프 OS. 생활 영역별로 원하는 모델을 실행하며 데이터는 Mac의 일반 Markdown 볼트에 저장. 서명 및 공증 완료. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [ThinkWatch Lite](https://thinkwat.ch/lite/) - 클라이언트 설정을 바꾸지 않고 업스트림을 전환하고, 요청별 비용을 기록하며, 요청이 나가기 전에 API 키를 치환하는 Claude Code, Codex 등 AI 코딩 클라이언트용 로컬 게이트웨이. [![Open-Source Software][OSS Icon]](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware][Freeware Icon]
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Claude Code 사용량, 속도 제한, 비용, 활동 히트맵을 추적하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
