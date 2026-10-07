@@ -809,6 +809,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 * [svgus](https://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://apps.apple.com/app/svgsus/id1106867065?platform=mac)
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
+* [TouchFile](https://lakesnowtech.com/touchfile/) - Edit file timestamps, attributes, permissions, and image EXIF on Mac, iPhone, and iPad.
 * [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Export icons for multi-platform[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
