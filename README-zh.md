@@ -1445,6 +1445,7 @@ Awesome Mac
 * [Core Tunnel](https://codinn.com/tunnel/) - 管理你的 SSH。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/core-tunnel/id1354318707?platform=mac)
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - 在多显示器环境中将 macOS 的 Dock 锁定在一个屏幕上。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
+* [DotQuit](https://github.com/mehmettalhairmak/dotquit) - 使用 Swift 编写的轻量工具，在应用的最后一个窗口关闭时自动退出该应用。 [![Open-Source Software][OSS Icon]](https://github.com/mehmettalhairmak/dotquit) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - 一款高效的 macOS 文件搜索工具，基于原生 Spotlight 引擎，支持极速搜索。[![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
 * [FixTim](https://github.com/Lakr233/FixTim) - 无须重启即可修复 macOS 上的所有运行时的 bug。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Lakr233/FixTim)
 * [gfxCardStatus](https://gfx.io/) - 控制Mac独立显卡与集成显卡之间的切换。![Freeware][Freeware Icon]
