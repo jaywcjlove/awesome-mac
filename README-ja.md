@@ -1011,6 +1011,7 @@ Awesome Mac
 * [Stringed 2](http://stringed.buenosapps.com/) - ユーザーがお気に入りの曲の演奏を学ぶのを助けるために設計された音楽練習ソフトウェア。
 * [Synfig Studio](http://synfig.org) - 無料のオープンソース2Dアニメーションソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 音声変換とタグ編集に対応した音楽ライブラリ管理ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
+* [Truffle – Music Tag Editor](https://truffle-app.com) - Apple Music、ローカルフォルダ、rekordbox、Serato、Traktorに対応し、Macの音楽ライブラリのタグを項目ごとに修正するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6806763735?platform=mac)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - 名前の通り、小さなプレイヤー。 ![Freeware][Freeware Icon]
 * [Tuneful](https://www.tuneful.dev) - メニューバーやミニプレーヤーからSpotifyとApple Musicを操作するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](http://www.videolan.org/index.html) - 多くの音声・動画・ストリーミング形式を再生できるオープンソースプレーヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
