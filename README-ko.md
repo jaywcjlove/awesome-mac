@@ -885,6 +885,7 @@ Awesome Mac
 ## 교육
 
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
+* [StudyDaily](https://www.studydaily.app/en) - FSRS-6 간격 반복으로 오프라인 학습하는 플래시카드 앱. 복습 기록과 함께 Anki 덱 가져오기. [![App Store][app-store Icon]](https://apps.apple.com/app/id6799936066?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 금융

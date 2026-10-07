@@ -1152,6 +1152,7 @@ Awesome Mac
 ## 教育
 
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
+* [StudyDaily](https://www.studydaily.app/en) - FSRS-6 の間隔反復でオフライン学習できるフラッシュカード。Anki デッキを復習履歴ごと読み込み。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6799936066?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## ファイナンス
