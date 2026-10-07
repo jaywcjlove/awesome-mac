@@ -573,6 +573,7 @@ Awesome Mac
 * [Lunacy](https://icons8.com/lunacy) - 내장 에셋과 실시간 협업을 지원하는 벡터 디자인 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 * [MakeHuman](http://www.makehumancommunity.org) - 강력하고 무료인 3D 인간 모델러. ![Freeware][Freeware Icon]
 * [Monodraw](http://monodraw.helftone.com) - Mac용 강력한 ASCII 아트 편집기. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
+* [Negatives](https://giaggito.github.io/Negatives-Positives/) - 촬영하거나 스캔한 필름 네거티브를 자동으로 포지티브로 변환하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 비트맵 이미지 편집기. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pixelmator Pro](http://www.pixelmator.com/pro/) - Mac을 위한 모든 기능을 갖춘 이미지 편집기.
 * [Pika](https://superhighfives.com/pika) - 오픈 소스 색상 선택 앱. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika)

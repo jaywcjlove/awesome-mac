@@ -685,6 +685,7 @@ Awesome Mac
 * [MagicaVoxel](https://ephtracy.github.io/) - 無料で軽量な8ビットボクセルエディターおよびインタラクティブなパストレーシングレンダラー。
 * [MakeHuman](http://www.makehumancommunity.org) - 強力で無料の3D人体モデラー。 ![Freeware][Freeware Icon]
 * [Monodraw](http://monodraw.helftone.com) - Mac向けに設計された強力なASCIIアートエディター。 [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
+* [Negatives](https://giaggito.github.io/Negatives-Positives/) - 撮影またはスキャンしたフィルムネガを自動でポジに変換するオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Nik Collection](https://nikcollection.dxo.com/) - DxOによるNik Collection。
 * [Paintbrush](http://paintbrush.sourceforge.net/) - ビットマップ画像エディター。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - 2D手描きアニメーションを作成するための簡単で直感的なツール。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]

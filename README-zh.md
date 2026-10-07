@@ -461,6 +461,7 @@ Awesome Mac
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]
 * [MakeHuman](http://www.makehumancommunity.org) - 功能强大且免费的3D人体建模器。 ![Freeware][Freeware Icon]
 * [Monodraw](https://helftone.com/) - macOS 平台上强大的 ASCII 设计流程编辑器。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monodraw/id920404675?platform=mac)
+* [Negatives](https://giaggito.github.io/Negatives-Positives/) - 自动将翻拍或扫描的胶片底片转换为正片的开源工具。[![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Nik Collection](https://nikcollection.dxo.com/) - 专业照片后期制作工具，Google 收购后免费![Freeware][Freeware Icon]
 * [RawTherapee](https://rawtherapee.com/) - 免费的跨平台原始图像处理程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
