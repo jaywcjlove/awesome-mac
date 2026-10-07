@@ -1052,6 +1052,7 @@ Awesome Mac
 * [Swads](https://swads.app/) - Synology Download Stationクライアント。モダンでネイティブ、直感的に再設計。
 * [TBD](https://tbd.yt/) - 同じWi-Fi上のスマートフォンからも操作できる、yt-dlpベースのオープンソースYouTube動画・音声ダウンローダー。 [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Transmission](https://www.transmissionbt.com/) - 高速で簡単、無料のBitTorrentクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - Transmissionデーモン用のネイティブSwiftUIリモートクライアント。トレントルール、RSS自動ダウンロード、トラッカー/フォルダ別フィルタを備えた、モダンなtransgui代替。 [![Open-Source Software][OSS Icon]](https://github.com/epaxpax/transmission-remote-gui) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XGetter](https://xgetter.com/) - 主要サイトから動画や音声を保存できるメディアダウンローダー。 ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Webからメディアコンテンツ（ビデオ、オーディオ、画像）をダウンロードするための小さなコマンドラインユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - YouTube.comおよびその他のビデオサイトからビデオをダウンロードするコマンドラインプログラム [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
