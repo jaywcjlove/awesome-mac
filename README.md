@@ -434,6 +434,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [GraphCode](https://graphcode.app) - Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
+* [Hostbeam](https://hostbeam.app/) - Menu bar tool that sends a screenshot or file to a coding agent's remote host over SSH and copies the uploaded path to the clipboard. ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Icon Preview](https://sindresorhus.com/icon-preview) - Preview your app icon and menu bar icon. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509?platform=mac)
 * [iHosts](https://en.toolinbox.net/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1102004240?platform=mac)
