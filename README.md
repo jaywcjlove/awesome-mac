@@ -1034,6 +1034,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Segue](https://segue.npearce.me/) - Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts. [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
+* [Unboom](https://unboom.app) - Finds the bass note your untreated room exaggerates on studio monitors and turns just that down across all Mac audio. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/unboom-room-bass-correction/id6812410741?mt=12&ct=awesome-mac)
 
 ## Download Management Tools
 

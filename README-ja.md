@@ -1035,6 +1035,7 @@ Awesome Mac
 * [Segue](https://segue.npearce.me/) - クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
+* [Unboom](https://unboom.app) - 未処理の部屋がモニタースピーカーで強調してしまう低音を見つけ、その部分だけを Mac の全オーディオで下げる。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/unboom-room-bass-correction/id6812410741?mt=12&ct=awesome-mac)
 
 ## ダウンロード管理ツール
 
