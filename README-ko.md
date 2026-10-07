@@ -1071,6 +1071,7 @@ Awesome Mac
 
 * [1440 Minutes Left Today](https://1440app.com/) - 메뉴 막대에서 오늘 남은 시간을 분 단위로 보여주는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [Alfred](https://www.alfredapp.com/) - 검색, 실행, 자동화를 한곳에 모은 런처.
+* [Avendo](https://avendo-app.com/ko/?utm_source=awesome-mac&utm_medium=referral&utm_campaign=isc013) - 프리랜서와 소규모 서비스 사업자를 위한 오프라인 업무 관리 도구로 고객, 작업, 할 일, 예약 및 결제 상태를 관리하며, 무료 로컬 플랜은 고객 30명과 활성 작업 50개로 제한되고 클라우드 동기화와 웹 이용은 선택형 유료 기능입니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/avendo-desktop/id6782857894?mt=12)
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - 빠른 검색을 지원하는 맞춤형 앱 런처.
 * [BetterMouse](https://better-mouse.com) - 서드파티 마우스의 스크롤, 가속, 버튼, 제스처를 조정하는 도구.
 * [BetterTouchTool](https://folivora.ai/) - 트랙패드, 마우스, 키보드의 제스처와 동작을 세밀하게 설정하는 도구.
