@@ -690,6 +690,7 @@ Awesome Mac
 * [Pencil2D](https://www.pencil2d.org) - 2D手描きアニメーションを作成するための簡単で直感的なツール。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - Mac用のフル機能画像エディター。
 * [Pixen](https://pixenapp.com/mac/) - Mac用のネイティブピクセルアートおよびアニメーションエディター。
+* [Positives](https://giaggito.github.io/Negatives-Positives/) - フィルムルック、粒子、ハレーション、マスク、多重露光を備えた、アナログ写真に着想を得たオープンソースの写真編集アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/giaggito/Negatives-Positives) ![Freeware][Freeware Icon]
 * [Principle](http://principleformac.com/) - アニメーションおよびインタラクティブなユーザーインターフェースをデザインするアプリケーション。
 * [Pika](https://superhighfives.com/pika) - オープンソースのカラーピッカーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421?platform=mac)
 * [RawTherapee](https://rawtherapee.com/) - 強力なクロスプラットフォームのRAW写真処理プログラム! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
