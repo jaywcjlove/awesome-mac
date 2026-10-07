@@ -1712,6 +1712,7 @@ Awesome Mac
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` の中身とメタデータを確認できる Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 開発者に便利な[クイックルック](https://en.wikipedia.org/wiki/Quick_Look)プラグインのリスト
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - ソースコードファイルをハイライト表示するクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [TypeFire](https://typefire.ai) - Finder で Markdown ファイルをレンダリングするクイックルック拡張機能。Markdown エディタ、クリップボードマネージャ、テキスト展開機能を同梱。![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## サードパーティアプリマーケット
 
