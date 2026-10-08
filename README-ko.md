@@ -523,6 +523,7 @@ Awesome Mac
 
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 빠르고 안정적인 Redis 데스크톱 관리자. [![Open-Source Software][OSS Icon]](https://github.com/qishibo/AnotherRedisDesktopManager) ![Freeware][Freeware Icon]
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 매끄러운 SQL 편집기 및 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
+* [BerryDB](https://db.berryhub.app) - PostgreSQL, MySQL, SQLite, Redis, MongoDB를 지원하며 로컬 AI 어시스턴트를 갖춘 빠르고 가벼운 네이티브 macOS 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/berry-apps/berrydb-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 많은 데이터베이스를 지원하는 지능형 도구.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite를 위한 공식 DB 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - 유니버설 SQL 클라이언트.

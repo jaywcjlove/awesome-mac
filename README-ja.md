@@ -600,6 +600,7 @@ Awesome Mac
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - より高速で安定したRedisデスクトップマネージャー。[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - SQLite 3データベースファイルの作成、設計、編集、ブラウジング用アプリケーション。
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - スムーズなSQLエディターとデータベースマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
+* [BerryDB](https://db.berryhub.app) - PostgreSQL、MySQL、SQLite、Redis、MongoDBをサポートする高速で軽量なネイティブmacOSデータベースクライアント（ローカルAIアシスタント搭載）。 [![Open-Source Software][OSS Icon]](https://github.com/berry-apps/berrydb-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - MySQL、PostgreSQL (Redshift)、BigQueryをサポートするモダンなSQLクライアントアプリケーション。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - MySQLを管理する強力なChromeアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - アプリケーションのデータを簡単に表示、編集、分析できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]

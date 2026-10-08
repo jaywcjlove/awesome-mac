@@ -388,6 +388,7 @@ Awesome Mac
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一款稳定全新的Redis管理工具。![Open-Source Software][OSS Icon]![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - SQL 客户端应用程序，支持 MySQL、 PostgreSQL (Redshift)、 BigQuery。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - 一个用于管理 SQLite 数据库的软件。
+* [BerryDB](https://db.berryhub.app) - 快速轻量的原生 macOS 数据库客户端，支持 PostgreSQL、MySQL、SQLite、Redis 和 MongoDB，内置本地 AI 助手。 [![Open-Source Software][OSS Icon]](https://github.com/berry-apps/berrydb-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - 核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - 简单易于使用的数据库客户端，支持 Postgres、MySQL、DuckDB、libSQL、Cloudflare D1 等。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - 一个跨平台的用于管理 SQLite 数据库的软件。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
