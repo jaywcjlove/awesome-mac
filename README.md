@@ -276,6 +276,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware][Freeware Icon]
 * [NoteGen](https://notegen.top/) - Open-source, local-first Markdown note-taking app that turns scattered records into structured notes with AI. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](https://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+* [Notes2Ai](https://notes2ai.com/) - AI search for Apple Notes that answers questions from your existing notes and links each answer to the notes it used. ![Native App][Native Icon]
 * [NotePlan 3](https://noteplan.co/) - Your tasks, notes, and calendar, plain-text markdown files.  [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - True Native Note and LLM Client
 * [Noteship](https://noteship.com) - Local-first note-taking app for turning notes into structured knowledge. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
