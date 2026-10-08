@@ -993,6 +993,7 @@ Awesome Mac
 * [Natron](https://natrongithub.github.io/) - オープンソースのノードベース合成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nuclear](https://nuclear.js.org/) - 無料の音楽を見つけてくれるストリーミング音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 * [OpenSpatial](https://github.com/dortanes/openspatial) - あらゆるアプリの音をヘッドトラッキング付きの 7.1 サラウンドで再生する、ヘッドホン向けのオープンソース空間オーディオ。 [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
+* [Peekabop](https://www.chewingcode.com/peekabop) - Spotify、Apple Music、ブラウザ再生に対応し、ノッチやフローティングピル、字幕で単語ごとに同期歌詞を表示するカラオケ風アプリ。
 * [Perian](http://perian.org/#download) - （**開発終了**）~~QuickTimeであらゆる一般的な形式を無料プラグインで再生~~。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Pythonで書かれたクロスプラットフォームの音楽タグ付けツール。 [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [MyMedia](https://github.com/photangralenphie/MyMedia) - ローカルの映画やテレビ番組ライブラリを表示・視聴。 [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]

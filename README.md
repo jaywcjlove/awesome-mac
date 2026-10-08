@@ -992,6 +992,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Natron](https://natrongithub.github.io/) - Open-source node-based compositing software. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 * [OpenSpatial](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
+* [Peekabop](https://www.chewingcode.com/peekabop) - Karaoke-style synced lyrics for Spotify, Apple Music and browser playback, shown in the notch, a floating pill or as subtitles.
 * [Perian](https://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [MyMedia](https://github.com/photangralenphie/MyMedia) - Display and watch your local movie and TV show library. [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]

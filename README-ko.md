@@ -796,6 +796,7 @@ Awesome Mac
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Natron](https://natrongithub.github.io/) - 오픈 소스 노드 기반 합성 도구. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [OpenSpatial](https://github.com/dortanes/openspatial) - 모든 앱의 소리를 헤드 트래킹이 적용된 7.1 서라운드로 재생하는 헤드폰용 오픈 소스 공간 음향 도구. [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
+* [Peekabop](https://www.chewingcode.com/peekabop) - Spotify, Apple Music, 브라우저 재생에 맞춰 노치, 플로팅 필 또는 자막으로 단어 단위 동기화 가사를 보여주는 노래방 스타일 앱.
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 다양한 포맷, 가사, 재생목록, 큐 관리를 지원하는 오프라인 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [Popcorn Time](https://popcorn-time.site/) - 토렌트 영화를 찾아보고 감상할 수 있는 스트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Sonar](https://github.com/can4hou6joeng4/Sonar) - 동기화된 가사와 메뉴 막대·노치 재생 제어를 제공하는 네이티브 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
