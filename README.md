@@ -1353,6 +1353,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Cleanup and Uninstall
 
+* [ample](https://github.com/mamura66/homebrew-tap) - Read-only Terminal scanner that shows how much space developer caches, Xcode data, Docker disks and AI models take. ![Freeware][Freeware Icon]
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)

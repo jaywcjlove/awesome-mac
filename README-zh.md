@@ -1408,6 +1408,7 @@ Awesome Mac
 
 ### 清理卸载
 
+* [ample](https://github.com/mamura66/homebrew-tap) - 只读的终端扫描工具，显示开发者缓存、Xcode 数据、Docker 磁盘和 AI 模型各占多少空间。 ![Freeware][Freeware Icon]
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Xcode 的清理工具，清理几十G应该不是问题。[![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/cleaner-for-xcode/id1296084683?platform=mac)

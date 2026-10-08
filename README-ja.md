@@ -1353,6 +1353,7 @@ Awesome Mac
 
 ### クリーンアップとアンインストール
 
+* [ample](https://github.com/mamura66/homebrew-tap) - 開発者キャッシュ、Xcodeデータ、Dockerディスク、AIモデルが使っている容量を表示する読み取り専用のターミナルスキャナー。 ![Freeware][Freeware Icon]
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - アプリを徹底的にアンインストール。 ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。 [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [CleanMyMac](https://macpaw.com/cleanmymac) - 大量のジャンクファイルやマルウェアを削除し、Macをより高速かつ整理整頓。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
