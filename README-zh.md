@@ -1254,6 +1254,7 @@ Awesome Mac
 * [Rize](https://rize.io/) - 用 AI 自动追踪时间并帮助改善专注习惯。
 * [Seodisias](https://seodisias.com) - 用于扫描站点技术 SEO 问题的网站分析工具。 [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 在邮件、文档和聊天内容中进行本地搜索。
+* [Selenar](https://selenar.app/) - 在本机识别所选分心内容，并提供离开或继续选择的工具。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 让鼠标侧键在更多应用中支持前进后退。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [Strategr](https://khrykin.github.io/strategr/) - 用时间盒规划一天的时间管理工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [StrokeMouse](https://strokemouse.com) - 自定义鼠标手势：按住触发键绘制轨迹后执行快捷键、打开应用、窗口操作、Shell 或 AppleScript。 [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]

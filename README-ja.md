@@ -1514,6 +1514,7 @@ Awesome Mac
 * [Rize](https://rize.io/) - AIで時間を追跡し、集中習慣づくりを支援するツール。
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finderの右クリックメニューを拡張するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Selectric](https://selectric.io/) - メール、書類、チャットを横断検索できるプライベート検索ツール。
+* [Selenar](https://selenar.app/) - 選択した種類の気が散るコンテンツをオンデバイスで認識し、離れるか続けるかを選べるツール。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - マウスのサイドボタンでより多くのアプリの戻る/進むを操作できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - macOS用のシンプルなホットキーデーモン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
 * [Strategr](https://khrykin.github.io/strategr/) - 1日をタイムボックスで整理する時間管理ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
