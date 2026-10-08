@@ -890,6 +890,7 @@ Awesome Mac
 
 ## 금융
 
+* [LilMoon](https://moonitor.io/lilmoon) - 비트코인 가격, 최신 블록, 멤풀 수수료를 데스크톱 위젯과 메뉴 막대에 보여주는 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6752340198?platform=mac)
 * [Posnic](https://www.posnic.com/) - 소매점과 레스토랑을 위한 오프라인 우선 오픈 소스 POS 및 청구 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app/) - 갱신 알림을 제공하는 구독 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
