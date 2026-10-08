@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Oct 2026 07:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:35:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sesame</title>
+      <link>https://github.com/qiwei66/sesame</link>
+      <guid isPermaLink="false">41f7d33a4d34f799888de50de1965b474bd019d7:Sesame</guid>
+      <pubDate>Thu, 08 Oct 2026 13:35:02 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Sesame
+Description: Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.
+Open Source: https://github.com/qiwei66/sesame
+Commit: Add Sesame to AI Tools (#3133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Sesame<br/>Description: Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.<br/>Open Source: https://github.com/qiwei66/sesame<br/>Commit: Add Sesame to AI Tools (#3133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7]]></content:encoded>
+    </item>
     <item>
       <title>Quail</title>
       <link>https://quail-ai.app</link>
@@ -693,20 +707,6 @@ Website: https://wayfinder-ai.pages.dev/
 Commit: Add Wayfinder to AI Tools (#2828)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Wayfinder<br/>Description: Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes.<br/>Website: https://wayfinder-ai.pages.dev/<br/>Commit: Add Wayfinder to AI Tools (#2828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d]]></content:encoded>
-    </item>
-    <item>
-      <title>MRRDock</title>
-      <link>https://mrrdock.simoneruggiero.com</link>
-      <guid isPermaLink="false">b2a32940fde6f1073c580b4a059e299f6306f9af:MRRDock</guid>
-      <pubDate>Sun, 13 Sep 2026 02:53:33 GMT</pubDate>
-      <category>Finance</category>
-      <description>Category: Finance
-App: MRRDock
-Description: Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account.
-Website: https://mrrdock.simoneruggiero.com
-Commit: Add MRRDock (#2856)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a32940fde6f1073c580b4a059e299f6306f9af</description>
-      <content:encoded><![CDATA[Category: Finance<br/>App: MRRDock<br/>Description: Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account.<br/>Website: https://mrrdock.simoneruggiero.com<br/>Commit: Add MRRDock (#2856)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a32940fde6f1073c580b4a059e299f6306f9af]]></content:encoded>
     </item>
   </channel>
 </rss>
