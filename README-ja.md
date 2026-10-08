@@ -1013,6 +1013,7 @@ Awesome Mac
 * [Synfig Studio](http://synfig.org) - 無料のオープンソース2Dアニメーションソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 音声変換とタグ編集に対応した音楽ライブラリ管理ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - 名前の通り、小さなプレイヤー。 ![Freeware][Freeware Icon]
+* [TunedMic](https://tunedmic.com) - 約1分間の音読をもとに声と部屋に合わせてマイクの音質を調整し、Zoom、Meet、Discord、OBSなどで使える仮想マイク。
 * [Tuneful](https://www.tuneful.dev) - メニューバーやミニプレーヤーからSpotifyとApple Musicを操作するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](http://www.videolan.org/index.html) - 多くの音声・動画・ストリーミング形式を再生できるオープンソースプレーヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - MacとiPhone用の高精細オーディオプレイヤー。音楽がもっと良く聴こえる！ ![Freeware][Freeware Icon]
