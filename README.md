@@ -1354,9 +1354,9 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * [Assignee](https://assignee.app) - Simple, instant app switcher. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8&platform=mac)
-* [Convoker](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
-* [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
 * [Command Reopen](https://commandreopen.com/) - Make Cmd+Tab restore minimized and closed windows. Zero permissions, sandboxed. [![Open-Source Software][OSS Icon]](https://github.com/Feng6611/mac-command-reopen) [![App Store][app-store Icon]](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924?platform=mac)
+* [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
+* [Convoker](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 * [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
