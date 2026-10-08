@@ -630,6 +630,7 @@ Awesome Mac
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - 适用于 Claude Code 的菜单栏代码块选择器和会话浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [Chorus](https://askchorus.app/) - 使用现有账号同时向多个 AI 提问，并排比较回答。 [![Open-Source Software][OSS Icon]](https://github.com/askchorus/chorus) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodexBar](https://codexbar.app) - 显示 OpenAI Codex 和 Claude Code 的使用统计，无需登录。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DataNexa](https://mingozacwu.github.io/datanexa-site/) - 开源的桌面端数据库 MCP 网关，把多种数据库聚合为一个具备只读防护且可审计的入口，供 AI Agent 访问。 [![Open-Source Software][OSS Icon]](https://github.com/MingoZacwu/DataNexa) ![Freeware][Freeware Icon]
