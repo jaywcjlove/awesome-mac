@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:22:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Farol</title>
+      <link>https://github.com/snowztech/farol</link>
+      <guid isPermaLink="false">836865cccae5b5d9067d20656e0234d90de18f4f:Farol</guid>
+      <pubDate>Thu, 08 Oct 2026 06:22:36 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Farol
+Description: Terminal built on libghostty that shows which coding agent is working, waiting or done.
+Open Source: https://github.com/snowztech/farol
+Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Farol<br/>Description: Terminal built on libghostty that shows which coding agent is working, waiting or done.<br/>Open Source: https://github.com/snowztech/farol<br/>Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f]]></content:encoded>
+    </item>
     <item>
       <title>IPTVMac</title>
       <link>https://goelir.github.io/IPTVMac/</link>
@@ -693,20 +707,6 @@ Website: https://justmd.nuta.life/
 Commit: Add JustMD to Markdown Tools (#2853)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: JustMD<br/>Description: Open-source Markdown editor for local files that hides syntax outside the line being edited.<br/>Website: https://justmd.nuta.life/<br/>Commit: Add JustMD to Markdown Tools (#2853)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchOTP</title>
-      <link>https://github.com/Photon94/NotchOTP</link>
-      <guid isPermaLink="false">1876603fffe45de174bc5021a03a61f6d597ddec:NotchOTP</guid>
-      <pubDate>Fri, 11 Sep 2026 10:45:03 GMT</pubDate>
-      <category>Utilities / Password Management</category>
-      <description>Category: Utilities / Password Management
-App: NotchOTP
-Description: Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage.
-Open Source: https://github.com/Photon94/NotchOTP
-Commit: Add NotchOTP to Password Management (#2835)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec</description>
-      <content:encoded><![CDATA[Category: Utilities / Password Management<br/>App: NotchOTP<br/>Description: Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage.<br/>Open Source: https://github.com/Photon94/NotchOTP<br/>Commit: Add NotchOTP to Password Management (#2835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1876603fffe45de174bc5021a03a61f6d597ddec]]></content:encoded>
     </item>
   </channel>
 </rss>

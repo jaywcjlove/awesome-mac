@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:22:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Farol</title>
+      <link>https://github.com/snowztech/farol</link>
+      <guid isPermaLink="false">836865cccae5b5d9067d20656e0234d90de18f4f:Farol</guid>
+      <pubDate>Thu, 08 Oct 2026 06:22:36 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Farol
+Description: libghostty 기반 터미널로, 각 코딩 에이전트가 작업 중인지, 대기 중인지, 완료했는지 보여줍니다.
+Open Source: https://github.com/snowztech/farol
+Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Farol<br/>Description: libghostty 기반 터미널로, 각 코딩 에이전트가 작업 중인지, 대기 중인지, 완료했는지 보여줍니다.<br/>Open Source: https://github.com/snowztech/farol<br/>Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f]]></content:encoded>
+    </item>
     <item>
       <title>IPTVMac</title>
       <link>https://goelir.github.io/IPTVMac/</link>
@@ -693,20 +707,6 @@ Website: https://gethighball.com
 Commit: Add Highball to Gaming Software (#2852)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b</description>
       <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: Highball<br/>Description: Wine을 통해 Apple Silicon에서 Windows 게임을 실행하며, 공개 호환성 데이터베이스에서 게임별로 그래픽 계층(DXMT, DXVK 또는 D3DMetal)을 선택합니다.<br/>Website: https://gethighball.com<br/>Commit: Add Highball to Gaming Software (#2852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13e9a58445529bb53ea19d272a0af2580b6d0f6b]]></content:encoded>
-    </item>
-    <item>
-      <title>JustMD</title>
-      <link>https://justmd.nuta.life/</link>
-      <guid isPermaLink="false">baedc6c0c7513e7895ee83769d03453609face85:JustMD</guid>
-      <pubDate>Sat, 12 Sep 2026 15:57:25 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: JustMD
-Description: 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기.
-Website: https://justmd.nuta.life/
-Commit: Add JustMD to Markdown Tools (#2853)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: JustMD<br/>Description: 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기.<br/>Website: https://justmd.nuta.life/<br/>Commit: Add JustMD to Markdown Tools (#2853)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baedc6c0c7513e7895ee83769d03453609face85]]></content:encoded>
     </item>
   </channel>
 </rss>
