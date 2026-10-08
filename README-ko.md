@@ -676,6 +676,7 @@ Awesome Mac
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 하나의 작업 공간에서 여러 Claude Code와 셸 세션을 병렬로 실행하는 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
+* [Friction](https://shabfom.github.io/friction/) - AI 에이전트의 결제와 잘못된 곳으로 가는 API 키 전송을 승인 전까지 보류하고, API 지출 한도를 걸며 모든 요청을 기록하는 로컬 프록시. [![Open-Source Software][OSS Icon]](https://github.com/Shabfom/friction) ![Freeware][Freeware Icon]
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - Google Gemini 대화, 첨부 파일, AI 생성 미디어를 JSON으로 로컬에 백업. [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 선택한 텍스트를 AI 어시스턴트와 CLI 에이전트로 보내는 메뉴 막대 런처.
 * [Grux](https://gruxai.com) - 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]

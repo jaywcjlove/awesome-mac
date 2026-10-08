@@ -636,6 +636,7 @@ Awesome Mac
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
+* [Friction](https://shabfom.github.io/friction/) - 本地代理，AI Agent 发起付款或把 API 密钥发往错误服务时先拦下等你确认，并限制 API 花费、记录每个请求。 [![Open-Source Software][OSS Icon]](https://github.com/Shabfom/friction) ![Freeware][Freeware Icon]
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - 将 Google Gemini 对话、附件与 AI 生成媒体以 JSON 格式备份到本地。 [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
 * [Grux](https://gruxai.com) - 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
