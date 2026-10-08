@@ -657,6 +657,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [wmux](https://github.com/openwong2kim/wmux) - Open-source terminal workspace for running Claude Code, Codex, and other CLI coding agents side by side, with per-task git worktrees and sessions that survive reboots. [![Open-Source Software][OSS Icon]](https://github.com/openwong2kim/wmux) ![Freeware][Freeware Icon]
 
 ## Design and Product
 

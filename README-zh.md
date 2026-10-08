@@ -437,6 +437,7 @@ Awesome Mac
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 集成文件预览、网页浏览和 AI 工具的开源终端。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [wmux](https://github.com/openwong2kim/wmux) - 用于并行运行 Claude Code、Codex 等 CLI 编码 agent 的开源终端工作区，支持按任务隔离的 git worktree，会话在重启后依然保留。 [![Open-Source Software][OSS Icon]](https://github.com/openwong2kim/wmux) ![Freeware][Freeware Icon]
 
 ## 设计和产品
 
