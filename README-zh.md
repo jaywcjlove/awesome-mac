@@ -1379,6 +1379,7 @@ Awesome Mac
 ### 待办事项工具
 
 * [2Do](http://www.2doapp.com/) - 比较好的 TODO 应用程序。
+* [Alcove](https://alcovetasks.com/) - 常驻菜单栏的待办清单、日程规划与笔记本，通过 iCloud 与 iPhone 和 iPad 同步。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6817797913?platform=mac)
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
 * [Focus](https://masterbuilders.io) - 一个漂亮的番茄工作法为基础的时间管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/focus-productivity-timer/id777233759?platform=mac)

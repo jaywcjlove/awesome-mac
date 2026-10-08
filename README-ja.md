@@ -1432,6 +1432,7 @@ Awesome Mac
 ### ToDoリスト
 
 * [2Do](http://www.2doapp.com/) - 優れたTodoアプリ。
+* [Alcove](https://alcovetasks.com/) - メニューバーに常駐するToDoリスト兼プランナー兼ノートで、iCloudでiPhoneやiPadと同期できます。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6817797913?platform=mac)
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - カレンダー内蔵のメニューバー時計の代替アプリ。 ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
