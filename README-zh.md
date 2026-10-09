@@ -484,6 +484,7 @@ Awesome Mac
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。
 * [Vectornator: Design Software](https://www.vectornator.io/) - Galaxy中最直观、最精确的插图软件。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
 * [Vectr](https://vectr.com/) - 免费图形编辑器。这是一个简单而强大的 Web 和桌面跨平台工具，把你的设计变成现实。![Freeware][Freeware Icon]
+* [WriteA](https://writea.com/) - 原生 Mac 应用，在同一画布上完成矢量插画、页面排版和真正的文字处理。[![App Store][app-store Icon]](https://apps.apple.com/us/app/writea/id980892066)
 * [Lunacy](https://icons8.com/lunacy) - 内置素材并支持实时协作的矢量设计工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 
 ### 原型流程
@@ -798,6 +799,7 @@ Awesome Mac
 * [Plug](https://plugformac.com) - 发现并聆听来自Hype Machine的音乐。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074?platform=mac)
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 离线音乐播放器，支持多种音频格式、歌词、播放列表与播放队列管理。 [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - 直接从菜单栏或使用全局键盘快捷键录制音频。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
+* [PromoShot](https://promoshot.app/) - 宣传视频图层编辑器：录制屏幕或摄像头，为任意图层设置关键帧，导出视频、静帧或 GIF；含无脑 MCP/CLI。[![Open-Source Software][OSS Icon]](https://github.com/GarAlex/promoshot) [![App Store][app-store Icon]](https://apps.apple.com/us/app/promoshot-app/id6770157576)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Sonar](https://github.com/can4hou6joeng4/Sonar) - 原生音乐播放器，支持同步歌词、菜单栏选歌与顶部播放器。 [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
@@ -856,6 +858,7 @@ Awesome Mac
 * [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
 * [Keynote 讲演](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac) - 构建炫目的演示文稿。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 免费开源的办公软件，广泛被用户社区日常使用和测试。[![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
+* [LightCell](https://litxl.com/) - 面向 Mac 的原生电子表格，可打开编辑 .xlsx / .xls / .csv；免费保存，一次性升级即可写回 Excel。[![App Store][app-store Icon]](https://apps.apple.com/us/app/lightcell/id6760840380)
 * [Microsoft Office](https://products.office.com/zh-cn/mac) - 微软Office办公套件 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac)
 * [Numbers 表格](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac) - 创建令人印象深刻的电子表格。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/numbers/id409203825?platform=mac)
 * [OnlyOffice](https://www.onlyoffice.com/) - 集成文档、表格和演示编辑器的办公套件。 [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]

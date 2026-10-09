@@ -221,6 +221,7 @@ Awesome Mac
 
 * [Keynote](https://apps.apple.com/app/keynote/id409183694?platform=mac) - 美しいプレゼンテーションを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
+* [LightCell](https://litxl.com/) - Mac向けの高速ネイティブ表計算。xlsx / xls / csv を開き編集でき、保存は無料、Excel書き戻しは買い切りアップグレード。[![App Store][app-store Icon]](https://apps.apple.com/us/app/lightcell/id6760840380)
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - 紛れもなくOffice、Mac用に設計。 [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?platform=mac) - 印象的なスプレッドシートを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?platform=mac)
 * [OnlyOffice](https://www.onlyoffice.com/) - 文書、スプレッドシート、プレゼンテーション編集を備えたオフィススイート。 [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
@@ -708,6 +709,7 @@ Awesome Mac
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - プロフェッショナルなドローイングソフトウェア。
 * [Vectornator: Design Software](https://www.vectornator.io/) - 銀河系で最も直感的で精密なイラストレーションソフトウェア。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
 * [Vectr](https://vectr.com/) - ベクターグラフィックスを簡単かつ直感的に作成できる無料グラフィックスエディター。 ![Freeware][Freeware Icon]
+* [WriteA](https://writea.com/) - ベクターイラスト、ページレイアウト、本格的なワープロを一つのキャンバスにまとめたネイティブMacアプリ。[![App Store][app-store Icon]](https://apps.apple.com/us/app/writea/id980892066)
 * [Nugget](https://github.com/cartesiancs/nugget-app) - モーションエフェクトと多様性を重視した動画編集ソフトウェア。 [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - オフラインサポート、組み込みアセット、リアルタイムコラボレーションを備えたUI/UX向けのベクターグラフィックデザインツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 
@@ -1007,6 +1009,7 @@ Awesome Mac
 * [Potplayer X](https://okaapps.com/product/1612400976)- ビデオ・オーディオプレイヤー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
 * [Pulp](https://github.com/bazalp/pulp/releases) - オーディオサンプルマネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/bazalp/pulp)
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - 10バンドEQ、カラオケモード、タイム同期歌詞を備えた美しいオーディオファイル音楽プレイヤー。 ![Open-Source Software][oss icon] ![Freeware][freeware icon]
+* [PromoShot](https://promoshot.app/) - プロモ動画のレイヤーエディタ。画面やカメラを録画し、任意レイヤーをキーフレーム編集して動画・静止画・GIFを書き出し。ヘッドレスMCP/CLI付き。[![Open-Source Software][OSS Icon]](https://github.com/GarAlex/promoshot) [![App Store][app-store Icon]](https://apps.apple.com/us/app/promoshot-app/id6770157576)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - スクリーンキャストとビデオ編集ソフトウェア。
 * [Shotcut](https://www.shotcut.org) - 無料のオープンソースビデオエディター。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Sonar](https://github.com/can4hou6joeng4/Sonar) - 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
