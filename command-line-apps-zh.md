@@ -109,6 +109,7 @@
 
 ## 数据库
 
+* [dbdiff](https://github.com/rekurt/dbdiff) - 比较 PostgreSQL、MySQL/MariaDB 和 SQLite 的数据库结构，并生成供审查的迁移 SQL。 [![Open-Source Software][OSS Icon]](https://github.com/rekurt/dbdiff) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 

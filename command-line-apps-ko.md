@@ -109,6 +109,7 @@
 
 ## 데이터베이스
 
+* [dbdiff](https://github.com/rekurt/dbdiff) - PostgreSQL, MySQL/MariaDB, SQLite의 데이터베이스 스키마를 비교하고 검토용 마이그레이션 SQL을 생성. [![Open-Source Software][OSS Icon]](https://github.com/rekurt/dbdiff) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - 자동 완성 및 구문 강조 기능이 있는 MySQL용 CLI. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 자동 완성 및 구문 강조 기능이 있는 Postgres용 명령줄 인터페이스.
 
