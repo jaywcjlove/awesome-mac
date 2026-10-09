@@ -1252,6 +1252,7 @@ Awesome Mac
 * [Paste](http://pasteapp.me) - スマートなクリップボード履歴とスニペットマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235?platform=mac)
 * [PasteBar](https://github.com/PasteBar/PasteBarApp) - MacとWindows用の無制限で無料のクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/PasteBar/PasteBarApp) ![Freeware][Freeware Icon]
 * [PasteBot](https://tapbots.com/pastebot/) - 強力なクリップボードマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/pastebot/id1179623856?platform=mac)
+* [PastePaw](https://pastepaw.com/) - 20種類以上のテーマ、Touch IDで保護されたコレクション、AIアクションを備え、ローカルMCPサーバー経由でAIエージェントがクリップを読み書きできるクリップボード履歴マネージャー。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pastepaw/id6759132043?platform=mac)
 * [Pesty](https://github.com/momenbasel/pesty) - 無料のオープンソースクリップボードマネージャー。色分けされたスライドストリップで履歴を表示。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
 * [Pure Paste](https://sindresorhus.com/pure-paste) - デフォルトでプレーンテキストとして貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
 * [SaneClip](https://saneclip.com) - 履歴、Touch ID保護、機密データ検出を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]

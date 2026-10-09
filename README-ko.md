@@ -956,6 +956,7 @@ Awesome Mac
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - 클립보드의 민감한 정보를 마스킹해 주는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 검색, 태그, 이미지 기록을 지원하는 로컬 우선 클립보드 기록 관리자. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Paste](https://pasteapp.io/) - 세계 최고의 클립보드 관리자.
+* [PastePaw](https://pastepaw.com/) - 20개 이상의 테마, Touch ID로 보호되는 컬렉션, AI 액션을 갖추고, AI 에이전트가 로컬 MCP 서버를 통해 클립을 읽고 쓸 수 있는 클립보드 기록 관리자. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pastepaw/id6759132043?platform=mac)
 * [Pesty](https://github.com/momenbasel/pesty) - 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
 * [SaneClip](https://saneclip.com) - 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.
