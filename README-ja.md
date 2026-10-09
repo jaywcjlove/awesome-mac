@@ -921,6 +921,7 @@ Awesome Mac
 * [CanaryMail](https://canarymail.io/) - PGPサポートとAIアシスタンスが内蔵されたMacおよびiPhone用のセキュアなメールアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?platform=mac)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electronベースの非公式ProtonMailデスクトップクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - 高速メールクライアント。 ![Freeware][Freeware Icon]
+* [GigaMail](https://gigamail.ai) - AI エージェントが使えるメールクライアント。Microsoft 365・Gmail・IMAP に対応し、Touch ID で承認するまで何も送信されない。[![Open-Source Software][OSS Icon]](https://github.com/adecubed/gigamail) ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - タグを使用してメールを整理し、スケジュールを管理。
 * [Mailspring](https://getmailspring.com/) - 美しく、高速で、完全にオープンソースのメールクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [N1](https://www.nylas.com/) - 拡張可能なオープンソースのメールアプリ。開発者は無料、Proは月額$7。 ![Open-Source Software][OSS Icon]
