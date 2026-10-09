@@ -776,6 +776,7 @@ Awesome Mac
 * [IINA](https://github.com/iina/iina) - 基于[MPV](https://github.com/mpv-player/mpv)的，现代视频播放器，支持多点触摸控制。[![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - 原生 IPTV 播放器，支持 Xtream Codes 和 M3U，具备即时搜索、基于 mpv 的播放、画中画和下载功能。 [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 用于视频、音乐、图片等内容的开源媒体中心。[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [La-La](https://nagornyi.su/la-la/?ref=awesome-mac) - 用于 Safari 中 Yandex Music 的桌面小组件，显示专辑封面和曲目信息，支持收藏与播放控制。 [![App Store][app-store Icon]](https://apps.apple.com/app/la-la-widget-for-yandex-music/id6741187209?platform=mac)
 * [LMMS](https://lmms.io) - 用于音乐制作的开源数字音频工作站。[![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 支持逐词发光效果的同步歌词播放器。 [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 跨平台工具，使用ffmpeg进行快速无损的视频和音频修剪。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)

@@ -789,6 +789,7 @@ Awesome Mac
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [La-La](https://nagornyi.su/la-la/?ref=awesome-mac) - 앨범 아트, 트랙 정보, 좋아요, 재생 제어를 제공하는 Safari용 Yandex Music 데스크톱 위젯. [![App Store][app-store Icon]](https://apps.apple.com/app/la-la-widget-for-yandex-music/id6741187209?platform=mac)
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - 녹음과 음악 제작을 위한 디지털 오디오 워크스테이션. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 음악과 오디오 제작을 위한 전문가용 디지털 오디오 워크스테이션. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
