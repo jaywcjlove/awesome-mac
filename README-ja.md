@@ -1640,6 +1640,7 @@ Awesome Mac
 * [AirStats](https://airstats.app) - CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - アプリの音量を制御し、システムオーディオを録音。 [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - リアルタイムのワット数、アプリごとの電力消費、充電履歴、消耗分析でバッテリーを消耗している原因を100%ローカルで表示。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
+* [Caffeinator](https://github.com/Pranav435/caffeinator) - メニューバーからMacのスリープを防止し、タイマー、トリガー、予約シャットダウン、VoiceOverに完全対応。 [![Open-Source Software][OSS Icon]](https://github.com/Pranav435/caffeinator) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Macのバッテリー情報と統計。
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - AI対応の画面アクティビティタイムライン。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - マルチモニター環境でmacOSのDockを特定の画面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
