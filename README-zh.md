@@ -1398,6 +1398,7 @@ Awesome Mac
 
 ### 效率工具
 
+* [Ornix](https://apps.apple.com/us/app/ornix-folder-organizer/id6755901057?mt=12) - 监视文件夹，并按你设定的规则自动归类新文件，常驻菜单栏。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/ornix-folder-organizer/id6755901057?mt=12)
 * [Table Habit](https://github.com/FriesI23/mhabit) – 带成长曲线和离线优先同步的习惯追踪器。![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Rustcast](https://rustcast.app) - 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [CurrentKey](https://currentkey.com) - 为空间添加自定义名称和图标，并统计各应用使用时长。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/currentkey/id1456226992?mt=12)
