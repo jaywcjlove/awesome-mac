@@ -265,6 +265,7 @@ Awesome Mac
 * [Evernote](https://evernote.com/) - 多くのプラットフォームで利用可能な有名なメモアプリ。 ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - macOSとiOSにネイティブ対応したモダンなメモ管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - シンプルでインタラクティブなデザインのライティングアプリ兼タスクマネージャー。
+* [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - 暗号化された追記型ノートを保存し、AIエージェントにMCP経由のアクセスを提供する開発者向けアルファ版のコマンドライン知識ストア。 [![Open-Source Software][OSS Icon]](https://github.com/louis030195/hyperconsciousness) ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Electron上に構築されたMarkdown愛好者のためのノートブックアプリ。
 * [Joplin](https://joplinapp.org/) - Markdownサポートとタスク管理機能を備えたクロスプラットフォームオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。 [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
