@@ -1554,6 +1554,7 @@ Awesome Mac
 * [Loop](https://github.com/MrKai77/Loop) - エレガントなウィンドウ管理。 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [MacsyZones](https://macsyzones.com/) - ウィンドウを簡単に整理して生産性を向上。 [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
 * [Lasso](https://thelasso.app) - 直感的で使いやすいグリッドベースのウィンドウマネージャー。
+* [Layoutish](https://appish.app/layoutish) - ウインドウ配置を保存し、ディスプレイ構成が変わると自動で復元。
 * [Magnet](http://magnet.crowdcafe.com/) - ワークスペースを整理するウィンドウマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/id441258766?platform=mac)
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 画面端をポインター操作で使えるクイックアクション領域に拡張するツール。 ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [Moom](http://manytricks.com/moom/) - ウィンドウの移動、リサイズ、レイアウト保存を行うツール。
