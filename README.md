@@ -1435,6 +1435,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### To-Do Lists
 
 * [2Do](https://www.2doapp.com/) - Nice todo app.
+* [Alcove](https://alcovetasks.com/) - Menu bar to-do list, planner and notebook that syncs with iPhone and iPad through iCloud. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6817797913?platform=mac)
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 * [Focus](https://meaningful-things.com/focus) - Beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - A simple, flexible Focus Timer. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
