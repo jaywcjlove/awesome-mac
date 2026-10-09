@@ -989,6 +989,7 @@ Awesome Mac
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 드래그 앤 드롭을 지원하는 가벼운 앱 제거 도구. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [Boost](https://github.com/Kernel-Hunter/boost) - 앱을 닫지 않고 메모리를 확보하고, 앱을 일시 정지했다가 그대로 복원하며, 안전하게 정리할 수 있는 디스크 공간을 찾아 주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
 * [Mac Clean](https://github.com/iliyami/MacClean) - 무료 오픈소스 정리, 최적화, 악성코드 검사 도구. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 개발자 캐시를 시각화하고 정리해 디스크 공간을 확보하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
