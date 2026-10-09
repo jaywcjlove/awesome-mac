@@ -1674,6 +1674,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [WheelClick](https://wheelclick.app) - Middle click for the trackpad and Magic Mouse, with three-finger click and tap free forever. [![App Store][app-store Icon]](https://apps.apple.com/us/app/wheelclick-middle-click/id6793554096?platform=mac)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## Gaming Software
