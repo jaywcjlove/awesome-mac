@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:32:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Redlamp</title>
+      <link>https://redlamp.app</link>
+      <guid isPermaLink="false">08978255747c013604ca4f2f59ca49933c6f0b60:Redlamp</guid>
+      <pubDate>Fri, 09 Oct 2026 02:32:56 GMT</pubDate>
+      <category>设计和产品 / 设计工具</category>
+      <description>Category: 设计和产品 / 设计工具
+App: Redlamp
+Description: 原生开源的 RAW 照片编辑器，保留 Lightroom Classic 的修片工作流程。[![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp)
+Website: https://redlamp.app
+Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: Redlamp<br/>Description: 原生开源的 RAW 照片编辑器，保留 Lightroom Classic 的修片工作流程。[![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp)<br/>Website: https://redlamp.app<br/>Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60]]></content:encoded>
+    </item>
     <item>
       <title>Sesame</title>
       <link>https://github.com/qiwei66/sesame</link>
@@ -693,20 +707,6 @@ Website: https://qingjian.app/
 Commit: Add 青简 Qingjian
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638</description>
       <content:encoded><![CDATA[Category: 输入法<br/>App: 青简 Qingjian<br/>Description: 使用 Rust 编写的跨平台拼音输入法，在候选词旁显示正在学习语言的译词。<br/>Website: https://qingjian.app/<br/>Commit: Add 青简 Qingjian<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35a3af262ea140508a74118c25266475b0926638]]></content:encoded>
-    </item>
-    <item>
-      <title>Wayfinder</title>
-      <link>https://wayfinder-ai.pages.dev/</link>
-      <guid isPermaLink="false">5ef9a3c115e23233512ba5315424a772c738030d:Wayfinder</guid>
-      <pubDate>Sun, 13 Sep 2026 06:27:40 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Wayfinder
-Description: 本地优先的可视化航海图，保留 Codex 与 Claude Code 会话、分支、失败、决策和文件变更。
-Website: https://wayfinder-ai.pages.dev/
-Commit: Add Wayfinder to AI Tools (#2828)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Wayfinder<br/>Description: 本地优先的可视化航海图，保留 Codex 与 Claude Code 会话、分支、失败、决策和文件变更。<br/>Website: https://wayfinder-ai.pages.dev/<br/>Commit: Add Wayfinder to AI Tools (#2828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ef9a3c115e23233512ba5315424a772c738030d]]></content:encoded>
     </item>
   </channel>
 </rss>
