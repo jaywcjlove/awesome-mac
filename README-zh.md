@@ -609,6 +609,7 @@ Awesome Mac
 * [UTM](https://mac.getutm.app/) - 适用于 iOS 和 macOS 的全功能系统模拟器和虚拟机主机。[![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Veertu](https://veertu.com) - Mac 上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。![Freeware][Freeware Icon]
+* [VirtuOS](https://nagornyi.su/virtuos/?ref=awesome-mac) - 在 Apple 芯片上运行 macOS 和 ARM64 Linux 虚拟机的工具，支持暂停恢复与共享文件夹。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/virtuos/id6752539158?platform=mac)
 * [VMware Fusion Pro](http://www.vmware.com/) - 功能强大的虚拟机软件，个人使用免费，企业需要许可![Freeware][Freeware Icon]
 
 ## AI 工具

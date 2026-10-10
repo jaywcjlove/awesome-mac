@@ -592,6 +592,7 @@ Awesome Mac
 * [Vagrant](https://www.vagrantup.com) - 開発環境の構築と配布のためのツール。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [Veertu](https://veertu.com) - Mac上で最も軽量なVM。レスポンシブでサンドボックス化されたネイティブな方法でVMを実行。 ![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - 強力なx86およびAMD64/Intel64仮想化製品。 ![Freeware][Freeware Icon]
+* [VirtuOS](https://nagornyi.su/virtuos/?ref=awesome-mac) - 一時停止・再開と共有フォルダに対応した、Appleシリコン向けのmacOS・ARM64 Linux仮想マシンアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/virtuos/id6752539158?platform=mac)
 * [VMware Fusion](http://www.vmware.com/) - VMwareが開発した強力な商用VM。
 
 ### データベース

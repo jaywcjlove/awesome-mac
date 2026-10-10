@@ -590,6 +590,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Vagrant](https://www.vagrantup.com) - Tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, sandboxed & native way to run VM on your Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](https://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
+* [VirtuOS](https://nagornyi.su/virtuos/?ref=awesome-mac) - Virtual machine app for running macOS and ARM64 Linux guests on Apple silicon, with pause and resume and shared folders. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/virtuos/id6752539158?platform=mac)
 * [VMware Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
 
 ### Databases
