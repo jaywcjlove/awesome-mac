@@ -1250,6 +1250,7 @@ Awesome Mac
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - 面向 Razer Naga V2 HyperSpeed 的开源 Razer Synapse 替代工具，可重新映射侧键并设置 DPI 和回报率。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [Qbserve](https://qotoqot.com/qbserve/) - 自动追踪时间，并提供项目、工时和效率统计。
 * [QDuo](https://xueshi.dev/qduo/) - 在任意应用里选中文字后，光标旁弹出你自己配置的动作：AI 提示词、搜索、文本转换、快捷指令和 Shell 脚本。 [![Open-Source Software][OSS Icon]](https://github.com/XueshiQiao/qduo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [RainDesktop](https://github.com/gonzaroman/RainDesktop) - 在窗口后方下雨的效果，雨滴会在标题栏上弹跳、沿窗口两侧流下，离开电脑时桌面还会慢慢被淹没。 [![Open-Source Software][OSS Icon]](https://github.com/gonzaroman/RainDesktop) ![Freeware][Freeware Icon]
 * [Rapidmg](https://rapidmg.branchseer.com/) - 一键解压 DMG 镜像里的 app 至 “应用程序” 目录。[![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778?platform=mac)
 * [rem](https://github.com/jasonjmcghee/rem) - 一款开源软件，可以本地记录并搜索你在 Mac 上查看的所有内容。 [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
 * [Rewind](https://www.rewind.ai/) - 记录并检索屏幕与音频活动历史的工具。
