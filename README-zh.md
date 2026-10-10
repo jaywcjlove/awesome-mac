@@ -424,6 +424,7 @@ Awesome Mac
 
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 支持多提供商配置和语音输入的 AI 原生终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
+* [C-SSH](https://c-ssh.com/) - 适用于 Apple Silicon 的 SSH 和 RDP 客户端，提供持久会话、监控和文件管理。 ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 用于并行运行和管理编码 agent 的原生 macOS 终端。 [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 终端、SSH 和 SFTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - 基于 libghostty 构建的终端，显示每个编码 agent 正在工作、等待还是已完成。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
