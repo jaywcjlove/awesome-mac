@@ -1357,6 +1357,8 @@ Awesome Mac
 * [Repose](https://github.com/fikrikarim/repose) - 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。 [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - 轻量级系统监控小组件，可在菜单栏管理的可调节桌面窗口中实时显示 CPU、内存、磁盘、网络、电池和进程信息。 [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
+* [FreeAudio](https://github.com/hakanotal/FreeAudio) - 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeAudio) ![Freeware][Freeware Icon]
+* [FreeDisplay](https://github.com/hakanotal/FreeDisplay) - 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeDisplay) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 直接控制外接显示器亮度和音量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。 [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
