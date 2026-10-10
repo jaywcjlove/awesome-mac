@@ -1540,6 +1540,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AeroSpace](https://github.com/nikitabobko/AeroSpace) - i3-like tiling window manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/nikitabobko/AeroSpace) ![Freeware][Freeware Icon]
 * [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](https://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+* [AnyDrag](https://xueshi.dev/anydrag/) - Hold a modifier key and drag anywhere on a window to move or resize it, as smoothly as dragging the title bar. [![Open-Source Software][OSS Icon]](https://github.com/XueshiQiao/AnyDrag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Assignee](https://assignee.app) - Simple, instant app switcher.
 * [Convoker](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - App switcher for faster window and app switching across multiple screens.

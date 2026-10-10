@@ -1540,6 +1540,7 @@ Awesome Mac
 * [AeroSpace](https://github.com/nikitabobko/AeroSpace) - macOS向けのi3ライクなタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/nikitabobko/AeroSpace) ![Freeware][Freeware Icon]
 * [AltTab](https://alt-tab-macos.netlify.app) - ウィンドウプレビュー付きのオープンソースウィンドウスイッチャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/) - タイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
+* [AnyDrag](https://xueshi.dev/anydrag/) - 修飾キーを押しながらウィンドウ内のどこからでもドラッグして移動・リサイズでき、タイトルバーをドラッグするのと同じ滑らかさで動作。 [![Open-Source Software][OSS Icon]](https://github.com/XueshiQiao/AnyDrag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Assignee](https://assignee.app) - シンプルで即座に切り替えられるアプリスイッチャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8&platform=mac)
 * [Convoker](https://github.com/varie-ai/convoker) - アプリ名を入力してエンターキーを押すだけで、そのアプリのすべてのウィンドウを呼び出せます。 [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - マルチディスプレイ環境でアプリやウィンドウを素早く切り替えるツール。
