@@ -1549,6 +1549,7 @@ Awesome Mac
 * [Convoker](https://github.com/varie-ai/convoker) - アプリ名を入力してエンターキーを押すだけで、そのアプリのすべてのウィンドウを呼び出せます。 [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - マルチディスプレイ環境でアプリやウィンドウを素早く切り替えるツール。
 * [Dimsum](https://github.com/nshi/dimsum) - 非アクティブなウィンドウを暗くしてフォーカス中のウィンドウを際立たせる、ミニマルなメニューバーユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
+* [DisplayShift](https://aqibjaved.dev/apps/displayshift/) - 外部ディスプレイの接続時にウィンドウを移動し、画面構成ごとにレイアウトを記憶して、アプリを並べて配置。 ![Native App][Native Icon]
 * [DockDoor](https://dockdoor.net) - macOS用の無料でオープンソースのウィンドウプレビュー＆Alt-Tab。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 * [Dockit](https://dockit-docs.pages.dev) - 任意のウィンドウを画面の端にドッキングできるアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [DockLens](https://github.com/firstfu/DockLens-app) - Dockのアイコンにポインタを置くと、そのアプリのすべてのウィンドウのライブサムネールを表示し、切り替え・閉じる・最小化ができるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
