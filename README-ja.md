@@ -1605,6 +1605,7 @@ Awesome Mac
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` の起動リンクを保ったままアプリを外部ストレージへ移せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [FileMinutes](https://www.fileminutes.com/) - ファイルを見つけてアクションを実行、すべてを一つで。
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finderウィンドウのサイズと位置を永続的に解決。 ![Freeware][Freeware Icon].
+* [FinderRight](https://github.com/funny-dog/FinderRight) - Finder の右クリックメニューに新規ファイル作成、ターミナルで開く、パスのコピー、切り取り＆貼り付けを追加するオープンソース拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [SaneClick](https://saneclick.com) - Finder の右クリックメニューにファイル操作、変換、開発者向けアクションを追加する拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - macOS向けのウォーターフォールスタイル画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - Sublime Textの機能を統合した初のデュアルペインファイルマネージャー。
