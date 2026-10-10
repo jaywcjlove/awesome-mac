@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FreeAudio</title>
+      <link>https://github.com/hakanotal/FreeAudio</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeAudio</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: FreeAudio
+Description: Per-app volume and mute, output device switching, and volume control for HDMI/DisplayPort monitors.
+Open Source: https://github.com/hakanotal/FreeAudio
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FreeAudio<br/>Description: Per-app volume and mute, output device switching, and volume control for HDMI/DisplayPort monitors.<br/>Open Source: https://github.com/hakanotal/FreeAudio<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
+    <item>
+      <title>FreeDisplay</title>
+      <link>https://github.com/hakanotal/FreeDisplay</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeDisplay</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: FreeDisplay
+Description: Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar.
+Open Source: https://github.com/hakanotal/FreeDisplay
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FreeDisplay<br/>Description: Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar.<br/>Open Source: https://github.com/hakanotal/FreeDisplay<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
     <item>
       <title>QDuo</title>
       <link>https://xueshi.dev/qduo/</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/yuuichieguchi/Calyx
 Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Calyx<br/>Description: Native macOS terminal for running and supervising coding agents in parallel.<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
-    </item>
-    <item>
-      <title>MangoDisk</title>
-      <link>https://mangodisk.app/</link>
-      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
-      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MangoDisk
-Description: Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion.
-Website: https://mangodisk.app/
-Commit: Add mangodisk (#2756)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MangoDisk<br/>Description: Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion.<br/>Website: https://mangodisk.app/<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
-    </item>
-    <item>
-      <title>DeepDeck</title>
-      <link>https://deepdeck.getmegaportal.com/</link>
-      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
-      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: DeepDeck
-Description: Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.
-Website: https://deepdeck.getmegaportal.com/
-Commit: Add DeepDeck to AI tools (#2869)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: DeepDeck<br/>Description: Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
     </item>
   </channel>
 </rss>

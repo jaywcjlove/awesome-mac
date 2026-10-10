@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FreeAudio</title>
+      <link>https://github.com/hakanotal/FreeAudio</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeAudio</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: FreeAudio
+Description: 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。
+Open Source: https://github.com/hakanotal/FreeAudio
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: FreeAudio<br/>Description: 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。<br/>Open Source: https://github.com/hakanotal/FreeAudio<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
+    <item>
+      <title>FreeDisplay</title>
+      <link>https://github.com/hakanotal/FreeDisplay</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeDisplay</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: FreeDisplay
+Description: 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。
+Open Source: https://github.com/hakanotal/FreeDisplay
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: FreeDisplay<br/>Description: 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。<br/>Open Source: https://github.com/hakanotal/FreeDisplay<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
     <item>
       <title>QDuo</title>
       <link>https://xueshi.dev/qduo/</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/yuuichieguchi/Calyx
 Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Calyx<br/>Description: 用于并行运行和管理编码 agent 的原生 macOS 终端。<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
-    </item>
-    <item>
-      <title>MangoDisk</title>
-      <link>https://mangodisk.app/zh</link>
-      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
-      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: MangoDisk
-Description: 免费开源的磁盘清理与空间分析工具，本地扫描并在删除前显示具体路径和大小。
-Website: https://mangodisk.app/zh
-Commit: Add mangodisk (#2756)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: MangoDisk<br/>Description: 免费开源的磁盘清理与空间分析工具，本地扫描并在删除前显示具体路径和大小。<br/>Website: https://mangodisk.app/zh<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
-    </item>
-    <item>
-      <title>DeepDeck</title>
-      <link>https://deepdeck.getmegaportal.com/</link>
-      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
-      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: DeepDeck
-Description: 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。
-Website: https://deepdeck.getmegaportal.com/
-Commit: Add DeepDeck to AI tools (#2869)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: DeepDeck<br/>Description: 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
     </item>
   </channel>
 </rss>

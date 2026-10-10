@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FreeAudio</title>
+      <link>https://github.com/hakanotal/FreeAudio</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeAudio</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: FreeAudio
+Description: 앱별 음량 및 음소거, 출력 장치 전환, HDMI/DisplayPort 모니터 음량 제어를 지원하는 도구.
+Open Source: https://github.com/hakanotal/FreeAudio
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: FreeAudio<br/>Description: 앱별 음량 및 음소거, 출력 장치 전환, HDMI/DisplayPort 모니터 음량 제어를 지원하는 도구.<br/>Open Source: https://github.com/hakanotal/FreeAudio<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
+    <item>
+      <title>FreeDisplay</title>
+      <link>https://github.com/hakanotal/FreeDisplay</link>
+      <guid isPermaLink="false">d7321aa506df851bee15b535392a80b69b9ba071:FreeDisplay</guid>
+      <pubDate>Sat, 10 Oct 2026 05:23:36 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: FreeDisplay
+Description: 메뉴 막대에서 외부 디스플레이의 밝기, HiDPI 모드, 해상도, 배치를 제어하는 도구.
+Open Source: https://github.com/hakanotal/FreeDisplay
+Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: FreeDisplay<br/>Description: 메뉴 막대에서 외부 디스플레이의 밝기, HiDPI 모드, 해상도, 배치를 제어하는 도구.<br/>Open Source: https://github.com/hakanotal/FreeDisplay<br/>Commit: Add FreeDisplay and FreeAudio to Menu Bar Tools (EN/ZH/JA/KO) (#3296)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7321aa506df851bee15b535392a80b69b9ba071]]></content:encoded>
+    </item>
     <item>
       <title>QDuo</title>
       <link>https://xueshi.dev/qduo/</link>
@@ -679,34 +707,6 @@ Open Source: https://github.com/yuuichieguchi/Calyx
 Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Calyx<br/>Description: 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널.<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
-    </item>
-    <item>
-      <title>MangoDisk</title>
-      <link>https://mangodisk.app/</link>
-      <guid isPermaLink="false">a49dd4e20cf51127347838dc50301c78909841f5:MangoDisk</guid>
-      <pubDate>Mon, 14 Sep 2026 11:14:01 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: MangoDisk
-Description: 로컬에서 스캔하고 삭제 전에 경로와 크기를 확인할 수 있는 무료 오픈 소스 디스크 정리 및 공간 분석 도구.
-Website: https://mangodisk.app/
-Commit: Add mangodisk (#2756)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MangoDisk<br/>Description: 로컬에서 스캔하고 삭제 전에 경로와 크기를 확인할 수 있는 무료 오픈 소스 디스크 정리 및 공간 분석 도구.<br/>Website: https://mangodisk.app/<br/>Commit: Add mangodisk (#2756)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a49dd4e20cf51127347838dc50301c78909841f5]]></content:encoded>
-    </item>
-    <item>
-      <title>DeepDeck</title>
-      <link>https://deepdeck.getmegaportal.com/</link>
-      <guid isPermaLink="false">362b56d11a832ca15a44a4a68ec2df6811831c1b:DeepDeck</guid>
-      <pubDate>Mon, 14 Sep 2026 11:09:33 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: DeepDeck
-Description: DeepSeek Harness 기반의 데스크톱 AI 작업 공간으로, 웹사이트 작업을 위한 WebMCP 도구를 만들고 재사용할 수 있습니다.
-Website: https://deepdeck.getmegaportal.com/
-Commit: Add DeepDeck to AI tools (#2869)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: DeepDeck<br/>Description: DeepSeek Harness 기반의 데스크톱 AI 작업 공간으로, 웹사이트 작업을 위한 WebMCP 도구를 만들고 재사용할 수 있습니다.<br/>Website: https://deepdeck.getmegaportal.com/<br/>Commit: Add DeepDeck to AI tools (#2869)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362b56d11a832ca15a44a4a68ec2df6811831c1b]]></content:encoded>
     </item>
   </channel>
 </rss>
