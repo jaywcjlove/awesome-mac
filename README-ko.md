@@ -673,6 +673,7 @@ Awesome Mac
 * [Cherry Studio](https://www.cherry-ai.com/) - 여러 LLM 어시스턴트를 지원하는 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/CherryHQ/cherry-studio) ![Freeware][Freeware Icon]
 * [Chatbox](https://chatboxai.app) - 여러 AI 모델을 지원하는 사용자 친화적 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/chatboxai/chatbox) ![Freeware][Freeware Icon]
 * [CodexBar](https://codexbar.app) - 로그인 없이 OpenAI Codex와 Claude Code의 사용 통계를 표시. [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
+* [Creatos](https://creatos.io) - PDF, 메모, 웹 페이지를 한 캔버스에 두고 GPT, Claude, Gemini 또는 로컬 Ollama 모델에 나란히 질문할 수 있는 데스크톱 AI 캔버스(자체 API 키 사용).
 * [Cursor Voice](https://cursorvoice.app) - 커서 옆에서 동작하며 화면을 보고 OpenAI Realtime API로 앱을 제어할 수 있는 음성 어시스턴트. [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DataNexa](https://mingozacwu.github.io/datanexa-site/) - 여러 데이터베이스를 읽기 전용 보호와 감사를 갖춘 단일 접근 지점으로 통합하여 AI 에이전트에게 제공하는 오픈소스 데스크톱용 데이터베이스 MCP 게이트웨이. [![Open-Source Software][OSS Icon]](https://github.com/MingoZacwu/DataNexa) ![Freeware][Freeware Icon]
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - DeepSeek Harness 기반의 데스크톱 AI 작업 공간으로, 웹사이트 작업을 위한 WebMCP 도구를 만들고 재사용할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
