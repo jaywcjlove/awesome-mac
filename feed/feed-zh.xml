@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 11:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:10:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FinderRight</title>
+      <link>https://github.com/funny-dog/FinderRight</link>
+      <guid isPermaLink="false">c7a67d5567302ea9cbf22928acefc2bef6ede743:FinderRight</guid>
+      <pubDate>Sat, 10 Oct 2026 16:10:28 GMT</pubDate>
+      <category>其它实用工具 / Finder</category>
+      <description>Category: 其它实用工具 / Finder
+App: FinderRight
+Description: 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。
+Open Source: https://github.com/funny-dog/FinderRight
+Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: FinderRight<br/>Description: 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。<br/>Open Source: https://github.com/funny-dog/FinderRight<br/>Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743]]></content:encoded>
+    </item>
     <item>
       <title>Boost</title>
       <link>https://github.com/Kernel-Hunter/boost</link>
@@ -693,20 +707,6 @@ Website: https://teebe.io
 Commit: Add teebe (#2931)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: teebe<br/>Description: 原生的 Git worktree 管理工具，实时显示文件变更标记和内联差异。<br/>Website: https://teebe.io<br/>Commit: Add teebe (#2931)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f9f259d47dea89e242d55e27d125ce2029742c63]]></content:encoded>
-    </item>
-    <item>
-      <title>vChewing 唯音</title>
-      <link>https://github.com/vChewing/vChewing-macOS</link>
-      <guid isPermaLink="false">091cbee9a5589b722064600b212dd2b4984b6014:vChewing 唯音</guid>
-      <pubDate>Thu, 17 Sep 2026 07:59:11 GMT</pubDate>
-      <category>输入法</category>
-      <description>Category: 输入法
-App: vChewing 唯音
-Description: 支持拼音与注音，配备简体中文和繁体中文专用词库的中文输入法。
-Open Source: https://github.com/vChewing/vChewing-macOS
-Commit: Add vChewing 唯音
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
-      <content:encoded><![CDATA[Category: 输入法<br/>App: vChewing 唯音<br/>Description: 支持拼音与注音，配备简体中文和繁体中文专用词库的中文输入法。<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
     </item>
   </channel>
 </rss>
