@@ -977,6 +977,7 @@ Awesome Mac
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream CodesとM3Uに対応したネイティブIPTVプレイヤー。高速検索、mpv再生、ピクチャインピクチャ、ダウンロードに対応。 [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - フリーソフトウェアメディアシステム。 [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 動画、音楽、画像などを扱えるオープンソースのメディアセンター。 [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [La-La](https://nagornyi.su/la-la/?ref=awesome-mac) - アルバムアート、曲情報、いいね、再生操作に対応した、Safari版Yandex Music用のデスクトップウィジェット。 [![App Store][app-store Icon]](https://apps.apple.com/app/la-la-widget-for-yandex-music/id6741187209?platform=mac)
 * [LMMS](https://lmms.io) - 音楽制作向けのオープンソースDAW。 [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [LosslessCut](https://github.com/mifi/lossless-cut) - ffmpegを使用した素早くロスレスなビデオ・オーディオトリミングのためのクロスプラットフォームツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 単語ごとのグロー演出に対応した同期歌詞プレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
