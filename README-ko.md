@@ -1112,6 +1112,7 @@ Awesome Mac
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Seodisias](https://seodisias.com) - 사이트의 기술 SEO 문제를 찾아주는 분석 도구. [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
+* [Selenar](https://selenar.app/) - 선택한 유형의 방해 콘텐츠를 기기 내에서 인식하고 나가거나 계속할지 선택할 수 있는 도구.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [Strategr](https://khrykin.github.io/strategr/) - 하루를 타임박싱으로 정리하는 시간 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [StrokeMouse](https://strokemouse.com) - 트리거 버튼을 누른 채 궤적을 그려 단축키, 앱 실행, 창 작업, Shell/AppleScript 등을 실행하는 마우스 제스처 도구. [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]
