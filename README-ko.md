@@ -957,6 +957,7 @@ Awesome Mac
 * [Maccy](https://maccy.app/) - 가벼운 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - 클립보드의 민감한 정보를 마스킹해 주는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 검색, 태그, 이미지 기록을 지원하는 로컬 우선 클립보드 기록 관리자. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Notchet](https://aqibjaved.dev/apps/notchet/) - MacBook 노치에 상주하는 클립보드 관리자로, 이미지 속 텍스트 검색과 복사한 키·비밀번호 보호를 지원합니다. ![Native App][Native Icon]
 * [Paste](https://pasteapp.io/) - 세계 최고의 클립보드 관리자.
 * [Pesty](https://github.com/momenbasel/pesty) - 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
 * [SaneClip](https://saneclip.com) - 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip) ![Freeware][Freeware Icon]
