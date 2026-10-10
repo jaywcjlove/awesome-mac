@@ -1532,6 +1532,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Timing](https://timingapp.com/) - Automatic time tracking with productivity insights and billing-friendly records.
 * [Textream](https://textream.fka.dev) - Free teleprompter with real-time word tracking and voice-activated scrolling. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - Open-source spotlight alternative and shortcut toolkit. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
+* [Trackables](https://trackables.me/) - Tracks time in apps and websites by category, keeps a year of history, and syncs with an iPhone app.
 * [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
 * [Ukelele](https://software.sil.org/ukelele/) - Unicode Keyboard Layout Editor.
 * [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
