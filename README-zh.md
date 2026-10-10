@@ -653,6 +653,7 @@ Awesome Mac
 * [mu](https://github.com/qybaihe/mu) - 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
+* [Outlier](https://outlier.host/) - 在本机离线运行开源模型的 AI 聊天和编程助手。
 * [Prevail](https://prevail.sh) - 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Quail](https://quail-ai.app) - 在 Apple 芯片上运行 GGUF 与 MLX 模型的本地模型服务器，提供 OpenAI 和 Anthropic 兼容 API，可连接 Claude Code、Codex 等工具。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - 开源工具，在本机收录 Claude Code 和 Codex 交付过的看板、报告、网站、PR 和文件，打几个字或说一句话就能重新打开。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
