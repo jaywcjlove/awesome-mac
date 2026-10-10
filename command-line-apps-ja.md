@@ -109,6 +109,7 @@ Awesome Command Line Apps
 
 ## データベース
 
+* [dbdiff](https://github.com/rekurt/dbdiff) - PostgreSQL、MySQL/MariaDB、SQLiteのデータベーススキーマを比較し、レビュー用のマイグレーションSQLを生成。 [![Open-Source Software][OSS Icon]](https://github.com/rekurt/dbdiff) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - 自動補完とシンタックスハイライト機能を備えたMySQL用CLI。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 自動補完とシンタックスハイライト機能を備えたPostgres用コマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
 
