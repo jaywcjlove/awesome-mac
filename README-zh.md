@@ -277,6 +277,7 @@ Awesome Mac
 * [SaneHosts](https://sanehosts.com) - 基于 hosts 的广告与追踪器拦截工具。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - 本地优先的 JSON 工作台，支持格式化、编辑、对比、转换、校验和从日志中提取 JSON。 [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
+* [Kafma](https://kafma.app) - 一款桌面端 Kafka GUI 客户端，将“消费—检查—生产”的调试闭环整合在同一工作区内，并支持将远程 Topic 及其 Schema 克隆至本地集群以进行测试。 ![Freeware][Freeware Icon]
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持 Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限。 ![Freeware][Freeware Icon]
