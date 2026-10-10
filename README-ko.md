@@ -1102,6 +1102,7 @@ Awesome Mac
 * [Magic Switch](https://magic-switch.com/) - 여러 Mac 사이에서 Magic Keyboard, Mouse, Trackpad를 전환하는 도구.
 * [Metrune](https://treafree.github.io/Metrune/ko/) - 작업, AI 코딩, GitHub 활동, 기기 이벤트, 배지, 리포트를 MacBook 노치에 모으는 로컬 우선 집중 작업 공간. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 여러 AI 서비스를 한곳에서 쓰는 채팅 클라이언트.
+* [My House, My Things](https://myhousemythings.com) - 집안 물건·영수증·보증·정기 작업을 로컬 단일 파일에 기록하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id6812472034?platform=mac)
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 주기적 스크린샷으로 하루 작업을 돌아볼 수 있는 도구.
 * [OpenClip](https://getopenclip.app) - 선택한 텍스트로 즉각적인 작업을 실행할 수 있는 macOS용 경량 플로팅 액션 바. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - 사이드 버튼을 재매핑하고 DPI와 폴링 레이트를 설정하는 Razer Naga V2 HyperSpeed용 오픈 소스 Razer Synapse 대안. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
