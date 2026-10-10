@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:38:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Caplo</title>
+      <link>https://github.com/icloudza/caplo</link>
+      <guid isPermaLink="false">7dbe3d7170aba42aad355142e230f0ca710481a9:Caplo</guid>
+      <pubDate>Sat, 10 Oct 2026 06:38:39 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: Caplo
+Description: 録画後すぐに編集でき、自動カメラワーク、カーソル装飾、キャンバスや字幕に対応。
+Open Source: https://github.com/icloudza/caplo
+Commit: Add Caplo fix #3273
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dbe3d7170aba42aad355142e230f0ca710481a9</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Caplo<br/>Description: 録画後すぐに編集でき、自動カメラワーク、カーソル装飾、キャンバスや字幕に対応。<br/>Open Source: https://github.com/icloudza/caplo<br/>Commit: Add Caplo fix #3273<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dbe3d7170aba42aad355142e230f0ca710481a9]]></content:encoded>
+    </item>
     <item>
       <title>Device Hub Pro</title>
       <link>https://github.com/gitemre/device-hub-pro</link>
@@ -693,20 +707,6 @@ Website: https://www.hoptodesk.com/
 Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
       <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: HopToDesk<br/>Description: エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
-    </item>
-    <item>
-      <title>AirPoise</title>
-      <link>https://airpoise.vercel.app/</link>
-      <guid isPermaLink="false">b01f3f7561f44334be770f361479e043e2ea220b:AirPoise</guid>
-      <pubDate>Thu, 17 Sep 2026 02:46:05 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: AirPoise
-Description: AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。
-Website: https://airpoise.vercel.app/
-Commit: Add AirPoise to the app directory (#2891)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AirPoise<br/>Description: AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
     </item>
   </channel>
 </rss>
