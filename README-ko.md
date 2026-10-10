@@ -823,6 +823,7 @@ Awesome Mac
 * [Free Download Manager](https://www.freedownloadmanager.org/) - 강력하고 사용하기 쉬운 무료 다운로드 가속기 및 관리자. ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 링크, 파일, 호스팅 콘텐츠를 위한 오픈 소스 다운로드 관리자. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Lizard](https://nagornyi.su/lizard/?ref=awesome-mac) - NAS, 홈 서버, VPS에서 실행 중인 qBittorrent 및 qbittorrent-nox 서버를 원격으로 관리하는 네이티브 클라이언트. ![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - HTTP, FTP, BitTorrent, Magnet 등을 지원하는 모든 기능을 갖춘 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 최적화된 전송 엔진을 갖춘 경량 다운로드 관리자. ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 인기 있는 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
