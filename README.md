@@ -730,10 +730,10 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ProtoPie](https://www.protopie.io/) - Create the most advanced prototypes as easy as Pie.
 * [QuikFlow](https://quikflow.app) - Create flowcharts with a mind-mapping workflow.
 * [Scapple](https://www.literatureandlatte.com/scapple.php) - Practical mind-mapping software with free whiteboard-like layout.
+* [SimpleDiagrams](https://www.simplediagrams.com/) - Diagramming tool for quick hand-drawn-style sketches. ![Native App][Native Icon]
 * [SimpleMind](https://simplemind.eu/) - The world leader in cross platform Mind Mapping tools.
 * [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
 * [XMind](https://www.xmind.net) - The most popular mind-mapping tool on the planet.
-* [Simple Diagrams](https://www.simplediagrams.com/) - Diagramming tool for quick hand-drawn-style sketches.
 * [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
 
 ### Screenshot Tools
