@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 10 Oct 2026 05:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:00:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Device Hub Pro</title>
+      <link>https://github.com/gitemre/device-hub-pro</link>
+      <guid isPermaLink="false">0e792a783ab3b47934b3c3de7e401cdec945b55a:Device Hub Pro</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:25 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Device Hub Pro
+Description: Android 에뮬레이터와 기기, iOS 시뮬레이터와 iPhone을 나란히 미러링하고 제어하며 테스트하는 도구.
+Open Source: https://github.com/gitemre/device-hub-pro
+Commit: Add Device Hub Pro to Developer Utilities (EN/ZH/JA/KO) (#3278)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e792a783ab3b47934b3c3de7e401cdec945b55a</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Device Hub Pro<br/>Description: Android 에뮬레이터와 기기, iOS 시뮬레이터와 iPhone을 나란히 미러링하고 제어하며 테스트하는 도구.<br/>Open Source: https://github.com/gitemre/device-hub-pro<br/>Commit: Add Device Hub Pro to Developer Utilities (EN/ZH/JA/KO) (#3278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e792a783ab3b47934b3c3de7e401cdec945b55a]]></content:encoded>
+    </item>
     <item>
       <title>FreeAudio</title>
       <link>https://github.com/hakanotal/FreeAudio</link>
@@ -693,20 +707,6 @@ Website: https://airpoise.vercel.app/
 Commit: Add AirPoise to the app directory (#2891)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AirPoise<br/>Description: AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱.<br/>Website: https://airpoise.vercel.app/<br/>Commit: Add AirPoise to the app directory (#2891)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b01f3f7561f44334be770f361479e043e2ea220b]]></content:encoded>
-    </item>
-    <item>
-      <title>Calyx</title>
-      <link>https://github.com/yuuichieguchi/Calyx</link>
-      <guid isPermaLink="false">66811e92ffec11aadd00b23805abe1b6a2ed3191:Calyx</guid>
-      <pubDate>Wed, 16 Sep 2026 01:15:33 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: Calyx
-Description: 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널.
-Open Source: https://github.com/yuuichieguchi/Calyx
-Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Calyx<br/>Description: 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널.<br/>Open Source: https://github.com/yuuichieguchi/Calyx<br/>Commit: Add Calyx to Terminal Apps (EN/ZH/JA/KO) (#2881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/66811e92ffec11aadd00b23805abe1b6a2ed3191]]></content:encoded>
     </item>
   </channel>
 </rss>
