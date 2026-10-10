@@ -571,6 +571,7 @@ Awesome Mac
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화 가리기, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
+* [Lucarne](https://lucarneapp.com/) - 사진 라이브러리, RAW 현상, 색 보정, 기기에서 실행되는 AI 도구를 갖춘 사진 편집기. ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 이미지 배경을 오프라인으로 일괄 제거하는 도구.
 * [Lunacy](https://icons8.com/lunacy) - 내장 에셋과 실시간 협업을 지원하는 벡터 디자인 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 * [MakeHuman](http://www.makehumancommunity.org) - 강력하고 무료인 3D 인간 모델러. ![Freeware][Freeware Icon]
