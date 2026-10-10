@@ -768,6 +768,7 @@ Awesome Mac
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS용 비공식 Google Quick Share 앱. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 세계 최고의 Mac용 파일 전송 앱.
+* [Unison UI for macOS](https://bcourbage.github.io/unison-ui-mac/) - Unison 파일 동기화 도구용 네이티브 GUI로, SSH를 통한 양방향 동기화와 충돌 검토를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/bcourbage/unison-ui-mac) ![Freeware][Freeware Icon]
 
 ## 데이터 복구 도구
 

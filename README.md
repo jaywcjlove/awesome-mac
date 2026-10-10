@@ -942,6 +942,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - The GUI for Rclone & S3. [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Unison UI for macOS](https://bcourbage.github.io/unison-ui-mac/) - Native GUI for the Unison file synchronizer, with two-way sync over SSH and conflict review. [![Open-Source Software][OSS Icon]](https://github.com/bcourbage/unison-ui-mac) ![Freeware][Freeware Icon]
 
 ## Data Recovery Tools
 
