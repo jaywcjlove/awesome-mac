@@ -741,6 +741,7 @@ Awesome Mac
 
 ### スクリーンショットツール
 
+* [BaseShot](https://baseshot.io/) - スクロールキャプチャ、注釈、OCR、自動ズーム録画に対応したスクリーンショット・画面録画ツール。 ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Macの画面をキャプチャする優れた方法を発見。
 * [CloudApp](https://www.getcloudapp.com/) - 視覚のスピードで仕事を。 ![Freeware][Freeware Icon]
