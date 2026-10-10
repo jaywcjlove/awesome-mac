@@ -1678,6 +1678,7 @@ Awesome Mac
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度監視、ファン制御、ハードウェア診断でMacを涼しく健全に保つ。
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
+* [Valpas](https://kirsulab.com/macos/valpas) - 指定した時間だけMacをスリープさせないメニューバーのスイッチ。カウントダウン表示付きで、電源アダプタ接続時・外部ディスプレイ接続時・指定アプリやコマンド（claude、ollama など）の実行中に自動で開始。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/valpas-keep-machine-awake/id6803307242)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
 
 ## ゲームソフトウェア
