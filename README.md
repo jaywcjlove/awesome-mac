@@ -935,6 +935,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Sharing
 
+* [Bucketree](https://bucketree.app/download/) - Backblaze B2 client that manages the whole account, from files and buckets to application keys.
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - File sharing tool for screenshots, screen recordings, and other files.
 * [Flow](https://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
