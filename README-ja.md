@@ -579,6 +579,7 @@ Awesome Mac
 * [Gantry](https://github.com/getgantry/gantry) - ローカルと SSH リモートホストを一元管理できる Docker GUI クライアントで、MCP サーバーを内蔵。 [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 仮想マシンなしでLinux GUIアプリを動かせるWaylandコンポジター。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 隔離されたmacOS仮想マシンワークスペースを作成・管理するための仮想化ツール。 ![Freeware][Freeware Icon]
+* [Kyvenza](https://kyvenza.com/) - macOS、Linux、Windows 11 on ARM のゲストを動かせる Apple Silicon ネイティブの VM 管理アプリ。スナップショット、クローン、内蔵 MCP サーバーに対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6789824483?platform=mac)
 * [MacVirtue](https://naden.co) - Mac上で無料かつ無制限に仮想マシンを実行。
 * [Mocker](https://github.com/us/mocker) - AppleのContainerization framework上に構築されたコンテナ管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - あらゆるワークステーションでオンデマンドのUbuntu VM。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)

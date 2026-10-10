@@ -600,6 +600,7 @@ Awesome Mac
 * [Gantry](https://github.com/getgantry/gantry) - 支持本地与 SSH 远程主机的一站式 Docker 图形化管理工具，内置 MCP 服务端能力。 [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 无需虚拟机即可运行 Linux 图形应用的 Wayland 合成器。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。 ![Freeware][Freeware Icon]
+* [Kyvenza](https://kyvenza.com/) - 面向 Apple Silicon 的原生虚拟机管理器，可运行 macOS、Linux 和 Windows 11 on ARM 客户机，支持快照、克隆和内置 MCP 服务器。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6789824483?platform=mac)
 * [lima-vm](https://github.com/lima-vm/lima) - 专注于运行容器的 Linux 虚拟机。[![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [Mocker](https://github.com/us/mocker) - 基于 Apple Containerization framework 的容器管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - 适用于任何工作站的 Ubuntu 虚拟机。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
