@@ -1290,6 +1290,7 @@ Awesome Mac
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
+* [Clipward](https://github.com/ypankovych/clipward) - 注重隐私的剪贴板管理器，历史记录加密存储、自动清除剪贴板，支持所有数据类型。支持 macOS 10.13 及以上。 [![Open-Source Software][OSS Icon]](https://github.com/ypankovych/clipward) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
