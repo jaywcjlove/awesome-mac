@@ -1156,6 +1156,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Education
 
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
+* [SayItVid](https://sayitvid.com/) - Video pronunciation dictionary with native video clips in context, IPA symbols, and syllable stress breakdown. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
