@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:52:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Boost</title>
+      <link>https://github.com/Kernel-Hunter/boost</link>
+      <guid isPermaLink="false">afaf8f482f91eb5653fbfbaf4570d2963fcf03d4:Boost</guid>
+      <pubDate>Sat, 10 Oct 2026 11:52:19 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Boost
+Description: 无需关闭应用即可释放内存，可冻结应用并原样恢复，还能找出可以安全清理的磁盘空间。
+Open Source: https://github.com/Kernel-Hunter/boost
+Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Boost<br/>Description: 无需关闭应用即可释放内存，可冻结应用并原样恢复，还能找出可以安全清理的磁盘空间。<br/>Open Source: https://github.com/Kernel-Hunter/boost<br/>Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4]]></content:encoded>
+    </item>
     <item>
       <title>Caplo</title>
       <link>https://github.com/icloudza/caplo</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/vChewing/vChewing-macOS
 Commit: Add vChewing 唯音
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
       <content:encoded><![CDATA[Category: 输入法<br/>App: vChewing 唯音<br/>Description: 支持拼音与注音，配备简体中文和繁体中文专用词库的中文输入法。<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
-    </item>
-    <item>
-      <title>HopToDesk</title>
-      <link>https://www.hoptodesk.com/</link>
-      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
-      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
-      <category>远程协助</category>
-      <description>Category: 远程协助
-App: HopToDesk
-Description: 开源的远程桌面与远程协助工具，会话端到端加密。[![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk)
-Website: https://www.hoptodesk.com/
-Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
-      <content:encoded><![CDATA[Category: 远程协助<br/>App: HopToDesk<br/>Description: 开源的远程桌面与远程协助工具，会话端到端加密。[![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk)<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:52:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Boost</title>
+      <link>https://github.com/Kernel-Hunter/boost</link>
+      <guid isPermaLink="false">afaf8f482f91eb5653fbfbaf4570d2963fcf03d4:Boost</guid>
+      <pubDate>Sat, 10 Oct 2026 11:52:19 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Boost
+Description: Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that&apos;s genuinely safe to reclaim.
+Open Source: https://github.com/Kernel-Hunter/boost
+Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Boost<br/>Description: Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that&apos;s genuinely safe to reclaim.<br/>Open Source: https://github.com/Kernel-Hunter/boost<br/>Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4]]></content:encoded>
+    </item>
     <item>
       <title>Caplo</title>
       <link>https://github.com/icloudza/caplo</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/vChewing/vChewing-macOS
 Commit: Add vChewing 唯音
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014</description>
       <content:encoded><![CDATA[Category: Input Methods<br/>App: vChewing 唯音<br/>Description: Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.<br/>Open Source: https://github.com/vChewing/vChewing-macOS<br/>Commit: Add vChewing 唯音<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/091cbee9a5589b722064600b212dd2b4984b6014]]></content:encoded>
-    </item>
-    <item>
-      <title>HopToDesk</title>
-      <link>https://www.hoptodesk.com/</link>
-      <guid isPermaLink="false">8b90edf747dbb06a08bda78adec0d125e1cfdc6d:HopToDesk</guid>
-      <pubDate>Thu, 17 Sep 2026 02:55:48 GMT</pubDate>
-      <category>Remote Login Software</category>
-      <description>Category: Remote Login Software
-App: HopToDesk
-Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.
-Website: https://www.hoptodesk.com/
-Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d</description>
-      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: HopToDesk<br/>Description: Open-source remote desktop and remote support tool with end-to-end encrypted sessions.<br/>Website: https://www.hoptodesk.com/<br/>Commit: Add HopToDesk to Remote Login Software (EN/ZH/JA/KO) (#2896)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b90edf747dbb06a08bda78adec0d125e1cfdc6d]]></content:encoded>
     </item>
   </channel>
 </rss>
