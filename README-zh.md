@@ -798,6 +798,7 @@ Awesome Mac
 * [OpenSpatial](https://github.com/dortanes/openspatial) - 开源空间音频工具，让任意耳机以带头部追踪的 7.1 环绕声播放所有应用的声音。 [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
 * [Popcorn Time](https://popcorn-time.site/) - 用于浏览和观看种子电影的流媒体工具。[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [PotPlayer X](https://zh.okaapps.com/product/1612400976#) - omi出品，音视频播放器，界面简洁，功能齐全 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
+* [Picmal](https://picmal.app/) - 离线批量转换和压缩图片、视频、音频与 PDF，可在应用、访达或快捷指令中使用。
 * [Playback](https://mafintosh.github.io/playback/) - 实验性质的视频播放器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - 发现并聆听来自Hype Machine的音乐。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074?platform=mac)
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 离线音乐播放器，支持多种音频格式、歌词、播放列表与播放队列管理。 [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
