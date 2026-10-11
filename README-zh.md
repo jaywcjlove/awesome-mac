@@ -1105,6 +1105,7 @@ Awesome Mac
 ## 教育
 
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
+* [SayItVid](https://sayitvid.com/) - 搜索数百万母语者真实口语视频片段，提供同步字幕与 IPA 国际音标，轻松学习地道英语发音。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/sayitvid-pronunciation/id6812051218)
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 金融
