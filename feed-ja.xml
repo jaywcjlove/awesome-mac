@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:25:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TunnelFlow</title>
+      <link>https://github.com/XRSec/TunnelFlow</link>
+      <guid isPermaLink="false">bb0c1ae065b615b09a027e0a80be077fa5f70476:TunnelFlow</guid>
+      <pubDate>Sun, 11 Oct 2026 07:25:46 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: TunnelFlow
+Description: ローカル転送、リモート転送、動的SOCKS5転送に対応したモダンなSSHトンネルおよびポートフォワーディング管理ツール。
+Open Source: https://github.com/XRSec/TunnelFlow
+Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: TunnelFlow<br/>Description: ローカル転送、リモート転送、動的SOCKS5転送に対応したモダンなSSHトンネルおよびポートフォワーディング管理ツール。<br/>Open Source: https://github.com/XRSec/TunnelFlow<br/>Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476]]></content:encoded>
+    </item>
     <item>
       <title>inlaut</title>
       <link>https://inlaut.de</link>
@@ -693,20 +707,6 @@ Website: https://airstats.app
 Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: AirStats<br/>Description: CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
-    </item>
-    <item>
-      <title>Lunavect</title>
-      <link>https://github.com/lovach/Lunavect</link>
-      <guid isPermaLink="false">54a20606b7b1b9d065e34a86055dc3b04a795656:Lunavect</guid>
-      <pubDate>Thu, 24 Sep 2026 02:06:38 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Lunavect
-Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.
-Open Source: https://github.com/lovach/Lunavect
-Commit: Add Lunavect to Menu Bar Tools (#2952)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
     </item>
   </channel>
 </rss>
