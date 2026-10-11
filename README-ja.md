@@ -1300,6 +1300,8 @@ Awesome Mac
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+
+* [Isle](https://islenotch.com) - MacBook のノッチを Dynamic Island に変え、音楽コントロール、AI コーディングの利用上限、タイマー、ファイルシェルフ、スクリーンショット共有を提供。 ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - メニューバーからHomeKitおよびHome Assistantスマートホームを操作。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
