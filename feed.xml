@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:39:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>inlaut</title>
+      <link>https://inlaut.de</link>
+      <guid isPermaLink="false">5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c:inlaut</guid>
+      <pubDate>Sun, 11 Oct 2026 01:39:30 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: inlaut
+Description: Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor.
+Website: https://inlaut.de
+Commit: Add inlaut to Voice-to-Text (#3289)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: inlaut<br/>Description: Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor.<br/>Website: https://inlaut.de<br/>Commit: Add inlaut to Voice-to-Text (#3289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c]]></content:encoded>
+    </item>
     <item>
       <title>MemStats</title>
       <link>https://memstats.chungxon.dev/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/lovach/Lunavect
 Commit: Add Lunavect to Menu Bar Tools (#2952)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
-    </item>
-    <item>
-      <title>ExcalidrawZ</title>
-      <link>https://excalidrawz.chocoford.com/</link>
-      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
-      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
-      <category>Design and Product / Prototyping and Mind-Mapping Tools</category>
-      <description>Category: Design and Product / Prototyping and Mind-Mapping Tools
-App: ExcalidrawZ
-Description: Open-source native Excalidraw client with local file management and iCloud sync.
-Website: https://excalidrawz.chocoford.com/
-Commit: Add ExcalidrawZ (#2928)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
-      <content:encoded><![CDATA[Category: Design and Product / Prototyping and Mind-Mapping Tools<br/>App: ExcalidrawZ<br/>Description: Open-source native Excalidraw client with local file management and iCloud sync.<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
     </item>
   </channel>
 </rss>

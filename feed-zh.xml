@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:39:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>inlaut</title>
+      <link>https://inlaut.de</link>
+      <guid isPermaLink="false">5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c:inlaut</guid>
+      <pubDate>Sun, 11 Oct 2026 01:39:30 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: inlaut
+Description: 完全本地运行的按键说话听写工具，支持德语和英语，在设备上运行 Parakeet 模型并将文字输入到光标处。
+Website: https://inlaut.de
+Commit: Add inlaut to Voice-to-Text (#3289)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: inlaut<br/>Description: 完全本地运行的按键说话听写工具，支持德语和英语，在设备上运行 Parakeet 模型并将文字输入到光标处。<br/>Website: https://inlaut.de<br/>Commit: Add inlaut to Voice-to-Text (#3289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c]]></content:encoded>
+    </item>
     <item>
       <title>MemStats</title>
       <link>https://memstats.chungxon.dev/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/lovach/Lunavect
 Commit: Add Lunavect to Menu Bar Tools (#2952)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Lunavect<br/>Description: Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.<br/>Open Source: https://github.com/lovach/Lunavect<br/>Commit: Add Lunavect to Menu Bar Tools (#2952)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54a20606b7b1b9d065e34a86055dc3b04a795656]]></content:encoded>
-    </item>
-    <item>
-      <title>ExcalidrawZ</title>
-      <link>https://excalidrawz.chocoford.com/</link>
-      <guid isPermaLink="false">256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd:ExcalidrawZ</guid>
-      <pubDate>Mon, 21 Sep 2026 02:48:42 GMT</pubDate>
-      <category>设计和产品 / 作图工具</category>
-      <description>Category: 设计和产品 / 作图工具
-App: ExcalidrawZ
-Description: 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。
-Website: https://excalidrawz.chocoford.com/
-Commit: Add ExcalidrawZ (#2928)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 作图工具<br/>App: ExcalidrawZ<br/>Description: 开源原生 Excalidraw 客户端，支持本地文件管理与 iCloud 同步。<br/>Website: https://excalidrawz.chocoford.com/<br/>Commit: Add ExcalidrawZ (#2928)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/256bbf9fd0d2ef58fa3b9de29d1e246e1eb3bdfd]]></content:encoded>
     </item>
   </channel>
 </rss>
