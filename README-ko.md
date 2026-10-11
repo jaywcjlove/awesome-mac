@@ -1178,6 +1178,7 @@ Awesome Mac
 * [Parsec](https://parsec.app/) - 저지연 원격 데스크톱 및 게임 스트리밍 도구.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 오픈 소스 원격 데스크톱 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
+* [Sill](https://getsill.app) - Mac의 모든 창을 iPhone이나 iPad로 스트리밍하고 터치, Apple Pencil, 트랙패드, 키보드로 조작합니다. [![Open-Source Software][OSS Icon]](https://github.com/Saffsanity/sill) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/) - 원격 지원과 화면 공유를 위한 도구. ![Freeware][Freeware Icon]
 
 ## QuickLook 플러그인

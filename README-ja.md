@@ -1710,6 +1710,7 @@ Awesome Mac
 * [RealVNC](https://www.realvnc.com) - デスクトップとモバイルのリモートアクセスのためのオリジナルかつ最高のソフトウェア。
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 複数プロトコルの接続をまとめて管理できるリモート接続クライアント。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - もう一つのリモートデスクトップソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
+* [Sill](https://getsill.app) - Macの任意のウィンドウをiPhoneやiPadにストリーミングし、タッチ、Apple Pencil、トラックパッド、キーボードで操作できます。 [![Open-Source Software][OSS Icon]](https://github.com/Saffsanity/sill) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - Steam Linkアプリを使えば、すべてのコンピューターでSteamゲームをプレイ可能。 ![Freeware][Freeware Icon]
 * [Sunshine](https://github.com/LizardByte/Sunshine) - Moonlight用のセルフホスト型ゲームストリームホスト。 [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - リモートサポートと画面共有のためのツール。 ![Freeware][Freeware Icon]
