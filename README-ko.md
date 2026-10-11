@@ -617,6 +617,7 @@ Awesome Mac
 * [Capty](https://capty.app/) - 편집과 주석 기능을 갖춘 화면 캡처 및 녹화 도구.
 * [Caplo](https://github.com/icloudza/caplo) - 녹화 직후 편집할 수 있으며 자동 카메라 움직임, 커서 효과, 캔버스와 자막을 지원합니다.
 * [Capso](https://github.com/lzhgus/Capso) - 주석, OCR, 웹캠 오버레이를 지원하는 오픈 소스 스크린샷 및 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
+* [Framecast](https://framecast.pro/) - 클릭한 컨트롤을 자동으로 확대하고 화면 속 개인 정보를 흐리게 처리하며, 한 번의 녹화로 영상, 단계별 가이드, 클릭형 데모를 만드는 네이티브 화면 녹화 도구입니다. ![Native App][Native Icon]
 * [Gifox](https://gifox.app) - GIF 녹화 및 공유.
 * [Kap](https://getkap.co/) - 웹 기술로 만든 오픈 소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
