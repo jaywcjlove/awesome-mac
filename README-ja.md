@@ -1710,6 +1710,7 @@ Awesome Mac
 ## リモートログインソフトウェア
 
 * [AnyDesk](https://anydesk.com) - 複数のマシン間でリモートアクセスを提供。
+* [Beam](https://kevin-boileux.com/en/beam) - ローカルネットワークでもインターネット経由でも使える、エンドツーエンド暗号化に対応したMac同士の画面共有・リモート操作ツール。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。 [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
