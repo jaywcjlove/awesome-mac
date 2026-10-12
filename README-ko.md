@@ -843,6 +843,7 @@ Awesome Mac
 
 ## 입력기
 
+* [FlowKeys](https://flowkeys.app/) - 단어 예측, 받아쓰기, 드웰 클릭, 스위치 스캔을 지원하는 화면 키보드. 물리 키보드를 쓰기 어려운 사람을 위해 만들었습니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kawa](https://github.com/utatti/kawa) - OS X용 단축키 기반 입력 소스 전환기. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Keyameleon](https://keyameleon.app/) - 물리 키보드마다 입력 소스를 지정해 두고, 입력 중인 키보드에 맞춰 자동으로 전환해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 고쳐주는 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
