@@ -1389,6 +1389,7 @@ Awesome Mac
 * [PureMac](https://github.com/momenbasel/PureMac) - テレメトリーなしの無料オープンソースシステムクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - ファイルを削除せずゴミ箱に移動する、固定許可リストとテレメトリーなしのオープンソースキャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 無料オープンソースのディスク使用量アナライザー。サンバーストとツリーマップでディスクやクラウドストレージを可視化。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [TinyPrune](https://tinyprune.com) - 期限切れのダウンロード、スクリーンショット、開発者フォルダをゴミ箱に移動する、ローカルファーストのライフサイクルルールツール。プレビューと「保持」設定に対応。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/navig-me/tinyprune)
 
 ### ファイル管理ツール
 
