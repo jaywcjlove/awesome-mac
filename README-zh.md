@@ -711,6 +711,7 @@ Awesome Mac
 ### Email
 
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持 Mac 和 iPhone。
+* [Aster Mail](https://astermail.org) - 私密的端到端加密电子邮件，支持后量子保护、PGP、别名和自定义域名。 [![Open-Source Software][OSS Icon]](https://github.com/Aster-Privacy/Aster-Mail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [网易邮箱大师](http://mail.163.com/dashi/) - 全平台的邮箱管理客户端，网易邮箱大师电脑版。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - 管理和组织邮件，日程和标签进行分类邮件。

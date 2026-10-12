@@ -757,6 +757,7 @@ Awesome Mac
 ### 이메일 클라이언트
 
 * [Airmail](https://airmailapp.com/) - Mac용 빠른 메일 클라이언트.
+* [Aster Mail](https://astermail.org) - 양자 내성 보호, PGP, 별칭, 사용자 지정 도메인을 지원하는 비공개 종단 간 암호화 이메일. [![Open-Source Software][OSS Icon]](https://github.com/Aster-Privacy/Aster-Mail) ![Freeware][Freeware Icon]
 * [Canary Mail](https://canarymail.io/) - PGP 및 AI를 지원하는 안전한 이메일 앱. ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
