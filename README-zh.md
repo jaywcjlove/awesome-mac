@@ -824,6 +824,7 @@ Awesome Mac
 
 ### 流媒体音乐播放器
 
+* [Flione](https://flione.rocavence.com) - 支持 Jellyfin 与 YouTube Music 的音乐播放器，提供音乐库、自动漂移的专辑封面墙和 Cover Flow 三种浏览方式。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Flione-app) ![Freeware][Freeware Icon]
 * [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方播放器 [![Open-Source Software][OSS Icon]](https://github.com/Binaryify/NeteaseCloudMusicApi) ![Freeware][Freeware Icon]
 * [Musicer](https://apps.apple.com/cn/app/musicer/6745227444?platform=mac) - 复古本地音乐播放器，支持多种格式，支持 AI 控制。
 * [Fmusic](https://github.com/wandercn/fmusic) - macOS 音乐播放器，支持多格式播放与歌词显示。
