@@ -1149,6 +1149,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Easydict](https://github.com/tisfeng/Easydict) - A concise dictionary and translator for looking up words and translating text. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](https://www.itranslate.com/) - Translation app for text and web pages in multiple languages. ![Freeware][Freeware Icon]
+* [Lexo](https://kevin-boileux.com/en/lexo) - On-device translator for selected text in any app, triggered by a keyboard shortcut. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Gemini. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
 * [Mate Translate](https://gikken.co/mate-translate/mac) - Translate in Safari and any app on macOS between 103 languages.
