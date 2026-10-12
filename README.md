@@ -761,6 +761,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Screen Recording
 
+* [Autorec](https://autorec.app/) - Detects Zoom, Teams and Google Meet calls and records them locally, with on-device transcription. ![Native App][Native Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
 * [Caplo](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
