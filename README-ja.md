@@ -398,6 +398,7 @@ Awesome Mac
 * [Orca](https://onorca.dev) - 複数のAIコーディングエージェントをそれぞれ独立したgitワークツリーで並列実行できるオープンソースIDE。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - コーディングとソフトウェア開発のためのAI IDE。
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [vixl](https://vixl.app/) - 自分のAPIキーとMCPに対応し、エディタ、ターミナル、Gitビューを備えた、Apple Silicon向けのローカル優先デスクトップコーディングエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/vixl-ai/vixl) ![Freeware][Freeware Icon]
 * [VSCodium](https://vscodium.com/) - コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - 開発者とAIが一体となって魔法のようなコーディング体験を実現する初のエージェント型IDE。
 * [Xcode](https://developer.apple.com/xcode/) - iOS/macOS開発に必須のIDE。 [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
