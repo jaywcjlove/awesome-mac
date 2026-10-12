@@ -382,6 +382,7 @@ Awesome Mac
 
 ### 개발자 유틸리티
 
+* [AI Switcher](https://aiswitcher.dev/desktop/) - Claude Code, Codex, Gemini CLI, Antigravity CLI 계정을 이름이 지정된 프로필로 전환하는 데스크톱 앱. 모든 에이전트 일괄 전환과 저장소별 규칙을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw-desktop) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 접근성 API와 HID 자동화를 통해 iOS 시뮬레이터를 제어할 수 있는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 강력한 파일 이름 변경 앱.
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.
