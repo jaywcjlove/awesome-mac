@@ -1043,6 +1043,7 @@ Awesome Mac
 
 ## 输入法
 
+* [CmdIME](https://github.com/ShunmeiCho/cmd-ime) - 为每个输入法分配专属按键的切换工具，例如左 Command 切到英文、右 Command 切到中文。 [![Open-Source Software][OSS Icon]](https://github.com/ShunmeiCho/cmd-ime) ![Freeware][Freeware Icon]
 * [imewlconverter](https://github.com/studyzy/imewlconverter) 深蓝词库转换,一款开源免费的输入法词库转换程序 [![Open-Source Software][OSS Icon]](https://github.com/studyzy/imewlconverter) ![Freeware][Freeware Icon]
 * [fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - 小企鹅输入法 macOS版本 [![Open-Source Software][OSS Icon]](https://github.com/fcitx-contrib/fcitx5-macos) ![Freeware][Freeware Icon]
 * [Keyameleon](https://keyameleon.app/) - 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
