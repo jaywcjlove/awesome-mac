@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:48:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sitch</title>
+      <link>https://phalladar.github.io/Sitch/</link>
+      <guid isPermaLink="false">8f416f2c3647dbc86777e8c5d34e9a12d6754a45:Sitch</guid>
+      <pubDate>Mon, 12 Oct 2026 05:48:02 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Sitch
+Description: Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。
+Website: https://phalladar.github.io/Sitch/
+Commit: Add Sitch to Screenshot Tools (#3386)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Sitch<br/>Description: Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。<br/>Website: https://phalladar.github.io/Sitch/<br/>Commit: Add Sitch to Screenshot Tools (#3386)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45]]></content:encoded>
+    </item>
     <item>
       <title>Sentinel</title>
       <link>https://sentinel-james-murphy.pages.dev/</link>
@@ -693,20 +707,6 @@ Website: https://karabiner-elements.pqrs.org/
 Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Karabiner-Elements<br/>Description: 在 macOS 上重映射按键并自定义键盘行为。<br/>Website: https://karabiner-elements.pqrs.org/<br/>Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b]]></content:encoded>
-    </item>
-    <item>
-      <title>SquirrelDisk</title>
-      <link>https://github.com/adileo/squirreldisk</link>
-      <guid isPermaLink="false">9e59a129e4ae581e5ad4e7d16be5e5007a863f1e:SquirrelDisk</guid>
-      <pubDate>Mon, 28 Sep 2026 13:01:33 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: SquirrelDisk
-Description: 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。
-Open Source: https://github.com/adileo/squirreldisk
-Commit: Add SquirrelDisk to the ja/ko/zh list #1171
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: SquirrelDisk<br/>Description: 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Add SquirrelDisk to the ja/ko/zh list #1171<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e]]></content:encoded>
     </item>
   </channel>
 </rss>
