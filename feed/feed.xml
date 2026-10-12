@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:48:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sitch</title>
+      <link>https://phalladar.github.io/Sitch/</link>
+      <guid isPermaLink="false">8f416f2c3647dbc86777e8c5d34e9a12d6754a45:Sitch</guid>
+      <pubDate>Mon, 12 Oct 2026 05:48:02 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Sitch
+Description: Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.
+Website: https://phalladar.github.io/Sitch/
+Commit: Add Sitch to Screenshot Tools (#3386)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Sitch<br/>Description: Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.<br/>Website: https://phalladar.github.io/Sitch/<br/>Commit: Add Sitch to Screenshot Tools (#3386)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45]]></content:encoded>
+    </item>
     <item>
       <title>Sentinel</title>
       <link>https://sentinel-james-murphy.pages.dev/</link>
@@ -693,20 +707,6 @@ Website: https://karabiner-elements.pqrs.org/
 Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Karabiner-Elements<br/>Description: Remap keys and customize keyboard behavior on macOS.<br/>Website: https://karabiner-elements.pqrs.org/<br/>Commit: Replace legacy Karabiner with Karabiner-Elements (EN/ZH/JA/KO) (#3045)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7018e8e17894167527c9227b069aa7874c05db2b]]></content:encoded>
-    </item>
-    <item>
-      <title>SquirrelDisk</title>
-      <link>https://github.com/adileo/squirreldisk</link>
-      <guid isPermaLink="false">d7a2f07a84b7c6b792b31796772f074395252a48:SquirrelDisk</guid>
-      <pubDate>Mon, 28 Sep 2026 12:58:54 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: SquirrelDisk
-Description: Beautiful cross-platform disk usage analysis tool.
-Open Source: https://github.com/adileo/squirreldisk
-Commit: Added SquirrelDisk (#1171)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SquirrelDisk<br/>Description: Beautiful cross-platform disk usage analysis tool.<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Added SquirrelDisk (#1171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48]]></content:encoded>
     </item>
   </channel>
 </rss>
