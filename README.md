@@ -1037,6 +1037,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Audio Record and Process
 
+* [akou](https://geiserx.github.io/akou/) - Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - Digital audio workstation for recording and music production. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)

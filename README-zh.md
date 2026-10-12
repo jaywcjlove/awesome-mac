@@ -842,6 +842,7 @@ Awesome Mac
 
 ### 音频录制与编辑
 
+* [akou](https://geiserx.github.io/akou/) - 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
