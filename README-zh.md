@@ -788,6 +788,7 @@ Awesome Mac
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - 一款功能完备的歌词工具。 [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
 * [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - 逐字同步的桌面歌词，支持 Apple Music、Spotify、QQ 音乐、网易云音乐、酷狗及浏览器里的 YouTube Music / Spotify 网页版。 [![Open-Source Software][OSS Icon]](https://github.com/Yudaotor/lyrimuse) ![Freeware][Freeware Icon]
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - 一个干净、轻量级的常驻菜单栏的音乐播放器。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Manul](https://github.com/hormuz-labs/manul) - 用自然语言描述剪辑需求即可编辑视频，并为每次修改显示前后对比的 AI 视频编辑器。 ![Freeware][Freeware Icon]
 * [Metadatics](http://markvapps.com/metadatics) - 音频元数据编辑器，支持大多数常见的音频文件。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/metadatics/id554883654?platform=mac)
 * [Mp3tag](https://mp3tag.app/) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/?platform=mac)
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代 Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]

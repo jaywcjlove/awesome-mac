@@ -989,6 +989,7 @@ Awesome Mac
 * [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Apple Music、Spotify、QQ Music、NetEase Cloud Music、Kugou、ブラウザ内の YouTube Music / Spotify Web に対応した単語単位同期のデスクトップ歌詞。 [![Open-Source Software][OSS Icon]](https://github.com/Yudaotor/lyrimuse) ![Freeware][Freeware Icon]
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - macOSユーザー向けのクリーンで軽量な音楽プレイヤー。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [MacYTDL](https://github.com/section83/MacYTDL) - youtube-dlビデオダウンローダーのmacOS GUIフロントエンド。 [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
+* [Manul](https://github.com/hormuz-labs/manul) - 自然言語で指示した編集を適用し、変更ごとにビフォー・アフターを表示するAI動画エディタ。 ![Freeware][Freeware Icon]
 * [Marker Data](https://github.com/TheAcharya/MarkerData) - Final Cut Pro向けに作られた先進的なマーカー抽出アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
 * [Metadatics](http://markvapps.com/metadatics) - 高度なオーディオメタデータエディター。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/metadatics/id554883654?platform=mac)
 * [Mp3tag](https://mp3tag.app/) - オーディオファイルのメタデータを編集するための強力で使いやすいツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/?platform=mac)
