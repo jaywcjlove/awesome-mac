@@ -690,6 +690,7 @@ Awesome Mac
 * [Monodraw](http://monodraw.helftone.com) - Mac向けに設計された強力なASCIIアートエディター。 [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
 * [Nik Collection](https://nikcollection.dxo.com/) - DxOによるNik Collection。
 * [Paintbrush](http://paintbrush.sourceforge.net/) - ビットマップ画像エディター。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
+* [PastPerfect](https://pastperfect.marcowilka.de/) - AI顔修復とアナログフィルムエミュレーションを備えたフォトエディター。 ![Native App][Native Icon]
 * [Pencil2D](https://www.pencil2d.org) - 2D手描きアニメーションを作成するための簡単で直感的なツール。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - Mac用のフル機能画像エディター。
 * [Pixen](https://pixenapp.com/mac/) - Mac用のネイティブピクセルアートおよびアニメーションエディター。
