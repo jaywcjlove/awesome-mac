@@ -1026,6 +1026,7 @@ Awesome Mac
 
 ### 정리 및 제거
 
+* [ample](https://github.com/mamura66/homebrew-tap) - 개발자 캐시, Xcode 데이터, Docker 디스크, AI 모델이 차지하는 공간을 보여주는 읽기 전용 터미널 스캐너. ![Freeware][Freeware Icon]
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 드래그 앤 드롭을 지원하는 가벼운 앱 제거 도구. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [Boost](https://github.com/Kernel-Hunter/boost) - 앱을 닫지 않고 메모리를 확보하고, 앱을 일시 정지했다가 그대로 복원하며, 안전하게 정리할 수 있는 디스크 공간을 찾아 주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
