@@ -785,6 +785,7 @@ Awesome Mac
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 전문적인 비디오 편집 및 색교정 도구. ![Freeware][Freeware Icon]
+* [Deckboy](https://github.com/Utopian-Academy/Deckboy) - 라이브 영상을 위한 큐 기반 미디어 재생 및 쇼 컨트롤 소프트웨어. SRT 스트리밍, 녹화, 슬라이드용 발표자 화면 지원. [![Open-Source Software][OSS Icon]](https://github.com/Utopian-Academy/Deckboy) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Zoom, Meet, Teams, FaceTime, WhatsApp 및 전화 통화를 녹음하고 봇 없이 AI 회의록을 작성하는 통화 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [Fader](https://github.com/pantafive/fader) - 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 * [FineTune](https://github.com/ronitsingh10/FineTune) - 다중 장치 출력과 10밴드 EQ를 지원하는 앱별 볼륨 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
