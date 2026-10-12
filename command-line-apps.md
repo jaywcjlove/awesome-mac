@@ -109,6 +109,7 @@ A curated list of useful command line apps
 
 ## Databases
 
+* [dbdiff](https://github.com/rekurt/dbdiff) - Compare database schemas and generate migration SQL for review across PostgreSQL, MySQL/MariaDB, and SQLite. [![Open-Source Software][OSS Icon]](https://github.com/rekurt/dbdiff) ![Freeware][Freeware Icon]
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
 
