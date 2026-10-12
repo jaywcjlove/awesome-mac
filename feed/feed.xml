@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Oct 2026 03:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sentinel</title>
+      <link>https://sentinel-james-murphy.pages.dev/</link>
+      <guid isPermaLink="false">f96dc8046c7cd89ad5f096583516453b7be6f202:Sentinel</guid>
+      <pubDate>Mon, 12 Oct 2026 05:26:52 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: Sentinel
+Description: Plain-language Mac security-settings check with a Wi-Fi device list.
+Website: https://sentinel-james-murphy.pages.dev/
+Commit: Add Sentinel to Security Tools (#3321)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: Sentinel<br/>Description: Plain-language Mac security-settings check with a Wi-Fi device list.<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
+    </item>
     <item>
       <title>Keyameleon</title>
       <link>https://keyameleon.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/adileo/squirreldisk
 Commit: Added SquirrelDisk (#1171)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SquirrelDisk<br/>Description: Beautiful cross-platform disk usage analysis tool.<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Added SquirrelDisk (#1171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskWise</title>
-      <link>https://github.com/DreamOfXM/diskwise</link>
-      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: DiskWise
-Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.
-Open Source: https://github.com/DreamOfXM/diskwise
-Commit: Add DiskWise to Cleanup and Uninstall (#2904)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: DiskWise<br/>Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
     </item>
   </channel>
 </rss>

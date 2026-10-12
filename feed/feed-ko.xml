@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 12 Oct 2026 03:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sentinel</title>
+      <link>https://sentinel-james-murphy.pages.dev/</link>
+      <guid isPermaLink="false">f96dc8046c7cd89ad5f096583516453b7be6f202:Sentinel</guid>
+      <pubDate>Mon, 12 Oct 2026 05:26:52 GMT</pubDate>
+      <category>보안 도구</category>
+      <description>Category: 보안 도구
+App: Sentinel
+Description: Mac 보안 설정을 쉬운 말로 점검하고 Wi-Fi에 연결된 기기 목록을 보여 주는 도구.
+Website: https://sentinel-james-murphy.pages.dev/
+Commit: Add Sentinel to Security Tools (#3321)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
+      <content:encoded><![CDATA[Category: 보안 도구<br/>App: Sentinel<br/>Description: Mac 보안 설정을 쉬운 말로 점검하고 Wi-Fi에 연결된 기기 목록을 보여 주는 도구.<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
+    </item>
     <item>
       <title>Keyameleon</title>
       <link>https://keyameleon.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/adileo/squirreldisk
 Commit: Add SquirrelDisk to the ja/ko/zh list #1171
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: SquirrelDisk<br/>Description: 무료 오픈소스 디스크 사용량 분석기. 선버스트와 트리맵으로 디스크와 클라우드 스토리지를 시각화.<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Add SquirrelDisk to the ja/ko/zh list #1171<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskWise</title>
-      <link>https://github.com/DreamOfXM/diskwise</link>
-      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: DiskWise
-Description: 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원.
-Open Source: https://github.com/DreamOfXM/diskwise
-Commit: Add DiskWise to Cleanup and Uninstall (#2904)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: DiskWise<br/>Description: 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원.<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
     </item>
   </channel>
 </rss>

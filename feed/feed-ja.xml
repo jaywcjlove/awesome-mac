@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 12 Oct 2026 03:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sentinel</title>
+      <link>https://sentinel-james-murphy.pages.dev/</link>
+      <guid isPermaLink="false">f96dc8046c7cd89ad5f096583516453b7be6f202:Sentinel</guid>
+      <pubDate>Mon, 12 Oct 2026 05:26:52 GMT</pubDate>
+      <category>セキュリティツール</category>
+      <description>Category: セキュリティツール
+App: Sentinel
+Description: Macのセキュリティ設定をわかりやすい言葉でチェックし、Wi-Fi上のデバイスを一覧表示するツール。
+Website: https://sentinel-james-murphy.pages.dev/
+Commit: Add Sentinel to Security Tools (#3321)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
+      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Sentinel<br/>Description: Macのセキュリティ設定をわかりやすい言葉でチェックし、Wi-Fi上のデバイスを一覧表示するツール。<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
+    </item>
     <item>
       <title>Keyameleon</title>
       <link>https://keyameleon.app/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/adileo/squirreldisk
 Commit: Add SquirrelDisk to the ja/ko/zh list #1171
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: SquirrelDisk<br/>Description: 無料オープンソースのディスク使用量アナライザー。サンバーストとツリーマップでディスクやクラウドストレージを可視化。<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Add SquirrelDisk to the ja/ko/zh list #1171<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e59a129e4ae581e5ad4e7d16be5e5007a863f1e]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskWise</title>
-      <link>https://github.com/DreamOfXM/diskwise</link>
-      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: DiskWise
-Description: 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。
-Open Source: https://github.com/DreamOfXM/diskwise
-Commit: Add DiskWise to Cleanup and Uninstall (#2904)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: DiskWise<br/>Description: 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
     </item>
   </channel>
 </rss>
