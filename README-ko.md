@@ -609,6 +609,7 @@ Awesome Mac
 * [Scap](https://wangchujiang.com/scap/) - 블러, 모자이크, 워터마크를 지원하는 스크린샷 주석 및 캔버스 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
 * [Sitch](https://phalladar.github.io/Sitch/) - 테이퍼드 화살표, 블러, 모자이크를 지원하며 완전히 오프라인으로 동작하는 Skitch 스타일 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
+* [Snappy](https://beqaabu.github.io/Snappy/) - 선택 영역 조정, 창 및 전체 화면 캡처, 주석, 블러, 텍스트 복사를 지원하는 Ubuntu 스타일 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
@@ -843,6 +844,7 @@ Awesome Mac
 ## 입력기
 
 * [Kawa](https://github.com/utatti/kawa) - OS X용 단축키 기반 입력 소스 전환기. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [Keyameleon](https://keyameleon.app/) - 물리 키보드마다 입력 소스를 지정해 두고, 입력 중인 키보드에 맞춰 자동으로 전환해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 고쳐주는 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust로 만든 크로스 플랫폼 병음 입력기로, 후보 단어 옆에 학습 중인 언어의 번역어를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
@@ -925,6 +927,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 마이크와 웹캠 접근을 감시하는 도구. ![Freeware][Freeware Icon]
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음). [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [Santa](https://northpole.security/) - 바이너리와 파일 접근을 제어하는 권한 부여 시스템. [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sentinel](https://sentinel-james-murphy.pages.dev/) - Mac 보안 설정을 쉬운 말로 점검하고 Wi-Fi에 연결된 기기 목록을 보여 주는 도구. ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 오픈 소스 의존성 취약점을 모니터링하는 서비스.
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - USB 포트를 무단 접근으로부터 보호하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 파일의 코드 서명 정보를 보는 Finder 확장. ![Freeware][Freeware Icon]
@@ -1031,6 +1034,7 @@ Awesome Mac
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 삭제 경로를 휴지통으로 이동하는 방식으로만 제한한 오픈 소스 디스크 정리 도구. 세션 단위 실행 취소와 각 캐시 항목 설명을 지원. [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - 고정된 허용 목록 안에서만 삭제하고, 삭제 전에 모든 경로를 보여 주며, 정리를 되돌릴 수 있는 오픈 소스 메뉴 막대 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 개발 빌드 산출물과 캐시(DerivedData, node_modules, SPM/Homebrew 캐시)를 자동 감지해 디스크 공간을 확보하는 메뉴 바 도구. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
+* [Headroom](https://headroom-app.org) - 트리맵과 중복 파일 찾기를 갖춘 빠른 디스크 공간 분석기. 삭제 전에 캐시와 개발자 폴더를 '안전', '주의', '삭제 금지'로 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Xcode, Docker, 시뮬레이터, node_modules 등 개발자 캐시를 정리하는 메뉴 막대 앱으로, 2D/3D 트리맵으로 디스크 사용량을 보여 줍니다. [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 무엇이 공간을 차지하는지 인터랙티브 트리맵으로 보여 주는, WinDirStat에서 영감을 받은 오픈 소스 디스크 공간 분석기. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 파일을 앱별로 묶어 휴지통으로 옮기는 오픈 소스 디스크 정리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
@@ -1045,6 +1049,7 @@ Awesome Mac
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications`의 실행 링크를 유지한 채 앱을 외부 저장소로 옮기는 도구. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Finder 우클릭 메뉴에 새 파일 만들기, 터미널 열기, 경로 복사, 잘라내기/붙여넣기를 추가하는 오픈소스 확장. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
+* [Findly](https://findly.rocavence.com) - 단축키로 화면 가장자리에서 꺼내고 다른 앱으로 전환하면 자동으로 숨는 Finder 스타일 파일 서랍. [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Delete로 활동 모니터를 실행하고 Finder에서 Cmd+X로 파일을 잘라 이동.
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - RAR와 암호 보호 압축 파일까지 다루는 압축 해제 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
@@ -1078,7 +1083,7 @@ Awesome Mac
 
 * [Lotti](https://matthiasn.github.io/lotti/) - 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Nozbe](https://nozbe.com) - 개인과 팀을 위한 GTD 작업 관리자. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
-* [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
+* [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Things](https://culturedcode.com/things/) - 수상 경력이 있는 작업 관리자.
 * [Todoist](https://todoist.com/) - 작업 및 할 일 관리. ![Freeware][Freeware Icon]
 

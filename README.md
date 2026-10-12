@@ -751,6 +751,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup.
 * [Sitch](https://phalladar.github.io/Sitch/) - Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon]
+* [Snappy](https://beqaabu.github.io/Snappy/) - Open-source, Ubuntu-style screenshot tool with an adjustable selection, window and full-screen capture, markup, blur, and text copying. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snip](https://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
@@ -1079,6 +1080,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Input Methods
 
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [Keyameleon](https://keyameleon.app/) - Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words. [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
@@ -1200,6 +1202,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
 * [Santa](https://northpole.security/) - Binary and file access authorization system. [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sentinel](https://sentinel-james-murphy.pages.dev/) - Plain-language Mac security-settings check with a Wi-Fi device list. ![Freeware][Freeware Icon]
 * [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
 * [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - An application for inspecting macOS installer packages. ![Freeware][Freeware Icon]
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - Tool for protecting USB ports from unauthorized access. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
@@ -1374,6 +1377,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
+* [Headroom](https://headroom-app.org) - Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them. [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap. [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
@@ -1453,7 +1457,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nozbe](https://nozbe.com) - GTD task manager for individuals and teams. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - Nice GTD app, made by OmniGroups.
 * [One Task](https://sindresorhus.com/one-task) - Conquer one task at a time. [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322?platform=mac)
-* [Super Productivity](https://super-productivity.com) - Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
+* [Super Productivity](https://super-productivity.com) - Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - Real-time collaborative editor for teams.
 * [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 * [Things](https://culturedcode.com/things/) - Delightful and easy to use task manager. (**Award-winning App**)
@@ -1610,6 +1614,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon].
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
+* [Findly](https://findly.rocavence.com) - Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps. [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [SaneClick](https://saneclick.com) - Finder extension that adds right-click actions for file tasks, conversion, and developer tools. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - RWaterfall-style Image Viewer for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.

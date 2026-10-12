@@ -753,6 +753,7 @@ Awesome Mac
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
 * [Sitch](https://phalladar.github.io/Sitch/) - テーパー矢印、ぼかし、モザイクに対応し、完全オフラインで動作する Skitch 風のスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - 強力な注釈機能を備えたスクリーンキャプチャアプリケーション。 ![Freeware][Freeware Icon]
+* [Snappy](https://beqaabu.github.io/Snappy/) - 選択範囲の調整、ウィンドウ・全画面キャプチャ、注釈、ぼかし、テキストのコピーに対応した Ubuntu 風のオープンソーススクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - スクリーンショット、画面録画、注釈、動画編集に対応した無料のオープンソースmacOSネイティブアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snip](http://snip.qq.com/) - QQ Mailでキャプチャ画像を共有するアプリケーション。 ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) - シンプルだが強力なスニッピングツール。 ![Freeware][Freeware Icon]
@@ -1080,6 +1081,7 @@ Awesome Mac
 ## 入力方法
 
 * [Kawa](https://github.com/utatti/kawa) - OS X用のより良い入力ソース切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [Keyameleon](https://keyameleon.app/) - 物理キーボードごとに入力ソースを割り当て、打鍵したキーボードに合わせて自動で切り替えるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 間違ったキーボード配列で入力した文字を変換するツール。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust製のクロスプラットフォーム拼音入力メソッド。候補語の横に学習中の言語の訳語を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Slackスタイルのショートカットを使用して絵文字入力をより速く簡単にする。 ![Freeware][Freeware Icon]
@@ -1200,6 +1202,7 @@ Awesome Mac
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Little Snitch風の世界地図表示、ルール管理、DNS over HTTPS、pfベースのブロックに対応したオープンソースのアプリケーションファイアウォール（テレメトリなし）。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 汎用ランサムウェア検出。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
 * [Santa](https://northpole.security/) - バイナリとファイルアクセスを制御する認可システム。 [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sentinel](https://sentinel-james-murphy.pages.dev/) - Macのセキュリティ設定をわかりやすい言葉でチェックし、Wi-Fi上のデバイスを一覧表示するツール。 ![Freeware][Freeware Icon]
 * [stronghold](https://github.com/alichtman/stronghold) - ターミナルからmacOSのセキュリティ設定を簡単に構成。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
 * [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - macOSインストーラーパッケージを検査するためのアプリケーション。 ![Freeware][Freeware Icon]
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - USBポートを不正アクセスから保護するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
@@ -1374,6 +1377,7 @@ Awesome Mac
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 削除手段をゴミ箱への移動のみに限定したオープンソースのディスククリーナー。セッション内の元に戻すと各キャッシュ項目の説明に対応。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - 固定の許可リスト内だけを削除し、削除前にすべてのパスを表示して、クリーンアップを取り消せるオープンソースのメニューバー型ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 開発ビルドの成果物やキャッシュ（DerivedData、node_modules、SPM/Homebrewキャッシュ）を自動検出して解放するメニューバーツール。テレメトリーなし。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
+* [Headroom](https://headroom-app.org) - ツリーマップと重複ファイル検索を備えた高速なディスク容量アナライザ。キャッシュや開発用フォルダを削除前に「安全」「注意」「削除不可」で判定。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Xcode、Docker、シミュレータ、node_modules などの開発者向けキャッシュを掃除するメニューバーアプリ。2D/3D のツリーマップでディスク使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 何が容量を占めているかをインタラクティブなツリーマップで表示する、WinDirStatに着想を得たオープンソースのディスク容量アナライザー。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
@@ -1453,7 +1457,7 @@ Awesome Mac
 * [Nozbe](https://nozbe.com) - 個人とチーム向けの GTD タスクマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - OmniGroups製の優れたGTDアプリ。
 * [One Task](https://sindresorhus.com/one-task) - 一度に一つのタスクに集中。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322?platform=mac)
-* [Super Productivity](https://super-productivity.com) - タイムボクシングと時間追跡を備えたタスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
+* [Super Productivity](https://super-productivity.com) - タイムボクシングと時間追跡を備えたタスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - チーム向けリアルタイムコラボレーションエディター。
 * [TaskPaper](https://www.taskpaper.com/) - プレーンテキストベースのToDoリスト。
 * [Things](https://culturedcode.com/things/) - 使いやすく快適なタスクマネージャー。（**受賞歴のあるアプリ**）
@@ -1610,6 +1614,7 @@ Awesome Mac
 * [FileMinutes](https://www.fileminutes.com/) - ファイルを見つけてアクションを実行、すべてを一つで。
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finderウィンドウのサイズと位置を永続的に解決。 ![Freeware][Freeware Icon].
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Finder の右クリックメニューに新規ファイル作成、ターミナルで開く、パスのコピー、切り取り＆貼り付けを追加するオープンソース拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
+* [Findly](https://findly.rocavence.com) - ショートカットで画面の端から引き出し、他のアプリに切り替えると自動で隠れる Finder 風のファイルドロワー。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [SaneClick](https://saneclick.com) - Finder の右クリックメニューにファイル操作、変換、開発者向けアクションを追加する拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - macOS向けのウォーターフォールスタイル画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - Sublime Textの機能を統合した初のデュアルペインファイルマネージャー。

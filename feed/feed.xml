@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Oct 2026 07:25:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:26:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sentinel</title>
+      <link>https://sentinel-james-murphy.pages.dev/</link>
+      <guid isPermaLink="false">f96dc8046c7cd89ad5f096583516453b7be6f202:Sentinel</guid>
+      <pubDate>Mon, 12 Oct 2026 05:26:52 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: Sentinel
+Description: Plain-language Mac security-settings check with a Wi-Fi device list.
+Website: https://sentinel-james-murphy.pages.dev/
+Commit: Add Sentinel to Security Tools (#3321)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: Sentinel<br/>Description: Plain-language Mac security-settings check with a Wi-Fi device list.<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
+    </item>
+    <item>
+      <title>Keyameleon</title>
+      <link>https://keyameleon.app/</link>
+      <guid isPermaLink="false">e9e1da37b6c741c9adfe43d45ec42e20ecda6f92:Keyameleon</guid>
+      <pubDate>Mon, 12 Oct 2026 03:34:55 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: Keyameleon
+Description: Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.
+Website: https://keyameleon.app/
+Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: Keyameleon<br/>Description: Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.<br/>Website: https://keyameleon.app/<br/>Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92]]></content:encoded>
+    </item>
+    <item>
+      <title>Headroom</title>
+      <link>https://headroom-app.org</link>
+      <guid isPermaLink="false">03c3e1bd6002ca0847542c02add03c5a578d7a25:Headroom</guid>
+      <pubDate>Mon, 12 Oct 2026 03:30:34 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Headroom
+Description: Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.
+Website: https://headroom-app.org
+Commit: Add Headroom to Cleanup and Uninstall (#3356)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c3e1bd6002ca0847542c02add03c5a578d7a25</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Headroom<br/>Description: Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.<br/>Website: https://headroom-app.org<br/>Commit: Add Headroom to Cleanup and Uninstall (#3356)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c3e1bd6002ca0847542c02add03c5a578d7a25]]></content:encoded>
+    </item>
+    <item>
+      <title>Snappy</title>
+      <link>https://beqaabu.github.io/Snappy/</link>
+      <guid isPermaLink="false">227b90671bcf3ee2a8618d33406c066e682043cc:Snappy</guid>
+      <pubDate>Mon, 12 Oct 2026 03:15:44 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Snappy
+Description: Open-source, Ubuntu-style screenshot tool with an adjustable selection, window and full-screen capture, markup, blur, and text copying.
+Website: https://beqaabu.github.io/Snappy/
+Commit: Add Snappy to Screenshot Tools (#3362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/227b90671bcf3ee2a8618d33406c066e682043cc</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Snappy<br/>Description: Open-source, Ubuntu-style screenshot tool with an adjustable selection, window and full-screen capture, markup, blur, and text copying.<br/>Website: https://beqaabu.github.io/Snappy/<br/>Commit: Add Snappy to Screenshot Tools (#3362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/227b90671bcf3ee2a8618d33406c066e682043cc]]></content:encoded>
+    </item>
+    <item>
+      <title>Findly</title>
+      <link>https://findly.rocavence.com</link>
+      <guid isPermaLink="false">f71e77d606fe46277569c0c23306631055e04819:Findly</guid>
+      <pubDate>Mon, 12 Oct 2026 02:46:09 GMT</pubDate>
+      <category>Utilities / Finder Tools</category>
+      <description>Category: Utilities / Finder Tools
+App: Findly
+Description: Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps.
+Website: https://findly.rocavence.com
+Commit: Add Findly to Finder Tools (#3371)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f71e77d606fe46277569c0c23306631055e04819</description>
+      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Findly<br/>Description: Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps.<br/>Website: https://findly.rocavence.com<br/>Commit: Add Findly to Finder Tools (#3371)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f71e77d606fe46277569c0c23306631055e04819]]></content:encoded>
+    </item>
     <item>
       <title>TunnelFlow</title>
       <link>https://github.com/XRSec/TunnelFlow</link>
@@ -637,76 +707,6 @@ Open Source: https://github.com/adileo/squirreldisk
 Commit: Added SquirrelDisk (#1171)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: SquirrelDisk<br/>Description: Beautiful cross-platform disk usage analysis tool.<br/>Open Source: https://github.com/adileo/squirreldisk<br/>Commit: Added SquirrelDisk (#1171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a2f07a84b7c6b792b31796772f074395252a48]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskWise</title>
-      <link>https://github.com/DreamOfXM/diskwise</link>
-      <guid isPermaLink="false">792e909be3fb4807516ae9667f176414e9e44e5a:DiskWise</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:47 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: DiskWise
-Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.
-Open Source: https://github.com/DreamOfXM/diskwise
-Commit: Add DiskWise to Cleanup and Uninstall (#2904)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: DiskWise<br/>Description: Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.<br/>Open Source: https://github.com/DreamOfXM/diskwise<br/>Commit: Add DiskWise to Cleanup and Uninstall (#2904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792e909be3fb4807516ae9667f176414e9e44e5a]]></content:encoded>
-    </item>
-    <item>
-      <title>Translate Like Me</title>
-      <link>https://github.com/wiltodelta/translate-like-me</link>
-      <guid isPermaLink="false">c4a247e26322c9fd2212ead5d4c370392784b4ac:Translate Like Me</guid>
-      <pubDate>Mon, 28 Sep 2026 02:50:37 GMT</pubDate>
-      <category>Translation Tools</category>
-      <description>Category: Translation Tools
-App: Translate Like Me
-Description: Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.
-Open Source: https://github.com/wiltodelta/translate-like-me
-Commit: Add Translate Like Me to Translation Tools (#3025)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac</description>
-      <content:encoded><![CDATA[Category: Translation Tools<br/>App: Translate Like Me<br/>Description: Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.<br/>Open Source: https://github.com/wiltodelta/translate-like-me<br/>Commit: Add Translate Like Me to Translation Tools (#3025)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4a247e26322c9fd2212ead5d4c370392784b4ac]]></content:encoded>
-    </item>
-    <item>
-      <title>ILoveNotch</title>
-      <link>https://github.com/niyamvora/ILoveNotch</link>
-      <guid isPermaLink="false">ad32c22dc61d51876e7e962dc99748a38afdfa2c:ILoveNotch</guid>
-      <pubDate>Sun, 27 Sep 2026 02:29:43 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: ILoveNotch
-Description: Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.
-Open Source: https://github.com/niyamvora/ILoveNotch
-Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: ILoveNotch<br/>Description: Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.<br/>Open Source: https://github.com/niyamvora/ILoveNotch<br/>Commit: Add ILoveNotch to Menu Bar Tools (EN/ZH/JA/KO) (#3012)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ad32c22dc61d51876e7e962dc99748a38afdfa2c]]></content:encoded>
-    </item>
-    <item>
-      <title>Dusty</title>
-      <link>https://toprak.sh/dusty</link>
-      <guid isPermaLink="false">e28c259bc09a57a962e91f6d3e55a4c33f472a13:Dusty</guid>
-      <pubDate>Fri, 25 Sep 2026 03:18:46 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Dusty
-Description: Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean.
-Website: https://toprak.sh/dusty
-Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Dusty<br/>Description: Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean.<br/>Website: https://toprak.sh/dusty<br/>Commit: Add Dusty (open-source, allowlist-only disk cleaner) to Cleanup and Uninstall (#2129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e28c259bc09a57a962e91f6d3e55a4c33f472a13]]></content:encoded>
-    </item>
-    <item>
-      <title>AirStats</title>
-      <link>https://airstats.app</link>
-      <guid isPermaLink="false">ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef:AirStats</guid>
-      <pubDate>Thu, 24 Sep 2026 02:52:50 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: AirStats
-Description: Lightweight menu bar system monitor for CPU, GPU, memory, network, disk, battery, and temperature, with a desktop widget.
-Website: https://airstats.app
-Commit: Add AirStats (EN/ZH/JA/KO) (#2971)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: AirStats<br/>Description: Lightweight menu bar system monitor for CPU, GPU, memory, network, disk, battery, and temperature, with a desktop widget.<br/>Website: https://airstats.app<br/>Commit: Add AirStats (EN/ZH/JA/KO) (#2971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccd7d04fe52c7ab0c26ba5a4c3e8d01b3e6827ef]]></content:encoded>
     </item>
   </channel>
 </rss>

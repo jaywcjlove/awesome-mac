@@ -533,6 +533,7 @@ Awesome Mac
 * [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
 * [Sitch](https://phalladar.github.io/Sitch/) - Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
+* [Snappy](https://beqaabu.github.io/Snappy/) - 开源的 Ubuntu 风格截图工具，支持可调整的选区、窗口和全屏截图、标注、模糊以及复制选区中的文字。 [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 支持截图、屏幕录制、标注和视频编辑的免费开源原生 macOS 应用。 [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
@@ -1044,6 +1045,7 @@ Awesome Mac
 
 * [imewlconverter](https://github.com/studyzy/imewlconverter) 深蓝词库转换,一款开源免费的输入法词库转换程序 [![Open-Source Software][OSS Icon]](https://github.com/studyzy/imewlconverter) ![Freeware][Freeware Icon]
 * [fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - 小企鹅输入法 macOS版本 [![Open-Source Software][OSS Icon]](https://github.com/fcitx-contrib/fcitx5-macos) ![Freeware][Freeware Icon]
+* [Keyameleon](https://keyameleon.app/) - 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 用于纠正错误键盘布局输入文本的转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon]
 * [青简 Qingjian](https://qingjian.app/) - 使用 Rust 编写的跨平台拼音输入法，在候选词旁显示正在学习语言的译词。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
@@ -1146,6 +1148,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 用于监控麦克风和摄像头访问的工具。 ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [Santa](https://northpole.security/) - 二进制与文件访问授权系统。 [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [Sentinel](https://sentinel-james-murphy.pages.dev/) - 用通俗易懂的语言检查 Mac 安全设置，并列出 Wi-Fi 上的设备。 ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 使用手机指纹完成身份验证的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 用于监控开源依赖漏洞的服务。
@@ -1397,7 +1400,7 @@ Awesome Mac
 * [Microsoft To-Do](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app) - 任务管理工具微软出品。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/microsoft-to-do/id1274495053?platform=mac)
 * [Nozbe](https://nozbe.com) - 面向个人与团队的 GTD 任务管理器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 由 OmniGroups 制作的 Nice GTD 应用程序。
-* [Super Productivity](https://super-productivity.com) - 集成时间盒与时间跟踪的任务管理器。 [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
+* [Super Productivity](https://super-productivity.com) - 集成时间盒与时间跟踪的任务管理器。 [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - 实时协作编辑器，协作简历任务管理器，大纲和笔记。
 * [TaskPaper](https://www.taskpaper.com/) - 漂亮的纯文本任务列表。
 * [Things](https://culturedcode.com/things/) - 令人愉快且易于使用的任务管理器。
@@ -1429,6 +1432,7 @@ Awesome Mac
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
+* [Headroom](https://headroom-app.org) - 快速的磁盘空间分析器，提供树状图和重复文件查找，并在删除前将缓存和开发者文件夹标记为“安全”、“谨慎”或“切勿删除”。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - 面向开发者的菜单栏清理工具，清理 Xcode、Docker、模拟器、node_modules 等缓存，并用 2D/3D 矩形树图展示磁盘占用。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 受 WinDirStat 启发的开源磁盘空间分析工具，用交互式矩形树图展示空间占用情况。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
@@ -1542,6 +1546,7 @@ Awesome Mac
 ### Finder
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - 一键将 `/Applications` 中的应用迁移到外部存储，并在原位置保留可启动入口的链接工具。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [Findly](https://findly.rocavence.com) - 用快捷键从屏幕任意边缘滑出的 Finder 风格文件抽屉，切换到其他应用时自动收起。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [FinderRight](https://github.com/funny-dog/FinderRight) - 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
