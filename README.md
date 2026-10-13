@@ -561,6 +561,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac and Linux.
 * [GitUp](https://gitup.co/) - A simple & powerful Git client。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitX-dev](https://rowanj.github.io/gitx/) -  Fork of [Pieter's](https://github.com/pieter/gitx) nice git GUI for OS X. Includes branch/tag sidebar and various fixes. [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
+* [Grove](https://github.com/efim0v/grove) - Menu bar app and CLI that gives each feature its own workspace of Git worktrees from several repositories for parallel Claude Code sessions, and moves sessions between Claude accounts. [![Open-Source Software][OSS Icon]](https://github.com/efim0v/grove) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hub](https://hub.github.com/) - Command-line wrapper for Git that makes you better at GitHub. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [RelaGit](https://rela.dev/) - The elegant solution to graphical version control. Built by developers, for developers. [![Open-Source Software][OSS Icon]](https://github.com/relagit/relagit) ![Freeware][Freeware Icon]
 * [SmartGit](https://www.syntevo.com/smartgit/) - Git client with support.

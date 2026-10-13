@@ -364,6 +364,7 @@ Awesome Mac
 * [GitHub Desktop](https://desktop.github.com/) - 使用 GitHub 的 GUI 应用。![Freeware][Freeware Icon]
 * [GitUp](http://gitup.co/) - 一个简单功能强大的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的 git 管理工具。
+* [Grove](https://github.com/efim0v/grove) - 菜单栏应用与命令行工具，用多个仓库的 Git worktree 为每个功能创建独立工作区，便于并行运行 Claude Code 会话，并可在 Claude 账户之间迁移会话。 [![Open-Source Software][OSS Icon]](https://github.com/efim0v/grove) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hub](https://hub.github.com/) - 将 GitHub 接口和 Git 命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) - 最好的组织 GitHub Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ohmystar/id1218642292?platform=mac)
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的 Git 跨平台客户端。![Freeware][Freeware Icon]
