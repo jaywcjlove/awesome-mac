@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:03:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lemma</title>
+      <link>https://github.com/fus3r/lemma</link>
+      <guid isPermaLink="false">a5f01a69a8916c289a9a64c431b1af65cd825df1:Lemma</guid>
+      <pubDate>Tue, 13 Oct 2026 09:03:06 GMT</pubDate>
+      <category>読み書きツール / その他</category>
+      <description>Category: 読み書きツール / その他
+App: Lemma
+Description: 数学の教科書や論文のためのPDFリーダー。定理や数式への参照をリンクに変え、証明を折りたたみ、自分で書いた導出をチェック。
+Open Source: https://github.com/fus3r/lemma
+Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: Lemma<br/>Description: 数学の教科書や論文のためのPDFリーダー。定理や数式への参照をリンクに変え、証明を折りたたみ、自分で書いた導出をチェック。<br/>Open Source: https://github.com/fus3r/lemma<br/>Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1]]></content:encoded>
+    </item>
     <item>
       <title>Hongguo Drama</title>
       <link>https://github.com/jackotom/hongguo-drama</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/macfanpro/macfanpro
 Commit: Add MacFanPro to System Related Tools (#3072)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: MacFanPro<br/>Description: Apple Silicon Mac用のファン制御ツール。メニューバーアプリ、温度に応じたプロファイル、CLIを備える。<br/>Open Source: https://github.com/macfanpro/macfanpro<br/>Commit: Add MacFanPro to System Related Tools (#3072)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054]]></content:encoded>
-    </item>
-    <item>
-      <title>HeyMate</title>
-      <link>https://getheymate.vercel.app</link>
-      <guid isPermaLink="false">dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f:HeyMate</guid>
-      <pubDate>Tue, 29 Sep 2026 06:45:46 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: HeyMate
-Description: 画面について音声で答え、承認した計画に沿って Claude Code、Codex、OpenCode のエージェントを動かす、MacBook のノッチに常駐する AI アシスタントで、メディア、ファイルシェルフ、カレンダーも備えます。
-Website: https://getheymate.vercel.app
-Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: HeyMate<br/>Description: 画面について音声で答え、承認した計画に沿って Claude Code、Codex、OpenCode のエージェントを動かす、MacBook のノッチに常駐する AI アシスタントで、メディア、ファイルシェルフ、カレンダーも備えます。<br/>Website: https://getheymate.vercel.app<br/>Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f]]></content:encoded>
     </item>
   </channel>
 </rss>
