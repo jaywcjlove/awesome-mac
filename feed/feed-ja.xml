@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:12:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Songtide</title>
+      <link>https://songtide.dcoded.dev</link>
+      <guid isPermaLink="false">b16481c5250c4512fd9ef1489a8a5b59001092ee:Songtide</guid>
+      <pubDate>Tue, 13 Oct 2026 09:12:05 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Songtide
+Description: イコライザー、ビジュアライザー、同期歌詞を備えたネイティブYouTube Musicアプリ。
+Website: https://songtide.dcoded.dev
+Commit: Add Songtide to Audio and Video Tools (#3409)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Songtide<br/>Description: イコライザー、ビジュアライザー、同期歌詞を備えたネイティブYouTube Musicアプリ。<br/>Website: https://songtide.dcoded.dev<br/>Commit: Add Songtide to Audio and Video Tools (#3409)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee]]></content:encoded>
+    </item>
     <item>
       <title>Lemma</title>
       <link>https://github.com/fus3r/lemma</link>
@@ -693,20 +707,6 @@ Website: https://yalqen.com/
 Commit: Add yalqen to browsers (#3073)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
       <content:encoded><![CDATA[Category: ブラウザ<br/>App: Yalqen<br/>Description: 垂直タブとキーボード中心のコマンドバーを備えた、開発者向けのオープンソースChromiumベースブラウザ。<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
-    </item>
-    <item>
-      <title>MacFanPro</title>
-      <link>https://github.com/macfanpro/macfanpro</link>
-      <guid isPermaLink="false">2e4b997c82f27304f6b55ace1282490a98495054:MacFanPro</guid>
-      <pubDate>Wed, 30 Sep 2026 03:07:43 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: MacFanPro
-Description: Apple Silicon Mac用のファン制御ツール。メニューバーアプリ、温度に応じたプロファイル、CLIを備える。
-Open Source: https://github.com/macfanpro/macfanpro
-Commit: Add MacFanPro to System Related Tools (#3072)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: MacFanPro<br/>Description: Apple Silicon Mac用のファン制御ツール。メニューバーアプリ、温度に応じたプロファイル、CLIを備える。<br/>Open Source: https://github.com/macfanpro/macfanpro<br/>Commit: Add MacFanPro to System Related Tools (#3072)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054]]></content:encoded>
     </item>
   </channel>
 </rss>
