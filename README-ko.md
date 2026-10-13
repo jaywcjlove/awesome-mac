@@ -413,6 +413,7 @@ Awesome Mac
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [ImHex](https://imhex.werwolv.net/) - 역공학 및 프로그래머를 위한 16진수 편집기. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 메타데이터, TestFlight, 리뷰, 분석, 현지화를 관리하는 App Store Connect 도구. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
+* [JET Pilot](https://jet-pilot.app/) - 여러 클러스터, 네임스페이스, 클라우드 계정을 넘나들며 작업할 수 있는 오픈 소스 Kubernetes 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
