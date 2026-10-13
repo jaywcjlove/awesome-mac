@@ -533,6 +533,7 @@ Awesome Mac
 * [Navicat Premium](https://www.navicat.com/en/products/navicat-premium) - 데이터베이스 관리 도구.
 * [Paul](https://guillim.github.io/products/paul) - 기본 읽기 전용으로 데이터베이스에서 빠르게 답을 찾을 수 있게 해주는 AI 우선 PostgreSQL 클라이언트.
 * [Postico](https://eggerapps.at/postico/) - 현대적인 PostgreSQL 클라이언트.
+* [Quarry](https://edwaldo12.github.io/quarry-releases/) - PostgreSQL, Redis, SQLite를 지원하는 가벼운 데이터베이스 클라이언트. ![Freeware][Freeware Icon]
 * [Redis Insight](https://redis.io/insight/) - Redis 데이터를 탐색하고 디버깅하며 시각화할 수 있는 공식 도구. ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
