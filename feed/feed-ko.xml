@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:17:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hongguo Drama</title>
+      <link>https://github.com/jackotom/hongguo-drama</link>
+      <guid isPermaLink="false">7d5c26c2b68bc29a57a9d6cde27f12199a1940de:Hongguo Drama</guid>
+      <pubDate>Tue, 13 Oct 2026 07:17:32 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Hongguo Drama
+Description: Apple Silicon 및 Intel Mac용 비공식 플레이어 및 다운로더로, 중국 숏폼 드라마 서비스 Hongguo, Xifan, Hema를 지원합니다.
+Open Source: https://github.com/jackotom/hongguo-drama
+Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Hongguo Drama<br/>Description: Apple Silicon 및 Intel Mac용 비공식 플레이어 및 다운로더로, 중국 숏폼 드라마 서비스 Hongguo, Xifan, Hema를 지원합니다.<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
+    </item>
     <item>
       <title>yovoice</title>
       <link>https://yovoice.leemysw.com</link>
@@ -693,20 +707,6 @@ Website: https://getheymate.vercel.app
 Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: HeyMate<br/>Description: 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다.<br/>Website: https://getheymate.vercel.app<br/>Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f]]></content:encoded>
-    </item>
-    <item>
-      <title>Belay</title>
-      <link>https://perfectoweb.github.io/Belay/</link>
-      <guid isPermaLink="false">779d79aa98ed30fe295ddc9f58615602ccf46357:Belay</guid>
-      <pubDate>Tue, 29 Sep 2026 06:04:44 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Belay
-Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.
-Website: https://perfectoweb.github.io/Belay/
-Commit: Add Belay to Menu Bar Tools (#2603)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Belay<br/>Description: Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
     </item>
   </channel>
 </rss>
