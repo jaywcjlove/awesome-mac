@@ -805,6 +805,7 @@ Awesome Mac
 * [Image2icon](http://www.img2icnsapp.com) - 画像からアイコンを作成しカスタマイズ。 ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - PNG形式の画像を圧縮し透明度を除去。 [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 画像を圧縮しEXIF情報を削除。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
+* [ImageViewer](https://github.com/ed0157/ImageViewer) - キーボードでのフォルダー内画像の閲覧とズーム操作に対応した軽量なネイティブ画像ビューアー。 [![Open-Source Software][OSS Icon]](https://github.com/ed0157/ImageViewer) ![Freeware][Freeware Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - Markdownをサポートした簡単な画像アップロード。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1101244278?ls=1&at=1000lv4R&ct=iPic_me&platform=mac)
 * [CompressO](https://github.com/codeforreal1/compressO) - 動画や画像の容量を小さくできるオープンソースの圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]

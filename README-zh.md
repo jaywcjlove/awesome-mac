@@ -577,6 +577,7 @@ Awesome Mac
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩 PNG 图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除 EXIF 信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
+* [ImageViewer](https://github.com/ed0157/ImageViewer) - 轻量的原生图片查看器，支持通过键盘浏览文件夹中的图片和缩放。 [![Open-Source Software][OSS Icon]](https://github.com/ed0157/ImageViewer) ![Freeware][Freeware Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1101244278?ls=1&at=1000lv4R&ct=iPic_me&platform=mac)
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
