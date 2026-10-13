@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:03:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lemma</title>
+      <link>https://github.com/fus3r/lemma</link>
+      <guid isPermaLink="false">a5f01a69a8916c289a9a64c431b1af65cd825df1:Lemma</guid>
+      <pubDate>Tue, 13 Oct 2026 09:03:06 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: Lemma
+Description: PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.
+Open Source: https://github.com/fus3r/lemma
+Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Lemma<br/>Description: PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.<br/>Open Source: https://github.com/fus3r/lemma<br/>Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1]]></content:encoded>
+    </item>
     <item>
       <title>Hongguo Drama</title>
       <link>https://github.com/jackotom/hongguo-drama</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/macfanpro/macfanpro
 Commit: Add MacFanPro to System Related Tools (#3072)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: MacFanPro<br/>Description: Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI.<br/>Open Source: https://github.com/macfanpro/macfanpro<br/>Commit: Add MacFanPro to System Related Tools (#3072)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054]]></content:encoded>
-    </item>
-    <item>
-      <title>HeyMate</title>
-      <link>https://getheymate.vercel.app</link>
-      <guid isPermaLink="false">dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f:HeyMate</guid>
-      <pubDate>Tue, 29 Sep 2026 06:45:46 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: HeyMate
-Description: AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets.
-Website: https://getheymate.vercel.app
-Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: HeyMate<br/>Description: AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets.<br/>Website: https://getheymate.vercel.app<br/>Commit: Add HeyMate to Menu Bar Tools (EN/ZH/JA/KO) (#3055)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dce6fcba0661c27300d1c4bbc8b9f6590c5ec99f]]></content:encoded>
     </item>
   </channel>
 </rss>
