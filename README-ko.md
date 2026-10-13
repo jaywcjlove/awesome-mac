@@ -227,7 +227,6 @@ Awesome Mac
 
 * [Affine](https://affine.pro/) - 전문가를 위한 차세대 협업 지식 베이스. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - 프로젝트 계획 및 문서화를 위한 날짜 중심 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
-* [Amber Notes](https://ambernotes.app/) - ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - 로컬 우선의 노트 및 지식 관리 앱. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Notion의 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?platform=mac)
@@ -256,6 +255,7 @@ Awesome Mac
 * [OATS](https://github.com/ariso-ai/oats) - 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 로컬 우선 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Pinto Notes](https://pintonotes.com/) - ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Revu](https://revu.cards/) - FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.

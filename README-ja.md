@@ -254,7 +254,6 @@ Awesome Mac
 
 * [Affine](https://affine.pro/) - プロフェッショナル向けの次世代コラボレーションナレッジベース。 [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - プロジェクトの計画と記録のための日付重視のメモアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
-* [Amber Notes](https://ambernotes.app/) - ChatGPTやClaudeなどのAIアシスタントがMCP経由で検索・編集でき、AIによる変更をハイライト表示して元に戻せるオープンソースのメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - ローカルファーストのノート・知識管理アプリ。 ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Notionのオープンソース代替。 [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - ノートと散文を作成するための美しく柔軟なライティングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
@@ -283,6 +282,7 @@ Awesome Mac
 * [OATS](https://github.com/ariso-ai/oats) - ライブ文字起こし、話者ラベル、AI要約、完全オフラインのオンデバイスモードに対応したオープンソースのローカルファースト会議ノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Microsoft製のメモ取りアプリ。 ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - 構造化されたメモを愛するすべての人のための、フル機能のアウトラインエディタ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Pinto Notes](https://pintonotes.com/) - ChatGPTやClaudeなどのAIアシスタントがMCP経由で検索・編集でき、AIによる変更をハイライト表示して元に戻せるオープンソースのメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Revu](https://revu.cards/) - FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - クロスプラットフォームのスタイラスおよびテキストメモアプリ。画像やPDFのインポートに対応し、同期も可能。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Markdownサポート付きの画面サイドクイックメモ。

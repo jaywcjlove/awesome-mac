@@ -254,7 +254,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - Date-focused note taking app for both planning and documenting your projects. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
-* [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - Local-first note-taking and knowledge management app. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Open-source alternative to Notion. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](https://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
@@ -283,6 +282,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [OATS](https://github.com/ariso-ai/oats) - Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
+* [Pinto Notes](https://pintonotes.com/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Revu](https://revu.cards/) - Local-first spaced repetition app with FSRS scheduling and Anki import. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.

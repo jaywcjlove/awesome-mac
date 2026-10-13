@@ -916,7 +916,6 @@ Awesome Mac
 ### 笔记
 
 * [AliYuQue](https://www.yuque.com/install/desktop) - 一款基于云的知识管理与协作平台，支持Markdown写作、流程图、代码渲染等功能，由阿里巴巴蚂蚁金服开发。 ![Freeware][Freeware Icon]
-* [Amber Notes](https://ambernotes.app/) - 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。 [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - 本地优先的笔记与知识管理应用。 ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
@@ -934,6 +933,7 @@ Awesome Mac
 * [Notion](https://www.notion.so/zh-cn) - 富文本云笔记管理软件，支持多平台客户端。![Freeware][Freeware Icon]
 * [OATS](https://github.com/ariso-ai/oats) - 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。 [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - 微软笔记应用。 ![Freeware][Freeware Icon]
+* [Pinto Notes](https://pintonotes.com/) - 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。 [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [Revu](https://revu.cards/) - 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Stik](https://github.com/0xMassi/stik_app) - 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
