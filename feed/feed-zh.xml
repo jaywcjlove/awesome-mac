@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:27:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pulse</title>
+      <link>https://github.com/qunqin24/Pulse</link>
+      <guid isPermaLink="false">6e7c6ddbfcd3214c504b86abf377501ab78b9555:Pulse</guid>
+      <pubDate>Tue, 13 Oct 2026 11:27:35 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Pulse
+Description: 原生应用，以停靠在屏幕边缘的圆环显示 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务的剩余额度。
+Open Source: https://github.com/qunqin24/Pulse
+Commit: Add Pulse to AI Tools (EN/ZH/JA/KO) (#3425)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e7c6ddbfcd3214c504b86abf377501ab78b9555</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Pulse<br/>Description: 原生应用，以停靠在屏幕边缘的圆环显示 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务的剩余额度。<br/>Open Source: https://github.com/qunqin24/Pulse<br/>Commit: Add Pulse to AI Tools (EN/ZH/JA/KO) (#3425)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e7c6ddbfcd3214c504b86abf377501ab78b9555]]></content:encoded>
+    </item>
     <item>
       <title>Songtide</title>
       <link>https://songtide.dcoded.dev</link>
@@ -693,20 +707,6 @@ Website: https://ayenora.github.io/screen-loupe/
 Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 设计工具<br/>App: Screen Loupe<br/>Description: 开源实时放大镜，在独立窗口中按像素精确地放大显示屏幕的任意区域。[![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe)<br/>Website: https://ayenora.github.io/screen-loupe/<br/>Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4]]></content:encoded>
-    </item>
-    <item>
-      <title>Yalqen</title>
-      <link>https://yalqen.com/</link>
-      <guid isPermaLink="false">9febb21e4157b0c1b3964167daa78454e5f52354:Yalqen</guid>
-      <pubDate>Wed, 30 Sep 2026 03:14:32 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Yalqen
-Description: 面向开发者的开源 Chromium 内核浏览器，支持垂直标签页和键盘优先的命令栏。
-Website: https://yalqen.com/
-Commit: Add yalqen to browsers (#3073)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Yalqen<br/>Description: 面向开发者的开源 Chromium 内核浏览器，支持垂直标签页和键盘优先的命令栏。<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
     </item>
   </channel>
 </rss>

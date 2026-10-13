@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:27:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pulse</title>
+      <link>https://github.com/qunqin24/Pulse</link>
+      <guid isPermaLink="false">6e7c6ddbfcd3214c504b86abf377501ab78b9555:Pulse</guid>
+      <pubDate>Tue, 13 Oct 2026 11:27:35 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Pulse
+Description: Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen.
+Open Source: https://github.com/qunqin24/Pulse
+Commit: Add Pulse to AI Tools (EN/ZH/JA/KO) (#3425)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e7c6ddbfcd3214c504b86abf377501ab78b9555</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Pulse<br/>Description: Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen.<br/>Open Source: https://github.com/qunqin24/Pulse<br/>Commit: Add Pulse to AI Tools (EN/ZH/JA/KO) (#3425)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e7c6ddbfcd3214c504b86abf377501ab78b9555]]></content:encoded>
+    </item>
     <item>
       <title>Songtide</title>
       <link>https://songtide.dcoded.dev</link>
@@ -693,20 +707,6 @@ Website: https://ayenora.github.io/screen-loupe/
 Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4</description>
       <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: Screen Loupe<br/>Description: Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.<br/>Website: https://ayenora.github.io/screen-loupe/<br/>Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4]]></content:encoded>
-    </item>
-    <item>
-      <title>Yalqen</title>
-      <link>https://yalqen.com/</link>
-      <guid isPermaLink="false">9febb21e4157b0c1b3964167daa78454e5f52354:Yalqen</guid>
-      <pubDate>Wed, 30 Sep 2026 03:14:32 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Yalqen
-Description: Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar.
-Website: https://yalqen.com/
-Commit: Add yalqen to browsers (#3073)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Yalqen<br/>Description: Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar.<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
     </item>
   </channel>
 </rss>
