@@ -1391,6 +1391,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion. [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
 * [Mole](https://mole.fit/) - Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring. ![Native App][Native Icon]
+* [Nijia](https://nijia.app/) - Mac storage analyzer and cleanup utility with a seven-day full-featured trial.
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - Scans files by size so you can quickly find space hogs. ![Freeware][Freeware Icon]
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
