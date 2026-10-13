@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 02:27:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:34:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>yovoice</title>
+      <link>https://yovoice.leemysw.com</link>
+      <guid isPermaLink="false">eeb27b542c311bcdf8a15c669ac5d420b3fc613e:yovoice</guid>
+      <pubDate>Tue, 13 Oct 2026 03:34:21 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: yovoice
+Description: 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。
+Website: https://yovoice.leemysw.com
+Commit: Add yovoice (#3396)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: yovoice<br/>Description: 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。<br/>Website: https://yovoice.leemysw.com<br/>Commit: Add yovoice (#3396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e]]></content:encoded>
+    </item>
     <item>
       <title>akou</title>
       <link>https://geiserx.github.io/akou/</link>
@@ -693,20 +707,6 @@ Website: https://perfectoweb.github.io/Belay/
 Commit: Add Belay to Menu Bar Tools (#2603)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Belay<br/>Description: 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。<br/>Website: https://perfectoweb.github.io/Belay/<br/>Commit: Add Belay to Menu Bar Tools (#2603)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/779d79aa98ed30fe295ddc9f58615602ccf46357]]></content:encoded>
-    </item>
-    <item>
-      <title>Google AI Edge Eloquent</title>
-      <link>https://developers.google.com/edge/eloquent</link>
-      <guid isPermaLink="false">e862cad451259a18e38696e421c9f7aac39e1961:Google AI Edge Eloquent</guid>
-      <pubDate>Tue, 29 Sep 2026 04:43:51 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Google AI Edge Eloquent
-Description: Google 出品的免费端侧 AI 听写与语音编辑工具，可在任意应用中全局使用，目前仅支持英语。
-Website: https://developers.google.com/edge/eloquent
-Commit: Add Google AI Edge Eloquent to Voice-to-Text (EN/ZH/JA/KO) (#3048)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e862cad451259a18e38696e421c9f7aac39e1961</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Google AI Edge Eloquent<br/>Description: Google 出品的免费端侧 AI 听写与语音编辑工具，可在任意应用中全局使用，目前仅支持英语。<br/>Website: https://developers.google.com/edge/eloquent<br/>Commit: Add Google AI Edge Eloquent to Voice-to-Text (EN/ZH/JA/KO) (#3048)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e862cad451259a18e38696e421c9f7aac39e1961]]></content:encoded>
     </item>
   </channel>
 </rss>
