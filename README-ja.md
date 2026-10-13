@@ -1180,6 +1180,7 @@ Awesome Mac
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - リマインダー、分析、iCloud同期でサブスクリプション、更新、支出を1か所で追跡。
 * [StockDock](https://github.com/simonsruggi/StockDock) - メニューバーで株・ETF・暗号資産のリアルタイム相場を表示するツール。ポートフォリオ損益と多通貨に対応し、プライバシー重視でアカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://mrrdock.simoneruggiero.com) - Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments、Gumroad の MRR を1つの合計にまとめてメニューバーに表示するツール。多通貨対応、APIキーはキーチェーンに保存され、アカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
+* [WooFinance](https://apps.apple.com/app/woofinance-profit-tracker/id6775543026?platform=mac) - WooCommerceストア向けの利益トラッカー。売上から原価、決済手数料、送料、返金、経費を差し引いて実際の純利益を表示し、損益計算書と会計用エクスポートに対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/woofinance-profit-tracker/id6775543026?platform=mac)
 
 ## 暗号化
 
