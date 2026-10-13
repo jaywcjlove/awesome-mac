@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:12:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Songtide</title>
+      <link>https://songtide.dcoded.dev</link>
+      <guid isPermaLink="false">b16481c5250c4512fd9ef1489a8a5b59001092ee:Songtide</guid>
+      <pubDate>Tue, 13 Oct 2026 09:12:05 GMT</pubDate>
+      <category>音频和视频 / 流媒体音乐播放器</category>
+      <description>Category: 音频和视频 / 流媒体音乐播放器
+App: Songtide
+Description: 原生 YouTube Music 应用，带均衡器、可视化效果和同步歌词。
+Website: https://songtide.dcoded.dev
+Commit: Add Songtide to Audio and Video Tools (#3409)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 流媒体音乐播放器<br/>App: Songtide<br/>Description: 原生 YouTube Music 应用，带均衡器、可视化效果和同步歌词。<br/>Website: https://songtide.dcoded.dev<br/>Commit: Add Songtide to Audio and Video Tools (#3409)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee]]></content:encoded>
+    </item>
     <item>
       <title>Lemma</title>
       <link>https://github.com/fus3r/lemma</link>
@@ -693,20 +707,6 @@ Website: https://yalqen.com/
 Commit: Add yalqen to browsers (#3073)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Yalqen<br/>Description: 面向开发者的开源 Chromium 内核浏览器，支持垂直标签页和键盘优先的命令栏。<br/>Website: https://yalqen.com/<br/>Commit: Add yalqen to browsers (#3073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9febb21e4157b0c1b3964167daa78454e5f52354]]></content:encoded>
-    </item>
-    <item>
-      <title>MacFanPro</title>
-      <link>https://github.com/macfanpro/macfanpro</link>
-      <guid isPermaLink="false">2e4b997c82f27304f6b55ace1282490a98495054:MacFanPro</guid>
-      <pubDate>Wed, 30 Sep 2026 03:07:43 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: MacFanPro
-Description: 适用于 Apple Silicon Mac 的风扇控制工具，提供菜单栏应用、按温度调节的模式和命令行工具。
-Open Source: https://github.com/macfanpro/macfanpro
-Commit: Add MacFanPro to System Related Tools (#3072)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: MacFanPro<br/>Description: 适用于 Apple Silicon Mac 的风扇控制工具，提供菜单栏应用、按温度调节的模式和命令行工具。<br/>Open Source: https://github.com/macfanpro/macfanpro<br/>Commit: Add MacFanPro to System Related Tools (#3072)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e4b997c82f27304f6b55ace1282490a98495054]]></content:encoded>
     </item>
   </channel>
 </rss>
