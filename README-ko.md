@@ -821,6 +821,7 @@ Awesome Mac
 * [VLC](https://www.videolan.org/vlc/) - 다양한 오디오, 비디오, 스트리밍 포맷을 재생하는 오픈 소스 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [Kaset](https://github.com/sozercan/kaset) - 라이브러리, 가사, 팟캐스트를 지원하는 오픈 소스 YouTube Music 클라이언트입니다. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - 플러그인 확장을 지원하는 YouTube Music 데스크톱 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
+* [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp 및 Metal 기반의 100% 온디바이스 음성 받아쓰기 및 회의 전사 도구. [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 텍스트 음성 변환, 음성 복제, 감정 조절, 노래 생성, MIDI 편곡을 모두 로컬에서 실행하는 음성 제작 도구. [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
 * [Musicer](https://apps.apple.com/cn/app/musicer/6745227444?platform=mac) - 다양한 포맷과 AI 제어를 지원하는 복고풍 로컬 음악 플레이어.
 
