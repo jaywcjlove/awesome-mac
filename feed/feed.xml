@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:54:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Termstead</title>
+      <link>https://khorenyan.com/termstead/</link>
+      <guid isPermaLink="false">cac5b98b672855fa0af3889c014e4235f7674931:Termstead</guid>
+      <pubDate>Wed, 14 Oct 2026 02:54:34 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Termstead
+Description: Native SSH client with a session tree, jump hosts and SFTP beside the terminal.
+Website: https://khorenyan.com/termstead/
+Commit: Add Termstead to Terminal Apps (#3445)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Termstead<br/>Description: Native SSH client with a session tree, jump hosts and SFTP beside the terminal.<br/>Website: https://khorenyan.com/termstead/<br/>Commit: Add Termstead to Terminal Apps (#3445)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931]]></content:encoded>
+    </item>
     <item>
       <title>Utter</title>
       <link>https://github.com/h3x-levi/Utter</link>
@@ -693,20 +707,6 @@ Website: https://matthiasn.github.io/lotti/
 Commit: Add Lotti to To-Do Lists (#3088)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25a5e0fb10968f751412741ae87aac03fa14b8fb</description>
       <content:encoded><![CDATA[Category: Utilities / To-Do Lists<br/>App: Lotti<br/>Description: Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents.<br/>Website: https://matthiasn.github.io/lotti/<br/>Commit: Add Lotti to To-Do Lists (#3088)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25a5e0fb10968f751412741ae87aac03fa14b8fb]]></content:encoded>
-    </item>
-    <item>
-      <title>Brink</title>
-      <link>https://brinknotch.site</link>
-      <guid isPermaLink="false">7ae35e9445ae6f220da9461cc5c0e1f891116c2e:Brink</guid>
-      <pubDate>Fri, 02 Oct 2026 02:06:20 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Brink
-Description: A notch on your screen edge that keeps your Notion pages and tasks one hover away.
-Website: https://brinknotch.site
-Commit: Add Brink app to the README list (#3093)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Brink<br/>Description: A notch on your screen edge that keeps your Notion pages and tasks one hover away.<br/>Website: https://brinknotch.site<br/>Commit: Add Brink app to the README list (#3093)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:54:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Termstead</title>
+      <link>https://khorenyan.com/termstead/</link>
+      <guid isPermaLink="false">cac5b98b672855fa0af3889c014e4235f7674931:Termstead</guid>
+      <pubDate>Wed, 14 Oct 2026 02:54:34 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Termstead
+Description: 세션 트리, 점프 호스트, 터미널 옆 SFTP를 갖춘 네이티브 SSH 클라이언트.
+Website: https://khorenyan.com/termstead/
+Commit: Add Termstead to Terminal Apps (#3445)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Termstead<br/>Description: 세션 트리, 점프 호스트, 터미널 옆 SFTP를 갖춘 네이티브 SSH 클라이언트.<br/>Website: https://khorenyan.com/termstead/<br/>Commit: Add Termstead to Terminal Apps (#3445)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931]]></content:encoded>
+    </item>
     <item>
       <title>Utter</title>
       <link>https://github.com/h3x-levi/Utter</link>
@@ -693,20 +707,6 @@ Website: https://matthiasn.github.io/lotti/
 Commit: Add Lotti to To-Do Lists (#3088)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25a5e0fb10968f751412741ae87aac03fa14b8fb</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 할 일 목록 (To-Do Lists)<br/>App: Lotti<br/>Description: 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다.<br/>Website: https://matthiasn.github.io/lotti/<br/>Commit: Add Lotti to To-Do Lists (#3088)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25a5e0fb10968f751412741ae87aac03fa14b8fb]]></content:encoded>
-    </item>
-    <item>
-      <title>Brink</title>
-      <link>https://brinknotch.site</link>
-      <guid isPermaLink="false">35b7f6d72e70da64712e97043e6f3680f328a797:Brink</guid>
-      <pubDate>Fri, 02 Oct 2026 02:12:12 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Brink
-Description: 화면 가장자리에 노치를 표시해 마우스를 올리는 것만으로 Notion 페이지와 작업에 접근하는 도구.
-Website: https://brinknotch.site
-Commit: Add Brink to the zh/ko/ja list. #3093
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35b7f6d72e70da64712e97043e6f3680f328a797</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Brink<br/>Description: 화면 가장자리에 노치를 표시해 마우스를 올리는 것만으로 Notion 페이지와 작업에 접근하는 도구.<br/>Website: https://brinknotch.site<br/>Commit: Add Brink to the zh/ko/ja list. #3093<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/35b7f6d72e70da64712e97043e6f3680f328a797]]></content:encoded>
     </item>
   </channel>
 </rss>
