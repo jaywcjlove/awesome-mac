@@ -875,6 +875,7 @@ Awesome Mac
 * [mu](https://github.com/qybaihe/mu) - CLIとデスクトップアプリを備えたオープンソースのコーディングエージェントで、どの内容をコンテキストに入れるか、フラグが立ったコマンドが依頼どおりかといった定型判断を小型の判定モデルが行う。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AIアシスタントをAppleアプリへ接続するMCPサーバー。
+* [Overboard](https://tryoverboard.com/?utm_source=awesome-mac&utm_medium=directory) - 既存のClaudeプランのまま、定期実行や単発のClaude Codeセッションを手元のMacで無人実行するスケジューラー兼ディスパッチャー。
 * [Prevail](https://prevail.sh) - ローカルファーストのAIライフOS。生活ドメインごとに任意のモデルを実行し、データはMac上のプレーンMarkdownボールトに保存。署名・公証済み。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - Claude Code、Codex、Cursor、Copilot など70以上のAIコーディングサービスの残り使用量を、画面端にドッキングしたリングで表示するネイティブアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - Apple シリコン上で GGUF と MLX モデルを動かすローカルモデルサーバー。OpenAI・Anthropic 互換 API で Claude Code や Codex などのツールと接続。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
