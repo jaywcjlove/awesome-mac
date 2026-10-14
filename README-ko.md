@@ -898,6 +898,7 @@ Awesome Mac
 * [iTranslate](http://www.itranslate.com/) - 텍스트와 웹페이지를 여러 언어로 번역하는 앱. ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [MoePeek](https://github.com/cosZone/MoePeek) - 선택 텍스트, OCR, 클립보드, 수동 입력을 지원하는 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
+* [Nogrammerly](https://github.com/gaurabh-pei/nogrammerly) - Apple Intelligence로 모든 앱에서 맞춤법, 문법, 어조를 검사하고 문장을 다시 써 주는 오픈 소스 온디바이스 글쓰기 도우미. [![Open-Source Software][OSS Icon]](https://github.com/gaurabh-pei/nogrammerly) ![Freeware][Freeware Icon]
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - AI 모델 기반 번역 앱과 브라우저 확장. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Claude, ChatGPT 또는 Grok으로 모든 앱에서 선택한 텍스트를 나만의 문체로 번역해 바로 바꿔 주는 오픈소스 메뉴 막대 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 100개 이상의 언어로 텍스트와 이미지를 번역하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium/id1547052291?platform=mac)

@@ -1165,6 +1165,7 @@ Awesome Mac
 * [Mate Translate](https://gikken.co/mate-translate/mac) - Safariおよびすべてのmacosアプリで103言語間の翻訳。
 * [MoePeek](https://github.com/cosZone/MoePeek) - 選択テキスト、OCR、クリップボード、手入力に対応した翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
 * [Nani](https://nani.now) - 解説付きの高速AI翻訳。
+* [Nogrammerly](https://github.com/gaurabh-pei/nogrammerly) - Apple Intelligence を使い、あらゆるアプリでスペル・文法・トーンをチェックして文章を書き直す、オープンソースのオンデバイス文章アシスタント。 [![Open-Source Software][OSS Icon]](https://github.com/gaurabh-pei/nogrammerly) ![Freeware][Freeware Icon]
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - AIモデルを使った翻訳アプリ兼ブラウザ拡張。 [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 画面領域キャプチャやテキスト選択をその場で翻訳できるオンデバイス翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Claude、ChatGPT、Grok を使って任意のアプリで選択したテキストを自分の文体で翻訳・置換するオープンソースのメニューバー翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
