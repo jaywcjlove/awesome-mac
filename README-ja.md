@@ -908,6 +908,7 @@ Awesome Mac
 * [Mattermost](https://mattermost.com/download/) - オープンソースのチームコラボレーションプラットフォーム。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Misskey](https://misskey-hub.net/) - 🌎 完全に無料でオープンな惑星間マイクロブログプラットフォーム 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
 * [Muzzle](https://muzzleapp.com/) - 画面共有中に恥ずかしい通知を非表示にするシンプルなMacアプリ。
+* [Onebox](https://github.com/stek765/OneBox) - WhatsApp、Telegram、Slack、Discord、Proton Mail、LinkedInを1つにまとめるメニューバーパネル。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Presentify](https://presentify.compzets.com/) - 通話中に画面上に描画したり、カーソルをハイライトしたりできるMacアプリ。 ![App Store][app-store Icon]
 * [Rambox](http://rambox.pro/) - 一般的なWebアプリケーションを1つにまとめたメッセージングおよびメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal Desktop](https://signal.org/download/) - 高速、シンプル、セキュア。ポケットに収まるプライバシー。 [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
