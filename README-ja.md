@@ -1158,6 +1158,7 @@ Awesome Mac
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]
+* [Lexo](https://kevin-boileux.com/en/lexo) - 任意のアプリで選択したテキストをショートカットで翻訳する、完全オンデバイスの翻訳ツール。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - より良い英語を書くための言語検索エンジン。
 * [Mate Translate](https://gikken.co/mate-translate/mac) - Safariおよびすべてのmacosアプリで103言語間の翻訳。
