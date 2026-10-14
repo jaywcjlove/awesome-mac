@@ -649,8 +649,6 @@ Awesome Mac
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
 * [Grux](https://gruxai.com) - 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hint](https://www.sayhint.com) - 在 Zoom、Meet 和 Teams 英语通话中显示要点并实时翻译，适合非英语母语者。
-* [Hint](https://www.sayhint.com) - Zoom・Meet・Teamsでの英語の通話中に、要点とリアルタイム翻訳を表示。英語が母語でない人向け。
-* [Hint](https://www.sayhint.com) - Zoom, Meet, Teams 영어 통화 중 핵심 포인트와 실시간 번역을 표시. 영어가 모국어가 아닌 사람을 위한 앱.
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [LingShu](https://royzhao1991.github.io/LingShu/) - 开源、主脑可替换的 macOS Agent，可交付经验证的代码、文档、幻灯片和电脑操作。 [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
 * [LokalBot](https://www.lokalbot.com/) - 面向 macOS 的端侧会议笔记、听写、行内自动补全和可搜索工作记忆工具。 [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
