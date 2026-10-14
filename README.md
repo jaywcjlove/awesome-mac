@@ -1170,6 +1170,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Education
 
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
+* [SayItVid](https://sayitvid.com/) - Search millions of native spoken video clips with synchronized subtitles and IPA phonetics to learn authentic English pronunciation. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/sayitvid-pronunciation/id6812051218)
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
