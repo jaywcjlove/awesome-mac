@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Oct 2026 11:27:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:15:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Utter</title>
+      <link>https://github.com/h3x-levi/Utter</link>
+      <guid isPermaLink="false">069f34bf6af6a2608e853e9cff19095a75f0b43a:Utter</guid>
+      <pubDate>Wed, 14 Oct 2026 00:15:00 GMT</pubDate>
+      <category>Audio and Video Tools / Audio Record and Process</category>
+      <description>Category: Audio and Video Tools / Audio Record and Process
+App: Utter
+Description: On-device voice dictation and meeting transcription powered by whisper.cpp and Metal.
+Open Source: https://github.com/h3x-levi/Utter
+Commit: Add Utter (#3423)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/069f34bf6af6a2608e853e9cff19095a75f0b43a</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Utter<br/>Description: On-device voice dictation and meeting transcription powered by whisper.cpp and Metal.<br/>Open Source: https://github.com/h3x-levi/Utter<br/>Commit: Add Utter (#3423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/069f34bf6af6a2608e853e9cff19095a75f0b43a]]></content:encoded>
+    </item>
     <item>
       <title>Pulse</title>
       <link>https://github.com/qunqin24/Pulse</link>
@@ -693,20 +707,6 @@ Website: https://brinknotch.site
 Commit: Add Brink app to the README list (#3093)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Brink<br/>Description: A notch on your screen edge that keeps your Notion pages and tasks one hover away.<br/>Website: https://brinknotch.site<br/>Commit: Add Brink app to the README list (#3093)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7ae35e9445ae6f220da9461cc5c0e1f891116c2e]]></content:encoded>
-    </item>
-    <item>
-      <title>Screen Loupe</title>
-      <link>https://ayenora.github.io/screen-loupe/</link>
-      <guid isPermaLink="false">22fa21a12f865e3e10d36bc27ef80a409743b7f4:Screen Loupe</guid>
-      <pubDate>Thu, 01 Oct 2026 07:22:25 GMT</pubDate>
-      <category>Design and Product / Design Tools</category>
-      <description>Category: Design and Product / Design Tools
-App: Screen Loupe
-Description: Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.
-Website: https://ayenora.github.io/screen-loupe/
-Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4</description>
-      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: Screen Loupe<br/>Description: Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.<br/>Website: https://ayenora.github.io/screen-loupe/<br/>Commit: Add Screen Loupe to Design Tools (EN/ZH/JA/KO) (#3081)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22fa21a12f865e3e10d36bc27ef80a409743b7f4]]></content:encoded>
     </item>
   </channel>
 </rss>
