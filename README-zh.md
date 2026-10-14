@@ -1234,6 +1234,7 @@ Awesome Mac
 * [HWSensors](https://sourceforge.net/projects/hwsensors) - 自带FakeSMC的黑苹果硬件状态监控插件。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/kozlek/hwsensors/overview) ![Freeware][Freeware Icon]
 * [Hyperkey](https://hyperkey.app/) - 将 Caps Lock 或其他修饰键变成 Hyper 键。 ![Freeware][Freeware Icon]
 * [iCMD](https://icmd.app) - 提供全局模糊菜单搜索和 Vim 风格导航。
+* [IconState](https://github.com/Jubstaaa/iconstate) - 通过 USB 在 Mac 上重新排列 iPhone 主屏幕，支持自动整理到文件夹，写入前显示变更。 [![Open-Source Software][OSS Icon]](https://github.com/Jubstaaa/iconstate) ![Freeware][Freeware Icon]
 * [iStat pro](https://bjango.com/mac/istatmenus/) - Mac OS 电脑硬件信息检测软件。
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 在 macOS 上重映射按键并自定义键盘行为。 [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
