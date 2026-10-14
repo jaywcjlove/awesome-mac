@@ -850,6 +850,7 @@ Awesome Mac
 * [akou](https://geiserx.github.io/akou/) - 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
+* [Earshot](https://github.com/Bouliw/earshot) - 菜单栏应用，在设备上实时转写你选择的任意应用的音频，并在 Microsoft Teams 中显示说话人姓名。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/earshot) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Segue](https://segue.npearce.me/) - 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
