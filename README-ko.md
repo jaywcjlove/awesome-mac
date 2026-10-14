@@ -1051,6 +1051,7 @@ Awesome Mac
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 무료 오픈소스 디스크 사용량 분석기. 선버스트와 트리맵으로 디스크와 클라우드 스토리지를 시각화. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [TinyPrune](https://tinyprune.com) - 만료된 다운로드, 스크린샷, 개발자 폴더를 휴지통으로 이동하는 로컬 우선 수명 주기 규칙 도구. 미리보기와 '유지' 설정을 지원합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/navig-me/tinyprune)
 
 ### 파일 정리 도구
 

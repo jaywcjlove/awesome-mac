@@ -1397,6 +1397,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [TinyPrune](https://tinyprune.com) - Local-first lifecycle rules that move expired downloads, screenshots and developer folders to the Trash, with Preview and a Keep override. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/navig-me/tinyprune)
 
 ### File Organization Tools
 

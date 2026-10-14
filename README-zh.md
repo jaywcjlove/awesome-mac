@@ -1452,6 +1452,7 @@ Awesome Mac
 * [Purge](https://getpurge.com) - 开源缓存清理工具，将文件移至废纸篓而非直接删除，基于固定白名单，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [TinyPrune](https://tinyprune.com) - 本地优先的文件生命周期规则工具，可将过期的下载、截图和开发者文件夹移至废纸篓，支持预览和“保留”覆盖。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/navig-me/tinyprune)
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)
 
 ### 系统相关工具
