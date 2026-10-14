@@ -122,6 +122,7 @@
 * [aisw](https://aiswitcher.dev) - 用命名配置切换 Claude Code、Codex、Gemini 和 Antigravity CLI 账号，并可按仓库限定所用账号。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
+* [jingle](https://opdhaker.github.io/jingle/) - 每次 git commit 和成功 git push 时播放一段音效。只需全局设置一次即可用于所有仓库，原有的 git hooks 照常运行。 [![Open-Source Software][OSS Icon]](https://github.com/OPDhaker/jingle) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 一个用于处理 Markdown 文件的命令行工具。下载图片、翻译文件等。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [quokka](https://github.com/dutradotdev/quokka) - 在终端中检查和清理通过 USB 连接的 iPhone：存储、应用、媒体和实时系统日志查看器。无需越狱。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
