@@ -765,6 +765,7 @@ Awesome Mac
 * [Canary Mail](https://canarymail.io/) - PGP 및 AI를 지원하는 안전한 이메일 앱. ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
+* [Sickle](https://sickle.app/) - Gmail, Outlook, iCloud 및 모든 IMAP 계정을 지원하며, AI 에이전트를 모든 메일함에 연결하는 MCP 서버를 제공하는 이메일 클라이언트.
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
 
