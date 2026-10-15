@@ -1243,6 +1243,7 @@ Awesome Mac
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 用触发器和宏自动执行重复操作。
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [Keka](https://github.com/aonez/Keka) - 开源压缩解压工具，支持多种压缩格式。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keka/id470158793?platform=mac)
+* [Libre Calculator](https://librecalculator.com) - 免费开源的专题计算器合集，提供基于输入的计算步骤、图示和简短课程。 [![Open-Source Software][OSS Icon]](https://github.com/tonyzedginidze/librecalculator) ![Freeware][Freeware Icon]
 * [Liftoff](https://github.com/firstfu/Liftoff) - 开源的 Launchpad 替代品，支持窗口实时预览、窗口标题搜索和一键整理文件夹。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) - 外接显示器亮度/对比度调节工具，从此告别物理按键。[![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - 防止Mac进入睡眠状态。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/lungo/id1263070803?platform=mac)
