@@ -1400,6 +1400,7 @@ Awesome Mac
 
 ### ファイル管理ツール
 
+* [Attic](https://atticmac.com/?ref=dir-awesome-mac) - デスクトップとダウンロードフォルダの古いスクリーンショット、画面収録、ダウンロードファイルを毎朝月別に片付け、何も削除しないメニューバーアプリ。 ![Native App][Native Icon]
 * [BetterZip](https://macitbetter.com/) - ZIP、TAR、TGZ、TBZ、TXZ（新規）、7-ZIP、RARをサポートするアーカイブツール。
 * [eZip](http://ezip.awehunt.com) - ZIP、RAR、7Z などに対応した軽量な圧縮・解凍ツール。 ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - 無制限のペインを持つモダンなタイリングファイルマネージャー。

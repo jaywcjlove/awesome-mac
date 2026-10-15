@@ -1555,6 +1555,7 @@ Awesome Mac
 ### Finder
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - 一键将 `/Applications` 中的应用迁移到外部存储，并在原位置保留可启动入口的链接工具。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [Attic](https://atticmac.com/?ref=dir-awesome-mac) - 菜单栏应用，每天早上把桌面和下载文件夹里的旧截图、屏幕录像和下载文件按月归档，从不删除任何文件。 ![Native App][Native Icon]
 * [Findly](https://findly.rocavence.com) - 用快捷键从屏幕任意边缘滑出的 Finder 风格文件抽屉，切换到其他应用时自动收起。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [FinderRight](https://github.com/funny-dog/FinderRight) - 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
