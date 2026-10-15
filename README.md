@@ -349,6 +349,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
 * [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write. [![Open-Source Software][OSS Icon]](https://github.com/fus3r/lemma) ![Freeware][Freeware Icon]
+* [ModernTex](https://purplelink.llc/moderntex/?utm_source=awesome-mac) - Native LaTeX editor with a synced PDF preview, plain-language build errors and pre-submission checks.
 * [OffPDF](https://offpdf.com/) - Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally. [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - PDF inspection tool for analyzing metadata, structure, and security risks. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
