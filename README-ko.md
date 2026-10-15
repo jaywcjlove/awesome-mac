@@ -407,6 +407,7 @@ Awesome Mac
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) - 시각적 구성을 지원하는 FRP 리버스 프록시 및 인트라넷 침투용 오픈 소스 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
+* [GithubStarsManager](https://gsm.aminta.top) - 자동 요약, 태그, 시맨틱 검색, 릴리스 추적으로 GitHub 스타를 정리하는 AI 기반 로컬 우선 앱. [![Open-Source Software][OSS Icon]](https://github.com/AmintaCCCP/GithubStarsManager)![Freeware][Freeware Icon]
 * [GraphCode](https://graphcode.app) - 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원. ![Freeware][Freeware Icon]
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
