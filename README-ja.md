@@ -1129,6 +1129,7 @@ Awesome Mac
 ## ブラウザ
 
 * [Arc](https://arc.net/) - ワークスペース型インターフェースを備えたブラウザ。 ![Freeware][Freeware Icon]
+* [Atoll](https://atoll.pixework.pro/) - OSのように起動するブラウザ。Webアプリを独立したウィンドウで開き、デスクトップ、Dock、スペースを備える。 [![Open-Source Software][OSS Icon]](https://github.com/amadoubaui/atoll) ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - プライバシーと速度を重視したWebブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPTを内蔵したブラウザ。 ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Googleが開発したChrome ![Freeware][Freeware Icon]

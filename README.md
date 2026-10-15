@@ -1128,6 +1128,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Browsers
 
 * [Arc](https://arc.net/) - Browser with a distinctive workspace-style interface. ![Freeware][Freeware Icon]
+* [Atoll](https://atoll.pixework.pro/) - Browser that boots like an operating system, with web apps in their own windows, a desktop, a Dock and spaces. [![Open-Source Software][OSS Icon]](https://github.com/amadoubaui/atoll) ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - Browser with ChatGPT built in. ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
