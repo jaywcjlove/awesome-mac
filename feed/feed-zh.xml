@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:17:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FanPilot</title>
+      <link>https://github.com/zyvren/FanPilot</link>
+      <guid isPermaLink="false">aed244574acfb535c4d8ca7229a18d4a88606201:FanPilot</guid>
+      <pubDate>Thu, 15 Oct 2026 15:17:09 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: FanPilot
+Description: Apple Silicon Mac 的风扇控制与温度监控：菜单栏温度，手动、最大、自动加速规则或自定义曲线，带安全保护的辅助进程和命令行工具。
+Open Source: https://github.com/zyvren/FanPilot
+Commit: Add FanPilot to System Related Tools (#3497)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: FanPilot<br/>Description: Apple Silicon Mac 的风扇控制与温度监控：菜单栏温度，手动、最大、自动加速规则或自定义曲线，带安全保护的辅助进程和命令行工具。<br/>Open Source: https://github.com/zyvren/FanPilot<br/>Commit: Add FanPilot to System Related Tools (#3497)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201]]></content:encoded>
+    </item>
     <item>
       <title>JoeBro</title>
       <link>https://joexk1.github.io/joebro/</link>
@@ -693,20 +707,6 @@ Website: https://digisensus.com/call-recorder-mac/
 Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Digisensus Recorder<br/>Description: 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。<br/>Website: https://digisensus.com/call-recorder-mac/<br/>Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940]]></content:encoded>
-    </item>
-    <item>
-      <title>TBD</title>
-      <link>https://tbd.yt/</link>
-      <guid isPermaLink="false">8d42a1337f0f00ff142f424c12aef1abb315a5c4:TBD</guid>
-      <pubDate>Fri, 02 Oct 2026 03:08:55 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: TBD
-Description: 基于 yt-dlp 的开源 YouTube 视频和音频下载工具，也可在同一 Wi-Fi 下用手机操控。
-Website: https://tbd.yt/
-Commit: Add TBD to Download Management Tools (#3085)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: TBD<br/>Description: 基于 yt-dlp 的开源 YouTube 视频和音频下载工具，也可在同一 Wi-Fi 下用手机操控。<br/>Website: https://tbd.yt/<br/>Commit: Add TBD to Download Management Tools (#3085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4]]></content:encoded>
     </item>
   </channel>
 </rss>

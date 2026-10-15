@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:17:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FanPilot</title>
+      <link>https://github.com/zyvren/FanPilot</link>
+      <guid isPermaLink="false">aed244574acfb535c4d8ca7229a18d4a88606201:FanPilot</guid>
+      <pubDate>Thu, 15 Oct 2026 15:17:09 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: FanPilot
+Description: Apple Silicon Mac向けのファン制御・温度モニター。メニューバーに温度を表示し、手動・最大・Auto Boostルール・カスタムカーブで制御。フェイルセーフなヘルパーとCLI付き。
+Open Source: https://github.com/zyvren/FanPilot
+Commit: Add FanPilot to System Related Tools (#3497)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: FanPilot<br/>Description: Apple Silicon Mac向けのファン制御・温度モニター。メニューバーに温度を表示し、手動・最大・Auto Boostルール・カスタムカーブで制御。フェイルセーフなヘルパーとCLI付き。<br/>Open Source: https://github.com/zyvren/FanPilot<br/>Commit: Add FanPilot to System Related Tools (#3497)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201]]></content:encoded>
+    </item>
     <item>
       <title>JoeBro</title>
       <link>https://joexk1.github.io/joebro/</link>
@@ -693,20 +707,6 @@ Website: https://digisensus.com/call-recorder-mac/
 Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Digisensus Recorder<br/>Description: Zoom、Meet、Teams、FaceTime、WhatsApp、電話の通話を録音し、ボットなしで AI 会議メモを作成する通話レコーダー。<br/>Website: https://digisensus.com/call-recorder-mac/<br/>Commit: Add Digisensus Recorder to Audio Record and Process (EN/ZH/JA/KO) (#3092)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf6a6e76b63460732293d5c428801a8dfc7da940]]></content:encoded>
-    </item>
-    <item>
-      <title>TBD</title>
-      <link>https://tbd.yt/</link>
-      <guid isPermaLink="false">8d42a1337f0f00ff142f424c12aef1abb315a5c4:TBD</guid>
-      <pubDate>Fri, 02 Oct 2026 03:08:55 GMT</pubDate>
-      <category>ダウンロード管理ツール</category>
-      <description>Category: ダウンロード管理ツール
-App: TBD
-Description: 同じWi-Fi上のスマートフォンからも操作できる、yt-dlpベースのオープンソースYouTube動画・音声ダウンローダー。
-Website: https://tbd.yt/
-Commit: Add TBD to Download Management Tools (#3085)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4</description>
-      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: TBD<br/>Description: 同じWi-Fi上のスマートフォンからも操作できる、yt-dlpベースのオープンソースYouTube動画・音声ダウンローダー。<br/>Website: https://tbd.yt/<br/>Commit: Add TBD to Download Management Tools (#3085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4]]></content:encoded>
     </item>
   </channel>
 </rss>
