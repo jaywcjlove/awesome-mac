@@ -1178,6 +1178,7 @@ Awesome Mac
 
 ## ファイナンス
 
+* [Finoinc](https://mateusfonsek.github.io/finoinc/) - 銀行の OFX 明細を取り込み、ルールで分類し、その月のお金の行き先を示すローカルファーストな家計管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mateusfonsek/finoinc) ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 小売店とレストラン向けのオフラインファーストなオープンソース POS・請求ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - 更新通知に対応したサブスクリプション管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
