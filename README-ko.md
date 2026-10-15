@@ -580,6 +580,7 @@ Awesome Mac
 * [MakeHuman](http://www.makehumancommunity.org) - 강력하고 무료인 3D 인간 모델러. ![Freeware][Freeware Icon]
 * [Monodraw](http://monodraw.helftone.com) - Mac용 강력한 ASCII 아트 편집기. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 비트맵 이미지 편집기. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
+* [PastPerfect](https://pastperfect.marcowilka.de/) - AI 얼굴 복원과 아날로그 필름 에뮬레이션을 지원하는 사진 편집기. ![Native App][Native Icon]
 * [Pixelmator Pro](http://www.pixelmator.com/pro/) - Mac을 위한 모든 기능을 갖춘 이미지 편집기.
 * [Pika](https://superhighfives.com/pika) - 오픈 소스 색상 선택 앱. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika)
 * [Redlamp](https://redlamp.app) - Lightroom Classic의 현상 워크플로를 그대로 유지하는 네이티브 오픈 소스 RAW 사진 편집기. [![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp) ![Freeware][Freeware Icon]

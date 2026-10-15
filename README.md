@@ -691,6 +691,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Monodraw](https://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 * [Paintbrush](https://paintbrush.sourceforge.net/) - Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
+* [PastPerfect](https://pastperfect.marcowilka.de/) - Photo editor with AI face restoration and analog film emulation. ![Native App][Native Icon]
 * [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](https://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor for Mac.

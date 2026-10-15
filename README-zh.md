@@ -469,6 +469,7 @@ Awesome Mac
 * [Nik Collection](https://nikcollection.dxo.com/) - 专业照片后期制作工具，Google 收购后免费![Freeware][Freeware Icon]
 * [RawTherapee](https://rawtherapee.com/) - 免费的跨平台原始图像处理程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 位图图像编辑器。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
+* [PastPerfect](https://pastperfect.marcowilka.de/) - 带 AI 面部修复与胶片模拟的照片编辑器。 ![Native App][Native Icon]
 * [Pencil2D](https://www.pencil2d.org) - 制作2D手绘动画的简单直观的工具。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](https://www.pixelmator.com/) - 强大的图像编辑器，PS的替代选择。
 * [Principle](http://principleformac.com/) - 使用它很容易设计动画和交互式用户界面。
