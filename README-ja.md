@@ -1468,6 +1468,7 @@ Awesome Mac
 * [Super Productivity](https://super-productivity.com) - タイムボクシングと時間追跡を備えたタスクマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - チーム向けリアルタイムコラボレーションエディター。
 * [TaskPaper](https://www.taskpaper.com/) - プレーンテキストベースのToDoリスト。
+* [Tasks](https://thetasks.app) - シンプルなリストからカンバンボードや共有プロジェクトまで広がるToDo・プロジェクト管理アプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1502903102?platform=mac)
 * [Things](https://culturedcode.com/things/) - 使いやすく快適なタスクマネージャー。（**受賞歴のあるアプリ**）
 * [Todoist](https://todoist.com/mac) - クロスプラットフォームのToDoリストアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?platform=mac)
 * [Tomato 2](https://tomato2.app) - 美しくシンプルなポモドーロタイマー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?platform=mac)
