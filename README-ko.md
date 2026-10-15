@@ -638,6 +638,7 @@ Awesome Mac
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 소스 코드가 공개된 화면·오디오 기록 도구로, 로컬 기록 검색과 선택적 클라우드 AI 처리, 무료 및 유료 요금제를 제공합니다.
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
+* [Toma](https://toma.felipebasurto.com/) - 화면 영역을 녹화해 MP4, HEVC 또는 GIF로 저장하는 오픈 소스 메뉴 막대 앱으로, 동영상용 ⇧⌘4와 같습니다. [![Open-Source Software][OSS Icon]](https://github.com/felipebasurto/toma) ![Freeware][Freeware Icon]
 
 ### 기타 도구
 
