@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:06:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JoeBro</title>
+      <link>https://joexk1.github.io/joebro/</link>
+      <guid isPermaLink="false">b9aa75d5e5701497846220bede6ad8ba4a18cea7:JoeBro</guid>
+      <pubDate>Thu, 15 Oct 2026 04:06:48 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: JoeBro
+Description: 채팅과 문서 편집을 위한 네이티브 SwiftUI 작업 공간. Ollama 또는 API를 통한 로컬 모델, 메모리, MCP 도구, 딥 리서치를 지원합니다.
+Website: https://joexk1.github.io/joebro/
+Commit: Add JoeBro to AI Tools (#3485)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b9aa75d5e5701497846220bede6ad8ba4a18cea7</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: JoeBro<br/>Description: 채팅과 문서 편집을 위한 네이티브 SwiftUI 작업 공간. Ollama 또는 API를 통한 로컬 모델, 메모리, MCP 도구, 딥 리서치를 지원합니다.<br/>Website: https://joexk1.github.io/joebro/<br/>Commit: Add JoeBro to AI Tools (#3485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b9aa75d5e5701497846220bede6ad8ba4a18cea7]]></content:encoded>
+    </item>
     <item>
       <title>JET Pilot</title>
       <link>https://jet-pilot.app/</link>
@@ -693,20 +707,6 @@ Website: https://tbd.yt/
 Commit: Add TBD to Download Management Tools (#3085)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4</description>
       <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: TBD<br/>Description: 같은 Wi-Fi의 휴대폰으로도 조작할 수 있는 yt-dlp 기반 오픈 소스 YouTube 동영상·오디오 다운로더.<br/>Website: https://tbd.yt/<br/>Commit: Add TBD to Download Management Tools (#3085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d42a1337f0f00ff142f424c12aef1abb315a5c4]]></content:encoded>
-    </item>
-    <item>
-      <title>Amber Notes</title>
-      <link>https://ambernotes.app/</link>
-      <guid isPermaLink="false">8c14cd9816afc9a9f1b60be08a80edcffa354065:Amber Notes</guid>
-      <pubDate>Fri, 02 Oct 2026 02:48:45 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 노트 작성</category>
-      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
-App: Amber Notes
-Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.
-Website: https://ambernotes.app/
-Commit: Add Amber Notes to Note-taking (#3090)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Amber Notes<br/>Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.<br/>Website: https://ambernotes.app/<br/>Commit: Add Amber Notes to Note-taking (#3090)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8c14cd9816afc9a9f1b60be08a80edcffa354065]]></content:encoded>
     </item>
   </channel>
 </rss>
