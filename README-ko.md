@@ -183,6 +183,7 @@ Awesome Mac
 * [LiteEdit](https://arietan.github.io/lite-edit/) - 1MB 미만의 경량 네이티브 코드 편집기, 구문 강조와 파일 트리 제공. [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - Panic에서 만든 아름답고 빠르고 유연한 네이티브 Mac 코드 편집기.
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - 단순하고 집중을 방해하지 않는 메모장. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
+* [rhun](https://rhun.app/) - 어셈블리로 작성된 오픈 소스 코드 편집기로, 내장 터미널, Git 변경 사항 비교, Vim 모드를 제공한다. [![Open-Source Software][OSS Icon]](https://github.com/vshvedov/rhun) ![Freeware][Freeware Icon]
 * [Sublime Text](http://www.sublimetext.com/3) - 빠른 인터페이스와 플러그인 생태계를 갖춘 텍스트 편집기. [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [SubEthaEdit](https://subethaedit.net/) - 쓰기, 코딩 및 협업을 위한 강력한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - 텍스트 편집기 세계에 Apple의 운영 체제 접근 방식을 도입한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
