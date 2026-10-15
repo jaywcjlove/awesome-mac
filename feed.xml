@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:47:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Strata Files</title>
+      <link>https://stratafiles.app</link>
+      <guid isPermaLink="false">0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1:Strata Files</guid>
+      <pubDate>Thu, 15 Oct 2026 23:47:30 GMT</pubDate>
+      <category>Utilities / Finder Tools</category>
+      <description>Category: Utilities / Finder Tools
+App: Strata Files
+Description: Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+Website: https://stratafiles.app
+Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
+      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Strata Files<br/>Description: Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
+    </item>
     <item>
       <title>FanPilot</title>
       <link>https://github.com/zyvren/FanPilot</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/firstfu/DockLens-app
 Commit: Add DockLens to Window Management (#3132)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: DockLens<br/>Description: Hover a Dock icon to see live thumbnails of all that app&apos;s windows, then switch, close or minimize them.<br/>Open Source: https://github.com/firstfu/DockLens-app<br/>Commit: Add DockLens to Window Management (#3132)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23ffea57b0b41e7c2c0b671dbe27fec27e5b2619]]></content:encoded>
-    </item>
-    <item>
-      <title>Runner</title>
-      <link>https://github.com/yicheng47/runner</link>
-      <guid isPermaLink="false">b7afa7df5420716aa9fadadc411cbb847e2d1138:Runner</guid>
-      <pubDate>Fri, 02 Oct 2026 07:15:03 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: Runner
-Description: Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal.
-Open Source: https://github.com/yicheng47/runner
-Commit: Add Runner to Developer Utilities (#2965)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Runner<br/>Description: Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal.<br/>Open Source: https://github.com/yicheng47/runner<br/>Commit: Add Runner to Developer Utilities (#2965)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7afa7df5420716aa9fadadc411cbb847e2d1138]]></content:encoded>
     </item>
   </channel>
 </rss>
