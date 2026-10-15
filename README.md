@@ -1176,6 +1176,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Finance
 
+* [Finoinc](https://mateusfonsek.github.io/finoinc/) - Local-first personal finance that imports bank OFX statements, categorizes them with rules and shows where the month's money went. [![Open-Source Software][OSS Icon]](https://github.com/mateusfonsek/finoinc) ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - Subscription tracker with renewal reminders. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
