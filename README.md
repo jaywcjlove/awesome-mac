@@ -816,6 +816,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [qView](https://interversehq.com/qview/) - qView is an image viewer designed with minimalism and usability in mind. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
 * [Resize Master](https://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](https://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
+* [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal. [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 * [svgus](https://www.svgs.us/) - Organize, clean and transform your SVGs. [![App Store][app-store Icon]](https://apps.apple.com/app/svgsus/id1106867065?platform=mac)
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
