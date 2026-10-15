@@ -1208,6 +1208,7 @@ Awesome Mac
 
 ## 서드파티 앱 마켓
 
+* [Cellar](https://github.com/tuhage/Cellar) - formula, cask, 서비스를 관리하고 brew가 실행되기 전에 변경 사항을 미리 보여 주는 오픈 소스 Homebrew 관리자. [![Open-Source Software][OSS Icon]](https://github.com/tuhage/Cellar) ![Freeware][Freeware Icon]
 * [Homebrew](https://brew.sh/index_ko) - macOS용 패키지 관리자. [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew) ![Freeware][Freeware Icon]
 * [MacPorts](https://www.macports.org/) - 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 

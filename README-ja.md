@@ -1754,6 +1754,7 @@ Awesome Mac
 *主要なソフトウェアダウンロードサイトをいくつか紹介します。OSX Macソフトウェアサイトは多数あります*
 
 * [Applite](https://aerolite.dev/applite) - Homebrew Cask用のユーザーフレンドリーなGUIアプリ。ワンクリックでアプリのインストール、更新、アンインストールが可能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
+* [Cellar](https://github.com/tuhage/Cellar) - formula、cask、サービスを管理し、brew が実行する前に変更内容をプレビューできるオープンソースの Homebrew マネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/tuhage/Cellar)
 * [Cork](https://corkmac.app) - Homebrewのすべての機能をサポートするSwiftUIで書かれた直感的で完全なHomebrew GUI。 [![Open-Source Software][OSS Icon]](https://github.com/buresdv/cork)
 * [Homebrew](https://brew.sh/) - macOSに欠けていたパッケージマネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - オープンソースソフトウェアの導入と管理を行うパッケージマネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
