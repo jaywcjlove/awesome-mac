@@ -587,6 +587,7 @@ Awesome Mac
 * [Sketch](http://www.sketchapp.com/) - 전문적인 네이티브 디지털 디자인 도구.
 * [SketchBook](https://www.sketchbook.com/) - 드로잉 및 페인팅 소프트웨어. ![Freeware][Freeware Icon]
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - 향상된 기능을 제공하는 macOS 색상 선택기 앱. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon]
+* [XShots](https://selfark.com/xshots) - App Store 스크린샷 세트의 디자인, 현지화, 미리보기 및 일괄 내보내기를 지원하는 도구.
 
 ### 프로토타이핑 및 마인드맵 도구
 
