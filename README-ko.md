@@ -942,6 +942,7 @@ Awesome Mac
 * [Sentinel](https://sentinel-james-murphy.pages.dev/) - Mac 보안 설정을 쉬운 말로 점검하고 Wi-Fi에 연결된 기기 목록을 보여 주는 도구. ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 오픈 소스 의존성 취약점을 모니터링하는 서비스.
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - USB 포트를 무단 접근으로부터 보호하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
+* [Wardlume](https://wardlume.github.io) - 화면은 보이게 둔 채 키보드, 마우스, 트랙패드를 잠가 AI 코딩 에이전트가 계속 작업하게 하고 Touch ID 또는 Apple Watch로 해제하는 입력 잠금 도구. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 파일의 코드 서명 정보를 보는 Finder 확장. ![Freeware][Freeware Icon]
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 휴대폰 지문으로 인증할 수 있는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 
