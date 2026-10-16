@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:46:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Aman Check</title>
+      <link>https://github.com/MidZai/aman_check</link>
+      <guid isPermaLink="false">cae489356f4923ac8a6227c31be5fb34b7b0b447:Aman Check</guid>
+      <pubDate>Fri, 16 Oct 2026 00:46:17 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: Aman Check
+Description: Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
+Open Source: https://github.com/MidZai/aman_check
+Commit: Add Aman Check (#3496)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Aman Check<br/>Description: Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
+    </item>
     <item>
       <title>Photo Review</title>
       <link>https://danielyaa5.github.io/photo-review/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dortanes/openspatial
 Commit: Add OpenSpatial (#3120)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: OpenSpatial<br/>Description: Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking.<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
-    </item>
-    <item>
-      <title>Frpc-Desktop</title>
-      <link>https://github.com/luckjiawei/frpc-desktop</link>
-      <guid isPermaLink="false">b2f1ceb7ab36179a146f71301df5b32fb5de3f72:Frpc-Desktop</guid>
-      <pubDate>Sat, 03 Oct 2026 04:26:09 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: Frpc-Desktop
-Description: Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.
-Open Source: https://github.com/luckjiawei/frpc-desktop
-Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Frpc-Desktop<br/>Description: Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.<br/>Open Source: https://github.com/luckjiawei/frpc-desktop<br/>Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72]]></content:encoded>
     </item>
   </channel>
 </rss>
