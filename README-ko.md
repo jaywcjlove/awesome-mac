@@ -957,6 +957,7 @@ Awesome Mac
 * [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou 및 브라우저의 YouTube Music / Spotify Web을 지원하는 단어 단위 동기화 데스크톱 가사. [![Open-Source Software][OSS Icon]](https://github.com/Yudaotor/lyrimuse) ![Freeware][Freeware Icon]
 * [Mac TV](https://arunprakaash.github.io/mac-tv/) - 휴대폰 리모컨과 로컬 영화 플레이어를 갖춘, 스트리밍 앱을 위한 오픈 소스 Apple TV 스타일 홈 화면. [![Open-Source Software][OSS Icon]](https://github.com/Arunprakaash/mac-tv) ![Freeware][Freeware Icon]
 * [Memozia](https://github.com/oceanix-pr/Memozia) - 기기 내 전사, 화자 표시, 요약, 편집 가능한 할 일을 지원하는 오픈 소스 회의 녹음 도구. [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
+* [MicKeeper](https://github.com/fratayaydn/mickeeper) - AirPods와 iPhone이 마이크를 가져가지 않게 하고 입력 레벨을 고정할 수 있는 도구. [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/mickeeper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [mm2t](https://mm2t.yuzen.dev/en/) - 데이터를 로컬에 저장하고 기기에서 화자를 식별하며 선택한 서비스로 전사와 요약을 생성하는 회의 녹음 도구. [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 영화와 영상 콘텐츠를 검색하고 스트리밍하거나 오프라인 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
