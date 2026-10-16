@@ -1575,6 +1575,7 @@ Awesome Mac
 * [Hummingbird](https://finestructure.co/hummingbird) - ウィンドウ内のどこからでも、マウスクリックなしでウィンドウを簡単に移動・リサイズ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [IntelliDock](https://mightymac.app/intellidock/) - Dockを自動的に非表示に。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - macOS用の軽量ウィンドウボーダーシステム。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
+* [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 外部モニターごとにウィンドウ配置を記憶・復元（Spaces対応）。Apple SiliconではDDCで明るさと音量を調整。 [![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - エレガントなウィンドウ管理。 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [MacsyZones](https://macsyzones.com/) - ウィンドウを簡単に整理して生産性を向上。 [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
 * [Lasso](https://thelasso.app) - 直感的で使いやすいグリッドベースのウィンドウマネージャー。
