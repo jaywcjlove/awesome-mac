@@ -753,6 +753,7 @@ Awesome Mac
 * [Lightshot](https://app.prntscr.com/) - カスタマイズ可能なスクリーンショットを撮る最速の方法。 ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
+* [Shotnix](https://shotnix.com/) - スクリーンショット、画面録画、注釈、ピン留め、スクロールキャプチャ、OCR、動画編集に対応したメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/OMARVII/Shotnix) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
 * [Sitch](https://phalladar.github.io/Sitch/) - テーパー矢印、ぼかし、モザイクに対応し、完全オフラインで動作する Skitch 風のスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - 強力な注釈機能を備えたスクリーンキャプチャアプリケーション。 ![Freeware][Freeware Icon]
