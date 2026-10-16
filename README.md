@@ -1708,6 +1708,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [Vitals](https://vitalsmac.com) - Activity Monitor alternative that groups processes by app, with 30-day history, alerts, and menu bar readouts. ![Native App][Native Icon]
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## Gaming Software
