@@ -804,6 +804,7 @@ Awesome Mac
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - 녹음과 음악 제작을 위한 디지털 오디오 워크스테이션. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
+* [Local Transcriber](https://transcriber.teconomix.net) - 통화와 회의를 녹음해 Whisper로 기기에서 전사하고 화자 인식, 통화 감지, 모든 앱에서의 받아쓰기를 지원하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 음악과 오디오 제작을 위한 전문가용 디지털 오디오 워크스테이션. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 단어별 글로우 효과를 지원하는 동기화 가사 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
