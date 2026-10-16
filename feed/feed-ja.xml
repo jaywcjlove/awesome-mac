@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:35:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Siliconed</title>
+      <link>https://gwenn-ha-dev.github.io/Siliconed/</link>
+      <guid isPermaLink="false">0655c6bc04f2217f41f04681cc16ff6c8ee0d717:Siliconed</guid>
+      <pubDate>Fri, 16 Oct 2026 01:35:49 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: Siliconed
+Description: SwiftとMetalで書かれた、Appleシリコン向けのローカルAI画像生成と指示による画像編集のオープンソースアプリ。
+Website: https://gwenn-ha-dev.github.io/Siliconed/
+Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Siliconed<br/>Description: SwiftとMetalで書かれた、Appleシリコン向けのローカルAI画像生成と指示による画像編集のオープンソースアプリ。<br/>Website: https://gwenn-ha-dev.github.io/Siliconed/<br/>Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717]]></content:encoded>
+    </item>
     <item>
       <title>Aman Check</title>
       <link>https://github.com/MidZai/aman_check</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/dortanes/openspatial
 Commit: Add OpenSpatial (#3120)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: OpenSpatial<br/>Description: あらゆるアプリの音をヘッドトラッキング付きの 7.1 サラウンドで再生する、ヘッドホン向けのオープンソース空間オーディオ。<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
-    </item>
-    <item>
-      <title>Frpc-Desktop</title>
-      <link>https://github.com/luckjiawei/frpc-desktop</link>
-      <guid isPermaLink="false">b2f1ceb7ab36179a146f71301df5b32fb5de3f72:Frpc-Desktop</guid>
-      <pubDate>Sat, 03 Oct 2026 04:26:09 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: Frpc-Desktop
-Description: FRPリバースプロキシおよびイントラネット侵入（NAT越え）のためのオープンソースGUIクライアント。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)
-Open Source: https://github.com/luckjiawei/frpc-desktop
-Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Frpc-Desktop<br/>Description: FRPリバースプロキシおよびイントラネット侵入（NAT越え）のためのオープンソースGUIクライアント。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop)<br/>Open Source: https://github.com/luckjiawei/frpc-desktop<br/>Commit: Add Frpc-Desktop to Developer Utilities (EN/ZH/JA/KO) (#3117)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2f1ceb7ab36179a146f71301df5b32fb5de3f72]]></content:encoded>
     </item>
   </channel>
 </rss>
