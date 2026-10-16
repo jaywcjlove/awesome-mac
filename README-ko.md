@@ -450,7 +450,7 @@ Awesome Mac
 ### 정규 표현식 편집기
 
 * [Patterns](http://krillapps.com/patterns/) - 정규 표현식 편집기.
-* [Regex](https://motionobj.com/regex/) - 간단한 정규 표현식 테스트 도구.
+* [Regex](https://motionobj.com/regex/) - Swift Regex 엔진과 로컬 테스트 케이스 저장을 지원하는 정규 표현식 테스트 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/regex-tester-builder/id422501241?mt=12)
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 정규 표현식 개발 도구.
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - 참조 가이드가 포함된 테스트 도구.
 
