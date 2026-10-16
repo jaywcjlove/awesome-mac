@@ -281,6 +281,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
 * [THORN](https://thorn.so) - 개인 쓰기 및 웹사이트 구축을 위한 모든 것.
+* [writui](https://writui.com/) - 로컬 암호화 저장소와 이름 붙인 버전을 제공하는 오픈 소스 터미널 Markdown 글쓰기 앱. [![Open-Source Software][OSS Icon]](https://github.com/aakashns/writui) ![Freeware][Freeware Icon]
 
 ### 전자책
 

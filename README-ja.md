@@ -308,6 +308,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - ライターのための定番ワードプロセッサ。
 * [THORN](https://thorn.so) - パーソナルライティングとWebサイト構築に必要なすべてを。
+* [writui](https://writui.com/) - ローカルの暗号化保管庫と名前付きの版を備えた、オープンソースのターミナル向けMarkdown執筆アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/aakashns/writui) ![Freeware][Freeware Icon]
 
 ### 電子書籍
 
