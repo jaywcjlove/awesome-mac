@@ -415,6 +415,7 @@ Awesome Mac
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 메타데이터, TestFlight, 리뷰, 분석, 현지화를 관리하는 App Store Connect 도구. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [JET Pilot](https://jet-pilot.app/) - 여러 클러스터, 네임스페이스, 클라우드 계정을 넘나들며 작업할 수 있는 오픈 소스 Kubernetes 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
+* [JustSessions](https://yangzichao.github.io/JustSessions/) - Claude Code, Codex 등 코딩 에이전트의 세션을 검색하고 읽은 뒤 기존 CLI에서 이어서 작업할 수 있는 네이티브 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/yangzichao/JustSessions) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [LINQPad](https://www.linqpad.net/) - 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드. ![Freeware][Freeware Icon]

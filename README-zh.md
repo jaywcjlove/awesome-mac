@@ -279,6 +279,7 @@ Awesome Mac
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - 轻松找到无效链接。![Freeware][Freeware Icon]
 * [JET Pilot](https://jet-pilot.app/) - 开源的 Kubernetes 桌面客户端，可跨集群、命名空间和云账号统一管理。 [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - 本地优先的 JSON 工作台，支持格式化、编辑、对比、转换、校验和从日志中提取 JSON。 [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
+* [JustSessions](https://yangzichao.github.io/JustSessions/) - 用于查找、阅读和恢复 Claude Code、Codex 等编程代理会话的原生工作台，保留原有命令行界面。 [![Open-Source Software][OSS Icon]](https://github.com/yangzichao/JustSessions) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持 Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限。 ![Freeware][Freeware Icon]

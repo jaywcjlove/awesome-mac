@@ -447,6 +447,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Integrity](https://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
 * [JET Pilot](https://jet-pilot.app/) - Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts. [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
+* [JustSessions](https://yangzichao.github.io/JustSessions/) - Native workspace for finding, reading, and resuming Claude Code, Codex, and other coding-agent sessions in their original CLIs. [![Open-Source Software][OSS Icon]](https://github.com/yangzichao/JustSessions) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare text, images, and folders.
 * [Koala](https://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations.
