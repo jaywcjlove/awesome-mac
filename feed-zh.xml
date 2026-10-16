@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:35:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Siliconed</title>
+      <link>https://gwenn-ha-dev.github.io/Siliconed/</link>
+      <guid isPermaLink="false">0655c6bc04f2217f41f04681cc16ff6c8ee0d717:Siliconed</guid>
+      <pubDate>Fri, 16 Oct 2026 01:35:49 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Siliconed
+Description: 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。
+Website: https://gwenn-ha-dev.github.io/Siliconed/
+Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Siliconed<br/>Description: 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。<br/>Website: https://gwenn-ha-dev.github.io/Siliconed/<br/>Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717]]></content:encoded>
+    </item>
     <item>
       <title>LawPulse 法脉</title>
       <link>https://lttxzmj.github.io/lawpulse-site/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/lazyfury/classic-game-box
 Commit: Add Classic Game Box to Gaming Software (#3123)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a</description>
       <content:encoded><![CDATA[Category: 游戏软件<br/>App: Classic Game Box<br/>Description: 基于 libretro 核心的开源复古主机模拟器前端。<br/>Open Source: https://github.com/lazyfury/classic-game-box<br/>Commit: Add Classic Game Box to Gaming Software (#3123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenSpatial</title>
-      <link>https://github.com/dortanes/openspatial</link>
-      <guid isPermaLink="false">d5d3803cfbe8846371c3128779696c434d546306:OpenSpatial</guid>
-      <pubDate>Sat, 03 Oct 2026 05:45:13 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: OpenSpatial
-Description: 开源空间音频工具，让任意耳机以带头部追踪的 7.1 环绕声播放所有应用的声音。
-Open Source: https://github.com/dortanes/openspatial
-Commit: Add OpenSpatial (#3120)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: OpenSpatial<br/>Description: 开源空间音频工具，让任意耳机以带头部追踪的 7.1 环绕声播放所有应用的声音。<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
     </item>
   </channel>
 </rss>

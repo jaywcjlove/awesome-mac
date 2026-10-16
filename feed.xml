@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:35:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Siliconed</title>
+      <link>https://gwenn-ha-dev.github.io/Siliconed/</link>
+      <guid isPermaLink="false">0655c6bc04f2217f41f04681cc16ff6c8ee0d717:Siliconed</guid>
+      <pubDate>Fri, 16 Oct 2026 01:35:49 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Siliconed
+Description: Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal.
+Website: https://gwenn-ha-dev.github.io/Siliconed/
+Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Siliconed<br/>Description: Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal.<br/>Website: https://gwenn-ha-dev.github.io/Siliconed/<br/>Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717]]></content:encoded>
+    </item>
     <item>
       <title>LawPulse</title>
       <link>https://lttxzmj.github.io/lawpulse-site/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/firstfu/Liftoff
 Commit: Add Liftoff (#3131)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Liftoff<br/>Description: Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing.<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
-    </item>
-    <item>
-      <title>Classic Game Box</title>
-      <link>https://github.com/lazyfury/classic-game-box</link>
-      <guid isPermaLink="false">37da44f954b3be5770ca15b02ecc9f59048d319a:Classic Game Box</guid>
-      <pubDate>Sat, 03 Oct 2026 08:59:17 GMT</pubDate>
-      <category>Gaming Software</category>
-      <description>Category: Gaming Software
-App: Classic Game Box
-Description: Open-source retro-console emulator frontend built on libretro cores.
-Open Source: https://github.com/lazyfury/classic-game-box
-Commit: Add Classic Game Box to Gaming Software (#3123)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a</description>
-      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Classic Game Box<br/>Description: Open-source retro-console emulator frontend built on libretro cores.<br/>Open Source: https://github.com/lazyfury/classic-game-box<br/>Commit: Add Classic Game Box to Gaming Software (#3123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a]]></content:encoded>
     </item>
   </channel>
 </rss>
