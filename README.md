@@ -1509,6 +1509,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Hyperkey](https://hyperkey.app/) - Turn Caps Lock or another modifier into a Hyper key. ![Freeware][Freeware Icon]
 * [iCMD](https://icmd.app) - Global fuzzy menu search with Vim-style navigation.
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Remap keys and customize keyboard behavior on macOS. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
+* [Kaskas](https://github.com/ramazanberkozbek/kaskas) - Native break reminder and focus tracker to prevent eye strain, with smart meeting delay. [![Open-Source Software][OSS Icon]](https://github.com/ramazanberkozbek/kaskas) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](https://www.keyboardmaestro.com) - Automate repetitive tasks with triggers and macros.
 * [Keytty](https://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
