@@ -625,6 +625,7 @@ Awesome Mac
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.macbunny.co/appleai) - 一键快捷访问菜单栏中的多款 AI 助手。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - 将 Apple 端侧模型封装为 OpenAI 兼容 API 的工具。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
+* [Appto](https://appto.store) - 借助你自己的 Claude Code 或 Codex 订阅，把 iPhone 应用从想法带到 App Store 的 Mac 应用，涵盖选题调研、原生 SwiftUI 代码、商店截图和 App Store Connect。
 * [AQBot](https://app.aqbot.top/) - 开源桌面 AI 工作台，支持多服务商对话、智能体工作流、知识库、MCP 工具和 OpenAI 兼容 API 网关。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Agent](https://atomicagent.io/) - 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 支持本地和云模型并集成 MCP 的开源 AI 聊天客户端。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
