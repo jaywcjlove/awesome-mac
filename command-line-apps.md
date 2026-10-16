@@ -111,7 +111,7 @@ A curated list of useful command line apps
 
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
-* [RowSafe](https://rowsafe.sh) - Apache-2.0 CLI for database backups, restores and monitoring through the separate RowSafe hosted service; requires a RowSafe account. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
+* [RowSafe](https://rowsafe.sh) - Apache-2.0 CLI for standalone PostgreSQL health checks and diagnostics without a RowSafe account; optional hosted backups require an enrolled agent and account. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
 
 ## Media
 
