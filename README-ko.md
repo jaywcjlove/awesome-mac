@@ -586,6 +586,7 @@ Awesome Mac
 * [Screen Loupe](https://ayenora.github.io/screen-loupe/) - 화면의 원하는 영역을 별도 창에서 픽셀 단위로 정확하게 실시간 확대해 보여주는 오픈 소스 돋보기. [![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
 * [Sketch](http://www.sketchapp.com/) - 전문적인 네이티브 디지털 디자인 도구.
 * [SketchBook](https://www.sketchbook.com/) - 드로잉 및 페인팅 소프트웨어. ![Freeware][Freeware Icon]
+* [Snip](https://sniperaser.com/) - 기기 내에서 배경 제거, 개체 지우기, 이미지 업스케일을 처리하고 화면 문자 인식(OCR)을 지원하는 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id1561559135?platform=mac)
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - 향상된 기능을 제공하는 macOS 색상 선택기 앱. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon]
 
 ### 프로토타이핑 및 마인드맵 도구
