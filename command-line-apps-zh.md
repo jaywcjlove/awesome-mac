@@ -111,6 +111,7 @@
 
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax
+* [RowSafe](https://rowsafe.sh) - 采用 Apache-2.0 许可证的 CLI，通过独立的 RowSafe 托管服务进行数据库备份、恢复和监控，需要 RowSafe 账号。 [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
 
 ## 媒体
 
