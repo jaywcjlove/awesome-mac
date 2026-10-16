@@ -1494,6 +1494,7 @@ Awesome Mac
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
+* [NightKeys](https://github.com/fratayaydn/nightkeys) - 仅在使用内置键盘打字时点亮 MacBook 键盘背光。 [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/nightkeys) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 集清理、校验和隐藏设置于一体的系统维护工具。![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 提供监控、清理和硬件诊断的性能管理工具。
