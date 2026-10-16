@@ -212,6 +212,7 @@ Awesome Mac
 * [JustMD](https://justmd.nuta.life/) - 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
+* [Markout](https://github.com/maxmilian/markout) - Apple Silicon용 macOS 네이티브 마크다운 편집기. 분할 실시간 미리보기, KaTeX 수식, Mermaid 다이어그램을 지원하며 완전히 오프라인으로 렌더링하고 HTML/PDF로 내보낼 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/maxmilian/markout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - 교차 플랫폼을 지원하는 마크다운 프레젠테이션 작성기. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
