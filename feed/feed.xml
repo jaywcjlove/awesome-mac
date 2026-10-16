@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:43:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Local Transcriber</title>
+      <link>https://transcriber.teconomix.net</link>
+      <guid isPermaLink="false">d260f9cfafad4e9b49967368771a52b4986a529f:Local Transcriber</guid>
+      <pubDate>Fri, 16 Oct 2026 03:43:04 GMT</pubDate>
+      <category>Audio and Video Tools / Audio Record and Process</category>
+      <description>Category: Audio and Video Tools / Audio Record and Process
+App: Local Transcriber
+Description: Menu bar app that records calls and meetings and transcribes them on-device with Whisper, with speaker recognition, call detection and dictation into any app.
+Website: https://transcriber.teconomix.net
+Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Local Transcriber<br/>Description: Menu bar app that records calls and meetings and transcribes them on-device with Whisper, with speaker recognition, call detection and dictation into any app.<br/>Website: https://transcriber.teconomix.net<br/>Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f]]></content:encoded>
+    </item>
     <item>
       <title>Siliconed</title>
       <link>https://gwenn-ha-dev.github.io/Siliconed/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/phalladar/MacDirStat
 Commit: Add MacDirStat to Cleanup and Uninstall (EN/ZH/JA/KO) (#3144)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a6a2faaded50b8e97bb9d22fc76ec8c0caa2f15</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacDirStat<br/>Description: Open-source disk space analyzer that shows what&apos;s taking up space as an interactive treemap, inspired by WinDirStat.<br/>Open Source: https://github.com/phalladar/MacDirStat<br/>Commit: Add MacDirStat to Cleanup and Uninstall (EN/ZH/JA/KO) (#3144)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a6a2faaded50b8e97bb9d22fc76ec8c0caa2f15]]></content:encoded>
-    </item>
-    <item>
-      <title>Liftoff</title>
-      <link>https://github.com/firstfu/Liftoff</link>
-      <guid isPermaLink="false">7b84d6a4f11737d31c2cf76cbda71a0df016fd3c:Liftoff</guid>
-      <pubDate>Sat, 03 Oct 2026 17:37:29 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Liftoff
-Description: Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing.
-Open Source: https://github.com/firstfu/Liftoff
-Commit: Add Liftoff (#3131)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Liftoff<br/>Description: Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing.<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
     </item>
   </channel>
 </rss>

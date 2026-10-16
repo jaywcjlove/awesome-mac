@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:43:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Local Transcriber</title>
+      <link>https://transcriber.teconomix.net</link>
+      <guid isPermaLink="false">d260f9cfafad4e9b49967368771a52b4986a529f:Local Transcriber</guid>
+      <pubDate>Fri, 16 Oct 2026 03:43:04 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Local Transcriber
+Description: 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。
+Website: https://transcriber.teconomix.net
+Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Local Transcriber<br/>Description: 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。<br/>Website: https://transcriber.teconomix.net<br/>Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f]]></content:encoded>
+    </item>
     <item>
       <title>Siliconed</title>
       <link>https://gwenn-ha-dev.github.io/Siliconed/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/lazyfury/classic-game-box
 Commit: Add Classic Game Box to Gaming Software (#3123)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a</description>
       <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: Classic Game Box<br/>Description: libretro コアを利用したオープンソースのレトロゲームエミュレーターフロントエンド。<br/>Open Source: https://github.com/lazyfury/classic-game-box<br/>Commit: Add Classic Game Box to Gaming Software (#3123)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/37da44f954b3be5770ca15b02ecc9f59048d319a]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenSpatial</title>
-      <link>https://github.com/dortanes/openspatial</link>
-      <guid isPermaLink="false">d5d3803cfbe8846371c3128779696c434d546306:OpenSpatial</guid>
-      <pubDate>Sat, 03 Oct 2026 05:45:13 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: OpenSpatial
-Description: あらゆるアプリの音をヘッドトラッキング付きの 7.1 サラウンドで再生する、ヘッドホン向けのオープンソース空間オーディオ。
-Open Source: https://github.com/dortanes/openspatial
-Commit: Add OpenSpatial (#3120)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: OpenSpatial<br/>Description: あらゆるアプリの音をヘッドトラッキング付きの 7.1 サラウンドで再生する、ヘッドホン向けのオープンソース空間オーディオ。<br/>Open Source: https://github.com/dortanes/openspatial<br/>Commit: Add OpenSpatial (#3120)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5d3803cfbe8846371c3128779696c434d546306]]></content:encoded>
     </item>
   </channel>
 </rss>
