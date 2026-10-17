@@ -206,6 +206,7 @@ Awesome Mac
 * [MacVim](https://github.com/macvim-dev/macvim) - macOS用のテキストエディタVim。 [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - モダンで直感的なターミナルベースのテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
 * [Neovim](https://github.com/neovim/neovim) - 拡張性と使いやすさに重点を置いたVimフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
+* [notePad++++](https://notepad-plus-plus-mac.com/) - Notepad++スタイルのテキストエディタ。マルチタブ、列モード、正規表現検索、Markdown・HTML・JSON・YAML・XMLツールを備える。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6759166160?platform=mac)
 * [Nova](https://nova.app/) - Panic製の美しく、高速で、柔軟なネイティブMacコードエディタ。
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - シンプルで集中できるメモ帳。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 * [Sublime Text](http://www.sublimetext.com/3) - 高速なインターフェースと豊富なプラグインを備えたテキストエディタ。プラグインの詳細は[Sublime Text Plugins](editor-plugin-ja.md#sublime-text-plugin)をご覧ください。 [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
