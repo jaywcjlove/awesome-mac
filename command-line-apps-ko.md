@@ -111,7 +111,7 @@
 
 * [mycli](https://github.com/dbcli/mycli) - 자동 완성 및 구문 강조 기능이 있는 MySQL용 CLI. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 자동 완성 및 구문 강조 기능이 있는 Postgres용 명령줄 인터페이스.
-* [RowSafe](https://rowsafe.sh) - RowSafe 계정 없이 PostgreSQL 상태 점검 및 진단을 독립적으로 수행하는 Apache-2.0 라이선스 CLI로, 선택 사항인 호스팅 백업에는 등록된 에이전트와 계정이 필요합니다. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
+* [RowSafe](https://rowsafe.sh) - 데이터베이스에 직접 연결하여 PostgreSQL 상태 점검, 쿼리 진단 및 튜닝을 수행하는 Apache-2.0 라이선스 CLI입니다. [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
 
 ## 미디어
 
