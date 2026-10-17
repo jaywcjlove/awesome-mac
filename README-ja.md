@@ -1061,6 +1061,7 @@ Awesome Mac
 ## ダウンロード管理ツール
 
 * [aria2](https://aria2.github.io/) - 軽量なマルチプロトコル＆マルチソースのコマンドラインダウンロードユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [Down](https://github.com/cuic19053-hue/media-down) - yt-dlp と ffmpeg をベースにした軽量メディアダウンローダー兼オーディオ抽出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cuic19053-hue/media-down) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - YouTubeをはじめ1200以上のサイトに対応したmacOS用ビデオダウンローダー。
 * [Deluge](https://deluge-torrent.org/) - 軽量でフリーソフトウェアのクロスプラットフォームBitTorrentクライアント。 [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 本物のMacスタイルのインターフェースを持つMac OS X用の無料ダウンロードマネージャー。 ![Freeware][Freeware Icon]
