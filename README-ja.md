@@ -1521,6 +1521,7 @@ Awesome Mac
 * [Memo Widget](https://sindresorhus.com/memo-widget) - デスクトップ上の付箋。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248?platform=mac)
 * [Metrune](https://treafree.github.io/Metrune/ja/) - タスク、AIコーディング、GitHubアクティビティ、デバイスイベント、バッジ、レポートをMacBookのノッチに集約するローカルファーストの集中ワークスペース。 ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - 複数のAIサービスを一つで使えるチャットクライアント。
+* [MKC+](https://mkcplus.com) - ローカルネットワーク上のMac、Windows PC、Androidデバイス間で1組のマウス、キーボード、クリップボードを共有するソフトウェアKVM。 ![Freeware][Freeware Icon]
 * [Mos](https://mos.caldis.me/) - Macでスムーズスクロールを提供し、マウスのスクロール方向を反転できるシンプルなツール。 [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - アーカイブファイルのプレビューと展開をサポートするアーカイブマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - 複数のMac間でMagic Keyboard、Mouse、Trackpadを切り替えるツール。
