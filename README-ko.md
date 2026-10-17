@@ -764,6 +764,7 @@ Awesome Mac
 ### 이메일 클라이언트
 
 * [Airmail](https://airmailapp.com/) - Mac용 빠른 메일 클라이언트.
+* [Autograph](https://autographs.app/) - 이메일 서명을 디자인하고 클릭 한 번으로 Apple Mail에 설치하며, macOS 업데이트 후 자동으로 복원합니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Canary Mail](https://canarymail.io/) - PGP 및 AI를 지원하는 안전한 이메일 앱. ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
