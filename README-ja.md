@@ -565,6 +565,7 @@ Awesome Mac
 * [GitKraken](https://www.gitkraken.com/) - Windows、Mac、Linux向けの最も人気のあるGit GUI。
 * [GitUp](http://gitup.co/) - シンプルで強力なGitクライアント。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitX-dev](https://rowanj.github.io/gitx/) - [Pieter](https://github.com/pieter/gitx)のOS X用Git GUIのフォーク。ブランチ/タグサイドバーと各種修正を含む。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
+* [Grove](https://github.com/efim0v/grove) - Claude Code セッションを並行して実行するために、複数リポジトリの Git worktree から機能ごとのワークスペースを作成し、セッションを Claude アカウント間で移動できるメニューバーアプリと CLI。 [![Open-Source Software][OSS Icon]](https://github.com/efim0v/grove) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hub](https://hub.github.com/) - GitHubをより便利にするGitのコマンドラインラッパー。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [RelaGit](https://rela.dev/) - グラフィカルなバージョン管理のためのエレガントなソリューション。開発者による開発者のために構築。 [![Open-Source Software][OSS Icon]](https://github.com/relagit/relagit) ![Freeware][Freeware Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - サポート付きのGitクライアント。

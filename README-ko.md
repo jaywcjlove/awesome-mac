@@ -501,6 +501,7 @@ Awesome Mac
 * [GitHub Desktop](https://desktop.github.com/) - 공식 GitHub GUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - 인기 있는 Git GUI.
 * [GitUp](http://gitup.co/) - 단순하고 강력한 Git 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
+* [Grove](https://github.com/efim0v/grove) - Claude Code 세션을 병렬로 실행할 수 있도록 여러 저장소의 Git worktree로 기능별 작업 공간을 만들고, 세션을 다른 Claude 계정으로 옮겨 주는 메뉴 바 앱 및 CLI. [![Open-Source Software][OSS Icon]](https://github.com/efim0v/grove) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sourcetree](https://www.sourcetreeapp.com/) - 무료 Git & Mercurial 클라이언트. ![Freeware][Freeware Icon]
 * [Sublime Merge](https://www.sublimemerge.com/) - Sublime Text 제작자의 Git 클라이언트.
 * [Changes](https://github.com/maoyama/Changes) - GUI Git 클라이언트. 명확한 UI와 AI 어시스트로 Git CLI를 대체. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
