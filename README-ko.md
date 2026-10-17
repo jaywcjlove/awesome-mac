@@ -810,6 +810,7 @@ Awesome Mac
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
 * [LyricGlow](https://github.com/ateymoori/lyricglow) - 단어별 글로우 효과를 지원하는 동기화 가사 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ateymoori/lyricglow) ![Freeware][Freeware Icon]
 * [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou 및 브라우저의 YouTube Music / Spotify Web을 지원하는 단어 단위 동기화 데스크톱 가사. [![Open-Source Software][OSS Icon]](https://github.com/Yudaotor/lyrimuse) ![Freeware][Freeware Icon]
+* [MicKeeper](https://github.com/fratayaydn/mickeeper) - AirPods와 iPhone이 마이크를 가져가지 않게 하고 입력 레벨을 고정할 수 있는 도구. [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/mickeeper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 영화와 영상 콘텐츠를 검색하고 스트리밍하거나 오프라인 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 무료 오픈 소스 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Mooziac](https://mooziac.pages.dev) - YouTube Music 및 로컬 오디오를 지원하는 가벼운 네이티브 macOS 메뉴 막대 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
