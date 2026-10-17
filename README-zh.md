@@ -958,6 +958,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 一个开源的纯文本编辑器，专为写小说设计。它支持类似 Markdown 的最小语法来格式化文本。 [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台
 * [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/wonderpen/id1173437104?platform=mac)
+* [writui](https://writui.com/) - 开源终端 Markdown 写作应用，提供本地加密存储和命名版本。 [![Open-Source Software][OSS Icon]](https://github.com/aakashns/writui) ![Freeware][Freeware Icon]
 
 ## 电子书
 

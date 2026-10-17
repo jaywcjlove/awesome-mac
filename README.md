@@ -309,6 +309,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
+* [writui](https://writui.com/) - Open-source terminal writing app for Markdown drafts with a local encrypted vault and named versions. [![Open-Source Software][OSS Icon]](https://github.com/aakashns/writui) ![Freeware][Freeware Icon]
 
 ### Ebooks
 
