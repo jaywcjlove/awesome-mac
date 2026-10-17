@@ -415,6 +415,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 * [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
 * [CC-Switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, and AI coding agents. [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
+* [Claudius](https://abd-k.github.io/claudius-claude-code-usage/) - Menu bar app that shows your Claude Code usage limits, forecasts when you'll run out, and alerts you before you hit them. [![Open-Source Software][OSS Icon]](https://github.com/Abd-K/claudius-claude-code-usage) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodeKit](https://codekitapp.com/) - Web development tool for compiling and auto-refreshing.
 * [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
