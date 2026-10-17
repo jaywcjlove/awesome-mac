@@ -249,6 +249,7 @@ Awesome Mac
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
 * [NoteGen](https://notegen.top/) - 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 깔끔하고 단순한 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+* [Notes2Ai](https://notes2ai.com/) - 기존 Apple 메모를 바탕으로 질문에 답하고 각 답변에 참고한 메모를 연결해 주는 Apple 메모용 AI 검색 앱. ![Native App][Native Icon]
 * [NotePlan 3](https://noteplan.co/) - 할 일, 노트, 캘린더를 하나의 마크다운 파일로 관리. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - 네이티브 노트 및 LLM 클라이언트.
 * [Noteship](https://noteship.com) - 노트를 구조화된 지식으로 정리해 주는 로컬 우선 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
