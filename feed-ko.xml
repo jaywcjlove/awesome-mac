@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:02:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Panoply</title>
+      <link>https://github.com/anzal1/panoply</link>
+      <guid isPermaLink="false">7f904dc2a01444cf5f103eea8ccf8af634812ae9:Panoply</guid>
+      <pubDate>Sat, 17 Oct 2026 16:02:45 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Panoply
+Description: PDF, 이미지, 동영상과 오디오, OCR, 증명사진, 즉시 파일 검색, 디스크 맵을 제공하는 기기 내 무료 파일 도구 모음.
+Open Source: https://github.com/anzal1/panoply
+Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Panoply<br/>Description: PDF, 이미지, 동영상과 오디오, OCR, 증명사진, 즉시 파일 검색, 디스크 맵을 제공하는 기기 내 무료 파일 도구 모음.<br/>Open Source: https://github.com/anzal1/panoply<br/>Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9]]></content:encoded>
+    </item>
     <item>
       <title>Octuo</title>
       <link>https://www.tutuo.ai/en/octuo/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/phalladar/MacDirStat
 Commit: Add MacDirStat to Cleanup and Uninstall (EN/ZH/JA/KO) (#3144)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a6a2faaded50b8e97bb9d22fc76ec8c0caa2f15</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: MacDirStat<br/>Description: 무엇이 공간을 차지하는지 인터랙티브 트리맵으로 보여 주는, WinDirStat에서 영감을 받은 오픈 소스 디스크 공간 분석기.<br/>Open Source: https://github.com/phalladar/MacDirStat<br/>Commit: Add MacDirStat to Cleanup and Uninstall (EN/ZH/JA/KO) (#3144)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a6a2faaded50b8e97bb9d22fc76ec8c0caa2f15]]></content:encoded>
-    </item>
-    <item>
-      <title>Liftoff</title>
-      <link>https://github.com/firstfu/Liftoff</link>
-      <guid isPermaLink="false">7b84d6a4f11737d31c2cf76cbda71a0df016fd3c:Liftoff</guid>
-      <pubDate>Sat, 03 Oct 2026 17:37:29 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Liftoff
-Description: 윈도우 실시간 미리보기, 윈도우 제목 검색, 원클릭 폴더 정리를 지원하는 오픈소스 Launchpad 대체 앱.
-Open Source: https://github.com/firstfu/Liftoff
-Commit: Add Liftoff (#3131)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Liftoff<br/>Description: 윈도우 실시간 미리보기, 윈도우 제목 검색, 원클릭 폴더 정리를 지원하는 오픈소스 Launchpad 대체 앱.<br/>Open Source: https://github.com/firstfu/Liftoff<br/>Commit: Add Liftoff (#3131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7b84d6a4f11737d31c2cf76cbda71a0df016fd3c]]></content:encoded>
     </item>
   </channel>
 </rss>
