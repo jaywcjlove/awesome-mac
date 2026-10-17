@@ -363,6 +363,7 @@ Awesome Mac
 * [Tad](https://www.tadviewer.com) - CSVファイルなどの表形式データを表示・分析するアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 自動更新PDFとLaTeXコマンドの自動補完を備えたMac用の優れたLaTeXエディタ。
 * [UPDF](https://updf.com/) - PDFの読み取り、注釈付け、編集のための無料PDFエディタ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
+* [Vitae](https://purplelink.llc/vitae/) - 論文、投稿状況、助成金、教育、学務を記録し、その記録からCVを作成する研究者向けのMacアプリ。有料のPlusサブスクリプションは任意。 ![Freeware][Freeware Icon]
 * [Zotero](https://www.zotero.org/) - 研究資料の収集、整理、注釈付け、引用、共有のための無料ツール。 [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 * [Collate](https://collate.one/get-started) - AIでPDFを収集、要約、クエリするための無料ツール。完全オフラインで無料。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913?platform=mac) ![Freeware][Freeware Icon]
 * [PDFsail](https://pdfsail.com/) - 編集、変換、結合、圧縮、OCRに対応したオールインワンPDFツール。
