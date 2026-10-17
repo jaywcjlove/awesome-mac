@@ -436,6 +436,7 @@ Awesome Mac
 * [SaneHosts](https://sanehosts.com) - hosts 기반 광고 및 추적기 차단 도구. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 코드 스니펫 관리자.
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 로컬 SSH 키와 Git 신원을 관리하는 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Stackyard](https://github.com/AqibJavedZeepalm/stackyard) - SDK와 툴체인 버전을 보여 주고 각 버전을 쓰는 프로젝트를 표시하며 필요 없는 버전을 정리하는 오픈 소스 관리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/AqibJavedZeepalm/stackyard) ![Freeware][Freeware Icon]
 * [Starcat](https://starcat.ink/) - 저장한 저장소를 검색 가능한 AI 지원 지식 베이스로 전환하는 네이티브 로컬 우선 GitHub Stars 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
 * [StarUML](http://staruml.io) - 강력한 UML 앱.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift 변환기.

@@ -472,6 +472,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [Solarized](https://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing local SSH keys and Git identities. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Stackyard](https://github.com/AqibJavedZeepalm/stackyard) - Open-source manager for SDK and toolchain versions that shows which projects use each one and cleans up the rest. [![Open-Source Software][OSS Icon]](https://github.com/AqibJavedZeepalm/stackyard) ![Freeware][Freeware Icon]
 * [Starcat](https://starcat.ink/) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base. [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
 * [StarUML](https://staruml.io) - Powerful UML app.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
