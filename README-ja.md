@@ -1443,6 +1443,7 @@ Awesome Mac
 * [Numi](http://numi.io/) - Mac用の美しい電卓アプリ。 ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - 現代のインターネットのための新しいファイアウォール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853?platform=mac)
 * [OpenDisplay](https://opendisplay.app) - 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。 [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
+* [Panoply](https://github.com/anzal1/panoply) - PDF、画像、動画と音声、OCR、証明写真、即時ファイル検索、ディスクマップを備えた、端末上で動作する無料のファイルツール。 [![Open-Source Software][OSS Icon]](https://github.com/anzal1/panoply) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [Plash](https://sindresorhus.com/plash) - 任意のWebサイトをデスクトップの壁紙に設定。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Plash) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/plash/id1494023538?platform=mac)
 * [rem](https://github.com/jasonjmcghee/rem) - Macで表示したすべてをローカルに記録し、検索可能にするオープンソースのアプローチ。 [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
