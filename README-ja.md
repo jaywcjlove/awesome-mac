@@ -1723,6 +1723,7 @@ Awesome Mac
 * [PPSSPP](https://www.ppsspp.org) - 考えうるあらゆるOS向けの素晴らしいPSPエミュレーター！ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - オープンソースのPlayStation 3エミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 * [Ryubing](https://github.com/Ryubing) - 開発終了したSwitchエミュレーターRyujinxのフォーク。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
+* [Sevoflurane](https://github.com/kageroumado/sevoflurane) - Proton のような Steam 体験を提供し、Windows と macOS のゲームをひとつのネイティブ UI で起動、互換環境を自動設定し、古いゲームのウィンドウサイズ変更とアップスケーリングにも対応。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kageroumado/sevoflurane)
 * [Suyu](https://suyu.dev/) - 馴染みのある、オープンソースで強力なNintendo Switchエミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
 * [Whisky](https://github.com/frankea/Whisky) - macOSでWindowsアプリを実行するためのツール。SwiftUIで構築され、D3DMetalとDXVKバックエンドに対応。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 

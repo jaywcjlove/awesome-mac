@@ -1597,6 +1597,7 @@ Awesome Mac
 * [PPSSPP](https://www.ppsspp.org) - 一个很棒的 PSP 模拟器，适用于您梦寐以求的任何操作系统！ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - 开源 PlayStation 3 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 * [Ryubing](https://github.com/Ryubing) - 继承原Ryujinx项目的衣钵开发的开源任天堂 Switch 模拟器  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
+* [Sevoflurane](https://github.com/kageroumado/sevoflurane) - 提供类似 Proton 的 Steam 体验，在统一的原生界面中运行 Windows 和 macOS 游戏，自动配置兼容环境，并支持老游戏窗口缩放和画面超分辨率。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kageroumado/sevoflurane)
 * [Steam](https://store.steampowered.com/about/) - Steam 是畅玩游戏、讨论游戏、创造游戏的快乐所在。
 * [Suyu](https://suyu.dev/) - 一款熟悉的、开源且功能强大的 Nintendo Switch 模拟器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
 * [Whisky](https://github.com/frankea/Whisky) - 在 macOS 上运行 Windows 应用的工具，使用 SwiftUI 构建，支持 D3DMetal 和 DXVK 后端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
