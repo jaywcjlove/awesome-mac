@@ -215,6 +215,7 @@ Awesome Mac
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - macOS용 마크다운 뷰어 겸 에디터, AI 보조 편집 지원. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - 교차 플랫폼을 지원하는 마크다운 프레젠테이션 작성기. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
+* [MarsDawn](https://marsdawn.southern-light.dev/) - 소스와 미리보기를 나란히 실시간으로 보여 주고 Mermaid 다이어그램, KaTeX 수식, PDF 내보내기를 지원하는, 코딩 에이전트가 쓴 문서를 읽기 위한 마크다운 편집기. [![App Store][app-store Icon]](https://apps.apple.com/app/id6812925073) ![Native App][Native Icon]
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
