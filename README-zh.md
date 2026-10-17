@@ -1244,6 +1244,7 @@ Awesome Mac
 * [iStat pro](https://bjango.com/mac/istatmenus/) - Mac OS 电脑硬件信息检测软件。
 * [Itsycal](https://www.mowglii.com/itsycal/) - 一款简洁实用的开源日历工具。[![Open-Source Software][OSS Icon]](https://github.com/sfsam/itsycal) ![Freeware][Freeware Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 在 macOS 上重映射按键并自定义键盘行为。 [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
+* [Kaskas](https://github.com/ramazanberkozbek/kaskas) - 原生开源休息提醒与专注追踪工具，支持智能打字与会议避让。 [![Open-Source Software][OSS Icon]](https://github.com/ramazanberkozbek/kaskas) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 用触发器和宏自动执行重复操作。
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [Keka](https://github.com/aonez/Keka) - 开源压缩解压工具，支持多种压缩格式。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keka/id470158793?platform=mac)

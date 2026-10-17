@@ -1510,6 +1510,7 @@ Awesome Mac
 * [iCMD](https://icmd.app) - グローバルなあいまいメニュー検索とVim風ナビゲーションを提供するツール。
 * [Journey Navigation](https://gowithjourney.com) - 天気や交通情報付きでルートを計画できるナビゲーションツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - macOSのキーを再割り当てし、キーボードの動作をカスタマイズできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
+* [Kaskas](https://github.com/ramazanberkozbek/kaskas) - 目の疲れを防ぐネイティブなオープンソース休憩リマインダー＆フォーカストラッカー。 [![Open-Source Software][OSS Icon]](https://github.com/ramazanberkozbek/kaskas) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - macOSに欠けていたキーボードショートカットユーティリティ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - トリガーとマクロで繰り返し作業を自動化するツール。
 * [Keytty](http://keytty.com) - キーボードから手を離さずに操作できるアプリ。数回のキー操作で移動、クリック、スクロール、ドラッグなどが可能。
