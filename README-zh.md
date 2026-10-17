@@ -578,6 +578,7 @@ Awesome Mac
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩 PNG 图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
+* [ImageLoom](https://elapen.github.io/imageloom/) - 离线运行的本地 AI 图像工作室，支持对话式生成、画笔蒙版编辑、放大以及导出 PNG/WebP/SVG。[![Open-Source Software][OSS Icon]](https://github.com/elapen/imageloom) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除 EXIF 信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1101244278?ls=1&at=1000lv4R&ct=iPic_me&platform=mac)
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
