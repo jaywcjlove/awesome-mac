@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:02:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Panoply</title>
+      <link>https://github.com/anzal1/panoply</link>
+      <guid isPermaLink="false">7f904dc2a01444cf5f103eea8ccf8af634812ae9:Panoply</guid>
+      <pubDate>Sat, 17 Oct 2026 16:02:45 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Panoply
+Description: Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.
+Open Source: https://github.com/anzal1/panoply
+Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Panoply<br/>Description: Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.<br/>Open Source: https://github.com/anzal1/panoply<br/>Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9]]></content:encoded>
+    </item>
     <item>
       <title>Octuo</title>
       <link>https://www.tutuo.ai/en/octuo/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Zer0codestuff/OpenNaga
 Commit: Add OpenNaga to Productivity (EN/ZH/JA/KO) (#3158)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/045ac2b04e60f3b1007869434b320333058abf21</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: OpenNaga<br/>Description: Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate.<br/>Open Source: https://github.com/Zer0codestuff/OpenNaga<br/>Commit: Add OpenNaga to Productivity (EN/ZH/JA/KO) (#3158)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/045ac2b04e60f3b1007869434b320333058abf21]]></content:encoded>
-    </item>
-    <item>
-      <title>DataNexa</title>
-      <link>https://mingozacwu.github.io/datanexa-site/</link>
-      <guid isPermaLink="false">465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b:DataNexa</guid>
-      <pubDate>Sun, 04 Oct 2026 07:30:12 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: DataNexa
-Description: Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.
-Website: https://mingozacwu.github.io/datanexa-site/
-Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: DataNexa<br/>Description: Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.<br/>Website: https://mingozacwu.github.io/datanexa-site/<br/>Commit: Add DataNexa to AI Tools (EN/ZH/JA/KO) (#3137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/465ef6e0d6c8815c2fac5fcc30ef785f8b88f04b]]></content:encoded>
     </item>
   </channel>
 </rss>
