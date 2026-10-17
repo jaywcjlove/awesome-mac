@@ -259,6 +259,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppFlowy](https://www.appflowy.io/) - Open-source alternative to Notion. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](https://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
 * [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Cirrus](https://trycirrus.app/) - Floating notes that open over any app with one keystroke, or from the screen edge or notch. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6815418493?platform=mac)
 * [Craft](https://www.craft.do/) - Notetaking and writing made beautiful. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
 * [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and a web interface. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - Email yourself and much more with just one tap, native on macOS, iOS and WatchOS. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)

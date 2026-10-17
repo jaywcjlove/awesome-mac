@@ -232,6 +232,7 @@ Awesome Mac
 * [AppFlowy](https://www.appflowy.io/) - Notion의 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?platform=mac)
 * [Boostnote](https://boostnote.io/) - 프로그래머를 위해 제작된 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Cirrus](https://trycirrus.app/) - 단축키 하나로 어떤 앱 위에서든 열리는 플로팅 노트. 화면 가장자리나 노치에서도 열 수 있습니다. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6815418493?platform=mac)
 * [Craft](https://www.craft.do/) - 노트 작성과 쓰기를 아름답게. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
 * [Dnote](https://www.getdnote.com/) - 멀티 디바이스 동기화를 지원하는 간단한 명령줄 노트북. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
