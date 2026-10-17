@@ -336,6 +336,7 @@ Awesome Mac
 * [Tad](https://www.tadviewer.com) - CSV와 같은 표 데이터를 시각화하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 자동 업데이트를 지원하는 LaTeX 편집기.
 * [UPDF](https://updf.com/) - PDF 읽기 및 편집을 위한 무료 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971?platform=mac)
+* [Vitae](https://purplelink.llc/vitae/) - 논문, 투고 현황, 연구비, 교육, 학내 활동을 기록하고 그 기록으로 CV를 만드는 연구자용 Mac 앱. 유료 Plus 구독은 선택 사항. ![Freeware][Freeware Icon]
 * [Zotero](https://www.zotero.org/) - 연구 자료 수집 및 관리 도구. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 * [Collate](https://collate.one/get-started) - AI를 사용하여 PDF를 요약하고 쿼리하는 무료 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913?platform=mac)
 * [PDFsail](https://pdfsail.com/) - 편집, 변환, 병합, 압축, OCR을 지원하는 올인원 PDF 도구.
