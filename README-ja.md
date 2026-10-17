@@ -894,6 +894,7 @@ Awesome Mac
 ### コラボレーションとチームツール
 
 * [Adium](https://adium.im/) - Mac OS X用の無料インスタントメッセージングアプリケーション。AIM、MSN、SMPP、Yahooなどに接続。 ![Freeware][Freeware Icon]
+* [Aurio](https://aurio.dev/) - 声の背景ノイズを端末上で除去するノイズキャンセリング仮想マイク。
 * [BlurScreen App](https://www.blurscreen.app) - 録画や画面共有中の機密情報を即座にぼかせるツール。
 * [Caprine](https://github.com/sindresorhus/caprine) - プライバシー重視のサードパーティFacebook Messengerアプリ。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - チーム向けのコミュニケーションとコラボレーションのプラットフォーム。 ![Freeware][Freeware Icon]
