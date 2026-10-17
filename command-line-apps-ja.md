@@ -111,6 +111,7 @@ Awesome Command Line Apps
 
 * [mycli](https://github.com/dbcli/mycli) - 自動補完とシンタックスハイライト機能を備えたMySQL用CLI。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [pgcli](https://www.pgcli.com) - 自動補完とシンタックスハイライト機能を備えたPostgres用コマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
+* [RowSafe](https://rowsafe.sh) - データベースへの直接接続でPostgreSQLの状態確認、クエリ診断、チューニングを行うApache-2.0ライセンスのCLI。 [![Open-Source Software][OSS Icon]](https://github.com/rowsafe/rowsafe)
 
 ## メディア
 
