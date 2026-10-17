@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:15:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dynamic Menu Bar</title>
+      <link>https://dynamicmenubar.com</link>
+      <guid isPermaLink="false">f45cf3ffa2d7d826f917d56f23e48105529c747d:Dynamic Menu Bar</guid>
+      <pubDate>Sat, 17 Oct 2026 23:15:52 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Dynamic Menu Bar
+Description: macOSのメニューバーの色と形を変えるツール。画面に合わせたライブカラー、グラデーション、音楽ビジュアライザー、アプリごとのプロファイル。
+Website: https://dynamicmenubar.com
+Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Dynamic Menu Bar<br/>Description: macOSのメニューバーの色と形を変えるツール。画面に合わせたライブカラー、グラデーション、音楽ビジュアライザー、アプリごとのプロファイル。<br/>Website: https://dynamicmenubar.com<br/>Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d]]></content:encoded>
+    </item>
     <item>
       <title>mFix</title>
       <link>https://github.com/Zingzy/mFix</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Zer0codestuff/whisperdrop-2
 Commit: Add WhisperDrop 2 to Voice-to-Text (EN/ZH/JA/KO) (#3157)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f79d0998004a74b3cd43d2a99c50f0e1f313c328</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: WhisperDrop 2<br/>Description: 音声、動画、YouTube、会議をローカルで文字起こしし、任意のアプリへ音声入力もできるオープンソースツール。<br/>Open Source: https://github.com/Zer0codestuff/whisperdrop-2<br/>Commit: Add WhisperDrop 2 to Voice-to-Text (EN/ZH/JA/KO) (#3157)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f79d0998004a74b3cd43d2a99c50f0e1f313c328]]></content:encoded>
-    </item>
-    <item>
-      <title>Rapid Reader</title>
-      <link>https://github.com/Zer0codestuff/Rapid-Reader</link>
-      <guid isPermaLink="false">214d19fdcc23cd42fb7cf93f9825f7e79a8848e1:Rapid Reader</guid>
-      <pubDate>Mon, 05 Oct 2026 01:34:40 GMT</pubDate>
-      <category>読み書きツール / 電子書籍</category>
-      <description>Category: 読み書きツール / 電子書籍
-App: Rapid Reader
-Description: EPUB、PDF、ウェブ記事に対応し、全文表示も備えたオープンソースのRSVP速読リーダー。
-Open Source: https://github.com/Zer0codestuff/Rapid-Reader
-Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / 電子書籍<br/>App: Rapid Reader<br/>Description: EPUB、PDF、ウェブ記事に対応し、全文表示も備えたオープンソースのRSVP速読リーダー。<br/>Open Source: https://github.com/Zer0codestuff/Rapid-Reader<br/>Commit: Add Rapid Reader to Ebooks (EN/ZH/JA/KO) (#3159)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/214d19fdcc23cd42fb7cf93f9825f7e79a8848e1]]></content:encoded>
     </item>
   </channel>
 </rss>

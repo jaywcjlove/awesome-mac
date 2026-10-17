@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:15:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dynamic Menu Bar</title>
+      <link>https://dynamicmenubar.com</link>
+      <guid isPermaLink="false">f45cf3ffa2d7d826f917d56f23e48105529c747d:Dynamic Menu Bar</guid>
+      <pubDate>Sat, 17 Oct 2026 23:15:52 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Dynamic Menu Bar
+Description: Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.
+Website: https://dynamicmenubar.com
+Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Dynamic Menu Bar<br/>Description: Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.<br/>Website: https://dynamicmenubar.com<br/>Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d]]></content:encoded>
+    </item>
     <item>
       <title>mFix</title>
       <link>https://github.com/Zingzy/mFix</link>
@@ -693,20 +707,6 @@ Website: https://thinkwat.ch/lite/
 Commit: Add ThinkWatch Lite to AI Tools (#3161)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3220260f00454f43d92d50235b53b636943df9a5</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: ThinkWatch Lite<br/>Description: Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave.<br/>Website: https://thinkwat.ch/lite/<br/>Commit: Add ThinkWatch Lite to AI Tools (#3161)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3220260f00454f43d92d50235b53b636943df9a5]]></content:encoded>
-    </item>
-    <item>
-      <title>MAC-LIMPO</title>
-      <link>https://alexkads.github.io/MAC-LIMPO/</link>
-      <guid isPermaLink="false">140cc996fa3d3b6503d39760e836f034ee34d08b:MAC-LIMPO</guid>
-      <pubDate>Mon, 05 Oct 2026 23:43:35 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MAC-LIMPO
-Description: Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.
-Website: https://alexkads.github.io/MAC-LIMPO/
-Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MAC-LIMPO<br/>Description: Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.<br/>Website: https://alexkads.github.io/MAC-LIMPO/<br/>Commit: Add MAC-LIMPO to Cleanup and Uninstall (#3169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/140cc996fa3d3b6503d39760e836f034ee34d08b]]></content:encoded>
     </item>
   </channel>
 </rss>
