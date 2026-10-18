@@ -1395,6 +1395,7 @@ Awesome Mac
 * [Headroom](https://headroom-app.org) - ツリーマップと重複ファイル検索を備えた高速なディスク容量アナライザ。キャッシュや開発用フォルダを削除前に「安全」「注意」「削除不可」で判定。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Xcode、Docker、シミュレータ、node_modules などの開発者向けキャッシュを掃除するメニューバーアプリ。2D/3D のツリーマップでディスク使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
+* [MacClean](https://thulem.com/en/) - 開発キャッシュ、アプリの残存ファイル、チャットメディアを確認してから整理できるディスク容量分析ツール。
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 何が容量を占めているかをインタラクティブなツリーマップで表示する、WinDirStatに着想を得たオープンソースのディスク容量アナライザー。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/ja) - ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。 [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]

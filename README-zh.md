@@ -1453,6 +1453,7 @@ Awesome Mac
 * [Headroom](https://headroom-app.org) - 快速的磁盘空间分析器，提供树状图和重复文件查找，并在删除前将缓存和开发者文件夹标记为“安全”、“谨慎”或“切勿删除”。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - 面向开发者的菜单栏清理工具，清理 Xcode、Docker、模拟器、node_modules 等缓存，并用 2D/3D 矩形树图展示磁盘占用。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
+* [MacClean](https://thulem.com/) - 磁盘空间分析工具，可在清理前查看开发缓存、应用残留和聊天媒体。
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 受 WinDirStat 启发的开源磁盘空间分析工具，用交互式矩形树图展示空间占用情况。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 按应用分组文件并移入废纸篓的开源磁盘清理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/zh) - 免费开源的磁盘清理与空间分析工具，本地扫描并在删除前显示具体路径和大小。 [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
