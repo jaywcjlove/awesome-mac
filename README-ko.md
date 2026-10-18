@@ -739,6 +739,7 @@ Awesome Mac
 * [HandBrake](https://handbrake.fr/) - 거의 모든 형식에서 비디오를 변환하는 오픈 소스 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - macOS를 위한 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 무료 오픈 소스 크로스 플랫폼 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
+* [WeMotion](https://wemotion.ai/) - 원하는 모션 그래픽 영상을 설명하면 Claude 기반 AI 디자이너가 편집 가능한 레이어로 만들어 주고 아무 프레임이나 클릭해 수정할 수 있는 앱으로, Anthropic API 키 또는 Claude Pro나 Max가 필요합니다. ![Freeware][Freeware Icon]
 
 ## 커뮤니케이션
 
