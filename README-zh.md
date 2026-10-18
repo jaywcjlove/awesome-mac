@@ -1362,6 +1362,7 @@ Awesome Mac
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。
 * [DynamicHorizon](https://dynamichorizon.app) - 为刘海区域加入媒体控制、通知和系统状态。
 * [Notchly](https://notchly.xyz) - 适用于 macOS 的轻量级 Dynamic Island，支持 AI 编码代理通知。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [FavTray](https://favtray.com) - 原生的菜单栏与刘海开发者面板：Claude、Codex 等 AI 用量额度，Claude Code 会话，开发服务器端口，GitHub CI，磁盘占用图，窗口贴靠和护眼休息提醒。本地优先，无需账号；免费使用，可选一次性买断 Pro。
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 无缝 Google Drive 同步的菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [HeyMate](https://getheymate.vercel.app) - 住在 MacBook 刘海里的 AI 助手，可语音回答与屏幕内容相关的问题，并在你批准计划后运行 Claude Code、Codex 或 OpenCode 代理，还带有媒体、文件架和日历组件。 [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
