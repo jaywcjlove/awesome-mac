@@ -1714,6 +1714,7 @@ Awesome Mac
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度監視、ファン制御、ハードウェア診断でMacを涼しく健全に保つ。
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
+* [xCreen](https://al-ex-w.github.io/xCreen/) - Apple Visionで前面ウィンドウをローカルOCRし、Claude CodeがObsidianのデイリーノートに短い要点を書き込むメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Al-ex-W/xCreen) ![Freeware][Freeware Icon]
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
 
 ## ゲームソフトウェア
