@@ -1720,6 +1720,7 @@ Awesome Mac
 
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。 ![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - libretro コアを利用したオープンソースのレトロゲームエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
+* [Harbor](https://harkhowalia-1.github.io/Harbor/) - 復号済みの iPhone・iPad アプリ（.ipa）を、キーマッピングとコントローラーに対応した独立した Mac アプリに変換。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/harkhowalia-1/Harbor)
 * [Highball](https://gethighball.com) - Wine を通じて Apple Silicon で Windows ゲームを実行し、オープンな互換性データベースからゲームごとにグラフィックス層（DXMT、DXVK、D3DMetal）を選びます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](http://openemu.org/) - 複数の家庭用ゲーム機に対応したレトロゲーム向けエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Apple Silicon MacでiOSアプリやゲームをマウス、キーボード、コントローラーのサポート付きで実行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
