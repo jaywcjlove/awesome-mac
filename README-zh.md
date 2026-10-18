@@ -430,6 +430,7 @@ Awesome Mac
 * [electerm](https://electerm.github.io/electerm/) - 终端、SSH 和 SFTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - 基于 libghostty 构建的终端，显示每个编码 agent 正在工作、等待还是已完成。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 快速的 GPU 加速终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
+* [Giverny](https://github.com/y0av/giverny) - 用 Rust 编写的 GPU 渲染终端，可并排运行 Claude Code 和 Codex 会话，在每个标签页显示代理状态，并显示各账户的用量限额。 [![Open-Source Software][OSS Icon]](https://github.com/y0av/giverny) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
