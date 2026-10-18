@@ -1003,6 +1003,7 @@ Awesome Mac
 * [Mp3tag](https://mp3tag.app/) - オーディオファイルのメタデータを編集するための強力で使いやすいツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/?platform=mac)
 * [Mixxx](http://mixxx.org/) - 最も高度な無料DJソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 映画や動画を検索し、視聴やオフライン保存ができるツール。 [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
+* [MovieCat](https://moviecat.org/) - ファイル名から作品を認識し、ポスター、評価、あらすじを表示するローカルの映画・TV番組ライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/FredrikBorgstrom/moviecat) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 無料のオープンソース、クロスプラットフォームメディアプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Mooziac](https://mooziac.pages.dev) - YouTube Musicとローカル音声に対応した軽量なmacOSメニューバー音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 無料のオープンソース楽譜作成ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
