@@ -329,6 +329,7 @@ Awesome Mac
 * [PDF Pals](https://pdfpals.com) - PDF와 채팅할 수 있는 앱.
 * [PDFgear](https://www.pdfgear.com/) - AI 통합 PDF 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079?platform=mac)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - 보거나 제작, 서명, 압축 등을 할 수 있는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
+* [Simply PDF](https://simplypdf.online/) - PDF 압축, 병합, 분할, 서명, 양식 작성, 가리기, 스캔 문서 검색 가능하게 만들기를 Mac에서 처리하며 파일을 업로드하지 않습니다. 읽기와 병합은 무료이고 다른 도구는 키가 필요합니다.
 * [Skim](http://skim-app.sourceforge.net) - OS X용 PDF 리더 및 노트 작성 도구. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - 글꼴 설치 및 관리 도구.
 * [SmoothCSV](https://smoothcsv.com/) - SQL 쿼리를 지원하는 빠르고 강력한 CSV 편집기. ![Freeware][Freeware Icon]
