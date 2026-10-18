@@ -1330,7 +1330,7 @@ Awesome Mac
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [Belay](https://perfectoweb.github.io/Belay/) - 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
-* [Brow](https://github.com/efim0v/brow) - 在 MacBook 刘海中显示多个 Claude Code 账户 5 小时与每周速率限制的已用比例，以及各限制的重置时间。 [![Open-Source Software][OSS Icon]](https://github.com/efim0v/brow) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Brow](https://github.com/efim0v/brow) - 在 MacBook 刘海中显示多个 Claude Code 账号 5 小时与每周限额的用量和各自的重置时间，并通过菜单栏中的 Workspaces 在跨多个仓库的 git worktree 中并行运行会话。 [![Open-Source Software][OSS Icon]](https://github.com/efim0v/brow) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Candela](https://candela.fyi) - 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。 [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 显示实时充电状态和能耗信息的菜单栏电池监控工具。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
