@@ -1109,6 +1109,7 @@ Awesome Mac
 
 * [Bob](https://apps.apple.com/cn/app/id1630034110?platform=mac) - 简小好用的翻译工具，支持语言自动检测，截图翻译。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1630034110?platform=mac)
 * [DeepL](https://www.deepl.com/zh/macos-app) - 拥有深度神经学习网络的翻译软件，自称世界上最准确的翻译软件，在学术论文和科技文章方面优于其他同类软件。![Freeware][Freeware Icon]
+* [DubbingMate](https://dubbingmate.com/) - 用 AI 语音朗读 YouTube 字幕，将视频实时配音成你需要的语言。
 * [Easydict](https://github.com/tisfeng/Easydict) - 简洁的词典与翻译工具，用于查词和翻译文本。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](https://www.eudic.net/v4/en/app/download) - 欧路词典,权威的英语词典软件 英语学习者必备的工具
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语

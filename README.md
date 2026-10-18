@@ -1163,6 +1163,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *(Or you could just use the Mac OS built-in dictionary)*
 
 * [DeepL](https://www.deepl.com/en/app/) - Best quality translations ![Freeware][Freeware Icon]
+* [DubbingMate](https://dubbingmate.com/) - Dubs YouTube videos into your language in real time by reading the subtitles aloud with AI voices.
 * [Easydict](https://github.com/tisfeng/Easydict) - A concise dictionary and translator for looking up words and translating text. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](https://www.itranslate.com/) - Translation app for text and web pages in multiple languages. ![Freeware][Freeware Icon]

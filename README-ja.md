@@ -1163,6 +1163,7 @@ Awesome Mac
 *（またはMac OS内蔵の辞書を使用することもできます）*
 
 * [DeepL](https://www.deepl.com/en/app/) - 最高品質の翻訳 ![Freeware][Freeware Icon]
+* [DubbingMate](https://dubbingmate.com/) - YouTube の字幕を AI 音声で読み上げ、好きな言語でリアルタイム吹き替え。
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]
