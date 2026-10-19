@@ -410,6 +410,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
+* [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Open-source CLI and stdio MCP payment runtime for AI agents, with foreground owner approval for signing. [![Open-Source Software][OSS Icon]](https://github.com/nuanu-ai/agent-payment-node) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](https://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](https://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]

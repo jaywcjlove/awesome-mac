@@ -384,6 +384,7 @@ Awesome Mac
 
 ### 개발자 유틸리티
 
+* [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - 서명에 소유자의 전경 터미널 승인이 필요한 AI 에이전트용 오픈 소스 CLI 및 stdio MCP 결제 런타임. [![Open-Source Software][OSS Icon]](https://github.com/nuanu-ai/agent-payment-node) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 접근성 API와 HID 자동화를 통해 iOS 시뮬레이터를 제어할 수 있는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 강력한 파일 이름 변경 앱.
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.
