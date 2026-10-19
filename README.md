@@ -774,6 +774,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
 * [Caplo](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
 * [Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
+* [Framecast](https://framecast.pro/) - Native screen recorder that zooms in on the controls you click, blurs private info on screen, and turns one take into a video, guide, or click-through demo. ![Native App][Native Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
