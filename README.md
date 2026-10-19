@@ -271,6 +271,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Knopo](https://github.com/alkalim/Knopo) - Native macOS outliner for local-first notes stored as plain Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LawPulse](https://lttxzmj.github.io/lawpulse-site/) - Local-first legal research tool for Chinese lawyers: offline statute library with per-article notes; all data stays on your Mac. ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
+* [Madhav](https://madhav.app) - Free local-first sidebar for Markdown notes, tasks, bookmarks, and reminders with optional Telegram sync. ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
 * [massCode](https://masscode.io/) - Open-source developer workspace for code snippets, Markdown notes and HTTP requests, stored as local Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - Lightweight Markdown app to help you write great sentences.
