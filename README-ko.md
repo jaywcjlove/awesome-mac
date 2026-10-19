@@ -402,6 +402,7 @@ Awesome Mac
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Android 에뮬레이터와 기기, iOS 시뮬레이터와 iPhone을 나란히 미러링하고 제어하며 테스트하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 파일 비교 및 병합 도구. ![Freeware][Freeware Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
+* [Eleven](https://github.com/Zfinix/eleven) - AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱. [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]

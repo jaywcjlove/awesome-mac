@@ -428,6 +428,7 @@ Awesome Mac
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 開発者による開発者のためのディープリンク管理ツール。
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Android エミュレーターと端末、iOS シミュレーターと iPhone を並べてミラーリング・操作・テストできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - ファイルの視覚的な比較とマージを行うアプリケーション。 ![Freeware][Freeware Icon]
+* [Eleven](https://github.com/Zfinix/eleven) - AI エージェントがバイナリ、Android アプリ、GPU カーネルを読み取り、リネームし、パッチを当てるオープンソースのリバースエンジニアリングアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 環境変数用のOS Xプリファレンスペイン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finderからターミナルを素早く開く。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
