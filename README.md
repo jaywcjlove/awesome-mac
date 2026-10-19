@@ -1042,6 +1042,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [VLC](https://www.videolan.org/index.html) - Open-source multimedia player for most audio, video, and streaming formats. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - High-definition audio player for Mac and iPhone. Music just sounds better! ![Freeware][Freeware Icon]
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - A simple video cropping tool that supports multiple formats and precise trimming.
+* [WeMotion](https://wemotion.ai/) - Motion graphics app where you describe a film and an AI designer built on Claude builds it as editable layers you change by clicking any frame; needs an Anthropic API key, or Claude Pro or Max. ![Freeware][Freeware Icon]
 * [XLD](https://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Best media player on Mac, support almost all format. [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?platform=mac)
