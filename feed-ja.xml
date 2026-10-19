@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:26:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Eleven</title>
+      <link>https://github.com/Zfinix/eleven</link>
+      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
+      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Eleven
+Description: AI エージェントがバイナリ、Android アプリ、GPU カーネルを読み取り、リネームし、パッチを当てるオープンソースのリバースエンジニアリングアプリ。
+Open Source: https://github.com/Zfinix/eleven
+Commit: Add Eleven to Developer Utilities (#3584)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Eleven<br/>Description: AI エージェントがバイナリ、Android アプリ、GPU カーネルを読み取り、リネームし、パッチを当てるオープンソースのリバースエンジニアリングアプリ。<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
+    </item>
     <item>
       <title>Peel</title>
       <link>https://peel.tuguidragos.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/qybaihe/mu
 Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: mu<br/>Description: CLIとデスクトップアプリを備えたオープンソースのコーディングエージェントで、どの内容をコンテキストに入れるか、フラグが立ったコマンドが依頼どおりかといった定型判断を小型の判定モデルが行う。<br/>Open Source: https://github.com/qybaihe/mu<br/>Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b]]></content:encoded>
-    </item>
-    <item>
-      <title>Sonar</title>
-      <link>https://github.com/can4hou6joeng4/Sonar</link>
-      <guid isPermaLink="false">3b88b72185d26c383965b9b7e870543fe56011ce:Sonar</guid>
-      <pubDate>Tue, 06 Oct 2026 09:07:25 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Sonar
-Description: 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。
-Open Source: https://github.com/can4hou6joeng4/Sonar
-Commit: Add Sonar (#3181)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Sonar<br/>Description: 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。<br/>Open Source: https://github.com/can4hou6joeng4/Sonar<br/>Commit: Add Sonar (#3181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b88b72185d26c383965b9b7e870543fe56011ce]]></content:encoded>
     </item>
   </channel>
 </rss>

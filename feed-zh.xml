@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:26:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Eleven</title>
+      <link>https://github.com/Zfinix/eleven</link>
+      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
+      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Eleven
+Description: 开源逆向工程工具，AI 智能体可在你身旁阅读、重命名和修补二进制文件、Android 应用和 GPU 内核。[![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven)
+Open Source: https://github.com/Zfinix/eleven
+Commit: Add Eleven to Developer Utilities (#3584)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Eleven<br/>Description: 开源逆向工程工具，AI 智能体可在你身旁阅读、重命名和修补二进制文件、Android 应用和 GPU 内核。[![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven)<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
+    </item>
     <item>
       <title>Peel</title>
       <link>https://peel.tuguidragos.com/</link>
@@ -693,20 +707,6 @@ Website: https://goelir.github.io/IPTVMac/
 Commit: Add IPTVMac (#3208)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: IPTVMac<br/>Description: 原生 IPTV 播放器，支持 Xtream Codes 和 M3U，具备即时搜索、基于 mpv 的播放、画中画和下载功能。<br/>Website: https://goelir.github.io/IPTVMac/<br/>Commit: Add IPTVMac (#3208)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6]]></content:encoded>
-    </item>
-    <item>
-      <title>mu</title>
-      <link>https://github.com/qybaihe/mu</link>
-      <guid isPermaLink="false">1775d4f71d2e6f4b3f3554b3982b33449521f62b:mu</guid>
-      <pubDate>Tue, 06 Oct 2026 16:44:03 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: mu
-Description: 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。
-Open Source: https://github.com/qybaihe/mu
-Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: mu<br/>Description: 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。<br/>Open Source: https://github.com/qybaihe/mu<br/>Commit: Add mu to AI Tools (EN/ZH/JA/KO) (#3193)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1775d4f71d2e6f4b3f3554b3982b33449521f62b]]></content:encoded>
     </item>
   </channel>
 </rss>

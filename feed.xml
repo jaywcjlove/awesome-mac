@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:26:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Eleven</title>
+      <link>https://github.com/Zfinix/eleven</link>
+      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
+      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: Eleven
+Description: Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you.
+Open Source: https://github.com/Zfinix/eleven
+Commit: Add Eleven to Developer Utilities (#3584)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Eleven<br/>Description: Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you.<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
+    </item>
     <item>
       <title>Peel</title>
       <link>https://peel.tuguidragos.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/snowztech/farol
 Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Farol<br/>Description: Terminal built on libghostty that shows which coding agent is working, waiting or done.<br/>Open Source: https://github.com/snowztech/farol<br/>Commit: Add Farol to Terminal Apps (EN/ZH/JA/KO) (#3242)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/836865cccae5b5d9067d20656e0234d90de18f4f]]></content:encoded>
-    </item>
-    <item>
-      <title>IPTVMac</title>
-      <link>https://goelir.github.io/IPTVMac/</link>
-      <guid isPermaLink="false">598349d91faa643b275a2da8ba3c08de84d68ee6:IPTVMac</guid>
-      <pubDate>Wed, 07 Oct 2026 09:14:09 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: IPTVMac
-Description: Native IPTV player for Xtream Codes and M3U with instant search, mpv playback, Picture in Picture and downloads.
-Website: https://goelir.github.io/IPTVMac/
-Commit: Add IPTVMac (#3208)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: IPTVMac<br/>Description: Native IPTV player for Xtream Codes and M3U with instant search, mpv playback, Picture in Picture and downloads.<br/>Website: https://goelir.github.io/IPTVMac/<br/>Commit: Add IPTVMac (#3208)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/598349d91faa643b275a2da8ba3c08de84d68ee6]]></content:encoded>
     </item>
   </channel>
 </rss>
