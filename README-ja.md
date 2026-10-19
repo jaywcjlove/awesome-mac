@@ -952,6 +952,7 @@ Awesome Mac
 
 ### ファイル共有
 
+* [AirFliq](https://airfliq.vercel.app) - グローバルショートカット、メニューバー、Finderの右クリックメニュー、ドラッグ先からAppleのAirDropパネルを開くアプリ。[![App Store][app-store Icon]](https://apps.apple.com/app/airfliq/id6801543708)
 * [Cyberduck](https://cyberduck.io) - 無料のFTP、SFTP、WebDAV、S3、Backblaze B2、AzureおよびOpenStack Swiftブラウザ。 ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - スクリーンショット、画面録画、その他のファイルを共有するツール。
 * [Flow](http://fivedetails.com/flow/) - 受賞歴のある、美しく、高速で信頼性の高いFTP + SFTPクライアント。
