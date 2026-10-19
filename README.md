@@ -1720,6 +1720,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [xCreen](https://al-ex-w.github.io/xCreen/) - Menu bar app that reads the foreground window locally with Apple Vision OCR and has Hermes Agent write short takeaways into Obsidian daily notes. [![Open-Source Software][OSS Icon]](https://github.com/Al-ex-W/xCreen) ![Freeware][Freeware Icon]
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## Gaming Software
