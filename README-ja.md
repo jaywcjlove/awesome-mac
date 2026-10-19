@@ -1877,6 +1877,7 @@ Awesome Mac
 * [Divvy](http://mizage.com/divvy/) - 素晴らしいDivvy Gridシステムによる最高のウィンドウ管理。
 * [Fenestra](https://github.com/PRMotorWorks/Fenestra) - macOSでWindows 11のデスクトップを再現し、タスクバー、スタートメニュー、スナップレイアウト、Alt+Tab、クリップボード履歴を提供。 [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - ウィンドウのタイトルバー上のトラックパッドジェスチャーで操作するオープンソースのウィンドウ管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
+* [FullscreenKeeper](https://github.com/fratayaydn/fullscreenkeeper) - フルスクリーンのまま終了したアプリを、次に開いたときもフルスクリーンに戻す。 [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/fullscreenkeeper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hummingbird](https://finestructure.co/hummingbird) - ウィンドウ内のどこからでも、マウスクリックなしでウィンドウを簡単に移動・リサイズ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [HyprMac](https://hyprmac.app) - Hyprlandに着想を得たキーボード操作のタイリングウィンドウマネージャー。自動dwindleレイアウトと10個のワークスペースを備える。 [![Open-Source Software][OSS Icon]](https://github.com/zacharytgray/HyprMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - Dockを自動的に非表示に。

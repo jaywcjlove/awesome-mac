@@ -1492,6 +1492,7 @@ Awesome Mac
 * [DockLens](https://github.com/firstfu/DockLens-app) - Dock 아이콘에 포인터를 올리면 해당 앱의 모든 창의 실시간 썸네일을 보여 주며, 전환·닫기·최소화할 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Fenestra](https://github.com/PRMotorWorks/Fenestra) - macOS에서 Windows 11 데스크톱을 구현하며, 작업 표시줄, 시작 메뉴, 스냅 레이아웃, Alt+Tab, 클립보드 기록을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - 창 제목 표시줄에서 트랙패드 제스처로 창을 조작하는 오픈 소스 창 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
+* [FullscreenKeeper](https://github.com/fratayaydn/fullscreenkeeper) - 전체 화면 상태로 종료한 앱을 다음에 열 때도 전체 화면으로 되돌리는 도구. [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/fullscreenkeeper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HyprMac](https://hyprmac.app) - Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/zacharytgray/HyprMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - 설정 파일 없이 바로 쓸 수 있고, 네이티브 설정 앱을 갖추고, 앱 안에서 스스로 업데이트하는 타일링 창 관리자. ![Freeware][Freeware Icon]
 * [LumaRing](https://github.com/potatoQi/LumaRing) - 원형 메뉴로 앱, 창, 브라우저 탭을 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/potatoQi/LumaRing) ![Freeware][Freeware Icon]
