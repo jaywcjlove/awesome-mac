@@ -586,6 +586,7 @@ Awesome Mac
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达 80％，而不会影响质量。
+* [Lumen](https://papermint.studio/lumen) - 面向按文件夹管理照片用户的快速照片查看、筛选与 RAW 编辑工具，挑选与评级保存为 XMP。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6790660638)
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
