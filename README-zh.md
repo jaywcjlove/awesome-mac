@@ -535,6 +535,7 @@ Awesome Mac
 * [Scap](https://wangchujiang.com/scap/) - 支持模糊、马赛克和水印的截图标注与画布工具。[![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Capty](https://capty.app/) - 内置编辑和标注功能的录屏与截图工具。
 * [Capso](https://github.com/lzhgus/Capso) - 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
+* [Screenshots](https://ciromaciel.click/tools/screenshots) - 开源菜单栏截图工具，支持滚动截屏、OCR、标注、贴图以及 MP4 或 GIF 录屏，应用内不含任何联网代码。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
 * [Sitch](https://phalladar.github.io/Sitch/) - Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
