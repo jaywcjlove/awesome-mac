@@ -434,6 +434,7 @@ Awesome Mac
 * [hyper](https://hyper.is) - 基于 Web 技术的终端，直接替代自带的 Terminal。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。[![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
+* [SSHFire](https://github.com/aralozaltin/sshfire) - 跨平台 SSH 客户端，集成终端、会话管理器和跟随当前目录的 SFTP 文件浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [Termstead](https://khorenyan.com/termstead/) - 原生 SSH 客户端，支持会话树、跳板机，终端旁即有 SFTP。 [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
