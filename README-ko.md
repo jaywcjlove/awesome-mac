@@ -210,6 +210,7 @@ Awesome Mac
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
 * [Imark](https://github.com/migsilva89/imark) - 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [JustMD](https://justmd.nuta.life/) - 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
+* [Liubai](https://liubai.echovic.com/en/) - 입력하는 대로 서식을 보여 주고 파일을 일반 .md로 유지하며 수식, Mermaid 다이어그램, Word 내보내기를 지원하는 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/echoVic/liubai) ![Freeware][Freeware Icon]
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
 * [MarkText](https://github.com/marktext/marktext) - 차세대 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
