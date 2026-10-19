@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:33:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:39:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac Android Subsystem</title>
+      <link>https://harkhowalia-1.github.io/MacSubsystemForAndroid/</link>
+      <guid isPermaLink="false">b93050eed5bde10a3ac96ba47c432587ae44868d:Mac Android Subsystem</guid>
+      <pubDate>Mon, 19 Oct 2026 08:39:00 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: Mac Android Subsystem
+Description: Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon.
+Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
+Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Mac Android Subsystem<br/>Description: Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon.<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
+    </item>
     <item>
       <title>TetherCam</title>
       <link>https://tethercam.app/</link>
@@ -693,20 +707,6 @@ Website: https://quail-ai.app
 Commit: Add Quail to AI Tools (EN/ZH/JA/KO) (#3234)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eac5de76531d52e98b687b20b4411d8086181350</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Quail<br/>Description: Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex.<br/>Website: https://quail-ai.app<br/>Commit: Add Quail to AI Tools (EN/ZH/JA/KO) (#3234)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eac5de76531d52e98b687b20b4411d8086181350]]></content:encoded>
-    </item>
-    <item>
-      <title>Mooziac</title>
-      <link>https://mooziac.pages.dev</link>
-      <guid isPermaLink="false">3b5f0b5475640761a1cef0fe28add1a2af31ec38:Mooziac</guid>
-      <pubDate>Thu, 08 Oct 2026 06:39:17 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Mooziac
-Description: Lightweight native macOS menu bar player for YouTube Music &amp; local audio.
-Website: https://mooziac.pages.dev
-Commit: Add Mooziac to Audio and Video Tools across all languages (#2727)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5f0b5475640761a1cef0fe28add1a2af31ec38</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Mooziac<br/>Description: Lightweight native macOS menu bar player for YouTube Music &amp; local audio.<br/>Website: https://mooziac.pages.dev<br/>Commit: Add Mooziac to Audio and Video Tools across all languages (#2727)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5f0b5475640761a1cef0fe28add1a2af31ec38]]></content:encoded>
     </item>
   </channel>
 </rss>
