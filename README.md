@@ -1256,6 +1256,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Utilities
 
+* [Android Rapid Transfer](https://github.com/sameh0/android-rapid-transfer) - Native macOS (+Linux) file transfer for Android phones over USB. Open source, no Electron. [![Open-Source Software][OSS Icon]](https://github.com/sameh0/android-rapid-transfer) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - Menu bar tool for switching DNS providers or custom resolvers. [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - Temporary shelf for collecting and moving dragged files, text, and links. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
