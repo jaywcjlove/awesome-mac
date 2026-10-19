@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:55:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Threadlines</title>
+      <link>https://www.threadlines.dev</link>
+      <guid isPermaLink="false">88216376e3df7688913614fd323a67f1a0f9dc83:Threadlines</guid>
+      <pubDate>Mon, 19 Oct 2026 14:55:11 GMT</pubDate>
+      <category>Developer Tools / IDEs</category>
+      <description>Category: Developer Tools / IDEs
+App: Threadlines
+Description: Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree.
+Website: https://www.threadlines.dev
+Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83</description>
+      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Threadlines<br/>Description: Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree.<br/>Website: https://www.threadlines.dev<br/>Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83]]></content:encoded>
+    </item>
     <item>
       <title>SSHFire</title>
       <link>https://github.com/aralozaltin/sshfire</link>
@@ -693,20 +707,6 @@ Website: https://redlamp.app
 Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60</description>
       <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: Redlamp<br/>Description: Native, open-source raw photo editor that keeps Lightroom Classic&apos;s Develop workflow.<br/>Website: https://redlamp.app<br/>Commit: Add Redlamp to Design Tools (EN/ZH/JA/KO) (#3194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/08978255747c013604ca4f2f59ca49933c6f0b60]]></content:encoded>
-    </item>
-    <item>
-      <title>Sesame</title>
-      <link>https://github.com/qiwei66/sesame</link>
-      <guid isPermaLink="false">41f7d33a4d34f799888de50de1965b474bd019d7:Sesame</guid>
-      <pubDate>Thu, 08 Oct 2026 13:35:02 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Sesame
-Description: Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.
-Open Source: https://github.com/qiwei66/sesame
-Commit: Add Sesame to AI Tools (#3133)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Sesame<br/>Description: Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.<br/>Open Source: https://github.com/qiwei66/sesame<br/>Commit: Add Sesame to AI Tools (#3133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/41f7d33a4d34f799888de50de1965b474bd019d7]]></content:encoded>
     </item>
   </channel>
 </rss>
