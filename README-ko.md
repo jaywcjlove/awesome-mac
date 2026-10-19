@@ -427,6 +427,7 @@ Awesome Mac
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI 코딩 세션 및 프로젝트 관리용 AI 네이티브 GUI. 분할 창, Git 통합, AI 사용량 추적 기능을 포함합니다.
+* [Porter](https://papermint.studio/porter) - 로컬 개발 서버에 .local 도메인과 신뢰할 수 있는 HTTPS를 제공하고 터널, 웹훅, 요청 검사기도 갖춘 도구. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, 포워딩·터널 관리, 프로세스 종료를 위한 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - 시스템 클립보드 검사. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 코드 라인 수 계산기. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
