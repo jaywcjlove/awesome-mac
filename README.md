@@ -943,6 +943,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - Powerful, simple and beautiful email client, need to pay for a license.
+* [Sickle](https://sickle.app/) - Email client for Gmail, Outlook, iCloud and any IMAP account, with an MCP server that connects AI agents to all of them.
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
 * [Tutanota](https://tutanota.com/) - Encrypted email focused on security and privacy. [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
