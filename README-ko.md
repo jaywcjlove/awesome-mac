@@ -1187,6 +1187,7 @@ Awesome Mac
 * [Swift Shift](https://swiftshift.app) - 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
+* [Windows](https://ciromaciel.click/tools/windows) - 단축키나 화면 가장자리·모서리로 끌어다 놓는 방식으로 창을 절반, 전체 화면, 가운데, 다음 디스플레이, 사용자 지정 크기로 배치하는 오픈 소스 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/windows) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - 키보드 중심의 타일링 창 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 비밀번호 관리
