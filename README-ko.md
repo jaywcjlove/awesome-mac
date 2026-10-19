@@ -379,6 +379,7 @@ Awesome Mac
 * [Xcode](https://developer.apple.com/xcode/) - Swift 및 Objective-C용 IDE. ![Freeware][Freeware Icon]
 * [Nimbalyst](https://nimbalyst.com/) - AI 코딩 세션, 작업, 프로젝트 파일을 관리하는 시각적 워크스페이스.
 * [Orca](https://onorca.dev) - 여러 AI 코딩 에이전트를 각각 독립된 git 워크트리에서 병렬로 실행하는 오픈소스 IDE. [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [Threadlines](https://www.threadlines.dev) - 코딩 에이전트(Claude Code, Codex, OpenCode, Cursor)를 위한 오픈소스 데스크톱 앱. 여러 에이전트가 하나의 스레드를 함께 쓰고, 스레드마다 독립된 git 워크트리를 사용한다. [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - 고성능 오픈 소스 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 * [Spyder](https://www.spyder-ide.org/) - 파이썬을 위한 강력한 과학적 환경.
 
