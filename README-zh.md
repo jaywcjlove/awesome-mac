@@ -311,6 +311,7 @@ Awesome Mac
 * [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [WeFlow](https://weflow.io/) - 一个基于 [tmt-workflow](https://github.com/Tencent/tmt-workflow) 前端工作流的开发工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/WeFlow)
 * [Woodpecker](http://www.woodpeck.cn) - 在Mac上查看、编辑iOS App的沙盒文件, UserDefaults, Keychain项 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/woodpecker/id1333548463?platform=mac)
+* [yylo](https://yylo.dev) - 开源的编码代理命令行编排器，提供看板式任务台账、隔离的 git 工作树和类型化的合并流程。 [![Open-Source Software][OSS Icon]](https://github.com/yylo-dev/yylo) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具。![Freeware][Freeware Icon]
 * [He3](https://he3.app) - 免费智能的开发者万能工具箱. ![Freeware][Freeware Icon]
 
