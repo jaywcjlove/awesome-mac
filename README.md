@@ -1614,6 +1614,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
 * [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
+* [Windows](https://ciromaciel.click/tools/windows) - Open-source window manager that snaps windows to halves, full screen, center, the next display, or custom sizes by shortcut or by dragging them to an edge or corner. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/windows) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - Keyboard-driven tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Password Management

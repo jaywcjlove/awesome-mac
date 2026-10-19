@@ -1554,6 +1554,7 @@ Awesome Mac
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)
 * [Total Spaces](http://totalspaces.binaryage.com/) - 为工作区提供快捷键和空间总览的管理工具。
 * [Tungsten Edge 钨极](https://tungstenedge.app) - 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。 [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
+* [Windows](https://ciromaciel.click/tools/windows) - 开源窗口管理工具，可通过快捷键或将窗口拖到屏幕边缘和角落，把窗口放到半屏、全屏、居中、下一块显示器或自定义尺寸。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/windows) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - 键盘驱动的平铺式窗口管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 密码管理

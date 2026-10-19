@@ -1611,6 +1611,7 @@ Awesome Mac
 * [Tiles](https://freemacsoft.net/tiles/) - 画面端、ショートカット、メニューバーでウィンドウを整列できるツール。 ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - 任意のウィンドウを画面の最前面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - ワークスペースの切り替えや把握をしやすくする管理ツール。
+* [Windows](https://ciromaciel.click/tools/windows) - ショートカットや画面の端・角へのドラッグで、ウィンドウを半分、全画面、中央、次のディスプレイ、独自のサイズに配置するオープンソースのウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/windows) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [yabai](https://github.com/koekeishiya/yabai) - キーボード操作中心のタイル型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### パスワード管理
