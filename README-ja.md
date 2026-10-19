@@ -657,6 +657,7 @@ Awesome Mac
 * [iTerm2](http://www.iterm2.com) - OS X用の素晴らしいターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [kitty](https://github.com/kovidgoyal/kitty) - クロスプラットフォームで高速、フル機能のGPUベースターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [KubeSwitch](https://www.kubeswitch.com/) - macOSでKubernetesのコンテキストとネームスペースを最速で切り替える方法。 ![Freeware][Freeware Icon]
+* [SheepTerm](https://github.com/bestonehxh/SheepTerm) - ネットワークエンジニア向けの無料SSH・シリアル・ローカルシェルクライアント。ベンダー別ハイライト、分割ペイン、ジャンプホストに対応。 [![Open-Source Software][OSS Icon]](https://github.com/bestonehxh/SheepTerm) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - TypeScriptで構築された無料のターミナルツール。Hyperに強く触発されている。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - Mac用の美しいSSHおよびSFTPクライアント。モバイルでも利用可能。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 * [Termstead](https://khorenyan.com/termstead/) - セッションツリー、踏み台サーバー、ターミナル横のSFTPを備えたネイティブSSHクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
