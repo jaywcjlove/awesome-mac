@@ -710,6 +710,7 @@ Awesome Mac
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) - アートボードからフローダイアグラムを生成。 [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - コンセプトデザイン、コミックアート、デジタルスケッチ用のドローイングソフトウェア。 ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - プロのビジュアルWebデザイン。
+* [SpriteArk](https://spriteark.com/) - ピクセル編集、スプライトシート分割、9スライスガイド、任意のAI生成に対応したゲームアート用ワークスペース。
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - より多くの機能を備えたアプリとしてのmacOSカラーピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783?platform=mac)
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - プロフェッショナルなドローイングソフトウェア。
 * [Vectornator: Design Software](https://www.vectornator.io/) - 銀河系で最も直感的で精密なイラストレーションソフトウェア。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
