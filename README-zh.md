@@ -268,6 +268,7 @@ Awesome Mac
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 编辑 hosts 文件的工具，更简单方便。[![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask) ![Freeware][Freeware Icon]
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行。![Freeware][Freeware Icon]
 * [Gemini](https://macpaw.com/gemini) - 智能的重复文件查找器。
+* [GithubStarsManager](https://gsm.aminta.top) - AI 驱动的本地优先应用，用于整理你的 GitHub stars，支持自动摘要、标签、语义搜索和版本更新追踪。 [![Open-Source Software][OSS Icon]](https://github.com/AmintaCCCP/GithubStarsManager)![Freeware][Freeware Icon]
 * [GraphCode](https://graphcode.app) - 将编码代理会话组织成图：每个节点都是可在运行中接入的实时终端，每条边则是无人值守时自动触发的交接。支持 Claude Code、Copilot CLI 和 Codex。![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 编辑 hosts 文件的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 快速而聪明的开源十六进制编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hex-fiend/id1342896380?platform=mac)
