@@ -749,6 +749,7 @@ Awesome Mac
 ### 협업 및 팀 도구
 
 * [Adium](https://adium.im/) - Mac OS X용 무료 인스턴트 메시징 앱. ![Freeware][Freeware Icon]
+* [Aurio](https://aurio.dev/) - 음성의 배경 소음을 기기에서 제거하는 노이즈 캔슬링 가상 마이크.
 * [Caprine](https://github.com/sindresorhus/caprine) - 프라이버시 중심의 Facebook Messenger 앱. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - 팀 커뮤니케이션과 협업을 위한 플랫폼. ![Freeware][Freeware Icon]
 * [Discord](https://discord.com/) - 음성, 텍스트, 커뮤니티 중심의 채팅 플랫폼. ![Freeware][Freeware Icon]

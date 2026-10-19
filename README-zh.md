@@ -686,6 +686,7 @@ Awesome Mac
 *推荐一些通信工具，沟通，团队协同。*
 
 
+* [Aurio](https://aurio.dev/) - 在本机上去除语音背景噪音的降噪虚拟麦克风。
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [BlurScreen App](https://www.blurscreen.app) - 可在录屏或共享时即时模糊屏幕敏感内容的工具。
 * [Discord](https://discordapp.com/) - 集语音、文字和社区于一体的聊天平台。
