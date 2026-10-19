@@ -714,6 +714,7 @@ Awesome Mac
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - プロフェッショナルなドローイングソフトウェア。
 * [Vectornator: Design Software](https://www.vectornator.io/) - 銀河系で最も直感的で精密なイラストレーションソフトウェア。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
 * [Vectr](https://vectr.com/) - ベクターグラフィックスを簡単かつ直感的に作成できる無料グラフィックスエディター。 ![Freeware][Freeware Icon]
+* [XShots](https://selfark.com/xshots) - App Store用スクリーンショット一式のデザイン、ローカライズ、プレビュー、一括書き出しを行うツール。
 * [Nugget](https://github.com/cartesiancs/nugget-app) - モーションエフェクトと多様性を重視した動画編集ソフトウェア。 [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - オフラインサポート、組み込みアセット、リアルタイムコラボレーションを備えたUI/UX向けのベクターグラフィックデザインツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 
