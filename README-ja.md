@@ -231,6 +231,7 @@ Awesome Mac
 ### Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。
+* [Backtickle](https://masud90.github.io/backtickle/) - 左に書いて右で読めるオープンソースのMarkdownリーダー兼エディタ。数式、Mermaid図、引用、PDF/Word書き出しに対応。 [![Open-Source Software][OSS Icon]](https://github.com/masud90/backtickle) ![Freeware][Freeware Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
