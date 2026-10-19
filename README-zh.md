@@ -1389,6 +1389,7 @@ Awesome Mac
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?platform=mac)
 * [MenuScores](https://menuscores.vercel.app/) - 一在菜单栏实时呈现体育资讯与比分的应用。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [Repose](https://github.com/fikrikarim/repose) - 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。 [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
+* [Ring Stats](https://github.com/PetriLahdelma/ring-stats) - 在菜单栏显示 Oura 指环的 Readiness、睡眠、活动、心率和电量，通过你自己的 Oura 开发者应用直连，没有中间服务器。 [![Open-Source Software][OSS Icon]](https://github.com/PetriLahdelma/ring-stats) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - 轻量级系统监控小组件，可在菜单栏管理的可调节桌面窗口中实时显示 CPU、内存、磁盘、网络、电池和进程信息。 [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
 * [FreeAudio](https://github.com/hakanotal/FreeAudio) - 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeAudio) ![Freeware][Freeware Icon]
