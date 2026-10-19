@@ -752,6 +752,7 @@ Awesome Mac
 * [DingTalk](https://www.dingtalk.com/en) - 팀 커뮤니케이션과 협업을 위한 플랫폼. ![Freeware][Freeware Icon]
 * [Discord](https://discord.com/) - 음성, 텍스트, 커뮤니티 중심의 채팅 플랫폼. ![Freeware][Freeware Icon]
 * [Element](https://element.io/) - 안전한 메시징 및 협업 도구. [![Open-Source Software][OSS Icon]](https://github.com/vector-im) ![Freeware][Freeware Icon]
+* [faro](https://getfaro.dev) - tmux와 SSH 환경을 위해 만든 비공식 터미널 Signal 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/harababurel/faro) ![Freeware][Freeware Icon]
 * [Ferdium](https://ferdium.org/) - 여러 웹 앱을 한곳에 모아 쓰는 메시징 워크스페이스. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [Franz](http://meetfranz.com/) - 여러 채팅 서비스를 한곳에 모아 쓰는 메시징 앱. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 개발자와 GitHub 커뮤니티를 위한 채팅 플랫폼. ![Freeware][Freeware Icon]

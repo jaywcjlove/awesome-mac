@@ -902,6 +902,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DingTalk](https://www.dingtalk.com/en) - Team communication and collaboration platform. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - Voice, text, and community chat platform.
 * [Element](https://element.io/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
+* [faro](https://getfaro.dev) - Unofficial Signal client for the terminal, built for tmux and SSH. [![Open-Source Software][OSS Icon]](https://github.com/harababurel/faro) ![Freeware][Freeware Icon]
 * [Ferdium](https://ferdium.org/) - Messaging workspace that combines multiple web apps in one place. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [Franz](https://meetfranz.com/) - Messaging app that combines multiple chat services in one place. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Chat platform for developers and GitHub communities. ![Freeware][Freeware Icon]

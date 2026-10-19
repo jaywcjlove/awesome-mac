@@ -903,6 +903,7 @@ Awesome Mac
 * [DingTalk](https://www.dingtalk.com/en) - チーム向けのコミュニケーションとコラボレーションのプラットフォーム。 ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - 音声、テキスト、コミュニティ向けのチャットプラットフォーム。
 * [Element](https://element.io/) - 作成、共有、コミュニケーション。安全なチャットと通話。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
+* [faro](https://getfaro.dev) - tmuxとSSH向けに作られた、ターミナル用の非公式Signalクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/harababurel/faro) ![Freeware][Freeware Icon]
 * [Ferdium](https://ferdium.org/) - 複数のWebアプリを1つにまとめて使えるメッセージングワークスペース。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [Franz](http://meetfranz.com/) - 複数のチャットサービスを1つにまとめるメッセージングアプリ。 ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 開発者とGitHubコミュニティ向けのチャットプラットフォーム。 ![Freeware][Freeware Icon]
