@@ -1229,6 +1229,7 @@ Awesome Mac
 
 * [Homebrew](https://brew.sh/index_ko) - macOS용 패키지 관리자. [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew) ![Freeware][Freeware Icon]
 * [MacPorts](https://www.macports.org/) - 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
+* [OpenNavo](https://opennavo.com) - 앱을 원클릭으로 설치·업데이트하고 설치 전에 악성 코드를 검사하는 오픈 소스 Homebrew GUI. [![Open-Source Software][OSS Icon]](https://github.com/opennavo/OpenNavo) ![Freeware][Freeware Icon]
 
 ## Mac 앱 다운로드 사이트
 

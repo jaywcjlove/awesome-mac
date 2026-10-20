@@ -1776,6 +1776,7 @@ Awesome Mac
 * [Homebrew](https://brew.sh/) - macOSに欠けていたパッケージマネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - オープンソースソフトウェアの導入と管理を行うパッケージマネージャー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 * [MacUpdate Desktop](https://www.macupdate.com/) - Mac用アプリの検索、購入、インストールを簡単に。
+* [OpenNavo](https://opennavo.com) - ワンクリックでアプリをインストール・更新し、インストール前にマルウェアをスキャンするオープンソースのHomebrew GUI。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/opennavo/OpenNavo)
 
 ## Macアプリダウンロードサイト
 
