@@ -978,6 +978,7 @@ Awesome Mac
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - SkypeからのVoIP通話、SafariからのWebストリームなど、あらゆるアプリケーションのオーディオを録音。
 * [BeMyEars](https://www.bemyears.cn/) - オンデバイス文字起こしと多言語字幕に対応したライブ字幕ツール。 ![Freeware][Freeware Icon]
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 内部オーディオの録音/ルーティング用のフリーミアムオープンソース仮想出力/入力オーディオドライバー。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
+* [CallLane](https://calllane.app/) - 通話中にmacOSが他の音声の音量を下げるのを防ぎ、AirPodsを低音質のヘッドセットモードにさせないメニューバーアプリ。
 * [Camera Preview](https://sindresorhus.com/camera-preview) - Webカメラのプレビュー、写真撮影、鏡として使用。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1632827132?platform=mac)
 * [Carol](https://github.com/AnaghSharma/Carol) - macOS用のミニマルで美しい歌詞アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 無料のオープンソースオーディオプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622?platform=mac)
