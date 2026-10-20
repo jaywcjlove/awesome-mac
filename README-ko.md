@@ -1221,6 +1221,7 @@ Awesome Mac
 * [CSV Quick Look](https://github.com/adamorad/csv-quick-look) - 가상 스크롤, 정렬, 필터, 다크 모드를 지원하는 CSV/TSV용 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/adamorad/csv-quick-look) ![Freeware][Freeware Icon]
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - 마크다운 파일을 위한 Quick Look 도구. [![Open-Source Software][OSS Icon]](https://github.com/sbarex/QLMarkdown) ![Freeware][Freeware Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Markdown, Mermaid, KaTeX 등을 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
+* [Foldout](https://dev.adityarajsingh.com/foldout/) - 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원. [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/foldout-folder-preview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` 내용과 메타데이터를 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
