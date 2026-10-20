@@ -1295,6 +1295,7 @@ Awesome Mac
 * [Snap](http://indragie.com/snap) - 一款可以给 Dock 上的程序添加快捷键的小工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id418073146?platform=mac)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub贡献和统计跟踪菜单栏应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [SwiftBiu](https://swiftbiu.com/) - 带可定制工具栏和 AI 扩展的文本效率工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
+* [Switchboard](https://dev.adityarajsingh.com/switchboard/) - 浏览器选择器：按网站、URL 或来源应用的规则，或在光标处手动选择，把每个链接在合适的浏览器、Chrome/Brave 配置文件或无痕窗口中打开，并内置链接清理。 [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/switchboard-browser-picker) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353?platform=mac)
 * [uebersicht](https://github.com/felixhageloh/uebersicht) - 充分利用桌面空间的插件工具 [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 * [Upscayl](https://github.com/upscayl/upscayl) - 免费开源的图像AI超分工具。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
