@@ -1742,6 +1742,7 @@ Awesome Mac
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - 低遅延のリモートデスクトップ兼ゲームストリーミングツール。
+* [RDPyon](https://rdpyon.com) - Windows 標準のリモートデスクトップ接続(mstsc)で Mac に接続できる macOS 用 RDP サーバー。Windows 側に追加クライアント不要。
 * [RealVNC](https://www.realvnc.com) - デスクトップとモバイルのリモートアクセスのためのオリジナルかつ最高のソフトウェア。
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 複数プロトコルの接続をまとめて管理できるリモート接続クライアント。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - もう一つのリモートデスクトップソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
