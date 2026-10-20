@@ -574,6 +574,7 @@ Awesome Mac
 * [Blender](https://www.blender.org/) - 무료 오픈 소스 3D 제작 소프트웨어. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - 오픈 소스 색상 조작 및 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - 오픈 소스 사진 워크플로우 및 RAW 현상 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
+* [DrawingPics](https://drawing.pics) - 그린 스케치를 Apple 실리콘에서 오프라인으로 실시간 AI 이미지로 바꿔 주는 화이트보드 앱.
 * [Figma](https://www.figma.com/) - 벡터 그래픽과 UI 프로토타이핑을 위한 협업 디자인 도구. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 무료 오픈 소스 글꼴 편집기. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU 이미지 조작 프로그램. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)

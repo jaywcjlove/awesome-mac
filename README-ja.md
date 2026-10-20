@@ -685,6 +685,7 @@ Awesome Mac
 * [darktable](https://www.darktable.org) - オープンソースの写真ワークフローアプリケーションおよびRAW現像ソフト。 [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 画像の背景をオフラインで一括削除できるツール。
 * [Draw.io](https://github.com/jgraph/drawio-desktop) ダイアグラムとホワイトボード用のデスクトップアプリ [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
+* [DrawingPics](https://drawing.pics) - 描いたスケッチをAppleシリコン上でオフラインのままリアルタイムにAI画像へ変換するホワイトボードアプリ。
 * [Figma](https://www.figma.com/) - ベクターグラフィックスとUIプロトタイピングのための協調的インターフェースデザインツール。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 無料でオープンソースのフォントエディター。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU画像操作プログラム。 [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
