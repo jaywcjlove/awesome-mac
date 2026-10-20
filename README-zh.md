@@ -699,6 +699,7 @@ Awesome Mac
 * [Microsoft Teams](https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software/) - Microsoft Teams是一个通信和协作软件，它集成了聊天、视频会议、 文件存储 、Office 365等功能。
 * [Misskey](https://misskey-hub.net/) - Misskey是一个去中心化开源社交平台。[![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
 * [Mattermost](https://mattermost.com/download/) - 开源团队协作平台。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
+* [Onebox](https://github.com/stek765/OneBox) - 将 WhatsApp、Telegram、Slack、Discord、Proton Mail 和 LinkedIn 整合到一起的菜单栏面板。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [QQ](http://im.qq.com/macqq/index.shtml) - QQ for Mac App。![Freeware][Freeware Icon]
 * [Rambox](http://rambox.pro/) - 消息和电子邮件应用程序，将常见的Web应用程序组合成一个程序。 [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/) - 畅所欲言来尝试一种别样的通讯体验吧。Signal 不仅提供各种常见的功能，还尤为注重隐私安全。![Freeware][Freeware Icon]

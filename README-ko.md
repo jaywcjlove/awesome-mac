@@ -758,6 +758,7 @@ Awesome Mac
 * [Gitter](https://gitter.im) - 개발자와 GitHub 커뮤니티를 위한 채팅 플랫폼. ![Freeware][Freeware Icon]
 * [Lark](https://www.larksuite.com/en_us/) - 올인원 협업 스위트. ![Freeware][Freeware Icon]
 * [Mattermost](https://mattermost.com/) - 오픈 소스 팀 협업 플랫폼. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
+* [Onebox](https://github.com/stek765/OneBox) - WhatsApp, Telegram, Slack, Discord, Proton Mail, LinkedIn을 한곳에 모아 쓰는 메뉴 막대 패널. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/download/) - 빠르고 단순하며 안전한 메시징 앱. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/) - 팀 커뮤니케이션 및 협업 도구. ![Freeware][Freeware Icon]
 * [Stack](https://getstack.app/) - 여러 웹 앱을 한 화면에서 정리해 쓰는 워크스페이스 브라우저.
