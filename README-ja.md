@@ -793,6 +793,7 @@ Awesome Mac
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - ソースコードを公開する画面・音声記録ツールで、ローカル履歴の検索、任意のクラウドAI処理、無料・有料プランに対応。
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
+* [Toma](https://toma.felipebasurto.com/) - 画面の一部を録画して MP4、HEVC、GIF で保存する、動画版 ⇧⌘4 のようなオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/felipebasurto/toma) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
 
 ### その他のツール
