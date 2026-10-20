@@ -221,6 +221,7 @@ Awesome Mac
         * [NodeJS](https://plugins.jetbrains.com/plugin/6098-nodejs) - 集成 `Node.js`，你肯定需要它，很多功能需要它。
         * [EditorConfig](https://plugins.jetbrains.com/plugin/7294-editorconfig) - 帮助开发者在不同的编辑器和 IDE 之间定义和维护一致的代码风格。
         * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
+* [Layerwise](https://layerwise.app) - 基于本地项目文件构建、预览和发布全栈 Web 应用的 AI 工作区。
 * [LightTable](http://lighttable.com/) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [LiteEdit](https://arietan.github.io/lite-edit/) - 轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。 [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [MacVim](https://github.com/macvim-dev/macvim) - Vim for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]

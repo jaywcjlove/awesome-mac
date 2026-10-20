@@ -396,6 +396,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
   * [Rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE with Resharper features.
   * [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 * [Haskell for Mac](https://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://apps.apple.com/app/haskell-development-platform/id841285201?platform=mac)
+* [Layerwise](https://layerwise.app) - AI workspace for building, previewing, and publishing full-stack web apps from local project files.
 * [NetBeans IDE](https://netbeans.org/) - Free, open-source IDE for Java and other languages. [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nimbalyst](https://nimbalyst.com/) - A visual workspace for managing AI coding sessions, tasks, and project files.
 * [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
