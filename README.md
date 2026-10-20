@@ -923,6 +923,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Teams](https://teams.live.com/) - Free online meetings and video calls
 * [Teambition](https://www.teambition.com) - Team collaboration tool for tasks, schedules, files, and discussions. ![Freeware][Freeware Icon]
 * [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
+* [Tera Chat](https://terachat.co/) - Unified inbox for iMessage, WhatsApp, Telegram, Instagram and Tinder that drafts replies in your own texting style. ![Freeware][Freeware Icon]
 * [Textual](https://apps.apple.com/us/app/textual-7/id1262957439?platform=mac) - Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual) [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
 * [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
 * [Wavebox](https://wavebox.io) - Browser workspace for organizing web apps and team tools.

@@ -706,6 +706,7 @@ Awesome Mac
 * [Stack](https://getstack.app/) - 用于在一个界面中整理多个 Web 应用的工作区浏览器。
 * [Teams](https://teams.live.com/) - 免费在线会议和视频通话。
 * [Telegram](https://desktop.telegram.org) - 通讯新时代。
+* [Tera Chat](https://terachat.co/) - 将 iMessage、WhatsApp、Telegram、Instagram 和 Tinder 整合到一个收件箱，并按你的聊天风格起草回复。 ![Freeware][Freeware Icon]
 * [Textual](https://www.codeux.com/textual) - 最受欢迎的世界与我们相关的 KPI 应用 for OS X。[![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [Teambition](https://www.teambition.com) - 提供任务、日程、文件和讨论功能的团队协作工具。![Freeware][Freeware Icon]
 * [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&platform=wx&lang=zh_CN) - 微信 for Mac ![Freeware][Freeware Icon]
