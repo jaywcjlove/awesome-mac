@@ -475,6 +475,7 @@ Awesome Mac
 ### 네트워크 분석
 
 * [Charles](https://www.charlesproxy.com/) - HTTP 프록시/모니터.
+* [Cloak Proxy](https://subcloak.com/apps/cloak-proxy) - 브레이크포인트, Map Local, 스크립팅, API 클라이언트와 MCP 서버를 갖춘 HTTPS 디버깅 프록시. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]

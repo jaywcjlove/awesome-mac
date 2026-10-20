@@ -524,6 +524,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Network Analysis
 
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor to view HTTP and HTTPS traffic.
+* [Cloak Proxy](https://subcloak.com/apps/cloak-proxy) - HTTPS debugging proxy with breakpoints, Map Local, scripting, an API client and an MCP server. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]

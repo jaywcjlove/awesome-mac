@@ -525,6 +525,7 @@ Awesome Mac
 ### ネットワーク分析
 
 * [Charles](https://www.charlesproxy.com/) - HTTPおよびHTTPSトラフィックを表示するHTTPプロキシ/モニター。
+* [Cloak Proxy](https://subcloak.com/apps/cloak-proxy) - ブレークポイント、Map Local、スクリプト、APIクライアント、MCPサーバーを備えたHTTPSデバッグプロキシ。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
