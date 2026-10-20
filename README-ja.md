@@ -514,7 +514,7 @@ Awesome Mac
 * [Katalon Studio](https://www.katalon.com) - API、Web、モバイル自動テストを簡素化するツール。 ![Freeware][Freeware Icon]
 * [Maestro](https://maestro.dev/) - モバイルおよびWebアプリ向けのエンドツーエンドテストフレームワーク。 [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
 * [Mockoon](https://mockoon.com/) - 数秒でモックAPIを作成できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/mockoon/mockoon)
-* [Optics](https://optics-framework.org/) - Android、iOS、Web、スマートTVアプリ向けのオープンソースUIテスト自動化フレームワーク。テストはCSVまたはYAMLで記述。 [![Open-Source Software][OSS Icon]](https://github.com/mozarkai/optics-framework) ![Freeware][Freeware Icon]
+* [Optics Framework](https://optics-framework.org/) - Android、iOS、Web、スマートTVアプリ向けのオープンソースUIテスト自動化フレームワーク。テストはCSVまたはYAMLで記述。 [![Open-Source Software][OSS Icon]](https://github.com/mozarkai/optics-framework) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - 高機能HTTPクライアント。
 * [Postman](https://www.getpostman.com) - API開発用のGUIプラットフォーム。 ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - 次世代API開発ツール、高度なAPIデバッグプロキシおよびRESTクライアント。 ![Freeware][Freeware Icon]
