@@ -382,6 +382,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Eclipse](https://www.eclipse.org) - Popular open-source IDE for Java with plugin support for many languages. ![OSS][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](https://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge. [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
+* [FlowDeck Studio](https://flowdeck.studio/) - Native workspace where coding agents (Claude Code, Codex, Cursor) build, run, test and verify iOS and macOS apps, each session in its own git worktree and simulator. ![Native App][Native Icon]
 * [BeagleEditor](https://github.com/beaglesoftware/editor) - A "beagleful" editor with features like syntax highlighting, plugins and... - A bit ugly, but it works
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
