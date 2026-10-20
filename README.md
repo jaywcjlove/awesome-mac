@@ -757,6 +757,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - Screenshot and annotation tool with screen recording, scrolling capture, and OCR. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas tool with blur, mosaic, and watermark features. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
+* [Shelvo](https://shelvoapp.com/) - Menu bar app that asks where to file each screenshot as you take it, and makes your library searchable by the text inside (on-device OCR). ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - Screen capture application with features like Scrolling capture, OCR and markup.
 * [Sitch](https://phalladar.github.io/Sitch/) - Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. ![Freeware][Freeware Icon]
