@@ -652,6 +652,7 @@ Awesome Mac
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusion AI 아트 생성 도구. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 이미지, 비디오, 오디오, 폰트, 디자인 파일을 관리하는 에셋 매니저.
 * [ExifCleaner](https://exifcleaner.com) - 이미지 및 비디오의 EXIF 데이터 제거. [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) ![Freeware][Freeware Icon]
+* [Fotohaus](https://github.com/aelnagish/fotohaus) - 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자. [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/fotohaus) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC 이미지를 JPEG나 PNG로 변환. ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 이미지 압축 및 EXIF 정보 제거. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - 마크다운 지원 이미지 업로드 도구. ![Freeware][Freeware Icon]

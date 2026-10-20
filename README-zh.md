@@ -591,6 +591,7 @@ Awesome Mac
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。[![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Lap](https://github.com/julyx10/lap) - 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
+* [Fotohaus](https://github.com/aelnagish/fotohaus) - 开源照片管理工具，直接整理现有文件夹，支持本地人脸识别、搜索和无损编辑。 [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/fotohaus) ![Freeware][Freeware Icon]
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 更快速和容易批量调整图像和加水印。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac) ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
