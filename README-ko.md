@@ -467,6 +467,7 @@ Awesome Mac
 * [Insomnia](https://insomnia.rest/) - 직관적인 크로스 플랫폼 REST API 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Maestro](https://maestro.dev/) - 모바일 및 웹 앱을 위한 엔드투엔드 테스트 프레임워크. [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
 * [Mockoon](https://mockoon.com/) - 단 몇 초 만에 모의 API 제작. [![Open-Source Software][OSS Icon]](https://github.com/mockoon/mockoon)
+* [Optics](https://optics-framework.org/) - Android, iOS, 웹, 스마트 TV 앱을 위한 오픈소스 UI 테스트 자동화 프레임워크. 테스트는 CSV 또는 YAML로 작성. [![Open-Source Software][OSS Icon]](https://github.com/mozarkai/optics-framework) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - 고급 HTTP 클라이언트.
 * [Postman](https://www.getpostman.com) - API 개발 플랫폼. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - 차세대 API 개발 도구. ![Freeware][Freeware Icon]
