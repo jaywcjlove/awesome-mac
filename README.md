@@ -1498,6 +1498,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - Customizable app launcher with fast search.
 * [BetterMouse](https://better-mouse.com) - Customize scrolling, acceleration, buttons, and gestures for third-party mice.
+* [BetterPad](https://novasynapse.com/products/betterpad/) - Independent mouse and trackpad scroll direction, smooth inertia, and per-app profiles. ![Freeware][Freeware Icon]
 * [BetterTouchTool](https://folivora.ai/) - Customize gestures, shortcuts, and input actions across trackpads, mice, and keyboards.
 * [Brink](https://brinknotch.site) - A notch on your screen edge that keeps your Notion pages and tasks one hover away. [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - Stop the Magic Mouse scrolling the page every time you click. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
@@ -1534,6 +1535,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Archive manager that supports previewing and extracting archive files [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.
+* [MultiMac](https://novasynapse.com/products/multimac/) - Share keyboard, mouse, clipboard, and screen across multiple Macs on different Apple IDs. ![Freeware][Freeware Icon]
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - Capture periodic screenshots to review your day and fill timesheets.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [OpenClip](https://getopenclip.app) - Lightweight floating action bar for macOS that turns selected text into instant actions. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
