@@ -971,6 +971,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - Open-source subtitle editor with timing and styling tools. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [AgenticCutter](https://agentic-cutter.com/en) - Video rough-cutting app with transcript review and local MP4 or ProRes export.
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - Audio device manager for saving input and output setups. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](https://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)

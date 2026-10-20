@@ -972,6 +972,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 無料のオーディオ、ビデオ、画像変換ソフトウェア。 ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - タイミング調整とスタイル編集に対応したオープンソース字幕エディター。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [AgenticCutter](https://agentic-cutter.com/en) - 文字起こしでカット内容を確認でき、ローカルで MP4 または ProRes に書き出せる動画のラフカットツール。
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - 入出力デバイス構成を保存するオーディオ管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [Ardour](https://ardour.org/) - マルチトラック録音と編集のためのクロスプラットフォームオーディオソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - マルチトラック録音と編集のための無料のオープンソース、クロスプラットフォームオーディオソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)

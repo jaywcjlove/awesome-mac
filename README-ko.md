@@ -795,6 +795,7 @@ Awesome Mac
 ## 오디오 및 비디오 도구
 
 * [Adapter](https://macroplant.com/adapter) - 무료 오디오, 비디오, 이미지 변환 소프트웨어. ![Freeware][Freeware Icon]
+* [AgenticCutter](https://agentic-cutter.com/en) - 전사 텍스트로 편집 내용을 검토하고 MP4 또는 ProRes로 로컬에 내보낼 수 있는 영상 러프 컷 도구.
 * [akou](https://geiserx.github.io/akou/) - 통화와 회의를 녹음해 화자 라벨과 함께 기기에서 전사하고, Claude Code나 Codex가 MCP로 통화 내용을 질의할 수 있는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
