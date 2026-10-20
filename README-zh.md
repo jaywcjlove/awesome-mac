@@ -486,6 +486,7 @@ Awesome Mac
     * [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - 一个超级简单的 Sketch 插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) - 直接从画板生成流程图。[![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=cn) - 出众的绘图软件。![Freeware][Freeware Icon]
+* [Snip](https://sniperaser.com/) - 本地运行的去背景、物体消除和图片放大工具，支持屏幕文字识别（OCR）。[![App Store][app-store Icon]](https://apps.apple.com/app/id1561559135?platform=mac)
 * [Sparkle](https://sparkleapp.com/) - 可视化网页设计工具。
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - macOS颜色选择器是一款具有更多功能的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783?platform=mac)
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - 专业的绘图软件。

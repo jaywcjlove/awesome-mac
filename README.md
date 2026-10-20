@@ -712,6 +712,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
     * [Sketch Toolbox Plugin Manager](https://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
+* [Snip](https://sniperaser.com/) - On-device background remover, object eraser and image upscaler with screen text capture (OCR). [![App Store][app-store Icon]](https://apps.apple.com/app/id1561559135?platform=mac)
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
 * [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783?platform=mac)
 * [Tayasui Sketches](https://www.tayasui.com/sketches/) - Professional drawing software.
