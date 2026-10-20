@@ -499,7 +499,7 @@ Awesome Mac
 ### 正規表現エディター
 
 * [Patterns](http://krillapps.com/patterns/) - 正規表現エディター。
-* [Regex](https://motionobj.com/regex/) - シンプルさを重視した正規表現テストツール。
+* [Regex](https://motionobj.com/regex/) - Swift Regex エンジンで動作し、テストケースをローカルに保存できる正規表現テストツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/regex-tester-builder/id422501241?mt=12)
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正規表現用の開発ツール。
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - クイックリファレンスガイドを内蔵した正規表現テストツール。
 

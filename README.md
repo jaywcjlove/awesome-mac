@@ -498,7 +498,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Regular Expression Editors
 
 * [Patterns](https://krillapps.com/patterns/) - Regular expression editor.
-* [Regex](https://motionobj.com/regex/) - Regular expression testing tool with an emphasis on simplicity.
+* [Regex](https://motionobj.com/regex/) - Swift Regex testing tool with locally saved test cases. [![App Store][app-store Icon]](https://apps.apple.com/us/app/regex-tester-builder/id422501241?mt=12)
 * [RegExRX](https://www.mactechnologies.com/index.php?page=downloads#regexrx) - Development tool for regular expressions.
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - A regular expression testing tool with a built-in quick reference guide.
 

@@ -317,7 +317,7 @@ Awesome Mac
 ### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器。
-* [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
+* [Regex](https://motionobj.com/regex/) - 使用 Swift Regex 引擎并可在本地保存测试用例的正则表达式测试工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/regex-tester-builder/id422501241?mt=12)
 * [Reggy](http://reggyapp.com/) - 正则表达式编辑器。[![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
 * [RegexMate](https://apps.apple.com/app/6479819388?platform=mac) - 带速查手册的正则表达式测试工具。
