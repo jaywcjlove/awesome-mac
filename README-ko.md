@@ -534,6 +534,7 @@ Awesome Mac
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 많은 데이터베이스를 지원하는 지능형 도구.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite를 위한 공식 DB 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - 유니버설 SQL 클라이언트.
+* [DBine](https://dbine.com) - 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - SQL 데이터베이스를 조회하고 관리하는 클라이언트.
 * [Navicat Premium](https://www.navicat.com/en/products/navicat-premium) - 데이터베이스 관리 도구.
 * [Paul](https://guillim.github.io/products/paul) - 기본 읽기 전용으로 데이터베이스에서 빠르게 답을 찾을 수 있게 해주는 AI 우선 PostgreSQL 클라이언트.
