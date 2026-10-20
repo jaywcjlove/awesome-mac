@@ -940,6 +940,7 @@ Awesome Mac
 * [Foxmail](http://www.foxmail.com/mac/en) - 高速メールクライアント。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - タグを使用してメールを整理し、スケジュールを管理。
 * [Mailspring](https://getmailspring.com/) - 美しく、高速で、完全にオープンソースのメールクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
+* [Mailwell](https://mailwell.app) - Gmail、Outlook、iCloud、Fastmail、あらゆる IMAP / JMAP アカウントに対応した、静かで高速なネイティブのメールアプリ。メールは Mac に保存されます。
 * [N1](https://www.nylas.com/) - 拡張可能なオープンソースのメールアプリ。開発者は無料、Proは月額$7。 ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - モダンなWebテクノロジーで構築された拡張可能なデスクトップメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - シンプルで美しく、パワフルなメールクライアント。 ![Freeware][Freeware Icon]
