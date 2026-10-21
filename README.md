@@ -1551,6 +1551,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 * [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac) - Search and discovery with AI.
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+* [Profiley](https://profiley.topc.social) - Open-source link opener that sends each link to the right browser profile, asking once per site. [![Open-Source Software][OSS Icon]](https://github.com/kamal0808/profiley) ![Freeware][Freeware Icon]
 * [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - Use one board to manage all your project information efficiently.[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
 * [Qbserve](https://qotoqot.com/qbserve/) - Automatic time tracking with projects, timesheets, and productivity insights.
 * [QDuo](https://xueshi.dev/qduo/) - Popup at the cursor that runs your own actions on selected text in any app: AI prompts, search, text transforms, Shortcuts, and shell scripts. [![Open-Source Software][OSS Icon]](https://github.com/XueshiQiao/qduo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
