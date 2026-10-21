@@ -1427,6 +1427,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Photo Review](https://danielyaa5.github.io/photo-review/) - Open-source tool that lists an iCloud Photos library by size, then compresses large videos or deletes what you pick. [![Open-Source Software][OSS Icon]](https://github.com/danielyaa5/photo-review) ![Freeware][Freeware Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
+* [Shedi](https://shedi.app/) - Mac cleaner for developers that explains every item before removal: Xcode DerivedData and simulators, Docker, node_modules and package caches, moved to the Trash first. ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 
 ### File Organization Tools
