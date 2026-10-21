@@ -3,6 +3,16 @@
   <br>
   <br>
 
+  <a href="https://www.enconvo.com/ko" target="_blank">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://www.enconvo.com/ko" target="_blank"><b>Enconvo</b> - Mac 전반에서 작동하는 AI 에이전트</a><br/>
+  <a href="https://www.enconvo.com/ko" target="_blank">화면을 보고 앱에서 작업하며, 일을 끝까지 처리합니다.</a>
+  <br><br>
+
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
