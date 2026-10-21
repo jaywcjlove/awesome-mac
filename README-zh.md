@@ -1406,6 +1406,7 @@ Awesome Mac
 * [MenuScores](https://menuscores.vercel.app/) - 一在菜单栏实时呈现体育资讯与比分的应用。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [Repose](https://github.com/fikrikarim/repose) - 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。 [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - 支持按应用和标签页调节音量、内置10段均衡器的原生风格菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
+* [MLX Node](https://mlx.app/download) - 开源菜单栏应用，让 Mac 在空闲时用 Apple 的 MLX 运行 AI 任务，并为经过验证的工作赚取 MLX 代币（一种加密资产）。 [![Open-Source Software][OSS Icon]](https://github.com/MLXapp/mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - 轻量级系统监控小组件，可在菜单栏管理的可调节桌面窗口中实时显示 CPU、内存、磁盘、网络、电池和进程信息。 [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
 * [FreeAudio](https://github.com/hakanotal/FreeAudio) - 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeAudio) ![Freeware][Freeware Icon]
 * [FreeDisplay](https://github.com/hakanotal/FreeDisplay) - 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeDisplay) ![Freeware][Freeware Icon]
