@@ -444,6 +444,7 @@ Awesome Mac
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 高速で賢いオープンソースのHexエディター。 [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - hostsファイルを管理するためのシステム環境設定パネル。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [Icon Preview](https://sindresorhus.com/icon-preview) - アプリアイコンとメニューバーアイコンをプレビューできるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509?platform=mac)
+* [iglass](https://github.com/vukkt/iglass) - iTerm2、Ghostty、kitty 向けの、1つのコマンドでインストールと削除ができるオープンソースの Liquid Glass 風ターミナルテーマ。 [![Open-Source Software][OSS Icon]](https://github.com/vukkt/iglass) ![Freeware][Freeware Icon]
 * [iHosts](https://en.toolinbox.net/iHosts/) - Mac App Store唯一の `/etc/hosts` エディター。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1102004240?platform=mac)
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - メタデータ、TestFlight、レビュー、分析、ローカライズを管理できるApp Store Connectツール。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [SaneHosts](https://sanehosts.com) - hostsベースの広告・トラッカーブロッカー。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneHosts)
