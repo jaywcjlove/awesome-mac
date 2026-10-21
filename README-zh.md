@@ -642,6 +642,7 @@ Awesome Mac
 * [AQBot](https://app.aqbot.top/) - 开源桌面 AI 工作台，支持多服务商对话、智能体工作流、知识库、MCP 工具和 OpenAI 兼容 API 网关。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Atomic Agent](https://atomicagent.io/) - 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - 支持本地和云模型并集成 MCP 的开源 AI 聊天客户端。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
+* [Atticus](https://saarthurr.github.io/atticus-mac/) - 开源语音助手，使用你的 Claude 订阅运行，做过一次的任务就会学会，支持听写、屏幕指引和后台代理。 [![Open-Source Software][OSS Icon]](https://github.com/SaarthurR/atticus-mac) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
