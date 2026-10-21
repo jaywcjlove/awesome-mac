@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:22:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Borne</title>
+      <link>https://borne.pasahome.org</link>
+      <guid isPermaLink="false">7c856cf604d7a0ebb6630c070a010ac7822dc329:Borne</guid>
+      <pubDate>Wed, 21 Oct 2026 07:22:46 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: Borne
+Description: Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included.
+Website: https://borne.pasahome.org
+Commit: Add Borne to Gaming Software (#3673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Borne<br/>Description: Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included.<br/>Website: https://borne.pasahome.org<br/>Commit: Add Borne to Gaming Software (#3673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329]]></content:encoded>
+    </item>
     <item>
       <title>Perch</title>
       <link>https://perchapp.dev</link>
@@ -693,20 +707,6 @@ Website: https://memstats.chungxon.dev/
 Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MemStats<br/>Description: Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap.<br/>Website: https://memstats.chungxon.dev/<br/>Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271]]></content:encoded>
-    </item>
-    <item>
-      <title>FinderRight</title>
-      <link>https://github.com/funny-dog/FinderRight</link>
-      <guid isPermaLink="false">c7a67d5567302ea9cbf22928acefc2bef6ede743:FinderRight</guid>
-      <pubDate>Sat, 10 Oct 2026 16:10:28 GMT</pubDate>
-      <category>Utilities / Finder Tools</category>
-      <description>Category: Utilities / Finder Tools
-App: FinderRight
-Description: Open-source Finder extension that adds new file, open in terminal, copy path, and cut &amp; paste to the right-click menu.
-Open Source: https://github.com/funny-dog/FinderRight
-Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743</description>
-      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: FinderRight<br/>Description: Open-source Finder extension that adds new file, open in terminal, copy path, and cut &amp; paste to the right-click menu.<br/>Open Source: https://github.com/funny-dog/FinderRight<br/>Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743]]></content:encoded>
     </item>
   </channel>
 </rss>
