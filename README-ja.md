@@ -472,6 +472,7 @@ Awesome Mac
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - システムペーストボードを検査するツール。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709?platform=mac)
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Codeセッションの閲覧、差分確認、コマンド再実行ができる補助ツール。 [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI コーディングセッションとプロジェクト管理用の AI ネイティブ GUI。分割ペイン、Git 統合、AI 使用量追跡機能を備えています。
+* [Portent](https://getportent.pages.dev) - 開発サーバーとその起動元、実行中のClaude Codeセッション、Claudeプランの使用量をメニューバーに表示するアプリ。 ![Native App][Native Icon]
 * [PortKiller](https://github.com/productdevbook/port-killer) - ポート監視、転送・トンネル管理、プロセス終了のためのポート管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PPRows](https://github.com/jkpang/PPRows) - コードの行数を計算するアプリケーション。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - クリーンで強力なプロセスモニター。
