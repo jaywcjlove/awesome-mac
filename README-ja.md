@@ -1327,6 +1327,7 @@ Awesome Mac
 * [Blink](https://github.com/megootronic/Blink) - メニューバーで実行中の開発サーバーと iOS シミュレータを見守る小さなロボット。ターミナルに戻らずにサーバーを再起動できる。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Boring Notch](https://theboring.name/) - MacBookのノッチを音楽とファイルコントロールセンターに変える。 [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 * [Bye AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - 実行中のプロセスを素早く表示・終了するためのミニマルなメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
+* [Cybokron Dock Groups](https://cybokron.com/ja/dock-groups/) - アプリとWebサイトをグループにまとめ、グループ単位で一括に開く・隠す・閉じることができるメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/ercanatay/cybokron-dock-groups) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DayBar](https://wangchujiang.com/daybar/) - メニューバーにローカルの日付とリマインダーイベントを表示するアプリケーション。 [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Dato](https://sindresorhus.com/dato) - カレンダー、イベント、タイムゾーン付きのより良いメニューバー時計。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107?platform=mac)
 * [Dimble](https://dimble.fif7y.com) - macOS 27 の新しいメニューバー向けに作られたメニューバー管理ツール。不要なアイコンを必要になるまで隠す。 [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]

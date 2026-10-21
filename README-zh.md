@@ -1378,6 +1378,7 @@ Awesome Mac
 * [Blink](https://github.com/megootronic/Blink) - 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Boring Notch](https://theboring.name/) - 让 MacBook 刘海变身音乐与文件控制中心。 [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 * [BitBar](https://getbitbar.com/) - 支持使用各种语言将信息展示到 Mac OS 的菜单栏。[![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
+* [Cybokron Dock Groups](https://cybokron.com/zh/dock-groups/) - 菜单栏应用，可将应用和网站分组，一次性打开、隐藏或关闭整个分组。 [![Open-Source Software][OSS Icon]](https://github.com/ercanatay/cybokron-dock-groups) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DayBar](https://wangchujiang.com/daybar/) - 菜单栏本地日历(农历)和提醒事件应用。 [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Dimble](https://dimble.fif7y.com) - 为 macOS 27 全新菜单栏打造的菜单栏管理工具，隐藏不需要的图标，需要时再显示。 [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。
