@@ -500,6 +500,7 @@ Awesome Mac
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS非公式WWDCアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 複数バージョンのXcodeをインストール・切り替えできるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Xcode用のSwiftおよびiOSコードスニペットを探索、表示、編集するツール。 [![OSS][OSS Icon]](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware][Freeware Icon]
+* [Yenpo](https://yenpo.app/) - 全文検索、Git差分、引用箇所にリンクする回答を返すオプションのAIリーダーを備えた、ネイティブの読み取り専用コードリーダー。 ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - デザイナーとデベロッパーの間の作業を支援するコラボレーションツール。 ![Freeware][Freeware Icon]
 * [ZOC Terminal](https://www.emtec.com/zoc/index.html) - SSH、telnet接続やその他のプロトコルをサポートするターミナルエミュレーター。
 * [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac) - .nibから.xibへのコンバーター [![App Store][app-store Icon]](https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac)
