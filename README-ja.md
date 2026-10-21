@@ -1743,6 +1743,7 @@ Awesome Mac
 * [RPCS3](https://rpcs3.net) - オープンソースのPlayStation 3エミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
 * [Ryubing](https://github.com/Ryubing) - 開発終了したSwitchエミュレーターRyujinxのフォーク。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 * [Suyu](https://suyu.dev/) - 馴染みのある、オープンソースで強力なNintendo Switchエミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
+* [Vermut](https://vermut.vercel.app/) - Wine を自動でセットアップし、Apple Silicon Mac で Steam や Epic の Windows ゲームを遊べる無料の SwiftUI アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Contessafry/Vermut)
 * [Whisky](https://github.com/frankea/Whisky) - macOSでWindowsアプリを実行するためのツール。SwiftUIで構築され、D3DMetalとDXVKバックエンドに対応。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 
 ## リモートログインソフトウェア
