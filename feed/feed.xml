@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:34:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Frink</title>
+      <link>https://frink.dev</link>
+      <guid isPermaLink="false">d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6:Frink</guid>
+      <pubDate>Wed, 21 Oct 2026 06:34:40 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Frink
+Description: Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.
+Website: https://frink.dev
+Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Frink<br/>Description: Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.<br/>Website: https://frink.dev<br/>Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6]]></content:encoded>
+    </item>
     <item>
       <title>Optics Framework</title>
       <link>https://optics-framework.org/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Kernel-Hunter/boost
 Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Boost<br/>Description: Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that&apos;s genuinely safe to reclaim.<br/>Open Source: https://github.com/Kernel-Hunter/boost<br/>Commit: Add Boost to Cleanup and Uninstall (EN/ZH/JA/KO) (#2938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afaf8f482f91eb5653fbfbaf4570d2963fcf03d4]]></content:encoded>
-    </item>
-    <item>
-      <title>Caplo</title>
-      <link>https://github.com/icloudza/caplo</link>
-      <guid isPermaLink="false">7dbe3d7170aba42aad355142e230f0ca710481a9:Caplo</guid>
-      <pubDate>Sat, 10 Oct 2026 06:38:39 GMT</pubDate>
-      <category>Design and Product / Screen Recording</category>
-      <description>Category: Design and Product / Screen Recording
-App: Caplo
-Description: Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
-Open Source: https://github.com/icloudza/caplo
-Commit: Add Caplo fix #3273
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dbe3d7170aba42aad355142e230f0ca710481a9</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Caplo<br/>Description: Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.<br/>Open Source: https://github.com/icloudza/caplo<br/>Commit: Add Caplo fix #3273<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7dbe3d7170aba42aad355142e230f0ca710481a9]]></content:encoded>
     </item>
   </channel>
 </rss>
