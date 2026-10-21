@@ -1176,6 +1176,7 @@ Awesome Mac
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 使用手机指纹完成身份验证的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 用于监控开源依赖漏洞的服务。
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - 用于保护 USB 端口免受未授权访问的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
+* [Wardlume](https://wardlume.github.io) - 在屏幕保持可见、AI 编程代理继续运行时锁定键盘、鼠标和触控板的输入锁工具，支持 Touch ID 和 Apple Watch 解锁。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 用于查看文件代码签名信息的 Finder 扩展。 ![Freeware][Freeware Icon]
 
 ## 科学上网
