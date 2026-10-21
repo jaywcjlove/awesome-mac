@@ -1734,6 +1734,7 @@ Awesome Mac
 * [Core Tunnel](https://codinn.com/tunnel/) - SSH接続を管理するアプリケーション。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/core-tunnel/id1354318707?platform=mac)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度監視、ファン制御、ハードウェア診断でMacを涼しく健全に保つ。
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
+* [TurboKiller](https://turbokiller.nicotech.cc/) - macOS 13以降のIntel MacでIntel Turbo Boostをオン・オフに切り替え、性能・温度・ファンの騒音を調整するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/nicotech-studio/turbo-killer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
 
