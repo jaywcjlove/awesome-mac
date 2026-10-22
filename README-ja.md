@@ -1328,6 +1328,7 @@ Awesome Mac
 * [Dozer](https://github.com/Mortennn/Dozer) - macOSのメニューバーアイテムを非表示にする。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOSのメニューバーの色と形を変えるツール。画面に合わせたライブカラー、グラデーション、音楽ビジュアライザー、アプリごとのプロファイル。
 * [DynamicHorizon](https://dynamichorizon.app) - ノッチにメディア操作、通知、システム表示を追加するツール。
+* [DynamicNotch](https://github.com/jackson-storm/DynamicNotch) - MacBook のノッチを Dynamic Island 風のサーフェスに変え、メディア操作、ライブアクティビティ、システムアラートを表示する。 [![Open-Source Software][OSS Icon]](https://github.com/jackson-storm/DynamicNotch) ![Freeware][Freeware Icon]
 * [Eye Timer](https://adelmaer.com/eyetimer) - 目の疲れを防ぐための休憩タイマーMacアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/eye-timer/id1485856873?platform=mac)
 * [Fishing Funds](https://ff.1zilc.top) - メニューバーに中国のファンドのリアルタイムトレンドを表示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - シームレスなGoogle Drive同期のためのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
