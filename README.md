@@ -1601,6 +1601,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - Tiling window manager that works out of the box with no config file, has a native Settings app, and updates itself from inside the app. ![Freeware][Freeware Icon]
+* [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Remember and restore window layouts per external monitor, including Spaces, with DDC brightness keys on Apple Silicon. [![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [MacsyZones](https://macsyzones.com/) - Organize your windows with ease and boost your productivity. [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
 * [Lasso](https://thelasso.app) - Intuitive and easy to use grid-based window manager.
