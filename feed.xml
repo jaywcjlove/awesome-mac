@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:20:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fotohaus</title>
+      <link>https://github.com/aelnagish/Fotohaus</link>
+      <guid isPermaLink="false">a39819f5e6f0261c3c39a6c2775a6f410edb5d40:Fotohaus</guid>
+      <pubDate>Thu, 22 Oct 2026 01:20:07 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Fotohaus
+Description: Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing.
+Open Source: https://github.com/aelnagish/Fotohaus
+Commit: Add Fotohaus (#3675)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Fotohaus<br/>Description: Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing.<br/>Open Source: https://github.com/aelnagish/Fotohaus<br/>Commit: Add Fotohaus (#3675)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40]]></content:encoded>
+    </item>
     <item>
       <title>Shiyin</title>
       <link>https://shiyin.weibuilds.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/XRSec/TunnelFlow
 Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: TunnelFlow<br/>Description: Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards.<br/>Open Source: https://github.com/XRSec/TunnelFlow<br/>Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476]]></content:encoded>
-    </item>
-    <item>
-      <title>inlaut</title>
-      <link>https://inlaut.de</link>
-      <guid isPermaLink="false">5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c:inlaut</guid>
-      <pubDate>Sun, 11 Oct 2026 01:39:30 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: inlaut
-Description: Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor.
-Website: https://inlaut.de
-Commit: Add inlaut to Voice-to-Text (#3289)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: inlaut<br/>Description: Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor.<br/>Website: https://inlaut.de<br/>Commit: Add inlaut to Voice-to-Text (#3289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5cc7d2c70337d5b5e39e2c333e9099a1bc844c2c]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:20:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fotohaus</title>
+      <link>https://github.com/aelnagish/Fotohaus</link>
+      <guid isPermaLink="false">a39819f5e6f0261c3c39a6c2775a6f410edb5d40:Fotohaus</guid>
+      <pubDate>Thu, 22 Oct 2026 01:20:07 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Fotohaus
+Description: 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자.
+Open Source: https://github.com/aelnagish/Fotohaus
+Commit: Add Fotohaus (#3675)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Fotohaus<br/>Description: 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자.<br/>Open Source: https://github.com/aelnagish/Fotohaus<br/>Commit: Add Fotohaus (#3675)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40]]></content:encoded>
+    </item>
     <item>
       <title>Shiyin</title>
       <link>https://shiyin.weibuilds.com</link>
@@ -693,20 +707,6 @@ Website: https://memstats.chungxon.dev/
 Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MemStats<br/>Description: 사용자 계정별 메모리 사용량을 나누어 보여주고, 헬퍼 프로세스를 앱 단위로 묶으며, 메모리 압력과 스왑을 표시하는 메뉴 바 메모리 모니터.<br/>Website: https://memstats.chungxon.dev/<br/>Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271]]></content:encoded>
-    </item>
-    <item>
-      <title>FinderRight</title>
-      <link>https://github.com/funny-dog/FinderRight</link>
-      <guid isPermaLink="false">c7a67d5567302ea9cbf22928acefc2bef6ede743:FinderRight</guid>
-      <pubDate>Sat, 10 Oct 2026 16:10:28 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: FinderRight
-Description: Finder 우클릭 메뉴에 새 파일 만들기, 터미널 열기, 경로 복사, 잘라내기/붙여넣기를 추가하는 오픈소스 확장.
-Open Source: https://github.com/funny-dog/FinderRight
-Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: FinderRight<br/>Description: Finder 우클릭 메뉴에 새 파일 만들기, 터미널 열기, 경로 복사, 잘라내기/붙여넣기를 추가하는 오픈소스 확장.<br/>Open Source: https://github.com/funny-dog/FinderRight<br/>Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743]]></content:encoded>
     </item>
   </channel>
 </rss>
