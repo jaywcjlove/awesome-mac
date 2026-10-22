@@ -650,6 +650,7 @@ Awesome Mac
 
 ### 기타 도구
 
+* [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - 스토리보드, 이미지·영상 생성과 편집, 에셋 관리, ComfyUI 워크플로를 통합한 가볍고 무료인 소스 공개형 AI 창작 캔버스. ![Freeware][Freeware Icon]
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Stable Diffusion을 사용한 텍스트-이미지 생성. ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - 이미지 크기 조정 및 최적화. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - 녹화나 화면 공유 중 민감한 화면 내용을 즉시 흐리게 처리하는 도구.

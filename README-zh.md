@@ -577,6 +577,7 @@ Awesome Mac
 
 ### 其它工具
 
+* [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - 免费、轻量且源码公开的 AI 创作画布，集成分镜、图像与视频生成、剪辑、资产管理和 ComfyUI 工作流。 ![Freeware][Freeware Icon]
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑 png 图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 离线批量图片去背景工具。
 * [AppIconBuilder(图标构建)](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac) - App图标多平台一键导出。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac)
