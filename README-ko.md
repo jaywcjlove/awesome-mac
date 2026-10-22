@@ -1013,6 +1013,7 @@ Awesome Mac
 * [cctop](https://cctop.app) - AI 코딩 세션(Claude Code, Codex, opencode, pi)의 상태를 메뉴 막대에서 보여주고 해당 터미널 창이나 에디터 창으로 바로 이동하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 실시간 충전 상태와 전력 사용량을 보여주는 메뉴 막대 배터리 모니터입니다. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 맥북 노치를 다이나믹 아일랜드 스타일의 Live Activity로 바꿔 Claude Code와 Codex CLI의 사용 한도와 지출을 보여줍니다. 모든 데이터는 로컬에서만 처리되며 텔레메트리는 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
+* [CornerGlow](https://saither.com/cornerglow/) - 외장 디스플레이에 둥근 모서리를 더해 MacBook 내장 화면과 맞춰 주는 앱. ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - Apple Silicon Mac용 팬 제어 도구. 메뉴 막대 앱, 온도 기반 프로필, CLI를 제공. [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Perch](https://perchapp.dev) - Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
