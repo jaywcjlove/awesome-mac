@@ -416,6 +416,7 @@ Awesome Mac
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
+* [iglass](https://github.com/vukkt/iglass) - 명령어 하나로 설치하고 제거할 수 있는 iTerm2, Ghostty, kitty용 오픈 소스 Liquid Glass 스타일 터미널 테마. [![Open-Source Software][OSS Icon]](https://github.com/vukkt/iglass) ![Freeware][Freeware Icon]
 * [ImHex](https://imhex.werwolv.net/) - 역공학 및 프로그래머를 위한 16진수 편집기. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - 메타데이터, TestFlight, 리뷰, 분석, 현지화를 관리하는 App Store Connect 도구. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyconnect-macos)
 * [JET Pilot](https://jet-pilot.app/) - 여러 클러스터, 네임스페이스, 클라우드 계정을 넘나들며 작업할 수 있는 오픈 소스 Kubernetes 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
