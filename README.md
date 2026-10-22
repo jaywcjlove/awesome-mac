@@ -1660,6 +1660,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [Strata Files](https://stratafiles.app) - Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
+* [Switchback](https://getswitchback.io) - Adds Windows Explorer features like tabs, a path bar and cut & paste inside the real Finder.
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 

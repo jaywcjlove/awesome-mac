@@ -1090,6 +1090,7 @@ Awesome Mac
 * [Shuffle](https://shuffleapp.co) - Rust로 개발된 GPU 렌더링 고속 파일 관리자이자 Finder 대안. [![Open-Source Software][OSS Icon]](https://github.com/WizenPainter/shuffle) ![Freeware][Freeware Icon]
 * [Strata Files](https://stratafiles.app) - 즉시 검색, 실시간 폴더 크기, 디스크 사용량 맵, 듀얼 패널을 갖춘 오픈 소스 파일 관리자이자 Finder 대안. [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 선택한 파일이나 폴더를 지정 앱으로 빠르게 여는 Finder 확장.
+* [Switchback](https://getswitchback.io) - 실제 Finder 안에 탭, 경로 막대, 잘라내기·붙여넣기 등 Windows 탐색기 기능을 추가합니다.
 * [Keka](https://www.keka.io/) - 다양한 포맷을 지원하는 오픈 소스 압축/해제 도구. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 다양한 일반 압축 포맷을 압축하고 해제하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
