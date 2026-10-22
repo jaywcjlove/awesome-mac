@@ -699,6 +699,7 @@ Awesome Mac
 * [Discord](https://discordapp.com/) - 集语音、文字和社区于一体的聊天平台。
 * [Franz](http://meetfranz.com/) - 将多个聊天服务整合到一起的通讯工具。![Freeware][Freeware Icon]
 * [Ferdium](https://ferdium.org/) - 将多个 Web 应用整合到一起的消息工作区。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
+* [FinchGram](https://www.finchgram.com/) - 基于 TDLib 的非官方开源 Telegram 客户端，内置截图工具、WebDAV 下载，并可选择开启供 AI 助手使用的 MCP 接入。 [![Open-Source Software][OSS Icon]](https://github.com/FinchGram/FinchGram) ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 面向开发者和 GitHub 社区的聊天平台。 ![Freeware][Freeware Icon]
 * [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 * [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/weibox/id789066512?platform=mac)
