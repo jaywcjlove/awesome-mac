@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:56:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>IconCraft</title>
+      <link>https://iconcraft.co</link>
+      <guid isPermaLink="false">9709018e42c77aa002d336b09256077ebd66cc7a:IconCraft</guid>
+      <pubDate>Thu, 22 Oct 2026 04:56:34 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: IconCraft
+Description: Give any Mac app the name and icon you already know. The app underneath does not change.
+Website: https://iconcraft.co
+Commit: Add IconCraft (#3713)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: IconCraft<br/>Description: Give any Mac app the name and icon you already know. The app underneath does not change.<br/>Website: https://iconcraft.co<br/>Commit: Add IconCraft (#3713)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a]]></content:encoded>
+    </item>
     <item>
       <title>Fotohaus</title>
       <link>https://github.com/aelnagish/Fotohaus</link>
@@ -693,20 +707,6 @@ Website: https://findly.rocavence.com
 Commit: Add Findly to Finder Tools (#3371)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f71e77d606fe46277569c0c23306631055e04819</description>
       <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Findly<br/>Description: Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps.<br/>Website: https://findly.rocavence.com<br/>Commit: Add Findly to Finder Tools (#3371)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f71e77d606fe46277569c0c23306631055e04819]]></content:encoded>
-    </item>
-    <item>
-      <title>TunnelFlow</title>
-      <link>https://github.com/XRSec/TunnelFlow</link>
-      <guid isPermaLink="false">bb0c1ae065b615b09a027e0a80be077fa5f70476:TunnelFlow</guid>
-      <pubDate>Sun, 11 Oct 2026 07:25:46 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: TunnelFlow
-Description: Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards.
-Open Source: https://github.com/XRSec/TunnelFlow
-Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: TunnelFlow<br/>Description: Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards.<br/>Open Source: https://github.com/XRSec/TunnelFlow<br/>Commit: Add TunnelFlow to Developer Utilities (EN/ZH/JA/KO) (#3226)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb0c1ae065b615b09a027e0a80be077fa5f70476]]></content:encoded>
     </item>
   </channel>
 </rss>
