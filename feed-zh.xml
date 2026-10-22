@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:33:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shiyin</title>
+      <link>https://shiyin.weibuilds.com</link>
+      <guid isPermaLink="false">acad22d8305af8aa0a1bae167a4e3273b44391b9:Shiyin</guid>
+      <pubDate>Thu, 22 Oct 2026 00:33:20 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: Shiyin
+Description: 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。
+Website: https://shiyin.weibuilds.com
+Commit: Add Shiyin to Audio Record and Process (#3711)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Shiyin<br/>Description: 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。<br/>Website: https://shiyin.weibuilds.com<br/>Commit: Add Shiyin to Audio Record and Process (#3711)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9]]></content:encoded>
+    </item>
     <item>
       <title>Borne</title>
       <link>https://borne.pasahome.org</link>
@@ -693,20 +707,6 @@ Website: https://memstats.chungxon.dev/
 Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MemStats<br/>Description: 菜单栏内存监控工具，按用户账户拆分内存占用，将辅助进程归并到所属应用，并显示内存压力和交换空间。<br/>Website: https://memstats.chungxon.dev/<br/>Commit: Add MemStats to Menu Bar Tools (EN/ZH/JA/KO) (#3315)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e556956b6212426b69d441986baae475da7d4271]]></content:encoded>
-    </item>
-    <item>
-      <title>FinderRight</title>
-      <link>https://github.com/funny-dog/FinderRight</link>
-      <guid isPermaLink="false">c7a67d5567302ea9cbf22928acefc2bef6ede743:FinderRight</guid>
-      <pubDate>Sat, 10 Oct 2026 16:10:28 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: FinderRight
-Description: 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。
-Open Source: https://github.com/funny-dog/FinderRight
-Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: FinderRight<br/>Description: 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。<br/>Open Source: https://github.com/funny-dog/FinderRight<br/>Commit: Add FinderRight to Finder Tools (EN/ZH/JA/KO) (#3347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7a67d5567302ea9cbf22928acefc2bef6ede743]]></content:encoded>
     </item>
   </channel>
 </rss>
