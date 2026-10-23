@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:52:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpaceMap</title>
+      <link>https://github.com/renkagod/spacemap</link>
+      <guid isPermaLink="false">4e5e16dc0f3e3e2969beb87012db91b1708b2628:SpaceMap</guid>
+      <pubDate>Fri, 23 Oct 2026 02:52:23 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: SpaceMap
+Description: Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.
+Open Source: https://github.com/renkagod/spacemap
+Commit: Add SpaceMap to Cleanup and Uninstall (#3752)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: SpaceMap<br/>Description: Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.<br/>Open Source: https://github.com/renkagod/spacemap<br/>Commit: Add SpaceMap to Cleanup and Uninstall (#3752)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628]]></content:encoded>
+    </item>
     <item>
       <title>Voltip</title>
       <link>https://voltip.firlab.app/</link>
@@ -693,20 +707,6 @@ Website: https://geiserx.github.io/akou/
 Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: akou<br/>Description: Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP.<br/>Website: https://geiserx.github.io/akou/<br/>Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc]]></content:encoded>
-    </item>
-    <item>
-      <title>Sitch</title>
-      <link>https://phalladar.github.io/Sitch/</link>
-      <guid isPermaLink="false">8f416f2c3647dbc86777e8c5d34e9a12d6754a45:Sitch</guid>
-      <pubDate>Mon, 12 Oct 2026 05:48:02 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Sitch
-Description: Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.
-Website: https://phalladar.github.io/Sitch/
-Commit: Add Sitch to Screenshot Tools (#3386)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Sitch<br/>Description: Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.<br/>Website: https://phalladar.github.io/Sitch/<br/>Commit: Add Sitch to Screenshot Tools (#3386)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45]]></content:encoded>
     </item>
   </channel>
 </rss>

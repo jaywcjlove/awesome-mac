@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:52:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpaceMap</title>
+      <link>https://github.com/renkagod/spacemap</link>
+      <guid isPermaLink="false">4e5e16dc0f3e3e2969beb87012db91b1708b2628:SpaceMap</guid>
+      <pubDate>Fri, 23 Oct 2026 02:52:23 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: SpaceMap
+Description: 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。
+Open Source: https://github.com/renkagod/spacemap
+Commit: Add SpaceMap to Cleanup and Uninstall (#3752)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: SpaceMap<br/>Description: 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。<br/>Open Source: https://github.com/renkagod/spacemap<br/>Commit: Add SpaceMap to Cleanup and Uninstall (#3752)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628]]></content:encoded>
+    </item>
     <item>
       <title>Voltip</title>
       <link>https://voltip.firlab.app/zh/</link>
@@ -693,20 +707,6 @@ Website: https://phalladar.github.io/Sitch/
 Commit: Add Sitch to Screenshot Tools (#3386)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Sitch<br/>Description: Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。<br/>Website: https://phalladar.github.io/Sitch/<br/>Commit: Add Sitch to Screenshot Tools (#3386)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45]]></content:encoded>
-    </item>
-    <item>
-      <title>Sentinel</title>
-      <link>https://sentinel-james-murphy.pages.dev/</link>
-      <guid isPermaLink="false">f96dc8046c7cd89ad5f096583516453b7be6f202:Sentinel</guid>
-      <pubDate>Mon, 12 Oct 2026 05:26:52 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: Sentinel
-Description: 用通俗易懂的语言检查 Mac 安全设置，并列出 Wi-Fi 上的设备。
-Website: https://sentinel-james-murphy.pages.dev/
-Commit: Add Sentinel to Security Tools (#3321)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: Sentinel<br/>Description: 用通俗易懂的语言检查 Mac 安全设置，并列出 Wi-Fi 上的设备。<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
     </item>
   </channel>
 </rss>
