@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 02:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:25:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClawTank</title>
+      <link>https://github.com/HMAKT99/ClawTank</link>
+      <guid isPermaLink="false">a5ad1ec0190358637fef4fe9bbf0febecba3bb15:ClawTank</guid>
+      <pubDate>Fri, 23 Oct 2026 03:25:46 GMT</pubDate>
+      <category>远程协助</category>
+      <description>Category: 远程协助
+App: ClawTank
+Description: 开源的 RDP 服务器，可使用 Windows App、mstsc 等标准远程桌面客户端连接 Mac。[![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank)
+Open Source: https://github.com/HMAKT99/ClawTank
+Commit: Add ClawTank to Remote Login Software (#3768)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15</description>
+      <content:encoded><![CDATA[Category: 远程协助<br/>App: ClawTank<br/>Description: 开源的 RDP 服务器，可使用 Windows App、mstsc 等标准远程桌面客户端连接 Mac。[![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank)<br/>Open Source: https://github.com/HMAKT99/ClawTank<br/>Commit: Add ClawTank to Remote Login Software (#3768)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15]]></content:encoded>
+    </item>
     <item>
       <title>SpaceMap</title>
       <link>https://github.com/renkagod/spacemap</link>
@@ -693,20 +707,6 @@ Website: https://geiserx.github.io/akou/
 Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: akou<br/>Description: 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。<br/>Website: https://geiserx.github.io/akou/<br/>Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc]]></content:encoded>
-    </item>
-    <item>
-      <title>Sitch</title>
-      <link>https://phalladar.github.io/Sitch/</link>
-      <guid isPermaLink="false">8f416f2c3647dbc86777e8c5d34e9a12d6754a45:Sitch</guid>
-      <pubDate>Mon, 12 Oct 2026 05:48:02 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Sitch
-Description: Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。
-Website: https://phalladar.github.io/Sitch/
-Commit: Add Sitch to Screenshot Tools (#3386)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Sitch<br/>Description: Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。<br/>Website: https://phalladar.github.io/Sitch/<br/>Commit: Add Sitch to Screenshot Tools (#3386)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f416f2c3647dbc86777e8c5d34e9a12d6754a45]]></content:encoded>
     </item>
   </channel>
 </rss>
