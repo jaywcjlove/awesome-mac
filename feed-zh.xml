@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:39:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Voltip</title>
+      <link>https://voltip.firlab.app/zh/</link>
+      <guid isPermaLink="false">aecfb6e844152c43d0049b392c5c05b231d4bb01:Voltip</guid>
+      <pubDate>Fri, 23 Oct 2026 01:39:51 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Voltip
+Description: 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。
+Website: https://voltip.firlab.app/zh/
+Commit: Add Voltip to Voice-to-Text (#3751)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Voltip<br/>Description: 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。<br/>Website: https://voltip.firlab.app/zh/<br/>Commit: Add Voltip to Voice-to-Text (#3751)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01]]></content:encoded>
+    </item>
     <item>
       <title>AI Canvas Tauri</title>
       <link>https://github.com/Tenney95/AI-Canvas-tauri</link>
@@ -693,20 +707,6 @@ Website: https://sentinel-james-murphy.pages.dev/
 Commit: Add Sentinel to Security Tools (#3321)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: Sentinel<br/>Description: 用通俗易懂的语言检查 Mac 安全设置，并列出 Wi-Fi 上的设备。<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
-    </item>
-    <item>
-      <title>Keyameleon</title>
-      <link>https://keyameleon.app/</link>
-      <guid isPermaLink="false">e9e1da37b6c741c9adfe43d45ec42e20ecda6f92:Keyameleon</guid>
-      <pubDate>Mon, 12 Oct 2026 03:34:55 GMT</pubDate>
-      <category>输入法</category>
-      <description>Category: 输入法
-App: Keyameleon
-Description: 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。
-Website: https://keyameleon.app/
-Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92</description>
-      <content:encoded><![CDATA[Category: 输入法<br/>App: Keyameleon<br/>Description: 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。<br/>Website: https://keyameleon.app/<br/>Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92]]></content:encoded>
     </item>
   </channel>
 </rss>
