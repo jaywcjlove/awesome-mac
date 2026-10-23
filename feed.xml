@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:25:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MD QuickLook</title>
+      <link>https://github.com/armamut/md-quicklook</link>
+      <guid isPermaLink="false">26a260a08d256e360b583f165cb0e3b10fc90d73:MD QuickLook</guid>
+      <pubDate>Fri, 23 Oct 2026 00:25:15 GMT</pubDate>
+      <category>QuickLook Plugins</category>
+      <description>Category: QuickLook Plugins
+App: MD QuickLook
+Description: Native Quick Look extension for Markdown with syntax highlighting, math, and Mermaid diagrams, without a web engine.
+Open Source: https://github.com/armamut/md-quicklook
+Commit: Add MD QuickLook to QuickLook Plugins (#3776)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73</description>
+      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: MD QuickLook<br/>Description: Native Quick Look extension for Markdown with syntax highlighting, math, and Mermaid diagrams, without a web engine.<br/>Open Source: https://github.com/armamut/md-quicklook<br/>Commit: Add MD QuickLook to QuickLook Plugins (#3776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73]]></content:encoded>
+    </item>
     <item>
       <title>Kumquat</title>
       <link>https://github.com/TheAlexRay/kumquat</link>
@@ -693,20 +707,6 @@ Website: https://keyameleon.app/
 Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92</description>
       <content:encoded><![CDATA[Category: Input Methods<br/>App: Keyameleon<br/>Description: Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.<br/>Website: https://keyameleon.app/<br/>Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92]]></content:encoded>
-    </item>
-    <item>
-      <title>Headroom</title>
-      <link>https://headroom-app.org</link>
-      <guid isPermaLink="false">03c3e1bd6002ca0847542c02add03c5a578d7a25:Headroom</guid>
-      <pubDate>Mon, 12 Oct 2026 03:30:34 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Headroom
-Description: Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.
-Website: https://headroom-app.org
-Commit: Add Headroom to Cleanup and Uninstall (#3356)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c3e1bd6002ca0847542c02add03c5a578d7a25</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Headroom<br/>Description: Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.<br/>Website: https://headroom-app.org<br/>Commit: Add Headroom to Cleanup and Uninstall (#3356)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c3e1bd6002ca0847542c02add03c5a578d7a25]]></content:encoded>
     </item>
   </channel>
 </rss>
