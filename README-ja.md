@@ -860,6 +860,7 @@ Awesome Mac
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - Claude Code向けのメニューバー型ブロックピッカーおよびセッションブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 複数の大規模言語モデル（LLM）プロバイダーをサポートするデスクトップクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - AIモデル/LLM（GPT、Claude、Gemini、Ollama...）向けのユーザーフレンドリーなデスクトップクライアントアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [Codealong](https://www.codealong.com) - マシン上のすべての Claude Code、Codex、OpenCode、Antigravity、Cursor セッションをリポジトリ、ワークツリー、PR ごとにまとめて追跡し、承認や返信のためのフローティングバーとアカウントごとのプラン使用量を備えたオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/codealong/codealong) ![Freeware][Freeware Icon]
 * [CodexBar](https://codexbar.app) - ログイン不要でOpenAI CodexとClaude Codeの使用状況を表示。 [![Open-Source Software][OSS Icon]](https://github.com/steipete/CodexBar) ![Freeware][Freeware Icon]
 * [Cove](https://huyanxius.github.io/Cove/) - Claude Code と Codex 向けのネイティブ入力欄、セッションサイドバー、差分ビューアを備えた、Apple Silicon 用のオープンソースプレビュー版。 [![Open-Source Software][OSS Icon]](https://github.com/huyanxius/Cove) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
