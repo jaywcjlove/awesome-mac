@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:21:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoWork OS</title>
+      <link>https://coworkosapp.com</link>
+      <guid isPermaLink="false">9ea5e25b26663dcdc51a78e484ddb10aa313b83f:CoWork OS</guid>
+      <pubDate>Fri, 23 Oct 2026 07:21:53 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: CoWork OS
+Description: Open-source desktop AI agent for files, browser, and chat-app tasks that works with your own API keys or local models.
+Website: https://coworkosapp.com
+Commit: Add CoWork OS (#3638)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: CoWork OS<br/>Description: Open-source desktop AI agent for files, browser, and chat-app tasks that works with your own API keys or local models.<br/>Website: https://coworkosapp.com<br/>Commit: Add CoWork OS (#3638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f]]></content:encoded>
+    </item>
     <item>
       <title>FinchGram</title>
       <link>https://www.finchgram.com/</link>
@@ -693,20 +707,6 @@ Website: https://songtide.dcoded.dev
 Commit: Add Songtide to Audio and Video Tools (#3409)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Songtide<br/>Description: Native YouTube Music app with an equalizer, visualizer and synced lyrics.<br/>Website: https://songtide.dcoded.dev<br/>Commit: Add Songtide to Audio and Video Tools (#3409)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b16481c5250c4512fd9ef1489a8a5b59001092ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Lemma</title>
-      <link>https://github.com/fus3r/lemma</link>
-      <guid isPermaLink="false">a5f01a69a8916c289a9a64c431b1af65cd825df1:Lemma</guid>
-      <pubDate>Tue, 13 Oct 2026 09:03:06 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: Lemma
-Description: PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.
-Open Source: https://github.com/fus3r/lemma
-Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Lemma<br/>Description: PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.<br/>Open Source: https://github.com/fus3r/lemma<br/>Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1]]></content:encoded>
     </item>
   </channel>
 </rss>
