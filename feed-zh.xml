@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:20:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FinchGram</title>
+      <link>https://www.finchgram.com/</link>
+      <guid isPermaLink="false">2a45ead69c375d1122d657a3c6aa7578b01c1838:FinchGram</guid>
+      <pubDate>Fri, 23 Oct 2026 06:20:11 GMT</pubDate>
+      <category>通信</category>
+      <description>Category: 通信
+App: FinchGram
+Description: 基于 TDLib 的非官方开源 Telegram 客户端，内置截图工具、WebDAV 下载，并可选择开启供 AI 助手使用的 MCP 接入。
+Website: https://www.finchgram.com/
+Commit: Add FinchGram (#3749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838</description>
+      <content:encoded><![CDATA[Category: 通信<br/>App: FinchGram<br/>Description: 基于 TDLib 的非官方开源 Telegram 客户端，内置截图工具、WebDAV 下载，并可选择开启供 AI 助手使用的 MCP 接入。<br/>Website: https://www.finchgram.com/<br/>Commit: Add FinchGram (#3749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838]]></content:encoded>
+    </item>
     <item>
       <title>Godmode Bot</title>
       <link>https://usegodmode.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/jackotom/hongguo-drama
 Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: Hongguo Drama<br/>Description: 面向 Apple Silicon 与 Intel Mac 的非官方短剧播放器与下载器，支持红果、西饭和河马三个来源。<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
-    </item>
-    <item>
-      <title>yovoice</title>
-      <link>https://yovoice.leemysw.com</link>
-      <guid isPermaLink="false">eeb27b542c311bcdf8a15c669ac5d420b3fc613e:yovoice</guid>
-      <pubDate>Tue, 13 Oct 2026 03:34:21 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: yovoice
-Description: 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。
-Website: https://yovoice.leemysw.com
-Commit: Add yovoice (#3396)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: yovoice<br/>Description: 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。<br/>Website: https://yovoice.leemysw.com<br/>Commit: Add yovoice (#3396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e]]></content:encoded>
     </item>
   </channel>
 </rss>
