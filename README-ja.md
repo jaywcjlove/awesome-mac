@@ -1374,6 +1374,7 @@ Awesome Mac
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - オールインワンのメニューバーアプリ。MacBook Proのノッチ非表示、ダークモード、AirPods、ショートカットなど[![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Pandan](https://sindresorhus.com/pandan) - メニューバーでの時間認識。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264?platform=mac)
 * [Peninsula](https://github.com/Celve/Peninsula) - ウィンドウ切り替え、通知、ファイルストレージに焦点を当てたmacOS用ダイナミックペニンシュラ。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
+* [PoRaBar](https://porabar.com) - インターネットラジオ、ポッドキャスト、YouTubeライブ配信、Audiobookshelfのオーディオブックを再生するメニューバープレーヤー。iPhone用コンパニオンアプリ付き。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6761472273?platform=mac)
 * [PowerMeister](https://naden.co) - MacBookのエネルギーを節約し、バッテリー寿命を改善。
 * [Profisor](https://github.com/yefga/Profisor) - メニューバーから現在のプロジェクトの Xcode プロビジョニングプロファイルを切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Quickgif](https://quickgif.app/) - GIFを素早く見つけて共有。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
