@@ -1371,6 +1371,7 @@ Awesome Mac
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 将 MacBook 刘海打造成动态岛风格的 Live Activity，实时显示 Claude Code 与 Codex CLI 的速率限制和花费。所有数据本地计算，无任何遥测。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - 菜单栏文件转换工具：拖动文件时按一下 Shift，把文件放到转盘上即可转换图片、音频、视频和文档，还支持压缩、OCR、剪辑和标注。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
+* [RAMKeeper](https://ramkeeper.reelary.app/) - 菜单栏内存监控工具，按应用和浏览器渲染进程显示内存占用，包括当前值和峰值。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6785443072) ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 带隐藏区域和自动化能力的隐私优先菜单栏管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 用媒体键控制网页播放器和部分应用播放。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
