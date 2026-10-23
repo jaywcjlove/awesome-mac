@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:48:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AI Canvas Tauri</title>
+      <link>https://github.com/Tenney95/AI-Canvas-tauri</link>
+      <guid isPermaLink="false">8d2a4487ec0161f3963f9ae99833f90659aa85f7:AI Canvas Tauri</guid>
+      <pubDate>Fri, 23 Oct 2026 00:48:21 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: AI Canvas Tauri
+Description: Free, lightweight, source-available AI canvas for storyboarding, image and video creation, editing, and asset management with ComfyUI workflows.
+Open Source: https://github.com/Tenney95/AI-Canvas-tauri
+Commit: Add AI Canvas (#3763)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: AI Canvas Tauri<br/>Description: Free, lightweight, source-available AI canvas for storyboarding, image and video creation, editing, and asset management with ComfyUI workflows.<br/>Open Source: https://github.com/Tenney95/AI-Canvas-tauri<br/>Commit: Add AI Canvas (#3763)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7]]></content:encoded>
+    </item>
     <item>
       <title>MD QuickLook</title>
       <link>https://github.com/armamut/md-quicklook</link>
@@ -693,20 +707,6 @@ Website: https://sentinel-james-murphy.pages.dev/
 Commit: Add Sentinel to Security Tools (#3321)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: Sentinel<br/>Description: Plain-language Mac security-settings check with a Wi-Fi device list.<br/>Website: https://sentinel-james-murphy.pages.dev/<br/>Commit: Add Sentinel to Security Tools (#3321)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f96dc8046c7cd89ad5f096583516453b7be6f202]]></content:encoded>
-    </item>
-    <item>
-      <title>Keyameleon</title>
-      <link>https://keyameleon.app/</link>
-      <guid isPermaLink="false">e9e1da37b6c741c9adfe43d45ec42e20ecda6f92:Keyameleon</guid>
-      <pubDate>Mon, 12 Oct 2026 03:34:55 GMT</pubDate>
-      <category>Input Methods</category>
-      <description>Category: Input Methods
-App: Keyameleon
-Description: Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.
-Website: https://keyameleon.app/
-Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92</description>
-      <content:encoded><![CDATA[Category: Input Methods<br/>App: Keyameleon<br/>Description: Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.<br/>Website: https://keyameleon.app/<br/>Commit: Add Keyameleon to Input Methods (EN/ZH/JA/KO) (#3354)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9e1da37b6c741c9adfe43d45ec42e20ecda6f92]]></content:encoded>
     </item>
   </channel>
 </rss>
