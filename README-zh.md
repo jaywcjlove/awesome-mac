@@ -886,6 +886,7 @@ Awesome Mac
 
 ### Office
 
+* [GlideDeck](https://github.com/nirlotan/GlideDeck) - 开源的缩放式演示文稿应用，基于无限画布，支持导入和导出 PowerPoint。 [![Open-Source Software][OSS Icon]](https://github.com/nirlotan/GlideDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
 * [Keynote 讲演](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac) - 构建炫目的演示文稿。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 免费开源的办公软件，广泛被用户社区日常使用和测试。[![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
