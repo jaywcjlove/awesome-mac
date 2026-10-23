@@ -839,6 +839,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## AI Tools
 
+* [3D-Agent](https://3d-agent.com/blender-ai) - Desktop AI agent for Blender that models with clean quad topology, adds materials, lighting and animation, renders and writes Blender Python in the open scene from plain-language prompts.
 * [Agent Teams AI](https://agentteams.live/) - Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.macbunny.co/appleai) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
