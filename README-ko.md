@@ -1253,6 +1253,7 @@ Awesome Mac
 ### 정식 사이트
 
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
+* [Indie Mac Apps](https://indiemacapps.com/) - 독립 개발자의 Mac 앱을 선별하고 출처가 명시된 소개와 개발자 공식 웹사이트 링크를 제공하는 디렉터리.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
 
