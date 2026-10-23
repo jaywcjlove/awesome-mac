@@ -1237,6 +1237,7 @@ Awesome Mac
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - 마크다운 파일을 위한 Quick Look 도구. [![Open-Source Software][OSS Icon]](https://github.com/sbarex/QLMarkdown) ![Freeware][Freeware Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Markdown, Mermaid, KaTeX 등을 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
+* [MD QuickLook](https://github.com/armamut/md-quicklook) - 구문 강조, 수식, Mermaid 다이어그램을 지원하는 웹 엔진 없는 네이티브 Markdown Quick Look 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` 내용과 메타데이터를 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
 

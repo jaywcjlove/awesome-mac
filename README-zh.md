@@ -1652,6 +1652,7 @@ Awesome Mac
 * [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如 README、INSTALL、Capfile、CHANGELOG...`brew install --cask install qlstephen`
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - 支持 Mermaid、KaTeX 等内容的 Markdown 快速预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 用于渲染 Markdown 的 Quick Look 预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
+* [MD QuickLook](https://github.com/armamut/md-quicklook) - 无需网页引擎的原生 Markdown Quick Look 扩展，支持语法高亮、数学公式和 Mermaid 图表。 [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - 用于预览 `.torrent` 文件内容和元数据的 Quick Look 插件。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 
 ## 第三方应用市场APP
