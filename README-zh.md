@@ -918,6 +918,7 @@ Awesome Mac
 > A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
+* [DotMD](https://getdotmd.com/) - 原生 Markdown 阅读器和编辑器，通过 MCP 像审查拉取请求一样审阅 AI 代理编写的规格和计划。 ![Native App][Native Icon]
 * [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - 一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
