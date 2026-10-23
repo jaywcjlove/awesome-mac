@@ -1698,7 +1698,6 @@ Awesome Mac
 * [AirStats](https://airstats.app) - CPU、GPU、メモリ、ネットワーク、ディスク、バッテリー、温度を表示し、デスクトップウィジェットにも対応した軽量なメニューバー用システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - アプリの音量を制御し、システムオーディオを録音。 [![Open-Source Software][OSS Icon]](https://github.com/kyleneideck/BackgroundMusic)
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - リアルタイムのワット数、アプリごとの電力消費、充電履歴、消耗分析でバッテリーを消耗している原因を100%ローカルで表示。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
-* [WattMate](https://wattmateapp.com) - どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Macのバッテリー情報と統計。
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - AI対応の画面アクティビティタイムライン。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - マルチモニター環境でmacOSのDockを特定の画面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
@@ -1736,6 +1735,7 @@ Awesome Mac
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度監視、ファン制御、ハードウェア診断でMacを涼しく健全に保つ。
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
+* [WattMate](https://wattmateapp.com) - どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
 
 ## ゲームソフトウェア
