@@ -1627,6 +1627,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sidebar](https://sidebarapp.net/) - The modern Dock replacement for your Mac.
 * [SizeUp](https://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
 * [Slate](https://github.com/jigish/slate) - Scriptable window manager configured with JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
+* [SlideScroll](https://slidescroll.majnioui.me) - Scrolling window manager in the style of niri and PaperWM. [![Open-Source Software][OSS Icon]](https://github.com/majnioui/SlideScroll) ![Freeware][Freeware Icon]
 * [Snapback](https://snapbackapp.com) - Save and restore entire window layouts with one keystroke. ![Freeware][Freeware Icon]
 * [Swift Shift](https://swiftshift.app) - Move and resize windows with keyboard shortcuts and mouse gestures. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [StreamWindow](https://macdev.cn/) - 3D window manager with intuitive views and fluid transitions. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
