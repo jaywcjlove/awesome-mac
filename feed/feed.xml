@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:20:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FinchGram</title>
+      <link>https://www.finchgram.com/</link>
+      <guid isPermaLink="false">2a45ead69c375d1122d657a3c6aa7578b01c1838:FinchGram</guid>
+      <pubDate>Fri, 23 Oct 2026 06:20:11 GMT</pubDate>
+      <category>Communication / Collaboration and Team Tools</category>
+      <description>Category: Communication / Collaboration and Team Tools
+App: FinchGram
+Description: Unofficial open-source Telegram client built on TDLib, with a screenshot tool, WebDAV downloads and opt-in MCP access for AI assistants.
+Website: https://www.finchgram.com/
+Commit: Add FinchGram (#3749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838</description>
+      <content:encoded><![CDATA[Category: Communication / Collaboration and Team Tools<br/>App: FinchGram<br/>Description: Unofficial open-source Telegram client built on TDLib, with a screenshot tool, WebDAV downloads and opt-in MCP access for AI assistants.<br/>Website: https://www.finchgram.com/<br/>Commit: Add FinchGram (#3749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838]]></content:encoded>
+    </item>
     <item>
       <title>Godmode Bot</title>
       <link>https://usegodmode.com</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/fus3r/lemma
 Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Lemma<br/>Description: PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.<br/>Open Source: https://github.com/fus3r/lemma<br/>Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1]]></content:encoded>
-    </item>
-    <item>
-      <title>Hongguo Drama</title>
-      <link>https://github.com/jackotom/hongguo-drama</link>
-      <guid isPermaLink="false">7d5c26c2b68bc29a57a9d6cde27f12199a1940de:Hongguo Drama</guid>
-      <pubDate>Tue, 13 Oct 2026 07:17:32 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Hongguo Drama
-Description: Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.
-Open Source: https://github.com/jackotom/hongguo-drama
-Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Hongguo Drama<br/>Description: Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
     </item>
   </channel>
 </rss>
