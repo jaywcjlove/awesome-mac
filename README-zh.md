@@ -1332,6 +1332,7 @@ Awesome Mac
 
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 轻量的原生剪贴板管理工具，支持图片 OCR 和书签。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
+* [ClipDeck](https://saither.com/clipdeck/) - 菜单栏剪贴板历史，支持全文搜索和置顶片段，并跳过密码管理器复制的内容。 ![Native App][Native Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
