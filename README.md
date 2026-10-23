@@ -778,6 +778,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Caplo](https://github.com/icloudza/caplo) - Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.
 * [Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - Gif Recording and Sharing.
+* [Hindsight](https://hindsightclips.com/) - Instant replay for Mac games. Save the last moments with a hotkey. [![App Store][app-store Icon]](https://apps.apple.com/app/hindsight-instant-replay/id6799860096?platform=mac)
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]

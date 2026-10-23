@@ -557,6 +557,7 @@ Awesome Mac
 * [Caplo](https://github.com/icloudza/caplo) - 录屏后可直接编辑，支持自动运镜、光标美化、画布与字幕处理。
 * [GifCapture](https://github.com/onmyway133/GifCapture) - 开源 macOS 截屏生成 Gif 工具。[![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - 专业的高颜值 GIF 录制应用。
+* [Hindsight](https://hindsightclips.com/) - Mac 游戏即时回放工具，按下快捷键即可保存刚刚发生的精彩瞬间。 [![App Store][app-store Icon]](https://apps.apple.com/app/hindsight-instant-replay/id6799860096?platform=mac)
 * [GIF Brewery](https://gfycat.com/gifbrewery) - GIF Brewery gives everyone the power to create stunning GIFs from video files. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/gif-brewery-by-gfycat/id1081413713?platform=mac) ![Freeware][Freeware Icon]
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?platform=mac)
 * [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
