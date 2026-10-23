@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:21:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoWork OS</title>
+      <link>https://coworkosapp.com</link>
+      <guid isPermaLink="false">9ea5e25b26663dcdc51a78e484ddb10aa313b83f:CoWork OS</guid>
+      <pubDate>Fri, 23 Oct 2026 07:21:53 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: CoWork OS
+Description: 开源桌面 AI 智能体，可处理文件、浏览器和聊天应用中的任务，支持自带 API 密钥或本地模型。
+Website: https://coworkosapp.com
+Commit: Add CoWork OS (#3638)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: CoWork OS<br/>Description: 开源桌面 AI 智能体，可处理文件、浏览器和聊天应用中的任务，支持自带 API 密钥或本地模型。<br/>Website: https://coworkosapp.com<br/>Commit: Add CoWork OS (#3638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f]]></content:encoded>
+    </item>
     <item>
       <title>FinchGram</title>
       <link>https://www.finchgram.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/fus3r/lemma
 Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: Lemma<br/>Description: 面向数学教材和论文的 PDF 阅读器，可将定理和公式引用变为链接、折叠证明，并检查你写下的推导。<br/>Open Source: https://github.com/fus3r/lemma<br/>Commit: Add Lemma to Reading and Writing Tools (EN/ZH/JA/KO) (#3404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5f01a69a8916c289a9a64c431b1af65cd825df1]]></content:encoded>
-    </item>
-    <item>
-      <title>Hongguo Drama</title>
-      <link>https://github.com/jackotom/hongguo-drama</link>
-      <guid isPermaLink="false">7d5c26c2b68bc29a57a9d6cde27f12199a1940de:Hongguo Drama</guid>
-      <pubDate>Tue, 13 Oct 2026 07:17:32 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Hongguo Drama
-Description: 面向 Apple Silicon 与 Intel Mac 的非官方短剧播放器与下载器，支持红果、西饭和河马三个来源。
-Open Source: https://github.com/jackotom/hongguo-drama
-Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Hongguo Drama<br/>Description: 面向 Apple Silicon 与 Intel Mac 的非官方短剧播放器与下载器，支持红果、西饭和河马三个来源。<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
     </item>
   </channel>
 </rss>

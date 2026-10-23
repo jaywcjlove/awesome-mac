@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:21:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoWork OS</title>
+      <link>https://coworkosapp.com</link>
+      <guid isPermaLink="false">9ea5e25b26663dcdc51a78e484ddb10aa313b83f:CoWork OS</guid>
+      <pubDate>Fri, 23 Oct 2026 07:21:53 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: CoWork OS
+Description: 自分のAPIキーやローカルモデルで動く、ファイル・ブラウザ・チャットアプリの作業をこなすオープンソースのデスクトップAIエージェント。
+Website: https://coworkosapp.com
+Commit: Add CoWork OS (#3638)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: CoWork OS<br/>Description: 自分のAPIキーやローカルモデルで動く、ファイル・ブラウザ・チャットアプリの作業をこなすオープンソースのデスクトップAIエージェント。<br/>Website: https://coworkosapp.com<br/>Commit: Add CoWork OS (#3638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f]]></content:encoded>
+    </item>
     <item>
       <title>FinchGram</title>
       <link>https://www.finchgram.com/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/jackotom/hongguo-drama
 Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Hongguo Drama<br/>Description: Apple Silicon と Intel Mac 向けの非公式プレイヤー兼ダウンローダーで、中国の短編ドラマサービス Hongguo、Xifan、Hema に対応。<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
-    </item>
-    <item>
-      <title>yovoice</title>
-      <link>https://yovoice.leemysw.com</link>
-      <guid isPermaLink="false">eeb27b542c311bcdf8a15c669ac5d420b3fc613e:yovoice</guid>
-      <pubDate>Tue, 13 Oct 2026 03:34:21 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: yovoice
-Description: 音声合成、ボイスクローン、感情コントロール、楽曲生成、MIDI 編曲をすべてローカルで行える音声制作ツール。
-Website: https://yovoice.leemysw.com
-Commit: Add yovoice (#3396)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: yovoice<br/>Description: 音声合成、ボイスクローン、感情コントロール、楽曲生成、MIDI 編曲をすべてローカルで行える音声制作ツール。<br/>Website: https://yovoice.leemysw.com<br/>Commit: Add yovoice (#3396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e]]></content:encoded>
     </item>
   </channel>
 </rss>
