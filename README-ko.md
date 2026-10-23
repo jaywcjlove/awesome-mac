@@ -929,6 +929,7 @@ Awesome Mac
 ## 교육
 
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
+* [Miteiru](https://miteiru.hocky.id/) - 자막 단어를 클릭해 읽는 법과 오프라인 사전 뜻을 확인할 수 있는 일본어·중국어·광둥어·베트남어 학습용 동영상 플레이어. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 금융
