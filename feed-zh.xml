@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:25:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:26:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Godmode Bot</title>
+      <link>https://usegodmode.com</link>
+      <guid isPermaLink="false">965f263f62d32e11d8c7aecda8bb37c3bbd5aec0:Godmode Bot</guid>
+      <pubDate>Fri, 23 Oct 2026 04:26:51 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Godmode Bot
+Description: 把 Claude 订阅变成一组常驻智能体的开源 AI 同事，可在专属浏览器中用你的登录信息完成电脑上的工作。
+Website: https://usegodmode.com
+Commit: Add Godmode Bot to AI Tools (#3770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Godmode Bot<br/>Description: 把 Claude 订阅变成一组常驻智能体的开源 AI 同事，可在专属浏览器中用你的登录信息完成电脑上的工作。<br/>Website: https://usegodmode.com<br/>Commit: Add Godmode Bot to AI Tools (#3770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0]]></content:encoded>
+    </item>
     <item>
       <title>ClawTank</title>
       <link>https://github.com/HMAKT99/ClawTank</link>
@@ -693,20 +707,6 @@ Website: https://yovoice.leemysw.com
 Commit: Add yovoice (#3396)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: yovoice<br/>Description: 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。<br/>Website: https://yovoice.leemysw.com<br/>Commit: Add yovoice (#3396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e]]></content:encoded>
-    </item>
-    <item>
-      <title>akou</title>
-      <link>https://geiserx.github.io/akou/</link>
-      <guid isPermaLink="false">43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc:akou</guid>
-      <pubDate>Tue, 13 Oct 2026 02:27:48 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: akou
-Description: 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。
-Website: https://geiserx.github.io/akou/
-Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: akou<br/>Description: 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。<br/>Website: https://geiserx.github.io/akou/<br/>Commit: Add akou to Audio Record and Process (EN/ZH/JA/KO) (#3395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/43ae31e8bc9a02d5d749eacfbd3076c6ada5cacc]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:25:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:26:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Godmode Bot</title>
+      <link>https://usegodmode.com</link>
+      <guid isPermaLink="false">965f263f62d32e11d8c7aecda8bb37c3bbd5aec0:Godmode Bot</guid>
+      <pubDate>Fri, 23 Oct 2026 04:26:51 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Godmode Bot
+Description: Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.
+Website: https://usegodmode.com
+Commit: Add Godmode Bot to AI Tools (#3770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Godmode Bot<br/>Description: Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.<br/>Website: https://usegodmode.com<br/>Commit: Add Godmode Bot to AI Tools (#3770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0]]></content:encoded>
+    </item>
     <item>
       <title>ClawTank</title>
       <link>https://github.com/HMAKT99/ClawTank</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/jackotom/hongguo-drama
 Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Hongguo Drama<br/>Description: Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.<br/>Open Source: https://github.com/jackotom/hongguo-drama<br/>Commit: Update Hongguo Drama to Audio and Video Tools (EN/ZH/JA/KO) (#3223)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d5c26c2b68bc29a57a9d6cde27f12199a1940de]]></content:encoded>
-    </item>
-    <item>
-      <title>yovoice</title>
-      <link>https://yovoice.leemysw.com</link>
-      <guid isPermaLink="false">eeb27b542c311bcdf8a15c669ac5d420b3fc613e:yovoice</guid>
-      <pubDate>Tue, 13 Oct 2026 03:34:21 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: yovoice
-Description: Local voice creation studio with text-to-speech, voice cloning, emotion control, song generation and MIDI scoring, all running on-device.
-Website: https://yovoice.leemysw.com
-Commit: Add yovoice (#3396)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: yovoice<br/>Description: Local voice creation studio with text-to-speech, voice cloning, emotion control, song generation and MIDI scoring, all running on-device.<br/>Website: https://yovoice.leemysw.com<br/>Commit: Add yovoice (#3396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/eeb27b542c311bcdf8a15c669ac5d420b3fc613e]]></content:encoded>
     </item>
   </channel>
 </rss>
