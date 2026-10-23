@@ -842,6 +842,7 @@ Awesome Mac
 
 ## AIツール
 
+* [3D-Agent](https://3d-agent.com/blender-ai) - 自然言語のプロンプトから、開いているBlenderシーンでクリーンなクアッドトポロジーのモデリング、マテリアル・ライティング・アニメーションの追加、レンダリング、Blender Pythonの作成を行うデスクトップAIエージェント。
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
