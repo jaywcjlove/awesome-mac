@@ -801,6 +801,7 @@ Awesome Mac
 
 ### その他のツール
 
+* [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - 無料で軽量なソース公開型の AI 制作キャンバスで、絵コンテ、画像・動画の生成と編集、素材管理、ComfyUI ワークフローに対応。 ![Freeware][Freeware Icon]
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Stable Diffusionを使用してテキストから画像を生成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1660147028?platform=mac)
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG画像のアセンブラー/ディスアセンブラーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - ピアツーピア同期を備えた写真整理アプリ。 ![Freeware][Freeware Icon]
