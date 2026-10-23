@@ -3,6 +3,16 @@
   <br>
   <br>
 
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - 遍布整个 Mac 的 AI 智能体</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">它能看到您的屏幕，在您的应用中工作，并真正把事情做完。</a>
+  <br><br>
+
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
@@ -23,13 +33,6 @@
   </a>
   <br>
   <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM 免费 IP 地址信息查询网站</a>
   <br><br>
 
 </div>
@@ -119,6 +122,7 @@
 
 ## 开发者工具
 
+* [aisw](https://aiswitcher.dev) - 用命名配置切换 Claude Code、Codex、Gemini 和 Antigravity CLI 账号，并可按仓库限定所用账号。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
