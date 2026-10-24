@@ -289,6 +289,7 @@ Awesome Mac
 * [Loupe](https://github.com/smughead/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
+* [Nuticast](https://www.nuticast.com/) - 菜单栏应用，iPhone 连接其他 Wi-Fi 时也能通过 Tailscale、ZeroTier 或 NetBird 等 mesh VPN 继续使用 Xcode 无线调试。
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
 * [PortKiller](https://github.com/productdevbook/port-killer) - 用于查看端口、管理转发与隧道并结束占用进程的工具。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
