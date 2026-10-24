@@ -284,6 +284,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Noteship](https://noteship.com) - Local-first note-taking app for turning notes into structured knowledge. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 * [OATS](https://github.com/ariso-ai/oats) - Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
+* [Oh My Notes](https://ohmynotes.icocah.com/) - Floating sticky notes and today panel that stay above fullscreen apps, fade when unfocused (40–100%), and save plain Markdown locally. Free + Pro one-time. ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438?platform=mac)
 * [Revu](https://revu.cards/) - Local-first spaced repetition app with FSRS scheduling and Anki import. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
