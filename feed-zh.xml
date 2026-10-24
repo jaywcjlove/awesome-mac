@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipRecallBar</title>
+      <link>https://turhe123.github.io/clip-recall-bar/</link>
+      <guid isPermaLink="false">32fe64cfde5d94d06e4588978c35a9017bf65fc0:ClipRecallBar</guid>
+      <pubDate>Sat, 24 Oct 2026 06:56:50 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: ClipRecallBar
+Description: 键盘优先的剪贴板历史弹窗，边输入边筛选，一键粘贴。
+Website: https://turhe123.github.io/clip-recall-bar/
+Commit: Add ClipRecallBar (#3652)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipRecallBar<br/>Description: 键盘优先的剪贴板历史弹窗，边输入边筛选，一键粘贴。<br/>Website: https://turhe123.github.io/clip-recall-bar/<br/>Commit: Add ClipRecallBar (#3652)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0]]></content:encoded>
+    </item>
     <item>
       <title>FileShipper</title>
       <link>https://getapps.cafe/app/fileshipper</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/MidZai/aman_check
 Commit: Add Aman Check (#3496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Aman Check<br/>Description: 为二手 Mac 生成带日期、如实的状况报告：锁定状态、电池、SSD 及引导式硬件测试。<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
-    </item>
-    <item>
-      <title>Photo Review</title>
-      <link>https://danielyaa5.github.io/photo-review/</link>
-      <guid isPermaLink="false">9a2595e6169e7aec6e34395e90f230e64fe74d37:Photo Review</guid>
-      <pubDate>Fri, 16 Oct 2026 00:12:21 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Photo Review
-Description: 开源工具，按大小列出 iCloud 照片图库，可压缩大视频或删除选中的项目。
-Website: https://danielyaa5.github.io/photo-review/
-Commit: Add Photo Review (#3495)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Photo Review<br/>Description: 开源工具，按大小列出 iCloud 照片图库，可压缩大视频或删除选中的项目。<br/>Website: https://danielyaa5.github.io/photo-review/<br/>Commit: Add Photo Review (#3495)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37]]></content:encoded>
     </item>
   </channel>
 </rss>

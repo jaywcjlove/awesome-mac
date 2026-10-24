@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipRecallBar</title>
+      <link>https://turhe123.github.io/clip-recall-bar/</link>
+      <guid isPermaLink="false">32fe64cfde5d94d06e4588978c35a9017bf65fc0:ClipRecallBar</guid>
+      <pubDate>Sat, 24 Oct 2026 06:56:50 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: ClipRecallBar
+Description: 入力しながら絞り込み、1キーで貼り付けできるキーボード重視のクリップボード履歴ポップアップ。
+Website: https://turhe123.github.io/clip-recall-bar/
+Commit: Add ClipRecallBar (#3652)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipRecallBar<br/>Description: 入力しながら絞り込み、1キーで貼り付けできるキーボード重視のクリップボード履歴ポップアップ。<br/>Website: https://turhe123.github.io/clip-recall-bar/<br/>Commit: Add ClipRecallBar (#3652)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0]]></content:encoded>
+    </item>
     <item>
       <title>FileShipper</title>
       <link>https://getapps.cafe/app/fileshipper</link>
@@ -693,20 +707,6 @@ Website: https://danielyaa5.github.io/photo-review/
 Commit: Add Photo Review (#3495)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Photo Review<br/>Description: iCloud写真ライブラリを容量順に一覧表示し、大きなビデオの圧縮や選んだ項目の削除ができるオープンソースツール。<br/>Website: https://danielyaa5.github.io/photo-review/<br/>Commit: Add Photo Review (#3495)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37]]></content:encoded>
-    </item>
-    <item>
-      <title>Strata Files</title>
-      <link>https://stratafiles.app</link>
-      <guid isPermaLink="false">0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1:Strata Files</guid>
-      <pubDate>Thu, 15 Oct 2026 23:47:30 GMT</pubDate>
-      <category>ユーティリティ / Finderツール</category>
-      <description>Category: ユーティリティ / Finderツール
-App: Strata Files
-Description: インスタント検索、リアルタイムのフォルダサイズ、ディスク使用量マップ、デュアルペインを備えたオープンソースのファイルマネージャー兼 Finder 代替。
-Website: https://stratafiles.app
-Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: Strata Files<br/>Description: インスタント検索、リアルタイムのフォルダサイズ、ディスク使用量マップ、デュアルペインを備えたオープンソースのファイルマネージャー兼 Finder 代替。<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
     </item>
   </channel>
 </rss>
