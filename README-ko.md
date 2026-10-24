@@ -1032,6 +1032,7 @@ Awesome Mac
 * [Dimble](https://dimble.fif7y.com) - macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
+* [Hardly Working](https://blazmad.github.io/hardly-working/) - Teams와 Slack에서 자리 비움으로 표시되지 않도록 해 주는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/Blazmad/hardly-working) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HeyMate](https://getheymate.vercel.app) - 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 단축키와 자동화로 블루투스 기기를 관리하는 메뉴 막대 도구. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
