@@ -672,6 +672,7 @@ Awesome Mac
 
 ## AI 도구
 
+* [3D-Agent](https://3d-agent.com/blender-ai) - Blender AI 에이전트이자 AI 3D 모델 생성기. 자연어로 열려 있는 Blender 장면에 깔끔한 쿼드 토폴로지 3D 모델을 만들고 AI 리토폴로지, 리깅, 머티리얼, 렌더링까지 수행합니다. Claude Code·Cursor용 Blender MCP 서버 포함(Ultra 플랜).
 * [Agent Teams AI](https://agentteams.live/) - 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - 메뉴바에서 여러 AI 어시스턴트 접근. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)

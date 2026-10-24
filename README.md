@@ -839,6 +839,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## AI Tools
 
+* [3D-Agent](https://3d-agent.com/blender-ai) - Blender AI agent and AI 3D model generator: text-to-3D modeling with clean quad topology, AI retopology, rigging, materials and rendering in your open Blender scene. Includes a Blender MCP server for Claude Code and Cursor (Ultra plan).
 * [Agent Teams AI](https://agentteams.live/) - Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.macbunny.co/appleai) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
