@@ -968,6 +968,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability. ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [RetroDrop](https://samir-bujawdeh.github.io/RetroDrop/) - Send photos and videos from old iPhones (iOS 3 to 6) to your Mac over Wi-Fi, with nothing to install on the phone. [![Open-Source Software][OSS Icon]](https://github.com/samir-bujawdeh/RetroDrop) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - The GUI for Rclone & S3. [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 
