@@ -853,6 +853,7 @@ Awesome Mac
 * [Atticus](https://saarthurr.github.io/atticus-mac/) - Claudeプランで動くオープンソースの音声アシスタント。一度こなした作業を学習し、音声入力、画面ガイド、バックグラウンドエージェントに対応。 [![Open-Source Software][OSS Icon]](https://github.com/SaarthurR/atticus-mac) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac用の美しく強力なChatGPTアプリ。AIをワークフローに統合して一歩先へ。
+* [Cadence](https://www.cadencevoice.ai) - コーディングエージェントのためのツールバーと受信トレイ。Claude Code、Codex、Geminiのどのセッションが応答を待っているかを示し、キーボード、音声、iPhoneから回答できる。 ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - 聞き、学び、挑戦する対話型AIシステム。
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
 * [Claude God](https://claudegod.app) - Claudeの使用量、コスト、セッション統計を監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
