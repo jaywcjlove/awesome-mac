@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:40:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Archivator</title>
+      <link>https://github.com/davidpraznik/Archivator</link>
+      <guid isPermaLink="false">c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a:Archivator</guid>
+      <pubDate>Sat, 24 Oct 2026 01:40:52 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Archivator
+Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.
+Open Source: https://github.com/davidpraznik/Archivator
+Commit: Add Archivator (#3799)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Archivator<br/>Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
+    </item>
     <item>
       <title>Konverter</title>
       <link>https://github.com/davidpraznik/Konverter</link>
@@ -693,20 +707,6 @@ Website: https://khorenyan.com/termstead/
 Commit: Add Termstead to Terminal Apps (#3445)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Termstead<br/>Description: 세션 트리, 점프 호스트, 터미널 옆 SFTP를 갖춘 네이티브 SSH 클라이언트.<br/>Website: https://khorenyan.com/termstead/<br/>Commit: Add Termstead to Terminal Apps (#3445)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac5b98b672855fa0af3889c014e4235f7674931]]></content:encoded>
-    </item>
-    <item>
-      <title>Utter</title>
-      <link>https://github.com/h3x-levi/Utter</link>
-      <guid isPermaLink="false">069f34bf6af6a2608e853e9cff19095a75f0b43a:Utter</guid>
-      <pubDate>Wed, 14 Oct 2026 00:15:00 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Utter
-Description: whisper.cpp 및 Metal 기반의 100% 온디바이스 음성 받아쓰기 및 회의 전사 도구.
-Open Source: https://github.com/h3x-levi/Utter
-Commit: Add Utter (#3423)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/069f34bf6af6a2608e853e9cff19095a75f0b43a</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Utter<br/>Description: whisper.cpp 및 Metal 기반의 100% 온디바이스 음성 받아쓰기 및 회의 전사 도구.<br/>Open Source: https://github.com/h3x-levi/Utter<br/>Commit: Add Utter (#3423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/069f34bf6af6a2608e853e9cff19095a75f0b43a]]></content:encoded>
     </item>
   </channel>
 </rss>
