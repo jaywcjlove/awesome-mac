@@ -1440,6 +1440,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [SwipePhotos](https://swipephotos.com) - Review and declutter an Apple Photos library with swipes or keyboard controls, with a review step before anything is deleted and all processing on-device. [![App Store][app-store Icon]](https://apps.apple.com/app/id6765640303?platform=mac)
 
 ### File Organization Tools
 
