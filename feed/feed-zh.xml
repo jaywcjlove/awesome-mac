@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:49:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Atticus</title>
+      <link>https://saarthurr.github.io/atticus-mac/</link>
+      <guid isPermaLink="false">3a555bc595ff60f432a73107360e5aff681c0c7c:Atticus</guid>
+      <pubDate>Sat, 24 Oct 2026 07:49:23 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Atticus
+Description: 开源语音助手，使用你的 Claude 订阅运行，做过一次的任务就会学会，支持听写、屏幕指引和后台代理。
+Website: https://saarthurr.github.io/atticus-mac/
+Commit: Add Atticus to AI Tools (#3702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Atticus<br/>Description: 开源语音助手，使用你的 Claude 订阅运行，做过一次的任务就会学会，支持听写、屏幕指引和后台代理。<br/>Website: https://saarthurr.github.io/atticus-mac/<br/>Commit: Add Atticus to AI Tools (#3702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c]]></content:encoded>
+    </item>
     <item>
       <title>Topnotchers</title>
       <link>https://github.com/joey-david/topnotchers</link>
@@ -693,20 +707,6 @@ Website: https://gwenn-ha-dev.github.io/Siliconed/
 Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Siliconed<br/>Description: 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。<br/>Website: https://gwenn-ha-dev.github.io/Siliconed/<br/>Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717]]></content:encoded>
-    </item>
-    <item>
-      <title>LawPulse 法脉</title>
-      <link>https://lttxzmj.github.io/lawpulse-site/</link>
-      <guid isPermaLink="false">378f81a6d453d9378c726b1303670ad27a6c0814:LawPulse 法脉</guid>
-      <pubDate>Fri, 16 Oct 2026 01:18:20 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: LawPulse 法脉
-Description: 给中国执业律师的本地离线法律库与法条笔记工具：500+ 部现行法律法规逐条检索，笔记挂在法条下自动成链，数据不出本机。
-Website: https://lttxzmj.github.io/lawpulse-site/
-Commit: Add LawPulse (#2786)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: LawPulse 法脉<br/>Description: 给中国执业律师的本地离线法律库与法条笔记工具：500+ 部现行法律法规逐条检索，笔记挂在法条下自动成链，数据不出本机。<br/>Website: https://lttxzmj.github.io/lawpulse-site/<br/>Commit: Add LawPulse (#2786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814]]></content:encoded>
     </item>
   </channel>
 </rss>

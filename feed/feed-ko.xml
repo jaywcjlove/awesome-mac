@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:49:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Atticus</title>
+      <link>https://saarthurr.github.io/atticus-mac/</link>
+      <guid isPermaLink="false">3a555bc595ff60f432a73107360e5aff681c0c7c:Atticus</guid>
+      <pubDate>Sat, 24 Oct 2026 07:49:23 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Atticus
+Description: Claude 요금제로 실행되는 오픈 소스 음성 비서. 한 번 수행한 작업을 학습하며 받아쓰기, 화면 안내, 백그라운드 에이전트를 지원.
+Website: https://saarthurr.github.io/atticus-mac/
+Commit: Add Atticus to AI Tools (#3702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Atticus<br/>Description: Claude 요금제로 실행되는 오픈 소스 음성 비서. 한 번 수행한 작업을 학습하며 받아쓰기, 화면 안내, 백그라운드 에이전트를 지원.<br/>Website: https://saarthurr.github.io/atticus-mac/<br/>Commit: Add Atticus to AI Tools (#3702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c]]></content:encoded>
+    </item>
     <item>
       <title>Topnotchers</title>
       <link>https://github.com/joey-david/topnotchers</link>
@@ -693,20 +707,6 @@ Website: https://gwenn-ha-dev.github.io/Siliconed/
 Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Siliconed<br/>Description: Swift와 Metal로 작성된 Apple 실리콘용 로컬 AI 이미지 생성 및 지시 기반 이미지 편집 오픈 소스 앱.<br/>Website: https://gwenn-ha-dev.github.io/Siliconed/<br/>Commit: Add Siliconed to Other Tools (EN/ZH/JA/KO) (#3509)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0655c6bc04f2217f41f04681cc16ff6c8ee0d717]]></content:encoded>
-    </item>
-    <item>
-      <title>Aman Check</title>
-      <link>https://github.com/MidZai/aman_check</link>
-      <guid isPermaLink="false">cae489356f4923ac8a6227c31be5fb34b7b0b447:Aman Check</guid>
-      <pubDate>Fri, 16 Oct 2026 00:46:17 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Aman Check
-Description: 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트.
-Open Source: https://github.com/MidZai/aman_check
-Commit: Add Aman Check (#3496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Aman Check<br/>Description: 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트.<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
     </item>
   </channel>
 </rss>
