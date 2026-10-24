@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Topnotchers</title>
+      <link>https://github.com/joey-david/topnotchers</link>
+      <guid isPermaLink="false">23cfc5c3fd8577955132c24082804bd7d1b307ed:Topnotchers</guid>
+      <pubDate>Sat, 24 Oct 2026 07:43:17 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Topnotchers
+Description: 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。
+Open Source: https://github.com/joey-david/topnotchers
+Commit: Add Topnotchers to Menu Bar Tools (#3663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Topnotchers<br/>Description: 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。<br/>Open Source: https://github.com/joey-david/topnotchers<br/>Commit: Add Topnotchers to Menu Bar Tools (#3663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed]]></content:encoded>
+    </item>
     <item>
       <title>ClipRecallBar</title>
       <link>https://turhe123.github.io/clip-recall-bar/</link>
@@ -693,20 +707,6 @@ Website: https://lttxzmj.github.io/lawpulse-site/
 Commit: Add LawPulse (#2786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: LawPulse 法脉<br/>Description: 给中国执业律师的本地离线法律库与法条笔记工具：500+ 部现行法律法规逐条检索，笔记挂在法条下自动成链，数据不出本机。<br/>Website: https://lttxzmj.github.io/lawpulse-site/<br/>Commit: Add LawPulse (#2786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814]]></content:encoded>
-    </item>
-    <item>
-      <title>Aman Check</title>
-      <link>https://github.com/MidZai/aman_check</link>
-      <guid isPermaLink="false">cae489356f4923ac8a6227c31be5fb34b7b0b447:Aman Check</guid>
-      <pubDate>Fri, 16 Oct 2026 00:46:17 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Aman Check
-Description: 为二手 Mac 生成带日期、如实的状况报告：锁定状态、电池、SSD 及引导式硬件测试。
-Open Source: https://github.com/MidZai/aman_check
-Commit: Add Aman Check (#3496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Aman Check<br/>Description: 为二手 Mac 生成带日期、如实的状况报告：锁定状态、电池、SSD 及引导式硬件测试。<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
     </item>
   </channel>
 </rss>
