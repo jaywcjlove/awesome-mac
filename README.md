@@ -908,6 +908,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Collaboration and Team Tools
 
 * [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
+* [Annotator](https://getannotator.app/) - Draw on your screen while you explain, with editable arrows, shapes, highlights, zoom and spotlight over any app. [![Open-Source Software][OSS Icon]](https://github.com/dorlugasigal/annotator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BlurScreen App](https://www.blurscreen.app) - Instantly blur sensitive on-screen content for recording or screen sharing.
 * [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Team communication and collaboration platform. ![Freeware][Freeware Icon]
