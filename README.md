@@ -1257,6 +1257,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mullvad VPN](https://mullvad.net) - Privacy-focused VPN service with anonymous accounts and flat-rate access. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
 * [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware][Freeware Icon]
+* [RoutEngine](https://routengine.net) - Per-app network routing: choose which network adapter each app uses, with failover, speed limits and data caps. ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [ShadowsocksX](https://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
 * [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
