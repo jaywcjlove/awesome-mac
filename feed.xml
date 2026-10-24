@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 02:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:46:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Healthy Battery</title>
+      <link>https://github.com/berkinefeavci/healthy-battery</link>
+      <guid isPermaLink="false">8035d5cbad46504256e9b491665a8c9ea67ab121:Healthy Battery</guid>
+      <pubDate>Sat, 24 Oct 2026 02:46:34 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: Healthy Battery
+Description: Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.
+Open Source: https://github.com/berkinefeavci/healthy-battery
+Commit: Add Healthy Battery (#3058)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Healthy Battery<br/>Description: Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.<br/>Open Source: https://github.com/berkinefeavci/healthy-battery<br/>Commit: Add Healthy Battery (#3058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121]]></content:encoded>
+    </item>
     <item>
       <title>PitchTap</title>
       <link>https://github.com/gkudva96/pitchtap</link>
@@ -693,20 +707,6 @@ Website: https://joexk1.github.io/joebro/
 Commit: Add JoeBro to AI Tools (#3485)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b9aa75d5e5701497846220bede6ad8ba4a18cea7</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: JoeBro<br/>Description: Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.<br/>Website: https://joexk1.github.io/joebro/<br/>Commit: Add JoeBro to AI Tools (#3485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b9aa75d5e5701497846220bede6ad8ba4a18cea7]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenClean</title>
-      <link>https://leoanimesh.github.io/OpenClean/</link>
-      <guid isPermaLink="false">040693f1247026cc9ac5ed03db6a4c0e8e27fbcb:OpenClean</guid>
-      <pubDate>Thu, 15 Oct 2026 00:55:28 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: OpenClean
-Description: Free, open-source Mac cleaner that explains every item before removal and quarantines anything not trivially rebuilt so you can restore it. Includes an app uninstaller, disk map and menu bar monitor.
-Website: https://leoanimesh.github.io/OpenClean/
-Commit: Add OpenClean to Cleanup and Uninstall (#3462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/040693f1247026cc9ac5ed03db6a4c0e8e27fbcb</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: OpenClean<br/>Description: Free, open-source Mac cleaner that explains every item before removal and quarantines anything not trivially rebuilt so you can restore it. Includes an app uninstaller, disk map and menu bar monitor.<br/>Website: https://leoanimesh.github.io/OpenClean/<br/>Commit: Add OpenClean to Cleanup and Uninstall (#3462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/040693f1247026cc9ac5ed03db6a4c0e8e27fbcb]]></content:encoded>
     </item>
   </channel>
 </rss>
