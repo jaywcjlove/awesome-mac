@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Swivel</title>
+      <link>https://github.com/jonathanlotan/Swivel</link>
+      <guid isPermaLink="false">de5724f828ae6246682ce28efcbc1a362576b898:Swivel</guid>
+      <pubDate>Sat, 24 Oct 2026 11:08:53 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Swivel
+Description: Tap a key mid-drag and drop files on a wheel to convert, crop, compress, strip metadata or share them, fully offline.
+Open Source: https://github.com/jonathanlotan/Swivel
+Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Swivel<br/>Description: Tap a key mid-drag and drop files on a wheel to convert, crop, compress, strip metadata or share them, fully offline.<br/>Open Source: https://github.com/jonathanlotan/Swivel<br/>Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898]]></content:encoded>
+    </item>
     <item>
       <title>SoundCloud for macOS</title>
       <link>https://github.com/jettsba/SoundCloud-for-macOS</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/anzal1/panoply
 Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Panoply<br/>Description: Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.<br/>Open Source: https://github.com/anzal1/panoply<br/>Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9]]></content:encoded>
-    </item>
-    <item>
-      <title>Octuo</title>
-      <link>https://www.tutuo.ai/en/octuo/</link>
-      <guid isPermaLink="false">c3528874bc5597c31a81782af4fd52202abf1c05:Octuo</guid>
-      <pubDate>Sat, 17 Oct 2026 15:17:15 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Octuo
-Description: Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers results around your goal.
-Website: https://www.tutuo.ai/en/octuo/
-Commit: Add mu to AI Tools (#3102)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Octuo<br/>Description: Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers results around your goal.<br/>Website: https://www.tutuo.ai/en/octuo/<br/>Commit: Add mu to AI Tools (#3102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05]]></content:encoded>
     </item>
   </channel>
 </rss>
