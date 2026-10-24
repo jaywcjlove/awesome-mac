@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:04:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stedding</title>
+      <link>https://stedding.dev/</link>
+      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
+      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Stedding
+Description: Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import.
+Website: https://stedding.dev/
+Commit: Add Stedding to Browsers (#3805)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Stedding<br/>Description: Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import.<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
+    </item>
     <item>
       <title>Nearby Drop</title>
       <link>https://arslanbasharat-o-o.github.io/NearByDrop/</link>
@@ -693,20 +707,6 @@ Website: https://stratafiles.app
 Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
       <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Strata Files<br/>Description: Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
-    </item>
-    <item>
-      <title>FanPilot</title>
-      <link>https://github.com/zyvren/FanPilot</link>
-      <guid isPermaLink="false">aed244574acfb535c4d8ca7229a18d4a88606201:FanPilot</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:09 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: FanPilot
-Description: Fan control and temperature monitor for Apple Silicon Macs: menu bar temps, manual, max, Auto Boost rules or custom curves, with a fail-safe helper and a CLI.
-Open Source: https://github.com/zyvren/FanPilot
-Commit: Add FanPilot to System Related Tools (#3497)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: FanPilot<br/>Description: Fan control and temperature monitor for Apple Silicon Macs: menu bar temps, manual, max, Auto Boost rules or custom curves, with a fail-safe helper and a CLI.<br/>Open Source: https://github.com/zyvren/FanPilot<br/>Commit: Add FanPilot to System Related Tools (#3497)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201]]></content:encoded>
     </item>
   </channel>
 </rss>

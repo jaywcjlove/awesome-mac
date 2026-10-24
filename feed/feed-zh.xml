@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:04:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stedding</title>
+      <link>https://stedding.dev/</link>
+      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
+      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Stedding
+Description: 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser)
+Website: https://stedding.dev/
+Commit: Add Stedding to Browsers (#3805)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Stedding<br/>Description: 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser)<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
+    </item>
     <item>
       <title>Nearby Drop</title>
       <link>https://arslanbasharat-o-o.github.io/NearByDrop/</link>
@@ -693,20 +707,6 @@ Website: https://stratafiles.app
 Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: Strata Files<br/>Description: 开源文件管理器和 Finder 替代品，支持即时搜索、实时文件夹大小、磁盘占用图和双栏视图。<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
-    </item>
-    <item>
-      <title>FanPilot</title>
-      <link>https://github.com/zyvren/FanPilot</link>
-      <guid isPermaLink="false">aed244574acfb535c4d8ca7229a18d4a88606201:FanPilot</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:09 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: FanPilot
-Description: Apple Silicon Mac 的风扇控制与温度监控：菜单栏温度，手动、最大、自动加速规则或自定义曲线，带安全保护的辅助进程和命令行工具。
-Open Source: https://github.com/zyvren/FanPilot
-Commit: Add FanPilot to System Related Tools (#3497)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: FanPilot<br/>Description: Apple Silicon Mac 的风扇控制与温度监控：菜单栏温度，手动、最大、自动加速规则或自定义曲线，带安全保护的辅助进程和命令行工具。<br/>Open Source: https://github.com/zyvren/FanPilot<br/>Commit: Add FanPilot to System Related Tools (#3497)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201]]></content:encoded>
     </item>
   </channel>
 </rss>
