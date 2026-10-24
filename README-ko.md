@@ -906,7 +906,6 @@ Awesome Mac
 
 ## 브라우저
 
-* [Arc](https://arc.net/) - 작업 공간형 인터페이스를 갖춘 브라우저. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - 개인정보 보호와 속도에 중점을 둔 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser) ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Google의 웹 브라우저. ![Freeware][Freeware Icon]
 * [Firefox](https://www.mozilla.org/firefox/) - Mozilla의 자유 오픈 소스 웹 브라우저. [![Open-Source Software][OSS Icon]](https://hg.mozilla.org/mozilla-central) ![Freeware][Freeware Icon]
