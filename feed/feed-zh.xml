@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:56:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoundCloud for macOS</title>
+      <link>https://github.com/jettsba/SoundCloud-for-macOS</link>
+      <guid isPermaLink="false">9db58d83b5862b5bd95eb3e106faa62e95843452:SoundCloud for macOS</guid>
+      <pubDate>Sat, 24 Oct 2026 10:56:31 GMT</pubDate>
+      <category>音频和视频 / 流媒体音乐播放器</category>
+      <description>Category: 音频和视频 / 流媒体音乐播放器
+App: SoundCloud for macOS
+Description: 非官方的轻量级 SoundCloud macOS 应用。
+Open Source: https://github.com/jettsba/SoundCloud-for-macOS
+Commit: Add SoundCloud for macOS (#3650)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 流媒体音乐播放器<br/>App: SoundCloud for macOS<br/>Description: 非官方的轻量级 SoundCloud macOS 应用。<br/>Open Source: https://github.com/jettsba/SoundCloud-for-macOS<br/>Commit: Add SoundCloud for macOS (#3650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452]]></content:encoded>
+    </item>
     <item>
       <title>Screenshots</title>
       <link>https://ciromaciel.click/tools/screenshots</link>
@@ -693,20 +707,6 @@ Website: https://www.tutuo.ai/en/octuo/
 Commit: Add mu to AI Tools (#3102)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Octuo<br/>Description: 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。<br/>Website: https://www.tutuo.ai/en/octuo/<br/>Commit: Add mu to AI Tools (#3102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05]]></content:encoded>
-    </item>
-    <item>
-      <title>Local Transcriber</title>
-      <link>https://transcriber.teconomix.net</link>
-      <guid isPermaLink="false">d260f9cfafad4e9b49967368771a52b4986a529f:Local Transcriber</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:04 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Local Transcriber
-Description: 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。
-Website: https://transcriber.teconomix.net
-Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Local Transcriber<br/>Description: 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。<br/>Website: https://transcriber.teconomix.net<br/>Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:56:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoundCloud for macOS</title>
+      <link>https://github.com/jettsba/SoundCloud-for-macOS</link>
+      <guid isPermaLink="false">9db58d83b5862b5bd95eb3e106faa62e95843452:SoundCloud for macOS</guid>
+      <pubDate>Sat, 24 Oct 2026 10:56:31 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: SoundCloud for macOS
+Description: 非公式の軽量な macOS 向け SoundCloud アプリ。
+Open Source: https://github.com/jettsba/SoundCloud-for-macOS
+Commit: Add SoundCloud for macOS (#3650)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: SoundCloud for macOS<br/>Description: 非公式の軽量な macOS 向け SoundCloud アプリ。<br/>Open Source: https://github.com/jettsba/SoundCloud-for-macOS<br/>Commit: Add SoundCloud for macOS (#3650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452]]></content:encoded>
+    </item>
     <item>
       <title>Screenshots</title>
       <link>https://ciromaciel.click/tools/screenshots</link>
@@ -693,20 +707,6 @@ Website: https://www.tutuo.ai/en/octuo/
 Commit: Add mu to AI Tools (#3102)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Octuo<br/>Description: AI・ツール・専門サービスをまたいで働くパーソナルアシスタント。接続・許可したツールやアカウントを連携させ、目標に沿って進捗を追跡し、結果をまとめる。<br/>Website: https://www.tutuo.ai/en/octuo/<br/>Commit: Add mu to AI Tools (#3102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3528874bc5597c31a81782af4fd52202abf1c05]]></content:encoded>
-    </item>
-    <item>
-      <title>Local Transcriber</title>
-      <link>https://transcriber.teconomix.net</link>
-      <guid isPermaLink="false">d260f9cfafad4e9b49967368771a52b4986a529f:Local Transcriber</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:04 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: Local Transcriber
-Description: 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。
-Website: https://transcriber.teconomix.net
-Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Local Transcriber<br/>Description: 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。<br/>Website: https://transcriber.teconomix.net<br/>Commit: Add Local Transcriber to Audio Record and Process (EN/ZH/JA/KO) (#3515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d260f9cfafad4e9b49967368771a52b4986a529f]]></content:encoded>
     </item>
   </channel>
 </rss>
