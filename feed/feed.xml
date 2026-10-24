@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Topnotchers</title>
+      <link>https://github.com/joey-david/topnotchers</link>
+      <guid isPermaLink="false">23cfc5c3fd8577955132c24082804bd7d1b307ed:Topnotchers</guid>
+      <pubDate>Sat, 24 Oct 2026 07:43:17 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Topnotchers
+Description: Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch.
+Open Source: https://github.com/joey-david/topnotchers
+Commit: Add Topnotchers to Menu Bar Tools (#3663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Topnotchers<br/>Description: Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch.<br/>Open Source: https://github.com/joey-david/topnotchers<br/>Commit: Add Topnotchers to Menu Bar Tools (#3663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed]]></content:encoded>
+    </item>
     <item>
       <title>ClipRecallBar</title>
       <link>https://turhe123.github.io/clip-recall-bar/</link>
@@ -693,20 +707,6 @@ Website: https://lttxzmj.github.io/lawpulse-site/
 Commit: Add LawPulse (#2786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: LawPulse<br/>Description: Local-first legal research tool for Chinese lawyers: offline statute library with per-article notes; all data stays on your Mac.<br/>Website: https://lttxzmj.github.io/lawpulse-site/<br/>Commit: Add LawPulse (#2786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/378f81a6d453d9378c726b1303670ad27a6c0814]]></content:encoded>
-    </item>
-    <item>
-      <title>Aman Check</title>
-      <link>https://github.com/MidZai/aman_check</link>
-      <guid isPermaLink="false">cae489356f4923ac8a6227c31be5fb34b7b0b447:Aman Check</guid>
-      <pubDate>Fri, 16 Oct 2026 00:46:17 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Aman Check
-Description: Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
-Open Source: https://github.com/MidZai/aman_check
-Commit: Add Aman Check (#3496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Aman Check<br/>Description: Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
     </item>
   </channel>
 </rss>

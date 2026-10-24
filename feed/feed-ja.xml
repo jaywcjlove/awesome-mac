@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Topnotchers</title>
+      <link>https://github.com/joey-david/topnotchers</link>
+      <guid isPermaLink="false">23cfc5c3fd8577955132c24082804bd7d1b307ed:Topnotchers</guid>
+      <pubDate>Sat, 24 Oct 2026 07:43:17 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Topnotchers
+Description: MacBook のノッチに Claude Code と Codex のセッションをアニメーションするマスコットとして表示し、質問や権限リクエストにノッチから直接答えられる。
+Open Source: https://github.com/joey-david/topnotchers
+Commit: Add Topnotchers to Menu Bar Tools (#3663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Topnotchers<br/>Description: MacBook のノッチに Claude Code と Codex のセッションをアニメーションするマスコットとして表示し、質問や権限リクエストにノッチから直接答えられる。<br/>Open Source: https://github.com/joey-david/topnotchers<br/>Commit: Add Topnotchers to Menu Bar Tools (#3663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed]]></content:encoded>
+    </item>
     <item>
       <title>ClipRecallBar</title>
       <link>https://turhe123.github.io/clip-recall-bar/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/MidZai/aman_check
 Commit: Add Aman Check (#3496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Aman Check<br/>Description: 中古 Mac の日付入りで正直な状態レポートを作成：ロック、バッテリー、SSD、ガイド付きハードウェアテスト。<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
-    </item>
-    <item>
-      <title>Photo Review</title>
-      <link>https://danielyaa5.github.io/photo-review/</link>
-      <guid isPermaLink="false">9a2595e6169e7aec6e34395e90f230e64fe74d37:Photo Review</guid>
-      <pubDate>Fri, 16 Oct 2026 00:12:21 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Photo Review
-Description: iCloud写真ライブラリを容量順に一覧表示し、大きなビデオの圧縮や選んだ項目の削除ができるオープンソースツール。
-Website: https://danielyaa5.github.io/photo-review/
-Commit: Add Photo Review (#3495)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Photo Review<br/>Description: iCloud写真ライブラリを容量順に一覧表示し、大きなビデオの圧縮や選んだ項目の削除ができるオープンソースツール。<br/>Website: https://danielyaa5.github.io/photo-review/<br/>Commit: Add Photo Review (#3495)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:43:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Topnotchers</title>
+      <link>https://github.com/joey-david/topnotchers</link>
+      <guid isPermaLink="false">23cfc5c3fd8577955132c24082804bd7d1b307ed:Topnotchers</guid>
+      <pubDate>Sat, 24 Oct 2026 07:43:17 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Topnotchers
+Description: MacBook 노치에 Claude Code와 Codex 세션을 움직이는 마스코트로 보여 주고, 질문과 권한 요청에 노치에서 바로 답할 수 있습니다.
+Open Source: https://github.com/joey-david/topnotchers
+Commit: Add Topnotchers to Menu Bar Tools (#3663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Topnotchers<br/>Description: MacBook 노치에 Claude Code와 Codex 세션을 움직이는 마스코트로 보여 주고, 질문과 권한 요청에 노치에서 바로 답할 수 있습니다.<br/>Open Source: https://github.com/joey-david/topnotchers<br/>Commit: Add Topnotchers to Menu Bar Tools (#3663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed]]></content:encoded>
+    </item>
     <item>
       <title>ClipRecallBar</title>
       <link>https://turhe123.github.io/clip-recall-bar/</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/MidZai/aman_check
 Commit: Add Aman Check (#3496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Aman Check<br/>Description: 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트.<br/>Open Source: https://github.com/MidZai/aman_check<br/>Commit: Add Aman Check (#3496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cae489356f4923ac8a6227c31be5fb34b7b0b447]]></content:encoded>
-    </item>
-    <item>
-      <title>Photo Review</title>
-      <link>https://danielyaa5.github.io/photo-review/</link>
-      <guid isPermaLink="false">9a2595e6169e7aec6e34395e90f230e64fe74d37:Photo Review</guid>
-      <pubDate>Fri, 16 Oct 2026 00:12:21 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Photo Review
-Description: iCloud 사진 보관함을 용량순으로 보여 주고, 큰 동영상을 압축하거나 선택한 항목을 삭제하는 오픈소스 도구.
-Website: https://danielyaa5.github.io/photo-review/
-Commit: Add Photo Review (#3495)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Photo Review<br/>Description: iCloud 사진 보관함을 용량순으로 보여 주고, 큰 동영상을 압축하거나 선택한 항목을 삭제하는 오픈소스 도구.<br/>Website: https://danielyaa5.github.io/photo-review/<br/>Commit: Add Photo Review (#3495)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37]]></content:encoded>
     </item>
   </channel>
 </rss>
