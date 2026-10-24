@@ -757,6 +757,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [KelpShot](https://kelpshot.app/) - Screenshot and annotation tool with scrolling capture, text redaction, and on-device OCR. ![Native App][Native Icon]
 * [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - Screenshot and annotation tool with screen recording, scrolling capture, and OCR. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - Screenshot annotation and canvas tool with blur, mosaic, and watermark features. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
