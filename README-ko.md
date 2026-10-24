@@ -1126,6 +1126,7 @@ Awesome Mac
 * [Phosphene](https://kagerou.glass/phosphene/) - 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - 로컬 동영상을 데스크톱 배경화면으로 설정합니다. [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
+* [Weatherling](https://www.weatherling.app/) - 창과 상호작용하는 비, 눈, 낙엽, 햇빛 효과를 데스크톱에 더하는 날씨 애니메이션 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6813641198)
 * [FanPilot](https://github.com/zyvren/FanPilot) - Apple Silicon Mac용 팬 제어 및 온도 모니터. 메뉴 막대 온도 표시, 수동·최대·Auto Boost 규칙·사용자 곡선 제어, 안전 장치가 있는 헬퍼와 CLI 제공. [![Open-Source Software][OSS Icon]](https://github.com/zyvren/FanPilot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ftop](https://github.com/Nongfsq/ftop) - 어떤 창 크기에도 레이아웃이 맞춰지는 Apple Silicon용 플로팅 시스템 모니터로, 코어별 사용률과 주파수, GPU, 메모리 압력, 네트워크를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/Nongfsq/ftop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구. [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
