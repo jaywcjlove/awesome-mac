@@ -743,6 +743,7 @@ Awesome Mac
 * [Newton(原Cloudmagic)](https://newtonhq.com) - 界面非常简洁的一个邮件客户端。
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
+* [Premail](https://www.premail.pro/) - 适用于 Gmail、Outlook 和 iCloud 的 AI 邮件过滤助手，可与现有邮件客户端配合使用。 ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持 Mac 和 iPhone。![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的 Email 客户端程序。![Freeware][Freeware Icon]
 
