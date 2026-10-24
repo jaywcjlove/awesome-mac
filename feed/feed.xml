@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:30:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PitchTap</title>
+      <link>https://github.com/gkudva96/pitchtap</link>
+      <guid isPermaLink="false">e90f93a68d97d52db43ee376f22d1b7fb2319e84:PitchTap</guid>
+      <pubDate>Sat, 24 Oct 2026 02:30:07 GMT</pubDate>
+      <category>Audio and Video Tools / Audio Record and Process</category>
+      <description>Category: Audio and Video Tools / Audio Record and Process
+App: PitchTap
+Description: Open-source menu bar app that changes the key of any app&apos;s audio live without changing the tempo.
+Open Source: https://github.com/gkudva96/pitchtap
+Commit: Add PitchTap to Audio Record and Process (#3791)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: PitchTap<br/>Description: Open-source menu bar app that changes the key of any app&apos;s audio live without changing the tempo.<br/>Open Source: https://github.com/gkudva96/pitchtap<br/>Commit: Add PitchTap to Audio Record and Process (#3791)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84]]></content:encoded>
+    </item>
     <item>
       <title>Archivator</title>
       <link>https://github.com/davidpraznik/Archivator</link>
@@ -693,20 +707,6 @@ Website: https://leoanimesh.github.io/OpenClean/
 Commit: Add OpenClean to Cleanup and Uninstall (#3462)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/040693f1247026cc9ac5ed03db6a4c0e8e27fbcb</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: OpenClean<br/>Description: Free, open-source Mac cleaner that explains every item before removal and quarantines anything not trivially rebuilt so you can restore it. Includes an app uninstaller, disk map and menu bar monitor.<br/>Website: https://leoanimesh.github.io/OpenClean/<br/>Commit: Add OpenClean to Cleanup and Uninstall (#3462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/040693f1247026cc9ac5ed03db6a4c0e8e27fbcb]]></content:encoded>
-    </item>
-    <item>
-      <title>JET Pilot</title>
-      <link>https://jet-pilot.app/</link>
-      <guid isPermaLink="false">8eced91961ef8464a19b8ad391fd8e3ed1f8a53f:JET Pilot</guid>
-      <pubDate>Wed, 14 Oct 2026 05:12:48 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: JET Pilot
-Description: Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts.
-Website: https://jet-pilot.app/
-Commit: Add JET Pilot to Developer Utilities (EN/ZH/JA/KO) (#3450)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8eced91961ef8464a19b8ad391fd8e3ed1f8a53f</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: JET Pilot<br/>Description: Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts.<br/>Website: https://jet-pilot.app/<br/>Commit: Add JET Pilot to Developer Utilities (EN/ZH/JA/KO) (#3450)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8eced91961ef8464a19b8ad391fd8e3ed1f8a53f]]></content:encoded>
     </item>
   </channel>
 </rss>
