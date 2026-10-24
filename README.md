@@ -317,6 +317,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Calibre](https://calibre-ebook.com/) - Free, open-source e-book manager and reader. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with public-domain books and sync. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
 * [Clearview](https://clearview-reader.github.io/clearview-x/index.html) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
+* [Leaf](https://chengffei.github.io/leaf/) - Minimal EPUB, MOBI and AZW3 reader that opens files straight from Finder, with no library. [![Open-Source Software][OSS Icon]](https://github.com/chengffei/leaf) ![Freeware][Freeware Icon]
 * [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 * [Klib](https://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?platform=mac)
@@ -753,6 +754,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Screenshot Tools
 
 * [capcap](https://capcap.skyrin.fun) - Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload. [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
+* [Clip](https://chengffei.github.io/clip/) - Menu bar screenshot tool: double-tap ⌘ to capture, annotate, record the region to MP4/GIF, and OCR text to the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/chengffei/clip) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]

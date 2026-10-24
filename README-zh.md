@@ -533,6 +533,7 @@ Awesome Mac
 ### 截图工具
 
 * [capcap](https://capcap.skyrin.fun) - 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。 [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
+* [Clip](https://chengffei.github.io/clip/) - 菜单栏截图工具，双击 ⌘ 截图、标注、选区录屏为 MP4/GIF、OCR 文字直接进剪贴板。 [![Open-Source Software][OSS Icon]](https://github.com/chengffei/clip) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 支持录屏、滚动截图和 OCR 的截图标注工具。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
@@ -991,6 +992,7 @@ Awesome Mac
 * [Kindle App](https://apps.apple.com/cn/app/kindle-%E7%94%B5%E5%AD%90%E9%98%85%E8%AF%BB%E5%99%A8/id302584613?platform=mac) - 亚马逊 Kindle App 电子书阅读器。
 * [Klib](http://klib.me/cn/) - 全新的 Kindle、Apple Books 标注管理工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/klib-%E6%A0%87%E6%B3%A8-%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86/id1196268448?platform=mac)
 * [koodo-reader](https://github.com/koodo-reader/koodo-reader) - 一款现代电子书管理和阅读器，支持 Windows、macOS、Linux 和 Web 平台的同步和备份功能。[![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader) ![Freeware][Freeware Icon]
+* [Leaf](https://chengffei.github.io/leaf/) - 极简 EPUB、MOBI、AZW3 阅读器，从访达直接打开，没有书库。 [![Open-Source Software][OSS Icon]](https://github.com/chengffei/leaf) ![Freeware][Freeware Icon]
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - 开源 RSVP 快速阅读器，支持 EPUB、PDF 和网页文章，并提供全文视图。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://readest.com) - 开源电子书阅读器，界面清爽并提供丰富阅读工具。 [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - 一款支持语义搜索、AI 问答和笔记管理的电子书阅读器。[![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
