@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:18:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FileShipper</title>
+      <link>https://getapps.cafe/app/fileshipper</link>
+      <guid isPermaLink="false">27d9cf88a9da8862fd43ee39ad219d4148c3671b:FileShipper</guid>
+      <pubDate>Sat, 24 Oct 2026 06:18:26 GMT</pubDate>
+      <category>Communication / File Sharing</category>
+      <description>Category: Communication / File Sharing
+App: FileShipper
+Description: Peer-to-peer file transfer between computers and phones over local Wi-Fi.
+Website: https://getapps.cafe/app/fileshipper
+Commit: Add FileShipper (#2701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
+      <content:encoded><![CDATA[Category: Communication / File Sharing<br/>App: FileShipper<br/>Description: Peer-to-peer file transfer between computers and phones over local Wi-Fi.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
+    </item>
     <item>
       <title>Stedding</title>
       <link>https://stedding.dev/</link>
@@ -693,20 +707,6 @@ Website: https://danielyaa5.github.io/photo-review/
 Commit: Add Photo Review (#3495)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Photo Review<br/>Description: Open-source tool that lists an iCloud Photos library by size, then compresses large videos or deletes what you pick.<br/>Website: https://danielyaa5.github.io/photo-review/<br/>Commit: Add Photo Review (#3495)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a2595e6169e7aec6e34395e90f230e64fe74d37]]></content:encoded>
-    </item>
-    <item>
-      <title>Strata Files</title>
-      <link>https://stratafiles.app</link>
-      <guid isPermaLink="false">0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1:Strata Files</guid>
-      <pubDate>Thu, 15 Oct 2026 23:47:30 GMT</pubDate>
-      <category>Utilities / Finder Tools</category>
-      <description>Category: Utilities / Finder Tools
-App: Strata Files
-Description: Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
-Website: https://stratafiles.app
-Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
-      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Strata Files<br/>Description: Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
     </item>
   </channel>
 </rss>

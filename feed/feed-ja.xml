@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:18:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FileShipper</title>
+      <link>https://getapps.cafe/app/fileshipper</link>
+      <guid isPermaLink="false">27d9cf88a9da8862fd43ee39ad219d4148c3671b:FileShipper</guid>
+      <pubDate>Sat, 24 Oct 2026 06:18:26 GMT</pubDate>
+      <category>コミュニケーション / ファイル共有</category>
+      <description>Category: コミュニケーション / ファイル共有
+App: FileShipper
+Description: ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。
+Website: https://getapps.cafe/app/fileshipper
+Commit: Add FileShipper (#2701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
+      <content:encoded><![CDATA[Category: コミュニケーション / ファイル共有<br/>App: FileShipper<br/>Description: ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
+    </item>
     <item>
       <title>Stedding</title>
       <link>https://stedding.dev/</link>
@@ -693,20 +707,6 @@ Website: https://stratafiles.app
 Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1</description>
       <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: Strata Files<br/>Description: インスタント検索、リアルタイムのフォルダサイズ、ディスク使用量マップ、デュアルペインを備えたオープンソースのファイルマネージャー兼 Finder 代替。<br/>Website: https://stratafiles.app<br/>Commit: Add Strata Files to Finder Tools (EN/ZH/JA/KO) (#3494)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0eb4af68e59e84cf3b0af487f01b70f4fee0e9c1]]></content:encoded>
-    </item>
-    <item>
-      <title>FanPilot</title>
-      <link>https://github.com/zyvren/FanPilot</link>
-      <guid isPermaLink="false">aed244574acfb535c4d8ca7229a18d4a88606201:FanPilot</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:09 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: FanPilot
-Description: Apple Silicon Mac向けのファン制御・温度モニター。メニューバーに温度を表示し、手動・最大・Auto Boostルール・カスタムカーブで制御。フェイルセーフなヘルパーとCLI付き。
-Open Source: https://github.com/zyvren/FanPilot
-Commit: Add FanPilot to System Related Tools (#3497)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: FanPilot<br/>Description: Apple Silicon Mac向けのファン制御・温度モニター。メニューバーに温度を表示し、手動・最大・Auto Boostルール・カスタムカーブで制御。フェイルセーフなヘルパーとCLI付き。<br/>Open Source: https://github.com/zyvren/FanPilot<br/>Commit: Add FanPilot to System Related Tools (#3497)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aed244574acfb535c4d8ca7229a18d4a88606201]]></content:encoded>
     </item>
   </channel>
 </rss>
