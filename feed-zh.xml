@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:35:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WattMate</title>
+      <link>https://wattmateapp.com</link>
+      <guid isPermaLink="false">3827925f7e7ac9b43c34d7c201a3001da63fa625:WattMate</guid>
+      <pubDate>Sat, 24 Oct 2026 11:35:18 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: WattMate
+Description: 在菜单栏中直接查看哪些应用和 AI 编程代理在消耗 MacBook 电池，显示真实瓦数，以及退出某个应用能换回的分钟数。
+Website: https://wattmateapp.com
+Commit: Add WattMate to System Related Tools (#3718)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: WattMate<br/>Description: 在菜单栏中直接查看哪些应用和 AI 编程代理在消耗 MacBook 电池，显示真实瓦数，以及退出某个应用能换回的分钟数。<br/>Website: https://wattmateapp.com<br/>Commit: Add WattMate to System Related Tools (#3718)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625]]></content:encoded>
+    </item>
     <item>
       <title>Swivel</title>
       <link>https://github.com/jonathanlotan/Swivel</link>
@@ -693,20 +707,6 @@ Website: https://notchmuse.com/zh/
 Commit: Add NotchMuse to Audio and Video Tools (EN/ZH/JA/KO) (#3566)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/073d9865010d45075d10e672d9e8436001df07d3</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: NotchMuse<br/>Description: 开源同步歌词工具，可在菜单栏、刘海旁或 Dock 上方显示 Spotify、Apple Music、网易云音乐、QQ 音乐和汽水音乐的歌词。<br/>Website: https://notchmuse.com/zh/<br/>Commit: Add NotchMuse to Audio and Video Tools (EN/ZH/JA/KO) (#3566)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/073d9865010d45075d10e672d9e8436001df07d3]]></content:encoded>
-    </item>
-    <item>
-      <title>Panoply</title>
-      <link>https://github.com/anzal1/panoply</link>
-      <guid isPermaLink="false">7f904dc2a01444cf5f103eea8ccf8af634812ae9:Panoply</guid>
-      <pubDate>Sat, 17 Oct 2026 16:02:45 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Panoply
-Description: 免费的本地文件工具集：PDF、图片、音视频、OCR、证件照、即时文件搜索和磁盘地图，所有处理都在你的电脑上完成。
-Open Source: https://github.com/anzal1/panoply
-Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Panoply<br/>Description: 免费的本地文件工具集：PDF、图片、音视频、OCR、证件照、即时文件搜索和磁盘地图，所有处理都在你的电脑上完成。<br/>Open Source: https://github.com/anzal1/panoply<br/>Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9]]></content:encoded>
     </item>
   </channel>
 </rss>

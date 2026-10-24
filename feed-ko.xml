@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:35:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WattMate</title>
+      <link>https://wattmateapp.com</link>
+      <guid isPermaLink="false">3827925f7e7ac9b43c34d7c201a3001da63fa625:WattMate</guid>
+      <pubDate>Sat, 24 Oct 2026 11:35:18 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: WattMate
+Description: 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다.
+Website: https://wattmateapp.com
+Commit: Add WattMate to System Related Tools (#3718)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: WattMate<br/>Description: 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다.<br/>Website: https://wattmateapp.com<br/>Commit: Add WattMate to System Related Tools (#3718)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625]]></content:encoded>
+    </item>
     <item>
       <title>Swivel</title>
       <link>https://github.com/jonathanlotan/Swivel</link>
@@ -693,20 +707,6 @@ Website: https://notchmuse.com/
 Commit: Add NotchMuse to Audio and Video Tools (EN/ZH/JA/KO) (#3566)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/073d9865010d45075d10e672d9e8436001df07d3</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: NotchMuse<br/>Description: Spotify, Apple Music, NetEase Cloud Music, QQ Music, Soda Music의 동기화 가사를 메뉴 막대, 노치 옆 또는 Dock 위에 표시하는 오픈 소스 가사 도구.<br/>Website: https://notchmuse.com/<br/>Commit: Add NotchMuse to Audio and Video Tools (EN/ZH/JA/KO) (#3566)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/073d9865010d45075d10e672d9e8436001df07d3]]></content:encoded>
-    </item>
-    <item>
-      <title>Panoply</title>
-      <link>https://github.com/anzal1/panoply</link>
-      <guid isPermaLink="false">7f904dc2a01444cf5f103eea8ccf8af634812ae9:Panoply</guid>
-      <pubDate>Sat, 17 Oct 2026 16:02:45 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Panoply
-Description: PDF, 이미지, 동영상과 오디오, OCR, 증명사진, 즉시 파일 검색, 디스크 맵을 제공하는 기기 내 무료 파일 도구 모음.
-Open Source: https://github.com/anzal1/panoply
-Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Panoply<br/>Description: PDF, 이미지, 동영상과 오디오, OCR, 증명사진, 즉시 파일 검색, 디스크 맵을 제공하는 기기 내 무료 파일 도구 모음.<br/>Open Source: https://github.com/anzal1/panoply<br/>Commit: Add Panoply to General Tools (EN/ZH/JA/KO) (#3557)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f904dc2a01444cf5f103eea8ccf8af634812ae9]]></content:encoded>
     </item>
   </channel>
 </rss>
