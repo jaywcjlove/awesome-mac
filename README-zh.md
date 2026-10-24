@@ -1009,6 +1009,7 @@ Awesome Mac
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - 一个用于标记和归档任务的好工具。[![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-archiver/id1433801905?platform=mac)
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - 用于分析元数据、结构和安全风险的 PDF 检查工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - PDF 阅读、批注，编辑文本，添加照片，填写表单。
+* [PDFCafe](https://getapps.cafe/app/pdfcafe) - PDF 阅读与编辑工具，支持批注、签名、插入图片以及直接修改文字。![Freeware][Freeware Icon]
 * [PDFgear](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?platform=mac) - 轻松处理 PDF 任务。阅读、编辑、转换、合并和签署 PDF 文件，跨设备免费使用，无需注册。还可以通过本地 AI 与 PDF 文件进行对话。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?platform=mac)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - 可以查看，创建，签名，转换和压缩任何 PDF 文档。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 * [PDFsail](https://pdfsail.com/) - 集编辑、转换、合并、压缩和 OCR 于一体的 PDF 工具。
