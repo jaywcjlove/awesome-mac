@@ -1778,6 +1778,7 @@ Awesome Mac
 * [HopToDesk](https://www.hoptodesk.com/) - エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。 [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
+* [Orbit Play](https://orbitplay.dev/) - PSNにサインインせずにローカルネットワーク経由でストリーミングできる、脱獄済みPS5向けのオープンソースのリモートプレイクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/saawant12/orbit-play-ps5) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - 低遅延のリモートデスクトップ兼ゲームストリーミングツール。
 * [RealVNC](https://www.realvnc.com) - デスクトップとモバイルのリモートアクセスのためのオリジナルかつ最高のソフトウェア。
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 複数プロトコルの接続をまとめて管理できるリモート接続クライアント。 ![Freeware][Freeware Icon]
