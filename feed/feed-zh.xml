@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:44:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Jutsu Studio</title>
+      <link>https://jutsustudio.com/</link>
+      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
+      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Jutsu Studio
+Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。
+Website: https://jutsustudio.com/
+Commit: Add Jutsu Studio to Other Tools (#3865)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Jutsu Studio<br/>Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
+    </item>
     <item>
       <title>Moony</title>
       <link>https://moonyfinance.com</link>
@@ -693,20 +707,6 @@ Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
 Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
       <content:encoded><![CDATA[Category: 虚拟机<br/>App: Mac Android Subsystem<br/>Description: 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
-    </item>
-    <item>
-      <title>TetherCam</title>
-      <link>https://tethercam.app/</link>
-      <guid isPermaLink="false">aa7d406cbe4b855cabe690dc67d4ed43891e6f1e:TetherCam</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:06 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: TetherCam
-Description: 通过 USB 将 iPhone 用作 Mac 的纯视频摄像头，或使用 OBS 插件接收视频和手机麦克风音频。
-Website: https://tethercam.app/
-Commit: Add TetherCam to the app lists (#3577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: TetherCam<br/>Description: 通过 USB 将 iPhone 用作 Mac 的纯视频摄像头，或使用 OBS 插件接收视频和手机麦克风音频。<br/>Website: https://tethercam.app/<br/>Commit: Add TetherCam to the app lists (#3577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e]]></content:encoded>
     </item>
   </channel>
 </rss>

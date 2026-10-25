@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:44:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Jutsu Studio</title>
+      <link>https://jutsustudio.com/</link>
+      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
+      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Jutsu Studio
+Description: Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트.
+Website: https://jutsustudio.com/
+Commit: Add Jutsu Studio to Other Tools (#3865)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Jutsu Studio<br/>Description: Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트.<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
+    </item>
     <item>
       <title>Moony</title>
       <link>https://moonyfinance.com</link>
@@ -693,20 +707,6 @@ Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
 Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Mac Android Subsystem<br/>Description: Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다.<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
-    </item>
-    <item>
-      <title>TetherCam</title>
-      <link>https://tethercam.app/</link>
-      <guid isPermaLink="false">aa7d406cbe4b855cabe690dc67d4ed43891e6f1e:TetherCam</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:06 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: TetherCam
-Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.
-Website: https://tethercam.app/
-Commit: Add TetherCam to the app lists (#3577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: TetherCam<br/>Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.<br/>Website: https://tethercam.app/<br/>Commit: Add TetherCam to the app lists (#3577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e]]></content:encoded>
     </item>
   </channel>
 </rss>
