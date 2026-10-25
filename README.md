@@ -793,6 +793,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Screen Studio](https://www.screen.studio/) - Screen recorder for polished videos with automatic motion effects.
 * [ScreenKite](https://www.screenkite.com/) - Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
+* [Screenforge](https://screenforge.co/) - Free screen recorder with auto-zoom, cursor effects, and a timeline editor. ![Freeware][Freeware Icon]
 * [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recorder with auto-zoom, cursor effects, and timeline editing. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available screen and audio recorder with searchable local history, optional cloud AI, and free and paid plans.
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
