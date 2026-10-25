@@ -663,6 +663,7 @@ Awesome Mac
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC 이미지를 JPEG나 PNG로 변환. ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 이미지 압축 및 EXIF 정보 제거. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - 마크다운 지원 이미지 업로드 도구. ![Freeware][Freeware Icon]
+* [Jutsu Studio](https://jutsustudio.com/) - Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
 * [CompressO](https://github.com/codeforreal1/compressO) - 이미지와 비디오 용량을 줄여 주는 오픈 소스 압축 도구. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - 개인 사진 라이브러리를 오프라인에서 둘러보고 정리할 수 있는 로컬 사진 관리자. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottie 파일용 Quick Look 확장 기능을 갖춘 네이티브 Lottie 애니메이션 플레이어. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
