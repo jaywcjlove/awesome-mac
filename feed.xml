@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 02:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:19:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MDViewer</title>
+      <link>https://mmmikael.github.io/mdviewer/</link>
+      <guid isPermaLink="false">1b4a5e29b83225f5000c5177751df1197d46353d:MDViewer</guid>
+      <pubDate>Sun, 25 Oct 2026 03:19:02 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MDViewer
+Description: Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model.
+Website: https://mmmikael.github.io/mdviewer/
+Commit: Add MDViewer to Markdown Tools (#3835)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MDViewer<br/>Description: Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model.<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Commit: Add MDViewer to Markdown Tools (#3835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d]]></content:encoded>
+    </item>
     <item>
       <title>Clipstack</title>
       <link>https://chiranjeebhub.github.io/clipstack-site/</link>
@@ -693,20 +707,6 @@ Website: https://dynamicmenubar.com
 Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Dynamic Menu Bar<br/>Description: Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.<br/>Website: https://dynamicmenubar.com<br/>Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d]]></content:encoded>
-    </item>
-    <item>
-      <title>mFix</title>
-      <link>https://github.com/Zingzy/mFix</link>
-      <guid isPermaLink="false">606a68513b14a6dc71777bcac963468b86a874fe:mFix</guid>
-      <pubDate>Sat, 17 Oct 2026 22:16:07 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: mFix
-Description: Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews.
-Open Source: https://github.com/Zingzy/mFix
-Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: mFix<br/>Description: Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews.<br/>Open Source: https://github.com/Zingzy/mFix<br/>Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe]]></content:encoded>
     </item>
   </channel>
 </rss>
