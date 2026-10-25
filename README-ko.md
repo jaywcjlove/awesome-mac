@@ -993,6 +993,7 @@ Awesome Mac
 
 * [Convertino](https://github.com/hasanzadee/convertino) - 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다. [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
+* [Dockling](https://docket.shiduo.app/) - Dock 옆에 시계, 날씨, 캘린더, 메모, 할 일, 음악, 환율·단위 변환 등 40개 이상의 위젯을 두는 선반. 노치 메시지 아일랜드도 제공. [![Open-Source Software][OSS Icon]](https://github.com/hanson-zz/docket-zh)
 * [Dropover](https://dropoverapp.com/) - 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 
 ### 클립보드 도구
