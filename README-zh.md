@@ -602,6 +602,7 @@ Awesome Mac
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
 * [svgus](http://www.svgs.us/) - SVG 图片管理器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/svgsus/id1106867065?platform=mac)
+* [Swapjutsu](https://jutsustudio.com/swapjutsu/) - 开源的视频角色替换工具，使用 Seedance 2.5 或 Wan 2.2 Animate，并在 Apple 芯片上完成本地预处理。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) ![Freeware][Freeware Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持 iTerm、Intellij IDEA、Vim 等。
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
 * [CompressO](https://github.com/codeforreal1/compressO) - 一款用于压缩视频和图片体积的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
