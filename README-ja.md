@@ -1190,6 +1190,7 @@ Awesome Mac
 
 * [DeepL](https://www.deepl.com/en/app/) - 最高品質の翻訳 ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [Glint](https://github.com/jsogn/Glint) - 中国語話者向けのネイティブ英語学習ツールで、拼音入力メソッドで現在ハイライトされている候補の横に英訳を表示し、入力メソッド自体は置き換えません。 [![Open-Source Software][OSS Icon]](https://github.com/jsogn/Glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
