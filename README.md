@@ -506,6 +506,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### API Development and Analysis
 
+* [agent-qa](https://vostride.com) - Natural-language web and mobile testing with advanced memidex memory and self-improvement, available through CLI and MCP.
 * [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - Open-source API client and Postman alternative.

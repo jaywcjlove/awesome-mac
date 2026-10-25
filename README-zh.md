@@ -325,6 +325,7 @@ Awesome Mac
 
 ### API开发和分析
 
+* [agent-qa](https://vostride.com) - 通过 CLI 和 MCP 进行自然语言 Web 与移动端测试，具备先进的 memidex 记忆引擎和自我改进能力。
 * [Apifox](https://www.apifox.cn) - Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - 比 Postman 看起来漂亮的客户端，测试 HTTP/REST endpoints。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mmattozzi/cocoa-rest-client)
 * [HTTPie](https://httpie.io/) - 经典的命令行 HTTP 客户端，现在提供 APP 版和网页版。HTTPie 简单、直观的 HTTP API 客户端。![Freeware][Freeware Icon]
