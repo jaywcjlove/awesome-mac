@@ -465,6 +465,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.
 * [PortKiller](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
+* [PortRadar](https://joeystdio.github.io/PortRadar/) - Menu bar localhost and developer port manager to monitor listening TCP ports, auto-detect frameworks, view live RAM/CPU, and kill stuck ports in 1 click. [![Open-Source Software][OSS Icon]](https://github.com/joeystdio/PortRadar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - A clean and powerful process monitor.
 * [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
