@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:01:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Arroxy</title>
+      <link>https://arroxy.com/</link>
+      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
+      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
+      <category>다운로드 관리 도구</category>
+      <description>Category: 다운로드 관리 도구
+App: Arroxy
+Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.
+Website: https://arroxy.com/
+Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
+      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Arroxy<br/>Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
+    </item>
     <item>
       <title>Ledge</title>
       <link>https://ledgeapp.dev</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Zfinix/eleven
 Commit: Add Eleven to Developer Utilities (#3584)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Eleven<br/>Description: AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱.<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
-    </item>
-    <item>
-      <title>Peel</title>
-      <link>https://peel.tuguidragos.com/</link>
-      <guid isPermaLink="false">445e46a271120577ad208f84d8ea3f662070fd92:Peel</guid>
-      <pubDate>Mon, 19 Oct 2026 01:35:09 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Peel
-Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.
-Website: https://peel.tuguidragos.com/
-Commit: Add Peel to Cleanup and Uninstall (#3588)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Peel<br/>Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
     </item>
   </channel>
 </rss>

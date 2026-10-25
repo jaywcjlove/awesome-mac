@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:01:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Arroxy</title>
+      <link>https://arroxy.com/</link>
+      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
+      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Arroxy
+Description: Open-source yt-dlp GUI for downloading video, audio, playlists and subtitles from YouTube and other supported sites.
+Website: https://arroxy.com/
+Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Arroxy<br/>Description: Open-source yt-dlp GUI for downloading video, audio, playlists and subtitles from YouTube and other supported sites.<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
+    </item>
     <item>
       <title>Ledge</title>
       <link>https://ledgeapp.dev</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/Zfinix/eleven
 Commit: Add Eleven to Developer Utilities (#3584)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Eleven<br/>Description: Open-source reverse-engineering app where coding agents read, rename and patch binaries, Android apps and GPU kernels alongside you.<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
-    </item>
-    <item>
-      <title>Peel</title>
-      <link>https://peel.tuguidragos.com/</link>
-      <guid isPermaLink="false">445e46a271120577ad208f84d8ea3f662070fd92:Peel</guid>
-      <pubDate>Mon, 19 Oct 2026 01:35:09 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Peel
-Description: Free, open source uninstaller and cleaner that removes apps with every file they leave behind, shows you why each file belongs, and moves everything to the Trash, so you can put it back.
-Website: https://peel.tuguidragos.com/
-Commit: Add Peel to Cleanup and Uninstall (#3588)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Peel<br/>Description: Free, open source uninstaller and cleaner that removes apps with every file they leave behind, shows you why each file belongs, and moves everything to the Trash, so you can put it back.<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
     </item>
   </channel>
 </rss>
