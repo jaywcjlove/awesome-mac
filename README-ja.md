@@ -824,6 +824,7 @@ Awesome Mac
 * [CompressO](https://github.com/codeforreal1/compressO) - 動画や画像の容量を小さくできるオープンソースの圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [JPEGmini](http://www.jpegmini.com/) - 品質を損なうことなく画像サイズを最大80%削減。
+* [Jutsu Studio](https://jutsustudio.com/) - Seedance、Kling、GenjutsuでAI動画と画像を生成し、すべての結果をローカルディスクに保存するオープンソースの非公式Higgsfieldクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
 * [Mark Man](http://getmarkman.com/) - 高速な計測と仕様書作成。
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Nucleo](https://nucleoapp.com/) - アイコンマネージャー。アイコンライブラリのインポート、エクスポート、カスタマイズ、変換。
