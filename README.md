@@ -114,7 +114,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 - [Reading and Writing Tools](#reading-and-writing-tools)
     - [Text Editors](#text-editors)
     - [Office](#office)
-    - [Markdown Tools](#markdown-tools)
+    - [Markdown Tools](#markdown-tools-)
     - [Note-taking](#note-taking)
     - [Journaling](#journaling)
     - [Writing](#writing)
