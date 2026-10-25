@@ -1038,6 +1038,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Playback](https://mafintosh.github.io/playback/) - Experimental video player. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074?platform=mac)
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with broad format support, lyrics, playlists, and queue management. [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
+* [Platter](https://littlecreative.agency/platter/) - Desktop CD-player UI for Apple Music and Spotify: drag an album onto the deck and watch the disc spin; menu bar mini player. [![App Store][app-store Icon]](https://apps.apple.com/us/app/platter-desktop-cd-player/id6805896449?mt=12)
 * [Popcorn Time](https://popcorn-time.site/) - Streaming app for browsing and watching torrent-based movies.[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
 * [Pulp](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/bazalp/pulp)
@@ -1505,6 +1506,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### To-Do Lists
 
 * [2Do](https://www.2doapp.com/) - Nice todo app.
+* [Chitroll](https://littlecreative.agency/chitroll/) - Photoreal paper-roll to-do list for the Mac desktop: write daily tasks, slide the cutter, tear the sheet, archive on a pin stack. Local-only. [![App Store][app-store Icon]](https://apps.apple.com/us/app/chitroll-paper-to-do-list/id6808971807?mt=12)
 * [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 * [Focus](https://meaningful-things.com/focus) - Beautiful pomodoro-based time manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - A simple, flexible Focus Timer. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
