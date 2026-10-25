@@ -1496,6 +1496,7 @@ Awesome Mac
 * [MangoDisk](https://mangodisk.app/zh) - 免费开源的磁盘清理与空间分析工具，本地扫描并在删除前显示具体路径和大小。 [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
 * [Mole](https://mole.fit/) - 原生 Mac 系统维护工具，支持清理、应用管理、磁盘分析和系统监控。 ![Native App][Native Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more) - 按体积扫描文件，快速找出占空间内容。 ![Freeware][Freeware Icon]
+* [Pangalin Space Manager](https://pangalin.com/space-manager/) - 存储管理工具，显示占用磁盘的内容（包括“系统数据”），可清理，或将大文件夹移到外置硬盘并可移回。 ![Native App][Native Icon]
 * [Pear cleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 免费、开源的 Mac 应用程序清理工具 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [Peel](https://peel.tuguidragos.com/) - 免费开源的卸载与清理工具：连同应用留下的所有文件一起移除，告诉你每个文件为什么属于它，并把一切移到废纸篓，需要时还能放回。 [![Open-Source Software][OSS Icon]](https://github.com/TuguiDragos/Peel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Photo Review](https://danielyaa5.github.io/photo-review/) - 开源工具，按大小列出 iCloud 照片图库，可压缩大视频或删除选中的项目。 [![Open-Source Software][OSS Icon]](https://github.com/danielyaa5/photo-review) ![Freeware][Freeware Icon]
