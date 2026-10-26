@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:49:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>StableBar</title>
+      <link>https://stablebar.app</link>
+      <guid isPermaLink="false">7abe3531392d77fee8667871eb724529e1df91d0:StableBar</guid>
+      <pubDate>Mon, 26 Oct 2026 14:49:15 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: StableBar
+Description: 테마, 위젯, 팝업과 AeroSpace, yabai, OmniWM 워크스페이스를 지원하는 커스터마이즈 가능한 메뉴 바 대체 도구.
+Website: https://stablebar.app
+Commit: Add StableBar to Menu Bar Tools (#3909)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: StableBar<br/>Description: 테마, 위젯, 팝업과 AeroSpace, yabai, OmniWM 워크스페이스를 지원하는 커스터마이즈 가능한 메뉴 바 대체 도구.<br/>Website: https://stablebar.app<br/>Commit: Add StableBar to Menu Bar Tools (#3909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0]]></content:encoded>
+    </item>
     <item>
       <title>Tidymint</title>
       <link>https://tidymint.app</link>
@@ -693,20 +707,6 @@ Website: https://optics-framework.org/
 Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f</description>
       <content:encoded><![CDATA[Category: 개발 도구 / API 개발 및 분석<br/>App: Optics Framework<br/>Description: Android, iOS, 웹, 스마트 TV 앱을 위한 오픈소스 UI 테스트 자동화 프레임워크. 테스트는 CSV 또는 YAML로 작성.<br/>Website: https://optics-framework.org/<br/>Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f]]></content:encoded>
-    </item>
-    <item>
-      <title>Convertino</title>
-      <link>https://github.com/hasanzadee/convertino</link>
-      <guid isPermaLink="false">826d422d436c6b9dfa8ade9aefb20b4a6384eda9:Convertino</guid>
-      <pubDate>Wed, 21 Oct 2026 06:23:27 GMT</pubDate>
-      <category>유틸리티</category>
-      <description>Category: 유틸리티
-App: Convertino
-Description: 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다.
-Open Source: https://github.com/hasanzadee/convertino
-Commit: Add Convertino to Utilities (#3674)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9</description>
-      <content:encoded><![CDATA[Category: 유틸리티<br/>App: Convertino<br/>Description: 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다.<br/>Open Source: https://github.com/hasanzadee/convertino<br/>Commit: Add Convertino to Utilities (#3674)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9]]></content:encoded>
     </item>
   </channel>
 </rss>
