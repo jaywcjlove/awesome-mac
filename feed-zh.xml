@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:44:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidymint</title>
+      <link>https://tidymint.app</link>
+      <guid isPermaLink="false">fa0ea76c11d98a7d11caed31d29cbb898bb9754e:Tidymint</guid>
+      <pubDate>Mon, 26 Oct 2026 14:44:46 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Tidymint
+Description: 开源磁盘清理工具，只将项目移至废纸篓，并在删除重复文件前检查项目脚本是否仍在引用它。
+Website: https://tidymint.app
+Commit: Add Tidymint to Cleanup and Uninstall (#3901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Tidymint<br/>Description: 开源磁盘清理工具，只将项目移至废纸篓，并在删除重复文件前检查项目脚本是否仍在引用它。<br/>Website: https://tidymint.app<br/>Commit: Add Tidymint to Cleanup and Uninstall (#3901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e]]></content:encoded>
+    </item>
     <item>
       <title>AudioSync</title>
       <link>https://github.com/yassersutojoyo/audiosync</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/hasanzadee/convertino
 Commit: Add Convertino to Utilities (#3674)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Convertino<br/>Description: 拖动文件时按下 Shift，把它放到环形菜单上即可转换或编辑。<br/>Open Source: https://github.com/hasanzadee/convertino<br/>Commit: Add Convertino to Utilities (#3674)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9]]></content:encoded>
-    </item>
-    <item>
-      <title>Enconvo</title>
-      <link>https://www.enconvo.com/zh-CN</link>
-      <guid isPermaLink="false">0260e4b18598d213cf6c78820e06653eb5d92623:Enconvo</guid>
-      <pubDate>Wed, 21 Oct 2026 00:15:57 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Enconvo
-Description: 能看懂屏幕并在各类应用中执行任务的 AI 智能体。
-Website: https://www.enconvo.com/zh-CN
-Commit: Add Enconvo
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Enconvo<br/>Description: 能看懂屏幕并在各类应用中执行任务的 AI 智能体。<br/>Website: https://www.enconvo.com/zh-CN<br/>Commit: Add Enconvo<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623]]></content:encoded>
     </item>
   </channel>
 </rss>

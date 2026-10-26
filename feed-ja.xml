@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:44:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidymint</title>
+      <link>https://tidymint.app</link>
+      <guid isPermaLink="false">fa0ea76c11d98a7d11caed31d29cbb898bb9754e:Tidymint</guid>
+      <pubDate>Mon, 26 Oct 2026 14:44:46 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Tidymint
+Description: 項目をゴミ箱へ移すだけのオープンソースのディスククリーナー。重複ファイルの削除前にプロジェクトのスクリプトが参照していないか確認。
+Website: https://tidymint.app
+Commit: Add Tidymint to Cleanup and Uninstall (#3901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Tidymint<br/>Description: 項目をゴミ箱へ移すだけのオープンソースのディスククリーナー。重複ファイルの削除前にプロジェクトのスクリプトが参照していないか確認。<br/>Website: https://tidymint.app<br/>Commit: Add Tidymint to Cleanup and Uninstall (#3901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e]]></content:encoded>
+    </item>
     <item>
       <title>AudioSync</title>
       <link>https://github.com/yassersutojoyo/audiosync</link>
@@ -693,20 +707,6 @@ Open Source: https://github.com/hasanzadee/convertino
 Commit: Add Convertino to Utilities (#3674)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9</description>
       <content:encoded><![CDATA[Category: ユーティリティ<br/>App: Convertino<br/>Description: ファイルをドラッグ中に Shift を押し、放射状メニューにドロップして変換・編集できます。<br/>Open Source: https://github.com/hasanzadee/convertino<br/>Commit: Add Convertino to Utilities (#3674)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9]]></content:encoded>
-    </item>
-    <item>
-      <title>Enconvo</title>
-      <link>https://www.enconvo.com/ja</link>
-      <guid isPermaLink="false">0260e4b18598d213cf6c78820e06653eb5d92623:Enconvo</guid>
-      <pubDate>Wed, 21 Oct 2026 00:15:57 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Enconvo
-Description: 画面を理解し、さまざまなアプリで作業をこなすAIエージェント。
-Website: https://www.enconvo.com/ja
-Commit: Add Enconvo
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Enconvo<br/>Description: 画面を理解し、さまざまなアプリで作業をこなすAIエージェント。<br/>Website: https://www.enconvo.com/ja<br/>Commit: Add Enconvo<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623]]></content:encoded>
     </item>
   </channel>
 </rss>
