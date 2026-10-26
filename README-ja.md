@@ -641,6 +641,7 @@ Awesome Mac
 * [Redis Insight](https://redis.io/insight/) - Redisデータの閲覧、デバッグ、可視化ができる公式ツール。 ![Freeware][Freeware Icon]
 * [RedisClient](https://github.com/UUGU/redis-client-app) - Mac、Windows、Linux対応のRedisクライアントアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app)
 * [RedisDesktopManager](http://redisdesktop.com) - Redis用のクロスプラットフォームGUI管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
+* [Seqora](https://seqora.dev/) - PostgreSQL、MySQL、MariaDB、SQLite対応のデータベースクライアントで、EXPLAIN実行計画の可視化とインデックスなどスキーマオブジェクトの詳細ページを備える。
 * [Sequel Pro](http://www.sequelpro.com/) - Mac OS X用のMySQLデータベース管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 長年親しまれたmacOSツールSequel Proの後継として維持されているツール。 [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [SQLight](https://aurvan.com/sqlight/) - SQLiteデータベース管理ツール。 ![Freeware][Freeware Icon]
