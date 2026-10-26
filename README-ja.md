@@ -1494,6 +1494,7 @@ Awesome Mac
 * [Nifro](https://github.com/PathGao/Nifro) - Webサイトを設定可能なデスクトップ壁紙に変え、ディスプレイごとに別の表示を設定できます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [Numi](http://numi.io/) - Mac用の美しい電卓アプリ。 ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - 現代のインターネットのための新しいファイアウォール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853?platform=mac)
+* [Novaframe](https://www.novaframe.co.uk) - デスクトップ用 WebGL、シェーダー、HTML5 ライブ壁紙エンジン。 [![Open-Source Software][OSS Icon]](https://github.com/novaframe-hq/novaframe-engine) ![Freeware][Freeware Icon]
 * [OpenDisplay](https://opendisplay.app) - 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。 [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
 * [Panoply](https://github.com/anzal1/panoply) - PDF、画像、動画と音声、OCR、証明写真、即時ファイル検索、ディスクマップを備えた、端末上で動作する無料のファイルツール。 [![Open-Source Software][OSS Icon]](https://github.com/anzal1/panoply) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - 任意の動画を macOS の壁紙に。デスクトップにもロック画面にも対応し、システム設定から直接選択できます。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
