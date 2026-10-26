@@ -985,6 +985,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [R-Studio for Mac](https://www.r-studio.com/data_recovery_macintosh/) - Data recovery tool for damaged, deleted, or formatted disks.
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 * [Disk Drill](https://www.cleverfiles.com/) - Free data recovery tool. Also has a PRO version. [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
+* [iPhone Data Manager](https://iphonedatamanager.com/) - Local-first iPhone backup manager and WhatsApp, photo, message, and diagnostics exporter for Mac. ![Native App][Native Icon]
 
 ## Audio and Video Tools
 

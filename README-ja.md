@@ -988,6 +988,7 @@ Awesome Mac
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 破損・削除・フォーマットされたディスクのデータ復旧ツール。
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 手間のかからない完全ブート可能なディスクバックアップ。
 * [Disk Drill](https://www.cleverfiles.com/) - 無料のデータ復旧ツール。PRO版もあり。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
+* [iPhone Data Manager](https://iphonedatamanager.com/) - iPhoneのローカルバックアップ管理やWhatsAppチャット・写真・メッセージ・診断データのエクスポートに対応するMac用ツール。 ![Native App][Native Icon]
 
 ## オーディオ・ビデオツール
 
