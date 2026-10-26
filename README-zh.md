@@ -422,6 +422,7 @@ Awesome Mac
 * [RedisDesktopManager](https://redisdesktop.com/) - Redis 跨平台的 GUI 管理工具。[![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持 SQL Server, Postgres, Oracle 以及 MySQL 等主流的数据库可视化管理工具.
 * [SQLight](https://aurvan.com/sqlight/) - 一个 SQLite 数据库管理器工具，非常好用。 ![Freeware][Freeware Icon]
+* [SQLly](https://sqlly.app/) - 跨平台 SQL 客户端，提供智能补全与模式智能，支持 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、DuckDB、Redis 等。
 * [TablePlus](https://tableplus.io) - 支持 PostgreSQL，MySQL，RedShift，MariaDB... 各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
 * [TablePro](https://github.com/datlechin/TablePro) - 轻量快速的数据库客户端，支持主流 SQL/NoSQL 数据源并提供 AI 辅助 SQL 编辑。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - 基于 SQLite 的开源后端平台，提供类型安全 API、认证和管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)

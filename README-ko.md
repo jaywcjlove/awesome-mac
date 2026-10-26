@@ -545,6 +545,7 @@ Awesome Mac
 * [Postico](https://eggerapps.at/postico/) - 현대적인 PostgreSQL 클라이언트.
 * [Redis Insight](https://redis.io/insight/) - Redis 데이터를 탐색하고 디버깅하며 시각화할 수 있는 공식 도구. ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
+* [SQLly](https://sqlly.app/) - IntelliSense와 스키마 인텔리전스를 갖춘 크로스 플랫폼 SQL 클라이언트. PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, Redis 등 지원.
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
 * [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - 타입 안전한 API, 인증, 관리 도구를 제공하는 SQLite 기반 오픈 소스 백엔드 플랫폼. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
