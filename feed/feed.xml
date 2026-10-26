@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:48:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Featherview</title>
+      <link>https://featherview.mynetx.net</link>
+      <guid isPermaLink="false">9b81b7efffe3457f66b39c8d141c74d9a9dc6e98:Featherview</guid>
+      <pubDate>Mon, 26 Oct 2026 00:48:19 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Featherview
+Description: Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion.
+Website: https://featherview.mynetx.net
+Commit: Add Featherview to Design and Product › Other Tools (#3871)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Featherview<br/>Description: Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion.<br/>Website: https://featherview.mynetx.net<br/>Commit: Add Featherview to Design and Product › Other Tools (#3871)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98]]></content:encoded>
+    </item>
     <item>
       <title>Swapjutsu</title>
       <link>https://jutsustudio.com/swapjutsu/</link>
@@ -693,20 +707,6 @@ Website: https://www.threadlines.dev
 Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83</description>
       <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Threadlines<br/>Description: Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree.<br/>Website: https://www.threadlines.dev<br/>Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83]]></content:encoded>
-    </item>
-    <item>
-      <title>SSHFire</title>
-      <link>https://github.com/aralozaltin/sshfire</link>
-      <guid isPermaLink="false">c0d47744e0a59b9994de12cbe2db0dac027c6258:SSHFire</guid>
-      <pubDate>Mon, 19 Oct 2026 08:57:20 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: SSHFire
-Description: Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory.
-Open Source: https://github.com/aralozaltin/sshfire
-Commit: Add SSHFire to Terminal Apps (#3612)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: SSHFire<br/>Description: Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory.<br/>Open Source: https://github.com/aralozaltin/sshfire<br/>Commit: Add SSHFire to Terminal Apps (#3612)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258]]></content:encoded>
     </item>
   </channel>
 </rss>
