@@ -985,6 +985,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [R-Studio for Mac](https://www.r-studio.com/data_recovery_macintosh/) - Data recovery tool for damaged, deleted, or formatted disks.
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 * [Disk Drill](https://www.cleverfiles.com/) - Free data recovery tool. Also has a PRO version. [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
+* [Unformat USB](https://aluhxp.github.io/unformat-usb/) - Recover a USB drive or memory card formatted by mistake, with its folders and file names (exFAT, FAT32, NTFS). Read-only, no size limits. [![Open-Source Software][OSS Icon]](https://github.com/aluhxp/unformat-usb) ![Freeware][Freeware Icon]
 
 ## Audio and Video Tools
 
