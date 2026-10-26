@@ -271,6 +271,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - Native macOS outliner for local-first notes stored as plain Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Knovum](https://github.com/madebyzan/knovum) - Local-first desktop AI knowledge workspace on an infinite visual canvas with JSON Canvas and local RAG. [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [LawPulse](https://lttxzmj.github.io/lawpulse-site/) - Local-first legal research tool for Chinese lawyers: offline statute library with per-article notes; all data stays on your Mac. ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
