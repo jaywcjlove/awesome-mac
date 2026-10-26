@@ -470,6 +470,7 @@ Awesome Mac
 * [PPRows](https://github.com/jkpang/PPRows) - コードの行数を計算するアプリケーション。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - クリーンで強力なプロセスモニター。
 * [PushMate](https://pushmate.app) - macOSでのプッシュ通知に関する一般的な問題を解決するツール。
+* [Ramback](https://ramback.app/) - メモリを使っているシミュレーター、エミュレーター、Gradleデーモン、コンテナ、開発サーバーを見つけて停止するメニューバーアプリ。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Responsively](https://responsively.app) - レスポンシブWeb開発を高速化するWeb開発者必携のDevTool。 [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
 * [Runner](https://github.com/yicheng47/runner) - Claude Code、Codex、Copilot CLI、pi などの CLI コーディングエージェントがクルーとして一つのタスクに協力して取り組み、それぞれが本物のターミナルで動作するオープンソースのワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - gitとの対話を強化するシェルスクリプトセット（bashおよびzsh用）。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
