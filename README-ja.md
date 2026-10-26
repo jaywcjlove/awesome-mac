@@ -962,6 +962,7 @@ Awesome Mac
 * [Nylas Mail](https://nylas.com/nylas-mail/) - モダンなWebテクノロジーで構築された拡張可能なデスクトップメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - シンプルで美しく、パワフルなメールクライアント。 ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - パワフルでシンプル、美しいメールクライアント。ライセンスの購入が必要。
+* [Premail](https://www.premail.pro/) - Gmail、Outlook、iCloudに対応し、普段のメールクライアントと併用できるAIメールフィルタリングツール。 ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 高速メールクライアント。Mac OSとiOSの両方に対応。![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - メールをより簡単にするソフトウェア。 ![Freeware][Freeware Icon]
 * [Tutanota](https://tutanota.com/) - セキュリティとプライバシーに重点を置いた暗号化メール。 [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
