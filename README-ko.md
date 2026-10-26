@@ -1149,6 +1149,7 @@ Awesome Mac
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 덮개를 닫아도 절전을 막고 자동 종료 타이머와 배터리 하한 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
 * [Swivel](https://github.com/jonathanlotan/Swivel) - 파일을 드래그하는 중 키를 누르고 휠에 놓으면 변환, 자르기, 압축, 메타데이터 제거, 공유를 할 수 있는 완전 오프라인 도구. [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [TuxKit](https://taciclei.github.io/extfskit-privacy/tuxkit.html) - FSKit으로 커널 확장 없이 외장 드라이브와 디스크 이미지의 ext3/ext4를 읽고 쓰며, ext2/btrfs는 읽기 전용으로 마운트하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6749868134?platform=mac)
 
 ### 할 일 목록 (To-Do Lists)
 
