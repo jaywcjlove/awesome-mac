@@ -1679,6 +1679,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 * [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
+* [FileOctopus](https://www.fileoctopus.com/) - File manager that works like Finder, with split panes, fast search and safe file operations. ![Native App][Native Icon]
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware][Freeware Icon].
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [Findly](https://findly.rocavence.com) - Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps. [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
