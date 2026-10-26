@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:16:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AudioSync</title>
+      <link>https://github.com/yassersutojoyo/audiosync</link>
+      <guid isPermaLink="false">2856e106549442b42813348ae726ea5988bb57aa:AudioSync</guid>
+      <pubDate>Mon, 26 Oct 2026 14:16:15 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: AudioSync
+Description: Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생.
+Open Source: https://github.com/yassersutojoyo/audiosync
+Commit: Add AudioSync (#3817)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: AudioSync<br/>Description: Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생.<br/>Open Source: https://github.com/yassersutojoyo/audiosync<br/>Commit: Add AudioSync (#3817)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa]]></content:encoded>
+    </item>
     <item>
       <title>Comic Commander</title>
       <link>https://krocon.de/products/comiccommander/</link>
@@ -693,20 +707,6 @@ Website: https://www.enconvo.com/ko
 Commit: Add Enconvo
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Enconvo<br/>Description: 화면을 이해하고 다양한 앱에서 작업을 수행하는 AI 에이전트.<br/>Website: https://www.enconvo.com/ko<br/>Commit: Add Enconvo<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623]]></content:encoded>
-    </item>
-    <item>
-      <title>Cove</title>
-      <link>https://huyanxius.github.io/Cove/</link>
-      <guid isPermaLink="false">a1185c652379cdf2fa0113e0919fd03523f3730d:Cove</guid>
-      <pubDate>Tue, 20 Oct 2026 23:47:58 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Cove
-Description: Claude Code와 Codex용 네이티브 입력창, 세션 사이드바, 변경 내용 보기를 제공하는 Apple Silicon용 오픈 소스 프리뷰.
-Website: https://huyanxius.github.io/Cove/
-Commit: Add Cove to four language lists (#3679)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1185c652379cdf2fa0113e0919fd03523f3730d</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Cove<br/>Description: Claude Code와 Codex용 네이티브 입력창, 세션 사이드바, 변경 내용 보기를 제공하는 Apple Silicon용 오픈 소스 프리뷰.<br/>Website: https://huyanxius.github.io/Cove/<br/>Commit: Add Cove to four language lists (#3679)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1185c652379cdf2fa0113e0919fd03523f3730d]]></content:encoded>
     </item>
   </channel>
 </rss>
