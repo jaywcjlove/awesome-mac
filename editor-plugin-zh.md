@@ -86,7 +86,7 @@
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/awesomemacosapp)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md)
 [![Japanese](https://jaywcjlove.github.io/sb/lang/japanese.svg)](editor-plugin-ja.md)
