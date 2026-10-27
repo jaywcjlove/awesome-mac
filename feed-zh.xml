@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:05:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tamka</title>
+      <link>https://www.piedol.top/tamka/</link>
+      <guid isPermaLink="false">11930e4a0da79bd3e82544bde8ebbb19089bd029:Tamka</guid>
+      <pubDate>Tue, 27 Oct 2026 03:05:06 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Tamka
+Description: 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。
+Website: https://www.piedol.top/tamka/
+Commit: Add Tamka to Voice-to-Text (#3921)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11930e4a0da79bd3e82544bde8ebbb19089bd029</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Tamka<br/>Description: 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。<br/>Website: https://www.piedol.top/tamka/<br/>Commit: Add Tamka to Voice-to-Text (#3921)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11930e4a0da79bd3e82544bde8ebbb19089bd029]]></content:encoded>
+    </item>
     <item>
       <title>ParrotFlow</title>
       <link>https://parrotflow.io/</link>
@@ -693,20 +707,6 @@ Website: https://borne.pasahome.org
 Commit: Add Borne to Gaming Software (#3673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329</description>
       <content:encoded><![CDATA[Category: 游戏软件<br/>App: Borne<br/>Description: 原生的 MAME 与经典 PC 游戏（Doom、Quake、Duke Nukem 3D）前端，延续 MAMEUI 的风格，内置模拟器和游戏引擎。<br/>Website: https://borne.pasahome.org<br/>Commit: Add Borne to Gaming Software (#3673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329]]></content:encoded>
-    </item>
-    <item>
-      <title>Perch</title>
-      <link>https://perchapp.dev</link>
-      <guid isPermaLink="false">fab9f588e1535d51fb5e291431852279c7ada31a:Perch</guid>
-      <pubDate>Wed, 21 Oct 2026 06:41:09 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Perch
-Description: 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。
-Website: https://perchapp.dev
-Commit: Add Perch to Menu Bar Tools (#3685)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Perch<br/>Description: 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。<br/>Website: https://perchapp.dev<br/>Commit: Add Perch to Menu Bar Tools (#3685)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a]]></content:encoded>
     </item>
   </channel>
 </rss>
