@@ -13,6 +13,9 @@ menus:
   Top Picks: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
     target: __blank
+  TG: 
+    url: https://t.me/s/AwesomeMacApps
+    target: __blank
   Report: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
     target: __blank
