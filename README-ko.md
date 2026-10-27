@@ -265,6 +265,7 @@ Awesome Mac
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
 * [Standard Notes](https://standardnotes.com/) - 전문가를 위한 종단간 암호화 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - 전역 단축키와 AI 시맨틱 검색을 지원하는 빠른 마크다운 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
+* [SupaJot](https://supajot.app) - 단축키로 바로 여는 스크래치패드로, 탭, 입력 중 마크다운 서식, 줄 단위 계산을 지원하며 메모를 일반 마크다운 파일로 저장. ![Native App][Native Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - 텍스트, 코드, 마크다운, LaTeX를 하나의 노트에서 믹스.

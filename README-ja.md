@@ -292,6 +292,7 @@ Awesome Mac
 * [SideNotes](https://www.apptorium.com/sidenotes) - Markdownサポート付きの画面サイドクイックメモ。
 * [Standard Notes](https://standardnotes.com/) - デジタリストとプロフェッショナルのためのエンドツーエンド暗号化メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - グローバルホットキーとAIセマンティック検索を備えた高速Markdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
+* [SupaJot](https://supajot.app) - ホットキーで呼び出せるスクラッチパッドで、タブ、入力中のMarkdown装飾、行内計算に対応し、メモはプレーンなMarkdownファイルとして保存。 ![Native App][Native Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Markdownサポートとタスク管理機能を備えたオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - メニューバーのカラフルな付箋。 [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - テキスト、コード、Markdown、LaTeXをライブプレビュー付きで1つのノートに統合。
