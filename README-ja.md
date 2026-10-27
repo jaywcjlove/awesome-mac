@@ -645,6 +645,7 @@ Awesome Mac
 * [Sequel Pro](http://www.sequelpro.com/) - Mac OS X用のMySQLデータベース管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 長年親しまれたmacOSツールSequel Proの後継として維持されているツール。 [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [SQLight](https://aurvan.com/sqlight/) - SQLiteデータベース管理ツール。 ![Freeware][Freeware Icon]
+* [SQLly](https://sqlly.app/) - PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、DuckDB、Redis などに対応した、IntelliSense とスキーマインテリジェンスを備えたクロスプラットフォーム SQL クライアント。
 * [SQLPro Studio](http://www.sqlprostudio.com/) - macOS用のシンプルで強力なデータベースマネージャー。
 * [Studio 3T](https://studio3t.com/) - MongoDB用の究極のGUI。 ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - リアルタイムWeb向けのスケーラブルで分散型の協調的ドキュメント-グラフデータベース。 [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
