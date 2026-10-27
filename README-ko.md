@@ -1087,6 +1087,7 @@ Awesome Mac
 * [TypeCue](https://typecue.app) - 준비한 스크립트를 단축키 한 번에 한 줄씩, 실제 키 입력으로 자연스러운 속도로 어떤 앱에나 입력합니다. 데모 녹화와 라이브 발표용. [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [Vorssaint](https://vorssaint.com) - 앱별 음량, 시스템 모니터링, 창 제어, 클립보드 기록, 절전 방지, 앱 정리를 한곳에 모은 오픈 소스 메뉴 막대 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WidgetThemes](https://widgetthemes.com) - 시계, 날씨, 시스템 상태, 음악, 집중 타이머 등 실시간 위젯을 데스크톱에 표시합니다. 30가지 수작업 테마마다 고유한 레이아웃과 배경화면이 있으며 메뉴 막대에서 실행됩니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다. [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
