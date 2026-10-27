@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:40:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ParrotFlow</title>
+      <link>https://parrotflow.io/</link>
+      <guid isPermaLink="false">9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b:ParrotFlow</guid>
+      <pubDate>Tue, 27 Oct 2026 00:40:12 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: ParrotFlow
+Description: 자신만의 규칙, 스크립트, 어휘로 프로그래밍할 수 있는 로컬 음성 받아쓰기 앱.
+Website: https://parrotflow.io/
+Commit: Add ParrotFlow to Voice-to-Text (#3911)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: ParrotFlow<br/>Description: 자신만의 규칙, 스크립트, 어휘로 프로그래밍할 수 있는 로컬 음성 받아쓰기 앱.<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
+    </item>
     <item>
       <title>Lilo</title>
       <link>https://getlilo.app/</link>
@@ -693,20 +707,6 @@ Website: https://perchapp.dev
 Commit: Add Perch to Menu Bar Tools (#3685)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Perch<br/>Description: Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다.<br/>Website: https://perchapp.dev<br/>Commit: Add Perch to Menu Bar Tools (#3685)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a]]></content:encoded>
-    </item>
-    <item>
-      <title>Frink</title>
-      <link>https://frink.dev</link>
-      <guid isPermaLink="false">d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6:Frink</guid>
-      <pubDate>Wed, 21 Oct 2026 06:34:40 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Frink
-Description: 이미 사용 중인 AI 코딩 에이전트 프로바이더 전반에서 병렬 에이전트와, 스케줄, 웹훅 또는 Linear, Sentry 같은 도구의 이벤트로 트리거되는 다단계 커스텀 워크플로를 실행하는 데스크톱 우선 오픈 소스(MIT) 애플리케이션.
-Website: https://frink.dev
-Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Frink<br/>Description: 이미 사용 중인 AI 코딩 에이전트 프로바이더 전반에서 병렬 에이전트와, 스케줄, 웹훅 또는 Linear, Sentry 같은 도구의 이벤트로 트리거되는 다단계 커스텀 워크플로를 실행하는 데스크톱 우선 오픈 소스(MIT) 애플리케이션.<br/>Website: https://frink.dev<br/>Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6]]></content:encoded>
     </item>
   </channel>
 </rss>

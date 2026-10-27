@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:40:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ParrotFlow</title>
+      <link>https://parrotflow.io/</link>
+      <guid isPermaLink="false">9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b:ParrotFlow</guid>
+      <pubDate>Tue, 27 Oct 2026 00:40:12 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: ParrotFlow
+Description: Local dictation app that you can program with your rules, scripts, and vocabulary.
+Website: https://parrotflow.io/
+Commit: Add ParrotFlow to Voice-to-Text (#3911)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ParrotFlow<br/>Description: Local dictation app that you can program with your rules, scripts, and vocabulary.<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
+    </item>
     <item>
       <title>Lilo</title>
       <link>https://getlilo.app/</link>
@@ -693,20 +707,6 @@ Website: https://frink.dev
 Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Frink<br/>Description: Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.<br/>Website: https://frink.dev<br/>Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6]]></content:encoded>
-    </item>
-    <item>
-      <title>Optics Framework</title>
-      <link>https://optics-framework.org/</link>
-      <guid isPermaLink="false">befba1ad55b54e33082ed7315f0b69eca2c0647f:Optics Framework</guid>
-      <pubDate>Wed, 21 Oct 2026 06:32:02 GMT</pubDate>
-      <category>Developer Tools / API Development and Analysis</category>
-      <description>Category: Developer Tools / API Development and Analysis
-App: Optics Framework
-Description: Open-source UI test automation for Android, iOS, web and smart TV apps, with tests written as CSV or YAML steps.
-Website: https://optics-framework.org/
-Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f</description>
-      <content:encoded><![CDATA[Category: Developer Tools / API Development and Analysis<br/>App: Optics Framework<br/>Description: Open-source UI test automation for Android, iOS, web and smart TV apps, with tests written as CSV or YAML steps.<br/>Website: https://optics-framework.org/<br/>Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f]]></content:encoded>
     </item>
   </channel>
 </rss>
