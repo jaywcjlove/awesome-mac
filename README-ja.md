@@ -849,6 +849,7 @@ Awesome Mac
 
 ## AIツール
 
+* [Agent Standup](https://agent-standup.com) - Claude Code、Codex、Mistral Vibe のセッションをアニメーション付きのライブチーム通話として表示し、誰が作業中・停止中・あなた待ちかがわかるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Atoll92/agent-standup) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
