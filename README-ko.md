@@ -245,6 +245,7 @@ Awesome Mac
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - 노트를 일반 Markdown 파일로 저장하는 macOS 네이티브 로컬 우선 아웃라이너. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [LocArk](https://locark.com/) - 마크다운 노트, 비밀번호 기록, 칸반 보드, 마인드맵을 통합한 로컬 우선 워크스페이스. [![App Store][app-store Icon]](https://apps.apple.com/us/app/locark-private-workspace/id6762795586?platform=mac)
 * [Logseq](https://logseq.com/) - 개인정보 우선의 오픈 소스 지식 베이스. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - 심도 있는 PDF 및 EPUB 읽기, 학습 및 노트 앱.
 * [massCode](https://masscode.io/) - 코드 스니펫, 마크다운 노트, HTTP 요청을 한곳에서 관리하는 오픈 소스 개발자 워크스페이스. 데이터는 로컬 마크다운 파일로 저장. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
