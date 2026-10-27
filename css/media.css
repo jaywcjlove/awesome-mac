@@ -29,7 +29,8 @@
     grid-template-columns: minmax(0, 41rem);
   }
   nav.tocs,
-  .sidebar-border {
+  .sidebar-border,
+  .header .logo .title {
     display: none;
   }
 }
