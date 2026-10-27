@@ -504,6 +504,7 @@ Awesome Mac
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - 강력한 버전 관리 도구.
 * [Fork](https://git-fork.com/) - 빠르고 친절한 Git 클라이언트.
+* [GeeTree](https://geetree.app/) - 매우 큰 저장소를 위한 전문 Git 클라이언트. Rust로 작성되었으며 GPU로 렌더링됩니다. ![Freeware][Freeware Icon]
 * [GitButler](https://gitbutler.com/) - 병렬 및 스택 브랜치 관리. [![Open-Source Software][OSS Icon]](https://github.com/gitbutlerapp/gitbutler) ![Freeware][Freeware Icon]
 * [Gitfox](https://www.gitfox.app) - 더 빠른 커밋과 우수한 diff.
 * [GitHub Desktop](https://desktop.github.com/) - 공식 GitHub GUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)
