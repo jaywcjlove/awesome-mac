@@ -1459,6 +1459,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [StorageRadar](https://storageradar.app/) - Disk space analyzer and cleaner that shows what it will delete and waits for your approval, including Xcode, simulator, and Docker caches. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6759776887?pt=128310960&ct=github&mt=8)
 * [Tidymint](https://tidymint.app) - Open-source disk cleaner that only moves items to the Trash and checks whether your project scripts still reference a duplicate before removing it. [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
 
 ### File Organization Tools
