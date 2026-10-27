@@ -574,6 +574,7 @@ Awesome Mac
 * [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
 * [Screenize](https://syi0808.github.io/screenize/) - 支持自动缩放、光标效果和时间轴编辑的开源录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 提供源代码的屏幕与音频录制工具，可搜索本地历史记录，支持可选云端 AI，并提供免费及付费方案。
+* [shroom](https://shroom.am) - 开源的录屏与链接分享工具，全部运行在你自己的 Cloudflare 账户中，10 分钟即可完成设置。 [![Open-Source Software][OSS Icon]](https://github.com/bagrat/shroom) ![Freeware][Freeware Icon]
 * [Tight Studio](https://tight.studio/) - 支持智能缩放、字幕和 AI 配音的录屏工具。
 
 ### 其它工具
