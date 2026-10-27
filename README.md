@@ -843,6 +843,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Export icons for multi-platform[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [Xiaoer Omia](https://xiaoeromia.com/) - Offline viewer for 150+ file types, including DWG, STEP, SketchUp, STL, PSD and camera RAW, without the original apps. [![App Store][app-store Icon]](https://apps.apple.com/app/id6808582772?platform=mac)
 * [Zipic](https://zipic.app/) - Batch image compression tool with presets and automation.
 
 ## AI Tools
