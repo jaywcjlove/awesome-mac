@@ -553,6 +553,7 @@ Awesome Mac
 ### 터미널 앱
 
 * [Alacritty](https://github.com/jwilm/alacritty) - GPU 가속을 지원하는 크로스 플랫폼 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+* [Aster](https://aster.foo/) - Ghostty 기반의 오픈 소스 AppKit 터미널 작업 공간으로, 분할 창, 파일 탐색, Markdown 미리보기를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/OpenFabrica/aster) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 다중 제공자 프로필과 음성 입력을 지원하는 AI 네이티브 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 터미널, SSH, SFTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
