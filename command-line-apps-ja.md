@@ -3,6 +3,16 @@
   <br>
   <br>
 
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - Macのあらゆる場所で使えるAIエージェント</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">画面を認識し、アプリ上で作業し、タスクを最後まで実行します。</a>
+  <br><br>
+
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
@@ -23,13 +33,6 @@
   </a>
   <br>
   <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM 無料のIPアドレス情報照会サイト</a>
   <br><br>
 
 </div>
@@ -80,9 +83,9 @@ Awesome Command Line Apps
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
@@ -119,6 +122,7 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [aisw](https://aiswitcher.dev) - 名前付きプロファイルでClaude Code、Codex、Gemini、Antigravity CLIのアカウントを切り替え、リポジトリごとに使うアカウントを固定。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
@@ -161,11 +165,13 @@ Awesome Command Line Apps
 * [MarkersExtractor](https://github.com/TheAcharya/MarkersExtractor) - Final Cut Pro用のマーカーメタデータ抽出・変換ツールおよびライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/MarkersExtractor) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - Mac App Store用のシンプルなコマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Miller](https://miller.readthedocs.io/en/latest/) - CSV、TSV、表形式JSONなどの名前付きインデックスデータに対するawk、sed、cut、join、sortのようなツール。 [![Open-Source Software][OSS Icon]](https://github.com/johnkerl/miller) ![Freeware][Freeware Icon]
+* [Mole](https://github.com/tw93/Mole) - ターミナルから Mac をクリーンアップ・アンインストール・分析・最適化・監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - ソファから直接[npm](http://npmjs.org/)を管理。 [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [nushell](https://github.com/nushell/nushell) - Rustで書かれたモダンなGitHub時代のシェル。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 * [nvm](https://github.com/nvm-sh/nvm) - 複数のアクティブなnode.jsバージョンを管理するPOSIX準拠のbashスクリプト。 [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
 * [OpenBoot](https://github.com/openbootdotdev/openboot) - Homebrewパッケージ、Cask、dotfiles、シェル設定、git設定、macOS環境設定をキャプチャ・復元するMac開発環境マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/openbootdotdev/openboot) ![Freeware][Freeware Icon]
 * [OpenRecall](https://github.com/openrecall/openrecall) - プライバシーを維持しながら、デジタル履歴にアクセスし、記憶と生産性を向上。 [![OSS][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
+* [purge-cli](https://github.com/soummyaanon/purge) - 再生成可能なビルド成果物、キャッシュ、Xcode DerivedDataを検出し、対話式チェックリストでチェックした項目だけを削除するターミナル用ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [Rebound](https://github.com/shobrook/rebound/) - コンパイルエラーが発生した際にターミナルで即座にStack Overflowの結果を閲覧。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [renamed.to](https://github.com/upspawn/cli.renamed.to) - ドキュメントの内容とOCRを使用したAI搭載のバルクファイルリネームCLI。Homebrewでインストール可能（`brew tap renamed-to/cli`）。 [![Open-Source Software][OSS Icon]](https://github.com/upspawn/cli.renamed.to) ![Freeware][Freeware Icon]
 * [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - ack、ag、grepに似た（しかしより高速な）非常に高速なテキスト検索ツール。 ![Freeware][Freeware Icon]
