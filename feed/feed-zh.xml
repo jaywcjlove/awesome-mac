@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:45:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Yardlet</title>
+      <link>https://yardlet.app</link>
+      <guid isPermaLink="false">d4fcb272fa9e51ba7753b70ef8501912228effb8:Yardlet</guid>
+      <pubDate>Tue, 27 Oct 2026 13:45:44 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Yardlet
+Description: 开源应用，可在同一窗口中并排运行 Codex、Claude Code 等编程代理 CLI，并沿用各代理自己的登录和会话记录。
+Website: https://yardlet.app
+Open Source: https://github.com/zzunkie/yardlet
+Commit: Add Yardlet to AI Tools (#3937)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Yardlet<br/>Description: 开源应用，可在同一窗口中并排运行 Codex、Claude Code 等编程代理 CLI，并沿用各代理自己的登录和会话记录。<br/>Website: https://yardlet.app<br/>Open Source: https://github.com/zzunkie/yardlet<br/>Commit: Add Yardlet to AI Tools (#3937)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8]]></content:encoded>
+    </item>
     <item>
       <title>Anthora</title>
       <link>https://barryanders.github.io/anthora/</link>
@@ -693,20 +708,6 @@ Website: https://kiwidesk.kiwicanopy.com/
 Commit: Add KiwiDesk to Window Management (#3377)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36cf8a45ff36f53d9af26259d1dcfb79adaeaed2</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: KiwiDesk<br/>Description: 平铺式窗口管理器，开箱即用、无需配置文件，带原生设置应用，并支持应用内自动更新。<br/>Website: https://kiwidesk.kiwicanopy.com/<br/>Commit: Add KiwiDesk to Window Management (#3377)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36cf8a45ff36f53d9af26259d1dcfb79adaeaed2]]></content:encoded>
-    </item>
-    <item>
-      <title>IconCraft</title>
-      <link>https://iconcraft.co</link>
-      <guid isPermaLink="false">9709018e42c77aa002d336b09256077ebd66cc7a:IconCraft</guid>
-      <pubDate>Thu, 22 Oct 2026 04:56:34 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: IconCraft
-Description: 用你熟悉的名称和图标替换任意 Mac 应用的名称和图标，应用本身不会被修改。
-Website: https://iconcraft.co
-Commit: Add IconCraft (#3713)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: IconCraft<br/>Description: 用你熟悉的名称和图标替换任意 Mac 应用的名称和图标，应用本身不会被修改。<br/>Website: https://iconcraft.co<br/>Commit: Add IconCraft (#3713)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a]]></content:encoded>
     </item>
   </channel>
 </rss>
