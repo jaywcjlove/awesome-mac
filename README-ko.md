@@ -1100,6 +1100,7 @@ Awesome Mac
 * [Mole](https://mole.fit/) - 정리, 앱 관리, 디스크 분석, 시스템 모니터링을 지원하는 네이티브 Mac 유지 관리 도구. ![Native App][Native Icon]
 * [Peel](https://peel.tuguidragos.com/) - 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/TuguiDragos/Peel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Photo Review](https://danielyaa5.github.io/photo-review/) - iCloud 사진 보관함을 용량순으로 보여 주고, 큰 동영상을 압축하거나 선택한 항목을 삭제하는 오픈소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/danielyaa5/photo-review) ![Freeware][Freeware Icon]
+* [Pika Clean](https://pikaclean.daoly.top/) - 삭제하기 전에 각 파일이 무엇인지, 지워도 안전한지 AI가 설명해 주는 오픈소스 Mac 클리너. 앱 제거, 메뉴 바 모니터, 개발자 캐시 정리도 지원. [![Open-Source Software][OSS Icon]](https://github.com/black-robe-sanfeng/pika-clean) ![Freeware][Freeware Icon]
 * [Profisor](https://github.com/yefga/Profisor) - 메뉴 바에서 현재 프로젝트의 Xcode 프로비저닝 프로파일을 전환. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
