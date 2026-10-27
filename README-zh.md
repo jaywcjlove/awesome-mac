@@ -1120,6 +1120,7 @@ Awesome Mac
 * [Chromium](https://www.chromium.org/Home) - Google Chrome 背后的开源浏览器项目。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
 * [Firefox](http://www.firefox.com.cn/) - 由 Mozilla 开发的免费开源网页浏览器。![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 内置广告拦截的隐私导向 Chromium 浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
+* [Lilo](https://getlilo.app/) - 原生 WebKit 浏览器，提供 Arc 风格的空间、Chrome 扩展、侧边栏终端标签页，以及供 AI 代理使用的内置 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ 浏览器－腾讯出品。![Freeware][Freeware Icon]

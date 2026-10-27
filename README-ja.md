@@ -1173,6 +1173,7 @@ Awesome Mac
 * [Firefox](https://www.firefox.com/) - Mozillaが開発した無料のオープンソースWebブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - プライバシー、セキュリティ、自由に焦点を当てたFirefoxのフォーク。 [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 広告ブロックを内蔵したプライバシー重視のChromiumブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
+* [Lilo](https://getlilo.app/) - Arcスタイルのスペース、Chrome拡張機能、サイドバーのターミナルタブ、AIエージェント向けの内蔵MCPサーバーを備えたネイティブWebKitブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/edge) - Chromiumベースだが、Microsoftが構築したMicrosoft Edge ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) - プライバシーを保護する高速でミニマルなブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
 * [Opera](https://www.opera.com) - 広告ブロック機能でより速く、集中できるブラウジングを体験し、プライベートに閲覧。 ![Freeware][Freeware Icon]
