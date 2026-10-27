@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:03:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SwaprTrans</title>
+      <link>https://linrol.github.io/swapr-trans/</link>
+      <guid isPermaLink="false">099bb424f371acd153ef9d4c2ff45748114e40b0:SwaprTrans</guid>
+      <pubDate>Tue, 27 Oct 2026 15:03:23 GMT</pubDate>
+      <category>翻译工具</category>
+      <description>Category: 翻译工具
+App: SwaprTrans
+Description: 极轻量（&lt;2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。
+Website: https://linrol.github.io/swapr-trans/
+Open Source: https://github.com/linrol/swapr-trans
+Commit: Add SwaprTrans to Translation Tools (#3940)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0</description>
+      <content:encoded><![CDATA[Category: 翻译工具<br/>App: SwaprTrans<br/>Description: 极轻量（&lt;2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。<br/>Website: https://linrol.github.io/swapr-trans/<br/>Open Source: https://github.com/linrol/swapr-trans<br/>Commit: Add SwaprTrans to Translation Tools (#3940)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0]]></content:encoded>
+    </item>
     <item>
       <title>Hey Mac</title>
       <link>https://heymacapp.com/</link>
@@ -695,20 +710,6 @@ Open Source: https://github.com/armamut/md-quicklook
 Commit: Add MD QuickLook to QuickLook Plugins (#3776)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73</description>
       <content:encoded><![CDATA[Category: QuickLook插件<br/>App: MD QuickLook<br/>Description: 无需网页引擎的原生 Markdown Quick Look 扩展，支持语法高亮、数学公式和 Mermaid 图表。<br/>Open Source: https://github.com/armamut/md-quicklook<br/>Commit: Add MD QuickLook to QuickLook Plugins (#3776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73]]></content:encoded>
-    </item>
-    <item>
-      <title>Kumquat</title>
-      <link>https://github.com/TheAlexRay/kumquat</link>
-      <guid isPermaLink="false">d6285252186428c486a834cbf466047727676eb5:Kumquat</guid>
-      <pubDate>Fri, 23 Oct 2026 00:11:00 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Kumquat
-Description: 菜单栏文件转换工具：拖动文件时按一下 Shift，把文件放到转盘上即可转换图片、音频、视频和文档，还支持压缩、OCR、剪辑和标注。
-Open Source: https://github.com/TheAlexRay/kumquat
-Commit: Add Kumquat to Menu Bar Tools (#3755)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6285252186428c486a834cbf466047727676eb5</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Kumquat<br/>Description: 菜单栏文件转换工具：拖动文件时按一下 Shift，把文件放到转盘上即可转换图片、音频、视频和文档，还支持压缩、OCR、剪辑和标注。<br/>Open Source: https://github.com/TheAlexRay/kumquat<br/>Commit: Add Kumquat to Menu Bar Tools (#3755)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6285252186428c486a834cbf466047727676eb5]]></content:encoded>
     </item>
   </channel>
 </rss>
