@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:15:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kipimo</title>
+      <link>https://www.piedol.top/kipimo/</link>
+      <guid isPermaLink="false">5f2aae4a047813eef2f99c4a65683529cf1516cd:Kipimo</guid>
+      <pubDate>Tue, 27 Oct 2026 03:15:42 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Kipimo
+Description: キャッシュの削除、残存ファイルを含むアプリのアンインストール、ディスク使用量の確認、起動項目の確認ができ、削除したものはすべてゴミ箱に移す、オープンソースのメニューバー用システムモニター。
+Website: https://www.piedol.top/kipimo/
+Commit: Add Kipimo to Cleanup and Uninstall (#3922)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Kipimo<br/>Description: キャッシュの削除、残存ファイルを含むアプリのアンインストール、ディスク使用量の確認、起動項目の確認ができ、削除したものはすべてゴミ箱に移す、オープンソースのメニューバー用システムモニター。<br/>Website: https://www.piedol.top/kipimo/<br/>Commit: Add Kipimo to Cleanup and Uninstall (#3922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd]]></content:encoded>
+    </item>
     <item>
       <title>Tamka</title>
       <link>https://www.piedol.top/tamka/</link>
@@ -693,20 +707,6 @@ Website: https://shiyin.weibuilds.com
 Commit: Add Shiyin to Audio Record and Process (#3711)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Shiyin<br/>Description: 会議を録音してデバイス上で文字起こしし、話者を識別して、手持ちの Claude や ChatGPT のサブスクリプションでタイムスタンプ付きの議事録を作るオープンソースのレコーダー。<br/>Website: https://shiyin.weibuilds.com<br/>Commit: Add Shiyin to Audio Record and Process (#3711)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9]]></content:encoded>
-    </item>
-    <item>
-      <title>Borne</title>
-      <link>https://borne.pasahome.org</link>
-      <guid isPermaLink="false">7c856cf604d7a0ebb6630c070a010ac7822dc329:Borne</guid>
-      <pubDate>Wed, 21 Oct 2026 07:22:46 GMT</pubDate>
-      <category>ゲームソフトウェア</category>
-      <description>Category: ゲームソフトウェア
-App: Borne
-Description: MAMEUI の流れをくむ、MAME とクラシック PC ゲーム（Doom、Quake、Duke Nukem 3D）のネイティブなフロントエンド。エミュレーターとゲームエンジンを同梱。
-Website: https://borne.pasahome.org
-Commit: Add Borne to Gaming Software (#3673)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329</description>
-      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: Borne<br/>Description: MAMEUI の流れをくむ、MAME とクラシック PC ゲーム（Doom、Quake、Duke Nukem 3D）のネイティブなフロントエンド。エミュレーターとゲームエンジンを同梱。<br/>Website: https://borne.pasahome.org<br/>Commit: Add Borne to Gaming Software (#3673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329]]></content:encoded>
     </item>
   </channel>
 </rss>
