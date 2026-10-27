@@ -812,6 +812,7 @@ Awesome Mac
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - 전문가용 데이터 복구 도구.
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 가장 진보된 Mac 수리 및 복구 도구.
 * [Disk Drill](https://www.cleverfiles.com/) - 무료 데이터 복구 도구. ![Freeware][Freeware Icon]
+* [iPhone Data Manager](https://iphonedatamanager.com/) - Mac에서 iPhone 로컬 백업을 관리하고 WhatsApp 대화, 사진, 메시지 및 진단 데이터를 오프라인으로 내보내는 도구. ![Native App][Native Icon]
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 손상되었거나 삭제되었거나 포맷된 디스크 데이터를 복구하는 도구.
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 부팅 가능한 디스크 백업 도구.
 

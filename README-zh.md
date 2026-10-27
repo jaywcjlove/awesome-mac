@@ -766,6 +766,7 @@ Awesome Mac
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+* [iPhone Data Manager](https://iphonedatamanager.com/) - 本地优先的 iPhone 备份管理器，支持在 Mac 上离线导出 WhatsApp 聊天记录、照片、短信和系统诊断数据。 ![Native App][Native Icon]
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 用于恢复损坏、删除或格式化磁盘数据的工具。
 
 ## 音频和视频
