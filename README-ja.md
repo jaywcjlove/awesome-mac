@@ -849,6 +849,7 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [Xiaoer Omia](https://xiaoeromia.com/) - DWG、STEP、SketchUp、STL、PSD、カメラ RAW など 150 種類以上のファイルを、元のアプリなしでオフライン表示。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6808582772?platform=mac)
 * [Zipic](https://zipic.app/) - プリセットと自動化に対応した一括画像圧縮ツール。
 
 ## AIツール
