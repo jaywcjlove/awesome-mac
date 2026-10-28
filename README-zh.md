@@ -402,6 +402,7 @@ Awesome Mac
 * [DBeaver](https://dbeaver.jkiss.org/) - 跨平台 SQL 客户端，支持大部分主流数据库
 * [DBine](https://dbine.com) - 开源数据库管理工具，支持 130 多种 SQL 与 NoSQL 数据库和云服务，提供笔记本、结构与数据对比以及 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - 用于查询和管理 SQL 数据库的客户端。
+* [DocKit](https://github.com/geek-fun/dockit) - 开源桌面 GUI 客户端，支持 Elasticsearch、OpenSearch、DynamoDB、MongoDB 和 EasySearch，提供 AI 自然语言查询。 [![Open-Source Software][OSS Icon]](https://github.com/geek-fun/dockit) ![Freeware][Freeware Icon]
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL 数据库 CRUD 应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Sequel Pro](https://github.com/sequelpro/sequelpro) - 一个 MySQL 数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的 SQL 访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
@@ -422,6 +423,7 @@ Awesome Mac
 * [RedisDesktopManager](https://redisdesktop.com/) - Redis 跨平台的 GUI 管理工具。[![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持 SQL Server, Postgres, Oracle 以及 MySQL 等主流的数据库可视化管理工具.
 * [SQLight](https://aurvan.com/sqlight/) - 一个 SQLite 数据库管理器工具，非常好用。 ![Freeware][Freeware Icon]
+* [SQLKit](https://github.com/geek-fun/sqlkit) - AI 驱动的 SQL 数据库管理工具，支持 PostgreSQL、MySQL、SQL Server、SQLite、DuckDB、ClickHouse 等 70 多种数据库。 [![Open-Source Software][OSS Icon]](https://github.com/geek-fun/sqlkit) ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - 支持 PostgreSQL，MySQL，RedShift，MariaDB... 各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
 * [TablePro](https://github.com/datlechin/TablePro) - 轻量快速的数据库客户端，支持主流 SQL/NoSQL 数据源并提供 AI 辅助 SQL 编辑。 [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - 基于 SQLite 的开源后端平台，提供类型安全 API、认证和管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
