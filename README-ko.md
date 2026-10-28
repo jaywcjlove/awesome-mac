@@ -1157,6 +1157,7 @@ Awesome Mac
 * [ftop](https://github.com/Nongfsq/ftop) - 어떤 창 크기에도 레이아웃이 맞춰지는 Apple Silicon용 플로팅 시스템 모니터로, 코어별 사용률과 주파수, GPU, 메모리 압력, 네트워크를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/Nongfsq/ftop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구. [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [IconCraft](https://iconcraft.co) - 어떤 Mac 앱이든 익숙한 이름과 아이콘으로 바꿔 줍니다. 앱 자체는 변경되지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/gshipman223/IconCraft) ![Freeware][Freeware Icon]
+* [Keep Mac Awake](https://keepmacawake.com/?utm_source=github&utm_medium=referral&utm_campaign=listing&utm_content=awesome-mac-ko) - 외부 디스플레이 없이 덮개를 닫은 상태에서, 메뉴 막대나 터미널 또는 AI 에이전트로 시작한 세션 동안 MacBook을 깨어 있게 합니다. ![Native App][Native Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS용 커스텀 커서 테마 도구. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Adrafinil](https://kagerou.glass/adrafinil/) - AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
