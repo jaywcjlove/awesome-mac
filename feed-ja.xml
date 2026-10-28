@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:17:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HideNotch</title>
+      <link>https://hidenotch.app</link>
+      <guid isPermaLink="false">9a1499cb66632aa5cf92eb40610d0f2c89812202:HideNotch</guid>
+      <pubDate>Wed, 28 Oct 2026 12:17:56 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: HideNotch
+Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。
+Website: https://hidenotch.app
+Open Source: https://github.com/niklasravnsborg/HideNotch
+Commit: Add HideNotch to Menu Bar Tools (#3974)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: HideNotch<br/>Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
+    </item>
     <item>
       <title>ghostty-designer</title>
       <link>https://github.com/reemus-dev/ghostty-designer</link>
@@ -696,20 +711,6 @@ Website: https://usegodmode.com
 Commit: Add Godmode Bot to AI Tools (#3770)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Godmode Bot<br/>Description: Claudeのサブスクリプションを、専用ブラウザであなたのログイン情報を使ってパソコン作業をこなす常駐エージェントのチームに変えるオープンソースのAI同僚。<br/>Website: https://usegodmode.com<br/>Commit: Add Godmode Bot to AI Tools (#3770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0]]></content:encoded>
-    </item>
-    <item>
-      <title>ClawTank</title>
-      <link>https://github.com/HMAKT99/ClawTank</link>
-      <guid isPermaLink="false">a5ad1ec0190358637fef4fe9bbf0febecba3bb15:ClawTank</guid>
-      <pubDate>Fri, 23 Oct 2026 03:25:46 GMT</pubDate>
-      <category>リモートログインソフトウェア</category>
-      <description>Category: リモートログインソフトウェア
-App: ClawTank
-Description: Windows App や mstsc などの標準的なリモートデスクトップクライアントから Mac に接続できるオープンソースの RDP サーバー。
-Open Source: https://github.com/HMAKT99/ClawTank
-Commit: Add ClawTank to Remote Login Software (#3768)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15</description>
-      <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: ClawTank<br/>Description: Windows App や mstsc などの標準的なリモートデスクトップクライアントから Mac に接続できるオープンソースの RDP サーバー。<br/>Open Source: https://github.com/HMAKT99/ClawTank<br/>Commit: Add ClawTank to Remote Login Software (#3768)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15]]></content:encoded>
     </item>
   </channel>
 </rss>
