@@ -533,6 +533,7 @@ Awesome Mac
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
+* [Netlink](https://jeman.net/ja/netlink/) - 出口IPの変化を通知し、VPN・プロキシ・DNS・IPv6の漏れをワンクリックで診断。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6770569501?platform=mac) ![Native App][Native Icon]
 * [Proxie](https://proxie.app) - HTTPデバッグプロキシ。
 * [Proxyman](https://proxyman.app) - macOS向けのモダンで直感的なHTTPデバッグプロキシ。 ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]

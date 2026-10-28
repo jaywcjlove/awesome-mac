@@ -482,6 +482,7 @@ Awesome Mac
 * [Charles](https://www.charlesproxy.com/) - HTTP 프록시/모니터.
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
+* [Netlink](https://jeman.net/ko/netlink/) - 출구 IP가 바뀌면 알려주고 VPN, 프록시, DNS, IPv6 유출을 원클릭으로 진단합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6770569501?platform=mac) ![Native App][Native Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - 네트워크 트래픽 모니터링 앱. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
