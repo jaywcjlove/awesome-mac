@@ -1015,6 +1015,7 @@ Awesome Mac
 
 ### 其他
 
+* [Bibliome](https://psychosonicconsulting.com/bibliome.html) - 私密的 PDF 文库，用本机 AI 按主题整理文档、按语义搜索，并附引用回答问题。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=awesome-mac&mt=12) ![Native App][Native Icon]
 * [Capd](https://capd.jxd.dev) - 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]

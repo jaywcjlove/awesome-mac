@@ -348,6 +348,7 @@ Awesome Mac
 ### その他
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDFの編集、圧縮、パスワード保護に対応したPDFエディタ/コンバーター。
+* [Bibliome](https://psychosonicconsulting.com/bibliome.html) - オンデバイスAIで書類をトピック別に整理し、意味で検索し、引用付きで質問に答えるプライベートなPDFライブラリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=awesome-mac&mt=12) ![Native App][Native Icon]
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - フレンドリーなUIで複数のPDFファイルを1つのPDFに結合。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
 * [Capd](https://capd.jxd.dev) - リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - MacでCompiled HTML（.chm）ドキュメントを読む。 ![Freeware][Freeware Icon]
