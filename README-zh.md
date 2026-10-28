@@ -1104,6 +1104,7 @@ Awesome Mac
 * [青简 Qingjian](https://qingjian.app/) - 使用 Rust 编写的跨平台拼音输入法，在候选词旁显示正在学习语言的译词。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
 * [Type2Phone](https://www.houdah.com/support/) - 把 Macbook 键盘变为 iPhone 的蓝牙键盘。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?platform=mac)
+* [TypeNod](https://typenod.com/) - 付费跨语言输入法，边打字边预览本地译文，确认后写入当前输入框。
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 支持拼音与注音，配备简体中文和繁体中文专用词库的中文输入法。 [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [WBIM](http://www.glamtime.com.cn/wbim) - 五笔输入法。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?platform=mac)
 * [搜狗输入法](http://pinyin.sogou.com/mac/) - 搜狗输入法。![Freeware][Freeware Icon]
