@@ -1463,6 +1463,7 @@ Awesome Mac
 * [Vorssaint](https://vorssaint.com) - 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
+* [Zone](https://zoneatwork.com) - 通过本地处理提供基于摄像头相对位置的姿势提醒（公开测试版，需要 Apple Silicon 和 macOS 14+）。 [![Open-Source Software][OSS Icon]](https://github.com/poltergeist25/zone) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 待办事项工具
 

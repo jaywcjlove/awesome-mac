@@ -1431,6 +1431,7 @@ Awesome Mac
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - メニューバーから勤務時間を追跡するシンプルなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - あらゆるスクリプトやプログラムの出力をmacOSメニューバーに表示（BitBarのリブート版）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - キーボード入力にメカニカル風の打鍵音を加えるツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [Zone](https://zoneatwork.com) - カメラに対する相対位置をローカルで処理して姿勢を知らせるリマインダー（公開ベータ、Apple Silicon、macOS 14以降）。 [![Open-Source Software][OSS Icon]](https://github.com/poltergeist25/zone) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### クリーンアップとアンインストール
 
