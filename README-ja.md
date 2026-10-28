@@ -601,6 +601,7 @@ Awesome Mac
 * [Rancher Desktop](https://rancherdesktop.io) - デスクトップ上でのコンテナ管理とKubernetes。 [![OSS][OSS Icon]](https://github.com/rancher-sandbox/rancher-desktop/blob/main/LICENSE)
 * [Lima](https://github.com/lima-vm/lima) - 自動ファイル共有とポートフォワーディングを備えたLinux仮想マシンを起動するツール。 [![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [QEMU](https://www.qemu.org/) - ハードウェア仮想化を実行できる無料でオープンソースのエミュレーターおよびバーチャライザー。 [![Open-Source Software][OSS Icon]](https://github.com/qemu/qemu) ![Freeware][Freeware Icon]
+* [SandboxSim](https://linzj.github.io/sandboxsim-site/en/) - Macにインストール済みのmacOSから、イメージのダウンロードやインストールなしで隔離された使い捨てのmacOS仮想マシンを起動するツール。
 * [UTM](https://mac.getutm.app/) - QEMU向けの使いやすいGUIで、M1 Mac上でARM64、x64、その他のVMを実行可能。 [![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Vagrant](https://www.vagrantup.com) - 開発環境の構築と配布のためのツール。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [Veertu](https://veertu.com) - Mac上で最も軽量なVM。レスポンシブでサンドボックス化されたネイティブな方法でVMを実行。 ![Freeware][Freeware Icon]
