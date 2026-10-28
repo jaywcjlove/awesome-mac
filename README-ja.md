@@ -1676,6 +1676,7 @@ Awesome Mac
 * [1Password](https://1password.com/) - クロスプラットフォームのパスワード管理ツール。
 * [Bitwarden](https://bitwarden.com) - Mac OS、iOS、ブラウザ対応のオープンソースパスワード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - あなたにふさわしいパスワードマネージャー。 ![Freeware][Freeware Icon]
+* [Copy 2FA](https://stanczykwyatt.github.io/copy-2fa/) - ショートカット1つで「メール」や「メッセージ」に届いた最新の2FAコードをコピー。Touch IDで保護されたTOTP/HOTP認証機能も内蔵。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/copy-2fa) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dashlane](https://www.dashlane.com) - 受賞歴のあるデザインを持つクラウドベースのパスワードマネージャー。
 * [Enpass](https://www.enpass.io/) - クラウド統合機能を備えたクロスプラットフォームのパスワード管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/enpass-password-manager/id455566716?platform=mac)
 * [Keyzer](https://apps.apple.com/app/Keyzer/6500434773?platform=mac) - ポータブルなパスワードファイルの保存をサポートするシンプルなパスワードマネージャー。
