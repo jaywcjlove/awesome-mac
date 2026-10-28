@@ -1018,6 +1018,7 @@ Awesome Mac
 * [Capd](https://capd.jxd.dev) - 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
+* [Fyllyo](https://fyllyo.com/pdf-editor-for-mac?utm_source=awesome-mac&utm_medium=listing&utm_campaign=2026-10-launch) - PDF 编辑器，免费提供文本编辑、涂黑、OCR、证书签名和页面整理，另有付费的本地 AI，可根据你的文件自动填写表单。
 * [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Lemma](https://github.com/fus3r/lemma) - 面向数学教材和论文的 PDF 阅读器，可将定理和公式引用变为链接、折叠证明，并检查你写下的推导。 [![Open-Source Software][OSS Icon]](https://github.com/fus3r/lemma) ![Freeware][Freeware Icon]
 * [OffPDF](https://offpdf.com/) - 一款适用于搭载 Apple 芯片的 Mac 电脑的开源离线 PDF 工具箱，可在本地合并、拆分、转换和压缩文件，并进行 OCR。 [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
