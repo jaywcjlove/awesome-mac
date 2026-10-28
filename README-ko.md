@@ -518,6 +518,7 @@ Awesome Mac
 ### 가상화
 
 * [Docker](https://www.docker.com/) - 운영체제 수준의 가상화. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon]
+* [Ballast](https://github.com/bryanmanio/ballast) - SSH로 Synology NAS의 Docker 컨테이너를 모니터링하고 열고 제어하는 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/bryanmanio/ballast) ![Freeware][Freeware Icon]
 * [Berthly](https://berthly.net) - Apple container 도구용 네이티브 GUI. 메뉴바 실시간 모니터링과 드래그 앤 드롭 이미지 빌드 지원. [![Open-Source Software][OSS Icon]](https://github.com/henrywang/Berthly) ![Freeware][Freeware Icon]
 * [Gantry](https://github.com/getgantry/gantry) - 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장. [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 가상 머신 없이 Linux GUI 앱을 실행할 수 있는 Wayland 컴포지터. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
