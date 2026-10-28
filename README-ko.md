@@ -1195,6 +1195,7 @@ Awesome Mac
 * [Hyperkey](https://hyperkey.app/) - Caps Lock이나 다른 보조 키를 Hyper 키로 바꾸는 도구. ![Freeware][Freeware Icon]
 * [iCMD](https://icmd.app) - 전역 퍼지 메뉴 검색과 Vim 스타일 탐색을 제공하는 도구.
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
+* [JUMP](https://alvaldes.github.io/jump/) - 클릭할 수 있는 모든 요소에 라벨을 붙여 어떤 앱에서든 키보드로 클릭, 스크롤, 검색할 수 있게 해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/jump) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
 * [Liftoff](https://github.com/firstfu/Liftoff) - 윈도우 실시간 미리보기, 윈도우 제목 검색, 원클릭 폴더 정리를 지원하는 오픈소스 Launchpad 대체 앱. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
