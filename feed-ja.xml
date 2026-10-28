@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:30:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Glint</title>
+      <link>https://github.com/brentc22/glint</link>
+      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
+      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Glint
+Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。
+Open Source: https://github.com/brentc22/glint
+Commit: Add Glint to Screenshot Tools (#3942)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Glint<br/>Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
+    </item>
     <item>
       <title>Stash</title>
       <link>https://github.com/brentc22/stash</link>
@@ -696,20 +710,6 @@ Website: https://voltip.firlab.app/
 Commit: Add Voltip to Voice-to-Text (#3751)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Voltip<br/>Description: ローカルまたはクラウドの音声認識と AI による整文に対応し、ペアリングした Android スマートフォンをマイクとしても使えるオープンソースのプッシュトゥトーク音声入力ツール。<br/>Website: https://voltip.firlab.app/<br/>Commit: Add Voltip to Voice-to-Text (#3751)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Canvas Tauri</title>
-      <link>https://github.com/Tenney95/AI-Canvas-tauri</link>
-      <guid isPermaLink="false">8d2a4487ec0161f3963f9ae99833f90659aa85f7:AI Canvas Tauri</guid>
-      <pubDate>Fri, 23 Oct 2026 00:48:21 GMT</pubDate>
-      <category>デザインとプロダクト / その他のツール</category>
-      <description>Category: デザインとプロダクト / その他のツール
-App: AI Canvas Tauri
-Description: 無料で軽量なソース公開型の AI 制作キャンバスで、絵コンテ、画像・動画の生成と編集、素材管理、ComfyUI ワークフローに対応。
-Open Source: https://github.com/Tenney95/AI-Canvas-tauri
-Commit: Add AI Canvas (#3763)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: AI Canvas Tauri<br/>Description: 無料で軽量なソース公開型の AI 制作キャンバスで、絵コンテ、画像・動画の生成と編集、素材管理、ComfyUI ワークフローに対応。<br/>Open Source: https://github.com/Tenney95/AI-Canvas-tauri<br/>Commit: Add AI Canvas (#3763)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7]]></content:encoded>
     </item>
   </channel>
 </rss>
