@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:58:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ghostty-designer</title>
+      <link>https://github.com/reemus-dev/ghostty-designer</link>
+      <guid isPermaLink="false">a36b42a525fab64bedec67cb024baa228542a614:ghostty-designer</guid>
+      <pubDate>Wed, 28 Oct 2026 07:58:57 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: ghostty-designer
+Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。
+Open Source: https://github.com/reemus-dev/ghostty-designer
+Commit: Add ghostty-designer to Terminal Apps (#3967)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: ghostty-designer<br/>Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
+    </item>
     <item>
       <title>HTS for Mac</title>
       <link>https://github.com/duct-tape2/hts-for-mac</link>
@@ -696,20 +710,6 @@ Open Source: https://github.com/HMAKT99/ClawTank
 Commit: Add ClawTank to Remote Login Software (#3768)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15</description>
       <content:encoded><![CDATA[Category: 远程协助<br/>App: ClawTank<br/>Description: 开源的 RDP 服务器，可使用 Windows App、mstsc 等标准远程桌面客户端连接 Mac。[![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank)<br/>Open Source: https://github.com/HMAKT99/ClawTank<br/>Commit: Add ClawTank to Remote Login Software (#3768)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15]]></content:encoded>
-    </item>
-    <item>
-      <title>SpaceMap</title>
-      <link>https://github.com/renkagod/spacemap</link>
-      <guid isPermaLink="false">4e5e16dc0f3e3e2969beb87012db91b1708b2628:SpaceMap</guid>
-      <pubDate>Fri, 23 Oct 2026 02:52:23 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: SpaceMap
-Description: 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。
-Open Source: https://github.com/renkagod/spacemap
-Commit: Add SpaceMap to Cleanup and Uninstall (#3752)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: SpaceMap<br/>Description: 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。<br/>Open Source: https://github.com/renkagod/spacemap<br/>Commit: Add SpaceMap to Cleanup and Uninstall (#3752)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628]]></content:encoded>
     </item>
   </channel>
 </rss>
