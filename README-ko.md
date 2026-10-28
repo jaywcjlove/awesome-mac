@@ -527,6 +527,7 @@ Awesome Mac
 * [OrbStack](https://orbstack.dev/) - 빠르고 가벼운 Docker 및 Linux 머신 관리. ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - 강력하고 사용하기 쉬운 VM.
 * [Podman Desktop](https://podman-desktop.io/) - 컨테이너 및 Kubernetes 관리를 위한 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/containers/podman-desktop) ![Freeware][Freeware Icon]
+* [SiliconPlay](https://siliconplay.app/ko/) - Apple 실리콘 Mac용 무료 안드로이드 에뮬레이터(앱플레이어). 공식 Android Emulator 기반이며 키보드·게임패드 매핑을 지원합니다. ![Freeware][Freeware Icon]
 * [UTM](https://mac.getutm.app/) - M1 Mac에서 VM을 실행하기 위한 GUI. [![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Vagrant](https://www.vagrantup.com) - 개발 환경 구축 및 배포 도구. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
 * [VirtualBox](http://www.virtualbox.org) - 강력한 x86 및 AMD64/Intel64 가상화 제품. ![Freeware][Freeware Icon]
