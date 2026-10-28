@@ -907,6 +907,7 @@ Awesome Mac
 ## 음성 텍스트 변환 (Voice-to-Text)
 
 * [Aiko](https://sindresorhus.com/aiko) - 고품질 온디바이스 전사 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
+* [Amical](https://amical.ai) - 어떤 앱에서나 입력하고 사용 중인 앱에 맞게 텍스트를 다듬는 오픈 소스 AI 받아쓰기 도구로, 로컬 Whisper 또는 Parakeet 모델을 지원. [![Open-Source Software][OSS Icon]](https://github.com/amicalhq/amical)
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 누르고 말한 뒤 놓으면 전사 텍스트를 바로 붙여넣는 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Google의 무료 온디바이스 AI 받아쓰기·음성 편집 도구로, 어떤 앱에서나 사용할 수 있으며 현재는 영어만 지원합니다. ![Freeware][Freeware Icon]
