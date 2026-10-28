@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:25:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Prism</title>
+      <link>https://prismdl.site/</link>
+      <guid isPermaLink="false">251d0a8d321669b72cbf31d91c2eb51ea47e9b24:Prism</guid>
+      <pubDate>Wed, 28 Oct 2026 12:25:36 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Prism
+Description: Open-source download manager that splits files into parallel connections, catches browser downloads, and saves videos.
+Website: https://prismdl.site/
+Open Source: https://github.com/FortoGraphy/prism-download-manager
+Commit: Add Prism to Download Management Tools (#3971)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Prism<br/>Description: Open-source download manager that splits files into parallel connections, catches browser downloads, and saves videos.<br/>Website: https://prismdl.site/<br/>Open Source: https://github.com/FortoGraphy/prism-download-manager<br/>Commit: Add Prism to Download Management Tools (#3971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24]]></content:encoded>
+    </item>
     <item>
       <title>HideNotch</title>
       <link>https://hidenotch.app</link>
@@ -697,20 +712,6 @@ Website: https://www.finchgram.com/
 Commit: Add FinchGram (#3749)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838</description>
       <content:encoded><![CDATA[Category: Communication / Collaboration and Team Tools<br/>App: FinchGram<br/>Description: Unofficial open-source Telegram client built on TDLib, with a screenshot tool, WebDAV downloads and opt-in MCP access for AI assistants.<br/>Website: https://www.finchgram.com/<br/>Commit: Add FinchGram (#3749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838]]></content:encoded>
-    </item>
-    <item>
-      <title>Godmode Bot</title>
-      <link>https://usegodmode.com</link>
-      <guid isPermaLink="false">965f263f62d32e11d8c7aecda8bb37c3bbd5aec0:Godmode Bot</guid>
-      <pubDate>Fri, 23 Oct 2026 04:26:51 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Godmode Bot
-Description: Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.
-Website: https://usegodmode.com
-Commit: Add Godmode Bot to AI Tools (#3770)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Godmode Bot<br/>Description: Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.<br/>Website: https://usegodmode.com<br/>Commit: Add Godmode Bot to AI Tools (#3770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0]]></content:encoded>
     </item>
   </channel>
 </rss>
