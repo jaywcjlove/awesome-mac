@@ -688,6 +688,7 @@ Awesome Mac
 * [Pulse](https://github.com/qunqin24/Pulse) - 原生应用，以停靠在屏幕边缘的圆环显示 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务的剩余额度。 [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - 在 Apple 芯片上运行 GGUF 与 MLX 模型的本地模型服务器，提供 OpenAI 和 Anthropic 兼容 API，可连接 Claude Code、Codex 等工具。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - 开源工具，在本机收录 Claude Code 和 Codex 交付过的看板、报告、网站、PR 和文件，打几个字或说一句话就能重新打开。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [SomedayX](https://somedayx.com) - 按语义搜索你在 X（Twitter）上的书签和点赞，包括图片中的文字，完全在本机运行。 [![Open-Source Software][OSS Icon]](https://github.com/priyank-saarthios-ai/somedayx) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - 基于个人知识库回答问题的本地优先 AI 聊天客户端。
