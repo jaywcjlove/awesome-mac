@@ -527,6 +527,7 @@ Awesome Mac
 * [OrbStack](https://orbstack.dev/) - 빠르고 가벼운 Docker 및 Linux 머신 관리. ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - 강력하고 사용하기 쉬운 VM.
 * [Podman Desktop](https://podman-desktop.io/) - 컨테이너 및 Kubernetes 관리를 위한 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/containers/podman-desktop) ![Freeware][Freeware Icon]
+* [SandboxSim](https://linzj.github.io/sandboxsim-site/en/) - Mac에 이미 설치된 macOS로 이미지 다운로드나 설치 없이 격리된 일회용 macOS 가상 머신을 실행하는 도구.
 * [UTM](https://mac.getutm.app/) - M1 Mac에서 VM을 실행하기 위한 GUI. [![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Vagrant](https://www.vagrantup.com) - 개발 환경 구축 및 배포 도구. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
 * [VirtualBox](http://www.virtualbox.org) - 강력한 x86 및 AMD64/Intel64 가상화 제품. ![Freeware][Freeware Icon]

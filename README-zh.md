@@ -630,6 +630,7 @@ Awesome Mac
 * [OrbStack](https://orbstack.dev/) - 在 Mac 上无缝高效地运行 Docker 和 Linux。Docker Desktop 替代品，可帮助您更快地工作。![Freeware][Freeware Icon]
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Portainer](https://portainer.io/) - 基于网页管理 Docker 容器和 swarm 集群。 [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]
+* [SandboxSim](https://linzj.github.io/sandboxsim-site/) - 直接用本机已装好的 macOS 启动隔离的一次性 macOS 虚拟机，无需下载或安装系统镜像。
 * [UTM](https://mac.getutm.app/) - 适用于 iOS 和 macOS 的全功能系统模拟器和虚拟机主机。[![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Veertu](https://veertu.com) - Mac 上轻量级的虚拟机。通过一种高响应，沙箱且本地化的方式在你在 Mac 上运行虚拟机。![Freeware][Freeware Icon]
 * [Virtual Box](http://www.virtualbox.org) - 免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。![Freeware][Freeware Icon]
