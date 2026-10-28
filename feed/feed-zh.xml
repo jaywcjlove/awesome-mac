@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:30:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Glint</title>
+      <link>https://github.com/brentc22/glint</link>
+      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
+      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Glint
+Description: 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。
+Open Source: https://github.com/brentc22/glint
+Commit: Add Glint to Screenshot Tools (#3942)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Glint<br/>Description: 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
+    </item>
     <item>
       <title>Stash</title>
       <link>https://github.com/brentc22/stash</link>
@@ -696,20 +710,6 @@ Website: https://voltip.firlab.app/zh/
 Commit: Add Voltip to Voice-to-Text (#3751)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: Voltip<br/>Description: 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。<br/>Website: https://voltip.firlab.app/zh/<br/>Commit: Add Voltip to Voice-to-Text (#3751)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Canvas Tauri</title>
-      <link>https://github.com/Tenney95/AI-Canvas-tauri</link>
-      <guid isPermaLink="false">8d2a4487ec0161f3963f9ae99833f90659aa85f7:AI Canvas Tauri</guid>
-      <pubDate>Fri, 23 Oct 2026 00:48:21 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: AI Canvas Tauri
-Description: 免费、轻量且源码公开的 AI 创作画布，集成分镜、图像与视频生成、剪辑、资产管理和 ComfyUI 工作流。
-Open Source: https://github.com/Tenney95/AI-Canvas-tauri
-Commit: Add AI Canvas (#3763)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: AI Canvas Tauri<br/>Description: 免费、轻量且源码公开的 AI 创作画布，集成分镜、图像与视频生成、剪辑、资产管理和 ComfyUI 工作流。<br/>Open Source: https://github.com/Tenney95/AI-Canvas-tauri<br/>Commit: Add AI Canvas (#3763)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7]]></content:encoded>
     </item>
   </channel>
 </rss>
