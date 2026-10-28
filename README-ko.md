@@ -692,6 +692,7 @@ Awesome Mac
 * [Atticus](https://saarthurr.github.io/atticus-mac/) - Claude 요금제로 실행되는 오픈 소스 음성 비서. 한 번 수행한 작업을 학습하며 받아쓰기, 화면 안내, 백그라운드 에이전트를 지원. [![Open-Source Software][OSS Icon]](https://github.com/SaarthurR/atticus-mac) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - 작업마다 전용 인터랙티브 화면을 만들고 채팅을 실시간 상태와 연결하는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
+* [BuildGist](https://buildgist.com/) - 의미 있는 Claude Code, Cursor, Codex 실행마다 변경 내용을 쉬운 말로 설명하고, 주의할 점을 표시하며, 에이전트를 바꿀 때 작업을 이어 줍니다.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
 * [Claude God](https://claudegod.app) - Claude 사용량, 비용, 세션 통계를 모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
