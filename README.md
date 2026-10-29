@@ -1501,7 +1501,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware][Freeware Icon]
 
 ### General Tools
-
 * [AirServer](https://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 * [Cadran](https://cadranapp.com) - Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
@@ -1513,6 +1512,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](https://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - A tiny app that checks if all your apps from any source are up to date. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [LaunchHome](https://launchhome.app) - Brings back the Launchpad app grid removed in macOS 26, with custom folders, drag-and-drop ordering, F4 and trackpad-gesture activation, and import of the old Launchpad layout. ![Freeware][Freeware Icon]
 * [Liftoff](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - Classic Launchpad experience, relive old macOS. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
