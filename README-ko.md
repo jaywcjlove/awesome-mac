@@ -229,6 +229,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - 실시간 새로고침, Quick Look 미리보기, Mermaid 다이어그램, 수식, 그리고 자체 키 또는 로컬 모델을 이용한 선택적 AI 요약을 지원하는 빠른 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
+* [Nice.md](https://nicemd.app/) - Quick Look 미리보기, Mermaid와 수식을 지원하고 AI 에이전트가 작성하는 파일을 실시간으로 다시 불러오는 마크다운 뷰어 겸 편집기. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6808556797)
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Textus](https://textus.catvinci.com) - 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
