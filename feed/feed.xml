@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Splat</title>
+      <link>https://github.com/sventmueller/splat</link>
+      <guid isPermaLink="false">7081f59ff419edd57a0afb289cbdfa0bcdbcff84:Splat</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:48 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Splat
+Description: Native macOS Markdown editor in Rust where both the source and the live preview are editable.
+Open Source: https://github.com/sventmueller/splat
+Commit: Add Splat to Markdown Tools (#4047)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Splat<br/>Description: Native macOS Markdown editor in Rust where both the source and the live preview are editable.<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
+    </item>
     <item>
       <title>JUMP</title>
       <link>https://alvaldes.github.io/jump/</link>
@@ -702,20 +716,6 @@ Website: https://getapps.cafe/app/fileshipper
 Commit: Add FileShipper (#2701)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
       <content:encoded><![CDATA[Category: Communication / File Sharing<br/>App: FileShipper<br/>Description: Peer-to-peer file transfer between computers and phones over local Wi-Fi.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
-    </item>
-    <item>
-      <title>Stedding</title>
-      <link>https://stedding.dev/</link>
-      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
-      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Stedding
-Description: Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import.
-Website: https://stedding.dev/
-Commit: Add Stedding to Browsers (#3805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Stedding<br/>Description: Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import.<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
     </item>
   </channel>
 </rss>
