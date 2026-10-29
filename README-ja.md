@@ -1003,6 +1003,7 @@ Awesome Mac
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - ほとんどのケースに対応する包括的でプロフェッショナルなデータ復旧ツール。
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Mac用の世界で最も高度な修復・復旧ツール。
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 破損・削除・フォーマットされたディスクのデータ復旧ツール。
+* [Retrova](https://retrova.jishnumahanta.in) - 破損したドライブやマウントできないドライブから読み取り専用でファイルを取り出し、すべてのコピーをバイト単位で検証する無料のデータ復旧ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jishnumahanta/retrova) ![Freeware][Freeware Icon]
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 手間のかからない完全ブート可能なディスクバックアップ。
 * [Disk Drill](https://www.cleverfiles.com/) - 無料のデータ復旧ツール。PRO版もあり。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
 

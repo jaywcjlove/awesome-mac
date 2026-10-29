@@ -1000,6 +1000,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - Comprehensive and professional data recovery tool for most cases.
 * [DiskWarrior](https://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
 * [R-Studio for Mac](https://www.r-studio.com/data_recovery_macintosh/) - Data recovery tool for damaged, deleted, or formatted disks.
+* [Retrova](https://retrova.jishnumahanta.in) - Free data recovery that copies files off damaged or unmountable drives read-only and verifies every copy byte for byte. [![Open-Source Software][OSS Icon]](https://github.com/jishnumahanta/retrova) ![Freeware][Freeware Icon]
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 * [Disk Drill](https://www.cleverfiles.com/) - Free data recovery tool. Also has a PRO version. [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
 
