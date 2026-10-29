@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:29:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SATF</title>
+      <link>https://github.com/tran-minh-khoi/SATF</link>
+      <guid isPermaLink="false">34a90cb70684838987698eda5c6e4d55fdd29920:SATF</guid>
+      <pubDate>Thu, 29 Oct 2026 13:29:58 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: SATF
+Description: Shake a file while dragging it to convert, merge into a PDF, zip, or extract it from a radial menu under your cursor.
+Open Source: https://github.com/tran-minh-khoi/SATF
+Commit: Add SATF to General Tools (#4019)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: SATF<br/>Description: Shake a file while dragging it to convert, merge into a PDF, zip, or extract it from a radial menu under your cursor.<br/>Open Source: https://github.com/tran-minh-khoi/SATF<br/>Commit: Add SATF to General Tools (#4019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920]]></content:encoded>
+    </item>
     <item>
       <title>Shandian</title>
       <link>https://github.com/chenmozhe008/shandian-download</link>
@@ -700,20 +714,6 @@ Open Source: https://github.com/davidpraznik/Konverter
 Commit: Add Konverter (#3798)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Konverter<br/>Description: Menu bar file converter and image compressor operated by dragging files onto a radial wheel.<br/>Open Source: https://github.com/davidpraznik/Konverter<br/>Commit: Add Konverter (#3798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippo</title>
-      <link>https://lorder19.github.io/clippo/</link>
-      <guid isPermaLink="false">fd50f7f7d23e1f2d8ad677883a17abe7ad646d51:Clippo</guid>
-      <pubDate>Fri, 23 Oct 2026 15:37:11 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Clippo
-Description: Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.
-Website: https://lorder19.github.io/clippo/
-Commit: Add Clippo to Clipboard Tools (#3797)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clippo<br/>Description: Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.<br/>Website: https://lorder19.github.io/clippo/<br/>Commit: Add Clippo to Clipboard Tools (#3797)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51]]></content:encoded>
     </item>
   </channel>
 </rss>
