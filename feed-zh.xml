@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Splat</title>
+      <link>https://github.com/sventmueller/splat</link>
+      <guid isPermaLink="false">7081f59ff419edd57a0afb289cbdfa0bcdbcff84:Splat</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:48 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: Splat
+Description: 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。
+Open Source: https://github.com/sventmueller/splat
+Commit: Add Splat to Markdown Tools (#4047)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Splat<br/>Description: 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
+    </item>
     <item>
       <title>JUMP</title>
       <link>https://alvaldes.github.io/jump/</link>
@@ -702,20 +716,6 @@ Website: https://getapps.cafe/app/fileshipper
 Commit: Add FileShipper (#2701)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
       <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: FileShipper<br/>Description: 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
-    </item>
-    <item>
-      <title>Stedding</title>
-      <link>https://stedding.dev/</link>
-      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
-      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Stedding
-Description: 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser)
-Website: https://stedding.dev/
-Commit: Add Stedding to Browsers (#3805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Stedding<br/>Description: 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser)<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Splat</title>
+      <link>https://github.com/sventmueller/splat</link>
+      <guid isPermaLink="false">7081f59ff419edd57a0afb289cbdfa0bcdbcff84:Splat</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:48 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Splat
+Description: Rustで書かれたネイティブmacOS Markdownエディタ。ソースとライブプレビューのどちらでも直接編集できる。
+Open Source: https://github.com/sventmueller/splat
+Commit: Add Splat to Markdown Tools (#4047)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Splat<br/>Description: Rustで書かれたネイティブmacOS Markdownエディタ。ソースとライブプレビューのどちらでも直接編集できる。<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
+    </item>
     <item>
       <title>JUMP</title>
       <link>https://alvaldes.github.io/jump/</link>
@@ -702,20 +716,6 @@ Website: https://getapps.cafe/app/fileshipper
 Commit: Add FileShipper (#2701)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
       <content:encoded><![CDATA[Category: コミュニケーション / ファイル共有<br/>App: FileShipper<br/>Description: ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
-    </item>
-    <item>
-      <title>Stedding</title>
-      <link>https://stedding.dev/</link>
-      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
-      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
-      <category>ブラウザ</category>
-      <description>Category: ブラウザ
-App: Stedding
-Description: Chromiumベースのオープンソース Arc スタイルブラウザ。Spaces、垂直タブ、固定フォルダ、コマンドバー、Arc からのインポートに対応。
-Website: https://stedding.dev/
-Commit: Add Stedding to Browsers (#3805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
-      <content:encoded><![CDATA[Category: ブラウザ<br/>App: Stedding<br/>Description: Chromiumベースのオープンソース Arc スタイルブラウザ。Spaces、垂直タブ、固定フォルダ、コマンドバー、Arc からのインポートに対応。<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
     </item>
   </channel>
 </rss>

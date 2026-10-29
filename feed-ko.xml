@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Splat</title>
+      <link>https://github.com/sventmueller/splat</link>
+      <guid isPermaLink="false">7081f59ff419edd57a0afb289cbdfa0bcdbcff84:Splat</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:48 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Splat
+Description: Rust로 작성된 네이티브 macOS 마크다운 편집기. 소스와 실시간 미리보기 모두에서 바로 편집 가능.
+Open Source: https://github.com/sventmueller/splat
+Commit: Add Splat to Markdown Tools (#4047)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Splat<br/>Description: Rust로 작성된 네이티브 macOS 마크다운 편집기. 소스와 실시간 미리보기 모두에서 바로 편집 가능.<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
+    </item>
     <item>
       <title>JUMP</title>
       <link>https://alvaldes.github.io/jump/</link>
@@ -702,20 +716,6 @@ Website: https://getapps.cafe/app/fileshipper
 Commit: Add FileShipper (#2701)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
       <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: FileShipper<br/>Description: 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
-    </item>
-    <item>
-      <title>Stedding</title>
-      <link>https://stedding.dev/</link>
-      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
-      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
-      <category>브라우저</category>
-      <description>Category: 브라우저
-App: Stedding
-Description: Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원.
-Website: https://stedding.dev/
-Commit: Add Stedding to Browsers (#3805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
-      <content:encoded><![CDATA[Category: 브라우저<br/>App: Stedding<br/>Description: Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원.<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
     </item>
   </channel>
 </rss>
