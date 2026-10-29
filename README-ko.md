@@ -1164,6 +1164,7 @@ Awesome Mac
 * [Aman Check](https://github.com/MidZai/aman_check) - 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Crisp](https://didriksg.github.io/Crisp/) - 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
+* [Lucid](https://lucid-wallpaper.vercel.app) - 우주, 자연, 바다 루프 영상과 Apple Aerials를 모든 디스플레이에 보여 주는 4K 라이브 배경화면 앱. [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/lucid-live-wallpaper) ![Freeware][Freeware Icon]
 * [Nifro](https://github.com/PathGao/Nifro) - 웹사이트를 설정 가능한 데스크톱 배경화면으로 바꾸고, 디스플레이마다 별도 화면을 설정할 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [DisplayBuddy](https://displaybuddy.app) - 외부 디스플레이의 밝기, 대비, 입력 소스를 제어하는 도구.
 * [OpenDisplay](https://opendisplay.app) - 여분의 iPhone이나 iPad를 USB 또는 WiFi로 Mac의 보조 디스플레이로 사용하는 도구 (터치 입력 지원). [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
