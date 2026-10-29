@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:10:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Çentik</title>
+      <link>https://github.com/YusufEmreYazici/Centik</link>
+      <guid isPermaLink="false">7a871d050073307e96b3267b537774e0dd3394e9:Çentik</guid>
+      <pubDate>Thu, 29 Oct 2026 15:10:04 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Çentik
+Description: 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。
+Open Source: https://github.com/YusufEmreYazici/Centik
+Commit: Add Çentik to Menu Bar Tools (#4003)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Çentik<br/>Description: 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
+    </item>
     <item>
       <title>PullBull</title>
       <link>https://github.com/rustycamper/pullbull</link>
@@ -701,20 +715,6 @@ Website: https://arslanbasharat-o-o.github.io/NearByDrop/
 Commit: Add Nearby Drop to File Sharing (#3803)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
       <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: Nearby Drop<br/>Description: 独立的 macOS 菜单栏应用，可与兼容的 Android 设备进行双向 Google Quick Share 传输，并提供 USB MTP、Finder 共享、二维码工具及实验性的 Windows 互操作支持。<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Healthy Battery</title>
-      <link>https://github.com/berkinefeavci/healthy-battery</link>
-      <guid isPermaLink="false">8035d5cbad46504256e9b491665a8c9ea67ab121:Healthy Battery</guid>
-      <pubDate>Sat, 24 Oct 2026 02:46:34 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Healthy Battery
-Description: 适用于 Apple Silicon MacBook 的开源充电限制工具，提供实时电源流向与长期电池健康记录。
-Open Source: https://github.com/berkinefeavci/healthy-battery
-Commit: Add Healthy Battery (#3058)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Healthy Battery<br/>Description: 适用于 Apple Silicon MacBook 的开源充电限制工具，提供实时电源流向与长期电池健康记录。<br/>Open Source: https://github.com/berkinefeavci/healthy-battery<br/>Commit: Add Healthy Battery (#3058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121]]></content:encoded>
     </item>
   </channel>
 </rss>
