@@ -559,6 +559,7 @@ Awesome Mac
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id1199502670?platform=mac)
+* [VizShot](https://vizshot.app/) - 截图与录屏工具，可快速标注、美化并分享截图。
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
