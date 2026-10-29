@@ -886,6 +886,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks. [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 * [Desktop Control](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 * [Enconvo](https://www.enconvo.com/) - AI agent that understands your screen and completes tasks across apps.
+* [Espetero](https://github.com/JarJarFran/espetero) - Local LLM inference server in C++ and Metal that runs MLX and GGUF models behind OpenAI, Anthropic and Ollama APIs, with a built-in web chat. [![Open-Source Software][OSS Icon]](https://github.com/JarJarFran/espetero) ![Freeware][Freeware Icon]
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
