@@ -380,6 +380,7 @@ Awesome Mac
 * [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的 git 管理工具。
 * [Hub](https://hub.github.com/) - 将 GitHub 接口和 Git 命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) - 最好的组织 GitHub Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ohmystar/id1218642292?platform=mac)
+* [PullBull](https://github.com/rustycamper/pullbull) - 在菜单栏中查看 GitHub 拉取请求、议题和 Projects 看板。 [![Open-Source Software][OSS Icon]](https://github.com/rustycamper/pullbull) ![Freeware][Freeware Icon]
 * [SourceTree](https://www.sourcetreeapp.com/) - 强大的 Git 跨平台客户端。![Freeware][Freeware Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - 非商业用途免费，全平台支持，集成 GitHub 服务。
 * [Sublime Merge](https://www.sublimemerge.com/) - Git客户端，来自Sublime Text的制造商。
