@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:58:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Monny</title>
+      <link>https://monny.moduix.dev</link>
+      <guid isPermaLink="false">13de0add1af5096f500dd188bd83a8e640e938b3:Monny</guid>
+      <pubDate>Thu, 29 Oct 2026 13:58:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Monny
+Description: 프로세스 검색과 배터리 충전 한도 설정을 지원하는 오픈 소스 메뉴 막대 시스템 모니터.
+Website: https://monny.moduix.dev
+Open Source: https://github.com/Blinks44/monny
+Commit: Add Monny to System Related Tools (#4021)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Monny<br/>Description: 프로세스 검색과 배터리 충전 한도 설정을 지원하는 오픈 소스 메뉴 막대 시스템 모니터.<br/>Website: https://monny.moduix.dev<br/>Open Source: https://github.com/Blinks44/monny<br/>Commit: Add Monny to System Related Tools (#4021)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3]]></content:encoded>
+    </item>
     <item>
       <title>SATF</title>
       <link>https://github.com/tran-minh-khoi/SATF</link>
@@ -700,20 +715,6 @@ Open Source: https://github.com/davidpraznik/Archivator
 Commit: Add Archivator (#3799)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Archivator<br/>Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
-    </item>
-    <item>
-      <title>Konverter</title>
-      <link>https://github.com/davidpraznik/Konverter</link>
-      <guid isPermaLink="false">ec154d5ad7e62028be73935f036f4265e53edbf8:Konverter</guid>
-      <pubDate>Sat, 24 Oct 2026 01:27:31 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Konverter
-Description: 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구.
-Open Source: https://github.com/davidpraznik/Konverter
-Commit: Add Konverter (#3798)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Konverter<br/>Description: 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구.<br/>Open Source: https://github.com/davidpraznik/Konverter<br/>Commit: Add Konverter (#3798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8]]></content:encoded>
     </item>
   </channel>
 </rss>
