@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:18:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Amical</title>
+      <link>https://amical.ai</link>
+      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
+      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Amical
+Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。
+Website: https://amical.ai
+Open Source: https://github.com/amicalhq/amical
+Commit: Add Amical (#4007)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Amical<br/>Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
+    </item>
     <item>
       <title>UMST</title>
       <link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
@@ -699,20 +714,6 @@ Website: https://dev.adityarajsingh.com/folderglass/
 Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79</description>
       <content:encoded><![CDATA[Category: QuickLook插件<br/>App: Folderglass<br/>Description: 文件夹快速预览插件：显示包含子文件夹的真实大小、文件类型占比、最大和最新的文件、Git 分支与改动状态，并直接渲染 README。也可预览 zip 内容和 Markdown。<br/>Website: https://dev.adityarajsingh.com/folderglass/<br/>Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79]]></content:encoded>
-    </item>
-    <item>
-      <title>CoWork OS</title>
-      <link>https://coworkosapp.com</link>
-      <guid isPermaLink="false">9ea5e25b26663dcdc51a78e484ddb10aa313b83f:CoWork OS</guid>
-      <pubDate>Fri, 23 Oct 2026 07:21:53 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: CoWork OS
-Description: 开源桌面 AI 智能体，可处理文件、浏览器和聊天应用中的任务，支持自带 API 密钥或本地模型。
-Website: https://coworkosapp.com
-Commit: Add CoWork OS (#3638)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: CoWork OS<br/>Description: 开源桌面 AI 智能体，可处理文件、浏览器和聊天应用中的任务，支持自带 API 密钥或本地模型。<br/>Website: https://coworkosapp.com<br/>Commit: Add CoWork OS (#3638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f]]></content:encoded>
     </item>
   </channel>
 </rss>
