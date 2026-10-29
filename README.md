@@ -229,6 +229,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Office
 
+* [GlideDeck](https://github.com/nirlotan/GlideDeck) - Open-source zooming presentation app with an infinite canvas and PowerPoint import and export. [![Open-Source Software][OSS Icon]](https://github.com/nirlotan/GlideDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id409183694?platform=mac) - Build stunning presentations. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - Free, open-source office software used and tested daily by a large community. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
