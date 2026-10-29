@@ -1536,6 +1536,7 @@ Awesome Mac
 * [PureMac](https://github.com/momenbasel/PureMac) - 免费开源的系统清理工具，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - 开源缓存清理工具，将文件移至废纸篓而非直接删除，基于固定白名单，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
+* [RefreshYourMac](https://refreshyourmac.com/) - Mac 清理工具，将每个类别评为“可安全删除”、“需检查”、“移至备份”或“受保护”，并在删除前显示残留文件来自哪个应用。 ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。 [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 开源磁盘清理工具，只将项目移至废纸篓，并在删除重复文件前检查项目脚本是否仍在引用它。 [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
