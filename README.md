@@ -1229,6 +1229,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
+* [Atomus](https://atomus.app/) - Learn a language from what you watch: save the line you just heard in any app with its audio and review it from the notch. ![Native App][Native Icon]
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
