@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JUMP</title>
+      <link>https://alvaldes.github.io/jump/</link>
+      <guid isPermaLink="false">46ce158053967a113a515b6c21bdcd7c6bc8871d:JUMP</guid>
+      <pubDate>Thu, 29 Oct 2026 15:11:47 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: JUMP
+Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。
+Website: https://alvaldes.github.io/jump/
+Open Source: https://github.com/alvaldes/jump
+Commit: Add JUMP to Productivity (#3995)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: JUMP<br/>Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。<br/>Website: https://alvaldes.github.io/jump/<br/>Open Source: https://github.com/alvaldes/jump<br/>Commit: Add JUMP to Productivity (#3995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d]]></content:encoded>
+    </item>
     <item>
       <title>Çentik</title>
       <link>https://github.com/YusufEmreYazici/Centik</link>
@@ -701,20 +716,6 @@ Website: https://stedding.dev/
 Commit: Add Stedding to Browsers (#3805)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Stedding<br/>Description: 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser)<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
-    </item>
-    <item>
-      <title>Nearby Drop</title>
-      <link>https://arslanbasharat-o-o.github.io/NearByDrop/</link>
-      <guid isPermaLink="false">a2d9b05cf87fa03a22d1b8106b7fec4be4069d70:Nearby Drop</guid>
-      <pubDate>Sat, 24 Oct 2026 03:27:05 GMT</pubDate>
-      <category>通信 / 文件共享</category>
-      <description>Category: 通信 / 文件共享
-App: Nearby Drop
-Description: 独立的 macOS 菜单栏应用，可与兼容的 Android 设备进行双向 Google Quick Share 传输，并提供 USB MTP、Finder 共享、二维码工具及实验性的 Windows 互操作支持。
-Website: https://arslanbasharat-o-o.github.io/NearByDrop/
-Commit: Add Nearby Drop to File Sharing (#3803)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
-      <content:encoded><![CDATA[Category: 通信 / 文件共享<br/>App: Nearby Drop<br/>Description: 独立的 macOS 菜单栏应用，可与兼容的 Android 设备进行双向 Google Quick Share 传输，并提供 USB MTP、Finder 共享、二维码工具及实验性的 Windows 互操作支持。<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
     </item>
   </channel>
 </rss>

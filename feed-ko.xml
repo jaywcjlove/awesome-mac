@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:11:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>JUMP</title>
+      <link>https://alvaldes.github.io/jump/</link>
+      <guid isPermaLink="false">46ce158053967a113a515b6c21bdcd7c6bc8871d:JUMP</guid>
+      <pubDate>Thu, 29 Oct 2026 15:11:47 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: JUMP
+Description: 클릭할 수 있는 모든 요소에 라벨을 붙여 어떤 앱에서든 키보드로 클릭, 스크롤, 검색할 수 있게 해 주는 오픈 소스 도구.
+Website: https://alvaldes.github.io/jump/
+Open Source: https://github.com/alvaldes/jump
+Commit: Add JUMP to Productivity (#3995)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: JUMP<br/>Description: 클릭할 수 있는 모든 요소에 라벨을 붙여 어떤 앱에서든 키보드로 클릭, 스크롤, 검색할 수 있게 해 주는 오픈 소스 도구.<br/>Website: https://alvaldes.github.io/jump/<br/>Open Source: https://github.com/alvaldes/jump<br/>Commit: Add JUMP to Productivity (#3995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d]]></content:encoded>
+    </item>
     <item>
       <title>Çentik</title>
       <link>https://github.com/YusufEmreYazici/Centik</link>
@@ -701,20 +716,6 @@ Website: https://stedding.dev/
 Commit: Add Stedding to Browsers (#3805)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
       <content:encoded><![CDATA[Category: 브라우저<br/>App: Stedding<br/>Description: Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원.<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
-    </item>
-    <item>
-      <title>Nearby Drop</title>
-      <link>https://arslanbasharat-o-o.github.io/NearByDrop/</link>
-      <guid isPermaLink="false">a2d9b05cf87fa03a22d1b8106b7fec4be4069d70:Nearby Drop</guid>
-      <pubDate>Sat, 24 Oct 2026 03:27:05 GMT</pubDate>
-      <category>커뮤니케이션 / 파일 공유</category>
-      <description>Category: 커뮤니케이션 / 파일 공유
-App: Nearby Drop
-Description: 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다.
-Website: https://arslanbasharat-o-o.github.io/NearByDrop/
-Commit: Add Nearby Drop to File Sharing (#3803)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: Nearby Drop<br/>Description: 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다.<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
     </item>
   </channel>
 </rss>
