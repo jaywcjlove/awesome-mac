@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:10:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Çentik</title>
+      <link>https://github.com/YusufEmreYazici/Centik</link>
+      <guid isPermaLink="false">7a871d050073307e96b3267b537774e0dd3394e9:Çentik</guid>
+      <pubDate>Thu, 29 Oct 2026 15:10:04 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Çentik
+Description: Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts.
+Open Source: https://github.com/YusufEmreYazici/Centik
+Commit: Add Çentik to Menu Bar Tools (#4003)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Çentik<br/>Description: Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts.<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
+    </item>
     <item>
       <title>PullBull</title>
       <link>https://github.com/rustycamper/pullbull</link>
@@ -701,20 +715,6 @@ Website: https://arslanbasharat-o-o.github.io/NearByDrop/
 Commit: Add Nearby Drop to File Sharing (#3803)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
       <content:encoded><![CDATA[Category: Communication / File Sharing<br/>App: Nearby Drop<br/>Description: Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability.<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Healthy Battery</title>
-      <link>https://github.com/berkinefeavci/healthy-battery</link>
-      <guid isPermaLink="false">8035d5cbad46504256e9b491665a8c9ea67ab121:Healthy Battery</guid>
-      <pubDate>Sat, 24 Oct 2026 02:46:34 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Healthy Battery
-Description: Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.
-Open Source: https://github.com/berkinefeavci/healthy-battery
-Commit: Add Healthy Battery (#3058)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Healthy Battery<br/>Description: Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.<br/>Open Source: https://github.com/berkinefeavci/healthy-battery<br/>Commit: Add Healthy Battery (#3058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121]]></content:encoded>
     </item>
   </channel>
 </rss>

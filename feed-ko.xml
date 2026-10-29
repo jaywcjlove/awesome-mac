@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:10:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Çentik</title>
+      <link>https://github.com/YusufEmreYazici/Centik</link>
+      <guid isPermaLink="false">7a871d050073307e96b3267b537774e0dd3394e9:Çentik</guid>
+      <pubDate>Thu, 29 Oct 2026 15:10:04 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Çentik
+Description: MacBook 노치를 음악, 시스템 상태, 내 Claude·Gemini·Ollama로 쓰는 AI 채팅, 클립보드 기록, 회의 알림을 담은 라이브 아일랜드로 바꿔 주는 앱.
+Open Source: https://github.com/YusufEmreYazici/Centik
+Commit: Add Çentik to Menu Bar Tools (#4003)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Çentik<br/>Description: MacBook 노치를 음악, 시스템 상태, 내 Claude·Gemini·Ollama로 쓰는 AI 채팅, 클립보드 기록, 회의 알림을 담은 라이브 아일랜드로 바꿔 주는 앱.<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
+    </item>
     <item>
       <title>PullBull</title>
       <link>https://github.com/rustycamper/pullbull</link>
@@ -701,20 +715,6 @@ Website: https://arslanbasharat-o-o.github.io/NearByDrop/
 Commit: Add Nearby Drop to File Sharing (#3803)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
       <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: Nearby Drop<br/>Description: 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다.<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Healthy Battery</title>
-      <link>https://github.com/berkinefeavci/healthy-battery</link>
-      <guid isPermaLink="false">8035d5cbad46504256e9b491665a8c9ea67ab121:Healthy Battery</guid>
-      <pubDate>Sat, 24 Oct 2026 02:46:34 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Healthy Battery
-Description: Apple Silicon MacBook용 오픈 소스 충전 한도 도구로, 실시간 전력 흐름과 장기 배터리 상태를 보여줍니다.
-Open Source: https://github.com/berkinefeavci/healthy-battery
-Commit: Add Healthy Battery (#3058)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Healthy Battery<br/>Description: Apple Silicon MacBook용 오픈 소스 충전 한도 도구로, 실시간 전력 흐름과 장기 배터리 상태를 보여줍니다.<br/>Open Source: https://github.com/berkinefeavci/healthy-battery<br/>Commit: Add Healthy Battery (#3058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121]]></content:encoded>
     </item>
   </channel>
 </rss>
