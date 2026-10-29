@@ -784,6 +784,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 支持时间轴和样式编辑的开源字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Amical](https://amical.ai) - 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。 [![Open-Source Software][OSS Icon]](https://github.com/amicalhq/amical)
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
