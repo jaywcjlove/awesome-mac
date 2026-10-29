@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:29:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SATF</title>
+      <link>https://github.com/tran-minh-khoi/SATF</link>
+      <guid isPermaLink="false">34a90cb70684838987698eda5c6e4d55fdd29920:SATF</guid>
+      <pubDate>Thu, 29 Oct 2026 13:29:58 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: SATF
+Description: 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다.
+Open Source: https://github.com/tran-minh-khoi/SATF
+Commit: Add SATF to General Tools (#4019)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: SATF<br/>Description: 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다.<br/>Open Source: https://github.com/tran-minh-khoi/SATF<br/>Commit: Add SATF to General Tools (#4019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920]]></content:encoded>
+    </item>
     <item>
       <title>Shandian</title>
       <link>https://github.com/chenmozhe008/shandian-download</link>
@@ -700,20 +714,6 @@ Open Source: https://github.com/davidpraznik/Konverter
 Commit: Add Konverter (#3798)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Konverter<br/>Description: 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구.<br/>Open Source: https://github.com/davidpraznik/Konverter<br/>Commit: Add Konverter (#3798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippo</title>
-      <link>https://lorder19.github.io/clippo/</link>
-      <guid isPermaLink="false">fd50f7f7d23e1f2d8ad677883a17abe7ad646d51:Clippo</guid>
-      <pubDate>Fri, 23 Oct 2026 15:37:11 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Clippo
-Description: 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다.
-Website: https://lorder19.github.io/clippo/
-Commit: Add Clippo to Clipboard Tools (#3797)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Clippo<br/>Description: 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다.<br/>Website: https://lorder19.github.io/clippo/<br/>Commit: Add Clippo to Clipboard Tools (#3797)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51]]></content:encoded>
     </item>
   </channel>
 </rss>
