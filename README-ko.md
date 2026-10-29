@@ -964,6 +964,7 @@ Awesome Mac
 
 ## 교육
 
+* [Anki Miner](https://github.com/0xzerolight/anki_miner) - 동영상, 오디오, 만화, 책에서 Anki 외국어 단어 카드를 자동으로 생성하며 32개 언어를 지원. [![Open-Source Software][OSS Icon]](https://github.com/0xzerolight/anki_miner) ![Freeware][Freeware Icon]
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 

@@ -1180,6 +1180,7 @@ Awesome Mac
 
 ## 教育
 
+* [Anki Miner](https://github.com/0xzerolight/anki_miner) - 从视频、音频、漫画和书籍中自动制作 Anki 外语词汇卡片，支持 32 种语言。 [![Open-Source Software][OSS Icon]](https://github.com/0xzerolight/anki_miner) ![Freeware][Freeware Icon]
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
