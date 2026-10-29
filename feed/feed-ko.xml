@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:23:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shandian</title>
+      <link>https://github.com/chenmozhe008/shandian-download</link>
+      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Shandian</guid>
+      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
+      <category>다운로드 관리 도구</category>
+      <description>Category: 다운로드 관리 도구
+App: Shandian
+Description: 마그넷 링크, 토렌트, HTTP 파일과 YouTube·Bilibili·Douyin·샤오훙수 동영상을 한 창에서 내려받는 네이티브 다운로드 관리자. 브라우저 다운로드 가로채기와 다운로드 중 재생을 지원 (UI는 중국어).
+Open Source: https://github.com/chenmozhe008/shandian-download
+Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
+      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Shandian<br/>Description: 마그넷 링크, 토렌트, HTTP 파일과 YouTube·Bilibili·Douyin·샤오훙수 동영상을 한 창에서 내려받는 네이티브 다운로드 관리자. 브라우저 다운로드 가로채기와 다운로드 중 재생을 지원 (UI는 중국어).<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
+    </item>
+    <item>
+      <title>Qingo</title>
+      <link>https://github.com/chenmozhe008/qingo</link>
+      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Qingo</guid>
+      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: Qingo
+Description: CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어).
+Open Source: https://github.com/chenmozhe008/qingo
+Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Qingo<br/>Description: CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어).<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
+    </item>
     <item>
       <title>Amical</title>
       <link>https://amical.ai</link>
@@ -686,34 +714,6 @@ Website: https://lorder19.github.io/clippo/
 Commit: Add Clippo to Clipboard Tools (#3797)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Clippo<br/>Description: 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다.<br/>Website: https://lorder19.github.io/clippo/<br/>Commit: Add Clippo to Clipboard Tools (#3797)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51]]></content:encoded>
-    </item>
-    <item>
-      <title>DockFlip</title>
-      <link>https://geezery.github.io/DockFlip/</link>
-      <guid isPermaLink="false">d3b36e9ded1e05961caef0172015d76e2816a012:DockFlip</guid>
-      <pubDate>Fri, 23 Oct 2026 07:38:28 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: DockFlip
-Description: 브라우저 탭까지 보여 주는 Dock 창 목록, Flip 3D 스타일의 ⌘Tab 창 전환, Windows식 창 스냅을 하나로 묶은 앱.
-Website: https://geezery.github.io/DockFlip/
-Commit: Add DockFlip to Window Management (#3774)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: DockFlip<br/>Description: 브라우저 탭까지 보여 주는 Dock 창 목록, Flip 3D 스타일의 ⌘Tab 창 전환, Windows식 창 스냅을 하나로 묶은 앱.<br/>Website: https://geezery.github.io/DockFlip/<br/>Commit: Add DockFlip to Window Management (#3774)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012]]></content:encoded>
-    </item>
-    <item>
-      <title>Folderglass</title>
-      <link>https://dev.adityarajsingh.com/folderglass/</link>
-      <guid isPermaLink="false">f31772e9f763cc3b97d9c11e5b39c6ba1e742e79:Folderglass</guid>
-      <pubDate>Fri, 23 Oct 2026 07:29:45 GMT</pubDate>
-      <category>QuickLook 플러그인</category>
-      <description>Category: QuickLook 플러그인
-App: Folderglass
-Description: 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원.
-Website: https://dev.adityarajsingh.com/folderglass/
-Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79</description>
-      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: Folderglass<br/>Description: 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원.<br/>Website: https://dev.adityarajsingh.com/folderglass/<br/>Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79]]></content:encoded>
     </item>
   </channel>
 </rss>
