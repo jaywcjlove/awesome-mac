@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:00:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lumilo</title>
+      <link>https://github.com/kotuke/lumilo</link>
+      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Lumilo
+Description: Splash または llama.cpp サーバーを起動し、メモリと生成速度を表示し、Hugging Face からモデルをダウンロードするオープンソースのメニューバーアプリ。
+Open Source: https://github.com/kotuke/lumilo
+Commit: Add Lumilo to AI Tools (#4000)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Lumilo<br/>Description: Splash または llama.cpp サーバーを起動し、メモリと生成速度を表示し、Hugging Face からモデルをダウンロードするオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
+    </item>
     <item>
       <title>Monny</title>
       <link>https://monny.moduix.dev</link>
@@ -701,20 +715,6 @@ Open Source: https://github.com/gkudva96/pitchtap
 Commit: Add PitchTap to Audio Record and Process (#3791)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: PitchTap<br/>Description: テンポを変えずに、任意のアプリの音声のキーをリアルタイムで変更できるオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/gkudva96/pitchtap<br/>Commit: Add PitchTap to Audio Record and Process (#3791)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84]]></content:encoded>
-    </item>
-    <item>
-      <title>Archivator</title>
-      <link>https://github.com/davidpraznik/Archivator</link>
-      <guid isPermaLink="false">c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a:Archivator</guid>
-      <pubDate>Sat, 24 Oct 2026 01:40:52 GMT</pubDate>
-      <category>ユーティリティ / ファイル管理ツール</category>
-      <description>Category: ユーティリティ / ファイル管理ツール
-App: Archivator
-Description: ドラッグしたファイルをホイールにドロップして圧縮・展開する、メニューバーのアーカイブツール。
-Open Source: https://github.com/davidpraznik/Archivator
-Commit: Add Archivator (#3799)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: Archivator<br/>Description: ドラッグしたファイルをホイールにドロップして圧縮・展開する、メニューバーのアーカイブツール。<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
     </item>
   </channel>
 </rss>

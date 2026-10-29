@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:00:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lumilo</title>
+      <link>https://github.com/kotuke/lumilo</link>
+      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Lumilo
+Description: Splash 또는 llama.cpp 서버를 실행하고 메모리와 생성 속도를 보여 주며 Hugging Face에서 모델을 내려받는 오픈 소스 메뉴 막대 앱.
+Open Source: https://github.com/kotuke/lumilo
+Commit: Add Lumilo to AI Tools (#4000)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Lumilo<br/>Description: Splash 또는 llama.cpp 서버를 실행하고 메모리와 생성 속도를 보여 주며 Hugging Face에서 모델을 내려받는 오픈 소스 메뉴 막대 앱.<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
+    </item>
     <item>
       <title>Monny</title>
       <link>https://monny.moduix.dev</link>
@@ -701,20 +715,6 @@ Open Source: https://github.com/gkudva96/pitchtap
 Commit: Add PitchTap to Audio Record and Process (#3791)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: PitchTap<br/>Description: 템포를 바꾸지 않고 모든 앱 오디오의 키를 실시간으로 바꾸는 오픈 소스 메뉴 막대 앱.<br/>Open Source: https://github.com/gkudva96/pitchtap<br/>Commit: Add PitchTap to Audio Record and Process (#3791)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84]]></content:encoded>
-    </item>
-    <item>
-      <title>Archivator</title>
-      <link>https://github.com/davidpraznik/Archivator</link>
-      <guid isPermaLink="false">c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a:Archivator</guid>
-      <pubDate>Sat, 24 Oct 2026 01:40:52 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: Archivator
-Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.
-Open Source: https://github.com/davidpraznik/Archivator
-Commit: Add Archivator (#3799)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Archivator<br/>Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
     </item>
   </channel>
 </rss>

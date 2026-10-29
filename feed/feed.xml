@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:00:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lumilo</title>
+      <link>https://github.com/kotuke/lumilo</link>
+      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Lumilo
+Description: Open-source menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
+Open Source: https://github.com/kotuke/lumilo
+Commit: Add Lumilo to AI Tools (#4000)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Lumilo<br/>Description: Open-source menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
+    </item>
     <item>
       <title>Monny</title>
       <link>https://monny.moduix.dev</link>
@@ -701,20 +715,6 @@ Open Source: https://github.com/gkudva96/pitchtap
 Commit: Add PitchTap to Audio Record and Process (#3791)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: PitchTap<br/>Description: Open-source menu bar app that changes the key of any app&apos;s audio live without changing the tempo.<br/>Open Source: https://github.com/gkudva96/pitchtap<br/>Commit: Add PitchTap to Audio Record and Process (#3791)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84]]></content:encoded>
-    </item>
-    <item>
-      <title>Archivator</title>
-      <link>https://github.com/davidpraznik/Archivator</link>
-      <guid isPermaLink="false">c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a:Archivator</guid>
-      <pubDate>Sat, 24 Oct 2026 01:40:52 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: Archivator
-Description: Menu bar archive tool that compresses and extracts files by dragging them onto a radial wheel.
-Open Source: https://github.com/davidpraznik/Archivator
-Commit: Add Archivator (#3799)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Archivator<br/>Description: Menu bar archive tool that compresses and extracts files by dragging them onto a radial wheel.<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
     </item>
   </channel>
 </rss>
