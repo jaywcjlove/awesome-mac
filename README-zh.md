@@ -1183,6 +1183,7 @@ Awesome Mac
 
 ## 金融
 
+* [Assetboard](https://assetboard.app/) - 本地优先的数字资产板，管理域名、服务器、订阅和仓库，带到期提醒与 MCP。 [![Open-Source Software][OSS Icon]](https://github.com/hippone-labs/assetboard) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - 仿 Windows HTS 的韩股、美股只读看盘工具，支持十档盘口、四图表布局、自选股和工作区保存，实时行情需使用自己的 Kiwoom REST API 密钥。 ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 面向零售商店和餐厅的离线优先开源 POS 与计费软件。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 原生菜单栏行情工具，支持美股、港股、A 股、加密货币、指数、ETF 和持仓盈亏。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]

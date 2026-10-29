@@ -967,6 +967,7 @@ Awesome Mac
 
 ## 금융
 
+* [Assetboard](https://assetboard.app/) - 도메인·서버·구독·저장소를 한곳에 모으는 로컬 우선 자산 보드. 갱신 알림과 MCP 지원. [![Open-Source Software][OSS Icon]](https://github.com/hippone-labs/assetboard) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - 윈도우 HTS처럼 국내·미국 주식을 보는 조회 전용 도구. 10단계 호가, 4차트 배치, 관심종목, 작업공간 저장을 지원하며 실시간 시세는 본인 키움 REST API 키로 받음. ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 소매점과 레스토랑을 위한 오프라인 우선 오픈 소스 POS 및 청구 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]

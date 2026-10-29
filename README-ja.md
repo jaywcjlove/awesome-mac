@@ -1234,6 +1234,7 @@ Awesome Mac
 
 ## ファイナンス
 
+* [Assetboard](https://assetboard.app/) - ドメイン、サーバー、サブスクリプション、リポジトリをまとめるローカルファーストの資産ボード。更新リマインダーと MCP 対応。 [![Open-Source Software][OSS Icon]](https://github.com/hippone-labs/assetboard) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。 ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 小売店とレストラン向けのオフラインファーストなオープンソース POS・請求ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
