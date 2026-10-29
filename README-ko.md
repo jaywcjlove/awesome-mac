@@ -596,6 +596,7 @@ Awesome Mac
 * [FontForge](http://fontforge.github.io/) - 무료 오픈 소스 글꼴 편집기. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU 이미지 조작 프로그램. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
+* [Inkword](https://inkword.app/mac) - 짧은 설명으로 통일된 스타일의 심플한 일러스트를 최대 25장까지 한 획씩 그려 줍니다. 본인의 Claude 또는 ChatGPT 요금제를 사용하며 SVG, PNG, GIF, MP4, Lottie로 내보낼 수 있습니다.
 * [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 이미지 배경을 오프라인으로 일괄 제거하는 도구.
