@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:23:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shandian</title>
+      <link>https://github.com/chenmozhe008/shandian-download</link>
+      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Shandian</guid>
+      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Shandian
+Description: Native download manager that handles magnet links, torrents, HTTP files and videos from YouTube, Bilibili, Douyin and Xiaohongshu in one window, with browser download takeover and stream-while-downloading (Chinese UI).
+Open Source: https://github.com/chenmozhe008/shandian-download
+Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Shandian<br/>Description: Native download manager that handles magnet links, torrents, HTTP files and videos from YouTube, Bilibili, Douyin and Xiaohongshu in one window, with browser download takeover and stream-while-downloading (Chinese UI).<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
+    </item>
+    <item>
+      <title>Qingo</title>
+      <link>https://github.com/chenmozhe008/qingo</link>
+      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Qingo</guid>
+      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Qingo
+Description: Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).
+Open Source: https://github.com/chenmozhe008/qingo
+Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Qingo<br/>Description: Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
+    </item>
     <item>
       <title>Amical</title>
       <link>https://amical.ai</link>
@@ -686,34 +714,6 @@ Website: https://lorder19.github.io/clippo/
 Commit: Add Clippo to Clipboard Tools (#3797)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clippo<br/>Description: Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.<br/>Website: https://lorder19.github.io/clippo/<br/>Commit: Add Clippo to Clipboard Tools (#3797)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51]]></content:encoded>
-    </item>
-    <item>
-      <title>DockFlip</title>
-      <link>https://geezery.github.io/DockFlip/</link>
-      <guid isPermaLink="false">d3b36e9ded1e05961caef0172015d76e2816a012:DockFlip</guid>
-      <pubDate>Fri, 23 Oct 2026 07:38:28 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: DockFlip
-Description: Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app.
-Website: https://geezery.github.io/DockFlip/
-Commit: Add DockFlip to Window Management (#3774)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: DockFlip<br/>Description: Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app.<br/>Website: https://geezery.github.io/DockFlip/<br/>Commit: Add DockFlip to Window Management (#3774)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012]]></content:encoded>
-    </item>
-    <item>
-      <title>Folderglass</title>
-      <link>https://dev.adityarajsingh.com/folderglass/</link>
-      <guid isPermaLink="false">f31772e9f763cc3b97d9c11e5b39c6ba1e742e79:Folderglass</guid>
-      <pubDate>Fri, 23 Oct 2026 07:29:45 GMT</pubDate>
-      <category>QuickLook Plugins</category>
-      <description>Category: QuickLook Plugins
-App: Folderglass
-Description: Quick Look extension for folders: real size including subfolders, file-type breakdown, largest and newest files, git branch and status, and the README rendered inline. Also previews zip contents and Markdown.
-Website: https://dev.adityarajsingh.com/folderglass/
-Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79</description>
-      <content:encoded><![CDATA[Category: QuickLook Plugins<br/>App: Folderglass<br/>Description: Quick Look extension for folders: real size including subfolders, file-type breakdown, largest and newest files, git branch and status, and the README rendered inline. Also previews zip contents and Markdown.<br/>Website: https://dev.adityarajsingh.com/folderglass/<br/>Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79]]></content:encoded>
     </item>
   </channel>
 </rss>
