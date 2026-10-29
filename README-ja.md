@@ -723,6 +723,7 @@ Awesome Mac
 * [Redlamp](https://redlamp.app) - Lightroom Classicの現像ワークフローをそのまま使える、ネイティブでオープンソースのRAW現像ソフト。 [![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp) ![Freeware][Freeware Icon]
 * [Screen Loupe](https://ayenora.github.io/screen-loupe/) - 画面の任意の部分を別ウィンドウでピクセル単位で正確に拡大表示するオープンソースのライブ拡大鏡。 [![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 画面をレイヤー付きPSDファイルに簡単にエクスポート。 [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/screentolayers/id1077317077?platform=mac)
+* [SculptForge](https://sculptforge.app/) - SubTool、スカルプトレイヤー、ダイナミックトポロジー、クアッドリトポロジーを備えたオープンソースのデジタルスカルプトアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/islandmed/SculptForge) ![Freeware][Freeware Icon]
 * [Sketch](http://www.sketchapp.com/) - Mac用のプロフェッショナルなデジタルデザインツール。
     * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - 隠れたSketch履歴ファイルを削除。 [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
     * [Measure Plugin](http://utom.design/measure/) - 開発者やチームメイトのための仕様書作成を楽しく。 [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
