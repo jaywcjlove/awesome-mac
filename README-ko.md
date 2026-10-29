@@ -847,6 +847,7 @@ Awesome Mac
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [Lansy Desk](https://lansy.ai/desk) - 회의 봇 없이 통화를 녹음하고 요약과 담당자 및 마감일이 포함된 작업을 만드는 앱.
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - 녹음과 음악 제작을 위한 디지털 오디오 워크스테이션. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [Local Transcriber](https://transcriber.teconomix.net) - 통화와 회의를 녹음해 Whisper로 기기에서 전사하고 화자 인식, 통화 감지, 모든 앱에서의 받아쓰기를 지원하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
