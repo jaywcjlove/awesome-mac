@@ -923,6 +923,7 @@ Awesome Mac
 * [EnviousWispr](https://enviouswispr.com/) - 음성을 다듬어진 텍스트로 빠르게 바꿔 바로 붙여넣을 수 있는 온디바이스 AI 받아쓰기 도구. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 누르고 말한 뒤 놓으면 전사 텍스트를 바로 붙여넣는 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Google의 무료 온디바이스 AI 받아쓰기·음성 편집 도구로, 어떤 앱에서나 사용할 수 있으며 현재는 영어만 지원합니다. ![Freeware][Freeware Icon]
+* [Halopen](https://halopen.com) - 누르고 있는 동안 녹음하는 메뉴 바 받아쓰기 도구. 말한 그대로 전사하며, 기기 내에서 처리하는 프라이버시 모드와 모든 클라우드 호출을 로컬에 남기는 감사 로그를 제공.
 * [inlaut](https://inlaut.de) - 독일어와 영어를 지원하는 완전 로컬 푸시투토크 받아쓰기 도구로, 기기에서 Parakeet 모델을 실행해 커서 위치에 입력합니다. [![Open-Source Software][OSS Icon]](https://github.com/tobymarks/inlaut) ![Freeware][Freeware Icon]
 * [LocalScribe](https://github.com/maddylaneeee/ShengJi) - 마이크, 미디어 파일, Mac 시스템 오디오를 위한 오픈 소스 로컬 전사 및 자막 편집 앱. [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 로컬 및 클라우드 음성 텍스트 변환을 지원하는 오픈 소스 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
