@@ -1314,6 +1314,7 @@ Awesome Mac
 
 * [Convertino](https://github.com/hasanzadee/convertino) - ファイルをドラッグ中に Shift を押し、放射状メニューにドロップして変換・編集できます。 [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNSプロバイダやカスタムリゾルバをすばやく切り替えるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
+* [Dockling](https://docket.shiduo.app/) - Dock の隣に時計、天気、カレンダー、メモ、ToDo、音楽、為替・単位換算など 40 以上のウィジェットを並べるシェルフ。ノッチのメッセージ表示も。 [![Open-Source Software][OSS Icon]](https://github.com/hanson-zz/docket-zh)
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - macOS用のドラッグ＆ドロップヘルパーアプリ。 ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - ドラッグしたファイル、テキスト、リンクを一時的に集めて移動できるシェルフ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Deleteでアクティビティモニタを起動し、Cmd+XでFinderのファイルをカット＆移動。
