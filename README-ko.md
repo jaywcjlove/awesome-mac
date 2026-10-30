@@ -664,6 +664,7 @@ Awesome Mac
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 소스 코드가 공개된 화면·오디오 기록 도구로, 로컬 기록 검색과 선택적 클라우드 AI 처리, 무료 및 유료 요금제를 제공합니다.
+* [shroom](https://shroom.am) - 모든 것이 내 Cloudflare 계정 안에서 이루어지고 10분이면 설정이 끝나는 오픈 소스 화면 녹화 및 링크 공유 도구. [![Open-Source Software][OSS Icon]](https://github.com/bagrat/shroom) ![Freeware][Freeware Icon]
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
 
 ### 기타 도구
