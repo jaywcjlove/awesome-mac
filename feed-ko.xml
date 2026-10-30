@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:30:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Open Contexts</title>
+      <link>https://opencontexts.app/</link>
+      <guid isPermaLink="false">94db831e877529371d0d56e323f14e6eca92e069:Open Contexts</guid>
+      <pubDate>Fri, 30 Oct 2026 00:30:21 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Open Contexts
+Description: 상시 표시되는 앱 바와 저장 가능한 창 그룹을 제공하는 오픈 소스 창 전환 도구.
+Website: https://opencontexts.app/
+Open Source: https://github.com/zshnb/open-contexts
+Commit: Add Open Contexts to Window Management (#3205)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Open Contexts<br/>Description: 상시 표시되는 앱 바와 저장 가능한 창 그룹을 제공하는 오픈 소스 창 전환 도구.<br/>Website: https://opencontexts.app/<br/>Open Source: https://github.com/zshnb/open-contexts<br/>Commit: Add Open Contexts to Window Management (#3205)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069]]></content:encoded>
+    </item>
     <item>
       <title>Splat</title>
       <link>https://github.com/sventmueller/splat</link>
@@ -702,20 +717,6 @@ Website: https://turhe123.github.io/clip-recall-bar/
 Commit: Add ClipRecallBar (#3652)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipRecallBar<br/>Description: 입력하면서 바로 필터링하고 키 하나로 붙여넣는 키보드 중심 클립보드 기록 팝업.<br/>Website: https://turhe123.github.io/clip-recall-bar/<br/>Commit: Add ClipRecallBar (#3652)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0]]></content:encoded>
-    </item>
-    <item>
-      <title>FileShipper</title>
-      <link>https://getapps.cafe/app/fileshipper</link>
-      <guid isPermaLink="false">27d9cf88a9da8862fd43ee39ad219d4148c3671b:FileShipper</guid>
-      <pubDate>Sat, 24 Oct 2026 06:18:26 GMT</pubDate>
-      <category>커뮤니케이션 / 파일 공유</category>
-      <description>Category: 커뮤니케이션 / 파일 공유
-App: FileShipper
-Description: 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구.
-Website: https://getapps.cafe/app/fileshipper
-Commit: Add FileShipper (#2701)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: FileShipper<br/>Description: 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
     </item>
   </channel>
 </rss>
