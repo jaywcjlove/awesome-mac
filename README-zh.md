@@ -1364,6 +1364,7 @@ Awesome Mac
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器。
 * [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/Uotan-Dev/UotanToolboxNT) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
+* [Reactive Wallpaper](https://reactivewallpaper.com/) - 使用 Metal 实时渲染、可随鼠标指针互动的动态壁纸应用。 ![Native App][Native Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - 将本地视频设为桌面壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - 支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [Vidwall Hub](https://wangchujiang.com/vidwall-hub/) - 轻松将 MP4/MOV 视频导入系统壁纸并用作锁屏动画。 ![Freeware][Freeware Icon]
