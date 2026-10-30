@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:16:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Apolo</title>
+      <link>https://apolo.webcafeina.com/en/</link>
+      <guid isPermaLink="false">171ae7afaeafdedd91fd542255c22caa975e933c:Apolo</guid>
+      <pubDate>Fri, 30 Oct 2026 16:16:50 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Apolo
+Description: Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.
+Website: https://apolo.webcafeina.com/en/
+Open Source: https://github.com/webcafeina/Apolo
+Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Apolo<br/>Description: Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.<br/>Website: https://apolo.webcafeina.com/en/<br/>Open Source: https://github.com/webcafeina/Apolo<br/>Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c]]></content:encoded>
+    </item>
     <item>
       <title>Safelight</title>
       <link>https://github.com/mopfaff/Safelight</link>
@@ -708,20 +723,6 @@ Website: https://jutsustudio.com/swapjutsu/
 Commit: Add Swapjutsu to Other Tools (#3866)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Swapjutsu<br/>Description: Open-source character swap tool for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.<br/>Website: https://jutsustudio.com/swapjutsu/<br/>Commit: Add Swapjutsu to Other Tools (#3866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd]]></content:encoded>
-    </item>
-    <item>
-      <title>Jutsu Studio</title>
-      <link>https://jutsustudio.com/</link>
-      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
-      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Jutsu Studio
-Description: Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.
-Website: https://jutsustudio.com/
-Commit: Add Jutsu Studio to Other Tools (#3865)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Jutsu Studio<br/>Description: Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
     </item>
   </channel>
 </rss>

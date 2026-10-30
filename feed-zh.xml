@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:16:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Apolo</title>
+      <link>https://apolo.webcafeina.com/en/</link>
+      <guid isPermaLink="false">171ae7afaeafdedd91fd542255c22caa975e933c:Apolo</guid>
+      <pubDate>Fri, 30 Oct 2026 16:16:50 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Apolo
+Description: 开源图片优化工具，可压缩并转换为 WebP、AVIF、JPEG XL、JPEG 和 PNG，保存前显示画质损失及 SSIMULACRA 2 评分。
+Website: https://apolo.webcafeina.com/en/
+Open Source: https://github.com/webcafeina/Apolo
+Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Apolo<br/>Description: 开源图片优化工具，可压缩并转换为 WebP、AVIF、JPEG XL、JPEG 和 PNG，保存前显示画质损失及 SSIMULACRA 2 评分。<br/>Website: https://apolo.webcafeina.com/en/<br/>Open Source: https://github.com/webcafeina/Apolo<br/>Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c]]></content:encoded>
+    </item>
     <item>
       <title>Safelight</title>
       <link>https://github.com/mopfaff/Safelight</link>
@@ -709,20 +724,6 @@ Website: https://jutsustudio.com/swapjutsu/
 Commit: Add Swapjutsu to Other Tools (#3866)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Swapjutsu<br/>Description: 开源的视频角色替换工具，使用 Seedance 2.5 或 Wan 2.2 Animate，并在 Apple 芯片上完成本地预处理。<br/>Website: https://jutsustudio.com/swapjutsu/<br/>Commit: Add Swapjutsu to Other Tools (#3866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd]]></content:encoded>
-    </item>
-    <item>
-      <title>Jutsu Studio</title>
-      <link>https://jutsustudio.com/</link>
-      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
-      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: Jutsu Studio
-Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。
-Website: https://jutsustudio.com/
-Commit: Add Jutsu Studio to Other Tools (#3865)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Jutsu Studio<br/>Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
     </item>
   </channel>
 </rss>
