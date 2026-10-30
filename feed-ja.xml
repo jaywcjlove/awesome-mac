@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Safelight</title>
+      <link>https://github.com/mopfaff/Safelight</link>
+      <guid isPermaLink="false">83584eb4e0eeaba9315b7d34c8405997b028096c:Safelight</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:47 GMT</pubDate>
+      <category>ユーティリティ / 生活の質の向上</category>
+      <description>Category: ユーティリティ / 生活の質の向上
+App: Safelight
+Description: カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。
+Open Source: https://github.com/mopfaff/Safelight
+Commit: Add Safelight to Quality of Life Improvements (#4068)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Safelight<br/>Description: カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
+    </item>
     <item>
       <title>Mudroom</title>
       <link>https://github.com/Kernel-Hunter/mudroom</link>
@@ -708,20 +722,6 @@ Website: https://jutsustudio.com/
 Commit: Add Jutsu Studio to Other Tools (#3865)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Jutsu Studio<br/>Description: Seedance、Kling、GenjutsuでAI動画と画像を生成し、すべての結果をローカルディスクに保存するオープンソースの非公式Higgsfieldクライアント。<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
-    </item>
-    <item>
-      <title>Moony</title>
-      <link>https://moonyfinance.com</link>
-      <guid isPermaLink="false">d06fcfe1d0a73d28001f6b50ea1e7de960a062fc:Moony</guid>
-      <pubDate>Sun, 25 Oct 2026 22:31:08 GMT</pubDate>
-      <category>ファイナンス</category>
-      <description>Category: ファイナンス
-App: Moony
-Description: 口座、投資、暗号資産、不動産、ローンを暗号化されたローカルデータベースで管理する個人資産管理アプリ。アカウント不要、クラウド不要、テレメトリーなし。
-Website: https://moonyfinance.com
-Commit: Add Moony (Finance) (#3864)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
-      <content:encoded><![CDATA[Category: ファイナンス<br/>App: Moony<br/>Description: 口座、投資、暗号資産、不動産、ローンを暗号化されたローカルデータベースで管理する個人資産管理アプリ。アカウント不要、クラウド不要、テレメトリーなし。<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
     </item>
   </channel>
 </rss>

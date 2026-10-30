@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:00:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Safelight</title>
+      <link>https://github.com/mopfaff/Safelight</link>
+      <guid isPermaLink="false">83584eb4e0eeaba9315b7d34c8405997b028096c:Safelight</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:47 GMT</pubDate>
+      <category>Utilities / Quality of Life Improvements</category>
+      <description>Category: Utilities / Quality of Life Improvements
+App: Safelight
+Description: Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.
+Open Source: https://github.com/mopfaff/Safelight
+Commit: Add Safelight to Quality of Life Improvements (#4068)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
+      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Safelight<br/>Description: Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
+    </item>
     <item>
       <title>Mudroom</title>
       <link>https://github.com/Kernel-Hunter/mudroom</link>
@@ -708,20 +722,6 @@ Website: https://jutsustudio.com/
 Commit: Add Jutsu Studio to Other Tools (#3865)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Jutsu Studio<br/>Description: Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
-    </item>
-    <item>
-      <title>Moony</title>
-      <link>https://moonyfinance.com</link>
-      <guid isPermaLink="false">d06fcfe1d0a73d28001f6b50ea1e7de960a062fc:Moony</guid>
-      <pubDate>Sun, 25 Oct 2026 22:31:08 GMT</pubDate>
-      <category>Finance</category>
-      <description>Category: Finance
-App: Moony
-Description: Personal finance app for tracking accounts, investments, crypto, property and loans in an encrypted local database, with no account, no cloud and no telemetry.
-Website: https://moonyfinance.com
-Commit: Add Moony (Finance) (#3864)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
-      <content:encoded><![CDATA[Category: Finance<br/>App: Moony<br/>Description: Personal finance app for tracking accounts, investments, crypto, property and loans in an encrypted local database, with no account, no cloud and no telemetry.<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
     </item>
   </channel>
 </rss>
