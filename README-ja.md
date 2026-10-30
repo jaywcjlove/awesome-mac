@@ -824,6 +824,7 @@ Awesome Mac
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Stable Diffusionを使用してテキストから画像を生成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1660147028?platform=mac)
 * [Anthora](https://barryanders.github.io/anthora/) - フォルダやマウント済みドライブ内の写真と動画を閲覧・検索し、重複を確認できるローカルライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/barryanders/Anthora) ![Freeware][Freeware Icon]
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG画像のアセンブラー/ディスアセンブラーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
+* [Apolo](https://apolo.webcafeina.com/en/) - WebP、AVIF、JPEG XL、JPEG、PNG への圧縮・変換を行い、保存前に画質の劣化と SSIMULACRA 2 スコアを表示するオープンソースの画像最適化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - ピアツーピア同期を備えた写真整理アプリ。 ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Webおよびモバイルアプリケーション向けの画像リサイズと最適化。 ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - 画面に表示される色を取得・調整するシンプルなアプリ。 ![Freeware][Freeware Icon]
