@@ -994,7 +994,7 @@ Awesome Mac
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 영구적인 설치가 발생할 때 경고. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 보호 경로용 정책 기반 파일 접근 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylib 하이재킹 위험이 있는 앱을 검사하는 도구. ![Freeware][Freeware Icon]
-* [FlowSense](https://getflowsense.com/) - 각 연결 안의 앱이나 서비스를 기기 내에서 식별하고 차단하거나 속도를 제한할 수 있는 네트워크 모니터 겸 방화벽.
+* [FlowSense](https://www.getflowsense.com/) - 각 연결 안의 앱이나 서비스를 기기 내에서 식별하고 차단하거나 속도를 제한할 수 있는 네트워크 모니터 겸 방화벽.
 * [fob](https://getfob.app) - SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - 기기 내 얼굴 인식으로 잠금 화면을 해제하고 선택한 앱에 프라이버시 보호막을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 무단 네트워크 트래픽을 차단하는 무료 방화벽. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
