@@ -355,6 +355,7 @@ Awesome Mac
 * [bruno](https://www.usebruno.com/) - 一款离线优先、快速且兼容 Git 的开源 API 客户端。 ![Freeware][Freeware Icon]
 * [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量。
 * [James](https://github.com/james-proxy/james) - 用于 https 和 http 进行查询映射请求。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
+* [Kilobat CLI](https://github.com/seifip/kilobat-cli) - 用于网络监控和诊断的开源命令行工具与 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/seifip/kilobat-cli) ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - 一款支持 HTTP(S) 的中间人代理工具，可在终端下运行，可用于抓包 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Proxie](https://proxieapp.com/) - HTTP 调试客户端。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cellist/id897814548?platform=mac)
