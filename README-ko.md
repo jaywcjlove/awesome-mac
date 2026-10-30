@@ -230,6 +230,7 @@ Awesome Mac
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - 실시간 새로고침, Quick Look 미리보기, Mermaid 다이어그램, 수식, 그리고 자체 키 또는 로컬 모델을 이용한 선택적 AI 요약을 지원하는 빠른 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
+* [PageFlow](https://pageflow.pinchen.me/) - PDF 주석과 마크다운 실시간 미리보기를 지원하며 로컬 파일을 같은 탭 모음에서 여는 리더 겸 편집기. [![Open-Source Software][OSS Icon]](https://github.com/pinchen147/PageFlow) ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Splat](https://github.com/sventmueller/splat) - Rust로 작성된 네이티브 macOS 마크다운 편집기. 소스와 실시간 미리보기 모두에서 바로 편집 가능. [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]

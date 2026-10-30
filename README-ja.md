@@ -256,6 +256,7 @@ Awesome Mac
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - ライブリロード、Quick Lookプレビュー、Mermaid図、数式、そして自分のキーまたはローカルモデルによるオプションのAI要約に対応した高速なMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
 * [Obsidian](https://obsidian.md) - あなたのための第二の脳、永遠に。
+* [PageFlow](https://pageflow.pinchen.me/) - PDFへの注釈とMarkdownのライブプレビューに対応し、ローカルファイルを共通のタブで開けるリーダー兼エディタ。 [![Open-Source Software][OSS Icon]](https://github.com/pinchen147/PageFlow) ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Scratch](https://www.ericli.io/scratch) - WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Splat](https://github.com/sventmueller/splat) - Rustで書かれたネイティブmacOS Markdownエディタ。ソースとライブプレビューのどちらでも直接編集できる。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
