@@ -1258,6 +1258,7 @@ Awesome Mac
 
 * [Cryptomator](https://cryptomator.org/) - クラウド上のファイルのマルチプラットフォーム透過型クライアントサイド暗号化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - オープンソースのファイル暗号化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
+* [Stillroom Vault](https://www.stillroomvault.com/) - アカウントもサーバーも同期も使わない、ファイル・メモ・パスワード・二要素認証コードのためのオフライン暗号化保管庫。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## セキュリティツール
 
