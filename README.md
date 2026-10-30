@@ -1151,6 +1151,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Input Methods
 
+* [Comoji](https://www.comoji.io/) - Slack- and Discord-style emoji autocomplete, GIFs, and stickers in text fields across apps. ![Freeware][Freeware Icon]
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Keyameleon](https://keyameleon.app/) - Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
