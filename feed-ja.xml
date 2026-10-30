@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:15:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AI Meter</title>
+      <link>https://github.com/getguruhat/ai-meter</link>
+      <guid isPermaLink="false">2e931fa86320cf7fa199196dfce3a2316ca5095f:AI Meter</guid>
+      <pubDate>Fri, 30 Oct 2026 07:15:38 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: AI Meter
+Description: Claude CodeまたはCodexの残り使用量とリセット時刻をメニューバーに表示するツール。
+Open Source: https://github.com/getguruhat/ai-meter
+Commit: Add AI Meter (#4004)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AI Meter<br/>Description: Claude CodeまたはCodexの残り使用量とリセット時刻をメニューバーに表示するツール。<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
+    </item>
     <item>
       <title>tapflow</title>
       <link>https://tapflow.dev</link>
@@ -706,20 +720,6 @@ Open Source: https://github.com/jryang1997/MenuBarMijia
 Commit: Add MenuBarMijia to Menu Bar Tools (#3813)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: MenuBarMijia<br/>Description: メニューバーから音声またはキーボードで Xiaomi 米家デバイスを操作。Mi Cloud の QR ログインまたは Home Assistant に対応（macOS 26+）。<br/>Open Source: https://github.com/jryang1997/MenuBarMijia<br/>Commit: Add MenuBarMijia to Menu Bar Tools (#3813)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388]]></content:encoded>
-    </item>
-    <item>
-      <title>WattMate</title>
-      <link>https://wattmateapp.com</link>
-      <guid isPermaLink="false">3827925f7e7ac9b43c34d7c201a3001da63fa625:WattMate</guid>
-      <pubDate>Sat, 24 Oct 2026 11:35:18 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: WattMate
-Description: どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。
-Website: https://wattmateapp.com
-Commit: Add WattMate to System Related Tools (#3718)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: WattMate<br/>Description: どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。<br/>Website: https://wattmateapp.com<br/>Commit: Add WattMate to System Related Tools (#3718)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625]]></content:encoded>
     </item>
   </channel>
 </rss>
