@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:44:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:49:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>RAVE LIVE</title>
+      <link>https://github.com/jedbrnth-eng/rave-live</link>
+      <guid isPermaLink="false">45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd:RAVE LIVE</guid>
+      <pubDate>Fri, 30 Oct 2026 15:49:22 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: RAVE LIVE
+Description: 跟随 Mac 正在播放音乐的节拍同步的音乐节灯光秀，包含舞台灯光、激光和 MilkDrop 预设。
+Open Source: https://github.com/jedbrnth-eng/rave-live
+Commit: Add RAVE LIVE (#4066)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: RAVE LIVE<br/>Description: 跟随 Mac 正在播放音乐的节拍同步的音乐节灯光秀，包含舞台灯光、激光和 MilkDrop 预设。<br/>Open Source: https://github.com/jedbrnth-eng/rave-live<br/>Commit: Add RAVE LIVE (#4066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd]]></content:encoded>
+    </item>
     <item>
       <title>Lucid</title>
       <link>https://lucid-wallpaper.vercel.app</link>
@@ -708,20 +722,6 @@ Website: https://ledgeapp.dev
 Commit: Add Ledge to Menu Bar Tools (#3838)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Ledge<br/>Description: 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge)<br/>Website: https://ledgeapp.dev<br/>Commit: Add Ledge to Menu Bar Tools (#3838)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8]]></content:encoded>
-    </item>
-    <item>
-      <title>Kurenai</title>
-      <link>https://lorder19.github.io/kurenai/</link>
-      <guid isPermaLink="false">46d6a080599b124400b7f2b7a37e8d94dab9d33d:Kurenai</guid>
-      <pubDate>Sun, 25 Oct 2026 04:11:56 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Kurenai
-Description: 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。
-Website: https://lorder19.github.io/kurenai/
-Commit: Rename Clippo to Kurenai (#3839)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46d6a080599b124400b7f2b7a37e8d94dab9d33d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Kurenai<br/>Description: 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。<br/>Website: https://lorder19.github.io/kurenai/<br/>Commit: Rename Clippo to Kurenai (#3839)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46d6a080599b124400b7f2b7a37e8d94dab9d33d]]></content:encoded>
     </item>
   </channel>
 </rss>
