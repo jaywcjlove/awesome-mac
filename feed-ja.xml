@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:43:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rebind</title>
+      <link>https://rebind.moduix.dev</link>
+      <guid isPermaLink="false">812b58d2765ee97c69006227f0f69586de42037b:Rebind</guid>
+      <pubDate>Fri, 30 Oct 2026 09:43:54 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: Rebind
+Description: キー、マウスボタン、トラックパッドのジェスチャーをショートカットやシステム操作に割り当てるオープンソースツール。
+Website: https://rebind.moduix.dev
+Open Source: https://github.com/Blinks44/rebind
+Commit: Add Rebind to Productivity (#4020)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Rebind<br/>Description: キー、マウスボタン、トラックパッドのジェスチャーをショートカットやシステム操作に割り当てるオープンソースツール。<br/>Website: https://rebind.moduix.dev<br/>Open Source: https://github.com/Blinks44/rebind<br/>Commit: Add Rebind to Productivity (#4020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b]]></content:encoded>
+    </item>
     <item>
       <title>AI Meter</title>
       <link>https://github.com/getguruhat/ai-meter</link>
@@ -706,20 +721,6 @@ Website: https://chiranjeebhub.github.io/clipstack-site/
 Commit: Add Clipstack to Clipboard Tools (#3828)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4387806d36cdbfa999876a9dc2f0c3ed13c671d</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Clipstack<br/>Description: 検索、種類別フィルター、ピン留め、オプションの iCloud 同期に対応したネイティブのクリップボード履歴アプリ。<br/>Website: https://chiranjeebhub.github.io/clipstack-site/<br/>Commit: Add Clipstack to Clipboard Tools (#3828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4387806d36cdbfa999876a9dc2f0c3ed13c671d]]></content:encoded>
-    </item>
-    <item>
-      <title>MenuBarMijia</title>
-      <link>https://github.com/jryang1997/MenuBarMijia</link>
-      <guid isPermaLink="false">ae6f3429d7271c3badfe580d396ac591c1b41388:MenuBarMijia</guid>
-      <pubDate>Sat, 24 Oct 2026 12:15:48 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: MenuBarMijia
-Description: メニューバーから音声またはキーボードで Xiaomi 米家デバイスを操作。Mi Cloud の QR ログインまたは Home Assistant に対応（macOS 26+）。
-Open Source: https://github.com/jryang1997/MenuBarMijia
-Commit: Add MenuBarMijia to Menu Bar Tools (#3813)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: MenuBarMijia<br/>Description: メニューバーから音声またはキーボードで Xiaomi 米家デバイスを操作。Mi Cloud の QR ログインまたは Home Assistant に対応（macOS 26+）。<br/>Open Source: https://github.com/jryang1997/MenuBarMijia<br/>Commit: Add MenuBarMijia to Menu Bar Tools (#3813)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388]]></content:encoded>
     </item>
   </channel>
 </rss>

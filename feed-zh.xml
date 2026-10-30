@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:43:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rebind</title>
+      <link>https://rebind.moduix.dev</link>
+      <guid isPermaLink="false">812b58d2765ee97c69006227f0f69586de42037b:Rebind</guid>
+      <pubDate>Fri, 30 Oct 2026 09:43:54 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Rebind
+Description: 开源工具，可将按键、鼠标按钮和触控板手势映射为快捷键和系统操作。
+Website: https://rebind.moduix.dev
+Open Source: https://github.com/Blinks44/rebind
+Commit: Add Rebind to Productivity (#4020)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Rebind<br/>Description: 开源工具，可将按键、鼠标按钮和触控板手势映射为快捷键和系统操作。<br/>Website: https://rebind.moduix.dev<br/>Open Source: https://github.com/Blinks44/rebind<br/>Commit: Add Rebind to Productivity (#4020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b]]></content:encoded>
+    </item>
     <item>
       <title>AI Meter</title>
       <link>https://github.com/getguruhat/ai-meter</link>
@@ -706,20 +721,6 @@ Website: https://chiranjeebhub.github.io/clipstack-site/
 Commit: Add Clipstack to Clipboard Tools (#3828)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4387806d36cdbfa999876a9dc2f0c3ed13c671d</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Clipstack<br/>Description: 原生剪贴板历史工具，支持搜索、按类型筛选、置顶和可选的 iCloud 同步。<br/>Website: https://chiranjeebhub.github.io/clipstack-site/<br/>Commit: Add Clipstack to Clipboard Tools (#3828)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4387806d36cdbfa999876a9dc2f0c3ed13c671d]]></content:encoded>
-    </item>
-    <item>
-      <title>MenuBarMijia</title>
-      <link>https://github.com/jryang1997/MenuBarMijia</link>
-      <guid isPermaLink="false">ae6f3429d7271c3badfe580d396ac591c1b41388:MenuBarMijia</guid>
-      <pubDate>Sat, 24 Oct 2026 12:15:48 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: MenuBarMijia
-Description: 在菜单栏用语音或键盘控制米家设备，支持米家云扫码登录或 Home Assistant（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/jryang1997/MenuBarMijia)
-Open Source: https://github.com/jryang1997/MenuBarMijia
-Commit: Add MenuBarMijia to Menu Bar Tools (#3813)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MenuBarMijia<br/>Description: 在菜单栏用语音或键盘控制米家设备，支持米家云扫码登录或 Home Assistant（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/jryang1997/MenuBarMijia)<br/>Open Source: https://github.com/jryang1997/MenuBarMijia<br/>Commit: Add MenuBarMijia to Menu Bar Tools (#3813)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388]]></content:encoded>
     </item>
   </channel>
 </rss>
