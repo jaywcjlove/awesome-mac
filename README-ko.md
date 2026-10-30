@@ -956,6 +956,7 @@ Awesome Mac
 
 * [DeepL](https://www.deepl.com/) - 최고의 품질을 자랑하는 기계 번역 서비스. ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 단어 검색과 텍스트 번역을 간편하게 해주는 사전·번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [Glint](https://github.com/jsogn/Glint) - 중국어 원어민을 위한 네이티브 영어 학습 도구로, 병음 입력기에서 현재 선택된 후보 옆에 영어 번역을 표시하며 입력기를 대체하지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/jsogn/Glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [iTranslate](http://www.itranslate.com/) - 텍스트와 웹페이지를 여러 언어로 번역하는 앱. ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [MoePeek](https://github.com/cosZone/MoePeek) - 선택 텍스트, OCR, 클립보드, 수동 입력을 지원하는 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
