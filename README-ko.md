@@ -1293,6 +1293,7 @@ Awesome Mac
 
 ## 게임 소프트웨어
 
+* [Bedrock Launcher](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - 로컬에서 빌드한 WineGDK와 DXMT를 통해 직접 소유한 Windows용 Minecraft 베드락 에디션을 Apple Silicon에서 완전히 오프라인으로 실행합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS)
 * [Borne](https://borne.pasahome.org) - MAMEUI의 흐름을 잇는 MAME 및 클래식 PC 게임(Doom, Quake, Duke Nukem 3D)용 네이티브 프런트엔드로, 에뮬레이터와 게임 엔진을 함께 제공합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스. ![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - libretro 코어를 사용하는 오픈 소스 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
