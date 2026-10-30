@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:49:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:55:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Uptick</title>
+      <link>https://chengffei.github.io/uptick/</link>
+      <guid isPermaLink="false">a3a87607e461f836381e9493fd47a5119f04a71a:Uptick</guid>
+      <pubDate>Fri, 30 Oct 2026 15:55:45 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Uptick
+Description: App Store、Sparkle、Electron の更新フィード、Homebrew から更新を探し、インストール前にダウンロードを検証するオープンソースのアップデーター。
+Website: https://chengffei.github.io/uptick/
+Commit: Add Uptick (#4067)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Uptick<br/>Description: App Store、Sparkle、Electron の更新フィード、Homebrew から更新を探し、インストール前にダウンロードを検証するオープンソースのアップデーター。<br/>Website: https://chengffei.github.io/uptick/<br/>Commit: Add Uptick (#4067)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a]]></content:encoded>
+    </item>
     <item>
       <title>RAVE LIVE</title>
       <link>https://github.com/jedbrnth-eng/rave-live</link>
@@ -708,20 +722,6 @@ Website: https://arroxy.com/
 Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
       <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Arroxy<br/>Description: YouTubeなどの対応サイトから動画・音声・プレイリスト・字幕をダウンロードできる、yt-dlpベースのオープンソースGUI。<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
-    </item>
-    <item>
-      <title>Ledge</title>
-      <link>https://ledgeapp.dev</link>
-      <guid isPermaLink="false">9bc51364b90bbab5a9dd4b9f804cb483ba5000b8:Ledge</guid>
-      <pubDate>Sun, 25 Oct 2026 06:38:45 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Ledge
-Description: ノッチを、再生中の曲・タイマー・次の予定・天気・メモ・スリープ防止を表示するDynamic Island風のステータス領域に変える（macOS 26以降）。
-Website: https://ledgeapp.dev
-Commit: Add Ledge to Menu Bar Tools (#3838)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Ledge<br/>Description: ノッチを、再生中の曲・タイマー・次の予定・天気・メモ・スリープ防止を表示するDynamic Island風のステータス領域に変える（macOS 26以降）。<br/>Website: https://ledgeapp.dev<br/>Commit: Add Ledge to Menu Bar Tools (#3838)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8]]></content:encoded>
     </item>
   </channel>
 </rss>
