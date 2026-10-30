@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mudroom</title>
+      <link>https://github.com/Kernel-Hunter/mudroom</link>
+      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
+      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Mudroom
+Description: Claude Code, Codex 같은 코딩 에이전트를 프로젝트의 쓰기 시 복사 클론 위 Linux 마이크로 VM에서 실행하고, 풀 리퀘스트처럼 변경 사항을 검토하고 적용하는 오픈 소스 앱 및 CLI.
+Open Source: https://github.com/Kernel-Hunter/mudroom
+Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Mudroom<br/>Description: Claude Code, Codex 같은 코딩 에이전트를 프로젝트의 쓰기 시 복사 클론 위 Linux 마이크로 VM에서 실행하고, 풀 리퀘스트처럼 변경 사항을 검토하고 적용하는 오픈 소스 앱 및 CLI.<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
+    </item>
     <item>
       <title>Uptick</title>
       <link>https://chengffei.github.io/uptick/</link>
@@ -708,20 +722,6 @@ Website: https://moonyfinance.com
 Commit: Add Moony (Finance) (#3864)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
       <content:encoded><![CDATA[Category: 금융<br/>App: Moony<br/>Description: 계좌, 투자, 암호화폐, 부동산, 대출을 암호화된 로컬 데이터베이스에서 관리하는 개인 재무 앱. 계정과 클라우드가 필요 없고 텔레메트리도 없음.<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
-    </item>
-    <item>
-      <title>Arroxy</title>
-      <link>https://arroxy.com/</link>
-      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
-      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
-      <category>다운로드 관리 도구</category>
-      <description>Category: 다운로드 관리 도구
-App: Arroxy
-Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.
-Website: https://arroxy.com/
-Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
-      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Arroxy<br/>Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
     </item>
   </channel>
 </rss>
