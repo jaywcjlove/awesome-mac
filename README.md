@@ -1258,6 +1258,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Cryptomator](https://cryptomator.org/) -  Multi-platform transparent client-side encryption of your files in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - Open-source file encryption tool. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
+* [Stillroom Vault](https://www.stillroomvault.com/) - Offline encrypted vault for files, notes, passwords and two-factor codes, with no account, server or sync. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## Security Tools
 

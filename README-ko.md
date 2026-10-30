@@ -990,6 +990,7 @@ Awesome Mac
 ## 암호화
 
 * [Cryptomator](https://cryptomator.org/) - 클라우드 파일의 투명한 클라이언트 측 암호화. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
+* [Stillroom Vault](https://www.stillroomvault.com/) - 계정, 서버, 동기화 없이 파일, 메모, 비밀번호, 2단계 인증 코드를 보관하는 오프라인 암호화 보관함. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 보안 도구
 
