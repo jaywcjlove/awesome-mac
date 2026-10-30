@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:59:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Bedrock Launcher</title>
+      <link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
+      <guid isPermaLink="false">68526c17c888713054c3bd924b2b34b6a0595ae9:Bedrock Launcher</guid>
+      <pubDate>Fri, 30 Oct 2026 11:59:16 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: Bedrock Launcher
+Description: ローカルでビルドした WineGDK と DXMT を使い、自分の Windows 版 Minecraft 統合版を Apple Silicon 上で完全オフラインで遊べます。
+Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS
+Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: Bedrock Launcher<br/>Description: ローカルでビルドした WineGDK と DXMT を使い、自分の Windows 版 Minecraft 統合版を Apple Silicon 上で完全オフラインで遊べます。<br/>Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS<br/>Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9]]></content:encoded>
+    </item>
     <item>
       <title>Matcha</title>
       <link>https://github.com/jakeantelis/Matcha</link>
@@ -707,20 +721,6 @@ Website: https://thulem.com/en/
 Commit: Add MacClean to cleanup and uninstall listings (#3224)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: MacClean<br/>Description: WeChat メディア、システムデータ、Xcode や AI のキャッシュを確認してから削除できる無料のローカル Mac ディスククリーナー。<br/>Website: https://thulem.com/en/<br/>Commit: Add MacClean to cleanup and uninstall listings (#3224)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d]]></content:encoded>
-    </item>
-    <item>
-      <title>MDViewer</title>
-      <link>https://mmmikael.github.io/mdviewer/</link>
-      <guid isPermaLink="false">1b4a5e29b83225f5000c5177751df1197d46353d:MDViewer</guid>
-      <pubDate>Sun, 25 Oct 2026 03:19:02 GMT</pubDate>
-      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MDViewer
-Description: ライブリロード、Quick Lookプレビュー、Mermaid図、数式、そして自分のキーまたはローカルモデルによるオプションのAI要約に対応した高速なMarkdownビューア。
-Website: https://mmmikael.github.io/mdviewer/
-Commit: Add MDViewer to Markdown Tools (#3835)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MDViewer<br/>Description: ライブリロード、Quick Lookプレビュー、Mermaid図、数式、そして自分のキーまたはローカルモデルによるオプションのAI要約に対応した高速なMarkdownビューア。<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Commit: Add MDViewer to Markdown Tools (#3835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d]]></content:encoded>
     </item>
   </channel>
 </rss>

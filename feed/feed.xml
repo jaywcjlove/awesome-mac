@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:59:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Bedrock Launcher</title>
+      <link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
+      <guid isPermaLink="false">68526c17c888713054c3bd924b2b34b6a0595ae9:Bedrock Launcher</guid>
+      <pubDate>Fri, 30 Oct 2026 11:59:16 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: Bedrock Launcher
+Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.
+Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS
+Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Bedrock Launcher<br/>Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.<br/>Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS<br/>Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9]]></content:encoded>
+    </item>
     <item>
       <title>Matcha</title>
       <link>https://github.com/jakeantelis/Matcha</link>
@@ -707,20 +721,6 @@ Website: https://thulem.com/en/
 Commit: Add MacClean to cleanup and uninstall listings (#3224)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacClean<br/>Description: Free local Mac disk cleaner that lets you review WeChat media, System Data, and Xcode or AI caches before deleting.<br/>Website: https://thulem.com/en/<br/>Commit: Add MacClean to cleanup and uninstall listings (#3224)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d]]></content:encoded>
-    </item>
-    <item>
-      <title>MDViewer</title>
-      <link>https://mmmikael.github.io/mdviewer/</link>
-      <guid isPermaLink="false">1b4a5e29b83225f5000c5177751df1197d46353d:MDViewer</guid>
-      <pubDate>Sun, 25 Oct 2026 03:19:02 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MDViewer
-Description: Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model.
-Website: https://mmmikael.github.io/mdviewer/
-Commit: Add MDViewer to Markdown Tools (#3835)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MDViewer<br/>Description: Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model.<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Commit: Add MDViewer to Markdown Tools (#3835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d]]></content:encoded>
     </item>
   </channel>
 </rss>
