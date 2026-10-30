@@ -331,6 +331,7 @@ Awesome Mac
 ### 기타
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDF 편집, 압축 및 암호 보호 도구.
+* [Bibliome](https://psychosonicconsulting.com/bibliome.html) - 온디바이스 AI로 문서를 주제별로 정리하고 의미로 검색하며 인용과 함께 질문에 답하는 비공개 PDF 라이브러리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=awesome-mac&mt=12) ![Native App][Native Icon]
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - 여러 PDF 파일을 하나로 결합. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
 * [Capd](https://capd.jxd.dev) - 링크, 텍스트, 메모, 이미지를 저장하고 전체 텍스트를 검색할 수 있는 오픈소스 캡처 및 북마크 앱. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - .chm 문서를 읽기 위한 리더. ![Freeware][Freeware Icon]

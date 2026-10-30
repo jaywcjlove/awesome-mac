@@ -358,6 +358,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Others
 
 * [SwifDoo PDF](https://www.swifdoo.com/) - PDF editor/converter for editing, compressing, and password-protecting PDFs.
+* [Bibliome](https://psychosonicconsulting.com/bibliome.html) - Private PDF library that sorts your documents by topic, searches them by meaning and answers questions with citations, using on-device AI. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=awesome-mac&mt=12) ![Native App][Native Icon]
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
 * [Capd](https://capd.jxd.dev) - Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search. [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](https://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
