@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:02:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>tapflow</title>
+      <link>https://tapflow.dev</link>
+      <guid isPermaLink="false">4c9846a835a360aaba20440acebb6cdad4731abd:tapflow</guid>
+      <pubDate>Fri, 30 Oct 2026 07:02:16 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: tapflow
+Description: チームが既に持っている Mac 上で、iOS シミュレーターと Android エミュレーターをブラウザからテストできるセルフホスト型ツール。
+Website: https://tapflow.dev
+Open Source: https://github.com/jo-duchan/tapflow
+Commit: Add tapflow to Developer Utilities (#3988)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: tapflow<br/>Description: チームが既に持っている Mac 上で、iOS シミュレーターと Android エミュレーターをブラウザからテストできるセルフホスト型ツール。<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
+    </item>
     <item>
       <title>Vauta</title>
       <link>https://vauta.vercel.app/</link>
@@ -705,20 +720,6 @@ Website: https://wattmateapp.com
 Commit: Add WattMate to System Related Tools (#3718)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: WattMate<br/>Description: どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。<br/>Website: https://wattmateapp.com<br/>Commit: Add WattMate to System Related Tools (#3718)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625]]></content:encoded>
-    </item>
-    <item>
-      <title>Swivel</title>
-      <link>https://github.com/jonathanlotan/Swivel</link>
-      <guid isPermaLink="false">de5724f828ae6246682ce28efcbc1a362576b898:Swivel</guid>
-      <pubDate>Sat, 24 Oct 2026 11:08:53 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Swivel
-Description: ファイルをドラッグ中にキーを押してホイールにドロップするだけで、変換・切り抜き・圧縮・メタデータ削除・共有ができる完全オフラインのツール。
-Open Source: https://github.com/jonathanlotan/Swivel
-Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Swivel<br/>Description: ファイルをドラッグ中にキーを押してホイールにドロップするだけで、変換・切り抜き・圧縮・メタデータ削除・共有ができる完全オフラインのツール。<br/>Open Source: https://github.com/jonathanlotan/Swivel<br/>Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898]]></content:encoded>
     </item>
   </channel>
 </rss>
