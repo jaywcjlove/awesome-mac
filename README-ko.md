@@ -910,6 +910,7 @@ Awesome Mac
 
 * [Arq](https://www.arqbackup.com/) - AWS, GCP, Dropbox 등을 지원하는 클라우드 백업 클라이언트.
 * [Dropbox](https://www.dropbox.com/) - 클라우드 스토리지 및 파일 동기화 서비스. ![Freeware][Freeware Icon]
+* [Feather Drive](https://featherdrive.app/) - Google Drive와 Dropbox를 Finder에 마운트하고 파일을 다운로드 없이 스트리밍으로 바로 여는 메뉴 막대 앱.
 * [Mega](https://mega.nz/) - 50GB의 무료 저장 공간을 제공하는 클라우드 서비스. ![Freeware][Freeware Icon]
 * [Nextcloud](https://nextcloud.com/) - 개인용 클라우드 서버 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 

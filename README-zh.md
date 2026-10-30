@@ -1101,6 +1101,7 @@ Awesome Mac
 * [115](http://pc.115.com/) - 115 云客户端。![Freeware][Freeware Icon]
 * [123云盘](https://www.123pan.com/) - 123 云盘客户端。![Freeware][Freeware Icon]
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 云存储与文件同步服务。![Freeware][Freeware Icon]
+* [Feather Drive](https://featherdrive.app/) - 将 Google Drive 和 Dropbox 挂载到访达的菜单栏应用，流式读取文件，无需下载即可秒开。
 * [NextCloud](https://nextcloud.com/) - 基于 ownCloud 完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]
 * [Resilio Sync](https://www.resilio.com/individuals/) - P2P私有云盘，BitTorrent血统，支持`安卓`/`iOS`/`Windows`/`macOS`/`Linux`/`FreeBSD`/`NAS`等系统平台。注意：截止2021.7.20，macOS平台客户端存在休眠崩溃现象，除此之外可以正常使用。![Freeware][Freeware Icon]
