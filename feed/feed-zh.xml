@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mudroom</title>
+      <link>https://github.com/Kernel-Hunter/mudroom</link>
+      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
+      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Mudroom
+Description: 开源应用和命令行工具，在 Linux 微虚拟机中基于项目的写时复制克隆运行 Claude Code、Codex 等编程智能体，并可像审查 Pull Request 一样审阅和应用其改动。
+Open Source: https://github.com/Kernel-Hunter/mudroom
+Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Mudroom<br/>Description: 开源应用和命令行工具，在 Linux 微虚拟机中基于项目的写时复制克隆运行 Claude Code、Codex 等编程智能体，并可像审查 Pull Request 一样审阅和应用其改动。<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
+    </item>
     <item>
       <title>Uptick</title>
       <link>https://chengffei.github.io/uptick/</link>
@@ -709,20 +723,6 @@ Website: https://moonyfinance.com
 Commit: Add Moony (Finance) (#3864)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
       <content:encoded><![CDATA[Category: 金融<br/>App: Moony<br/>Description: 个人财务应用，在本地加密数据库中管理账户、投资、加密货币、房产和贷款，无需账户，无云端，无遥测。<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
-    </item>
-    <item>
-      <title>Arroxy</title>
-      <link>https://arroxy.com/</link>
-      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
-      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: Arroxy
-Description: 基于 yt-dlp 的开源图形界面下载工具，可从 YouTube 及其他支持的网站下载视频、音频、播放列表和字幕。[![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy)
-Website: https://arroxy.com/
-Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: Arroxy<br/>Description: 基于 yt-dlp 的开源图形界面下载工具，可从 YouTube 及其他支持的网站下载视频、音频、播放列表和字幕。[![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy)<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
     </item>
   </channel>
 </rss>

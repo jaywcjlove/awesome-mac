@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mudroom</title>
+      <link>https://github.com/Kernel-Hunter/mudroom</link>
+      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
+      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Mudroom
+Description: Claude Code や Codex などのコーディングエージェントを、プロジェクトのコピーオンライトクローン上の Linux マイクロ VM で実行し、プルリクエストのように変更をレビューして適用できるオープンソースのアプリと CLI。
+Open Source: https://github.com/Kernel-Hunter/mudroom
+Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Mudroom<br/>Description: Claude Code や Codex などのコーディングエージェントを、プロジェクトのコピーオンライトクローン上の Linux マイクロ VM で実行し、プルリクエストのように変更をレビューして適用できるオープンソースのアプリと CLI。<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
+    </item>
     <item>
       <title>Uptick</title>
       <link>https://chengffei.github.io/uptick/</link>
@@ -708,20 +722,6 @@ Website: https://moonyfinance.com
 Commit: Add Moony (Finance) (#3864)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
       <content:encoded><![CDATA[Category: ファイナンス<br/>App: Moony<br/>Description: 口座、投資、暗号資産、不動産、ローンを暗号化されたローカルデータベースで管理する個人資産管理アプリ。アカウント不要、クラウド不要、テレメトリーなし。<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
-    </item>
-    <item>
-      <title>Arroxy</title>
-      <link>https://arroxy.com/</link>
-      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
-      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
-      <category>ダウンロード管理ツール</category>
-      <description>Category: ダウンロード管理ツール
-App: Arroxy
-Description: YouTubeなどの対応サイトから動画・音声・プレイリスト・字幕をダウンロードできる、yt-dlpベースのオープンソースGUI。
-Website: https://arroxy.com/
-Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
-      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Arroxy<br/>Description: YouTubeなどの対応サイトから動画・音声・プレイリスト・字幕をダウンロードできる、yt-dlpベースのオープンソースGUI。<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:58:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mudroom</title>
+      <link>https://github.com/Kernel-Hunter/mudroom</link>
+      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
+      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Mudroom
+Description: Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.
+Open Source: https://github.com/Kernel-Hunter/mudroom
+Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Mudroom<br/>Description: Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
+    </item>
     <item>
       <title>Uptick</title>
       <link>https://chengffei.github.io/uptick/</link>
@@ -708,20 +722,6 @@ Website: https://moonyfinance.com
 Commit: Add Moony (Finance) (#3864)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
       <content:encoded><![CDATA[Category: Finance<br/>App: Moony<br/>Description: Personal finance app for tracking accounts, investments, crypto, property and loans in an encrypted local database, with no account, no cloud and no telemetry.<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
-    </item>
-    <item>
-      <title>Arroxy</title>
-      <link>https://arroxy.com/</link>
-      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
-      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
-      <category>Download Management Tools</category>
-      <description>Category: Download Management Tools
-App: Arroxy
-Description: Open-source yt-dlp GUI for downloading video, audio, playlists and subtitles from YouTube and other supported sites.
-Website: https://arroxy.com/
-Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
-      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Arroxy<br/>Description: Open-source yt-dlp GUI for downloading video, audio, playlists and subtitles from YouTube and other supported sites.<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
     </item>
   </channel>
 </rss>
