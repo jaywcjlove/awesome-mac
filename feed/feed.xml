@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:49:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pulse</title>
+      <link>https://github.com/emgeorrk/pulse</link>
+      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
+      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Pulse
+Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.
+Open Source: https://github.com/emgeorrk/pulse
+Commit: Add Pulse (menu bar system monitor) (#2381)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Pulse<br/>Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
+    </item>
     <item>
       <title>ContainerDesk</title>
       <link>https://github.com/MacHatter1/ContainerDesk</link>
@@ -709,20 +723,6 @@ Website: https://krocon.de/products/comiccommander/
 Commit: Add Comic Commander to Ebooks (#3890)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45ea00c79c456cf5e5cce552ac0f90c3de39a2a</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Ebooks<br/>App: Comic Commander<br/>Description: Comic library browser and reader for CBZ, CBR, CB7, CBT, and PDF files.<br/>Website: https://krocon.de/products/comiccommander/<br/>Commit: Add Comic Commander to Ebooks (#3890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45ea00c79c456cf5e5cce552ac0f90c3de39a2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Featherview</title>
-      <link>https://featherview.mynetx.net</link>
-      <guid isPermaLink="false">9b81b7efffe3457f66b39c8d141c74d9a9dc6e98:Featherview</guid>
-      <pubDate>Mon, 26 Oct 2026 00:48:19 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Featherview
-Description: Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion.
-Website: https://featherview.mynetx.net
-Commit: Add Featherview to Design and Product › Other Tools (#3871)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Featherview<br/>Description: Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion.<br/>Website: https://featherview.mynetx.net<br/>Commit: Add Featherview to Design and Product › Other Tools (#3871)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98]]></content:encoded>
     </item>
   </channel>
 </rss>
