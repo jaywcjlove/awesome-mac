@@ -1314,6 +1314,7 @@ Awesome Mac
 
 * [AnyDesk](https://anydesk.com/) - 빠르고 안전한 원격 데스크톱 소프트웨어. ![Freeware][Freeware Icon]
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - Windows App, mstsc 등 표준 원격 데스크톱 클라이언트로 Mac에 접속할 수 있는 오픈 소스 RDP 서버. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
+* [Glass](https://glassdesk.dev) - 어떤 브라우저에서든 볼 수 있고, 보는 쪽에는 아무것도 설치할 필요가 없는 Mac 및 Linux용 저지연 원격 데스크톱. [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - 종단간 암호화를 지원하는 오픈 소스 원격 데스크톱 및 원격 지원 도구. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app/) - 저지연 원격 데스크톱 및 게임 스트리밍 도구.
