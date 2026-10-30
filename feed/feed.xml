@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:30:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Open Contexts</title>
+      <link>https://opencontexts.app/</link>
+      <guid isPermaLink="false">94db831e877529371d0d56e323f14e6eca92e069:Open Contexts</guid>
+      <pubDate>Fri, 30 Oct 2026 00:30:21 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Open Contexts
+Description: Open-source window switcher with a persistent app bar and saved window groups.
+Website: https://opencontexts.app/
+Open Source: https://github.com/zshnb/open-contexts
+Commit: Add Open Contexts to Window Management (#3205)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Open Contexts<br/>Description: Open-source window switcher with a persistent app bar and saved window groups.<br/>Website: https://opencontexts.app/<br/>Open Source: https://github.com/zshnb/open-contexts<br/>Commit: Add Open Contexts to Window Management (#3205)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069]]></content:encoded>
+    </item>
     <item>
       <title>Splat</title>
       <link>https://github.com/sventmueller/splat</link>
@@ -702,20 +717,6 @@ Website: https://turhe123.github.io/clip-recall-bar/
 Commit: Add ClipRecallBar (#3652)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: ClipRecallBar<br/>Description: Keyboard-first clipboard history popup that filters as you type and pastes with one key.<br/>Website: https://turhe123.github.io/clip-recall-bar/<br/>Commit: Add ClipRecallBar (#3652)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0]]></content:encoded>
-    </item>
-    <item>
-      <title>FileShipper</title>
-      <link>https://getapps.cafe/app/fileshipper</link>
-      <guid isPermaLink="false">27d9cf88a9da8862fd43ee39ad219d4148c3671b:FileShipper</guid>
-      <pubDate>Sat, 24 Oct 2026 06:18:26 GMT</pubDate>
-      <category>Communication / File Sharing</category>
-      <description>Category: Communication / File Sharing
-App: FileShipper
-Description: Peer-to-peer file transfer between computers and phones over local Wi-Fi.
-Website: https://getapps.cafe/app/fileshipper
-Commit: Add FileShipper (#2701)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
-      <content:encoded><![CDATA[Category: Communication / File Sharing<br/>App: FileShipper<br/>Description: Peer-to-peer file transfer between computers and phones over local Wi-Fi.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
     </item>
   </channel>
 </rss>
