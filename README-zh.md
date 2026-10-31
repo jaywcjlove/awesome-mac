@@ -434,6 +434,7 @@ Awesome Mac
 * [Redis Insight](https://redis.io/insight/) - Redis 官方推出的数据浏览、调试与可视化工具。 ![Freeware][Freeware Icon]
 * [RedisClient](https://github.com/UUGU/redis-client-app) - 漂亮跨平台的Redis管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/UUGU/redis-client-app)
 * [RedisDesktopManager](https://redisdesktop.com/) - Redis 跨平台的 GUI 管理工具。[![Open-Source Software][OSS Icon]](https://github.com/uglide/RedisDesktopManager) ![Freeware][Freeware Icon]
+* [Seqora](https://seqora.dev/) - 支持 PostgreSQL、MySQL、MariaDB 和 SQLite 的数据库客户端，提供可视化 EXPLAIN 执行计划以及索引等数据库对象的详情页。
 * [SQLPro Studio](http://www.sqlprostudio.com/) - 支持 SQL Server, Postgres, Oracle 以及 MySQL 等主流的数据库可视化管理工具.
 * [SQLight](https://aurvan.com/sqlight/) - 一个 SQLite 数据库管理器工具，非常好用。 ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - 支持 PostgreSQL，MySQL，RedShift，MariaDB... 各种数据库的高颜值客户端。 [![Open-Source Software][OSS Icon]](https://github.com/TablePlus/TablePlus) ![Freeware][Freeware Icon]
