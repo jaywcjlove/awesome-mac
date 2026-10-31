@@ -829,6 +829,7 @@ Awesome Mac
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款注重隐私的开源 YouTube 应用。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - 将视频转换为高质量GIF。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
 * [HandBrake](https://handbrake.fr/) - 用于将媒体转换为现代格式的视频转码工具。[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
+* [Hertzwise](https://zeetabit.github.io/Hertzwise/) - 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。 [![Open-Source Software][OSS Icon]](https://github.com/zeetabit/Hertzwise) ![Freeware][Freeware Icon]
 * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - 面向 Apple Silicon 与 Intel Mac 的非官方短剧播放器与下载器，支持红果、西饭和河马三个来源。 [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
 * [Hydrogen](http://hydrogen-music.org/) - 专业鼓乐类工具，创建专业但简单而直观的鼓乐节目。[![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [IINA](https://github.com/iina/iina) - 基于[MPV](https://github.com/mpv-player/mpv)的，现代视频播放器，支持多点触摸控制。[![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
