@@ -3,6 +3,25 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 음성으로 입력하세요. 키를 누르고 자연스럽게 말하면 됩니다.</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">사용 중인 앱에 맞게 내용이 자동으로 서식 지정됩니다. 로컬 AI 모델을 사용하며 오프라인에서도 작동하고, 무료 오픈 소스입니다.</a>
+  <br/><br/>
+
+
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - Mac 전반에서 작동하는 AI 에이전트</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">화면을 보고 앱에서 작업하며, 일을 끝까지 처리합니다.</a>
+  <br><br>
+
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
@@ -23,13 +42,6 @@
   </a>
   <br>
   <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM 무료 IP 주소 정보 조회 웹사이트</a>
   <br><br>
 
 </div>
@@ -80,9 +92,9 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
@@ -119,6 +131,7 @@
 
 ## 개발자 도구
 
+* [aisw](https://aiswitcher.dev) - 이름이 지정된 프로필로 Claude Code, Codex, Gemini, Antigravity CLI 계정을 전환하고 저장소별로 사용할 계정을 고정. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple silicon의 기본 container 런타임을 위한 Docker Compose 호환 CLI. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON 스키마 작업을 위한 CLI. 포맷팅, 린팅, 테스트, 번들링 등을 지원하며 로컬 개발 및 CI/CD 파이프라인에서 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
