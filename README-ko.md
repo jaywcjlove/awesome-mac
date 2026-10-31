@@ -1223,6 +1223,7 @@ Awesome Mac
 * [Brink](https://brinknotch.site) - 화면 가장자리에 노치를 표시해 마우스를 올리는 것만으로 Notion 페이지와 작업에 접근하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - 클릭할 때마다 페이지가 스크롤되는 Magic Mouse 동작을 막아주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [CurrentKey](https://currentkey.com) - Spaces에 사용자 지정 이름과 아이콘을 붙이고 앱 사용 시간을 추적하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
+* * [Didon](https://didon.app/) - 온디바이스 비전 모델로 작업을 자동 기록하는 AI 시간 추적기. 스크린샷은 Mac 밖으로 나가지 않음.
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 메뉴 막대에서 기능 키를 빠르게 호출하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - 앱, 링크, 파일을 프로젝트별로 정리하는 작업 공간 도구. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar에 촉각 피드백을 추가하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
