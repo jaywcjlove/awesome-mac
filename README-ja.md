@@ -952,6 +952,7 @@ Awesome Mac
 * [Krisp](https://krisp.ai/) - 通話中の背景ノイズをミュートするAI搭載のノイズキャンセリングアプリ。
 * [Lark](https://www.larksuite.com/en_us/) - 次世代コラボレーションスイート。チャット、会議、カレンダー、ドキュメント、メールをすべて1か所に。 ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - Mac OS X用のオープンソースIRCクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
+* [Lina](https://github.com/Titi257/lina) - 任意のSIPプロバイダーやPBXで使えるネイティブSIPソフトフォン。転送、通話中着信、TLSとSRTP、クリック発信に対応。英語、フランス語、スペイン語に対応。無料、有料のProあり。 ![Native App][Native Icon]
 * [Mastodon](https://mastodon.social/) - セルフホスト型で、グローバルに相互接続されたマイクロブログコミュニティ [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 * [Matrix](https://matrix.org/) - セキュアで分散型のコミュニケーションのためのオープンネットワーク！ ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Mattermost](https://mattermost.com/download/) - オープンソースのチームコラボレーションプラットフォーム。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
