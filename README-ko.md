@@ -602,6 +602,7 @@ Awesome Mac
 * [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 이미지 배경을 오프라인으로 일괄 제거하는 도구.
+* [Lil Cactus](https://lilcactus.app/) - 레이어, 마스크, RAW 현상을 지원하는 브라우저 사진 편집기로, 영어와 중국어를 포함한 11개 언어의 그림 가이드를 제공합니다. ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - 내장 에셋과 실시간 협업을 지원하는 벡터 디자인 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 * [MakeHuman](http://www.makehumancommunity.org) - 강력하고 무료인 3D 인간 모델러. ![Freeware][Freeware Icon]
 * [Monodraw](http://monodraw.helftone.com) - Mac용 강력한 ASCII 아트 편집기. [![App Store][app-store Icon]](https://apps.apple.com/app/monodraw/id920404675?platform=mac)
