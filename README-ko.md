@@ -216,6 +216,7 @@ Awesome Mac
 ### 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - 인라인 LaTeX를 지원하는 수학 쓰기에 최적화된 마크다운 편집기.
+* [Cloister Ink](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541) - Mac용 마크다운 편집기. 7일 무료 체험 후 한 번 구매로 계속 사용하며 광고와 분석 기능이 없음. [![App Store][app-store Icon]](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541)
 * [Edmund](https://github.com/I7T5/Edmund) - 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
