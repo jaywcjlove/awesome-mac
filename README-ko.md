@@ -196,7 +196,7 @@ Awesome Mac
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - 단순하고 집중을 방해하지 않는 메모장. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501?platform=mac)
 * [Sublime Text](http://www.sublimetext.com/3) - 빠른 인터페이스와 플러그인 생태계를 갖춘 텍스트 편집기. [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [SubEthaEdit](https://subethaedit.net/) - 쓰기, 코딩 및 협업을 위한 강력한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
-* [Tab.Noted](https://tab.notedsuite.app/) - 탭, 50개 이상의 언어 구문 강조, 16진수 편집기, 비교 도구를 갖춘 네이티브 소스 코드 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tab-noted/id6790039448?platform=mac) ![Native App][Native Icon]
+* [Tab.Noted](https://tab.notedsuite.app/) - 50개 이상의 언어 구문 강조를 지원하는 오프라인 소스 코드 및 텍스트 편집기. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tab-noted/id6790039448?platform=mac)
 * [TextMate](https://macromates.com) - 텍스트 편집기 세계에 Apple의 운영 체제 접근 방식을 도입한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
 * [Vim](http://www.vim.org/) - 오래된 터미널 기반 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
