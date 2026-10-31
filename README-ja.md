@@ -1182,6 +1182,7 @@ Awesome Mac
 * [ParrotFlow](https://parrotflow.io/) - 独自のルール・スクリプト・語彙でプログラムできるローカル音声入力アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Spokenly](https://spokenly.app/) - 100以上の言語、オフラインモード、AI搭載のフォーマットを備えた音声テキスト変換。
+* [tabi](https://www.heytabi.app) - 押して話すだけで、どのアプリでもカーソル位置に整った文章を入力し、テキストやPDF、本の読み上げもできる、Mistral搭載のAIディクテーションツール。
 * [Tambourine](https://tambourinevoice.com/) - あらゆるアプリで動作するオープンソースのカスタマイズ可能なAI音声ディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [Tamka](https://www.piedol.top/tamka/) - Neural EngineでNVIDIA Parakeetモデルを動かし、あらゆるアプリのカーソル位置に入力する、オープンソースのオンデバイス音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Whisperベースのローカル音声テキスト変換ツール。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
