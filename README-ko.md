@@ -1129,6 +1129,7 @@ Awesome Mac
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다. [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [Performance Monitor](https://perfmon.knhome.nl) - 가벼운 메뉴 막대 시스템 모니터. CPU, 메모리, 네트워크, 디스크, GPU, 센서별 온도, SSD 마모도, 배터리 상태를 표시합니다. 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/inequitas/performancemonitor) ![Freeware][Freeware Icon]
 
 ### 정리 및 제거
 
