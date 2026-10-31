@@ -1489,6 +1489,7 @@ Awesome Mac
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - 無料でソースが公開されたフェアコードライセンスのMacアプリクリーナー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [Peel](https://peel.tuguidragos.com/) - アプリを残ったファイルごと取り除き、それぞれのファイルがなぜそのアプリのものかを教えてくれて、すべてゴミ箱に入れるのであとから戻せる、無料でオープンソースのアンインストーラ兼クリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/TuguiDragos/Peel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Photo Review](https://danielyaa5.github.io/photo-review/) - iCloud写真ライブラリを容量順に一覧表示し、大きなビデオの圧縮や選んだ項目の削除ができるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/danielyaa5/photo-review) ![Freeware][Freeware Icon]
+* [Pruneo](https://pruneo.app/) - 各項目を説明してくれる無料のネイティブディスククリーナー。削除したものは本当に消える前に隔離され、元に戻せる。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [PureMac](https://github.com/momenbasel/PureMac) - テレメトリーなしの無料オープンソースシステムクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - ファイルを削除せずゴミ箱に移動する、固定許可リストとテレメトリーなしのオープンソースキャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [Qingo](https://github.com/chenmozhe008/qingo) - CapCut、DaVinci Resolve、Adobe 製品、Cursor、Claude Code など 60 以上の動画・デザイン・AI ツールのキャッシュを識別し、自動で再生成されるものだけをゴミ箱へ移して取り消し可能にするクリーナー。プロジェクトや会話には触れない（UI は中国語）。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/qingo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
