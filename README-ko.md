@@ -584,6 +584,7 @@ Awesome Mac
 * [Warp](https://www.warp.dev) - 현대적인 앱처럼 작동하도록 재설계된 빠른 터미널. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 파일 미리보기, 웹 브라우징, AI 도구를 갖춘 오픈 소스 터미널. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rust로 구현된 GPU 가속 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [XTTY](https://xtty.sh/) - 로컬 셸, OpenSSH 워크플로 및 코딩 에이전트 세션을 위한 네이티브 터미널. ![Freeware][Freeware Icon]
 
 ## 디자인 및 제품
 
