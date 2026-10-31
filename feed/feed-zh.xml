@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:29:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hertzwise</title>
+      <link>https://zeetabit.github.io/Hertzwise/</link>
+      <guid isPermaLink="false">bf8ca04a9d068cd499c77153abbb3e830a69fc4a:Hertzwise</guid>
+      <pubDate>Sat, 31 Oct 2026 08:29:53 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Hertzwise
+Description: 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。
+Website: https://zeetabit.github.io/Hertzwise/
+Open Source: https://github.com/zeetabit/Hertzwise
+Commit: Add Hertzwise to Audio and Video Tools (#4101)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Hertzwise<br/>Description: 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
+    </item>
     <item>
       <title>Tarn</title>
       <link>https://github.com/jakeantelis/Tarn</link>
@@ -712,20 +727,6 @@ Website: https://parrotflow.io/
 Commit: Add ParrotFlow to Voice-to-Text (#3911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: ParrotFlow<br/>Description: 可用你的规则、脚本和词汇编程的本地语音听写应用。<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
-    </item>
-    <item>
-      <title>Lilo</title>
-      <link>https://getlilo.app/</link>
-      <guid isPermaLink="false">1b3ca24f2251d2a2d7ea6869237f2f07c86c092c:Lilo</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:25 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Lilo
-Description: 原生 WebKit 浏览器，提供 Arc 风格的空间、Chrome 扩展、侧边栏终端标签页，以及供 AI 代理使用的内置 MCP 服务器。
-Website: https://getlilo.app/
-Commit: Add Lilo to Browsers (#3916)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Lilo<br/>Description: 原生 WebKit 浏览器，提供 Arc 风格的空间、Chrome 扩展、侧边栏终端标签页，以及供 AI 代理使用的内置 MCP 服务器。<br/>Website: https://getlilo.app/<br/>Commit: Add Lilo to Browsers (#3916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c]]></content:encoded>
     </item>
   </channel>
 </rss>

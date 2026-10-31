@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:29:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hertzwise</title>
+      <link>https://zeetabit.github.io/Hertzwise/</link>
+      <guid isPermaLink="false">bf8ca04a9d068cd499c77153abbb3e830a69fc4a:Hertzwise</guid>
+      <pubDate>Sat, 31 Oct 2026 08:29:53 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Hertzwise
+Description: Menu bar app that switches the DAC&apos;s sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect, with a per-device AutoEq headphone EQ.
+Website: https://zeetabit.github.io/Hertzwise/
+Open Source: https://github.com/zeetabit/Hertzwise
+Commit: Add Hertzwise to Audio and Video Tools (#4101)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Hertzwise<br/>Description: Menu bar app that switches the DAC&apos;s sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect, with a per-device AutoEq headphone EQ.<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
+    </item>
     <item>
       <title>Tarn</title>
       <link>https://github.com/jakeantelis/Tarn</link>
@@ -711,20 +726,6 @@ Website: https://www.piedol.top/tamka/
 Commit: Add Tamka to Voice-to-Text (#3921)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11930e4a0da79bd3e82544bde8ebbb19089bd029</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Tamka<br/>Description: Open-source on-device dictation that runs NVIDIA Parakeet models on the Neural Engine and types at the cursor in any app.<br/>Website: https://www.piedol.top/tamka/<br/>Commit: Add Tamka to Voice-to-Text (#3921)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/11930e4a0da79bd3e82544bde8ebbb19089bd029]]></content:encoded>
-    </item>
-    <item>
-      <title>ParrotFlow</title>
-      <link>https://parrotflow.io/</link>
-      <guid isPermaLink="false">9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b:ParrotFlow</guid>
-      <pubDate>Tue, 27 Oct 2026 00:40:12 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: ParrotFlow
-Description: Local dictation app that you can program with your rules, scripts, and vocabulary.
-Website: https://parrotflow.io/
-Commit: Add ParrotFlow to Voice-to-Text (#3911)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ParrotFlow<br/>Description: Local dictation app that you can program with your rules, scripts, and vocabulary.<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
     </item>
   </channel>
 </rss>
