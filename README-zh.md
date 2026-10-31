@@ -785,6 +785,7 @@ Awesome Mac
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 用于恢复损坏、删除或格式化磁盘数据的工具。
+* [Retrova](https://retrova.jishnumahanta.in) - 免费的数据恢复工具，以只读方式从损坏或无法挂载的磁盘中复制文件，并逐字节校验每个副本。 [![Open-Source Software][OSS Icon]](https://github.com/jishnumahanta/retrova) ![Freeware][Freeware Icon]
 
 ## 音频和视频
 
