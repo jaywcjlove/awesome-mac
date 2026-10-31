@@ -722,6 +722,7 @@ Awesome Mac
 *推荐一些通信工具，沟通，团队协同。*
 
 
+* [Annotator](https://getannotator.app/) - 讲解时直接在屏幕上绘制，可在任意应用上添加可编辑的箭头、形状、高亮、缩放和聚光灯。 [![Open-Source Software][OSS Icon]](https://github.com/dorlugasigal/annotator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [BlurScreen App](https://www.blurscreen.app) - 可在录屏或共享时即时模糊屏幕敏感内容的工具。
 * [Discord](https://discordapp.com/) - 集语音、文字和社区于一体的聊天平台。

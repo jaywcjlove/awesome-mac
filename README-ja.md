@@ -940,6 +940,7 @@ Awesome Mac
 ### コラボレーションとチームツール
 
 * [Adium](https://adium.im/) - Mac OS X用の無料インスタントメッセージングアプリケーション。AIM、MSN、SMPP、Yahooなどに接続。 ![Freeware][Freeware Icon]
+* [Annotator](https://getannotator.app/) - 説明しながら画面に直接描画できるアプリ。任意のアプリの上に編集可能な矢印、図形、ハイライト、ズーム、スポットライトを表示。 [![Open-Source Software][OSS Icon]](https://github.com/dorlugasigal/annotator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BlurScreen App](https://www.blurscreen.app) - 録画や画面共有中の機密情報を即座にぼかせるツール。
 * [Caprine](https://github.com/sindresorhus/caprine) - プライバシー重視のサードパーティFacebook Messengerアプリ。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - チーム向けのコミュニケーションとコラボレーションのプラットフォーム。 ![Freeware][Freeware Icon]
