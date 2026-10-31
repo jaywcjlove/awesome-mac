@@ -1000,6 +1000,7 @@ Awesome Mac
 * [LocalSend](https://localsend.org/) - AirDropに代わるオープンソースのクロスプラットフォームアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 互換性のある Android デバイスとの双方向 Google Quick Share 転送に対応する独立した macOS メニューバーアプリで、USB MTP、Finder 共有、QR ツール、実験的な Windows 連携も備えています。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [RetroDrop](https://samir-bujawdeh.github.io/RetroDrop/) - 古いiPhone（iOS 3〜6）の写真やビデオをWi-Fi経由でMacに送信。iPhone側へのインストールは不要。 [![Open-Source Software][OSS Icon]](https://github.com/samir-bujawdeh/RetroDrop) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 非常に柔軟で直感的なFTPクライアント。SFTP、S3、iDisk/WebDAVをサポート。
 

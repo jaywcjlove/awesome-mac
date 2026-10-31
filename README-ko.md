@@ -823,6 +823,7 @@ Awesome Mac
 * [LocalSend](https://localsend.org/) - AirDrop의 오픈 소스 크로스 플랫폼 대안. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다. ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS용 비공식 Google Quick Share 앱. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [RetroDrop](https://samir-bujawdeh.github.io/RetroDrop/) - 오래된 iPhone(iOS 3~6)의 사진과 동영상을 Wi-Fi로 Mac에 전송합니다. 휴대폰에는 아무것도 설치할 필요가 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/samir-bujawdeh/RetroDrop) ![Freeware][Freeware Icon]
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 세계 최고의 Mac용 파일 전송 앱.
 
