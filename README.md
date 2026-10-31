@@ -417,6 +417,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Trae](https://www.trae.ai/) - AI-powered IDE for coding and software development.
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [VSCodium](https://vscodium.com/) - Community-driven libre binaries of VS Code. [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
+* [Wavefunction](https://www.wavefunction.si) - Open-source desktop coding agent that runs parallel chats on local models, your own API keys, or a ChatGPT sign-in. [![Open-Source Software][OSS Icon]](https://github.com/stoyan-stoyanov/wavefunction) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - The first agentic IDE where developers and AI flow together for a magical coding experience.
 * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
