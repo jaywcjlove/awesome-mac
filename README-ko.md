@@ -999,6 +999,7 @@ Awesome Mac
 * [Deadbolt](https://github.com/alichtman/deadbolt) - 오픈 소스 파일 암호화 도구. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/) - 악성코드, 애드웨어, 웹 위협을 검사하는 보안 도구. ![Freeware][Freeware Icon]
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 영구적인 설치가 발생할 때 경고. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
+* [Bossanova](https://bsnv.app/) - 승인이 필요한 MCP 접근을 선택적으로 제공하는 비공개 소스 로컬 암호화 금고로, 무료 요금제는 기기 1대에서 필드 10개를 제공하며 계정과 주기적인 온라인 라이선스 확인이 필요합니다.
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 보호 경로용 정책 기반 파일 접근 제어 도구. [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylib 하이재킹 위험이 있는 앱을 검사하는 도구. ![Freeware][Freeware Icon]
 * [fob](https://getfob.app) - SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]

@@ -1266,6 +1266,7 @@ Awesome Mac
 
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - マルウェア、アドウェア、Web脅威を検出するセキュリティツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 何かが永続的にインストールされるたびにアラートを出す。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
+* [Bossanova](https://bsnv.app/) - 任意で使える承認制の MCP アクセスを備えたプロプライエタリなローカル暗号化保管庫で、無料プランは1台で10フィールドまで利用でき、アカウントと定期的なオンラインライセンス確認が必要。
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 保護パス向けのポリシーベースファイルアクセス制御ツール。 [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylibハイジャックの危険があるアプリを検査するツール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner) ![Freeware][Freeware Icon]
 * [fob](https://getfob.app) - SSH鍵をSecure Enclaveに保存し、使用のたびにTouch IDで認証するメニューバー型SSHエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
