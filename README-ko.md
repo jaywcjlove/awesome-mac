@@ -635,6 +635,7 @@ Awesome Mac
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
 * [Glint](https://github.com/brentc22/glint) - 공유하기 전에 이메일, IBAN, 카드 번호, API 키를 기기에서 찾아 모자이크 처리하는 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 화면 녹화, 스크롤 캡처, OCR을 지원하는 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
+* [Opaline](https://www.tryopaline.com/) - 스크롤 캡처, OCR, 주석, 고정, MP4 또는 GIF 화면 녹화를 지원하는 메뉴 막대 스크린샷 도구. ![Native App][Native Icon]
 * [Photon](https://www.piedol.top/photon/) - macOS와 Windows를 지원하는 오픈 소스 스크린샷, 주석, 화면 녹화 도구로, 네트워크 코드가 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Scap](https://wangchujiang.com/scap/) - 블러, 모자이크, 워터마크를 지원하는 스크린샷 주석 및 캔버스 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - 스크롤 캡처, OCR, 주석, 고정, MP4 또는 GIF 화면 녹화를 지원하며 네트워크 코드가 없는 오픈 소스 메뉴 막대 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
