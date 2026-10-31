@@ -1446,6 +1446,7 @@ Awesome Mac
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - メニューバーのファイル変換ツール。ファイルをドラッグ中にキーを押してホイールにドロップするだけで、動画・音声・画像・PDFを変換できます。 [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - 強力なmacOSメニューバーカスタマイズツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)
 * [Tactile](https://tactile.masn.studio/) - クリック可能な要素にカーソルを合わせるとトラックパッドに軽い触覚フィードバックを返し、視覚的な補助表示も可能。 [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
+* [Tarn](https://github.com/jakeantelis/Tarn) - 集中作業のラウンドとゆっくりした呼吸のための、穏やかなメニューバーアプリ。環境音は任意。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Tarn) ![Freeware][Freeware Icon]
 * [TextSniper](https://textsniper.app/) - メニューバーに常駐するシンプルだが強力なOCRアプリ。どこからでも即座にテキストをコピー＆ペースト。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1528890965?platform=mac)
 * [Today](https://sindresorhus.com/today) - メニューバーから今日の予定とカレンダーイベントを確認できるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [Topnotchers](https://github.com/joey-david/topnotchers) - MacBook のノッチに Claude Code と Codex のセッションをアニメーションするマスコットとして表示し、質問や権限リクエストにノッチから直接答えられる。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
