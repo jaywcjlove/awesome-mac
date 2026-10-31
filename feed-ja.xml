@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:24:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Glass</title>
+      <link>https://glassdesk.dev</link>
+      <guid isPermaLink="false">c979c976d85dec2f250d1cd93d37d135685d199c:Glass</guid>
+      <pubDate>Sat, 31 Oct 2026 00:24:53 GMT</pubDate>
+      <category>リモートログインソフトウェア</category>
+      <description>Category: リモートログインソフトウェア
+App: Glass
+Description: Mac と Linux 向けの低遅延リモートデスクトップ。任意のブラウザから操作でき、操作する側には何もインストール不要。
+Website: https://glassdesk.dev
+Open Source: https://github.com/Ntarasiuk/glass
+Commit: Add Glass to Remote Login Software (#4085)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c</description>
+      <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: Glass<br/>Description: Mac と Linux 向けの低遅延リモートデスクトップ。任意のブラウザから操作でき、操作する側には何もインストール不要。<br/>Website: https://glassdesk.dev<br/>Open Source: https://github.com/Ntarasiuk/glass<br/>Commit: Add Glass to Remote Login Software (#4085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c]]></content:encoded>
+    </item>
     <item>
       <title>Flickbar</title>
       <link>https://flickbar.github.io/</link>
@@ -710,20 +725,6 @@ Website: https://tidymint.app
 Commit: Add Tidymint to Cleanup and Uninstall (#3901)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Tidymint<br/>Description: 項目をゴミ箱へ移すだけのオープンソースのディスククリーナー。重複ファイルの削除前にプロジェクトのスクリプトが参照していないか確認。<br/>Website: https://tidymint.app<br/>Commit: Add Tidymint to Cleanup and Uninstall (#3901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e]]></content:encoded>
-    </item>
-    <item>
-      <title>AudioSync</title>
-      <link>https://github.com/yassersutojoyo/audiosync</link>
-      <guid isPermaLink="false">2856e106549442b42813348ae726ea5988bb57aa:AudioSync</guid>
-      <pubDate>Mon, 26 Oct 2026 14:16:15 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: AudioSync
-Description: MacのオーディオをAirPlay、Google Cast、ローカルスピーカーで同時に同期再生。
-Open Source: https://github.com/yassersutojoyo/audiosync
-Commit: Add AudioSync (#3817)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: AudioSync<br/>Description: MacのオーディオをAirPlay、Google Cast、ローカルスピーカーで同時に同期再生。<br/>Open Source: https://github.com/yassersutojoyo/audiosync<br/>Commit: Add AudioSync (#3817)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa]]></content:encoded>
     </item>
   </channel>
 </rss>
