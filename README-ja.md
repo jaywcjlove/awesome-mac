@@ -1039,6 +1039,7 @@ Awesome Mac
 * [ffWorks](https://www.ffworks.net/) - macOS用の包括的なメディアツール。高品質なビデオエンコーディングをすべての人に。
 * [IINA](https://iina.io/) - macOS用のモダンなビデオプレイヤー。強力なメディアプレイヤープロジェクトであるmpvをベースに構築。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream CodesとM3Uに対応したネイティブIPTVプレイヤー。高速検索、mpv再生、ピクチャインピクチャ、ダウンロードに対応。 [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
+* [JackMate](https://jackmate.app) - JACKオーディオサーバーの起動・設定・接続を行うネイティブmacOSアプリ。ビジュアルパッチベイ、保存可能なスタジオ、メニューバーモードを備えています。 [![Open-Source Software][OSS Icon]](https://github.com/zinc75/JackMate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Jellyfin](https://github.com/jellyfin/jellyfin) - フリーソフトウェアメディアシステム。 [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 動画、音楽、画像などを扱えるオープンソースのメディアセンター。 [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - 音楽制作向けのオープンソースDAW。 [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
