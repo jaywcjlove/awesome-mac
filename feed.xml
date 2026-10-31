@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tarn</title>
+      <link>https://github.com/jakeantelis/Tarn</link>
+      <guid isPermaLink="false">ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db:Tarn</guid>
+      <pubDate>Sat, 31 Oct 2026 06:31:32 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Tarn
+Description: A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.
+Open Source: https://github.com/jakeantelis/Tarn
+Commit: Add Tarn to Menu Bar Tools (#4097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tarn<br/>Description: A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.<br/>Open Source: https://github.com/jakeantelis/Tarn<br/>Commit: Add Tarn to Menu Bar Tools (#4097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db]]></content:encoded>
+    </item>
     <item>
       <title>Burrow</title>
       <link>https://github.com/khan-umirzakoff/Mole-GUI</link>
@@ -711,20 +725,6 @@ Website: https://parrotflow.io/
 Commit: Add ParrotFlow to Voice-to-Text (#3911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ParrotFlow<br/>Description: Local dictation app that you can program with your rules, scripts, and vocabulary.<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
-    </item>
-    <item>
-      <title>Lilo</title>
-      <link>https://getlilo.app/</link>
-      <guid isPermaLink="false">1b3ca24f2251d2a2d7ea6869237f2f07c86c092c:Lilo</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:25 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Lilo
-Description: Native WebKit browser with Arc-style spaces, Chrome extensions, terminal tabs in the sidebar, and a built-in MCP server for AI agents.
-Website: https://getlilo.app/
-Commit: Add Lilo to Browsers (#3916)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Lilo<br/>Description: Native WebKit browser with Arc-style spaces, Chrome extensions, terminal tabs in the sidebar, and a built-in MCP server for AI agents.<br/>Website: https://getlilo.app/<br/>Commit: Add Lilo to Browsers (#3916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c]]></content:encoded>
     </item>
   </channel>
 </rss>
