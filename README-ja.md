@@ -713,6 +713,7 @@ Awesome Mac
 * [Inkscape](https://inkscape.org/en/) - プロフェッショナルなベクターグラフィックスエディター。 [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化、インスタントアルファ。アカウントもテレメトリも不要。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - コンセプトアーティスト、デジタルペインター、イラストレーター向けのオープンソース의 デジタルペイントソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
+* [Lil Cactus](https://lilcactus.app/) - レイヤー、マスク、RAW現像に対応し、英語・中国語を含む11言語の図解ガイドを備えたブラウザー写真編集ツール。 ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - HTML5 SVGアートとアニメーションのデザインツール。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 無料で軽量な8ビットボクセルエディターおよびインタラクティブなパストレーシングレンダラー。
 * [MakeHuman](http://www.makehumancommunity.org) - 強力で無料の3D人体モデラー。 ![Freeware][Freeware Icon]
