@@ -1718,6 +1718,7 @@ Awesome Mac
 
 * [1Password](https://1password.com/) - クロスプラットフォームのパスワード管理ツール。
 * [Bitwarden](https://bitwarden.com) - Mac OS、iOS、ブラウザ対応のオープンソースパスワード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
+* [Buddy](https://pwbuddy.com/) - macOS と Windows 向けの買い切り型ローカルファーストパスワードマネージャー。
 * [Buttercup](https://buttercup.pw/) - あなたにふさわしいパスワードマネージャー。 ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - 受賞歴のあるデザインを持つクラウドベースのパスワードマネージャー。
 * [Enpass](https://www.enpass.io/) - クラウド統合機能を備えたクロスプラットフォームのパスワード管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/enpass-password-manager/id455566716?platform=mac)
