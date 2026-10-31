@@ -475,6 +475,7 @@ Awesome Mac
 
 ### API 개발 및 분석
 
+* [agent-qa](https://vostride.com) - 고급 memidex 메모리 엔진과 자기 개선 기능을 갖춘 CLI 및 MCP 기반 자연어 웹·모바일 테스트 도구.
 * [bruno](https://www.usebruno.com/) - 오프라인 전용, Git 친화적 오픈 소스 API 클라이언트. ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - HTTP/REST 엔드포인트 테스트 도구. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - 오픈 소스 API 클라이언트이자 Postman 대안.
