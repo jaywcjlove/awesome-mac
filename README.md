@@ -261,6 +261,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Textus](https://textus.catvinci.com) - WYSIWYG Markdown editor with math, tables, Mermaid and an optional AI writing assistant that works with cloud or local models. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
 * [Typora](https://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
 * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
+* [Wymark](https://wymark.app/) - WYSIWYG Markdown editor with comments and track changes that keeps your files plain Markdown. ![Freeware][Freeware Icon]
 * [Zettlr](https://www.zettlr.com/) - A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
 ### Note-taking
