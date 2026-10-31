@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:29:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hertzwise</title>
+      <link>https://zeetabit.github.io/Hertzwise/</link>
+      <guid isPermaLink="false">bf8ca04a9d068cd499c77153abbb3e830a69fc4a:Hertzwise</guid>
+      <pubDate>Sat, 31 Oct 2026 08:29:53 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Hertzwise
+Description: Apple Music 또는 Tidal의 곡마다 DAC 샘플레이트를 자동으로 전환해 무손실을 비트 퍼펙트로 재생하는 메뉴 막대 앱으로, 기기별 AutoEq 헤드폰 EQ를 제공합니다.
+Website: https://zeetabit.github.io/Hertzwise/
+Open Source: https://github.com/zeetabit/Hertzwise
+Commit: Add Hertzwise to Audio and Video Tools (#4101)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Hertzwise<br/>Description: Apple Music 또는 Tidal의 곡마다 DAC 샘플레이트를 자동으로 전환해 무손실을 비트 퍼펙트로 재생하는 메뉴 막대 앱으로, 기기별 AutoEq 헤드폰 EQ를 제공합니다.<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
+    </item>
     <item>
       <title>Tarn</title>
       <link>https://github.com/jakeantelis/Tarn</link>
@@ -711,20 +726,6 @@ Website: https://parrotflow.io/
 Commit: Add ParrotFlow to Voice-to-Text (#3911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: ParrotFlow<br/>Description: 자신만의 규칙, 스크립트, 어휘로 프로그래밍할 수 있는 로컬 음성 받아쓰기 앱.<br/>Website: https://parrotflow.io/<br/>Commit: Add ParrotFlow to Voice-to-Text (#3911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9040dd1fd4a6c0d2d70a4f2f91cd5e6e962c817b]]></content:encoded>
-    </item>
-    <item>
-      <title>Lilo</title>
-      <link>https://getlilo.app/</link>
-      <guid isPermaLink="false">1b3ca24f2251d2a2d7ea6869237f2f07c86c092c:Lilo</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:25 GMT</pubDate>
-      <category>브라우저</category>
-      <description>Category: 브라우저
-App: Lilo
-Description: Arc 스타일 스페이스, Chrome 확장 프로그램, 사이드바 터미널 탭, AI 에이전트용 내장 MCP 서버를 갖춘 네이티브 WebKit 브라우저.
-Website: https://getlilo.app/
-Commit: Add Lilo to Browsers (#3916)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c</description>
-      <content:encoded><![CDATA[Category: 브라우저<br/>App: Lilo<br/>Description: Arc 스타일 스페이스, Chrome 확장 프로그램, 사이드바 터미널 탭, AI 에이전트용 내장 MCP 서버를 갖춘 네이티브 WebKit 브라우저.<br/>Website: https://getlilo.app/<br/>Commit: Add Lilo to Browsers (#3916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c]]></content:encoded>
     </item>
   </channel>
 </rss>
