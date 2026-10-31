@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tarn</title>
+      <link>https://github.com/jakeantelis/Tarn</link>
+      <guid isPermaLink="false">ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db:Tarn</guid>
+      <pubDate>Sat, 31 Oct 2026 06:31:32 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Tarn
+Description: 집중 작업 라운드와 느린 호흡을 위한 차분한 메뉴 막대 앱으로, 환경음은 선택 사항입니다.
+Open Source: https://github.com/jakeantelis/Tarn
+Commit: Add Tarn to Menu Bar Tools (#4097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Tarn<br/>Description: 집중 작업 라운드와 느린 호흡을 위한 차분한 메뉴 막대 앱으로, 환경음은 선택 사항입니다.<br/>Open Source: https://github.com/jakeantelis/Tarn<br/>Commit: Add Tarn to Menu Bar Tools (#4097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db]]></content:encoded>
+    </item>
     <item>
       <title>Burrow</title>
       <link>https://github.com/khan-umirzakoff/Mole-GUI</link>
@@ -711,20 +725,6 @@ Website: https://getlilo.app/
 Commit: Add Lilo to Browsers (#3916)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c</description>
       <content:encoded><![CDATA[Category: 브라우저<br/>App: Lilo<br/>Description: Arc 스타일 스페이스, Chrome 확장 프로그램, 사이드바 터미널 탭, AI 에이전트용 내장 MCP 서버를 갖춘 네이티브 WebKit 브라우저.<br/>Website: https://getlilo.app/<br/>Commit: Add Lilo to Browsers (#3916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c]]></content:encoded>
-    </item>
-    <item>
-      <title>StableBar</title>
-      <link>https://stablebar.app</link>
-      <guid isPermaLink="false">7abe3531392d77fee8667871eb724529e1df91d0:StableBar</guid>
-      <pubDate>Mon, 26 Oct 2026 14:49:15 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: StableBar
-Description: 테마, 위젯, 팝업과 AeroSpace, yabai, OmniWM 워크스페이스를 지원하는 커스터마이즈 가능한 메뉴 바 대체 도구.
-Website: https://stablebar.app
-Commit: Add StableBar to Menu Bar Tools (#3909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: StableBar<br/>Description: 테마, 위젯, 팝업과 AeroSpace, yabai, OmniWM 워크스페이스를 지원하는 커스터마이즈 가능한 메뉴 바 대체 도구.<br/>Website: https://stablebar.app<br/>Commit: Add StableBar to Menu Bar Tools (#3909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0]]></content:encoded>
     </item>
   </channel>
 </rss>

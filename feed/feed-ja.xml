@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:31:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tarn</title>
+      <link>https://github.com/jakeantelis/Tarn</link>
+      <guid isPermaLink="false">ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db:Tarn</guid>
+      <pubDate>Sat, 31 Oct 2026 06:31:32 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Tarn
+Description: 集中作業のラウンドとゆっくりした呼吸のための、穏やかなメニューバーアプリ。環境音は任意。
+Open Source: https://github.com/jakeantelis/Tarn
+Commit: Add Tarn to Menu Bar Tools (#4097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Tarn<br/>Description: 集中作業のラウンドとゆっくりした呼吸のための、穏やかなメニューバーアプリ。環境音は任意。<br/>Open Source: https://github.com/jakeantelis/Tarn<br/>Commit: Add Tarn to Menu Bar Tools (#4097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db]]></content:encoded>
+    </item>
     <item>
       <title>Burrow</title>
       <link>https://github.com/khan-umirzakoff/Mole-GUI</link>
@@ -711,20 +725,6 @@ Website: https://getlilo.app/
 Commit: Add Lilo to Browsers (#3916)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c</description>
       <content:encoded><![CDATA[Category: ブラウザ<br/>App: Lilo<br/>Description: Arcスタイルのスペース、Chrome拡張機能、サイドバーのターミナルタブ、AIエージェント向けの内蔵MCPサーバーを備えたネイティブWebKitブラウザ。<br/>Website: https://getlilo.app/<br/>Commit: Add Lilo to Browsers (#3916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b3ca24f2251d2a2d7ea6869237f2f07c86c092c]]></content:encoded>
-    </item>
-    <item>
-      <title>StableBar</title>
-      <link>https://stablebar.app</link>
-      <guid isPermaLink="false">7abe3531392d77fee8667871eb724529e1df91d0:StableBar</guid>
-      <pubDate>Mon, 26 Oct 2026 14:49:15 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: StableBar
-Description: テーマ、ウィジェット、ポップアップ、AeroSpace・yabai・OmniWM のワークスペースに対応したカスタマイズ可能なメニューバーの代替。
-Website: https://stablebar.app
-Commit: Add StableBar to Menu Bar Tools (#3909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: StableBar<br/>Description: テーマ、ウィジェット、ポップアップ、AeroSpace・yabai・OmniWM のワークスペースに対応したカスタマイズ可能なメニューバーの代替。<br/>Website: https://stablebar.app<br/>Commit: Add StableBar to Menu Bar Tools (#3909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7abe3531392d77fee8667871eb724529e1df91d0]]></content:encoded>
     </item>
   </channel>
 </rss>
