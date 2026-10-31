@@ -953,6 +953,7 @@ Awesome Mac
 
 > A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [Cloister Ink](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541) - Mac 上的 Markdown 编辑器，可免费试用 7 天，之后一次性买断，无广告、无数据分析。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541)
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
 * [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - 极简 Markdown 编辑器，支持实时预览，直接编辑现有文件，无需建立资料库。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
