@@ -1667,6 +1667,7 @@ Awesome Mac
 
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [Bitwarden](https://bitwarden.com) - 适用于Mac OS，iOS和浏览器的开源密码管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
+* [Buddy](https://pwbuddy.com/) - 适用于 macOS 和 Windows 的本地优先密码管理器，一次性买断。
 * [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。
 * [Enpass](https://www.enpass.io/) - 具有云集成的跨平台密码管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?platform=mac)
