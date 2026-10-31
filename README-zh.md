@@ -729,7 +729,7 @@ Awesome Mac
 * [FinchGram](https://www.finchgram.com/) - 基于 TDLib 的非官方开源 Telegram 客户端，内置截图工具、WebDAV 下载，并可选择开启供 AI 助手使用的 MCP 接入。 [![Open-Source Software][OSS Icon]](https://github.com/FinchGram/FinchGram) ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 面向开发者和 GitHub 社区的聊天平台。 ![Freeware][Freeware Icon]
 * [Keybase](https://keybase.io/) - 一个安全的消息应用程序! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
-* [Lina](https://github.com/Titi257/lina) - 原生 SIP 软电话，适用于任何 SIP 运营商或 PBX：呼叫转接、呼叫等待、TLS 与 SRTP 加密、点击拨号。免费使用，另有付费 Pro 版。 ![Native App][Native Icon]
+* [Lina](https://github.com/Titi257/lina) - 原生 SIP 软电话，适用于任何 SIP 运营商或 PBX：呼叫转接、呼叫等待、TLS 与 SRTP 加密、点击拨号。支持英语、法语和西班牙语。免费使用，另有付费 Pro 版。 ![Native App][Native Icon]
 * [Maipo脉搏](http://weiboformac.sinaapp.com/) - 微博第三方 Mac 应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/weibox/id789066512?platform=mac)
 * [Mastodon](https://mastodon.social/) - 一个自由开源的去中心化的分布式微博客社交网络。[![Freeware][Freeware Icon]](https://joinmastodon.org/zh/apps) [![Open-Source Software][OSS Icon]](https://github.com/tootsuite/mastodon)
 * [Matrix](https://matrix.org/) - 一个用于安全、去中心化通信的开放网络。![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
