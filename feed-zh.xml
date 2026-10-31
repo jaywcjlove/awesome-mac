@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 20:21:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NeatEditor</title>
+      <link>https://github.com/NeatMacApps/NeatEditor</link>
+      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:NeatEditor</guid>
+      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: NeatEditor
+Description: 快速的 macOS 原生纯文本编辑器，专注无干扰写作。
+Open Source: https://github.com/NeatMacApps/NeatEditor
+Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: NeatEditor<br/>Description: 快速的 macOS 原生纯文本编辑器，专注无干扰写作。<br/>Open Source: https://github.com/NeatMacApps/NeatEditor<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
+    </item>
+    <item>
+      <title>Corral</title>
+      <link>https://github.com/corral-dev/corral-apple</link>
+      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:Corral</guid>
+      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Corral
+Description: 面向 Claude Code、Codex、OpenCode 与 Cursor 的原生 macOS 及 iPhone 客户端，支持分屏视图与远程会话接力。
+Open Source: https://github.com/corral-dev/corral-apple
+Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Corral<br/>Description: 面向 Claude Code、Codex、OpenCode 与 Cursor 的原生 macOS 及 iPhone 客户端，支持分屏视图与远程会话接力。<br/>Open Source: https://github.com/corral-dev/corral-apple<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
+    </item>
+    <item>
+      <title>NeatPaste</title>
+      <link>https://github.com/NeatMacApps/NeatPaste</link>
+      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:NeatPaste</guid>
+      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: NeatPaste
+Description: 干净轻量的 macOS 原生剪贴板管理工具。
+Open Source: https://github.com/NeatMacApps/NeatPaste
+Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: NeatPaste<br/>Description: 干净轻量的 macOS 原生剪贴板管理工具。<br/>Open Source: https://github.com/NeatMacApps/NeatPaste<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
+    </item>
+    <item>
+      <title>HandySwitch</title>
+      <link>https://github.com/x0c/HandySwitch</link>
+      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:HandySwitch</guid>
+      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: HandySwitch
+Description: 轻量级菜单栏快捷开关小工具（支持切换深色模式、防止休眠、滚动方向等）。
+Open Source: https://github.com/x0c/HandySwitch
+Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: HandySwitch<br/>Description: 轻量级菜单栏快捷开关小工具（支持切换深色模式、防止休眠、滚动方向等）。<br/>Open Source: https://github.com/x0c/HandySwitch<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
+    </item>
+    <item>
+      <title>MacResourceMonitor</title>
+      <link>https://github.com/x0c/MacResourceMonitor</link>
+      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:MacResourceMonitor</guid>
+      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: MacResourceMonitor
+Description: 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。
+Open Source: https://github.com/x0c/MacResourceMonitor
+Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MacResourceMonitor<br/>Description: 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。<br/>Open Source: https://github.com/x0c/MacResourceMonitor<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
+    </item>
     <item>
       <title>SpawnSweep</title>
       <link>https://github.com/samirmaikap/spawnsweep</link>
@@ -656,78 +726,6 @@ Open Source: https://github.com/linrol/swapr-trans
 Commit: Add SwaprTrans to Translation Tools (#3940)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0</description>
       <content:encoded><![CDATA[Category: 翻译工具<br/>App: SwaprTrans<br/>Description: 极轻量（&lt;2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。<br/>Website: https://linrol.github.io/swapr-trans/<br/>Open Source: https://github.com/linrol/swapr-trans<br/>Commit: Add SwaprTrans to Translation Tools (#3940)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0]]></content:encoded>
-    </item>
-    <item>
-      <title>Hey Mac</title>
-      <link>https://heymacapp.com/</link>
-      <guid isPermaLink="false">09ed3fe1c49278213f4a05f9b9fafe06cf52e20d:Hey Mac</guid>
-      <pubDate>Tue, 27 Oct 2026 14:45:37 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: Hey Mac
-Description: 通过本地人脸识别解锁屏幕，并为选定应用提供隐私遮罩。
-Website: https://heymacapp.com/
-Open Source: https://github.com/iharshitmaurya/HeyMac
-Commit: Add Hey Mac to security tools (#3938)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: Hey Mac<br/>Description: 通过本地人脸识别解锁屏幕，并为选定应用提供隐私遮罩。<br/>Website: https://heymacapp.com/<br/>Open Source: https://github.com/iharshitmaurya/HeyMac<br/>Commit: Add Hey Mac to security tools (#3938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d]]></content:encoded>
-    </item>
-    <item>
-      <title>Yardlet</title>
-      <link>https://yardlet.app</link>
-      <guid isPermaLink="false">d4fcb272fa9e51ba7753b70ef8501912228effb8:Yardlet</guid>
-      <pubDate>Tue, 27 Oct 2026 13:45:44 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Yardlet
-Description: 开源应用，可在同一窗口中并排运行 Codex、Claude Code 等编程代理 CLI，并沿用各代理自己的登录和会话记录。
-Website: https://yardlet.app
-Open Source: https://github.com/zzunkie/yardlet
-Commit: Add Yardlet to AI Tools (#3937)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Yardlet<br/>Description: 开源应用，可在同一窗口中并排运行 Codex、Claude Code 等编程代理 CLI，并沿用各代理自己的登录和会话记录。<br/>Website: https://yardlet.app<br/>Open Source: https://github.com/zzunkie/yardlet<br/>Commit: Add Yardlet to AI Tools (#3937)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthora</title>
-      <link>https://barryanders.github.io/anthora/</link>
-      <guid isPermaLink="false">5d4cf1ef28ad24c44c357ec9c7262518f2996d0e:Anthora</guid>
-      <pubDate>Tue, 27 Oct 2026 05:19:29 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: Anthora
-Description: 用于浏览、搜索文件夹和已挂载驱动器中的照片与视频并检查重复文件的本地媒体库。
-Website: https://barryanders.github.io/anthora/
-Commit: Add Anthora to photo and media tools in four languages (#2802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d4cf1ef28ad24c44c357ec9c7262518f2996d0e</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Anthora<br/>Description: 用于浏览、搜索文件夹和已挂载驱动器中的照片与视频并检查重复文件的本地媒体库。<br/>Website: https://barryanders.github.io/anthora/<br/>Commit: Add Anthora to photo and media tools in four languages (#2802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d4cf1ef28ad24c44c357ec9c7262518f2996d0e]]></content:encoded>
-    </item>
-    <item>
-      <title>Photon</title>
-      <link>https://www.piedol.top/photon/</link>
-      <guid isPermaLink="false">1505af60fa5a6713c199c86aa128718fa5eb0d27:Photon</guid>
-      <pubDate>Tue, 27 Oct 2026 03:35:20 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Photon
-Description: 开源的截图、标注和屏幕录制工具，支持 macOS 和 Windows，不含任何联网代码。
-Website: https://www.piedol.top/photon/
-Commit: Add Photon to Screenshot Tools (#3920)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Photon<br/>Description: 开源的截图、标注和屏幕录制工具，支持 macOS 和 Windows，不含任何联网代码。<br/>Website: https://www.piedol.top/photon/<br/>Commit: Add Photon to Screenshot Tools (#3920)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27]]></content:encoded>
-    </item>
-    <item>
-      <title>Kipimo</title>
-      <link>https://www.piedol.top/kipimo/</link>
-      <guid isPermaLink="false">5f2aae4a047813eef2f99c4a65683529cf1516cd:Kipimo</guid>
-      <pubDate>Tue, 27 Oct 2026 03:15:42 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Kipimo
-Description: 开源的菜单栏系统监视器，附带清理缓存、连同残留文件卸载应用、查看磁盘占用和检查启动项等工具，所有删除的内容都会移到废纸篓。
-Website: https://www.piedol.top/kipimo/
-Commit: Add Kipimo to Cleanup and Uninstall (#3922)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Kipimo<br/>Description: 开源的菜单栏系统监视器，附带清理缓存、连同残留文件卸载应用、查看磁盘占用和检查启动项等工具，所有删除的内容都会移到废纸篓。<br/>Website: https://www.piedol.top/kipimo/<br/>Commit: Add Kipimo to Cleanup and Uninstall (#3922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd]]></content:encoded>
     </item>
   </channel>
 </rss>
