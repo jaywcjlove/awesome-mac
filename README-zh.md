@@ -203,6 +203,7 @@ Awesome Mac
 * [Brackets](http://brackets.io) - Adobe 推出的 Brackets 免费/开源编辑器。[![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
 * [Neovim](https://github.com/neovim/neovim) - 专注于可扩展性和可用性的 Vim 分支。 [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
+* [NeatEditor](https://github.com/NeatMacApps/NeatEditor) - 快速的 macOS 原生纯文本编辑器，专注无干扰写作。 [![Open-Source Software][OSS Icon]](https://github.com/NeatMacApps/NeatEditor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Nova](https://nova.app/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
 * [Cate](https://cate.cero-ai.com) - 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。 [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
 * [CodeEdit](https://www.codeedit.app/) - 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
