@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:19:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Flickbar</title>
+      <link>https://flickbar.github.io/</link>
+      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
+      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Flickbar
+Description: Open-source window manager driven by trackpad gestures on window title bars.
+Website: https://flickbar.github.io/
+Open Source: https://github.com/flickbar/flickbar
+Commit: Add Flickbar to Window Management (#4083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Flickbar<br/>Description: Open-source window manager driven by trackpad gestures on window title bars.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
+    </item>
     <item>
       <title>Swamp Converter</title>
       <link>https://github.com/aansonsa/swamp-converter</link>
@@ -709,20 +724,6 @@ Website: https://tidymint.app
 Commit: Add Tidymint to Cleanup and Uninstall (#3901)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Tidymint<br/>Description: Open-source disk cleaner that only moves items to the Trash and checks whether your project scripts still reference a duplicate before removing it.<br/>Website: https://tidymint.app<br/>Commit: Add Tidymint to Cleanup and Uninstall (#3901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa0ea76c11d98a7d11caed31d29cbb898bb9754e]]></content:encoded>
-    </item>
-    <item>
-      <title>AudioSync</title>
-      <link>https://github.com/yassersutojoyo/audiosync</link>
-      <guid isPermaLink="false">2856e106549442b42813348ae726ea5988bb57aa:AudioSync</guid>
-      <pubDate>Mon, 26 Oct 2026 14:16:15 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: AudioSync
-Description: Play your Mac&apos;s audio on AirPlay, Google Cast and local speakers at once, in sync.
-Open Source: https://github.com/yassersutojoyo/audiosync
-Commit: Add AudioSync (#3817)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: AudioSync<br/>Description: Play your Mac&apos;s audio on AirPlay, Google Cast and local speakers at once, in sync.<br/>Open Source: https://github.com/yassersutojoyo/audiosync<br/>Commit: Add AudioSync (#3817)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa]]></content:encoded>
     </item>
   </channel>
 </rss>

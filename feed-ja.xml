@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:19:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Flickbar</title>
+      <link>https://flickbar.github.io/</link>
+      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
+      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: Flickbar
+Description: ウィンドウのタイトルバー上のトラックパッドジェスチャーで操作するオープンソースのウィンドウ管理ツール。
+Website: https://flickbar.github.io/
+Open Source: https://github.com/flickbar/flickbar
+Commit: Add Flickbar to Window Management (#4083)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Flickbar<br/>Description: ウィンドウのタイトルバー上のトラックパッドジェスチャーで操作するオープンソースのウィンドウ管理ツール。<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
+    </item>
     <item>
       <title>Swamp Converter</title>
       <link>https://github.com/aansonsa/swamp-converter</link>
@@ -709,20 +724,6 @@ Open Source: https://github.com/yassersutojoyo/audiosync
 Commit: Add AudioSync (#3817)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: AudioSync<br/>Description: MacのオーディオをAirPlay、Google Cast、ローカルスピーカーで同時に同期再生。<br/>Open Source: https://github.com/yassersutojoyo/audiosync<br/>Commit: Add AudioSync (#3817)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2856e106549442b42813348ae726ea5988bb57aa]]></content:encoded>
-    </item>
-    <item>
-      <title>Comic Commander</title>
-      <link>https://krocon.de/products/comiccommander/</link>
-      <guid isPermaLink="false">f45ea00c79c456cf5e5cce552ac0f90c3de39a2a:Comic Commander</guid>
-      <pubDate>Mon, 26 Oct 2026 14:14:10 GMT</pubDate>
-      <category>読み書きツール / 電子書籍</category>
-      <description>Category: 読み書きツール / 電子書籍
-App: Comic Commander
-Description: CBZ、CBR、CB7、CBT、PDFに対応したコミックライブラリブラウザ兼リーダー。
-Website: https://krocon.de/products/comiccommander/
-Commit: Add Comic Commander to Ebooks (#3890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45ea00c79c456cf5e5cce552ac0f90c3de39a2a</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / 電子書籍<br/>App: Comic Commander<br/>Description: CBZ、CBR、CB7、CBT、PDFに対応したコミックライブラリブラウザ兼リーダー。<br/>Website: https://krocon.de/products/comiccommander/<br/>Commit: Add Comic Commander to Ebooks (#3890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45ea00c79c456cf5e5cce552ac0f90c3de39a2a]]></content:encoded>
     </item>
   </channel>
 </rss>
