@@ -1644,6 +1644,7 @@ Awesome Mac
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - 一个轻量级的 macOS 窗口边框系统。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - 平铺式窗口管理器，开箱即用、无需配置文件，带原生设置应用，并支持应用内自动更新。 ![Freeware][Freeware Icon]
+* [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 按外接屏记住并恢复窗口布局，支持跨调度中心桌面，Apple Silicon 上亮度键可用 DDC 调外接屏亮度。[![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大  [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop) ![Freeware][Freeware Icon]
 * [MacsyZones](https://macsyzones.com/) - 轻松整理窗口，提升你的工作效率。 [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 将屏幕边缘扩展为可用鼠标触发的快捷操作区。 [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
