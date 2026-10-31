@@ -1189,6 +1189,7 @@ Awesome Mac
 
 ## 教育
 
+* [Atomus](https://atomus.app/) - 从你看的内容学语言：在任意应用中保存刚听到的句子及原声音频，并在刘海处复习。 ![Native App][Native Icon]
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 

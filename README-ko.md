@@ -973,6 +973,7 @@ Awesome Mac
 
 ## 교육
 
+* [Atomus](https://atomus.app/) - 보는 영상으로 언어 학습. 어떤 앱에서든 방금 들은 문장을 원본 오디오와 함께 저장하고 노치에서 복습. ![Native App][Native Icon]
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
