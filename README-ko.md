@@ -388,6 +388,7 @@ Awesome Mac
 * [VSCodium](https://vscodium.com/) - 커뮤니티가 제공하는 VS Code의 자유 오픈 소스 바이너리 배포판. [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft에서 만든 강력하고 확장 가능한 오픈 소스 코드 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - 고급 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
+* [Wavefunction](https://www.wavefunction.si) - 로컬 모델, 자체 API 키 또는 ChatGPT 로그인을 지원하고 여러 채팅을 병렬로 실행하는 오픈소스 데스크톱 코딩 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/stoyan-stoyanov/wavefunction) ![Freeware][Freeware Icon]
 * [WebStorm](https://www.jetbrains.com/webstorm/) - 가장 지능적인 JavaScript IDE.
 * [Windsurf](https://windsurf.com/) - 에이전트형 코딩, 자동 완성, MCP를 지원하는 AI 코드 편집기.
 * [Xcode](https://developer.apple.com/xcode/) - Swift 및 Objective-C용 IDE. ![Freeware][Freeware Icon]
