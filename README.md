@@ -251,6 +251,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MarkText](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [MarkViewer](https://markviewer.com) - Markdown viewer and editor for macOS with AI-assisted editing. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
+* [MarsDawn](https://marsdawn.southern-light.dev/) - Markdown editor for Mac with side-by-side live preview, plus a reader app for iPhone and iPad. Renders Mermaid diagrams, KaTeX math and callouts, reloads when an agent saves the file, and exports PDF. Built for reading what coding agents write. [![App Store][app-store Icon]](https://apps.apple.com/app/id6812925073) ![Native App][Native Icon]
 * [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model. [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, and static blog generator App.
