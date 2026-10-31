@@ -542,6 +542,7 @@ Awesome Mac
 
 * [Charles](https://www.charlesproxy.com/) - HTTPおよびHTTPSトラフィックを表示するHTTPプロキシ/モニター。
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
+* [Kilobat CLI](https://github.com/seifip/kilobat-cli) - ネットワーク監視と診断のためのオープンソースCLIおよびMCPサーバー。 [![Open-Source Software][OSS Icon]](https://github.com/seifip/kilobat-cli) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxie](https://proxie.app) - HTTPデバッグプロキシ。
