@@ -419,6 +419,7 @@ Awesome Mac
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - MySQL 数据库 CRUD 应用程序。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [Sequel Pro](https://github.com/sequelpro/sequelpro) - 一个 MySQL 数据库管理软件。[![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - 直接的 SQL 访问你所有的数据，无论在哪里。[![Open-Source Software][OSS Icon]](https://github.com/yoichiro/chrome_mysql_admin) ![Freeware][Freeware Icon]
+* [MAD Designer](https://github.com/mthomason/MAD) - 原生 SQL 即席查询构建器、可视化报表设计器与查看器，支持 PostgreSQL、MySQL/MariaDB、SQL Server 和 SQLite。 [![Open-Source Software][OSS Icon]](https://github.com/mthomason/MAD) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [medis](http://getmedis.com) - 漂亮的 Redis 管理软件。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/luin/medis)
 * [MongoDB](https://www.mongodb.com) - 一个基于分布式文件存储的数据库。 [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
 * [MongoBooster](http://www.mongobooster.com/) - MongoDB 图形化管理软件，内嵌 MongoShell，ES6 语法，流畅查询及智能感知。![Freeware][Freeware Icon]

@@ -556,6 +556,7 @@ Awesome Mac
 * [DBeaver](https://dbeaver.io/) - 유니버설 SQL 클라이언트.
 * [DBine](https://dbine.com) - 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - SQL 데이터베이스를 조회하고 관리하는 클라이언트.
+* [MAD Designer](https://github.com/mthomason/MAD) - PostgreSQL, MySQL/MariaDB, SQL Server, SQLite를 지원하는 네이티브 애드혹 SQL 쿼리 빌더, 비주얼 리포트 디자이너 및 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/mthomason/MAD) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Navicat Premium](https://www.navicat.com/en/products/navicat-premium) - 데이터베이스 관리 도구.
 * [Paul](https://guillim.github.io/products/paul) - 기본 읽기 전용으로 데이터베이스에서 빠르게 답을 찾을 수 있게 해주는 AI 우선 PostgreSQL 클라이언트.
 * [Postico](https://eggerapps.at/postico/) - 현대적인 PostgreSQL 클라이언트.
