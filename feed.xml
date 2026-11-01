@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:26:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Netty</title>
+      <link>https://alvaldes.github.io/netty/</link>
+      <guid isPermaLink="false">ed8e584177040dc33560a80d158beb900d500856:Netty</guid>
+      <pubDate>Sun, 01 Nov 2026 03:26:08 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Netty
+Description: Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.
+Website: https://alvaldes.github.io/netty/
+Open Source: https://github.com/alvaldes/netty
+Commit: Add Netty to Menu Bar Tools (#4125)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Netty<br/>Description: Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
+    </item>
     <item>
       <title>Mac TV</title>
       <link>https://arunprakaash.github.io/mac-tv/</link>
@@ -711,20 +726,6 @@ Open Source: https://github.com/brentc22/glint
 Commit: Add Glint to Screenshot Tools (#3942)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Glint<br/>Description: Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share.<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
-    </item>
-    <item>
-      <title>Stash</title>
-      <link>https://github.com/brentc22/stash</link>
-      <guid isPermaLink="false">6557b5394ae67e1e08b87a972263ac9fad810b99:Stash</guid>
-      <pubDate>Wed, 28 Oct 2026 00:24:27 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Stash
-Description: Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow.
-Open Source: https://github.com/brentc22/stash
-Commit: Add Stash to Menu Bar Tools (#3941)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Stash<br/>Description: Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow.<br/>Open Source: https://github.com/brentc22/stash<br/>Commit: Add Stash to Menu Bar Tools (#3941)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99]]></content:encoded>
     </item>
   </channel>
 </rss>
