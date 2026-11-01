@@ -995,6 +995,7 @@ Awesome Mac
 
 ### ファイル共有
 
+* [BucketBridge](https://anupshaw50.github.io/BucketBridge/) - Amazon S3 と S3 互換ストレージに対応したオープンソースの S3 クライアントと CLI。 [![Open-Source Software][OSS Icon]](https://github.com/anupshaw50/BucketBridge) ![Freeware][Freeware Icon]
 * [Cyberduck](https://cyberduck.io) - 無料のFTP、SFTP、WebDAV、S3、Backblaze B2、AzureおよびOpenStack Swiftブラウザ。 ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - スクリーンショット、画面録画、その他のファイルを共有するツール。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。 ![Freeware][Freeware Icon]
