@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NTFSTool</title>
+      <link>https://ntfstool.com</link>
+      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
+      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: NTFSTool
+Description: 免费开源的 Mac NTFS 读写工具，无需内核扩展。
+Website: https://ntfstool.com
+Open Source: https://github.com/ntfstool/ntfstool
+App Store: https://apps.apple.com/app/id1510209857
+Commit: Add NTFSTool to System Related Tools (#4134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: NTFSTool<br/>Description: 免费开源的 Mac NTFS 读写工具，无需内核扩展。<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
+    </item>
     <item>
       <title>Netty</title>
       <link>https://alvaldes.github.io/netty/</link>
@@ -713,20 +729,6 @@ Open Source: https://github.com/duct-tape2/hts-for-mac
 Commit: Add HTS for Mac to Finance (#3956)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
       <content:encoded><![CDATA[Category: 金融<br/>App: HTS for Mac<br/>Description: 仿 Windows HTS 的韩股、美股只读看盘工具，支持十档盘口、四图表布局、自选股和工作区保存，实时行情需使用自己的 Kiwoom REST API 密钥。<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
-    </item>
-    <item>
-      <title>Glint</title>
-      <link>https://github.com/brentc22/glint</link>
-      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
-      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Glint
-Description: 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。
-Open Source: https://github.com/brentc22/glint
-Commit: Add Glint to Screenshot Tools (#3942)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Glint<br/>Description: 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
     </item>
   </channel>
 </rss>
