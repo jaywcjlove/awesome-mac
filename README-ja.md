@@ -784,6 +784,7 @@ Awesome Mac
 * [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - スクロールキャプチャ、OCR、注釈、ピン留め、MP4 または GIF の画面録画に対応し、ネットワーク通信のコードを持たないオープンソースのメニューバー型スクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
+* [Shutterbar](https://github.com/mucahitimre/Shutterbar) - ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。 [![Open-Source Software][OSS Icon]](https://github.com/mucahitimre/Shutterbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sitch](https://phalladar.github.io/Sitch/) - テーパー矢印、ぼかし、モザイクに対応し、完全オフラインで動作する Skitch 風のスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/skitch/) - 強力な注釈機能を備えたスクリーンキャプチャアプリケーション。 ![Freeware][Freeware Icon]
 * [Snappy](https://beqaabu.github.io/Snappy/) - 選択範囲の調整、ウィンドウ・全画面キャプチャ、注釈、ぼかし、テキストのコピーに対応した Ubuntu 風のオープンソーススクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
