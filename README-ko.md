@@ -799,6 +799,7 @@ Awesome Mac
 * [Franz](http://meetfranz.com/) - 여러 채팅 서비스를 한곳에 모아 쓰는 메시징 앱. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - 개발자와 GitHub 커뮤니티를 위한 채팅 플랫폼. ![Freeware][Freeware Icon]
 * [Lark](https://www.larksuite.com/en_us/) - 올인원 협업 스위트. ![Freeware][Freeware Icon]
+* [Lina](https://github.com/Titi257/lina) - 모든 SIP 사업자와 PBX에서 쓰는 네이티브 SIP 소프트폰. 통화 전환, 통화 대기, TLS와 SRTP, 클릭 투 콜 지원. 영어, 프랑스어, 스페인어 지원. 무료이며 유료 Pro 버전이 있음. ![Native App][Native Icon]
 * [Mattermost](https://mattermost.com/) - 오픈 소스 팀 협업 플랫폼. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Signal](https://signal.org/download/) - 빠르고 단순하며 안전한 메시징 앱. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/) - 팀 커뮤니케이션 및 협업 도구. ![Freeware][Freeware Icon]
