@@ -1089,6 +1089,7 @@ Awesome Mac
 * [JDownloader](http://jdownloader.org/) - 用于链接、文件和网盘内容的下载管理器。![Freeware][Freeware Icon]
 * [Motrix](https://motrix.app/) - 支持 HTTP、FTP、BT、磁力链等协议的下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 具备优化传输引擎的轻量下载管理器。![Freeware][Freeware Icon]
+* [Nexonic Download Manager](https://github.com/Shahrukhalid/nexonic-download-manager) - 类似 IDM 的免费下载管理器，最多 32 个连接分段下载，重启后可续传，可接管浏览器下载并保存视频，支持计划任务和队列。 [![Open-Source Software][OSS Icon]](https://github.com/Shahrukhalid/nexonic-download-manager) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Prism](https://prismdl.site/) - 多连接并行下载、可接管浏览器下载并保存视频的开源下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/FortoGraphy/prism-download-manager) ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shandian](https://github.com/chenmozhe008/shandian-download) - 原生下载工具，磁力链接、种子、HTTP 文件与 YouTube、B 站、抖音、小红书视频在同一窗口下载，支持接管浏览器下载和边下边播。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/shandian-download) ![Freeware][Freeware Icon] ![Native App][Native Icon]
