@@ -824,7 +824,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nucleo](https://nucleoapp.com/) - Icon manager. Import, export, customize and convert icon libraries.
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - Image viewer and editor for cropping, resizing, annotating, and converting between PNG, JPG, WebP, and HEIC. ![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - Tool to convert Lightroom presets to Adobe Camera Raw.
-* [QuickPix](https://obelisk.club/quickpix-image-compressor) - Compress and convert images, including HEIC and RAW, without uploading them. [![App Store][app-store Icon]](https://apps.apple.com/app/id6744828376?platform=mac)
+* [QuickPix](https://obelisk.club/quickpix) - Compress and convert images, including HEIC and RAW, without uploading them. [![App Store][app-store Icon]](https://apps.apple.com/app/id6744828376?platform=mac)
 * [qView](https://interversehq.com/qview/) - qView is an image viewer designed with minimalism and usability in mind. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
 * [Resize Master](https://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](https://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
