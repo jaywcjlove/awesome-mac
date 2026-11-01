@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:18:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac TV</title>
+      <link>https://arunprakaash.github.io/mac-tv/</link>
+      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
+      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Mac TV
+Description: 휴대폰 리모컨과 로컬 영화 플레이어를 갖춘, 스트리밍 앱을 위한 오픈 소스 Apple TV 스타일 홈 화면.
+Website: https://arunprakaash.github.io/mac-tv/
+Open Source: https://github.com/Arunprakaash/mac-tv
+Commit: Add Mac TV to Audio and Video Tools (#4119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Mac TV<br/>Description: 휴대폰 리모컨과 로컬 영화 플레이어를 갖춘, 스트리밍 앱을 위한 오픈 소스 Apple TV 스타일 홈 화면.<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
+    </item>
     <item>
       <title>SpawnSweep</title>
       <link>https://github.com/samirmaikap/spawnsweep</link>
@@ -713,20 +728,6 @@ Website: https://www.piedol.top/photon/
 Commit: Add Photon to Screenshot Tools (#3920)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Photon<br/>Description: macOS와 Windows를 지원하는 오픈 소스 스크린샷, 주석, 화면 녹화 도구로, 네트워크 코드가 없습니다.<br/>Website: https://www.piedol.top/photon/<br/>Commit: Add Photon to Screenshot Tools (#3920)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27]]></content:encoded>
-    </item>
-    <item>
-      <title>Kipimo</title>
-      <link>https://www.piedol.top/kipimo/</link>
-      <guid isPermaLink="false">5f2aae4a047813eef2f99c4a65683529cf1516cd:Kipimo</guid>
-      <pubDate>Tue, 27 Oct 2026 03:15:42 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Kipimo
-Description: 캐시 정리, 남은 파일까지 포함한 앱 제거, 디스크 사용량 확인, 시작 항목 검토 도구를 갖춘 오픈 소스 메뉴 막대 시스템 모니터로, 삭제하는 항목은 모두 휴지통으로 옮깁니다.
-Website: https://www.piedol.top/kipimo/
-Commit: Add Kipimo to Cleanup and Uninstall (#3922)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Kipimo<br/>Description: 캐시 정리, 남은 파일까지 포함한 앱 제거, 디스크 사용량 확인, 시작 항목 검토 도구를 갖춘 오픈 소스 메뉴 막대 시스템 모니터로, 삭제하는 항목은 모두 휴지통으로 옮깁니다.<br/>Website: https://www.piedol.top/kipimo/<br/>Commit: Add Kipimo to Cleanup and Uninstall (#3922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd]]></content:encoded>
     </item>
   </channel>
 </rss>

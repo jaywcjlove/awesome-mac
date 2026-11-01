@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:18:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac TV</title>
+      <link>https://arunprakaash.github.io/mac-tv/</link>
+      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
+      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Mac TV
+Description: 开源的 Apple TV 风格主屏，用于流媒体应用，支持手机遥控器和本地影片播放。
+Website: https://arunprakaash.github.io/mac-tv/
+Open Source: https://github.com/Arunprakaash/mac-tv
+Commit: Add Mac TV to Audio and Video Tools (#4119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Mac TV<br/>Description: 开源的 Apple TV 风格主屏，用于流媒体应用，支持手机遥控器和本地影片播放。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
+    </item>
     <item>
       <title>NeatEditor</title>
       <link>https://github.com/NeatMacApps/NeatEditor</link>
@@ -711,21 +726,6 @@ Open Source: https://github.com/brentc22/stash
 Commit: Add Stash to Menu Bar Tools (#3941)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Stash<br/>Description: 适用于 macOS 27 的开源菜单栏图标隐藏工具，将状态栏图标收进一个箭头后面。<br/>Open Source: https://github.com/brentc22/stash<br/>Commit: Add Stash to Menu Bar Tools (#3941)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99]]></content:encoded>
-    </item>
-    <item>
-      <title>SwaprTrans</title>
-      <link>https://linrol.github.io/swapr-trans/</link>
-      <guid isPermaLink="false">099bb424f371acd153ef9d4c2ff45748114e40b0:SwaprTrans</guid>
-      <pubDate>Tue, 27 Oct 2026 15:03:23 GMT</pubDate>
-      <category>翻译工具</category>
-      <description>Category: 翻译工具
-App: SwaprTrans
-Description: 极轻量（&lt;2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。
-Website: https://linrol.github.io/swapr-trans/
-Open Source: https://github.com/linrol/swapr-trans
-Commit: Add SwaprTrans to Translation Tools (#3940)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0</description>
-      <content:encoded><![CDATA[Category: 翻译工具<br/>App: SwaprTrans<br/>Description: 极轻量（&lt;2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。<br/>Website: https://linrol.github.io/swapr-trans/<br/>Open Source: https://github.com/linrol/swapr-trans<br/>Commit: Add SwaprTrans to Translation Tools (#3940)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0]]></content:encoded>
     </item>
   </channel>
 </rss>
