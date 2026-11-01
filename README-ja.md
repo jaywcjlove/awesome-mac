@@ -577,6 +577,7 @@ Awesome Mac
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - 美しいインターフェースを備えた強力なバージョン管理ツール。
 * [Fork](https://git-fork.com/) - Mac用の高速でフレンドリーなGitクライアント。
+* [GeeTree](https://geetree.app/) - 非常に大きなリポジトリのためのプロフェッショナルなGitクライアント。Rustで書かれ、GPUでレンダリングされます。 ![Freeware][Freeware Icon]
 * [Git Cola](https://git-cola.github.io/) - 強力で高速、軽量でフレンドリーなGit GUI。カフェイン中毒のユーザー向け。 ![Open-Source Software][OSS Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - オープンソース、メニューバーにGitHubの貢献統計を表示。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitButler](https://gitbutler.com/) - 並列およびスタックブランチ、無制限の取り消し、エージェント統合による変更管理。 [![Open-Source Software][OSS Icon]](https://github.com/gitbutlerapp/gitbutler) ![Freeware][Freeware Icon]
