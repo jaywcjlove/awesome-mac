@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:18:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Mac TV</title>
+      <link>https://arunprakaash.github.io/mac-tv/</link>
+      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
+      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Mac TV
+Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。
+Website: https://arunprakaash.github.io/mac-tv/
+Open Source: https://github.com/Arunprakaash/mac-tv
+Commit: Add Mac TV to Audio and Video Tools (#4119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Mac TV<br/>Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
+    </item>
     <item>
       <title>SpawnSweep</title>
       <link>https://github.com/samirmaikap/spawnsweep</link>
@@ -713,20 +728,6 @@ Website: https://www.piedol.top/photon/
 Commit: Add Photon to Screenshot Tools (#3920)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Photon<br/>Description: macOSとWindowsに対応した、ネットワーク通信を行わないオープンソースのスクリーンショット・注釈・画面録画ツール。<br/>Website: https://www.piedol.top/photon/<br/>Commit: Add Photon to Screenshot Tools (#3920)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1505af60fa5a6713c199c86aa128718fa5eb0d27]]></content:encoded>
-    </item>
-    <item>
-      <title>Kipimo</title>
-      <link>https://www.piedol.top/kipimo/</link>
-      <guid isPermaLink="false">5f2aae4a047813eef2f99c4a65683529cf1516cd:Kipimo</guid>
-      <pubDate>Tue, 27 Oct 2026 03:15:42 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Kipimo
-Description: キャッシュの削除、残存ファイルを含むアプリのアンインストール、ディスク使用量の確認、起動項目の確認ができ、削除したものはすべてゴミ箱に移す、オープンソースのメニューバー用システムモニター。
-Website: https://www.piedol.top/kipimo/
-Commit: Add Kipimo to Cleanup and Uninstall (#3922)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Kipimo<br/>Description: キャッシュの削除、残存ファイルを含むアプリのアンインストール、ディスク使用量の確認、起動項目の確認ができ、削除したものはすべてゴミ箱に移す、オープンソースのメニューバー用システムモニター。<br/>Website: https://www.piedol.top/kipimo/<br/>Commit: Add Kipimo to Cleanup and Uninstall (#3922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f2aae4a047813eef2f99c4a65683529cf1516cd]]></content:encoded>
     </item>
   </channel>
 </rss>
