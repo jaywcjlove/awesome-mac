@@ -1131,6 +1131,7 @@ Awesome Mac
 * [JDownloader](http://jdownloader.org/) - リンク、ファイル、ホスティングサービス向けのオープンソースダウンロードマネージャー。 ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - HTTP、FTP、BT、マグネットリンクなどに対応したダウンロードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 最適化された転送エンジンを備えた軽量ダウンロードマネージャー。 ![Freeware][Freeware Icon]
+* [Nexonic Download Manager](https://github.com/Shahrukhalid/nexonic-download-manager) - IDM のような無料ダウンロードマネージャー。最大 32 接続の分割ダウンロード、再起動後の再開、ブラウザのダウンロードの引き継ぎ、動画の保存、スケジューラーとキューに対応。 [![Open-Source Software][OSS Icon]](https://github.com/Shahrukhalid/nexonic-download-manager) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Prism](https://prismdl.site/) - 複数の並列接続で高速にダウンロードし、ブラウザのダウンロードの引き継ぎや動画の保存にも対応したオープンソースのダウンロードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/FortoGraphy/prism-download-manager) ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - µTorrentに代わるオープンソースソフトウェアを提供するプロジェクト。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 * [Shandian](https://github.com/chenmozhe008/shandian-download) - マグネットリンク、Torrent、HTTP ファイル、YouTube・Bilibili・Douyin・小紅書の動画を一つのウィンドウでダウンロードできるネイティブのダウンロードマネージャー。ブラウザのダウンロード引き継ぎとダウンロード中の再生に対応（UI は中国語）。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/shandian-download) ![Freeware][Freeware Icon] ![Native App][Native Icon]
