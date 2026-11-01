@@ -698,6 +698,7 @@ Awesome Mac
 
 ## AI 도구
 
+* [Agent Ping](https://dreamofxm.github.io/agent-ping/en/) - 메뉴 막대 패널. Codex, Claude Code, Qoder, ZCode, WorkBuddy, OpenCode를 동시에 사용해도 실행 중·대기 중·입력 대기·오류 중지를 한눈에 확인할 수 있습니다. 각 도구가 남기는 로컬 로그만 읽고 네트워크 통신은 하지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/agent-ping) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - 메뉴바에서 여러 AI 어시스턴트 접근. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
