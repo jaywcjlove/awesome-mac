@@ -507,6 +507,7 @@ Awesome Mac
 * [Woodpecker](http://www.woodpeck.cn) - MacでiOSアプリのSandboxファイル、UserDefaults、Keychainアイテムを表示するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/woodpecker/id1333548463?platform=mac)
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS非公式WWDCアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 複数バージョンのXcodeをインストール・切り替えできるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
+* [xcpurge](https://github.com/iasaeed/xcpurge) - ビルド不要で、Xcodeプロジェクト内の未使用のアセット、ローカライズ文字列、ファイルを検出して安全に削除できるCLIツール。 [![Open-Source Software][OSS Icon]](https://github.com/iasaeed/xcpurge) ![Freeware][Freeware Icon]
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Xcode用のSwiftおよびiOSコードスニペットを探索、表示、編集するツール。 [![OSS][OSS Icon]](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - デザイナーとデベロッパーの間の作業を支援するコラボレーションツール。 ![Freeware][Freeware Icon]
 * [ZOC Terminal](https://www.emtec.com/zoc/index.html) - SSH、telnet接続やその他のプロトコルをサポートするターミナルエミュレーター。
