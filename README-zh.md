@@ -1254,6 +1254,7 @@ Awesome Mac
 * [Cloudflare WARP](https://1.1.1.1/) - 通过 Cloudflare 路由流量的安全网络服务。 ![Freeware][Freeware Icon]
 * [FlClash](https://github.com/chen08209/FlClash) - 拥有 MD3 风格且基于 Clash Meta 的客户端。[![Open-Source Software][OSS Icon]](https://github.com/chen08209/FlClash)![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 支持多种代理协议与订阅的跨平台代理客户端。 [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
+* [HorizonVPN](https://horizonvpn.org/platforms/macos) - 支持自动选择协议和网络兼容性设置的 VPN 客户端。
 * [Mullvad VPN](https://mullvad.net) - 注重隐私、支持匿名账号的 VPN 服务。 [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern)![Freeware][Freeware Icon]
 * [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) - 一个以mihomo内核的GUI [![Open-Source Software][OSS Icon]](https://github.com/mihomo-party-org/mihomo-party) ![Freeware][Freeware Icon]
