@@ -834,6 +834,7 @@ Awesome Mac
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 가장 진보된 Mac 수리 및 복구 도구.
 * [Disk Drill](https://www.cleverfiles.com/) - 무료 데이터 복구 도구. ![Freeware][Freeware Icon]
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 손상되었거나 삭제되었거나 포맷된 디스크 데이터를 복구하는 도구.
+* [Retrova](https://retrova.jishnumahanta.in) - 손상되었거나 마운트되지 않는 드라이브에서 읽기 전용으로 파일을 복사하고 모든 사본을 바이트 단위로 검증하는 무료 데이터 복구 도구. [![Open-Source Software][OSS Icon]](https://github.com/jishnumahanta/retrova) ![Freeware][Freeware Icon]
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 부팅 가능한 디스크 백업 도구.
 
 ## 오디오 및 비디오 도구
