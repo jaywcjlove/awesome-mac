@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NTFSTool</title>
+      <link>https://ntfstool.com</link>
+      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
+      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: NTFSTool
+Description: Free, open-source NTFS read and write for Mac, with no kernel extension.
+Website: https://ntfstool.com
+Open Source: https://github.com/ntfstool/ntfstool
+App Store: https://apps.apple.com/app/id1510209857
+Commit: Add NTFSTool to System Related Tools (#4134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: NTFSTool<br/>Description: Free, open-source NTFS read and write for Mac, with no kernel extension.<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
+    </item>
     <item>
       <title>Netty</title>
       <link>https://alvaldes.github.io/netty/</link>
@@ -712,20 +728,6 @@ Open Source: https://github.com/duct-tape2/hts-for-mac
 Commit: Add HTS for Mac to Finance (#3956)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
       <content:encoded><![CDATA[Category: Finance<br/>App: HTS for Mac<br/>Description: Read-only Korean and US stock workspace in the style of Windows HTS apps, with a 10-level order book, four-chart layouts, watchlists and saved workspaces; live quotes need your own Kiwoom REST API key.<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
-    </item>
-    <item>
-      <title>Glint</title>
-      <link>https://github.com/brentc22/glint</link>
-      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
-      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Glint
-Description: Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share.
-Open Source: https://github.com/brentc22/glint
-Commit: Add Glint to Screenshot Tools (#3942)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Glint<br/>Description: Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share.<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>NTFSTool</title>
+      <link>https://ntfstool.com</link>
+      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
+      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: NTFSTool
+Description: 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구.
+Website: https://ntfstool.com
+Open Source: https://github.com/ntfstool/ntfstool
+App Store: https://apps.apple.com/app/id1510209857
+Commit: Add NTFSTool to System Related Tools (#4134)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: NTFSTool<br/>Description: 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구.<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
+    </item>
     <item>
       <title>Netty</title>
       <link>https://alvaldes.github.io/netty/</link>
@@ -715,20 +731,6 @@ Open Source: https://github.com/zzunkie/yardlet
 Commit: Add Yardlet to AI Tools (#3937)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Yardlet<br/>Description: Codex, Claude Code 등 코딩 에이전트 CLI를 한 창에서 나란히 실행하는 오픈 소스 앱으로, 각 에이전트의 로그인과 세션 기록을 그대로 사용합니다.<br/>Website: https://yardlet.app<br/>Open Source: https://github.com/zzunkie/yardlet<br/>Commit: Add Yardlet to AI Tools (#3937)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthora</title>
-      <link>https://barryanders.github.io/anthora/</link>
-      <guid isPermaLink="false">5d4cf1ef28ad24c44c357ec9c7262518f2996d0e:Anthora</guid>
-      <pubDate>Tue, 27 Oct 2026 05:19:29 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Anthora
-Description: 폴더와 마운트된 드라이브의 사진과 동영상을 탐색하고 검색하며 중복 파일을 검토하는 로컬 라이브러리.
-Website: https://barryanders.github.io/anthora/
-Commit: Add Anthora to photo and media tools in four languages (#2802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d4cf1ef28ad24c44c357ec9c7262518f2996d0e</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Anthora<br/>Description: 폴더와 마운트된 드라이브의 사진과 동영상을 탐색하고 검색하며 중복 파일을 검토하는 로컬 라이브러리.<br/>Website: https://barryanders.github.io/anthora/<br/>Commit: Add Anthora to photo and media tools in four languages (#2802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d4cf1ef28ad24c44c357ec9c7262518f2996d0e]]></content:encoded>
     </item>
   </channel>
 </rss>
