@@ -635,6 +635,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DBeaver](https://dbeaver.io/) - Universal SQL Client.
 * [DBine](https://dbine.com) - Open-source database manager for 130+ SQL and NoSQL databases and cloud services, with notebooks, schema and data compare, and an MCP server. [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - Database client for querying and managing SQL databases.
+* [DocKit](https://www.geekfun.club/products/dockit/) - Open-source desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB and EasySearch, with AI-powered natural-language querying. [![Open-Source Software][OSS Icon]](https://github.com/geek-fun/dockit) ![Freeware][Freeware Icon]
 * [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
@@ -659,6 +660,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software][oss icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [SQLight](https://aurvan.com/sqlight/) - SQLite database manager tool. ![Freeware][Freeware Icon]
+* [SQLKit](https://www.geekfun.club/products/sqlkit/) - AI-powered SQL database manager for 70+ databases, including PostgreSQL, MySQL, SQL Server, SQLite, DuckDB and ClickHouse. [![Open-Source Software][OSS Icon]](https://github.com/geek-fun/sqlkit) ![Freeware][Freeware Icon]
 * [SQLPro Studio](https://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
 * [Studio 3T](https://studio3t.com/) - the Ultimate GUI for MongoDB. ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
