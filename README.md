@@ -994,6 +994,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Sharing
 
+* [BucketBridge](https://anupshaw50.github.io/BucketBridge/) - Open-source S3 client and CLI for Amazon S3 and S3-compatible storage. [![Open-Source Software][OSS Icon]](https://github.com/anupshaw50/BucketBridge) ![Freeware][Freeware Icon]
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - File sharing tool for screenshots, screen recordings, and other files.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - Peer-to-peer file transfer between computers and phones over local Wi-Fi. ![Freeware][Freeware Icon]
