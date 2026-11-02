@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:24:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ShotMap</title>
+      <link>https://ixiehao.github.io/ShotMap/</link>
+      <guid isPermaLink="false">ab76433693a6a8be3812bf821a600f5a337da252:ShotMap</guid>
+      <pubDate>Mon, 02 Nov 2026 02:24:11 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: ShotMap
+Description: 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。
+Website: https://ixiehao.github.io/ShotMap/
+Open Source: https://github.com/ixiehao/ShotMap
+Commit: Add ShotMap (#4140)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: ShotMap<br/>Description: 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
+    </item>
     <item>
       <title>LumaView</title>
       <link>https://ixiehao.github.io/LumaView/en/</link>
@@ -713,21 +728,6 @@ Open Source: https://github.com/chenmozhe008/qingo
 Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Qingo<br/>Description: 按工具识别剪映、达芬奇、Adobe 系列及 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清可自动重建的部分，移到废纸篓可撤销，不碰项目与对话。<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Amical</title>
-      <link>https://amical.ai</link>
-      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
-      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Amical
-Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。
-Website: https://amical.ai
-Open Source: https://github.com/amicalhq/amical
-Commit: Add Amical (#4007)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Amical<br/>Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
     </item>
   </channel>
 </rss>

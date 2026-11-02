@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:24:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ShotMap</title>
+      <link>https://ixiehao.github.io/ShotMap/</link>
+      <guid isPermaLink="false">ab76433693a6a8be3812bf821a600f5a337da252:ShotMap</guid>
+      <pubDate>Mon, 02 Nov 2026 02:24:11 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: ShotMap
+Description: 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。
+Website: https://ixiehao.github.io/ShotMap/
+Open Source: https://github.com/ixiehao/ShotMap
+Commit: Add ShotMap (#4140)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: ShotMap<br/>Description: 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
+    </item>
     <item>
       <title>LumaView</title>
       <link>https://ixiehao.github.io/LumaView/en/</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/reemus-dev/ghostty-designer
 Commit: Add ghostty-designer to Terminal Apps (#3967)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: ghostty-designer<br/>Description: Ghosttyのテーマ、フォント、UI設定をライブプレビューしながら編集できるエディター。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
-    </item>
-    <item>
-      <title>HTS for Mac</title>
-      <link>https://github.com/duct-tape2/hts-for-mac</link>
-      <guid isPermaLink="false">ddb7d593fcd813b70ef66097bd1023e4541cacfc:HTS for Mac</guid>
-      <pubDate>Wed, 28 Oct 2026 01:50:25 GMT</pubDate>
-      <category>ファイナンス</category>
-      <description>Category: ファイナンス
-App: HTS for Mac
-Description: Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。
-Open Source: https://github.com/duct-tape2/hts-for-mac
-Commit: Add HTS for Mac to Finance (#3956)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
-      <content:encoded><![CDATA[Category: ファイナンス<br/>App: HTS for Mac<br/>Description: Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
     </item>
   </channel>
 </rss>
