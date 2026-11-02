@@ -396,6 +396,7 @@ Awesome Mac
 * [Eclipse](https://www.eclipse.org) - 多言語のプラグインサポートを備えたJava用の人気オープンソースIDE。 ![OSS][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - Mac用Webエディタが復活。洗練された革新的で高速なWebサイトを作る人のために。
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。 [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
+* [Friday](https://www.tryfridaywork.com) - Claude Code、Codex、Cursor などのコーディングエージェントを 1 つのチームとして動かす無料のオープンソースアプリ。共有タスクボード、エージェントごとの git worktree、行コメント付きの差分レビューを備え、利用上限に達したエージェントのタスクを別のエージェントに引き継ぎます。 [![Open-Source Software][OSS Icon]](https://github.com/splashxmoon/friday) ![Freeware][Freeware Icon]
 * [BeagleEditor](https://github.com/beaglesoftware/editor) - シンタックスハイライト、プラグインなどの機能を備えた「beagleful」なエディタ。少し見た目は粗いが動作します。
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - インストール済みのJetBrainsツールの管理、新しいツールのダウンロード、最近のプロジェクトを開く。 ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS開発のためのスマートIDE
