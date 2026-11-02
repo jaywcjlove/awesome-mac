@@ -854,6 +854,7 @@ Awesome Mac
 * [mpv](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Mooziac](https://mooziac.pages.dev) - 轻量级原生 macOS 菜单栏音乐播放器，支持 YouTube Music 和本地音频。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
+* [Music File Lab](https://musicfilelab.com/en/) - 将 Apple Music 的歌曲、专辑和播放列表保存为带封面、标签和同步歌词的 ALAC、FLAC、WAV、AAC 或 MP3 文件。
 * [Natron](https://natron.fr/) - 开源节点式视频合成工具。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [NotchMuse](https://notchmuse.com/zh/) - 开源同步歌词工具，可在菜单栏、刘海旁或 Dock 上方显示 Spotify、Apple Music、网易云音乐、QQ 音乐和汽水音乐的歌词。 [![Open-Source Software][OSS Icon]](https://github.com/Xiye88/NotchMuse) ![Freeware][Freeware Icon]
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上最好的媒体播放器，支持几乎所有格式。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?pt=119209922&ct=newhomepage)
