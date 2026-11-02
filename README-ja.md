@@ -1169,6 +1169,7 @@ Awesome Mac
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 拼音と注音に対応し、簡体字・繁体字向け辞書を備えた中国語入力メソッド。 [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - MacBook Pro Touch Bar用の絵文字ピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - MacをiPhone、iPad、Apple TVのキーボードとして使用。
+* [TypeNod](https://typenod.com/) - 入力中にオンデバイス翻訳をプレビューし、確認後に現在の入力欄へ挿入する有料の入力メソッド。
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - macOSのGlobeキーをもっと便利に！ [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - アプリやWebサイトごとに入力ソースを自動切り替えするツール。 [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
