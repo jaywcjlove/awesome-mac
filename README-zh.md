@@ -1659,6 +1659,7 @@ Awesome Mac
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 将屏幕边缘扩展为可用鼠标触发的快捷操作区。 [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [mFix](https://github.com/Zingzy/mFix) - 开源窗口管理器，支持快捷键与拖拽贴靠、贴靠布局、带实时预览的 Cmd+Tab 窗口切换器，以及 Dock 窗口预览。 [![Open-Source Software][OSS Icon]](https://github.com/Zingzy/mFix) ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - 用于移动、调整和保存窗口布局的工具。
+* [NeoTiler](https://getneotiler.com/) - 原生 macOS 智能窗口管理器，支持自定义吸附区域、触控板手势与 SizeUp 快捷键。
 * [Nudge](https://nudge.run) - 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id441258766?platform=mac)
 * [Open Contexts](https://opencontexts.app/) - 开源窗口切换器，提供常驻应用栏和可保存的窗口分组。 [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
