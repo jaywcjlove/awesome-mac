@@ -774,6 +774,7 @@ Awesome Mac
 
 ### 文件共享
 
+* [Bucketree](https://bucketree.app/download/) - 管理整个 Backblaze B2 账户的客户端，涵盖文件、存储桶和应用密钥。
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]

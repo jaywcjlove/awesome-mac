@@ -996,6 +996,7 @@ Awesome Mac
 
 ### ファイル共有
 
+* [Bucketree](https://bucketree.app/download/) - ファイルやバケットからアプリケーションキーまで、Backblaze B2アカウント全体を管理するクライアント。
 * [Cyberduck](https://cyberduck.io) - 無料のFTP、SFTP、WebDAV、S3、Backblaze B2、AzureおよびOpenStack Swiftブラウザ。 ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - スクリーンショット、画面録画、その他のファイルを共有するツール。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。 ![Freeware][Freeware Icon]
