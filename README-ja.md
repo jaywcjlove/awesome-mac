@@ -1249,6 +1249,7 @@ Awesome Mac
 
 ## 教育
 
+* [Chronarium](https://chronarium.app/?utm_source=awesome-mac) - 場所・人物・テーマを1本の共通タイムライン上の並列レーンに並べ、同時代の出来事をそろえて表示する歴史年表アプリ。
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
