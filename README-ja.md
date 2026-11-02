@@ -1450,6 +1450,7 @@ Awesome Mac
 * [StableBar](https://stablebar.app) - テーマ、ウィジェット、ポップアップ、AeroSpace・yabai・OmniWM のワークスペースに対応したカスタマイズ可能なメニューバーの代替。 [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHubコントリビューションストリーク追跡メニューバーアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - メニューバーのファイル変換ツール。ファイルをドラッグ中にキーを押してホイールにドロップするだけで、動画・音声・画像・PDFを変換できます。 [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Sway](https://github.com/gusalvestavo/sway) - やわらかな全画面の休憩画面、長めの休憩、勤務時間、まばたきと姿勢のリマインダーを備えた穏やかなメニューバー休憩リマインダー。通話中や入力中は休憩を待ちます。 [![Open-Source Software][OSS Icon]](https://github.com/gusalvestavo/sway) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - 強力なmacOSメニューバーカスタマイズツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)
 * [Tactile](https://tactile.masn.studio/) - クリック可能な要素にカーソルを合わせるとトラックパッドに軽い触覚フィードバックを返し、視覚的な補助表示も可能。 [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
 * [Tarn](https://github.com/jakeantelis/Tarn) - 集中作業のラウンドとゆっくりした呼吸のための、穏やかなメニューバーアプリ。環境音は任意。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Tarn) ![Freeware][Freeware Icon]
