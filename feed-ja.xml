@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:59:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shutterbar</title>
+      <link>https://github.com/mucahitimre/Shutterbar</link>
+      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
+      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Shutterbar
+Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。
+Open Source: https://github.com/mucahitimre/Shutterbar
+Commit: Add Shutterbar to Screenshot Tools (#4148)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Shutterbar<br/>Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
+    </item>
     <item>
       <title>NTFSTool</title>
       <link>https://ntfstool.com</link>
@@ -716,21 +730,6 @@ Open Source: https://github.com/iharshitmaurya/HeyMac
 Commit: Add Hey Mac to security tools (#3938)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d</description>
       <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Hey Mac<br/>Description: デバイス上の顔認識でロック画面を解除し、選択したアプリをプライバシーシールドで保護するツール。<br/>Website: https://heymacapp.com/<br/>Open Source: https://github.com/iharshitmaurya/HeyMac<br/>Commit: Add Hey Mac to security tools (#3938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d]]></content:encoded>
-    </item>
-    <item>
-      <title>Yardlet</title>
-      <link>https://yardlet.app</link>
-      <guid isPermaLink="false">d4fcb272fa9e51ba7753b70ef8501912228effb8:Yardlet</guid>
-      <pubDate>Tue, 27 Oct 2026 13:45:44 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Yardlet
-Description: 各エージェント自身のログインとセッション履歴をそのまま使い、Codex や Claude Code などのコーディングエージェント CLI を1つのウィンドウで並べて実行できるオープンソースアプリ。
-Website: https://yardlet.app
-Open Source: https://github.com/zzunkie/yardlet
-Commit: Add Yardlet to AI Tools (#3937)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Yardlet<br/>Description: 各エージェント自身のログインとセッション履歴をそのまま使い、Codex や Claude Code などのコーディングエージェント CLI を1つのウィンドウで並べて実行できるオープンソースアプリ。<br/>Website: https://yardlet.app<br/>Open Source: https://github.com/zzunkie/yardlet<br/>Commit: Add Yardlet to AI Tools (#3937)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8]]></content:encoded>
     </item>
   </channel>
 </rss>
