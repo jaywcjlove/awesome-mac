@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 01:59:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:07:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>jdsp4mac</title>
+      <link>https://github.com/Tekkiech/jdsp4mac</link>
+      <guid isPermaLink="false">79728247e60c2d5534316d2118ac94e247ff5101:jdsp4mac</guid>
+      <pubDate>Mon, 02 Nov 2026 02:07:05 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: jdsp4mac
+Description: 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。
+Open Source: https://github.com/Tekkiech/jdsp4mac
+Commit: Add jdsp4mac to Audio Record and Process (#4146)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: jdsp4mac<br/>Description: 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
+    </item>
     <item>
       <title>Shutterbar</title>
       <link>https://github.com/mucahitimre/Shutterbar</link>
@@ -715,20 +729,6 @@ Open Source: https://github.com/niklasravnsborg/HideNotch
 Commit: Add HideNotch to Menu Bar Tools (#3974)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: HideNotch<br/>Description: 将菜单栏涂成黑色，让 MacBook 的刘海与之融为一体，还可以为屏幕加上圆角。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
-    </item>
-    <item>
-      <title>ghostty-designer</title>
-      <link>https://github.com/reemus-dev/ghostty-designer</link>
-      <guid isPermaLink="false">a36b42a525fab64bedec67cb024baa228542a614:ghostty-designer</guid>
-      <pubDate>Wed, 28 Oct 2026 07:58:57 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: ghostty-designer
-Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。
-Open Source: https://github.com/reemus-dev/ghostty-designer
-Commit: Add ghostty-designer to Terminal Apps (#3967)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: ghostty-designer<br/>Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
     </item>
   </channel>
 </rss>
