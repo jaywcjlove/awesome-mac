@@ -1678,6 +1678,7 @@ Awesome Mac
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [Bitwarden](https://bitwarden.com) - 适用于Mac OS，iOS和浏览器的开源密码管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - 跨平台密码管理器 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/buttercup/buttercup-desktop)
+* [Copy 2FA](https://stanczykwyatt.github.io/copy-2fa/) - 一个快捷键即可复制「邮件」或「信息」中最新的两步验证码，并内置受触控 ID 保护的 TOTP/HOTP 验证器。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/copy-2fa) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dashlane](https://www.dashlane.com) - 基于云的密码管理器，拥有屡获殊荣的设计。
 * [Enpass](https://www.enpass.io/) - 具有云集成的跨平台密码管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?platform=mac)
 * [Keyzer](https://apps.apple.com/app/Keyzer/6500434773?platform=mac) - 简单密码管理器，支持保存可携带的密码文件。
