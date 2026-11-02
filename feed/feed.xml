@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:24:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ShotMap</title>
+      <link>https://ixiehao.github.io/ShotMap/</link>
+      <guid isPermaLink="false">ab76433693a6a8be3812bf821a600f5a337da252:ShotMap</guid>
+      <pubDate>Mon, 02 Nov 2026 02:24:11 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: ShotMap
+Description: Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.
+Website: https://ixiehao.github.io/ShotMap/
+Open Source: https://github.com/ixiehao/ShotMap
+Commit: Add ShotMap (#4140)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: ShotMap<br/>Description: Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
+    </item>
     <item>
       <title>LumaView</title>
       <link>https://ixiehao.github.io/LumaView/en/</link>
@@ -712,21 +727,6 @@ Open Source: https://github.com/chenmozhe008/qingo
 Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Qingo<br/>Description: Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Amical</title>
-      <link>https://amical.ai</link>
-      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
-      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: Amical
-Description: Open-source AI dictation and note-taking app that types into any app and formats the text for the app you are in, using local Whisper or Parakeet models.
-Website: https://amical.ai
-Open Source: https://github.com/amicalhq/amical
-Commit: Add Amical (#4007)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Amical<br/>Description: Open-source AI dictation and note-taking app that types into any app and formats the text for the app you are in, using local Whisper or Parakeet models.<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
     </item>
   </channel>
 </rss>
