@@ -1298,6 +1298,7 @@ Awesome Mac
 * [Snapback](https://snapbackapp.com) - 키 한 번으로 전체 창 레이아웃을 저장하고 복원. ![Freeware][Freeware Icon]
 * [StreamWindow](https://macdev.cn/) - 3D 애니메이션과 직관적인 전환을 갖춘 창 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
 * [Swift Shift](https://swiftshift.app) - 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
+* [Tangrid](https://tangrid.app/) - 자동 타일링, 창 스냅, 앱 간 탭 그룹화, 레이아웃 저장을 지원하는 창 관리자. ![Native App][Native Icon]
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
 * [yabai](https://github.com/koekeishiya/yabai) - 키보드 중심의 타일링 창 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
