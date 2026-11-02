@@ -322,6 +322,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
+* [SuperEditr](https://supereditr.app) - Proofread and rewrite selected text in any app, offline or with your own AI model. [![Open-Source Software][OSS Icon]](https://github.com/spectrumzero-dev/supereditr-app)
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
 
 ### Ebooks
