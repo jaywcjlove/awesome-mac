@@ -1216,6 +1216,7 @@ Awesome Mac
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
 * [SATF](https://github.com/tran-minh-khoi/SATF) - 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - 파일을 드래그하는 중 키를 누르고 휠에 놓으면 변환, 자르기, 압축, 메타데이터 제거, 공유를 할 수 있는 완전 오프라인 도구. [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WakeMeUpBT](https://github.com/elmarbeckmann/WakeMeUpBT) - MacBook이 잠자기에 들어가면 Bluetooth를 끄고 깨어나면 다시 켜서, M5 MacBook Pro에서 DarkWake 반복으로 인한 배터리 소모를 막습니다. [![Open-Source Software][OSS Icon]](https://github.com/elmarbeckmann/WakeMeUpBT) ![Freeware][Freeware Icon]
 
 ### 할 일 목록 (To-Do Lists)
 

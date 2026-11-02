@@ -1636,6 +1636,7 @@ Awesome Mac
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [Uptick](https://chengffei.github.io/uptick/) - 开源的应用更新工具，从 App Store、Sparkle、Electron 更新源和 Homebrew 查找更新，安装前核对每个下载包。 [![Open-Source Software][OSS Icon]](https://github.com/chengffei/uptick) ![Freeware][Freeware Icon]
+* [WakeMeUpBT](https://github.com/elmarbeckmann/WakeMeUpBT) - 在 MacBook 睡眠时关闭蓝牙，唤醒时重新开启，避免 M5 MacBook Pro 上的 DarkWake 循环耗电。 [![Open-Source Software][OSS Icon]](https://github.com/elmarbeckmann/WakeMeUpBT) ![Freeware][Freeware Icon]
 * [WattMate](https://wattmateapp.com) - 在菜单栏中直接查看哪些应用和 AI 编程代理在消耗 MacBook 电池，显示真实瓦数，以及退出某个应用能换回的分钟数。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 
 ### 窗口管理
