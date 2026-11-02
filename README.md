@@ -1369,6 +1369,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Menu Bar Tools
 
+* [Actvt](https://actvt.io) - Menu bar app combining live system metrics with Claude Code and Codex session history, cost and token analytics, and an embedded MCP server agents can query.
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AI Meter](https://github.com/getguruhat/ai-meter) - Shows your remaining Claude Code or Codex usage and reset time in the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
