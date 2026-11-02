@@ -774,6 +774,7 @@ Awesome Mac
 
 ### 文件共享
 
+* [AirFliq](https://airfliq.vercel.app) - 通过全局快捷键、菜单栏、访达右键菜单或拖放目标，一步打开 Apple 的隔空投送面板。[![App Store][app-store Icon]](https://apps.apple.com/app/airfliq/id6801543708)
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]

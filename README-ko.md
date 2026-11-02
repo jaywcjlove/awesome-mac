@@ -820,6 +820,7 @@ Awesome Mac
 
 ### 파일 공유
 
+* [AirFliq](https://airfliq.vercel.app) - 전역 단축키, 메뉴 막대, Finder 오른쪽 클릭 메뉴 또는 드래그 대상에서 Apple의 AirDrop 패널을 여는 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/airfliq/id6801543708)
 * [Cyberduck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 등을 지원하는 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/iterate-ch/cyberduck) ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 스크린샷, 화면 녹화, 기타 파일을 공유하는 도구.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구. ![Freeware][Freeware Icon]
