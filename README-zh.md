@@ -302,6 +302,7 @@ Awesome Mac
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
 * [PortKiller](https://github.com/productdevbook/port-killer) - 用于查看端口、管理转发与隧道并结束占用进程的工具。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PushMate](https://pushmate.app) - 可通过确保推送有效载荷正确来解决常见的推送通知问题。
+* [Quality.Noted](https://quality.notedsuite.app/) - 使用你自己的 Claude Code 对 Mac 应用项目进行 QA 审核的工具。 ![Native App][Native Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - 计算你写了多少行代码。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - 原生进程监视器，功能丰富，界面简洁。
 * [Runner](https://github.com/yicheng47/runner) - 开源工作台，让 Claude Code、Codex、Copilot CLI 和 pi 等命令行编码代理组队协作同一任务，每个代理都在各自的真实终端中运行。 [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
