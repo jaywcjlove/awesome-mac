@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:58:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sidekey</title>
+      <link>https://wongsiufool.github.io/sidekey/</link>
+      <guid isPermaLink="false">d67286e429d0fbbcd39f8166eaacb994a25a8664:Sidekey</guid>
+      <pubDate>Mon, 02 Nov 2026 13:58:53 GMT</pubDate>
+      <category>入力方法</category>
+      <description>Category: 入力方法
+App: Sidekey
+Description: iPhoneをMacやWindows PCのワイヤレスキーボード、トラックパッド、音声入力として使えるツール。ローカルWi-Fi経由で接続。
+Website: https://wongsiufool.github.io/sidekey/
+Open Source: https://github.com/wongsiufool/sidekey
+Commit: Add Sidekey to Input Methods (#4158)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664</description>
+      <content:encoded><![CDATA[Category: 入力方法<br/>App: Sidekey<br/>Description: iPhoneをMacやWindows PCのワイヤレスキーボード、トラックパッド、音声入力として使えるツール。ローカルWi-Fi経由で接続。<br/>Website: https://wongsiufool.github.io/sidekey/<br/>Open Source: https://github.com/wongsiufool/sidekey<br/>Commit: Add Sidekey to Input Methods (#4158)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664]]></content:encoded>
+    </item>
     <item>
       <title>ShotMap</title>
       <link>https://ixiehao.github.io/ShotMap/</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/niklasravnsborg/HideNotch
 Commit: Add HideNotch to Menu Bar Tools (#3974)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: HideNotch<br/>Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
-    </item>
-    <item>
-      <title>ghostty-designer</title>
-      <link>https://github.com/reemus-dev/ghostty-designer</link>
-      <guid isPermaLink="false">a36b42a525fab64bedec67cb024baa228542a614:ghostty-designer</guid>
-      <pubDate>Wed, 28 Oct 2026 07:58:57 GMT</pubDate>
-      <category>ターミナルアプリ</category>
-      <description>Category: ターミナルアプリ
-App: ghostty-designer
-Description: Ghosttyのテーマ、フォント、UI設定をライブプレビューしながら編集できるエディター。
-Open Source: https://github.com/reemus-dev/ghostty-designer
-Commit: Add ghostty-designer to Terminal Apps (#3967)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
-      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: ghostty-designer<br/>Description: Ghosttyのテーマ、フォント、UI設定をライブプレビューしながら編集できるエディター。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
     </item>
   </channel>
 </rss>
