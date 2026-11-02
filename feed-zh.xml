@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LumaView</title>
+      <link>https://ixiehao.github.io/LumaView/en/</link>
+      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
+      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: LumaView
+Description: 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。
+Website: https://ixiehao.github.io/LumaView/en/
+Open Source: https://github.com/ixiehao/LumaView
+Commit: Add LumaView (#4142)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: LumaView<br/>Description: 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
+    </item>
     <item>
       <title>Coincide</title>
       <link>https://coincide.dev</link>
@@ -713,21 +728,6 @@ Open Source: https://github.com/amicalhq/amical
 Commit: Add Amical (#4007)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: Amical<br/>Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
-    </item>
-    <item>
-      <title>UMST</title>
-      <link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
-      <guid isPermaLink="false">200c8aa94796f596a0688195839053893f91f99e:UMST</guid>
-      <pubDate>Thu, 29 Oct 2026 08:03:33 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: UMST
-Description: 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。
-Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/
-Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool
-Commit: Add UMST to Productivity (#3996)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: UMST<br/>Description: 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。<br/>Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/<br/>Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool<br/>Commit: Add UMST to Productivity (#3996)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e]]></content:encoded>
     </item>
   </channel>
 </rss>

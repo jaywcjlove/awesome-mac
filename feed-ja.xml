@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LumaView</title>
+      <link>https://ixiehao.github.io/LumaView/en/</link>
+      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
+      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: LumaView
+Description: フォルダ内の画像閲覧、EXIF 情報の確認、複数ページの PDF 閲覧に対応するシンプルなネイティブ画像ビューアー。
+Website: https://ixiehao.github.io/LumaView/en/
+Open Source: https://github.com/ixiehao/LumaView
+Commit: Add LumaView (#4142)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: LumaView<br/>Description: フォルダ内の画像閲覧、EXIF 情報の確認、複数ページの PDF 閲覧に対応するシンプルなネイティブ画像ビューアー。<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
+    </item>
     <item>
       <title>Coincide</title>
       <link>https://coincide.dev</link>
@@ -715,20 +730,6 @@ Open Source: https://github.com/duct-tape2/hts-for-mac
 Commit: Add HTS for Mac to Finance (#3956)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
       <content:encoded><![CDATA[Category: ファイナンス<br/>App: HTS for Mac<br/>Description: Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
-    </item>
-    <item>
-      <title>Glint</title>
-      <link>https://github.com/brentc22/glint</link>
-      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
-      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: Glint
-Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。
-Open Source: https://github.com/brentc22/glint
-Commit: Add Glint to Screenshot Tools (#3942)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Glint<br/>Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
     </item>
   </channel>
 </rss>

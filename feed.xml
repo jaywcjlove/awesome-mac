@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:23:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LumaView</title>
+      <link>https://ixiehao.github.io/LumaView/en/</link>
+      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
+      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: LumaView
+Description: Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.
+Website: https://ixiehao.github.io/LumaView/en/
+Open Source: https://github.com/ixiehao/LumaView
+Commit: Add LumaView (#4142)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: LumaView<br/>Description: Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
+    </item>
     <item>
       <title>Coincide</title>
       <link>https://coincide.dev</link>
@@ -712,21 +727,6 @@ Open Source: https://github.com/amicalhq/amical
 Commit: Add Amical (#4007)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Amical<br/>Description: Open-source AI dictation and note-taking app that types into any app and formats the text for the app you are in, using local Whisper or Parakeet models.<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
-    </item>
-    <item>
-      <title>UMST</title>
-      <link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
-      <guid isPermaLink="false">200c8aa94796f596a0688195839053893f91f99e:UMST</guid>
-      <pubDate>Thu, 29 Oct 2026 08:03:33 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: UMST
-Description: Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.
-Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/
-Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool
-Commit: Add UMST to Productivity (#3996)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: UMST<br/>Description: Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.<br/>Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/<br/>Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool<br/>Commit: Add UMST to Productivity (#3996)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e]]></content:encoded>
     </item>
   </channel>
 </rss>
