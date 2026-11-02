@@ -639,6 +639,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://github.com/fastogt/fastoredis) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - Secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
+* [MAD Designer](https://github.com/mthomason/MAD) - Native ad-hoc SQL query builder, visual report designer, and viewer for PostgreSQL, MySQL/MariaDB, SQL Server, and SQLite. [![Open-Source Software][OSS Icon]](https://github.com/mthomason/MAD) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MDB Explorer](https://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 * [Medis](https://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
