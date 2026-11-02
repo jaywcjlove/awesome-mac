@@ -1231,6 +1231,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [DeepL](https://www.deepl.com/en/app/) - Best quality translations ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - A concise dictionary and translator for looking up words and translating text. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [Gramfix](https://gramfix.app/) - Select text in any app and press a shortcut to fix grammar and spelling with your own OpenAI API key. ![Freeware][Freeware Icon]
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](https://www.itranslate.com/) - Translation app for text and web pages in multiple languages. ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Gemini. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]

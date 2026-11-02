@@ -1230,6 +1230,7 @@ Awesome Mac
 
 * [DeepL](https://www.deepl.com/en/app/) - 最高品質の翻訳 ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
+* [Gramfix](https://gramfix.app/) - どのアプリでもテキストを選択してショートカットを押すと、自分の OpenAI API キーで文法とスペルを修正します。 ![Freeware][Freeware Icon]
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]

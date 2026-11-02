@@ -1178,6 +1178,7 @@ Awesome Mac
 * [DeepL](https://www.deepl.com/zh/macos-app) - 拥有深度神经学习网络的翻译软件，自称世界上最准确的翻译软件，在学术论文和科技文章方面优于其他同类软件。![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 简洁的词典与翻译工具，用于查词和翻译文本。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](https://www.eudic.net/v4/en/app/download) - 欧路词典,权威的英语词典软件 英语学习者必备的工具
+* [Gramfix](https://gramfix.app/) - 在任意应用中选中文字并按下快捷键，即可用你自己的 OpenAI API 密钥修正语法和拼写。 ![Freeware][Freeware Icon]
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/itext-ocr-translator/id1314980676?platform=mac)
 * [iTranslate](http://www.itranslate.com/) - 支持文本、网页和多语言翻译的翻译应用。 ![Freeware][Freeware Icon]
