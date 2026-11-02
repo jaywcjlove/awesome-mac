@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:22:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Coincide</title>
+      <link>https://coincide.dev</link>
+      <guid isPermaLink="false">e96f39fe2a586b68897efa79e849e64b83f65ace:Coincide</guid>
+      <pubDate>Mon, 02 Nov 2026 02:22:46 GMT</pubDate>
+      <category>開発ツール / IDE</category>
+      <description>Category: 開発ツール / IDE
+App: Coincide
+Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。
+Website: https://coincide.dev
+Open Source: https://github.com/apoorvdarshan/coincide
+Commit: Add Coincide to IDEs (#4143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
+      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Coincide<br/>Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
+    </item>
     <item>
       <title>ShinyMac</title>
       <link>https://github.com/pballada/shinyMac</link>
@@ -714,20 +729,6 @@ Open Source: https://github.com/brentc22/glint
 Commit: Add Glint to Screenshot Tools (#3942)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Glint<br/>Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
-    </item>
-    <item>
-      <title>Stash</title>
-      <link>https://github.com/brentc22/stash</link>
-      <guid isPermaLink="false">6557b5394ae67e1e08b87a972263ac9fad810b99:Stash</guid>
-      <pubDate>Wed, 28 Oct 2026 00:24:27 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Stash
-Description: macOS 27 向けのオープンソースのメニューバーアイコン非表示ツールで、ステータス項目を1つの矢印の後ろにまとめます。
-Open Source: https://github.com/brentc22/stash
-Commit: Add Stash to Menu Bar Tools (#3941)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Stash<br/>Description: macOS 27 向けのオープンソースのメニューバーアイコン非表示ツールで、ステータス項目を1つの矢印の後ろにまとめます。<br/>Open Source: https://github.com/brentc22/stash<br/>Commit: Add Stash to Menu Bar Tools (#3941)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99]]></content:encoded>
     </item>
   </channel>
 </rss>
