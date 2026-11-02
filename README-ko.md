@@ -786,6 +786,7 @@ Awesome Mac
 
 * [HandBrake](https://handbrake.fr/) - 거의 모든 형식에서 비디오를 변환하는 오픈 소스 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - macOS를 위한 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
+* [ShotMap](https://ixiehao.github.io/ShotMap/) - 동영상을 스토리보드 이미지로 정리하고, 자동 프레임 선택과 수동 조정, 로컬 PNG/JPG 내보내기를 지원하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 무료 오픈 소스 크로스 플랫폼 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 
 ## 커뮤니케이션
