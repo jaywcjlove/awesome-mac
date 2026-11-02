@@ -401,6 +401,7 @@ Awesome Mac
 
 ### 개발자 유틸리티
 
+* [Architect](https://github.com/abhiramshaji-cyber/Architect) - JS/TS 코드베이스의 모든 함수를 중요도 순으로 정렬하고 호출 트리를 그리며, MCP로 코딩 에이전트에 아키텍처 계약을 제공하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/abhiramshaji-cyber/Architect) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 접근성 API와 HID 자동화를 통해 iOS 시뮬레이터를 제어할 수 있는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 강력한 파일 이름 변경 앱.
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.

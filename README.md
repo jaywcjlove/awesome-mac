@@ -427,6 +427,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Developer Utilities
 
+* [Architect](https://github.com/abhiramshaji-cyber/Architect) - Open-source app that ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP. [![Open-Source Software][OSS Icon]](https://github.com/abhiramshaji-cyber/Architect) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](https://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](https://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
