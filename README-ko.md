@@ -1253,6 +1253,7 @@ Awesome Mac
 * [Raycast](https://www.raycast.com/) - 확장 기능, 스니펫, 노트, AI를 갖춘 런처. ![Freeware][Freeware Icon]
 * [Rebind](https://rebind.moduix.dev) - 키, 마우스 버튼, 트랙패드 제스처를 단축키와 시스템 동작에 매핑하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/rebind) ![Freeware][Freeware Icon]
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처. [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
+* [Reroute](https://reroute.korchasa.dev/) - 사이트별로 정한 브라우저에서 링크를 열고, 규칙이 없는 사이트에서는 사용할 브라우저를 묻는 브라우저 선택 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id6781828998?platform=mac)
 * [Rewind](https://www.rewind.ai/) - 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.
 * [RescueTime](https://www.rescuetime.com/) - 시간 사용 기록과 생산성 리포트를 제공하는 도구.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finder 우클릭 메뉴에 더 많은 작업을 추가하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
