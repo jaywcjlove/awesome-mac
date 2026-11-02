@@ -647,6 +647,7 @@ Awesome Mac
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。 [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [Mocker](https://github.com/us/mocker) - 基于 Apple Containerization framework 的容器管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - 适用于任何工作站的 Ubuntu 虚拟机。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
+* [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) - 适用于 Apple Silicon 的 macOS 和 Linux 虚拟机管理器，内置 MCP 服务器，可让 AI 智能体控制虚拟机。 ![Freeware][Freeware Icon]
 * [OrbStack](https://orbstack.dev/) - 在 Mac 上无缝高效地运行 Docker 和 Linux。Docker Desktop 替代品，可帮助您更快地工作。![Freeware][Freeware Icon]
 * [Parallels Desktop](http://www.parallels.com/) - 虽然好用但是收费机制，更新花钱、花钱、花钱。
 * [Portainer](https://portainer.io/) - 基于网页管理 Docker 容器和 swarm 集群。 [![Open-Source Software][OSS Icon]](https://github.com/portainer/portainer) ![Freeware][Freeware Icon]

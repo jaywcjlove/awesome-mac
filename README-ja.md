@@ -611,6 +611,7 @@ Awesome Mac
 * [MacVirtue](https://naden.co) - Mac上で無料かつ無制限に仮想マシンを実行。
 * [Mocker](https://github.com/us/mocker) - AppleのContainerization framework上に構築されたコンテナ管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - あらゆるワークステーションでオンデマンドのUbuntu VM。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
+* [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) - AIエージェントがVMを操作できるMCPサーバーを内蔵した、Apple Silicon向けのmacOS・Linux仮想マシンマネージャー。 ![Freeware][Freeware Icon]
 * [OrbStack](https://orbstack.dev/) - macOSでDockerコンテナとLinuxマシンを実行する、高速で軽量かつシンプルな方法。 ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - 強力で使いやすいVM。新しいMac OSごとの無料アップグレードはなし。
 * [Podman Desktop](https://podman-desktop.io/) - コンテナとKubernetesを管理するオープンソースのグラフィカルツール。 [![Open-Source Software][OSS Icon]](https://github.com/containers/podman-desktop) ![Freeware][Freeware Icon]

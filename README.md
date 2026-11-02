@@ -610,6 +610,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 * [Mocker](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
+* [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) - Virtual machine manager for macOS and Linux guests on Apple Silicon, with a built-in MCP server that lets AI agents control the VMs. ![Freeware][Freeware Icon]
 * [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
 * [Parallels](https://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS.
 * [Podman Desktop](https://podman-desktop.io/) - Open-source graphical tool for managing containers and Kubernetes. [![Open-Source Software][OSS Icon]](https://github.com/containers/podman-desktop) ![Freeware][Freeware Icon]
