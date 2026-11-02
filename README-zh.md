@@ -819,6 +819,7 @@ Awesome Mac
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 一个记录任何应用程序的音频，包括网络电话 Skype，网络流从 Safari，以及更多。
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - 将 Mac 的音频同时在 AirPlay、Google Cast 和本地扬声器上同步播放。 [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]
+* [Auto Ducking](https://www.marcx.app/auto-ducking/) - 任意 App 使用麦克风时自动调低背景音量，麦克风关闭后恢复原音量。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6773523949?platform=mac)
 * [ArcTime](http://www.arctime.org/) - 跨平台字幕制作软件。
 * [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac) - 支持本地实时转写和多语言字幕的实时字幕工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac)
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
