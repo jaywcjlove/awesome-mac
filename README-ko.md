@@ -465,6 +465,7 @@ Awesome Mac
 * [Testpiler](https://furnacecreek.org/testpiler/) - XCTest 테스트를 Swift Testing으로 변환하는 도구.
 * [TunnelFlow](https://github.com/XRSec/TunnelFlow) - 로컬 포워딩, 원격 포워딩 및 동적 SOCKS5 프록시를 지원하는 최신 SSH 터널 및 포트 포워딩 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/XRSec/TunnelFlow) ![Freeware][Freeware Icon]
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 여러 Xcode 버전 설치 및 전환. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
+* [xcpurge](https://github.com/iasaeed/xcpurge) - 빌드 없이 Xcode 프로젝트의 사용하지 않는 에셋, 현지화 문자열, 파일을 찾아 안전하게 제거하는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/iasaeed/xcpurge) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - 디자이너와 개발자 협업 도구. ![Freeware][Freeware Icon]
 
 ### 정규 표현식 편집기
