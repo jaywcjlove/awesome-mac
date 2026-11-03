@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:27:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Murmury</title>
+      <link>https://github.com/GianlucaBave/murmury</link>
+      <guid isPermaLink="false">cebf13aa09105d1049ae6fb3080bdff1d7a8a029:Murmury</guid>
+      <pubDate>Tue, 03 Nov 2026 11:27:45 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Murmury
+Description: Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.
+Open Source: https://github.com/GianlucaBave/murmury
+Commit: Add Murmury to AI Tools (#4196)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Murmury<br/>Description: Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.<br/>Open Source: https://github.com/GianlucaBave/murmury<br/>Commit: Add Murmury to AI Tools (#4196)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029]]></content:encoded>
+    </item>
     <item>
       <title>RefreshYourMac</title>
       <link>https://refreshyourmac.com/</link>
@@ -716,20 +730,6 @@ Website: https://clipivo.jishnumahanta.in
 Commit: Add Clipivo to Clipboard Tools (#4052)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b17e33ea24e8e48a780cac1f1acd9744487c78ff</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clipivo<br/>Description: Local-first native clipboard manager that keeps your clipboard history searchable, organized, and private.<br/>Website: https://clipivo.jishnumahanta.in<br/>Commit: Add Clipivo to Clipboard Tools (#4052)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b17e33ea24e8e48a780cac1f1acd9744487c78ff]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Monitor</title>
-      <link>https://github.com/Ahmadjondev/MacMonitor</link>
-      <guid isPermaLink="false">5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22:Mac Monitor</guid>
-      <pubDate>Fri, 30 Oct 2026 01:27:55 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Mac Monitor
-Description: Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.
-Open Source: https://github.com/Ahmadjondev/MacMonitor
-Commit: Add Mac Monitor to System Related Tools (#4041)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Mac Monitor<br/>Description: Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.<br/>Open Source: https://github.com/Ahmadjondev/MacMonitor<br/>Commit: Add Mac Monitor to System Related Tools (#4041)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:27:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Murmury</title>
+      <link>https://github.com/GianlucaBave/murmury</link>
+      <guid isPermaLink="false">cebf13aa09105d1049ae6fb3080bdff1d7a8a029:Murmury</guid>
+      <pubDate>Tue, 03 Nov 2026 11:27:45 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Murmury
+Description: ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。
+Open Source: https://github.com/GianlucaBave/murmury
+Commit: Add Murmury to AI Tools (#4196)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Murmury<br/>Description: ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。<br/>Open Source: https://github.com/GianlucaBave/murmury<br/>Commit: Add Murmury to AI Tools (#4196)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029]]></content:encoded>
+    </item>
     <item>
       <title>RefreshYourMac</title>
       <link>https://refreshyourmac.com/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/YusufEmreYazici/Centik
 Commit: Add Çentik to Menu Bar Tools (#4003)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Çentik<br/>Description: MacBook のノッチを、音楽、システム状態、自分の Claude・Gemini・Ollama で使える AI チャット、クリップボード履歴、会議通知をまとめたライブアイランドに変えるアプリ。<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
-    </item>
-    <item>
-      <title>PullBull</title>
-      <link>https://github.com/rustycamper/pullbull</link>
-      <guid isPermaLink="false">22980d15c9f266f55f973efec07ae48ecb51f01c:PullBull</guid>
-      <pubDate>Thu, 29 Oct 2026 14:05:26 GMT</pubDate>
-      <category>開発ツール / バージョン管理</category>
-      <description>Category: 開発ツール / バージョン管理
-App: PullBull
-Description: メニューバーでGitHubのプルリクエスト、Issue、Projectsボードを確認。
-Open Source: https://github.com/rustycamper/pullbull
-Commit: Add PullBull to Version Control (#3998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c</description>
-      <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: PullBull<br/>Description: メニューバーでGitHubのプルリクエスト、Issue、Projectsボードを確認。<br/>Open Source: https://github.com/rustycamper/pullbull<br/>Commit: Add PullBull to Version Control (#3998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c]]></content:encoded>
     </item>
   </channel>
 </rss>
