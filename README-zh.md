@@ -260,6 +260,7 @@ Awesome Mac
 * [AXe](https://github.com/cameroncooke/AXe) - 一个通过辅助功能 API 和 HID 自动化与 iOS 模拟器交互的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 一款强大的批量重命名工具，可以通过搜索功能改名。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
+* [Birdwatch](https://coenttb.com/birdwatch/) - 菜单栏监控工具，标出卡住的 Swift 构建和测试运行，说明原因并将其退出。 ![Native App][Native Icon]
 * [Breaker](https://github.com/wata/Breaker) - 监控你自己设置的 launchd 任务、cron 任务、文件夹操作和 SwiftBar 插件，出问题时立即通知。 [![Open-Source Software][OSS Icon]](https://github.com/wata/Breaker) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodeKit](https://codekitapp.com/) - 自动编译 Less、Sass、Stylus、CoffeeScript、Jade & Haml等文件。
 * [Cacher](https://www.cacher.io/) - 基于云的团队代码片段管理器，具有Gist同步，VSCode/Atom/Sublime软件包和Mac/Windows/Linux/Web客户端。
