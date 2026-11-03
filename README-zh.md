@@ -1452,6 +1452,7 @@ Awesome Mac
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - 菜单栏文件转换工具：拖动文件时按一下 Shift，把文件放到转盘上即可转换图片、音频、视频和文档，还支持压缩、OCR、剪辑和标注。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
 * [MacResourceMonitor](https://github.com/x0c/MacResourceMonitor) - 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/MacResourceMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Perch](https://perchapp.dev) - 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
+* [Podcast Export](https://stanczykwyatt.github.io/podcast-export/) - 菜单栏应用，将 Apple 播客的订阅导出为其他播客应用可导入的 OPML，并把收听记录导出为 Markdown 笔记和 CSV。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/podcast-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 带隐藏区域和自动化能力的隐私优先菜单栏管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 用媒体键控制网页播放器和部分应用播放。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1480,6 +1481,7 @@ Awesome Mac
 * [Ledge](https://ledgeapp.dev) - 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Logoer](https://github.com/lihaoyun6/Logoer) - 更换 macOS 菜单栏苹果 Logo 样式的小工具。[![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Logoer) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Memo Export](https://stanczykwyatt.github.io/memo-export/) - 菜单栏应用，将语音备忘录导出为音频和带时间戳转写文本的 Markdown 笔记，每次只导出新的录音。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/memo-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MemStats](https://memstats.chungxon.dev/) - 菜单栏内存监控工具，按用户账户拆分内存占用，将辅助进程归并到所属应用，并显示内存压力和交换空间。 [![Open-Source Software][OSS Icon]](https://github.com/sown-oss/MemStats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。 [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
@@ -1497,10 +1499,12 @@ Awesome Mac
 * [mysa](https://github.com/alishansnsn/mysa) - 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 在菜单栏实时显示上下行网速和带宽占用应用的原生工具。 [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Next Departures](https://stanczykwyatt.github.io/next-departures/) - 菜单栏应用，实时显示你所选公交和列车站点的下一班车，包括延误、取消和服务提醒，支持任何 GTFS-realtime 数据源。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/next-departures) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [Profisor](https://github.com/yefga/Profisor) - 从菜单栏切换当前项目的 Xcode 描述文件。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/emgeorrk/pulse) - 在菜单栏实时显示 CPU、内存、温度、风扇、网络、磁盘、功耗和电池状态的系统监视器。 [![Open-Source Software][OSS Icon]](https://github.com/emgeorrk/pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Reading List Export](https://stanczykwyatt.github.io/reading-list-export/) - 菜单栏应用，将 Safari 阅读列表导出为 Markdown、可供稍后阅读应用导入的书签文件，以及 Instapaper 格式的 CSV。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/reading-list-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Safelight](https://github.com/mopfaff/Safelight) - 开源菜单栏应用，按时间表调整颜色滤镜、亮度和浅色/深色外观，夜间将屏幕渐变为深红色。 [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [Stash](https://github.com/brentc22/stash) - 适用于 macOS 27 的开源菜单栏图标隐藏工具，将状态栏图标收进一个箭头后面。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/stash) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1508,8 +1512,10 @@ Awesome Mac
 * [Tactile](https://tactile.masn.studio/) - 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。 [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
 * [Tarn](https://github.com/jakeantelis/Tarn) - 用于专注工作和缓慢呼吸的平静菜单栏应用，可选环境音。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Tarn) ![Freeware][Freeware Icon]
 * [Today](https://sindresorhus.com/today) - 在菜单栏查看今天日程和日历事件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
+* [Tonecap](https://stanczykwyatt.github.io/tonecap/) - 用轴体、定位板、外壳和键帽设置设计机械键盘的声音，完全由代码合成、不用任何录音，并在任何应用中打字时播放。附带可分享链接的网页版。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/tonecap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Topnotchers](https://github.com/joey-david/topnotchers) - 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 将预先准备好的脚本逐行输入到任意应用，每按一次快捷键输入一行，以真实按键和自然的节奏模拟人工输入，适用于产品演示录制和现场演讲。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
+* [Unblock Eject](https://stanczykwyatt.github.io/unblock-eject/) - 菜单栏应用，显示哪些应用在无法推出的磁盘上打开了文件，正常退出它们后推出磁盘。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/unblock-eject) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 为键盘输入添加机械键盘音效的工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [StableBar](https://stablebar.app) - 可自定义的菜单栏替代品，提供主题、小组件、弹出面板以及 AeroSpace、yabai 或 OmniWM 工作区。 [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1718,6 +1724,7 @@ Awesome Mac
 * [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - Finder 快速预览文件插件。
 * [QSpace](https://qspace.awehunt.com) - 一款简洁高效的多视图文件管理器。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - 一款简洁实用的 Finder 右键菜单增强工具 [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
+* [Right Folder](https://stanczykwyatt.github.io/right-folder/) - 在每个“打开”和“存储”对话框旁边列出 Finder 中打开的文件夹、最近使用的文件夹和收藏的文件夹，点一下或按快捷键即可跳转过去。Default Folder X 核心功能的免费替代品。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/right-folder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneClick](https://saneclick.com) - 为 Finder 右键菜单增加文件处理、转换和开发者操作。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [Shuffle](https://shuffleapp.co) - 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。 [![Open-Source Software][OSS Icon]](https://github.com/WizenPainter/shuffle) ![Freeware][Freeware Icon]
 * [Strata Files](https://stratafiles.app) - 开源文件管理器和 Finder 替代品，支持即时搜索、实时文件夹大小、磁盘占用图和双栏视图。 [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
@@ -1769,6 +1776,7 @@ Awesome Mac
 
 * [CSV Quick Look](https://github.com/adamorad/csv-quick-look) - 支持虚拟滚动、排序、筛选和深色模式的 CSV/TSV Quick Look 预览扩展。 [![Open-Source Software][OSS Icon]](https://github.com/adamorad/csv-quick-look) ![Freeware][Freeware Icon]
 * [QuicklookStephen](https://github.com/whomwah/qlstephen) - 可以让您查看没有文件扩展名的纯文本文件，如 README、INSTALL、Capfile、CHANGELOG...`brew install --cask install qlstephen`
+* [SciLook](https://stanczykwyatt.github.io/scilook/) - 科学数据的 Quick Look 扩展：预览 NWB、HDF5、MATLAB .mat 和 NumPy .npy/.npz 文件的结构和图表。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/scilook) ![Freeware][Freeware Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - 支持 Mermaid、KaTeX 等内容的 Markdown 快速预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [Folderglass](https://dev.adityarajsingh.com/folderglass/) - 文件夹快速预览插件：显示包含子文件夹的真实大小、文件类型占比、最大和最新的文件、Git 分支与改动状态，并直接渲染 README。也可预览 zip 内容和 Markdown。 [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/folderglass) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 用于渲染 Markdown 的 Quick Look 预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
