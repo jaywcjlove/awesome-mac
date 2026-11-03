@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:16:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TimeMachineEjector</title>
+      <link>https://github.com/wata/TimeMachineEjector</link>
+      <guid isPermaLink="false">3f566badfb255ce4bcf9544e89d9a03ac376f661:TimeMachineEjector</guid>
+      <pubDate>Tue, 03 Nov 2026 06:16:27 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: TimeMachineEjector
+Description: 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。
+Open Source: https://github.com/wata/TimeMachineEjector
+Commit: Add TimeMachineEjector to System Related Tools (#4181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TimeMachineEjector<br/>Description: 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
+    </item>
     <item>
       <title>Switch</title>
       <link>https://switch-dev.sanyamgarg.com</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/rustycamper/pullbull
 Commit: Add PullBull to Version Control (#3998)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: PullBull<br/>Description: 在菜单栏中查看 GitHub 拉取请求、议题和 Projects 看板。<br/>Open Source: https://github.com/rustycamper/pullbull<br/>Commit: Add PullBull to Version Control (#3998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumilo</title>
-      <link>https://github.com/kotuke/lumilo</link>
-      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
-      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Lumilo
-Description: 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。
-Open Source: https://github.com/kotuke/lumilo
-Commit: Add Lumilo to AI Tools (#4000)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Lumilo<br/>Description: 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
     </item>
   </channel>
 </rss>

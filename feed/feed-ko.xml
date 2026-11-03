@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:16:27 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TimeMachineEjector</title>
+      <link>https://github.com/wata/TimeMachineEjector</link>
+      <guid isPermaLink="false">3f566badfb255ce4bcf9544e89d9a03ac376f661:TimeMachineEjector</guid>
+      <pubDate>Tue, 03 Nov 2026 06:16:27 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: TimeMachineEjector
+Description: Time Machine 백업이 끝나면 백업 디스크를 추출하고, 예약된 백업 시간이 되면 다시 마운트하는 메뉴 바 앱.
+Open Source: https://github.com/wata/TimeMachineEjector
+Commit: Add TimeMachineEjector to System Related Tools (#4181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: TimeMachineEjector<br/>Description: Time Machine 백업이 끝나면 백업 디스크를 추출하고, 예약된 백업 시간이 되면 다시 마운트하는 메뉴 바 앱.<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
+    </item>
     <item>
       <title>Switch</title>
       <link>https://switch-dev.sanyamgarg.com</link>
@@ -716,21 +730,6 @@ Open Source: https://github.com/chenmozhe008/qingo
 Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Qingo<br/>Description: CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어).<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Amical</title>
-      <link>https://amical.ai</link>
-      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
-      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: Amical
-Description: 어떤 앱에서나 입력하고 사용 중인 앱에 맞게 텍스트를 다듬는 오픈 소스 AI 받아쓰기·노트 앱으로, 로컬 Whisper 또는 Parakeet 모델을 지원.
-Website: https://amical.ai
-Open Source: https://github.com/amicalhq/amical
-Commit: Add Amical (#4007)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Amical<br/>Description: 어떤 앱에서나 입력하고 사용 중인 앱에 맞게 텍스트를 다듬는 오픈 소스 AI 받아쓰기·노트 앱으로, 로컬 Whisper 또는 Parakeet 모델을 지원.<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
     </item>
   </channel>
 </rss>
