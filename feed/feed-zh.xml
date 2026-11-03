@@ -5,9 +5,111 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:58:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sidekey</title>
+      <link>https://wongsiufool.github.io/sidekey/</link>
+      <guid isPermaLink="false">d67286e429d0fbbcd39f8166eaacb994a25a8664:Sidekey</guid>
+      <pubDate>Mon, 02 Nov 2026 13:58:53 GMT</pubDate>
+      <category>输入法</category>
+      <description>Category: 输入法
+App: Sidekey
+Description: 把 iPhone 变成 Mac / Windows 电脑的无线键盘、触控板和语音输入，通过局域网 Wi-Fi 连接。
+Website: https://wongsiufool.github.io/sidekey/
+Open Source: https://github.com/wongsiufool/sidekey
+Commit: Add Sidekey to Input Methods (#4158)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664</description>
+      <content:encoded><![CDATA[Category: 输入法<br/>App: Sidekey<br/>Description: 把 iPhone 变成 Mac / Windows 电脑的无线键盘、触控板和语音输入，通过局域网 Wi-Fi 连接。<br/>Website: https://wongsiufool.github.io/sidekey/<br/>Open Source: https://github.com/wongsiufool/sidekey<br/>Commit: Add Sidekey to Input Methods (#4158)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664]]></content:encoded>
+    </item>
+    <item>
+      <title>ShotMap</title>
+      <link>https://ixiehao.github.io/ShotMap/</link>
+      <guid isPermaLink="false">ab76433693a6a8be3812bf821a600f5a337da252:ShotMap</guid>
+      <pubDate>Mon, 02 Nov 2026 02:24:11 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: ShotMap
+Description: 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。
+Website: https://ixiehao.github.io/ShotMap/
+Open Source: https://github.com/ixiehao/ShotMap
+Commit: Add ShotMap (#4140)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: ShotMap<br/>Description: 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
+    </item>
+    <item>
+      <title>LumaView</title>
+      <link>https://ixiehao.github.io/LumaView/en/</link>
+      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
+      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: LumaView
+Description: 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。
+Website: https://ixiehao.github.io/LumaView/en/
+Open Source: https://github.com/ixiehao/LumaView
+Commit: Add LumaView (#4142)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: LumaView<br/>Description: 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
+    </item>
+    <item>
+      <title>Coincide</title>
+      <link>https://coincide.dev</link>
+      <guid isPermaLink="false">e96f39fe2a586b68897efa79e849e64b83f65ace:Coincide</guid>
+      <pubDate>Mon, 02 Nov 2026 02:22:46 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Coincide
+Description: 开源的原生编程代理工作区（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity），同一个线程可以中途切换代理。
+Website: https://coincide.dev
+Open Source: https://github.com/apoorvdarshan/coincide
+Commit: Add Coincide to IDEs (#4143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Coincide<br/>Description: 开源的原生编程代理工作区（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity），同一个线程可以中途切换代理。<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
+    </item>
+    <item>
+      <title>ShinyMac</title>
+      <link>https://github.com/pballada/shinyMac</link>
+      <guid isPermaLink="false">20aba9a86765e6efc9f8a2428eaef6aea15064ec:ShinyMac</guid>
+      <pubDate>Mon, 02 Nov 2026 02:12:19 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: ShinyMac
+Description: 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。
+Open Source: https://github.com/pballada/shinyMac
+Commit: Add ShinyMac to Cleanup and Uninstall (#4145)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: ShinyMac<br/>Description: 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。<br/>Open Source: https://github.com/pballada/shinyMac<br/>Commit: Add ShinyMac to Cleanup and Uninstall (#4145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec]]></content:encoded>
+    </item>
+    <item>
+      <title>jdsp4mac</title>
+      <link>https://github.com/Tekkiech/jdsp4mac</link>
+      <guid isPermaLink="false">79728247e60c2d5534316d2118ac94e247ff5101:jdsp4mac</guid>
+      <pubDate>Mon, 02 Nov 2026 02:07:05 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: jdsp4mac
+Description: 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。
+Open Source: https://github.com/Tekkiech/jdsp4mac
+Commit: Add jdsp4mac to Audio Record and Process (#4146)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: jdsp4mac<br/>Description: 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
+    </item>
+    <item>
+      <title>Shutterbar</title>
+      <link>https://github.com/mucahitimre/Shutterbar</link>
+      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
+      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Shutterbar
+Description: ShareX 风格的截图工具，支持 ⌘C 直接复制到剪贴板、截图后自动任务、重新截取上次区域和滚动截屏。
+Open Source: https://github.com/mucahitimre/Shutterbar
+Commit: Add Shutterbar to Screenshot Tools (#4148)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Shutterbar<br/>Description: ShareX 风格的截图工具，支持 ⌘C 直接复制到剪贴板、截图后自动任务、重新截取上次区域和滚动截屏。<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
+    </item>
     <item>
       <title>NTFSTool</title>
       <link>https://ntfstool.com</link>
@@ -627,108 +729,6 @@ Open Source: https://github.com/chenmozhe008/shandian-download
 Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
       <content:encoded><![CDATA[Category: 下载工具<br/>App: Shandian<br/>Description: 原生下载工具，磁力链接、种子、HTTP 文件与 YouTube、B 站、抖音、小红书视频在同一窗口下载，支持接管浏览器下载和边下边播。<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Qingo</title>
-      <link>https://github.com/chenmozhe008/qingo</link>
-      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Qingo</guid>
-      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Qingo
-Description: 按工具识别剪映、达芬奇、Adobe 系列及 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清可自动重建的部分，移到废纸篓可撤销，不碰项目与对话。
-Open Source: https://github.com/chenmozhe008/qingo
-Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Qingo<br/>Description: 按工具识别剪映、达芬奇、Adobe 系列及 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清可自动重建的部分，移到废纸篓可撤销，不碰项目与对话。<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Amical</title>
-      <link>https://amical.ai</link>
-      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
-      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Amical
-Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。
-Website: https://amical.ai
-Open Source: https://github.com/amicalhq/amical
-Commit: Add Amical (#4007)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Amical<br/>Description: 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
-    </item>
-    <item>
-      <title>UMST</title>
-      <link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
-      <guid isPermaLink="false">200c8aa94796f596a0688195839053893f91f99e:UMST</guid>
-      <pubDate>Thu, 29 Oct 2026 08:03:33 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: UMST
-Description: 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。
-Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/
-Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool
-Commit: Add UMST to Productivity (#3996)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: UMST<br/>Description: 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。<br/>Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/<br/>Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool<br/>Commit: Add UMST to Productivity (#3996)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e]]></content:encoded>
-    </item>
-    <item>
-      <title>Prism</title>
-      <link>https://prismdl.site/</link>
-      <guid isPermaLink="false">251d0a8d321669b72cbf31d91c2eb51ea47e9b24:Prism</guid>
-      <pubDate>Wed, 28 Oct 2026 12:25:36 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: Prism
-Description: 多连接并行下载、可接管浏览器下载并保存视频的开源下载管理器。
-Website: https://prismdl.site/
-Open Source: https://github.com/FortoGraphy/prism-download-manager
-Commit: Add Prism to Download Management Tools (#3971)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: Prism<br/>Description: 多连接并行下载、可接管浏览器下载并保存视频的开源下载管理器。<br/>Website: https://prismdl.site/<br/>Open Source: https://github.com/FortoGraphy/prism-download-manager<br/>Commit: Add Prism to Download Management Tools (#3971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24]]></content:encoded>
-    </item>
-    <item>
-      <title>HideNotch</title>
-      <link>https://hidenotch.app</link>
-      <guid isPermaLink="false">9a1499cb66632aa5cf92eb40610d0f2c89812202:HideNotch</guid>
-      <pubDate>Wed, 28 Oct 2026 12:17:56 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: HideNotch
-Description: 将菜单栏涂成黑色，让 MacBook 的刘海与之融为一体，还可以为屏幕加上圆角。
-Website: https://hidenotch.app
-Open Source: https://github.com/niklasravnsborg/HideNotch
-Commit: Add HideNotch to Menu Bar Tools (#3974)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: HideNotch<br/>Description: 将菜单栏涂成黑色，让 MacBook 的刘海与之融为一体，还可以为屏幕加上圆角。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
-    </item>
-    <item>
-      <title>ghostty-designer</title>
-      <link>https://github.com/reemus-dev/ghostty-designer</link>
-      <guid isPermaLink="false">a36b42a525fab64bedec67cb024baa228542a614:ghostty-designer</guid>
-      <pubDate>Wed, 28 Oct 2026 07:58:57 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: ghostty-designer
-Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。
-Open Source: https://github.com/reemus-dev/ghostty-designer
-Commit: Add ghostty-designer to Terminal Apps (#3967)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: ghostty-designer<br/>Description: 可实时预览的 Ghostty 主题、字体和界面设置编辑器。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
-    </item>
-    <item>
-      <title>HTS for Mac</title>
-      <link>https://github.com/duct-tape2/hts-for-mac</link>
-      <guid isPermaLink="false">ddb7d593fcd813b70ef66097bd1023e4541cacfc:HTS for Mac</guid>
-      <pubDate>Wed, 28 Oct 2026 01:50:25 GMT</pubDate>
-      <category>金融</category>
-      <description>Category: 金融
-App: HTS for Mac
-Description: 仿 Windows HTS 的韩股、美股只读看盘工具，支持十档盘口、四图表布局、自选股和工作区保存，实时行情需使用自己的 Kiwoom REST API 密钥。
-Open Source: https://github.com/duct-tape2/hts-for-mac
-Commit: Add HTS for Mac to Finance (#3956)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
-      <content:encoded><![CDATA[Category: 金融<br/>App: HTS for Mac<br/>Description: 仿 Windows HTS 的韩股、美股只读看盘工具，支持十档盘口、四图表布局、自选股和工作区保存，实时行情需使用自己的 Kiwoom REST API 密钥。<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
     </item>
   </channel>
 </rss>

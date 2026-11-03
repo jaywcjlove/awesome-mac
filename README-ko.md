@@ -369,6 +369,7 @@ Awesome Mac
 * [Brackets](http://brackets.io/) - 웹 디자인을 고집하는 오픈 소스 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 * [Cate](https://cate.cero-ai.com) - 무한 줌 캔버스 기반의 오픈소스 IDE로, 에디터, 터미널, 브라우저, AI 에이전트 패널을 공간형 워크스페이스에 배치할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
 * [Coda 2](https://panic.com/coda/) - 빠르고 투명하며 강력한 텍스트 편집기.
+* [Coincide](https://coincide.dev) - 코딩 에이전트(Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity)를 위한 오픈소스 네이티브 작업 공간. 하나의 스레드에서 도중에 에이전트를 바꿀 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/coincide) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cursor](https://www.cursor.com/) - 자동 완성, 채팅, 에이전트 기능을 갖춘 AI 코드 편집기. ![Freeware][Freeware Icon]
 * [Eclipse](http://www.eclipse.org/) - 인기 있는 오픈 소스 IDE, 주로 Java로 작성됨. [![Open-Source Software][OSS Icon]](http://git.eclipse.org/c/) ![Freeware][Freeware Icon]
 * [Emacs](http://www.gnu.org/software/emacs/) - 확장 가능하고 사용자 정의 가능한 텍스트 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -641,6 +642,7 @@ Awesome Mac
 * [Scap](https://wangchujiang.com/scap/) - 블러, 모자이크, 워터마크를 지원하는 스크린샷 주석 및 캔버스 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - 스크롤 캡처, OCR, 주석, 고정, MP4 또는 GIF 화면 녹화를 지원하며 네트워크 코드가 없는 오픈 소스 메뉴 막대 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
+* [Shutterbar](https://github.com/mucahitimre/Shutterbar) - ShareX 스타일 스크린샷 도구. ⌘C로 클립보드에 바로 복사, 캡처 후 작업 자동 실행, 마지막 영역 다시 캡처, 스크롤 캡처 지원. [![Open-Source Software][OSS Icon]](https://github.com/mucahitimre/Shutterbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sitch](https://phalladar.github.io/Sitch/) - 테이퍼드 화살표, 블러, 모자이크를 지원하며 완전히 오프라인으로 동작하는 Skitch 스타일 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Snappy](https://beqaabu.github.io/Snappy/) - 선택 영역 조정, 창 및 전체 화면 캡처, 주석, 블러, 텍스트 복사를 지원하는 Ubuntu 스타일 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -688,6 +690,7 @@ Awesome Mac
 * [Jutsu Studio](https://jutsustudio.com/) - Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
 * [CompressO](https://github.com/codeforreal1/compressO) - 이미지와 비디오 용량을 줄여 주는 오픈 소스 압축 도구. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - 개인 사진 라이브러리를 오프라인에서 둘러보고 정리할 수 있는 로컬 사진 관리자. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
+* [LumaView](https://ixiehao.github.io/LumaView/en/) - 폴더 탐색, EXIF 정보 확인과 여러 페이지 PDF 보기를 지원하는 간결한 네이티브 이미지 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottie 파일용 Quick Look 확장 기능을 갖춘 네이티브 Lottie 애니메이션 플레이어. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 이미지 호스팅 업로드 도구. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
@@ -784,6 +787,7 @@ Awesome Mac
 * [HandBrake](https://handbrake.fr/) - 거의 모든 형식에서 비디오를 변환하는 오픈 소스 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - macOS를 위한 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 동영상 일괄 MP4 변환, 구간 자르기, 화면 자르기, 회전과 병합을 지원하는 네이티브 FFmpeg 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
+* [ShotMap](https://ixiehao.github.io/ShotMap/) - 동영상을 스토리보드 이미지로 정리하고, 자동 프레임 선택과 수동 조정, 로컬 PNG/JPG 내보내기를 지원하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 무료 오픈 소스 크로스 플랫폼 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 
 ## 커뮤니케이션
@@ -858,6 +862,7 @@ Awesome Mac
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com/mac/garageband/) - 녹음과 음악 제작을 위한 디지털 오디오 워크스테이션. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
+* [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - EQ, AutoEQ, 컨볼버, 크로스피드, ViPER-DDC 등 JamesDSP 오디오 효과를 시스템 전체 오디오에 적용하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 통화와 회의를 녹음해 Whisper로 기기에서 전사하고 화자 인식, 통화 감지, 모든 앱에서의 받아쓰기를 지원하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 음악과 오디오 제작을 위한 전문가용 디지털 오디오 워크스테이션. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [LosslessCut](https://github.com/mifi/lossless-cut) - 손실 없는 비디오 및 오디오 트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/mifi/lossless-cut) ![Freeware][Freeware Icon]
@@ -925,6 +930,7 @@ Awesome Mac
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 고쳐주는 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust로 만든 크로스 플랫폼 병음 입력기로, 후보 단어 옆에 학습 중인 언어의 번역어를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
+* [Sidekey](https://wongsiufool.github.io/sidekey/) - iPhone을 Mac이나 Windows PC의 무선 키보드, 트랙패드, 음성 입력으로 사용하는 도구. 로컬 Wi-Fi로 연결. [![Open-Source Software][OSS Icon]](https://github.com/wongsiufool/sidekey) ![Freeware][Freeware Icon]
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 앱이나 웹사이트별로 입력 소스를 자동 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
@@ -1159,6 +1165,7 @@ Awesome Mac
 * [PureMac](https://github.com/momenbasel/PureMac) - 개인정보 전송 없는 무료 오픈소스 시스템 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - 파일을 삭제하지 않고 휴지통으로 이동하며, 고정 허용 목록을 사용하고 텔레메트리가 없는 오픈소스 캐시 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [Qingo](https://github.com/chenmozhe008/qingo) - CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어). [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/qingo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [ShinyMac](https://github.com/pballada/shinyMac) - 한 번의 검사로 끝나는 Smart Care, 남은 파일까지 찾는 앱 제거, Xcode 정리, Space Lens 디스크 맵, 숨은 설정을 갖춘 오픈소스 SwiftUI Mac 클리너. [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 디스크를 확대해 들어갈 수 있는 중첩 트리맵으로 그려 주는 디스크 사용량 분석기로, 스캔하는 동안 실시간으로 채워집니다. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 무료 오픈소스 디스크 사용량 분석기. 선버스트와 트리맵으로 디스크와 클라우드 스토리지를 시각화. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 항목을 휴지통으로만 옮기는 오픈소스 디스크 정리 도구. 중복 파일을 삭제하기 전에 프로젝트 스크립트가 참조하는지 확인. [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]

@@ -5,9 +5,111 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:58:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sidekey</title>
+      <link>https://wongsiufool.github.io/sidekey/</link>
+      <guid isPermaLink="false">d67286e429d0fbbcd39f8166eaacb994a25a8664:Sidekey</guid>
+      <pubDate>Mon, 02 Nov 2026 13:58:53 GMT</pubDate>
+      <category>入力方法</category>
+      <description>Category: 入力方法
+App: Sidekey
+Description: iPhoneをMacやWindows PCのワイヤレスキーボード、トラックパッド、音声入力として使えるツール。ローカルWi-Fi経由で接続。
+Website: https://wongsiufool.github.io/sidekey/
+Open Source: https://github.com/wongsiufool/sidekey
+Commit: Add Sidekey to Input Methods (#4158)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664</description>
+      <content:encoded><![CDATA[Category: 入力方法<br/>App: Sidekey<br/>Description: iPhoneをMacやWindows PCのワイヤレスキーボード、トラックパッド、音声入力として使えるツール。ローカルWi-Fi経由で接続。<br/>Website: https://wongsiufool.github.io/sidekey/<br/>Open Source: https://github.com/wongsiufool/sidekey<br/>Commit: Add Sidekey to Input Methods (#4158)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d67286e429d0fbbcd39f8166eaacb994a25a8664]]></content:encoded>
+    </item>
+    <item>
+      <title>ShotMap</title>
+      <link>https://ixiehao.github.io/ShotMap/</link>
+      <guid isPermaLink="false">ab76433693a6a8be3812bf821a600f5a337da252:ShotMap</guid>
+      <pubDate>Mon, 02 Nov 2026 02:24:11 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: ShotMap
+Description: 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。
+Website: https://ixiehao.github.io/ShotMap/
+Open Source: https://github.com/ixiehao/ShotMap
+Commit: Add ShotMap (#4140)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: ShotMap<br/>Description: 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
+    </item>
+    <item>
+      <title>LumaView</title>
+      <link>https://ixiehao.github.io/LumaView/en/</link>
+      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
+      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: LumaView
+Description: フォルダ内の画像閲覧、EXIF 情報の確認、複数ページの PDF 閲覧に対応するシンプルなネイティブ画像ビューアー。
+Website: https://ixiehao.github.io/LumaView/en/
+Open Source: https://github.com/ixiehao/LumaView
+Commit: Add LumaView (#4142)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: LumaView<br/>Description: フォルダ内の画像閲覧、EXIF 情報の確認、複数ページの PDF 閲覧に対応するシンプルなネイティブ画像ビューアー。<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
+    </item>
+    <item>
+      <title>Coincide</title>
+      <link>https://coincide.dev</link>
+      <guid isPermaLink="false">e96f39fe2a586b68897efa79e849e64b83f65ace:Coincide</guid>
+      <pubDate>Mon, 02 Nov 2026 02:22:46 GMT</pubDate>
+      <category>開発ツール / IDE</category>
+      <description>Category: 開発ツール / IDE
+App: Coincide
+Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。
+Website: https://coincide.dev
+Open Source: https://github.com/apoorvdarshan/coincide
+Commit: Add Coincide to IDEs (#4143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
+      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Coincide<br/>Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
+    </item>
+    <item>
+      <title>ShinyMac</title>
+      <link>https://github.com/pballada/shinyMac</link>
+      <guid isPermaLink="false">20aba9a86765e6efc9f8a2428eaef6aea15064ec:ShinyMac</guid>
+      <pubDate>Mon, 02 Nov 2026 02:12:19 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: ShinyMac
+Description: ワンスキャンの Smart Care、残りファイルも見つけるアプリアンインストーラー、Xcode クリーンアップ、Space Lens ディスクマップ、隠し設定を備えたオープンソースの SwiftUI 製 Mac クリーナー。
+Open Source: https://github.com/pballada/shinyMac
+Commit: Add ShinyMac to Cleanup and Uninstall (#4145)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: ShinyMac<br/>Description: ワンスキャンの Smart Care、残りファイルも見つけるアプリアンインストーラー、Xcode クリーンアップ、Space Lens ディスクマップ、隠し設定を備えたオープンソースの SwiftUI 製 Mac クリーナー。<br/>Open Source: https://github.com/pballada/shinyMac<br/>Commit: Add ShinyMac to Cleanup and Uninstall (#4145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec]]></content:encoded>
+    </item>
+    <item>
+      <title>jdsp4mac</title>
+      <link>https://github.com/Tekkiech/jdsp4mac</link>
+      <guid isPermaLink="false">79728247e60c2d5534316d2118ac94e247ff5101:jdsp4mac</guid>
+      <pubDate>Mon, 02 Nov 2026 02:07:05 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: jdsp4mac
+Description: EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。
+Open Source: https://github.com/Tekkiech/jdsp4mac
+Commit: Add jdsp4mac to Audio Record and Process (#4146)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: jdsp4mac<br/>Description: EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
+    </item>
+    <item>
+      <title>Shutterbar</title>
+      <link>https://github.com/mucahitimre/Shutterbar</link>
+      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
+      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Shutterbar
+Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。
+Open Source: https://github.com/mucahitimre/Shutterbar
+Commit: Add Shutterbar to Screenshot Tools (#4148)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Shutterbar<br/>Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
+    </item>
     <item>
       <title>NTFSTool</title>
       <link>https://ntfstool.com</link>
@@ -630,107 +732,6 @@ Open Source: https://github.com/niklasravnsborg/HideNotch
 Commit: Add HideNotch to Menu Bar Tools (#3974)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: HideNotch<br/>Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
-    </item>
-    <item>
-      <title>ghostty-designer</title>
-      <link>https://github.com/reemus-dev/ghostty-designer</link>
-      <guid isPermaLink="false">a36b42a525fab64bedec67cb024baa228542a614:ghostty-designer</guid>
-      <pubDate>Wed, 28 Oct 2026 07:58:57 GMT</pubDate>
-      <category>ターミナルアプリ</category>
-      <description>Category: ターミナルアプリ
-App: ghostty-designer
-Description: Ghosttyのテーマ、フォント、UI設定をライブプレビューしながら編集できるエディター。
-Open Source: https://github.com/reemus-dev/ghostty-designer
-Commit: Add ghostty-designer to Terminal Apps (#3967)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614</description>
-      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: ghostty-designer<br/>Description: Ghosttyのテーマ、フォント、UI設定をライブプレビューしながら編集できるエディター。<br/>Open Source: https://github.com/reemus-dev/ghostty-designer<br/>Commit: Add ghostty-designer to Terminal Apps (#3967)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a36b42a525fab64bedec67cb024baa228542a614]]></content:encoded>
-    </item>
-    <item>
-      <title>HTS for Mac</title>
-      <link>https://github.com/duct-tape2/hts-for-mac</link>
-      <guid isPermaLink="false">ddb7d593fcd813b70ef66097bd1023e4541cacfc:HTS for Mac</guid>
-      <pubDate>Wed, 28 Oct 2026 01:50:25 GMT</pubDate>
-      <category>ファイナンス</category>
-      <description>Category: ファイナンス
-App: HTS for Mac
-Description: Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。
-Open Source: https://github.com/duct-tape2/hts-for-mac
-Commit: Add HTS for Mac to Finance (#3956)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc</description>
-      <content:encoded><![CDATA[Category: ファイナンス<br/>App: HTS for Mac<br/>Description: Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。<br/>Open Source: https://github.com/duct-tape2/hts-for-mac<br/>Commit: Add HTS for Mac to Finance (#3956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ddb7d593fcd813b70ef66097bd1023e4541cacfc]]></content:encoded>
-    </item>
-    <item>
-      <title>Glint</title>
-      <link>https://github.com/brentc22/glint</link>
-      <guid isPermaLink="false">4474597f598554033061fb8e23f1efe62f87ab61:Glint</guid>
-      <pubDate>Wed, 28 Oct 2026 00:30:58 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: Glint
-Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。
-Open Source: https://github.com/brentc22/glint
-Commit: Add Glint to Screenshot Tools (#3942)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Glint<br/>Description: 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。<br/>Open Source: https://github.com/brentc22/glint<br/>Commit: Add Glint to Screenshot Tools (#3942)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4474597f598554033061fb8e23f1efe62f87ab61]]></content:encoded>
-    </item>
-    <item>
-      <title>Stash</title>
-      <link>https://github.com/brentc22/stash</link>
-      <guid isPermaLink="false">6557b5394ae67e1e08b87a972263ac9fad810b99:Stash</guid>
-      <pubDate>Wed, 28 Oct 2026 00:24:27 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Stash
-Description: macOS 27 向けのオープンソースのメニューバーアイコン非表示ツールで、ステータス項目を1つの矢印の後ろにまとめます。
-Open Source: https://github.com/brentc22/stash
-Commit: Add Stash to Menu Bar Tools (#3941)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Stash<br/>Description: macOS 27 向けのオープンソースのメニューバーアイコン非表示ツールで、ステータス項目を1つの矢印の後ろにまとめます。<br/>Open Source: https://github.com/brentc22/stash<br/>Commit: Add Stash to Menu Bar Tools (#3941)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6557b5394ae67e1e08b87a972263ac9fad810b99]]></content:encoded>
-    </item>
-    <item>
-      <title>SwaprTrans</title>
-      <link>https://linrol.github.io/swapr-trans/</link>
-      <guid isPermaLink="false">099bb424f371acd153ef9d4c2ff45748114e40b0:SwaprTrans</guid>
-      <pubDate>Tue, 27 Oct 2026 15:03:23 GMT</pubDate>
-      <category>翻訳ツール</category>
-      <description>Category: 翻訳ツール
-App: SwaprTrans
-Description: スペースキーで選択テキストを翻訳し、Enterキーでその場で上書き翻訳できる超軽量（2MB未満）ネイティブメニューバーツール。Appleのオンデバイスモデル対応。
-Website: https://linrol.github.io/swapr-trans/
-Open Source: https://github.com/linrol/swapr-trans
-Commit: Add SwaprTrans to Translation Tools (#3940)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0</description>
-      <content:encoded><![CDATA[Category: 翻訳ツール<br/>App: SwaprTrans<br/>Description: スペースキーで選択テキストを翻訳し、Enterキーでその場で上書き翻訳できる超軽量（2MB未満）ネイティブメニューバーツール。Appleのオンデバイスモデル対応。<br/>Website: https://linrol.github.io/swapr-trans/<br/>Open Source: https://github.com/linrol/swapr-trans<br/>Commit: Add SwaprTrans to Translation Tools (#3940)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/099bb424f371acd153ef9d4c2ff45748114e40b0]]></content:encoded>
-    </item>
-    <item>
-      <title>Hey Mac</title>
-      <link>https://heymacapp.com/</link>
-      <guid isPermaLink="false">09ed3fe1c49278213f4a05f9b9fafe06cf52e20d:Hey Mac</guid>
-      <pubDate>Tue, 27 Oct 2026 14:45:37 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: Hey Mac
-Description: デバイス上の顔認識でロック画面を解除し、選択したアプリをプライバシーシールドで保護するツール。
-Website: https://heymacapp.com/
-Open Source: https://github.com/iharshitmaurya/HeyMac
-Commit: Add Hey Mac to security tools (#3938)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Hey Mac<br/>Description: デバイス上の顔認識でロック画面を解除し、選択したアプリをプライバシーシールドで保護するツール。<br/>Website: https://heymacapp.com/<br/>Open Source: https://github.com/iharshitmaurya/HeyMac<br/>Commit: Add Hey Mac to security tools (#3938)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/09ed3fe1c49278213f4a05f9b9fafe06cf52e20d]]></content:encoded>
-    </item>
-    <item>
-      <title>Yardlet</title>
-      <link>https://yardlet.app</link>
-      <guid isPermaLink="false">d4fcb272fa9e51ba7753b70ef8501912228effb8:Yardlet</guid>
-      <pubDate>Tue, 27 Oct 2026 13:45:44 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Yardlet
-Description: 各エージェント自身のログインとセッション履歴をそのまま使い、Codex や Claude Code などのコーディングエージェント CLI を1つのウィンドウで並べて実行できるオープンソースアプリ。
-Website: https://yardlet.app
-Open Source: https://github.com/zzunkie/yardlet
-Commit: Add Yardlet to AI Tools (#3937)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Yardlet<br/>Description: 各エージェント自身のログインとセッション履歴をそのまま使い、Codex や Claude Code などのコーディングエージェント CLI を1つのウィンドウで並べて実行できるオープンソースアプリ。<br/>Website: https://yardlet.app<br/>Open Source: https://github.com/zzunkie/yardlet<br/>Commit: Add Yardlet to AI Tools (#3937)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4fcb272fa9e51ba7753b70ef8501912228effb8]]></content:encoded>
     </item>
   </channel>
 </rss>

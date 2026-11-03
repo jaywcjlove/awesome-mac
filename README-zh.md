@@ -207,6 +207,7 @@ Awesome Mac
 * [Nova](https://nova.app/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
 * [Cate](https://cate.cero-ai.com) - 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。 [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
 * [CodeEdit](https://www.codeedit.app/) - 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
+* [Coincide](https://coincide.dev) - 开源的原生编程代理工作区（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity），同一个线程可以中途切换代理。 [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/coincide) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 * [Cursor](https://www.cursor.com/) - 支持自动补全、聊天和智能体能力的 AI 代码编辑器。 ![Freeware][Freeware Icon]
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
@@ -557,6 +558,7 @@ Awesome Mac
 * [Capso](https://github.com/lzhgus/Capso) - 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - 开源菜单栏截图工具，支持滚动截屏、OCR、标注、贴图以及 MP4 或 GIF 录屏，应用内不含任何联网代码。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - 具备滚动截屏、OCR 和标注等功能的屏幕捕捉应用，支持多语OCR。
+* [Shutterbar](https://github.com/mucahitimre/Shutterbar) - ShareX 风格的截图工具，支持 ⌘C 直接复制到剪贴板、截图后自动任务、重新截取上次区域和滚动截屏。 [![Open-Source Software][OSS Icon]](https://github.com/mucahitimre/Shutterbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sitch](https://phalladar.github.io/Sitch/) - Skitch 风格的截图标注工具，支持锥形箭头、模糊和马赛克，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
 * [Skitch](https://evernote.com/intl/zh-cn/skitch/) - 截图附带强大的标注功能。![Freeware][Freeware Icon]
 * [Snappy](https://beqaabu.github.io/Snappy/) - 开源的 Ubuntu 风格截图工具，支持可调整的选区、窗口和全屏截图、标注、模糊以及复制选区中的文字。 [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
@@ -612,6 +614,7 @@ Awesome Mac
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达 80％，而不会影响质量。
 * [Jutsu Studio](https://jutsustudio.com/) - 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
+* [LumaView](https://ixiehao.github.io/LumaView/en/) - 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
@@ -798,6 +801,7 @@ Awesome Mac
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
+* [ShotMap](https://ixiehao.github.io/ShotMap/) - 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Voltip](https://voltip.firlab.app/zh/) - 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。 [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
@@ -911,6 +915,7 @@ Awesome Mac
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
+* [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。 [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 开源菜单栏应用，可实时升降任意应用音频的音调，且不改变播放速度。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
@@ -1131,6 +1136,7 @@ Awesome Mac
 * [RIME](http://rime.im/) - 中州韻輸入法引擎。[![Open-Source Software][OSS Icon]](https://github.com/rime) ![Freeware][Freeware Icon]
 * [青简 Qingjian](https://qingjian.app/) - 使用 Rust 编写的跨平台拼音输入法，在候选词旁显示正在学习语言的译词。 [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - 使用冒号快捷键可以更快捷地输入表情符号。![Freeware][Freeware Icon]
+* [Sidekey](https://wongsiufool.github.io/sidekey/) - 把 iPhone 变成 Mac / Windows 电脑的无线键盘、触控板和语音输入，通过局域网 Wi-Fi 连接。 [![Open-Source Software][OSS Icon]](https://github.com/wongsiufool/sidekey) ![Freeware][Freeware Icon]
 * [Type2Phone](https://www.houdah.com/support/) - 把 Macbook 键盘变为 iPhone 的蓝牙键盘。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/type2phone-bluetooth-keyboard/id472717129?platform=mac)
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 支持拼音与注音，配备简体中文和繁体中文专用词库的中文输入法。 [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [WBIM](http://www.glamtime.com.cn/wbim) - 五笔输入法。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/wbim-%E5%86%99%E5%AD%97%E6%9D%BF/id929844708?platform=mac)
@@ -1572,6 +1578,7 @@ Awesome Mac
 * [Purge](https://getpurge.com) - 开源缓存清理工具，将文件移至废纸篓而非直接删除，基于固定白名单，无遥测功能。 [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Qingo](https://github.com/chenmozhe008/qingo) - 按工具识别剪映、达芬奇、Adobe 系列及 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清可自动重建的部分，移到废纸篓可撤销，不碰项目与对话。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/qingo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [ShinyMac](https://github.com/pballada/shinyMac) - 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。 [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。 [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 开源磁盘清理工具，只将项目移至废纸篓，并在删除重复文件前检查项目脚本是否仍在引用它。 [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
