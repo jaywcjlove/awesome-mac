@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:20:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>RefreshYourMac</title>
+      <link>https://refreshyourmac.com/</link>
+      <guid isPermaLink="false">a937ed68117b4f5fe53e63bed81a8db894a3895a:RefreshYourMac</guid>
+      <pubDate>Tue, 03 Nov 2026 11:20:40 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: RefreshYourMac
+Description: Mac 清理工具，将每个类别评为“可安全删除”、“需检查”、“移至备份”或“受保护”，并在删除前显示残留文件来自哪个应用。
+Website: https://refreshyourmac.com/
+Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: RefreshYourMac<br/>Description: Mac 清理工具，将每个类别评为“可安全删除”、“需检查”、“移至备份”或“受保护”，并在删除前显示残留文件来自哪个应用。<br/>Website: https://refreshyourmac.com/<br/>Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a]]></content:encoded>
+    </item>
     <item>
       <title>AI Footprint</title>
       <link>https://stanczykwyatt.github.io/ai-footprint/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/Ahmadjondev/MacMonitor
 Commit: Add Mac Monitor to System Related Tools (#4041)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Mac Monitor<br/>Description: 轻量级菜单栏系统监视器，显示内存、CPU、网络和磁盘，专注于内存压力。<br/>Open Source: https://github.com/Ahmadjondev/MacMonitor<br/>Commit: Add Mac Monitor to System Related Tools (#4041)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22]]></content:encoded>
-    </item>
-    <item>
-      <title>Open Contexts</title>
-      <link>https://opencontexts.app/</link>
-      <guid isPermaLink="false">94db831e877529371d0d56e323f14e6eca92e069:Open Contexts</guid>
-      <pubDate>Fri, 30 Oct 2026 00:30:21 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Open Contexts
-Description: 开源窗口切换器，提供常驻应用栏和可保存的窗口分组。
-Website: https://opencontexts.app/
-Open Source: https://github.com/zshnb/open-contexts
-Commit: Add Open Contexts to Window Management (#3205)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Open Contexts<br/>Description: 开源窗口切换器，提供常驻应用栏和可保存的窗口分组。<br/>Website: https://opencontexts.app/<br/>Open Source: https://github.com/zshnb/open-contexts<br/>Commit: Add Open Contexts to Window Management (#3205)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94db831e877529371d0d56e323f14e6eca92e069]]></content:encoded>
     </item>
   </channel>
 </rss>

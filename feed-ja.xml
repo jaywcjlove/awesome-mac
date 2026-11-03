@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:20:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>RefreshYourMac</title>
+      <link>https://refreshyourmac.com/</link>
+      <guid isPermaLink="false">a937ed68117b4f5fe53e63bed81a8db894a3895a:RefreshYourMac</guid>
+      <pubDate>Tue, 03 Nov 2026 11:20:40 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: RefreshYourMac
+Description: すべてのカテゴリーを「安全に削除可能」「要確認」「バックアップへ移動」「保護」で評価し、削除する前に残存元のアプリを表示する Mac クリーナー。
+Website: https://refreshyourmac.com/
+Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: RefreshYourMac<br/>Description: すべてのカテゴリーを「安全に削除可能」「要確認」「バックアップへ移動」「保護」で評価し、削除する前に残存元のアプリを表示する Mac クリーナー。<br/>Website: https://refreshyourmac.com/<br/>Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a]]></content:encoded>
+    </item>
     <item>
       <title>AI Footprint</title>
       <link>https://stanczykwyatt.github.io/ai-footprint/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/rustycamper/pullbull
 Commit: Add PullBull to Version Control (#3998)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c</description>
       <content:encoded><![CDATA[Category: 開発ツール / バージョン管理<br/>App: PullBull<br/>Description: メニューバーでGitHubのプルリクエスト、Issue、Projectsボードを確認。<br/>Open Source: https://github.com/rustycamper/pullbull<br/>Commit: Add PullBull to Version Control (#3998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumilo</title>
-      <link>https://github.com/kotuke/lumilo</link>
-      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
-      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Lumilo
-Description: Splash または llama.cpp サーバーを起動し、メモリと生成速度を表示し、Hugging Face からモデルをダウンロードするオープンソースのメニューバーアプリ。
-Open Source: https://github.com/kotuke/lumilo
-Commit: Add Lumilo to AI Tools (#4000)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Lumilo<br/>Description: Splash または llama.cpp サーバーを起動し、メモリと生成速度を表示し、Hugging Face からモデルをダウンロードするオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
     </item>
   </channel>
 </rss>
