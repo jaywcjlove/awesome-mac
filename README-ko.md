@@ -324,7 +324,7 @@ Awesome Mac
 * [Papr](https://github.com/l0ng-ai/papr) - 타이포그래피를 조절할 수 있고 키보드 중심으로 동작하는 RSS 리더. 하이라이트를 Readwise, Notion, Obsidian으로 내보낼 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - 북마크 및 RSS 관리 클라이언트.
 * [Reeder 5](http://reederapp.com) - Feedbin, Feedly 등을 지원하는 뉴스 리더. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
-* [Saga Reader](https://github.com/sopaco/saga-reader) - AI 기반 웹 및 RSS 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
+* [Saga Reader](https://github.com/sopaco/saga-reader) - AI 기반 웹 및 RSS 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sopaco/saga-reader)
 * [Unread](https://www.goldenhillsoftware.com/unread/) - 아름다운 타이포그래피를 제공하는 RSS 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349?platform=mac)
 * [Vienna](http://viennarss.github.io/) - macOS용 RSS/Atom 리더. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
@@ -832,7 +832,7 @@ Awesome Mac
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구. ![Freeware][Freeware Icon]
 * [LocalSend](https://localsend.org/) - AirDrop의 오픈 소스 크로스 플랫폼 대안. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다. ![Freeware][Freeware Icon]
-* [NearDrop](https://github.com/grishka/NearDrop) - macOS용 비공식 Google Quick Share 앱. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [NearDrop](https://github.com/grishka/NearDrop) - macOS용 비공식 Google Quick Share 앱. [![Open-Source Software][OSS Icon]](https://github.com/grishka/NearDrop) ![Freeware][Freeware Icon]
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - Mac과 Android 기기 사이에서 파일을 탐색하고 전송하는 오픈 소스 MTP 관리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 세계 최고의 Mac용 파일 전송 앱.
 

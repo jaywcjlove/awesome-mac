@@ -351,7 +351,7 @@ Awesome Mac
 * [Papr](https://github.com/l0ng-ai/papr) - タイポグラフィを調整でき、キーボード操作に対応した RSS リーダー。ハイライトを Readwise・Notion・Obsidian にエクスポート可能。 [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](http://readkitapp.com/) - ブックマークとRSS管理クライアント。
 * [Reeder 5](http://reederapp.com) - Feedbin、Feedly、Feed Wranglerなどに対応したニュースリーダー。 [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
-* [Saga Reader](https://github.com/sopaco/saga-reader) - AIを活用したWeb・RSSリーダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
+* [Saga Reader](https://github.com/sopaco/saga-reader) - AIを活用したWeb・RSSリーダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sopaco/saga-reader)
 * [Unread](https://www.goldenhillsoftware.com/unread/) - Feedbin、Feedlyなどに対応した美しいタイポグラフィのRSSリーダー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349?platform=mac)
 * [Vienna](http://viennarss.github.io/) - Mac OS X用のRSS/Atomリーダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
@@ -628,12 +628,12 @@ Awesome Mac
 ### データベース
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - LDAPブラウザおよびActive Directoryクライアント。 [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - より高速で安定したRedisデスクトップマネージャー。[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - より高速で安定したRedisデスクトップマネージャー。[![Open-Source Software][OSS Icon]](https://github.com/qishibo/AnotherRedisDesktopManager)![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - SQLite 3データベースファイルの作成、設計、編集、ブラウジング用アプリケーション。
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - スムーズなSQLエディターとデータベースマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - MySQL、PostgreSQL (Redshift)、BigQueryをサポートするモダンなSQLクライアントアプリケーション。[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - MySQLを管理する強力なChromeアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - アプリケーションのデータを簡単に表示、編集、分析できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - アプリケーションのデータを簡単に表示、編集、分析できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/ChristianKienle/Core-Data-Editor) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - Postgres、MySQL、DuckDB、libSQL、Cloudflare D1などをサポートするシンプルなデータベースクライアント。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - DB Browser for SQLiteの公式ホームページ。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - ユニバーサルSQLクライアント。
@@ -743,7 +743,7 @@ Awesome Mac
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - プロフェッショナルなドローイングソフトウェア。
 * [Vectornator: Design Software](https://www.vectornator.io/) - 銀河系で最も直感的で精密なイラストレーションソフトウェア。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
 * [Vectr](https://vectr.com/) - ベクターグラフィックスを簡単かつ直感的に作成できる無料グラフィックスエディター。 ![Freeware][Freeware Icon]
-* [Nugget](https://github.com/cartesiancs/nugget-app) - モーションエフェクトと多様性を重視した動画編集ソフトウェア。 [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
+* [Nugget](https://github.com/cartesiancs/nugget-app) - モーションエフェクトと多様性を重視した動画編集ソフトウェア。 [![OSS][OSS Icon]](https://github.com/cartesiancs/nugget-app) ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - オフラインサポート、組み込みアセット、リアルタイムコラボレーションを備えたUI/UX向けのベクターグラフィックデザインツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 
 ### プロトタイピングとマインドマッピングツール
@@ -1007,7 +1007,7 @@ Awesome Mac
 * [Flow](http://fivedetails.com/flow/) - 受賞歴のある、美しく、高速で信頼性の高いFTP + SFTPクライアント。
 * [LocalSend](https://localsend.org/) - AirDropに代わるオープンソースのクロスプラットフォームアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 互換性のある Android デバイスとの双方向 Google Quick Share 転送に対応する独立した macOS メニューバーアプリで、USB MTP、Finder 共有、QR ツール、実験的な Windows 連携も備えています。 ![Freeware][Freeware Icon]
-* [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/grishka/NearDrop) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - 非常に柔軟で直感的なFTPクライアント。SFTP、S3、iDisk/WebDAVをサポート。
 
@@ -1123,7 +1123,7 @@ Awesome Mac
 * [PitchTap](https://github.com/gkudva96/pitchtap) - テンポを変えずに、任意のアプリの音声のキーをリアルタイムで変更できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 会議を録音してデバイス上で文字起こしし、話者を識別して、手持ちの Claude や ChatGPT のサブスクリプションでタイムスタンプ付きの議事録を作るオープンソースのレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
-* [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/stargatedaw/stargate) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp と Metal を活用した完全ローカルな音声入力・会議書き起こしツール。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - あらゆる通話をデバイス上で文字起こしして話者を区別し、Apple Intelligence または自前のローカルモデルサーバーで出典付きの議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
