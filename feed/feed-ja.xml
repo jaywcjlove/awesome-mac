@@ -5,9 +5,111 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:51:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mirroir-mcp</title>
+      <link>https://mirroir.dev</link>
+      <guid isPermaLink="false">cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0:mirroir-mcp</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:30 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: mirroir-mcp
+Description: デベロッパモードやXcodeなしで、iPhoneミラーリング経由でAIエージェントが実機iPhoneを見て、タップ、スワイプ、入力できるオープンソースのMCPサーバー兼CLI。
+Website: https://mirroir.dev
+Open Source: https://github.com/jfarcand/mirroir-mcp
+Commit: Add mirroir-mcp to Developer Utilities (#4185)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: mirroir-mcp<br/>Description: デベロッパモードやXcodeなしで、iPhoneミラーリング経由でAIエージェントが実機iPhoneを見て、タップ、スワイプ、入力できるオープンソースのMCPサーバー兼CLI。<br/>Website: https://mirroir.dev<br/>Open Source: https://github.com/jfarcand/mirroir-mcp<br/>Commit: Add mirroir-mcp to Developer Utilities (#4185)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0]]></content:encoded>
+    </item>
+    <item>
+      <title>MP4Flow</title>
+      <link>https://ixiehao.github.io/MP4Flow/en/</link>
+      <guid isPermaLink="false">b0f0cb8be1370af815c7df9f07f4704002f4215b:MP4Flow</guid>
+      <pubDate>Tue, 03 Nov 2026 06:27:13 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: MP4Flow
+Description: 動画の一括 MP4 変換、トリミング、クロップ、回転、結合に対応するネイティブの FFmpeg フロントエンド。
+Website: https://ixiehao.github.io/MP4Flow/en/
+Open Source: https://github.com/ixiehao/MP4Flow
+Commit: Add MP4Flow (#4141)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: MP4Flow<br/>Description: 動画の一括 MP4 変換、トリミング、クロップ、回転、結合に対応するネイティブの FFmpeg フロントエンド。<br/>Website: https://ixiehao.github.io/MP4Flow/en/<br/>Open Source: https://github.com/ixiehao/MP4Flow<br/>Commit: Add MP4Flow (#4141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b]]></content:encoded>
+    </item>
+    <item>
+      <title>Breaker</title>
+      <link>https://github.com/wata/Breaker</link>
+      <guid isPermaLink="false">aa13c1fd00e0560de45b6c89b44db485c4dc39f7:Breaker</guid>
+      <pubDate>Tue, 03 Nov 2026 06:20:32 GMT</pubDate>
+      <category>開発ツール / 開発者ユーティリティ</category>
+      <description>Category: 開発ツール / 開発者ユーティリティ
+App: Breaker
+Description: 自分で作ったlaunchdジョブ、cronジョブ、フォルダアクション、SwiftBarプラグインを監視し、壊れたら通知。
+Open Source: https://github.com/wata/Breaker
+Commit: Add Breaker to Developer Utilities (#4182)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Breaker<br/>Description: 自分で作ったlaunchdジョブ、cronジョブ、フォルダアクション、SwiftBarプラグインを監視し、壊れたら通知。<br/>Open Source: https://github.com/wata/Breaker<br/>Commit: Add Breaker to Developer Utilities (#4182)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7]]></content:encoded>
+    </item>
+    <item>
+      <title>TimeMachineEjector</title>
+      <link>https://github.com/wata/TimeMachineEjector</link>
+      <guid isPermaLink="false">3f566badfb255ce4bcf9544e89d9a03ac376f661:TimeMachineEjector</guid>
+      <pubDate>Tue, 03 Nov 2026 06:16:27 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: TimeMachineEjector
+Description: Time Machineのバックアップが終わるとバックアップディスクを取り出し、定期バックアップの時刻になると再びマウントするメニューバーアプリ。
+Open Source: https://github.com/wata/TimeMachineEjector
+Commit: Add TimeMachineEjector to System Related Tools (#4181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: TimeMachineEjector<br/>Description: Time Machineのバックアップが終わるとバックアップディスクを取り出し、定期バックアップの時刻になると再びマウントするメニューバーアプリ。<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
+    </item>
+    <item>
+      <title>Switch</title>
+      <link>https://switch-dev.sanyamgarg.com</link>
+      <guid isPermaLink="false">51b6daa8c075ec4eb0e3f29ec915873687525e59:Switch</guid>
+      <pubDate>Tue, 03 Nov 2026 05:44:10 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: Switch
+Description: すべての操作スペースの開いているウィンドウを一覧表示し、入力で絞り込めるキーボード操作のウィンドウスイッチャー。
+Website: https://switch-dev.sanyamgarg.com
+Commit: Add Switch to Window Management (#4174)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Switch<br/>Description: すべての操作スペースの開いているウィンドウを一覧表示し、入力で絞り込めるキーボード操作のウィンドウスイッチャー。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
+    </item>
+    <item>
+      <title>Carbon</title>
+      <link>https://carbon.alexandrejoly.me</link>
+      <guid isPermaLink="false">9e935ee98ff1c48db8f1985dfb04fbf755e8591e:Carbon</guid>
+      <pubDate>Tue, 03 Nov 2026 05:23:24 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Carbon
+Description: ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。
+Website: https://carbon.alexandrejoly.me
+Open Source: https://github.com/AlexDemzz/carbon
+Commit: Add Carbon to Audio Record and Process (#4171)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Carbon<br/>Description: ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
+    </item>
+    <item>
+      <title>Vortex</title>
+      <link>https://vortex-notch.web.app</link>
+      <guid isPermaLink="false">030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9:Vortex</guid>
+      <pubDate>Tue, 03 Nov 2026 04:59:55 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Vortex
+Description: 集中タイマー、クリップボード履歴、新しいビルドを自動で受け取るファイル置き場、OCR付きで画面から作るタスク、Claude Codeが値を見ないまま使えるキーをまとめたMacBookノッチアプリ。
+Website: https://vortex-notch.web.app
+Open Source: https://github.com/OrtexIsArtem/vortex
+Commit: Add Vortex to Menu Bar Tools (#4169)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Vortex<br/>Description: 集中タイマー、クリップボード履歴、新しいビルドを自動で受け取るファイル置き場、OCR付きで画面から作るタスク、Claude Codeが値を見ないまま使えるキーをまとめたMacBookノッチアプリ。<br/>Website: https://vortex-notch.web.app<br/>Open Source: https://github.com/OrtexIsArtem/vortex<br/>Commit: Add Vortex to Menu Bar Tools (#4169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9]]></content:encoded>
+    </item>
     <item>
       <title>Sidekey</title>
       <link>https://wongsiufool.github.io/sidekey/</link>
@@ -630,108 +732,6 @@ Open Source: https://github.com/Blinks44/monny
 Commit: Add Monny to System Related Tools (#4021)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Monny<br/>Description: プロセス検索とバッテリー充電上限の設定に対応したオープンソースのメニューバー型システムモニター。<br/>Website: https://monny.moduix.dev<br/>Open Source: https://github.com/Blinks44/monny<br/>Commit: Add Monny to System Related Tools (#4021)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3]]></content:encoded>
-    </item>
-    <item>
-      <title>SATF</title>
-      <link>https://github.com/tran-minh-khoi/SATF</link>
-      <guid isPermaLink="false">34a90cb70684838987698eda5c6e4d55fdd29920:SATF</guid>
-      <pubDate>Thu, 29 Oct 2026 13:29:58 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: SATF
-Description: ドラッグ中のファイルを軽く振ると、カーソル下に出る円形メニューから形式変換、PDF結合、ZIP圧縮、解凍ができる。
-Open Source: https://github.com/tran-minh-khoi/SATF
-Commit: Add SATF to General Tools (#4019)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: SATF<br/>Description: ドラッグ中のファイルを軽く振ると、カーソル下に出る円形メニューから形式変換、PDF結合、ZIP圧縮、解凍ができる。<br/>Open Source: https://github.com/tran-minh-khoi/SATF<br/>Commit: Add SATF to General Tools (#4019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920]]></content:encoded>
-    </item>
-    <item>
-      <title>Shandian</title>
-      <link>https://github.com/chenmozhe008/shandian-download</link>
-      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Shandian</guid>
-      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
-      <category>ダウンロード管理ツール</category>
-      <description>Category: ダウンロード管理ツール
-App: Shandian
-Description: マグネットリンク、Torrent、HTTP ファイル、YouTube・Bilibili・Douyin・小紅書の動画を一つのウィンドウでダウンロードできるネイティブのダウンロードマネージャー。ブラウザのダウンロード引き継ぎとダウンロード中の再生に対応（UI は中国語）。
-Open Source: https://github.com/chenmozhe008/shandian-download
-Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
-      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Shandian<br/>Description: マグネットリンク、Torrent、HTTP ファイル、YouTube・Bilibili・Douyin・小紅書の動画を一つのウィンドウでダウンロードできるネイティブのダウンロードマネージャー。ブラウザのダウンロード引き継ぎとダウンロード中の再生に対応（UI は中国語）。<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Qingo</title>
-      <link>https://github.com/chenmozhe008/qingo</link>
-      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Qingo</guid>
-      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Qingo
-Description: CapCut、DaVinci Resolve、Adobe 製品、Cursor、Claude Code など 60 以上の動画・デザイン・AI ツールのキャッシュを識別し、自動で再生成されるものだけをゴミ箱へ移して取り消し可能にするクリーナー。プロジェクトや会話には触れない（UI は中国語）。
-Open Source: https://github.com/chenmozhe008/qingo
-Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Qingo<br/>Description: CapCut、DaVinci Resolve、Adobe 製品、Cursor、Claude Code など 60 以上の動画・デザイン・AI ツールのキャッシュを識別し、自動で再生成されるものだけをゴミ箱へ移して取り消し可能にするクリーナー。プロジェクトや会話には触れない（UI は中国語）。<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Amical</title>
-      <link>https://amical.ai</link>
-      <guid isPermaLink="false">7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e:Amical</guid>
-      <pubDate>Thu, 29 Oct 2026 13:18:43 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Amical
-Description: 使用中のアプリに合わせて文章を整形し、どのアプリにも入力できるオープンソースのAIディクテーション・メモアプリで、ローカルのWhisperやParakeetモデルに対応。
-Website: https://amical.ai
-Open Source: https://github.com/amicalhq/amical
-Commit: Add Amical (#4007)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Amical<br/>Description: 使用中のアプリに合わせて文章を整形し、どのアプリにも入力できるオープンソースのAIディクテーション・メモアプリで、ローカルのWhisperやParakeetモデルに対応。<br/>Website: https://amical.ai<br/>Open Source: https://github.com/amicalhq/amical<br/>Commit: Add Amical (#4007)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7594fb5a6b04a8a7ae5982a534a4d0a4ca77158e]]></content:encoded>
-    </item>
-    <item>
-      <title>UMST</title>
-      <link>https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/</link>
-      <guid isPermaLink="false">200c8aa94796f596a0688195839053893f91f99e:UMST</guid>
-      <pubDate>Thu, 29 Oct 2026 08:03:33 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: UMST
-Description: Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。
-Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/
-Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool
-Commit: Add UMST to Productivity (#3996)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: UMST<br/>Description: Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。<br/>Website: https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/<br/>Open Source: https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool<br/>Commit: Add UMST to Productivity (#3996)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/200c8aa94796f596a0688195839053893f91f99e]]></content:encoded>
-    </item>
-    <item>
-      <title>Prism</title>
-      <link>https://prismdl.site/</link>
-      <guid isPermaLink="false">251d0a8d321669b72cbf31d91c2eb51ea47e9b24:Prism</guid>
-      <pubDate>Wed, 28 Oct 2026 12:25:36 GMT</pubDate>
-      <category>ダウンロード管理ツール</category>
-      <description>Category: ダウンロード管理ツール
-App: Prism
-Description: 複数の並列接続で高速にダウンロードし、ブラウザのダウンロードの引き継ぎや動画の保存にも対応したオープンソースのダウンロードマネージャー。
-Website: https://prismdl.site/
-Open Source: https://github.com/FortoGraphy/prism-download-manager
-Commit: Add Prism to Download Management Tools (#3971)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24</description>
-      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Prism<br/>Description: 複数の並列接続で高速にダウンロードし、ブラウザのダウンロードの引き継ぎや動画の保存にも対応したオープンソースのダウンロードマネージャー。<br/>Website: https://prismdl.site/<br/>Open Source: https://github.com/FortoGraphy/prism-download-manager<br/>Commit: Add Prism to Download Management Tools (#3971)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/251d0a8d321669b72cbf31d91c2eb51ea47e9b24]]></content:encoded>
-    </item>
-    <item>
-      <title>HideNotch</title>
-      <link>https://hidenotch.app</link>
-      <guid isPermaLink="false">9a1499cb66632aa5cf92eb40610d0f2c89812202:HideNotch</guid>
-      <pubDate>Wed, 28 Oct 2026 12:17:56 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: HideNotch
-Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。
-Website: https://hidenotch.app
-Open Source: https://github.com/niklasravnsborg/HideNotch
-Commit: Add HideNotch to Menu Bar Tools (#3974)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: HideNotch<br/>Description: メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。<br/>Website: https://hidenotch.app<br/>Open Source: https://github.com/niklasravnsborg/HideNotch<br/>Commit: Add HideNotch to Menu Bar Tools (#3974)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a1499cb66632aa5cf92eb40610d0f2c89812202]]></content:encoded>
     </item>
   </channel>
 </rss>

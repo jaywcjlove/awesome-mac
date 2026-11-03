@@ -5,9 +5,111 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:51:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mirroir-mcp</title>
+      <link>https://mirroir.dev</link>
+      <guid isPermaLink="false">cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0:mirroir-mcp</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:30 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: mirroir-mcp
+Description: 开源 MCP 服务器和命令行工具，让 AI 代理通过 iPhone 镜像查看、点按、滑动并输入真实 iPhone，无需开发者模式或 Xcode。
+Website: https://mirroir.dev
+Open Source: https://github.com/jfarcand/mirroir-mcp
+Commit: Add mirroir-mcp to Developer Utilities (#4185)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: mirroir-mcp<br/>Description: 开源 MCP 服务器和命令行工具，让 AI 代理通过 iPhone 镜像查看、点按、滑动并输入真实 iPhone，无需开发者模式或 Xcode。<br/>Website: https://mirroir.dev<br/>Open Source: https://github.com/jfarcand/mirroir-mcp<br/>Commit: Add mirroir-mcp to Developer Utilities (#4185)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0]]></content:encoded>
+    </item>
+    <item>
+      <title>MP4Flow</title>
+      <link>https://ixiehao.github.io/MP4Flow/en/</link>
+      <guid isPermaLink="false">b0f0cb8be1370af815c7df9f07f4704002f4215b:MP4Flow</guid>
+      <pubDate>Tue, 03 Nov 2026 06:27:13 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: MP4Flow
+Description: 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。
+Website: https://ixiehao.github.io/MP4Flow/en/
+Open Source: https://github.com/ixiehao/MP4Flow
+Commit: Add MP4Flow (#4141)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: MP4Flow<br/>Description: 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。<br/>Website: https://ixiehao.github.io/MP4Flow/en/<br/>Open Source: https://github.com/ixiehao/MP4Flow<br/>Commit: Add MP4Flow (#4141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b]]></content:encoded>
+    </item>
+    <item>
+      <title>Breaker</title>
+      <link>https://github.com/wata/Breaker</link>
+      <guid isPermaLink="false">aa13c1fd00e0560de45b6c89b44db485c4dc39f7:Breaker</guid>
+      <pubDate>Tue, 03 Nov 2026 06:20:32 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: Breaker
+Description: 监控你自己设置的 launchd 任务、cron 任务、文件夹操作和 SwiftBar 插件，出问题时立即通知。
+Open Source: https://github.com/wata/Breaker
+Commit: Add Breaker to Developer Utilities (#4182)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Breaker<br/>Description: 监控你自己设置的 launchd 任务、cron 任务、文件夹操作和 SwiftBar 插件，出问题时立即通知。<br/>Open Source: https://github.com/wata/Breaker<br/>Commit: Add Breaker to Developer Utilities (#4182)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7]]></content:encoded>
+    </item>
+    <item>
+      <title>TimeMachineEjector</title>
+      <link>https://github.com/wata/TimeMachineEjector</link>
+      <guid isPermaLink="false">3f566badfb255ce4bcf9544e89d9a03ac376f661:TimeMachineEjector</guid>
+      <pubDate>Tue, 03 Nov 2026 06:16:27 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: TimeMachineEjector
+Description: 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。
+Open Source: https://github.com/wata/TimeMachineEjector
+Commit: Add TimeMachineEjector to System Related Tools (#4181)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TimeMachineEjector<br/>Description: 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
+    </item>
+    <item>
+      <title>Switch</title>
+      <link>https://switch-dev.sanyamgarg.com</link>
+      <guid isPermaLink="false">51b6daa8c075ec4eb0e3f29ec915873687525e59:Switch</guid>
+      <pubDate>Tue, 03 Nov 2026 05:44:10 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Switch
+Description: 键盘窗口切换工具，列出所有空间中打开的窗口，输入即可筛选。
+Website: https://switch-dev.sanyamgarg.com
+Commit: Add Switch to Window Management (#4174)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Switch<br/>Description: 键盘窗口切换工具，列出所有空间中打开的窗口，输入即可筛选。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
+    </item>
+    <item>
+      <title>Carbon</title>
+      <link>https://carbon.alexandrejoly.me</link>
+      <guid isPermaLink="false">9e935ee98ff1c48db8f1985dfb04fbf755e8591e:Carbon</guid>
+      <pubDate>Tue, 03 Nov 2026 05:23:24 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: Carbon
+Description: 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。
+Website: https://carbon.alexandrejoly.me
+Open Source: https://github.com/AlexDemzz/carbon
+Commit: Add Carbon to Audio Record and Process (#4171)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Carbon<br/>Description: 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
+    </item>
+    <item>
+      <title>Vortex</title>
+      <link>https://vortex-notch.web.app</link>
+      <guid isPermaLink="false">030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9:Vortex</guid>
+      <pubDate>Tue, 03 Nov 2026 04:59:55 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Vortex
+Description: MacBook 刘海应用，集专注计时器、剪贴板历史、自动接收新构建的文件暂存架、带 OCR 的屏幕截取任务，以及 Claude Code 能用却看不到的密钥于一体。
+Website: https://vortex-notch.web.app
+Open Source: https://github.com/OrtexIsArtem/vortex
+Commit: Add Vortex to Menu Bar Tools (#4169)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Vortex<br/>Description: MacBook 刘海应用，集专注计时器、剪贴板历史、自动接收新构建的文件暂存架、带 OCR 的屏幕截取任务，以及 Claude Code 能用却看不到的密钥于一体。<br/>Website: https://vortex-notch.web.app<br/>Open Source: https://github.com/OrtexIsArtem/vortex<br/>Commit: Add Vortex to Menu Bar Tools (#4169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9]]></content:encoded>
+    </item>
     <item>
       <title>Sidekey</title>
       <link>https://wongsiufool.github.io/sidekey/</link>
@@ -629,106 +731,6 @@ Open Source: https://github.com/sventmueller/splat
 Commit: Add Splat to Markdown Tools (#4047)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Splat<br/>Description: 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
-    </item>
-    <item>
-      <title>JUMP</title>
-      <link>https://alvaldes.github.io/jump/</link>
-      <guid isPermaLink="false">46ce158053967a113a515b6c21bdcd7c6bc8871d:JUMP</guid>
-      <pubDate>Thu, 29 Oct 2026 15:11:47 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: JUMP
-Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。
-Website: https://alvaldes.github.io/jump/
-Open Source: https://github.com/alvaldes/jump
-Commit: Add JUMP to Productivity (#3995)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: JUMP<br/>Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。<br/>Website: https://alvaldes.github.io/jump/<br/>Open Source: https://github.com/alvaldes/jump<br/>Commit: Add JUMP to Productivity (#3995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d]]></content:encoded>
-    </item>
-    <item>
-      <title>Çentik</title>
-      <link>https://github.com/YusufEmreYazici/Centik</link>
-      <guid isPermaLink="false">7a871d050073307e96b3267b537774e0dd3394e9:Çentik</guid>
-      <pubDate>Thu, 29 Oct 2026 15:10:04 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Çentik
-Description: 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。
-Open Source: https://github.com/YusufEmreYazici/Centik
-Commit: Add Çentik to Menu Bar Tools (#4003)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Çentik<br/>Description: 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
-    </item>
-    <item>
-      <title>PullBull</title>
-      <link>https://github.com/rustycamper/pullbull</link>
-      <guid isPermaLink="false">22980d15c9f266f55f973efec07ae48ecb51f01c:PullBull</guid>
-      <pubDate>Thu, 29 Oct 2026 14:05:26 GMT</pubDate>
-      <category>开发者工具 / 版本控制 GUI</category>
-      <description>Category: 开发者工具 / 版本控制 GUI
-App: PullBull
-Description: 在菜单栏中查看 GitHub 拉取请求、议题和 Projects 看板。
-Open Source: https://github.com/rustycamper/pullbull
-Commit: Add PullBull to Version Control (#3998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: PullBull<br/>Description: 在菜单栏中查看 GitHub 拉取请求、议题和 Projects 看板。<br/>Open Source: https://github.com/rustycamper/pullbull<br/>Commit: Add PullBull to Version Control (#3998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumilo</title>
-      <link>https://github.com/kotuke/lumilo</link>
-      <guid isPermaLink="false">3942759f14213da4f1ab9882befd1f35cb67289c:Lumilo</guid>
-      <pubDate>Thu, 29 Oct 2026 14:00:05 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Lumilo
-Description: 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。
-Open Source: https://github.com/kotuke/lumilo
-Commit: Add Lumilo to AI Tools (#4000)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Lumilo<br/>Description: 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。<br/>Open Source: https://github.com/kotuke/lumilo<br/>Commit: Add Lumilo to AI Tools (#4000)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3942759f14213da4f1ab9882befd1f35cb67289c]]></content:encoded>
-    </item>
-    <item>
-      <title>Monny</title>
-      <link>https://monny.moduix.dev</link>
-      <guid isPermaLink="false">13de0add1af5096f500dd188bd83a8e640e938b3:Monny</guid>
-      <pubDate>Thu, 29 Oct 2026 13:58:22 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Monny
-Description: 开源菜单栏系统监视器，支持进程查找和电池充电上限。
-Website: https://monny.moduix.dev
-Open Source: https://github.com/Blinks44/monny
-Commit: Add Monny to System Related Tools (#4021)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Monny<br/>Description: 开源菜单栏系统监视器，支持进程查找和电池充电上限。<br/>Website: https://monny.moduix.dev<br/>Open Source: https://github.com/Blinks44/monny<br/>Commit: Add Monny to System Related Tools (#4021)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3]]></content:encoded>
-    </item>
-    <item>
-      <title>SATF</title>
-      <link>https://github.com/tran-minh-khoi/SATF</link>
-      <guid isPermaLink="false">34a90cb70684838987698eda5c6e4d55fdd29920:SATF</guid>
-      <pubDate>Thu, 29 Oct 2026 13:29:58 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: SATF
-Description: 拖动文件时轻轻一晃，即可在光标下弹出的环形菜单中转换格式、合并为 PDF、压缩或解压。
-Open Source: https://github.com/tran-minh-khoi/SATF
-Commit: Add SATF to General Tools (#4019)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: SATF<br/>Description: 拖动文件时轻轻一晃，即可在光标下弹出的环形菜单中转换格式、合并为 PDF、压缩或解压。<br/>Open Source: https://github.com/tran-minh-khoi/SATF<br/>Commit: Add SATF to General Tools (#4019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920]]></content:encoded>
-    </item>
-    <item>
-      <title>Shandian</title>
-      <link>https://github.com/chenmozhe008/shandian-download</link>
-      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Shandian</guid>
-      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: Shandian
-Description: 原生下载工具，磁力链接、种子、HTTP 文件与 YouTube、B 站、抖音、小红书视频在同一窗口下载，支持接管浏览器下载和边下边播。
-Open Source: https://github.com/chenmozhe008/shandian-download
-Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: Shandian<br/>Description: 原生下载工具，磁力链接、种子、HTTP 文件与 YouTube、B 站、抖音、小红书视频在同一窗口下载，支持接管浏览器下载和边下边播。<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
     </item>
   </channel>
 </rss>
