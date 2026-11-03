@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:51:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mirroir-mcp</title>
+      <link>https://mirroir.dev</link>
+      <guid isPermaLink="false">cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0:mirroir-mcp</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:30 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: mirroir-mcp
+Description: 开源 MCP 服务器和命令行工具，让 AI 代理通过 iPhone 镜像查看、点按、滑动并输入真实 iPhone，无需开发者模式或 Xcode。
+Website: https://mirroir.dev
+Open Source: https://github.com/jfarcand/mirroir-mcp
+Commit: Add mirroir-mcp to Developer Utilities (#4185)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: mirroir-mcp<br/>Description: 开源 MCP 服务器和命令行工具，让 AI 代理通过 iPhone 镜像查看、点按、滑动并输入真实 iPhone，无需开发者模式或 Xcode。<br/>Website: https://mirroir.dev<br/>Open Source: https://github.com/jfarcand/mirroir-mcp<br/>Commit: Add mirroir-mcp to Developer Utilities (#4185)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0]]></content:encoded>
+    </item>
     <item>
       <title>MP4Flow</title>
       <link>https://ixiehao.github.io/MP4Flow/en/</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/sventmueller/splat
 Commit: Add Splat to Markdown Tools (#4047)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Splat<br/>Description: 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
-    </item>
-    <item>
-      <title>JUMP</title>
-      <link>https://alvaldes.github.io/jump/</link>
-      <guid isPermaLink="false">46ce158053967a113a515b6c21bdcd7c6bc8871d:JUMP</guid>
-      <pubDate>Thu, 29 Oct 2026 15:11:47 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: JUMP
-Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。
-Website: https://alvaldes.github.io/jump/
-Open Source: https://github.com/alvaldes/jump
-Commit: Add JUMP to Productivity (#3995)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: JUMP<br/>Description: 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。<br/>Website: https://alvaldes.github.io/jump/<br/>Open Source: https://github.com/alvaldes/jump<br/>Commit: Add JUMP to Productivity (#3995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d]]></content:encoded>
     </item>
   </channel>
 </rss>

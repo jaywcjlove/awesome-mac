@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:51:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mirroir-mcp</title>
+      <link>https://mirroir.dev</link>
+      <guid isPermaLink="false">cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0:mirroir-mcp</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:30 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: mirroir-mcp
+Description: iPhone 미러링으로 AI 에이전트가 실제 iPhone을 보고 탭, 스와이프, 입력할 수 있게 하는 오픈 소스 MCP 서버 겸 CLI.
+Website: https://mirroir.dev
+Open Source: https://github.com/jfarcand/mirroir-mcp
+Commit: Add mirroir-mcp to Developer Utilities (#4185)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: mirroir-mcp<br/>Description: iPhone 미러링으로 AI 에이전트가 실제 iPhone을 보고 탭, 스와이프, 입력할 수 있게 하는 오픈 소스 MCP 서버 겸 CLI.<br/>Website: https://mirroir.dev<br/>Open Source: https://github.com/jfarcand/mirroir-mcp<br/>Commit: Add mirroir-mcp to Developer Utilities (#4185)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0]]></content:encoded>
+    </item>
     <item>
       <title>MP4Flow</title>
       <link>https://ixiehao.github.io/MP4Flow/en/</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/Blinks44/monny
 Commit: Add Monny to System Related Tools (#4021)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Monny<br/>Description: 프로세스 검색과 배터리 충전 한도 설정을 지원하는 오픈 소스 메뉴 막대 시스템 모니터.<br/>Website: https://monny.moduix.dev<br/>Open Source: https://github.com/Blinks44/monny<br/>Commit: Add Monny to System Related Tools (#4021)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13de0add1af5096f500dd188bd83a8e640e938b3]]></content:encoded>
-    </item>
-    <item>
-      <title>SATF</title>
-      <link>https://github.com/tran-minh-khoi/SATF</link>
-      <guid isPermaLink="false">34a90cb70684838987698eda5c6e4d55fdd29920:SATF</guid>
-      <pubDate>Thu, 29 Oct 2026 13:29:58 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: SATF
-Description: 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다.
-Open Source: https://github.com/tran-minh-khoi/SATF
-Commit: Add SATF to General Tools (#4019)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: SATF<br/>Description: 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다.<br/>Open Source: https://github.com/tran-minh-khoi/SATF<br/>Commit: Add SATF to General Tools (#4019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/34a90cb70684838987698eda5c6e4d55fdd29920]]></content:encoded>
     </item>
   </channel>
 </rss>
