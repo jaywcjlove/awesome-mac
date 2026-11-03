@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:20:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Breaker</title>
+      <link>https://github.com/wata/Breaker</link>
+      <guid isPermaLink="false">aa13c1fd00e0560de45b6c89b44db485c4dc39f7:Breaker</guid>
+      <pubDate>Tue, 03 Nov 2026 06:20:32 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Breaker
+Description: 직접 만든 launchd 작업, cron 작업, 폴더 액션, SwiftBar 플러그인을 감시하고 문제가 생기면 알림.
+Open Source: https://github.com/wata/Breaker
+Commit: Add Breaker to Developer Utilities (#4182)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Breaker<br/>Description: 직접 만든 launchd 작업, cron 작업, 폴더 액션, SwiftBar 플러그인을 감시하고 문제가 생기면 알림.<br/>Open Source: https://github.com/wata/Breaker<br/>Commit: Add Breaker to Developer Utilities (#4182)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7]]></content:encoded>
+    </item>
     <item>
       <title>TimeMachineEjector</title>
       <link>https://github.com/wata/TimeMachineEjector</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/chenmozhe008/shandian-download
 Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
       <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Shandian<br/>Description: 마그넷 링크, 토렌트, HTTP 파일과 YouTube·Bilibili·Douyin·샤오훙수 동영상을 한 창에서 내려받는 네이티브 다운로드 관리자. 브라우저 다운로드 가로채기와 다운로드 중 재생을 지원 (UI는 중국어).<br/>Open Source: https://github.com/chenmozhe008/shandian-download<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Qingo</title>
-      <link>https://github.com/chenmozhe008/qingo</link>
-      <guid isPermaLink="false">003d03a260d1413d3671e2c42bb386e07157ee6c:Qingo</guid>
-      <pubDate>Thu, 29 Oct 2026 13:23:31 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Qingo
-Description: CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어).
-Open Source: https://github.com/chenmozhe008/qingo
-Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Qingo<br/>Description: CapCut, DaVinci Resolve, Adobe 앱, Cursor, Claude Code 등 60개 이상의 영상·디자인·AI 도구 캐시를 식별해 자동으로 다시 만들어지는 것만 휴지통으로 옮기고 되돌릴 수 있는 클리너. 프로젝트와 대화는 건드리지 않음 (UI는 중국어).<br/>Open Source: https://github.com/chenmozhe008/qingo<br/>Commit: Add Shandian to Download Management Tools and Qingo to Cleanup and Uninstall (#4015)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/003d03a260d1413d3671e2c42bb386e07157ee6c]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:20:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Breaker</title>
+      <link>https://github.com/wata/Breaker</link>
+      <guid isPermaLink="false">aa13c1fd00e0560de45b6c89b44db485c4dc39f7:Breaker</guid>
+      <pubDate>Tue, 03 Nov 2026 06:20:32 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: Breaker
+Description: Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks.
+Open Source: https://github.com/wata/Breaker
+Commit: Add Breaker to Developer Utilities (#4182)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Breaker<br/>Description: Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks.<br/>Open Source: https://github.com/wata/Breaker<br/>Commit: Add Breaker to Developer Utilities (#4182)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7]]></content:encoded>
+    </item>
     <item>
       <title>TimeMachineEjector</title>
       <link>https://github.com/wata/TimeMachineEjector</link>
@@ -715,20 +729,6 @@ Open Source: https://github.com/YusufEmreYazici/Centik
 Commit: Add Çentik to Menu Bar Tools (#4003)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Çentik<br/>Description: Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts.<br/>Open Source: https://github.com/YusufEmreYazici/Centik<br/>Commit: Add Çentik to Menu Bar Tools (#4003)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a871d050073307e96b3267b537774e0dd3394e9]]></content:encoded>
-    </item>
-    <item>
-      <title>PullBull</title>
-      <link>https://github.com/rustycamper/pullbull</link>
-      <guid isPermaLink="false">22980d15c9f266f55f973efec07ae48ecb51f01c:PullBull</guid>
-      <pubDate>Thu, 29 Oct 2026 14:05:26 GMT</pubDate>
-      <category>Developer Tools / Version Control</category>
-      <description>Category: Developer Tools / Version Control
-App: PullBull
-Description: GitHub pull requests, issues and Projects boards in the menu bar.
-Open Source: https://github.com/rustycamper/pullbull
-Commit: Add PullBull to Version Control (#3998)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: PullBull<br/>Description: GitHub pull requests, issues and Projects boards in the menu bar.<br/>Open Source: https://github.com/rustycamper/pullbull<br/>Commit: Add PullBull to Version Control (#3998)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22980d15c9f266f55f973efec07ae48ecb51f01c]]></content:encoded>
     </item>
   </channel>
 </rss>
