@@ -1262,6 +1262,7 @@ Awesome Mac
 
 ## ファイナンス
 
+* [Balanced](https://kayabyte.dev/mac/balanced/) - 銀行やカードの明細書、入金レポート、請求書を、検算済みの CSV や会計ソフト用ファイルに変換するアプリ。処理はすべて Mac 上で行い、何もアップロードしない。
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。 ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 小売店とレストラン向けのオフラインファーストなオープンソース POS・請求ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
