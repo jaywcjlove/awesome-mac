@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:30:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:37:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LumaRing</title>
+      <link>https://github.com/potatoQi/LumaRing</link>
+      <guid isPermaLink="false">9d3cb8ec400feb4abd550e5a87c658f4c6ba4503:LumaRing</guid>
+      <pubDate>Wed, 04 Nov 2026 04:37:42 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: LumaRing
+Description: 通过环形菜单切换应用、窗口和浏览器标签页。
+Open Source: https://github.com/potatoQi/LumaRing
+Commit: Add LumaRing to Window Management (#4203)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: LumaRing<br/>Description: 通过环形菜单切换应用、窗口和浏览器标签页。<br/>Open Source: https://github.com/potatoQi/LumaRing<br/>Commit: Add LumaRing to Window Management (#4203)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503]]></content:encoded>
+    </item>
     <item>
       <title>Ferrocast</title>
       <link>https://ferrocast.app</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/jo-duchan/tapflow
 Commit: Add tapflow to Developer Utilities (#3988)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: tapflow<br/>Description: 自托管工具，在团队已有的 Mac 上通过浏览器测试 iOS 模拟器和 Android 模拟器。<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
-    </item>
-    <item>
-      <title>Vauta</title>
-      <link>https://vauta.vercel.app/</link>
-      <guid isPermaLink="false">94dc1f25c034e9f625f9e383fd3fbe9a42bd84ed:Vauta</guid>
-      <pubDate>Fri, 30 Oct 2026 06:39:53 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Vauta
-Description: 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。
-Website: https://vauta.vercel.app/
-Open Source: https://github.com/MaquinaTech/Vauta
-Commit: Add Vauta to Audio Record and Process (#3993)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94dc1f25c034e9f625f9e383fd3fbe9a42bd84ed</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Vauta<br/>Description: 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。<br/>Website: https://vauta.vercel.app/<br/>Open Source: https://github.com/MaquinaTech/Vauta<br/>Commit: Add Vauta to Audio Record and Process (#3993)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94dc1f25c034e9f625f9e383fd3fbe9a42bd84ed]]></content:encoded>
     </item>
   </channel>
 </rss>
