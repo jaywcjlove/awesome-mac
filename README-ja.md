@@ -1114,7 +1114,7 @@ Awesome Mac
 ### オーディオ録音・処理
 
 * [akou](https://geiserx.github.io/akou/) - 通話や会議を録音して話者ラベル付きでデバイス上で文字起こしし、Claude Code や Codex から MCP 経由で通話内容に質問できるオープンソースのレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
-* [AutoDoc](https://getautodoc.com/) - 各メモの元になった瞬間を、画面も含めてそのまま再生できる会議ノートアプリ。オンデバイス文字起こし、話者ラベル、要約に対応。Duet Display初のオープンソースプロジェクト。 [![Open-Source Software][OSS Icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][Freeware Icon]
+* [AutoDoc](https://getautodoc.com/) - 各メモの元になった瞬間を、画面も含めてそのまま再生できる会議ノートアプリ。オンデバイス文字起こしと要約に対応。Duet Display初のオープンソースプロジェクト。 [![Open-Source Software][OSS Icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/) - Loomに代わるオープンソースのスクリーン録画ツール。美しく、共有可能。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Zoom、Meet、Teams、FaceTime、WhatsApp、電話の通話を録音し、ボットなしで AI 会議メモを作成する通話レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
