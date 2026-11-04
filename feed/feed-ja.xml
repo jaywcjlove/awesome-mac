@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Nov 2026 01:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:05:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tingo</title>
+      <link>https://github.com/tancheng33/tingo</link>
+      <guid isPermaLink="false">2e45ae0d0772ddb506015eac53757049f462399c:Tingo</guid>
+      <pubDate>Wed, 04 Nov 2026 03:05:59 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Tingo
+Description: あらゆる通話を録音し、デバイス上で文字起こしと話者分離を行い、好きな LLM で各項目が元の音声にリンクされた議事録を作るオープンソースの会議メモアプリ。
+Open Source: https://github.com/tancheng33/tingo
+Commit: Add Tingo to Audio Record and Process (#4199)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Tingo<br/>Description: あらゆる通話を録音し、デバイス上で文字起こしと話者分離を行い、好きな LLM で各項目が元の音声にリンクされた議事録を作るオープンソースの会議メモアプリ。<br/>Open Source: https://github.com/tancheng33/tingo<br/>Commit: Add Tingo to Audio Record and Process (#4199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c]]></content:encoded>
+    </item>
     <item>
       <title>SSHTermaq</title>
       <link>https://f1resh.github.io/sshtermaq/</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/sventmueller/splat
 Commit: Add Splat to Markdown Tools (#4047)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84</description>
       <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Splat<br/>Description: Rustで書かれたネイティブmacOS Markdownエディタ。ソースとライブプレビューのどちらでも直接編集できる。<br/>Open Source: https://github.com/sventmueller/splat<br/>Commit: Add Splat to Markdown Tools (#4047)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7081f59ff419edd57a0afb289cbdfa0bcdbcff84]]></content:encoded>
-    </item>
-    <item>
-      <title>JUMP</title>
-      <link>https://alvaldes.github.io/jump/</link>
-      <guid isPermaLink="false">46ce158053967a113a515b6c21bdcd7c6bc8871d:JUMP</guid>
-      <pubDate>Thu, 29 Oct 2026 15:11:47 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: JUMP
-Description: クリックできる要素すべてにラベルを付け、どのアプリでもキーボードでクリック、スクロール、検索ができるオープンソースツール。
-Website: https://alvaldes.github.io/jump/
-Open Source: https://github.com/alvaldes/jump
-Commit: Add JUMP to Productivity (#3995)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: JUMP<br/>Description: クリックできる要素すべてにラベルを付け、どのアプリでもキーボードでクリック、スクロール、検索ができるオープンソースツール。<br/>Website: https://alvaldes.github.io/jump/<br/>Open Source: https://github.com/alvaldes/jump<br/>Commit: Add JUMP to Productivity (#3995)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46ce158053967a113a515b6c21bdcd7c6bc8871d]]></content:encoded>
     </item>
   </channel>
 </rss>

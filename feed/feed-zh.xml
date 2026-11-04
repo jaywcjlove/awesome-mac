@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 01:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:05:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tingo</title>
+      <link>https://github.com/tancheng33/tingo</link>
+      <guid isPermaLink="false">2e45ae0d0772ddb506015eac53757049f462399c:Tingo</guid>
+      <pubDate>Wed, 04 Nov 2026 03:05:59 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: Tingo
+Description: 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。
+Open Source: https://github.com/tancheng33/tingo
+Commit: Add Tingo to Audio Record and Process (#4199)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Tingo<br/>Description: 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。<br/>Open Source: https://github.com/tancheng33/tingo<br/>Commit: Add Tingo to Audio Record and Process (#4199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c]]></content:encoded>
+    </item>
     <item>
       <title>SSHTermaq</title>
       <link>https://f1resh.github.io/sshtermaq/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/stanczykwyatt/show-desktop
 Commit: Add Show Desktop to Window Management (#3992)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/17ebfbb0fbfb249de5a8126cc54b64bcc6ecb93c</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Show Desktop<br/>Description: 菜单栏应用，一键或用快捷键隐藏所有窗口来显示桌面，再按一次即可原样恢复。<br/>Website: https://stanczykwyatt.github.io/show-desktop/<br/>Open Source: https://github.com/stanczykwyatt/show-desktop<br/>Commit: Add Show Desktop to Window Management (#3992)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/17ebfbb0fbfb249de5a8126cc54b64bcc6ecb93c]]></content:encoded>
-    </item>
-    <item>
-      <title>AerialSwap</title>
-      <link>https://github.com/mxpalm/AerialSwap</link>
-      <guid isPermaLink="false">98908fe26f17a7deebc181fa6fb8b66afba63352:AerialSwap</guid>
-      <pubDate>Fri, 30 Oct 2026 04:42:47 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: AerialSwap
-Description: 将任意视频变成锁屏和桌面使用的原生 Aerial 壁纸，并在“系统设置”中显示为独立分组。
-Open Source: https://github.com/mxpalm/AerialSwap
-Commit: Add AerialSwap to General Tools (#4050)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/98908fe26f17a7deebc181fa6fb8b66afba63352</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: AerialSwap<br/>Description: 将任意视频变成锁屏和桌面使用的原生 Aerial 壁纸，并在“系统设置”中显示为独立分组。<br/>Open Source: https://github.com/mxpalm/AerialSwap<br/>Commit: Add AerialSwap to General Tools (#4050)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/98908fe26f17a7deebc181fa6fb8b66afba63352]]></content:encoded>
     </item>
   </channel>
 </rss>
