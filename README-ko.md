@@ -361,6 +361,7 @@ Awesome Mac
 
 ### IDE / 코드 편집기
 
+* [Agentbox](https://agentbox.ac/) - 여러 Claude Code 및 Codex 에이전트를 각자의 git worktree에서 병렬로 실행하고 하나의 받은편지함에서 답할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/savannahfeder/agentbox) ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android의 공식 IDE로 IntelliJ IDEA를 기반으로 함. ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS 개발을 위한 스마트 IDE.
 * [Aptana](http://www.aptana.com/) - 강력한 오픈 소스 웹 개발 IDE. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aptana/studio3)
