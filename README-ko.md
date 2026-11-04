@@ -892,6 +892,7 @@ Awesome Mac
 * [Shiyin](https://shiyin.weibuilds.com) - 회의를 녹음해 기기에서 전사하고 화자를 구분하며, 내 Claude나 ChatGPT 구독으로 타임스탬프가 달린 회의록을 작성하는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [TetherCam](https://tethercam.app/) - iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Kanevry/tethercam) ![Freeware][Freeware Icon]
+* [Tingo](https://github.com/tancheng33/tingo) - 모든 통화를 녹음해 기기에서 전사하고 화자를 구분하며, 원하는 LLM으로 각 항목이 원래 음성으로 연결되는 회의록을 작성하는 오픈 소스 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - 오디오 변환과 태그 편집을 지원하는 음악 라이브러리 관리 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tuneful](https://www.tuneful.dev) - 메뉴 막대나 미니 플레이어에서 Spotify와 Apple Music을 제어하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
 * [VLC](https://www.videolan.org/vlc/) - 다양한 오디오, 비디오, 스트리밍 포맷을 재생하는 오픈 소스 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
