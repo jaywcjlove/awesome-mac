@@ -753,6 +753,7 @@ Awesome Mac
 * [mu](https://github.com/qybaihe/mu) - CLI와 데스크톱 앱을 갖춘 오픈 소스 코딩 에이전트로, 어떤 내용을 컨텍스트에 넣을지, 차단된 명령이 요청한 것인지 같은 일상적인 판단을 작은 판정 모델이 맡습니다. [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Claude Code, Codex 같은 코딩 에이전트를 프로젝트의 쓰기 시 복사 클론 위 Linux 마이크로 VM에서 실행하고, 풀 리퀘스트처럼 변경 사항을 검토하고 적용하는 오픈 소스 앱 및 CLI. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/mudroom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Murmury](https://github.com/GianlucaBave/murmury) - 화상 통화 중 내 문서를 바탕으로 질문에 답하는 플로팅 창. 화면 공유에 잡히지 않으며 음성 인식은 기기에서 처리합니다. [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
+* [Notch Limits](https://notch-limits.vercel.app) - Claude Code와 OpenAI Codex 사용량 한도를 MacBook 노치 주변에 진행률 링으로 표시하며, 서비스별 여러 계정을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matheusm/notch-limits) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Octuo](https://www.tutuo.ai/en/octuo/) - AI, 도구, 전문 서비스를 아우르는 개인 비서. 연결하고 승인한 도구와 계정을 조율하며, 목표를 중심으로 진행 상황을 추적하고 결과를 모아 줌.
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
