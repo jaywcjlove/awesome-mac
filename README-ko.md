@@ -647,6 +647,7 @@ Awesome Mac
 * [Shottr](https://shottr.cc/) - 스크롤 캡처, OCR 등 기능을 갖춘 캡처 앱.
 * [Shutterbar](https://github.com/mucahitimre/Shutterbar) - ShareX 스타일 스크린샷 도구. ⌘C로 클립보드에 바로 복사, 캡처 후 작업 자동 실행, 마지막 영역 다시 캡처, 스크롤 캡처 지원. [![Open-Source Software][OSS Icon]](https://github.com/mucahitimre/Shutterbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sitch](https://phalladar.github.io/Sitch/) - 테이퍼드 화살표, 블러, 모자이크를 지원하며 완전히 오프라인으로 동작하는 Skitch 스타일 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
+* [Snap2Link](https://snap2link.app) - 단축키로 화면 영역을 캡처하고 공유용 Google Drive 링크를 클립보드에 복사하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/amys94fr/Snap2Link) ![Freeware][Freeware Icon]
 * [Snappy](https://beqaabu.github.io/Snappy/) - 선택 영역 조정, 창 및 전체 화면 캡처, 주석, 블러, 텍스트 복사를 지원하는 Ubuntu 스타일 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
