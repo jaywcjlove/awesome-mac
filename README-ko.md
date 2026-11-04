@@ -842,6 +842,7 @@ Awesome Mac
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - 전문가용 데이터 복구 도구.
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 가장 진보된 Mac 수리 및 복구 도구.
 * [Disk Drill](https://www.cleverfiles.com/) - 무료 데이터 복구 도구. ![Freeware][Freeware Icon]
+* [NoteRescue](https://kayabyte.dev/mac/noterescue/) - Time Machine 스냅샷과 iPhone 백업에서 메모, 연락처, Safari, 캘린더, 리마인더, 음성 메모의 사라지거나 변경된 항목을 찾아 복원하는 앱.
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 손상되었거나 삭제되었거나 포맷된 디스크 데이터를 복구하는 도구.
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 부팅 가능한 디스크 백업 도구.
 

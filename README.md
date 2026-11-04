@@ -1015,6 +1015,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - Comprehensive and professional data recovery tool for most cases.
 * [DiskWarrior](https://www.alsoft.com/DiskWarrior/) - The world’s most advanced repair and recovery tool for Mac.
+* [NoteRescue](https://kayabyte.dev/mac/noterescue/) - Finds what is missing or changed in Notes, Contacts, Safari, Calendar, Reminders and Voice Memos by looking inside Time Machine snapshots and iPhone backups, and restores it.
 * [R-Studio for Mac](https://www.r-studio.com/data_recovery_macintosh/) - Data recovery tool for damaged, deleted, or formatted disks.
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 * [Disk Drill](https://www.cleverfiles.com/) - Free data recovery tool. Also has a PRO version. [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
