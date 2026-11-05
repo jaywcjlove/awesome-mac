@@ -1397,6 +1397,7 @@ Awesome Mac
 * [Konverter](https://github.com/davidpraznik/Konverter) - ドラッグしたファイルをホイールにドロップして操作する、メニューバーのファイル変換・画像圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Konverter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - メニューバーのファイル変換ツール。ファイルをドラッグ中に Shift を押してホイールにドロップするだけで、画像・音声・動画・文書の変換、圧縮、OCR、トリミング、注釈付けができます。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - Claude Code・Codex・OpenCode・piのセッションをまとめて扱うキーボード操作中心のMacBookノッチアプリで、各セッションの状況確認、ノッチからの返答、該当するウィンドウやターミナルペインへの移動ができる。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
+* [Podcast Export](https://stanczykwyatt.github.io/podcast-export/) - Apple Podcastの登録番組を他のポッドキャストアプリで読み込めるOPMLとして書き出し、再生履歴もMarkdownノートとCSVで書き出すメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/podcast-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 非表示ゾーンと自動化を備えたプライバシー重視のメニューバー管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - ホットキーと自動化でBluetoothデバイスを管理するメニューバーツール。 [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - メディアキーでWebプレーヤーや一部アプリの再生を操作できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
@@ -1431,6 +1432,7 @@ Awesome Mac
 * [LuxShot](https://github.com/lukebuild/LuxShot) - ネイティブでプライバシーファーストのメニューバーOCRツール。 [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MeetingBar](https://meetingbar.onrender.com) - カレンダーの会議用メニューバーアプリ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
+* [Memo Export](https://stanczykwyatt.github.io/memo-export/) - ボイスメモの録音を音声ファイルと、タイムスタンプ付き文字起こしのMarkdownノートとして書き出すメニューバーアプリ。毎回新しいメモだけを追加。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/memo-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MemStats](https://memstats.chungxon.dev/) - ユーザーアカウントごとのメモリ使用量を表示し、ヘルパープロセスをアプリ単位にまとめ、メモリプレッシャーとスワップも確認できるメニューバーのメモリモニター。 [![Open-Source Software][OSS Icon]](https://github.com/sown-oss/MemStats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - メニューバーに月間カレンダーを表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383?platform=mac)
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - Claude Code の各セッション状態をメニューバーのカニで一目表示し、作業中は歩き、入力待ちになると跳ねる。 [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
@@ -1447,6 +1449,7 @@ Awesome Mac
 * [mysa](https://github.com/alishansnsn/mysa) - 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - リアルタイムの通信速度と帯域使用アプリを表示するネイティブなメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - インターネットに本当につながっているかを示し、遅延・ジッター・パケットロス・速度テストも確認できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Next Departures](https://stanczykwyatt.github.io/next-departures/) - 選んだバス停や駅の次の発車をリアルタイムで表示し、遅れ・運休・運行情報も分かるメニューバーアプリ。GTFS-realtime フィードならどこでも使える。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/next-departures) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AIコーディングエージェント通知に対応した、macOS向けの軽量なDynamic Island。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [One Thing](https://sindresorhus.com/one-thing) - メニューバーに1つのタスクや目標を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982?platform=mac)
 * [One Switch](https://fireball.studio/oneswitch) - Macのメニューバーにさまざまなスイッチを追加するメニューバーアプリ。
@@ -1457,6 +1460,7 @@ Awesome Mac
 * [Profisor](https://github.com/yefga/Profisor) - メニューバーから現在のプロジェクトの Xcode プロビジョニングプロファイルを切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/emgeorrk/pulse) - CPU、メモリ、温度、ファン、ネットワーク、ディスク、電力、バッテリーの状態をリアルタイム表示するメニューバー型システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/emgeorrk/pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quickgif](https://quickgif.app/) - GIFを素早く見つけて共有。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
+* [Reading List Export](https://stanczykwyatt.github.io/reading-list-export/) - Safariのリーディングリストを、Markdown、あとで読むアプリに読み込めるブックマークファイル、Instapaper形式のCSVとして書き出すメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/reading-list-export) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - リマインダーを表示・操作するシンプルなmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - AIの支援でテキストを書くのを助けるmacOSメニューバーアプリ。
 * [Second Clock](https://sindresorhus.com/second-clock) - メニューバーに別のタイムゾーンの時計を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
@@ -1474,7 +1478,9 @@ Awesome Mac
 * [Today](https://sindresorhus.com/today) - メニューバーから今日の予定とカレンダーイベントを確認できるツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [Topnotchers](https://github.com/joey-david/topnotchers) - MacBook のノッチに Claude Code と Codex のセッションをアニメーションするマスコットとして表示し、質問や権限リクエストにノッチから直接答えられる。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) - macOSメニューバー用の世界一洗練されたポモドーロタイマー。 [![Open-Source Software][OSS Icon]](https://github.com/ivoronin/TomatoBar) ![Freeware][Freeware Icon]
+* [Tonecap](https://stanczykwyatt.github.io/tonecap/) - スイッチ、プレート、ケース、キーキャップの設定からメカニカルキーボードの音をデザインし、録音を使わずに合成して、どのアプリでもタイピングに合わせて鳴らせる。共有リンク付きのWeb版もある。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/tonecap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 用意したスクリプトをホットキー1回につき1行ずつ、実際のキーストロークとして自然なペースで任意のアプリに入力。デモ録画やライブプレゼンに。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
+* [Unblock Eject](https://stanczykwyatt.github.io/unblock-eject/) - 取り出せないディスクでファイルを開いているアプリを表示し、通常の方法で終了してから取り出すメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/unblock-eject) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - メニューバーまたはウィジェットにUTC時刻を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904?platform=mac)
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Macのメニューバーアイコンを非表示にする。 ![Freeware][Freeware Icon]
 * [Vorssaint](https://vorssaint.com) - アプリごとの音量、システム監視、ウィンドウ操作、クリップボード履歴、スリープ防止、アプリのクリーンアップをまとめたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1774,6 +1780,7 @@ Awesome Mac
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - ファイル管理アプリ。
 * [QSpace](https://qspace.awehunt.com) - クリーンで効率的なマルチビューファイルマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - macOS Finderのコンテキストメニューに新しい機能を追加。 [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
+* [Right Folder](https://stanczykwyatt.github.io/right-folder/) - 「開く」「保存」ダイアログの横に、Finder で開いているフォルダ、最近のフォルダ、お気に入りを表示し、クリックかショートカットひとつでそこへ移動できる。Default Folder X の基本機能の無料の代替。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/right-folder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Strata Files](https://stratafiles.app) - インスタント検索、リアルタイムのフォルダサイズ、ディスク使用量マップ、デュアルペインを備えたオープンソースのファイルマネージャー兼 Finder 代替。 [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 選択したファイルやフォルダを指定アプリですばやく開く Finder 拡張。
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome風のFinder代替。
@@ -1903,6 +1910,7 @@ Awesome Mac
 * [MD QuickLook](https://github.com/armamut/md-quicklook) - シンタックスハイライト、数式、Mermaid 図に対応した、Web エンジンを使わないネイティブな Markdown 用 Quick Look 拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` の中身とメタデータを確認できる Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 開発者に便利な[クイックルック](https://en.wikipedia.org/wiki/Quick_Look)プラグインのリスト
+* [SciLook](https://stanczykwyatt.github.io/scilook/) - 科学データ用の Quick Look 拡張。NWB、HDF5、MATLAB .mat、NumPy .npy/.npz ファイルの構造とプロットを表示。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/scilook) ![Freeware][Freeware Icon]
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - ソースコードファイルをハイライト表示するクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 
 ## サードパーティアプリマーケット
