@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:31:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Drifting</title>
+      <link>https://drifting.cc/</link>
+      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
+      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
+      <category>読み書きツール / ライティング</category>
+      <description>Category: 読み書きツール / ライティング
+App: Drifting
+Description: 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。
+Website: https://drifting.cc/
+Open Source: https://github.com/chihumyum/Drifting
+Commit: Add Drifting to Writing (#4220)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: Drifting<br/>Description: 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
+    </item>
     <item>
       <title>LumaRing</title>
       <link>https://github.com/potatoQi/LumaRing</link>
@@ -718,20 +733,6 @@ Website: https://clipivo.jishnumahanta.in
 Commit: Add Clipivo to Clipboard Tools (#4052)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b17e33ea24e8e48a780cac1f1acd9744487c78ff</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Clipivo<br/>Description: クリップボード履歴を検索しやすく整理し、プライベートに保つローカルファーストのネイティブクリップボードマネージャー。<br/>Website: https://clipivo.jishnumahanta.in<br/>Commit: Add Clipivo to Clipboard Tools (#4052)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b17e33ea24e8e48a780cac1f1acd9744487c78ff]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Monitor</title>
-      <link>https://github.com/Ahmadjondev/MacMonitor</link>
-      <guid isPermaLink="false">5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22:Mac Monitor</guid>
-      <pubDate>Fri, 30 Oct 2026 01:27:55 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: Mac Monitor
-Description: メモリプレッシャーに注目した、RAM・CPU・ネットワーク・ディスク用の軽量メニューバーモニター。
-Open Source: https://github.com/Ahmadjondev/MacMonitor
-Commit: Add Mac Monitor to System Related Tools (#4041)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Mac Monitor<br/>Description: メモリプレッシャーに注目した、RAM・CPU・ネットワーク・ディスク用の軽量メニューバーモニター。<br/>Open Source: https://github.com/Ahmadjondev/MacMonitor<br/>Commit: Add Mac Monitor to System Related Tools (#4041)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5f4caa5c0f258ec075a9930d4a7da4bfdb48ba22]]></content:encoded>
     </item>
   </channel>
 </rss>
