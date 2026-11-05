@@ -1137,7 +1137,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [yovoice](https://yovoice.leemysw.com) - Local voice creation studio with text-to-speech, voice cloning, emotion control, song generation and MIDI scoring, all running on-device. [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
 * [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - Calm rain-sound ambience for focus and sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
 * [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac) - Focus ambience desklet: dynamic rain, fireplace, café scenes for deep work. [![App Store][app-store Icon]](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac)
-* [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - Calm rain-sound ambience for focus and sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
 
 ## Download Management Tools
 
