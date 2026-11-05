@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:31:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Drifting</title>
+      <link>https://drifting.cc/</link>
+      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
+      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
+      <category>Reading and Writing Tools / Writing</category>
+      <description>Category: Reading and Writing Tools / Writing
+App: Drifting
+Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.
+Website: https://drifting.cc/
+Open Source: https://github.com/chihumyum/Drifting
+Commit: Add Drifting to Writing (#4220)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Drifting<br/>Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
+    </item>
     <item>
       <title>LumaRing</title>
       <link>https://github.com/potatoQi/LumaRing</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/getguruhat/ai-meter
 Commit: Add AI Meter (#4004)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AI Meter<br/>Description: Shows your remaining Claude Code or Codex usage and reset time in the menu bar.<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
-    </item>
-    <item>
-      <title>tapflow</title>
-      <link>https://tapflow.dev</link>
-      <guid isPermaLink="false">4c9846a835a360aaba20440acebb6cdad4731abd:tapflow</guid>
-      <pubDate>Fri, 30 Oct 2026 07:02:16 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: tapflow
-Description: Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.
-Website: https://tapflow.dev
-Open Source: https://github.com/jo-duchan/tapflow
-Commit: Add tapflow to Developer Utilities (#3988)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: tapflow<br/>Description: Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
     </item>
   </channel>
 </rss>
