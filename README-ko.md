@@ -796,6 +796,7 @@ Awesome Mac
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 동영상 일괄 MP4 변환, 구간 자르기, 화면 자르기, 회전과 병합을 지원하는 네이티브 FFmpeg 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - 동영상을 스토리보드 이미지로 정리하고, 자동 프레임 선택과 수동 조정, 로컬 PNG/JPG 내보내기를 지원하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [VLC](https://www.videolan.org/vlc/) - 무료 오픈 소스 크로스 플랫폼 멀티미디어 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
+* [WeMotion](https://wemotion.ai/) - 원하는 모션 그래픽 영상을 설명하면 Claude 기반 AI 디자이너가 편집 가능한 레이어로 만들어 주고 아무 프레임이나 클릭해 수정할 수 있는 앱으로, Anthropic API 키 또는 Claude Pro나 Max가 필요합니다. ![Freeware][Freeware Icon]
 
 ## 커뮤니케이션
 
