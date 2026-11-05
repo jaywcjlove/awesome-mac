@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:06:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Radif</title>
+      <link>https://www.yuvrajangadsingh.com/radif</link>
+      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
+      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Radif
+Description: Tauri로 만든 비공식 오픈 소스 YouTube Music 클라이언트로, 동기화된 가사와 비디오 모드를 지원하며 YouTube Music Premium이 필요합니다.
+Website: https://www.yuvrajangadsingh.com/radif
+Open Source: https://github.com/yuvrajangadsingh/radif
+Commit: Add Radif to Audio and Video Tools (#4254)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Radif<br/>Description: Tauri로 만든 비공식 오픈 소스 YouTube Music 클라이언트로, 동기화된 가사와 비디오 모드를 지원하며 YouTube Music Premium이 필요합니다.<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
+    </item>
     <item>
       <title>Flipic</title>
       <link>https://github.com/xmasdong/flipic</link>
@@ -719,21 +734,6 @@ Open Source: https://github.com/MaquinaTech/Vauta
 Commit: Add Vauta to Audio Record and Process (#3993)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94dc1f25c034e9f625f9e383fd3fbe9a42bd84ed</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Vauta<br/>Description: 모든 통화를 기기에서 전사하고 화자를 구분하며, Apple Intelligence나 내 로컬 모델 서버로 출처가 달린 회의록을 작성하는 오픈 소스 회의 노트 앱.<br/>Website: https://vauta.vercel.app/<br/>Open Source: https://github.com/MaquinaTech/Vauta<br/>Commit: Add Vauta to Audio Record and Process (#3993)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94dc1f25c034e9f625f9e383fd3fbe9a42bd84ed]]></content:encoded>
-    </item>
-    <item>
-      <title>Show Desktop</title>
-      <link>https://stanczykwyatt.github.io/show-desktop/</link>
-      <guid isPermaLink="false">17ebfbb0fbfb249de5a8126cc54b64bcc6ecb93c:Show Desktop</guid>
-      <pubDate>Fri, 30 Oct 2026 06:21:29 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Show Desktop
-Description: 클릭 한 번이나 단축키로 모든 창을 숨겨 데스크톱을 보여 주고, 다시 누르면 그대로 되돌리는 메뉴 막대 앱.
-Website: https://stanczykwyatt.github.io/show-desktop/
-Open Source: https://github.com/stanczykwyatt/show-desktop
-Commit: Add Show Desktop to Window Management (#3992)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/17ebfbb0fbfb249de5a8126cc54b64bcc6ecb93c</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Show Desktop<br/>Description: 클릭 한 번이나 단축키로 모든 창을 숨겨 데스크톱을 보여 주고, 다시 누르면 그대로 되돌리는 메뉴 막대 앱.<br/>Website: https://stanczykwyatt.github.io/show-desktop/<br/>Open Source: https://github.com/stanczykwyatt/show-desktop<br/>Commit: Add Show Desktop to Window Management (#3992)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/17ebfbb0fbfb249de5a8126cc54b64bcc6ecb93c]]></content:encoded>
     </item>
   </channel>
 </rss>
