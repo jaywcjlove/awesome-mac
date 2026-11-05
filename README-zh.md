@@ -677,6 +677,7 @@ Awesome Mac
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 通过实时计数器跟踪 Claude 用量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
 * [Claudoscope](https://github.com/cordwainersmith/claudoscope) - 用于浏览和分析 Claude Code 会话的工具。 [![Open-Source Software][OSS Icon]](https://github.com/cordwainersmith/claudoscope) ![Freeware][Freeware Icon]
 * [ClawdHome](https://clawdhome.app/) - 用一个控制台管理多个相互隔离的 OpenClaw 网关实例。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkInAIXYZ/clawdhome) ![Native App][Native Icon]
+* [Clawdrobe](https://clawdrobe.com/?utm_source=awesome-mac&utm_medium=launch&utm_campaign=directories) - 同时运行多个 Claude Desktop 账号，每个账号都是独立的应用，拥有自己的 Dock 图标、登录和聊天记录，并在菜单栏显示各账号用量。 ![Native App][Native Icon]
 * [clawpypaste](https://github.com/krisbradley/clawpypaste) - 适用于 Claude Code 的菜单栏代码块选择器和会话浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/krisbradley/clawpypaste) ![Freeware][Freeware Icon]
 * [Cherry Studio](https://www.cherry-ai.com/) - 支持多个大语言模型（LLM）提供商的桌面客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
 * [Chatbox](https://chatboxai.app) - 用户友好的 AI 模型/大语言模型（GPT、Claude、Gemini、Ollama 等）桌面客户端应用。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
