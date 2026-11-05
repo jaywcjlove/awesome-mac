@@ -353,7 +353,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Papr](https://github.com/l0ng-ai/papr) - RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/papr) ![Freeware][Freeware Icon]
 * [ReadKit](https://readkitapp.com/) - Bookmark and RSS management client.
 * [Reeder 5](https://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
-* [Saga Reader](https://github.com/sopaco/saga-reader) - AI-powered web and RSS reader. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
+* [Saga Reader](https://github.com/sopaco/saga-reader) - AI-powered web and RSS reader. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sopaco/saga-reader)
 * [Unread](https://www.goldenhillsoftware.com/unread/) - RSS reader with beautiful typography that supports Feedbin, Feedly and so on. [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349?platform=mac)
 * [Vienna](https://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
@@ -629,12 +629,12 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - LDAP browser and Active Directory client. [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software][OSS Icon]](https://github.com/qishibo/AnotherRedisDesktopManager)![Freeware][Freeware Icon]
 * [Base 2](https://menial.co.uk/base/) - Application for creating, designing, editing and browsing SQLite 3 database files.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Smooth SQL editor and database manager [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/ChristianKienle/Core-Data-Editor) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - Simple database client supporting Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - Universal SQL Client.
@@ -745,7 +745,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tayasui Sketches](https://www.tayasui.com/sketches/) - Professional drawing software.
 * [Vectornator: Design Software](https://www.vectornator.io/) - The Most Intuitive and Precise Illustration Software in the Galaxy. [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514?platform=mac)
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
-* [Nugget](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
+* [Nugget](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS][OSS Icon]](https://github.com/cartesiancs/nugget-app) ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - Vector design tool with built-in assets and real-time collaboration. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?platform=mac)
 
 ### Prototyping and Mind-Mapping Tools
@@ -1010,7 +1010,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Flow](https://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
 * [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability. ![Freeware][Freeware Icon]
-* [NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/grishka/NearDrop) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - The GUI for Rclone & S3. [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 
@@ -1129,7 +1129,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PitchTap](https://github.com/gkudva96/pitchtap) - Open-source menu bar app that changes the key of any app's audio live without changing the tempo. [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts. [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - Open-source meeting recorder that transcribes on-device, identifies speakers, and writes timestamped notes with your own Claude or ChatGPT subscription. [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
-* [Stargate DAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [Stargate DAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/stargatedaw/stargate) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [Tingo](https://github.com/tancheng33/tingo) - Open-source meeting notes app that records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose. [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - On-device voice dictation and meeting transcription powered by whisper.cpp and Metal. [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
