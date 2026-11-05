@@ -844,6 +844,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
 * [Flipic](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode. [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
+* [Iconic](https://icons.ahmetdedeler.com) - Restyle Mac app and folder icons from a catalog of 30,000+ free 1024px icons, with whole-collection themes.
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 * [Iconjar](https://geticonjar.com/) - Icon management tool to organize or search your icons.
 * [IconKit](https://appersian.net/) - App icon generator. [![App Store][app-store Icon]](https://apps.apple.com/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
