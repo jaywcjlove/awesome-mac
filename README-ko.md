@@ -905,7 +905,9 @@ Awesome Mac
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp 및 Metal 기반의 100% 온디바이스 음성 받아쓰기 및 회의 전사 도구. [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - 모든 통화를 기기에서 전사하고 화자를 구분하며, Apple Intelligence나 내 로컬 모델 서버로 출처가 달린 회의록을 작성하는 오픈 소스 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 텍스트 음성 변환, 음성 복제, 감정 조절, 노래 생성, MIDI 편곡을 모두 로컬에서 실행하는 음성 제작 도구. [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
+* [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - 집중과 수면을 위한 고요한 빗소리 앰비언스. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
 * [Musicer](https://apps.apple.com/cn/app/musicer/6745227444?platform=mac) - 다양한 포맷과 AI 제어를 지원하는 복고풍 로컬 음악 플레이어.
+* [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455) - Focus ambience app for deep work, blending rain, café, fireplace and white-noise soundscapes. [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455)
 
 ## 다운로드 관리 도구
 
@@ -965,6 +967,7 @@ Awesome Mac
 * [Voxt](https://github.com/hehehai/voxt) - 누르고 말한 뒤 놓으면 바로 붙여넣는 음성 입력·번역 도구로, 앱과 URL별로 AI 전사 규칙을 다르게 설정할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 오디오, 동영상, YouTube, 회의를 로컬에서 전사하고 다른 앱에 받아쓰기도 할 수 있는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
+* [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104) - On-device meeting transcription with AI summaries and action-item extraction, fully private. [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104)
 
 ## 브라우저
 
@@ -1333,6 +1336,8 @@ Awesome Mac
 * [Mactokio](https://github.com/dalirnet/mactokio) - 웹캠으로 QR 코드를 스캔해 계정을 가져오고 시크릿을 AES-256으로 기기에 암호화 저장하는 네이티브 TOTP/HOTP 인증 앱. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NotchOTP](https://github.com/Photon94/NotchOTP) - 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Strongbox](https://strongboxsafe.com/) - KeePass와 Password Safe를 지원하는 비밀번호 관리자. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?platform=mac)
+* [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046) - Instant local file search powered by Apache Lucene with real-time indexing. [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046)
+* [KinetMagicDisk](https://apps.apple.com/us/app/kinetmagicdisk-ai-disk-analyzer/id6813423397) - AI-powered disk space analyzer that visualizes usage and cleans up via natural language. [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/kinetmagicdisk-ai-disk-analyzer/id6813423397)
 
 ## 게임 소프트웨어
 
