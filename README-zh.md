@@ -257,6 +257,7 @@ Awesome Mac
 
 ### 开发者实用工具
 
+* [Architect](https://github.com/abhiramshaji-cyber/Architect) - 开源应用，按重要性为 JS/TS 代码库中的每个函数排序，绘制调用树，并通过 MCP 向编码代理提供架构约定。 [![Open-Source Software][OSS Icon]](https://github.com/abhiramshaji-cyber/Architect) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 一个通过辅助功能 API 和 HID 自动化与 iOS 模拟器交互的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 一款强大的批量重命名工具，可以通过搜索功能改名。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
