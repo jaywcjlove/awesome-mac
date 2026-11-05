@@ -1211,6 +1211,7 @@ Awesome Mac
 * [OpenDisplay](https://opendisplay.app) - 여분의 iPhone이나 iPad를 USB 또는 WiFi로 Mac의 보조 디스플레이로 사용하는 도구 (터치 입력 지원). [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
 * [Panoply](https://github.com/anzal1/panoply) - PDF, 이미지, 동영상과 오디오, OCR, 증명사진, 즉시 파일 검색, 디스크 맵을 제공하는 기기 내 무료 파일 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/anzal1/panoply) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
+* [Reactive Wallpaper](https://reactivewallpaper.com/) - Metal로 실시간 렌더링되며 커서에 반응하는 라이브 배경화면 앱입니다. ![Native App][Native Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - 로컬 동영상을 데스크톱 배경화면으로 설정합니다. [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
 * [Uptick](https://chengffei.github.io/uptick/) - App Store, Sparkle, Electron 업데이트 피드, Homebrew에서 업데이트를 찾고 설치 전에 다운로드를 검증하는 오픈소스 앱 업데이터. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chengffei/uptick)
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
