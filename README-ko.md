@@ -1316,6 +1316,7 @@ Awesome Mac
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - 클릭 한 번이나 단축키로 모든 창을 숨겨 데스크톱을 보여 주고, 다시 누르면 그대로 되돌리는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Slate](https://github.com/jigish/slate) - JavaScript 설정을 사용하는 스크립트형 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [Snapback](https://snapbackapp.com) - 키 한 번으로 전체 창 레이아웃을 저장하고 복원. ![Freeware][Freeware Icon]
+* [Split](https://splitformac.com) - 두 창을 한 쌍으로 묶어 하나의 구분선을 공유하고 서로의 위치를 바꿀 수 있습니다.
 * [StreamWindow](https://macdev.cn/) - 3D 애니메이션과 직관적인 전환을 갖춘 창 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
 * [Swift Shift](https://swiftshift.app) - 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [Switch](https://switch-dev.sanyamgarg.com) - 모든 Space의 열린 창을 보여주고 입력으로 필터링할 수 있는 키보드 창 전환 도구. ![Freeware][Freeware Icon]
