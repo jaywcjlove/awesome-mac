@@ -1634,6 +1634,7 @@ Awesome Mac
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。
 * [Mounty](http://enjoygineering.com/mounty/) - NTFS 分区读写组件。![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - 跨平台网络文件传输应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
+* [NonSleep](https://nonsleep.vercel.app) - 合盖后仍让 Mac 保持唤醒以运行 AI 编程智能体，任务结束即休眠，并带有电量与温度保护。 [![Open-Source Software][OSS Icon]](https://github.com/Tran-Duc-Duy/nonsleep) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NTFSTool](https://ntfstool.com) - 免费开源的 Mac NTFS 读写工具，无需内核扩展。 [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
 * [OnyX](http://www.titanium.free.fr/) - 集清理、校验和隐藏设置于一体的系统维护工具。![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 提供监控、清理和硬件诊断的性能管理工具。
