@@ -1134,6 +1134,8 @@ Awesome Mac
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp と Metal を活用した完全ローカルな音声入力・会議書き起こしツール。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - あらゆる通話をデバイス上で文字起こしして話者を区別し、Apple Intelligence または自前のローカルモデルサーバーで出典付きの議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 音声合成、ボイスクローン、感情コントロール、楽曲生成、MIDI 編曲をすべてローカルで行える音声制作ツール。 [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
+* [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac) - 集中用アンビエンスデスクレット:雨、暖炉、カフェのシーンを動的に切替。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac)
+* [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - 集中と入眠のための静かな雨音アンビエンス。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
 
 ## ダウンロード管理ツール
 
@@ -1211,6 +1213,7 @@ Awesome Mac
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 音声、動画、YouTube、会議をローカルで文字起こしし、任意のアプリへ音声入力もできるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI変換とキーボードショートカットを備えたマルチプロバイダー音声テキスト変換。 [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - 自動編集、スタイルマッチング、ノイズ最適化を備えたAIディクテーション。
+* [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac) - 端側で議事録作成:録音、文字起こし、実行可能な ToDo 生成。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac)
 
 ## ブラウザ
 
@@ -1857,6 +1860,8 @@ Awesome Mac
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
 * [WattMate](https://wattmateapp.com) - どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
+* [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046?platform=mac) - ドライブ全体を横断する瞬間コンテンツ検索。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046?platform=mac)
+* [KinetMagicDisk](https://apps.apple.com/us/app/kinetmagicdisk/id6813423397?platform=mac) - 軽量ネイティブ UI でディスクイメージをマウント・管理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetmagicdisk/id6813423397?platform=mac)
 
 ## ゲームソフトウェア
 
