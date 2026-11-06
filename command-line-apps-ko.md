@@ -3,8 +3,17 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 음성으로 입력하세요. 키를 누르고 자연스럽게 말하면 됩니다.</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">사용 중인 앱에 맞게 내용이 자동으로 서식 지정됩니다. 로컬 AI 모델을 사용하며 오프라인에서도 작동하고, 무료 오픈 소스입니다.</a>
+  <br/><br/>
+
+
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
   <br>
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - Mac 전반에서 작동하는 AI 에이전트</a><br/>

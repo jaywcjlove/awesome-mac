@@ -3,8 +3,17 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 用语音输入。按下按键，自然地说话。</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">输入内容会根据你当前使用的应用自动排版。支持本地 AI 模型，可离线使用，免费且开源。</a>
+  <br/><br/>
+
+
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
   <br>
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - 遍布整个 Mac 的 AI 智能体</a><br/>
