@@ -713,6 +713,7 @@ Awesome Mac
 * [Murmury](https://github.com/GianlucaBave/murmury) - 在视频通话中根据你自己的文档回答问题的浮动窗口，不会被屏幕共享捕获，语音识别在本机完成。 [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
 * [Octuo](https://www.tutuo.ai/en/octuo/) - 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
+* [Openbar](https://github.com/MF-DEEV/Openbar) - 把 Claude Code、Codex 等编程代理会话放进刘海区域，可在其中查看差异并批准工具调用、回答问题和发送回复，另附可选的菜单栏工具集。 [![Open-Source Software][OSS Icon]](https://github.com/MF-DEEV/Openbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
 * [Prevail](https://prevail.sh) - 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - 原生应用，以停靠在屏幕边缘的圆环显示 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务的剩余额度。 [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
