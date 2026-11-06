@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:50:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TinyRecorder</title>
+      <link>https://www.tinyrecorder.app/zh-Hans/</link>
+      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
+      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
+      <category>设计和产品 / 屏幕录制</category>
+      <description>Category: 设计和产品 / 屏幕录制
+App: TinyRecorder
+Description: 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。
+Website: https://www.tinyrecorder.app/zh-Hans/
+Open Source: https://github.com/33to9/TinyRecorder
+Commit: Add TinyRecorder to Screen Recording (#4265)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: TinyRecorder<br/>Description: 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。<br/>Website: https://www.tinyrecorder.app/zh-Hans/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
+    </item>
     <item>
       <title>Graphis</title>
       <link>https://github.com/Campfire7/graphis</link>
@@ -718,20 +733,6 @@ Open Source: https://github.com/emgeorrk/pulse
 Commit: Add Pulse (menu bar system monitor) (#2381)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Pulse<br/>Description: 在菜单栏实时显示 CPU、内存、温度、风扇、网络、磁盘、功耗和电池状态的系统监视器。<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
-    </item>
-    <item>
-      <title>ContainerDesk</title>
-      <link>https://github.com/MacHatter1/ContainerDesk</link>
-      <guid isPermaLink="false">dbef1b9c09aaa4d62d943b0a77110378e9dbac9c:ContainerDesk</guid>
-      <pubDate>Fri, 30 Oct 2026 16:22:05 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: ContainerDesk
-Description: Apple container 运行时的原生 SwiftUI 工作区，支持实时资源监控和集成终端。
-Open Source: https://github.com/MacHatter1/ContainerDesk
-Commit: Add ContainerDesk to Virtualization (#4073)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: ContainerDesk<br/>Description: Apple container 运行时的原生 SwiftUI 工作区，支持实时资源监控和集成终端。<br/>Open Source: https://github.com/MacHatter1/ContainerDesk<br/>Commit: Add ContainerDesk to Virtualization (#4073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c]]></content:encoded>
     </item>
   </channel>
 </rss>

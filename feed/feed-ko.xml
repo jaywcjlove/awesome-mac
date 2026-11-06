@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:50:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TinyRecorder</title>
+      <link>https://www.tinyrecorder.app/en/</link>
+      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
+      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
+      <category>디자인 및 제품 / 화면 녹화</category>
+      <description>Category: 디자인 및 제품 / 화면 녹화
+App: TinyRecorder
+Description: 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다.
+Website: https://www.tinyrecorder.app/en/
+Open Source: https://github.com/33to9/TinyRecorder
+Commit: Add TinyRecorder to Screen Recording (#4265)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: TinyRecorder<br/>Description: 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다.<br/>Website: https://www.tinyrecorder.app/en/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
+    </item>
     <item>
       <title>Graphis</title>
       <link>https://github.com/Campfire7/graphis</link>
@@ -719,20 +734,6 @@ Website: https://chengffei.github.io/uptick/
 Commit: Add Uptick (#4067)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Uptick<br/>Description: App Store, Sparkle, Electron 업데이트 피드, Homebrew에서 업데이트를 찾고 설치 전에 다운로드를 검증하는 오픈소스 앱 업데이터.<br/>Website: https://chengffei.github.io/uptick/<br/>Commit: Add Uptick (#4067)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a]]></content:encoded>
-    </item>
-    <item>
-      <title>RAVE LIVE</title>
-      <link>https://github.com/jedbrnth-eng/rave-live</link>
-      <guid isPermaLink="false">45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd:RAVE LIVE</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:22 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: RAVE LIVE
-Description: 무대 조명, 레이저, MilkDrop 프리셋으로 Mac에서 재생 중인 음악의 비트에 맞춰 움직이는 페스티벌 라이트 쇼.
-Open Source: https://github.com/jedbrnth-eng/rave-live
-Commit: Add RAVE LIVE (#4066)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: RAVE LIVE<br/>Description: 무대 조명, 레이저, MilkDrop 프리셋으로 Mac에서 재생 중인 음악의 비트에 맞춰 움직이는 페스티벌 라이트 쇼.<br/>Open Source: https://github.com/jedbrnth-eng/rave-live<br/>Commit: Add RAVE LIVE (#4066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd]]></content:encoded>
     </item>
   </channel>
 </rss>
