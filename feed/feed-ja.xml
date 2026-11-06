@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:28:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roar</title>
+      <link>https://roarbrowser.app/</link>
+      <guid isPermaLink="false">e730c660e45035bb1f9a08455291479be8db7d81:Roar</guid>
+      <pubDate>Fri, 06 Nov 2026 01:28:03 GMT</pubDate>
+      <category>ブラウザ</category>
+      <description>Category: ブラウザ
+App: Roar
+Description: ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。
+Website: https://roarbrowser.app/
+Open Source: https://github.com/roarbrowser/roar
+Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81</description>
+      <content:encoded><![CDATA[Category: ブラウザ<br/>App: Roar<br/>Description: ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。<br/>Website: https://roarbrowser.app/<br/>Open Source: https://github.com/roarbrowser/roar<br/>Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81]]></content:encoded>
+    </item>
     <item>
       <title>Wavo</title>
       <link>https://github.com/vladkens/wavo-app</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/getguruhat/ai-meter
 Commit: Add AI Meter (#4004)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AI Meter<br/>Description: Claude CodeまたはCodexの残り使用量とリセット時刻をメニューバーに表示するツール。<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
-    </item>
-    <item>
-      <title>tapflow</title>
-      <link>https://tapflow.dev</link>
-      <guid isPermaLink="false">4c9846a835a360aaba20440acebb6cdad4731abd:tapflow</guid>
-      <pubDate>Fri, 30 Oct 2026 07:02:16 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: tapflow
-Description: チームが既に持っている Mac 上で、iOS シミュレーターと Android エミュレーターをブラウザからテストできるセルフホスト型ツール。
-Website: https://tapflow.dev
-Open Source: https://github.com/jo-duchan/tapflow
-Commit: Add tapflow to Developer Utilities (#3988)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: tapflow<br/>Description: チームが既に持っている Mac 上で、iOS シミュレーターと Android エミュレーターをブラウザからテストできるセルフホスト型ツール。<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
     </item>
   </channel>
 </rss>
