@@ -1277,6 +1277,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Finance
 
+* [Balanced](https://kayabyte.dev/mac/balanced/) - Converts bank and card statements, payout reports and invoices into checked CSV and accounting files, on your Mac with nothing uploaded.
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Read-only Korean and US stock workspace in the style of Windows HTS apps, with a 10-level order book, four-chart layouts, watchlists and saved workspaces; live quotes need your own Kiwoom REST API key. ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
