@@ -1062,6 +1062,7 @@ Awesome Mac
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - macOSユーザー向けのクリーンで軽量な音楽プレイヤー。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [MacYTDL](https://github.com/section83/MacYTDL) - youtube-dlビデオダウンローダーのmacOS GUIフロントエンド。 [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
 * [Marker Data](https://github.com/TheAcharya/MarkerData) - Final Cut Pro向けに作られた先進的なマーカー抽出アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
+* [MediaFlowSwift](https://mediaflowswift.com/) - カメラのカードを検証付きでコピーし、映像素材を分類、確認、音声で検索、アーカイブする動画クリエイター向けアプリ。
 * [Metadatics](http://markvapps.com/metadatics) - 高度なオーディオメタデータエディター。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/metadatics/id554883654?platform=mac)
 * [Mp3tag](https://mp3tag.app/) - オーディオファイルのメタデータを編集するための強力で使いやすいツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/?platform=mac)
 * [Mixxx](http://mixxx.org/) - 最も高度な無料DJソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
