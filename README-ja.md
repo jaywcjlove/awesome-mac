@@ -1541,6 +1541,7 @@ Awesome Mac
 * [Folders File Manager](https://foldersapp.dev) - Windowsエクスプローラーに似た展開可能なフォルダツリーを持つファイルマネージャー。
 * [Hazel](https://www.noodlesoft.com) - Macのためのファイル自動整理ツール。責任を持って美しくデザインされています。
 * [Keka](https://www.keka.io) - 多くの形式に対応したオープンソースの圧縮・解凍ツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
+* [Lyncat Tria](https://tria.lyn.cat/en?utm_source=awesome-mac&utm_medium=directori&utm_campaign=tria-awesome-mac) - 平易な言葉で書いたルールに従って書類に名前を付け、整理するAIドキュメント整理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6824072668?platform=mac)
 * [muCommander](http://www.mucommander.com) - デュアルペインインターフェースを持つ軽量ファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vimスタイルのショートカットを備えたデュアルペインファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - RARやパスワード付きアーカイブに対応した圧縮・解凍ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
