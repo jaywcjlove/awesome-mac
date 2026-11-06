@@ -1730,6 +1730,7 @@ Awesome Mac
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 画面端をポインター操作で使えるクイックアクション領域に拡張するツール。 ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [mFix](https://github.com/Zingzy/mFix) - キーボードとドラッグでのウィンドウスナップ、スナップレイアウト、ライブプレビュー付きの Cmd+Tab ウィンドウスイッチャー、Dock のウィンドウプレビューを備えたオープンソースのウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Zingzy/mFix) ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - ウィンドウの移動、リサイズ、レイアウト保存を行うツール。
+* [MultiScreenDock](https://multiscreendock.fgomsan.here.now/) - 上下に並べたモニターを含むすべての接続ディスプレイに macOS の Dock をリアルタイムでミラーリングするネイティブ Swift ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fgomsan/MultiScreenDock) ![Freeware][Freeware Icon]
 * [Nudge](https://nudge.run) - キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - アニメーション付きのNiriおよびHyprlandにインスパイアされた公証済みタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
 * [Open Contexts](https://opencontexts.app/) - 常駐アプリバーと保存可能なウィンドウグループを備えたオープンソースのウィンドウ切り替えツール。 [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
