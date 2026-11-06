@@ -1222,6 +1222,7 @@ Awesome Mac
 ## ブラウザ
 
 * [Brave](https://brave.com/) - プライバシーと速度を重視したWebブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
+* [camber](https://www.yuvrajangadsingh.com/camber) - Chromium（Electron）ベースのオープンソース Arc スタイルブラウザ。Spaces、固定タブ、フォルダ、コマンドバー、Arc からのインポートに対応。 [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber) ![Freeware][Freeware Icon]
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPTを内蔵したブラウザ。 ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Googleが開発したChrome ![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Google Chromeの基盤となるオープンソースのブラウザプロジェクト。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)

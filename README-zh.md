@@ -1173,6 +1173,7 @@ Awesome Mac
 
 * [Arc](https://arc.net) - 采用工作区式界面的浏览器。 ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - 用 Brave 浏览更快更安全。 ![Freeware][Freeware Icon]
+* [camber](https://www.yuvrajangadsingh.com/camber) - 基于 Chromium（Electron）的开源 Arc 风格浏览器，支持 Spaces、固定标签页、文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber) ![Freeware][Freeware Icon]
 * [ChatGPT Atlas](https://chatgpt.com/atlas/) - 内置 ChatGPT 的浏览器。 ![Freeware][Freeware Icon]
 * [Chrome](http://www.google.cn/chrome/browser/) - Chrome 浏览器谷歌出品。![Freeware][Freeware Icon]
 * [Chromium](https://www.chromium.org/Home) - Google Chrome 背后的开源浏览器项目。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)

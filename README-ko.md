@@ -976,6 +976,7 @@ Awesome Mac
 ## 브라우저
 
 * [Brave](https://brave.com/) - 개인정보 보호와 속도에 중점을 둔 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser) ![Freeware][Freeware Icon]
+* [camber](https://www.yuvrajangadsingh.com/camber) - Chromium(Electron) 기반 오픈소스 Arc 스타일 브라우저. Spaces, 고정 탭, 폴더, 명령 바, Arc 가져오기 지원. [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber) ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Google의 웹 브라우저. ![Freeware][Freeware Icon]
 * [Firefox](https://www.mozilla.org/firefox/) - Mozilla의 자유 오픈 소스 웹 브라우저. [![Open-Source Software][OSS Icon]](https://hg.mozilla.org/mozilla-central) ![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 광고 차단 기능을 내장한 프라이버시 중심 Chromium 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
