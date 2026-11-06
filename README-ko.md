@@ -906,6 +906,7 @@ Awesome Mac
 * [VLC](https://www.videolan.org/vlc/) - 다양한 오디오, 비디오, 스트리밍 포맷을 재생하는 오픈 소스 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [Kaset](https://github.com/sozercan/kaset) - 라이브러리, 가사, 팟캐스트를 지원하는 오픈 소스 YouTube Music 클라이언트입니다. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - 플러그인 확장을 지원하는 YouTube Music 데스크톱 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
+* [UnitBasse](https://unitbasse.com/) - 지판 스케일, 튜너, 내 Audio Units를 불러오는 앰프와 이펙트, 오선보와 타브 악보, 16가지 스타일의 반주 밴드를 갖춘 베이스 연습 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6764106685) ![Native App][Native Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp 및 Metal 기반의 100% 온디바이스 음성 받아쓰기 및 회의 전사 도구. [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - 모든 통화를 기기에서 전사하고 화자를 구분하며, Apple Intelligence나 내 로컬 모델 서버로 출처가 달린 회의록을 작성하는 오픈 소스 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 텍스트 음성 변환, 음성 복제, 감정 조절, 노래 생성, MIDI 편곡을 모두 로컬에서 실행하는 음성 제작 도구. [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
