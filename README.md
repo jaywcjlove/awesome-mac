@@ -1004,6 +1004,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Sharing
 
+* [CrocApp](https://crocapp.dev/) - Open-source croc client for sending files, folders and text to another device with a code phrase, end-to-end encrypted. [![App Store][app-store Icon]](https://apps.apple.com/app/crocapp/id6805675003?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/bakirgdev/CrocApp) ![Freeware][Freeware Icon]
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - File sharing tool for screenshots, screen recordings, and other files.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - Peer-to-peer file transfer between computers and phones over local Wi-Fi. ![Freeware][Freeware Icon]
