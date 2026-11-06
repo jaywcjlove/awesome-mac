@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:59:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stage Manager</title>
+      <link>https://eugene-tea.github.io/stage-manager/</link>
+      <guid isPermaLink="false">ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070:Stage Manager</guid>
+      <pubDate>Fri, 06 Nov 2026 16:59:05 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Stage Manager
+Description: Rust로 만든 Apple 스테이지 매니저 대체 앱. 재시작 후에도 스테이지를 유지하고 Ctrl-Option-1..9로 전환.
+Website: https://eugene-tea.github.io/stage-manager/
+Commit: Add Stage Manager to Window Management (#4297)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Stage Manager<br/>Description: Rust로 만든 Apple 스테이지 매니저 대체 앱. 재시작 후에도 스테이지를 유지하고 Ctrl-Option-1..9로 전환.<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
+    </item>
     <item>
       <title>camber</title>
       <link>https://www.yuvrajangadsingh.com/camber</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/MacHatter1/ContainerDesk
 Commit: Add ContainerDesk to Virtualization (#4073)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: ContainerDesk<br/>Description: 실시간 리소스 모니터링과 통합 터미널을 제공하는 Apple container 런타임용 네이티브 SwiftUI 작업 공간.<br/>Open Source: https://github.com/MacHatter1/ContainerDesk<br/>Commit: Add ContainerDesk to Virtualization (#4073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c]]></content:encoded>
-    </item>
-    <item>
-      <title>Apolo</title>
-      <link>https://apolo.webcafeina.com/en/</link>
-      <guid isPermaLink="false">171ae7afaeafdedd91fd542255c22caa975e933c:Apolo</guid>
-      <pubDate>Fri, 30 Oct 2026 16:16:50 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Apolo
-Description: WebP, AVIF, JPEG XL, JPEG, PNG로 압축·변환하고 저장 전에 화질 손실과 SSIMULACRA 2 점수를 보여 주는 오픈 소스 이미지 최적화 도구.
-Website: https://apolo.webcafeina.com/en/
-Open Source: https://github.com/webcafeina/Apolo
-Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Apolo<br/>Description: WebP, AVIF, JPEG XL, JPEG, PNG로 압축·변환하고 저장 전에 화질 손실과 SSIMULACRA 2 점수를 보여 주는 오픈 소스 이미지 최적화 도구.<br/>Website: https://apolo.webcafeina.com/en/<br/>Open Source: https://github.com/webcafeina/Apolo<br/>Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c]]></content:encoded>
     </item>
   </channel>
 </rss>
