@@ -215,6 +215,7 @@ Awesome Mac
 
 ### 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [Abyss](https://abyss.md) - 입력하는 동안 소스에 바로 서식을 입히는 네이티브 마크다운 편집기. 위키링크, JSON Canvas 보드, 암호화된 작업 공간 지원. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Archimedes](https://furnacecreek.org/archimedes/) - 인라인 LaTeX를 지원하는 수학 쓰기에 최적화된 마크다운 편집기.
 * [Edmund](https://github.com/I7T5/Edmund) - 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
