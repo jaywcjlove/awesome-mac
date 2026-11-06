@@ -500,6 +500,7 @@ Awesome Mac
 
 * [Charles](https://www.charlesproxy.com/) - HTTP 프록시/모니터.
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 네트워크 연결 시각화 도구.
+* [MinpinProxy](https://minpinproxy.com) - 호스트별 HTTPS 복호화와 AI 코딩 어시스턴트용 MCP 서버를 내장한 네이티브 HTTP(S) 디버깅 프록시. ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - 인터랙티브 가로채기 HTTP 프록시. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 현대적이고 직관적인 HTTP 디버깅 프록시. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 요청 가로채기, 검사, 수정, 재전송을 지원하는 오픈 소스 HTTP(S) 디버깅 프록시입니다. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
