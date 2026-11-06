@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:41:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>camber</title>
+      <link>https://www.yuvrajangadsingh.com/camber</link>
+      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
+      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
+      <category>ブラウザ</category>
+      <description>Category: ブラウザ
+App: camber
+Description: Chromium（Electron）ベースのオープンソース Arc スタイルブラウザ。Spaces、固定タブ、フォルダ、コマンドバー、Arc からのインポートに対応。
+Website: https://www.yuvrajangadsingh.com/camber
+Open Source: https://github.com/yuvrajangadsingh/camber
+Commit: Add camber to Browsers (#4286)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
+      <content:encoded><![CDATA[Category: ブラウザ<br/>App: camber<br/>Description: Chromium（Electron）ベースのオープンソース Arc スタイルブラウザ。Spaces、固定タブ、フォルダ、コマンドバー、Arc からのインポートに対応。<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
+    </item>
     <item>
       <title>Convoy</title>
       <link>https://thedynamicpunk.github.io</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/webcafeina/Apolo
 Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Apolo<br/>Description: WebP、AVIF、JPEG XL、JPEG、PNG への圧縮・変換を行い、保存前に画質の劣化と SSIMULACRA 2 スコアを表示するオープンソースの画像最適化ツール。<br/>Website: https://apolo.webcafeina.com/en/<br/>Open Source: https://github.com/webcafeina/Apolo<br/>Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c]]></content:encoded>
-    </item>
-    <item>
-      <title>Safelight</title>
-      <link>https://github.com/mopfaff/Safelight</link>
-      <guid isPermaLink="false">83584eb4e0eeaba9315b7d34c8405997b028096c:Safelight</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:47 GMT</pubDate>
-      <category>ユーティリティ / 生活の質の向上</category>
-      <description>Category: ユーティリティ / 生活の質の向上
-App: Safelight
-Description: カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。
-Open Source: https://github.com/mopfaff/Safelight
-Commit: Add Safelight to Quality of Life Improvements (#4068)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Safelight<br/>Description: カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
     </item>
   </channel>
 </rss>
