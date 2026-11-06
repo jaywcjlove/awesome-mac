@@ -596,6 +596,7 @@ Awesome Mac
 * [Screenize](https://syi0808.github.io/screenize/) - 支持自动缩放、光标效果和时间轴编辑的开源录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 提供源代码的屏幕与音频录制工具，可搜索本地历史记录，支持可选云端 AI，并提供免费及付费方案。
 * [Tight Studio](https://tight.studio/) - 支持智能缩放、字幕和 AI 配音的录屏工具。
+* [TinyRecorder](https://www.tinyrecorder.app/zh-Hans/) - 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。 [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 
 ### 其它工具
 

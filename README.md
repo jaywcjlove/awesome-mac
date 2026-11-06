@@ -825,6 +825,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available screen and audio recorder with searchable local history, optional cloud AI, and free and paid plans.
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 * [Tight Studio](https://tight.studio/) - Screen recorder with smart zoom, captions, and AI voiceovers.
+* [TinyRecorder](https://www.tinyrecorder.app/en/) - Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder. [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
 
 ### Other Tools
