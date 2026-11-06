@@ -784,6 +784,7 @@ Awesome Mac
 
 ### 文件共享
 
+* [CrocApp](https://crocapp.dev/) - 开源的 croc 客户端，用一句代码短语向另一台设备发送文件、文件夹和文本，端到端加密。 [![App Store][app-store Icon]](https://apps.apple.com/app/crocapp/id6805675003?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/bakirgdev/CrocApp) ![Freeware][Freeware Icon]
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]
