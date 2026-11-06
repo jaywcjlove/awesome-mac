@@ -5,9 +5,126 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:18:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AllInOneIME</title>
+      <link>https://allinoneime.com</link>
+      <guid isPermaLink="false">7db3d7e513a41ddbe491d4c10962e11a60bc7542:AllInOneIME</guid>
+      <pubDate>Fri, 06 Nov 2026 05:18:16 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: AllInOneIME
+Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.
+Website: https://allinoneime.com
+Commit: Add AllInOneIME to Input Methods (#4285)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: AllInOneIME<br/>Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
+    </item>
+    <item>
+      <title>Koru</title>
+      <link>https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac</link>
+      <guid isPermaLink="false">353895d7a266af89a1f6d4e9ba5274ec8158bd38:Koru</guid>
+      <pubDate>Fri, 06 Nov 2026 01:49:46 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Koru
+Description: Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust.
+Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac
+Open Source: https://github.com/koruworks/mono
+Commit: Add Koru to Note-taking (#4248)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Koru<br/>Description: Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust.<br/>Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac<br/>Open Source: https://github.com/koruworks/mono<br/>Commit: Add Koru to Note-taking (#4248)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38]]></content:encoded>
+    </item>
+    <item>
+      <title>Roar</title>
+      <link>https://roarbrowser.app/</link>
+      <guid isPermaLink="false">e730c660e45035bb1f9a08455291479be8db7d81:Roar</guid>
+      <pubDate>Fri, 06 Nov 2026 01:28:03 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Roar
+Description: Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you.
+Website: https://roarbrowser.app/
+Open Source: https://github.com/roarbrowser/roar
+Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Roar<br/>Description: Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you.<br/>Website: https://roarbrowser.app/<br/>Open Source: https://github.com/roarbrowser/roar<br/>Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81]]></content:encoded>
+    </item>
+    <item>
+      <title>Wavo</title>
+      <link>https://github.com/vladkens/wavo-app</link>
+      <guid isPermaLink="false">620a549b3a0641bbe324c5db45fe3ba9b1b25e03:Wavo</guid>
+      <pubDate>Thu, 05 Nov 2026 16:15:50 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Wavo
+Description: Dictation that doesn&apos;t slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you&apos;re typing.
+Open Source: https://github.com/vladkens/wavo-app
+Commit: Add Wavo (#4269)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Wavo<br/>Description: Dictation that doesn&apos;t slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you&apos;re typing.<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
+    </item>
+    <item>
+      <title>Radif</title>
+      <link>https://www.yuvrajangadsingh.com/radif</link>
+      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
+      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Radif
+Description: Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium.
+Website: https://www.yuvrajangadsingh.com/radif
+Open Source: https://github.com/yuvrajangadsingh/radif
+Commit: Add Radif to Audio and Video Tools (#4254)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Radif<br/>Description: Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium.<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
+    </item>
+    <item>
+      <title>Flipic</title>
+      <link>https://github.com/xmasdong/flipic</link>
+      <guid isPermaLink="false">5332f616ef6769d37911874ab3386f074f887ab2:Flipic</guid>
+      <pubDate>Thu, 05 Nov 2026 05:45:37 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Flipic
+Description: Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.
+Open Source: https://github.com/xmasdong/flipic
+Commit: Add Flipic (#4241)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Flipic<br/>Description: Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.<br/>Open Source: https://github.com/xmasdong/flipic<br/>Commit: Add Flipic (#4241)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2]]></content:encoded>
+    </item>
+    <item>
+      <title>Saywing</title>
+      <link>https://www.christopherboebel.com/en/saywing</link>
+      <guid isPermaLink="false">0c5c446275ce2de91a5578f482143fd6af7d514c:Saywing</guid>
+      <pubDate>Thu, 05 Nov 2026 05:41:08 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: Saywing
+Description: Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.
+Website: https://www.christopherboebel.com/en/saywing
+Open Source: https://github.com/ChrBoebel/saywing
+Commit: Add Saywing to Reading and Writing Tools (#4240)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Saywing<br/>Description: Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
+    </item>
+    <item>
+      <title>Drifting</title>
+      <link>https://drifting.cc/</link>
+      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
+      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
+      <category>Reading and Writing Tools / Writing</category>
+      <description>Category: Reading and Writing Tools / Writing
+App: Drifting
+Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.
+Website: https://drifting.cc/
+Open Source: https://github.com/chihumyum/Drifting
+Commit: Add Drifting to Writing (#4220)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Drifting<br/>Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
+    </item>
     <item>
       <title>LumaRing</title>
       <link>https://github.com/potatoQi/LumaRing</link>
@@ -615,121 +732,6 @@ Open Source: https://github.com/Kernel-Hunter/mudroom
 Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Mudroom<br/>Description: Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
-    </item>
-    <item>
-      <title>Uptick</title>
-      <link>https://chengffei.github.io/uptick/</link>
-      <guid isPermaLink="false">a3a87607e461f836381e9493fd47a5119f04a71a:Uptick</guid>
-      <pubDate>Fri, 30 Oct 2026 15:55:45 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Uptick
-Description: Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.
-Website: https://chengffei.github.io/uptick/
-Commit: Add Uptick (#4067)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Uptick<br/>Description: Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.<br/>Website: https://chengffei.github.io/uptick/<br/>Commit: Add Uptick (#4067)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a]]></content:encoded>
-    </item>
-    <item>
-      <title>RAVE LIVE</title>
-      <link>https://github.com/jedbrnth-eng/rave-live</link>
-      <guid isPermaLink="false">45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd:RAVE LIVE</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:22 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: RAVE LIVE
-Description: Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.
-Open Source: https://github.com/jedbrnth-eng/rave-live
-Commit: Add RAVE LIVE (#4066)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: RAVE LIVE<br/>Description: Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.<br/>Open Source: https://github.com/jedbrnth-eng/rave-live<br/>Commit: Add RAVE LIVE (#4066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd]]></content:encoded>
-    </item>
-    <item>
-      <title>Lucid</title>
-      <link>https://lucid-wallpaper.vercel.app</link>
-      <guid isPermaLink="false">13aa11a30545ab7bf823c14713186d044478bda4:Lucid</guid>
-      <pubDate>Fri, 30 Oct 2026 15:44:41 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Lucid
-Description: Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.
-Website: https://lucid-wallpaper.vercel.app
-Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper
-Commit: Add Lucid (#4065)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Lucid<br/>Description: Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.<br/>Website: https://lucid-wallpaper.vercel.app<br/>Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper<br/>Commit: Add Lucid (#4065)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4]]></content:encoded>
-    </item>
-    <item>
-      <title>Bedrock Launcher</title>
-      <link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
-      <guid isPermaLink="false">68526c17c888713054c3bd924b2b34b6a0595ae9:Bedrock Launcher</guid>
-      <pubDate>Fri, 30 Oct 2026 11:59:16 GMT</pubDate>
-      <category>Gaming Software</category>
-      <description>Category: Gaming Software
-App: Bedrock Launcher
-Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.
-Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS
-Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9</description>
-      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Bedrock Launcher<br/>Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.<br/>Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS<br/>Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9]]></content:encoded>
-    </item>
-    <item>
-      <title>Matcha</title>
-      <link>https://github.com/jakeantelis/Matcha</link>
-      <guid isPermaLink="false">ec4c9420a67f5f6c073ea659d0c5657de75d3ccd:Matcha</guid>
-      <pubDate>Fri, 30 Oct 2026 10:02:46 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Matcha
-Description: Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.
-Open Source: https://github.com/jakeantelis/Matcha
-Commit: Add Matcha to System Related Tools (#4046)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Matcha<br/>Description: Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.<br/>Open Source: https://github.com/jakeantelis/Matcha<br/>Commit: Add Matcha to System Related Tools (#4046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd]]></content:encoded>
-    </item>
-    <item>
-      <title>Rebind</title>
-      <link>https://rebind.moduix.dev</link>
-      <guid isPermaLink="false">812b58d2765ee97c69006227f0f69586de42037b:Rebind</guid>
-      <pubDate>Fri, 30 Oct 2026 09:43:54 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Rebind
-Description: Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.
-Website: https://rebind.moduix.dev
-Open Source: https://github.com/Blinks44/rebind
-Commit: Add Rebind to Productivity (#4020)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Rebind<br/>Description: Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.<br/>Website: https://rebind.moduix.dev<br/>Open Source: https://github.com/Blinks44/rebind<br/>Commit: Add Rebind to Productivity (#4020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Meter</title>
-      <link>https://github.com/getguruhat/ai-meter</link>
-      <guid isPermaLink="false">2e931fa86320cf7fa199196dfce3a2316ca5095f:AI Meter</guid>
-      <pubDate>Fri, 30 Oct 2026 07:15:38 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: AI Meter
-Description: Shows your remaining Claude Code or Codex usage and reset time in the menu bar.
-Open Source: https://github.com/getguruhat/ai-meter
-Commit: Add AI Meter (#4004)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AI Meter<br/>Description: Shows your remaining Claude Code or Codex usage and reset time in the menu bar.<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
-    </item>
-    <item>
-      <title>tapflow</title>
-      <link>https://tapflow.dev</link>
-      <guid isPermaLink="false">4c9846a835a360aaba20440acebb6cdad4731abd:tapflow</guid>
-      <pubDate>Fri, 30 Oct 2026 07:02:16 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: tapflow
-Description: Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.
-Website: https://tapflow.dev
-Open Source: https://github.com/jo-duchan/tapflow
-Commit: Add tapflow to Developer Utilities (#3988)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: tapflow<br/>Description: Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
     </item>
   </channel>
 </rss>

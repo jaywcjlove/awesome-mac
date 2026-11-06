@@ -624,6 +624,7 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。[![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Lap](https://github.com/julyx10/lap) - 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - 开源照片管理工具，直接整理现有文件夹，支持本地人脸识别、搜索和无损编辑。 [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
+* [Flipic](https://github.com/xmasdong/flipic) - 摄影师挑片用的看图软件：方向键翻页、100% 查焦点、Lightroom 能读的 XMP 评分、本机清理模式。 [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 更快速和容易批量调整图像和加水印。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac) ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
@@ -821,6 +822,7 @@ Awesome Mac
 * [Presspeech](https://github.com/rcourtman/presspeech) - 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Tamka](https://www.piedol.top/tamka/) - 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - 支持全局热键的本地 Whisper 语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
+* [Wavo](https://github.com/vladkens/wavo-app) - 不拖慢 Mac 的语音听写工具：在神经网络引擎上运行，语音不上传云端，并把你说的话输入到你正在打字的任何地方。 [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 开源本地转写工具，支持音频、视频、YouTube 和会议，并可在任意应用中听写输入。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac) - 用于保存输入和输出设备配置的音频管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac)
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
@@ -902,6 +904,7 @@ Awesome Mac
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [Kaset](https://github.com/sozercan/kaset) - 支持资料库、歌词和播客的开源 YouTube Music 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
+* [Radif](https://www.yuvrajangadsingh.com/radif) - 基于 Tauri 的非官方开源 YouTube Music 客户端，支持同步歌词和视频模式，需要 YouTube Music Premium。 [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/radif) ![Freeware][Freeware Icon]
 * [Songtide](https://songtide.dcoded.dev) - 原生 YouTube Music 应用，带均衡器、可视化效果和同步歌词。 [![Open-Source Software][OSS Icon]](https://github.com/dcoded-dev/songtide) ![Freeware][Freeware Icon]
 * [SoundCloud for macOS](https://github.com/jettsba/SoundCloud-for-macOS) - 非官方的轻量级 SoundCloud macOS 应用。 [![Open-Source Software][OSS Icon]](https://github.com/jettsba/SoundCloud-for-macOS) ![Freeware][Freeware Icon]
 * [Spotifly](https://github.com/ralph/Spotifly) - 轻量级 Spotify 播放器，专注于快速播放控制。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
@@ -1003,6 +1006,7 @@ Awesome Mac
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。
 * [Knopo](https://github.com/alkalim/Knopo) - 原生 macOS 本地优先大纲笔记应用，以纯 Markdown 文件存储笔记。 [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。 [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
 * [LawPulse 法脉](https://lttxzmj.github.io/lawpulse-site/) - 给中国执业律师的本地离线法律库与法条笔记工具：500+ 部现行法律法规逐条检索，笔记挂在法条下自动成链，数据不出本机。 ![Freeware][Freeware Icon]
 * [leanote](http://app.leanote.com) - 支持 Markdown 的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - 一个以隐私为先的开源平台，用于知识管理和协作。 [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
@@ -1028,6 +1032,7 @@ Awesome Mac
 ### 写作
 
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Drifting](https://drifting.cc/) - 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。 [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - 有趣且极简的写作应用，带来真实打字机的手感。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 一个开源的纯文本编辑器，专为写小说设计。它支持类似 Markdown 的最小语法来格式化文本。 [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台
@@ -1065,6 +1070,7 @@ Awesome Mac
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - 可以查看，创建，签名，转换和压缩任何 PDF 文档。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
 * [PDFsail](https://pdfsail.com/) - 集编辑、转换、合并、压缩和 OCR 于一体的 PDF 工具。
 * [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有 markdown 支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
+* [Saywing](https://www.christopherboebel.com/en/saywing) - 使用本地 OCR 和神经语音朗读选定屏幕区域，并支持离线英语和德语听写的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/ChrBoebel/saywing) ![Freeware][Freeware Icon]
 * [Skim](http://skim-app.sourceforge.net) - PDF 阅读器和笔记本。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SmoothCSV](https://smoothcsv.com/) - 支持 SQL 查询的快速全功能 CSV 编辑器。 ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观、快速网络书签网页阅读。
@@ -1135,6 +1141,7 @@ Awesome Mac
 
 ## 输入法
 
+* [AllInOneIME](https://allinoneime.com) - 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [imewlconverter](https://github.com/studyzy/imewlconverter) 深蓝词库转换,一款开源免费的输入法词库转换程序 [![Open-Source Software][OSS Icon]](https://github.com/studyzy/imewlconverter) ![Freeware][Freeware Icon]
 * [fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - 小企鹅输入法 macOS版本 [![Open-Source Software][OSS Icon]](https://github.com/fcitx-contrib/fcitx5-macos) ![Freeware][Freeware Icon]
 * [Keyameleon](https://keyameleon.app/) - 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1171,6 +1178,7 @@ Awesome Mac
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ 浏览器－腾讯出品。![Freeware][Freeware Icon]
+* [Roar](https://roarbrowser.app/) - 用本地或自带 AI 模型替你打开网页、阅读与填表的开源智能体浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](http://www.apple.com/cn/safari/) - Mac 预装自带浏览器。![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Stedding](https://stedding.dev/) - 基于 Chromium 的开源 Arc 风格浏览器，支持 Spaces、垂直标签页、置顶文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - 理解上下文、支持网页对话与任务自动化的 AI 原生浏览器。![Freeware][Freeware Icon]
@@ -1488,7 +1496,6 @@ Awesome Mac
 * [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MemStats](https://memstats.chungxon.dev/) - 菜单栏内存监控工具，按用户账户拆分内存占用，将辅助进程归并到所属应用，并显示内存压力和交换空间。 [![Open-Source Software][OSS Icon]](https://github.com/sown-oss/MemStats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - 在菜单栏用小螃蟹实时显示 Claude Code 各会话状态：工作时走动，等待输入时跳动。 [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
-* [MenuBarMijia](https://github.com/jryang1997/MenuBarMijia) - 在菜单栏用语音或键盘控制米家设备，支持米家云扫码登录或 Home Assistant（需 macOS 14+）。[![Open-Source Software][OSS Icon]](https://github.com/jryang1997/MenuBarMijia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarX](https://menubarx.app/) - 一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/menubarx-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E6%B5%8F%E8%A7%88%E5%99%A8/id1575588022?platform=mac)
 * [MenuScores](https://menuscores.vercel.app/) - 一在菜单栏实时呈现体育资讯与比分的应用。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [Repose](https://github.com/fikrikarim/repose) - 一款会在休息时间调暗屏幕并在通话时自动暂停的菜单栏休息计时器。 [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]

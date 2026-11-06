@@ -282,6 +282,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - Native macOS outliner for local-first notes stored as plain Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust. [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
 * [LawPulse](https://lttxzmj.github.io/lawpulse-site/) - Local-first legal research tool for Chinese lawyers: offline statute library with per-article notes; all data stays on your Mac. ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
@@ -319,6 +320,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Writing
 
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Drifting](https://drifting.cc/) - Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
@@ -371,6 +373,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 * [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079?platform=mac)
 * [PDF Reader Pro](https://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
+* [Saywing](https://www.christopherboebel.com/en/saywing) - Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation. [![Open-Source Software][OSS Icon]](https://github.com/ChrBoebel/saywing) ![Freeware][Freeware Icon]
 * [Skim](https://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 * [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
@@ -840,6 +843,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [Featherview](https://featherview.mynetx.net) - Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion. [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
+* [Flipic](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode. [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 * [Iconjar](https://geticonjar.com/) - Icon management tool to organize or search your icons.
@@ -1081,6 +1085,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Popcorn Time](https://popcorn-time.site/) - Streaming app for browsing and watching torrent-based movies.[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
 * [Pulp](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/bazalp/pulp)
+* [Radif](https://www.yuvrajangadsingh.com/radif) - Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium. [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/radif) ![Freeware][Freeware Icon]
 * [RAVE LIVE](https://github.com/jedbrnth-eng/rave-live) - Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets. [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/rave-live) ![Freeware][Freeware Icon]
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
@@ -1169,6 +1174,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Input Methods
 
+* [AllInOneIME](https://allinoneime.com) - Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Keyameleon](https://keyameleon.app/) - Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
@@ -1205,6 +1211,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Voltip](https://voltip.firlab.app/) - Open-source push-to-talk dictation with on-device or cloud recognition, AI polish, and a paired Android phone as an optional microphone. [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows. [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
+* [Wavo](https://github.com/vladkens/wavo-app) - Dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
@@ -1226,6 +1233,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Ora](https://www.orabrowser.com/) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
+* [Roar](https://roarbrowser.app/) - Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you. [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Stedding](https://stedding.dev/) - Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware][Freeware Icon]
@@ -1438,7 +1446,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MemStats](https://memstats.chungxon.dev/) - Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap. [![Open-Source Software][OSS Icon]](https://github.com/sown-oss/MemStats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - A monthly calendar right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383?platform=mac)
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you. [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
-* [MenuBarMijia](https://github.com/jryang1997/MenuBarMijia) - Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 14+). [![Open-Source Software][OSS Icon]](https://github.com/jryang1997/MenuBarMijia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarX](https://menubarx.app/) - A powerful Mac menu bar browser, pin webpage like an App. [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022?platform=mac) ![Freeware][Freeware Icon]
 * [MenuScores](https://menuscores.vercel.app/) - A menu bar app that delivers real-time sports news and scores. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - Menu bar app with per-app & tab volume control, 10-band EQ with native style UI. [![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]

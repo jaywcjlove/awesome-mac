@@ -5,9 +5,126 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:18:16 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AllInOneIME</title>
+      <link>https://allinoneime.com</link>
+      <guid isPermaLink="false">7db3d7e513a41ddbe491d4c10962e11a60bc7542:AllInOneIME</guid>
+      <pubDate>Fri, 06 Nov 2026 05:18:16 GMT</pubDate>
+      <category>输入法</category>
+      <description>Category: 输入法
+App: AllInOneIME
+Description: 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。
+Website: https://allinoneime.com
+Commit: Add AllInOneIME to Input Methods (#4285)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
+      <content:encoded><![CDATA[Category: 输入法<br/>App: AllInOneIME<br/>Description: 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
+    </item>
+    <item>
+      <title>Koru</title>
+      <link>https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac</link>
+      <guid isPermaLink="false">353895d7a266af89a1f6d4e9ba5274ec8158bd38:Koru</guid>
+      <pubDate>Fri, 06 Nov 2026 01:49:46 GMT</pubDate>
+      <category>阅读与写作工具 / 笔记</category>
+      <description>Category: 阅读与写作工具 / 笔记
+App: Koru
+Description: 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。
+Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac
+Open Source: https://github.com/koruworks/mono
+Commit: Add Koru to Note-taking (#4248)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Koru<br/>Description: 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。<br/>Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac<br/>Open Source: https://github.com/koruworks/mono<br/>Commit: Add Koru to Note-taking (#4248)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38]]></content:encoded>
+    </item>
+    <item>
+      <title>Roar</title>
+      <link>https://roarbrowser.app/</link>
+      <guid isPermaLink="false">e730c660e45035bb1f9a08455291479be8db7d81:Roar</guid>
+      <pubDate>Fri, 06 Nov 2026 01:28:03 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Roar
+Description: 用本地或自带 AI 模型替你打开网页、阅读与填表的开源智能体浏览器。
+Website: https://roarbrowser.app/
+Open Source: https://github.com/roarbrowser/roar
+Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Roar<br/>Description: 用本地或自带 AI 模型替你打开网页、阅读与填表的开源智能体浏览器。<br/>Website: https://roarbrowser.app/<br/>Open Source: https://github.com/roarbrowser/roar<br/>Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81]]></content:encoded>
+    </item>
+    <item>
+      <title>Wavo</title>
+      <link>https://github.com/vladkens/wavo-app</link>
+      <guid isPermaLink="false">620a549b3a0641bbe324c5db45fe3ba9b1b25e03:Wavo</guid>
+      <pubDate>Thu, 05 Nov 2026 16:15:50 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Wavo
+Description: 不拖慢 Mac 的语音听写工具：在神经网络引擎上运行，语音不上传云端，并把你说的话输入到你正在打字的任何地方。
+Open Source: https://github.com/vladkens/wavo-app
+Commit: Add Wavo (#4269)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Wavo<br/>Description: 不拖慢 Mac 的语音听写工具：在神经网络引擎上运行，语音不上传云端，并把你说的话输入到你正在打字的任何地方。<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
+    </item>
+    <item>
+      <title>Radif</title>
+      <link>https://www.yuvrajangadsingh.com/radif</link>
+      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
+      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
+      <category>音频和视频 / 流媒体音乐播放器</category>
+      <description>Category: 音频和视频 / 流媒体音乐播放器
+App: Radif
+Description: 基于 Tauri 的非官方开源 YouTube Music 客户端，支持同步歌词和视频模式，需要 YouTube Music Premium。
+Website: https://www.yuvrajangadsingh.com/radif
+Open Source: https://github.com/yuvrajangadsingh/radif
+Commit: Add Radif to Audio and Video Tools (#4254)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 流媒体音乐播放器<br/>App: Radif<br/>Description: 基于 Tauri 的非官方开源 YouTube Music 客户端，支持同步歌词和视频模式，需要 YouTube Music Premium。<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
+    </item>
+    <item>
+      <title>Flipic</title>
+      <link>https://github.com/xmasdong/flipic</link>
+      <guid isPermaLink="false">5332f616ef6769d37911874ab3386f074f887ab2:Flipic</guid>
+      <pubDate>Thu, 05 Nov 2026 05:45:37 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Flipic
+Description: 摄影师挑片用的看图软件：方向键翻页、100% 查焦点、Lightroom 能读的 XMP 评分、本机清理模式。
+Open Source: https://github.com/xmasdong/flipic
+Commit: Add Flipic (#4241)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Flipic<br/>Description: 摄影师挑片用的看图软件：方向键翻页、100% 查焦点、Lightroom 能读的 XMP 评分、本机清理模式。<br/>Open Source: https://github.com/xmasdong/flipic<br/>Commit: Add Flipic (#4241)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2]]></content:encoded>
+    </item>
+    <item>
+      <title>Saywing</title>
+      <link>https://www.christopherboebel.com/en/saywing</link>
+      <guid isPermaLink="false">0c5c446275ce2de91a5578f482143fd6af7d514c:Saywing</guid>
+      <pubDate>Thu, 05 Nov 2026 05:41:08 GMT</pubDate>
+      <category>电子书 / 其他</category>
+      <description>Category: 电子书 / 其他
+App: Saywing
+Description: 使用本地 OCR 和神经语音朗读选定屏幕区域，并支持离线英语和德语听写的开源工具。
+Website: https://www.christopherboebel.com/en/saywing
+Open Source: https://github.com/ChrBoebel/saywing
+Commit: Add Saywing to Reading and Writing Tools (#4240)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
+      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: Saywing<br/>Description: 使用本地 OCR 和神经语音朗读选定屏幕区域，并支持离线英语和德语听写的开源工具。<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
+    </item>
+    <item>
+      <title>Drifting</title>
+      <link>https://drifting.cc/</link>
+      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
+      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: Drifting
+Description: 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。
+Website: https://drifting.cc/
+Open Source: https://github.com/chihumyum/Drifting
+Commit: Add Drifting to Writing (#4220)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Drifting<br/>Description: 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
+    </item>
     <item>
       <title>LumaRing</title>
       <link>https://github.com/potatoQi/LumaRing</link>
@@ -615,122 +732,6 @@ Open Source: https://github.com/Kernel-Hunter/mudroom
 Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Mudroom<br/>Description: 开源应用和命令行工具，在 Linux 微虚拟机中基于项目的写时复制克隆运行 Claude Code、Codex 等编程智能体，并可像审查 Pull Request 一样审阅和应用其改动。<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
-    </item>
-    <item>
-      <title>Uptick</title>
-      <link>https://chengffei.github.io/uptick/</link>
-      <guid isPermaLink="false">a3a87607e461f836381e9493fd47a5119f04a71a:Uptick</guid>
-      <pubDate>Fri, 30 Oct 2026 15:55:45 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Uptick
-Description: 开源的应用更新工具，从 App Store、Sparkle、Electron 更新源和 Homebrew 查找更新，安装前核对每个下载包。
-Website: https://chengffei.github.io/uptick/
-Open Source: https://github.com/chengffei/uptick
-Commit: Add Uptick (#4067)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Uptick<br/>Description: 开源的应用更新工具，从 App Store、Sparkle、Electron 更新源和 Homebrew 查找更新，安装前核对每个下载包。<br/>Website: https://chengffei.github.io/uptick/<br/>Open Source: https://github.com/chengffei/uptick<br/>Commit: Add Uptick (#4067)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a]]></content:encoded>
-    </item>
-    <item>
-      <title>RAVE LIVE</title>
-      <link>https://github.com/jedbrnth-eng/rave-live</link>
-      <guid isPermaLink="false">45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd:RAVE LIVE</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:22 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: RAVE LIVE
-Description: 跟随 Mac 正在播放音乐的节拍同步的音乐节灯光秀，包含舞台灯光、激光和 MilkDrop 预设。
-Open Source: https://github.com/jedbrnth-eng/rave-live
-Commit: Add RAVE LIVE (#4066)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: RAVE LIVE<br/>Description: 跟随 Mac 正在播放音乐的节拍同步的音乐节灯光秀，包含舞台灯光、激光和 MilkDrop 预设。<br/>Open Source: https://github.com/jedbrnth-eng/rave-live<br/>Commit: Add RAVE LIVE (#4066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd]]></content:encoded>
-    </item>
-    <item>
-      <title>Lucid</title>
-      <link>https://lucid-wallpaper.vercel.app</link>
-      <guid isPermaLink="false">13aa11a30545ab7bf823c14713186d044478bda4:Lucid</guid>
-      <pubDate>Fri, 30 Oct 2026 15:44:41 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Lucid
-Description: 在每块显示器上播放太空、自然与海洋循环视频及 Apple Aerials 的 4K 动态壁纸。
-Website: https://lucid-wallpaper.vercel.app
-Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper
-Commit: Add Lucid (#4065)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Lucid<br/>Description: 在每块显示器上播放太空、自然与海洋循环视频及 Apple Aerials 的 4K 动态壁纸。<br/>Website: https://lucid-wallpaper.vercel.app<br/>Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper<br/>Commit: Add Lucid (#4065)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4]]></content:encoded>
-    </item>
-    <item>
-      <title>Bedrock Launcher</title>
-      <link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
-      <guid isPermaLink="false">68526c17c888713054c3bd924b2b34b6a0595ae9:Bedrock Launcher</guid>
-      <pubDate>Fri, 30 Oct 2026 11:59:16 GMT</pubDate>
-      <category>游戏软件</category>
-      <description>Category: 游戏软件
-App: Bedrock Launcher
-Description: 通过本地构建的 WineGDK 和 DXMT，在 Apple Silicon 上完全离线运行你自己的 Windows 版 Minecraft 基岩版。
-Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS
-Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9</description>
-      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Bedrock Launcher<br/>Description: 通过本地构建的 WineGDK 和 DXMT，在 Apple Silicon 上完全离线运行你自己的 Windows 版 Minecraft 基岩版。<br/>Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS<br/>Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9]]></content:encoded>
-    </item>
-    <item>
-      <title>Matcha</title>
-      <link>https://github.com/jakeantelis/Matcha</link>
-      <guid isPermaLink="false">ec4c9420a67f5f6c073ea659d0c5657de75d3ccd:Matcha</guid>
-      <pubDate>Fri, 30 Oct 2026 10:02:46 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Matcha
-Description: 保持 Mac 唤醒，提供可视化计时器和悬浮徽标，并可检测正在运行的 AI 编程智能体。
-Open Source: https://github.com/jakeantelis/Matcha
-Commit: Add Matcha to System Related Tools (#4046)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Matcha<br/>Description: 保持 Mac 唤醒，提供可视化计时器和悬浮徽标，并可检测正在运行的 AI 编程智能体。<br/>Open Source: https://github.com/jakeantelis/Matcha<br/>Commit: Add Matcha to System Related Tools (#4046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd]]></content:encoded>
-    </item>
-    <item>
-      <title>Rebind</title>
-      <link>https://rebind.moduix.dev</link>
-      <guid isPermaLink="false">812b58d2765ee97c69006227f0f69586de42037b:Rebind</guid>
-      <pubDate>Fri, 30 Oct 2026 09:43:54 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Rebind
-Description: 开源工具，可将按键、鼠标按钮和触控板手势映射为快捷键和系统操作。
-Website: https://rebind.moduix.dev
-Open Source: https://github.com/Blinks44/rebind
-Commit: Add Rebind to Productivity (#4020)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Rebind<br/>Description: 开源工具，可将按键、鼠标按钮和触控板手势映射为快捷键和系统操作。<br/>Website: https://rebind.moduix.dev<br/>Open Source: https://github.com/Blinks44/rebind<br/>Commit: Add Rebind to Productivity (#4020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Meter</title>
-      <link>https://github.com/getguruhat/ai-meter</link>
-      <guid isPermaLink="false">2e931fa86320cf7fa199196dfce3a2316ca5095f:AI Meter</guid>
-      <pubDate>Fri, 30 Oct 2026 07:15:38 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: AI Meter
-Description: 在菜单栏显示 Claude Code 或 Codex 的剩余用量和重置时间。
-Open Source: https://github.com/getguruhat/ai-meter
-Commit: Add AI Meter (#4004)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: AI Meter<br/>Description: 在菜单栏显示 Claude Code 或 Codex 的剩余用量和重置时间。<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
-    </item>
-    <item>
-      <title>tapflow</title>
-      <link>https://tapflow.dev</link>
-      <guid isPermaLink="false">4c9846a835a360aaba20440acebb6cdad4731abd:tapflow</guid>
-      <pubDate>Fri, 30 Oct 2026 07:02:16 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: tapflow
-Description: 自托管工具，在团队已有的 Mac 上通过浏览器测试 iOS 模拟器和 Android 模拟器。
-Website: https://tapflow.dev
-Open Source: https://github.com/jo-duchan/tapflow
-Commit: Add tapflow to Developer Utilities (#3988)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: tapflow<br/>Description: 自托管工具，在团队已有的 Mac 上通过浏览器测试 iOS 模拟器和 Android 模拟器。<br/>Website: https://tapflow.dev<br/>Open Source: https://github.com/jo-duchan/tapflow<br/>Commit: Add tapflow to Developer Utilities (#3988)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4c9846a835a360aaba20440acebb6cdad4731abd]]></content:encoded>
     </item>
   </channel>
 </rss>
