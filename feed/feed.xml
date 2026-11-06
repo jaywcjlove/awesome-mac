@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Convoy</title>
+      <link>https://thedynamicpunk.github.io</link>
+      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
+      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Convoy
+Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.
+Website: https://thedynamicpunk.github.io
+Open Source: https://github.com/TheDynamicPunk/Convoy
+Commit: Add Convoy to Download Management Tools (#4281)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Convoy<br/>Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
+    </item>
     <item>
       <title>lmux</title>
       <link>https://github.com/sooftware/lmux</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/flickbar/flickbar
 Commit: Add Flickbar to Window Management (#4083)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Flickbar<br/>Description: Open-source window manager driven by trackpad gestures on window title bars.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Swamp Converter</title>
-      <link>https://github.com/aansonsa/swamp-converter</link>
-      <guid isPermaLink="false">30976c97157c9f6dfeda4e263873e52c81caa4bf:Swamp Converter</guid>
-      <pubDate>Sat, 31 Oct 2026 00:15:23 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Swamp Converter
-Description: Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.
-Open Source: https://github.com/aansonsa/swamp-converter
-Commit: Add Swamp Converter to Menu Bar Tools (#4079)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Swamp Converter<br/>Description: Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
     </item>
   </channel>
 </rss>

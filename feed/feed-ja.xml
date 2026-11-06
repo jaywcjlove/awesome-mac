@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Convoy</title>
+      <link>https://thedynamicpunk.github.io</link>
+      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
+      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
+      <category>ダウンロード管理ツール</category>
+      <description>Category: ダウンロード管理ツール
+App: Convoy
+Description: 分割ダウンロード、ブラウザ連携、HLS/DASHストリームに対応したオープンソースのダウンロードマネージャー。
+Website: https://thedynamicpunk.github.io
+Open Source: https://github.com/TheDynamicPunk/Convoy
+Commit: Add Convoy to Download Management Tools (#4281)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
+      <content:encoded><![CDATA[Category: ダウンロード管理ツール<br/>App: Convoy<br/>Description: 分割ダウンロード、ブラウザ連携、HLS/DASHストリームに対応したオープンソースのダウンロードマネージャー。<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
+    </item>
     <item>
       <title>lmux</title>
       <link>https://github.com/sooftware/lmux</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/mopfaff/Safelight
 Commit: Add Safelight to Quality of Life Improvements (#4068)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Safelight<br/>Description: カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
-    </item>
-    <item>
-      <title>Mudroom</title>
-      <link>https://github.com/Kernel-Hunter/mudroom</link>
-      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
-      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Mudroom
-Description: Claude Code や Codex などのコーディングエージェントを、プロジェクトのコピーオンライトクローン上の Linux マイクロ VM で実行し、プルリクエストのように変更をレビューして適用できるオープンソースのアプリと CLI。
-Open Source: https://github.com/Kernel-Hunter/mudroom
-Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Mudroom<br/>Description: Claude Code や Codex などのコーディングエージェントを、プロジェクトのコピーオンライトクローン上の Linux マイクロ VM で実行し、プルリクエストのように変更をレビューして適用できるオープンソースのアプリと CLI。<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
     </item>
   </channel>
 </rss>

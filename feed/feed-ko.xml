@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Convoy</title>
+      <link>https://thedynamicpunk.github.io</link>
+      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
+      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
+      <category>다운로드 관리 도구</category>
+      <description>Category: 다운로드 관리 도구
+App: Convoy
+Description: 분할 다운로드, 브라우저 연동, HLS 및 DASH 스트림을 지원하는 오픈 소스 다운로드 관리자.
+Website: https://thedynamicpunk.github.io
+Open Source: https://github.com/TheDynamicPunk/Convoy
+Commit: Add Convoy to Download Management Tools (#4281)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
+      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Convoy<br/>Description: 분할 다운로드, 브라우저 연동, HLS 및 DASH 스트림을 지원하는 오픈 소스 다운로드 관리자.<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
+    </item>
     <item>
       <title>lmux</title>
       <link>https://github.com/sooftware/lmux</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/mopfaff/Safelight
 Commit: Add Safelight to Quality of Life Improvements (#4068)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Safelight<br/>Description: 색상 필터, 밝기, 라이트/다크 모드를 일정에 따라 조절하고 밤에는 화면을 짙은 빨간색으로 바꾸는 오픈 소스 메뉴 막대 앱.<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
-    </item>
-    <item>
-      <title>Mudroom</title>
-      <link>https://github.com/Kernel-Hunter/mudroom</link>
-      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
-      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Mudroom
-Description: Claude Code, Codex 같은 코딩 에이전트를 프로젝트의 쓰기 시 복사 클론 위 Linux 마이크로 VM에서 실행하고, 풀 리퀘스트처럼 변경 사항을 검토하고 적용하는 오픈 소스 앱 및 CLI.
-Open Source: https://github.com/Kernel-Hunter/mudroom
-Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Mudroom<br/>Description: Claude Code, Codex 같은 코딩 에이전트를 프로젝트의 쓰기 시 복사 클론 위 Linux 마이크로 VM에서 실행하고, 풀 리퀘스트처럼 변경 사항을 검토하고 적용하는 오픈 소스 앱 및 CLI.<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Convoy</title>
+      <link>https://thedynamicpunk.github.io</link>
+      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
+      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
+      <category>下载工具</category>
+      <description>Category: 下载工具
+App: Convoy
+Description: 支持分段下载、浏览器集成以及 HLS 和 DASH 流媒体的开源下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy)
+Website: https://thedynamicpunk.github.io
+Open Source: https://github.com/TheDynamicPunk/Convoy
+Commit: Add Convoy to Download Management Tools (#4281)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
+      <content:encoded><![CDATA[Category: 下载工具<br/>App: Convoy<br/>Description: 支持分段下载、浏览器集成以及 HLS 和 DASH 流媒体的开源下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy)<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
+    </item>
     <item>
       <title>lmux</title>
       <link>https://github.com/sooftware/lmux</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/flickbar/flickbar
 Commit: Add Flickbar to Window Management (#4083)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Flickbar<br/>Description: 开源窗口管理工具，通过在窗口标题栏上使用触控板手势来贴靠、调整和移动窗口。<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Swamp Converter</title>
-      <link>https://github.com/aansonsa/swamp-converter</link>
-      <guid isPermaLink="false">30976c97157c9f6dfeda4e263873e52c81caa4bf:Swamp Converter</guid>
-      <pubDate>Sat, 31 Oct 2026 00:15:23 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Swamp Converter
-Description: 菜单栏文件转换工具：拖动文件时按一下按键，把文件放到转盘上即可转换视频、音频、图片和 PDF。
-Open Source: https://github.com/aansonsa/swamp-converter
-Commit: Add Swamp Converter to Menu Bar Tools (#4079)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Swamp Converter<br/>Description: 菜单栏文件转换工具：拖动文件时按一下按键，把文件放到转盘上即可转换视频、音频、图片和 PDF。<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
     </item>
   </channel>
 </rss>
