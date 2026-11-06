@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>lmux</title>
+      <link>https://github.com/sooftware/lmux</link>
+      <guid isPermaLink="false">d0d853eee29c372b67fe2f1f68c371afe5ea4ca1:lmux</guid>
+      <pubDate>Fri, 06 Nov 2026 07:02:01 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: lmux
+Description: 基于 libghostty 构建的轻量终端，用于运行 Claude Code 和 Codex 会话，并在侧边栏显示 agent 状态。
+Open Source: https://github.com/sooftware/lmux
+Commit: Add lmux to Terminal Apps (#4268)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: lmux<br/>Description: 基于 libghostty 构建的轻量终端，用于运行 Claude Code 和 Codex 会话，并在侧边栏显示 agent 状态。<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
+    </item>
     <item>
       <title>TinyRecorder</title>
       <link>https://www.tinyrecorder.app/zh-Hans/</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/aansonsa/swamp-converter
 Commit: Add Swamp Converter to Menu Bar Tools (#4079)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Swamp Converter<br/>Description: 菜单栏文件转换工具：拖动文件时按一下按键，把文件放到转盘上即可转换视频、音频、图片和 PDF。<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://github.com/emgeorrk/pulse</link>
-      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
-      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Pulse
-Description: 在菜单栏实时显示 CPU、内存、温度、风扇、网络、磁盘、功耗和电池状态的系统监视器。
-Open Source: https://github.com/emgeorrk/pulse
-Commit: Add Pulse (menu bar system monitor) (#2381)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Pulse<br/>Description: 在菜单栏实时显示 CPU、内存、温度、风扇、网络、磁盘、功耗和电池状态的系统监视器。<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
     </item>
   </channel>
 </rss>

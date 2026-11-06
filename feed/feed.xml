@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:02:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>lmux</title>
+      <link>https://github.com/sooftware/lmux</link>
+      <guid isPermaLink="false">d0d853eee29c372b67fe2f1f68c371afe5ea4ca1:lmux</guid>
+      <pubDate>Fri, 06 Nov 2026 07:02:01 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: lmux
+Description: Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar.
+Open Source: https://github.com/sooftware/lmux
+Commit: Add lmux to Terminal Apps (#4268)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: lmux<br/>Description: Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar.<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
+    </item>
     <item>
       <title>TinyRecorder</title>
       <link>https://www.tinyrecorder.app/en/</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/aansonsa/swamp-converter
 Commit: Add Swamp Converter to Menu Bar Tools (#4079)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Swamp Converter<br/>Description: Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://github.com/emgeorrk/pulse</link>
-      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
-      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Pulse
-Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.
-Open Source: https://github.com/emgeorrk/pulse
-Commit: Add Pulse (menu bar system monitor) (#2381)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Pulse<br/>Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
     </item>
   </channel>
 </rss>
