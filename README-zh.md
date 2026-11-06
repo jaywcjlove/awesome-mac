@@ -933,6 +933,7 @@ Awesome Mac
 * [Segue](https://segue.npearce.me/) - 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
+* [TapScribe](https://tapscribe.app/) - 录制会议并在本地完成英语转写，支持音频回放和 Markdown 导出。 ![Native App][Native Icon]
 * [Tingo](https://github.com/tancheng33/tingo) - 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。 [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - 基于 whisper.cpp 与 Metal 的完全本地语音听写与会议转录工具。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
