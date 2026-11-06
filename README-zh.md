@@ -1285,6 +1285,7 @@ Awesome Mac
 * [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern)![Freeware][Freeware Icon]
 * [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) - 一个以mihomo内核的GUI [![Open-Source Software][OSS Icon]](https://github.com/mihomo-party-org/mihomo-party) ![Freeware][Freeware Icon]
 * [Outline](https://getoutline.org/) - 借助 Outline，创建 VPN 服务器变得轻而易举，从而让任何人都能访问自由、开放的互联网。[![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code)![Freeware][Freeware Icon]
+* [Proton VPN Menu Bar](https://github.com/stevelacey/proton-vpn-menubar) - 非官方的 Proton VPN 菜单栏应用，支持国家搜索、Secure Core、终止开关和端口转发。 [![Open-Source Software][OSS Icon]](https://github.com/stevelacey/proton-vpn-menubar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks)![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)![Freeware][Freeware Icon]
 * [sing-box](https://github.com/SagerNet/sing-box) - 通用代理平台。 [![Open-Source Software][OSS Icon]](https://github.com/SagerNet/sing-box) ![Freeware][Freeware Icon]
