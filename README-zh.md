@@ -934,6 +934,9 @@ Awesome Mac
 * [Utter](https://github.com/h3x-levi/Utter) - 基于 whisper.cpp 与 Metal 的完全本地语音听写与会议转录工具。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。 [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
+* [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac) - 专注氛围小窗：动态雨声、壁炉、咖啡馆场景，助你深度工作。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac)
+* [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - 静谧雨声氛围，陪伴专注与入睡。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
+* [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac) - 端侧会议纪要：录音、转写并生成可执行待办。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac)
 
 ## 阅读与写作工具
 
@@ -1738,6 +1741,8 @@ Awesome Mac
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 用常用应用快速打开所选文件或文件夹的 Finder 扩展。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
+* [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046) - 基于 Apache Lucene 的极速本地文件搜索，实时索引毫秒级定位。 [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046)
+* [KinetMagicDisk](https://apps.apple.com/us/app/kinetmagicdisk-ai-disk-analyzer/id6813423397) - AI 驱动的磁盘空间分析器，可视化空间占用并用自然语言清理。 [![App Store](https://jaywcjlove.github.io/sb/ico/min-appstore.svg "App Store Software")](https://apps.apple.com/us/app/kinetmagicdisk-ai-disk-analyzer/id6813423397)
 
 ## 游戏软件
 

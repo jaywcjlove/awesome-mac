@@ -1136,6 +1136,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Utter](https://github.com/h3x-levi/Utter) - On-device voice dictation and meeting transcription powered by whisper.cpp and Metal. [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - Open-source meeting notes app that transcribes any call on device, tells speakers apart and writes cited minutes with Apple Intelligence or your own local model server. [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - Local voice creation studio with text-to-speech, voice cloning, emotion control, song generation and MIDI scoring, all running on-device. [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
+* [KinetRain](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac) - Calm rain-sound ambience for focus and sleep. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetrain-rain-sounds/id6814033986?platform=mac)
+* [DriftDesk](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac) - Focus ambience desklet: dynamic rain, fireplace, café scenes for deep work. [![App Store][app-store Icon]](https://apps.apple.com/us/app/driftdesk-focus-ambience/id6817377455?platform=mac)
 
 ## Download Management Tools
 
@@ -1214,6 +1216,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
+* [KinetMinutes](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac) - On-device meeting notes: record, transcribe and turn talk into actionable minutes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetminutes-meeting-notes/id6813593104?platform=mac)
 
 ## Browsers
 
@@ -1866,6 +1869,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
 * [WattMate](https://wattmateapp.com) - See which apps and AI coding agents are draining your MacBook battery, right from the menu bar, in real watts and the minutes you get back by quitting one. [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+* [KinetFlashFind](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046?platform=mac) - Instant content-aware file search across Mac drives. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetflashfind-file-search/id6808698046?platform=mac)
+* [KinetMagicDisk](https://apps.apple.com/us/app/kinetmagicdisk/id6813423397?platform=mac) - Mount and manage disk images with a native, lightweight UI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/kinetmagicdisk/id6813423397?platform=mac)
 
 ## Gaming Software
 
