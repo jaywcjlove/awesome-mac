@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:41:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>camber</title>
+      <link>https://www.yuvrajangadsingh.com/camber</link>
+      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
+      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: camber
+Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.
+Website: https://www.yuvrajangadsingh.com/camber
+Open Source: https://github.com/yuvrajangadsingh/camber
+Commit: Add camber to Browsers (#4286)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: camber<br/>Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
+    </item>
     <item>
       <title>Convoy</title>
       <link>https://thedynamicpunk.github.io</link>
@@ -719,21 +734,6 @@ Open Source: https://github.com/Ntarasiuk/glass
 Commit: Add Glass to Remote Login Software (#4085)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c</description>
       <content:encoded><![CDATA[Category: Remote Login Software<br/>App: Glass<br/>Description: Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.<br/>Website: https://glassdesk.dev<br/>Open Source: https://github.com/Ntarasiuk/glass<br/>Commit: Add Glass to Remote Login Software (#4085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c]]></content:encoded>
-    </item>
-    <item>
-      <title>Flickbar</title>
-      <link>https://flickbar.github.io/</link>
-      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
-      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Flickbar
-Description: Open-source window manager driven by trackpad gestures on window title bars.
-Website: https://flickbar.github.io/
-Open Source: https://github.com/flickbar/flickbar
-Commit: Add Flickbar to Window Management (#4083)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Flickbar<br/>Description: Open-source window manager driven by trackpad gestures on window title bars.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
     </item>
   </channel>
 </rss>
