@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:04:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Knovum</title>
+      <link>https://github.com/madebyzan/knovum</link>
+      <guid isPermaLink="false">54fa4dded9a3604b68751c6656701973cf675721:Knovum</guid>
+      <pubDate>Sat, 07 Nov 2026 11:04:14 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Knovum
+Description: Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription.
+Open Source: https://github.com/madebyzan/knovum
+Commit: Add Knovum to Note-taking section (#3815)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knovum<br/>Description: Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription.<br/>Open Source: https://github.com/madebyzan/knovum<br/>Commit: Add Knovum to Note-taking section (#3815)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721]]></content:encoded>
+    </item>
     <item>
       <title>Stage Manager</title>
       <link>https://eugene-tea.github.io/stage-manager/</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/jakeantelis/Tarn
 Commit: Add Tarn to Menu Bar Tools (#4097)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tarn<br/>Description: A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.<br/>Open Source: https://github.com/jakeantelis/Tarn<br/>Commit: Add Tarn to Menu Bar Tools (#4097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db]]></content:encoded>
-    </item>
-    <item>
-      <title>Burrow</title>
-      <link>https://github.com/khan-umirzakoff/Mole-GUI</link>
-      <guid isPermaLink="false">f6ff0e31b8aa23fa1b170685d6bf223173a17eb5:Burrow</guid>
-      <pubDate>Sat, 31 Oct 2026 02:41:59 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Burrow
-Description: Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole&apos;s safety checks.
-Open Source: https://github.com/khan-umirzakoff/Mole-GUI
-Commit: Add Burrow to Cleanup and Uninstall (#4094)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6ff0e31b8aa23fa1b170685d6bf223173a17eb5</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Burrow<br/>Description: Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole&apos;s safety checks.<br/>Open Source: https://github.com/khan-umirzakoff/Mole-GUI<br/>Commit: Add Burrow to Cleanup and Uninstall (#4094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6ff0e31b8aa23fa1b170685d6bf223173a17eb5]]></content:encoded>
     </item>
   </channel>
 </rss>
