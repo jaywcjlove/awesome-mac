@@ -1457,6 +1457,7 @@ Awesome Mac
 * [AI Footprint](https://stanczykwyatt.github.io/ai-footprint/) - 只读的菜单栏应用，显示 AI 编程工具在 Mac 上留下的磁盘占用、后台进程、MCP 服务器和登录项，并为每次更新生成变更清单。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/ai-footprint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AI Meter](https://github.com/getguruhat/ai-meter) - 在菜单栏显示 Claude Code 或 Codex 的剩余用量和重置时间。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - 利用 AirPods 运动传感器提供头部姿态提醒和可自定义头部手势快捷操作的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
+* [Ambient](https://yaml.cafe/) - 将 MacBook 刘海变成 Claude Code、Codex 与 Gemini CLI 会话的状态指示器，代理需要你时发出提醒，并可一键回到对应的终端标签页或对话。 [![Open-Source Software][OSS Icon]](https://github.com/viveky259259/ambient) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - 轻松托管本地静态网站和 Rack 应用的工具。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
