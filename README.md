@@ -1796,6 +1796,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Strata Files](https://stratafiles.app) - Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
+* [Totum Commander](https://github.com/Toys-D/TotumCommander) - Open-source dual-pane file manager in the spirit of Total Commander, with archives opened as folders and a built-in viewer. [![Open-Source Software][OSS Icon]](https://github.com/Toys-D/TotumCommander) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
 ### Quality of Life Improvements
