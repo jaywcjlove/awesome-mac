@@ -1513,6 +1513,7 @@ Awesome Mac
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 直接控制外接显示器亮度和音量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [Monny](https://monny.moduix.dev) - 开源菜单栏系统监视器，支持进程查找和电池充电上限。 [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/monny) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。 [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
+* [Myna](https://truthofmatthew.com/projects/myna/) - 开源菜单栏应用，把 Android 手机的短信、通话、摄像头和麦克风带到 Mac 上。 [![Open-Source Software][OSS Icon]](https://github.com/truthofmatthew/myna) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 在菜单栏实时显示上下行网速和带宽占用应用的原生工具。 [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1530,7 +1531,6 @@ Awesome Mac
 * [Topnotchers](https://github.com/joey-david/topnotchers) - 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 将预先准备好的脚本逐行输入到任意应用，每按一次快捷键输入一行，以真实按键和自然的节奏模拟人工输入，适用于产品演示录制和现场演讲。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 为键盘输入添加机械键盘音效的工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
-* [Myna](https://truthofmatthew.com/projects/myna/) - 开源菜单栏应用，把 Android 手机的短信、通话、摄像头和麦克风带到 Mac 上。 [![Open-Source Software][OSS Icon]](https://github.com/truthofmatthew/myna) ![Freeware][Freeware Icon]
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [StableBar](https://stablebar.app) - 可自定义的菜单栏替代品，提供主题、小组件、弹出面板以及 AeroSpace、yabai 或 OmniWM 工作区。 [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
