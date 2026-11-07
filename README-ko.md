@@ -1285,6 +1285,7 @@ Awesome Mac
 * [QDuo](https://xueshi.dev/qduo/) - 어떤 앱에서든 텍스트를 선택하면 커서 옆에 팝업이 나타나 AI 프롬프트, 검색, 텍스트 변환, 단축어 앱, 셸 스크립트 등 직접 설정한 작업을 실행. [![Open-Source Software][OSS Icon]](https://github.com/XueshiQiao/qduo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Raycast](https://www.raycast.com/) - 확장 기능, 스니펫, 노트, AI를 갖춘 런처. ![Freeware][Freeware Icon]
 * [Rebind](https://rebind.moduix.dev) - 키, 마우스 버튼, 트랙패드 제스처를 단축키와 시스템 동작에 매핑하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/rebind) ![Freeware][Freeware Icon]
+* [ReTab](https://apps.apple.com/app/id6736950080?platform=mac) - Safari 탭에 Cmd+Tab을 가져오는 확장 프로그램. 탭하면 직전 탭으로, 길게 누르면 최근 탭 선택기. [![App Store][app-store Icon]](https://apps.apple.com/app/id6736950080?platform=mac)
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Raycast 호환 확장, 음성 워크플로, TTS, 메모리, AI 액션을 제공하는 오픈소스 런처. [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [Rewind](https://www.rewind.ai/) - 화면과 오디오 기록을 검색 가능한 히스토리로 남기는 도구.
 * [RescueTime](https://www.rescuetime.com/) - 시간 사용 기록과 생산성 리포트를 제공하는 도구.
