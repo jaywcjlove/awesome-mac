@@ -857,6 +857,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 무료 오디오, 비디오, 이미지 변환 소프트웨어. ![Freeware][Freeware Icon]
 * [akou](https://geiserx.github.io/akou/) - 통화와 회의를 녹음해 화자 라벨과 함께 기기에서 전사하고, Claude Code나 Codex가 MCP로 통화 내용을 질의할 수 있는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [AutoDoc](https://getautodoc.com/) - 각 노트의 바로 그 순간을 화면까지 그대로 다시 재생할 수 있는 회의 노트 앱으로, 온디바이스 전사와 요약을 지원합니다. Duet Display의 첫 오픈 소스 프로젝트. [![Open-Source Software][OSS Icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][Freeware Icon]
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생. [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]

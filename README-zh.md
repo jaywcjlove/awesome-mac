@@ -921,6 +921,7 @@ Awesome Mac
 ### 音频录制与编辑
 
 * [akou](https://geiserx.github.io/akou/) - 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [AutoDoc](https://getautodoc.com/) - 可一键回放任意笔记背后那一刻（包括当时的屏幕画面）的会议笔记工具，支持设备端转写和摘要。Duet Display 的首个开源项目。 [![Open-Source Software][OSS Icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][Freeware Icon]
 * [CamiTune](https://github.com/Shuail135/CamiTune) - 适用于 macOS 13 及以上版本的系统级音频均衡器，支持参数均衡、按应用独立音频控制、AutoEQ、AU/VST3 插件及高级 DSP 处理。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]

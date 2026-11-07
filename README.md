@@ -1123,6 +1123,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Audio Record and Process
 
 * [akou](https://geiserx.github.io/akou/) - Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [AutoDoc](https://getautodoc.com/) - Meeting notes app that lets you replay the exact moment behind any note, including what was on screen, with on-device transcription and summaries. Duet Display's first open-source project. [![Open-Source Software][OSS Icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][Freeware Icon]
 [CamiTune](https://github.com/Shuail135/CamiTune) - System-wide audio equalizer for macOS(13+) with parametric EQ, per-app audio control, Auto EQ, AU/VST3 plugin support, and advanced DSP. [![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - Menu bar app that transcribes meetings on device and saves each one as a Markdown file, with no bot and no cloud. [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
