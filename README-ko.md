@@ -285,6 +285,7 @@ Awesome Mac
 
 ### 저널링
 
+* [Cozy](https://cozyjournal.app/) - 일기를 내 파일로 보관하는 로컬 저널링 앱. 한 번 구매하며 AI와 구독이 없습니다.
 * [Day One](https://dayoneapp.com/) - 텍스트, 사진, 비디오 등을 사용하는 훌륭한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?platform=mac)
 * [Journey](https://journey.cloud/) - 모든 플랫폼에서 사용 가능한 기능이 풍부한 저널링 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543?platform=mac)
 * [Life Note](https://mylifenote.ai) - 인류 역사상 가장 위대한 정신들과 대화하는 저널. ![Freeware][Freeware Icon]
