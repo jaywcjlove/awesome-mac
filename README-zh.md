@@ -1605,6 +1605,7 @@ Awesome Mac
 * [RefreshYourMac](https://refreshyourmac.com/) - Mac 清理工具，将每个类别评为“可安全删除”、“需检查”、“移至备份”或“受保护”，并在删除前显示残留文件来自哪个应用。 ![Native App][Native Icon]
 * [ShinyMac](https://github.com/pballada/shinyMac) - 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。 [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。 [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Spumio Clean](https://spumio.com/#en) - 逐项说明清理内容、仅在你确认后才移至废纸篓的 Mac 清理工具，还能连同残留文件卸载应用并检查应用更新。 ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 开源磁盘清理工具，只将项目移至废纸篓，并在删除重复文件前检查项目脚本是否仍在引用它。 [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的 Mac 系统清理软件，替代原来的 Mac 电脑管家，腾讯出品。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Tencent/lemon-cleaner)

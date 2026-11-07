@@ -1530,6 +1530,7 @@ Awesome Mac
 * [RefreshYourMac](https://refreshyourmac.com/) - すべてのカテゴリーを「安全に削除可能」「要確認」「バックアップへ移動」「保護」で評価し、削除する前に残存元のアプリを表示する Mac クリーナー。 ![Native App][Native Icon]
 * [ShinyMac](https://github.com/pballada/shinyMac) - ワンスキャンの Smart Care、残りファイルも見つけるアプリアンインストーラー、Xcode クリーンアップ、Space Lens ディスクマップ、隠し設定を備えたオープンソースの SwiftUI 製 Mac クリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - ディスクをズームで掘り下げられる入れ子のツリーマップとして描くディスク使用量アナライザー。スキャン中もリアルタイムに表示されます。 [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Spumio Clean](https://spumio.com/#en) - 各項目を説明し、確認した後にだけゴミ箱へ移すMacクリーナー。残ったファイルごとアプリを削除し、アプリのアップデートも確認できる。 ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 無料オープンソースのディスク使用量アナライザー。サンバーストとツリーマップでディスクやクラウドストレージを可視化。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 項目をゴミ箱へ移すだけのオープンソースのディスククリーナー。重複ファイルの削除前にプロジェクトのスクリプトが参照していないか確認。 [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
 
