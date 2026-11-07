@@ -817,6 +817,7 @@ Awesome Mac
 * [Licecap](http://www.cockos.com/licecap/) - 直接GIFを書き出せる画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - スクリーンショットを撮り、書き込み、動画を撮影してファイルを共有。高速、簡単で無料。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - ライブ配信と画面録画のための無料でオープンソースのソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
+* [Oil Studio](https://studio.oiloil.org) - 自動ズーム、カーソル効果、文字起こしベースの編集に対応した画面録画・編集ツール。
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - プロダクトデモや操作説明動画を作れるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。 [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
