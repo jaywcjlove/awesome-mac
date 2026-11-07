@@ -5,9 +5,227 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2026 04:31:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:59:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stage Manager</title>
+      <link>https://eugene-tea.github.io/stage-manager/</link>
+      <guid isPermaLink="false">ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070:Stage Manager</guid>
+      <pubDate>Fri, 06 Nov 2026 16:59:05 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Stage Manager
+Description: Replacement for Apple&apos;s Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.
+Website: https://eugene-tea.github.io/stage-manager/
+Commit: Add Stage Manager to Window Management (#4297)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Stage Manager<br/>Description: Replacement for Apple&apos;s Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
+    </item>
+    <item>
+      <title>camber</title>
+      <link>https://www.yuvrajangadsingh.com/camber</link>
+      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
+      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: camber
+Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.
+Website: https://www.yuvrajangadsingh.com/camber
+Open Source: https://github.com/yuvrajangadsingh/camber
+Commit: Add camber to Browsers (#4286)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: camber<br/>Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
+    </item>
+    <item>
+      <title>Convoy</title>
+      <link>https://thedynamicpunk.github.io</link>
+      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
+      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Convoy
+Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.
+Website: https://thedynamicpunk.github.io
+Open Source: https://github.com/TheDynamicPunk/Convoy
+Commit: Add Convoy to Download Management Tools (#4281)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Convoy<br/>Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
+    </item>
+    <item>
+      <title>lmux</title>
+      <link>https://github.com/sooftware/lmux</link>
+      <guid isPermaLink="false">d0d853eee29c372b67fe2f1f68c371afe5ea4ca1:lmux</guid>
+      <pubDate>Fri, 06 Nov 2026 07:02:01 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: lmux
+Description: Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar.
+Open Source: https://github.com/sooftware/lmux
+Commit: Add lmux to Terminal Apps (#4268)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: lmux<br/>Description: Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar.<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
+    </item>
+    <item>
+      <title>TinyRecorder</title>
+      <link>https://www.tinyrecorder.app/en/</link>
+      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
+      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: TinyRecorder
+Description: Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder.
+Website: https://www.tinyrecorder.app/en/
+Open Source: https://github.com/33to9/TinyRecorder
+Commit: Add TinyRecorder to Screen Recording (#4265)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: TinyRecorder<br/>Description: Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder.<br/>Website: https://www.tinyrecorder.app/en/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
+    </item>
+    <item>
+      <title>Graphis</title>
+      <link>https://github.com/Campfire7/graphis</link>
+      <guid isPermaLink="false">a1abac612095f81b8bc5a573d3bc5cafa3d89afc:Graphis</guid>
+      <pubDate>Fri, 06 Nov 2026 06:42:13 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Graphis
+Description: Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon.
+Open Source: https://github.com/Campfire7/graphis
+Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Graphis<br/>Description: Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon.<br/>Open Source: https://github.com/Campfire7/graphis<br/>Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc]]></content:encoded>
+    </item>
+    <item>
+      <title>NVBeacon</title>
+      <link>https://jaein4722.github.io/NVBeacon/</link>
+      <guid isPermaLink="false">536fd9a681b78d08dc9a7cdee0d6ecf45eb89896:NVBeacon</guid>
+      <pubDate>Fri, 06 Nov 2026 06:06:40 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: NVBeacon
+Description: Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH.
+Website: https://jaein4722.github.io/NVBeacon/
+Open Source: https://github.com/jaein4722/NVBeacon
+Commit: Add NVBeacon to Menu Bar Tools (#4258)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: NVBeacon<br/>Description: Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH.<br/>Website: https://jaein4722.github.io/NVBeacon/<br/>Open Source: https://github.com/jaein4722/NVBeacon<br/>Commit: Add NVBeacon to Menu Bar Tools (#4258)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896]]></content:encoded>
+    </item>
+    <item>
+      <title>Buddy</title>
+      <link>https://github.com/projects-hacks/buddy</link>
+      <guid isPermaLink="false">b6718c8eda533d63e1ac986b4d6e34a9763e5076:Buddy</guid>
+      <pubDate>Fri, 06 Nov 2026 05:44:01 GMT</pubDate>
+      <category>Education</category>
+      <description>Category: Education
+App: Buddy
+Description: Study helper in the notch that explains what is on your screen out loud while drawing on it.
+Open Source: https://github.com/projects-hacks/buddy
+Commit: Add Buddy to Education (#4250)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076</description>
+      <content:encoded><![CDATA[Category: Education<br/>App: Buddy<br/>Description: Study helper in the notch that explains what is on your screen out loud while drawing on it.<br/>Open Source: https://github.com/projects-hacks/buddy<br/>Commit: Add Buddy to Education (#4250)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076]]></content:encoded>
+    </item>
+    <item>
+      <title>AllInOneIME</title>
+      <link>https://allinoneime.com</link>
+      <guid isPermaLink="false">7db3d7e513a41ddbe491d4c10962e11a60bc7542:AllInOneIME</guid>
+      <pubDate>Fri, 06 Nov 2026 05:18:16 GMT</pubDate>
+      <category>Input Methods</category>
+      <description>Category: Input Methods
+App: AllInOneIME
+Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.
+Website: https://allinoneime.com
+Commit: Add AllInOneIME to Input Methods (#4285)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
+      <content:encoded><![CDATA[Category: Input Methods<br/>App: AllInOneIME<br/>Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
+    </item>
+    <item>
+      <title>Koru</title>
+      <link>https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac</link>
+      <guid isPermaLink="false">353895d7a266af89a1f6d4e9ba5274ec8158bd38:Koru</guid>
+      <pubDate>Fri, 06 Nov 2026 01:49:46 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Koru
+Description: Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust.
+Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac
+Open Source: https://github.com/koruworks/mono
+Commit: Add Koru to Note-taking (#4248)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Koru<br/>Description: Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust.<br/>Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac<br/>Open Source: https://github.com/koruworks/mono<br/>Commit: Add Koru to Note-taking (#4248)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38]]></content:encoded>
+    </item>
+    <item>
+      <title>Roar</title>
+      <link>https://roarbrowser.app/</link>
+      <guid isPermaLink="false">e730c660e45035bb1f9a08455291479be8db7d81:Roar</guid>
+      <pubDate>Fri, 06 Nov 2026 01:28:03 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Roar
+Description: Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you.
+Website: https://roarbrowser.app/
+Open Source: https://github.com/roarbrowser/roar
+Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Roar<br/>Description: Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you.<br/>Website: https://roarbrowser.app/<br/>Open Source: https://github.com/roarbrowser/roar<br/>Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81]]></content:encoded>
+    </item>
+    <item>
+      <title>Wavo</title>
+      <link>https://github.com/vladkens/wavo-app</link>
+      <guid isPermaLink="false">620a549b3a0641bbe324c5db45fe3ba9b1b25e03:Wavo</guid>
+      <pubDate>Thu, 05 Nov 2026 16:15:50 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Wavo
+Description: Dictation that doesn&apos;t slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you&apos;re typing.
+Open Source: https://github.com/vladkens/wavo-app
+Commit: Add Wavo (#4269)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Wavo<br/>Description: Dictation that doesn&apos;t slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you&apos;re typing.<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
+    </item>
+    <item>
+      <title>Radif</title>
+      <link>https://www.yuvrajangadsingh.com/radif</link>
+      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
+      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Radif
+Description: Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium.
+Website: https://www.yuvrajangadsingh.com/radif
+Open Source: https://github.com/yuvrajangadsingh/radif
+Commit: Add Radif to Audio and Video Tools (#4254)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Radif<br/>Description: Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium.<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
+    </item>
+    <item>
+      <title>Flipic</title>
+      <link>https://github.com/xmasdong/flipic</link>
+      <guid isPermaLink="false">5332f616ef6769d37911874ab3386f074f887ab2:Flipic</guid>
+      <pubDate>Thu, 05 Nov 2026 05:45:37 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Flipic
+Description: Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.
+Open Source: https://github.com/xmasdong/flipic
+Commit: Add Flipic (#4241)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Flipic<br/>Description: Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.<br/>Open Source: https://github.com/xmasdong/flipic<br/>Commit: Add Flipic (#4241)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5332f616ef6769d37911874ab3386f074f887ab2]]></content:encoded>
+    </item>
+    <item>
+      <title>Saywing</title>
+      <link>https://www.christopherboebel.com/en/saywing</link>
+      <guid isPermaLink="false">0c5c446275ce2de91a5578f482143fd6af7d514c:Saywing</guid>
+      <pubDate>Thu, 05 Nov 2026 05:41:08 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: Saywing
+Description: Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.
+Website: https://www.christopherboebel.com/en/saywing
+Open Source: https://github.com/ChrBoebel/saywing
+Commit: Add Saywing to Reading and Writing Tools (#4240)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Saywing<br/>Description: Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
+    </item>
     <item>
       <title>Drifting</title>
       <link>https://drifting.cc/</link>
@@ -515,221 +733,6 @@ Open Source: https://github.com/khan-umirzakoff/Mole-GUI
 Commit: Add Burrow to Cleanup and Uninstall (#4094)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6ff0e31b8aa23fa1b170685d6bf223173a17eb5</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Burrow<br/>Description: Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole&apos;s safety checks.<br/>Open Source: https://github.com/khan-umirzakoff/Mole-GUI<br/>Commit: Add Burrow to Cleanup and Uninstall (#4094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f6ff0e31b8aa23fa1b170685d6bf223173a17eb5]]></content:encoded>
-    </item>
-    <item>
-      <title>Glass</title>
-      <link>https://glassdesk.dev</link>
-      <guid isPermaLink="false">c979c976d85dec2f250d1cd93d37d135685d199c:Glass</guid>
-      <pubDate>Sat, 31 Oct 2026 00:24:53 GMT</pubDate>
-      <category>Remote Login Software</category>
-      <description>Category: Remote Login Software
-App: Glass
-Description: Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.
-Website: https://glassdesk.dev
-Open Source: https://github.com/Ntarasiuk/glass
-Commit: Add Glass to Remote Login Software (#4085)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c</description>
-      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: Glass<br/>Description: Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.<br/>Website: https://glassdesk.dev<br/>Open Source: https://github.com/Ntarasiuk/glass<br/>Commit: Add Glass to Remote Login Software (#4085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c]]></content:encoded>
-    </item>
-    <item>
-      <title>Flickbar</title>
-      <link>https://flickbar.github.io/</link>
-      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
-      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Flickbar
-Description: Open-source window manager driven by trackpad gestures on window title bars.
-Website: https://flickbar.github.io/
-Open Source: https://github.com/flickbar/flickbar
-Commit: Add Flickbar to Window Management (#4083)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Flickbar<br/>Description: Open-source window manager driven by trackpad gestures on window title bars.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Swamp Converter</title>
-      <link>https://github.com/aansonsa/swamp-converter</link>
-      <guid isPermaLink="false">30976c97157c9f6dfeda4e263873e52c81caa4bf:Swamp Converter</guid>
-      <pubDate>Sat, 31 Oct 2026 00:15:23 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Swamp Converter
-Description: Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.
-Open Source: https://github.com/aansonsa/swamp-converter
-Commit: Add Swamp Converter to Menu Bar Tools (#4079)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Swamp Converter<br/>Description: Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://github.com/emgeorrk/pulse</link>
-      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
-      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Pulse
-Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.
-Open Source: https://github.com/emgeorrk/pulse
-Commit: Add Pulse (menu bar system monitor) (#2381)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Pulse<br/>Description: Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
-    </item>
-    <item>
-      <title>ContainerDesk</title>
-      <link>https://github.com/MacHatter1/ContainerDesk</link>
-      <guid isPermaLink="false">dbef1b9c09aaa4d62d943b0a77110378e9dbac9c:ContainerDesk</guid>
-      <pubDate>Fri, 30 Oct 2026 16:22:05 GMT</pubDate>
-      <category>Developer Tools / Virtualization</category>
-      <description>Category: Developer Tools / Virtualization
-App: ContainerDesk
-Description: Native SwiftUI workspace for Apple&apos;s container runtime, with live resource monitoring and an integrated terminal.
-Open Source: https://github.com/MacHatter1/ContainerDesk
-Commit: Add ContainerDesk to Virtualization (#4073)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: ContainerDesk<br/>Description: Native SwiftUI workspace for Apple&apos;s container runtime, with live resource monitoring and an integrated terminal.<br/>Open Source: https://github.com/MacHatter1/ContainerDesk<br/>Commit: Add ContainerDesk to Virtualization (#4073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c]]></content:encoded>
-    </item>
-    <item>
-      <title>Apolo</title>
-      <link>https://apolo.webcafeina.com/en/</link>
-      <guid isPermaLink="false">171ae7afaeafdedd91fd542255c22caa975e933c:Apolo</guid>
-      <pubDate>Fri, 30 Oct 2026 16:16:50 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: Apolo
-Description: Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.
-Website: https://apolo.webcafeina.com/en/
-Open Source: https://github.com/webcafeina/Apolo
-Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Apolo<br/>Description: Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.<br/>Website: https://apolo.webcafeina.com/en/<br/>Open Source: https://github.com/webcafeina/Apolo<br/>Commit: Add Apolo to Design and Product &gt; Other Tools (#4070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/171ae7afaeafdedd91fd542255c22caa975e933c]]></content:encoded>
-    </item>
-    <item>
-      <title>Safelight</title>
-      <link>https://github.com/mopfaff/Safelight</link>
-      <guid isPermaLink="false">83584eb4e0eeaba9315b7d34c8405997b028096c:Safelight</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:47 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Safelight
-Description: Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.
-Open Source: https://github.com/mopfaff/Safelight
-Commit: Add Safelight to Quality of Life Improvements (#4068)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Safelight<br/>Description: Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.<br/>Open Source: https://github.com/mopfaff/Safelight<br/>Commit: Add Safelight to Quality of Life Improvements (#4068)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/83584eb4e0eeaba9315b7d34c8405997b028096c]]></content:encoded>
-    </item>
-    <item>
-      <title>Mudroom</title>
-      <link>https://github.com/Kernel-Hunter/mudroom</link>
-      <guid isPermaLink="false">c5acfb984a51906d83e9644c84e1be23d161fe3f:Mudroom</guid>
-      <pubDate>Fri, 30 Oct 2026 15:58:05 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Mudroom
-Description: Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.
-Open Source: https://github.com/Kernel-Hunter/mudroom
-Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Mudroom<br/>Description: Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.<br/>Open Source: https://github.com/Kernel-Hunter/mudroom<br/>Commit: Add Mudroom to AI Tools (EN/ZH/JA/KO) (#3325)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5acfb984a51906d83e9644c84e1be23d161fe3f]]></content:encoded>
-    </item>
-    <item>
-      <title>Uptick</title>
-      <link>https://chengffei.github.io/uptick/</link>
-      <guid isPermaLink="false">a3a87607e461f836381e9493fd47a5119f04a71a:Uptick</guid>
-      <pubDate>Fri, 30 Oct 2026 15:55:45 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Uptick
-Description: Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.
-Website: https://chengffei.github.io/uptick/
-Commit: Add Uptick (#4067)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Uptick<br/>Description: Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.<br/>Website: https://chengffei.github.io/uptick/<br/>Commit: Add Uptick (#4067)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a3a87607e461f836381e9493fd47a5119f04a71a]]></content:encoded>
-    </item>
-    <item>
-      <title>RAVE LIVE</title>
-      <link>https://github.com/jedbrnth-eng/rave-live</link>
-      <guid isPermaLink="false">45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd:RAVE LIVE</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:22 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: RAVE LIVE
-Description: Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.
-Open Source: https://github.com/jedbrnth-eng/rave-live
-Commit: Add RAVE LIVE (#4066)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: RAVE LIVE<br/>Description: Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.<br/>Open Source: https://github.com/jedbrnth-eng/rave-live<br/>Commit: Add RAVE LIVE (#4066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45f7922e441b9e8a9ba09d3bffc4fbe7b08a21bd]]></content:encoded>
-    </item>
-    <item>
-      <title>Lucid</title>
-      <link>https://lucid-wallpaper.vercel.app</link>
-      <guid isPermaLink="false">13aa11a30545ab7bf823c14713186d044478bda4:Lucid</guid>
-      <pubDate>Fri, 30 Oct 2026 15:44:41 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Lucid
-Description: Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.
-Website: https://lucid-wallpaper.vercel.app
-Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper
-Commit: Add Lucid (#4065)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Lucid<br/>Description: Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.<br/>Website: https://lucid-wallpaper.vercel.app<br/>Open Source: https://github.com/jedbrnth-eng/lucid-live-wallpaper<br/>Commit: Add Lucid (#4065)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13aa11a30545ab7bf823c14713186d044478bda4]]></content:encoded>
-    </item>
-    <item>
-      <title>Bedrock Launcher</title>
-      <link>https://github.com/pragyaangaur/Minecraft-Bedrock-macOS</link>
-      <guid isPermaLink="false">68526c17c888713054c3bd924b2b34b6a0595ae9:Bedrock Launcher</guid>
-      <pubDate>Fri, 30 Oct 2026 11:59:16 GMT</pubDate>
-      <category>Gaming Software</category>
-      <description>Category: Gaming Software
-App: Bedrock Launcher
-Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.
-Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS
-Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9</description>
-      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Bedrock Launcher<br/>Description: Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.<br/>Open Source: https://github.com/pragyaangaur/Minecraft-Bedrock-macOS<br/>Commit: Add Bedrock Launcher to Gaming Software (EN/ZH/JA/KO) (#3475)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68526c17c888713054c3bd924b2b34b6a0595ae9]]></content:encoded>
-    </item>
-    <item>
-      <title>Matcha</title>
-      <link>https://github.com/jakeantelis/Matcha</link>
-      <guid isPermaLink="false">ec4c9420a67f5f6c073ea659d0c5657de75d3ccd:Matcha</guid>
-      <pubDate>Fri, 30 Oct 2026 10:02:46 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Matcha
-Description: Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.
-Open Source: https://github.com/jakeantelis/Matcha
-Commit: Add Matcha to System Related Tools (#4046)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Matcha<br/>Description: Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.<br/>Open Source: https://github.com/jakeantelis/Matcha<br/>Commit: Add Matcha to System Related Tools (#4046)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec4c9420a67f5f6c073ea659d0c5657de75d3ccd]]></content:encoded>
-    </item>
-    <item>
-      <title>Rebind</title>
-      <link>https://rebind.moduix.dev</link>
-      <guid isPermaLink="false">812b58d2765ee97c69006227f0f69586de42037b:Rebind</guid>
-      <pubDate>Fri, 30 Oct 2026 09:43:54 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Rebind
-Description: Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.
-Website: https://rebind.moduix.dev
-Open Source: https://github.com/Blinks44/rebind
-Commit: Add Rebind to Productivity (#4020)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Rebind<br/>Description: Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.<br/>Website: https://rebind.moduix.dev<br/>Open Source: https://github.com/Blinks44/rebind<br/>Commit: Add Rebind to Productivity (#4020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/812b58d2765ee97c69006227f0f69586de42037b]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Meter</title>
-      <link>https://github.com/getguruhat/ai-meter</link>
-      <guid isPermaLink="false">2e931fa86320cf7fa199196dfce3a2316ca5095f:AI Meter</guid>
-      <pubDate>Fri, 30 Oct 2026 07:15:38 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: AI Meter
-Description: Shows your remaining Claude Code or Codex usage and reset time in the menu bar.
-Open Source: https://github.com/getguruhat/ai-meter
-Commit: Add AI Meter (#4004)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AI Meter<br/>Description: Shows your remaining Claude Code or Codex usage and reset time in the menu bar.<br/>Open Source: https://github.com/getguruhat/ai-meter<br/>Commit: Add AI Meter (#4004)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e931fa86320cf7fa199196dfce3a2316ca5095f]]></content:encoded>
     </item>
   </channel>
 </rss>
