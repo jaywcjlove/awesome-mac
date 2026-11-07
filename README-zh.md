@@ -1182,6 +1182,7 @@ Awesome Mac
 * [Helium](https://helium.computer/) - 内置广告拦截的隐私导向 Chromium 浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
 * [Lilo](https://getlilo.app/) - 原生 WebKit 浏览器，提供 Arc 风格的空间、Chrome 扩展、侧边栏终端标签页，以及供 AI 代理使用的内置 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
+* [NeatWebApp](https://github.com/NeatMacApps/NeatWebApp) - 原生 macOS WebKit 网页应用容器：从刘海启动网站，窗口移出屏幕后自动收进悬浮活动 Dock。 [![Open-Source Software][OSS Icon]](https://github.com/NeatMacApps/NeatWebApp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ 浏览器－腾讯出品。![Freeware][Freeware Icon]
 * [Roar](https://roarbrowser.app/) - 用本地或自带 AI 模型替你打开网页、阅读与填表的开源智能体浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
