@@ -1535,6 +1535,7 @@ Awesome Mac
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - 菜单栏文件转换工具：拖动文件时按一下按键，把文件放到转盘上即可转换视频、音频、图片和 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
+* [Vibeclove](https://vibeclove.app) - 将 MacBook 刘海变成 Claude Code、Codex 等 AI 编程代理的实时状态面板，并可在刘海中批准它们的请求。 ![Native App][Native Icon]
 * [Vorssaint](https://vorssaint.com) - 开源菜单栏工具箱，可用于应用级音量、系统监控、窗口控制、剪贴板历史、保持唤醒和应用清理。 [![Open-Source Software][OSS Icon]](https://github.com/vorssaint/vorssaint-utils) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vortex](https://vortex-notch.web.app) - MacBook 刘海应用，集专注计时器、剪贴板历史、自动接收新构建的文件暂存架、带 OCR 的屏幕截取任务，以及 Claude Code 能用却看不到的密钥于一体。 [![Open-Source Software][OSS Icon]](https://github.com/OrtexIsArtem/vortex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
