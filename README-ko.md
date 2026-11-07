@@ -296,6 +296,7 @@ Awesome Mac
 * [Drifting](https://drifting.cc/) - 장, 개요, 인물, 스토리라인을 갖추고 프로젝트 전체를 읽고 편집하는 AI 에이전트가 있는 오픈 소스 로컬 우선 장편 소설 집필 앱. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - 실제 타자기 느낌을 주는 미니멀한 쓰기 앱. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
+* [Oleafly](https://oleafly.com) - LaTeX, Typst, Markdown으로 연구 논문과 학위 논문을 작성하는 오픈 소스 로컬 우선 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Oleafly/Oleafly) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
 * [THORN](https://thorn.so) - 개인 쓰기 및 웹사이트 구축을 위한 모든 것.
 
