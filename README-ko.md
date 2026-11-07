@@ -966,6 +966,7 @@ Awesome Mac
 * [Presspeech](https://github.com/rcourtman/presspeech) - Parakeet TDT v3(CoreML/ANE)를 사용하여 로컬에서 작동하는 Apple Silicon Mac용 네이티브 푸시 투 토크(Push-to-Talk) 음성 받아쓰기 앱. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Tamka](https://www.piedol.top/tamka/) - Neural Engine에서 NVIDIA Parakeet 모델을 실행해 모든 앱의 커서 위치에 입력하는 오픈 소스 온디바이스 받아쓰기 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - 전역 단축키를 지원하는 로컬 Whisper 기반 음성 텍스트 변환 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
+* [Voilà Pro](https://voilapro.app) - 말하는 동안 텍스트가 바로 표시되는 푸시투토크 받아쓰기 도구로, 오프라인에서 작동하는 온디바이스 모델을 내장하고 영어·중국어·프랑스어가 섞인 문장도 인식합니다.
 * [Voltip](https://voltip.firlab.app/) - 로컬 또는 클라우드 음성 인식과 AI 다듬기를 지원하고, 페어링한 Android 휴대폰을 마이크로도 쓸 수 있는 오픈 소스 푸시투토크 받아쓰기 도구. [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - 로컬/클라우드 ASR, OCR, 기록, 코딩 에이전트 워크플로를 지원하는 오픈 소스 음성 입력 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - 누르고 말한 뒤 놓으면 바로 붙여넣는 음성 입력·번역 도구로, 앱과 URL별로 AI 전사 규칙을 다르게 설정할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
