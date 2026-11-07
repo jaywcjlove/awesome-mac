@@ -552,6 +552,7 @@ Awesome Mac
 * [Charles](https://www.charlesproxy.com/) - HTTPおよびHTTPSトラフィックを表示するHTTPプロキシ/モニター。
 * [James](https://github.com/james-proxy/james) - httpおよびhttpsでリクエストの確認とマッピングを行うオープンソースのプロキシツール。 [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - ネットワーク接続を世界地図で可視化するネットワークモニター。
+* [MinpinProxy](https://minpinproxy.com) - ホストごとのHTTPS復号と、AIコーディングアシスタント向けのMCPサーバーを内蔵したネイティブHTTP(S)デバッグプロキシ。 ![Freeware][Freeware Icon]
 * [mitmproxy](https://mitmproxy.org/) - ペネトレーションテスターとソフトウェア開発者向けの対話型HTTPインターセプトプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxie](https://proxie.app) - HTTPデバッグプロキシ。
 * [Proxyman](https://proxyman.app) - macOS向けのモダンで直感的なHTTPデバッグプロキシ。 ![Freeware][Freeware Icon]
