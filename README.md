@@ -112,7 +112,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;\
 ![Native App][Native Icon] means **native app**;\
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
+![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;\
+![Unmaintained][Unmaintained Icon] means the project looks **unmaintained** (archived, discontinued, or no release or commit for 24+ months), so check before relying on it.
 
 <!--idoc:ignore:start-->
 
@@ -1981,6 +1982,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
 [Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
+[Unmaintained Icon]: https://img.shields.io/badge/Unmaintained-lightgrey "Unmaintained"
 
 
 <!--idoc:config:

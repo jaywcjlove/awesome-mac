@@ -114,7 +114,8 @@ Awesome Mac
 ![Freeware][Freeware Icon] は**無料**で使用可能、または**無料**の個人ライセンスを意味します。\
 ![App Store][app-store Icon] は**App Store**へのリンクを意味します。\
 ![Native App][Native Icon] は**ネイティブアプリ**を意味します。\
-![Awesome List][awesome-list Icon] はそのアイテムに関連する**Awesomeリスト**へのリンクを意味します。
+![Awesome List][awesome-list Icon] はそのアイテムに関連する**Awesomeリスト**へのリンクを意味します。\
+![Unmaintained][Unmaintained Icon] は**メンテナンスされていない**プロジェクト（アーカイブ済み、開発終了、または24か月以上更新なし）を意味します。
 
 <!--idoc:ignore:start-->
 
@@ -1975,6 +1976,7 @@ Awesome Mac
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
 [Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "ネイティブアプリ"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesomeリスト"
+[Unmaintained Icon]: https://img.shields.io/badge/Unmaintained-lightgrey "メンテナンス終了"
 
 
 <!--idoc:config:

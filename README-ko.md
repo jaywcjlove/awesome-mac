@@ -113,7 +113,8 @@ Awesome Mac
 ![Freeware][Freeware Icon] 은 **무료**로 사용 가능하거나 **무료** 개인 라이선스를 의미합니다.\
 ![App Store][app-store Icon] 은 **App Store** 링크를 의미합니다.\
 ![Native App][Native Icon] 은 **네이티브 앱**을 의미합니다.\
-![Awesome List][awesome-list Icon] 은 해당 항목에 대응하는 **Awesome 목록** 링크를 의미합니다.
+![Awesome List][awesome-list Icon] 은 해당 항목에 대응하는 **Awesome 목록** 링크를 의미합니다.\
+![Unmaintained][Unmaintained Icon] 은 **유지보수되지 않는** 프로젝트(보관 처리되었거나 개발이 중단되었거나 24개월 이상 업데이트가 없음)를 의미합니다.
 
 
 <!--idoc:ignore:start-->
@@ -1413,6 +1414,7 @@ Awesome Mac
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "Apple 앱 스토어 소프트웨어"
 [Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "네이티브 앱"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome 목록"
+[Unmaintained Icon]: https://img.shields.io/badge/Unmaintained-lightgrey "유지보수 중단"
 
 <!--idoc:config:
 title: Awesome Mac 앱 공유 추천 -

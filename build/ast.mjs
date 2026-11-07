@@ -37,7 +37,7 @@ const getSoftwareName = (obj, result = { title: '' }) => {
 const getIconDetail = (data, url = '') => {
   if (data.type === 'imageReference' && data.identifier) {
     const identifier = data.identifier.toLocaleLowerCase()
-    if (/^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon)/.test(identifier)) {
+    if (/^(freeware\s+icon|oss\s+icon|app-store\s+icon|awesome-list\s+icon|unmaintained\s+icon)/.test(identifier)) {
       let type = ''
       if (/^(freeware\s+icon)/.test(identifier)) {
         type = 'freeware'
@@ -50,6 +50,9 @@ const getIconDetail = (data, url = '') => {
       }
       if (/^(awesome-list\s+icon)/.test(identifier)) {
         type = 'awesome-list'
+      }
+      if (/^(unmaintained\s+icon)/.test(identifier)) {
+        type = 'unmaintained'
       }
       return { type, url }
     }

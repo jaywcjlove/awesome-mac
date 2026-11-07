@@ -115,7 +115,8 @@ Awesome Mac
 ![Freeware][Freeware Icon] 表示 **免费** 使用，或者个人 **免费** ；\
 ![App Store][app-store Icon] 表示 **App store** 链接地址；\
 ![Native App][Native Icon] 表示 **原生应用**；\
-![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
+![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；\
+![Unmaintained][Unmaintained Icon] 表示项目已**不再维护**（已归档、已停止开发，或 24 个月以上没有更新）。
 
 
 <!--idoc:ignore:start-->
@@ -1882,6 +1883,7 @@ Awesome Mac
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "苹果应用商店软件"
 [Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "原生应用"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome 列表"
+[Unmaintained Icon]: https://img.shields.io/badge/Unmaintained-lightgrey "已停止维护"
 
 ## Contributors
 

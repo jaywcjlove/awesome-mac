@@ -6,6 +6,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [How to add to this list](#how-to-add-to-this-list)
+- [Marking unmaintained apps](#marking-unmaintained-apps)
 - [Updating your Pull Request](#updating-your-pull-request)
 
 ## Pull Request Guidelines
@@ -69,6 +70,29 @@ If you don't have a [GitHub account](https://github.com/join), make one!
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+
+## Marking unmaintained apps
+
+Apps that are no longer maintained stay in their category, but carry the `![Unmaintained][Unmaintained Icon]` icon so readers can tell at a glance before they click through.
+
+Add the icon when any of these is true:
+
+- The repository is archived on GitHub.
+- The author or vendor has announced that the app is discontinued or end of life.
+- There has been no release or commit for 24 months or more. For closed-source apps without a repository, use the date of the latest release or announcement.
+
+How to mark an entry:
+
+- Put the icon after the entry's other icons, and make the same change in `README.md`, `README-zh.md`, `README-ja.md` and `README-ko.md`.
+- Keep the entry in its category and in alphabetical order. Do not strike the entry through or move it to a separate list.
+- Remove the icon again if the project is revived.
+- If the app no longer works on current macOS or its website is gone, open a removal issue instead of marking it.
+
+To find candidates, run the audit script with a GitHub token (no scopes are needed for public repositories) and review its report by hand. Bot commits can make a dead project look active, and a finished, stable app can look stale.
+
+```bash
+GITHUB_TOKEN=<token> node build/stale-audit.mjs --months 24 --out stale-report.md
+```
 
 ## Updating your Pull Request
 

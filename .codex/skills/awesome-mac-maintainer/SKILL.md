@@ -50,6 +50,7 @@ Preferred patterns:
 - Use the product site or primary project URL for the main link when that matches surrounding entries.
 - If the project is open source and the repository URL is known, add the OSS icon linking to the repository.
 - If the project is presented as free/open source and nearby entries use the freeware marker, add `![Freeware][Freeware Icon]`.
+- If the project is archived, discontinued, or has had no release or commit for 24+ months, add `![Unmaintained][Unmaintained Icon]` after the other icons and keep the entry in its category. See "Marking unmaintained apps" in `docs/CONTRIBUTING.md`.
 - Follow the exact icon formatting already used in the target section.
 
 ## Category selection guidance
