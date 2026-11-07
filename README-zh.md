@@ -1166,6 +1166,7 @@ Awesome Mac
 * [业火五笔输入法](https://github.com/qwertyyb/Fire) - 轻量干净，功能强大的五笔输入法，完全开源。[![Open-Source Software][OSS Icon]](https://github.com/qwertyyb/Fire) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 可按应用或网站自动切换输入法的工具。 [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 * [微信键盘](https://z.weixin.qq.com/) - 微信官方出品的中文输入法,弥补mac版本微信无法搜索表情发送的问题。
+* [UnimeType](https://unimetype.com) - 免切换多语言混输原生输入法，在一个英文键盘上连续输入中/日/印/阿/俄与英文混排句子并按需整句转换（自动保留英文单词与代码），内置原位润色、解释及开源本地模型支持。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 浏览器
 
