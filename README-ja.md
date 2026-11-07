@@ -850,6 +850,7 @@ Awesome Mac
 * [Flipic](https://github.com/xmasdong/flipic) - 撮影後のセレクト（カルリング）用ビューア。矢印キーでフォルダを閲覧、100%フォーカス確認、Lightroomが読めるXMP評価、オンデバイスのクリーンアップモード。 [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [Graphis](https://github.com/Campfire7/graphis) - MOSS-Imageモデルを使い、Appleシリコン上でテキストから画像をローカル生成するオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Campfire7/graphis) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC画像をJPEGまたはPNGに変換。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
+* [Iconic](https://icons.ahmetdedeler.com) - 30,000点以上の無料1024pxアイコンカタログから、Macのアプリやフォルダのアイコンを変更。コレクション単位のテーマにも対応。
 * [Iconset](https://iconset.io) - 無料でクロスプラットフォームの高速SVGアイコンオーガナイザーおよびマネージャー（MacおよびWindows対応）。
 * [Iconjar](http://geticonjar.com/) - アイコンの整理や検索を行うアイコン管理ツール。
 * [IconKit](http://appersian.net/) - アプリアイコンジェネレーター。 [![App Store][app-store Icon]](https://apps.apple.com/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
