@@ -1864,6 +1864,7 @@ Awesome Mac
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - MacとAndroidデバイス間でファイルの閲覧と転送を行うためのオープンソースMTP管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
 * [Core Tunnel](https://codinn.com/tunnel/) - SSH接続を管理するアプリケーション。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/core-tunnel/id1354318707?platform=mac)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度監視、ファン制御、ハードウェア診断でMacを涼しく健全に保つ。
+* [ThermalBar](https://github.com/evilork/thermalbar) - 消費電力、メモリプレッシャー、サーマルスロットリングも表示し、履歴を書き出せるApple Silicon向けのメニューバー温度モニター。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Time Machineのバックアップが終わるとバックアップディスクを取り出し、定期バックアップの時刻になると再びマウントするメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
