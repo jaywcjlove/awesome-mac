@@ -1334,6 +1334,7 @@ Awesome Mac
 * [Lantern](https://getlantern.org) - オープンなインターネットへの高速で信頼性の高いセキュアなアクセスを提供する無料アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Mullvad VPN](https://mullvad.net) - 匿名アカウントと強いプライバシー保護を重視したVPNサービス。 [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - VPNサーバーの作成を簡単にし、誰でも自由でオープンなインターネットにアクセスできるようにする。 [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
+* [Proton VPN Menu Bar](https://github.com/stevelacey/proton-vpn-menubar) - 非公式の Proton VPN メニューバーアプリ。国の検索、Secure Core、キルスイッチ、ポートフォワーディングに対応。 [![Open-Source Software][OSS Icon]](https://github.com/stevelacey/proton-vpn-menubar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - 簡単ワンクリックのmacOSプロキシ設定アプリ。 ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 次世代のShadowsocksX。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [ShadowsocksX](http://shadowsocks.org/) - インターネットトラフィックを保護するために設計されたセキュアなsocks5プロキシ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
