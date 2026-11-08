@@ -127,6 +127,7 @@
 ## 미디어
 
 * [cmus](https://cmus.github.io/) - 명령줄 기반의 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 로컬 파일로 된 음악 보관함을 고치는 도구: 제목 정리, Deezer의 아트워크와 앨범 정보, LRCLIB의 가사, 중복 제거, 앨범을 곡별로 분할. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.com 및 기타 사이트에서 비디오를 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 개발자 도구
