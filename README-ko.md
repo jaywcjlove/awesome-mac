@@ -1013,6 +1013,7 @@ Awesome Mac
 ## 금융
 
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - 윈도우 HTS처럼 국내·미국 주식을 보는 조회 전용 도구. 10단계 호가, 4차트 배치, 관심종목, 작업공간 저장을 지원하며 실시간 시세는 본인 키움 REST API 키로 받음. ![Freeware][Freeware Icon]
+* [ihatecrypto](https://ihatecrypto.ai) - 내 AI 모델이 스왑, 브리지, 거래를 카드로 보여 주고 Touch ID로 확인하기 전에는 자금이 움직이지 않는 오픈 소스 크립토 하네스 겸 셀프 커스터디 지갑. [![Open-Source Software][OSS Icon]](https://github.com/ihatecryptoai/ihatecrypto) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Posnic](https://www.posnic.com/) - 소매점과 레스토랑을 위한 오프라인 우선 오픈 소스 POS 및 청구 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 미국·홍콩·중국 주식, 암호화폐, 지수, ETF 및 포트폴리오 손익을 보여주는 네이티브 메뉴 막대 시세 도구. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app/) - 갱신 알림을 제공하는 구독 관리 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
