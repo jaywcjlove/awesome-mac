@@ -919,6 +919,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Godmode Bot](https://usegodmode.com) - Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins. [![Open-Source Software][OSS Icon]](https://github.com/codextde/godmode-bot)
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [hYYa ai](https://hyya.com/hyya-ai.html) - AI app for work with private on-device models or frontier models in the cloud. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6767114813?platform=mac)
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [Sesame](https://github.com/qiwei66/sesame) - Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
