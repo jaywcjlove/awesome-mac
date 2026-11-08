@@ -150,6 +150,7 @@
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - 향수를 불러일으키는 빈티지 스타일의 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [Cakebrew](http://www.cakebrew.com) - [Homebrew](http://brew.sh)를 위한 GUI 클라이언트. 명령어를 사용하지 않고도 소프트웨어 설치, 확인, 제거 가능. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
 * [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
+* [doc-indexer-macos](https://github.com/Bouliw/doc-indexer-macos) - 서류 폴더(스캔한 PDF, 사진, Word 파일)를 기기에서 OCR 및 텍스트 추출하여 grep이나 AI 에이전트에서 바로 쓸 수 있게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/doc-indexer-macos) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS 없이 Synology Hyper Backup(.hbk) 아카이브를 읽고 복원하는 명령줄 도구(TUI 포함). [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
