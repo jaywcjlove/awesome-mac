@@ -1785,6 +1785,7 @@ Awesome Mac
 * [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) - 通过局域网或互联网将您的 Steam 游戏串流到 Mac 上。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) ![Freeware][Freeware Icon]
 * [Sunshine](https://github.com/LizardByte/Sunshine) - 自托管的游戏串流，用于 Moonlight。[![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 用于远程协助和屏幕共享的工具。![Freeware][Freeware Icon]
+* [Tele](https://teleportez.moi) - 在同一网络中的 Mac 之间共享单个应用窗口，支持声音、剪贴板和程序坞集成。
 * [Windows App](https://apps.apple.com/cn/app/windows-app/id1295203466?platform=mac) - 微软官方的远程桌面连接工具 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/windows-app/id1295203466?platform=mac) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
 
 ## QuickLook插件
