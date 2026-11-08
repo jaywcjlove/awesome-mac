@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:39:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Quill</title>
+      <link>https://quill.hridya.tech</link>
+      <guid isPermaLink="false">6beb17e191493510b447726df5053a41678cd111:Quill</guid>
+      <pubDate>Sun, 08 Nov 2026 06:39:18 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Quill
+Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.
+Website: https://quill.hridya.tech
+Open Source: https://github.com/hridaya423/quill
+Commit: Add Quill (#4343)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Quill<br/>Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
+    </item>
     <item>
       <title>Knovum</title>
       <link>https://github.com/madebyzan/knovum</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/aansonsa/swamp-converter
 Commit: Add Swamp Converter to Menu Bar Tools (#4079)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Swamp Converter<br/>Description: 파일을 드래그하는 중 키를 누르고 휠에 놓으면 비디오, 오디오, 이미지, PDF를 변환할 수 있는 메뉴 바 파일 변환기.<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://github.com/emgeorrk/pulse</link>
-      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
-      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Pulse
-Description: CPU, 메모리, 온도, 팬, 네트워크, 디스크, 전력, 배터리 상태를 실시간으로 보여주는 메뉴 막대 시스템 모니터.
-Open Source: https://github.com/emgeorrk/pulse
-Commit: Add Pulse (menu bar system monitor) (#2381)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Pulse<br/>Description: CPU, 메모리, 온도, 팬, 네트워크, 디스크, 전력, 배터리 상태를 실시간으로 보여주는 메뉴 막대 시스템 모니터.<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
     </item>
   </channel>
 </rss>
