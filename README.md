@@ -280,6 +280,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - File System Notes is a modern notes manager, native on macOS and iOS. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
+* [hYYa Encrypted Notes & Sync](https://hyya.com/hyya-encrypted-notes.html) - Encrypted notes and journal app that syncs between Mac, iPhone, iPad and Android through your own Google Drive, or between Apple devices through iCloud. [![App Store][app-store Icon]](https://apps.apple.com/app/id6792328099?platform=mac)
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - Native macOS outliner for local-first notes stored as plain Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]

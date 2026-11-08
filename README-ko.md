@@ -253,6 +253,7 @@ Awesome Mac
 * [Evernote](https://evernote.com/) - 다양한 플랫폼에서 사용 가능한 유명 노트 앱. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - 간단하고 대화형 디자인의 쓰기 앱 및 작업 관리자.
+* [hYYa Encrypted Notes & Sync](https://hyya.com/hyya-encrypted-notes.html) - 내 Google Drive로 Mac, iPhone, iPad, Android 간에, 또는 iCloud로 Apple 기기 간에 동기화되는 암호화 메모·일기 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6792328099?platform=mac)
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - 노트를 일반 Markdown 파일로 저장하는 macOS 네이티브 로컬 우선 아웃라이너. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
