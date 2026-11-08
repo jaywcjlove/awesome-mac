@@ -1256,6 +1256,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 *(Or you could just use the Mac OS built-in dictionary)*
 
 * [DeepL](https://www.deepl.com/en/app/) - Best quality translations ![Freeware][Freeware Icon]
+* [Easy Write](https://www.onekapisch.com/products/easy-write/) - Translate or rewrite selected text in place with on-device Apple Intelligence, in a formal or informal tone. [![Open-Source Software][OSS Icon]](https://github.com/onekapisch/easy-write) ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - A concise dictionary and translator for looking up words and translating text. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - Refine your english
 * [iTranslate](https://www.itranslate.com/) - Translation app for text and web pages in multiple languages. ![Freeware][Freeware Icon]
