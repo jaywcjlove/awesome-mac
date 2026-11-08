@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:12:19 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Show Bar</title>
+      <link>https://rept0rix.github.io/show-bar/</link>
+      <guid isPermaLink="false">4d3928782535751a5aea8917f5c3cfbd06e4181c:Show Bar</guid>
+      <pubDate>Sun, 08 Nov 2026 13:12:19 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Show Bar
+Description: 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。
+Website: https://rept0rix.github.io/show-bar/
+Open Source: https://github.com/rept0rix/show-bar
+App Store: https://apps.apple.com/app/id6818509447?platform=mac
+Commit: Add Show Bar under Window Management (#4378)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Show Bar<br/>Description: 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。<br/>Website: https://rept0rix.github.io/show-bar/<br/>Open Source: https://github.com/rept0rix/show-bar<br/>App Store: https://apps.apple.com/app/id6818509447?platform=mac<br/>Commit: Add Show Bar under Window Management (#4378)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c]]></content:encoded>
+    </item>
     <item>
       <title>GitOS</title>
       <link>https://gitos.angelsaikia.com/</link>
@@ -719,21 +735,6 @@ Open Source: https://github.com/samirmaikap/spawnsweep
 Commit: Add SpawnSweep to Developer Utilities (#4107)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: SpawnSweep<br/>Description: 菜单栏应用，显示 Claude Code、Codex、Cursor 等 AI 编程代理遗留运行的开发服务器、模拟器和构建数据，并在清理前先预览。<br/>Open Source: https://github.com/samirmaikap/spawnsweep<br/>Commit: Add SpawnSweep to Developer Utilities (#4107)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68]]></content:encoded>
-    </item>
-    <item>
-      <title>Wavefunction</title>
-      <link>https://www.wavefunction.si</link>
-      <guid isPermaLink="false">b2be891c66880d85368cfe8e6057bfab27a4c8ca:Wavefunction</guid>
-      <pubDate>Sat, 31 Oct 2026 08:53:51 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Wavefunction
-Description: 开源桌面编程代理，可并行运行多个对话，支持本地模型、自有 API 密钥或 ChatGPT 登录。
-Website: https://www.wavefunction.si
-Open Source: https://github.com/stoyan-stoyanov/wavefunction
-Commit: Add Wavefunction to IDEs (#4102)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Wavefunction<br/>Description: 开源桌面编程代理，可并行运行多个对话，支持本地模型、自有 API 密钥或 ChatGPT 登录。<br/>Website: https://www.wavefunction.si<br/>Open Source: https://github.com/stoyan-stoyanov/wavefunction<br/>Commit: Add Wavefunction to IDEs (#4102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca]]></content:encoded>
     </item>
   </channel>
 </rss>
