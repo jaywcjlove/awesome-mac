@@ -1363,6 +1363,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
+* [Clip 4 Breakfast](https://clip4breakfast.app) - Keyboard-first clipboard history with search, named Keepers, an ordered Paste Stack and framed screenshots. ![Native App][Native Icon]
 * [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/clipbara/id6803537696?platform=mac)
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](https://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]

@@ -1360,6 +1360,7 @@ Awesome Mac
 
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 画像OCRとブックマークに対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - macOS史上最もクリーンなクリップボードマネージャー！ ![Freeware][Freeware Icon]
+* [Clip 4 Breakfast](https://clip4breakfast.app) - キーボード中心のクリップボード履歴アプリ。検索、名前付きの Keepers、順序付きの Paste Stack、フレーム付きスクリーンショットに対応。 ![Native App][Native Icon]
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
