@@ -1292,6 +1292,7 @@ Awesome Mac
 
 * [Cryptomator](https://cryptomator.org/) - クラウド上のファイルのマルチプラットフォーム透過型クライアントサイド暗号化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - オープンソースのファイル暗号化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
+* [hYYa Encrypted Folder & Sync](https://hyya.com/hyya-encrypted-folder.html) - 自分の Google Drive で Mac・iPhone・iPad・Android 間、または iCloud で Apple デバイス間を同期できる暗号化フォルダアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6786135330?platform=mac)
 
 ## セキュリティツール
 
