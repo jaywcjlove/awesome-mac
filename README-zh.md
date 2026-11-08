@@ -504,6 +504,7 @@ Awesome Mac
 * [Screen Loupe](https://ayenora.github.io/screen-loupe/) - 开源实时放大镜，在独立窗口中按像素精确地放大显示屏幕的任意区域。[![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - 轻松导出桌面分层文件 PSD 文件。[![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/screentolayers/id1077317077?platform=mac)
 * [Sculptris](http://pixologic.com/sculptris/#) - 所见所得的 3D 建模。![Freeware][Freeware Icon]
+* [Sip](https://sipapp.io) - 用于收集、整理颜色并与团队共享调色板的取色器。
 * [Sketch](https://www.sketchapp.com/) - 混合矢量/位图布局应用，特别适用于用户界面，Web 和移动设计。
     * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - 清理 Sketch 历史文件，释放磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
     * [Measure Plugin](http://utom.design/measure/) - 设计稿标注、测量工具。 [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
