@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:39:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:45:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GitOS</title>
+      <link>https://gitos.angelsaikia.com/</link>
+      <guid isPermaLink="false">ef714e75bd910fce73f4268ffa99ff7c70642ea0:GitOS</guid>
+      <pubDate>Sun, 08 Nov 2026 07:45:29 GMT</pubDate>
+      <category>开发者工具 / 版本控制 GUI</category>
+      <description>Category: 开发者工具 / 版本控制 GUI
+App: GitOS
+Description: 为每个仓库自动选择正确 GitHub 账号的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS)
+Website: https://gitos.angelsaikia.com/
+Open Source: https://github.com/Dhunu/gitOS
+Commit: Add GitOS to Version Control (#4337)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: GitOS<br/>Description: 为每个仓库自动选择正确 GitHub 账号的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS)<br/>Website: https://gitos.angelsaikia.com/<br/>Open Source: https://github.com/Dhunu/gitOS<br/>Commit: Add GitOS to Version Control (#4337)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0]]></content:encoded>
+    </item>
     <item>
       <title>Quill</title>
       <link>https://quill.hridya.tech</link>
@@ -719,21 +734,6 @@ Open Source: https://github.com/stoyan-stoyanov/wavefunction
 Commit: Add Wavefunction to IDEs (#4102)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Wavefunction<br/>Description: 开源桌面编程代理，可并行运行多个对话，支持本地模型、自有 API 密钥或 ChatGPT 登录。<br/>Website: https://www.wavefunction.si<br/>Open Source: https://github.com/stoyan-stoyanov/wavefunction<br/>Commit: Add Wavefunction to IDEs (#4102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Hertzwise</title>
-      <link>https://zeetabit.github.io/Hertzwise/</link>
-      <guid isPermaLink="false">bf8ca04a9d068cd499c77153abbb3e830a69fc4a:Hertzwise</guid>
-      <pubDate>Sat, 31 Oct 2026 08:29:53 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Hertzwise
-Description: 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。
-Website: https://zeetabit.github.io/Hertzwise/
-Open Source: https://github.com/zeetabit/Hertzwise
-Commit: Add Hertzwise to Audio and Video Tools (#4101)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Hertzwise<br/>Description: 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
     </item>
   </channel>
 </rss>
