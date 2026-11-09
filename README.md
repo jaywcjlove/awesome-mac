@@ -379,6 +379,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Skim](https://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 * [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
+* [Snaggy](https://snaggyapp.com) - Bookmark manager that saves pages from any browser with one shortcut and files them into folders automatically.
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [TabType](https://github.com/nilava/TabType) - Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 * [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
