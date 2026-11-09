@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:55:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.8starlabs.com</link>
+      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Cue
+Description: Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다.
+Website: https://cue.8starlabs.com
+Open Source: https://github.com/8starlabs/cue
+Commit: Add Cue to terminal app lists (#4419)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Cue<br/>Description: Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다.<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
+    </item>
     <item>
       <title>Native Screen</title>
       <link>https://nativescreen.app/</link>
@@ -719,22 +734,6 @@ Open Source: https://github.com/mucahitimre/Shutterbar
 Commit: Add Shutterbar to Screenshot Tools (#4148)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Shutterbar<br/>Description: ShareX 스타일 스크린샷 도구. ⌘C로 클립보드에 바로 복사, 캡처 후 작업 자동 실행, 마지막 영역 다시 캡처, 스크롤 캡처 지원.<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
-    </item>
-    <item>
-      <title>NTFSTool</title>
-      <link>https://ntfstool.com</link>
-      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
-      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: NTFSTool
-Description: 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구.
-Website: https://ntfstool.com
-Open Source: https://github.com/ntfstool/ntfstool
-App Store: https://apps.apple.com/app/id1510209857
-Commit: Add NTFSTool to System Related Tools (#4134)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: NTFSTool<br/>Description: 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구.<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
     </item>
   </channel>
 </rss>

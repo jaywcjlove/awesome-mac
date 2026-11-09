@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:55:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.8starlabs.com</link>
+      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Cue
+Description: 为 Apple Terminal 和 VS Code 集成终端中的 Zsh 提供类似 IDE 的命令、选项、Git 分支和文件补全。
+Website: https://cue.8starlabs.com
+Open Source: https://github.com/8starlabs/cue
+Commit: Add Cue to terminal app lists (#4419)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Cue<br/>Description: 为 Apple Terminal 和 VS Code 集成终端中的 Zsh 提供类似 IDE 的命令、选项、Git 分支和文件补全。<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
+    </item>
     <item>
       <title>Native Screen</title>
       <link>https://nativescreen.app/</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/Tekkiech/jdsp4mac
 Commit: Add jdsp4mac to Audio Record and Process (#4146)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
       <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: jdsp4mac<br/>Description: 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
-    </item>
-    <item>
-      <title>Shutterbar</title>
-      <link>https://github.com/mucahitimre/Shutterbar</link>
-      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
-      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Shutterbar
-Description: ShareX 风格的截图工具，支持 ⌘C 直接复制到剪贴板、截图后自动任务、重新截取上次区域和滚动截屏。
-Open Source: https://github.com/mucahitimre/Shutterbar
-Commit: Add Shutterbar to Screenshot Tools (#4148)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Shutterbar<br/>Description: ShareX 风格的截图工具，支持 ⌘C 直接复制到剪贴板、截图后自动任务、重新截取上次区域和滚动截屏。<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
     </item>
   </channel>
 </rss>
