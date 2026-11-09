@@ -1786,6 +1786,7 @@ Awesome Mac
 * [Sunshine](https://github.com/LizardByte/Sunshine) - 自托管的游戏串流，用于 Moonlight。[![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com) - 用于远程协助和屏幕共享的工具。![Freeware][Freeware Icon]
 * [Windows App](https://apps.apple.com/cn/app/windows-app/id1295203466?platform=mac) - 微软官方的远程桌面连接工具 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/windows-app/id1295203466?platform=mac) [![Freeware][Freeware Icon]](https://go.microsoft.com/fwlink/?linkid=868963)
+* [Glissvia](https://glissvia.com/zh/) - 适用于 macOS 内置屏幕共享的 iPhone/iPad 原生客户端，内置 Tailscale，Mac 端免装常驻软件（一次买断）。[![App Store][app-store Icon]](https://apps.apple.com/app/id6829696331)
 
 ## QuickLook插件
 

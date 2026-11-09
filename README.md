@@ -1912,6 +1912,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - Remote support and screen sharing tool. ![Freeware][Freeware Icon]
 * [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware][Freeware Icon]
+* [Glissvia](https://glissvia.com/en/) - Native iOS/iPadOS client for macOS built-in Screen Sharing with embedded Tailscale ($4.99 one-time). [![App Store][app-store Icon]](https://apps.apple.com/app/id6829696331)
 
 ## QuickLook Plugins
 
