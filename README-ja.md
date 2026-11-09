@@ -1357,6 +1357,7 @@ Awesome Mac
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - macOS用のドラッグ＆ドロップヘルパーアプリ。 ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - ドラッグしたファイル、テキスト、リンクを一時的に集めて移動できるシェルフ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Deleteでアクティビティモニタを起動し、Cmd+XでFinderのファイルをカット＆移動。
+* [OCR](https://geragaraza.com/apps/ocr/) - キーボードショートカットで選んだ画面の範囲からテキストや QR コードの内容をコピーする、Apple Vision によるオフラインのオープンソース画面 OCR ツール。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/ocr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### クリップボードツール
 

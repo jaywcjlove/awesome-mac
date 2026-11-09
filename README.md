@@ -1360,6 +1360,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - Temporary shelf for collecting and moving dragged files, text, and links. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.
+* [OCR](https://geragaraza.com/apps/ocr/) - Open-source screen OCR tool that copies the text or QR code content of any area selected with a keyboard shortcut, offline with Apple Vision. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/ocr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Clipboard Tools
 
