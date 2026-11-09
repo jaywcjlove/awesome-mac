@@ -1561,6 +1561,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Folders File Manager](https://foldersapp.dev) - A file manager with an expandable folder tree, similar to that of Windows Explorer.
 * [Hazel](https://www.noodlesoft.com) - Automated file organization for your Mac. Responsibly and beautifully designed.
+* [Iruka](https://iruka.sh) - Native file manager with dual panes, previews, and a terminal that follows your folder.
 * [Keka](https://www.keka.io) - Open-source compression and extraction tool with broad format support. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
 * [muCommander](https://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Dual-pane file manager with Vim-style hotkeys and customizable extensions. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]

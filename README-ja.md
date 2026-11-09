@@ -1552,6 +1552,7 @@ Awesome Mac
 * [Fileside](https://www.fileside.app) - 無制限のペインを持つモダンなタイリングファイルマネージャー。
 * [Folders File Manager](https://foldersapp.dev) - Windowsエクスプローラーに似た展開可能なフォルダツリーを持つファイルマネージャー。
 * [Hazel](https://www.noodlesoft.com) - Macのためのファイル自動整理ツール。責任を持って美しくデザインされています。
+* [Iruka](https://iruka.sh) - デュアルペインとファイルプレビューを備え、ターミナルが現在のフォルダに追従するネイティブファイルマネージャー。
 * [Keka](https://www.keka.io) - 多くの形式に対応したオープンソースの圧縮・解凍ツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keka/id470158793?platform=mac)
 * [muCommander](http://www.mucommander.com) - デュアルペインインターフェースを持つ軽量ファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vimスタイルのショートカットを備えたデュアルペインファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
