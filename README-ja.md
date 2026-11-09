@@ -1141,6 +1141,7 @@ Awesome Mac
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 無料のオープンソース全体音声向けパラメトリックEQで、AutoEQプリセット、聴力キャリブレーション、リアルタイム可視化に対応。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [Tingo](https://github.com/tancheng33/tingo) - あらゆる通話を録音し、デバイス上で文字起こしと話者分離を行い、好きな LLM で各項目が元の音声にリンクされた議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
+* [UnitBasse](https://unitbasse.com/) - 指板上のスケール、チューナー、手持ちの Audio Units も使えるアンプとエフェクト、五線譜とTAB譜、16スタイルの伴奏バンドを備えたベース練習アプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6764106685) ![Native App][Native Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp と Metal を活用した完全ローカルな音声入力・会議書き起こしツール。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - あらゆる通話をデバイス上で文字起こしして話者を区別し、Apple Intelligence または自前のローカルモデルサーバーで出典付きの議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 音声合成、ボイスクローン、感情コントロール、楽曲生成、MIDI 編曲をすべてローカルで行える音声制作ツール。 [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
