@@ -610,6 +610,7 @@ Awesome Mac
 * [Figma](https://www.figma.com/) - 벡터 그래픽과 UI 프로토타이핑을 위한 협업 디자인 도구. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 무료 오픈 소스 글꼴 편집기. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU 이미지 조작 프로그램. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
+* [#HEX](https://geragaraza.com/apps/hex/) - 단축키로 macOS 색상 샘플러를 열고 클릭한 픽셀을 HEX 코드로 복사하는 오픈 소스 색상 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/hex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Inkscape](https://inkscape.org/en/) - 전문적인 벡터 그래픽 편집기. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - 네이티브 페인트 및 스크린샷 마크업. 단계 배지, 픽셀화, 인스턴트 알파. 계정과 텔레메트리 없음. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - 컨셉 아티스트와 일러스트레이터를 위한 오픈 소스 페인팅 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
