@@ -1456,6 +1456,7 @@ Awesome Mac
 * [SaneClip](https://saneclip.com) - 带历史记录、隐私保护和敏感信息检测的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
 * [SnippetCraft](https://getsnippetcraft.com) - 适用于 macOS 的全系统文本扩展、片段管理和剪贴板历史工具。
 * [uPaste](https://okaapps.com/product/1503649026) - 自动整理剪贴板历史和常用片段的管理器。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
+* [yabbistir](https://github.com/berkaygkc/yabbistir) - 键盘优先的剪贴板历史工具，在文本光标正下方打开，支持可重新排序的粘贴队列，分类以列的形式显示。 [![Open-Source Software][OSS Icon]](https://github.com/berkaygkc/yabbistir) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Yippy](https://github.com/mattDavo/Yippy) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 
 ### 菜单栏工具
