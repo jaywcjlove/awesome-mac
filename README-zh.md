@@ -802,6 +802,7 @@ Awesome Mac
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 多种情况下的全面和专业的数据恢复。
+* [NoteRescue](https://kayabyte.dev/mac/noterescue/) - 在 Time Machine 快照和 iPhone 备份中查找备忘录、通讯录、Safari、日历、提醒事项和语音备忘录里丢失或改动的内容，并将其恢复。
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 用于恢复损坏、删除或格式化磁盘数据的工具。
 
 ## 音频和视频

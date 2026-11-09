@@ -1028,6 +1028,7 @@ Awesome Mac
 
 * [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - ほとんどのケースに対応する包括的でプロフェッショナルなデータ復旧ツール。
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Mac用の世界で最も高度な修復・復旧ツール。
+* [NoteRescue](https://kayabyte.dev/mac/noterescue/) - Time Machine スナップショットと iPhone バックアップの中から、メモ、連絡先、Safari、カレンダー、リマインダー、ボイスメモの失われた項目や変更された項目を見つけて復元するアプリ。
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 破損・削除・フォーマットされたディスクのデータ復旧ツール。
 * [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 手間のかからない完全ブート可能なディスクバックアップ。
 * [Disk Drill](https://www.cleverfiles.com/) - 無料のデータ復旧ツール。PRO版もあり。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac)
