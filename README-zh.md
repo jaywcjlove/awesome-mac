@@ -1595,6 +1595,7 @@ Awesome Mac
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
+* [ElfClean](https://elfclean.app/) - 查找 node_modules、DerivedData、软件包缓存和本地 AI 模型占用的磁盘空间，逐项说明，并在清理前打开审查。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6819001057?pt=129383521&ct=dir-awesome-mac&mt=12) ![Native App][Native Icon]
 * [Harbofly](https://harbofly.app/) - 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Headroom](https://headroom-app.org) - 快速的磁盘空间分析器，提供树状图和重复文件查找，并在删除前将缓存和开发者文件夹标记为“安全”、“谨慎”或“切勿删除”。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Kipimo](https://www.piedol.top/kipimo/) - 开源的菜单栏系统监视器，附带清理缓存、连同残留文件卸载应用、查看磁盘占用和检查启动项等工具，所有删除的内容都会移到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/kipimo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
