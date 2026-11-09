@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:36:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Polka</title>
+      <link>https://romabmstu.github.io/polka/</link>
+      <guid isPermaLink="false">c7f934623125ed24730ff10fa457108b220b06ad:Polka</guid>
+      <pubDate>Mon, 09 Nov 2026 03:36:28 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Polka
+Description: MacBookのノッチを、VPN接続、各ブラウザのタブグループ、再生中のメディア、カレンダー、オンデバイス翻訳、クリップボード履歴をまとめたコントロールセンターに変える。
+Website: https://romabmstu.github.io/polka/
+Open Source: https://github.com/romabmstu/polka
+Commit: Add Polka to Menu Bar Tools (#4390)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Polka<br/>Description: MacBookのノッチを、VPN接続、各ブラウザのタブグループ、再生中のメディア、カレンダー、オンデバイス翻訳、クリップボード履歴をまとめたコントロールセンターに変える。<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
+    </item>
     <item>
       <title>GitOS</title>
       <link>https://gitos.angelsaikia.com/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/Ntarasiuk/glass
 Commit: Add Glass to Remote Login Software (#4085)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c</description>
       <content:encoded><![CDATA[Category: リモートログインソフトウェア<br/>App: Glass<br/>Description: Mac と Linux 向けの低遅延リモートデスクトップ。任意のブラウザから操作でき、操作する側には何もインストール不要。<br/>Website: https://glassdesk.dev<br/>Open Source: https://github.com/Ntarasiuk/glass<br/>Commit: Add Glass to Remote Login Software (#4085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c]]></content:encoded>
-    </item>
-    <item>
-      <title>Flickbar</title>
-      <link>https://flickbar.github.io/</link>
-      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
-      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Flickbar
-Description: ウィンドウのタイトルバー上のトラックパッドジェスチャーで操作するオープンソースのウィンドウ管理ツール。
-Website: https://flickbar.github.io/
-Open Source: https://github.com/flickbar/flickbar
-Commit: Add Flickbar to Window Management (#4083)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Flickbar<br/>Description: ウィンドウのタイトルバー上のトラックパッドジェスチャーで操作するオープンソースのウィンドウ管理ツール。<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
     </item>
   </channel>
 </rss>

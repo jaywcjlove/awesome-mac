@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:36:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Polka</title>
+      <link>https://romabmstu.github.io/polka/</link>
+      <guid isPermaLink="false">c7f934623125ed24730ff10fa457108b220b06ad:Polka</guid>
+      <pubDate>Mon, 09 Nov 2026 03:36:28 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Polka
+Description: 노치를 VPN 연결, 모든 브라우저의 탭 그룹, 현재 재생 중인 곡, 캘린더, 온디바이스 번역, 클립보드 기록을 모은 제어 센터로 바꿔준다.
+Website: https://romabmstu.github.io/polka/
+Open Source: https://github.com/romabmstu/polka
+Commit: Add Polka to Menu Bar Tools (#4390)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Polka<br/>Description: 노치를 VPN 연결, 모든 브라우저의 탭 그룹, 현재 재생 중인 곡, 캘린더, 온디바이스 번역, 클립보드 기록을 모은 제어 센터로 바꿔준다.<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
+    </item>
     <item>
       <title>GitOS</title>
       <link>https://gitos.angelsaikia.com/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/Ntarasiuk/glass
 Commit: Add Glass to Remote Login Software (#4085)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c</description>
       <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: Glass<br/>Description: 어떤 브라우저에서든 볼 수 있고, 보는 쪽에는 아무것도 설치할 필요가 없는 Mac 및 Linux용 저지연 원격 데스크톱.<br/>Website: https://glassdesk.dev<br/>Open Source: https://github.com/Ntarasiuk/glass<br/>Commit: Add Glass to Remote Login Software (#4085)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c979c976d85dec2f250d1cd93d37d135685d199c]]></content:encoded>
-    </item>
-    <item>
-      <title>Flickbar</title>
-      <link>https://flickbar.github.io/</link>
-      <guid isPermaLink="false">a65263449927a2b2e6db608fda4d92d4736b61e1:Flickbar</guid>
-      <pubDate>Sat, 31 Oct 2026 00:19:18 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: Flickbar
-Description: 창 제목 표시줄에서 트랙패드 제스처로 창을 조작하는 오픈 소스 창 관리 도구.
-Website: https://flickbar.github.io/
-Open Source: https://github.com/flickbar/flickbar
-Commit: Add Flickbar to Window Management (#4083)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Flickbar<br/>Description: 창 제목 표시줄에서 트랙패드 제스처로 창을 조작하는 오픈 소스 창 관리 도구.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
     </item>
   </channel>
 </rss>
