@@ -955,6 +955,7 @@ Awesome Mac
 * [Sidekey](https://wongsiufool.github.io/sidekey/) - iPhone을 Mac이나 Windows PC의 무선 키보드, 트랙패드, 음성 입력으로 사용하는 도구. 로컬 Wi-Fi로 연결. [![Open-Source Software][OSS Icon]](https://github.com/wongsiufool/sidekey) ![Freeware][Freeware Icon]
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 앱이나 웹사이트별로 입력 소스를 자동 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
+* [UnimeType](https://unimetype.com) - 하나의 영문 키보드에서 병음·로마자·영어가 섞인 문장을 전환 없이 입력하고 영단어와 코드를 유지한 채 문장 단위로 변환해 주는 네이티브 입력기(로컬 LM Studio 모델 지원). ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 음성 텍스트 변환 (Voice-to-Text)
 

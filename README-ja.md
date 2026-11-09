@@ -1195,6 +1195,7 @@ Awesome Mac
 * [Type2Phone](https://www.houdah.com/type2Phone/) - MacをiPhone、iPad、Apple TVのキーボードとして使用。
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - macOSのGlobeキーをもっと便利に！ [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - アプリやWebサイトごとに入力ソースを自動切り替えするツール。 [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
+* [UnimeType](https://unimetype.com) - 1つのラテン文字キーボードでローマ字・ピンイン・英単語が混在した文をそのまま入力し、英単語やコードを維持したまま一括変換できるネイティブ入力メソッド（ローカルLM Studioモデル対応）。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 音声テキスト変換
 
