@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:36:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:04:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.hridya.tech</link>
+      <guid isPermaLink="false">21ce56aa9b31410f51395de3f151297f5415f82b:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 07:04:15 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Cue
+Description: 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。
+Website: https://cue.hridya.tech
+Open Source: https://github.com/hridaya423/cue
+Commit: Add Cue (#4345)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Cue<br/>Description: 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。<br/>Website: https://cue.hridya.tech<br/>Open Source: https://github.com/hridaya423/cue<br/>Commit: Add Cue (#4345)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b]]></content:encoded>
+    </item>
     <item>
       <title>Polka</title>
       <link>https://romabmstu.github.io/polka/</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/x0c/HandySwitch
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: HandySwitch<br/>Description: 轻量级菜单栏快捷开关小工具（支持切换深色模式、防止休眠、滚动方向等）。<br/>Open Source: https://github.com/x0c/HandySwitch<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>MacResourceMonitor</title>
-      <link>https://github.com/x0c/MacResourceMonitor</link>
-      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:MacResourceMonitor</guid>
-      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: MacResourceMonitor
-Description: 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。
-Open Source: https://github.com/x0c/MacResourceMonitor
-Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: MacResourceMonitor<br/>Description: 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。<br/>Open Source: https://github.com/x0c/MacResourceMonitor<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
     </item>
   </channel>
 </rss>

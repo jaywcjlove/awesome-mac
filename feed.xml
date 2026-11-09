@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:36:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:04:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.hridya.tech</link>
+      <guid isPermaLink="false">21ce56aa9b31410f51395de3f151297f5415f82b:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 07:04:15 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Cue
+Description: Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.
+Website: https://cue.hridya.tech
+Open Source: https://github.com/hridaya423/cue
+Commit: Add Cue (#4345)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Cue<br/>Description: Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.<br/>Website: https://cue.hridya.tech<br/>Open Source: https://github.com/hridaya423/cue<br/>Commit: Add Cue (#4345)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b]]></content:encoded>
+    </item>
     <item>
       <title>Polka</title>
       <link>https://romabmstu.github.io/polka/</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/x0c/HandySwitch
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: HandySwitch<br/>Description: Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction.<br/>Open Source: https://github.com/x0c/HandySwitch<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>MacResourceMonitor</title>
-      <link>https://github.com/x0c/MacResourceMonitor</link>
-      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:MacResourceMonitor</guid>
-      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: MacResourceMonitor
-Description: Menu bar CPU monitor to see which process is eating CPU and terminate it directly.
-Open Source: https://github.com/x0c/MacResourceMonitor
-Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MacResourceMonitor<br/>Description: Menu bar CPU monitor to see which process is eating CPU and terminate it directly.<br/>Open Source: https://github.com/x0c/MacResourceMonitor<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
     </item>
   </channel>
 </rss>
