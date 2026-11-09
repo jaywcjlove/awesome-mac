@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:41:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Nimbus</title>
+      <link>https://github.com/Dearonski/Nimbus</link>
+      <guid isPermaLink="false">bea1458f3ab354bebea19f19de520195affcbf3d:Nimbus</guid>
+      <pubDate>Mon, 09 Nov 2026 07:41:34 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Nimbus
+Description: 갭리스 재생, 드래그 앤 드롭 대기열, Chromecast, 전체 화면 바이닐 플레이어를 지원하는 네이티브 SoundCloud 클라이언트.
+Open Source: https://github.com/Dearonski/Nimbus
+Commit: Add Nimbus to Audio and Video Tools (#4348)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Nimbus<br/>Description: 갭리스 재생, 드래그 앤 드롭 대기열, Chromecast, 전체 화면 바이닐 플레이어를 지원하는 네이티브 SoundCloud 클라이언트.<br/>Open Source: https://github.com/Dearonski/Nimbus<br/>Commit: Add Nimbus to Audio and Video Tools (#4348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d]]></content:encoded>
+    </item>
     <item>
       <title>Lowspeak</title>
       <link>https://github.com/sventmueller/lowspeak</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/zeetabit/Hertzwise
 Commit: Add Hertzwise to Audio and Video Tools (#4101)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Hertzwise<br/>Description: Apple Music 또는 Tidal의 곡마다 DAC 샘플레이트를 자동으로 전환해 무손실을 비트 퍼펙트로 재생하는 메뉴 막대 앱으로, 기기별 AutoEq 헤드폰 EQ를 제공합니다.<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
-    </item>
-    <item>
-      <title>Tarn</title>
-      <link>https://github.com/jakeantelis/Tarn</link>
-      <guid isPermaLink="false">ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db:Tarn</guid>
-      <pubDate>Sat, 31 Oct 2026 06:31:32 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Tarn
-Description: 집중 작업 라운드와 느린 호흡을 위한 차분한 메뉴 막대 앱으로, 환경음은 선택 사항입니다.
-Open Source: https://github.com/jakeantelis/Tarn
-Commit: Add Tarn to Menu Bar Tools (#4097)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Tarn<br/>Description: 집중 작업 라운드와 느린 호흡을 위한 차분한 메뉴 막대 앱으로, 환경음은 선택 사항입니다.<br/>Open Source: https://github.com/jakeantelis/Tarn<br/>Commit: Add Tarn to Menu Bar Tools (#4097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed3f5b5f0deea7a4d715dc9472b9b45d3d90c4db]]></content:encoded>
     </item>
   </channel>
 </rss>

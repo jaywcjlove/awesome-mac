@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:41:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Nimbus</title>
+      <link>https://github.com/Dearonski/Nimbus</link>
+      <guid isPermaLink="false">bea1458f3ab354bebea19f19de520195affcbf3d:Nimbus</guid>
+      <pubDate>Mon, 09 Nov 2026 07:41:34 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Nimbus
+Description: Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player.
+Open Source: https://github.com/Dearonski/Nimbus
+Commit: Add Nimbus to Audio and Video Tools (#4348)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Nimbus<br/>Description: Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player.<br/>Open Source: https://github.com/Dearonski/Nimbus<br/>Commit: Add Nimbus to Audio and Video Tools (#4348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d]]></content:encoded>
+    </item>
     <item>
       <title>Lowspeak</title>
       <link>https://github.com/sventmueller/lowspeak</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/corral-dev/corral-apple
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Corral<br/>Description: Native macOS and iPhone client to follow and reply to Claude Code, Codex, OpenCode, and Cursor sessions with split panes.<br/>Open Source: https://github.com/corral-dev/corral-apple<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>NeatPaste</title>
-      <link>https://github.com/NeatMacApps/NeatPaste</link>
-      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:NeatPaste</guid>
-      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: NeatPaste
-Description: Clean, lightweight native clipboard manager for macOS.
-Open Source: https://github.com/NeatMacApps/NeatPaste
-Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: NeatPaste<br/>Description: Clean, lightweight native clipboard manager for macOS.<br/>Open Source: https://github.com/NeatMacApps/NeatPaste<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:41:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Nimbus</title>
+      <link>https://github.com/Dearonski/Nimbus</link>
+      <guid isPermaLink="false">bea1458f3ab354bebea19f19de520195affcbf3d:Nimbus</guid>
+      <pubDate>Mon, 09 Nov 2026 07:41:34 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Nimbus
+Description: 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。
+Open Source: https://github.com/Dearonski/Nimbus
+Commit: Add Nimbus to Audio and Video Tools (#4348)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Nimbus<br/>Description: 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。<br/>Open Source: https://github.com/Dearonski/Nimbus<br/>Commit: Add Nimbus to Audio and Video Tools (#4348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d]]></content:encoded>
+    </item>
     <item>
       <title>Lowspeak</title>
       <link>https://github.com/sventmueller/lowspeak</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/corral-dev/corral-apple
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Corral<br/>Description: 面向 Claude Code、Codex、OpenCode 与 Cursor 的原生 macOS 及 iPhone 客户端，支持分屏视图与远程会话接力。<br/>Open Source: https://github.com/corral-dev/corral-apple<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>NeatPaste</title>
-      <link>https://github.com/NeatMacApps/NeatPaste</link>
-      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:NeatPaste</guid>
-      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: NeatPaste
-Description: 干净轻量的 macOS 原生剪贴板管理工具。
-Open Source: https://github.com/NeatMacApps/NeatPaste
-Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: NeatPaste<br/>Description: 干净轻量的 macOS 原生剪贴板管理工具。<br/>Open Source: https://github.com/NeatMacApps/NeatPaste<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
     </item>
   </channel>
 </rss>
