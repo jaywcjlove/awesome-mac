@@ -134,6 +134,7 @@
 * [aisw](https://aiswitcher.dev) - 이름이 지정된 프로필로 Claude Code, Codex, Gemini, Antigravity CLI 계정을 전환하고 저장소별로 사용할 계정을 고정. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple silicon의 기본 container 런타임을 위한 Docker Compose 호환 CLI. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
+* [Imagera Code](https://imagera.ai/code) - 프로젝트를 수정하고 명령과 테스트를 실행하는 터미널용 AI 코딩 에이전트로, 하나의 구독으로 Claude, GPT, Gemini 등 여러 모델을 사용할 수 있음.
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON 스키마 작업을 위한 CLI. 포맷팅, 린팅, 테스트, 번들링 등을 지원하며 로컬 개발 및 CI/CD 파이프라인에서 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
 * [mdctl](https://github.com/samzong/mdctl) - 마크다운 파일 처리를 위한 명령줄 도구. 이미지 다운로드, 파일 번역 등 지원. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [quokka](https://github.com/dutradotdev/quokka) - 터미널에서 USB로 연결된 iPhone을 점검하고 정리. 저장공간, 앱, 미디어, 실시간 syslog 뷰어. 탈옥 불필요. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
