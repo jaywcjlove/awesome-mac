@@ -1005,6 +1005,7 @@ Awesome Mac
 * [N1](https://www.nylas.com/) - 拡張可能なオープンソースのメールアプリ。開発者は無料、Proは月額$7。 ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - モダンなWebテクノロジーで構築された拡張可能なデスクトップメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - シンプルで美しく、パワフルなメールクライアント。 ![Freeware][Freeware Icon]
+* [Postage](https://postageformac.com/) - あらゆる IMAP アカウントに対応したネイティブのメールクライアント。MCP サーバーを内蔵し、Claude Code や Codex などのエージェントがメールの検索、整理、下書きを行い、送信は自分で押す。 ![Native App][Native Icon]
 * [Postbox](https://www.postbox-inc.com) - パワフルでシンプル、美しいメールクライアント。ライセンスの購入が必要。
 * [Spark](https://sparkmailapp.com/) - 高速メールクライアント。Mac OSとiOSの両方に対応。![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - メールをより簡単にするソフトウェア。 ![Freeware][Freeware Icon]

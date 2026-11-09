@@ -1004,6 +1004,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [N1](https://www.nylas.com/) - Extensible, open-source mail app, free for developers and $7/month for Pro. ![Open-Source Software][OSS Icon]
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
+* [Postage](https://postageformac.com/) - Native email client for any IMAP account with a built-in MCP server, so agents like Claude Code or Codex can search, sort and draft your mail while you press Send. ![Native App][Native Icon]
 * [Postbox](https://www.postbox-inc.com) - Powerful, simple and beautiful email client, need to pay for a license.
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
