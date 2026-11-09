@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:14:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claude Accounts</title>
+      <link>https://github.com/jomonkj/claude-accounts</link>
+      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
+      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Claude Accounts
+Description: Claude デスクトップアプリのアカウントをワンクリックで切り替えるツール。セッションは失われません。
+Open Source: https://github.com/jomonkj/claude-accounts
+Commit: Add Claude Accounts to Menu Bar Tools (#4415)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Claude Accounts<br/>Description: Claude デスクトップアプリのアカウントをワンクリックで切り替えるツール。セッションは失われません。<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
+    </item>
     <item>
       <title>FixStat</title>
       <link>https://github.com/BurakFixLab/fixstat</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/alvaldes/netty
 Commit: Add Netty to Menu Bar Tools (#4125)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Netty<br/>Description: インターネットに本当につながっているかを示し、遅延・ジッター・パケットロス・速度テストも確認できるオープンソースのメニューバーアプリ。<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac TV</title>
-      <link>https://arunprakaash.github.io/mac-tv/</link>
-      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
-      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Mac TV
-Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。
-Website: https://arunprakaash.github.io/mac-tv/
-Open Source: https://github.com/Arunprakaash/mac-tv
-Commit: Add Mac TV to Audio and Video Tools (#4119)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Mac TV<br/>Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
     </item>
   </channel>
 </rss>

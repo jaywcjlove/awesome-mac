@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:14:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Claude Accounts</title>
+      <link>https://github.com/jomonkj/claude-accounts</link>
+      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
+      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Claude Accounts
+Description: 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。
+Open Source: https://github.com/jomonkj/claude-accounts
+Commit: Add Claude Accounts to Menu Bar Tools (#4415)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Claude Accounts<br/>Description: 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
+    </item>
     <item>
       <title>FixStat</title>
       <link>https://github.com/BurakFixLab/fixstat</link>
@@ -722,21 +736,6 @@ App Store: https://apps.apple.com/app/id1510209857
 Commit: Add NTFSTool to System Related Tools (#4134)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: NTFSTool<br/>Description: 免费开源的 Mac NTFS 读写工具，无需内核扩展。<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
-    </item>
-    <item>
-      <title>Netty</title>
-      <link>https://alvaldes.github.io/netty/</link>
-      <guid isPermaLink="false">ed8e584177040dc33560a80d158beb900d500856:Netty</guid>
-      <pubDate>Sun, 01 Nov 2026 03:26:08 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Netty
-Description: 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。
-Website: https://alvaldes.github.io/netty/
-Open Source: https://github.com/alvaldes/netty
-Commit: Add Netty to Menu Bar Tools (#4125)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Netty<br/>Description: 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
     </item>
   </channel>
 </rss>
