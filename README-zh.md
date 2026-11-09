@@ -824,6 +824,7 @@ Awesome Mac
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [ParrotFlow](https://parrotflow.io/) - 可用你的规则、脚本和词汇编程的本地语音听写应用。 [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
+* [Speakey](https://speakey.dev) - 面向 Apple Silicon 的按住说话语音听写工具，在神经网络引擎上转写并在任意应用中输入文字，还内置语音助手。
 * [Tamka](https://www.piedol.top/tamka/) - 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - 支持全局热键的本地 Whisper 语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [Wavo](https://github.com/vladkens/wavo-app) - 不拖慢 Mac 的语音听写工具：在神经网络引擎上运行，语音不上传云端，并把你说的话输入到你正在打字的任何地方。 [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
