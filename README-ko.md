@@ -1254,6 +1254,7 @@ Awesome Mac
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - 마우스 버튼, 휠, 커서 속도를 세밀하게 조정하는 도구.
 * [SATF](https://github.com/tran-minh-khoi/SATF) - 파일을 드래그하면서 살짝 흔들면 커서 아래 원형 메뉴에서 형식 변환, PDF 병합, ZIP 압축, 압축 해제를 할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - 파일을 드래그하는 중 키를 누르고 휠에 놓으면 변환, 자르기, 압축, 메타데이터 제거, 공유를 할 수 있는 완전 오프라인 도구. [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Tend](https://tendmac.app/) - Apple 실리콘 Mac용 배터리, 에너지, 발열, 저장 공간 모니터. ![Freeware][Freeware Icon]
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Time Machine 백업이 끝나면 백업 디스크를 추출하고, 예약된 백업 시간이 되면 다시 마운트하는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 할 일 목록 (To-Do Lists)
