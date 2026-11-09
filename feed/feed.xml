@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:40:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lowspeak</title>
+      <link>https://github.com/sventmueller/lowspeak</link>
+      <guid isPermaLink="false">f5a1430697fde52d9918eefb6e7e31f56e0a6eb3:Lowspeak</guid>
+      <pubDate>Mon, 09 Nov 2026 07:40:51 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: Lowspeak
+Description: Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet.
+Open Source: https://github.com/sventmueller/lowspeak
+Commit: Add Lowspeak to Voice-to-Text (#4347)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Lowspeak<br/>Description: Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet.<br/>Open Source: https://github.com/sventmueller/lowspeak<br/>Commit: Add Lowspeak to Voice-to-Text (#4347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3]]></content:encoded>
+    </item>
     <item>
       <title>Cue</title>
       <link>https://cue.hridya.tech</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/NeatMacApps/NeatPaste
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: NeatPaste<br/>Description: Clean, lightweight native clipboard manager for macOS.<br/>Open Source: https://github.com/NeatMacApps/NeatPaste<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>HandySwitch</title>
-      <link>https://github.com/x0c/HandySwitch</link>
-      <guid isPermaLink="false">5d3a9088dacc05227ae76c042472f7bcf81c5d93:HandySwitch</guid>
-      <pubDate>Sat, 31 Oct 2026 20:21:45 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: HandySwitch
-Description: Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction.
-Open Source: https://github.com/x0c/HandySwitch
-Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: HandySwitch<br/>Description: Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction.<br/>Open Source: https://github.com/x0c/HandySwitch<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
     </item>
   </channel>
 </rss>
