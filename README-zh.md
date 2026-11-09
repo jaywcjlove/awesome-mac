@@ -1619,6 +1619,7 @@ Awesome Mac
 
 ### 效率工具
 
+* [KaidoPlan](https://ai.cygnusyang.top/kaidoplan/) - 本地优先的项目管理工具，提供 WBS、关键路径，以及面向 AI 代理的 MCP 工具。 ![Freeware][Freeware Icon]
 * [Table Habit](https://github.com/FriesI23/mhabit) – 带成长曲线和离线优先同步的习惯追踪器。![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Takeline](https://github.com/Bouliw/takeline) - Textream 的分支版本，完全在 Mac 本地跟随你的法语和英语语音，支持重拍检测和语音命令。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/takeline) ![Freeware][Freeware Icon]
 * [Rustcast](https://rustcast.app) - 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
