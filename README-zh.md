@@ -1373,6 +1373,7 @@ Awesome Mac
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 定时截图，方便回顾工作过程和填写工时。
 * [Noi](https://github.com/lencx/Noi) - AI 赋能你的世界——探索、扩展、赋权。 [![Open-Source Software][OSS Icon]](https://github.com/lencx/Noi) ![Freeware][Freeware Icon]
 * [NoSleep](https://www.macupdate.com/app/mac/37991/nosleep) - 合上盖子不休眠，可根据是否连接电源单独设置。
+* [Museum Wallpapers](https://nikaliuk.in/) - 源源不断地将世界各地博物馆的公有领域名画设为桌面壁纸，在菜单栏一键查看标题、画家和作品故事。 [![Open-Source Software][OSS Icon]](https://github.com/dpsk/museum-wallpapers-macos) ![Freeware][Freeware Icon]
 * [Nifro](https://github.com/PathGao/Nifro) - 将网站变为可配置的桌面壁纸，每块显示器可使用独立视图。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
