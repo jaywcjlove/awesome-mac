@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FixStat</title>
+      <link>https://github.com/BurakFixLab/fixstat</link>
+      <guid isPermaLink="false">65aa6f5642a92484525ede757a04d1c4cd0eb27b:FixStat</guid>
+      <pubDate>Mon, 09 Nov 2026 09:48:42 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: FixStat
+Description: 面向 Mac 维修的菜单栏监控与诊断工具：按机型命名的传感器、电池电芯数据、SSD SMART（含 USB 外接硬盘）、内核崩溃记录和引导式硬件测试。
+Open Source: https://github.com/BurakFixLab/fixstat
+Commit: Add FixStat to System Related Tools (#4410)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: FixStat<br/>Description: 面向 Mac 维修的菜单栏监控与诊断工具：按机型命名的传感器、电池电芯数据、SSD SMART（含 USB 外接硬盘）、内核崩溃记录和引导式硬件测试。<br/>Open Source: https://github.com/BurakFixLab/fixstat<br/>Commit: Add FixStat to System Related Tools (#4410)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b]]></content:encoded>
+    </item>
     <item>
       <title>NØTH</title>
       <link>https://github.com/manugowda19/noth</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/alvaldes/netty
 Commit: Add Netty to Menu Bar Tools (#4125)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Netty<br/>Description: 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac TV</title>
-      <link>https://arunprakaash.github.io/mac-tv/</link>
-      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
-      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Mac TV
-Description: 开源的 Apple TV 风格主屏，用于流媒体应用，支持手机遥控器和本地影片播放。
-Website: https://arunprakaash.github.io/mac-tv/
-Open Source: https://github.com/Arunprakaash/mac-tv
-Commit: Add Mac TV to Audio and Video Tools (#4119)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Mac TV<br/>Description: 开源的 Apple TV 风格主屏，用于流媒体应用，支持手机遥控器和本地影片播放。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FixStat</title>
+      <link>https://github.com/BurakFixLab/fixstat</link>
+      <guid isPermaLink="false">65aa6f5642a92484525ede757a04d1c4cd0eb27b:FixStat</guid>
+      <pubDate>Mon, 09 Nov 2026 09:48:42 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: FixStat
+Description: Mac修理向けのメニューバーモニター兼診断ツール。機種ごとのセンサー名、バッテリーセルのデータ、SSDのSMART（USB外付けドライブを含む）、パニック履歴、ガイド付きハードウェアテスト。
+Open Source: https://github.com/BurakFixLab/fixstat
+Commit: Add FixStat to System Related Tools (#4410)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: FixStat<br/>Description: Mac修理向けのメニューバーモニター兼診断ツール。機種ごとのセンサー名、バッテリーセルのデータ、SSDのSMART（USB外付けドライブを含む）、パニック履歴、ガイド付きハードウェアテスト。<br/>Open Source: https://github.com/BurakFixLab/fixstat<br/>Commit: Add FixStat to System Related Tools (#4410)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b]]></content:encoded>
+    </item>
     <item>
       <title>NØTH</title>
       <link>https://github.com/manugowda19/noth</link>
@@ -722,20 +736,6 @@ Open Source: https://github.com/Arunprakaash/mac-tv
 Commit: Add Mac TV to Audio and Video Tools (#4119)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Mac TV<br/>Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
-    </item>
-    <item>
-      <title>SpawnSweep</title>
-      <link>https://github.com/samirmaikap/spawnsweep</link>
-      <guid isPermaLink="false">0bd11fb4debd6c00ea32aee07546db2f2bbacc68:SpawnSweep</guid>
-      <pubDate>Sat, 31 Oct 2026 20:07:09 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: SpawnSweep
-Description: Claude Code、Codex、CursorなどのAIコーディングエージェントが残した開発サーバー、シミュレーター、ビルドデータをメニューバーに表示し、プレビューしてから片付けるアプリ。
-Open Source: https://github.com/samirmaikap/spawnsweep
-Commit: Add SpawnSweep to Developer Utilities (#4107)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: SpawnSweep<br/>Description: Claude Code、Codex、CursorなどのAIコーディングエージェントが残した開発サーバー、シミュレーター、ビルドデータをメニューバーに表示し、プレビューしてから片付けるアプリ。<br/>Open Source: https://github.com/samirmaikap/spawnsweep<br/>Commit: Add SpawnSweep to Developer Utilities (#4107)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68]]></content:encoded>
     </item>
   </channel>
 </rss>
