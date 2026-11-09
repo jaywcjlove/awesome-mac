@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:42:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LogoLight</title>
+      <link>https://logolight.app</link>
+      <guid isPermaLink="false">c9ddcc1a35e9d714a43870d1f73c09de7bf61275:LogoLight</guid>
+      <pubDate>Mon, 09 Nov 2026 07:42:51 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: LogoLight
+Description: PROLED XDRディスプレイ搭載MacBook Proの背面で光るAppleロゴを、メニューバーからオフ・減光・アニメーションできるアプリ。
+Website: https://logolight.app
+Open Source: https://github.com/Ark0N/LogoLight
+Commit: Add LogoLight to Menu Bar Tools (#4349)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: LogoLight<br/>Description: PROLED XDRディスプレイ搭載MacBook Proの背面で光るAppleロゴを、メニューバーからオフ・減光・アニメーションできるアプリ。<br/>Website: https://logolight.app<br/>Open Source: https://github.com/Ark0N/LogoLight<br/>Commit: Add LogoLight to Menu Bar Tools (#4349)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275]]></content:encoded>
+    </item>
     <item>
       <title>Nimbus</title>
       <link>https://github.com/Dearonski/Nimbus</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/stoyan-stoyanov/wavefunction
 Commit: Add Wavefunction to IDEs (#4102)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca</description>
       <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Wavefunction<br/>Description: ローカルモデル、自分のAPIキー、ChatGPTサインインに対応し、複数のチャットを並行して実行できるオープンソースのデスクトップコーディングエージェント。<br/>Website: https://www.wavefunction.si<br/>Open Source: https://github.com/stoyan-stoyanov/wavefunction<br/>Commit: Add Wavefunction to IDEs (#4102)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2be891c66880d85368cfe8e6057bfab27a4c8ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Hertzwise</title>
-      <link>https://zeetabit.github.io/Hertzwise/</link>
-      <guid isPermaLink="false">bf8ca04a9d068cd499c77153abbb3e830a69fc4a:Hertzwise</guid>
-      <pubDate>Sat, 31 Oct 2026 08:29:53 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Hertzwise
-Description: Apple Music や Tidal の曲ごとに DAC のサンプルレートを自動で切り替え、ロスレスをビットパーフェクトで再生するメニューバーアプリ。デバイスごとの AutoEq ヘッドホン EQ も搭載。
-Website: https://zeetabit.github.io/Hertzwise/
-Open Source: https://github.com/zeetabit/Hertzwise
-Commit: Add Hertzwise to Audio and Video Tools (#4101)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Hertzwise<br/>Description: Apple Music や Tidal の曲ごとに DAC のサンプルレートを自動で切り替え、ロスレスをビットパーフェクトで再生するメニューバーアプリ。デバイスごとの AutoEq ヘッドホン EQ も搭載。<br/>Website: https://zeetabit.github.io/Hertzwise/<br/>Open Source: https://github.com/zeetabit/Hertzwise<br/>Commit: Add Hertzwise to Audio and Video Tools (#4101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf8ca04a9d068cd499c77153abbb3e830a69fc4a]]></content:encoded>
     </item>
   </channel>
 </rss>
