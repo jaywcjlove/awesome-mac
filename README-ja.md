@@ -1767,6 +1767,7 @@ Awesome Mac
 ### パスワード管理
 
 * [1Password](https://1password.com/) - クロスプラットフォームのパスワード管理ツール。
+* [Bitcoffer](https://ai.cygnusyang.top/bitcoffer/) - 認証情報を端末内に保つローカル優先の macOS パスワードマネージャー。AI エージェント向けの読み取り専用 MCP サーバー付き。 ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Mac OS、iOS、ブラウザ対応のオープンソースパスワード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - あなたにふさわしいパスワードマネージャー。 ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - 受賞歴のあるデザインを持つクラウドベースのパスワードマネージャー。
