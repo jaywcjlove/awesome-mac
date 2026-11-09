@@ -1613,6 +1613,7 @@ Awesome Mac
 * [Pretty Clean](https://www.prettyclean.cc/zh) - 好用的 macOS 磁盘清理工具 ![Freeware][Freeware Icon]
 * [Qingo](https://github.com/chenmozhe008/qingo) - 按工具识别剪映、达芬奇、Adobe 系列及 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清可自动重建的部分，移到废纸篓可撤销，不碰项目与对话。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/qingo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [RefreshYourMac](https://refreshyourmac.com/) - Mac 清理工具，将每个类别评为“可安全删除”、“需检查”、“移至备份”或“受保护”，并在删除前显示残留文件来自哪个应用。 ![Native App][Native Icon]
+* [Rind](https://github.com/ahjdzx/rind) - 免费开源、Rust 编写、界面基于 GPUI 的卸载与清理工具：每个残留文件都附带它属于该应用的证据，所有删除只移入废纸篓、可在 History 一键放回，钥匙串、邮件、照片图库等保护区永远无法选中。 [![Open-Source Software][OSS Icon]](https://github.com/ahjdzx/rind) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ShinyMac](https://github.com/pballada/shinyMac) - 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。 [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 磁盘空间分析工具，将磁盘绘制为可逐层放大的嵌套矩形树图，扫描过程中实时填充。 [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 免费开源的磁盘空间分析工具，用旭日图和矩形树图可视化磁盘与云存储占用。 [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
