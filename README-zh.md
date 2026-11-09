@@ -722,6 +722,7 @@ Awesome Mac
 * [Quail](https://quail-ai.app) - 在 Apple 芯片上运行 GGUF 与 MLX 模型的本地模型服务器，提供 OpenAI 和 Anthropic 兼容 API，可连接 Claude Code、Codex 等工具。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - 开源工具，在本机收录 Claude Code 和 Codex 交付过的看板、报告、网站、PR 和文件，打几个字或说一句话就能重新打开。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
+* [Unvibe](https://unvibe.site/) - 在任意应用中选中代码并按 Control+U，编辑器旁的面板会按你选择的深度用通俗的英文解释这段代码。 ![Freeware][Freeware Icon]
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - 基于个人知识库回答问题的本地优先 AI 聊天客户端。
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
