@@ -593,6 +593,7 @@ Awesome Mac
 * [GitHub Desktop](https://desktop.github.com/) - 公式GitHub GUI。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - Windows、Mac、Linux向けの最も人気のあるGit GUI。
 * [GitOS](https://gitos.angelsaikia.com/) - リポジトリごとに正しいGitHubアカウントを自動で選ぶGitクライアント。[![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS) ![Freeware][Freeware Icon]
+* [Gitsu](https://gitsu.app) - GitHub Projectsのボード、Issue、サブIssueを扱うデスクトップクライアント。
 * [GitUp](http://gitup.co/) - シンプルで強力なGitクライアント。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitX-dev](https://rowanj.github.io/gitx/) - [Pieter](https://github.com/pieter/gitx)のOS X用Git GUIのフォーク。ブランチ/タグサイドバーと各種修正を含む。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - GitHubをより便利にするGitのコマンドラインラッパー。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
