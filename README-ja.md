@@ -795,6 +795,7 @@ Awesome Mac
 * [Photon](https://www.piedol.top/photon/) - macOSとWindowsに対応した、ネットワーク通信を行わないオープンソースのスクリーンショット・注釈・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - スクロールキャプチャ、OCR、注釈、ピン留め、MP4 または GIF の画面録画に対応し、ネットワーク通信のコードを持たないオープンソースのメニューバー型スクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [ShotScreen](https://shotscreen.app) - OCRとQRキャプチャに対応したスクリーンショットツール。1日5回までポップアップなしで無料、買い切りのProで無制限に。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6749788656?platform=mac)
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
 * [Shutterbar](https://github.com/mucahitimre/Shutterbar) - ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。 [![Open-Source Software][OSS Icon]](https://github.com/mucahitimre/Shutterbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sitch](https://phalladar.github.io/Sitch/) - テーパー矢印、ぼかし、モザイクに対応し、完全オフラインで動作する Skitch 風のスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/Sitch) ![Freeware][Freeware Icon]
