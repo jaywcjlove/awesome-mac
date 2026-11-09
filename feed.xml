@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:36:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Polka</title>
+      <link>https://romabmstu.github.io/polka/</link>
+      <guid isPermaLink="false">c7f934623125ed24730ff10fa457108b220b06ad:Polka</guid>
+      <pubDate>Mon, 09 Nov 2026 03:36:28 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Polka
+Description: Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.
+Website: https://romabmstu.github.io/polka/
+Open Source: https://github.com/romabmstu/polka
+Commit: Add Polka to Menu Bar Tools (#4390)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Polka<br/>Description: Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
+    </item>
     <item>
       <title>Show Bar</title>
       <link>https://rept0rix.github.io/show-bar/</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/x0c/MacResourceMonitor
 Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MacResourceMonitor<br/>Description: Menu bar CPU monitor to see which process is eating CPU and terminate it directly.<br/>Open Source: https://github.com/x0c/MacResourceMonitor<br/>Commit: Add Corral, HandySwitch, MacResourceMonitor, NeatPaste, and NeatEditor to GUI lists (#4106)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5d3a9088dacc05227ae76c042472f7bcf81c5d93]]></content:encoded>
-    </item>
-    <item>
-      <title>SpawnSweep</title>
-      <link>https://github.com/samirmaikap/spawnsweep</link>
-      <guid isPermaLink="false">0bd11fb4debd6c00ea32aee07546db2f2bbacc68:SpawnSweep</guid>
-      <pubDate>Sat, 31 Oct 2026 20:07:09 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: SpawnSweep
-Description: Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first.
-Open Source: https://github.com/samirmaikap/spawnsweep
-Commit: Add SpawnSweep to Developer Utilities (#4107)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: SpawnSweep<br/>Description: Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first.<br/>Open Source: https://github.com/samirmaikap/spawnsweep<br/>Commit: Add SpawnSweep to Developer Utilities (#4107)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd11fb4debd6c00ea32aee07546db2f2bbacc68]]></content:encoded>
     </item>
   </channel>
 </rss>
