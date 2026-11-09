@@ -791,6 +791,7 @@ Awesome Mac
 * [Flameshot](https://github.com/flameshot-org/flameshot) - 強力でありながらシンプルなスクリーンショットソフトウェア。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glint](https://github.com/brentc22/glint) - 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lightshot](https://app.prntscr.com/) - カスタマイズ可能なスクリーンショットを撮る最速の方法。 ![Freeware][Freeware Icon]
+* [macOS Lens](https://mac-lens.runs-on.dev/) - 画面を固定して好きな部分を囲むと Google レンズのように検索でき、テキストのコピー、翻訳、読み上げもできるメニューバーアプリ。 ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Photon](https://www.piedol.top/photon/) - macOSとWindowsに対応した、ネットワーク通信を行わないオープンソースのスクリーンショット・注釈・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
