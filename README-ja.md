@@ -1629,13 +1629,13 @@ Awesome Mac
 * [BetterMouse](https://better-mouse.com) - サードパーティ製マウスのスクロール、加速、ボタン、ジェスチャーを調整できるツール。
 * [BetterTouchTool](https://folivora.ai/) - トラックパッド、マウス、キーボードのジェスチャーや操作を細かくカスタマイズできるツール。
 * [Brink](https://brinknotch.site) - 画面の端にノッチを表示し、ホバーするだけでNotionのページやタスクにアクセスできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
+* [Browserdoor](https://github.com/schowave/browserdoor) - リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - クリックのたびにページがスクロールしてしまうMagic Mouseの挙動を止めるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
 * [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - アクセラレーションカーブなどを調整できるマウス＆トラックパッドドライバー。
 * [Day Progress](https://sindresorhus.com/day-progress) - メニューバーに今日の残り時間を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202?platform=mac)
-* [Doorman](https://github.com/schowave/doorman) - リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/schowave/doorman) ![Freeware][Freeware Icon]
 * [Dropzone](https://aptonic.com) - カスタマイズ可能なアクションのポップアップグリッドを作成。RubyとPythonでスクリプト可能。
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - Electronを使用した、Androidデバイスの表示と制御のためのグラフィカルなScrcpy。 [![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Ferrocast](https://ferrocast.app) - Rust製の高速キーボードランチャー。クリップボード履歴、スニペット、ウィンドウ管理、275種類のローカルファイル変換を備えています。 [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
