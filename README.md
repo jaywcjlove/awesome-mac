@@ -1716,6 +1716,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Ukelele](https://software.sil.org/ukelele/) - Unicode Keyboard Layout Editor.
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add. [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
+* [Volant](https://usevolant.com) - Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents. [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Wox](https://wox-launcher.github.io/Wox/) - Open-source cross-platform launcher with fast local search and plugin extensibility. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](https://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
