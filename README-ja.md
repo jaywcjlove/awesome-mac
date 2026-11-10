@@ -1299,6 +1299,7 @@ Awesome Mac
 
 ## セキュリティツール
 
+* [AI Access Auditor](https://dirmedmr-alt.github.io/ai-access-auditor/) - Claude Code、Codex、Cursor などの AI コーディングエージェントが Mac 上でアクセスできるものを確認し、取り消せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/dirmedmr-alt/ai-access-auditor) ![Freeware][Freeware Icon]
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - マルウェア、アドウェア、Web脅威を検出するセキュリティツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 何かが永続的にインストールされるたびにアラートを出す。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 保護パス向けのポリシーベースファイルアクセス制御ツール。 [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
