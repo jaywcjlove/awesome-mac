@@ -1712,6 +1712,7 @@ Awesome Mac
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - 菜单栏应用，一键或用快捷键隐藏所有窗口来显示桌面，再按一次即可原样恢复。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Slate](https://github.com/jigish/slate) - 使用 JavaScript 配置的脚本化窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [Snapback](https://snapbackapp.com) - 通过一次按键操作保存和恢复整个窗口布局。 ![Freeware][Freeware Icon]
+* [Spacepal](https://getspacepal.com/) - 为每个桌面空间（Space）命名并显示实时预览，支持无动画即时切换、跨空间搜索窗口，并提供供 AI 智能体使用的免费 MCP 服务器。
 * [Stage Manager](https://eugene-tea.github.io/stage-manager/) - 用 Rust 编写的 Apple 台前调度替代品，重启后保留舞台，支持 Ctrl-Option-1..9 切换。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/eugene-tea/stage-manager)
 * [Swift Shift](https://swiftshift.app) - 通过快捷键和鼠标快速移动、调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [StreamWindow](https://macdev.cn/) - 带 3D 动画和直观视图的窗口管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
