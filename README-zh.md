@@ -791,6 +791,7 @@ Awesome Mac
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 支持简单的 FTP + SFTP 客户端。
+* [GlideDrop](https://jakharamit44.github.io/glidedrop/) - 通过低功耗蓝牙和 5 GHz Wi-Fi Direct 在 Mac 与 Android 设备之间点对点传输文件、照片、视频、链接和文本，无需同一 Wi-Fi 或数据线。 [![Open-Source Software][OSS Icon]](https://github.com/jakharamit44/glidedrop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LocalSend](https://localsend.org/) - 跨平台的文件传输工具，界面简洁[![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 独立的 macOS 菜单栏应用，可与兼容的 Android 设备进行双向 Google Quick Share 传输，并提供 USB MTP、Finder 共享、二维码工具及实验性的 Windows 互操作支持。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
