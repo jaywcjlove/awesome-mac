@@ -700,6 +700,7 @@ Awesome Mac
 * [Flipic](https://github.com/xmasdong/flipic) - 사진 선별(컬링)용 뷰어: 방향키로 폴더 넘겨 보기, 100% 포커스 확인, Lightroom에서 읽히는 XMP 평점, 온디바이스 정리 모드. [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [Graphis](https://github.com/Campfire7/graphis) - MOSS-Image 모델을 사용해 Apple 실리콘에서 텍스트로 이미지를 로컬 생성하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/Campfire7/graphis) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC 이미지를 JPEG나 PNG로 변환. ![Freeware][Freeware Icon]
+* [Iconic](https://icons.ahmetdedeler.com) - 30,000개 이상의 무료 1024px 아이콘 카탈로그로 Mac 앱과 폴더 아이콘을 변경. 컬렉션 단위 테마 지원.
 * [ImageOptim](https://imageoptim.com/mac) - 이미지 압축 및 EXIF 정보 제거. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [iPic](https://en.toolinbox.net/iPic/) - 마크다운 지원 이미지 업로드 도구. ![Freeware][Freeware Icon]
 * [Jutsu Studio](https://jutsustudio.com/) - Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]

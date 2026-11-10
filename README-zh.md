@@ -618,6 +618,7 @@ Awesome Mac
 * [ImageAlpha](https://pngmini.com/) - 压缩 PNG 图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除 EXIF 信息。[![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 * [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id1101244278?ls=1&at=1000lv4R&ct=iPic_me&platform=mac)
+* [Iconic](https://icons.ahmetdedeler.com) - 从 30,000+ 款免费 1024px 图标目录中更换 Mac 应用和文件夹图标，支持整套风格主题。
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达 80％，而不会影响质量。
