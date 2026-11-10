@@ -1551,6 +1551,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - Open-source disk cleaner that only moves items to the Trash and checks whether your project scripts still reference a duplicate before removing it. [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
+* [Vervain](https://vervain.app) - Free, open-source Mac cleaner that shows every item first and moves only what you pick to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/yakupbulbul/Vervain) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### File Organization Tools
 
