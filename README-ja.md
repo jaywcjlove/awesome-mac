@@ -1903,7 +1903,7 @@ Awesome Mac
 * [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - Steam Linkアプリを使えば、すべてのコンピューターでSteamゲームをプレイ可能。 ![Freeware][Freeware Icon]
 * [Sunshine](https://github.com/LizardByte/Sunshine) - Moonlight用のセルフホスト型ゲームストリームホスト。 [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - リモートサポートと画面共有のためのツール。 ![Freeware][Freeware Icon]
-* [Tele](https://teleportez.moi) - 同じネットワーク上の Mac 間で個々のアプリウィンドウを共有。サウンド、クリップボード、Dock 連携に対応。
+* [Tele](https://teleportez.moi) - 同じネットワーク上または Tailscale 経由の Mac 間で個々のアプリウィンドウを共有。サウンド、クリップボード、Dock 連携に対応。
 * [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac) - リモートPCまたは管理者が利用可能にした仮想アプリやデスクトップに接続。 ![Freeware][Freeware Icon]
 
 ## クイックルックプラグイン
