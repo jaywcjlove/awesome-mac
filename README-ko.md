@@ -532,6 +532,7 @@ Awesome Mac
 * [GitOS](https://gitos.angelsaikia.com/) - 저장소마다 올바른 GitHub 계정을 자동으로 선택하는 Git 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS) ![Freeware][Freeware Icon]
 * [GitUp](http://gitup.co/) - 단순하고 강력한 Git 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [PullBull](https://github.com/rustycamper/pullbull) - 메뉴 막대에서 GitHub 풀 리퀘스트, 이슈, Projects 보드를 확인. [![Open-Source Software][OSS Icon]](https://github.com/rustycamper/pullbull) ![Freeware][Freeware Icon]
+* [PullYard](https://pullyard.app) - 브라우저 없이 GitHub 풀 리퀘스트를 리뷰하는 네이티브 앱. 스택 PR과 Claude Code 작업 공간 내장. [![Open-Source Software][OSS Icon]](https://github.com/pullyard/pullyard) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sourcetree](https://www.sourcetreeapp.com/) - 무료 Git & Mercurial 클라이언트. ![Freeware][Freeware Icon]
 * [Sublime Merge](https://www.sublimemerge.com/) - Sublime Text 제작자의 Git 클라이언트.
 * [Changes](https://github.com/maoyama/Changes) - GUI Git 클라이언트. 명확한 UI와 AI 어시스트로 Git CLI를 대체. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Changes)
