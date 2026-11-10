@@ -690,6 +690,7 @@ Awesome Mac
 * [Corral](https://github.com/corral-dev/corral-apple) - 面向 Claude Code、Codex、OpenCode 与 Cursor 的原生 macOS 及 iPhone 客户端，支持分屏视图与远程会话接力。 [![Open-Source Software][OSS Icon]](https://github.com/corral-dev/corral-apple) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cove](https://huyanxius.github.io/Cove/) - 面向 Claude Code 和 Codex 的开源原生输入、会话侧栏与差异查看工具，目前为 Apple Silicon 预览版。 [![Open-Source Software][OSS Icon]](https://github.com/huyanxius/Cove) ![Freeware][Freeware Icon]
 * [CoWork OS](https://coworkosapp.com) - 开源桌面 AI 智能体，可处理文件、浏览器和聊天应用中的任务，支持自带 API 密钥或本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/CoWork-OS/CoWork-OS) ![Freeware][Freeware Icon]
+* [ctrl+all](https://ctrlall.app) - 在一台 Mac 上并排运行 Claude Code、Codex、OpenCode 等编程智能体，支持团队实时观看、中途纠偏、任务交接和手机端审批。
 * [Cursor Voice](https://cursorvoice.app) - 常驻光标旁的语音助手，可看屏幕并通过 OpenAI Realtime API 控制应用。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DataNexa](https://mingozacwu.github.io/datanexa-site/) - 开源的桌面端数据库 MCP 网关，把多种数据库聚合为一个具备只读防护且可审计的入口，供 AI Agent 访问。 [![Open-Source Software][OSS Icon]](https://github.com/MingoZacwu/DataNexa) ![Freeware][Freeware Icon]
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。 [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
