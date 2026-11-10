@@ -1222,6 +1222,7 @@ Awesome Mac
 * [Keka](https://www.keka.io/) - 다양한 포맷을 지원하는 오픈 소스 압축/해제 도구. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 다양한 일반 압축 포맷을 압축하고 해제하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [Wemute](https://wemute.entropinia.com) - 로컬 우선 파일 변환 도구. 이미지, 동영상, 오디오, Office, PDF, 전자책을 지원하며 OCR, 배경 제거, 모든 파일을 LLM용 텍스트로 변환하는 CLI를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/realAllenSong/wemute) ![Freeware][Freeware Icon]
 
 ### 시스템 도구
 
