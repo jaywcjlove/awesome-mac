@@ -994,6 +994,7 @@ Awesome Mac
 * [Marp](https://marp.app) - Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico马克飞象](https://maxiang.io/) - 专为印象笔记打造的Markdown编辑器，结合强大的存储和同步功能，带来极致的书写体验。
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
+* [mdPreview](https://tahoeliu.github.io/mdPreview/) - 免费、开源的 Mac Markdown 阅读与编辑器，可导出 PDF、Word 和 HTML。[![Open-Source Software][OSS Icon]](https://github.com/tahoeliu/mdPreview) ![Freeware][Freeware Icon]
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - 快速的 Markdown 查看器，支持实时刷新、Quick Look 预览、Mermaid 图表、数学公式，以及使用自己的密钥或本地模型的可选 AI 摘要。 [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]

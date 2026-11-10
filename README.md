@@ -253,6 +253,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MarkViewer](https://markviewer.com) - Markdown viewer and editor for macOS with AI-assisted editing. ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
+* [mdPreview](https://tahoeliu.github.io/mdPreview/) - Free, open-source Markdown reader and editor for Mac, with export to PDF, Word and HTML. [![Open-Source Software][OSS Icon]](https://github.com/tahoeliu/mdPreview) ![Freeware][Freeware Icon]
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model. [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](https://www.mweb.im/) - Pro Markdown writing, and static blog generator App.
 * [Obsidian](https://obsidian.md) - A second brain, for you, forever.
