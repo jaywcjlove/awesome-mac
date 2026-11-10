@@ -895,6 +895,7 @@ Awesome Mac
 * [OpenSpatial](https://github.com/dortanes/openspatial) - 모든 앱의 소리를 헤드 트래킹이 적용된 7.1 서라운드로 재생하는 헤드폰용 오픈 소스 공간 음향 도구. [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 다양한 포맷, 가사, 재생목록, 큐 관리를 지원하는 오프라인 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 템포를 바꾸지 않고 모든 앱 오디오의 키를 실시간으로 바꾸는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
+* [Plativka](https://github.com/dkindratyuk-web/plativka) - 앨범 아트에 맞춰 색이 바뀌는 Winamp 스타일의 로컬 음악 플레이어로, 컴팩트 보기, 미니 플레이어, 미디어 키를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/dkindratyuk-web/plativka) ![Freeware][Freeware Icon]
 * [Popcorn Time](https://popcorn-time.site/) - 토렌트 영화를 찾아보고 감상할 수 있는 스트리밍 도구. [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Radif](https://www.yuvrajangadsingh.com/radif) - Tauri로 만든 비공식 오픈 소스 YouTube Music 클라이언트로, 동기화된 가사와 비디오 모드를 지원하며 YouTube Music Premium이 필요합니다. [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/radif) ![Freeware][Freeware Icon]
 * [RAVE LIVE](https://github.com/jedbrnth-eng/rave-live) - 무대 조명, 레이저, MilkDrop 프리셋으로 Mac에서 재생 중인 음악의 비트에 맞춰 움직이는 페스티벌 라이트 쇼. [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/rave-live) ![Freeware][Freeware Icon]
