@@ -482,7 +482,7 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
 
 // Extract website/source/App Store links from one README entry based on badge markers.
 function parseEntryMetadata(primaryUrl, rawTail) {
-  const markdownLinks = [...rawTail.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)].map((match) => ({
+  const badgeLinks = [...rawTail.matchAll(/\[(!\[[^\]]+\]\[[^\]]+\])\]\(([^)]+)\)/g)].map((match) => ({
     text: match[1].trim(),
     url: match[2].trim(),
   }));
@@ -491,7 +491,7 @@ function parseEntryMetadata(primaryUrl, rawTail) {
   let sourceUrl = '';
   let appStoreUrl = '';
 
-  for (const link of markdownLinks) {
+  for (const link of badgeLinks) {
     if (link.text.includes('![Open-Source Software][OSS Icon]')) {
       sourceUrl = link.url;
       continue;
