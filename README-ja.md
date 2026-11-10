@@ -1077,6 +1077,7 @@ Awesome Mac
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 動画の一括 MP4 変換、トリミング、クロップ、回転、結合に対応するネイティブの FFmpeg フロントエンド。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 無料のオープンソース、クロスプラットフォームメディアプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Mooziac](https://mooziac.pages.dev) - YouTube Musicとローカル音声に対応した軽量なmacOSメニューバー音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
+* [MultiTrim](https://multitrim.app) - 音声ファイルの先頭と末尾の無音を検出し、再エンコードせずに一括でトリミングするツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6751948268)
 * [MuseScore](https://musescore.org/) - 無料のオープンソース楽譜作成ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Museeks](https://museeks.io) - シンプルでクリーンなクロスプラットフォーム音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) ![Freeware][Freeware Icon]
 * [Muxie](https://muxie.duhnnie.com) - Apple Music、Spotify Desktop、iPod Classic、Rockboxデバイスなど向けのLast.fmスクロブラー。 ![Freeware][Freeware Icon]
