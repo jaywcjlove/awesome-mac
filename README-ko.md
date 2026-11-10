@@ -658,6 +658,7 @@ Awesome Mac
 * [Snappy](https://beqaabu.github.io/Snappy/) - 선택 영역 조정, 창 및 전체 화면 캡처, 주석, 블러, 텍스트 복사를 지원하는 Ubuntu 스타일 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
+* [Tendedero](https://tendedero.app/) - 찍는 모든 스크린샷이 화면 바로 위의 빨랫줄에 걸려, 원하는 앱이나 폴더로 바로 끌어다 놓을 수 있어요. [![Open-Source Software][OSS Icon]](https://github.com/alejandrobujan/tendedero) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
 
 ### 화면 녹화
