@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:15:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Brk</title>
+      <link>https://github.com/cyang2020/brk</link>
+      <guid isPermaLink="false">ed4e405bd2afd537d619c7caa86da9163a648cf5:Brk</guid>
+      <pubDate>Wed, 11 Nov 2026 09:15:36 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Brk
+Description: 用 Swift 和 AppKit 原生重做的 Arc，基于 Chromium，带 Raycast 风格的命令栏，AI 直接用你自己的 Claude Code 或 Codex 订阅和本机模型。
+Open Source: https://github.com/cyang2020/brk
+Commit: Add Brk to Browsers (#4461)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Brk<br/>Description: 用 Swift 和 AppKit 原生重做的 Arc，基于 Chromium，带 Raycast 风格的命令栏，AI 直接用你自己的 Claude Code 或 Codex 订阅和本机模型。<br/>Open Source: https://github.com/cyang2020/brk<br/>Commit: Add Brk to Browsers (#4461)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5]]></content:encoded>
+    </item>
     <item>
       <title>Kombucha</title>
       <link>https://github.com/askuksov/kombucha</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/wata/TimeMachineEjector
 Commit: Add TimeMachineEjector to System Related Tools (#4181)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TimeMachineEjector<br/>Description: 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
-    </item>
-    <item>
-      <title>Switch</title>
-      <link>https://switch-dev.sanyamgarg.com</link>
-      <guid isPermaLink="false">51b6daa8c075ec4eb0e3f29ec915873687525e59:Switch</guid>
-      <pubDate>Tue, 03 Nov 2026 05:44:10 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Switch
-Description: 键盘窗口切换工具，列出所有空间中打开的窗口，输入即可筛选。
-Website: https://switch-dev.sanyamgarg.com
-Commit: Add Switch to Window Management (#4174)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Switch<br/>Description: 键盘窗口切换工具，列出所有空间中打开的窗口，输入即可筛选。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:15:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Brk</title>
+      <link>https://github.com/cyang2020/brk</link>
+      <guid isPermaLink="false">ed4e405bd2afd537d619c7caa86da9163a648cf5:Brk</guid>
+      <pubDate>Wed, 11 Nov 2026 09:15:36 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Brk
+Description: Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models.
+Open Source: https://github.com/cyang2020/brk
+Commit: Add Brk to Browsers (#4461)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Brk<br/>Description: Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models.<br/>Open Source: https://github.com/cyang2020/brk<br/>Commit: Add Brk to Browsers (#4461)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5]]></content:encoded>
+    </item>
     <item>
       <title>Kombucha</title>
       <link>https://github.com/askuksov/kombucha</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/wata/TimeMachineEjector
 Commit: Add TimeMachineEjector to System Related Tools (#4181)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TimeMachineEjector<br/>Description: Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due.<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
-    </item>
-    <item>
-      <title>Switch</title>
-      <link>https://switch-dev.sanyamgarg.com</link>
-      <guid isPermaLink="false">51b6daa8c075ec4eb0e3f29ec915873687525e59:Switch</guid>
-      <pubDate>Tue, 03 Nov 2026 05:44:10 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Switch
-Description: Keyboard window switcher that lists every open window across Spaces and filters as you type.
-Website: https://switch-dev.sanyamgarg.com
-Commit: Add Switch to Window Management (#4174)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Switch<br/>Description: Keyboard window switcher that lists every open window across Spaces and filters as you type.<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
     </item>
   </channel>
 </rss>
