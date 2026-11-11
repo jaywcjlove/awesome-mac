@@ -1330,6 +1330,7 @@ Awesome Mac
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
+* [Cameleon](https://caddora.ie/cameleon) - 为 Safari 重新配色任意网站的扩展，提供五款浅色和深色皮肤，并将文字对比度提升至至少 4.5:1；只改颜色，不改排版。 [![App Store][app-store Icon]](https://apps.apple.com/app/cameleon-skins-for-safari/id6828327422)
 * [Crisp](https://didriksg.github.io/Crisp/) - 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。 [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度、对比度和输入源。
 * [Dimly](https://feuerbacher.me/projects/dimly) - 从一个菜单栏应用统一控制多显示器环境下的亮度。 [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
