@@ -590,6 +590,7 @@ Awesome Mac
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id540348655?platform=mac)
 * [Native Screen](https://nativescreen.app/) - 带多轨时间线、自动缩放和本地字幕的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]
+* [Oil Studio](https://studio.oiloil.org) - 支持自动运镜、光标效果和按转录文稿剪辑的录屏与编辑工具。
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - 用于制作产品演示和操作讲解视频的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - 用于制作演示、教程和产品视频的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
