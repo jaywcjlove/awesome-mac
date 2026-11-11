@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kombucha</title>
+      <link>https://github.com/askuksov/kombucha</link>
+      <guid isPermaLink="false">c7bed443b41da58f2c3f3334e4d4e3c478ad2b90:Kombucha</guid>
+      <pubDate>Wed, 11 Nov 2026 09:07:41 GMT</pubDate>
+      <category>ユーティリティ / システム関連ツール</category>
+      <description>Category: ユーティリティ / システム関連ツール
+App: Kombucha
+Description: 設定した残量で充電を止め、バッテリー寿命を延ばすメニューバー用の充電制限ツール。
+Open Source: https://github.com/askuksov/kombucha
+Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: Kombucha<br/>Description: 設定した残量で充電を止め、バッテリー寿命を延ばすメニューバー用の充電制限ツール。<br/>Open Source: https://github.com/askuksov/kombucha<br/>Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90]]></content:encoded>
+    </item>
     <item>
       <title>Soju</title>
       <link>https://didimlabs.com</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/AlexDemzz/carbon
 Commit: Add Carbon to Audio Record and Process (#4171)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Carbon<br/>Description: ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
-    </item>
-    <item>
-      <title>Vortex</title>
-      <link>https://vortex-notch.web.app</link>
-      <guid isPermaLink="false">030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9:Vortex</guid>
-      <pubDate>Tue, 03 Nov 2026 04:59:55 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Vortex
-Description: 集中タイマー、クリップボード履歴、新しいビルドを自動で受け取るファイル置き場、OCR付きで画面から作るタスク、Claude Codeが値を見ないまま使えるキーをまとめたMacBookノッチアプリ。
-Website: https://vortex-notch.web.app
-Open Source: https://github.com/OrtexIsArtem/vortex
-Commit: Add Vortex to Menu Bar Tools (#4169)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Vortex<br/>Description: 集中タイマー、クリップボード履歴、新しいビルドを自動で受け取るファイル置き場、OCR付きで画面から作るタスク、Claude Codeが値を見ないまま使えるキーをまとめたMacBookノッチアプリ。<br/>Website: https://vortex-notch.web.app<br/>Open Source: https://github.com/OrtexIsArtem/vortex<br/>Commit: Add Vortex to Menu Bar Tools (#4169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9]]></content:encoded>
     </item>
   </channel>
 </rss>

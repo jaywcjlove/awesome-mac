@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kombucha</title>
+      <link>https://github.com/askuksov/kombucha</link>
+      <guid isPermaLink="false">c7bed443b41da58f2c3f3334e4d4e3c478ad2b90:Kombucha</guid>
+      <pubDate>Wed, 11 Nov 2026 09:07:41 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Kombucha
+Description: 설정한 잔량에서 충전을 멈춰 배터리 수명을 늘려 주는 메뉴 막대 충전 제한 도구.
+Open Source: https://github.com/askuksov/kombucha
+Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Kombucha<br/>Description: 설정한 잔량에서 충전을 멈춰 배터리 수명을 늘려 주는 메뉴 막대 충전 제한 도구.<br/>Open Source: https://github.com/askuksov/kombucha<br/>Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90]]></content:encoded>
+    </item>
     <item>
       <title>Soju</title>
       <link>https://didimlabs.com</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/AlexDemzz/carbon
 Commit: Add Carbon to Audio Record and Process (#4171)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Carbon<br/>Description: 봇이나 클라우드 없이 회의를 기기에서 전사하고 각 회의를 Markdown 파일로 저장하는 메뉴 막대 앱.<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
-    </item>
-    <item>
-      <title>Vortex</title>
-      <link>https://vortex-notch.web.app</link>
-      <guid isPermaLink="false">030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9:Vortex</guid>
-      <pubDate>Tue, 03 Nov 2026 04:59:55 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Vortex
-Description: 집중 타이머, 클립보드 기록, 새 빌드를 자동으로 받아 두는 파일 선반, OCR로 화면에서 바로 만드는 할 일, Claude Code가 값을 보지 않고 쓰는 키를 한곳에 모은 MacBook 노치 앱.
-Website: https://vortex-notch.web.app
-Open Source: https://github.com/OrtexIsArtem/vortex
-Commit: Add Vortex to Menu Bar Tools (#4169)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Vortex<br/>Description: 집중 타이머, 클립보드 기록, 새 빌드를 자동으로 받아 두는 파일 선반, OCR로 화면에서 바로 만드는 할 일, Claude Code가 값을 보지 않고 쓰는 키를 한곳에 모은 MacBook 노치 앱.<br/>Website: https://vortex-notch.web.app<br/>Open Source: https://github.com/OrtexIsArtem/vortex<br/>Commit: Add Vortex to Menu Bar Tools (#4169)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/030b2192d56f9b03fbc4b29f0e1ed9b17ad1f0e9]]></content:encoded>
     </item>
   </channel>
 </rss>
