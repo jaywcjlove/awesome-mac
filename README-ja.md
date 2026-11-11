@@ -889,6 +889,7 @@ Awesome Mac
 
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
+* [Airbag](https://github.com/a1murt/airbag) - AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 複数プロバイダーのチャット、エージェントワークフロー、ナレッジベース、MCPツール、OpenAI互換APIゲートウェイに対応したオープンソースのデスクトップAIワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
