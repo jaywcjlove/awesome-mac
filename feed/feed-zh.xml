@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kombucha</title>
+      <link>https://github.com/askuksov/kombucha</link>
+      <guid isPermaLink="false">c7bed443b41da58f2c3f3334e4d4e3c478ad2b90:Kombucha</guid>
+      <pubDate>Wed, 11 Nov 2026 09:07:41 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: Kombucha
+Description: 菜单栏电池充电限制工具，在设定的电量停止充电，延长电池寿命。
+Open Source: https://github.com/askuksov/kombucha
+Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Kombucha<br/>Description: 菜单栏电池充电限制工具，在设定的电量停止充电，延长电池寿命。<br/>Open Source: https://github.com/askuksov/kombucha<br/>Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90]]></content:encoded>
+    </item>
     <item>
       <title>Soju</title>
       <link>https://didimlabs.com</link>
@@ -719,21 +733,6 @@ Website: https://switch-dev.sanyamgarg.com
 Commit: Add Switch to Window Management (#4174)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Switch<br/>Description: 键盘窗口切换工具，列出所有空间中打开的窗口，输入即可筛选。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
-    </item>
-    <item>
-      <title>Carbon</title>
-      <link>https://carbon.alexandrejoly.me</link>
-      <guid isPermaLink="false">9e935ee98ff1c48db8f1985dfb04fbf755e8591e:Carbon</guid>
-      <pubDate>Tue, 03 Nov 2026 05:23:24 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Carbon
-Description: 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。
-Website: https://carbon.alexandrejoly.me
-Open Source: https://github.com/AlexDemzz/carbon
-Commit: Add Carbon to Audio Record and Process (#4171)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Carbon<br/>Description: 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
     </item>
   </channel>
 </rss>
