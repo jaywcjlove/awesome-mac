@@ -1049,6 +1049,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 一个开源的纯文本编辑器，专为写小说设计。它支持类似 Markdown 的最小语法来格式化文本。 [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [THORN](https://thorn.red) - 一站式个人写作与建站平台
 * [WonderPen](https://www.momothink.com/wonderpen) - 专注于写作的应用，支持 markdown，很多贴心细节，支持长文写作，可导出多种格式。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/wonderpen/id1173437104?platform=mac)
+* [Writeshaper](https://hollowbit.dev/writeshaper/) - 私密的写作助手：在任何应用中选中文字按下快捷键，即可修正错误或改得更清楚、更简短、更专业，模型在本机运行。 [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/writeshaper) ![Freeware][Freeware Icon]
 
 ## 电子书
 

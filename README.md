@@ -327,6 +327,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
+* [Writeshaper](https://hollowbit.dev/writeshaper/) - Private writing assistant: select text in any app and press a shortcut to fix it or make it clearer, shorter or more professional. The model runs on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/writeshaper) ![Freeware][Freeware Icon]
 
 ### Ebooks
 
