@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:42:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:11:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AI Access Auditor</title>
+      <link>https://dirmedmr-alt.github.io/ai-access-auditor/</link>
+      <guid isPermaLink="false">df0a35dbd10ea90236d6299a88a4f6f53e24686a:AI Access Auditor</guid>
+      <pubDate>Wed, 11 Nov 2026 16:11:26 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: AI Access Auditor
+Description: See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.
+Website: https://dirmedmr-alt.github.io/ai-access-auditor/
+Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
+Commit: Add AI Access Auditor to Security Tools (#4466)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: AI Access Auditor<br/>Description: See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
+    </item>
     <item>
       <title>twistel</title>
       <link>https://github.com/jonasnlt/twistel</link>
@@ -718,20 +733,6 @@ Open Source: https://github.com/f1resh/sshtermaq
 Commit: Add SSHTermaq (#4210)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d41aa6dc55e8933e05e3a5796237088f9061a9d</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: SSHTermaq<br/>Description: PuTTY-compatible SSH, Telnet and serial terminal with tabs, split panes, an SFTP/SCP file manager and one-click PuTTY session import.<br/>Website: https://f1resh.github.io/sshtermaq/<br/>Open Source: https://github.com/f1resh/sshtermaq<br/>Commit: Add SSHTermaq (#4210)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d41aa6dc55e8933e05e3a5796237088f9061a9d]]></content:encoded>
-    </item>
-    <item>
-      <title>Murmury</title>
-      <link>https://github.com/GianlucaBave/murmury</link>
-      <guid isPermaLink="false">cebf13aa09105d1049ae6fb3080bdff1d7a8a029:Murmury</guid>
-      <pubDate>Tue, 03 Nov 2026 11:27:45 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Murmury
-Description: Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.
-Open Source: https://github.com/GianlucaBave/murmury
-Commit: Add Murmury to AI Tools (#4196)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Murmury<br/>Description: Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.<br/>Open Source: https://github.com/GianlucaBave/murmury<br/>Commit: Add Murmury to AI Tools (#4196)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029]]></content:encoded>
     </item>
   </channel>
 </rss>
