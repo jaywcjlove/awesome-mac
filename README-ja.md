@@ -513,6 +513,7 @@ Awesome Mac
 * [TunnelFlow](https://github.com/XRSec/TunnelFlow) - ローカル転送、リモート転送、動的SOCKS5転送に対応したモダンなSSHトンネルおよびポートフォワーディング管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/XRSec/TunnelFlow) ![Freeware][Freeware Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - UML、SysML、BPMNモデリングのオールインワンプラットフォーム。
 * [Woodpecker](http://www.woodpeck.cn) - MacでiOSアプリのSandboxファイル、UserDefaults、Keychainアイテムを表示するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/woodpecker/id1333548463?platform=mac)
+* [Wow Keywords](https://wowkeywords.com) - App StoreとGoogle Playのキーワード調査、50言語のAIによるストア説明文の作成、App Store Connectへのアップロードができるデスクトップアプリ。
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS非公式WWDCアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 複数バージョンのXcodeをインストール・切り替えできるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Xcode用のSwiftおよびiOSコードスニペットを探索、表示、編集するツール。 [![OSS][OSS Icon]](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware][Freeware Icon]
