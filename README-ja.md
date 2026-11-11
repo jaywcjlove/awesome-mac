@@ -1265,6 +1265,7 @@ Awesome Mac
 * [DeepL](https://www.deepl.com/en/app/) - 最高品質の翻訳 ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
+* [Ieum](https://ieum.calmwork.today) - 英語・韓国語・日本語・中国語の間で会議のリアルタイム字幕と翻訳を行う、完全オンデバイスのアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stoneidev/ieum) ![Freeware][Freeware Icon]
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI または Gemini を使って、任意のシステム音声を画面上でリアルタイム翻訳。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - より良い英語を書くための言語検索エンジン。

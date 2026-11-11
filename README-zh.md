@@ -1214,6 +1214,7 @@ Awesome Mac
 * [Easydict](https://github.com/tisfeng/Easydict) - 简洁的词典与翻译工具，用于查词和翻译文本。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [eudic](https://www.eudic.net/v4/en/app/download) - 欧路词典,权威的英语词典软件 英语学习者必备的工具
 * [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语
+* [Ieum](https://ieum.calmwork.today) - 会议实时字幕与翻译，支持英语、韩语、日语和中文，完全在设备上运行。 [![Open-Source Software][OSS Icon]](https://github.com/stoneidev/ieum) ![Freeware][Freeware Icon]
 * [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/itext-ocr-translator/id1314980676?platform=mac)
 * [iTranslate](http://www.itranslate.com/) - 支持文本、网页和多语言翻译的翻译应用。 ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - 基于 OpenAI 或 Gemini，对任意系统音频进行实时屏幕翻译。 [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
