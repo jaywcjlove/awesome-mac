@@ -295,6 +295,7 @@ Awesome Mac
 * [Notes](http://www.get-notes.com/) - クリーンでシンプルなメモ取りアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - タスク、メモ、カレンダーをプレーンテキストMarkdownファイルで管理。 [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
 * [NotePlus](https://noteplus.com/) - 真のネイティブノートおよびLLMクライアント
+* [Noteriv](https://www.noteriv.com/) - ウィキリンク、グラフビュー、プラグイン、Git/WebDAV 同期、AI アシスタント向けの MCP サーバーを備えたオープンソースの Markdown ノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/thejacedev/Noteriv) ![Freeware][Freeware Icon]
 * [Noteship](https://noteship.com) - メモを構造化された知識に整理できるローカルファーストのノートアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
 * [Notion](https://www.notion.so/) - メモ、タスク、Wiki、データベースのためのオールインワンワークスペース。
 * [OATS](https://github.com/ariso-ai/oats) - ライブ文字起こし、話者ラベル、AI要約、完全オフラインのオンデバイスモードに対応したオープンソースのローカルファースト会議ノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
