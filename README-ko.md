@@ -307,6 +307,7 @@ Awesome Mac
 * [Clearview](https://clearview-reader.github.io/clearview-x/index.html) - PDF, EPUB, CHM, MOBI를 위한 탭 스타일 전자책 리더. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
 * [Comic Commander](https://krocon.de/products/comiccommander/) - CBZ, CBR, CB7, CBT, PDF 파일을 위한 만화 라이브러리 브라우저 및 리더. [![Open-Source Software][OSS Icon]](https://github.com/krocon/comic-commander-tauri) ![Freeware][Freeware Icon]
 * [iChm](https://github.com/NSGod/ichm) - CHM 파일용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
+* [KindBeamer](https://jooray.github.io/kindbeamer/) - 문서를 Kindle 기기로 전송하는 비공식 오픈 소스 Send to Kindle 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jooray/kindbeamer) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon Kindle 공식 앱.
 * [Klib](http://klib.me/) - Kindle 및 iBooks의 하이라이트를 관리하는 새로운 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?at=1000lv4R&ct=klib_me&platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15개 이상의 형식을 지원하는 올인원 전자책 리더. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
