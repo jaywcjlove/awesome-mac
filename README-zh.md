@@ -1414,6 +1414,7 @@ Awesome Mac
 * [MagicWall](https://github.com/davidullo/magicwall) - 将本地视频设为桌面壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - 支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [Vidwall Hub](https://wangchujiang.com/vidwall-hub/) - 轻松将 MP4/MOV 视频导入系统壁纸并用作锁屏动画。 ![Freeware][Freeware Icon]
+* [Volant](https://usevolant.com) - 注重隐私的开源启动器，可快速打开应用和文件，并支持计算、笔记、剪贴板历史和编程智能体。 [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Wallpaper Player](https://github.com/haren724/wallpaper-player-mac) - 一款强大的开源 Mac 动态壁纸应用，支持导入 Wallpaper Engine 上的壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/haren724/wallpaper-player-mac) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [WWDC](https://github.com/insidegui/WWDC) - 非官方的 WWDC Mac APP。[![Open-Source Software][OSS Icon]](https://github.com/insidegui/WWDC) ![Freeware][Freeware Icon]
