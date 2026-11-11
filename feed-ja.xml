@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:42:47 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>twistel</title>
+      <link>https://github.com/jonasnlt/twistel</link>
+      <guid isPermaLink="false">44be7030edb074730306aabeef27008e0c323245:twistel</guid>
+      <pubDate>Wed, 11 Nov 2026 15:42:47 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: twistel
+Description: メニューバーのファイル変換ツール。ファイルをドラッグ中にキーを押したままリングメニューにドロップするだけで、画像・音声・動画・文書の変換、圧縮、OCR、PDFの墨消しや署名ができ、完全にオフラインで動作します。
+Open Source: https://github.com/jonasnlt/twistel
+Commit: Add twistel (#4439)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: twistel<br/>Description: メニューバーのファイル変換ツール。ファイルをドラッグ中にキーを押したままリングメニューにドロップするだけで、画像・音声・動画・文書の変換、圧縮、OCR、PDFの墨消しや署名ができ、完全にオフラインで動作します。<br/>Open Source: https://github.com/jonasnlt/twistel<br/>Commit: Add twistel (#4439)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245]]></content:encoded>
+    </item>
     <item>
       <title>Back to Bug</title>
       <link>https://github.com/skarpovdev/backtobug</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/stanczykwyatt/ai-footprint
 Commit: Add AI Footprint to Menu Bar Tools (#4189)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eca7ade9cae2a9068e9326ff9546df00f0f2d9d</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AI Footprint<br/>Description: AIコーディングツールがMacに残すディスク使用量、バックグラウンドプロセス、MCPサーバー、ログイン項目を表示し、アップデートごとに変更内容を記録する読み取り専用のメニューバーアプリ。<br/>Website: https://stanczykwyatt.github.io/ai-footprint/<br/>Open Source: https://github.com/stanczykwyatt/ai-footprint<br/>Commit: Add AI Footprint to Menu Bar Tools (#4189)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eca7ade9cae2a9068e9326ff9546df00f0f2d9d]]></content:encoded>
-    </item>
-    <item>
-      <title>mirroir-mcp</title>
-      <link>https://mirroir.dev</link>
-      <guid isPermaLink="false">cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0:mirroir-mcp</guid>
-      <pubDate>Tue, 03 Nov 2026 06:51:30 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: mirroir-mcp
-Description: デベロッパモードやXcodeなしで、iPhoneミラーリング経由でAIエージェントが実機iPhoneを見て、タップ、スワイプ、入力できるオープンソースのMCPサーバー兼CLI。
-Website: https://mirroir.dev
-Open Source: https://github.com/jfarcand/mirroir-mcp
-Commit: Add mirroir-mcp to Developer Utilities (#4185)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: mirroir-mcp<br/>Description: デベロッパモードやXcodeなしで、iPhoneミラーリング経由でAIエージェントが実機iPhoneを見て、タップ、スワイプ、入力できるオープンソースのMCPサーバー兼CLI。<br/>Website: https://mirroir.dev<br/>Open Source: https://github.com/jfarcand/mirroir-mcp<br/>Commit: Add mirroir-mcp to Developer Utilities (#4185)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cde67fea1a8f125cdb0dc06a286ba5bc1bd4b1d0]]></content:encoded>
     </item>
   </channel>
 </rss>
