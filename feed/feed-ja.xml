@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:26:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TurboFieldfare</title>
+      <link>https://github.com/drumih/turbo-fieldfare</link>
+      <guid isPermaLink="false">6a6df7110b50b425ab672ef757d2fb82f4272e1f:TurboFieldfare</guid>
+      <pubDate>Wed, 11 Nov 2026 09:26:25 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: TurboFieldfare
+Description: GoogleのGemma AI（26B-A4B MoE）を自分のデバイス上でプライバシーを守りながら実行できる、低スペックの8 GB MシリーズMacにも対応したChatGPT風のネイティブMacアプリ。
+Open Source: https://github.com/drumih/turbo-fieldfare
+Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: TurboFieldfare<br/>Description: GoogleのGemma AI（26B-A4B MoE）を自分のデバイス上でプライバシーを守りながら実行できる、低スペックの8 GB MシリーズMacにも対応したChatGPT風のネイティブMacアプリ。<br/>Open Source: https://github.com/drumih/turbo-fieldfare<br/>Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f]]></content:encoded>
+    </item>
     <item>
       <title>Kombucha</title>
       <link>https://github.com/askuksov/kombucha</link>
@@ -717,21 +731,6 @@ Website: https://switch-dev.sanyamgarg.com
 Commit: Add Switch to Window Management (#4174)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Switch<br/>Description: すべての操作スペースの開いているウィンドウを一覧表示し、入力で絞り込めるキーボード操作のウィンドウスイッチャー。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
-    </item>
-    <item>
-      <title>Carbon</title>
-      <link>https://carbon.alexandrejoly.me</link>
-      <guid isPermaLink="false">9e935ee98ff1c48db8f1985dfb04fbf755e8591e:Carbon</guid>
-      <pubDate>Tue, 03 Nov 2026 05:23:24 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: Carbon
-Description: ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。
-Website: https://carbon.alexandrejoly.me
-Open Source: https://github.com/AlexDemzz/carbon
-Commit: Add Carbon to Audio Record and Process (#4171)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Carbon<br/>Description: ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
     </item>
   </channel>
 </rss>

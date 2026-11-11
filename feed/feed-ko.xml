@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:26:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TurboFieldfare</title>
+      <link>https://github.com/drumih/turbo-fieldfare</link>
+      <guid isPermaLink="false">6a6df7110b50b425ab672ef757d2fb82f4272e1f:TurboFieldfare</guid>
+      <pubDate>Wed, 11 Nov 2026 09:26:25 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: TurboFieldfare
+Description: 저사양 8 GB M 시리즈 Mac에서도 Google의 Gemma AI(26B-A4B MoE)를 사용자 기기에서 프라이버시를 보호하며 실행하는 ChatGPT 스타일의 네이티브 Mac 앱.
+Open Source: https://github.com/drumih/turbo-fieldfare
+Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: TurboFieldfare<br/>Description: 저사양 8 GB M 시리즈 Mac에서도 Google의 Gemma AI(26B-A4B MoE)를 사용자 기기에서 프라이버시를 보호하며 실행하는 ChatGPT 스타일의 네이티브 Mac 앱.<br/>Open Source: https://github.com/drumih/turbo-fieldfare<br/>Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f]]></content:encoded>
+    </item>
     <item>
       <title>Kombucha</title>
       <link>https://github.com/askuksov/kombucha</link>
@@ -717,21 +731,6 @@ Website: https://switch-dev.sanyamgarg.com
 Commit: Add Switch to Window Management (#4174)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Switch<br/>Description: 모든 Space의 열린 창을 보여주고 입력으로 필터링할 수 있는 키보드 창 전환 도구.<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
-    </item>
-    <item>
-      <title>Carbon</title>
-      <link>https://carbon.alexandrejoly.me</link>
-      <guid isPermaLink="false">9e935ee98ff1c48db8f1985dfb04fbf755e8591e:Carbon</guid>
-      <pubDate>Tue, 03 Nov 2026 05:23:24 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Carbon
-Description: 봇이나 클라우드 없이 회의를 기기에서 전사하고 각 회의를 Markdown 파일로 저장하는 메뉴 막대 앱.
-Website: https://carbon.alexandrejoly.me
-Open Source: https://github.com/AlexDemzz/carbon
-Commit: Add Carbon to Audio Record and Process (#4171)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Carbon<br/>Description: 봇이나 클라우드 없이 회의를 기기에서 전사하고 각 회의를 Markdown 파일로 저장하는 메뉴 막대 앱.<br/>Website: https://carbon.alexandrejoly.me<br/>Open Source: https://github.com/AlexDemzz/carbon<br/>Commit: Add Carbon to Audio Record and Process (#4171)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e935ee98ff1c48db8f1985dfb04fbf755e8591e]]></content:encoded>
     </item>
   </channel>
 </rss>
