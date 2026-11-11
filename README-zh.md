@@ -797,6 +797,7 @@ Awesome Mac
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 独立的 macOS 菜单栏应用，可与兼容的 Android 设备进行双向 Google Quick Share 传输，并提供 USB MTP、Finder 共享、二维码工具及实验性的 Windows 互操作支持。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) -适用于 macOS 的非官方 Google Nearby Share/Quick Share 应用。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - Rclone 和 s3 的图形用户界面。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
+* [S3 Explorer](https://s3explorer.accessdevops.com/) - 适用于 Amazon S3 及 MinIO、Cloudflare R2、Backblaze B2 等 S3 兼容存储的桌面客户端。
 * [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端，支持 FTP + SFTP + S3。
 * [Yummy FTP](http://www.yummysoftware.com) - 专业快速，可靠的 FTP 客户端。
 
