@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:35:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Back to Bug</title>
+      <link>https://github.com/skarpovdev/backtobug</link>
+      <guid isPermaLink="false">6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07:Back to Bug</guid>
+      <pubDate>Wed, 11 Nov 2026 15:35:43 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: Back to Bug
+Description: Menu bar replay recorder that saves recent screen activity as video for bug reports.
+Open Source: https://github.com/skarpovdev/backtobug
+Commit: Add Back to Bug to Screen Recording (#4451)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Back to Bug<br/>Description: Menu bar replay recorder that saves recent screen activity as video for bug reports.<br/>Open Source: https://github.com/skarpovdev/backtobug<br/>Commit: Add Back to Bug to Screen Recording (#4451)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07]]></content:encoded>
+    </item>
     <item>
       <title>Cleaner</title>
       <link>https://ciromaciel.click/tools/cleaner</link>
@@ -718,21 +732,6 @@ Website: https://refreshyourmac.com/
 Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: RefreshYourMac<br/>Description: Mac cleaner that rates every category Safe to Remove, Review, Move to Backup or Protected, and shows what left it behind before anything is deleted.<br/>Website: https://refreshyourmac.com/<br/>Commit: Add RefreshYourMac to Cleanup and Uninstall (EN/ZH/JA/KO) (#3825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a937ed68117b4f5fe53e63bed81a8db894a3895a]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Footprint</title>
-      <link>https://stanczykwyatt.github.io/ai-footprint/</link>
-      <guid isPermaLink="false">3eca7ade9cae2a9068e9326ff9546df00f0f2d9d:AI Footprint</guid>
-      <pubDate>Tue, 03 Nov 2026 07:02:43 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: AI Footprint
-Description: Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update.
-Website: https://stanczykwyatt.github.io/ai-footprint/
-Open Source: https://github.com/stanczykwyatt/ai-footprint
-Commit: Add AI Footprint to Menu Bar Tools (#4189)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eca7ade9cae2a9068e9326ff9546df00f0f2d9d</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AI Footprint<br/>Description: Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update.<br/>Website: https://stanczykwyatt.github.io/ai-footprint/<br/>Open Source: https://github.com/stanczykwyatt/ai-footprint<br/>Commit: Add AI Footprint to Menu Bar Tools (#4189)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3eca7ade9cae2a9068e9326ff9546df00f0f2d9d]]></content:encoded>
     </item>
   </channel>
 </rss>
