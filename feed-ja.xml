@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:35:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Browserdoor</title>
+      <link>https://github.com/schowave/browserdoor</link>
+      <guid isPermaLink="false">8a898d924ca26d9c911c0cade760b53cd184a5a7:Browserdoor</guid>
+      <pubDate>Wed, 11 Nov 2026 13:35:04 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: Browserdoor
+Description: リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。
+Open Source: https://github.com/schowave/browserdoor
+Commit: Add Browserdoor (#4395)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Browserdoor<br/>Description: リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。<br/>Open Source: https://github.com/schowave/browserdoor<br/>Commit: Add Browserdoor (#4395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7]]></content:encoded>
+    </item>
     <item>
       <title>TurboFieldfare</title>
       <link>https://github.com/drumih/turbo-fieldfare</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/wata/TimeMachineEjector
 Commit: Add TimeMachineEjector to System Related Tools (#4181)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661</description>
       <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: TimeMachineEjector<br/>Description: Time Machineのバックアップが終わるとバックアップディスクを取り出し、定期バックアップの時刻になると再びマウントするメニューバーアプリ。<br/>Open Source: https://github.com/wata/TimeMachineEjector<br/>Commit: Add TimeMachineEjector to System Related Tools (#4181)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3f566badfb255ce4bcf9544e89d9a03ac376f661]]></content:encoded>
-    </item>
-    <item>
-      <title>Switch</title>
-      <link>https://switch-dev.sanyamgarg.com</link>
-      <guid isPermaLink="false">51b6daa8c075ec4eb0e3f29ec915873687525e59:Switch</guid>
-      <pubDate>Tue, 03 Nov 2026 05:44:10 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Switch
-Description: すべての操作スペースの開いているウィンドウを一覧表示し、入力で絞り込めるキーボード操作のウィンドウスイッチャー。
-Website: https://switch-dev.sanyamgarg.com
-Commit: Add Switch to Window Management (#4174)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Switch<br/>Description: すべての操作スペースの開いているウィンドウを一覧表示し、入力で絞り込めるキーボード操作のウィンドウスイッチャー。<br/>Website: https://switch-dev.sanyamgarg.com<br/>Commit: Add Switch to Window Management (#4174)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/51b6daa8c075ec4eb0e3f29ec915873687525e59]]></content:encoded>
     </item>
   </channel>
 </rss>
