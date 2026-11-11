@@ -170,6 +170,7 @@ Awesome Command Line Apps
 * [m-cli](https://github.com/rgcr/m-cli) - macOS用のスイスアーミーナイフ。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - プレビューファーストのワークフローを持つmacOSディスククリーンアップTUI：キャッシュと開発アーティファクトをスキャンし、結果をプレビューし、選択したアイテムをゴミ箱に移動。 [![Open-Source Software][OSS Icon]](https://github.com/2ykwang/mac-cleanup-go) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - Macを管理する究極のツール。OS Xシステムの使用を自動化。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
+* [macos-cli](https://github.com/manuaudio/macos-cli) - カレンダー、連絡先、メール、メモ、リマインダー、ウインドウ、画面をターミナルから操作し、スクリプトやAIエージェント向けにJSONで出力。 [![Open-Source Software][OSS Icon]](https://github.com/manuaudio/macos-cli) ![Freeware][Freeware Icon]
 * [Magic Wormhole](https://magic-wormhole.readthedocs.io/en/latest/) - コンピューター間で安全にファイルを転送。 [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
 * [MarkersExtractor](https://github.com/TheAcharya/MarkersExtractor) - Final Cut Pro用のマーカーメタデータ抽出・変換ツールおよびライブラリ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/MarkersExtractor) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - Mac App Store用のシンプルなコマンドラインインターフェース。 [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
