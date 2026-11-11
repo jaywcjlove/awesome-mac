@@ -722,6 +722,7 @@ Awesome Mac
 * [Figma](https://www.figma.com/) - ベクターグラフィックスとUIプロトタイピングのための協調的インターフェースデザインツール。 ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - 無料でオープンソースのフォントエディター。 [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - GNU画像操作プログラム。 [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
+* [#HEX](https://geragaraza.com/apps/hex/) - キーボードショートカットで macOS のカラーサンプラーを開き、クリックしたピクセルを HEX コードとしてコピーするオープンソースのカラーピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/hex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Macのトラックパッドを描画ボードに変換。
 * [Inkscape](https://inkscape.org/en/) - プロフェッショナルなベクターグラフィックスエディター。 [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化、インスタントアルファ。アカウントもテレメトリも不要。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
