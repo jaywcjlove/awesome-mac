@@ -662,6 +662,7 @@ Awesome Mac
 
 ### 화면 녹화
 
+* [Back to Bug](https://github.com/skarpovdev/backtobug) - 최근 화면 활동을 버그 보고용 동영상으로 저장하는 메뉴 막대 녹화 도구. [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - 전문적인 인코딩을 지원하는 무료 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - 편집과 주석 기능을 갖춘 화면 캡처 및 녹화 도구.
 * [Caplo](https://github.com/icloudza/caplo) - 녹화 직후 편집할 수 있으며 자동 카메라 움직임, 커서 효과, 캔버스와 자막을 지원합니다.
