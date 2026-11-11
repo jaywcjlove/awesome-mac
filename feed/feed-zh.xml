@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:35:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Browserdoor</title>
+      <link>https://github.com/schowave/browserdoor</link>
+      <guid isPermaLink="false">8a898d924ca26d9c911c0cade760b53cd184a5a7:Browserdoor</guid>
+      <pubDate>Wed, 11 Nov 2026 13:35:04 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: Browserdoor
+Description: 开源的链接选择器，打开链接时可选择使用哪个浏览器、浏览器配置文件或 Zen 空间。
+Open Source: https://github.com/schowave/browserdoor
+Commit: Add Browserdoor (#4395)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Browserdoor<br/>Description: 开源的链接选择器，打开链接时可选择使用哪个浏览器、浏览器配置文件或 Zen 空间。<br/>Open Source: https://github.com/schowave/browserdoor<br/>Commit: Add Browserdoor (#4395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7]]></content:encoded>
+    </item>
     <item>
       <title>TurboFieldfare</title>
       <link>https://github.com/drumih/turbo-fieldfare</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/ixiehao/MP4Flow
 Commit: Add MP4Flow (#4141)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: MP4Flow<br/>Description: 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。<br/>Website: https://ixiehao.github.io/MP4Flow/en/<br/>Open Source: https://github.com/ixiehao/MP4Flow<br/>Commit: Add MP4Flow (#4141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b0f0cb8be1370af815c7df9f07f4704002f4215b]]></content:encoded>
-    </item>
-    <item>
-      <title>Breaker</title>
-      <link>https://github.com/wata/Breaker</link>
-      <guid isPermaLink="false">aa13c1fd00e0560de45b6c89b44db485c4dc39f7:Breaker</guid>
-      <pubDate>Tue, 03 Nov 2026 06:20:32 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Breaker
-Description: 监控你自己设置的 launchd 任务、cron 任务、文件夹操作和 SwiftBar 插件，出问题时立即通知。
-Open Source: https://github.com/wata/Breaker
-Commit: Add Breaker to Developer Utilities (#4182)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Breaker<br/>Description: 监控你自己设置的 launchd 任务、cron 任务、文件夹操作和 SwiftBar 插件，出问题时立即通知。<br/>Open Source: https://github.com/wata/Breaker<br/>Commit: Add Breaker to Developer Utilities (#4182)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa13c1fd00e0560de45b6c89b44db485c4dc39f7]]></content:encoded>
     </item>
   </channel>
 </rss>
