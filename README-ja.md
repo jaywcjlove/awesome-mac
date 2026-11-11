@@ -1020,6 +1020,7 @@ Awesome Mac
 * [Dropshare](https://dropshare.app) - スクリーンショット、画面録画、その他のファイルを共有するツール。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。 ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 受賞歴のある、美しく、高速で信頼性の高いFTP + SFTPクライアント。
+* [GlideDrop](https://jakharamit44.github.io/glidedrop/) - 同じ Wi-Fi や USB ケーブルなしで、Bluetooth LE と 5 GHz Wi-Fi Direct 経由により Mac と Android デバイス間でファイル、写真、動画、リンク、テキストをピアツーピア転送するツール。 [![Open-Source Software][OSS Icon]](https://github.com/jakharamit44/glidedrop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LocalSend](https://localsend.org/) - AirDropに代わるオープンソースのクロスプラットフォームアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 互換性のある Android デバイスとの双方向 Google Quick Share 転送に対応する独立した macOS メニューバーアプリで、USB MTP、Finder 共有、QR ツール、実験的な Windows 連携も備えています。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
