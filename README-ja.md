@@ -1465,6 +1465,7 @@ Awesome Mac
 * [ClipTools](https://macmost.com/cliptools) - コピー、ペースト、テキスト整形を手早くこなせるクリップボードツール集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - ClipMenuをベースにしたmacOS用クリップボード拡張アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - macOS・Windows・Android 間の暗号化 LAN 同期、ファイル転送、Android 通知ミラーリング、スクリーンショット＆OCR を備えたローカルファーストのクリップボード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CoPanda](https://www.copanda.app/) - 検索できるローカル履歴を備えた、アカウント不要でテレメトリなしのオープンソースのクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/CopyPaste) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - すべてのコピーを保存し、複数をまとめて、または一つずつ貼り付けるクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高度な機能を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - フォーカス中の入力欄を読み取り、メールアドレスや電話番号など、合う部分だけを貼り付けるクリップボード。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
