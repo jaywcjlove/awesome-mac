@@ -1642,6 +1642,7 @@ Awesome Mac
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - 在多显示器环境中将 macOS 的 Dock 锁定在一个屏幕上。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - 一款高效的 macOS 文件搜索工具，基于原生 Spotlight 引擎，支持极速搜索。[![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
 * [FixTim](https://github.com/Lakr233/FixTim) - 无须重启即可修复 macOS 上的所有运行时的 bug。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Lakr233/FixTim)
+* [Fan Curve](https://github.com/8thlyr/fan-curve) - 适用于 Apple Silicon Mac 的开源风扇曲线控制器，根据 CPU 温度调节风扇转速。 [![Open-Source Software][OSS Icon]](https://github.com/8thlyr/fan-curve) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FanPilot](https://github.com/zyvren/FanPilot) - Apple Silicon Mac 的风扇控制与温度监控：菜单栏温度，手动、最大、自动加速规则或自定义曲线，带安全保护的辅助进程和命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/zyvren/FanPilot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FixStat](https://github.com/BurakFixLab/fixstat) - 面向 Mac 维修的菜单栏监控与诊断工具：按机型命名的传感器、电池电芯数据、SSD SMART（含 USB 外接硬盘）、内核崩溃记录和引导式硬件测试。 [![Open-Source Software][OSS Icon]](https://github.com/BurakFixLab/fixstat) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ftop](https://github.com/Nongfsq/ftop) - 可任意缩放的 Apple Silicon 浮动系统监视器，显示每个核心的占用与频率、GPU、内存压力和网络。 [![Open-Source Software][OSS Icon]](https://github.com/Nongfsq/ftop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
