@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:27:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LocalSR</title>
+      <link>https://herrei.github.io/localsr/</link>
+      <guid isPermaLink="false">cab65a5946fb540bfb55b4d5895d83eb0d318442:LocalSR</guid>
+      <pubDate>Wed, 11 Nov 2026 04:27:52 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: LocalSR
+Description: Open-source app for upscaling, denoising and restoring photos and videos with local AI models.
+Website: https://herrei.github.io/localsr/
+Open Source: https://github.com/HerRei/local-upscale
+Commit: Add LocalSR to General Tools (#4339)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: LocalSR<br/>Description: Open-source app for upscaling, denoising and restoring photos and videos with local AI models.<br/>Website: https://herrei.github.io/localsr/<br/>Open Source: https://github.com/HerRei/local-upscale<br/>Commit: Add LocalSR to General Tools (#4339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442]]></content:encoded>
+    </item>
     <item>
       <title>Fan Curve</title>
       <link>https://github.com/8thlyr/fan-curve</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/ixiehao/ShotMap
 Commit: Add ShotMap (#4140)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: ShotMap<br/>Description: Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.<br/>Website: https://ixiehao.github.io/ShotMap/<br/>Open Source: https://github.com/ixiehao/ShotMap<br/>Commit: Add ShotMap (#4140)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab76433693a6a8be3812bf821a600f5a337da252]]></content:encoded>
-    </item>
-    <item>
-      <title>LumaView</title>
-      <link>https://ixiehao.github.io/LumaView/en/</link>
-      <guid isPermaLink="false">9007b0cd95808a57bb66724f5c8bb897cfa8de6b:LumaView</guid>
-      <pubDate>Mon, 02 Nov 2026 02:23:36 GMT</pubDate>
-      <category>Design and Product / Other Tools</category>
-      <description>Category: Design and Product / Other Tools
-App: LumaView
-Description: Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.
-Website: https://ixiehao.github.io/LumaView/en/
-Open Source: https://github.com/ixiehao/LumaView
-Commit: Add LumaView (#4142)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
-      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: LumaView<br/>Description: Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
     </item>
   </channel>
 </rss>
