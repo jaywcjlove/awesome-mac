@@ -1318,6 +1318,7 @@ Awesome Mac
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID、Apple Watch、またはパスワードで任意のmacOSアプリをロックし、全モニターにぼかしオーバーレイを表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - マルウェアを検出・除去するセキュリティツール。 ![Freeware][Freeware Icon]
 * [Mana Security](https://www.manasecurity.com/) - 個人向けの脆弱性管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
+* [Noviscan](https://noviscan.app/) - 手持ちのIPカメラ向けに自分のパソコン上で顔認識を行い、未認識の顔を検知すると通知するツール。 ![Freeware][Freeware Icon]
 * [NoxKey](https://github.com/No-Box-Dev/Noxkey) - キーチェーンとTouch IDでAPIキーやトークンを管理するツール。 [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - オープンソース依存関係の脆弱性を監視するサービス。
 * [OverSight](https://objective-see.com/products/oversight.html) - マイクとWebカメラのアクセスを監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight) ![Freeware][Freeware Icon]

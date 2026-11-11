@@ -1323,6 +1323,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malware scanner and removal tool. ![Freeware][Freeware Icon]
 * [Mana Security](https://www.manasecurity.com/) - vulnerability management app for individuals. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 * [Vulert](https://vulert.com) - Dependency vulnerability monitoring service for open-source packages.
+* [Noviscan](https://noviscan.app/) - Face recognition on your computer for the IP cameras you already own, with alerts for unrecognized faces. ![Freeware][Freeware Icon]
 * [NoxKey](https://github.com/No-Box-Dev/Noxkey) - Keychain-based secret manager for API keys and tokens with Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/No-Box-Dev/Noxkey) ![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - Tool for monitoring microphone and webcam access. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight) ![Freeware][Freeware Icon]
 * [ParetoSecurity](https://paretosecurity.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
