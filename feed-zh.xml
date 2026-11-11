@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Volant</title>
+      <link>https://usevolant.com</link>
+      <guid isPermaLink="false">9b8ec210a3c06e2f44392aa1bacdc055273b6d90:Volant</guid>
+      <pubDate>Wed, 11 Nov 2026 00:27:53 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Volant
+Description: 注重隐私的开源启动器，可快速打开应用和文件，并支持计算、笔记、剪贴板历史和编程智能体。
+Website: https://usevolant.com
+Open Source: https://github.com/mysticcoders/volant
+Commit: Add Volant to Productivity (#4464)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Volant<br/>Description: 注重隐私的开源启动器，可快速打开应用和文件，并支持计算、笔记、剪贴板历史和编程智能体。<br/>Website: https://usevolant.com<br/>Open Source: https://github.com/mysticcoders/volant<br/>Commit: Add Volant to Productivity (#4464)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90]]></content:encoded>
+    </item>
     <item>
       <title>Dimmerly</title>
       <link>https://dimmerly.olujic.in.rs/</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/apoorvdarshan/coincide
 Commit: Add Coincide to IDEs (#4143)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Coincide<br/>Description: 开源的原生编程代理工作区（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity），同一个线程可以中途切换代理。<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
-    </item>
-    <item>
-      <title>ShinyMac</title>
-      <link>https://github.com/pballada/shinyMac</link>
-      <guid isPermaLink="false">20aba9a86765e6efc9f8a2428eaef6aea15064ec:ShinyMac</guid>
-      <pubDate>Mon, 02 Nov 2026 02:12:19 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: ShinyMac
-Description: 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。
-Open Source: https://github.com/pballada/shinyMac
-Commit: Add ShinyMac to Cleanup and Uninstall (#4145)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: ShinyMac<br/>Description: 开源 SwiftUI Mac 清理工具，提供一键智能护理、可查找残留文件的应用卸载、Xcode 清理、Space Lens 磁盘图和隐藏设置。<br/>Open Source: https://github.com/pballada/shinyMac<br/>Commit: Add ShinyMac to Cleanup and Uninstall (#4145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:27:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Volant</title>
+      <link>https://usevolant.com</link>
+      <guid isPermaLink="false">9b8ec210a3c06e2f44392aa1bacdc055273b6d90:Volant</guid>
+      <pubDate>Wed, 11 Nov 2026 00:27:53 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: Volant
+Description: アプリ、ファイル、計算、メモ、クリップボード履歴、コーディングエージェントをまとめて扱える、プライバシー重視のオープンソースランチャー。
+Website: https://usevolant.com
+Open Source: https://github.com/mysticcoders/volant
+Commit: Add Volant to Productivity (#4464)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Volant<br/>Description: アプリ、ファイル、計算、メモ、クリップボード履歴、コーディングエージェントをまとめて扱える、プライバシー重視のオープンソースランチャー。<br/>Website: https://usevolant.com<br/>Open Source: https://github.com/mysticcoders/volant<br/>Commit: Add Volant to Productivity (#4464)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90]]></content:encoded>
+    </item>
     <item>
       <title>Dimmerly</title>
       <link>https://dimmerly.olujic.in.rs/</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/pballada/shinyMac
 Commit: Add ShinyMac to Cleanup and Uninstall (#4145)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: ShinyMac<br/>Description: ワンスキャンの Smart Care、残りファイルも見つけるアプリアンインストーラー、Xcode クリーンアップ、Space Lens ディスクマップ、隠し設定を備えたオープンソースの SwiftUI 製 Mac クリーナー。<br/>Open Source: https://github.com/pballada/shinyMac<br/>Commit: Add ShinyMac to Cleanup and Uninstall (#4145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec]]></content:encoded>
-    </item>
-    <item>
-      <title>jdsp4mac</title>
-      <link>https://github.com/Tekkiech/jdsp4mac</link>
-      <guid isPermaLink="false">79728247e60c2d5534316d2118ac94e247ff5101:jdsp4mac</guid>
-      <pubDate>Mon, 02 Nov 2026 02:07:05 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: jdsp4mac
-Description: EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。
-Open Source: https://github.com/Tekkiech/jdsp4mac
-Commit: Add jdsp4mac to Audio Record and Process (#4146)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: jdsp4mac<br/>Description: EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
     </item>
   </channel>
 </rss>
