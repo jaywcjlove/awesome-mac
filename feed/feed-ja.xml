@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:27:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LocalSR</title>
+      <link>https://herrei.github.io/localsr/</link>
+      <guid isPermaLink="false">cab65a5946fb540bfb55b4d5895d83eb0d318442:LocalSR</guid>
+      <pubDate>Wed, 11 Nov 2026 04:27:52 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: LocalSR
+Description: ローカルのAIモデルで写真や動画をアップスケール・ノイズ除去・修復するオープンソースアプリ。
+Website: https://herrei.github.io/localsr/
+Open Source: https://github.com/HerRei/local-upscale
+Commit: Add LocalSR to General Tools (#4339)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: LocalSR<br/>Description: ローカルのAIモデルで写真や動画をアップスケール・ノイズ除去・修復するオープンソースアプリ。<br/>Website: https://herrei.github.io/localsr/<br/>Open Source: https://github.com/HerRei/local-upscale<br/>Commit: Add LocalSR to General Tools (#4339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442]]></content:encoded>
+    </item>
     <item>
       <title>Fan Curve</title>
       <link>https://github.com/8thlyr/fan-curve</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/ixiehao/LumaView
 Commit: Add LumaView (#4142)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: LumaView<br/>Description: フォルダ内の画像閲覧、EXIF 情報の確認、複数ページの PDF 閲覧に対応するシンプルなネイティブ画像ビューアー。<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
-    </item>
-    <item>
-      <title>Coincide</title>
-      <link>https://coincide.dev</link>
-      <guid isPermaLink="false">e96f39fe2a586b68897efa79e849e64b83f65ace:Coincide</guid>
-      <pubDate>Mon, 02 Nov 2026 02:22:46 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Coincide
-Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。
-Website: https://coincide.dev
-Open Source: https://github.com/apoorvdarshan/coincide
-Commit: Add Coincide to IDEs (#4143)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Coincide<br/>Description: コーディングエージェント（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity）のためのオープンソースのネイティブワークスペース。スレッドの途中でエージェントを切り替えられる。<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
     </item>
   </channel>
 </rss>

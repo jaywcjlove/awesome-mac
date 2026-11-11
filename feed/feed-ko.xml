@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:27:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LocalSR</title>
+      <link>https://herrei.github.io/localsr/</link>
+      <guid isPermaLink="false">cab65a5946fb540bfb55b4d5895d83eb0d318442:LocalSR</guid>
+      <pubDate>Wed, 11 Nov 2026 04:27:52 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: LocalSR
+Description: 로컬 AI 모델로 사진과 동영상을 업스케일, 노이즈 제거, 복원하는 오픈소스 앱.
+Website: https://herrei.github.io/localsr/
+Open Source: https://github.com/HerRei/local-upscale
+Commit: Add LocalSR to General Tools (#4339)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: LocalSR<br/>Description: 로컬 AI 모델로 사진과 동영상을 업스케일, 노이즈 제거, 복원하는 오픈소스 앱.<br/>Website: https://herrei.github.io/localsr/<br/>Open Source: https://github.com/HerRei/local-upscale<br/>Commit: Add LocalSR to General Tools (#4339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442]]></content:encoded>
+    </item>
     <item>
       <title>Fan Curve</title>
       <link>https://github.com/8thlyr/fan-curve</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/ixiehao/LumaView
 Commit: Add LumaView (#4142)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: LumaView<br/>Description: 폴더 탐색, EXIF 정보 확인과 여러 페이지 PDF 보기를 지원하는 간결한 네이티브 이미지 뷰어.<br/>Website: https://ixiehao.github.io/LumaView/en/<br/>Open Source: https://github.com/ixiehao/LumaView<br/>Commit: Add LumaView (#4142)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9007b0cd95808a57bb66724f5c8bb897cfa8de6b]]></content:encoded>
-    </item>
-    <item>
-      <title>Coincide</title>
-      <link>https://coincide.dev</link>
-      <guid isPermaLink="false">e96f39fe2a586b68897efa79e849e64b83f65ace:Coincide</guid>
-      <pubDate>Mon, 02 Nov 2026 02:22:46 GMT</pubDate>
-      <category>개발 도구 / IDE / 코드 편집기</category>
-      <description>Category: 개발 도구 / IDE / 코드 편집기
-App: Coincide
-Description: 코딩 에이전트(Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity)를 위한 오픈소스 네이티브 작업 공간. 하나의 스레드에서 도중에 에이전트를 바꿀 수 있다.
-Website: https://coincide.dev
-Open Source: https://github.com/apoorvdarshan/coincide
-Commit: Add Coincide to IDEs (#4143)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Coincide<br/>Description: 코딩 에이전트(Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity)를 위한 오픈소스 네이티브 작업 공간. 하나의 스레드에서 도중에 에이전트를 바꿀 수 있다.<br/>Website: https://coincide.dev<br/>Open Source: https://github.com/apoorvdarshan/coincide<br/>Commit: Add Coincide to IDEs (#4143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e96f39fe2a586b68897efa79e849e64b83f65ace]]></content:encoded>
     </item>
   </channel>
 </rss>
