@@ -955,6 +955,7 @@ Awesome Mac
 * [Keyameleon](https://keyameleon.app/) - 물리 키보드마다 입력 소스를 지정해 두고, 입력 중인 키보드에 맞춰 자동으로 전환해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/mastro993/keyameleon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 고쳐주는 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust로 만든 크로스 플랫폼 병음 입력기로, 후보 단어 옆에 학습 중인 언어의 번역어를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
+* [Retyper](https://geragaraza.com/apps/retyper/) - 잘못된 키보드 레이아웃으로 입력한 단어(ghbdtn → привет)를 단어 끝에서 자동으로 또는 언어 전환 키로 올바른 레이아웃으로 다시 입력하고 입력 소스를 전환하는 오픈 소스 앱. 영어, 러시아어, 우크라이나어 지원. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/retyper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
 * [Sidekey](https://wongsiufool.github.io/sidekey/) - iPhone을 Mac이나 Windows PC의 무선 키보드, 트랙패드, 음성 입력으로 사용하는 도구. 로컬 Wi-Fi로 연결. [![Open-Source Software][OSS Icon]](https://github.com/wongsiufool/sidekey) ![Freeware][Freeware Icon]
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
