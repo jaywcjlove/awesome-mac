@@ -1736,7 +1736,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
 * [Divvy](https://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
-* [emcee](https://fuzzyfoundry.com/emcee) - Stage Manager replacement: drag windows between stages, reorder stages, and new windows open in the current stage.
+* [emcee](https://fuzzyfoundry.com/emcee) - Stage Manager replacement with stages you reorder and split by window.
 * [Flickbar](https://flickbar.github.io/) - Open-source window manager driven by trackpad gestures on window title bars. [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
 * [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
