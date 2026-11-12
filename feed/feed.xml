@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:31:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MoMo Agent</title>
+      <link>https://github.com/Miri-Labs/MoMo-Agent</link>
+      <guid isPermaLink="false">2dc21ce1ef91bbebf44491cb81174c735a369543:MoMo Agent</guid>
+      <pubDate>Thu, 12 Nov 2026 03:31:10 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: MoMo Agent
+Description: Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault.
+Open Source: https://github.com/Miri-Labs/MoMo-Agent
+Commit: Add MoMo Agent to AI Tools (#4498)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: MoMo Agent<br/>Description: Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault.<br/>Open Source: https://github.com/Miri-Labs/MoMo-Agent<br/>Commit: Add MoMo Agent to AI Tools (#4498)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543]]></content:encoded>
+    </item>
     <item>
       <title>Lumela</title>
       <link>https://github.com/tw4/lumela</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/drumst0ck/ferrocast
 Commit: Add Ferrocast (#4201)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Ferrocast<br/>Description: Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions.<br/>Website: https://ferrocast.app<br/>Open Source: https://github.com/drumst0ck/ferrocast<br/>Commit: Add Ferrocast (#4201)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03]]></content:encoded>
-    </item>
-    <item>
-      <title>Tingo</title>
-      <link>https://github.com/tancheng33/tingo</link>
-      <guid isPermaLink="false">2e45ae0d0772ddb506015eac53757049f462399c:Tingo</guid>
-      <pubDate>Wed, 04 Nov 2026 03:05:59 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: Tingo
-Description: Open-source meeting notes app that records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose.
-Open Source: https://github.com/tancheng33/tingo
-Commit: Add Tingo to Audio Record and Process (#4199)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Tingo<br/>Description: Open-source meeting notes app that records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose.<br/>Open Source: https://github.com/tancheng33/tingo<br/>Commit: Add Tingo to Audio Record and Process (#4199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c]]></content:encoded>
     </item>
   </channel>
 </rss>
