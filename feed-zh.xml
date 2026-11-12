@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:28:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Quarters</title>
+      <link>https://quarters.amithgc.com</link>
+      <guid isPermaLink="false">d75d09a344a3bd7a689e9261d4f81baff091e992:Quarters</guid>
+      <pubDate>Thu, 12 Nov 2026 15:28:20 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Quarters
+Description: 开源的终端编程代理工作区，可在多个项目中同时运行 Claude Code、Codex、Gemini CLI、Aider 等代理，支持一键切换项目、启动开发服务器，并可从手机远程接入。
+Website: https://quarters.amithgc.com
+Open Source: https://github.com/amithgc/quarters
+Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Quarters<br/>Description: 开源的终端编程代理工作区，可在多个项目中同时运行 Claude Code、Codex、Gemini CLI、Aider 等代理，支持一键切换项目、启动开发服务器，并可从手机远程接入。<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
+    </item>
     <item>
       <title>DiskPilot</title>
       <link>https://diskpilot.live</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/projects-hacks/buddy
 Commit: Add Buddy to Education (#4250)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076</description>
       <content:encoded><![CDATA[Category: 教育<br/>App: Buddy<br/>Description: 住在刘海里的学习助手，一边朗读讲解屏幕上的内容，一边在上面画图标注。<br/>Open Source: https://github.com/projects-hacks/buddy<br/>Commit: Add Buddy to Education (#4250)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076]]></content:encoded>
-    </item>
-    <item>
-      <title>AllInOneIME</title>
-      <link>https://allinoneime.com</link>
-      <guid isPermaLink="false">7db3d7e513a41ddbe491d4c10962e11a60bc7542:AllInOneIME</guid>
-      <pubDate>Fri, 06 Nov 2026 05:18:16 GMT</pubDate>
-      <category>输入法</category>
-      <description>Category: 输入法
-App: AllInOneIME
-Description: 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。
-Website: https://allinoneime.com
-Commit: Add AllInOneIME to Input Methods (#4285)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
-      <content:encoded><![CDATA[Category: 输入法<br/>App: AllInOneIME<br/>Description: 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
     </item>
   </channel>
 </rss>

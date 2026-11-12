@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:28:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Quarters</title>
+      <link>https://quarters.amithgc.com</link>
+      <guid isPermaLink="false">d75d09a344a3bd7a689e9261d4f81baff091e992:Quarters</guid>
+      <pubDate>Thu, 12 Nov 2026 15:28:20 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Quarters
+Description: Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone.
+Website: https://quarters.amithgc.com
+Open Source: https://github.com/amithgc/quarters
+Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Quarters<br/>Description: Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone.<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
+    </item>
     <item>
       <title>DiskPilot</title>
       <link>https://diskpilot.live</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/projects-hacks/buddy
 Commit: Add Buddy to Education (#4250)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076</description>
       <content:encoded><![CDATA[Category: Education<br/>App: Buddy<br/>Description: Study helper in the notch that explains what is on your screen out loud while drawing on it.<br/>Open Source: https://github.com/projects-hacks/buddy<br/>Commit: Add Buddy to Education (#4250)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6718c8eda533d63e1ac986b4d6e34a9763e5076]]></content:encoded>
-    </item>
-    <item>
-      <title>AllInOneIME</title>
-      <link>https://allinoneime.com</link>
-      <guid isPermaLink="false">7db3d7e513a41ddbe491d4c10962e11a60bc7542:AllInOneIME</guid>
-      <pubDate>Fri, 06 Nov 2026 05:18:16 GMT</pubDate>
-      <category>Input Methods</category>
-      <description>Category: Input Methods
-App: AllInOneIME
-Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.
-Website: https://allinoneime.com
-Commit: Add AllInOneIME to Input Methods (#4285)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
-      <content:encoded><![CDATA[Category: Input Methods<br/>App: AllInOneIME<br/>Description: Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:28:20 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Quarters</title>
+      <link>https://quarters.amithgc.com</link>
+      <guid isPermaLink="false">d75d09a344a3bd7a689e9261d4f81baff091e992:Quarters</guid>
+      <pubDate>Thu, 12 Nov 2026 15:28:20 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Quarters
+Description: Claude Code、Codex、Gemini CLI、Aider などのターミナル型コーディングエージェントを複数のプロジェクトで同時に動かせるオープンソースのワークスペースで、ワンクリックでのプロジェクト切り替え、開発サーバーの起動、スマートフォンからのリモート操作に対応。
+Website: https://quarters.amithgc.com
+Open Source: https://github.com/amithgc/quarters
+Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Quarters<br/>Description: Claude Code、Codex、Gemini CLI、Aider などのターミナル型コーディングエージェントを複数のプロジェクトで同時に動かせるオープンソースのワークスペースで、ワンクリックでのプロジェクト切り替え、開発サーバーの起動、スマートフォンからのリモート操作に対応。<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
+    </item>
     <item>
       <title>DiskPilot</title>
       <link>https://diskpilot.live</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/roarbrowser/roar
 Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81</description>
       <content:encoded><![CDATA[Category: ブラウザ<br/>App: Roar<br/>Description: ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。<br/>Website: https://roarbrowser.app/<br/>Open Source: https://github.com/roarbrowser/roar<br/>Commit: Add Roar to Browsers section (en/zh/ja/ko) (#4278)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e730c660e45035bb1f9a08455291479be8db7d81]]></content:encoded>
-    </item>
-    <item>
-      <title>Wavo</title>
-      <link>https://github.com/vladkens/wavo-app</link>
-      <guid isPermaLink="false">620a549b3a0641bbe324c5db45fe3ba9b1b25e03:Wavo</guid>
-      <pubDate>Thu, 05 Nov 2026 16:15:50 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Wavo
-Description: Macを遅くしない音声入力ツール。Neural Engineで動作し、音声をクラウドに送らず、話した内容をどこで入力していてもその場所に打ち込みます。
-Open Source: https://github.com/vladkens/wavo-app
-Commit: Add Wavo (#4269)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Wavo<br/>Description: Macを遅くしない音声入力ツール。Neural Engineで動作し、音声をクラウドに送らず、話した内容をどこで入力していてもその場所に打ち込みます。<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
     </item>
   </channel>
 </rss>
