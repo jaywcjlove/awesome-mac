@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:23:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Yado</title>
+      <link>https://yado.house/</link>
+      <guid isPermaLink="false">b2a9a90b6cc31f23c3ea722cec9be4587a22805a:Yado</guid>
+      <pubDate>Thu, 12 Nov 2026 10:23:17 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Yado
+Description: MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。
+Website: https://yado.house/
+Commit: Add Yado to General Tools (#4519)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Yado<br/>Description: MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。<br/>Website: https://yado.house/<br/>Commit: Add Yado to General Tools (#4519)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a]]></content:encoded>
+    </item>
     <item>
       <title>VoiceStudio</title>
       <link>https://saadmsft.github.io/VoiceStudio/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/ChrBoebel/saywing
 Commit: Add Saywing to Reading and Writing Tools (#4240)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
       <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: Saywing<br/>Description: 選択した画面領域をローカルOCRとニューラル音声で読み上げ、英語・ドイツ語のオフライン音声入力にも対応するオープンソースツール。<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
-    </item>
-    <item>
-      <title>Drifting</title>
-      <link>https://drifting.cc/</link>
-      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
-      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
-      <category>読み書きツール / ライティング</category>
-      <description>Category: 読み書きツール / ライティング
-App: Drifting
-Description: 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。
-Website: https://drifting.cc/
-Open Source: https://github.com/chihumyum/Drifting
-Commit: Add Drifting to Writing (#4220)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: Drifting<br/>Description: 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
     </item>
   </channel>
 </rss>
