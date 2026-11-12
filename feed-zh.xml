@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:56:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LockPlus</title>
+      <link>https://github.com/steiale/lockplus</link>
+      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
+      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: LockPlus
+Description: WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。
+Open Source: https://github.com/steiale/lockplus
+Commit: Add LockPlus (#4507)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: LockPlus<br/>Description: WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
+    </item>
     <item>
       <title>MoMo Agent</title>
       <link>https://github.com/Miri-Labs/MoMo-Agent</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/potatoQi/LumaRing
 Commit: Add LumaRing to Window Management (#4203)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: LumaRing<br/>Description: 通过环形菜单切换应用、窗口和浏览器标签页。<br/>Open Source: https://github.com/potatoQi/LumaRing<br/>Commit: Add LumaRing to Window Management (#4203)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503]]></content:encoded>
-    </item>
-    <item>
-      <title>Ferrocast</title>
-      <link>https://ferrocast.app</link>
-      <guid isPermaLink="false">9cfb8b97a1447cc40707762079cc36288479de03:Ferrocast</guid>
-      <pubDate>Wed, 04 Nov 2026 04:30:58 GMT</pubDate>
-      <category>其它实用工具 / 效率工具</category>
-      <description>Category: 其它实用工具 / 效率工具
-App: Ferrocast
-Description: 用 Rust 编写的快速键盘启动器，内置剪贴板历史、文本片段、窗口管理和 275 种本地文件转换。
-Website: https://ferrocast.app
-Open Source: https://github.com/drumst0ck/ferrocast
-Commit: Add Ferrocast (#4201)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Ferrocast<br/>Description: 用 Rust 编写的快速键盘启动器，内置剪贴板历史、文本片段、窗口管理和 275 种本地文件转换。<br/>Website: https://ferrocast.app<br/>Open Source: https://github.com/drumst0ck/ferrocast<br/>Commit: Add Ferrocast (#4201)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:56:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LockPlus</title>
+      <link>https://github.com/steiale/lockplus</link>
+      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
+      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
+      <category>プロキシ・VPNツール</category>
+      <description>Category: プロキシ・VPNツール
+App: LockPlus
+Description: macOS 自体が強制するキルスイッチを備えた WireGuard と OpenVPN のクライアント。
+Open Source: https://github.com/steiale/lockplus
+Commit: Add LockPlus (#4507)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
+      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: LockPlus<br/>Description: macOS 自体が強制するキルスイッチを備えた WireGuard と OpenVPN のクライアント。<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
+    </item>
     <item>
       <title>Lumela</title>
       <link>https://github.com/tw4/lumela</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/f1resh/sshtermaq
 Commit: Add SSHTermaq (#4210)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d41aa6dc55e8933e05e3a5796237088f9061a9d</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: SSHTermaq<br/>Description: タブ、分割ペイン、SFTP/SCP ファイルマネージャーを備え、PuTTY のセッションをワンクリックで取り込める PuTTY 互換の SSH・Telnet・シリアルターミナル。<br/>Website: https://f1resh.github.io/sshtermaq/<br/>Open Source: https://github.com/f1resh/sshtermaq<br/>Commit: Add SSHTermaq (#4210)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d41aa6dc55e8933e05e3a5796237088f9061a9d]]></content:encoded>
-    </item>
-    <item>
-      <title>Murmury</title>
-      <link>https://github.com/GianlucaBave/murmury</link>
-      <guid isPermaLink="false">cebf13aa09105d1049ae6fb3080bdff1d7a8a029:Murmury</guid>
-      <pubDate>Tue, 03 Nov 2026 11:27:45 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Murmury
-Description: ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。
-Open Source: https://github.com/GianlucaBave/murmury
-Commit: Add Murmury to AI Tools (#4196)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Murmury<br/>Description: ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。<br/>Open Source: https://github.com/GianlucaBave/murmury<br/>Commit: Add Murmury to AI Tools (#4196)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cebf13aa09105d1049ae6fb3080bdff1d7a8a029]]></content:encoded>
     </item>
   </channel>
 </rss>
