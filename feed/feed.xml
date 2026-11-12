@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:56:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LockPlus</title>
+      <link>https://github.com/steiale/lockplus</link>
+      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
+      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
+      <category>Proxy and VPN Tools</category>
+      <description>Category: Proxy and VPN Tools
+App: LockPlus
+Description: WireGuard and OpenVPN client with a kill switch that macOS itself enforces.
+Open Source: https://github.com/steiale/lockplus
+Commit: Add LockPlus (#4507)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
+      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: LockPlus<br/>Description: WireGuard and OpenVPN client with a kill switch that macOS itself enforces.<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
+    </item>
     <item>
       <title>MoMo Agent</title>
       <link>https://github.com/Miri-Labs/MoMo-Agent</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/potatoQi/LumaRing
 Commit: Add LumaRing to Window Management (#4203)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: LumaRing<br/>Description: Radial menu for switching apps, windows, and browser tabs.<br/>Open Source: https://github.com/potatoQi/LumaRing<br/>Commit: Add LumaRing to Window Management (#4203)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503]]></content:encoded>
-    </item>
-    <item>
-      <title>Ferrocast</title>
-      <link>https://ferrocast.app</link>
-      <guid isPermaLink="false">9cfb8b97a1447cc40707762079cc36288479de03:Ferrocast</guid>
-      <pubDate>Wed, 04 Nov 2026 04:30:58 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Ferrocast
-Description: Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions.
-Website: https://ferrocast.app
-Open Source: https://github.com/drumst0ck/ferrocast
-Commit: Add Ferrocast (#4201)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Ferrocast<br/>Description: Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions.<br/>Website: https://ferrocast.app<br/>Open Source: https://github.com/drumst0ck/ferrocast<br/>Commit: Add Ferrocast (#4201)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03]]></content:encoded>
     </item>
   </channel>
 </rss>
