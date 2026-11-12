@@ -1003,6 +1003,7 @@ Awesome Mac
 
 * [Airmail](http://airmailapp.com) - 高速メールクライアント。Mac OSとiOSの両方に対応。
 * [CanaryMail](https://canarymail.io/) - PGPサポートとAIアシスタンスが内蔵されたMacおよびiPhone用のセキュアなメールアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?platform=mac)
+* [CitrusMail](https://github.com/citrusmail/citrusmail) - IMAP、POP3、JMAPのどのメールサービスでも使える、メール・カレンダー・連絡先のオープンソースアプリ。NuxtとElectron製。 [![Open-Source Software][OSS Icon]](https://github.com/citrusmail/citrusmail) ![Freeware][Freeware Icon]
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electronベースの非公式ProtonMailデスクトップクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - 高速メールクライアント。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - タグを使用してメールを整理し、スケジュールを管理。

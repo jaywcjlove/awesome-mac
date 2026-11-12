@@ -779,6 +779,7 @@ Awesome Mac
 ### Email
 
 * [Airmail](http://airmailapp.com) - 快速的邮件客户端支持 Mac 和 iPhone。
+* [CitrusMail](https://github.com/citrusmail/citrusmail) - 开源的邮件、日历和通讯录客户端，支持任何 IMAP、POP3 或 JMAP 邮件服务，基于 Nuxt 和 Electron。 [![Open-Source Software][OSS Icon]](https://github.com/citrusmail/citrusmail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/) - 快速的邮件客户端。![Freeware][Freeware Icon]
 * [网易邮箱大师](http://mail.163.com/dashi/) - 全平台的邮箱管理客户端，网易邮箱大师电脑版。 ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - 管理和组织邮件，日程和标签进行分类邮件。
