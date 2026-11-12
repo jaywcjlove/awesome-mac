@@ -612,6 +612,7 @@ Awesome Mac
 * [Apolo](https://apolo.webcafeina.com/en/) - 开源图片优化工具，可压缩并转换为 WebP、AVIF、JPEG XL、JPEG 和 PNG，保存前显示画质损失及 SSIMULACRA 2 评分。 [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - 离线批量图片去背景工具。
 * [AppIconBuilder(图标构建)](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac) - App图标多平台一键导出。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac)
+* [Confi](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac) - 离线批量转换图片的工具，支持 HEIC、AVIF、JPEG XL、RAW、PSD 等 35 种以上格式。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac)
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Eagle App](https://cn.eagle.cool/) - 用于管理图片、视频、音频、字体和设计素材的资源库工具。
 * [Featherview](https://featherview.mynetx.net) - 开源的键盘驱动图片查看器，可快速浏览整个文件夹的图片，并支持批量转换。 [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]

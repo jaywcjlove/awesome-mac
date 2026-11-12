@@ -848,6 +848,7 @@ Awesome Mac
 * [Apolo](https://apolo.webcafeina.com/en/) - WebP、AVIF、JPEG XL、JPEG、PNG への圧縮・変換を行い、保存前に画質の劣化と SSIMULACRA 2 スコアを表示するオープンソースの画像最適化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - ピアツーピア同期を備えた写真整理アプリ。 ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Webおよびモバイルアプリケーション向けの画像リサイズと最適化。 ![Freeware][Freeware Icon]
+* [Confi](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac) - HEIC、AVIF、JPEG XL、RAW、PSDなど35種類以上のフォーマットをオフラインで一括変換できる画像変換ツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/confi-image-format-converter/id6754091643?platform=mac)
 * [Couleurs](http://couleursapp.com) - 画面に表示される色を取得・調整するシンプルなアプリ。 ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusionでコンピューター上でAIアートを生成する最も簡単な方法。 [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 画像、動画、音声、フォント、デザイン素材を管理するアセットマネージャー。
