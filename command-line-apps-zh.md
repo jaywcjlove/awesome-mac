@@ -131,7 +131,9 @@
 
 ## 开发者工具
 
+* [agentsync](https://github.com/x0c/agentsync) - 从单一本地配置源一键同步 Claude Code、Cursor、Codex 等 20+ 编程 Agent 的规则、Skills 与 MCP 配置。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/agentsync) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 用命名配置切换 Claude Code、Codex、Gemini 和 Antigravity CLI 账号，并可按仓库限定所用账号。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
+* [corral](https://github.com/corral-dev/corral) - 在终端分屏并排运行 Claude Code、Codex、OpenCode 与 Cursor 的会话管理器，支持从 iPhone 或 Mac 远程接力。 [![Open-Source Software][OSS Icon]](https://github.com/corral-dev/corral) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
@@ -139,6 +141,7 @@
 * [quokka](https://github.com/dutradotdev/quokka) - 在终端中检查和清理通过 USB 连接的 iPhone：存储、应用、媒体和实时系统日志查看器。无需越狱。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 朗读开发者术语的正确发音 — 社区发音词典，收录 1650+ 带出处的词条（kubectl、nginx、GIF、JSON），基于 macOS say 命令。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [subswap](https://github.com/x0c/subswap) - 查询剩余额度并一键切换 Claude Code、Codex、Cursor、Kimi Code 与 OpenCode 多账号，无需重复登录。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/subswap) ![Freeware][Freeware Icon]
 
 ## Other
 

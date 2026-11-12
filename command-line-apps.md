@@ -130,7 +130,9 @@ A curated list of useful command line apps
 
 ## Developer
 
+* [agentsync](https://github.com/x0c/agentsync) - Sync Claude Code, Cursor, and Codex rules, skills, and MCP configs from one local source of truth. [![Open-Source Software][OSS Icon]](https://github.com/x0c/agentsync) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - Switch Claude Code, Codex, Gemini and Antigravity CLI accounts with named profiles and per-repository account guards. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
+* [corral](https://github.com/corral-dev/corral) - Terminal session manager to run Claude Code, Codex, OpenCode, and Cursor side by side in tmux and continue from iPhone or Mac. [![Open-Source Software][OSS Icon]](https://github.com/corral-dev/corral) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Docker Compose-compatible CLI for Apple's native container runtime on Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
@@ -138,6 +140,7 @@ A curated list of useful command line apps
 * [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from your terminal: storage, apps, media, and a live syslog viewer. No jailbreak. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - Pronounce developer jargon out loud — community dictionary of 1,650+ sourced entries (kubectl, nginx, GIF, JSON) on top of the macOS say command. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [subswap](https://github.com/x0c/subswap) - Check usage quotas and switch Claude Code, Codex, Cursor, Kimi Code, and OpenCode accounts without signing in again. [![Open-Source Software][OSS Icon]](https://github.com/x0c/subswap) ![Freeware][Freeware Icon]
 
 ## Other
 
