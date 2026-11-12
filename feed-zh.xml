@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:31:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MoMo Agent</title>
+      <link>https://github.com/Miri-Labs/MoMo-Agent</link>
+      <guid isPermaLink="false">2dc21ce1ef91bbebf44491cb81174c735a369543:MoMo Agent</guid>
+      <pubDate>Thu, 12 Nov 2026 03:31:10 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: MoMo Agent
+Description: 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。
+Open Source: https://github.com/Miri-Labs/MoMo-Agent
+Commit: Add MoMo Agent to AI Tools (#4498)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: MoMo Agent<br/>Description: 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。<br/>Open Source: https://github.com/Miri-Labs/MoMo-Agent<br/>Commit: Add MoMo Agent to AI Tools (#4498)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543]]></content:encoded>
+    </item>
     <item>
       <title>Lumela</title>
       <link>https://github.com/tw4/lumela</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/drumst0ck/ferrocast
 Commit: Add Ferrocast (#4201)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Ferrocast<br/>Description: 用 Rust 编写的快速键盘启动器，内置剪贴板历史、文本片段、窗口管理和 275 种本地文件转换。<br/>Website: https://ferrocast.app<br/>Open Source: https://github.com/drumst0ck/ferrocast<br/>Commit: Add Ferrocast (#4201)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03]]></content:encoded>
-    </item>
-    <item>
-      <title>Tingo</title>
-      <link>https://github.com/tancheng33/tingo</link>
-      <guid isPermaLink="false">2e45ae0d0772ddb506015eac53757049f462399c:Tingo</guid>
-      <pubDate>Wed, 04 Nov 2026 03:05:59 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Tingo
-Description: 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。
-Open Source: https://github.com/tancheng33/tingo
-Commit: Add Tingo to Audio Record and Process (#4199)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Tingo<br/>Description: 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。<br/>Open Source: https://github.com/tancheng33/tingo<br/>Commit: Add Tingo to Audio Record and Process (#4199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c]]></content:encoded>
     </item>
   </channel>
 </rss>
