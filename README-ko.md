@@ -847,6 +847,7 @@ Awesome Mac
 
 ### 파일 공유
 
+* [CrocApp](https://crocapp.dev/) - 코드 문구로 파일, 폴더, 텍스트를 다른 기기에 종단 간 암호화로 보내는 오픈 소스 croc 클라이언트. [![App Store][app-store Icon]](https://apps.apple.com/app/crocapp/id6805675003?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/bakirgdev/CrocApp) ![Freeware][Freeware Icon]
 * [Cyberduck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 등을 지원하는 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/iterate-ch/cyberduck) ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 스크린샷, 화면 녹화, 기타 파일을 공유하는 도구.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구. ![Freeware][Freeware Icon]
