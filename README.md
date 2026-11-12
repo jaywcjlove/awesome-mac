@@ -714,6 +714,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Amadine](https://amadine.com) - Vector drawing app with an intuitive interface for graphic designers.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - Graphic design software for lettering, typography, and text effects.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+ * [Brilliant](https://brilliant.design/) - Professional vector and UI design tool where you and your coding agent work on the same canvas. ![Freeware][Freeware Icon]
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - Offline batch background remover for images.
