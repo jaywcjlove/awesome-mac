@@ -1551,6 +1551,7 @@ Awesome Mac
 * [Thaw](https://github.com/stonerl/Thaw) - 强大的菜单栏管理工具，用于隐藏和显示菜单栏项目。[![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Tactile](https://tactile.masn.studio/) - 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。 [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
 * [Tarn](https://github.com/jakeantelis/Tarn) - 用于专注工作和缓慢呼吸的平静菜单栏应用，可选环境音。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Tarn) ![Freeware][Freeware Icon]
+* [TocaPad](https://github.com/getguruhat/tocapad-macos) - 滑动触控板边缘调节音量和亮度，双击角落触发快捷操作。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/tocapad-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Today](https://sindresorhus.com/today) - 在菜单栏查看今天日程和日历事件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [Topnotchers](https://github.com/joey-david/topnotchers) - 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [twistel](https://github.com/jonasnlt/twistel) - 菜单栏文件转换工具：拖动文件时按住一个键，把文件放到环形菜单上即可转换图片、音频、视频和文档，还支持压缩、OCR、PDF 涂黑和签名，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/jonasnlt/twistel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
