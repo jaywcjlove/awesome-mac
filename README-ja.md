@@ -1844,6 +1844,7 @@ Awesome Mac
 * [Snap](http://indragie.com/snap) - アプリを素早く起動。非常に簡単なショートカット管理。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - コピー、保存、開くアクションでシステム共有メニューを強化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - マウスムーバーでMacのスリープを防止。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
+* [YourBestDisp](https://ybd.mt-glitch.com) - macOS 26 向けメニューバーのディスプレイ管理ツール。あらゆるディスプレイで HiDPI、外部モニターでも輝度キーが使え、ウルトラワイドを 2～4 画面に分割、接続時にプリセットを自動適用。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### システム関連ツール
 

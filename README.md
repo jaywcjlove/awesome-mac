@@ -1854,6 +1854,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snap](https://apps.apple.com/us/app/snap/id418073146) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
 * [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
+* [YourBestDisp](https://ybd.mt-glitch.com) - Menu bar display manager for macOS 26: HiDPI on any display, brightness keys for external monitors, ultrawide split into 2–4 screens, and presets that apply when a display connects. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### System Related Tools
 
