@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:17:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TocaPad</title>
+      <link>https://github.com/getguruhat/tocapad-macos</link>
+      <guid isPermaLink="false">1a3e76106d780d6804d1ddd47494bf8fb83c2e21:TocaPad</guid>
+      <pubDate>Thu, 12 Nov 2026 04:17:00 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: TocaPad
+Description: Slide your trackpad&apos;s edges to change volume and brightness, and double-tap a corner to run a shortcut.
+Open Source: https://github.com/getguruhat/tocapad-macos
+Commit: Add TocaPad (#4515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: TocaPad<br/>Description: Slide your trackpad&apos;s edges to change volume and brightness, and double-tap a corner to run a shortcut.<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
+    </item>
     <item>
       <title>Noteriv</title>
       <link>https://www.noteriv.com/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/ChrBoebel/saywing
 Commit: Add Saywing to Reading and Writing Tools (#4240)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Saywing<br/>Description: Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
-    </item>
-    <item>
-      <title>Drifting</title>
-      <link>https://drifting.cc/</link>
-      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
-      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
-      <category>Reading and Writing Tools / Writing</category>
-      <description>Category: Reading and Writing Tools / Writing
-App: Drifting
-Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.
-Website: https://drifting.cc/
-Open Source: https://github.com/chihumyum/Drifting
-Commit: Add Drifting to Writing (#4220)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Drifting<br/>Description: Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
     </item>
   </channel>
 </rss>

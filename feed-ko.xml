@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:17:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TocaPad</title>
+      <link>https://github.com/getguruhat/tocapad-macos</link>
+      <guid isPermaLink="false">1a3e76106d780d6804d1ddd47494bf8fb83c2e21:TocaPad</guid>
+      <pubDate>Thu, 12 Nov 2026 04:17:00 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: TocaPad
+Description: 트랙패드 가장자리를 밀어 음량과 밝기를 조절하고, 모서리를 두 번 탭해 단축키를 실행하는 도구.
+Open Source: https://github.com/getguruhat/tocapad-macos
+Commit: Add TocaPad (#4515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: TocaPad<br/>Description: 트랙패드 가장자리를 밀어 음량과 밝기를 조절하고, 모서리를 두 번 탭해 단축키를 실행하는 도구.<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
+    </item>
     <item>
       <title>Noteriv</title>
       <link>https://www.noteriv.com/</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/drumst0ck/ferrocast
 Commit: Add Ferrocast (#4201)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Ferrocast<br/>Description: Rust로 만든 빠른 키보드 런처. 클립보드 기록, 스니펫, 창 관리, 275가지 로컬 파일 변환을 제공합니다.<br/>Website: https://ferrocast.app<br/>Open Source: https://github.com/drumst0ck/ferrocast<br/>Commit: Add Ferrocast (#4201)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9cfb8b97a1447cc40707762079cc36288479de03]]></content:encoded>
-    </item>
-    <item>
-      <title>Tingo</title>
-      <link>https://github.com/tancheng33/tingo</link>
-      <guid isPermaLink="false">2e45ae0d0772ddb506015eac53757049f462399c:Tingo</guid>
-      <pubDate>Wed, 04 Nov 2026 03:05:59 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Tingo
-Description: 모든 통화를 녹음해 기기에서 전사하고 화자를 구분하며, 원하는 LLM으로 각 항목이 원래 음성으로 연결되는 회의록을 작성하는 오픈 소스 회의 노트 앱.
-Open Source: https://github.com/tancheng33/tingo
-Commit: Add Tingo to Audio Record and Process (#4199)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Tingo<br/>Description: 모든 통화를 녹음해 기기에서 전사하고 화자를 구분하며, 원하는 LLM으로 각 항목이 원래 음성으로 연결되는 회의록을 작성하는 오픈 소스 회의 노트 앱.<br/>Open Source: https://github.com/tancheng33/tingo<br/>Commit: Add Tingo to Audio Record and Process (#4199)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2e45ae0d0772ddb506015eac53757049f462399c]]></content:encoded>
     </item>
   </channel>
 </rss>

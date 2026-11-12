@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:17:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TocaPad</title>
+      <link>https://github.com/getguruhat/tocapad-macos</link>
+      <guid isPermaLink="false">1a3e76106d780d6804d1ddd47494bf8fb83c2e21:TocaPad</guid>
+      <pubDate>Thu, 12 Nov 2026 04:17:00 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: TocaPad
+Description: 滑动触控板边缘调节音量和亮度，双击角落触发快捷操作。
+Open Source: https://github.com/getguruhat/tocapad-macos
+Commit: Add TocaPad (#4515)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: TocaPad<br/>Description: 滑动触控板边缘调节音量和亮度，双击角落触发快捷操作。<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
+    </item>
     <item>
       <title>Noteriv</title>
       <link>https://www.noteriv.com/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/ChrBoebel/saywing
 Commit: Add Saywing to Reading and Writing Tools (#4240)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: Saywing<br/>Description: 使用本地 OCR 和神经语音朗读选定屏幕区域，并支持离线英语和德语听写的开源工具。<br/>Website: https://www.christopherboebel.com/en/saywing<br/>Open Source: https://github.com/ChrBoebel/saywing<br/>Commit: Add Saywing to Reading and Writing Tools (#4240)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5c446275ce2de91a5578f482143fd6af7d514c]]></content:encoded>
-    </item>
-    <item>
-      <title>Drifting</title>
-      <link>https://drifting.cc/</link>
-      <guid isPermaLink="false">0c1c6cfe25e838b2293264e7d968214e0cd28ec8:Drifting</guid>
-      <pubDate>Thu, 05 Nov 2026 04:31:52 GMT</pubDate>
-      <category>阅读与写作工具 / 写作</category>
-      <description>Category: 阅读与写作工具 / 写作
-App: Drifting
-Description: 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。
-Website: https://drifting.cc/
-Open Source: https://github.com/chihumyum/Drifting
-Commit: Add Drifting to Writing (#4220)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Drifting<br/>Description: 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
     </item>
   </channel>
 </rss>
