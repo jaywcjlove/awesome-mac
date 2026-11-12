@@ -1368,6 +1368,7 @@ Awesome Mac
 ### 비밀번호 관리
 
 * [1Password](https://1password.com/) - 세계에서 가장 인기 있는 비밀번호 관리자.
+* [Bitcoffer](https://ai.cygnusyang.top/bitcoffer/) - 자격 증명을 기기에만 두는 로컬 우선 macOS 비밀번호 관리자. AI 에이전트용 읽기 전용 MCP 서버 포함. ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com/) - 안전한 오픈 소스 비밀번호 관리 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden/desktop) ![Freeware][Freeware Icon]
 * [Mactokio](https://github.com/dalirnet/mactokio) - 웹캠으로 QR 코드를 스캔해 계정을 가져오고 시크릿을 AES-256으로 기기에 암호화 저장하는 네이티브 TOTP/HOTP 인증 앱. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NotchOTP](https://github.com/Photon94/NotchOTP) - 노치 너비의 패널, 키보드 단축키, 로컬 키체인 저장을 제공하는 네이티브 TOTP 인증 앱. ![Freeware][Freeware Icon] ![Native App][Native Icon]

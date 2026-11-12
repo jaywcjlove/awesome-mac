@@ -1789,6 +1789,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Password Management
 
 * [1Password](https://1password.com/) - Cross-platform password management tool.
+* [Bitcoffer](https://ai.cygnusyang.top/bitcoffer/) - Local-first macOS password manager; credentials stay on device, with a read-only MCP server for AI agents. ![Freeware][Freeware Icon]
 * [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 * [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
 * [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
