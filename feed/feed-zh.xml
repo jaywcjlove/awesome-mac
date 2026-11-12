@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:08:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Noteriv</title>
+      <link>https://www.noteriv.com/</link>
+      <guid isPermaLink="false">0849c645c63b00fd2b08782f8147d310b73c21cf:Noteriv</guid>
+      <pubDate>Thu, 12 Nov 2026 04:08:34 GMT</pubDate>
+      <category>阅读与写作工具 / 笔记</category>
+      <description>Category: 阅读与写作工具 / 笔记
+App: Noteriv
+Description: 开源 Markdown 笔记应用，支持双向链接、关系图谱、插件、Git/WebDAV 同步，并内置面向 AI 助手的 MCP 服务器。
+Website: https://www.noteriv.com/
+Open Source: https://github.com/thejacedev/Noteriv
+Commit: Add Noteriv to Note-taking (#4496)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Noteriv<br/>Description: 开源 Markdown 笔记应用，支持双向链接、关系图谱、插件、Git/WebDAV 同步，并内置面向 AI 助手的 MCP 服务器。<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
+    </item>
     <item>
       <title>LockPlus</title>
       <link>https://github.com/steiale/lockplus</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/chihumyum/Drifting
 Commit: Add Drifting to Writing (#4220)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Drifting<br/>Description: 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。<br/>Website: https://drifting.cc/<br/>Open Source: https://github.com/chihumyum/Drifting<br/>Commit: Add Drifting to Writing (#4220)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c1c6cfe25e838b2293264e7d968214e0cd28ec8]]></content:encoded>
-    </item>
-    <item>
-      <title>LumaRing</title>
-      <link>https://github.com/potatoQi/LumaRing</link>
-      <guid isPermaLink="false">9d3cb8ec400feb4abd550e5a87c658f4c6ba4503:LumaRing</guid>
-      <pubDate>Wed, 04 Nov 2026 04:37:42 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: LumaRing
-Description: 通过环形菜单切换应用、窗口和浏览器标签页。
-Open Source: https://github.com/potatoQi/LumaRing
-Commit: Add LumaRing to Window Management (#4203)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: LumaRing<br/>Description: 通过环形菜单切换应用、窗口和浏览器标签页。<br/>Open Source: https://github.com/potatoQi/LumaRing<br/>Commit: Add LumaRing to Window Management (#4203)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9d3cb8ec400feb4abd550e5a87c658f4c6ba4503]]></content:encoded>
     </item>
   </channel>
 </rss>
