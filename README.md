@@ -1293,6 +1293,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Finance
 
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Read-only Korean and US stock workspace in the style of Windows HTS apps, with a 10-level order book, four-chart layouts, watchlists and saved workspaces; live quotes need your own Kiwoom REST API key. ![Freeware][Freeware Icon]
+* [Parendi](https://parendi.app) - Imports bank statements, sorts every transaction into a category and shows savings rate and net worth. No account, no bank connection, no analytics. [![App Store][app-store Icon]](https://apps.apple.com/app/id6806927472)
 * [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - Subscription tracker with renewal reminders. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
