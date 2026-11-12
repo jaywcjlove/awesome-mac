@@ -1148,6 +1148,7 @@ Awesome Mac
 * [Tingo](https://github.com/tancheng33/tingo) - あらゆる通話を録音し、デバイス上で文字起こしと話者分離を行い、好きな LLM で各項目が元の音声にリンクされた議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
 * [Utter](https://github.com/h3x-levi/Utter) - whisper.cpp と Metal を活用した完全ローカルな音声入力・会議書き起こしツール。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - あらゆる通話をデバイス上で文字起こしして話者を区別し、Apple Intelligence または自前のローカルモデルサーバーで出典付きの議事録を作るオープンソースの会議メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
+* [VoiceStudio](https://saadmsft.github.io/VoiceStudio/) - Swift と CoreAudio で構築されたリアルタイム放送品質ボイスプロセッサ。自然な低音の深み、6 バンド EQ、ディエッサー、コンプレッサーを備え、Discord、Zoom、Teams、OBS に対応。 [![Open-Source Software][OSS Icon]](https://github.com/saadmsft/VoiceStudio) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 音声合成、ボイスクローン、感情コントロール、楽曲生成、MIDI 編曲をすべてローカルで行える音声制作ツール。 [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
 
 ## ダウンロード管理ツール
