@@ -926,6 +926,7 @@ Awesome Mac
 * [Godmode Bot](https://usegodmode.com) - Claudeのサブスクリプションを、専用ブラウザであなたのログイン情報を使ってパソコン作業をこなす常駐エージェントのチームに変えるオープンソースのAI同僚。 [![Open-Source Software][OSS Icon]](https://github.com/codextde/godmode-bot)
 * [GroAsk](https://groask.com) - 選択したテキストをAIアシスタントやCLIエージェントに送れるメニューバーランチャー。
 * [Grux](https://gruxai.com) - アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Hopback](https://hopback.zexa.se) - VS Code 上のどの Claude Code セッションが対応待ちかを表示し、ホットキーや検索で開いているセッションや過去のセッションに戻れるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/aaronsuns/hopback) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
