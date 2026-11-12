@@ -1026,6 +1026,7 @@ Awesome Mac
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 互換性のある Android デバイスとの双方向 Google Quick Share 転送に対応する独立した macOS メニューバーアプリで、USB MTP、Finder 共有、QR ツール、実験的な Windows 連携も備えています。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
+* [S3 Explorer](https://s3explorer.accessdevops.com/) - Amazon S3 および MinIO、Cloudflare R2、Backblaze B2 などの S3 互換ストレージ用デスクトップクライアント。
 * [Transmit](https://panic.com/transmit/) - 非常に柔軟で直感的なFTPクライアント。SFTP、S3、iDisk/WebDAVをサポート。
 
 ## データ復旧ツール
