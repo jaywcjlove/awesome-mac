@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskPilot</title>
+      <link>https://diskpilot.live</link>
+      <guid isPermaLink="false">690a21397a7ee1a46872917c5b4f10bacda33172:DiskPilot</guid>
+      <pubDate>Thu, 12 Nov 2026 15:03:49 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: DiskPilot
+Description: 각 폴더(Docker, node_modules, Xcode DerivedData, AI 도구 캐시)가 무엇인지 설명하고, 안전하게 삭제할 수 있는 항목을 표시하며, 모든 항목을 먼저 휴지통으로 옮기는 개발자용 무료 오픈 소스 저장 공간 분석 도구.
+Website: https://diskpilot.live
+Open Source: https://github.com/Devanshgoel-123/diskpilot
+Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: DiskPilot<br/>Description: 각 폴더(Docker, node_modules, Xcode DerivedData, AI 도구 캐시)가 무엇인지 설명하고, 안전하게 삭제할 수 있는 항목을 표시하며, 모든 항목을 먼저 휴지통으로 옮기는 개발자용 무료 오픈 소스 저장 공간 분석 도구.<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
+    </item>
     <item>
       <title>o8</title>
       <link>https://o8.run</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/vladkens/wavo-app
 Commit: Add Wavo (#4269)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Wavo<br/>Description: Mac을 느려지게 하지 않는 받아쓰기 도구로, Neural Engine에서 실행되고 음성을 클라우드로 보내지 않으며, 말한 내용을 지금 입력 중인 곳 어디에든 입력합니다.<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
-    </item>
-    <item>
-      <title>Radif</title>
-      <link>https://www.yuvrajangadsingh.com/radif</link>
-      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
-      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Radif
-Description: Tauri로 만든 비공식 오픈 소스 YouTube Music 클라이언트로, 동기화된 가사와 비디오 모드를 지원하며 YouTube Music Premium이 필요합니다.
-Website: https://www.yuvrajangadsingh.com/radif
-Open Source: https://github.com/yuvrajangadsingh/radif
-Commit: Add Radif to Audio and Video Tools (#4254)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Radif<br/>Description: Tauri로 만든 비공식 오픈 소스 YouTube Music 클라이언트로, 동기화된 가사와 비디오 모드를 지원하며 YouTube Music Premium이 필요합니다.<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
     </item>
   </channel>
 </rss>
