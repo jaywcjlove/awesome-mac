@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskPilot</title>
+      <link>https://diskpilot.live</link>
+      <guid isPermaLink="false">690a21397a7ee1a46872917c5b4f10bacda33172:DiskPilot</guid>
+      <pubDate>Thu, 12 Nov 2026 15:03:49 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: DiskPilot
+Description: 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。
+Website: https://diskpilot.live
+Open Source: https://github.com/Devanshgoel-123/diskpilot
+Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: DiskPilot<br/>Description: 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
+    </item>
     <item>
       <title>o8</title>
       <link>https://o8.run</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/vladkens/wavo-app
 Commit: Add Wavo (#4269)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Wavo<br/>Description: Macを遅くしない音声入力ツール。Neural Engineで動作し、音声をクラウドに送らず、話した内容をどこで入力していてもその場所に打ち込みます。<br/>Open Source: https://github.com/vladkens/wavo-app<br/>Commit: Add Wavo (#4269)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/620a549b3a0641bbe324c5db45fe3ba9b1b25e03]]></content:encoded>
-    </item>
-    <item>
-      <title>Radif</title>
-      <link>https://www.yuvrajangadsingh.com/radif</link>
-      <guid isPermaLink="false">3c10971bead1c8f131249e2084b45fcebb244eb5:Radif</guid>
-      <pubDate>Thu, 05 Nov 2026 09:06:19 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Radif
-Description: 同期歌詞とビデオモードに対応した、Tauri 製の非公式オープンソース YouTube Music クライアント（YouTube Music Premium が必要）。
-Website: https://www.yuvrajangadsingh.com/radif
-Open Source: https://github.com/yuvrajangadsingh/radif
-Commit: Add Radif to Audio and Video Tools (#4254)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Radif<br/>Description: 同期歌詞とビデオモードに対応した、Tauri 製の非公式オープンソース YouTube Music クライアント（YouTube Music Premium が必要）。<br/>Website: https://www.yuvrajangadsingh.com/radif<br/>Open Source: https://github.com/yuvrajangadsingh/radif<br/>Commit: Add Radif to Audio and Video Tools (#4254)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3c10971bead1c8f131249e2084b45fcebb244eb5]]></content:encoded>
     </item>
   </channel>
 </rss>

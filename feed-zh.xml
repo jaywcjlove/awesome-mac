@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:03:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DiskPilot</title>
+      <link>https://diskpilot.live</link>
+      <guid isPermaLink="false">690a21397a7ee1a46872917c5b4f10bacda33172:DiskPilot</guid>
+      <pubDate>Thu, 12 Nov 2026 15:03:49 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: DiskPilot
+Description: 免费开源的开发者存储分析工具，逐个解释每个文件夹（Docker、node_modules、Xcode DerivedData、AI 工具缓存），标明哪些可以安全删除，并且所有内容都先移到废纸篓。
+Website: https://diskpilot.live
+Open Source: https://github.com/Devanshgoel-123/diskpilot
+Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: DiskPilot<br/>Description: 免费开源的开发者存储分析工具，逐个解释每个文件夹（Docker、node_modules、Xcode DerivedData、AI 工具缓存），标明哪些可以安全删除，并且所有内容都先移到废纸篓。<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
+    </item>
     <item>
       <title>o8</title>
       <link>https://o8.run</link>
@@ -716,21 +731,6 @@ Website: https://allinoneime.com
 Commit: Add AllInOneIME to Input Methods (#4285)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
       <content:encoded><![CDATA[Category: 输入法<br/>App: AllInOneIME<br/>Description: 在任意输入框中使用 @improve、@translate、@question 等 AI 命令的输入法，内置拼音输入。<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
-    </item>
-    <item>
-      <title>Koru</title>
-      <link>https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac</link>
-      <guid isPermaLink="false">353895d7a266af89a1f6d4e9ba5274ec8158bd38:Koru</guid>
-      <pubDate>Fri, 06 Nov 2026 01:49:46 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Koru
-Description: 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。
-Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac
-Open Source: https://github.com/koruworks/mono
-Commit: Add Koru to Note-taking (#4248)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Koru<br/>Description: 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。<br/>Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac<br/>Open Source: https://github.com/koruworks/mono<br/>Commit: Add Koru to Note-taking (#4248)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38]]></content:encoded>
     </item>
   </channel>
 </rss>
