@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:39:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Daily Wallpaper</title>
+      <link>https://itsnajam.github.io/daily-wallpaper/</link>
+      <guid isPermaLink="false">9e8f832c056a135dc424ee8592373831a60deed1:Daily Wallpaper</guid>
+      <pubDate>Fri, 13 Nov 2026 16:39:04 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Daily Wallpaper
+Description: Bing の今日の写真をデスクトップとロック画面の壁紙に設定するメニューバーアプリ。
+Website: https://itsnajam.github.io/daily-wallpaper/
+Open Source: https://github.com/itsnajam/daily-wallpaper
+Commit: Add Daily Wallpaper (#4571)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Daily Wallpaper<br/>Description: Bing の今日の写真をデスクトップとロック画面の壁紙に設定するメニューバーアプリ。<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
+    </item>
     <item>
       <title>ServerHat</title>
       <link>https://github.com/getguruhat/serverhat-macos</link>
@@ -717,21 +732,6 @@ Open Source: https://github.com/Campfire7/graphis
 Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Graphis<br/>Description: MOSS-Imageモデルを使い、Appleシリコン上でテキストから画像をローカル生成するオープンソースアプリ。<br/>Open Source: https://github.com/Campfire7/graphis<br/>Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc]]></content:encoded>
-    </item>
-    <item>
-      <title>NVBeacon</title>
-      <link>https://jaein4722.github.io/NVBeacon/</link>
-      <guid isPermaLink="false">536fd9a681b78d08dc9a7cdee0d6ecf45eb89896:NVBeacon</guid>
-      <pubDate>Fri, 06 Nov 2026 06:06:40 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: NVBeacon
-Description: SSH経由でリモートのNVIDIA GPUサーバーを監視するオープンソースのメニューバーアプリ。
-Website: https://jaein4722.github.io/NVBeacon/
-Open Source: https://github.com/jaein4722/NVBeacon
-Commit: Add NVBeacon to Menu Bar Tools (#4258)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NVBeacon<br/>Description: SSH経由でリモートのNVIDIA GPUサーバーを監視するオープンソースのメニューバーアプリ。<br/>Website: https://jaein4722.github.io/NVBeacon/<br/>Open Source: https://github.com/jaein4722/NVBeacon<br/>Commit: Add NVBeacon to Menu Bar Tools (#4258)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896]]></content:encoded>
     </item>
   </channel>
 </rss>
