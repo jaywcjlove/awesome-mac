@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:04:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ServerHat</title>
+      <link>https://github.com/getguruhat/serverhat-macos</link>
+      <guid isPermaLink="false">de6fd35494c7fce4ae9cd466af4f4afafdc6c376:ServerHat</guid>
+      <pubDate>Fri, 13 Nov 2026 09:04:09 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: ServerHat
+Description: 免费的菜单栏应用，用来运行本地开发服务器。Claude Code 和 Codex 可通过它的 MCP 服务器和本地 API 启动、停止并读取日志，每次都需要你批准。
+Open Source: https://github.com/getguruhat/serverhat-macos
+Commit: Add ServerHat (#4522)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: ServerHat<br/>Description: 免费的菜单栏应用，用来运行本地开发服务器。Claude Code 和 Codex 可通过它的 MCP 服务器和本地 API 启动、停止并读取日志，每次都需要你批准。<br/>Open Source: https://github.com/getguruhat/serverhat-macos<br/>Commit: Add ServerHat (#4522)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376]]></content:encoded>
+    </item>
     <item>
       <title>SummonOS</title>
       <link>https://sumonos.rohi-lab.org/</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/sooftware/lmux
 Commit: Add lmux to Terminal Apps (#4268)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: lmux<br/>Description: 基于 libghostty 构建的轻量终端，用于运行 Claude Code 和 Codex 会话，并在侧边栏显示 agent 状态。<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
-    </item>
-    <item>
-      <title>TinyRecorder</title>
-      <link>https://www.tinyrecorder.app/zh-Hans/</link>
-      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
-      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
-      <category>设计和产品 / 屏幕录制</category>
-      <description>Category: 设计和产品 / 屏幕录制
-App: TinyRecorder
-Description: 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。
-Website: https://www.tinyrecorder.app/zh-Hans/
-Open Source: https://github.com/33to9/TinyRecorder
-Commit: Add TinyRecorder to Screen Recording (#4265)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: TinyRecorder<br/>Description: 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。<br/>Website: https://www.tinyrecorder.app/zh-Hans/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
     </item>
   </channel>
 </rss>
