@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:39:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Daily Wallpaper</title>
+      <link>https://itsnajam.github.io/daily-wallpaper/</link>
+      <guid isPermaLink="false">9e8f832c056a135dc424ee8592373831a60deed1:Daily Wallpaper</guid>
+      <pubDate>Fri, 13 Nov 2026 16:39:04 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Daily Wallpaper
+Description: Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper.
+Website: https://itsnajam.github.io/daily-wallpaper/
+Open Source: https://github.com/itsnajam/daily-wallpaper
+Commit: Add Daily Wallpaper (#4571)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Daily Wallpaper<br/>Description: Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper.<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
+    </item>
     <item>
       <title>Usagebar</title>
       <link>https://bullfighterstudio.com/usagebar</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/yuvrajangadsingh/camber
 Commit: Add camber to Browsers (#4286)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
       <content:encoded><![CDATA[Category: Browsers<br/>App: camber<br/>Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
-    </item>
-    <item>
-      <title>Convoy</title>
-      <link>https://thedynamicpunk.github.io</link>
-      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
-      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
-      <category>Download Management Tools</category>
-      <description>Category: Download Management Tools
-App: Convoy
-Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.
-Website: https://thedynamicpunk.github.io
-Open Source: https://github.com/TheDynamicPunk/Convoy
-Commit: Add Convoy to Download Management Tools (#4281)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
-      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Convoy<br/>Description: Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
     </item>
   </channel>
 </rss>
