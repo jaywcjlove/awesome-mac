@@ -1619,6 +1619,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [NextDNS](https://nextdns.io/) - The new firewall for the modern Internet. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853?platform=mac)
 * [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
 * [Pake](https://pake.run/) - Turn any website into a lightweight desktop app with its own icon, window and Dock entry.
+* [PanoPaper](https://panopaper.app) - Live UniFi Protect and IP camera video as your Mac's desktop wallpaper. ![Native App][Native Icon]
 * [Panoply](https://github.com/anzal1/panoply) - Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map. [![Open-Source Software][OSS Icon]](https://github.com/anzal1/panoply) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - Set local videos as desktop wallpapers. [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
