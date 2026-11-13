@@ -131,6 +131,7 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude CodeとCodex CLIのアカウントを手動で、または上限が近づいたときに自動で切り替え、各アカウントの5時間と週ごとの使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 名前付きプロファイルでClaude Code、Codex、Gemini、Antigravity CLIのアカウントを切り替え、リポジトリごとに使うアカウントを固定。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
