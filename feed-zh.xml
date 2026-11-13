@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Usagebar</title>
+      <link>https://bullfighterstudio.com/usagebar</link>
+      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Usagebar
+Description: 在菜单栏中显示 Claude Code、Codex、Cursor、Kimi Code、z.ai 和 DeepSeek 的用量限制及重置时间。
+Website: https://bullfighterstudio.com/usagebar
+Open Source: https://github.com/betoxf/Usagebar
+Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Usagebar<br/>Description: 在菜单栏中显示 Claude Code、Codex、Cursor、Kimi Code、z.ai 和 DeepSeek 的用量限制及重置时间。<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
+    </item>
     <item>
       <title>Daily Wallpaper</title>
       <link>https://itsnajam.github.io/daily-wallpaper/</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/yuvrajangadsingh/camber
 Commit: Add camber to Browsers (#4286)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: camber<br/>Description: 基于 Chromium（Electron）的开源 Arc 风格浏览器，支持 Spaces、固定标签页、文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber)<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
-    </item>
-    <item>
-      <title>Convoy</title>
-      <link>https://thedynamicpunk.github.io</link>
-      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
-      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
-      <category>下载工具</category>
-      <description>Category: 下载工具
-App: Convoy
-Description: 支持分段下载、浏览器集成以及 HLS 和 DASH 流媒体的开源下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy)
-Website: https://thedynamicpunk.github.io
-Open Source: https://github.com/TheDynamicPunk/Convoy
-Commit: Add Convoy to Download Management Tools (#4281)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
-      <content:encoded><![CDATA[Category: 下载工具<br/>App: Convoy<br/>Description: 支持分段下载、浏览器集成以及 HLS 和 DASH 流媒体的开源下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy)<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
     </item>
   </channel>
 </rss>

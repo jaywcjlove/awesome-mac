@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Usagebar</title>
+      <link>https://bullfighterstudio.com/usagebar</link>
+      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Usagebar
+Description: Claude Code, Codex, Cursor, Kimi Code, z.ai, DeepSeek의 사용량 한도와 초기화 시간을 메뉴 바에 표시하는 도구.
+Website: https://bullfighterstudio.com/usagebar
+Open Source: https://github.com/betoxf/Usagebar
+Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Usagebar<br/>Description: Claude Code, Codex, Cursor, Kimi Code, z.ai, DeepSeek의 사용량 한도와 초기화 시간을 메뉴 바에 표시하는 도구.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
+    </item>
     <item>
       <title>Daily Wallpaper</title>
       <link>https://itsnajam.github.io/daily-wallpaper/</link>
@@ -718,20 +733,6 @@ Open Source: https://github.com/33to9/TinyRecorder
 Commit: Add TinyRecorder to Screen Recording (#4265)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: TinyRecorder<br/>Description: 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다.<br/>Website: https://www.tinyrecorder.app/en/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
-    </item>
-    <item>
-      <title>Graphis</title>
-      <link>https://github.com/Campfire7/graphis</link>
-      <guid isPermaLink="false">a1abac612095f81b8bc5a573d3bc5cafa3d89afc:Graphis</guid>
-      <pubDate>Fri, 06 Nov 2026 06:42:13 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Graphis
-Description: MOSS-Image 모델을 사용해 Apple 실리콘에서 텍스트로 이미지를 로컬 생성하는 오픈 소스 앱.
-Open Source: https://github.com/Campfire7/graphis
-Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Graphis<br/>Description: MOSS-Image 모델을 사용해 Apple 실리콘에서 텍스트로 이미지를 로컬 생성하는 오픈 소스 앱.<br/>Open Source: https://github.com/Campfire7/graphis<br/>Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc]]></content:encoded>
     </item>
   </channel>
 </rss>
