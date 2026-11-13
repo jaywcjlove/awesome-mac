@@ -819,6 +819,7 @@ Awesome Mac
 * [Caplo](https://github.com/icloudza/caplo) - 録画後すぐに編集でき、自動カメラワーク、カーソル装飾、キャンバスや字幕に対応。
 * [CamiTune](https://github.com/Shuail135/CamiTune) - macOS 13以降に対応したシステム全体用オーディオイコライザーで、パラメトリックEQ、アプリ別オーディオ制御、AutoEQ、AU/VST3プラグイン、高度なDSP処理をサポート。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [Capso](https://github.com/lzhgus/Capso) - 注釈、OCR、Webcamオーバーレイに対応したオープンソースのスクリーンショット・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
+* [Cinemac](https://cinemac.app/) - クリックに合わせて自動ズームし、カメラの構図と音声を整える画面録画アプリ。コーディングエージェントから MCP で操作できます。
 * [Gifox](https://gifox.app) - GIF録画と共有。
 * [Kap](https://getkap.co/) - Web技術で構築されたオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
