@@ -317,6 +317,7 @@ Awesome Mac
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - 用于管理本地 SSH 密钥和 Git 身份的原生 macOS 应用。 [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Starcat](https://starcat.ink/) - 原生、本地优先的 GitHub Stars 管理器，将收藏的仓库转化为可搜索、AI 辅助的知识库。 [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
 * [StarUML](http://staruml.io) - 强大的软件建模软件。
+* [Stratos](https://stratosapp.dev/) - PHP 和 Laravel 开发环境，提供本地 HTTPS 和用于只读数据库结构访问的免费 MCP 桥接服务。 ![Native App][Native Icon]
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Xcode ＆ Finder 扩展 Objective-C 转 Swift 代码转换器
 * [Switzy](https://github.com/yefga/Switzy) - 用于切换 Git 身份并管理 SSH 密钥的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Switzy) ![Freeware][Freeware Icon]
 * [SYM](https://github.com/zqqf16/SYM) - 一个图形化的崩溃日志解析工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
