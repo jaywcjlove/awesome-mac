@@ -1456,6 +1456,7 @@ Awesome Mac
 * [Cue](https://cue.hridya.tech) - 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) - 在任意设备间复制粘贴，就像在同一台设备上操作一样自然流畅。 [![Open-Source Software][OSS Icon]](https://github.com/CrossPaste/crosspaste-desktop) ![Freeware][Freeware Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - 面向开发者的干净简单的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
+* [Ginkgo](https://ginkgo.ink) - 复制当下给出洞察（时间戳、JSON、词典等）且不抢键盘焦点的剪贴板伴侣。 ![Native App][Native Icon]
 * [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac) - 剪贴板管理，快捷回复，效率倍增神器 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac)
 * [iPaste](https://en.toolinbox.net/iPaste) - 轻巧高效的剪贴板工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1056935452?ls=1&at=1000lv4R&ct=iPaste_me&platform=mac)
 * [Clipstack](https://chiranjeebhub.github.io/clipstack-site/) - 原生剪贴板历史工具，支持搜索、按类型筛选、置顶和可选的 iCloud 同步。 [![Open-Source Software][OSS Icon]](https://github.com/chiranjeebhub/ClipStack) ![Freeware][Freeware Icon] ![Native App][Native Icon]
