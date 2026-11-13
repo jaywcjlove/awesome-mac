@@ -1248,6 +1248,7 @@ Awesome Mac
 
 * [AerialSwap](https://github.com/mxpalm/AerialSwap) - 어떤 동영상이든 잠금 화면과 데스크톱용 네이티브 Aerial 배경화면으로 바꿔 시스템 설정의 전용 그룹에 추가합니다. [![Open-Source Software][OSS Icon]](https://github.com/mxpalm/AerialSwap) ![Freeware][Freeware Icon]
 * [Aman Check](https://github.com/MidZai/aman_check) - 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Awake](https://il.ly/awake) - 제어 센터, 메뉴 막대, CLI에서 덮개를 닫은 채로 MacBook을 깨어 있게 유지하며 10% 배터리 하한과 40°C 발열 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Illyism/awake) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Crisp](https://didriksg.github.io/Crisp/) - 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [LocalSR](https://herrei.github.io/localsr/) - 로컬 AI 모델로 사진과 동영상을 업스케일, 노이즈 제거, 복원하는 오픈소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]
