@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:22:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lafz Prompter</title>
+      <link>https://lafz.waqasrana.space/</link>
+      <guid isPermaLink="false">62903e7c64d46ef933229f89a8f3df057687398a:Lafz Prompter</guid>
+      <pubDate>Fri, 13 Nov 2026 20:22:33 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Lafz Prompter
+Description: Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq.
+Website: https://lafz.waqasrana.space/
+Open Source: https://github.com/ranawaqas-ai/lafz-prompter
+Commit: Add Lafz Prompter to Menu Bar Tools (#4576)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Lafz Prompter<br/>Description: Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq.<br/>Website: https://lafz.waqasrana.space/<br/>Open Source: https://github.com/ranawaqas-ai/lafz-prompter<br/>Commit: Add Lafz Prompter to Menu Bar Tools (#4576)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a]]></content:encoded>
+    </item>
     <item>
       <title>MagicInput</title>
       <link>https://bullfighterstudio.com/magicinput</link>
@@ -718,20 +733,6 @@ Open Source: https://github.com/madebyzan/knovum
 Commit: Add Knovum to Note-taking section (#3815)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knovum<br/>Description: Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription.<br/>Open Source: https://github.com/madebyzan/knovum<br/>Commit: Add Knovum to Note-taking section (#3815)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721]]></content:encoded>
-    </item>
-    <item>
-      <title>Stage Manager</title>
-      <link>https://eugene-tea.github.io/stage-manager/</link>
-      <guid isPermaLink="false">ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070:Stage Manager</guid>
-      <pubDate>Fri, 06 Nov 2026 16:59:05 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Stage Manager
-Description: Replacement for Apple&apos;s Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.
-Website: https://eugene-tea.github.io/stage-manager/
-Commit: Add Stage Manager to Window Management (#4297)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Stage Manager<br/>Description: Replacement for Apple&apos;s Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
     </item>
   </channel>
 </rss>
