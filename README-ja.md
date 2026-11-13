@@ -1780,6 +1780,7 @@ Awesome Mac
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - コンテキストごとにまとめたアプリ群を1つのホットキーで切り替えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - ワンクリックまたはショートカットですべてのウインドウを隠してデスクトップを表示し、もう一度押すと元どおりに戻すメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sidebar](http://sidebarapp.net/) - Mac用のモダンなDock代替。
+* [SimpleScreenTab](https://github.com/k33ssa/SimpleScreenTab) - マウスのあるディスプレイ上のアプリだけを表示する、オープンソースのモニター別 Cmd-Tab アプリスイッチャー。 [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/SimpleScreenTab) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - キーボード中心の強力なウィンドウ管理。
 * [Slate](https://github.com/jigish/slate) - JavaScript で設定するスクリプト型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 * [Snapback](https://snapbackapp.com) - キー操作一回でウィンドウレイアウト全体を保存・復元。 ![Freeware][Freeware Icon]

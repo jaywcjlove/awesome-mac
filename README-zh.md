@@ -1743,6 +1743,7 @@ Awesome Mac
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 按场景分组应用并用一个快捷键快速切换。 [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Show Bar](https://rept0rix.github.io/show-bar/) - 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。 [![Open-Source Software][OSS Icon]](https://github.com/rept0rix/show-bar) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6818509447?platform=mac) ![Native App][Native Icon]
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - 菜单栏应用，一键或用快捷键隐藏所有窗口来显示桌面，再按一次即可原样恢复。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [SimpleScreenTab](https://github.com/k33ssa/SimpleScreenTab) - 开源的按显示器切换应用工具，Cmd-Tab 只显示鼠标所在屏幕上的应用。 [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/SimpleScreenTab) ![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - 使用 JavaScript 配置的脚本化窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [Snapback](https://snapbackapp.com) - 通过一次按键操作保存和恢复整个窗口布局。 ![Freeware][Freeware Icon]
 * [Stage Manager](https://eugene-tea.github.io/stage-manager/) - 用 Rust 编写的 Apple 台前调度替代品，重启后保留舞台，支持 Ctrl-Option-1..9 切换。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/eugene-tea/stage-manager)
