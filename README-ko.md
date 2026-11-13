@@ -300,6 +300,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
 * [THORN](https://thorn.so) - 개인 쓰기 및 웹사이트 구축을 위한 모든 것.
+* [Writeshaper](https://hollowbit.dev/writeshaper/) - 개인 정보를 지키는 글쓰기 도우미. 어떤 앱에서든 텍스트를 선택하고 단축키를 누르면 오류를 고치거나 더 명확하고 짧고 전문적으로 다듬어 줍니다. 모델은 Mac에서 실행됩니다. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/writeshaper) ![Freeware][Freeware Icon]
 
 ### 전자책
 

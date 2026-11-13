@@ -327,6 +327,7 @@ Awesome Mac
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - ライターのための定番ワードプロセッサ。
 * [THORN](https://thorn.so) - パーソナルライティングとWebサイト構築に必要なすべてを。
+* [Writeshaper](https://hollowbit.dev/writeshaper/) - プライベートな文章アシスタント。どのアプリでも文字を選んでショートカットを押すだけで、誤りを直したり、より分かりやすく・短く・丁寧にできる。モデルはMac上で動作。 [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/writeshaper) ![Freeware][Freeware Icon]
 
 ### 電子書籍
 
