@@ -766,6 +766,7 @@ Awesome Mac
 * [o8](https://o8.run) - 코딩 에이전트의 작업을 리뷰하고, 통과할 때까지 되돌려 보낸 뒤 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code와 Codex가 만들어 준 대시보드, 보고서, 사이트, PR, 파일을 로컬에 모아 두고 몇 글자 입력하거나 한마디 말하면 다시 열어 주는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [SnipToss](https://github.com/Moy339339/SnipToss) - Claude Code, Codex 등 코딩 에이전트가 만든 이미지와 동영상에 주석을 달고, 에이전트가 읽을 수 있는 파일로 저장하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/Moy339339/SnipToss) ![Freeware][Freeware Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [SummonOS](https://sumonos.rohi-lab.org/) - MCP를 통해 코딩 에이전트에 Mac의 실시간 상태를 제공하고, 지원되는 설정을 바꾸기 전에 스냅숏을 저장해 되돌릴 수 있게 하는 메뉴 막대 앱 및 CLI. [![Open-Source Software][OSS Icon]](https://github.com/RohiRIK/SummonOS) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MiniClaw](https://github.com/augmentedmike/miniclaw-os) - 메모리와 자동화 기능을 갖춘 로컬 우선 개인 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/augmentedmike/miniclaw-os) ![Freeware][Freeware Icon]
