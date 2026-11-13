@@ -1937,6 +1937,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Ryubing](https://github.com/Ryubing) - A fork of the discontinued Switch emulator, Ryujinx. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 * [Soju](https://didimlabs.com) - Installs the official Windows Battle.net, Steam, Epic, GOG, EA app, Rockstar and Ubisoft Connect clients on Apple Silicon through Wine and Apple's GPTK, with a native library of all your games. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/BCD1210/soju)
 * [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
+* [Uncork](https://uncorkmac.com/) - Runs Windows games from Steam and Epic on Apple Silicon through a compatibility layer. ![Freeware][Freeware Icon]
 * [Whisky](https://github.com/frankea/Whisky) - A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 * [ConsoleMini](https://github.com/momenbasel/ConsoleMini) - Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/momenbasel/ConsoleMini)
 

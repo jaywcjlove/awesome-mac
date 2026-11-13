@@ -1397,6 +1397,7 @@ Awesome Mac
 * [OpenEmu](https://openemu.org/) - 여러 콘솔을 지원하는 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [Soju](https://didimlabs.com) - Wine과 Apple GPTK로 Apple Silicon에 공식 Windows용 Battle.net, Steam, Epic, GOG, EA 앱, Rockstar, Ubisoft Connect를 설치하고, 모든 게임을 네이티브 라이브러리에서 관리합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/BCD1210/soju)
 * [Steam](https://store.steampowered.com/) - 게임 플랫폼 및 커뮤니티. ![Freeware][Freeware Icon]
+* [Uncork](https://uncorkmac.com/) - 호환 계층을 통해 Apple Silicon에서 Steam과 Epic의 Windows 게임을 실행합니다. ![Freeware][Freeware Icon]
 * [Whisky](https://github.com/frankea/Whisky) - macOS에서 Windows 앱을 실행하는 도구로, SwiftUI로 제작되었으며 D3DMetal 및 DXVK 백엔드를 지원합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 
 ## 원격 로그인 소프트웨어

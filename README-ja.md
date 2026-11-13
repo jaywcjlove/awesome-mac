@@ -1926,6 +1926,7 @@ Awesome Mac
 * [Ryubing](https://github.com/Ryubing) - 開発終了したSwitchエミュレーターRyujinxのフォーク。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Ryubing)
 * [Soju](https://didimlabs.com) - Wine と Apple の GPTK を使い、Apple Silicon に公式の Windows 版 Battle.net、Steam、Epic、GOG、EA app、Rockstar、Ubisoft Connect をインストールし、ネイティブのゲームライブラリで管理します。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/BCD1210/soju)
 * [Suyu](https://suyu.dev/) - 馴染みのある、オープンソースで強力なNintendo Switchエミュレーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://git.suyu.dev/suyu/suyu)
+* [Uncork](https://uncorkmac.com/) - 互換レイヤーを通じて Apple Silicon で Steam と Epic の Windows ゲームを実行します。 ![Freeware][Freeware Icon]
 * [Whisky](https://github.com/frankea/Whisky) - macOSでWindowsアプリを実行するためのツール。SwiftUIで構築され、D3DMetalとDXVKバックエンドに対応。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/frankea/Whisky)
 
 ## リモートログインソフトウェア
