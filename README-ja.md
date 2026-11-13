@@ -1458,7 +1458,6 @@ Awesome Mac
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
 * [Keelhaven](https://keelhaven.app) - ローカルディスク、S3、SFTP、RESTサーバーへ暗号化された restic バックアップをスケジュール実行するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 毎日のキー入力、クリック、移動、スクロールを追跡するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
-* [Lockpaw](https://getlockpaw.com) - ホットキーで画面ロックを切り替えられるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - ワンクリックですべてのMacアプリを後で使うために保存。 [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 * [Ledge](https://ledgeapp.dev) - ノッチを、再生中の曲・タイマー・次の予定・天気・メモ・スリープ防止を表示するDynamic Island風のステータス領域に変える（macOS 26以降）。 [![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LogoLight](https://logolight.app) - PROLED XDRディスプレイ搭載MacBook Proの背面で光るAppleロゴを、メニューバーからオフ・減光・アニメーションできるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Ark0N/LogoLight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1881,6 +1880,7 @@ Awesome Mac
 * [Juice](https://github.com/brianmichel/Juice) - 強化されたバッテリー情報表示。 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - ダークモード対応のCaffeine代替。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 * [Kombucha](https://github.com/askuksov/kombucha) - 設定した残量で充電を止め、バッテリー寿命を延ばすメニューバー用の充電制限ツール。 [![Open-Source Software][OSS Icon]](https://github.com/askuksov/kombucha) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Lockpaw](https://getlockpaw.com) - AI コーディングエージェントの実行中に画面を覆って Mac をスリープさせず、エージェントの対応が必要になると画面が光って知らせるツール。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - メモリプレッシャーに注目した、RAM・CPU・ネットワーク・ディスク用の軽量メニューバーモニター。 [![Open-Source Software][OSS Icon]](https://github.com/Ahmadjondev/MacMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - Apple Silicon Mac用のファン制御ツール。メニューバーアプリ、温度に応じたプロファイル、CLIを備える。 [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac用の起動可能なmacOS/OS Xインストーラー作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]

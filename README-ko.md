@@ -1150,7 +1150,6 @@ Awesome Mac
 * [Keelhaven](https://keelhaven.app) - 로컬 디스크, S3, SFTP, REST 서버로 암호화된 restic 백업을 예약 실행하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 하루 키 입력, 클릭, 이동 거리, 스크롤을 기록하는 메뉴 막대 추적기. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Ledge](https://ledgeapp.dev) - 노치를 현재 재생 중인 곡, 타이머, 다음 일정, 날씨, 메모, 잠자기 방지를 보여주는 다이내믹 아일랜드형 상태 영역으로 바꿔준다(macOS 26 이상 필요). [![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
-* [Lockpaw](https://getlockpaw.com) - 단축키로 화면 잠금을 잠그고 해제할 수 있는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [LogoLight](https://logolight.app) - PROLED XDR 디스플레이를 탑재한 MacBook Pro 뒷면의 빛나는 Apple 로고를 끄거나 어둡게 하거나 애니메이션 효과를 줄 수 있는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/Ark0N/LogoLight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - 디스플레이 제어, 시스템 토글, 정리, 기기 상태, 일상 유틸리티를 제공하는 확장 가능한 플러그인 시스템 기반의 오픈 소스 메뉴 바 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Repose](https://github.com/fikrikarim/repose) - 휴식 시간이 되면 화면을 어둡게 하고 통화 중에는 자동으로 멈추는 메뉴 바 휴식 타이머. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
@@ -1272,6 +1271,7 @@ Awesome Mac
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Matcha](https://github.com/jakeantelis/Matcha) - 시각적 타이머와 플로팅 배지를 제공하고 실행 중인 AI 코딩 에이전트를 감지해 Mac을 깨어 있게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Matcha) ![Freeware][Freeware Icon]
 * [Adrafinil](https://kagerou.glass/adrafinil/) - AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [Lockpaw](https://getlockpaw.com) - AI 코딩 에이전트가 실행되는 동안 화면을 가리고 Mac을 깨어 있게 하며, 에이전트가 사용자를 기다리면 화면이 빛나 알려 주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [NTFSTool](https://ntfstool.com) - 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구. ![Freeware][Freeware Icon]
 * [Sensei](https://sensei.app/) - 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
