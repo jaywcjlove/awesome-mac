@@ -832,6 +832,7 @@ Awesome Mac
 * [inlaut](https://inlaut.de) - 完全本地运行的按键说话听写工具，支持德语和英语，在设备上运行 Parakeet 模型并将文字输入到光标处。 [![Open-Source Software][OSS Icon]](https://github.com/tobymarks/inlaut) ![Freeware][Freeware Icon]
 * [LocalScribe](https://github.com/maddylaneeee/ShengJi) - 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
 * [Lowspeak](https://github.com/sventmueller/lowspeak) - 原生、极速的 AI 听写工具，使用 Rust 编写：按住 fn 即可在任意应用中用 35 种语言语音输入，可用自己的 Groq 密钥免费在线转写，也可通过 Whisper 和 Parakeet 离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/lowspeak) ![Freeware][Freeware Icon]
+* [Murmur](https://murmur-desktop.vercel.app) - 免费开源的听写工具，可在任意应用中输入文字，并提供无需机器人入会的会议记录，使用 Parakeet 在 Mac 本地转写。 [![Open-Source Software][OSS Icon]](https://github.com/DailyXplorer/Murmur) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - 支持本地与云端语音转文字的开源听写工具。 [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenQuack](https://github.com/larryxiao/openquack) - 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。 [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
