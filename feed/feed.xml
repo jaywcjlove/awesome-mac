@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: MagicInput
+Description: Share one keyboard and mouse between a Mac and a Windows PC by moving the pointer past the screen edge, with clipboard sync and file transfer.
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: MagicInput<br/>Description: Share one keyboard and mouse between a Mac and a Windows PC by moving the pointer past the screen edge, with clipboard sync and file transfer.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
     <item>
       <title>Daily Wallpaper</title>
       <link>https://itsnajam.github.io/daily-wallpaper/</link>
@@ -718,21 +732,6 @@ Website: https://eugene-tea.github.io/stage-manager/
 Commit: Add Stage Manager to Window Management (#4297)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Stage Manager<br/>Description: Replacement for Apple&apos;s Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
-    </item>
-    <item>
-      <title>camber</title>
-      <link>https://www.yuvrajangadsingh.com/camber</link>
-      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
-      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: camber
-Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.
-Website: https://www.yuvrajangadsingh.com/camber
-Open Source: https://github.com/yuvrajangadsingh/camber
-Commit: Add camber to Browsers (#4286)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: camber<br/>Description: Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
     </item>
   </channel>
 </rss>

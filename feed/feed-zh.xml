@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: MagicInput
+Description: 在 Mac 和 Windows 电脑之间共享一套键盘和鼠标，将指针移过屏幕边缘即可切换，并支持剪贴板同步和文件传输。
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: MagicInput<br/>Description: 在 Mac 和 Windows 电脑之间共享一套键盘和鼠标，将指针移过屏幕边缘即可切换，并支持剪贴板同步和文件传输。<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
     <item>
       <title>Usagebar</title>
       <link>https://bullfighterstudio.com/usagebar</link>
@@ -718,21 +732,6 @@ Website: https://eugene-tea.github.io/stage-manager/
 Commit: Add Stage Manager to Window Management (#4297)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Stage Manager<br/>Description: 用 Rust 编写的 Apple 台前调度替代品，重启后保留舞台，支持 Ctrl-Option-1..9 切换。<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
-    </item>
-    <item>
-      <title>camber</title>
-      <link>https://www.yuvrajangadsingh.com/camber</link>
-      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
-      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: camber
-Description: 基于 Chromium（Electron）的开源 Arc 风格浏览器，支持 Spaces、固定标签页、文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber)
-Website: https://www.yuvrajangadsingh.com/camber
-Open Source: https://github.com/yuvrajangadsingh/camber
-Commit: Add camber to Browsers (#4286)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: camber<br/>Description: 基于 Chromium（Electron）的开源 Arc 风格浏览器，支持 Spaces、固定标签页、文件夹、命令栏和 Arc 导入。[![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/camber)<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
     </item>
   </channel>
 </rss>

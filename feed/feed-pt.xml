@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: MagicInput
+Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: MagicInput<br/>Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
     <item>
       <title>Usagebar</title>
       <link>https://bullfighterstudio.com/usagebar</link>
@@ -720,20 +734,6 @@ Open Source: https://github.com/mmmikael/mdviewer
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MDViewer<br/>Description: Visualizador rápido de Markdown com recarregamento ao vivo, pré-visualizações do Quick Look, Mermaid, matemática e resumos opcionais por IA, com seu próprio modelo ou um modelo local.<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Open Source: https://github.com/mmmikael/mdviewer<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>MWeb</title>
-      <link>https://www.mweb.im/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:MWeb</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MWeb
-Description: App de escrita profissional em Markdown e gerador de blogs estáticos.
-Website: https://www.mweb.im/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MWeb<br/>Description: App de escrita profissional em Markdown e gerador de blogs estáticos.<br/>Website: https://www.mweb.im/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: MagicInput
+Description: 화면 가장자리 너머로 포인터를 옮겨 Mac과 Windows PC에서 하나의 키보드와 마우스를 함께 쓰는 도구로, 클립보드 동기화와 파일 전송을 지원합니다.
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: MagicInput<br/>Description: 화면 가장자리 너머로 포인터를 옮겨 Mac과 Windows PC에서 하나의 키보드와 마우스를 함께 쓰는 도구로, 클립보드 동기화와 파일 전송을 지원합니다.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
     <item>
       <title>Usagebar</title>
       <link>https://bullfighterstudio.com/usagebar</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/sooftware/lmux
 Commit: Add lmux to Terminal Apps (#4268)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: lmux<br/>Description: libghostty 기반의 가벼운 터미널로, Claude Code와 Codex 세션을 실행하고 사이드바에 에이전트 상태를 보여줍니다.<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
-    </item>
-    <item>
-      <title>TinyRecorder</title>
-      <link>https://www.tinyrecorder.app/en/</link>
-      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
-      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
-      <category>디자인 및 제품 / 화면 녹화</category>
-      <description>Category: 디자인 및 제품 / 화면 녹화
-App: TinyRecorder
-Description: 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다.
-Website: https://www.tinyrecorder.app/en/
-Open Source: https://github.com/33to9/TinyRecorder
-Commit: Add TinyRecorder to Screen Recording (#4265)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: TinyRecorder<br/>Description: 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다.<br/>Website: https://www.tinyrecorder.app/en/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: MagicInput
+Description: 画面の端からポインタを移動するだけで、MacとWindows PCの間で1組のキーボードとマウスを共有するツール。クリップボード同期とファイル転送にも対応。
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: MagicInput<br/>Description: 画面の端からポインタを移動するだけで、MacとWindows PCの間で1組のキーボードとマウスを共有するツール。クリップボード同期とファイル転送にも対応。<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
     <item>
       <title>Usagebar</title>
       <link>https://bullfighterstudio.com/usagebar</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/sooftware/lmux
 Commit: Add lmux to Terminal Apps (#4268)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: lmux<br/>Description: libghostty 上に構築された軽量ターミナル。Claude Code と Codex のセッションを実行し、サイドバーにエージェントの状態を表示します。<br/>Open Source: https://github.com/sooftware/lmux<br/>Commit: Add lmux to Terminal Apps (#4268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d0d853eee29c372b67fe2f1f68c371afe5ea4ca1]]></content:encoded>
-    </item>
-    <item>
-      <title>TinyRecorder</title>
-      <link>https://www.tinyrecorder.app/ja/</link>
-      <guid isPermaLink="false">6fcaa74b5bf97d7ad69a9b873960d13120618175:TinyRecorder</guid>
-      <pubDate>Fri, 06 Nov 2026 06:50:45 GMT</pubDate>
-      <category>デザインとプロダクト / 画面録画</category>
-      <description>Category: デザインとプロダクト / 画面録画
-App: TinyRecorder
-Description: 画面、ウインドウ、アプリ、システム音声、接続した iPhone や iPad を録画できる軽量な画面録画ツールで、メンテナンスが続く QuickRecorder のフォーク。
-Website: https://www.tinyrecorder.app/ja/
-Open Source: https://github.com/33to9/TinyRecorder
-Commit: Add TinyRecorder to Screen Recording (#4265)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: TinyRecorder<br/>Description: 画面、ウインドウ、アプリ、システム音声、接続した iPhone や iPad を録画できる軽量な画面録画ツールで、メンテナンスが続く QuickRecorder のフォーク。<br/>Website: https://www.tinyrecorder.app/ja/<br/>Open Source: https://github.com/33to9/TinyRecorder<br/>Commit: Add TinyRecorder to Screen Recording (#4265)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6fcaa74b5bf97d7ad69a9b873960d13120618175]]></content:encoded>
     </item>
   </channel>
 </rss>
