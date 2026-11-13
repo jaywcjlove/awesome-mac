@@ -791,6 +791,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glint](https://github.com/brentc22/glint) - Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Kadr](https://getkadr.app) - Native menu bar app for screenshots, screen recording, and markup. ![Native App][Native Icon]
 * [Lightshot](https://app.prntscr.com/) - The fastest way to take a customizable screenshot. ![Freeware][Freeware Icon]
 * [Lumela](https://github.com/tw4/lumela) - Cross-platform screenshot tool that blurs emails, card numbers, IPs and API keys with on-device OCR, then beautifies the shot. [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - Screenshot and annotation tool with screen recording, scrolling capture, and OCR. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
