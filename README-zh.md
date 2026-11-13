@@ -1245,6 +1245,7 @@ Awesome Mac
 
 * [Buddy](https://github.com/projects-hacks/buddy) - 住在刘海里的学习助手，一边朗读讲解屏幕上的内容，一边在上面画图标注。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
+* [StudyArena](https://studyarena.com) - 适用于 Apple Silicon 的学习应用，可免费并排比较三个 AI 回答，投票后揭晓模型。
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## 金融
