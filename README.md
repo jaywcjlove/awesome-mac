@@ -1790,6 +1790,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Swift Shift](https://swiftshift.app) - Move and resize windows with keyboard shortcuts and mouse gestures. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [StreamWindow](https://macdev.cn/) - 3D window manager with intuitive views and fluid transitions. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/streamwindow-3d-window/id6752313155?mt=12)
 * [Switch](https://switch-dev.sanyamgarg.com) - Keyboard window switcher that lists every open window across Spaces and filters as you type. ![Freeware][Freeware Icon]
+* [TauBar](https://tauleap.com/product/taubar/) - Window-level taskbar for macOS 26+ on Apple Silicon: switch by window title, pin apps, and open a Start menu.
 * [Tiles](https://freemacsoft.net/tiles/) - Snap and rearrange windows with screen edges, shortcuts, or the menu bar. ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
