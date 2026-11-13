@@ -58,6 +58,14 @@ const FEED_TARGETS = [
     title: 'Awesome Mac - 最近追加されたアプリ',
     description: '日本語リストを元にした最近追加の macOS アプリです。',
   },
+  {
+    key: 'pt',
+    readmePath: 'README-pt.md',
+    outputName: 'feed-pt.xml',
+    language: 'pt-BR',
+    title: 'Awesome Mac - Aplicativos adicionados recentemente',
+    description: 'Aplicativos macOS adicionados recentemente à lista em português.',
+  },
 ];
 
 mkdirSync(feedDir, { recursive: true });

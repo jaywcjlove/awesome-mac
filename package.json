@@ -28,6 +28,11 @@
       "require": "./dist/awesome-mac.zh.json",
       "default": "./dist/awesome-mac.zh.json"
     },
+    "./pt": {
+      "import": "./dist/awesome-mac.pt.json",
+      "require": "./dist/awesome-mac.pt.json",
+      "default": "./dist/awesome-mac.pt.json"
+    },
     "./package.json": "./package.json"
   },
   "scripts": {
@@ -52,7 +57,8 @@
     "dist/awesome-mac.json",
     "dist/awesome-mac.ko.json",
     "dist/awesome-mac.ja.json",
-    "dist/awesome-mac.zh.json"
+    "dist/awesome-mac.zh.json",
+    "dist/awesome-mac.pt.json"
   ],
   "author": "kenny wang <wowohoo@qq.com>",
   "license": "CC-BY-SA-4.0",
