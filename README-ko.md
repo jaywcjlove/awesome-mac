@@ -840,6 +840,7 @@ Awesome Mac
 
 * [Airmail](https://airmailapp.com/) - Mac용 빠른 메일 클라이언트.
 * [Canary Mail](https://canarymail.io/) - PGP 및 AI를 지원하는 안전한 이메일 앱. ![Freeware][Freeware Icon]
+* [CitrusMail](https://github.com/citrusmail/citrusmail) - IMAP, POP3, JMAP 메일 서비스 어디서나 쓸 수 있는 오픈 소스 메일, 캘린더, 연락처 앱. Nuxt와 Electron으로 제작. [![Open-Source Software][OSS Icon]](https://github.com/citrusmail/citrusmail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]

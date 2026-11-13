@@ -1005,6 +1005,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Airmail](https://airmailapp.com) - Fast email client. For both Mac OS and iOS.
 * [CanaryMail](https://canarymail.io/) - Secure email app for Mac and iPhone with built-in PGP Support and AI assistance. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?platform=mac)
+* [CitrusMail](https://github.com/citrusmail/citrusmail) - Open-source mail, calendar and contacts app for any IMAP, POP3 or JMAP provider, built with Nuxt and Electron. [![Open-Source Software][OSS Icon]](https://github.com/citrusmail/citrusmail) ![Freeware][Freeware Icon]
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - An Electron-based unofficial desktop client for ProtonMail. [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](https://www.foxmail.com/mac/en) - Fast email client. ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - Use tags to organize email and schedule.
