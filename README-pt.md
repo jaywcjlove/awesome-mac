@@ -1698,6 +1698,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Mos](https://mos.caldis.me/) - Ferramenta simples que oferece rolagem suave e inverte a direção da rolagem do mouse no seu Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Gerenciador de arquivos compactados que permite visualizar e extrair arquivos. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Alterne o Magic Keyboard, o Mouse e o Trackpad da Apple entre vários Macs.
+* [MagicInput](https://bullfighterstudio.com/magicinput) - Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos. ![Freeware][Freeware Icon]
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - Capture capturas de tela periódicas para revisar o seu dia e preencher folhas de horas.
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - A melhor forma de visualizar, manter e simplificar os seus projetos. Gestão de projetos facilitada.
 * [OpenClip](https://getopenclip.app) - Barra de ação flutuante leve para macOS que transforma o texto selecionado em ações instantâneas. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
