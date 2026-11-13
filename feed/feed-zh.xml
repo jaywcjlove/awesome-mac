@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:23:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WellSnap</title>
+      <link>https://wellsnap.net/</link>
+      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
+      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: WellSnap
+Description: 开源的截图工具，支持 macOS 和 Windows，提供箭头、编号标注，以及不读取被遮挡像素的模糊。
+Website: https://wellsnap.net/
+Open Source: https://github.com/hashtriton/wellsnap
+Commit: Add WellSnap to Screenshot Tools (#4547)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: WellSnap<br/>Description: 开源的截图工具，支持 macOS 和 Windows，提供箭头、编号标注，以及不读取被遮挡像素的模糊。<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
+    </item>
     <item>
       <title>LazyTune</title>
       <link>https://github.com/Vic3z/LazyTune</link>
@@ -717,21 +732,6 @@ Open Source: https://github.com/Campfire7/graphis
 Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Graphis<br/>Description: 开源的本地 AI 图像生成应用，基于 MOSS-Image 模型，在 Apple 芯片上根据文字描述生成图像。<br/>Open Source: https://github.com/Campfire7/graphis<br/>Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc]]></content:encoded>
-    </item>
-    <item>
-      <title>NVBeacon</title>
-      <link>https://jaein4722.github.io/NVBeacon/</link>
-      <guid isPermaLink="false">536fd9a681b78d08dc9a7cdee0d6ecf45eb89896:NVBeacon</guid>
-      <pubDate>Fri, 06 Nov 2026 06:06:40 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: NVBeacon
-Description: 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。
-Website: https://jaein4722.github.io/NVBeacon/
-Open Source: https://github.com/jaein4722/NVBeacon
-Commit: Add NVBeacon to Menu Bar Tools (#4258)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: NVBeacon<br/>Description: 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。<br/>Website: https://jaein4722.github.io/NVBeacon/<br/>Open Source: https://github.com/jaein4722/NVBeacon<br/>Commit: Add NVBeacon to Menu Bar Tools (#4258)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896]]></content:encoded>
     </item>
   </channel>
 </rss>

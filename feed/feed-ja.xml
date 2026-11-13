@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:23:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WellSnap</title>
+      <link>https://wellsnap.net/</link>
+      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
+      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: WellSnap
+Description: macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。
+Website: https://wellsnap.net/
+Open Source: https://github.com/hashtriton/wellsnap
+Commit: Add WellSnap to Screenshot Tools (#4547)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: WellSnap<br/>Description: macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
+    </item>
     <item>
       <title>LazyTune</title>
       <link>https://github.com/Vic3z/LazyTune</link>
@@ -716,21 +731,6 @@ Website: https://allinoneime.com
 Commit: Add AllInOneIME to Input Methods (#4285)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542</description>
       <content:encoded><![CDATA[Category: 入力方法<br/>App: AllInOneIME<br/>Description: テキスト入力欄で @improve、@translate、@question などの AI コマンドを使える入力メソッドで、中国語のピンイン入力にも対応しています。<br/>Website: https://allinoneime.com<br/>Commit: Add AllInOneIME to Input Methods (#4285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7db3d7e513a41ddbe491d4c10962e11a60bc7542]]></content:encoded>
-    </item>
-    <item>
-      <title>Koru</title>
-      <link>https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac</link>
-      <guid isPermaLink="false">353895d7a266af89a1f6d4e9ba5274ec8158bd38:Koru</guid>
-      <pubDate>Fri, 06 Nov 2026 01:49:46 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: Koru
-Description: デバイス間のエンドツーエンド暗号化同期に対応した、Rust製のオフラインファーストなオープンソースのノート・ドキュメント用ワークスペース。
-Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac
-Open Source: https://github.com/koruworks/mono
-Commit: Add Koru to Note-taking (#4248)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Koru<br/>Description: デバイス間のエンドツーエンド暗号化同期に対応した、Rust製のオフラインファーストなオープンソースのノート・ドキュメント用ワークスペース。<br/>Website: https://www.koru.do/?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-mac<br/>Open Source: https://github.com/koruworks/mono<br/>Commit: Add Koru to Note-taking (#4248)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/353895d7a266af89a1f6d4e9ba5274ec8158bd38]]></content:encoded>
     </item>
   </channel>
 </rss>

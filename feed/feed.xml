@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:23:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WellSnap</title>
+      <link>https://wellsnap.net/</link>
+      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
+      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: WellSnap
+Description: Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels.
+Website: https://wellsnap.net/
+Open Source: https://github.com/hashtriton/wellsnap
+Commit: Add WellSnap to Screenshot Tools (#4547)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: WellSnap<br/>Description: Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels.<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
+    </item>
     <item>
       <title>LazyTune</title>
       <link>https://github.com/Vic3z/LazyTune</link>
@@ -717,21 +732,6 @@ Open Source: https://github.com/Campfire7/graphis
 Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc</description>
       <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Graphis<br/>Description: Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon.<br/>Open Source: https://github.com/Campfire7/graphis<br/>Commit: Add Graphis to Design and Product &gt; Other Tools (#4263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1abac612095f81b8bc5a573d3bc5cafa3d89afc]]></content:encoded>
-    </item>
-    <item>
-      <title>NVBeacon</title>
-      <link>https://jaein4722.github.io/NVBeacon/</link>
-      <guid isPermaLink="false">536fd9a681b78d08dc9a7cdee0d6ecf45eb89896:NVBeacon</guid>
-      <pubDate>Fri, 06 Nov 2026 06:06:40 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: NVBeacon
-Description: Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH.
-Website: https://jaein4722.github.io/NVBeacon/
-Open Source: https://github.com/jaein4722/NVBeacon
-Commit: Add NVBeacon to Menu Bar Tools (#4258)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: NVBeacon<br/>Description: Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH.<br/>Website: https://jaein4722.github.io/NVBeacon/<br/>Open Source: https://github.com/jaein4722/NVBeacon<br/>Commit: Add NVBeacon to Menu Bar Tools (#4258)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/536fd9a681b78d08dc9a7cdee0d6ecf45eb89896]]></content:encoded>
     </item>
   </channel>
 </rss>
