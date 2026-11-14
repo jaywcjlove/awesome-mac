@@ -1228,6 +1228,7 @@ Awesome Mac
 * [ShinyMac](https://github.com/pballada/shinyMac) - 한 번의 검사로 끝나는 Smart Care, 남은 파일까지 찾는 앱 제거, Xcode 정리, Space Lens 디스크 맵, 숨은 설정을 갖춘 오픈소스 SwiftUI Mac 클리너. [![Open-Source Software][OSS Icon]](https://github.com/pballada/shinyMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpaceMap](https://github.com/renkagod/spacemap) - 디스크를 확대해 들어갈 수 있는 중첩 트리맵으로 그려 주는 디스크 사용량 분석기로, 스캔하는 동안 실시간으로 채워집니다. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - 무료 오픈소스 디스크 사용량 분석기. 선버스트와 트리맵으로 디스크와 클라우드 스토리지를 시각화. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
+* [Startshaper](https://hollowbit.dev/startshaper/) - 로그인할 때 자동으로 실행되는 앱과 백그라운드 도우미를 보여 주고, 각각을 쉽게 설명하며 필요 없는 것을 끌 수 있다. 한 번에 되돌릴 수 있음. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/startshaper) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - 항목을 휴지통으로만 옮기는 오픈소스 디스크 정리 도구. 중복 파일을 삭제하기 전에 프로젝트 스크립트가 참조하는지 확인. [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
 
 ### 파일 정리 도구
