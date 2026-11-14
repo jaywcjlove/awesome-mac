@@ -1731,6 +1731,7 @@ Awesome Mac
 * [Timing](https://timingapp.com/) - 自動で時間を記録し、作業分析や工数管理を支援するツール。
 * [Textream](https://textream.fka.dev) - リアルタイムの単語追跡と音声起動スクロールを備えた無料テレプロンプター。 [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - Spotlightの代替となるオープンソースのショートカットツールキット。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
+* [Trace](https://github.com/lxyeternal/Trace) - アプリ、ウィンドウ、ファイル、Web ページを自動で記録する時間トラッカー。データはすべて Mac 内に保存。 [![Open-Source Software][OSS Icon]](https://github.com/lxyeternal/Trace) ![Freeware][Freeware Icon]
 * [Trello](https://trello.com) - プロジェクトをカンバンボードで整理するコラボレーションツール。 ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicodeキーボードレイアウトエディター。
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
