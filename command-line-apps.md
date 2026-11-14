@@ -126,6 +126,7 @@ A curated list of useful command line apps
 ## Media
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - Repairs a Music library of local files: clean titles, artwork and album info from Deezer, lyrics from LRCLIB, duplicates removed and full albums split into tracks. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## Developer

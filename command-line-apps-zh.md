@@ -127,6 +127,7 @@
 ## 媒体
 
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 修复由本地文件组成的音乐资料库：清理标题，从 Deezer 获取封面和专辑信息，从 LRCLIB 添加歌词，删除重复歌曲，并将整张专辑拆分为单曲。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - 从 YouTube.com 及其他一些网站下载视频。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 开发者工具
