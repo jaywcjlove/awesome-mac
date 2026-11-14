@@ -447,6 +447,7 @@ Awesome Mac
 * [Configs](https://github.com/iHongRen/configEditor) - 設定ファイルの迅速な表示、編集、管理のための設定ファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - macOS用CubicBezierジェネレーター。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 * [Cutter](https://cutter.re/) - 強力なマルチプラットフォームリバースエンジニアリングツール。 ![Open-Source Software][OSS Icon]
+* [DevCatz](https://catzoid.com/devcatz) - プロジェクトフォルダーを独自の https://*.localhost で実行するローカル開発環境。ランタイム、データベース、メール、トンネルを内蔵。 [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DevCatz) ![Freeware][Freeware Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 開発者向けの多機能オフラインアプリ。 ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [Dash](https://kapeli.com/dash) - 素晴らしいAPIドキュメントブラウザ兼コードスニペット管理ツール。 ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 開発者による開発者のためのディープリンク管理ツール。
@@ -534,6 +535,7 @@ Awesome Mac
 
 * [bruno](https://www.usebruno.com/) - オフライン専用で、高速かつGitフレンドリーなオープンソースAPIクライアント。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - HTTP/RESTエンドポイントをテストするための、無料でオープンソースのネイティブApple OS Xアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [DialCatz](https://catzoid.com/dialcatz) - REST、GraphQL、WebSocket に対応した API クライアント。コレクション、環境変数、スクリプト、セルフホストのチームサーバーを備える。 [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DialCatz) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - オープンソースのAPIクライアントで、Postmanの代替ツール。
 * [HTTPie](https://httpie.io/) - 現代のツールを構築する人々のためにAPIをシンプルで直感的にするツール。 ![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 軽量で高速、フル機能のAPIデバッグツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
@@ -611,6 +613,7 @@ Awesome Mac
 
 ### 仮想化
 
+* [DoCatz](https://catzoid.com/docatz) - Docker エンジンとコンテナマネージャー。Compose プロジェクト、ログ、ターミナルを備え、各コンテナに独自の https:// 名を付与。 [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DoCatz) ![Freeware][Freeware Icon]
 * [Docker](https://www.docker.com/) - 強力なOSレベルの仮想化を実行するツール。 [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Berthly](https://berthly.net) - Appleのcontainerツール向けネイティブGUI。メニューバーでのライブ監視とドラッグ&ドロップでのイメージビルドに対応。 [![Open-Source Software][OSS Icon]](https://github.com/henrywang/Berthly) ![Freeware][Freeware Icon]
 * [Gantry](https://github.com/getgantry/gantry) - ローカルと SSH リモートホストを一元管理できる Docker GUI クライアントで、MCP サーバーを内蔵。 [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
@@ -644,6 +647,7 @@ Awesome Mac
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - アプリケーションのデータを簡単に表示、編集、分析できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - Postgres、MySQL、DuckDB、libSQL、Cloudflare D1などをサポートするシンプルなデータベースクライアント。
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - DB Browser for SQLiteの公式ホームページ。 [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
+* [DBCatz](https://catzoid.com/dbcatz) - MySQL、MariaDB、PostgreSQL、SQLite、Redis、Valkey、MongoDB、Elasticsearch に対応し、SSH・AWS IAM・Vault で接続できるデータベースクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DBCatz) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - ユニバーサルSQLクライアント。
 * [DBine](https://dbine.com) - 130以上のSQL・NoSQLデータベースとクラウドサービスに対応し、ノートブック、スキーマとデータの比較、MCPサーバーを備えたオープンソースのデータベースマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - SQLデータベースのクエリと管理を行うクライアント。

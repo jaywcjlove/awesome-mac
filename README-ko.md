@@ -425,6 +425,7 @@ Awesome Mac
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 딥링크 관리자.
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Android 에뮬레이터와 기기, iOS 시뮬레이터와 iPhone을 나란히 미러링하고 제어하며 테스트하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - 파일 비교 및 병합 도구. ![Freeware][Freeware Icon]
+* [DevCatz](https://catzoid.com/devcatz) - 프로젝트 폴더를 자체 https://*.localhost 주소로 실행하는 로컬 개발 환경. 런타임, 데이터베이스, 메일, 터널 포함. [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DevCatz) ![Freeware][Freeware Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [Eleven](https://github.com/Zfinix/eleven) - AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱. [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
@@ -488,6 +489,7 @@ Awesome Mac
 
 * [bruno](https://www.usebruno.com/) - 오프라인 전용, Git 친화적 오픈 소스 API 클라이언트. ![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - HTTP/REST 엔드포인트 테스트 도구. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [DialCatz](https://catzoid.com/dialcatz) - REST, GraphQL, WebSocket을 지원하는 API 클라이언트. 컬렉션, 환경, 스크립트와 셀프 호스팅 팀 서버 제공. [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DialCatz) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - 오픈 소스 API 클라이언트이자 Postman 대안.
 * [HTTPie](https://httpie.io/) - API를 단순하고 직관적으로 만드는 도구. ![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 경량 API 디버깅 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
@@ -542,6 +544,7 @@ Awesome Mac
 
 ### 가상화
 
+* [DoCatz](https://catzoid.com/docatz) - Docker 엔진 및 컨테이너 관리자. Compose 프로젝트, 로그, 터미널을 제공하고 각 컨테이너에 고유한 https:// 이름 부여. [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DoCatz) ![Freeware][Freeware Icon]
 * [Docker](https://www.docker.com/) - 운영체제 수준의 가상화. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon]
 * [Berthly](https://berthly.net) - Apple container 도구용 네이티브 GUI. 메뉴바 실시간 모니터링과 드래그 앤 드롭 이미지 빌드 지원. [![Open-Source Software][OSS Icon]](https://github.com/henrywang/Berthly) ![Freeware][Freeware Icon]
 * [Gantry](https://github.com/getgantry/gantry) - 로컬과 SSH 원격 호스트를 통합 관리하는 Docker GUI 클라이언트로, MCP 서버를 내장. [![Open-Source Software][OSS Icon]](https://github.com/getgantry/gantry) ![Freeware][Freeware Icon]
@@ -564,6 +567,7 @@ Awesome Mac
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 매끄러운 SQL 편집기 및 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 많은 데이터베이스를 지원하는 지능형 도구.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite를 위한 공식 DB 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
+* [DBCatz](https://catzoid.com/dbcatz) - MySQL, MariaDB, PostgreSQL, SQLite, Redis, Valkey, MongoDB, Elasticsearch를 지원하고 SSH, AWS IAM, Vault로 연결할 수 있는 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/catzoidhub/DBCatz) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - 유니버설 SQL 클라이언트.
 * [DBine](https://dbine.com) - 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자. [![Open-Source Software][OSS Icon]](https://github.com/addlayer-io/dbine) ![Freeware][Freeware Icon]
 * [DB Pro](https://dbpro.app) - SQL 데이터베이스를 조회하고 관리하는 클라이언트.
