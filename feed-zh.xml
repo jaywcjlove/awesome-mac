@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:38:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LD Manager</title>
+      <link>https://codonic.dev/apps/ldmanager</link>
+      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
+      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: LD Manager
+Description: 开源 launchd 管理工具，列出所有 LaunchAgent 和 LaunchDaemon，说明任务为何没有运行，并以差异对比和备份无损编辑 plist。
+Website: https://codonic.dev/apps/ldmanager
+Open Source: https://github.com/roeehrl/ldmanager
+Commit: Add LD Manager to System Related Tools (#4573)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: LD Manager<br/>Description: 开源 launchd 管理工具，列出所有 LaunchAgent 和 LaunchDaemon，说明任务为何没有运行，并以差异对比和备份无损编辑 plist。<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
+    </item>
     <item>
       <title>Takeline</title>
       <link>https://github.com/Bouliw/takeline</link>
@@ -715,22 +730,6 @@ Open Source: https://github.com/romabmstu/polka
 Commit: Add Polka to Menu Bar Tools (#4390)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Polka<br/>Description: 把 MacBook 刘海变成控制中心，集中管理 VPN 连接、任意浏览器的标签页分组、正在播放、日历、本地翻译和剪贴板历史。<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
-    </item>
-    <item>
-      <title>Show Bar</title>
-      <link>https://rept0rix.github.io/show-bar/</link>
-      <guid isPermaLink="false">4d3928782535751a5aea8917f5c3cfbd06e4181c:Show Bar</guid>
-      <pubDate>Sun, 08 Nov 2026 13:12:19 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: Show Bar
-Description: 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。
-Website: https://rept0rix.github.io/show-bar/
-Open Source: https://github.com/rept0rix/show-bar
-App Store: https://apps.apple.com/app/id6818509447?platform=mac
-Commit: Add Show Bar under Window Management (#4378)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Show Bar<br/>Description: 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。<br/>Website: https://rept0rix.github.io/show-bar/<br/>Open Source: https://github.com/rept0rix/show-bar<br/>App Store: https://apps.apple.com/app/id6818509447?platform=mac<br/>Commit: Add Show Bar under Window Management (#4378)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:38:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>LD Manager</title>
+      <link>https://codonic.dev/apps/ldmanager</link>
+      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
+      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: LD Manager
+Description: Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn&apos;t running, and edits plists losslessly with diffs and backups.
+Website: https://codonic.dev/apps/ldmanager
+Open Source: https://github.com/roeehrl/ldmanager
+Commit: Add LD Manager to System Related Tools (#4573)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: LD Manager<br/>Description: Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn&apos;t running, and edits plists losslessly with diffs and backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
+    </item>
     <item>
       <title>MacSweep</title>
       <link>https://github.com/nihal4/macsweep</link>
@@ -714,21 +729,6 @@ Open Source: https://github.com/hridaya423/cue
 Commit: Add Cue (#4345)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Cue<br/>Description: Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.<br/>Website: https://cue.hridya.tech<br/>Open Source: https://github.com/hridaya423/cue<br/>Commit: Add Cue (#4345)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b]]></content:encoded>
-    </item>
-    <item>
-      <title>Polka</title>
-      <link>https://romabmstu.github.io/polka/</link>
-      <guid isPermaLink="false">c7f934623125ed24730ff10fa457108b220b06ad:Polka</guid>
-      <pubDate>Mon, 09 Nov 2026 03:36:28 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Polka
-Description: Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.
-Website: https://romabmstu.github.io/polka/
-Open Source: https://github.com/romabmstu/polka
-Commit: Add Polka to Menu Bar Tools (#4390)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Polka<br/>Description: Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
     </item>
   </channel>
 </rss>
