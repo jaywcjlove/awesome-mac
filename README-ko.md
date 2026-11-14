@@ -686,6 +686,7 @@ Awesome Mac
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.
 * [Screenize](https://syi0808.github.io/screenize/) - 자동 줌, 커서 효과, 타임라인 편집을 지원하는 오픈 소스 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 소스 코드가 공개된 화면·오디오 기록 도구로, 로컬 기록 검색과 선택적 클라우드 AI 처리, 무료 및 유료 요금제를 제공합니다.
+* [Screentell](https://screentell.com) - Free in-browser screen recorder and editor for Mac with focus zoom, 3D motion and annotations; no install needed, local processing.
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
 * [TinyRecorder](https://www.tinyrecorder.app/en/) - 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다. [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 
