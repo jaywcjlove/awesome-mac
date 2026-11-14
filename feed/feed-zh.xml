@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vigie</title>
+      <link>https://github.com/Bouliw/vigie</link>
+      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
+      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: Vigie
+Description: 开源蓝队工具，对 macOS 统一日志、Windows 事件日志和 Linux auth.log（实时或已收集的文件）运行 Sigma 检测规则，并生成映射到 MITRE ATT&amp;CK 的报告。
+Open Source: https://github.com/Bouliw/vigie
+Commit: Add Vigie to Security Tools (#4362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: Vigie<br/>Description: 开源蓝队工具，对 macOS 统一日志、Windows 事件日志和 Linux auth.log（实时或已收集的文件）运行 Sigma 检测规则，并生成映射到 MITRE ATT&amp;CK 的报告。<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
+    </item>
     <item>
       <title>Lafz Prompter</title>
       <link>https://lafz.waqasrana.space/</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/hridaya423/quill
 Commit: Add Quill (#4343)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Quill<br/>Description: 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
-    </item>
-    <item>
-      <title>Knovum</title>
-      <link>https://github.com/madebyzan/knovum</link>
-      <guid isPermaLink="false">54fa4dded9a3604b68751c6656701973cf675721:Knovum</guid>
-      <pubDate>Sat, 07 Nov 2026 11:04:14 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Knovum
-Description: 本地优先的二维空间 AI 知识库，集成嵌入式 LanceDB 向量检索、无限画布与端侧 Whisper 语音转录。
-Open Source: https://github.com/madebyzan/knovum
-Commit: Add Knovum to Note-taking section (#3815)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Knovum<br/>Description: 本地优先的二维空间 AI 知识库，集成嵌入式 LanceDB 向量检索、无限画布与端侧 Whisper 语音转录。<br/>Open Source: https://github.com/madebyzan/knovum<br/>Commit: Add Knovum to Note-taking section (#3815)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721]]></content:encoded>
     </item>
   </channel>
 </rss>

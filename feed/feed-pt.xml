@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vigie</title>
+      <link>https://github.com/Bouliw/vigie</link>
+      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
+      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
+      <category>Ferramentas de Segurança</category>
+      <description>Category: Ferramentas de Segurança
+App: Vigie
+Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.
+Open Source: https://github.com/Bouliw/vigie
+Commit: Add Vigie to Security Tools (#4362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Segurança<br/>App: Vigie<br/>Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
+    </item>
     <item>
       <title>MagicInput</title>
       <link>https://bullfighterstudio.com/magicinput</link>
@@ -719,21 +733,6 @@ Website: https://marxi.co/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marxico<br/>Description: Editor de Markdown delicado para o Evernote. Armazenamento e sincronização confiáveis.<br/>Website: https://marxi.co/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>MDViewer</title>
-      <link>https://mmmikael.github.io/mdviewer/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:MDViewer</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: MDViewer
-Description: Visualizador rápido de Markdown com recarregamento ao vivo, pré-visualizações do Quick Look, Mermaid, matemática e resumos opcionais por IA, com seu próprio modelo ou um modelo local.
-Website: https://mmmikael.github.io/mdviewer/
-Open Source: https://github.com/mmmikael/mdviewer
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MDViewer<br/>Description: Visualizador rápido de Markdown com recarregamento ao vivo, pré-visualizações do Quick Look, Mermaid, matemática e resumos opcionais por IA, com seu próprio modelo ou um modelo local.<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Open Source: https://github.com/mmmikael/mdviewer<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
