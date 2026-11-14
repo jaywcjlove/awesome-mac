@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vigie</title>
+      <link>https://github.com/Bouliw/vigie</link>
+      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
+      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
+      <category>보안 도구</category>
+      <description>Category: 보안 도구
+App: Vigie
+Description: macOS 통합 로그, Windows 이벤트 로그, Linux auth.log(실시간 또는 수집된 파일)에 Sigma 탐지 규칙을 실행하고 MITRE ATT&amp;CK에 매핑된 보고서를 작성하는 오픈 소스 블루팀 도구.
+Open Source: https://github.com/Bouliw/vigie
+Commit: Add Vigie to Security Tools (#4362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
+      <content:encoded><![CDATA[Category: 보안 도구<br/>App: Vigie<br/>Description: macOS 통합 로그, Windows 이벤트 로그, Linux auth.log(실시간 또는 수집된 파일)에 Sigma 탐지 규칙을 실행하고 MITRE ATT&amp;CK에 매핑된 보고서를 작성하는 오픈 소스 블루팀 도구.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
+    </item>
     <item>
       <title>Lafz Prompter</title>
       <link>https://lafz.waqasrana.space/</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/yuvrajangadsingh/camber
 Commit: Add camber to Browsers (#4286)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
       <content:encoded><![CDATA[Category: 브라우저<br/>App: camber<br/>Description: Chromium(Electron) 기반 오픈소스 Arc 스타일 브라우저. Spaces, 고정 탭, 폴더, 명령 바, Arc 가져오기 지원.<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
-    </item>
-    <item>
-      <title>Convoy</title>
-      <link>https://thedynamicpunk.github.io</link>
-      <guid isPermaLink="false">7f6385ffb8ed73ff643bfa4fb8de237215f1865c:Convoy</guid>
-      <pubDate>Fri, 06 Nov 2026 07:31:36 GMT</pubDate>
-      <category>다운로드 관리 도구</category>
-      <description>Category: 다운로드 관리 도구
-App: Convoy
-Description: 분할 다운로드, 브라우저 연동, HLS 및 DASH 스트림을 지원하는 오픈 소스 다운로드 관리자.
-Website: https://thedynamicpunk.github.io
-Open Source: https://github.com/TheDynamicPunk/Convoy
-Commit: Add Convoy to Download Management Tools (#4281)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c</description>
-      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Convoy<br/>Description: 분할 다운로드, 브라우저 연동, HLS 및 DASH 스트림을 지원하는 오픈 소스 다운로드 관리자.<br/>Website: https://thedynamicpunk.github.io<br/>Open Source: https://github.com/TheDynamicPunk/Convoy<br/>Commit: Add Convoy to Download Management Tools (#4281)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7f6385ffb8ed73ff643bfa4fb8de237215f1865c]]></content:encoded>
     </item>
   </channel>
 </rss>
