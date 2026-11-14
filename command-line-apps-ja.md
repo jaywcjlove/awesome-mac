@@ -165,6 +165,7 @@ Awesome Command Line Apps
 * [GitHub CLI](https://github.com/cli/cli) - ghはコマンドライン上のGitHub。プルリクエスト、イシュー、その他のGitHubの概念を、gitやコードの作業をしているターミナルに持ち込む。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glances](https://github.com/nicolargo/glances) - クロスプラットフォームのcursesベースシステム監視ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Go2Shell](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac) - Finderの現在のディレクトリでターミナルウィンドウを開く。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac)
+* [Gravity CLI](https://www.gravitynotes.app/cli) - スクリプトやAIエージェント向けのJSON出力に対応し、Gravity Macアプリのメモをターミナルから読み取り・検索・追加できるツール。
 * [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS なしで Synology Hyper Backup（.hbk）アーカイブを読み込み、復元できるコマンドラインツール（TUI 付き）。 [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [hns](https://github.com/primaprashant/hns) - マイクからの音声を直接クリップボードに文字起こしする音声テキスト変換ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - Unixシステム向けのインタラクティブなテキストモードプロセスビューアー。より良い'top'を目指す。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)

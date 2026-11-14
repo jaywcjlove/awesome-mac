@@ -153,6 +153,7 @@
 * [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
+* [Gravity CLI](https://www.gravitynotes.app/cli) - 스크립트와 AI 에이전트를 위한 JSON 출력을 지원하며, 터미널에서 Gravity Mac 앱의 노트를 읽고 검색하고 추가하는 도구.
 * [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS 없이 Synology Hyper Backup(.hbk) 아카이브를 읽고 복원하는 명령줄 도구(TUI 포함). [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 간단한 Mac App Store 명령줄 인터페이스. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
