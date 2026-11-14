@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:09:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roughcut</title>
+      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
+      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
+      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Roughcut
+Description: 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。
+Open Source: https://github.com/Bouliw/fcpxml-roughcut
+Commit: Add Roughcut to Audio and Video Tools (#4367)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Roughcut<br/>Description: 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
+    </item>
     <item>
       <title>Vigie</title>
       <link>https://github.com/Bouliw/vigie</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/Dhunu/gitOS
 Commit: Add GitOS to Version Control (#4337)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 版本控制 GUI<br/>App: GitOS<br/>Description: 为每个仓库自动选择正确 GitHub 账号的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS)<br/>Website: https://gitos.angelsaikia.com/<br/>Open Source: https://github.com/Dhunu/gitOS<br/>Commit: Add GitOS to Version Control (#4337)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0]]></content:encoded>
-    </item>
-    <item>
-      <title>Quill</title>
-      <link>https://quill.hridya.tech</link>
-      <guid isPermaLink="false">6beb17e191493510b447726df5053a41678cd111:Quill</guid>
-      <pubDate>Sun, 08 Nov 2026 06:39:18 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Quill
-Description: 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。
-Website: https://quill.hridya.tech
-Open Source: https://github.com/hridaya423/quill
-Commit: Add Quill (#4343)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Quill<br/>Description: 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
     </item>
   </channel>
 </rss>

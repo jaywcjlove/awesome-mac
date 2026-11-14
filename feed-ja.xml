@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:09:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roughcut</title>
+      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
+      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
+      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
+      <category>オーディオ・ビデオツール</category>
+      <description>Category: オーディオ・ビデオツール
+App: Roughcut
+Description: トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。
+Open Source: https://github.com/Bouliw/fcpxml-roughcut
+Commit: Add Roughcut to Audio and Video Tools (#4367)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Roughcut<br/>Description: トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
+    </item>
     <item>
       <title>Vigie</title>
       <link>https://github.com/Bouliw/vigie</link>
@@ -717,21 +731,6 @@ Website: https://eugene-tea.github.io/stage-manager/
 Commit: Add Stage Manager to Window Management (#4297)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Stage Manager<br/>Description: Rust製のAppleのステージマネージャの代替。再起動後もステージを保持し、Ctrl-Option-1..9で切り替え。<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
-    </item>
-    <item>
-      <title>camber</title>
-      <link>https://www.yuvrajangadsingh.com/camber</link>
-      <guid isPermaLink="false">c574043bbd45da524e5f2e2f28db2876b235a4af:camber</guid>
-      <pubDate>Fri, 06 Nov 2026 07:41:10 GMT</pubDate>
-      <category>ブラウザ</category>
-      <description>Category: ブラウザ
-App: camber
-Description: Chromium（Electron）ベースのオープンソース Arc スタイルブラウザ。Spaces、固定タブ、フォルダ、コマンドバー、Arc からのインポートに対応。
-Website: https://www.yuvrajangadsingh.com/camber
-Open Source: https://github.com/yuvrajangadsingh/camber
-Commit: Add camber to Browsers (#4286)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af</description>
-      <content:encoded><![CDATA[Category: ブラウザ<br/>App: camber<br/>Description: Chromium（Electron）ベースのオープンソース Arc スタイルブラウザ。Spaces、固定タブ、フォルダ、コマンドバー、Arc からのインポートに対応。<br/>Website: https://www.yuvrajangadsingh.com/camber<br/>Open Source: https://github.com/yuvrajangadsingh/camber<br/>Commit: Add camber to Browsers (#4286)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c574043bbd45da524e5f2e2f28db2876b235a4af]]></content:encoded>
     </item>
   </channel>
 </rss>

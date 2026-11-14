@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:09:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roughcut</title>
+      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
+      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
+      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Roughcut
+Description: Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model.
+Open Source: https://github.com/Bouliw/fcpxml-roughcut
+Commit: Add Roughcut to Audio and Video Tools (#4367)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Roughcut<br/>Description: Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
+    </item>
     <item>
       <title>Vigie</title>
       <link>https://github.com/Bouliw/vigie</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/Dhunu/gitOS
 Commit: Add GitOS to Version Control (#4337)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0</description>
       <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: GitOS<br/>Description: Git client that automatically picks the right GitHub account for every repository.<br/>Website: https://gitos.angelsaikia.com/<br/>Open Source: https://github.com/Dhunu/gitOS<br/>Commit: Add GitOS to Version Control (#4337)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0]]></content:encoded>
-    </item>
-    <item>
-      <title>Quill</title>
-      <link>https://quill.hridya.tech</link>
-      <guid isPermaLink="false">6beb17e191493510b447726df5053a41678cd111:Quill</guid>
-      <pubDate>Sun, 08 Nov 2026 06:39:18 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Quill
-Description: Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change.
-Website: https://quill.hridya.tech
-Open Source: https://github.com/hridaya423/quill
-Commit: Add Quill (#4343)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Quill<br/>Description: Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change.<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
     </item>
   </channel>
 </rss>
