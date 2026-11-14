@@ -3,8 +3,17 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 用语音输入。按下按键，自然地说话。</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">输入内容会根据你当前使用的应用自动排版。支持本地 AI 模型，可离线使用，免费且开源。</a>
+  <br/><br/>
+
+
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
   <br>
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - 遍布整个 Mac 的 AI 智能体</a><br/>
@@ -83,7 +92,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
-[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/awesomemacosapp)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
@@ -118,10 +127,12 @@
 ## 媒体
 
 * [cmus](https://cmus.github.io/) - 命令行播放音乐应用。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 修复由本地文件组成的音乐资料库：清理标题，从 Deezer 获取封面和专辑信息，从 LRCLIB 添加歌词，删除重复歌曲，并将整张专辑拆分为单曲。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - 从 YouTube.com 及其他一些网站下载视频。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 开发者工具
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - 手动或在接近用量上限时自动切换 Claude Code 和 Codex CLI 账号，并查看每个账号的 5 小时和每周用量。 [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 用命名配置切换 Claude Code、Codex、Gemini 和 Antigravity CLI 账号，并可按仓库限定所用账号。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - 适用于 Apple silicon 原生 container 运行时、兼容 Docker Compose 的 CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - HTTPie 是一个让你微笑的命令行 HTTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
@@ -143,6 +154,7 @@
 * [Dnote](https://www.getdnote.com/) - 命令行上的笔记本，支持多设备同步和网络界面。 [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 智能且用户友好的命令行终端。 [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 在命令行中查看你系统运行状态的工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
+* [hbkit](https://github.com/YordiLorenzo/hbkit) - 无需 NAS，即可在命令行或 TUI 中读取并恢复群晖 Hyper Backup（.hbk）备份。 [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [job](https://github.com/liujianping/job) - 短命令并发、重复执行工具, 适用于压测. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
 * [LNav](http://lnav.org) - 日志文件阅读器. [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - 用于 macOS 的瑞士军刀。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]

@@ -3,8 +3,17 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 음성으로 입력하세요. 키를 누르고 자연스럽게 말하면 됩니다.</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">사용 중인 앱에 맞게 내용이 자동으로 서식 지정됩니다. 로컬 AI 모델을 사용하며 오프라인에서도 작동하고, 무료 오픈 소스입니다.</a>
+  <br/><br/>
+
+
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
   <br>
   <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - Mac 전반에서 작동하는 AI 에이전트</a><br/>
@@ -83,7 +92,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
-[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/awesomemacosapp)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
@@ -118,10 +127,12 @@
 ## 미디어
 
 * [cmus](https://cmus.github.io/) - 명령줄 기반의 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 로컬 파일로 된 음악 보관함을 고치는 도구: 제목 정리, Deezer의 아트워크와 앨범 정보, LRCLIB의 가사, 중복 제거, 앨범을 곡별로 분할. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.com 및 기타 사이트에서 비디오를 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 개발자 도구
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude Code와 Codex CLI 계정을 수동으로 또는 한도에 가까워지면 자동으로 전환하고 각 계정의 5시간 및 주간 사용량을 표시. [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 이름이 지정된 프로필로 Claude Code, Codex, Gemini, Antigravity CLI 계정을 전환하고 저장소별로 사용할 계정을 고정. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple silicon의 기본 container 런타임을 위한 Docker Compose 호환 CLI. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
@@ -142,6 +153,7 @@
 * [Clipport](https://github.com/arihantsethia/clipport) - Mac 클립보드 텍스트와 스크린샷을 원격 iTerm SSH 세션에 붙여넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/arihantsethia/clipport) ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
+* [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS 없이 Synology Hyper Backup(.hbk) 아카이브를 읽고 복원하는 명령줄 도구(TUI 포함). [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 간단한 Mac App Store 명령줄 인터페이스. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]

@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Awesome Mac - Aplicativos adicionados recentemente</title>
+    <link>https://jaywcjlove.github.io/awesome-mac</link>
+    <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 14 Nov 2026 12:28:33 GMT</lastBuildDate>
+    <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
+    <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sheer</title>
+      <link>https://github.com/AzurLiu/sheer</link>
+      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
+      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: Sheer
+Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.
+Open Source: https://github.com/AzurLiu/sheer
+Commit: Add Sheer to Menu Bar Tools (#4592)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Sheer<br/>Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
+    </item>
+    <item>
+      <title>LD Manager</title>
+      <link>https://codonic.dev/apps/ldmanager</link>
+      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
+      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
+      <category>Utilitários / Ferramentas Relacionadas ao Sistema</category>
+      <description>Category: Utilitários / Ferramentas Relacionadas ao Sistema
+App: LD Manager
+Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.
+Website: https://codonic.dev/apps/ldmanager
+Open Source: https://github.com/roeehrl/ldmanager
+Commit: Add LD Manager to System Related Tools (#4573)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: LD Manager<br/>Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
+    </item>
+    <item>
+      <title>Takeline</title>
+      <link>https://github.com/Bouliw/takeline</link>
+      <guid isPermaLink="false">24819d74197eb50e8d77d149b1aa16e931183b22:Takeline</guid>
+      <pubDate>Sat, 14 Nov 2026 04:14:40 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Takeline
+Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.
+Open Source: https://github.com/Bouliw/takeline
+Commit: Add Takeline to Productivity (#4368)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Takeline<br/>Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
+    </item>
+    <item>
+      <title>Roughcut</title>
+      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
+      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
+      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo</category>
+      <description>Category: Ferramentas de Áudio e Vídeo
+App: Roughcut
+Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.
+Open Source: https://github.com/Bouliw/fcpxml-roughcut
+Commit: Add Roughcut to Audio and Video Tools (#4367)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: Roughcut<br/>Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
+    </item>
+    <item>
+      <title>Vigie</title>
+      <link>https://github.com/Bouliw/vigie</link>
+      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
+      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
+      <category>Ferramentas de Segurança</category>
+      <description>Category: Ferramentas de Segurança
+App: Vigie
+Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.
+Open Source: https://github.com/Bouliw/vigie
+Commit: Add Vigie to Security Tools (#4362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Segurança<br/>App: Vigie<br/>Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
+    </item>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: MagicInput
+Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: MagicInput<br/>Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
+    <item>
+      <title>Usagebar</title>
+      <link>https://bullfighterstudio.com/usagebar</link>
+      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: Usagebar
+Description: Mostra na barra de menus os limites de uso do Claude Code, Codex, Cursor, Kimi Code, z.ai e DeepSeek, e quando eles são redefinidos.
+Website: https://bullfighterstudio.com/usagebar
+Open Source: https://github.com/betoxf/Usagebar
+Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: Usagebar<br/>Description: Mostra na barra de menus os limites de uso do Claude Code, Codex, Cursor, Kimi Code, z.ai e DeepSeek, e quando eles são redefinidos.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
+    </item>
+    <item>
+      <title>Aurora Editor</title>
+      <link>https://auroraeditor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Aurora Editor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Aurora Editor
+Description: Editor de código leve (IDE) para macOS.
+Website: https://auroraeditor.com/
+Open Source: https://github.com/AuroraEditor/AuroraEditor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Aurora Editor<br/>Description: Editor de código leve (IDE) para macOS.<br/>Website: https://auroraeditor.com/<br/>Open Source: https://github.com/AuroraEditor/AuroraEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Bootstrap Studio</title>
+      <link>https://bootstrapstudio.io/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Bootstrap Studio</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Bootstrap Studio
+Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.
+Website: https://bootstrapstudio.io/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Bootstrap Studio<br/>Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Brackets</title>
+      <link>https://brackets.io</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Brackets</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Brackets
+Description: Um editor de texto moderno e de código aberto que entende de design web.
+Website: https://brackets.io
+Open Source: https://github.com/brackets-cont/brackets/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Brackets<br/>Description: Um editor de texto moderno e de código aberto que entende de design web.<br/>Website: https://brackets.io<br/>Open Source: https://github.com/brackets-cont/brackets/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>CodeEdit</title>
+      <link>https://www.codeedit.app/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CodeEdit</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: CodeEdit
+Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.
+Website: https://www.codeedit.app/
+Open Source: https://github.com/CodeEditApp/CodeEdit
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CodeEdit<br/>Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.<br/>Website: https://www.codeedit.app/<br/>Open Source: https://github.com/CodeEditApp/CodeEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>CotEditor</title>
+      <link>https://coteditor.com</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CotEditor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: CotEditor
+Description: Editor de texto simples e leve para macOS.
+Website: https://coteditor.com
+Open Source: https://github.com/coteditor/CotEditor/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CotEditor<br/>Description: Editor de texto simples e leve para macOS.<br/>Website: https://coteditor.com<br/>Open Source: https://github.com/coteditor/CotEditor/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Cursor</title>
+      <link>https://cursor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Cursor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Cursor
+Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.
+Website: https://cursor.com/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Cursor<br/>Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.<br/>Website: https://cursor.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Emacs</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Emacs
+Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.
+Website: https://www.emacswiki.org/emacs/EmacsForMacOS
+Open Source: https://git.savannah.gnu.org/cgit/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Emacs<br/>Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Open Source: https://git.savannah.gnu.org/cgit/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Haystack Editor</title>
+      <link>https://github.com/haystackeditor/haystack-editor</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Haystack Editor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Haystack Editor
+Description: Editor de código com interface em canvas para melhor compreensão do código.
+Open Source: https://github.com/haystackeditor/haystack-editor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Haystack Editor<br/>Description: Editor de código com interface em canvas para melhor compreensão do código.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Helix</title>
+      <link>https://helix-editor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Helix</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Helix
+Description: Um editor de texto modal pós-moderno.
+Website: https://helix-editor.com/
+Open Source: https://github.com/helix-editor/helix/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Helix<br/>Description: Um editor de texto modal pós-moderno.<br/>Website: https://helix-editor.com/<br/>Open Source: https://github.com/helix-editor/helix/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Itsypad</title>
+      <link>https://itsypad.app</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Itsypad</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Itsypad
+Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.
+Website: https://itsypad.app
+Open Source: https://github.com/nickustinov/itsypad-macos
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Itsypad<br/>Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.<br/>Website: https://itsypad.app<br/>Open Source: https://github.com/nickustinov/itsypad-macos<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Lapce</title>
+      <link>https://lapce.dev/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Lapce</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Lapce
+Description: Editor de código extremamente rápido e poderoso.
+Website: https://lapce.dev/
+Open Source: https://github.com/lapce/lapce
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Lapce<br/>Description: Editor de código extremamente rápido e poderoso.<br/>Website: https://lapce.dev/<br/>Open Source: https://github.com/lapce/lapce<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>LightTable</title>
+      <link>https://lighttable.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LightTable</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: LightTable
+Description: A próxima geração de editores de código.
+Website: https://lighttable.com/
+Open Source: https://github.com/LightTable/LightTable
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: LightTable<br/>Description: A próxima geração de editores de código.<br/>Website: https://lighttable.com/<br/>Open Source: https://github.com/LightTable/LightTable<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LiteEdit</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: LiteEdit
+Description: Editor de código nativo e rápido para macOS, com menos de 1 MB. Feito em Swift e AppKit, sem Electron.
+Website: https://arietan.github.io/lite-edit/
+Open Source: https://github.com/arietan/lite-edit
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: LiteEdit<br/>Description: Editor de código nativo e rápido para macOS, com menos de 1 MB. Feito em Swift e AppKit, sem Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Open Source: https://github.com/arietan/lite-edit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>MacVim</title>
+      <link>https://github.com/macvim-dev/macvim</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:MacVim</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: MacVim
+Description: O editor de texto Vim para macOS.
+Open Source: https://github.com/macvim-dev/macvim
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: MacVim<br/>Description: O editor de texto Vim para macOS.<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>micro</title>
+      <link>https://micro-editor.github.io</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:micro</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: micro
+Description: Editor de texto moderno e intuitivo baseado em terminal.
+Website: https://micro-editor.github.io
+Open Source: https://github.com/ory/editor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: micro<br/>Description: Editor de texto moderno e intuitivo baseado em terminal.<br/>Website: https://micro-editor.github.io<br/>Open Source: https://github.com/ory/editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Neovim</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Neovim
+Description: Fork do Vim focado em extensibilidade e usabilidade.
+Open Source: https://github.com/neovim/neovim
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Neovim<br/>Description: Fork do Vim focado em extensibilidade e usabilidade.<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>NeatEditor</title>
+      <link>https://github.com/NeatMacApps/NeatEditor</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:NeatEditor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: NeatEditor
+Description: Editor de texto simples, nativo e rápido para macOS, feito para escrever sem distrações.
+Open Source: https://github.com/NeatMacApps/NeatEditor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: NeatEditor<br/>Description: Editor de texto simples, nativo e rápido para macOS, feito para escrever sem distrações.<br/>Open Source: https://github.com/NeatMacApps/NeatEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Nova</title>
+      <link>https://nova.app/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Nova</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Nova
+Description: O editor de código nativo para Mac, bonito, rápido e flexível, da Panic.
+Website: https://nova.app/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Nova<br/>Description: O editor de código nativo para Mac, bonito, rápido e flexível, da Panic.<br/>Website: https://nova.app/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Plain Text Editor</title>
+      <link>https://sindresorhus.com/plain-text-editor</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Plain Text Editor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Plain Text Editor
+Description: Bloco de notas simples e sem distrações.
+Website: https://sindresorhus.com/plain-text-editor
+App Store: https://apps.apple.com/app/id1572202501?platform=mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Plain Text Editor<br/>Description: Bloco de notas simples e sem distrações.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>App Store: https://apps.apple.com/app/id1572202501?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Sublime Text</title>
+      <link>https://www.sublimetext.com/3</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Sublime Text</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Sublime Text
+Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.
+Website: https://www.sublimetext.com/3
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Sublime Text<br/>Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.<br/>Website: https://www.sublimetext.com/3<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>SubEthaEdit</title>
+      <link>https://subethaedit.net/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:SubEthaEdit</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: SubEthaEdit
+Description: Editor poderoso para escrever, programar e colaborar a qualquer hora e em qualquer lugar!
+Website: https://subethaedit.net/
+Open Source: https://github.com/subethaedit/SubEthaEdit
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: SubEthaEdit<br/>Description: Editor poderoso para escrever, programar e colaborar a qualquer hora e em qualquer lugar!<br/>Website: https://subethaedit.net/<br/>Open Source: https://github.com/subethaedit/SubEthaEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>TextMate</title>
+      <link>https://macromates.com</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:TextMate</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: TextMate
+Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.
+Website: https://macromates.com
+Open Source: https://github.com/textmate/textmate
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: TextMate<br/>Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.<br/>Website: https://macromates.com<br/>Open Source: https://github.com/textmate/textmate<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Tot</title>
+      <link>https://tot.rocks/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Tot</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Tot
+Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!
+Website: https://tot.rocks/
+App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Tot<br/>Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!<br/>Website: https://tot.rocks/<br/>App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>https://www.vim.org/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Vim</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Vim
+Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.
+Website: https://www.vim.org/
+Open Source: https://github.com/vim/vim
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vim<br/>Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.<br/>Website: https://www.vim.org/<br/>Open Source: https://github.com/vim/vim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Vimr</title>
+      <link>https://vimr.org/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Vimr</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Vimr
+Description: Experiência Vim refinada para OS X.
+Website: https://vimr.org/
+Open Source: https://github.com/qvacua/vimr/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vimr<br/>Description: Experiência Vim refinada para OS X.<br/>Website: https://vimr.org/<br/>Open Source: https://github.com/qvacua/vimr/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Windsurf</title>
+      <link>https://windsurf.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Windsurf</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Windsurf
+Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.
+Website: https://windsurf.com/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Windsurf<br/>Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.<br/>Website: https://windsurf.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Zed</title>
+      <link>https://zed.dev/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Zed</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Zed
+Description: Um editor de código multiplayer de alto desempenho, criado pelos autores do Atom e do Tree-sitter.
+Website: https://zed.dev/
+Open Source: https://github.com/zed-industries/zed
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Zed<br/>Description: Um editor de código multiplayer de alto desempenho, criado pelos autores do Atom e do Tree-sitter.<br/>Website: https://zed.dev/<br/>Open Source: https://github.com/zed-industries/zed<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Keynote</title>
+      <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Keynote</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Keynote
+Description: Crie apresentações impressionantes.
+App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Keynote<br/>Description: Crie apresentações impressionantes.<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>LibreOffice</title>
+      <link>https://www.libreoffice.org</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LibreOffice</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: LibreOffice
+Description: Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade.
+Website: https://www.libreoffice.org
+Open Source: https://www.libreoffice.org/about-us/source-code/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: LibreOffice<br/>Description: Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade.<br/>Website: https://www.libreoffice.org<br/>Open Source: https://www.libreoffice.org/about-us/source-code/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft Office</title>
+      <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Microsoft Office</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Microsoft Office
+Description: Inconfundivelmente Office, projetado para Mac.
+Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
+App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Microsoft Office<br/>Description: Inconfundivelmente Office, projetado para Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Numbers</title>
+      <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Numbers</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Numbers
+Description: Crie planilhas impressionantes.
+App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Numbers<br/>Description: Crie planilhas impressionantes.<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>OnlyOffice</title>
+      <link>https://www.onlyoffice.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:OnlyOffice</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: OnlyOffice
+Description: Suíte de escritório com editores de documentos, planilhas e apresentações.
+Website: https://www.onlyoffice.com/
+Open Source: https://github.com/ONLYOFFICE/DesktopEditors
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: OnlyOffice<br/>Description: Suíte de escritório com editores de documentos, planilhas e apresentações.<br/>Website: https://www.onlyoffice.com/<br/>Open Source: https://github.com/ONLYOFFICE/DesktopEditors<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>https://apps.apple.com/app/pages/id409201541?platform=mac</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Pages</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Pages
+Description: Documentos que se destacam.
+App Store: https://apps.apple.com/app/pages/id409201541?platform=mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Pages<br/>Description: Documentos que se destacam.<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>SoftMaker Office</title>
+      <link>https://www.softmaker.com/en/softmaker-office</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:SoftMaker Office</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: SoftMaker Office
+Description: Uma suíte de escritório completa que busca total compatibilidade com documentos do Microsoft Office.
+Website: https://www.softmaker.com/en/softmaker-office
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: SoftMaker Office<br/>Description: Uma suíte de escritório completa que busca total compatibilidade com documentos do Microsoft Office.<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>WPS</title>
+      <link>https://www.wps.com/mac</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:WPS</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: WPS
+Description: É uma suíte de software de escritório multiplataforma.
+Website: https://www.wps.com/mac
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: WPS<br/>Description: É uma suíte de software de escritório multiplataforma.<br/>Website: https://www.wps.com/mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Archimedes</title>
+      <link>https://furnacecreek.org/archimedes/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Archimedes</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Archimedes
+Description: Editor de Markdown nativo para macOS voltado à escrita matemática, com suporte a LaTeX em linha.
+Website: https://furnacecreek.org/archimedes/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Archimedes<br/>Description: Editor de Markdown nativo para macOS voltado à escrita matemática, com suporte a LaTeX em linha.<br/>Website: https://furnacecreek.org/archimedes/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Edmund</title>
+      <link>https://github.com/I7T5/Edmund</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Edmund</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Edmund
+Description: Editor de Markdown minimalista e nativo para macOS, com pré-visualização ao vivo; funciona com seus arquivos existentes, sem cofre.
+Open Source: https://github.com/I7T5/Edmund
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Editor de Markdown minimalista e nativo para macOS, com pré-visualização ao vivo; funciona com seus arquivos existentes, sem cofre.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>EME</title>
+      <link>https://github.com/egoist/eme</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:EME</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: EME
+Description: Editor de Markdown de código aberto com interface semelhante à do Chrome.
+Open Source: https://github.com/egoist/eme
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Editor de Markdown de código aberto com interface semelhante à do Chrome.<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>iA Writer</title>
+      <link>https://ia.net/writer/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:iA Writer</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: iA Writer
+Description: App de escrita com foco em simplicidade e design.
+Website: https://ia.net/writer/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: App de escrita com foco em simplicidade e design.<br/>Website: https://ia.net/writer/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Imark</title>
+      <link>https://github.com/migsilva89/imark</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Imark</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Imark
+Description: Leitor de Markdown de código aberto que armazena seus comentários dentro do próprio documento como comentários HTML.
+Open Source: https://github.com/migsilva89/imark
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Leitor de Markdown de código aberto que armazena seus comentários dentro do próprio documento como comentários HTML.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>JustMD</title>
+      <link>https://justmd.nuta.life/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:JustMD</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: JustMD
+Description: Editor de Markdown de código aberto para arquivos locais que oculta a sintaxe fora da linha que está sendo editada.
+Website: https://justmd.nuta.life/
+Open Source: https://github.com/yuraist/just-md
+App Store: https://apps.apple.com/app/id6779422717
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: JustMD<br/>Description: Editor de Markdown de código aberto para arquivos locais que oculta a sintaxe fora da linha que está sendo editada.<br/>Website: https://justmd.nuta.life/<br/>Open Source: https://github.com/yuraist/just-md<br/>App Store: https://apps.apple.com/app/id6779422717<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>MacDown</title>
+      <link>https://macdown.uranusjr.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:MacDown</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MacDown
+Description: Editor de Markdown de código aberto para macOS com pré-visualização ao vivo e exportação para HTML/PDF.
+Website: https://macdown.uranusjr.com/
+Open Source: https://github.com/MacDownApp/macdown
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: Editor de Markdown de código aberto para macOS com pré-visualização ao vivo e exportação para HTML/PDF.<br/>Website: https://macdown.uranusjr.com/<br/>Open Source: https://github.com/MacDownApp/macdown<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Marked 2</title>
+      <link>https://marked2app.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Marked 2</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marked 2
+Description: Esta é a pré-visualização de Markdown com um conjunto elegante e poderoso de ferramentas para todos os escritores.
+Website: https://marked2app.com/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marked 2<br/>Description: Esta é a pré-visualização de Markdown com um conjunto elegante e poderoso de ferramentas para todos os escritores.<br/>Website: https://marked2app.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+  </channel>
+</rss>

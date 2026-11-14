@@ -135,7 +135,8 @@ const configs = [
   { input: 'README.md', output: './dist/awesome-mac.json' },
   { input: 'README-zh.md', output: './dist/awesome-mac.zh.json' },
   { input: 'README-ja.md', output: './dist/awesome-mac.ja.json' },
-  { input: 'README-ko.md', output: './dist/awesome-mac.ko.json' }
+  { input: 'README-ko.md', output: './dist/awesome-mac.ko.json' },
+  { input: 'README-pt.md', output: './dist/awesome-mac.pt.json' }
 ]
 
 // Process all configurations

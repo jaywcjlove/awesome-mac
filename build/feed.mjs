@@ -58,6 +58,14 @@ const FEED_TARGETS = [
     title: 'Awesome Mac - 最近追加されたアプリ',
     description: '日本語リストを元にした最近追加の macOS アプリです。',
   },
+  {
+    key: 'pt',
+    readmePath: 'README-pt.md',
+    outputName: 'feed-pt.xml',
+    language: 'pt-BR',
+    title: 'Awesome Mac - Aplicativos adicionados recentemente',
+    description: 'Aplicativos macOS adicionados recentemente à lista em português.',
+  },
 ];
 
 mkdirSync(feedDir, { recursive: true });
@@ -482,7 +490,7 @@ function buildFeedXml({ items, title, description, language, feedUrl }) {
 
 // Extract website/source/App Store links from one README entry based on badge markers.
 function parseEntryMetadata(primaryUrl, rawTail) {
-  const markdownLinks = [...rawTail.matchAll(/\[([^\]]+)\]\(([^)]+)\)/g)].map((match) => ({
+  const badgeLinks = [...rawTail.matchAll(/\[(!\[[^\]]+\]\[[^\]]+\])\]\(([^)]+)\)/g)].map((match) => ({
     text: match[1].trim(),
     url: match[2].trim(),
   }));
@@ -491,7 +499,7 @@ function parseEntryMetadata(primaryUrl, rawTail) {
   let sourceUrl = '';
   let appStoreUrl = '';
 
-  for (const link of markdownLinks) {
+  for (const link of badgeLinks) {
     if (link.text.includes('![Open-Source Software][OSS Icon]')) {
       sourceUrl = link.url;
       continue;

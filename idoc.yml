@@ -13,6 +13,9 @@ menus:
   Top Picks: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
     target: __blank
+  TG: 
+    url: https://t.me/s/AwesomeMacApps
+    target: __blank
   Report: 
     url: https://github.com/jaywcjlove/awesome-mac/issues
     target: __blank
@@ -24,6 +27,7 @@ sideEffectFiles:
   - README-zh.md
   - README-ko.md
   - README-ja.md
+  - README-pt.md
   - editor-plugin.md
   - editor-plugin-zh.md
   - editor-plugin-ja.md
