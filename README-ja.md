@@ -1609,6 +1609,7 @@ Awesome Mac
 * [lo-rain](https://lo.cafe/lo-rain) - デスクトップやアプリの上にカスタマイズ可能な雨を降らせ、Dockにはしぶきエフェクトも。
 * [Memo](http://memo-app.net/) - シンプルでエレガントなアプリ。Touch IDを使ってさらに素早くメモのロックを解除。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1212409035?platform=mac)
 * [Nifro](https://github.com/PathGao/Nifro) - Webサイトを設定可能なデスクトップ壁紙に変え、ディスプレイごとに別の表示を設定できます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
+* [nowPlayingDesktops](https://github.com/hippi345/nowPlayingDesktops) - Spotifyの再生中トラックをフロストガラス風タイルとして、実際のデスクトップ壁紙に合成します（フローティングウィンドウではありません）。 [![Open-Source Software][OSS Icon]](https://github.com/hippi345/nowPlayingDesktops) ![Freeware][Freeware Icon]
 * [Numi](http://numi.io/) - Mac用の美しい電卓アプリ。 ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - 現代のインターネットのための新しいファイアウォール。 ![Freeware][Freeware Icon]
 * [OpenDisplay](https://opendisplay.app) - 余ったiPhoneやiPadをUSBまたはWiFi経由でMacのセカンドディスプレイとして利用（タッチ入力対応）。 [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
