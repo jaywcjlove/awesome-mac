@@ -1100,6 +1100,7 @@ Awesome Mac
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Pythonで書かれたクロスプラットフォームの音楽タグ付けツール。 [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [MyMedia](https://github.com/photangralenphie/MyMedia) - ローカルの映画やテレビ番組ライブラリを表示・視聴。 [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]
 * [Playback](https://mafintosh.github.io/playback/) - 実験的なビデオプレイヤー。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mafintosh/playback)
+* [Playova](https://playova.com/mac/) - 自分のXtream CodesまたはM3UソースのためのIPTVプレイヤー。番組表、予約録画、オフラインダウンロードに対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6814150952?platform=mac)
 * [Plug](https://plugformac.com) - Hype Machineの音楽を発見して聴く。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1514182074?platform=mac)
 * [Petrichor](https://github.com/kushalpandya/Petrichor) - 多形式対応、歌詞表示、プレイリスト、キュー管理を備えたオフライン音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/kushalpandya/Petrichor) ![Freeware][Freeware Icon]
 * [Popcorn Time](https://popcorn-time.site/) - トレント映画を探して視聴できるストリーミングツール。 [![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
