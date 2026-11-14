@@ -281,6 +281,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Evernote](https://evernote.com/) - App de anotações famoso, disponível em muitas plataformas. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - File System Notes é um gerenciador de notas moderno, nativo para macOS e iOS. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - App de escrita e gerenciador de tarefas com design simples e interativo.
+* [Gravity](https://www.gravitynotes.app/) - App de notas em lista única baseado no método append-and-review de Karpathy, com atalho global para captura rápida. [![App Store][app-store Icon]](https://apps.apple.com/app/id6757930875?platform=mac) ![Native App][Native Icon]
 * [Inkdrop](https://www.inkdrop.info/) - App de cadernos para amantes de Markdown, construído sobre o Electron.
 * [Joplin](https://joplinapp.org/) - Bloco de notas multiplataforma e de código aberto com suporte a markdown e gerenciamento de lista de tarefas. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Knopo](https://github.com/alkalim/Knopo) - Editor de tópicos nativo para macOS para notas locais armazenadas como arquivos Markdown simples. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
