@@ -1831,6 +1831,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [FlowVision](https://github.com/netdcy/FlowVision) - RWaterfall-style Image Viewer for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](https://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
+* [Kumquat](https://iandifilippo.github.io/Kumquat/) - Convert or edit any file mid-drag: tap Shift and drop it on a ring of formats and tools. [![Open-Source Software][OSS Icon]](https://github.com/iandifilippo/Kumquat) ![Freeware][Freeware Icon]
 * [Path Finder](https://www.cocoatech.com/) - File management app.
 * [PC Mode](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
