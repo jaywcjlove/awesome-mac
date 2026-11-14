@@ -1064,6 +1064,7 @@ Awesome Mac
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - USB 포트를 무단 접근으로부터 보호하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 파일의 코드 서명 정보를 보는 Finder 확장. ![Freeware][Freeware Icon]
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 휴대폰 지문으로 인증할 수 있는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
+* [Vigie](https://github.com/Bouliw/vigie) - macOS 통합 로그, Windows 이벤트 로그, Linux auth.log(실시간 또는 수집된 파일)에 Sigma 탐지 규칙을 실행하고 MITRE ATT&CK에 매핑된 보고서를 작성하는 오픈 소스 블루팀 도구. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/vigie) ![Freeware][Freeware Icon]
 
 ## 프록시 및 VPN 도구
 

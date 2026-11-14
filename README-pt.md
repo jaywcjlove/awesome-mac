@@ -1339,6 +1339,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [swiftGuard](https://github.com/Lennolium/swiftGuard) - Ferramenta para proteger portas USB contra acesso não autorizado. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore todos os processos em execução no seu Mac com o TaskExplorer. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/TaskExplorer)
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Autentique-se com a impressão digital do seu celular como alternativa gratuita ao Touch ID no teclado. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
+* [Vigie](https://github.com/Bouliw/vigie) - Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&CK. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/vigie) ![Freeware][Freeware Icon]
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Extensão do Finder para visualizar as informações de assinatura de código de um arquivo. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/WhatsYourSign) ![Freeware][Freeware Icon]
 
 ## Ferramentas de Proxy e VPN
