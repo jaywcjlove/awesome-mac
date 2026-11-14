@@ -875,6 +875,7 @@ Awesome Mac
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생. [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]
+* [Bass Plus](https://bassplus.clideck.com/) - 메뉴 막대에서 저음을 조절하고 음성 입력 중 호환 브라우저의 음악을 자동으로 일시 정지하고 다시 재생하는 유틸리티. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bass-plus/id6818408560)
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]
 * [CamiTune](https://github.com/Shuail135/CamiTune) - macOS 13 이상을 지원하는 시스템 전체 오디오 이퀄라이저로, 파라메트릭 EQ, 앱별 오디오 제어, AutoEQ, AU/VST3 플러그인 및 고급 DSP 처리를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - 봇이나 클라우드 없이 회의를 기기에서 전사하고 각 회의를 Markdown 파일로 저장하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
