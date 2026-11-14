@@ -574,6 +574,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Electron](https://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [ionic](https://ionicframework.com/) - Build native and web apps with Angular and open web technologies. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [MacGap](https://macgapproject.github.io/) - Lightweight JavaScript API for OS X integration. [![OSS][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [MyPack](https://mypack.pages.dev) - Turn websites into desktop apps for macOS, Windows, and Linux. [![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack) ![Freeware][Freeware Icon]
 * [nw.js](https://nwjs.io) - Build desktop apps with HTML and JavaScript. [![OSS][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - Cross-platform application framework.
 * [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]
