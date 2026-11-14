@@ -1275,6 +1275,7 @@ Awesome Mac
 *（またはMac OS内蔵の辞書を使用することもできます）*
 
 * [DeepL](https://www.deepl.com/en/app/) - 最高品質の翻訳 ![Freeware][Freeware Icon]
+* [Easy Write](https://www.onekapisch.com/products/easy-write/) - 端末上の Apple Intelligence で、選択したテキストをその場で翻訳または書き直し。フォーマルかカジュアルな口調を選べます。 [![Open-Source Software][OSS Icon]](https://github.com/onekapisch/easy-write) ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 単語検索とテキスト翻訳のための簡潔な辞書・翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - 英語を洗練させる
 * [iTranslate](http://www.itranslate.com/) - テキストやWebページを多言語に翻訳できるアプリ。 ![Freeware][Freeware Icon]

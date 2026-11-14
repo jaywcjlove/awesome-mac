@@ -1012,6 +1012,7 @@ Awesome Mac
 ## 번역 도구
 
 * [DeepL](https://www.deepl.com/) - 최고의 품질을 자랑하는 기계 번역 서비스. ![Freeware][Freeware Icon]
+* [Easy Write](https://www.onekapisch.com/products/easy-write/) - 기기 내 Apple Intelligence로 선택한 텍스트를 그 자리에서 번역하거나 다시 쓰며, 격식체 또는 비격식체 어조를 고를 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/onekapisch/easy-write) ![Freeware][Freeware Icon]
 * [Easydict](https://github.com/tisfeng/Easydict) - 단어 검색과 텍스트 번역을 간편하게 해주는 사전·번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [iTranslate](http://www.itranslate.com/) - 텍스트와 웹페이지를 여러 언어로 번역하는 앱. ![Freeware][Freeware Icon]
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
