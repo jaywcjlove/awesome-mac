@@ -200,6 +200,7 @@ Awesome Mac
 * [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
 * [Vim](http://www.vim.org/) - 오래된 터미널 기반 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X를 위해 정제된 Vim 경험. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [vsux](https://vsux.sphrag.com/en/) - 프로젝트 터미널을 중심으로 파일과 Git 변경 사항을 한 작업 공간에서 확인하는 경량 편집기. [![Open-Source Software][OSS Icon]](https://github.com/shadowDragons/vsux) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - Atom과 Tree-sitter 제작자들이 만든 고성능 멀티플레이어 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### 오피스
