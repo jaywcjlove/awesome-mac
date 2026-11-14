@@ -1078,6 +1078,7 @@ Awesome Mac
 * [Mullvad VPN](https://mullvad.net) - 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [TrustTunnel](https://trusttunnel.org/) - 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스. ![Freeware][Freeware Icon]
+* [Vafa](https://github.com/k33ssa/vafa) - 허용된 출구 국가의 VPN이 연결될 때까지 선택한 앱을 멈추고 네트워크를 차단하는 오픈 소스 VPN 킬 스위치. [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/vafa) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 광고 차단과 서버 전환을 제공하는 VPN 및 프록시 서비스. ![Freeware][Freeware Icon]
 * [Tailscale](https://tailscale.com/) - 기기, 서비스, 사용자를 안전하게 연결하는 메시 VPN. ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 특정 도메인과 서비스를 VPN 우회 경로로 보낼 수 있는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
