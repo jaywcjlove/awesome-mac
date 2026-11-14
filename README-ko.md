@@ -1346,6 +1346,7 @@ Awesome Mac
 * [Takeline](https://github.com/Bouliw/takeline) - Textream을 포크한 앱으로, 프랑스어와 영어 음성을 Mac에서만 따라가며 재촬영 감지와 음성 명령을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/takeline) ![Freeware][Freeware Icon]
 * [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Timing](https://timingapp.com/) - 자동으로 시간을 기록하고 작업 분석을 돕는 도구.
+* [Trace](https://github.com/lxyeternal/Trace) - 앱, 창, 파일, 웹 페이지를 자동으로 기록하는 시간 추적기로, 모든 데이터는 Mac에만 저장됩니다. [![Open-Source Software][OSS Icon]](https://github.com/lxyeternal/Trace) ![Freeware][Freeware Icon]
 * [Desktop Control](https://desktopctl.com/) - 화면, 마우스, 키보드로 모든 앱을 제어할 수 있는 AI 에이전트용 로컬 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/yaroshevych/desktopctl) ![Freeware][Freeware Icon]
 * [DevUtils.app](https://devutils.com/) - 자주 쓰는 데이터 포맷 변환과 디버깅을 모아둔 개발자 도구 상자. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
 * [Browserdoor](https://github.com/schowave/browserdoor) - 링크를 열 때마다 어떤 브라우저, 브라우저 프로필 또는 Zen 스페이스로 열지 고르는 오픈 소스 링크 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
