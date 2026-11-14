@@ -259,6 +259,7 @@ Awesome Mac
 * [Knovum](https://github.com/madebyzan/knovum) - 로컬 우선 2D 공간 AI 지식 공간으로, 내장 LanceDB 벡터 검색, 무한 캔버스 및 온디바이스 Whisper 전사를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 기기 간 종단 간 암호화 동기화를 지원하는, Rust로 만든 오프라인 우선 오픈 소스 노트·문서 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - 개인정보 우선의 오픈 소스 지식 베이스. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
+* [Loofah](https://loofah.io/) - 데이터를 일반 Markdown 파일로 저장하는 로컬 우선 노트 및 회의 전사 앱. [![Open-Source Software][OSS Icon]](https://github.com/bart6114/loofah) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - 심도 있는 PDF 및 EPUB 읽기, 학습 및 노트 앱.
 * [massCode](https://masscode.io/) - 코드 스니펫, 마크다운 노트, HTTP 요청을 한곳에서 관리하는 오픈 소스 개발자 워크스페이스. 데이터는 로컬 마크다운 파일로 저장. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - 네이티브 마크다운 노트 앱. 노트는 직접 고른 폴더 안의 마크다운 파일이며, 분할 미리보기, LaTeX, Mermaid, 슬라이드 모드를 지원하고 iPhone과 iPad에서도 쓸 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tw93/MiaoYan) ![Freeware][Freeware Icon]
