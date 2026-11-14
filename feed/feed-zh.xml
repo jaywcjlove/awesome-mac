@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:28:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sheer</title>
+      <link>https://github.com/AzurLiu/sheer</link>
+      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
+      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Sheer
+Description: 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。
+Open Source: https://github.com/AzurLiu/sheer
+Commit: Add Sheer to Menu Bar Tools (#4592)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Sheer<br/>Description: 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
+    </item>
     <item>
       <title>Vafa</title>
       <link>https://github.com/k33ssa/vafa</link>
@@ -715,20 +729,6 @@ Open Source: https://github.com/Ark0N/LogoLight
 Commit: Add LogoLight to Menu Bar Tools (#4349)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: LogoLight<br/>Description: 从菜单栏关闭、调暗配备 PROLED XDR 显示屏的 MacBook Pro 背面的发光 Apple 标志，或为它添加呼吸等动画效果。[![Open-Source Software][OSS Icon]](https://github.com/Ark0N/LogoLight)<br/>Website: https://logolight.app<br/>Open Source: https://github.com/Ark0N/LogoLight<br/>Commit: Add LogoLight to Menu Bar Tools (#4349)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275]]></content:encoded>
-    </item>
-    <item>
-      <title>Nimbus</title>
-      <link>https://github.com/Dearonski/Nimbus</link>
-      <guid isPermaLink="false">bea1458f3ab354bebea19f19de520195affcbf3d:Nimbus</guid>
-      <pubDate>Mon, 09 Nov 2026 07:41:34 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Nimbus
-Description: 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。
-Open Source: https://github.com/Dearonski/Nimbus
-Commit: Add Nimbus to Audio and Video Tools (#4348)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Nimbus<br/>Description: 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。<br/>Open Source: https://github.com/Dearonski/Nimbus<br/>Commit: Add Nimbus to Audio and Video Tools (#4348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d]]></content:encoded>
     </item>
   </channel>
 </rss>
