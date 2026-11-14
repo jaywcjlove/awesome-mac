@@ -1711,6 +1711,7 @@ Awesome Mac
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [Uptick](https://chengffei.github.io/uptick/) - 开源的应用更新工具，从 App Store、Sparkle、Electron 更新源和 Homebrew 查找更新，安装前核对每个下载包。 [![Open-Source Software][OSS Icon]](https://github.com/chengffei/uptick) ![Freeware][Freeware Icon]
 * [WattMate](https://wattmateapp.com) - 在菜单栏中直接查看哪些应用和 AI 编程代理在消耗 MacBook 电池，显示真实瓦数，以及退出某个应用能换回的分钟数。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
+* [WheelClick](https://wheelclick.app) - 为触控板和妙控鼠标提供中键点击，三指按压和轻点永久免费。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/wheelclick-middle-click/id6793554096?platform=mac)
 
 ### 窗口管理
 
