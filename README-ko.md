@@ -948,6 +948,7 @@ Awesome Mac
 * [Shandian](https://github.com/chenmozhe008/shandian-download) - 마그넷 링크, 토렌트, HTTP 파일과 YouTube·Bilibili·Douyin·샤오훙수 동영상을 한 창에서 내려받는 네이티브 다운로드 관리자. 브라우저 다운로드 가로채기와 다운로드 중 재생을 지원 (UI는 중국어). [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/shandian-download) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TBD](https://tbd.yt/) - 같은 Wi-Fi의 휴대폰으로도 조작할 수 있는 yt-dlp 기반 오픈 소스 YouTube 동영상·오디오 다운로더. [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Transmission](https://www.transmissionbt.com/) - 빠르고 쉽고 무료인 비트토렌트 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+* [Transmission Remote GUI](https://github.com/epaxpax/transmission-remote-gui) - Transmission 데몬용 네이티브 SwiftUI 원격 클라이언트. 토렌트 규칙, RSS 자동 다운로드, 트래커/폴더별 필터를 지원하는 현대적인 transgui 대안. [![Open-Source Software][OSS Icon]](https://github.com/epaxpax/transmission-remote-gui) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XGetter](https://xgetter.com/) - 주요 웹사이트에서 동영상과 오디오를 내려받는 미디어 다운로드 도구. ![Freeware][Freeware Icon]
 
 
