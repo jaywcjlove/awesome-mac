@@ -618,6 +618,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [GhostVM](https://github.com/groundwater/GhostVM) - Ferramenta de virtualização para criar e gerenciar workspaces isolados de máquinas virtuais macOS. ![Freeware][Freeware Icon]
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Execute apps Android em Apple Silicon, cada um em sua própria janela do Mac, com seu próprio ícone no Dock. [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Execute máquinas virtuais gratuitas e ilimitadas no seu Mac.
+* [MacVisor](https://scaleninja.com/macvisor/) - Execute máquinas virtuais macOS, Linux, Windows e FreeBSD no Apple Silicon, com snapshots, clones vinculados, a CLI `mvz` e um servidor MCP integrado para agentes de IA.
 * [Mocker](https://github.com/us/mocker) - Gerenciador de contêineres criado sobre o framework Containerization da Apple. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - VMs Ubuntu sob demanda para qualquer estação de trabalho. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - Forma rápida, leve e simples de executar contêineres Docker e máquinas Linux no macOS. ![Freeware][Freeware Icon]
