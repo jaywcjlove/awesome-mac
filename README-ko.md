@@ -1428,6 +1428,7 @@ Awesome Mac
 * [Folderglass](https://dev.adityarajsingh.com/folderglass/) - 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원. [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/folderglass) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 렌더링된 Markdown을 Quick Look으로 보여주는 플러그인. [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 * [MD QuickLook](https://github.com/armamut/md-quicklook) - 구문 강조, 수식, Mermaid 다이어그램을 지원하는 웹 엔진 없는 네이티브 Markdown Quick Look 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
+* [Missing Previews](https://bearinglabs.io/missing-previews/) - Markdown, STEP, KiCad 및 3D 프린팅 파일을 미리 보는 Quick Look 확장. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6786148332)
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` 내용과 메타데이터를 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
 

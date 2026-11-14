@@ -1848,6 +1848,7 @@ Awesome Mac
 * [Folderglass](https://dev.adityarajsingh.com/folderglass/) - 文件夹快速预览插件：显示包含子文件夹的真实大小、文件类型占比、最大和最新的文件、Git 分支与改动状态，并直接渲染 README。也可预览 zip 内容和 Markdown。 [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/folderglass) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - 用于渲染 Markdown 的 Quick Look 预览插件。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
 * [MD QuickLook](https://github.com/armamut/md-quicklook) - 无需网页引擎的原生 Markdown Quick Look 扩展，支持语法高亮、数学公式和 Mermaid 图表。 [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
+* [Missing Previews](https://bearinglabs.io/missing-previews/) - 用于预览 Markdown、STEP、KiCad 和 3D 打印文件的 Quick Look 扩展。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6786148332)
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - 用于预览 `.torrent` 文件内容和元数据的 Quick Look 插件。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 
 ## 第三方应用市场APP
