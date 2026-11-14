@@ -304,6 +304,7 @@ Awesome Mac
 * [Revu](https://revu.cards/) - FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - クロスプラットフォームのスタイラスおよびテキストメモアプリ。画像やPDFのインポートに対応し、同期も可能。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Markdownサポート付きの画面サイドクイックメモ。
+* [Spake](https://spake.app/) - 話しながら画面も録画し、端末上で文字起こしして、各メモをMarkdown、音声、動画、画面から認識したテキストのフォルダとして保存する音声メモアプリ。 ![Native App][Native Icon]
 * [Standard Notes](https://standardnotes.com/) - デジタリストとプロフェッショナルのためのエンドツーエンド暗号化メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - グローバルホットキーとAIセマンティック検索を備えた高速Markdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Markdownサポートとタスク管理機能を備えたオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
