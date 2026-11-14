@@ -918,6 +918,7 @@ Awesome Mac
 * [CoWork OS](https://coworkosapp.com) - 自分のAPIキーやローカルモデルで動く、ファイル・ブラウザ・チャットアプリの作業をこなすオープンソースのデスクトップAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/CoWork-OS/CoWork-OS) ![Freeware][Freeware Icon]
 * [Cursor Voice](https://cursorvoice.app) - カーソルのそばで動作し、画面を見て OpenAI Realtime API 経由でアプリを操作できる音声アシスタント。 [![Open-Source Software][OSS Icon]](https://github.com/cursorvoice/cursor-voice) ![Freeware][Freeware Icon]
 * [DataNexa](https://mingozacwu.github.io/datanexa-site/) - 複数のデータベースを、読み取り専用保護と監査を備えた単一のアクセスポイントに集約し、AIエージェントに提供するオープンソースのデスクトップ向けデータベースMCPゲートウェイ。 [![Open-Source Software][OSS Icon]](https://github.com/MingoZacwu/DataNexa) ![Freeware][Freeware Icon]
+* [Dawnmere](https://dawnmere.app/) - Claude Code、Codex、Cursor が MCP で共有する長期記憶。検索はローカルで、アプリごとにアクセスレベルを設定でき、アカウント不要。 ![Freeware][Freeware Icon]
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - DeepSeek Harnessを基盤とし、Webサイト上のタスク向けにWebMCPツールを作成・再利用できるデスクトップAIワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 * [Enconvo](https://www.enconvo.com/ja) - 画面を理解し、さまざまなアプリで作業をこなすAIエージェント。
 * [Fazm](https://fazm.ai) - アプリ、ファイル、ワークフローを音声で操作できるオープンソースのAIエージェント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
