@@ -928,6 +928,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Godmode Bot](https://usegodmode.com) - Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [hopsesh](https://codonic.dev/apps/hopsesh) - Open-source app and CLI that moves a Claude Code or Codex session to another of your computers, or continues it in the other agent, with paths, repository and worktree set up. [![Open-Source Software][OSS Icon]](https://github.com/roeehrl/hopsesh) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
