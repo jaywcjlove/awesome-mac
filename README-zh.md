@@ -1360,6 +1360,7 @@ Awesome Mac
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 通过菜单栏或快捷键快速切换灰度显示。 [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 在菜单栏快速调用功能键。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - 按项目整理应用、链接和文件的工作台。 [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
+* [GlissTouch](https://glisstouch.com/) - 自定义触控板手势，支持多指轻点与轻扫、手绘图形、连续手势和窗口贴靠。 ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - 功能强大的自动化工具，Lua 脚本驱动，支持窗口管理。[![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - 为 Touch Bar 点击加入触觉反馈。 [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
 * [Hook for Mac](https://hookproductivity.com/) - 关联文件、邮件和笔记，方便快速跳转。
