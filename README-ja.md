@@ -1376,6 +1376,7 @@ Awesome Mac
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNSプロバイダやカスタムリゾルバをすばやく切り替えるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - macOS用のドラッグ＆ドロップヘルパーアプリ。 ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - ドラッグしたファイル、テキスト、リンクを一時的に集めて移動できるシェルフ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
+* [Lemora](https://getlemora.com/) - Finder から PDF、画像、Office ファイル、音声、動画を変換・編集。Shift-Command-E を押してホイールからアクションを選ぶだけ。すべてデバイス上で処理。 [![App Store][app-store Icon]](https://apps.apple.com/app/lemora-file-converter/id6829105890?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Ctrl+Opt+Deleteでアクティビティモニタを起動し、Cmd+XでFinderのファイルをカット＆移動。
 
 ### クリップボードツール
