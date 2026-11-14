@@ -1216,6 +1216,7 @@ Awesome Mac
 * [buzz](https://github.com/chidiwilliams/buzz) - 個人のコンピューター上でオフラインで音声を文字起こし・翻訳。OpenAIのWhisperを使用。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [EnviousWispr](https://enviouswispr.com/) - 音声を整えたテキストにすばやく変換して貼り付けられるオンデバイスAIディクテーションツール。 ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 押して話し、離すと文字起こしをそのまま貼り付ける音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
+* [FreeFlow Dictation](https://freeflow.audio) - ⌥キーを押しながら話すだけで任意のアプリに文字を貼り付けるオンデバイス音声入力。モード、辞書、Claude Code の質問に声で答えるカード機能付き。 ![Native App][Native Icon]
 * [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Google製の無料オンデバイスAIディクテーション・音声編集ツール。あらゆるアプリで使え、現在は英語のみ対応。 ![Freeware][Freeware Icon]
 * [inlaut](https://inlaut.de) - ドイツ語と英語に対応した完全ローカルのプッシュトゥトーク音声入力ツール。デバイス上でParakeetモデルを動かし、カーソル位置に入力。 [![Open-Source Software][OSS Icon]](https://github.com/tobymarks/inlaut) ![Freeware][Freeware Icon]
 * [LocalScribe](https://github.com/maddylaneeee/ShengJi) - マイク、メディアファイル、Macのシステム音声に対応するオープンソースのローカル文字起こし・字幕編集アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
