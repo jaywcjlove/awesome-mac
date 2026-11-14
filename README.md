@@ -1708,6 +1708,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Magic Switch](https://magic-switch.com/) - Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.
 * [MagicInput](https://bullfighterstudio.com/magicinput) - Share one keyboard and mouse between a Mac and a Windows PC by moving the pointer past the screen edge, with clipboard sync and file transfer. ![Freeware][Freeware Icon]
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - Capture periodic screenshots to review your day and fill timesheets.
+* [Nokko](https://nokko.dev) - Project planner, time tracker and invoicing tool that keeps your work in plain Markdown files. [![App Store][app-store Icon]](https://apps.apple.com/app/nokko-plan-track-invoice/id6823214749?mt=12) ![Native App][Native Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 * [OpenClip](https://getopenclip.app) - Lightweight floating action bar for macOS that turns selected text into instant actions. [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
 * [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
