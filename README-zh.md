@@ -1575,6 +1575,7 @@ Awesome Mac
 * [Vortex](https://vortex-notch.web.app) - MacBook 刘海应用，集专注计时器、剪贴板历史、自动接收新构建的文件暂存架、带 OCR 的屏幕截取任务，以及 Claude Code 能用却看不到的密钥于一体。 [![Open-Source Software][OSS Icon]](https://github.com/OrtexIsArtem/vortex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
+* [XIsland](https://www.imagentx.top/zh/products/xisland) - 把 30 多个 AI 编程代理收进 Mac 刘海面板，可在岛上批准文件写入与命令执行，覆盖 Kimi、通义千问、DeepSeek、GLM、CodeBuddy、Trae 国内版；每个客户端都标注了是「可审批」还是「仅观察」。
 
 ### 待办事项工具
 
