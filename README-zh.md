@@ -1351,6 +1351,7 @@ Awesome Mac
 * [Dropover](https://dropoverapp.com/) - 用于暂存和搬运拖拽文件、文本与链接的临时置物架。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - 使用 Ctrl+Opt+Delete 启动活动监视器，在 Finder 中用 Cmd+X 剪切并移动文件。
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
+* [EdgeFrame (伴映窗)](https://edgeframe.dabblecove.com/) - Dabble Cove 出品的 Apple Silicon Mac 桌面照片侧栏，支持左右贴边以及受支持普通可调整大小窗口的可选避让，界面为中文。
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
