@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:14:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Takeline</title>
+      <link>https://github.com/Bouliw/takeline</link>
+      <guid isPermaLink="false">24819d74197eb50e8d77d149b1aa16e931183b22:Takeline</guid>
+      <pubDate>Sat, 14 Nov 2026 04:14:40 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: Takeline
+Description: Textreamのフォーク版。フランス語と英語の声をMac上だけで追従し、撮り直しの検出と音声コマンドに対応。
+Open Source: https://github.com/Bouliw/takeline
+Commit: Add Takeline to Productivity (#4368)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Takeline<br/>Description: Textreamのフォーク版。フランス語と英語の声をMac上だけで追従し、撮り直しの検出と音声コマンドに対応。<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
+    </item>
     <item>
       <title>Roughcut</title>
       <link>https://github.com/Bouliw/fcpxml-roughcut</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/madebyzan/knovum
 Commit: Add Knovum to Note-taking section (#3815)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721</description>
       <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Knovum<br/>Description: 埋め込みLanceDBベクトル検索、無限キャンバス、デバイス内Whisper文字起こしを備えたローカルファースト2D空間AIナレッジスペース。<br/>Open Source: https://github.com/madebyzan/knovum<br/>Commit: Add Knovum to Note-taking section (#3815)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721]]></content:encoded>
-    </item>
-    <item>
-      <title>Stage Manager</title>
-      <link>https://eugene-tea.github.io/stage-manager/</link>
-      <guid isPermaLink="false">ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070:Stage Manager</guid>
-      <pubDate>Fri, 06 Nov 2026 16:59:05 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: Stage Manager
-Description: Rust製のAppleのステージマネージャの代替。再起動後もステージを保持し、Ctrl-Option-1..9で切り替え。
-Website: https://eugene-tea.github.io/stage-manager/
-Commit: Add Stage Manager to Window Management (#4297)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Stage Manager<br/>Description: Rust製のAppleのステージマネージャの代替。再起動後もステージを保持し、Ctrl-Option-1..9で切り替え。<br/>Website: https://eugene-tea.github.io/stage-manager/<br/>Commit: Add Stage Manager to Window Management (#4297)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ab71e1cf74bb1f9fc28a2c38c1bcfd4d5f81b070]]></content:encoded>
     </item>
   </channel>
 </rss>
