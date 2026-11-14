@@ -1270,6 +1270,7 @@ Awesome Mac
 * [fob](https://getfob.app) - 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [GPG Suite](https://gpgtools.org/) - macOS平台的一站式GnuPG解决方案，提供命令行和GUI的加解密工具。开箱即用的`gpg-agent`密码缓存服务，还包括一个GUI的pinenry程序，支持与macOS原生钥匙串集成。[![Open-Source Software][OSS Icon]](https://gpgtools.org/) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - 通过本地人脸识别解锁屏幕，并为选定应用提供隐私遮罩。 [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
+* [hYYa Digital Footprint Check](https://hyya.com/hyya-digital-footprint-check.html) - 开源隐私检查工具，展示任何应用能获取你 Mac 的哪些信息，以及如何减少暴露。 [![Open-Source Software][OSS Icon]](https://github.com/hyya-dev/hYYa-Digital-Footprint-Check) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6824033636?platform=mac)
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在 OS 内核中加载的模块。
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - “谁在那？” 查看Mac上持久安装的内容。
 * [LinkLiar](https://github.com/halo/LinkLiar) - 可以帮助你哄骗 Wi-Fi 和以太网接口的 MAC 地址。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
