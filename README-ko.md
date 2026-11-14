@@ -198,6 +198,7 @@ Awesome Mac
 * [SubEthaEdit](https://subethaedit.net/) - 쓰기, 코딩 및 협업을 위한 강력한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - 텍스트 편집기 세계에 Apple의 운영 체제 접근 방식을 도입한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
+* [Unrich](https://coneno.com/en/apps/unrich/) - 붙여넣은 텍스트를 정리하고 변경 사항을 보여주며 텍스트 조각을 보드에 보관하는 일반 텍스트 메모장. [![App Store][app-store Icon]](https://apps.apple.com/app/id6823232152)
 * [Vim](http://www.vim.org/) - 오래된 터미널 기반 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X를 위해 정제된 Vim 경험. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - Atom과 Tree-sitter 제작자들이 만든 고성능 멀티플레이어 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
