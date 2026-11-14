@@ -1177,6 +1177,7 @@ Awesome Mac
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 외부 디스플레이의 밝기와 음량을 직접 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [Monny](https://monny.moduix.dev) - 프로세스 검색과 배터리 충전 한도 설정을 지원하는 오픈 소스 메뉴 막대 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/monny) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 메뉴 바에서 tmux 세션을 나열·연결·종료하고 실시간 미리보기를 제공하는 도구로, 뚜껑을 닫은 채로 작업하는 모드도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
+* [Myna](https://truthofmatthew.com/projects/myna/) - Android 휴대폰의 문자, 통화, 카메라, 마이크를 Mac에서 쓸 수 있게 해 주는 오픈 소스 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/truthofmatthew/myna) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 빠른 호흡 휴식을 위한 macOS 메뉴 바 앱으로, 프로스트 화면 오버레이와 손글씨 명언을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/emgeorrk/pulse) - CPU, 메모리, 온도, 팬, 네트워크, 디스크, 전력, 배터리 상태를 실시간으로 보여주는 메뉴 막대 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/emgeorrk/pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 메뉴 바 항목을 숨기고 표시하는 강력한 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
