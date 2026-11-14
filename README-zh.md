@@ -1691,6 +1691,7 @@ Awesome Mac
 * [LD Manager](https://codonic.dev/apps/ldmanager) - 开源 launchd 管理工具，列出所有 LaunchAgent 和 LaunchDaemon，说明任务为何没有运行，并以差异对比和备份无损编辑 plist。 [![Open-Source Software][OSS Icon]](https://github.com/roeehrl/ldmanager) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lockpaw](https://getlockpaw.com) - 在 AI 编程智能体运行时遮住屏幕并保持 Mac 唤醒，智能体需要你时屏幕会发光提醒。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - 轻量级菜单栏系统监视器，显示内存、CPU、网络和磁盘，专注于内存压力。 [![Open-Source Software][OSS Icon]](https://github.com/Ahmadjondev/MacMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Mac YOLO Safeguards](https://macyolosafeguards.io) - 菜单栏应用，防止 AI 编程代理卡死 Mac，可停止残留的 MCP 服务器并清理代理日志和缓存。 [![Open-Source Software][OSS Icon]](https://github.com/IgorGanapolsky/mac-yolo-safeguards) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - 适用于 Apple Silicon Mac 的风扇控制工具，提供菜单栏应用、按温度调节的模式和命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS自定义光标主题工具。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
