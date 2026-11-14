@@ -1356,6 +1356,7 @@ Awesome Mac
 * [JUMP](https://alvaldes.github.io/jump/) - 开源工具，为每个可点击元素加上标签，让你用键盘在任意应用中点击、滚动和搜索。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/jump) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 在 macOS 上重映射按键并自定义键盘行为。 [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 用触发器和宏自动执行重复操作。
+* [Keylane](https://github.com/Acckion/Keylane) - 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [Keka](https://github.com/aonez/Keka) - 开源压缩解压工具，支持多种压缩格式。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keka/id470158793?platform=mac)
 * [Liftoff](https://github.com/firstfu/Liftoff) - 开源的 Launchpad 替代品，支持窗口实时预览、窗口标题搜索和一键整理文件夹。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
@@ -1656,7 +1657,6 @@ Awesome Mac
 * [Latest](https://github.com/mangerlahn/Latest) - 一个小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新。 [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/Latest) ![Freeware][Freeware Icon]
 * [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - 轻量级菜单栏系统监视器，显示内存、CPU、网络和磁盘，专注于内存压力。 [![Open-Source Software][OSS Icon]](https://github.com/Ahmadjondev/MacMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - 适用于 Apple Silicon Mac 的风扇控制工具，提供菜单栏应用、按温度调节的模式和命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
-* [Keylane](https://github.com/Acckion/Keylane) - 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS自定义光标主题工具。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Matcha](https://github.com/jakeantelis/Matcha) - 保持 Mac 唤醒，提供可视化计时器和悬浮徽标，并可检测正在运行的 AI 编程智能体。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Matcha) ![Freeware][Freeware Icon]
