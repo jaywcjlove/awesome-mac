@@ -575,6 +575,7 @@ Awesome Mac
 * [Electron](http://electron.atom.io) - JavaScript、HTML、CSSでクロスプラットフォームのデスクトップアプリケーションを構築。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [ionic](http://ionicframework.com/) - Angularとオープンウェブ技術でネイティブおよびWebアプリを構築。 [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [MacGap](http://macgapproject.github.io/) - OS X統合のための軽量JavaScript API。 [![OSS][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [MyPack](https://mypack.pages.dev) - ウェブサイトをmacOS、Windows、Linux向けのデスクトップアプリにパッケージする。 [![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack) ![Freeware][Freeware Icon]
 * [nw.js](http://nwjs.io) - HTMLとJavaScriptでデスクトップアプリを構築。 [![OSS][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - クロスプラットフォームアプリケーションフレームワーク。
 * [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - React Nativeを使ってUbuntuデスクトップアプリを構築。 [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]

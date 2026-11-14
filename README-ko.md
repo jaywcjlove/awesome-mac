@@ -519,6 +519,7 @@ Awesome Mac
 * [Rilmazafone](https://kagerou.glass/rilmazafone/) - WYSIWYG 캔버스에서 DMG 설치 프로그램을 디자인하고 그린 그대로 빌드하세요. 스크립트가 필요 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/rilmazafone) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6790960011?platform=mac)
 * [Electron](http://electron.atom.io) - JS, HTML, CSS로 데스크톱 앱 빌드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [Ionic](http://ionicframework.com/) - 웹 기술로 네이티브 및 웹 앱 빌드. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
+* [MyPack](https://mypack.pages.dev) - 웹사이트를 macOS, Windows, Linux용 데스크톱 앱으로 패키징. [![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - 크로스 플랫폼 애플리케이션 프레임워크.
 * [React Native macOS](https://github.com/ptmt/react-native-desktop) - React Native와 Cocoa로 데스크톱 앱 빌드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ptmt/react-native-desktop)
 * [Tauri](https://tauri.app/) - 작고 빠르고 안전한 크로스 플랫폼 앱 제작. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tauri-apps/tauri)

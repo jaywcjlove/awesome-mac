@@ -1115,6 +1115,7 @@ Awesome Mac
 * [ionic](http://ionicframework.com/) - 一个用来开发混合手机应用的，开源的，免费的代码库。 [![Open-Source Software][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [nw.js](http://nwjs.io) - 使用 HTML 和 JavaScript 来制作桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
 * [MacGap](http://macgapproject.github.io/) - 桌面 WebKit 打包 HTML、CSS、JS 应用。[![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [MyPack](https://mypack.pages.dev) - 将网站打包为 macOS、Windows 和 Linux 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack) ![Freeware][Freeware Icon]
 * [react-desktop](http://reactdesktop.js.org) - 为 macOS Sierra带来 React UI 组件。[![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
 * [ReactXP](https://microsoft.github.io/reactxp/) - 微软官方出品，支持平台 Web，iOS，Android 和 Windows UWP 仍然是一项正在进行的工作。[![Open-Source Software][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
 * [React Native macOS](https://github.com/ptmt/react-native-desktop) - 用 React Native 技术构建 OS X 下的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/ptmt/react-native-desktop) ![Freeware][Freeware Icon]
