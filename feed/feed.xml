@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Nov 2026 04:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:15:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MacSweep</title>
+      <link>https://github.com/nihal4/macsweep</link>
+      <guid isPermaLink="false">6f41c54108067e0308f5043145f7b2b63489f2f4:MacSweep</guid>
+      <pubDate>Sat, 14 Nov 2026 05:15:49 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: MacSweep
+Description: Free, open-source Mac cleaner written in Rust (~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted.
+Open Source: https://github.com/nihal4/macsweep
+Commit: Add MacSweep (#4582)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f41c54108067e0308f5043145f7b2b63489f2f4</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacSweep<br/>Description: Free, open-source Mac cleaner written in Rust (~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted.<br/>Open Source: https://github.com/nihal4/macsweep<br/>Commit: Add MacSweep (#4582)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f41c54108067e0308f5043145f7b2b63489f2f4]]></content:encoded>
+    </item>
     <item>
       <title>Takeline</title>
       <link>https://github.com/Bouliw/takeline</link>
@@ -715,22 +729,6 @@ Open Source: https://github.com/romabmstu/polka
 Commit: Add Polka to Menu Bar Tools (#4390)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Polka<br/>Description: Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
-    </item>
-    <item>
-      <title>Show Bar</title>
-      <link>https://rept0rix.github.io/show-bar/</link>
-      <guid isPermaLink="false">4d3928782535751a5aea8917f5c3cfbd06e4181c:Show Bar</guid>
-      <pubDate>Sun, 08 Nov 2026 13:12:19 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Show Bar
-Description: Windows-style Command-Tab window switcher with live thumbnails, Dock hover window previews, window snapping, clipboard history, and a screenshot shelf.
-Website: https://rept0rix.github.io/show-bar/
-Open Source: https://github.com/rept0rix/show-bar
-App Store: https://apps.apple.com/app/id6818509447?platform=mac
-Commit: Add Show Bar under Window Management (#4378)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Show Bar<br/>Description: Windows-style Command-Tab window switcher with live thumbnails, Dock hover window previews, window snapping, clipboard history, and a screenshot shelf.<br/>Website: https://rept0rix.github.io/show-bar/<br/>Open Source: https://github.com/rept0rix/show-bar<br/>App Store: https://apps.apple.com/app/id6818509447?platform=mac<br/>Commit: Add Show Bar under Window Management (#4378)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d3928782535751a5aea8917f5c3cfbd06e4181c]]></content:encoded>
     </item>
   </channel>
 </rss>
