@@ -223,6 +223,7 @@ Awesome Mac
 * [SubEthaEdit](https://subethaedit.net/) - いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！ [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！ ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
+* [Unrich](https://coneno.com/en/apps/unrich/) - 貼り付けたテキストを整え、変更点を表示し、ボードにテキストの断片を保存できるプレーンテキストのメモ帳。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6823232152)
 * [Vim](http://www.vim.org/) - 古くからあるターミナルベースのエディタ。一般的なプラグインについては[Vim Common Plugins](editor-plugin-ja.md#vim-plugin)をご覧ください。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X向けの洗練されたVim体験。 [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。 ![Freeware][Freeware Icon]
