@@ -235,6 +235,7 @@ Awesome Mac
         * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Google 为 React 开发的主题。
 * [LightTable](http://lighttable.com/) - 下一代代码编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [LiteEdit](https://arietan.github.io/lite-edit/) - 轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。 [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
+* [Loper](https://loperedit.com/) - 小巧快速的编辑器和查看器，适用于代码、配置、日志、字幕和 PDF，粘贴路径即可打开文件。 ![Freeware][Freeware Icon]
 * [MacVim](https://github.com/macvim-dev/macvim) - Vim for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - 一个现代直观的基于终端的文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
 * [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。 [![Open-Source Software][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
