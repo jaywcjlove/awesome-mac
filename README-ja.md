@@ -1125,6 +1125,7 @@ Awesome Mac
 * [VLC](http://www.videolan.org/index.html) - 多くの音声・動画・ストリーミング形式を再生できるオープンソースプレーヤー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player) - MacとiPhone用の高精細オーディオプレイヤー。音楽がもっと良く聴こえる！ ![Freeware][Freeware Icon]
 * [VidCrop](https://apps.apple.com/app/VidCrop/6752624705?platform=mac) - 複数のフォーマットと正確なトリミングをサポートするシンプルなビデオクロップツール。
+* [Volumist](https://github.com/jpdominguez/volumist) - アプリごとの音量、出力先、イコライザ、音量の平準化に対応し、通話中は他のアプリの音量を自動で下げます。 [![Open-Source Software][OSS Icon]](https://github.com/jpdominguez/volumist) ![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - さまざまな「ロスレス」オーディオファイルをデコード、変換、再生するツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - メニューバーまたはグローバルキーボードショートカットで直接オーディオを録音。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Mac上で最高のメディアプレイヤー。ほぼすべてのフォーマットに対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?platform=mac)
