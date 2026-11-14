@@ -881,6 +881,7 @@ Awesome Mac
 * [mpv](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 * [Mooziac](https://mooziac.pages.dev) - 轻量级原生 macOS 菜单栏音乐播放器，支持 YouTube Music 和本地音频。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
+* [Music File Lab](https://musicfilelab.com/en/) - 将 Apple Music 的歌曲、专辑和播放列表保存为带封面、标签和同步歌词的 ALAC、FLAC、WAV、AAC 或 MP3 文件。
 * [Natron](https://natron.fr/) - 开源节点式视频合成工具。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nimbus](https://github.com/Dearonski/Nimbus) - 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。 [![Open-Source Software][OSS Icon]](https://github.com/Dearonski/Nimbus) ![Freeware][Freeware Icon]
 * [NotchMuse](https://notchmuse.com/zh/) - 开源同步歌词工具，可在菜单栏、刘海旁或 Dock 上方显示 Spotify、Apple Music、网易云音乐、QQ 音乐和汽水音乐的歌词。 [![Open-Source Software][OSS Icon]](https://github.com/Xiye88/NotchMuse) ![Freeware][Freeware Icon]

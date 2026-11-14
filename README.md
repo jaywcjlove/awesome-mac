@@ -1089,6 +1089,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mooziac](https://mooziac.pages.dev) - Lightweight native macOS menu bar player for YouTube Music & local audio. [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) ![Freeware][Freeware Icon]
+* [Music File Lab](https://musicfilelab.com/en/) - Save Apple Music songs, albums and playlists as ALAC, FLAC, WAV, AAC or MP3 files with artwork, tags and synced lyrics.
 * [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. ![Freeware][Freeware Icon]
 * [Natron](https://natrongithub.github.io/) - Open-source node-based compositing software. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nimbus](https://github.com/Dearonski/Nimbus) - Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player. [![Open-Source Software][OSS Icon]](https://github.com/Dearonski/Nimbus) ![Freeware][Freeware Icon]
