@@ -326,6 +326,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Workspace de escrita com IA, de código aberto, para organizar personagens, construção de mundo, esboços, capítulos, revisão e edição em um único projeto de romance. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - Aplicativo de escrita de romances de código aberto e local-first, com capítulos, esboço, personagens e tramas, além de um agente de IA que pode ler e editar todo o projeto. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - Um aplicativo de escrita divertido e minimalista que lembra uma máquina de escrever de verdade. ![Freeware][Freeware Icon]
+* [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Editor de texto simples de código aberto para escrever romances, com sintaxe mínima semelhante ao Markdown. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - O processador de texto por excelência para escritores.
 * [THORN](https://thorn.so) - Tudo o que você precisa para escrever e criar sites.
