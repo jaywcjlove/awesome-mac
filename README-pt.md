@@ -1444,6 +1444,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Dozer](https://github.com/Mortennn/Dozer) - Oculte itens da barra de menus do macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - Altera a cor e o formato da barra de menus do macOS com cores ao vivo correspondentes à tela, gradientes, um visualizador de música e perfis por app.
 * [DynamicHorizon](https://dynamichorizon.app) - Adiciona controles de mídia, notificações e indicadores do sistema à área do notch.
+* [EdgeBar](https://edgebar.xyz) - Transforma as bordas do trackpad do MacBook em controles deslizantes de volume e brilho, com mudo rápido e controles de mídia nos cantos e na borda inferior.
 * [Repose](https://github.com/fikrikarim/repose) - Cronômetro de pausas na barra de menus que escurece a tela e pausa durante chamadas. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Fishing Funds](https://ff.1zilc.top) - Exibe tendências em tempo real de fundos chineses na barra de menus. [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - Um app da barra de menus para sincronização contínua com o Google Drive. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)

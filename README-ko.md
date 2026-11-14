@@ -1143,6 +1143,7 @@ Awesome Mac
 * [Dimble](https://dimble.fif7y.com) - macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
+* [EdgeBar](https://edgebar.xyz) - MacBook 트랙패드 가장자리를 음량 및 밝기 슬라이더로 바꾸는 도구. 모서리와 아래쪽 가장자리로 빠른 음소거와 미디어 제어도 지원.
 * [HeyMate](https://getheymate.vercel.app) - 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [HideNotch](https://hidenotch.app) - 메뉴 막대를 검은색으로 칠해 MacBook 노치가 자연스럽게 섞이도록 하며, 화면 모서리를 둥글게 만들 수도 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
