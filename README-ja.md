@@ -1598,6 +1598,7 @@ Awesome Mac
 * [HTTrack](http://www.httrack.com) - Webサイト全体をダウンロードしてオフラインブラウジングするのに便利なツール。 ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - あらゆるソースからインストールしたアプリが最新かどうかをチェックする小さなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
 * [Liftoff](https://github.com/firstfu/Liftoff) - ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
+* [LLMIC](https://llmic.com) - ウェブサイトの技術的な問題を見つけ、修正結果を検証する SEO 監査ソフトウェア。
 * [LocalSR](https://herrei.github.io/localsr/) - ローカルのAIモデルで写真や動画をアップスケール・ノイズ除去・修復するオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]
 * [Lucid](https://lucid-wallpaper.vercel.app) - 宇宙・自然・海のループ映像と Apple Aerials を各ディスプレイに表示する 4K ライブ壁紙アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/lucid-live-wallpaper) ![Freeware][Freeware Icon]
 * [Lungo](https://sindresorhus.com/lungo) - Macのスリープを防止。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803?platform=mac)
