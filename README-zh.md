@@ -818,6 +818,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 支持时间轴和样式编辑的开源字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aero IPTV](https://aeroplay.tv/) - 原生 IPTV 播放器，播放你自己的 M3U 播放列表或 Xtream Codes 账号，带节目指南。免费下载；Aero Pro 增加直播回退和回看。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6788383081?platform=mac)
 * [Amical](https://amical.ai) - 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。 [![Open-Source Software][OSS Icon]](https://github.com/amicalhq/amical)
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]

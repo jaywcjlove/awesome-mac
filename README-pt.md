@@ -1041,6 +1041,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 * [Adapter](https://macroplant.com/adapter) - Software gratuito para conversão de áudio, vídeo e imagens. ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - Editor de legendas de código aberto com ferramentas de sincronização e estilo. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aero IPTV](https://aeroplay.tv/) - Player IPTV nativo para a sua própria playlist M3U ou login Xtream Codes, com guia de programação. Download gratuito; o Aero Pro adiciona retrocesso ao vivo e catch-up. [![App Store][app-store Icon]](https://apps.apple.com/app/id6788383081?platform=mac)
 * [Ardour](https://ardour.org/) - Software de áudio multiplataforma para gravação e edição multipista. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](https://www.audacityteam.org/) - Software de áudio gratuito, de código aberto e multiplataforma para gravação e edição multipista. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - Grave o áudio de qualquer aplicativo, incluindo chamadas VoIP do Skype, transmissões da web no Safari e muito mais.

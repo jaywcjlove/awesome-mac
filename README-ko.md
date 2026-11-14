@@ -804,6 +804,7 @@ Awesome Mac
 
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aero IPTV](https://aeroplay.tv/) - 내 M3U 재생목록이나 Xtream Codes 로그인으로 쓰는 네이티브 IPTV 플레이어. 편성표 지원. 무료 다운로드, Aero Pro로 실시간 되감기와 다시보기 추가. [![App Store][app-store Icon]](https://apps.apple.com/app/id6788383081?platform=mac)
 * [BeMyEars](https://www.bemyears.cn/) - 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구. ![Freeware][Freeware Icon]
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
 * [Spotifly](https://github.com/ralph/Spotifly) - 빠른 재생 제어에 초점을 맞춘 가벼운 Spotify 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
