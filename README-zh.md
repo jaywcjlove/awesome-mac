@@ -941,6 +941,7 @@ Awesome Mac
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
+* [Dolmi](https://dolmi.zehnix.co) - 会议实时字幕，在本机使用 Whisper 和 Opus-MT 转写并翻译系统音频或麦克风，无需账号，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/AnnasMustafaDev/dolmi) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。 [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
