@@ -807,6 +807,7 @@ Awesome Mac
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 타이밍과 스타일 편집을 지원하는 오픈 소스 자막 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [BeMyEars](https://www.bemyears.cn/) - 온디바이스 전사와 다국어 자막을 지원하는 실시간 자막 도구. ![Freeware][Freeware Icon]
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 다양한 오디오와 비디오 포맷을 지원하는 미디어 플레이어.
+* [PolarParrot](https://polarparrot.com/en) - 봇 없이 회의를 녹음하고 회의록을 작성하며 MCP로 Claude, ChatGPT, Cursor에서 읽을 수 있게 한다.
 * [Spotifly](https://github.com/ralph/Spotifly) - 빠른 재생 제어에 초점을 맞춘 가벼운 Spotify 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [Spotify](https://www.spotify.com/) - 수백만 곡의 노래를 즐길 수 있는 디지털 음악 서비스. ![Freeware][Freeware Icon]
 
