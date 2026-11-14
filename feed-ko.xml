@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:00:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BaseHalf</title>
+      <link>https://basehalf.com</link>
+      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: BaseHalf
+Description: 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱.
+Website: https://basehalf.com
+Open Source: https://github.com/Pointa-Labs/basehalf
+Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: BaseHalf<br/>Description: 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
+    </item>
     <item>
       <title>LD Manager</title>
       <link>https://codonic.dev/apps/ldmanager</link>
@@ -717,21 +732,6 @@ Open Source: https://github.com/Dhunu/gitOS
 Commit: Add GitOS to Version Control (#4337)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 버전 관리<br/>App: GitOS<br/>Description: 저장소마다 올바른 GitHub 계정을 자동으로 선택하는 Git 클라이언트.<br/>Website: https://gitos.angelsaikia.com/<br/>Open Source: https://github.com/Dhunu/gitOS<br/>Commit: Add GitOS to Version Control (#4337)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0]]></content:encoded>
-    </item>
-    <item>
-      <title>Quill</title>
-      <link>https://quill.hridya.tech</link>
-      <guid isPermaLink="false">6beb17e191493510b447726df5053a41678cd111:Quill</guid>
-      <pubDate>Sun, 08 Nov 2026 06:39:18 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Quill
-Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.
-Website: https://quill.hridya.tech
-Open Source: https://github.com/hridaya423/quill
-Commit: Add Quill (#4343)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Quill<br/>Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
     </item>
   </channel>
 </rss>

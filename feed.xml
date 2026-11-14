@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:00:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BaseHalf</title>
+      <link>https://basehalf.com</link>
+      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: BaseHalf
+Description: Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.
+Website: https://basehalf.com
+Open Source: https://github.com/Pointa-Labs/basehalf
+Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: BaseHalf<br/>Description: Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
+    </item>
     <item>
       <title>LD Manager</title>
       <link>https://codonic.dev/apps/ldmanager</link>
@@ -714,21 +729,6 @@ Open Source: https://github.com/sventmueller/lowspeak
 Commit: Add Lowspeak to Voice-to-Text (#4347)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3</description>
       <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Lowspeak<br/>Description: Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet.<br/>Open Source: https://github.com/sventmueller/lowspeak<br/>Commit: Add Lowspeak to Voice-to-Text (#4347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3]]></content:encoded>
-    </item>
-    <item>
-      <title>Cue</title>
-      <link>https://cue.hridya.tech</link>
-      <guid isPermaLink="false">21ce56aa9b31410f51395de3f151297f5415f82b:Cue</guid>
-      <pubDate>Mon, 09 Nov 2026 07:04:15 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Cue
-Description: Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.
-Website: https://cue.hridya.tech
-Open Source: https://github.com/hridaya423/cue
-Commit: Add Cue (#4345)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Cue<br/>Description: Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.<br/>Website: https://cue.hridya.tech<br/>Open Source: https://github.com/hridaya423/cue<br/>Commit: Add Cue (#4345)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b]]></content:encoded>
     </item>
   </channel>
 </rss>

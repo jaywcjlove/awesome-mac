@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:00:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BaseHalf</title>
+      <link>https://basehalf.com</link>
+      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: BaseHalf
+Description: 把文件夹打开成画布的开源桌面应用，笔记、PDF 和媒体都在画布上，Claude Code、Codex 等 AI 智能体在旁边处理同一批文件。
+Website: https://basehalf.com
+Open Source: https://github.com/Pointa-Labs/basehalf
+Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: BaseHalf<br/>Description: 把文件夹打开成画布的开源桌面应用，笔记、PDF 和媒体都在画布上，Claude Code、Codex 等 AI 智能体在旁边处理同一批文件。<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
+    </item>
     <item>
       <title>LD Manager</title>
       <link>https://codonic.dev/apps/ldmanager</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/hridaya423/cue
 Commit: Add Cue (#4345)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Cue<br/>Description: 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。<br/>Website: https://cue.hridya.tech<br/>Open Source: https://github.com/hridaya423/cue<br/>Commit: Add Cue (#4345)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/21ce56aa9b31410f51395de3f151297f5415f82b]]></content:encoded>
-    </item>
-    <item>
-      <title>Polka</title>
-      <link>https://romabmstu.github.io/polka/</link>
-      <guid isPermaLink="false">c7f934623125ed24730ff10fa457108b220b06ad:Polka</guid>
-      <pubDate>Mon, 09 Nov 2026 03:36:28 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Polka
-Description: 把 MacBook 刘海变成控制中心，集中管理 VPN 连接、任意浏览器的标签页分组、正在播放、日历、本地翻译和剪贴板历史。
-Website: https://romabmstu.github.io/polka/
-Open Source: https://github.com/romabmstu/polka
-Commit: Add Polka to Menu Bar Tools (#4390)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Polka<br/>Description: 把 MacBook 刘海变成控制中心，集中管理 VPN 连接、任意浏览器的标签页分组、正在播放、日历、本地翻译和剪贴板历史。<br/>Website: https://romabmstu.github.io/polka/<br/>Open Source: https://github.com/romabmstu/polka<br/>Commit: Add Polka to Menu Bar Tools (#4390)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7f934623125ed24730ff10fa457108b220b06ad]]></content:encoded>
     </item>
   </channel>
 </rss>
