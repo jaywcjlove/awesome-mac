@@ -962,6 +962,7 @@ Awesome Mac
 
 * [Agenda](https://agenda.com/) - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/agenda-notes-meets-calendar/?platform=mac)
 * [Bear Writer](http://www.bear-writer.com/) - 漂亮，灵活的写作应用程序，用于制作笔记和散文。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/bear-beautiful-writing-app/id1091189122?platform=mac)
+* [Beyond Notes](https://beyondbeyond.se/beyond-notes) - 原生写作与笔记应用，每条笔记都是你 iCloud Drive 里的纯 Markdown 文件，输入时即时排版，iPhone 和 iPad 也能用。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6825360841?pt=308053&ct=awesome-mac&mt=12) ![Native App][Native Icon]
 * [Boostnote](https://boostnote.io/) - 为程序员量身定做的笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 
 ### Office
