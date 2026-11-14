@@ -851,6 +851,7 @@ Awesome Mac
 * [Aspect](https://aspect.bildhuus.com) - ピアツーピア同期を備えた写真整理アプリ。 ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Webおよびモバイルアプリケーション向けの画像リサイズと最適化。 ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - 画面に表示される色を取得・調整するシンプルなアプリ。 ![Freeware][Freeware Icon]
+* [Culla](https://getculla.com/) - メモリーカード上で直接使える写真セレクト（カリング）アプリで、ピンボケや似た写真をオンデバイスAIで判別し、評価をLightroomが読めるXMPに書き込む。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6818320656?platform=mac)
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusionでコンピューター上でAIアートを生成する最も簡単な方法。 [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 画像、動画、音声、フォント、デザイン素材を管理するアセットマネージャー。
 * [ExifCleaner](https://exifcleaner.com) - ドラッグアンドドロップで画像や動画からExifメタデータを削除。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)

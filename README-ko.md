@@ -697,6 +697,7 @@ Awesome Mac
 * [Apolo](https://apolo.webcafeina.com/en/) - WebP, AVIF, JPEG XL, JPEG, PNG로 압축·변환하고 저장 전에 화질 손실과 SSIMULACRA 2 점수를 보여 주는 오픈 소스 이미지 최적화 도구. [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - 이미지 크기 조정 및 최적화. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - 녹화나 화면 공유 중 민감한 화면 내용을 즉시 흐리게 처리하는 도구.
+* [Culla](https://getculla.com/) - 메모리 카드에서 바로 사진을 고르고, 흔들린 사진과 비슷한 사진을 온디바이스 AI로 걸러 내며, 평점을 Lightroom에서 읽히는 XMP로 남기는 사진 선별(컬링) 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id6818320656?platform=mac)
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusion AI 아트 생성 도구. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 이미지, 비디오, 오디오, 폰트, 디자인 파일을 관리하는 에셋 매니저.
 * [ExifCleaner](https://exifcleaner.com) - 이미지 및 비디오의 EXIF 데이터 제거. [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) ![Freeware][Freeware Icon]
