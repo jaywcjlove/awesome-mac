@@ -1046,6 +1046,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 無料のオーディオ、ビデオ、画像変換ソフトウェア。 ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - タイミング調整とスタイル編集に対応したオープンソース字幕エディター。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
+* [Aero IPTV](https://aeroplay.tv/) - 自分のM3UプレイリストやXtream Codesログインで使えるネイティブIPTVプレイヤー。番組表付き。無料ダウンロード、Aero Proでライブの巻き戻しと見逃し視聴に対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6788383081?platform=mac)
 * [Ardour](https://ardour.org/) - マルチトラック録音と編集のためのクロスプラットフォームオーディオソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - マルチトラック録音と編集のための無料のオープンソース、クロスプラットフォームオーディオソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - SkypeからのVoIP通話、SafariからのWebストリームなど、あらゆるアプリケーションのオーディオを録音。
