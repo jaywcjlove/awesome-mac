@@ -411,6 +411,7 @@ Awesome Mac
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 강력한 파일 이름 변경 앱.
 * [Beyond Compare](http://www.scootersoftware.com/) - 파일 및 폴더 비교 도구.
 * [Bidbar](https://www.getbidbar.com) - 메뉴 바에서 bash 명령 관리.
+* [Bloblings](https://bloblings.app) - Claude Code와 Codex의 각 스레드를 패널 속 펫으로 보여 주고 대기 중·작업 중·휴식 중으로 분류. 펫을 클릭하면 해당 스레드로 이동. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Breaker](https://github.com/wata/Breaker) - 직접 만든 launchd 작업, cron 작업, 폴더 액션, SwiftBar 플러그인을 감시하고 문제가 생기면 알림. [![Open-Source Software][OSS Icon]](https://github.com/wata/Breaker) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cacher](https://www.cacher.io/) - 클라우드 기반 코드 스니펫 관리자.
 * [CC-Switch](https://github.com/farion1231/cc-switch) - Claude Code, Codex, OpenCode 등 AI 코딩 에이전트의 설정과 모델 전환을 관리하는 크로스 플랫폼 데스크톱 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/farion1231/cc-switch) ![Freeware][Freeware Icon]
