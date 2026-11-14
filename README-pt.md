@@ -1676,6 +1676,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Hammerspoon](https://www.hammerspoon.org/) - Ferramenta para automação poderosa no OSX com o motor de scripts Lua. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Adicione feedback háptico ao usar a Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
 * [HazeOver](https://hazeover.com) - App que escurece as janelas dos outros apps em segundo plano para você focar mais na tarefa principal! [![App Store][app-store Icon]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?platform=mac)
+* [Helix](https://tryhelix.app) - Menu radial que abre ao redor do ponteiro com histórico da área de transferência, capturas de tela, seletor de cores, encaixe de janelas e mais.
 * [Hook for Mac](https://hookproductivity.com/) - Relacione arquivos, e-mails e notas relacionados para navegação rápida.
 * [Hungrymark](https://zhengying.github.io/hungrymark) - Salve arquivos, pastas e links nos favoritos para acesso rápido pela barra de menus.
 * [Hyperkey](https://hyperkey.app/) - Transforme o Caps Lock ou outra tecla modificadora em uma tecla Hyper. ![Freeware][Freeware Icon]
