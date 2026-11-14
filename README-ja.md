@@ -242,6 +242,7 @@ Awesome Mac
 ### Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - インラインLaTeXをサポートした数学的記述向けのネイティブmacOS Markdownエディタ。
+* [Cloister Ink](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541) - Mac向けMarkdownエディタ。7日間の無料体験後は買い切りで、広告や分析機能はなし。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541)
 * [Edmund](https://github.com/I7T5/Edmund) - ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
