@@ -735,6 +735,7 @@ Awesome Mac
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - 基于个人知识库回答问题的本地优先 AI 聊天客户端。
   [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
+* [Tendbar](https://github.com/DabuSoft-pl/tendbar) - 原生菜单栏应用，显示哪些 Claude Code 会话已完成、正在等你或已出错，一键跳回对应的终端标签页，并跟踪每个账号的用量限额。 [![Open-Source Software][OSS Icon]](https://github.com/DabuSoft-pl/tendbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ThinkWatch Lite](https://thinkwat.ch/lite/) - 供 Claude Code、Codex 等 AI 编程客户端使用的本地网关，切换上游无需改客户端配置，记录每个请求的费用，并在请求发出前替换其中的 API 密钥。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware][Freeware Icon]
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - 跟踪 Claude Code 用量、速率限制、成本与活跃热力图的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
 * [TokenTracker](https://www.tokentracker.cc) - 本地优先的菜单栏与命令行工具，追踪 20 多款 AI 编程工具的 Token 用量与花费。 [![Open-Source Software][OSS Icon]](https://github.com/mm7894215/TokenTracker) ![Freeware][Freeware Icon]
