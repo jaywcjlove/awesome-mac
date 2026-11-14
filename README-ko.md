@@ -1041,6 +1041,7 @@ Awesome Mac
 ## 암호화
 
 * [Cryptomator](https://cryptomator.org/) - 클라우드 파일의 투명한 클라이언트 측 암호화. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
+* [hYYa Encrypted Folder & Sync](https://hyya.com/hyya-encrypted-folder.html) - 내 Google Drive로 Mac, iPhone, iPad, Android 간에, 또는 iCloud로 Apple 기기 간에 동기화되는 암호화 폴더 앱. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6786135330?platform=mac)
 
 ## 보안 도구
 

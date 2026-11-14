@@ -1312,6 +1312,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Cryptomator](https://cryptomator.org/) -  Multi-platform transparent client-side encryption of your files in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 * [Deadbolt](https://github.com/alichtman/deadbolt) - Open-source file encryption tool. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
+* [hYYa Encrypted Folder & Sync](https://hyya.com/hyya-encrypted-folder.html) - Encrypted folders that sync between Mac, iPhone, iPad and Android through your own Google Drive, or between Apple devices through iCloud. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6786135330?platform=mac)
 
 ## Security Tools
 
