@@ -872,6 +872,7 @@ Awesome Mac
 
 * [Adapter](https://macroplant.com/adapter) - 무료 오디오, 비디오, 이미지 변환 소프트웨어. ![Freeware][Freeware Icon]
 * [akou](https://geiserx.github.io/akou/) - 통화와 회의를 녹음해 화자 라벨과 함께 기기에서 전사하고, Claude Code나 Codex가 MCP로 통화 내용을 질의할 수 있는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [Aulio Studio](https://www.auliostudio.com/) - 녹음과 영상에서 배경 소음, 군더더기 말, 에코를 제거하는 온디바이스 AI 오디오 클리너로, Logic Pro용 실시간 AUv3 노이즈 제거 플러그인을 제공합니다. [![App Store][app-store Icon]](https://apps.apple.com/app/id6760414352?platform=mac)
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생. [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]

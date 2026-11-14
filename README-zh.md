@@ -938,6 +938,7 @@ Awesome Mac
 ### 音频录制与编辑
 
 * [akou](https://geiserx.github.io/akou/) - 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [Aulio Studio](https://www.auliostudio.com/) - 在本机运行的 AI 音频清理工具，可去除录音和视频中的背景噪音、口头禅和回声，并提供用于 Logic Pro 的实时 AUv3 降噪插件。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6760414352?platform=mac)
 * [CamiTune](https://github.com/Shuail135/CamiTune) - 适用于 macOS 13 及以上版本的系统级音频均衡器，支持参数均衡、按应用独立音频控制、AutoEQ、AU/VST3 插件及高级 DSP 处理。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Carbon](https://carbon.alexandrejoly.me) - 无需机器人或云端，在设备上转写会议并将每场会议保存为 Markdown 文件的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
