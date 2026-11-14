@@ -1374,6 +1374,7 @@ Awesome Mac
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 상황별로 묶은 앱 그룹을 단축키 하나로 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - 클릭 한 번이나 단축키로 모든 창을 숨겨 데스크톱을 보여 주고, 다시 누르면 그대로 되돌리는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [SimpleScreenTab](https://github.com/k33ssa/SimpleScreenTab) - 마우스가 있는 디스플레이의 앱만 보여 주는 오픈 소스 모니터별 Cmd-Tab 앱 전환기. [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/SimpleScreenTab) ![Freeware][Freeware Icon]
 * [Slate](https://github.com/jigish/slate) - JavaScript 설정을 사용하는 스크립트형 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jigish/slate) ![Freeware][Freeware Icon]
 * [Snapback](https://snapbackapp.com) - 키 한 번으로 전체 창 레이아웃을 저장하고 복원. ![Freeware][Freeware Icon]
 * [Stage Manager](https://eugene-tea.github.io/stage-manager/) - Rust로 만든 Apple 스테이지 매니저 대체 앱. 재시작 후에도 스테이지를 유지하고 Ctrl-Option-1..9로 전환. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/eugene-tea/stage-manager)
