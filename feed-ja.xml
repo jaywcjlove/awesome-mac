@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:25:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Keylane</title>
+      <link>https://github.com/Acckion/Keylane</link>
+      <guid isPermaLink="false">25c9d0b42283f582bdab97298cd8d24b18c29377:Keylane</guid>
+      <pubDate>Sun, 15 Nov 2026 01:25:28 GMT</pubDate>
+      <category>ユーティリティ / 生産性ツール</category>
+      <description>Category: ユーティリティ / 生産性ツール
+App: Keylane
+Description: アプリやファイルの検索、クリップボード履歴、システム操作に対応する macOS 26 以降向けのソース公開型キーボードランチャー。
+Open Source: https://github.com/Acckion/Keylane
+Commit: Add Keylane to the macOS app list (#4482)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Keylane<br/>Description: アプリやファイルの検索、クリップボード履歴、システム操作に対応する macOS 26 以降向けのソース公開型キーボードランチャー。<br/>Open Source: https://github.com/Acckion/Keylane<br/>Commit: Add Keylane to the macOS app list (#4482)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377]]></content:encoded>
+    </item>
     <item>
       <title>MyPack</title>
       <link>https://mypack.pages.dev</link>
@@ -716,21 +730,6 @@ Open Source: https://github.com/manugowda19/noth
 Commit: Add NØTH to Menu Bar Tools (#4370)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01d5cc5625406f01b6a9290ef8e45e7c24bff91b</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NØTH<br/>Description: MacBookのノッチを、音楽・ファイル・クリップボード・カレンダー・メモ・ツールをまとめたライブアクティビティとコマンドセンターに変えるアプリ。<br/>Open Source: https://github.com/manugowda19/noth<br/>Commit: Add NØTH to Menu Bar Tools (#4370)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01d5cc5625406f01b6a9290ef8e45e7c24bff91b]]></content:encoded>
-    </item>
-    <item>
-      <title>LogoLight</title>
-      <link>https://logolight.app</link>
-      <guid isPermaLink="false">c9ddcc1a35e9d714a43870d1f73c09de7bf61275:LogoLight</guid>
-      <pubDate>Mon, 09 Nov 2026 07:42:51 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: LogoLight
-Description: PROLED XDRディスプレイ搭載MacBook Proの背面で光るAppleロゴを、メニューバーからオフ・減光・アニメーションできるアプリ。
-Website: https://logolight.app
-Open Source: https://github.com/Ark0N/LogoLight
-Commit: Add LogoLight to Menu Bar Tools (#4349)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: LogoLight<br/>Description: PROLED XDRディスプレイ搭載MacBook Proの背面で光るAppleロゴを、メニューバーからオフ・減光・アニメーションできるアプリ。<br/>Website: https://logolight.app<br/>Open Source: https://github.com/Ark0N/LogoLight<br/>Commit: Add LogoLight to Menu Bar Tools (#4349)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c9ddcc1a35e9d714a43870d1f73c09de7bf61275]]></content:encoded>
     </item>
   </channel>
 </rss>
