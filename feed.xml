@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:17:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HistCite Mac</title>
+      <link>https://github.com/yangnim21029/histcite-mac</link>
+      <guid isPermaLink="false">36aa93952ca7855154af79c3b115f19bbdbc4a19:HistCite Mac</guid>
+      <pubDate>Sun, 15 Nov 2026 02:17:08 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: HistCite Mac
+Description: Open-source bibliometric analysis and citation network visualization for Web of Science exports.
+Open Source: https://github.com/yangnim21029/histcite-mac
+Commit: Add HistCite Mac to the multilingual app lists (#4609)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: HistCite Mac<br/>Description: Open-source bibliometric analysis and citation network visualization for Web of Science exports.<br/>Open Source: https://github.com/yangnim21029/histcite-mac<br/>Commit: Add HistCite Mac to the multilingual app lists (#4609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19]]></content:encoded>
+    </item>
     <item>
       <title>Earshot</title>
       <link>https://github.com/Bouliw/earshot</link>
@@ -714,21 +728,6 @@ Open Source: https://github.com/8thlyr/fan-curve
 Commit: Update Fan Curve to System Related Tools (#4402)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Fan Curve<br/>Description: Open-source fan curve controller for Apple Silicon Macs that sets fan speed from CPU temperature.<br/>Open Source: https://github.com/8thlyr/fan-curve<br/>Commit: Update Fan Curve to System Related Tools (#4402)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe]]></content:encoded>
-    </item>
-    <item>
-      <title>Volant</title>
-      <link>https://usevolant.com</link>
-      <guid isPermaLink="false">9b8ec210a3c06e2f44392aa1bacdc055273b6d90:Volant</guid>
-      <pubDate>Wed, 11 Nov 2026 00:27:53 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Volant
-Description: Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents.
-Website: https://usevolant.com
-Open Source: https://github.com/mysticcoders/volant
-Commit: Add Volant to Productivity (#4464)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Volant<br/>Description: Private, open-source launcher for apps, files, calculations, notes, clipboard history and coding agents.<br/>Website: https://usevolant.com<br/>Open Source: https://github.com/mysticcoders/volant<br/>Commit: Add Volant to Productivity (#4464)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8ec210a3c06e2f44392aa1bacdc055273b6d90]]></content:encoded>
     </item>
   </channel>
 </rss>
