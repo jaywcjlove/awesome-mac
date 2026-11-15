@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:46:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rewrite</title>
+      <link>https://samratduttaofficial.github.io/Rewrite/</link>
+      <guid isPermaLink="false">797f4642c101b3964178f539f2593062343a1ad8:Rewrite</guid>
+      <pubDate>Sun, 15 Nov 2026 02:46:57 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: Rewrite
+Description: 改写文本、修正语法，并编辑 Word、LaTeX 和 PDF 文件。
+Website: https://samratduttaofficial.github.io/Rewrite/
+Commit: Add Rewrite to Writing (#3897)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Rewrite<br/>Description: 改写文本、修正语法，并编辑 Word、LaTeX 和 PDF 文件。<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
+    </item>
     <item>
       <title>Cyberdog</title>
       <link>https://pickywawa.github.io/cyberdog/</link>
@@ -715,20 +729,6 @@ Open Source: https://github.com/HerRei/local-upscale
 Commit: Add LocalSR to General Tools (#4339)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: LocalSR<br/>Description: 开源应用，使用本地 AI 模型对照片和视频进行超分、降噪和修复。<br/>Website: https://herrei.github.io/localsr/<br/>Open Source: https://github.com/HerRei/local-upscale<br/>Commit: Add LocalSR to General Tools (#4339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442]]></content:encoded>
-    </item>
-    <item>
-      <title>Fan Curve</title>
-      <link>https://github.com/8thlyr/fan-curve</link>
-      <guid isPermaLink="false">bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe:Fan Curve</guid>
-      <pubDate>Wed, 11 Nov 2026 04:26:19 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Fan Curve
-Description: 适用于 Apple Silicon Mac 的开源风扇曲线控制器，根据 CPU 温度调节风扇转速。
-Open Source: https://github.com/8thlyr/fan-curve
-Commit: Update Fan Curve to System Related Tools (#4402)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Fan Curve<br/>Description: 适用于 Apple Silicon Mac 的开源风扇曲线控制器，根据 CPU 温度调节风扇转速。<br/>Open Source: https://github.com/8thlyr/fan-curve<br/>Commit: Update Fan Curve to System Related Tools (#4402)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe]]></content:encoded>
     </item>
   </channel>
 </rss>
