@@ -1858,6 +1858,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 * [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
+* [Paw-Paw](https://paw-paw.pet) - Desktop pet that reacts to typing and clicks and unlocks new animals and wearable items as you level up. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [Safelight](https://github.com/mopfaff/Safelight) - Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night. [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shifty](https://shifty.natethompson.io) - A macOS menu bar app that gives you more control over Night Shift. [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
