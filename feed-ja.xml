@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:49:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Downright</title>
+      <link>https://downright.cc/</link>
+      <guid isPermaLink="false">3574867687dd7a8a912a0f195b74d3ca024913ee:Downright</guid>
+      <pubDate>Sun, 15 Nov 2026 00:49:23 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Downright
+Description: 普通のファイルをそのまま開ける、ネイティブでオープンソースのMarkdownリーダー兼エディタ。Quick LookプレビューとFinderサムネイルに対応し、他のアプリやエージェントがファイルを変更するとライブで更新。
+Website: https://downright.cc/
+Open Source: https://github.com/ezzy1630/Downright
+Commit: Add Downright to Markdown tools (#2606)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Downright<br/>Description: 普通のファイルをそのまま開ける、ネイティブでオープンソースのMarkdownリーダー兼エディタ。Quick LookプレビューとFinderサムネイルに対応し、他のアプリやエージェントがファイルを変更するとライブで更新。<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
+    </item>
     <item>
       <title>Sheer</title>
       <link>https://github.com/AzurLiu/sheer</link>
@@ -715,20 +730,6 @@ Open Source: https://github.com/Dearonski/Nimbus
 Commit: Add Nimbus to Audio and Video Tools (#4348)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Nimbus<br/>Description: ギャップレス再生、ドラッグ＆ドロップで並べ替えられるキュー、Chromecast、フルスクリーンのレコードプレーヤーを備えたネイティブ SoundCloud クライアント。<br/>Open Source: https://github.com/Dearonski/Nimbus<br/>Commit: Add Nimbus to Audio and Video Tools (#4348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bea1458f3ab354bebea19f19de520195affcbf3d]]></content:encoded>
-    </item>
-    <item>
-      <title>Lowspeak</title>
-      <link>https://github.com/sventmueller/lowspeak</link>
-      <guid isPermaLink="false">f5a1430697fde52d9918eefb6e7e31f56e0a6eb3:Lowspeak</guid>
-      <pubDate>Mon, 09 Nov 2026 07:40:51 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Lowspeak
-Description: Rustで書かれたネイティブで超高速なAI音声入力ツール。fnを押しながら話すとどのアプリにも35言語で入力でき、自分のGroqキーで無料のオンライン変換、またはWhisperとParakeetによるオフライン動作に対応。
-Open Source: https://github.com/sventmueller/lowspeak
-Commit: Add Lowspeak to Voice-to-Text (#4347)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Lowspeak<br/>Description: Rustで書かれたネイティブで超高速なAI音声入力ツール。fnを押しながら話すとどのアプリにも35言語で入力でき、自分のGroqキーで無料のオンライン変換、またはWhisperとParakeetによるオフライン動作に対応。<br/>Open Source: https://github.com/sventmueller/lowspeak<br/>Commit: Add Lowspeak to Voice-to-Text (#4347)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5a1430697fde52d9918eefb6e7e31f56e0a6eb3]]></content:encoded>
     </item>
   </channel>
 </rss>
