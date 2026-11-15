@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:15:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>kwant</title>
+      <link>https://kwant.si</link>
+      <guid isPermaLink="false">c16a70393d592630b3ee2dacb311a91c0a11fee6:kwant</guid>
+      <pubDate>Sun, 15 Nov 2026 11:15:36 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: kwant
+Description: Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals.
+Website: https://kwant.si
+Open Source: https://github.com/alexsergivan/kwant
+Commit: Add kwant to AI Tools (#4615)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: kwant<br/>Description: Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals.<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
+    </item>
     <item>
       <title>Rewrite</title>
       <link>https://samratduttaofficial.github.io/Rewrite/</link>
@@ -714,20 +729,6 @@ Website: https://pake.run/
 Commit: Add Pake to General Tools (#4483)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Pake<br/>Description: Turn any website into a lightweight desktop app with its own icon, window and Dock entry.<br/>Website: https://pake.run/<br/>Commit: Add Pake to General Tools (#4483)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba]]></content:encoded>
-    </item>
-    <item>
-      <title>Airbag</title>
-      <link>https://github.com/a1murt/airbag</link>
-      <guid isPermaLink="false">4a9fb250e65358216661b0a19e8eceecc259b633:Airbag</guid>
-      <pubDate>Wed, 11 Nov 2026 05:58:10 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Airbag
-Description: Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click.
-Open Source: https://github.com/a1murt/airbag
-Commit: Add Airbag to AI Tools (#4477)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Airbag<br/>Description: Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click.<br/>Open Source: https://github.com/a1murt/airbag<br/>Commit: Add Airbag to AI Tools (#4477)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633]]></content:encoded>
     </item>
   </channel>
 </rss>
