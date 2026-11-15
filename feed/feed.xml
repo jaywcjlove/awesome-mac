@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:32:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:34:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Louppe</title>
+      <link>https://louppe.eu/</link>
+      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
+      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Louppe
+Description: Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import.
+Website: https://louppe.eu/
+Open Source: https://github.com/murlexander/louppe-media-culler
+App Store: https://apps.apple.com/app/louppe/id6820131477
+Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Louppe<br/>Description: Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
+    </item>
     <item>
       <title>Trace</title>
       <link>https://github.com/lxyeternal/Trace</link>
@@ -714,21 +730,6 @@ Open Source: https://github.com/olujicz/Dimmerly
 Commit: Add Dimmerly to Quality of Life Improvements (#4430)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9</description>
       <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Dimmerly<br/>Description: Open-source menu bar app for per-display brightness, warmth, and contrast, with presets, schedules, and DDC/CI monitor control.<br/>Website: https://dimmerly.olujic.in.rs/<br/>Open Source: https://github.com/olujicz/Dimmerly<br/>Commit: Add Dimmerly to Quality of Life Improvements (#4430)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9]]></content:encoded>
-    </item>
-    <item>
-      <title>Cue</title>
-      <link>https://cue.8starlabs.com</link>
-      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
-      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: Cue
-Description: IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal.
-Website: https://cue.8starlabs.com
-Open Source: https://github.com/8starlabs/cue
-Commit: Add Cue to terminal app lists (#4419)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cue<br/>Description: IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal.<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
     </item>
   </channel>
 </rss>

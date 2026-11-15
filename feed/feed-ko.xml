@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:32:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:34:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Louppe</title>
+      <link>https://louppe.eu/</link>
+      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
+      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Louppe
+Description: JPEG, RAW, 동영상 폴더를 그대로 둘러보고 키보드로 남길 파일을 골라 복사할 수 있는 사진·동영상 뷰어 겸 정리 도구. 라이브러리로 가져올 필요가 없음.
+Website: https://louppe.eu/
+Open Source: https://github.com/murlexander/louppe-media-culler
+App Store: https://apps.apple.com/app/louppe/id6820131477
+Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Louppe<br/>Description: JPEG, RAW, 동영상 폴더를 그대로 둘러보고 키보드로 남길 파일을 골라 복사할 수 있는 사진·동영상 뷰어 겸 정리 도구. 라이브러리로 가져올 필요가 없음.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
+    </item>
     <item>
       <title>Trace</title>
       <link>https://github.com/lxyeternal/Trace</link>
@@ -716,20 +732,6 @@ Open Source: https://github.com/jomonkj/claude-accounts
 Commit: Add Claude Accounts to Menu Bar Tools (#4415)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Claude Accounts<br/>Description: Claude 데스크톱 앱의 계정을 한 번의 클릭으로 전환하는 도구. 세션은 사라지지 않습니다.<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
-    </item>
-    <item>
-      <title>FixStat</title>
-      <link>https://github.com/BurakFixLab/fixstat</link>
-      <guid isPermaLink="false">65aa6f5642a92484525ede757a04d1c4cd0eb27b:FixStat</guid>
-      <pubDate>Mon, 09 Nov 2026 09:48:42 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: FixStat
-Description: Mac 수리를 위한 메뉴 막대 모니터 겸 진단 도구. 모델별 센서 이름, 배터리 셀 데이터, SSD SMART(USB 외장 드라이브 포함), 패닉 기록, 안내형 하드웨어 테스트 제공.
-Open Source: https://github.com/BurakFixLab/fixstat
-Commit: Add FixStat to System Related Tools (#4410)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: FixStat<br/>Description: Mac 수리를 위한 메뉴 막대 모니터 겸 진단 도구. 모델별 센서 이름, 배터리 셀 데이터, SSD SMART(USB 외장 드라이브 포함), 패닉 기록, 안내형 하드웨어 테스트 제공.<br/>Open Source: https://github.com/BurakFixLab/fixstat<br/>Commit: Add FixStat to System Related Tools (#4410)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b]]></content:encoded>
     </item>
   </channel>
 </rss>
