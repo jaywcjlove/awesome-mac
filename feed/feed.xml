@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:39:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cyberdog</title>
+      <link>https://pickywawa.github.io/cyberdog/</link>
+      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
+      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Cyberdog
+Description: SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.
+Website: https://pickywawa.github.io/cyberdog/
+Open Source: https://github.com/pickywawa/cyberdog
+Commit: Add Cyberdog (#4610)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cyberdog<br/>Description: SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
+    </item>
     <item>
       <title>HistCite Mac</title>
       <link>https://github.com/yangnim21029/histcite-mac</link>
@@ -714,20 +729,6 @@ Open Source: https://github.com/HerRei/local-upscale
 Commit: Add LocalSR to General Tools (#4339)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: LocalSR<br/>Description: Open-source app for upscaling, denoising and restoring photos and videos with local AI models.<br/>Website: https://herrei.github.io/localsr/<br/>Open Source: https://github.com/HerRei/local-upscale<br/>Commit: Add LocalSR to General Tools (#4339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cab65a5946fb540bfb55b4d5895d83eb0d318442]]></content:encoded>
-    </item>
-    <item>
-      <title>Fan Curve</title>
-      <link>https://github.com/8thlyr/fan-curve</link>
-      <guid isPermaLink="false">bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe:Fan Curve</guid>
-      <pubDate>Wed, 11 Nov 2026 04:26:19 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Fan Curve
-Description: Open-source fan curve controller for Apple Silicon Macs that sets fan speed from CPU temperature.
-Open Source: https://github.com/8thlyr/fan-curve
-Commit: Update Fan Curve to System Related Tools (#4402)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Fan Curve<br/>Description: Open-source fan curve controller for Apple Silicon Macs that sets fan speed from CPU temperature.<br/>Open Source: https://github.com/8thlyr/fan-curve<br/>Commit: Update Fan Curve to System Related Tools (#4402)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bb141c5f78e3b4aa00f8c17c0ca48e1a10ad96fe]]></content:encoded>
     </item>
   </channel>
 </rss>

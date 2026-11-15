@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:39:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cyberdog</title>
+      <link>https://pickywawa.github.io/cyberdog/</link>
+      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
+      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Cyberdog
+Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.
+Website: https://pickywawa.github.io/cyberdog/
+Open Source: https://github.com/pickywawa/cyberdog
+Commit: Add Cyberdog (#4610)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Cyberdog<br/>Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
+    </item>
     <item>
       <title>Earshot</title>
       <link>https://github.com/Bouliw/earshot</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/egoist/eme
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Editor de Markdown de código aberto com interface semelhante à do Chrome.<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>iA Writer</title>
-      <link>https://ia.net/writer/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:iA Writer</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: iA Writer
-Description: App de escrita com foco em simplicidade e design.
-Website: https://ia.net/writer/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: App de escrita com foco em simplicidade e design.<br/>Website: https://ia.net/writer/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

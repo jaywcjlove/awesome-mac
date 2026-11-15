@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:39:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cyberdog</title>
+      <link>https://pickywawa.github.io/cyberdog/</link>
+      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
+      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Cyberdog
+Description: 터미널과 서버 상태 대시보드를 내장하고 FTP, S3, WebDAV도 지원하는 SSH/SFTP 클라이언트.
+Website: https://pickywawa.github.io/cyberdog/
+Open Source: https://github.com/pickywawa/cyberdog
+Commit: Add Cyberdog (#4610)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Cyberdog<br/>Description: 터미널과 서버 상태 대시보드를 내장하고 FTP, S3, WebDAV도 지원하는 SSH/SFTP 클라이언트.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
+    </item>
     <item>
       <title>HistCite Mac</title>
       <link>https://github.com/yangnim21029/histcite-mac</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/olujicz/Dimmerly
 Commit: Add Dimmerly to Quality of Life Improvements (#4430)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Dimmerly<br/>Description: 디스플레이별 밝기, 색온도, 대비를 조절하고 프리셋, 일정, DDC/CI 모니터 제어를 지원하는 오픈 소스 메뉴 막대 앱.<br/>Website: https://dimmerly.olujic.in.rs/<br/>Open Source: https://github.com/olujicz/Dimmerly<br/>Commit: Add Dimmerly to Quality of Life Improvements (#4430)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9]]></content:encoded>
-    </item>
-    <item>
-      <title>Cue</title>
-      <link>https://cue.8starlabs.com</link>
-      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
-      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: Cue
-Description: Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다.
-Website: https://cue.8starlabs.com
-Open Source: https://github.com/8starlabs/cue
-Commit: Add Cue to terminal app lists (#4419)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Cue<br/>Description: Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다.<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
     </item>
   </channel>
 </rss>
