@@ -127,10 +127,12 @@
 ## 미디어
 
 * [cmus](https://cmus.github.io/) - 명령줄 기반의 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 로컬 파일로 된 음악 보관함을 고치는 도구: 제목 정리, Deezer의 아트워크와 앨범 정보, LRCLIB의 가사, 중복 제거, 앨범을 곡별로 분할. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.com 및 기타 사이트에서 비디오를 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 개발자 도구
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude Code와 Codex CLI 계정을 수동으로 또는 한도에 가까워지면 자동으로 전환하고 각 계정의 5시간 및 주간 사용량을 표시. [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 이름이 지정된 프로필로 Claude Code, Codex, Gemini, Antigravity CLI 계정을 전환하고 저장소별로 사용할 계정을 고정. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple silicon의 기본 container 런타임을 위한 Docker Compose 호환 CLI. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]

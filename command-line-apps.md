@@ -126,10 +126,12 @@ A curated list of useful command line apps
 ## Media
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - Repairs a Music library of local files: clean titles, artwork and album info from Deezer, lyrics from LRCLIB, duplicates removed and full albums split into tracks. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - Download videos from YouTube.com and a few more sites. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## Developer
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Switch Claude Code and Codex CLI accounts by hand or automatically near a limit, and see each account's 5-hour and weekly usage. [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - Switch Claude Code, Codex, Gemini and Antigravity CLI accounts with named profiles and per-repository account guards. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Docker Compose-compatible CLI for Apple's native container runtime on Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
