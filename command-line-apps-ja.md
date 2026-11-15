@@ -127,6 +127,7 @@ Awesome Command Line Apps
 ## メディア
 
 * [cmus](https://cmus.github.io/) - Unix系オペレーティングシステム向けの小さく、高速で強力なコンソール音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - ローカルファイルのミュージックライブラリを修復：タイトルの整理、Deezerからのアートワークとアルバム情報、LRCLIBからの歌詞、重複の削除、アルバムの曲ごとの分割。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.comおよびその他のサイトから動画をダウンロード。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 開発者向け
