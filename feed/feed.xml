@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:25:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Keylane</title>
+      <link>https://github.com/Acckion/Keylane</link>
+      <guid isPermaLink="false">25c9d0b42283f582bdab97298cd8d24b18c29377:Keylane</guid>
+      <pubDate>Sun, 15 Nov 2026 01:25:28 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Keylane
+Description: Source-available keyboard launcher for macOS 26+ with app and file search, clipboard history, and system actions.
+Open Source: https://github.com/Acckion/Keylane
+Commit: Add Keylane to the macOS app list (#4482)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Keylane<br/>Description: Source-available keyboard launcher for macOS 26+ with app and file search, clipboard history, and system actions.<br/>Open Source: https://github.com/Acckion/Keylane<br/>Commit: Add Keylane to the macOS app list (#4482)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377]]></content:encoded>
+    </item>
     <item>
       <title>MyPack</title>
       <link>https://mypack.pages.dev</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/maitrungduc1410/NativeScreen
 Commit: Add Native Screen to Screen Recording (#4414)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193</description>
       <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Native Screen<br/>Description: Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions.<br/>Website: https://nativescreen.app/<br/>Open Source: https://github.com/maitrungduc1410/NativeScreen<br/>Commit: Add Native Screen to Screen Recording (#4414)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Accounts</title>
-      <link>https://github.com/jomonkj/claude-accounts</link>
-      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
-      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Claude Accounts
-Description: Switches the Claude desktop app between your accounts with one click, without losing sessions.
-Open Source: https://github.com/jomonkj/claude-accounts
-Commit: Add Claude Accounts to Menu Bar Tools (#4415)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claude Accounts<br/>Description: Switches the Claude desktop app between your accounts with one click, without losing sessions.<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
     </item>
   </channel>
 </rss>

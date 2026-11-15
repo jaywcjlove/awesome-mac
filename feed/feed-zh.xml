@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:25:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Keylane</title>
+      <link>https://github.com/Acckion/Keylane</link>
+      <guid isPermaLink="false">25c9d0b42283f582bdab97298cd8d24b18c29377:Keylane</guid>
+      <pubDate>Sun, 15 Nov 2026 01:25:28 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Keylane
+Description: 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。
+Open Source: https://github.com/Acckion/Keylane
+Commit: Add Keylane to the macOS app list (#4482)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Keylane<br/>Description: 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。<br/>Open Source: https://github.com/Acckion/Keylane<br/>Commit: Add Keylane to the macOS app list (#4482)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377]]></content:encoded>
+    </item>
     <item>
       <title>MyPack</title>
       <link>https://mypack.pages.dev</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/jomonkj/claude-accounts
 Commit: Add Claude Accounts to Menu Bar Tools (#4415)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Claude Accounts<br/>Description: 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
-    </item>
-    <item>
-      <title>FixStat</title>
-      <link>https://github.com/BurakFixLab/fixstat</link>
-      <guid isPermaLink="false">65aa6f5642a92484525ede757a04d1c4cd0eb27b:FixStat</guid>
-      <pubDate>Mon, 09 Nov 2026 09:48:42 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: FixStat
-Description: 面向 Mac 维修的菜单栏监控与诊断工具：按机型命名的传感器、电池电芯数据、SSD SMART（含 USB 外接硬盘）、内核崩溃记录和引导式硬件测试。
-Open Source: https://github.com/BurakFixLab/fixstat
-Commit: Add FixStat to System Related Tools (#4410)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: FixStat<br/>Description: 面向 Mac 维修的菜单栏监控与诊断工具：按机型命名的传感器、电池电芯数据、SSD SMART（含 USB 外接硬盘）、内核崩溃记录和引导式硬件测试。<br/>Open Source: https://github.com/BurakFixLab/fixstat<br/>Commit: Add FixStat to System Related Tools (#4410)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/65aa6f5642a92484525ede757a04d1c4cd0eb27b]]></content:encoded>
     </item>
   </channel>
 </rss>
