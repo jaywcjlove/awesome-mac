@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:32:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Trace</title>
+      <link>https://github.com/lxyeternal/Trace</link>
+      <guid isPermaLink="false">924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d:Trace</guid>
+      <pubDate>Sun, 15 Nov 2026 01:32:24 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: Trace
+Description: 自动记录应用、窗口、文件和网页的时间追踪工具，数据全部保存在本机。
+Open Source: https://github.com/lxyeternal/Trace
+Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Trace<br/>Description: 自动记录应用、窗口、文件和网页的时间追踪工具，数据全部保存在本机。<br/>Open Source: https://github.com/lxyeternal/Trace<br/>Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d]]></content:encoded>
+    </item>
     <item>
       <title>Keylane</title>
       <link>https://github.com/Acckion/Keylane</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/maitrungduc1410/NativeScreen
 Commit: Add Native Screen to Screen Recording (#4414)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 屏幕录制<br/>App: Native Screen<br/>Description: 带多轨时间线、自动缩放和本地字幕的开源录屏与编辑工具。<br/>Website: https://nativescreen.app/<br/>Open Source: https://github.com/maitrungduc1410/NativeScreen<br/>Commit: Add Native Screen to Screen Recording (#4414)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193]]></content:encoded>
-    </item>
-    <item>
-      <title>Claude Accounts</title>
-      <link>https://github.com/jomonkj/claude-accounts</link>
-      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
-      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Claude Accounts
-Description: 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。
-Open Source: https://github.com/jomonkj/claude-accounts
-Commit: Add Claude Accounts to Menu Bar Tools (#4415)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Claude Accounts<br/>Description: 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
     </item>
   </channel>
 </rss>
