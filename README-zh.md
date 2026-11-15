@@ -1807,6 +1807,7 @@ Awesome Mac
 * [SaneClick](https://saneclick.com) - 为 Finder 右键菜单增加文件处理、转换和开发者操作。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [Shuffle](https://shuffleapp.co) - 使用 Rust 构建的 GPU 渲染高速文件管理器，Finder 的替代品。 [![Open-Source Software][OSS Icon]](https://github.com/WizenPainter/shuffle) ![Freeware][Freeware Icon]
 * [Strata Files](https://stratafiles.app) - 开源文件管理器和 Finder 替代品，支持即时搜索、实时文件夹大小、磁盘占用图和双栏视图。 [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
+* [Swift Salamander](https://swiftsalamander.app) - 多窗格文件管理器，Finder 的替代品，内置云存储和网络存储支持。
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 用常用应用快速打开所选文件或文件夹的 Finder 扩展。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
