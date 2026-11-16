@@ -1053,6 +1053,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Disk Drill](https://www.cleverfiles.com/) - Free data recovery tool. Also has a PRO version.
 
 ## Audio and Video Tools
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac, in the empty corner beside the Dock. (Free, Open Source)
 
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - Open-source subtitle editor with timing and styling tools. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
