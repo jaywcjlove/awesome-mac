@@ -1249,6 +1249,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Wavo](https://github.com/vladkens/wavo-app) - Dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing. [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
+* [Whispy](https://usewhispy.com) - On-device transcription for audio files you already have, on Apple Silicon Macs and Windows, with TXT and SRT export. ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
 ## Browsers
