@@ -1792,6 +1792,7 @@ Awesome Mac
 ### Finder
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - 一键将 `/Applications` 中的应用迁移到外部存储，并在原位置保留可启动入口的链接工具。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [FileMint](https://github.com/FileMintApp/FileMint) - 原生 Finder 扩展，可通过右键菜单使用模板新建文件，个人及非商业用途免费。 ![Native App][Native Icon]
 * [Findly](https://findly.rocavence.com) - 用快捷键从屏幕任意边缘滑出的 Finder 风格文件抽屉，切换到其他应用时自动收起。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
 * [neatly](https://alpozaydin.github.io/neatly/) - AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。 [![Open-Source Software][OSS Icon]](https://github.com/alpozaydin/neatly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
