@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:29:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Convrt</title>
+      <link>https://github.com/atuuuuuuu/Convrt</link>
+      <guid isPermaLink="false">45b8e29558f1a4fb89ec659a29ddd78e9e1998a2:Convrt</guid>
+      <pubDate>Mon, 16 Nov 2026 15:29:06 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Convrt
+Description: 파일을 드래그하는 중에 Shift를 누르면 그 파일에 맞는 형식과 도구만 보여 주는 휠이 열리는 오프라인 메뉴 막대 파일 변환기(명령줄 버전 포함).
+Open Source: https://github.com/atuuuuuuu/Convrt
+Commit: Add Convrt (#4664)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Convrt<br/>Description: 파일을 드래그하는 중에 Shift를 누르면 그 파일에 맞는 형식과 도구만 보여 주는 휠이 열리는 오프라인 메뉴 막대 파일 변환기(명령줄 버전 포함).<br/>Open Source: https://github.com/atuuuuuuu/Convrt<br/>Commit: Add Convrt (#4664)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2]]></content:encoded>
+    </item>
     <item>
       <title>FileMint</title>
       <link>https://github.com/FileMintApp/FileMint</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/jonasnlt/twistel
 Commit: Add twistel (#4439)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: twistel<br/>Description: 메뉴 바 파일 변환기. 파일을 드래그하는 중에 키를 누른 채 링 메뉴에 놓으면 이미지, 오디오, 비디오, 문서 변환과 압축, OCR, PDF 가리기와 서명을 완전히 오프라인으로 할 수 있습니다.<br/>Open Source: https://github.com/jonasnlt/twistel<br/>Commit: Add twistel (#4439)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245]]></content:encoded>
-    </item>
-    <item>
-      <title>Back to Bug</title>
-      <link>https://github.com/skarpovdev/backtobug</link>
-      <guid isPermaLink="false">6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07:Back to Bug</guid>
-      <pubDate>Wed, 11 Nov 2026 15:35:43 GMT</pubDate>
-      <category>디자인 및 제품 / 화면 녹화</category>
-      <description>Category: 디자인 및 제품 / 화면 녹화
-App: Back to Bug
-Description: 최근 화면 활동을 버그 보고용 동영상으로 저장하는 메뉴 막대 녹화 도구.
-Open Source: https://github.com/skarpovdev/backtobug
-Commit: Add Back to Bug to Screen Recording (#4451)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 화면 녹화<br/>App: Back to Bug<br/>Description: 최근 화면 활동을 버그 보고용 동영상으로 저장하는 메뉴 막대 녹화 도구.<br/>Open Source: https://github.com/skarpovdev/backtobug<br/>Commit: Add Back to Bug to Screen Recording (#4451)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07]]></content:encoded>
     </item>
   </channel>
 </rss>
