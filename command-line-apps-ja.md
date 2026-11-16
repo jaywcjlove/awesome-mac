@@ -141,6 +141,7 @@ Awesome Command Line Apps
 * [quokka](https://github.com/dutradotdev/quokka) - ターミナルからUSB接続したiPhoneを検査・整理。ストレージ、アプリ、メディア、ライブsyslogビューア。脱獄不要。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 開発者用語の正しい発音を読み上げるコミュニティ発音辞典。出典付きの1650以上のエントリ（kubectl、nginx、GIF、JSON）を収録し、macOSのsayコマンドを利用。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 強力なアプリブラウジングとファイル表示機能を備えたiOSシミュレーター管理用ターミナルUI。 [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [xcfs](https://patricksclin.github.io/xcfs/) - 複数のAIコーディングエージェント（Claude Code、Codex、Cursor）を1つのXcodeプロジェクトで並行実行し、それぞれにビルド済みのgit worktreeと専用シミュレーターを用意。 [![Open-Source Software][OSS Icon]](https://github.com/PatrickSCLin/xcfs) ![Freeware][Freeware Icon]
 
 ## その他
 

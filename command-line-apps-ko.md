@@ -141,6 +141,7 @@
 * [quokka](https://github.com/dutradotdev/quokka) - 터미널에서 USB로 연결된 iPhone을 점검하고 정리. 저장공간, 앱, 미디어, 실시간 syslog 뷰어. 탈옥 불필요. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 개발자 용어의 올바른 발음을 소리 내어 읽어 주는 커뮤니티 발음 사전. 출처가 있는 1650개 이상의 항목(kubectl, nginx, GIF, JSON)을 수록하고 macOS say 명령을 활용. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 강력한 앱 브라우징 및 파일 보기 기능을 갖춘 iOS 시뮬레이터 관리용 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [xcfs](https://patricksclin.github.io/xcfs/) - 여러 AI 코딩 에이전트(Claude Code, Codex, Cursor)를 하나의 Xcode 프로젝트에서 병렬로 실행하고, 각각에 빌드된 git worktree와 전용 시뮬레이터를 제공. [![Open-Source Software][OSS Icon]](https://github.com/PatrickSCLin/xcfs) ![Freeware][Freeware Icon]
 
 ## 기타
 
