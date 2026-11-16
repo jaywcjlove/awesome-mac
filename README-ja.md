@@ -1344,6 +1344,7 @@ Awesome Mac
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Little Snitch風の世界地図表示、ルール管理、DNS over HTTPS、pfベースのブロックに対応したオープンソースのアプリケーションファイアウォール（テレメトリなし）。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 汎用ランサムウェア検出。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
 * [Santa](https://northpole.security/) - バイナリとファイルアクセスを制御する認可システム。 [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [SecretBar](https://secretbar.github.io) - APIキーやトークンをSecure Enclaveに保管し、Touch IDの確認後にコマンドへ渡すコマンドラインツールとメニューバーアプリ。AIエージェントには値を見せない。 [![Open-Source Software][OSS Icon]](https://github.com/secretbar/secretbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sentinel](https://sentinel-james-murphy.pages.dev/) - Macのセキュリティ設定をわかりやすい言葉でチェックし、Wi-Fi上のデバイスを一覧表示するツール。 ![Freeware][Freeware Icon]
 * [stronghold](https://github.com/alichtman/stronghold) - ターミナルからmacOSのセキュリティ設定を簡単に構成。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
 * [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - macOSインストーラーパッケージを検査するためのアプリケーション。 ![Freeware][Freeware Icon]

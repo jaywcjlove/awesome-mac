@@ -1293,6 +1293,7 @@ Awesome Mac
 * [OverSight](https://objective-see.com/products/oversight.html) - 用于监控麦克风和摄像头访问的工具。 ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用 Ransomware 检测。
 * [Santa](https://northpole.security/) - 二进制与文件访问授权系统。 [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
+* [SecretBar](https://secretbar.github.io) - 将 API 密钥和令牌保存在 Secure Enclave 中的命令行工具和菜单栏应用，经 Touch ID 确认后交给命令使用，不向 AI 代理显示。 [![Open-Source Software][OSS Icon]](https://github.com/secretbar/secretbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sentinel](https://sentinel-james-murphy.pages.dev/) - 用通俗易懂的语言检查 Mac 安全设置，并列出 Wi-Fi 上的设备。 ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索在 Mac 上运行的所有任务（进程）。
 * [TouchBridge](https://github.com/HMAKT99/UnTouchID) - 使用手机指纹完成身份验证的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/UnTouchID) ![Freeware][Freeware Icon]
