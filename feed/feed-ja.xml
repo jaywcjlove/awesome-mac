@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:23:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FileMint</title>
+      <link>https://github.com/FileMintApp/FileMint</link>
+      <guid isPermaLink="false">c7df8600e135bcdf1e1abb016e9afcf9c4af02a1:FileMint</guid>
+      <pubDate>Mon, 16 Nov 2026 13:23:23 GMT</pubDate>
+      <category>ユーティリティ / Finderツール</category>
+      <description>Category: ユーティリティ / Finderツール
+App: FileMint
+Description: Finder の右クリックメニューからテンプレートを使ってファイルを作成できるネイティブ拡張機能で、個人・非商用利用は無料。
+Open Source: https://github.com/FileMintApp/FileMint
+Commit: Add FileMint to Finder tools (#4663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: FileMint<br/>Description: Finder の右クリックメニューからテンプレートを使ってファイルを作成できるネイティブ拡張機能で、個人・非商用利用は無料。<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
+    </item>
     <item>
       <title>SoloPDF</title>
       <link>https://solopdf.doaipm.com</link>
@@ -719,21 +733,6 @@ Open Source: https://github.com/skarpovdev/backtobug
 Commit: Add Back to Bug to Screen Recording (#4451)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Back to Bug<br/>Description: バグ報告用に直前の画面操作を動画として保存できるメニューバー常駐の録画ツール。<br/>Open Source: https://github.com/skarpovdev/backtobug<br/>Commit: Add Back to Bug to Screen Recording (#4451)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9c5d3bd9cbb4b1fd9c6f30b9c0790d5381ed07]]></content:encoded>
-    </item>
-    <item>
-      <title>Cleaner</title>
-      <link>https://ciromaciel.click/tools/cleaner</link>
-      <guid isPermaLink="false">a29dac40140a348da8caa275922adee8e6a6ced7:Cleaner</guid>
-      <pubDate>Wed, 11 Nov 2026 13:59:33 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: Cleaner
-Description: 削除前にすべての項目を表示し、ルールを1つの公開ファイルにまとめ、削除したものを7日間隔離して元に戻せるオープンソースのクリーナー。
-Website: https://ciromaciel.click/tools/cleaner
-Open Source: https://github.com/ciro-maciel/cleaner
-Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Cleaner<br/>Description: 削除前にすべての項目を表示し、ルールを1つの公開ファイルにまとめ、削除したものを7日間隔離して元に戻せるオープンソースのクリーナー。<br/>Website: https://ciromaciel.click/tools/cleaner<br/>Open Source: https://github.com/ciro-maciel/cleaner<br/>Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7]]></content:encoded>
     </item>
   </channel>
 </rss>

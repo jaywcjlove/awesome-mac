@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:23:23 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FileMint</title>
+      <link>https://github.com/FileMintApp/FileMint</link>
+      <guid isPermaLink="false">c7df8600e135bcdf1e1abb016e9afcf9c4af02a1:FileMint</guid>
+      <pubDate>Mon, 16 Nov 2026 13:23:23 GMT</pubDate>
+      <category>Utilities / Finder Tools</category>
+      <description>Category: Utilities / Finder Tools
+App: FileMint
+Description: Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use.
+Open Source: https://github.com/FileMintApp/FileMint
+Commit: Add FileMint to Finder tools (#4663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
+      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: FileMint<br/>Description: Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use.<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
+    </item>
     <item>
       <title>SoloPDF</title>
       <link>https://solopdf.doaipm.com</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/tw4/lumela
 Commit: Add Lumela to Screenshot Tools (#4485)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Lumela<br/>Description: Cross-platform screenshot tool that blurs emails, card numbers, IPs and API keys with on-device OCR, then beautifies the shot.<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Access Auditor</title>
-      <link>https://dirmedmr-alt.github.io/ai-access-auditor/</link>
-      <guid isPermaLink="false">df0a35dbd10ea90236d6299a88a4f6f53e24686a:AI Access Auditor</guid>
-      <pubDate>Wed, 11 Nov 2026 16:11:26 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: AI Access Auditor
-Description: See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.
-Website: https://dirmedmr-alt.github.io/ai-access-auditor/
-Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
-Commit: Add AI Access Auditor to Security Tools (#4466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: AI Access Auditor<br/>Description: See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
     </item>
   </channel>
 </rss>
