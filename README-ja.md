@@ -746,6 +746,7 @@ Awesome Mac
 * [Pixen](https://pixenapp.com/mac/) - Mac用のネイティブピクセルアートおよびアニメーションエディター。
 * [Principle](http://principleformac.com/) - アニメーションおよびインタラクティブなユーザーインターフェースをデザインするアプリケーション。
 * [Pika](https://superhighfives.com/pika) - オープンソースのカラーピッカーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421?platform=mac)
+* [RadianceKit](https://www.radiancekit.de/) - 写真・動画・360°映像からApple シリコン上でローカルに3D Gaussian Splattingシーンを学習するネイティブアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/radiancekit/id6760346035?platform=mac)
 * [RawTherapee](https://rawtherapee.com/) - 強力なクロスプラットフォームのRAW写真処理プログラム! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [Redlamp](https://redlamp.app) - Lightroom Classicの現像ワークフローをそのまま使える、ネイティブでオープンソースのRAW現像ソフト。 [![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp) ![Freeware][Freeware Icon]
 * [Screen Loupe](https://ayenora.github.io/screen-loupe/) - 画面の任意の部分を別ウィンドウでピクセル単位で正確に拡大表示するオープンソースのライブ拡大鏡。 [![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
