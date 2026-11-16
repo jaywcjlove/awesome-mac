@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:56:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Copia</title>
+      <link>https://geragaraza.com/apps/copia/</link>
+      <guid isPermaLink="false">e3b323ddc950da809a171be935285ea78d5415bc:Copia</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:44 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Copia
+Description: Histórico da área de transferência de código aberto que guarda tudo o que é copiado (texto, texto formatado, links, cores, imagens, vídeo, áudio, arquivos) e cola vários itens escolhidos de uma vez, na ordem em que foram escolhidos; uma fila de colagem cola as cópias uma a uma com ⌘V.
+Website: https://geragaraza.com/apps/copia/
+Open Source: https://github.com/geragarazagh/copia
+Commit: Add Copia to Clipboard Tools (#4645)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Copia<br/>Description: Histórico da área de transferência de código aberto que guarda tudo o que é copiado (texto, texto formatado, links, cores, imagens, vídeo, áudio, arquivos) e cola vários itens escolhidos de uma vez, na ordem em que foram escolhidos; uma fila de colagem cola as cópias uma a uma com ⌘V.<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
+    </item>
     <item>
       <title>Purr</title>
       <link>https://purr.arunbrahma.com</link>
@@ -722,20 +737,6 @@ Website: https://www.softmaker.com/en/softmaker-office
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: SoftMaker Office<br/>Description: Uma suíte de escritório completa que busca total compatibilidade com documentos do Microsoft Office.<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>WPS</title>
-      <link>https://www.wps.com/mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:WPS</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: WPS
-Description: É uma suíte de software de escritório multiplataforma.
-Website: https://www.wps.com/mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: WPS<br/>Description: É uma suíte de software de escritório multiplataforma.<br/>Website: https://www.wps.com/mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
