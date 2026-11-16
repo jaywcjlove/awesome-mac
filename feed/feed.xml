@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoloPDF</title>
+      <link>https://solopdf.doaipm.com</link>
+      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
+      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
+      <category>Reading and Writing Tools / Others</category>
+      <description>Category: Reading and Writing Tools / Others
+App: SoloPDF
+Description: Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes, with on-device OCR, visual blink diff, and a 56-tool MCP server.
+Website: https://solopdf.doaipm.com
+Open Source: https://github.com/zhitongblog/solopdf
+App Store: https://apps.apple.com/app/id6787712953?platform=mac
+Commit: Add SoloPDF to Reading and Writing Tools (#4659)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: SoloPDF<br/>Description: Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes, with on-device OCR, visual blink diff, and a 56-tool MCP server.<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
+    </item>
     <item>
       <title>Copia</title>
       <link>https://geragaraza.com/apps/copia/</link>
@@ -717,20 +733,6 @@ Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
 Commit: Add AI Access Auditor to Security Tools (#4466)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: AI Access Auditor<br/>Description: See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
-    </item>
-    <item>
-      <title>twistel</title>
-      <link>https://github.com/jonasnlt/twistel</link>
-      <guid isPermaLink="false">44be7030edb074730306aabeef27008e0c323245:twistel</guid>
-      <pubDate>Wed, 11 Nov 2026 15:42:47 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: twistel
-Description: Menu bar file converter: drag files, hold a key and drop them on a ring menu to convert images, audio, video and documents, compress, OCR, redact or sign PDFs, fully offline.
-Open Source: https://github.com/jonasnlt/twistel
-Commit: Add twistel (#4439)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: twistel<br/>Description: Menu bar file converter: drag files, hold a key and drop them on a ring menu to convert images, audio, video and documents, compress, OCR, redact or sign PDFs, fully offline.<br/>Open Source: https://github.com/jonasnlt/twistel<br/>Commit: Add twistel (#4439)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44be7030edb074730306aabeef27008e0c323245]]></content:encoded>
     </item>
   </channel>
 </rss>

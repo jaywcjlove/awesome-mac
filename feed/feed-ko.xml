@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoloPDF</title>
+      <link>https://solopdf.doaipm.com</link>
+      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
+      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 기타</category>
+      <description>Category: 읽기 및 쓰기 도구 / 기타
+App: SoloPDF
+Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).
+Website: https://solopdf.doaipm.com
+Open Source: https://github.com/zhitongblog/solopdf
+App Store: https://apps.apple.com/app/id6787712953?platform=mac
+Commit: Add SoloPDF to Reading and Writing Tools (#4659)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: SoloPDF<br/>Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
+    </item>
     <item>
       <title>Copia</title>
       <link>https://geragaraza.com/apps/copia/</link>
@@ -718,21 +734,6 @@ Open Source: https://github.com/ciro-maciel/cleaner
 Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Cleaner<br/>Description: 삭제 전에 모든 항목을 보여 주고, 정리 규칙을 공개된 파일 하나에 담으며, 제거한 항목을 7일 동안 격리해 되돌릴 수 있게 하는 오픈 소스 정리 도구.<br/>Website: https://ciromaciel.click/tools/cleaner<br/>Open Source: https://github.com/ciro-maciel/cleaner<br/>Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7]]></content:encoded>
-    </item>
-    <item>
-      <title>Menew</title>
-      <link>https://menew.web.app</link>
-      <guid isPermaLink="false">b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023:Menew</guid>
-      <pubDate>Wed, 11 Nov 2026 13:42:42 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Menew
-Description: 명령 팔레트, 클립보드 기록, 창 정렬, 스크린샷, 시스템 모니터, 회의록, Claude Code/Codex 사용 한도를 한데 모은 온디바이스 AI 올인원 메뉴 바 앱.
-Website: https://menew.web.app
-Open Source: https://github.com/Quost/menew
-Commit: Add Menew to Menu Bar Tools (#4453)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Menew<br/>Description: 명령 팔레트, 클립보드 기록, 창 정렬, 스크린샷, 시스템 모니터, 회의록, Claude Code/Codex 사용 한도를 한데 모은 온디바이스 AI 올인원 메뉴 바 앱.<br/>Website: https://menew.web.app<br/>Open Source: https://github.com/Quost/menew<br/>Commit: Add Menew to Menu Bar Tools (#4453)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023]]></content:encoded>
     </item>
   </channel>
 </rss>
