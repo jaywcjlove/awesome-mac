@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:31:59 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Multron Download Manager</title>
+      <link>https://github.com/Multron-Community/Multron-Download-Manager</link>
+      <guid isPermaLink="false">f61a75251cbe3c9b484d7638996135de43b7be6f:Multron Download Manager</guid>
+      <pubDate>Mon, 16 Nov 2026 10:31:59 GMT</pubDate>
+      <category>Download Management Tools</category>
+      <description>Category: Download Management Tools
+App: Multron Download Manager
+Description: Multi-connection download manager with yt-dlp and BitTorrent support.
+Open Source: https://github.com/Multron-Community/Multron-Download-Manager
+Commit: Add Multron Download Manager to README (#4649)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f</description>
+      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Multron Download Manager<br/>Description: Multi-connection download manager with yt-dlp and BitTorrent support.<br/>Open Source: https://github.com/Multron-Community/Multron-Download-Manager<br/>Commit: Add Multron Download Manager to README (#4649)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f]]></content:encoded>
+    </item>
     <item>
       <title>Purr</title>
       <link>https://purr.arunbrahma.com</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/Quost/menew
 Commit: Add Menew to Menu Bar Tools (#4453)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Menew<br/>Description: All-in-one menu bar app with a command palette, clipboard history, window snapping, screenshots, a system monitor, meeting minutes and Claude Code/Codex usage limits, using on-device AI.<br/>Website: https://menew.web.app<br/>Open Source: https://github.com/Quost/menew<br/>Commit: Add Menew to Menu Bar Tools (#4453)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023]]></content:encoded>
-    </item>
-    <item>
-      <title>Browserdoor</title>
-      <link>https://github.com/schowave/browserdoor</link>
-      <guid isPermaLink="false">8a898d924ca26d9c911c0cade760b53cd184a5a7:Browserdoor</guid>
-      <pubDate>Wed, 11 Nov 2026 13:35:04 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Browserdoor
-Description: Open-source link picker that asks which browser, browser profile, or Zen space should open each link.
-Open Source: https://github.com/schowave/browserdoor
-Commit: Add Browserdoor (#4395)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Browserdoor<br/>Description: Open-source link picker that asks which browser, browser profile, or Zen space should open each link.<br/>Open Source: https://github.com/schowave/browserdoor<br/>Commit: Add Browserdoor (#4395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7]]></content:encoded>
     </item>
   </channel>
 </rss>
