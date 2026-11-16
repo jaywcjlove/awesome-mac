@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 01:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:52:51 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Purr</title>
+      <link>https://purr.arunbrahma.com</link>
+      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
+      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Purr
+Description: 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。
+Website: https://purr.arunbrahma.com
+Open Source: https://github.com/iamarunbrahma/purr
+Commit: Add Purr to Voice-to-Text (#4647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Purr<br/>Description: 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
+    </item>
     <item>
       <title>AInnotator</title>
       <link>https://github.com/porco-rs/ainnotator</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/drumih/turbo-fieldfare
 Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: TurboFieldfare<br/>Description: 原生 ChatGPT 风格的 Mac 应用，可在本机运行 Google 的 Gemma AI（26B-A4B MoE）并保护对话隐私，即使是低配的 8 GB M 系列 Mac 也能使用。<br/>Open Source: https://github.com/drumih/turbo-fieldfare<br/>Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f]]></content:encoded>
-    </item>
-    <item>
-      <title>Brk</title>
-      <link>https://github.com/cyang2020/brk</link>
-      <guid isPermaLink="false">ed4e405bd2afd537d619c7caa86da9163a648cf5:Brk</guid>
-      <pubDate>Wed, 11 Nov 2026 09:15:36 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Brk
-Description: 用 Swift 和 AppKit 原生重做的 Arc，基于 Chromium，带 Raycast 风格的命令栏，AI 直接用你自己的 Claude Code 或 Codex 订阅和本机模型。
-Open Source: https://github.com/cyang2020/brk
-Commit: Add Brk to Browsers (#4461)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Brk<br/>Description: 用 Swift 和 AppKit 原生重做的 Arc，基于 Chromium，带 Raycast 风格的命令栏，AI 直接用你自己的 Claude Code 或 Codex 订阅和本机模型。<br/>Open Source: https://github.com/cyang2020/brk<br/>Commit: Add Brk to Browsers (#4461)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5]]></content:encoded>
     </item>
   </channel>
 </rss>
