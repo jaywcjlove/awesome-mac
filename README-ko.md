@@ -1351,6 +1351,7 @@ Awesome Mac
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finder 우클릭 메뉴에 더 많은 작업을 추가하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Rize](https://rize.io/) - AI로 시간을 추적하고 집중 습관 개선을 돕는 도구.
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
+* [Scrollr](https://github.com/atuuuuuuu/Scrollr) - 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원). [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - 사이트의 기술 SEO 문제를 찾아주는 분석 도구. [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
