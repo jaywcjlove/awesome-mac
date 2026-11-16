@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:11:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Scrollr</title>
+      <link>https://github.com/atuuuuuuu/Scrollr</link>
+      <guid isPermaLink="false">bcb5d10383f63089cccec18a89a6413a2ee794cf:Scrollr</guid>
+      <pubDate>Mon, 16 Nov 2026 16:11:07 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Scrollr
+Description: 开源菜单栏工具，只反转外接鼠标的滚动方向，触控板保持自然滚动，并可为每个鼠标单独开关。
+Open Source: https://github.com/atuuuuuuu/Scrollr
+Commit: Add Scrollr (#4665)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Scrollr<br/>Description: 开源菜单栏工具，只反转外接鼠标的滚动方向，触控板保持自然滚动，并可为每个鼠标单独开关。<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
+    </item>
     <item>
       <title>Convrt</title>
       <link>https://github.com/atuuuuuuu/Convrt</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/tw4/lumela
 Commit: Add Lumela to Screenshot Tools (#4485)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Lumela<br/>Description: 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Access Auditor</title>
-      <link>https://dirmedmr-alt.github.io/ai-access-auditor/</link>
-      <guid isPermaLink="false">df0a35dbd10ea90236d6299a88a4f6f53e24686a:AI Access Auditor</guid>
-      <pubDate>Wed, 11 Nov 2026 16:11:26 GMT</pubDate>
-      <category>安全工具</category>
-      <description>Category: 安全工具
-App: AI Access Auditor
-Description: 查看并撤销 Claude Code、Codex、Cursor 等 AI 编程代理在 Mac 上的访问权限。
-Website: https://dirmedmr-alt.github.io/ai-access-auditor/
-Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
-Commit: Add AI Access Auditor to Security Tools (#4466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
-      <content:encoded><![CDATA[Category: 安全工具<br/>App: AI Access Auditor<br/>Description: 查看并撤销 Claude Code、Codex、Cursor 等 AI 编程代理在 Mac 上的访问权限。<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
     </item>
   </channel>
 </rss>
