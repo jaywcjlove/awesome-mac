@@ -899,6 +899,7 @@ Awesome Mac
 
 ## AIツール
 
+* [5dive](https://github.com/5dive-ai/5dive-desktop) - セルフホストのAIエージェントチーム（Claude Code、Codex）のデスクトップアプリ。エージェントが対応を待つとメニューバーにバッジを表示。 [![Open-Source Software][OSS Icon]](https://github.com/5dive-ai/5dive-desktop) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]

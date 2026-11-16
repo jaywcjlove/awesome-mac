@@ -674,6 +674,7 @@ Awesome Mac
 
 ## AI 工具
 
+* [5dive](https://github.com/5dive-ai/5dive-desktop) - 自托管 AI 代理团队（Claude Code、Codex）的桌面应用，有代理需要你处理时菜单栏会显示角标。 [![Open-Source Software][OSS Icon]](https://github.com/5dive-ai/5dive-desktop) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的开源菜单栏应用，误删的文件和被清空的 .env 可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
