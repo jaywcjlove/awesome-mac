@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:19:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoundLadder</title>
+      <link>https://github.com/dirkkredinger/SoundLadder</link>
+      <guid isPermaLink="false">d2259249451bd2724cf2c5b231ce4a39f76aebc2:SoundLadder</guid>
+      <pubDate>Mon, 16 Nov 2026 00:19:29 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: SoundLadder
+Description: 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。
+Open Source: https://github.com/dirkkredinger/SoundLadder
+Commit: Add SoundLadder to Menu Bar Tools (#4638)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SoundLadder<br/>Description: 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
+    </item>
     <item>
       <title>Tendbar</title>
       <link>https://github.com/DabuSoft-pl/tendbar</link>
@@ -715,20 +729,6 @@ Website: https://didimlabs.com
 Commit: Add Soju to Gaming Software (#4484)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e745f9e9d5e33cd44f5fe5017ad9550245ab855</description>
       <content:encoded><![CDATA[Category: 游戏软件<br/>App: Soju<br/>Description: 通过 Wine 和 Apple GPTK 在 Apple Silicon 上安装官方 Windows 版 Battle.net、Steam、Epic、GOG、EA app、Rockstar 和 Ubisoft Connect 客户端，并提供原生游戏库。<br/>Website: https://didimlabs.com<br/>Commit: Add Soju to Gaming Software (#4484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e745f9e9d5e33cd44f5fe5017ad9550245ab855]]></content:encoded>
-    </item>
-    <item>
-      <title>Pake</title>
-      <link>https://pake.run/</link>
-      <guid isPermaLink="false">9792d5a4134ab3cbb031e36077b3aa708c6531ba:Pake</guid>
-      <pubDate>Wed, 11 Nov 2026 07:15:09 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Pake
-Description: 把任意网站变成轻量的桌面 App，有自己的图标、窗口和 Dock 入口。
-Website: https://pake.run/
-Commit: Add Pake to General Tools (#4483)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Pake<br/>Description: 把任意网站变成轻量的桌面 App，有自己的图标、窗口和 Dock 入口。<br/>Website: https://pake.run/<br/>Commit: Add Pake to General Tools (#4483)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba]]></content:encoded>
     </item>
   </channel>
 </rss>
