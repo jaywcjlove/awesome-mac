@@ -710,6 +710,7 @@ Awesome Mac
 * [ExifCleaner](https://exifcleaner.com) - 이미지 및 비디오의 EXIF 데이터 제거. [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) ![Freeware][Freeware Icon]
 * [Featherview](https://featherview.mynetx.net) - 폴더 속 이미지를 키보드로 빠르게 넘겨 볼 수 있고 일괄 변환도 지원하는 오픈소스 이미지 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자. [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
+* [Fotollection](https://fotollection.org) - 사진을 인화용으로 준비하는 오프라인 앱: 사진 선별, 인화 크기 자르기, 날짜 넣기, 콜라주, 엽서, RAW 현상, LUT. [![Open-Source Software][OSS Icon]](https://github.com/hoangphi01/fotollection) ![Freeware][Freeware Icon]
 * [Flipic](https://github.com/xmasdong/flipic) - 사진 선별(컬링)용 뷰어: 방향키로 폴더 넘겨 보기, 100% 포커스 확인, Lightroom에서 읽히는 XMP 평점, 온디바이스 정리 모드. [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [Graphis](https://github.com/Campfire7/graphis) - MOSS-Image 모델을 사용해 Apple 실리콘에서 텍스트로 이미지를 로컬 생성하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/Campfire7/graphis) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC 이미지를 JPEG나 PNG로 변환. ![Freeware][Freeware Icon]
