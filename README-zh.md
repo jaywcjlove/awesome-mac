@@ -455,6 +455,7 @@ Awesome Mac
 * [Cue](https://cue.8starlabs.com) - 为 Apple Terminal 和 VS Code 集成终端中的 Zsh 提供类似 IDE 的命令、选项、Git 分支和文件补全。 [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [Cyberdog](https://pickywawa.github.io/cyberdog/) - SSH 与 SFTP 客户端，内置终端和服务器健康仪表盘，并支持 FTP、S3 和 WebDAV。 [![Open-Source Software][OSS Icon]](https://github.com/pickywawa/cyberdog) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 终端、SSH 和 SFTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
+* [Escale](https://github.com/ATTILA-KRB/escale) - 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/escale) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - 基于 libghostty 构建的终端，显示每个编码 agent 正在工作、等待还是已完成。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 快速的 GPU 加速终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - 可实时预览的 Ghostty 主题、字体和界面设置编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/reemus-dev/ghostty-designer) ![Freeware][Freeware Icon]
