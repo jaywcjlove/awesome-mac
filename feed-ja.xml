@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:26:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Memozia</title>
+      <link>https://github.com/oceanix-pr/Memozia</link>
+      <guid isPermaLink="false">9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33:Memozia</guid>
+      <pubDate>Mon, 16 Nov 2026 11:26:46 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Memozia
+Description: ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。
+Open Source: https://github.com/oceanix-pr/Memozia
+Commit: Add Memozia to audio recording tools in four languages (#4644)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Memozia<br/>Description: ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
+    </item>
     <item>
       <title>NotificationNanny</title>
       <link>https://chessper53.github.io/NotificationNanny/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/schowave/browserdoor
 Commit: Add Browserdoor (#4395)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Browserdoor<br/>Description: リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。<br/>Open Source: https://github.com/schowave/browserdoor<br/>Commit: Add Browserdoor (#4395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8a898d924ca26d9c911c0cade760b53cd184a5a7]]></content:encoded>
-    </item>
-    <item>
-      <title>TurboFieldfare</title>
-      <link>https://github.com/drumih/turbo-fieldfare</link>
-      <guid isPermaLink="false">6a6df7110b50b425ab672ef757d2fb82f4272e1f:TurboFieldfare</guid>
-      <pubDate>Wed, 11 Nov 2026 09:26:25 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: TurboFieldfare
-Description: GoogleのGemma AI（26B-A4B MoE）を自分のデバイス上でプライバシーを守りながら実行できる、低スペックの8 GB MシリーズMacにも対応したChatGPT風のネイティブMacアプリ。
-Open Source: https://github.com/drumih/turbo-fieldfare
-Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: TurboFieldfare<br/>Description: GoogleのGemma AI（26B-A4B MoE）を自分のデバイス上でプライバシーを守りながら実行できる、低スペックの8 GB MシリーズMacにも対応したChatGPT風のネイティブMacアプリ。<br/>Open Source: https://github.com/drumih/turbo-fieldfare<br/>Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f]]></content:encoded>
     </item>
   </channel>
 </rss>
