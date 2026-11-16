@@ -1867,6 +1867,7 @@ Awesome Mac
 * [Hyperduck](https://sindresorhus.com/hyperduck) - iOSおよびvisionOSデバイスからリンクを受信。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - MacBookにキーボードバックライトのショートカットを復活。
+* [mac-toolkit](https://github.com/Bouliw/mac-toolkit) - 日常の小さなツールをまとめてインストールするスクリプト：コピーしたリンクのトラッキング除去、Bluetoothヘッドセットの音声の不具合修正、Finderのクイックアクション（文字起こし、圧縮、PDF縮小）、Safariの共有アクション。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/mac-toolkit) ![Freeware][Freeware Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS用のカスタムカーソルテーマ。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) - 外部ディスプレイの輝度、コントラスト、音量の調整をサポート。 [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - 通知バナーの位置や見た目を変え、通知センターのパネルをカスタマイズできるものに置き換えられるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
