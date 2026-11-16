@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SoloPDF</title>
+      <link>https://solopdf.doaipm.com</link>
+      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
+      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
+      <category>読み書きツール / その他</category>
+      <description>Category: 読み書きツール / その他
+App: SoloPDF
+Description: ハイライトがプレーンなMarkdownノートとして自動保存されるローカルファーストのPDFリーダー＆20種以上のオフライン文書ツールキット（オンデバイスOCR・点滅差分比較・56ツールMCP内蔵）。
+Website: https://solopdf.doaipm.com
+Open Source: https://github.com/zhitongblog/solopdf
+App Store: https://apps.apple.com/jp/app/id6787712953?platform=mac
+Commit: Add SoloPDF to Reading and Writing Tools (#4659)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: SoloPDF<br/>Description: ハイライトがプレーンなMarkdownノートとして自動保存されるローカルファーストのPDFリーダー＆20種以上のオフライン文書ツールキット（オンデバイスOCR・点滅差分比較・56ツールMCP内蔵）。<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/jp/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
+    </item>
     <item>
       <title>Copia</title>
       <link>https://geragaraza.com/apps/copia/</link>
@@ -718,21 +734,6 @@ Open Source: https://github.com/ciro-maciel/cleaner
 Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Cleaner<br/>Description: 削除前にすべての項目を表示し、ルールを1つの公開ファイルにまとめ、削除したものを7日間隔離して元に戻せるオープンソースのクリーナー。<br/>Website: https://ciromaciel.click/tools/cleaner<br/>Open Source: https://github.com/ciro-maciel/cleaner<br/>Commit: Add Cleaner to Cleanup and Uninstall (EN/ZH/JA/KO) (#4449)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a29dac40140a348da8caa275922adee8e6a6ced7]]></content:encoded>
-    </item>
-    <item>
-      <title>Menew</title>
-      <link>https://menew.web.app</link>
-      <guid isPermaLink="false">b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023:Menew</guid>
-      <pubDate>Wed, 11 Nov 2026 13:42:42 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Menew
-Description: コマンドパレット、クリップボード履歴、ウインドウ整列、スクリーンショット、システムモニター、議事録、Claude Code/Codex の使用量上限をまとめた、オンデバイス AI 搭載のオールインワン メニューバーアプリ。
-Website: https://menew.web.app
-Open Source: https://github.com/Quost/menew
-Commit: Add Menew to Menu Bar Tools (#4453)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Menew<br/>Description: コマンドパレット、クリップボード履歴、ウインドウ整列、スクリーンショット、システムモニター、議事録、Claude Code/Codex の使用量上限をまとめた、オンデバイス AI 搭載のオールインワン メニューバーアプリ。<br/>Website: https://menew.web.app<br/>Open Source: https://github.com/Quost/menew<br/>Commit: Add Menew to Menu Bar Tools (#4453)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b1cd27e3f434e3704ecd04f1f641a7bbfa4c6023]]></content:encoded>
     </item>
   </channel>
 </rss>
