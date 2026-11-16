@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:06:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AInnotator</title>
+      <link>https://github.com/porco-rs/ainnotator</link>
+      <guid isPermaLink="false">71c1e4439781ec35ce01742f16fbfd7eb0d29688:AInnotator</guid>
+      <pubDate>Mon, 16 Nov 2026 01:06:31 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: AInnotator
+Description: 截图标注工具，将编号标记、备注和涂黑区域合成一张无需额外说明的图片，可粘贴到 Claude Code、Codex 或 ChatGPT，SSH 远程场景同样支持。
+Open Source: https://github.com/porco-rs/ainnotator
+Commit: Add AInnotator to Screenshot Tools (#4641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: AInnotator<br/>Description: 截图标注工具，将编号标记、备注和涂黑区域合成一张无需额外说明的图片，可粘贴到 Claude Code、Codex 或 ChatGPT，SSH 远程场景同样支持。<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
+    </item>
     <item>
       <title>neatly</title>
       <link>https://alpozaydin.github.io/neatly/</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/cyang2020/brk
 Commit: Add Brk to Browsers (#4461)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Brk<br/>Description: 用 Swift 和 AppKit 原生重做的 Arc，基于 Chromium，带 Raycast 风格的命令栏，AI 直接用你自己的 Claude Code 或 Codex 订阅和本机模型。<br/>Open Source: https://github.com/cyang2020/brk<br/>Commit: Add Brk to Browsers (#4461)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5]]></content:encoded>
-    </item>
-    <item>
-      <title>Kombucha</title>
-      <link>https://github.com/askuksov/kombucha</link>
-      <guid isPermaLink="false">c7bed443b41da58f2c3f3334e4d4e3c478ad2b90:Kombucha</guid>
-      <pubDate>Wed, 11 Nov 2026 09:07:41 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: Kombucha
-Description: 菜单栏电池充电限制工具，在设定的电量停止充电，延长电池寿命。
-Open Source: https://github.com/askuksov/kombucha
-Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Kombucha<br/>Description: 菜单栏电池充电限制工具，在设定的电量停止充电，延长电池寿命。<br/>Open Source: https://github.com/askuksov/kombucha<br/>Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:06:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AInnotator</title>
+      <link>https://github.com/porco-rs/ainnotator</link>
+      <guid isPermaLink="false">71c1e4439781ec35ce01742f16fbfd7eb0d29688:AInnotator</guid>
+      <pubDate>Mon, 16 Nov 2026 01:06:31 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: AInnotator
+Description: Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH.
+Open Source: https://github.com/porco-rs/ainnotator
+Commit: Add AInnotator to Screenshot Tools (#4641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: AInnotator<br/>Description: Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH.<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
+    </item>
     <item>
       <title>neatly</title>
       <link>https://alpozaydin.github.io/neatly/</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/drumih/turbo-fieldfare
 Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: TurboFieldfare<br/>Description: Native ChatGPT-like Mac app running Google’s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs.<br/>Open Source: https://github.com/drumih/turbo-fieldfare<br/>Commit: Add TurboFieldfare to AI Tools (7.3k GitHub stars) (#4462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6a6df7110b50b425ab672ef757d2fb82f4272e1f]]></content:encoded>
-    </item>
-    <item>
-      <title>Brk</title>
-      <link>https://github.com/cyang2020/brk</link>
-      <guid isPermaLink="false">ed4e405bd2afd537d619c7caa86da9163a648cf5:Brk</guid>
-      <pubDate>Wed, 11 Nov 2026 09:15:36 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Brk
-Description: Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models.
-Open Source: https://github.com/cyang2020/brk
-Commit: Add Brk to Browsers (#4461)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Brk<br/>Description: Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models.<br/>Open Source: https://github.com/cyang2020/brk<br/>Commit: Add Brk to Browsers (#4461)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4e405bd2afd537d619c7caa86da9163a648cf5]]></content:encoded>
     </item>
   </channel>
 </rss>
