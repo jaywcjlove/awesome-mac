@@ -250,6 +250,7 @@ Awesome Mac
 * [Boostnote](https://boostnote.io/) - 프로그래머를 위해 제작된 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [Craft](https://www.craft.do/) - 노트 작성과 쓰기를 아름답게. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
 * [Dnote](https://www.getdnote.com/) - 멀티 디바이스 동기화를 지원하는 간단한 명령줄 노트북. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
+* [EdgeEver](https://edgeever.org/) - 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/tianma-if/edgeever) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 단 한 번의 탭으로 자신에게 이메일을 보낼 수 있는 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 다양한 플랫폼에서 사용 가능한 유명 노트 앱. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - macOS 및 iOS 네이티브 현대적 노트 관리자. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
