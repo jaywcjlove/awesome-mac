@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:38:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>neatly</title>
+      <link>https://alpozaydin.github.io/neatly/</link>
+      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
+      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: neatly
+Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.
+Website: https://alpozaydin.github.io/neatly/
+Open Source: https://github.com/alpozaydin/neatly
+Commit: Add neatly to File Organization Tools (#4658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: neatly<br/>Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
+    </item>
     <item>
       <title>SoundLadder</title>
       <link>https://github.com/dirkkredinger/SoundLadder</link>
@@ -715,20 +730,6 @@ Website: https://pake.run/
 Commit: Add Pake to General Tools (#4483)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Pake<br/>Description: 웹사이트를 자체 아이콘, 창, Dock 항목을 갖춘 가벼운 데스크톱 앱으로 바꿔 주는 도구.<br/>Website: https://pake.run/<br/>Commit: Add Pake to General Tools (#4483)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba]]></content:encoded>
-    </item>
-    <item>
-      <title>Airbag</title>
-      <link>https://github.com/a1murt/airbag</link>
-      <guid isPermaLink="false">4a9fb250e65358216661b0a19e8eceecc259b633:Airbag</guid>
-      <pubDate>Wed, 11 Nov 2026 05:58:10 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Airbag
-Description: AI 코딩 에이전트가 파일을 바꿀 수 있는 셸 명령을 실행하기 전에 프로젝트 스냅샷을 만들어, 삭제된 파일과 지워진 .env를 클릭 한 번으로 복원하는 오픈소스 메뉴바 앱.
-Open Source: https://github.com/a1murt/airbag
-Commit: Add Airbag to AI Tools (#4477)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Airbag<br/>Description: AI 코딩 에이전트가 파일을 바꿀 수 있는 셸 명령을 실행하기 전에 프로젝트 스냅샷을 만들어, 삭제된 파일과 지워진 .env를 클릭 한 번으로 복원하는 오픈소스 메뉴바 앱.<br/>Open Source: https://github.com/a1murt/airbag<br/>Commit: Add Airbag to AI Tools (#4477)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633]]></content:encoded>
     </item>
   </channel>
 </rss>

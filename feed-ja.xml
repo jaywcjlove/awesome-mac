@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:38:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>neatly</title>
+      <link>https://alpozaydin.github.io/neatly/</link>
+      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
+      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
+      <category>ユーティリティ / ファイル管理ツール</category>
+      <description>Category: ユーティリティ / ファイル管理ツール
+App: neatly
+Description: ダウンロード、スクリーンショット、写真を内容に合わせて自動で名前を付けるAIファイルリネームツール。Apple Intelligenceでデバイス上で動作。
+Website: https://alpozaydin.github.io/neatly/
+Open Source: https://github.com/alpozaydin/neatly
+Commit: Add neatly to File Organization Tools (#4658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: neatly<br/>Description: ダウンロード、スクリーンショット、写真を内容に合わせて自動で名前を付けるAIファイルリネームツール。Apple Intelligenceでデバイス上で動作。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
+    </item>
     <item>
       <title>SoundLadder</title>
       <link>https://github.com/dirkkredinger/SoundLadder</link>
@@ -715,20 +730,6 @@ Website: https://pake.run/
 Commit: Add Pake to General Tools (#4483)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Pake<br/>Description: 任意のWebサイトを、専用のアイコン、ウィンドウ、Dock項目を持つ軽量なデスクトップアプリに変換。<br/>Website: https://pake.run/<br/>Commit: Add Pake to General Tools (#4483)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9792d5a4134ab3cbb031e36077b3aa708c6531ba]]></content:encoded>
-    </item>
-    <item>
-      <title>Airbag</title>
-      <link>https://github.com/a1murt/airbag</link>
-      <guid isPermaLink="false">4a9fb250e65358216661b0a19e8eceecc259b633:Airbag</guid>
-      <pubDate>Wed, 11 Nov 2026 05:58:10 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Airbag
-Description: AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。
-Open Source: https://github.com/a1murt/airbag
-Commit: Add Airbag to AI Tools (#4477)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Airbag<br/>Description: AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。<br/>Open Source: https://github.com/a1murt/airbag<br/>Commit: Add Airbag to AI Tools (#4477)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a9fb250e65358216661b0a19e8eceecc259b633]]></content:encoded>
     </item>
   </channel>
 </rss>

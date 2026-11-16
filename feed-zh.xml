@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:38:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>neatly</title>
+      <link>https://alpozaydin.github.io/neatly/</link>
+      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
+      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
+      <category>其它实用工具 / Finder</category>
+      <description>Category: 其它实用工具 / Finder
+App: neatly
+Description: AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。
+Website: https://alpozaydin.github.io/neatly/
+Open Source: https://github.com/alpozaydin/neatly
+Commit: Add neatly to File Organization Tools (#4658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: neatly<br/>Description: AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
+    </item>
     <item>
       <title>SoundLadder</title>
       <link>https://github.com/dirkkredinger/SoundLadder</link>
@@ -715,20 +730,6 @@ Open Source: https://github.com/askuksov/kombucha
 Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: Kombucha<br/>Description: 菜单栏电池充电限制工具，在设定的电量停止充电，延长电池寿命。<br/>Open Source: https://github.com/askuksov/kombucha<br/>Commit: Add Kombucha to System Related Tools (EN/ZH/JA/KO) (#3444)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7bed443b41da58f2c3f3334e4d4e3c478ad2b90]]></content:encoded>
-    </item>
-    <item>
-      <title>Soju</title>
-      <link>https://didimlabs.com</link>
-      <guid isPermaLink="false">0e745f9e9d5e33cd44f5fe5017ad9550245ab855:Soju</guid>
-      <pubDate>Wed, 11 Nov 2026 09:04:32 GMT</pubDate>
-      <category>游戏软件</category>
-      <description>Category: 游戏软件
-App: Soju
-Description: 通过 Wine 和 Apple GPTK 在 Apple Silicon 上安装官方 Windows 版 Battle.net、Steam、Epic、GOG、EA app、Rockstar 和 Ubisoft Connect 客户端，并提供原生游戏库。
-Website: https://didimlabs.com
-Commit: Add Soju to Gaming Software (#4484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e745f9e9d5e33cd44f5fe5017ad9550245ab855</description>
-      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Soju<br/>Description: 通过 Wine 和 Apple GPTK 在 Apple Silicon 上安装官方 Windows 版 Battle.net、Steam、Epic、GOG、EA app、Rockstar 和 Ubisoft Connect 客户端，并提供原生游戏库。<br/>Website: https://didimlabs.com<br/>Commit: Add Soju to Gaming Software (#4484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0e745f9e9d5e33cd44f5fe5017ad9550245ab855]]></content:encoded>
     </item>
   </channel>
 </rss>
