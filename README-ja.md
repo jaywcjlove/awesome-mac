@@ -275,6 +275,7 @@ Awesome Mac
 * [AppFlowy](https://www.appflowy.io/) - Notionのオープンソース代替。 [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - ノートと散文を作成するための美しく柔軟なライティングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&platform=mac)
 * [Boostnote](https://boostnote.io/) - プログラマー向けのメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Cirrus](https://trycirrus.app/) - ワンキーでどのアプリの上にも開けるフローティングメモ。画面の端やノッチからも開けます。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6815418493?platform=mac)
 * [Craft](https://www.craft.do/) - 美しいノートテイキングとライティング。 [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127?platform=mac)
 * [Dnote](https://www.getdnote.com/) - マルチデバイス同期とWebインターフェースを備えたシンプルなコマンドラインノートブック。 [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [EdgeEver](https://edgeever.org/) - セルフホスティング、マルチデバイス同期、MCP 連携に対応したオープンソースのノート・知識管理ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/tianma-if/edgeever) ![Freeware][Freeware Icon]
