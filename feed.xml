@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:13:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AGASTHY</title>
+      <link>https://github.com/HMAKT99/Agasthy</link>
+      <guid isPermaLink="false">9bb60f4e4cb75da6136e96bbc4057b36574fbf30:AGASTHY</guid>
+      <pubDate>Tue, 17 Nov 2026 05:13:03 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: AGASTHY
+Description: Open-source app that maps your repos, runtimes, packages and AI coding agents into one knowledge graph, with token usage, impact analysis and safe disk cleanup.
+Open Source: https://github.com/HMAKT99/Agasthy
+Commit: Add AGASTHY to Developer Utilities (#4683)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: AGASTHY<br/>Description: Open-source app that maps your repos, runtimes, packages and AI coding agents into one knowledge graph, with token usage, impact analysis and safe disk cleanup.<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
+    </item>
     <item>
       <title>zest</title>
       <link>https://github.com/rostik32/zest</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/rgdevment/LinkUnbound
 Commit: Add LinkUnbound to Productivity (#4517)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90aa18cace21259b6655c4c3382772819911bca</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: LinkUnbound<br/>Description: Open-source browser picker that asks which browser or browser profile should open each link, with rules by site or by the app the link came from.<br/>Website: https://www.linkunbound.app/<br/>Open Source: https://github.com/rgdevment/LinkUnbound<br/>Commit: Add LinkUnbound to Productivity (#4517)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90aa18cace21259b6655c4c3382772819911bca]]></content:encoded>
-    </item>
-    <item>
-      <title>TocaPad</title>
-      <link>https://github.com/getguruhat/tocapad-macos</link>
-      <guid isPermaLink="false">1a3e76106d780d6804d1ddd47494bf8fb83c2e21:TocaPad</guid>
-      <pubDate>Thu, 12 Nov 2026 04:17:00 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: TocaPad
-Description: Slide your trackpad&apos;s edges to change volume and brightness, and double-tap a corner to run a shortcut.
-Open Source: https://github.com/getguruhat/tocapad-macos
-Commit: Add TocaPad (#4515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: TocaPad<br/>Description: Slide your trackpad&apos;s edges to change volume and brightness, and double-tap a corner to run a shortcut.<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
     </item>
   </channel>
 </rss>
