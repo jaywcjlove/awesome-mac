@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:07:14 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Music Router</title>
+      <link>https://github.com/drumandbytes/music-router</link>
+      <guid isPermaLink="false">c29df05e7a236389476c1d2bc1f5a332d7ee1453:Music Router</guid>
+      <pubDate>Tue, 17 Nov 2026 09:07:14 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Music Router
+Description: Music.app の自動起動を止め、メディアキーを実際に使っているアプリに振り分けます。
+Open Source: https://github.com/drumandbytes/music-router
+Commit: Add Music Router (#4687)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Music Router<br/>Description: Music.app の自動起動を止め、メディアキーを実際に使っているアプリに振り分けます。<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
+    </item>
     <item>
       <title>Gesher</title>
       <link>https://github.com/EphraimElgrabli/gesher</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/getguruhat/tocapad-macos
 Commit: Add TocaPad (#4515)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: TocaPad<br/>Description: トラックパッドの端をなぞって音量と明るさを調整し、角をダブルタップしてショートカットを実行するツール。<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
-    </item>
-    <item>
-      <title>Noteriv</title>
-      <link>https://www.noteriv.com/</link>
-      <guid isPermaLink="false">0849c645c63b00fd2b08782f8147d310b73c21cf:Noteriv</guid>
-      <pubDate>Thu, 12 Nov 2026 04:08:34 GMT</pubDate>
-      <category>読み書きツール / メモ・ノート</category>
-      <description>Category: 読み書きツール / メモ・ノート
-App: Noteriv
-Description: ウィキリンク、グラフビュー、プラグイン、Git/WebDAV 同期、AI アシスタント向けの MCP サーバーを備えたオープンソースの Markdown ノートアプリ。
-Website: https://www.noteriv.com/
-Open Source: https://github.com/thejacedev/Noteriv
-Commit: Add Noteriv to Note-taking (#4496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Noteriv<br/>Description: ウィキリンク、グラフビュー、プラグイン、Git/WebDAV 同期、AI アシスタント向けの MCP サーバーを備えたオープンソースの Markdown ノートアプリ。<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
     </item>
   </channel>
 </rss>
