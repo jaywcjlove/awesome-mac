@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:58:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>zest</title>
+      <link>https://github.com/rostik32/zest</link>
+      <guid isPermaLink="false">e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf:zest</guid>
+      <pubDate>Tue, 17 Nov 2026 04:58:03 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: zest
+Description: Autocomplete popup for zsh with descriptions for 1,500 commands, in Terminal.app, iTerm2, Ghostty, VS Code and Cursor.
+Open Source: https://github.com/rostik32/zest
+Commit: Add zest to Terminal Apps (#4655)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: zest<br/>Description: Autocomplete popup for zsh with descriptions for 1,500 commands, in Terminal.app, iTerm2, Ghostty, VS Code and Cursor.<br/>Open Source: https://github.com/rostik32/zest<br/>Commit: Add zest to Terminal Apps (#4655)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf]]></content:encoded>
+    </item>
     <item>
       <title>Linger</title>
       <link>https://withlinger.com/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/getguruhat/tocapad-macos
 Commit: Add TocaPad (#4515)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: TocaPad<br/>Description: Slide your trackpad&apos;s edges to change volume and brightness, and double-tap a corner to run a shortcut.<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
-    </item>
-    <item>
-      <title>Noteriv</title>
-      <link>https://www.noteriv.com/</link>
-      <guid isPermaLink="false">0849c645c63b00fd2b08782f8147d310b73c21cf:Noteriv</guid>
-      <pubDate>Thu, 12 Nov 2026 04:08:34 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: Noteriv
-Description: Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants.
-Website: https://www.noteriv.com/
-Open Source: https://github.com/thejacedev/Noteriv
-Commit: Add Noteriv to Note-taking (#4496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Noteriv<br/>Description: Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants.<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
     </item>
   </channel>
 </rss>
