@@ -1016,6 +1016,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Polymail](https://polymail.io/) - Cliente de e-mail simples, bonito e poderoso. ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - Cliente de e-mail poderoso, simples e bonito, é preciso pagar por uma licença.
 * [Spark](https://sparkmailapp.com/) - Cliente de e-mail rápido. Para Mac OS e iOS.![Freeware][Freeware Icon]
+* [Spool](https://joedesigns.com/spool) - Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software que facilita o e-mail. ![Freeware][Freeware Icon]
 * [Tutanota](https://tutanota.com/) - E-mail criptografado com foco em segurança e privacidade. [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
 * [Edison Mail](https://mail.edison.tech/mac) - Um cliente de e-mail personalizável, simples e bonito. ![Freeware][Freeware Icon]
