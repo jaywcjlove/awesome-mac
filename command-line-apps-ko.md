@@ -159,6 +159,7 @@
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [purge-cli](https://github.com/soummyaanon/purge) - 재생성 가능한 빌드 산출물, 캐시, Xcode DerivedData를 찾아 대화형 체크리스트에서 선택한 항목만 삭제하는 터미널 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [rustnet](https://github.com/domcyrus/rustnet) - 프로세스 식별 및 심층 패킷 검사를 지원하는 크로스 플랫폼 네트워크 모니터링 TUI. [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
+* [Sponge](https://sponge.computer/docs/cli) - 기사와 PDF를 로컬 SQLite에 저장하고 오프라인 검색, 하이라이트, `--json` 출력, MCP 서버를 지원하는 터미널용 로컬 우선 나중에 읽기 라이브러리. ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - 이전 명령의 오타를 수정해주는 유용한 도구. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 강력한 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [trash](https://github.com/sindresorhus/trash) - 파일과 디렉토리를 휴지통으로 이동시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
