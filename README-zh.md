@@ -1757,6 +1757,7 @@ Awesome Mac
 * [DockFlip](https://geezery.github.io/DockFlip/) - 一个应用集成程序坞窗口列表（含浏览器标签页）、Flip 3D 风格的 ⌘Tab 窗口切换和 Windows 式窗口贴靠。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/geezery/DockFlip)
 * [Dockit](https://dockit-docs.pages.dev/) - 一款可以将任何窗口停靠到屏幕边缘的应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [DockLens](https://github.com/firstfu/DockLens-app) - 鼠标停在 Dock 图标上，即可预览该应用所有窗口的实时缩略图，并可切换、关闭或最小化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
+* [DockPick](https://dockpick.wuneo.com/zh/) - 鼠标悬停在 Mac Dock 图标上预览所有窗口缩略图，支持 220ms 不抢焦点的原尺寸预览、面板内直接打字筛选、Option 五分区分屏与放回，以及只调出单个窗口。 ![Native App][Native Icon]
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [Flickbar](https://flickbar.github.io/) - 开源窗口管理工具，通过在窗口标题栏上使用触控板手势来贴靠、调整和移动窗口。 [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
