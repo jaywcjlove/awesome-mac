@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BitSpring</title>
+      <link>https://bitspring.app/</link>
+      <guid isPermaLink="false">395fab35347c28a9aefa65da069fe2e0a65ccd49:BitSpring</guid>
+      <pubDate>Tue, 17 Nov 2026 11:03:18 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo</category>
+      <description>Category: Ferramentas de Áudio e Vídeo
+App: BitSpring
+Description: Player de música bit-perfect de código aberto com DSD nativo, taxa de amostragem por faixa até 768 kHz e EQ de fones AutoEQ.
+Website: https://bitspring.app/
+Open Source: https://github.com/crash2bash/bitspring
+Commit: Add BitSpring to Audio and Video Tools (#4678)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: BitSpring<br/>Description: Player de música bit-perfect de código aberto com DSD nativo, taxa de amostragem por faixa até 768 kHz e EQ de fones AutoEQ.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
+    </item>
     <item>
       <title>Bar27</title>
       <link>https://github.com/ATTILA-KRB/bar27</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/ONLYOFFICE/DesktopEditors
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: OnlyOffice<br/>Description: Suíte de escritório com editores de documentos, planilhas e apresentações.<br/>Website: https://www.onlyoffice.com/<br/>Open Source: https://github.com/ONLYOFFICE/DesktopEditors<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Pages</title>
-      <link>https://apps.apple.com/app/pages/id409201541?platform=mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Pages</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Pages
-Description: Documentos que se destacam.
-App Store: https://apps.apple.com/app/pages/id409201541?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Pages<br/>Description: Documentos que se destacam.<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

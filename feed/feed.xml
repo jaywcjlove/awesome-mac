@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BitSpring</title>
+      <link>https://bitspring.app/</link>
+      <guid isPermaLink="false">395fab35347c28a9aefa65da069fe2e0a65ccd49:BitSpring</guid>
+      <pubDate>Tue, 17 Nov 2026 11:03:18 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: BitSpring
+Description: Open-source bit-perfect music player with native DSD, per-track sample rates up to 768 kHz and AutoEQ headphone EQ.
+Website: https://bitspring.app/
+Open Source: https://github.com/crash2bash/bitspring
+Commit: Add BitSpring to Audio and Video Tools (#4678)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: BitSpring<br/>Description: Open-source bit-perfect music player with native DSD, per-track sample rates up to 768 kHz and AutoEQ headphone EQ.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
+    </item>
     <item>
       <title>Aris</title>
       <link>https://arismac.app</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/Devanshgoel-123/diskpilot
 Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: DiskPilot<br/>Description: Free, open-source storage analyzer for developers that explains each folder (Docker, node_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first.<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
-    </item>
-    <item>
-      <title>o8</title>
-      <link>https://o8.run</link>
-      <guid isPermaLink="false">2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9:o8</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:03 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: o8
-Description: Open-source desktop app that reviews coding agents&apos; work, sends it back until it passes, and merges it.
-Website: https://o8.run
-Open Source: https://github.com/o8-run/o8
-Commit: Add o8 to AI Tools (#4525)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: o8<br/>Description: Open-source desktop app that reviews coding agents&apos; work, sends it back until it passes, and merges it.<br/>Website: https://o8.run<br/>Open Source: https://github.com/o8-run/o8<br/>Commit: Add o8 to AI Tools (#4525)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9]]></content:encoded>
     </item>
   </channel>
 </rss>
