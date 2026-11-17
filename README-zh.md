@@ -595,6 +595,7 @@ Awesome Mac
 * [GIPHY Capture](https://giphy.com/apps/giphycapture) - 免费软件的捕捉和分享图片在桌面上。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/giphy-capture-the-gif-maker/id668208984?platform=mac)
 * [Kap](https://getkap.co/) - 轻量 GIF 录屏小工具。[![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [Lecta（讲笔）](https://macluping.com/) - 支持悬浮提词、局部放大、标注和摄像头同框的录屏工具。
 * [Licecap](http://www.cockos.com/licecap/) - 可直接导出 GIF 的录屏工具。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id540348655?platform=mac)
 * [Native Screen](https://nativescreen.app/) - 带多轨时间线、自动缩放和本地字幕的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
