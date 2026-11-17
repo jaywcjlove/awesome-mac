@@ -1247,6 +1247,7 @@ Awesome Mac
 * [ParrotFlow](https://parrotflow.io/) - 独自のルール・スクリプト・語彙でプログラムできるローカル音声入力アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - Parakeet TDT v3（CoreML/ANE）を使用した、Apple Silicon Mac 用のネイティブなプッシュ・トゥ・トーク対応ローカル音声入力アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Purr](https://purr.arunbrahma.com) - Parakeet または Whisper であらゆるアプリに文字入力できるオープンソースのオンデバイス音声入力アプリで、話者を区別した会議メモと要約にも対応。 [![Open-Source Software][OSS Icon]](https://github.com/iamarunbrahma/purr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Shepit](https://shepit.lakiza.io) - あらゆるアプリに文字入力できるオンデバイス音声入力アプリで、話者を区別した通話メモと要約にも対応し、話しながら25言語を自動判別。 ![Native App][Native Icon]
 * [Spokenly](https://spokenly.app/) - 100以上の言語、オフラインモード、AI搭載のフォーマットを備えた音声テキスト変換。
 * [Tambourine](https://tambourinevoice.com/) - あらゆるアプリで動作するオープンソースのカスタマイズ可能なAI音声ディクテーション。 [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [Tamka](https://www.piedol.top/tamka/) - Neural EngineでNVIDIA Parakeetモデルを動かし、あらゆるアプリのカーソル位置に入力する、オープンソースのオンデバイス音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
