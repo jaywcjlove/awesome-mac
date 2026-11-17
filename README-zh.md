@@ -1314,6 +1314,7 @@ Awesome Mac
 * [Clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash Verge 的延续，基于 Tauri 的 Clash Meta GUI。[![Open-Source Software][OSS Icon]](https://github.com/clash-verge-rev/clash-verge-rev)![Freeware][Freeware Icon]
 * [ClashX Guide](https://clashx.tech) - 用于 ClashX 的指南和故障排查工具。 ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - 通过 Cloudflare 路由流量的安全网络服务。 ![Freeware][Freeware Icon]
+* [EthicalVPN](https://ethicalvpn.app/) - 免费桌面 VPN，费用来自用户自愿共享的带宽和 IP 地址。 ![Freeware][Freeware Icon]
 * [FlClash](https://github.com/chen08209/FlClash) - 拥有 MD3 风格且基于 Clash Meta 的客户端。[![Open-Source Software][OSS Icon]](https://github.com/chen08209/FlClash)![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 支持多种代理协议与订阅的跨平台代理客户端。 [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [LockPlus](https://github.com/steiale/lockplus) - WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。 [![Open-Source Software][OSS Icon]](https://github.com/steiale/lockplus) ![Freeware][Freeware Icon] ![Native App][Native Icon]

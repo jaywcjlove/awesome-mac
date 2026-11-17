@@ -1362,6 +1362,7 @@ Awesome Mac
 * [ClashX Guide](https://clashx.tech) - ClashX向けのガイドとトラブルシューティングツール。 ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Cloudflare経由で通信をルーティングするセキュアなネットワークサービス。 ![Freeware][Freeware Icon]
 * [DashVPN](https://getdashvpn.com/) - VLESS、Shadowsocks、HTTPSサブスクリプションに対応したスマートルーティング対応プロキシクライアント。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dash-vpn-for-outline-vless/id6758860923?platform=mac)
+* [EthicalVPN](https://ethicalvpn.app/) - ユーザーが同意して共有する帯域幅とIPアドレスで運営される無料デスクトップVPN。 ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 複数のプロキシプロトコルとサブスクリプションを扱えるマルチプラットフォームクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [Jumper VPN](https://jumpervpn.com/) - Macおよびその他のプラットフォーム用のVPNクライアント。セキュアで高速なVPNプロキシ。
 * [Lantern](https://getlantern.org) - オープンなインターネットへの高速で信頼性の高いセキュアなアクセスを提供する無料アプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
