@@ -1937,6 +1937,7 @@ Awesome Mac
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - ふたを閉じたままでもスリープを防ぎ、自動オフタイマーとバッテリー下限保護を備えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
 * [Sleepr](https://sleepr.app/) - macOSにスリープタイマーを復活。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/sleepr-app/id6465683427?platform=mac)
 * [Sloth](https://sveinbjorn.org/sloth/) - 実行中のすべてのプロセスが使用している開いているファイル、ディレクトリ、ソケット、パイプ、デバイスを表示。 [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornt/Sloth/) ![Freeware][Freeware Icon]
+* [Stay Green](https://getstaygreen.com) - 読書や考え事の間に Teams や Slack が「退席中」になるのを防ぐメニューバーアプリ。操作がないときだけアイドルタイマーをリセットし、カーソルは動かさない。
 * [SteerMouse](https://plentycom.jp/en/steermouse/) - マウスのボタン、ホイール、カーソル速度を細かく調整するツール。
 * [SwiftQuit](https://github.com/onebadidea/swiftquit/) - ウィンドウを閉じた際にmacOSアプリを自動的に終了する機能を有効化。 [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit) ![Freeware][Freeware Icon]
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - MacとAndroidデバイス間でファイルの閲覧と転送を行うためのオープンソースMTP管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
