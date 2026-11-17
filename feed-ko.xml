@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:43:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gesher</title>
+      <link>https://github.com/EphraimElgrabli/gesher</link>
+      <guid isPermaLink="false">bbe6d1198cc5af0361e2e623306f69e25772e548:Gesher</guid>
+      <pubDate>Tue, 17 Nov 2026 08:43:12 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Gesher
+Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.
+Open Source: https://github.com/EphraimElgrabli/gesher
+Commit: Add Gesher to AI Tools (#4684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Gesher<br/>Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
+    </item>
     <item>
       <title>AGASTHY</title>
       <link>https://github.com/HMAKT99/Agasthy</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/thejacedev/Noteriv
 Commit: Add Noteriv to Note-taking (#4496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Noteriv<br/>Description: 위키 링크, 그래프 뷰, 플러그인, Git/WebDAV 동기화, AI 어시스턴트용 MCP 서버를 갖춘 오픈소스 Markdown 노트 앱.<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
-    </item>
-    <item>
-      <title>LockPlus</title>
-      <link>https://github.com/steiale/lockplus</link>
-      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
-      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
-      <category>프록시 및 VPN 도구</category>
-      <description>Category: 프록시 및 VPN 도구
-App: LockPlus
-Description: macOS가 직접 적용하는 킬 스위치를 갖춘 WireGuard 및 OpenVPN 클라이언트.
-Open Source: https://github.com/steiale/lockplus
-Commit: Add LockPlus (#4507)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
-      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: LockPlus<br/>Description: macOS가 직접 적용하는 킬 스위치를 갖춘 WireGuard 및 OpenVPN 클라이언트.<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
     </item>
   </channel>
 </rss>
