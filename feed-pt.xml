@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:54:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Spool</title>
+      <link>https://joedesigns.com/spool</link>
+      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
+      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
+      <category>Comunicação / Clientes de E-mail</category>
+      <description>Category: Comunicação / Clientes de E-mail
+App: Spool
+Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.
+Website: https://joedesigns.com/spool
+Open Source: https://github.com/wes/spool
+Commit: Add Spool to Email Clients (#4695)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
+      <content:encoded><![CDATA[Category: Comunicação / Clientes de E-mail<br/>App: Spool<br/>Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
+    </item>
     <item>
       <title>Escale</title>
       <link>https://github.com/ATTILA-KRB/escale</link>
@@ -723,20 +738,6 @@ App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Microsoft Office<br/>Description: Inconfundivelmente Office, projetado para Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Numbers</title>
-      <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Numbers</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Numbers
-Description: Crie planilhas impressionantes.
-App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Numbers<br/>Description: Crie planilhas impressionantes.<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
