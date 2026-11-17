@@ -231,6 +231,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 ### Escritório
 
+* [Eddocu](https://eddocu.com) - Edite arquivos PDF, Word e PowerPoint em um só app; importa projetos Keynote, Pages e LaTeX e funciona offline. ![Freeware][Freeware Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id361285480?platform=mac) - Crie apresentações impressionantes. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id361285480?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Inconfundivelmente Office, projetado para Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
