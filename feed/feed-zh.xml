@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:43:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Gesher</title>
+      <link>https://github.com/EphraimElgrabli/gesher</link>
+      <guid isPermaLink="false">bbe6d1198cc5af0361e2e623306f69e25772e548:Gesher</guid>
+      <pubDate>Tue, 17 Nov 2026 08:43:12 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Gesher
+Description: 开源 MCP 服务与命令行工具，让 AI 助手读取和编辑 Apple 备忘录、提醒事项、日历、通讯录、地图、天气和无边记。
+Open Source: https://github.com/EphraimElgrabli/gesher
+Commit: Add Gesher to AI Tools (#4684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Gesher<br/>Description: 开源 MCP 服务与命令行工具，让 AI 助手读取和编辑 Apple 备忘录、提醒事项、日历、通讯录、地图、天气和无边记。<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
+    </item>
     <item>
       <title>AGASTHY</title>
       <link>https://github.com/HMAKT99/Agasthy</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/getguruhat/tocapad-macos
 Commit: Add TocaPad (#4515)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: TocaPad<br/>Description: 滑动触控板边缘调节音量和亮度，双击角落触发快捷操作。<br/>Open Source: https://github.com/getguruhat/tocapad-macos<br/>Commit: Add TocaPad (#4515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a3e76106d780d6804d1ddd47494bf8fb83c2e21]]></content:encoded>
-    </item>
-    <item>
-      <title>Noteriv</title>
-      <link>https://www.noteriv.com/</link>
-      <guid isPermaLink="false">0849c645c63b00fd2b08782f8147d310b73c21cf:Noteriv</guid>
-      <pubDate>Thu, 12 Nov 2026 04:08:34 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Noteriv
-Description: 开源 Markdown 笔记应用，支持双向链接、关系图谱、插件、Git/WebDAV 同步，并内置面向 AI 助手的 MCP 服务器。
-Website: https://www.noteriv.com/
-Open Source: https://github.com/thejacedev/Noteriv
-Commit: Add Noteriv to Note-taking (#4496)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Noteriv<br/>Description: 开源 Markdown 笔记应用，支持双向链接、关系图谱、插件、Git/WebDAV 同步，并内置面向 AI 助手的 MCP 服务器。<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
     </item>
   </channel>
 </rss>
