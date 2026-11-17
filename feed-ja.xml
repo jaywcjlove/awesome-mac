@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linger</title>
+      <link>https://withlinger.com/</link>
+      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
+      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
+      <category>デザインとプロダクト / その他のツール</category>
+      <description>Category: デザインとプロダクト / その他のツール
+App: Linger
+Description: 画像、出典リンク、メモを保存し、キーワード検索とコレクションで整理できるローカルファーストのビジュアル資料ライブラリ。
+Website: https://withlinger.com/
+Commit: Add Linger to design and product tools (#4194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Linger<br/>Description: 画像、出典リンク、メモを保存し、キーワード検索とコレクションで整理できるローカルファーストのビジュアル資料ライブラリ。<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
+    </item>
     <item>
       <title>Scrollr</title>
       <link>https://github.com/atuuuuuuu/Scrollr</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/tw4/lumela
 Commit: Add Lumela to Screenshot Tools (#4485)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Lumela<br/>Description: メールアドレス、カード番号、IPアドレス、APIキーをデバイス上のOCRで検出してぼかし、スクリーンショットを美しく整えるクロスプラットフォームのツール。<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Access Auditor</title>
-      <link>https://dirmedmr-alt.github.io/ai-access-auditor/</link>
-      <guid isPermaLink="false">df0a35dbd10ea90236d6299a88a4f6f53e24686a:AI Access Auditor</guid>
-      <pubDate>Wed, 11 Nov 2026 16:11:26 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: AI Access Auditor
-Description: Claude Code、Codex、Cursor などの AI コーディングエージェントが Mac 上でアクセスできるものを確認し、取り消せるツール。
-Website: https://dirmedmr-alt.github.io/ai-access-auditor/
-Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
-Commit: Add AI Access Auditor to Security Tools (#4466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: AI Access Auditor<br/>Description: Claude Code、Codex、Cursor などの AI コーディングエージェントが Mac 上でアクセスできるものを確認し、取り消せるツール。<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
     </item>
   </channel>
 </rss>

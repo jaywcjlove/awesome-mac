@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linger</title>
+      <link>https://withlinger.com/</link>
+      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
+      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Linger
+Description: Local-first visual reference library for saving images, source links, and notes, with keyword search and collections.
+Website: https://withlinger.com/
+Commit: Add Linger to design and product tools (#4194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Linger<br/>Description: Local-first visual reference library for saving images, source links, and notes, with keyword search and collections.<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
+    </item>
     <item>
       <title>Scrollr</title>
       <link>https://github.com/atuuuuuuu/Scrollr</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/thejacedev/Noteriv
 Commit: Add Noteriv to Note-taking (#4496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Noteriv<br/>Description: Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants.<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
-    </item>
-    <item>
-      <title>LockPlus</title>
-      <link>https://github.com/steiale/lockplus</link>
-      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
-      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: LockPlus
-Description: WireGuard and OpenVPN client with a kill switch that macOS itself enforces.
-Open Source: https://github.com/steiale/lockplus
-Commit: Add LockPlus (#4507)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: LockPlus<br/>Description: WireGuard and OpenVPN client with a kill switch that macOS itself enforces.<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
     </item>
   </channel>
 </rss>

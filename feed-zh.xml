@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linger</title>
+      <link>https://withlinger.com/zh/</link>
+      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
+      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Linger
+Description: 本地优先的视觉参考库，保存图片、来源链接和笔记，支持关键词搜索与合集整理。
+Website: https://withlinger.com/zh/
+Commit: Add Linger to design and product tools (#4194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Linger<br/>Description: 本地优先的视觉参考库，保存图片、来源链接和笔记，支持关键词搜索与合集整理。<br/>Website: https://withlinger.com/zh/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
+    </item>
     <item>
       <title>Scrollr</title>
       <link>https://github.com/atuuuuuuu/Scrollr</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/Miri-Labs/MoMo-Agent
 Commit: Add MoMo Agent to AI Tools (#4498)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: MoMo Agent<br/>Description: 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。<br/>Open Source: https://github.com/Miri-Labs/MoMo-Agent<br/>Commit: Add MoMo Agent to AI Tools (#4498)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumela</title>
-      <link>https://github.com/tw4/lumela</link>
-      <guid isPermaLink="false">101fa4e9119e2575c1ebc2b125373a891b8d3f7f:Lumela</guid>
-      <pubDate>Wed, 11 Nov 2026 16:26:38 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Lumela
-Description: 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。
-Open Source: https://github.com/tw4/lumela
-Commit: Add Lumela to Screenshot Tools (#4485)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Lumela<br/>Description: 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
     </item>
   </channel>
 </rss>

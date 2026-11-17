@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linger</title>
+      <link>https://withlinger.com/</link>
+      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
+      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Linger
+Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.
+Website: https://withlinger.com/
+Commit: Add Linger to design and product tools (#4194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Linger<br/>Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
+    </item>
     <item>
       <title>Scrollr</title>
       <link>https://github.com/atuuuuuuu/Scrollr</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/tw4/lumela
 Commit: Add Lumela to Screenshot Tools (#4485)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Lumela<br/>Description: 기기 내 OCR로 이메일, 카드 번호, IP 주소, API 키를 찾아 흐리게 처리하고 스크린샷을 보기 좋게 꾸며 주는 크로스 플랫폼 도구.<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Access Auditor</title>
-      <link>https://dirmedmr-alt.github.io/ai-access-auditor/</link>
-      <guid isPermaLink="false">df0a35dbd10ea90236d6299a88a4f6f53e24686a:AI Access Auditor</guid>
-      <pubDate>Wed, 11 Nov 2026 16:11:26 GMT</pubDate>
-      <category>보안 도구</category>
-      <description>Category: 보안 도구
-App: AI Access Auditor
-Description: Claude Code, Codex, Cursor 같은 AI 코딩 에이전트가 Mac에서 접근할 수 있는 권한을 확인하고 철회하는 도구.
-Website: https://dirmedmr-alt.github.io/ai-access-auditor/
-Open Source: https://github.com/dirmedmr-alt/ai-access-auditor
-Commit: Add AI Access Auditor to Security Tools (#4466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a</description>
-      <content:encoded><![CDATA[Category: 보안 도구<br/>App: AI Access Auditor<br/>Description: Claude Code, Codex, Cursor 같은 AI 코딩 에이전트가 Mac에서 접근할 수 있는 권한을 확인하고 철회하는 도구.<br/>Website: https://dirmedmr-alt.github.io/ai-access-auditor/<br/>Open Source: https://github.com/dirmedmr-alt/ai-access-auditor<br/>Commit: Add AI Access Auditor to Security Tools (#4466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/df0a35dbd10ea90236d6299a88a4f6f53e24686a]]></content:encoded>
     </item>
   </channel>
 </rss>
