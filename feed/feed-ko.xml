@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:13:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AGASTHY</title>
+      <link>https://github.com/HMAKT99/Agasthy</link>
+      <guid isPermaLink="false">9bb60f4e4cb75da6136e96bbc4057b36574fbf30:AGASTHY</guid>
+      <pubDate>Tue, 17 Nov 2026 05:13:03 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: AGASTHY
+Description: 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱.
+Open Source: https://github.com/HMAKT99/Agasthy
+Commit: Add AGASTHY to Developer Utilities (#4683)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: AGASTHY<br/>Description: 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱.<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
+    </item>
     <item>
       <title>Linger</title>
       <link>https://withlinger.com/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/steiale/lockplus
 Commit: Add LockPlus (#4507)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
       <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: LockPlus<br/>Description: macOS가 직접 적용하는 킬 스위치를 갖춘 WireGuard 및 OpenVPN 클라이언트.<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Lumela</title>
-      <link>https://github.com/tw4/lumela</link>
-      <guid isPermaLink="false">101fa4e9119e2575c1ebc2b125373a891b8d3f7f:Lumela</guid>
-      <pubDate>Wed, 11 Nov 2026 16:26:38 GMT</pubDate>
-      <category>디자인 및 제품 / 스크린샷 도구</category>
-      <description>Category: 디자인 및 제품 / 스크린샷 도구
-App: Lumela
-Description: 기기 내 OCR로 이메일, 카드 번호, IP 주소, API 키를 찾아 흐리게 처리하고 스크린샷을 보기 좋게 꾸며 주는 크로스 플랫폼 도구.
-Open Source: https://github.com/tw4/lumela
-Commit: Add Lumela to Screenshot Tools (#4485)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Lumela<br/>Description: 기기 내 OCR로 이메일, 카드 번호, IP 주소, API 키를 찾아 흐리게 처리하고 스크린샷을 보기 좋게 꾸며 주는 크로스 플랫폼 도구.<br/>Open Source: https://github.com/tw4/lumela<br/>Commit: Add Lumela to Screenshot Tools (#4485)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/101fa4e9119e2575c1ebc2b125373a891b8d3f7f]]></content:encoded>
     </item>
   </channel>
 </rss>

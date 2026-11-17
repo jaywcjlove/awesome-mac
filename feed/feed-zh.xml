@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:13:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AGASTHY</title>
+      <link>https://github.com/HMAKT99/Agasthy</link>
+      <guid isPermaLink="false">9bb60f4e4cb75da6136e96bbc4057b36574fbf30:AGASTHY</guid>
+      <pubDate>Tue, 17 Nov 2026 05:13:03 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: AGASTHY
+Description: 开源应用，将代码仓库、运行时、软件包和 AI 编程代理整合到一张知识图谱中，并提供 Token 用量统计、影响分析和安全的磁盘清理。
+Open Source: https://github.com/HMAKT99/Agasthy
+Commit: Add AGASTHY to Developer Utilities (#4683)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: AGASTHY<br/>Description: 开源应用，将代码仓库、运行时、软件包和 AI 编程代理整合到一张知识图谱中，并提供 Token 用量统计、影响分析和安全的磁盘清理。<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
+    </item>
     <item>
       <title>zest</title>
       <link>https://github.com/rostik32/zest</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/thejacedev/Noteriv
 Commit: Add Noteriv to Note-taking (#4496)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Noteriv<br/>Description: 开源 Markdown 笔记应用，支持双向链接、关系图谱、插件、Git/WebDAV 同步，并内置面向 AI 助手的 MCP 服务器。<br/>Website: https://www.noteriv.com/<br/>Open Source: https://github.com/thejacedev/Noteriv<br/>Commit: Add Noteriv to Note-taking (#4496)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0849c645c63b00fd2b08782f8147d310b73c21cf]]></content:encoded>
-    </item>
-    <item>
-      <title>LockPlus</title>
-      <link>https://github.com/steiale/lockplus</link>
-      <guid isPermaLink="false">59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1:LockPlus</guid>
-      <pubDate>Thu, 12 Nov 2026 03:56:05 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: LockPlus
-Description: WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。
-Open Source: https://github.com/steiale/lockplus
-Commit: Add LockPlus (#4507)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: LockPlus<br/>Description: WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
     </item>
   </channel>
 </rss>
