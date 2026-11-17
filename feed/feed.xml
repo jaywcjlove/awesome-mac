@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EdgeEver</title>
+      <link>https://edgeever.org/</link>
+      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
+      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: EdgeEver
+Description: Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration.
+Website: https://edgeever.org/
+Open Source: https://github.com/tianma-if/edgeever
+Commit: Add EdgeEver to Note-taking (#4680)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: EdgeEver<br/>Description: Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration.<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
+    </item>
     <item>
       <title>BitSpring</title>
       <link>https://bitspring.app/</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/amithgc/quarters
 Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Quarters<br/>Description: Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone.<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskPilot</title>
-      <link>https://diskpilot.live</link>
-      <guid isPermaLink="false">690a21397a7ee1a46872917c5b4f10bacda33172:DiskPilot</guid>
-      <pubDate>Thu, 12 Nov 2026 15:03:49 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: DiskPilot
-Description: Free, open-source storage analyzer for developers that explains each folder (Docker, node_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first.
-Website: https://diskpilot.live
-Open Source: https://github.com/Devanshgoel-123/diskpilot
-Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: DiskPilot<br/>Description: Free, open-source storage analyzer for developers that explains each folder (Docker, node_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first.<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
     </item>
   </channel>
 </rss>
