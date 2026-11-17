@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:49:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:58:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>zest</title>
+      <link>https://github.com/rostik32/zest</link>
+      <guid isPermaLink="false">e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf:zest</guid>
+      <pubDate>Tue, 17 Nov 2026 04:58:03 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: zest
+Description: 在 Terminal.app、iTerm2、Ghostty、VS Code 和 Cursor 中为 Zsh 提供带说明的自动补全弹窗，支持约 1500 条命令。
+Open Source: https://github.com/rostik32/zest
+Commit: Add zest to Terminal Apps (#4655)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: zest<br/>Description: 在 Terminal.app、iTerm2、Ghostty、VS Code 和 Cursor 中为 Zsh 提供带说明的自动补全弹窗，支持约 1500 条命令。<br/>Open Source: https://github.com/rostik32/zest<br/>Commit: Add zest to Terminal Apps (#4655)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf]]></content:encoded>
+    </item>
     <item>
       <title>Linger</title>
       <link>https://withlinger.com/zh/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/steiale/lockplus
 Commit: Add LockPlus (#4507)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: LockPlus<br/>Description: WireGuard 和 OpenVPN 客户端，带有由 macOS 自身强制执行的终止开关（Kill Switch）。<br/>Open Source: https://github.com/steiale/lockplus<br/>Commit: Add LockPlus (#4507)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/59fd8f2fccbfaa2dd83f03db6951a1d882e7c6e1]]></content:encoded>
-    </item>
-    <item>
-      <title>MoMo Agent</title>
-      <link>https://github.com/Miri-Labs/MoMo-Agent</link>
-      <guid isPermaLink="false">2dc21ce1ef91bbebf44491cb81174c735a369543:MoMo Agent</guid>
-      <pubDate>Thu, 12 Nov 2026 03:31:10 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: MoMo Agent
-Description: 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。
-Open Source: https://github.com/Miri-Labs/MoMo-Agent
-Commit: Add MoMo Agent to AI Tools (#4498)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: MoMo Agent<br/>Description: 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。<br/>Open Source: https://github.com/Miri-Labs/MoMo-Agent<br/>Commit: Add MoMo Agent to AI Tools (#4498)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc21ce1ef91bbebf44491cb81174c735a369543]]></content:encoded>
     </item>
   </channel>
 </rss>
