@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EdgeEver</title>
+      <link>https://edgeever.org/</link>
+      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
+      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
+      <category>読み書きツール / メモ・ノート</category>
+      <description>Category: 読み書きツール / メモ・ノート
+App: EdgeEver
+Description: セルフホスティング、マルチデバイス同期、MCP 連携に対応したオープンソースのノート・知識管理ワークスペース。
+Website: https://edgeever.org/
+Open Source: https://github.com/tianma-if/edgeever
+Commit: Add EdgeEver to Note-taking (#4680)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: EdgeEver<br/>Description: セルフホスティング、マルチデバイス同期、MCP 連携に対応したオープンソースのノート・知識管理ワークスペース。<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
+    </item>
     <item>
       <title>BitSpring</title>
       <link>https://bitspring.app/</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/getguruhat/PCMode
 Commit: Add PC Mode (#4521)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470</description>
       <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: PC Mode<br/>Description: Windowsの操作感をMacに持ち込む無料アプリ。Deleteキーで Finder から削除、⌘X と ⌘V でファイルを切り取り・移動、⌘Tab でウィンドウごとに切り替え。<br/>Open Source: https://github.com/getguruhat/PCMode<br/>Commit: Add PC Mode (#4521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470]]></content:encoded>
-    </item>
-    <item>
-      <title>Yado</title>
-      <link>https://yado.house/</link>
-      <guid isPermaLink="false">b2a9a90b6cc31f23c3ea722cec9be4587a22805a:Yado</guid>
-      <pubDate>Thu, 12 Nov 2026 10:23:17 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Yado
-Description: MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。
-Website: https://yado.house/
-Commit: Add Yado to General Tools (#4519)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Yado<br/>Description: MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。<br/>Website: https://yado.house/<br/>Commit: Add Yado to General Tools (#4519)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EdgeEver</title>
+      <link>https://edgeever.org/</link>
+      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
+      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: EdgeEver
+Description: 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스.
+Website: https://edgeever.org/
+Open Source: https://github.com/tianma-if/edgeever
+Commit: Add EdgeEver to Note-taking (#4680)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: EdgeEver<br/>Description: 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스.<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
+    </item>
     <item>
       <title>BitSpring</title>
       <link>https://bitspring.app/</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/getguruhat/PCMode
 Commit: Add PC Mode (#4521)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: PC Mode<br/>Description: Windows 사용 습관을 Mac으로 가져오는 무료 앱. Delete 키로 Finder에서 삭제하고, ⌘X와 ⌘V로 파일을 잘라 이동하며, ⌘Tab으로 창 단위로 전환.<br/>Open Source: https://github.com/getguruhat/PCMode<br/>Commit: Add PC Mode (#4521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470]]></content:encoded>
-    </item>
-    <item>
-      <title>Yado</title>
-      <link>https://yado.house/</link>
-      <guid isPermaLink="false">b2a9a90b6cc31f23c3ea722cec9be4587a22805a:Yado</guid>
-      <pubDate>Thu, 12 Nov 2026 10:23:17 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Yado
-Description: Mac에서 iPhone을 관리하는 네이티브 앱. 중복 사진, 큰 동영상, 쓰지 않는 앱 정리와 홈 화면 정리, 파일 전송, Mac 백업을 지원.
-Website: https://yado.house/
-Commit: Add Yado to General Tools (#4519)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Yado<br/>Description: Mac에서 iPhone을 관리하는 네이티브 앱. 중복 사진, 큰 동영상, 쓰지 않는 앱 정리와 홈 화면 정리, 파일 전송, Mac 백업을 지원.<br/>Website: https://yado.house/<br/>Commit: Add Yado to General Tools (#4519)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2a9a90b6cc31f23c3ea722cec9be4587a22805a]]></content:encoded>
     </item>
   </channel>
 </rss>

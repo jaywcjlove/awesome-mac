@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>EdgeEver</title>
+      <link>https://edgeever.org/</link>
+      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
+      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
+      <category>阅读与写作工具 / 笔记</category>
+      <description>Category: 阅读与写作工具 / 笔记
+App: EdgeEver
+Description: 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。
+Website: https://edgeever.org/
+Open Source: https://github.com/tianma-if/edgeever
+Commit: Add EdgeEver to Note-taking (#4680)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: EdgeEver<br/>Description: 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
+    </item>
     <item>
       <title>BitSpring</title>
       <link>https://bitspring.app/</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/o8-run/o8
 Commit: Add o8 to AI Tools (#4525)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: o8<br/>Description: 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。<br/>Website: https://o8.run<br/>Open Source: https://github.com/o8-run/o8<br/>Commit: Add o8 to AI Tools (#4525)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9]]></content:encoded>
-    </item>
-    <item>
-      <title>PC Mode</title>
-      <link>https://github.com/getguruhat/PCMode</link>
-      <guid isPermaLink="false">c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470:PC Mode</guid>
-      <pubDate>Thu, 12 Nov 2026 10:57:54 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: PC Mode
-Description: 免费应用，把 Windows 习惯带到 Mac：用 Delete 键在 Finder 中删除文件，用 ⌘X 和 ⌘V 剪切并移动文件，用 ⌘Tab 切换单个窗口。
-Open Source: https://github.com/getguruhat/PCMode
-Commit: Add PC Mode (#4521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: PC Mode<br/>Description: 免费应用，把 Windows 习惯带到 Mac：用 Delete 键在 Finder 中删除文件，用 ⌘X 和 ⌘V 剪切并移动文件，用 ⌘Tab 切换单个窗口。<br/>Open Source: https://github.com/getguruhat/PCMode<br/>Commit: Add PC Mode (#4521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470]]></content:encoded>
     </item>
   </channel>
 </rss>
