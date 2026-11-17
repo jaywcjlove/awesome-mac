@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:29:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Escale
+Description: 탭, 터미널 옆 SFTP 브라우저, 터널, 다중 호스트 실행, 내장 X11 서버를 갖춘 네이티브 SSH 클라이언트.
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Escale<br/>Description: 탭, 터미널 옆 SFTP 브라우저, 터널, 다중 호스트 실행, 내장 X11 서버를 갖춘 네이티브 SSH 클라이언트.<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
     <item>
       <title>EdgeEver</title>
       <link>https://edgeever.org/</link>
@@ -718,20 +732,6 @@ Open Source: https://github.com/o8-run/o8
 Commit: Add o8 to AI Tools (#4525)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: o8<br/>Description: 코딩 에이전트의 작업을 리뷰하고, 통과할 때까지 되돌려 보낸 뒤 병합하는 오픈 소스 데스크톱 앱.<br/>Website: https://o8.run<br/>Open Source: https://github.com/o8-run/o8<br/>Commit: Add o8 to AI Tools (#4525)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9]]></content:encoded>
-    </item>
-    <item>
-      <title>PC Mode</title>
-      <link>https://github.com/getguruhat/PCMode</link>
-      <guid isPermaLink="false">c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470:PC Mode</guid>
-      <pubDate>Thu, 12 Nov 2026 10:57:54 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: PC Mode
-Description: Windows 사용 습관을 Mac으로 가져오는 무료 앱. Delete 키로 Finder에서 삭제하고, ⌘X와 ⌘V로 파일을 잘라 이동하며, ⌘Tab으로 창 단위로 전환.
-Open Source: https://github.com/getguruhat/PCMode
-Commit: Add PC Mode (#4521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: PC Mode<br/>Description: Windows 사용 습관을 Mac으로 가져오는 무료 앱. Delete 키로 Finder에서 삭제하고, ⌘X와 ⌘V로 파일을 잘라 이동하며, ⌘Tab으로 창 단위로 전환.<br/>Open Source: https://github.com/getguruhat/PCMode<br/>Commit: Add PC Mode (#4521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470]]></content:encoded>
     </item>
   </channel>
 </rss>

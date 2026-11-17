@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:29:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Escale
+Description: 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Escale<br/>Description: 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
     <item>
       <title>EdgeEver</title>
       <link>https://edgeever.org/</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/Devanshgoel-123/diskpilot
 Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: DiskPilot<br/>Description: 免费开源的开发者存储分析工具，逐个解释每个文件夹（Docker、node_modules、Xcode DerivedData、AI 工具缓存），标明哪些可以安全删除，并且所有内容都先移到废纸篓。<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
-    </item>
-    <item>
-      <title>o8</title>
-      <link>https://o8.run</link>
-      <guid isPermaLink="false">2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9:o8</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:03 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: o8
-Description: 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。
-Website: https://o8.run
-Open Source: https://github.com/o8-run/o8
-Commit: Add o8 to AI Tools (#4525)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: o8<br/>Description: 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。<br/>Website: https://o8.run<br/>Open Source: https://github.com/o8-run/o8<br/>Commit: Add o8 to AI Tools (#4525)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9]]></content:encoded>
     </item>
   </channel>
 </rss>
