@@ -1539,6 +1539,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Week Number](https://sindresorhus.com/week-number) - O número da semana atual na sua barra de menus. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523?platform=mac)
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - App simples que registra suas horas de trabalho na barra de menus. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - Exiba a saída de qualquer script ou programa na barra de menus do macOS (o reboot do BitBar). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
+* [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos. [![Open-Source Software][OSS Icon]](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - Ferramenta de som do teclado que adiciona áudio de digitação no estilo mecânico. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
 ### Limpeza e desinstalação
