@@ -1862,6 +1862,7 @@ Awesome Mac
 * [SaneClick](https://saneclick.com) - Finder の右クリックメニューにファイル操作、変換、開発者向けアクションを追加する拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - macOS向けのウォーターフォールスタイル画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - Sublime Textの機能を統合した初のデュアルペインファイルマネージャー。
+* [Folia Files](https://foliafiles.com/) - パネルの並列表示、ファイル内容の検索、サーバやクラウドのディスクとしてのマウントに対応したファイルマネージャー。
 * [ForkLift](http://binarynights.com/forklift/) - macOS向けの最も先進的なデュアルペインファイルマネージャー＆ファイル転送クライアント。
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - ファイル管理アプリ。
 * [PC Mode](https://github.com/getguruhat/PCMode) - Windowsの操作感をMacに持ち込む無料アプリ。Deleteキーで Finder から削除、⌘X と ⌘V でファイルを切り取り・移動、⌘Tab でウィンドウごとに切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]
