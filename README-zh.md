@@ -1536,6 +1536,7 @@ Awesome Mac
 * [MacResourceMonitor](https://github.com/x0c/MacResourceMonitor) - 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/MacResourceMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Perch](https://perchapp.dev) - 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - 把 MacBook 刘海变成控制中心，集中管理 VPN 连接、任意浏览器的标签页分组、正在播放、日历、本地翻译和剪贴板历史。 [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Refrain](https://refrainformac.com) - 菜单栏应用，管理可重复使用的文本片段，全部保存在一个纯 Markdown 文件中。 ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 带隐藏区域和自动化能力的隐私优先菜单栏管理器。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 用媒体键控制网页播放器和部分应用播放。 [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 菜单栏里的小机器人，盯着正在运行的开发服务器和 iOS 模拟器，无需回到终端即可重启服务器。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
