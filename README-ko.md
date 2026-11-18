@@ -1349,6 +1349,7 @@ Awesome Mac
 * [iCMD](https://icmd.app) - 전역 퍼지 메뉴 검색과 Vim 스타일 탐색을 제공하는 도구.
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [JUMP](https://alvaldes.github.io/jump/) - 클릭할 수 있는 모든 요소에 라벨을 붙여 어떤 앱에서든 키보드로 클릭, 스크롤, 검색할 수 있게 해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/jump) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [KaidoPlan](https://ai.cygnusyang.top/kaidoplan/) - WBS, 임계 경로, AI 에이전트용 MCP 도구를 갖춘 로컬 우선 프로젝트 계획 앱. ![Freeware][Freeware Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 트리거와 매크로로 반복 작업을 자동화하는 도구.
 * [Keylane](https://github.com/Acckion/Keylane) - 앱 및 파일 검색, 클립보드 기록, 시스템 동작을 지원하는 macOS 26 이상용 소스 공개 키보드 런처.
