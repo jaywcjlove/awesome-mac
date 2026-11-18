@@ -384,6 +384,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [SkyFonts](https://skyfonts.com/) - A forma mais simples de testar, instalar e gerenciar fontes.
 * [SmoothCSV](https://smoothcsv.com/) - Editor de CSV rápido e completo, com consultas SQL. ![Freeware][Freeware Icon]
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Cliente do Pinboard poderoso, bonito e incrivelmente rápido para OS X.
+* [Sponge](https://sponge.computer/mac) - Biblioteca de leitura para depois que salva links pelo menu Compartilhar, pela barra de menus ou por um atalho.
 * [TabType](https://github.com/nilava/TabType) - Autocompletar com IA gratuito e de código aberto para todos os apps do Mac: sugestões de texto fantasma no dispositivo, com um LLM local (MLX); nada sai do seu Mac. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 * [Tad](https://www.tadviewer.com) - Aplicativo para visualizar e analisar dados tabulares, como arquivos CSV. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - Ótimo editor de LaTeX para Mac, com atualização automática do PDF e autocompletar de comandos LaTeX.
