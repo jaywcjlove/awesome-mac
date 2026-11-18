@@ -463,6 +463,7 @@ Awesome Mac
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 環境変数用のOS Xプリファレンスペイン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finderからターミナルを素早く開く。 [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
+* [Flockbook](https://flockbook.mclee.dev) - Herdrのコーディングエージェント（Claude Code、Codex、Cursor、piなど）を読むためのビュー。各エージェントのターミナルを会話として表示し、承認や質問にカードから答えられる。 [![Open-Source Software][OSS Icon]](https://github.com/minchenlee/flockbook) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FlyEnv](https://www.flyenv.com) - 言語、データベース、サービスを管理できるローカル開発環境ツール。 [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Finicky](https://johnste.github.io/finicky/) - リンクごとに開くブラウザを決めるルールを設定できるツール。 [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) - FRPリバースプロキシおよびイントラネット侵入（NAT越え）のためのオープンソースGUIクライアント。[![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop) ![Freeware][Freeware Icon]

@@ -437,6 +437,7 @@ Awesome Mac
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
+* [Flockbook](https://flockbook.mclee.dev) - Herdr 코딩 에이전트(Claude Code, Codex, Cursor, pi 등)를 읽기 위한 뷰. 각 에이전트의 터미널을 대화로 보여 주고, 승인 요청과 질문에 카드에서 바로 답할 수 있음. [![Open-Source Software][OSS Icon]](https://github.com/minchenlee/flockbook) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) - 시각적 구성을 지원하는 FRP 리버스 프록시 및 인트라넷 침투용 오픈 소스 데스크톱 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
