@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:31:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Treewise</title>
+      <link>https://treewise.m-domain.me</link>
+      <guid isPermaLink="false">a083ff31a81da8d8a908dc864f1ff5fb28b7dd4b:Treewise</guid>
+      <pubDate>Wed, 18 Nov 2026 02:31:01 GMT</pubDate>
+      <category>Utilities / Finder Tools</category>
+      <description>Category: Utilities / Finder Tools
+App: Treewise
+Description: File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side.
+Website: https://treewise.m-domain.me
+Open Source: https://github.com/mag243/treewise
+Commit: Add Treewise (#4670)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a083ff31a81da8d8a908dc864f1ff5fb28b7dd4b</description>
+      <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Treewise<br/>Description: File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side.<br/>Website: https://treewise.m-domain.me<br/>Open Source: https://github.com/mag243/treewise<br/>Commit: Add Treewise (#4670)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a083ff31a81da8d8a908dc864f1ff5fb28b7dd4b]]></content:encoded>
+    </item>
     <item>
       <title>WhisPaste</title>
       <link>https://whispaste.de/en/</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/Bouliw/vigie
 Commit: Add Vigie to Security Tools (#4362)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
       <content:encoded><![CDATA[Category: Security Tools<br/>App: Vigie<br/>Description: Open-source blue team tool that runs Sigma detection rules on the macOS unified log, Windows event logs and Linux auth.log, live or on collected files, and writes a report mapped to MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
-    </item>
-    <item>
-      <title>Lafz Prompter</title>
-      <link>https://lafz.waqasrana.space/</link>
-      <guid isPermaLink="false">62903e7c64d46ef933229f89a8f3df057687398a:Lafz Prompter</guid>
-      <pubDate>Fri, 13 Nov 2026 20:22:33 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Lafz Prompter
-Description: Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq.
-Website: https://lafz.waqasrana.space/
-Open Source: https://github.com/ranawaqas-ai/lafz-prompter
-Commit: Add Lafz Prompter to Menu Bar Tools (#4576)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Lafz Prompter<br/>Description: Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq.<br/>Website: https://lafz.waqasrana.space/<br/>Open Source: https://github.com/ranawaqas-ai/lafz-prompter<br/>Commit: Add Lafz Prompter to Menu Bar Tools (#4576)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a]]></content:encoded>
     </item>
   </channel>
 </rss>
