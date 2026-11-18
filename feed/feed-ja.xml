@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: YANA
+Description: MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: YANA<br/>Description: MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
     <item>
       <title>NotchDeck</title>
       <link>https://github.com/systemAdmin-ai/NotchDeck</link>
@@ -716,21 +730,6 @@ Website: https://bullfighterstudio.com/magicinput
 Commit: Add MagicInput (#4574)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: MagicInput<br/>Description: 画面の端からポインタを移動するだけで、MacとWindows PCの間で1組のキーボードとマウスを共有するツール。クリップボード同期とファイル転送にも対応。<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
-    </item>
-    <item>
-      <title>Usagebar</title>
-      <link>https://bullfighterstudio.com/usagebar</link>
-      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
-      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Usagebar
-Description: Claude Code、Codex、Cursor、Kimi Code、z.ai、DeepSeekの使用量の上限とリセット時刻をメニューバーに表示するツール。
-Website: https://bullfighterstudio.com/usagebar
-Open Source: https://github.com/betoxf/Usagebar
-Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Usagebar<br/>Description: Claude Code、Codex、Cursor、Kimi Code、z.ai、DeepSeekの使用量の上限とリセット時刻をメニューバーに表示するツール。<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
     </item>
   </channel>
 </rss>

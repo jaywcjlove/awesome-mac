@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: YANA
+Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: YANA<br/>Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
     <item>
       <title>NotchDeck</title>
       <link>https://github.com/systemAdmin-ai/NotchDeck</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/qvacua/vimr/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vimr<br/>Description: Experiência Vim refinada para OS X.<br/>Website: https://vimr.org/<br/>Open Source: https://github.com/qvacua/vimr/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Windsurf</title>
-      <link>https://windsurf.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Windsurf</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Windsurf
-Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.
-Website: https://windsurf.com/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Windsurf<br/>Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.<br/>Website: https://windsurf.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

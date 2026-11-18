@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: YANA
+Description: Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers, and a file shelf.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: YANA<br/>Description: Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers, and a file shelf.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
     <item>
       <title>NotchDeck</title>
       <link>https://github.com/systemAdmin-ai/NotchDeck</link>
@@ -716,20 +730,6 @@ Open Source: https://github.com/Bouliw/takeline
 Commit: Add Takeline to Productivity (#4368)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Takeline<br/>Description: Fork of Textream that follows your voice in French and English entirely on the Mac, with retake detection and voice commands.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
-    </item>
-    <item>
-      <title>Roughcut</title>
-      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
-      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
-      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Roughcut
-Description: Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model.
-Open Source: https://github.com/Bouliw/fcpxml-roughcut
-Commit: Add Roughcut to Audio and Video Tools (#4367)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Roughcut<br/>Description: Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
     </item>
   </channel>
 </rss>
