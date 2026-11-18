@@ -853,6 +853,7 @@ Awesome Mac
 * [OpenQuack](https://github.com/larryxiao/openquack) - 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。 [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [ParrotFlow](https://parrotflow.io/) - 可用你的规则、脚本和词汇编程的本地语音听写应用。 [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
+* [Point](https://point-site-opal.vercel.app) - 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。 [![Open-Source Software][OSS Icon]](https://github.com/sksareen/point) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Purr](https://purr.arunbrahma.com) - 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。 [![Open-Source Software][OSS Icon]](https://github.com/iamarunbrahma/purr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tamka](https://www.piedol.top/tamka/) - 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
