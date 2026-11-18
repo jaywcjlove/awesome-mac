@@ -968,6 +968,7 @@ Awesome Mac
 * [Local Transcriber](https://transcriber.teconomix.net) - 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Memozia](https://github.com/oceanix-pr/Memozia) - 开源会议录音与纪要工具，支持本地转写、说话人标注、总结和可编辑待办。 [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
+* [mm2t](https://mm2t.yuzen.dev/) - 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 开源菜单栏应用，可实时升降任意应用音频的音调，且不改变播放速度。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
