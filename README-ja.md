@@ -893,6 +893,7 @@ Awesome Mac
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 切り抜き、リサイズ、注釈、PNG・JPG・WebP・HEIC変換に対応した画像ビューアー兼エディター。 ![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - LightroomプリセットをAdobe Camera Rawに変換するツール。
 * [qView](https://interversehq.com/qview/) - ミニマリズムと使いやすさを念頭に設計された画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
+* [QuickFaceBlur](https://github.com/plan-teddy/QuickFaceBlur) - 選択的なぼかし解除、一括書き出し、EXIF情報の自動削除に対応したオープンソースのオフライン顔・ナンバープレートぼかしツール。 [![Open-Source Software][OSS Icon]](https://github.com/plan-teddy/QuickFaceBlur) ![Freeware][Freeware Icon]
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 画像のバッチリサイズと透かしを高速かつ簡単に。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](http://rightfontapp.com/) - Mac、Dropbox、Google Drive上のフォントのプレビュー、同期、インストール、管理。
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - SwiftとMetalで書かれた、Appleシリコン向けのローカルAI画像生成と指示による画像編集のオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]

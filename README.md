@@ -891,6 +891,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - Image viewer and editor for cropping, resizing, annotating, and converting between PNG, JPG, WebP, and HEIC. ![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - Tool to convert Lightroom presets to Adobe Camera Raw.
 * [qView](https://interversehq.com/qview/) - qView is an image viewer designed with minimalism and usability in mind. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
+* [QuickFaceBlur](https://github.com/plan-teddy/QuickFaceBlur) - Open-source offline face and license plate blurring tool with selective unblur, batch export, and automatic EXIF removal. [![Open-Source Software][OSS Icon]](https://github.com/plan-teddy/QuickFaceBlur) ![Freeware][Freeware Icon]
 * [Resize Master](https://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](https://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal. [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
