@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:42:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Velinshot</title>
+      <link>https://github.com/Jacknelson6/Velinshot</link>
+      <guid isPermaLink="false">31dfe7eb39ea2b370c95db9f4b38aeb443ee1868:Velinshot</guid>
+      <pubDate>Wed, 18 Nov 2026 01:42:00 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Velinshot
+Description: Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview).
+Open Source: https://github.com/Jacknelson6/Velinshot
+Commit: Add Velinshot to screenshot tools (#4700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Velinshot<br/>Description: Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview).<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
+    </item>
     <item>
       <title>ClaudeTTY</title>
       <link>https://github.com/aqilc/ClaudeTTY</link>
@@ -715,20 +729,6 @@ Open Source: https://github.com/betoxf/Usagebar
 Commit: Add Usagebar to AI Tools and Menu Bar Tools (#4528)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0052e397bd4802d46143b65e615a0377dc33ad38</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Usagebar<br/>Description: Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to AI Tools and Menu Bar Tools (#4528)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0052e397bd4802d46143b65e615a0377dc33ad38]]></content:encoded>
-    </item>
-    <item>
-      <title>ServerHat</title>
-      <link>https://github.com/getguruhat/serverhat-macos</link>
-      <guid isPermaLink="false">de6fd35494c7fce4ae9cd466af4f4afafdc6c376:ServerHat</guid>
-      <pubDate>Fri, 13 Nov 2026 09:04:09 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: ServerHat
-Description: Free menu-bar app that runs your local dev servers. Claude Code and Codex can start, stop and read logs through its MCP server and local API, with your approval.
-Open Source: https://github.com/getguruhat/serverhat-macos
-Commit: Add ServerHat (#4522)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: ServerHat<br/>Description: Free menu-bar app that runs your local dev servers. Claude Code and Codex can start, stop and read logs through its MCP server and local API, with your approval.<br/>Open Source: https://github.com/getguruhat/serverhat-macos<br/>Commit: Add ServerHat (#4522)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:42:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Velinshot</title>
+      <link>https://github.com/Jacknelson6/Velinshot</link>
+      <guid isPermaLink="false">31dfe7eb39ea2b370c95db9f4b38aeb443ee1868:Velinshot</guid>
+      <pubDate>Wed, 18 Nov 2026 01:42:00 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Velinshot
+Description: 支持标注、自定义边框和本地 OCR 的免费原生截图编辑器（尚未经 Apple 公证的预览版）。
+Open Source: https://github.com/Jacknelson6/Velinshot
+Commit: Add Velinshot to screenshot tools (#4700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Velinshot<br/>Description: 支持标注、自定义边框和本地 OCR 的免费原生截图编辑器（尚未经 Apple 公证的预览版）。<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
+    </item>
     <item>
       <title>ClaudeTTY</title>
       <link>https://github.com/aqilc/ClaudeTTY</link>
@@ -716,21 +730,6 @@ Open Source: https://github.com/RohiRIK/SummonOS
 Commit: Add SummonOS to AI Tools (#4538)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: SummonOS<br/>Description: 菜单栏应用和命令行工具，通过 MCP 为编程智能体提供 Mac 实时状态，并在修改受支持的系统设置前保存快照，以便撤销。<br/>Website: https://sumonos.rohi-lab.org/<br/>Open Source: https://github.com/RohiRIK/SummonOS<br/>Commit: Add SummonOS to AI Tools (#4538)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845]]></content:encoded>
-    </item>
-    <item>
-      <title>WellSnap</title>
-      <link>https://wellsnap.net/</link>
-      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
-      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: WellSnap
-Description: 开源的截图工具，支持 macOS 和 Windows，提供箭头、编号标注，以及不读取被遮挡像素的模糊。
-Website: https://wellsnap.net/
-Open Source: https://github.com/hashtriton/wellsnap
-Commit: Add WellSnap to Screenshot Tools (#4547)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: WellSnap<br/>Description: 开源的截图工具，支持 macOS 和 Windows，提供箭头、编号标注，以及不读取被遮挡像素的模糊。<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
     </item>
   </channel>
 </rss>
