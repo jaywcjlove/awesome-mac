@@ -1138,6 +1138,7 @@ Awesome Mac
 * [SoundCloud for macOS](https://github.com/jettsba/SoundCloud-for-macOS) - 非公式の軽量な macOS 向け SoundCloud アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jettsba/SoundCloud-for-macOS) ![Freeware][Freeware Icon]
 * [Spotifly](https://github.com/ralph/Spotifly) - 再生操作をすばやく行える軽量なSpotifyプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - メニューバーにSpotifyとiTunesを表示。 [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Stanza](https://rayhanson.tech/projects/stanza/) - SpotifyやApple Musicで再生中の曲の歌詞を、デスクトップとロック画面の上に一語ずつ表示する、23種類のスタイルを備えたメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Rayhanson-Git/stanza) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - 映画、テレビ、ライブ配信、各種ストリーミングソースをまとめて扱うメディアセンター。 ![Freeware][Freeware Icon]
 * [Stringed 2](http://stringed.buenosapps.com/) - ユーザーがお気に入りの曲の演奏を学ぶのを助けるために設計された音楽練習ソフトウェア。
 * [Synfig Studio](http://synfig.org) - 無料のオープンソース2Dアニメーションソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
