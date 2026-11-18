@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:00:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: Point
+Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Point<br/>Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
     <item>
       <title>Tomoru</title>
       <link>https://tomoru.acane.dev</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/zed-industries/zed
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Zed<br/>Description: Um editor de código multiplayer de alto desempenho, criado pelos autores do Atom e do Tree-sitter.<br/>Website: https://zed.dev/<br/>Open Source: https://github.com/zed-industries/zed<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Keynote</title>
-      <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Keynote</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Keynote
-Description: Crie apresentações impressionantes.
-App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Keynote<br/>Description: Crie apresentações impressionantes.<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
