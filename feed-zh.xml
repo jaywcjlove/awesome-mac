@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:00:31 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Point
+Description: 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Point<br/>Description: 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
     <item>
       <title>Tomoru</title>
       <link>https://tomoru.acane.dev</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/itsnajam/daily-wallpaper
 Commit: Add Daily Wallpaper (#4571)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Daily Wallpaper<br/>Description: 将必应每日图片设为桌面和锁屏壁纸的菜单栏应用。<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
-    </item>
-    <item>
-      <title>ServerHat</title>
-      <link>https://github.com/getguruhat/serverhat-macos</link>
-      <guid isPermaLink="false">de6fd35494c7fce4ae9cd466af4f4afafdc6c376:ServerHat</guid>
-      <pubDate>Fri, 13 Nov 2026 09:04:09 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: ServerHat
-Description: 免费的菜单栏应用，用来运行本地开发服务器。Claude Code 和 Codex 可通过它的 MCP 服务器和本地 API 启动、停止并读取日志，每次都需要你批准。
-Open Source: https://github.com/getguruhat/serverhat-macos
-Commit: Add ServerHat (#4522)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: ServerHat<br/>Description: 免费的菜单栏应用，用来运行本地开发服务器。Claude Code 和 Codex 可通过它的 MCP 服务器和本地 API 启动、停止并读取日志，每次都需要你批准。<br/>Open Source: https://github.com/getguruhat/serverhat-macos<br/>Commit: Add ServerHat (#4522)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376]]></content:encoded>
     </item>
   </channel>
 </rss>
