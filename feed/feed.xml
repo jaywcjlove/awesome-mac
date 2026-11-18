@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:22:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papilot</title>
+      <link>https://papilot.ai</link>
+      <guid isPermaLink="false">b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64:Papilot</guid>
+      <pubDate>Wed, 18 Nov 2026 11:22:25 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Papilot
+Description: Open-source desktop app where you annotate the compiled PDF, run coding agents like Claude Code, Codex, and Cursor in isolated Git worktrees, and review rendered before-and-after PDF diffs before merging.
+Website: https://papilot.ai
+Open Source: https://github.com/PapilotAI/papilot
+Commit: Add Papilot to AI Tools (#4737)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Papilot<br/>Description: Open-source desktop app where you annotate the compiled PDF, run coding agents like Claude Code, Codex, and Cursor in isolated Git worktrees, and review rendered before-and-after PDF diffs before merging.<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
+    </item>
     <item>
       <title>DisplayLatch</title>
       <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/HankMonster/arowser
 Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: arowser<br/>Description: Agent-programmable borderless web windows for macOS, driven by a CLI designed for coding agents.<br/>Open Source: https://github.com/HankMonster/arowser<br/>Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967]]></content:encoded>
-    </item>
-    <item>
-      <title>BaseHalf</title>
-      <link>https://basehalf.com</link>
-      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
-      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: BaseHalf
-Description: Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.
-Website: https://basehalf.com
-Open Source: https://github.com/Pointa-Labs/basehalf
-Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: BaseHalf<br/>Description: Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
     </item>
   </channel>
 </rss>
