@@ -1839,6 +1839,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [FlowVision](https://github.com/netdcy/FlowVision) - Visualizador de imagens no estilo Waterfall para macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - O primeiro gerenciador de arquivos de painel duplo a integrar recursos do Sublime Text.
 * [ForkLift](https://binarynights.com/forklift/) - O gerenciador de arquivos de painel duplo e cliente de transferência mais avançado para macOS.
+* [Gander](https://trygander.app) - Alternativa visual ao Finder que mostra cada arquivo como uma miniatura grande, encontra arquivos com buscas em linguagem natural como "pdfs from last week", lê o texto em capturas de tela e limpa duplicatas e downloads antigos. ![Native App][Native Icon]
 * [Path Finder](https://www.cocoatech.com/) - App de gerenciamento de arquivos.
 * [QSpace](https://qspace.awehunt.com) - Um gerenciador de arquivos com múltiplas visualizações, limpo e eficiente. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - Adiciona novas funções ao menu de contexto do Finder do macOS.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]

@@ -1824,6 +1824,7 @@ Awesome Mac
 * [FinderRight](https://github.com/funny-dog/FinderRight) - 为 Finder 右键菜单增加新建文件、打开终端、复制路径和剪切粘贴的开源扩展。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [fman](https://fman.io) - 先进的双窗口文件管理器，拥有很多特性。
 * [ForkLift](http://binarynights.com/forklift/) - 先进的双窗口文件管理器和文件传输客户端。
+* [Gander](https://trygander.app) - 可视化的 Finder 替代工具：所有文件都以大缩略图显示，可用自然语言搜索（如"上周的 PDF"），能读取截图中的文字，并清理重复文件和旧下载。 ![Native App][Native Icon]
 * [FlowVision](https://flowvision.app) - 瀑布流式图像与视频查看器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]
