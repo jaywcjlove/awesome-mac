@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:50:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tomoru</title>
+      <link>https://tomoru.acane.dev</link>
+      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
+      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
+      <category>Translation Tools</category>
+      <description>Category: Translation Tools
+App: Tomoru
+Description: Live bilingual subtitles for streams, anime, games, and meetings, plus instant screen text translation — works offline on your Mac or in the cloud, with glossaries that keep character names right.
+Website: https://tomoru.acane.dev
+Open Source: https://github.com/ACAne0320/Tomoru
+Commit: Add Tomoru to Translation Tools (#4701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
+      <content:encoded><![CDATA[Category: Translation Tools<br/>App: Tomoru<br/>Description: Live bilingual subtitles for streams, anime, games, and meetings, plus instant screen text translation — works offline on your Mac or in the cloud, with glossaries that keep character names right.<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
+    </item>
     <item>
       <title>Velinshot</title>
       <link>https://github.com/Jacknelson6/Velinshot</link>
@@ -714,21 +729,6 @@ Open Source: https://github.com/itsnajam/daily-wallpaper
 Commit: Add Daily Wallpaper (#4571)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Daily Wallpaper<br/>Description: Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper.<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
-    </item>
-    <item>
-      <title>Usagebar</title>
-      <link>https://bullfighterstudio.com/usagebar</link>
-      <guid isPermaLink="false">0052e397bd4802d46143b65e615a0377dc33ad38:Usagebar</guid>
-      <pubDate>Fri, 13 Nov 2026 09:33:00 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Usagebar
-Description: Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset.
-Website: https://bullfighterstudio.com/usagebar
-Open Source: https://github.com/betoxf/Usagebar
-Commit: Add Usagebar to AI Tools and Menu Bar Tools (#4528)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0052e397bd4802d46143b65e615a0377dc33ad38</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Usagebar<br/>Description: Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to AI Tools and Menu Bar Tools (#4528)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0052e397bd4802d46143b65e615a0377dc33ad38]]></content:encoded>
     </item>
   </channel>
 </rss>
