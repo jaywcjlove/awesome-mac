@@ -561,6 +561,7 @@ Awesome Mac
 
 * [AInnotator](https://github.com/porco-rs/ainnotator) - 截图标注工具，将编号标记、备注和涂黑区域合成一张无需额外说明的图片，可粘贴到 Claude Code、Codex 或 ChatGPT，SSH 远程场景同样支持。 [![Open-Source Software][OSS Icon]](https://github.com/porco-rs/ainnotator) ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。 [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
+* [Capturist](https://capturist.nodetools.org/) - 菜单栏截图、文本片段和剪贴板资料库，在本地识别截图中的文字并支持搜索，还提供本地 MCP 服务器，让 AI 应用找到你的截图。 ![Native App][Native Icon]
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
 * [Glint](https://github.com/brentc22/glint) - 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
