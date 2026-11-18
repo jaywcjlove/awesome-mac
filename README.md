@@ -1753,6 +1753,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [OpenIn](https://loshadki.app/openin4/) - Take control of installed apps on your Mac [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [PaletteBrain](https://palettebrain.com) - Access the power of ChatGPT across all your Mac applications with the press of a shortcut.
+* [Pati: The Break Cat](https://breakpet.app/#pati) - Break reminder where a cat walks onto your screen and lies on your keyboard when it's time to rest. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pati-the-break-cat/id6825963761?platform=mac) ![Native App][Native Icon]
 * [Pie Menu](https://www.pie-menu.com) – Control your tools with a radial menu customized for your active app.
 * [Perplexity](https://www.perplexity.ai/) - Search and discovery with AI.
 * [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
