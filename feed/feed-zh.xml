@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: DisplayLatch
+Description: 让外接显示器在睡眠和重启后保持连接，并提供 DDC 亮度调节、分辨率切换和无需拔线即可断开显示器的功能。
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: DisplayLatch<br/>Description: 让外接显示器在睡眠和重启后保持连接，并提供 DDC 亮度调节、分辨率切换和无需拔线即可断开显示器的功能。<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
     <item>
       <title>Inkstone (砚台)</title>
       <link>https://github.com/raistlinsha-plus/inkstone</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/Bouliw/takeline
 Commit: Add Takeline to Productivity (#4368)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Takeline<br/>Description: Textream 的分支版本，完全在 Mac 本地跟随你的法语和英语语音，支持重拍检测和语音命令。<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
-    </item>
-    <item>
-      <title>Roughcut</title>
-      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
-      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
-      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Roughcut
-Description: 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。
-Open Source: https://github.com/Bouliw/fcpxml-roughcut
-Commit: Add Roughcut to Audio and Video Tools (#4367)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Roughcut<br/>Description: 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
     </item>
   </channel>
 </rss>

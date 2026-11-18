@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: DisplayLatch
+Description: スリープや再起動の後も外部ディスプレイの接続を維持し、DDC による明るさ調整、解像度の切り替え、ケーブルを抜かずにディスプレイを切断する機能を備えたツール。
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: DisplayLatch<br/>Description: スリープや再起動の後も外部ディスプレイの接続を維持し、DDC による明るさ調整、解像度の切り替え、ケーブルを抜かずにディスプレイを切断する機能を備えたツール。<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
     <item>
       <title>Inkstone (砚台)</title>
       <link>https://github.com/raistlinsha-plus/inkstone</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/Bouliw/fcpxml-roughcut
 Commit: Add Roughcut to Audio and Video Tools (#4367)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Roughcut<br/>Description: トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
-    </item>
-    <item>
-      <title>Vigie</title>
-      <link>https://github.com/Bouliw/vigie</link>
-      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
-      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: Vigie
-Description: macOSの統合ログ、Windowsイベントログ、Linuxのauth.log（リアルタイムまたは収集済みファイル）にSigma検知ルールを適用し、MITRE ATT&amp;CKに対応付けたレポートを作成するオープンソースのブルーチーム向けツール。
-Open Source: https://github.com/Bouliw/vigie
-Commit: Add Vigie to Security Tools (#4362)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Vigie<br/>Description: macOSの統合ログ、Windowsイベントログ、Linuxのauth.log（リアルタイムまたは収集済みファイル）にSigma検知ルールを適用し、MITRE ATT&amp;CKに対応付けたレポートを作成するオープンソースのブルーチーム向けツール。<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
     </item>
   </channel>
 </rss>
