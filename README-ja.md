@@ -798,6 +798,7 @@ Awesome Mac
 
 * [AInnotator](https://github.com/porco-rs/ainnotator) - 番号付きのマーク、メモ、黒塗りを、それだけで内容が伝わる1枚の画像にまとめ、SSH経由でもClaude Code、Codex、ChatGPTに貼り付けられるスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/porco-rs/ainnotator) ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - Commandキーのダブルタップでキャプチャ、注釈、スクロールキャプチャ、美化、ピン留め、画像ホスティングへのアップロードに対応するネイティブなメニューバースクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
+* [Capturist](https://capturist.nodetools.org/) - メニューバーで動くスクリーンショット・テキスト・クリップボードのライブラリ。スクリーンショット内の文字をデバイス上で認識して検索でき、ローカル MCP サーバーで AI アプリからも参照できる。 ![Native App][Native Icon]
 * [CleanShot X](https://cleanshot.com/) - Macの画面をキャプチャする優れた方法を発見。
 * [CloudApp](https://www.getcloudapp.com/) - 視覚のスピードで仕事を。 ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropboxアプリは簡単なスクリーンショットのキャプチャと共有を提供。 ![Freeware][Freeware Icon]
