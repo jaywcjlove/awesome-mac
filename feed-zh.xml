@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:54:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinto Notes</title>
+      <link>https://pintonotes.com/</link>
+      <guid isPermaLink="false">373aea848d99b7d725ea12e7b3ea695904e09049:Pinto Notes</guid>
+      <pubDate>Wed, 18 Nov 2026 05:54:39 GMT</pubDate>
+      <category>阅读与写作工具 / 笔记</category>
+      <description>Category: 阅读与写作工具 / 笔记
+App: Pinto Notes
+Description: 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。
+Website: https://pintonotes.com/
+Open Source: https://github.com/pinto-notes/pinto-notes
+Commit: Rename Amber Notes to Pinto Notes (#3437)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Pinto Notes<br/>Description: 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。<br/>Website: https://pintonotes.com/<br/>Open Source: https://github.com/pinto-notes/pinto-notes<br/>Commit: Rename Amber Notes to Pinto Notes (#3437)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049]]></content:encoded>
+    </item>
     <item>
       <title>YANA</title>
       <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/Bouliw/vigie
 Commit: Add Vigie to Security Tools (#4362)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
       <content:encoded><![CDATA[Category: 安全工具<br/>App: Vigie<br/>Description: 开源蓝队工具，对 macOS 统一日志、Windows 事件日志和 Linux auth.log（实时或已收集的文件）运行 Sigma 检测规则，并生成映射到 MITRE ATT&amp;CK 的报告。<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
-    </item>
-    <item>
-      <title>Lafz Prompter</title>
-      <link>https://lafz.waqasrana.space/</link>
-      <guid isPermaLink="false">62903e7c64d46ef933229f89a8f3df057687398a:Lafz Prompter</guid>
-      <pubDate>Fri, 13 Nov 2026 20:22:33 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Lafz Prompter
-Description: 位于 MacBook 刘海下方的提词器，可在屏幕共享中隐藏，随你说话自动滚动，并以波斯体（Nastaliq）显示乌尔都语。
-Website: https://lafz.waqasrana.space/
-Open Source: https://github.com/ranawaqas-ai/lafz-prompter
-Commit: Add Lafz Prompter to Menu Bar Tools (#4576)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Lafz Prompter<br/>Description: 位于 MacBook 刘海下方的提词器，可在屏幕共享中隐藏，随你说话自动滚动，并以波斯体（Nastaliq）显示乌尔都语。<br/>Website: https://lafz.waqasrana.space/<br/>Open Source: https://github.com/ranawaqas-ai/lafz-prompter<br/>Commit: Add Lafz Prompter to Menu Bar Tools (#4576)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a]]></content:encoded>
     </item>
   </channel>
 </rss>

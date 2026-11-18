@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:54:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinto Notes</title>
+      <link>https://pintonotes.com/</link>
+      <guid isPermaLink="false">373aea848d99b7d725ea12e7b3ea695904e09049:Pinto Notes</guid>
+      <pubDate>Wed, 18 Nov 2026 05:54:39 GMT</pubDate>
+      <category>Reading and Writing Tools / Note-taking</category>
+      <description>Category: Reading and Writing Tools / Note-taking
+App: Pinto Notes
+Description: Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable.
+Website: https://pintonotes.com/
+Open Source: https://github.com/pinto-notes/pinto-notes
+Commit: Rename Amber Notes to Pinto Notes (#3437)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Pinto Notes<br/>Description: Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable.<br/>Website: https://pintonotes.com/<br/>Open Source: https://github.com/pinto-notes/pinto-notes<br/>Commit: Rename Amber Notes to Pinto Notes (#3437)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049]]></content:encoded>
+    </item>
     <item>
       <title>YANA</title>
       <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/nihal4/macsweep
 Commit: Add MacSweep (#4582)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f41c54108067e0308f5043145f7b2b63489f2f4</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacSweep<br/>Description: Free, open-source Mac cleaner written in Rust (~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted.<br/>Open Source: https://github.com/nihal4/macsweep<br/>Commit: Add MacSweep (#4582)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6f41c54108067e0308f5043145f7b2b63489f2f4]]></content:encoded>
-    </item>
-    <item>
-      <title>Takeline</title>
-      <link>https://github.com/Bouliw/takeline</link>
-      <guid isPermaLink="false">24819d74197eb50e8d77d149b1aa16e931183b22:Takeline</guid>
-      <pubDate>Sat, 14 Nov 2026 04:14:40 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Takeline
-Description: Fork of Textream that follows your voice in French and English entirely on the Mac, with retake detection and voice commands.
-Open Source: https://github.com/Bouliw/takeline
-Commit: Add Takeline to Productivity (#4368)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Takeline<br/>Description: Fork of Textream that follows your voice in French and English entirely on the Mac, with retake detection and voice commands.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
     </item>
   </channel>
 </rss>
