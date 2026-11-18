@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:33:28 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClaudeTTY</title>
+      <link>https://github.com/aqilc/ClaudeTTY</link>
+      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
+      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: ClaudeTTY
+Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.
+Open Source: https://github.com/aqilc/ClaudeTTY
+Commit: Add ClaudeTTY to Terminal Apps (#4698)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: ClaudeTTY<br/>Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
+    </item>
     <item>
       <title>Spool</title>
       <link>https://joedesigns.com/spool</link>
@@ -723,21 +737,6 @@ Open Source: https://www.libreoffice.org/about-us/source-code/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: LibreOffice<br/>Description: Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade.<br/>Website: https://www.libreoffice.org<br/>Open Source: https://www.libreoffice.org/about-us/source-code/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft Office</title>
-      <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Microsoft Office</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Microsoft Office
-Description: Inconfundivelmente Office, projetado para Mac.
-Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
-App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Microsoft Office<br/>Description: Inconfundivelmente Office, projetado para Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
