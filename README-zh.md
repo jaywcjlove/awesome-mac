@@ -1265,6 +1265,7 @@ Awesome Mac
 * [Tomoru](https://tomoru.acane.dev) - 为直播、生肉番剧、游戏和会议提供实时双语字幕与截屏文字翻译，支持按应用收音、专名词表防听错，可在 Mac 本地完全离线运行或使用云端。 [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - 开源菜单栏翻译工具，借助 Claude、ChatGPT 或 Grok 就地替换任意应用中选中的文本，并可套用你自己的写作风格。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
+* [Zipp](https://www.zipp-mac.com/?utm_source=awesome-mac) - 基于 Apple Vision 端侧识别的菜单栏屏幕翻译工具：⌃S 框选屏幕文字即可就地翻译为日语。![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 支持 100 多种语言文字与图片翻译的应用。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
