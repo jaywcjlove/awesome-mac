@@ -221,6 +221,7 @@ Awesome Mac
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
 * [Imark](https://github.com/migsilva89/imark) - 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
+* [Inkstone (砚台)](https://github.com/raistlinsha-plus/inkstone) - 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰). [![Open-Source Software][OSS Icon]](https://github.com/raistlinsha-plus/inkstone) ![Freeware][Freeware Icon]
 * [JustMD](https://justmd.nuta.life/) - 로컬 파일을 직접 편집하고 편집 중인 줄 밖의 문법 기호를 숨기는 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
 * [MacDown](https://macdown.uranusjr.com/) - 실시간 미리보기와 HTML/PDF 내보내기를 지원하는 macOS용 오픈 소스 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](http://marked2app.com/) - 작가들을 위한 우아하고 강력한 도구 세트를 갖춘 마크다운 미리보기.
@@ -243,7 +244,6 @@ Awesome Mac
 
 * [Affine](https://affine.pro/) - 전문가를 위한 차세대 협업 지식 베이스. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
 * [Agenda](https://agenda.com/) - 프로젝트 계획 및 문서화를 위한 날짜 중심 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/id1287445660?platform=mac)
-* [Amber Notes](https://ambernotes.app/) - ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - 로컬 우선의 노트 및 지식 관리 앱. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Notion의 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Bear Writer](http://www.bear-writer.com/) - 노트와 산문을 작성하기 위한 아름답고 유연한 쓰기 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?platform=mac)
@@ -276,6 +276,7 @@ Awesome Mac
 * [OATS](https://github.com/ariso-ai/oats) - 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 로컬 우선 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기.
+* [Pinto Notes](https://pintonotes.com/) - ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Revu](https://revu.cards/) - FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
@@ -589,9 +590,11 @@ Awesome Mac
 * [Alacritty](https://github.com/jwilm/alacritty) - GPU 가속을 지원하는 크로스 플랫폼 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 다중 제공자 프로필과 음성 입력을 지원하는 AI 네이티브 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
+* [ClaudeTTY](https://github.com/aqilc/ClaudeTTY) - 많은 Claude Code를 동시에 실행하기 위한 네이티브 macOS 터미널로, 앱을 종료해도 각 탭이 계속 실행됩니다. [![Open-Source Software][OSS Icon]](https://github.com/aqilc/ClaudeTTY) ![Freeware][Freeware Icon]
 * [Cue](https://cue.8starlabs.com) - Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [Cyberdog](https://pickywawa.github.io/cyberdog/) - 터미널과 서버 상태 대시보드를 내장하고 FTP, S3, WebDAV도 지원하는 SSH/SFTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/pickywawa/cyberdog) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 터미널, SSH, SFTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
+* [Escale](https://github.com/ATTILA-KRB/escale) - 탭, 터미널 옆 SFTP 브라우저, 터널, 다중 호스트 실행, 내장 X11 서버를 갖춘 네이티브 SSH 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/escale) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - libghostty 기반 터미널로, 각 코딩 에이전트가 작업 중인지, 대기 중인지, 완료했는지 보여줍니다. [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 빠른 GPU 가속 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - Ghostty 테마, 글꼴, UI 설정을 실시간으로 미리 보며 편집하는 에디터. [![Open-Source Software][OSS Icon]](https://github.com/reemus-dev/ghostty-designer) ![Freeware][Freeware Icon]
@@ -671,6 +674,7 @@ Awesome Mac
 * [Snappy](https://beqaabu.github.io/Snappy/) - 선택 영역 조정, 창 및 전체 화면 캡처, 주석, 블러, 텍스트 복사를 지원하는 Ubuntu 스타일 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/beqaabu/Snappy) ![Freeware][Freeware Icon]
 * [Snapzy](https://snapzy.app/) - 스크린샷, 화면 녹화, 주석, 동영상 편집을 지원하는 무료 오픈 소스 네이티브 macOS 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snipaste](https://www.snipaste.com) - 단순하지만 강력한 캡처 도구. ![Freeware][Freeware Icon]
+* [Velinshot](https://github.com/Jacknelson6/Velinshot) - 주석, 사용자 지정 프레임, 로컬 OCR을 지원하는 무료 네이티브 스크린샷 편집기이며 Apple 공증 전 미리보기 버전입니다. [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - macOS와 Windows를 지원하는 오픈 소스 스크린샷 도구로, 화살표, 번호 콜아웃, 가려진 픽셀을 사용하지 않는 블러를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
 
@@ -783,6 +787,7 @@ Awesome Mac
 * [o8](https://o8.run) - 코딩 에이전트의 작업을 리뷰하고, 통과할 때까지 되돌려 보낸 뒤 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code와 Codex가 만들어 준 대시보드, 보고서, 사이트, PR, 파일을 로컬에 모아 두고 몇 글자 입력하거나 한마디 말하면 다시 열어 주는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seshka](https://seshka.dev) - 종료된 Claude Code 세션이 남겨 둔 개발 서버, 워처, 브라우저를 찾아 종료하는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 빠른 질문을 위한 네이티브 macOS 메뉴 막대 AI 도우미. 먼저 질문을 기록한 뒤 직접 설정한 AI 서비스로 답을 받거나, 다른 AI·앱·터미널 명령으로 보낼 수 있습니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [SummonOS](https://sumonos.rohi-lab.org/) - MCP를 통해 코딩 에이전트에 Mac의 실시간 상태를 제공하고, 지원되는 설정을 바꾸기 전에 스냅숏을 저장해 되돌릴 수 있게 하는 메뉴 막대 앱 및 CLI. [![Open-Source Software][OSS Icon]](https://github.com/RohiRIK/SummonOS) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MiniClaw](https://miniclaw.bot) - 메모리와 자동화 기능을 갖춘 로컬 우선 개인 AI 에이전트. ![Freeware][Freeware Icon]
@@ -792,6 +797,7 @@ Awesome Mac
 * [Octuo](https://www.tutuo.ai/en/octuo/) - AI, 도구, 전문 서비스를 아우르는 개인 비서. 연결하고 승인한 도구와 계정을 조율하며, 목표를 중심으로 진행 상황을 추적하고 결과를 모아 줌.
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 비공개 로컬 우선 AI 도구. 로컬 LLM 채팅, 이미지 생성, 음성 받아쓰기, 메모리 검색을 모두 기기 내에서 실행. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
+* [Papilot](https://papilot.ai) - 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 로컬 우선 AI 라이프 OS. 생활 영역별로 원하는 모델을 실행하며 데이터는 Mac의 일반 Markdown 볼트에 저장. 서명 및 공증 완료. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - Claude Code, Codex, Cursor, Copilot 등 70개 이상의 AI 코딩 서비스의 남은 사용량을 화면 가장자리에 고정된 링으로 표시하는 네이티브 앱. [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - Apple 실리콘에서 GGUF 및 MLX 모델을 실행하는 로컬 모델 서버. OpenAI 및 Anthropic 호환 API로 Claude Code, Codex 등 도구와 연결. [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -862,6 +868,7 @@ Awesome Mac
 * [Foxmail](http://www.foxmail.com/) - 빠른 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Mailspring](https://getmailspring.com/) - 아름답고 빠른 오픈 소스 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
+* [Spool](https://joedesigns.com/spool) - 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
 
 ### 파일 공유
@@ -1002,6 +1009,7 @@ Awesome Mac
 * [OpenQuack](https://github.com/larryxiao/openquack) - 프라이버시 중심 음성 받아쓰기 도구로, 단축키로 말하면 WhisperKit이 로컬에서 전사해 커서 위치에 입력합니다. [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 다듬어진 텍스트를 어떤 앱에든 입력할 수 있는 오픈 소스 AI 음성 입력 도구. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [ParrotFlow](https://parrotflow.io/) - 자신만의 규칙, 스크립트, 어휘로 프로그래밍할 수 있는 로컬 음성 받아쓰기 앱. [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
+* [Point](https://point-site-opal.vercel.app) - 말하면서 화면 일부에 동그라미를 그리면 받아쓴 텍스트와 표시된 스크린샷을 Claude Code, Cursor 또는 모든 채팅 앱으로 보내 주는 오픈 소스 푸시 투 토크 음성 받아쓰기 앱. 음성 인식은 온디바이스. [![Open-Source Software][OSS Icon]](https://github.com/sksareen/point) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - Parakeet TDT v3(CoreML/ANE)를 사용하여 로컬에서 작동하는 Apple Silicon Mac용 네이티브 푸시 투 토크(Push-to-Talk) 음성 받아쓰기 앱. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Purr](https://purr.arunbrahma.com) - Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원. [![Open-Source Software][OSS Icon]](https://github.com/iamarunbrahma/purr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tamka](https://www.piedol.top/tamka/) - Neural Engine에서 NVIDIA Parakeet 모델을 실행해 모든 앱의 커서 위치에 입력하는 오픈 소스 온디바이스 받아쓰기 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1010,6 +1018,7 @@ Awesome Mac
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - 로컬/클라우드 ASR, OCR, 기록, 코딩 에이전트 워크플로를 지원하는 오픈 소스 음성 입력 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - 누르고 말한 뒤 놓으면 바로 붙여넣는 음성 입력·번역 도구로, 앱과 URL별로 AI 전사 규칙을 다르게 설정할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [Wavo](https://github.com/vladkens/wavo-app) - Mac을 느려지게 하지 않는 받아쓰기 도구로, Neural Engine에서 실행되고 음성을 클라우드로 보내지 않으며, 말한 내용을 지금 입력 중인 곳 어디에든 입력합니다. [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WhisPaste](https://whispaste.de/en/) - macOS, Windows, Linux용 푸시투톡 받아쓰기 도구로, Whisper 또는 Parakeet로 기기에서 전사하고 어떤 앱이든 커서 위치에 텍스트를 붙여 넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/whispaste/whispaste) ![Freeware][Freeware Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 오디오, 동영상, YouTube, 회의를 로컬에서 전사하고 다른 앱에 받아쓰기도 할 수 있는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
 
@@ -1036,6 +1045,7 @@ Awesome Mac
 * [Live Translator](https://github.com/umutcetinkaya/live-translator) - OpenAI 또는 Gemini를 사용해 시스템 오디오를 화면에서 실시간 번역하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [MoePeek](https://github.com/cosZone/MoePeek) - 선택 텍스트, OCR, 클립보드, 수동 입력을 지원하는 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - AI 모델 기반 번역 앱과 브라우저 확장. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
+* [Tomoru](https://tomoru.acane.dev) - 방송, 애니메이션, 게임, 회의를 위한 실시간 이중 언어 자막 및 화면 텍스트 번역 도구로, 고유명사를 지키는 용어집과 Mac 온디바이스 오프라인 및 클라우드 실행을 지원. [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Claude, ChatGPT 또는 Grok으로 모든 앱에서 선택한 텍스트를 나만의 문체로 번역해 바로 바꿔 주는 오픈소스 메뉴 막대 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 100개 이상의 언어로 텍스트와 이미지를 번역하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 화면 영역 캡처 또는 텍스트 선택으로 즉시 번역하는 온디바이스 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
@@ -1163,6 +1173,7 @@ Awesome Mac
 * [Blink](https://github.com/megootronic/Blink) - 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Daily Wallpaper](https://itsnajam.github.io/daily-wallpaper/) - Bing 오늘의 사진을 바탕 화면과 잠금 화면 배경으로 설정하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/itsnajam/daily-wallpaper) ![Freeware][Freeware Icon]
 * [Dimble](https://dimble.fif7y.com) - macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [DisplayLatch](https://hitesh-sisara.github.io/DisplayLatch/) - 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Hitesh-Sisara/DisplayLatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
 * [HeyMate](https://getheymate.vercel.app) - 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1190,6 +1201,7 @@ Awesome Mac
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - 파일을 드래그하는 중 키를 누르고 휠에 놓으면 비디오, 오디오, 이미지, PDF를 변환할 수 있는 메뉴 바 파일 변환기. [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 실시간 업로드·다운로드 속도와 대역폭 사용 앱을 보여주는 네이티브 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - 인터넷이 실제로 응답하는지 보여 주고 지연 시간, 지터, 패킷 손실, 속도 테스트도 제공하는 오픈 소스 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - 시스템 지표, 미디어 제어, 빠른 메모, 화면 녹화, 작업 프로필을 갖춘 MacBook 노치 중심의 컨트롤 센터. [![Open-Source Software][OSS Icon]](https://github.com/systemAdmin-ai/NotchDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AI 코딩 에이전트 알림을 지원하는 macOS용 경량 Dynamic Island입니다. [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - 알림 배너의 위치와 모양을 바꾸고 알림 센터 패널을 사용자 지정 패널로 대체할 수 있는 앱. [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NØTH](https://github.com/manugowda19/noth) - MacBook 노치를 음악, 파일, 클립보드, 캘린더, 메모, 도구를 위한 라이브 활동과 커맨드 센터로 바꿔 줍니다. [![Open-Source Software][OSS Icon]](https://github.com/manugowda19/noth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1221,6 +1233,7 @@ Awesome Mac
 * [Vortex](https://vortex-notch.web.app) - 집중 타이머, 클립보드 기록, 새 빌드를 자동으로 받아 두는 파일 선반, OCR로 화면에서 바로 만드는 할 일, Claude Code가 값을 보지 않고 쓰는 키를 한곳에 모은 MacBook 노치 앱. [![Open-Source Software][OSS Icon]](https://github.com/OrtexIsArtem/vortex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 블러, 색조, 그림자, 텍스처, 프리셋 및 Space별 설정으로 메뉴 막대 배경을 사용자화합니다. [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다. [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
+* [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다. [![Open-Source Software][OSS Icon]](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 기계식 키보드 같은 타건음을 재생해 주는 키보드 사운드 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
 ### 정리 및 제거

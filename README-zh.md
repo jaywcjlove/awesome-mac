@@ -453,9 +453,11 @@ Awesome Mac
 * [arowser](https://github.com/HankMonster/arowser) - 面向 agent 可编程的 macOS 无边框网页窗口，由为编码 agent 设计的 CLI 驱动。 [![Open-Source Software][OSS Icon]](https://github.com/HankMonster/arowser) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 支持多提供商配置和语音输入的 AI 原生终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 用于并行运行和管理编码 agent 的原生 macOS 终端。 [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
+* [ClaudeTTY](https://github.com/aqilc/ClaudeTTY) - 用于同时运行大量 Claude Code 的原生 macOS 终端，应用退出后每个标签页仍会继续运行。 [![Open-Source Software][OSS Icon]](https://github.com/aqilc/ClaudeTTY) ![Freeware][Freeware Icon]
 * [Cue](https://cue.8starlabs.com) - 为 Apple Terminal 和 VS Code 集成终端中的 Zsh 提供类似 IDE 的命令、选项、Git 分支和文件补全。 [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [Cyberdog](https://pickywawa.github.io/cyberdog/) - SSH 与 SFTP 客户端，内置终端和服务器健康仪表盘，并支持 FTP、S3 和 WebDAV。 [![Open-Source Software][OSS Icon]](https://github.com/pickywawa/cyberdog) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 终端、SSH 和 SFTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
+* [Escale](https://github.com/ATTILA-KRB/escale) - 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/escale) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - 基于 libghostty 构建的终端，显示每个编码 agent 正在工作、等待还是已完成。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 快速的 GPU 加速终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - 可实时预览的 Ghostty 主题、字体和界面设置编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/reemus-dev/ghostty-designer) ![Freeware][Freeware Icon]
@@ -579,6 +581,7 @@ Awesome Mac
 * [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品。![Freeware][Freeware Icon]
 * [Snipaste](https://zh.snipaste.com/) - 一个简单但强大的截图工具。![Freeware][Freeware Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id1199502670?platform=mac)
+* [Velinshot](https://github.com/Jacknelson6/Velinshot) - 支持标注、自定义边框和本地 OCR 的免费原生截图编辑器（尚未经 Apple 公证的预览版）。 [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - 开源的截图工具，支持 macOS 和 Windows，提供箭头、编号标注，以及不读取被遮挡像素的模糊。 [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
@@ -734,11 +737,13 @@ Awesome Mac
 * [Octuo](https://www.tutuo.ai/en/octuo/) - 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
+* [Papilot](https://papilot.ai) - 开源桌面应用，支持直接在排好版的 PDF 上画框批注，由 Claude Code、Codex、Cursor 等编程智能体在独立 Git 工作树中改稿，并以渲染后的排版级前后对比审阅合并。 [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - 原生应用，以停靠在屏幕边缘的圆环显示 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务的剩余额度。 [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - 在 Apple 芯片上运行 GGUF 与 MLX 模型的本地模型服务器，提供 OpenAI 和 Anthropic 兼容 API，可连接 Claude Code、Codex 等工具。 [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quarters](https://quarters.amithgc.com) - 开源的终端编程代理工作区，可在多个项目中同时运行 Claude Code、Codex、Gemini CLI、Aider 等代理，支持一键切换项目、启动开发服务器，并可从手机远程接入。 [![Open-Source Software][OSS Icon]](https://github.com/amithgc/quarters) ![Freeware][Freeware Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - 开源工具，在本机收录 Claude Code 和 Codex 交付过的看板、报告、网站、PR 和文件，打几个字或说一句话就能重新打开。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seshka](https://seshka.dev) - 开源菜单栏应用，找出已关闭的 Claude Code 会话遗留的开发服务器、监听进程和浏览器，并将其结束。 [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - 原生 macOS 菜单栏 AI 提问工具：先记录问题，再使用自己配置的 AI 服务获得回答，或将问题发送给其他 AI、应用或终端命令。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [SummonOS](https://sumonos.rohi-lab.org/) - 菜单栏应用和命令行工具，通过 MCP 为编程智能体提供 Mac 实时状态，并在修改受支持的系统设置前保存快照，以便撤销。 [![Open-Source Software][OSS Icon]](https://github.com/RohiRIK/SummonOS) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Witsy](https://jan.ai/) - 桌面 AI 助手 / 通用 MCP 客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
@@ -804,6 +809,7 @@ Awesome Mac
 * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
 * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持 Mac 和 iPhone。![Freeware][Freeware Icon]
+* [Spool](https://joedesigns.com/spool) - 键盘驱动的邮件客户端，使用 Rust 基于 Zed 的 GPU 界面框架 gpui 编写。 [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的 Email 客户端程序。![Freeware][Freeware Icon]
 
 ### 文件共享
@@ -848,11 +854,13 @@ Awesome Mac
 * [OpenQuack](https://github.com/larryxiao/openquack) - 注重隐私的语音听写工具，使用热键说话后由 WhisperKit 本地转写并将文本插入光标位置。 [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) - 开源 AI 语音输入工具，可将润色后的文本输入到任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [ParrotFlow](https://parrotflow.io/) - 可用你的规则、脚本和词汇编程的本地语音听写应用。 [![Open-Source Software][OSS Icon]](https://github.com/znat/parrotflow) ![Freeware][Freeware Icon]
+* [Point](https://point-site-opal.vercel.app) - 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。 [![Open-Source Software][OSS Icon]](https://github.com/sksareen/point) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Presspeech](https://github.com/rcourtman/presspeech) - 基于 Parakeet TDT v3（CoreML/ANE）的 Apple Silicon Mac 本地极速全局热键语音输入工具。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
 * [Purr](https://purr.arunbrahma.com) - 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。 [![Open-Source Software][OSS Icon]](https://github.com/iamarunbrahma/purr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tamka](https://www.piedol.top/tamka/) - 开源的本地语音听写工具，在神经网络引擎上运行 NVIDIA Parakeet 模型，并在任意应用的光标处输入文字。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - 支持全局热键的本地 Whisper 语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [Wavo](https://github.com/vladkens/wavo-app) - 不拖慢 Mac 的语音听写工具：在神经网络引擎上运行，语音不上传云端，并把你说的话输入到你正在打字的任何地方。 [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WhisPaste](https://whispaste.de/en/) - 适用于 macOS、Windows 和 Linux 的按键说话听写工具，使用 Whisper 或 Parakeet 在本地转写，并把文字粘贴到任意应用的光标处。 [![Open-Source Software][OSS Icon]](https://github.com/whispaste/whispaste) ![Freeware][Freeware Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 开源本地转写工具，支持音频、视频、YouTube 和会议，并可在任意应用中听写输入。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Ardour](http://ardour.org/) - 录制，编辑和混合多轨音频。[![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - 免费开源的编辑音频的软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
@@ -1013,6 +1021,7 @@ Awesome Mac
 * [EME](https://github.com/egoist/eme) - 一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 * [iA Writer](https://ia.net/writer/) - Markdown 文本预览编辑，注重语法检查，专门为作家提供的编辑器。
 * [Imark](https://github.com/migsilva89/imark) - 开源 Markdown 阅读器，将批注以 HTML 注释的形式直接保存在文档中。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
+* [Inkstone (砚台)](https://github.com/raistlinsha-plus/inkstone) - 开源 Markdown 工作台，可将选定笔记整理为 Wiki，并在 AI 回答中引用原文段落（提供 Apple Silicon 源码预览）。 [![Open-Source Software][OSS Icon]](https://github.com/raistlinsha-plus/inkstone) ![Freeware][Freeware Icon]
 * [Joplin](https://joplinapp.org/) - 跨平台开源记事本，支持 Markdown 和待办事项管理。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [JustMD](https://justmd.nuta.life/) - 开源 Markdown 编辑器，直接编辑本地文件，并隐藏当前编辑行之外的语法标记。 [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
 * [MacDown](https://macdown.uranusjr.com/) - macOS 开源 Markdown 编辑器，支持实时预览以及导出为 HTML 或 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
@@ -1037,7 +1046,6 @@ Awesome Mac
 ### 笔记
 
 * [AliYuQue](https://www.yuque.com/install/desktop) - 一款基于云的知识管理与协作平台，支持Markdown写作、流程图、代码渲染等功能，由阿里巴巴蚂蚁金服开发。 ![Freeware][Freeware Icon]
-* [Amber Notes](https://ambernotes.app/) - 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。 [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anytype](https://anytype.io/) - 本地优先的笔记与知识管理应用。 ![Freeware][Freeware Icon]
 * [EdgeEver](https://edgeever.org/) - 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。 [![Open-Source Software][OSS Icon]](https://github.com/tianma-if/edgeever) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
@@ -1060,6 +1068,7 @@ Awesome Mac
 * [Notion](https://www.notion.so/zh-cn) - 富文本云笔记管理软件，支持多平台客户端。![Freeware][Freeware Icon]
 * [OATS](https://github.com/ariso-ai/oats) - 开源本地优先会议笔记应用，支持实时转写、说话人标签、AI 摘要和完全离线的端侧模式。 [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - 微软笔记应用。 ![Freeware][Freeware Icon]
+* [Pinto Notes](https://pintonotes.com/) - 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。 [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [Revu](https://revu.cards/) - 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Stik](https://github.com/0xMassi/stik_app) - 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
@@ -1255,6 +1264,7 @@ Awesome Mac
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - 基于 AI 模型的翻译应用和浏览器扩展。 [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 屏幕任意区域截取或选择文本即时翻译，完全在设备上运行。 [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [SwaprTrans](https://linrol.github.io/swapr-trans/) - 极轻量（<2MB）的原生菜单栏工具，支持敲空格查词与敲回车原地覆写翻译，基于 macOS 端侧模型离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/linrol/swapr-trans) ![Freeware][Freeware Icon]
+* [Tomoru](https://tomoru.acane.dev) - 为直播、生肉番剧、游戏和会议提供实时双语字幕与截屏文字翻译，支持按应用收音、专名词表防听错，可在 Mac 本地完全离线运行或使用云端。 [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - 开源菜单栏翻译工具，借助 Claude、ChatGPT 或 Grok 就地替换任意应用中选中的文本，并可套用你自己的写作风格。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 支持 100 多种语言文字与图片翻译的应用。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
@@ -1536,8 +1546,10 @@ Awesome Mac
 * [Daily Wallpaper](https://itsnajam.github.io/daily-wallpaper/) - 将必应每日图片设为桌面和锁屏壁纸的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/itsnajam/daily-wallpaper) ![Freeware][Freeware Icon]
 * [DayBar](https://wangchujiang.com/daybar/) - 菜单栏本地日历(农历)和提醒事件应用。 [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Dimble](https://dimble.fif7y.com) - 为 macOS 27 全新菜单栏打造的菜单栏管理工具，隐藏不需要的图标，需要时再显示。 [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [DisplayLatch](https://hitesh-sisara.github.io/DisplayLatch/) - 让外接显示器在睡眠和重启后保持连接，并提供 DDC 亮度调节、分辨率切换和无需拔线即可断开显示器的功能。 [![Open-Source Software][OSS Icon]](https://github.com/Hitesh-Sisara/DisplayLatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。
 * [DynamicHorizon](https://dynamichorizon.app) - 为刘海区域加入媒体控制、通知和系统状态。
+* [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - 以 MacBook 刘海为中心的控制中心，包含系统指标、媒体控制、快速笔记、屏幕录制和任务配置。 [![Open-Source Software][OSS Icon]](https://github.com/systemAdmin-ai/NotchDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - 适用于 macOS 的轻量级 Dynamic Island，支持 AI 编码代理通知。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NØTH](https://github.com/manugowda19/noth) - 将 MacBook 刘海变成实时活动和控制中心，集成音乐、文件、剪贴板、日历、笔记和工具。 [![Open-Source Software][OSS Icon]](https://github.com/manugowda19/noth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NVBeacon](https://jaein4722.github.io/NVBeacon/) - 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaein4722/NVBeacon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1607,6 +1619,7 @@ Awesome Mac
 * [Vortex](https://vortex-notch.web.app) - MacBook 刘海应用，集专注计时器、剪贴板历史、自动接收新构建的文件暂存架、带 OCR 的屏幕截取任务，以及 Claude Code 能用却看不到的密钥于一体。 [![Open-Source Software][OSS Icon]](https://github.com/OrtexIsArtem/vortex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
+* [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - 将 MacBook 刘海变成灵动岛，提供媒体控制、音量和亮度提示、通知、信息、iPhone 通话、日历、天气、计时器和文件暂存架。 [![Open-Source Software][OSS Icon]](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 待办事项工具
 

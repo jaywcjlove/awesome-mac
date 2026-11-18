@@ -5,9 +5,213 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:22:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Papilot</title>
+      <link>https://papilot.ai</link>
+      <guid isPermaLink="false">b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64:Papilot</guid>
+      <pubDate>Wed, 18 Nov 2026 11:22:25 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Papilot
+Description: コンパイル済みの PDF に直接注釈を付け、Claude Code、Codex、Cursor などのコーディングエージェントを分離された Git ワークツリーで実行し、組版済みの前後差分でレビューしてマージできるオープンソースのデスクトップアプリ。
+Website: https://papilot.ai
+Open Source: https://github.com/PapilotAI/papilot
+Commit: Add Papilot to AI Tools (#4737)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Papilot<br/>Description: コンパイル済みの PDF に直接注釈を付け、Claude Code、Codex、Cursor などのコーディングエージェントを分離された Git ワークツリーで実行し、組版済みの前後差分でレビューしてマージできるオープンソースのデスクトップアプリ。<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
+    </item>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: DisplayLatch
+Description: スリープや再起動の後も外部ディスプレイの接続を維持し、DDC による明るさ調整、解像度の切り替え、ケーブルを抜かずにディスプレイを切断する機能を備えたツール。
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: DisplayLatch<br/>Description: スリープや再起動の後も外部ディスプレイの接続を維持し、DDC による明るさ調整、解像度の切り替え、ケーブルを抜かずにディスプレイを切断する機能を備えたツール。<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
+    <item>
+      <title>Inkstone (砚台)</title>
+      <link>https://github.com/raistlinsha-plus/inkstone</link>
+      <guid isPermaLink="false">a6394b21790b39e22cdaa9139b6682e25b020ff5:Inkstone (砚台)</guid>
+      <pubDate>Wed, 18 Nov 2026 07:08:31 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Inkstone (砚台)
+Description: 選択したノートからWikiを作成し、AIの回答から原文を参照できるオープンソースのMarkdownワークスペース（Apple Silicon向けのソースプレビュー）。
+Open Source: https://github.com/raistlinsha-plus/inkstone
+Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Inkstone (砚台)<br/>Description: 選択したノートからWikiを作成し、AIの回答から原文を参照できるオープンソースのMarkdownワークスペース（Apple Silicon向けのソースプレビュー）。<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
+    </item>
+    <item>
+      <title>Pinto Notes</title>
+      <link>https://pintonotes.com/</link>
+      <guid isPermaLink="false">373aea848d99b7d725ea12e7b3ea695904e09049:Pinto Notes</guid>
+      <pubDate>Wed, 18 Nov 2026 05:54:39 GMT</pubDate>
+      <category>読み書きツール / メモ・ノート</category>
+      <description>Category: 読み書きツール / メモ・ノート
+App: Pinto Notes
+Description: ChatGPTやClaudeなどのAIアシスタントがMCP経由で検索・編集でき、AIによる変更をハイライト表示して元に戻せるオープンソースのメモアプリ。
+Website: https://pintonotes.com/
+Open Source: https://github.com/pinto-notes/pinto-notes
+Commit: Rename Amber Notes to Pinto Notes (#3437)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / メモ・ノート<br/>App: Pinto Notes<br/>Description: ChatGPTやClaudeなどのAIアシスタントがMCP経由で検索・編集でき、AIによる変更をハイライト表示して元に戻せるオープンソースのメモアプリ。<br/>Website: https://pintonotes.com/<br/>Open Source: https://github.com/pinto-notes/pinto-notes<br/>Commit: Rename Amber Notes to Pinto Notes (#3437)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049]]></content:encoded>
+    </item>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: YANA
+Description: MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: YANA<br/>Description: MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
+    <item>
+      <title>NotchDeck</title>
+      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
+      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
+      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: NotchDeck
+Description: システム指標、メディア操作、クイックメモ、画面収録、タスクプロファイルを備えた、MacBookのノッチを中心としたコントロールセンター。
+Open Source: https://github.com/systemAdmin-ai/NotchDeck
+Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NotchDeck<br/>Description: システム指標、メディア操作、クイックメモ、画面収録、タスクプロファイルを備えた、MacBookのノッチを中心としたコントロールセンター。<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
+    </item>
+    <item>
+      <title>WhisPaste</title>
+      <link>https://whispaste.de/en/</link>
+      <guid isPermaLink="false">7a4d9cdc93dc7125871f678237e16606a9d30b12:WhisPaste</guid>
+      <pubDate>Wed, 18 Nov 2026 02:21:39 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: WhisPaste
+Description: macOS、Windows、Linux 向けのプッシュトゥトーク音声入力ツール。Whisper または Parakeet でローカルに文字起こしし、任意のアプリのカーソル位置に貼り付けます。
+Website: https://whispaste.de/en/
+Open Source: https://github.com/whispaste/whispaste
+Commit: Add WhisPaste to Voice-to-Text (#4704)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: WhisPaste<br/>Description: macOS、Windows、Linux 向けのプッシュトゥトーク音声入力ツール。Whisper または Parakeet でローカルに文字起こしし、任意のアプリのカーソル位置に貼り付けます。<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
+    </item>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>音声テキスト変換</category>
+      <description>Category: 音声テキスト変換
+App: Point
+Description: 話しながら画面の一部を丸で囲むと、音声の文字起こしと注釈付きスクリーンショットを Claude Code、Cursor、任意のチャットに送れるオープンソースのプッシュ・トゥ・トーク音声入力アプリ。音声認識はオンデバイス。
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Point<br/>Description: 話しながら画面の一部を丸で囲むと、音声の文字起こしと注釈付きスクリーンショットを Claude Code、Cursor、任意のチャットに送れるオープンソースのプッシュ・トゥ・トーク音声入力アプリ。音声認識はオンデバイス。<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomoru</title>
+      <link>https://tomoru.acane.dev</link>
+      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
+      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
+      <category>翻訳ツール</category>
+      <description>Category: 翻訳ツール
+App: Tomoru
+Description: 配信・アニメ・ゲーム・会議向けのリアルタイム二言語字幕＆画面内テキスト翻訳。固有名詞を守る用語集を備え、Mac 上での完全オフライン動作にもクラウドにも対応。
+Website: https://tomoru.acane.dev
+Open Source: https://github.com/ACAne0320/Tomoru
+Commit: Add Tomoru to Translation Tools (#4701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
+      <content:encoded><![CDATA[Category: 翻訳ツール<br/>App: Tomoru<br/>Description: 配信・アニメ・ゲーム・会議向けのリアルタイム二言語字幕＆画面内テキスト翻訳。固有名詞を守る用語集を備え、Mac 上での完全オフライン動作にもクラウドにも対応。<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
+    </item>
+    <item>
+      <title>Velinshot</title>
+      <link>https://github.com/Jacknelson6/Velinshot</link>
+      <guid isPermaLink="false">31dfe7eb39ea2b370c95db9f4b38aeb443ee1868:Velinshot</guid>
+      <pubDate>Wed, 18 Nov 2026 01:42:00 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Velinshot
+Description: 注釈、カスタムフレーム、ローカルOCRに対応した無料のネイティブスクリーンショットエディター（Apple未公証のプレビュー版）。
+Open Source: https://github.com/Jacknelson6/Velinshot
+Commit: Add Velinshot to screenshot tools (#4700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Velinshot<br/>Description: 注釈、カスタムフレーム、ローカルOCRに対応した無料のネイティブスクリーンショットエディター（Apple未公証のプレビュー版）。<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
+    </item>
+    <item>
+      <title>ClaudeTTY</title>
+      <link>https://github.com/aqilc/ClaudeTTY</link>
+      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
+      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: ClaudeTTY
+Description: アプリを終了しても各タブが動き続ける、大量の Claude Code を同時に実行するためのネイティブ macOS ターミナル。
+Open Source: https://github.com/aqilc/ClaudeTTY
+Commit: Add ClaudeTTY to Terminal Apps (#4698)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: ClaudeTTY<br/>Description: アプリを終了しても各タブが動き続ける、大量の Claude Code を同時に実行するためのネイティブ macOS ターミナル。<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
+    </item>
+    <item>
+      <title>Seshka</title>
+      <link>https://seshka.dev</link>
+      <guid isPermaLink="false">22d4c98159519a40ed45885e40b0c4a55f0c34fd:Seshka</guid>
+      <pubDate>Wed, 18 Nov 2026 00:52:26 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Seshka
+Description: 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。
+Website: https://seshka.dev
+Open Source: https://github.com/jigjoy-ai/seshka
+Commit: Add Seshka to AI Tools (#4719)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Seshka<br/>Description: 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。<br/>Website: https://seshka.dev<br/>Open Source: https://github.com/jigjoy-ai/seshka<br/>Commit: Add Seshka to AI Tools (#4719)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd]]></content:encoded>
+    </item>
+    <item>
+      <title>Spool</title>
+      <link>https://joedesigns.com/spool</link>
+      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
+      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
+      <category>コミュニケーション / メールクライアント</category>
+      <description>Category: コミュニケーション / メールクライアント
+App: Spool
+Description: キーボード操作中心のメールクライアント。Zed と同じ GPU UI フレームワーク gpui を使い Rust で書かれています。
+Website: https://joedesigns.com/spool
+Open Source: https://github.com/wes/spool
+Commit: Add Spool to Email Clients (#4695)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
+      <content:encoded><![CDATA[Category: コミュニケーション / メールクライアント<br/>App: Spool<br/>Description: キーボード操作中心のメールクライアント。Zed と同じ GPU UI フレームワーク gpui を使い Rust で書かれています。<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
+    </item>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Escale
+Description: タブ、ターミナルの隣のSFTPブラウザ、トンネル、複数ホスト同時実行、内蔵X11サーバーを備えたネイティブSSHクライアント。
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Escale<br/>Description: タブ、ターミナルの隣のSFTPブラウザ、トンネル、複数ホスト同時実行、内蔵X11サーバーを備えたネイティブSSHクライアント。<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
     <item>
       <title>EdgeEver</title>
       <link>https://edgeever.org/</link>
@@ -528,210 +732,6 @@ Open Source: https://github.com/Bouliw/takeline
 Commit: Add Takeline to Productivity (#4368)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Takeline<br/>Description: Textreamのフォーク版。フランス語と英語の声をMac上だけで追従し、撮り直しの検出と音声コマンドに対応。<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
-    </item>
-    <item>
-      <title>Roughcut</title>
-      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
-      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
-      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Roughcut
-Description: トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。
-Open Source: https://github.com/Bouliw/fcpxml-roughcut
-Commit: Add Roughcut to Audio and Video Tools (#4367)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Roughcut<br/>Description: トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
-    </item>
-    <item>
-      <title>Vigie</title>
-      <link>https://github.com/Bouliw/vigie</link>
-      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
-      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
-      <category>セキュリティツール</category>
-      <description>Category: セキュリティツール
-App: Vigie
-Description: macOSの統合ログ、Windowsイベントログ、Linuxのauth.log（リアルタイムまたは収集済みファイル）にSigma検知ルールを適用し、MITRE ATT&amp;CKに対応付けたレポートを作成するオープンソースのブルーチーム向けツール。
-Open Source: https://github.com/Bouliw/vigie
-Commit: Add Vigie to Security Tools (#4362)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
-      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: Vigie<br/>Description: macOSの統合ログ、Windowsイベントログ、Linuxのauth.log（リアルタイムまたは収集済みファイル）にSigma検知ルールを適用し、MITRE ATT&amp;CKに対応付けたレポートを作成するオープンソースのブルーチーム向けツール。<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
-    </item>
-    <item>
-      <title>Lafz Prompter</title>
-      <link>https://lafz.waqasrana.space/</link>
-      <guid isPermaLink="false">62903e7c64d46ef933229f89a8f3df057687398a:Lafz Prompter</guid>
-      <pubDate>Fri, 13 Nov 2026 20:22:33 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Lafz Prompter
-Description: MacBook のノッチ下に表示されるプロンプター。画面共有から隠すことができ、話すのに合わせてスクロールし、ウルドゥー語をナスタアリーク体で表示します。
-Website: https://lafz.waqasrana.space/
-Open Source: https://github.com/ranawaqas-ai/lafz-prompter
-Commit: Add Lafz Prompter to Menu Bar Tools (#4576)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Lafz Prompter<br/>Description: MacBook のノッチ下に表示されるプロンプター。画面共有から隠すことができ、話すのに合わせてスクロールし、ウルドゥー語をナスタアリーク体で表示します。<br/>Website: https://lafz.waqasrana.space/<br/>Open Source: https://github.com/ranawaqas-ai/lafz-prompter<br/>Commit: Add Lafz Prompter to Menu Bar Tools (#4576)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62903e7c64d46ef933229f89a8f3df057687398a]]></content:encoded>
-    </item>
-    <item>
-      <title>MagicInput</title>
-      <link>https://bullfighterstudio.com/magicinput</link>
-      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
-      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: MagicInput
-Description: 画面の端からポインタを移動するだけで、MacとWindows PCの間で1組のキーボードとマウスを共有するツール。クリップボード同期とファイル転送にも対応。
-Website: https://bullfighterstudio.com/magicinput
-Commit: Add MagicInput (#4574)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: MagicInput<br/>Description: 画面の端からポインタを移動するだけで、MacとWindows PCの間で1組のキーボードとマウスを共有するツール。クリップボード同期とファイル転送にも対応。<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
-    </item>
-    <item>
-      <title>Usagebar</title>
-      <link>https://bullfighterstudio.com/usagebar</link>
-      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
-      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Usagebar
-Description: Claude Code、Codex、Cursor、Kimi Code、z.ai、DeepSeekの使用量の上限とリセット時刻をメニューバーに表示するツール。
-Website: https://bullfighterstudio.com/usagebar
-Open Source: https://github.com/betoxf/Usagebar
-Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Usagebar<br/>Description: Claude Code、Codex、Cursor、Kimi Code、z.ai、DeepSeekの使用量の上限とリセット時刻をメニューバーに表示するツール。<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
-    </item>
-    <item>
-      <title>Daily Wallpaper</title>
-      <link>https://itsnajam.github.io/daily-wallpaper/</link>
-      <guid isPermaLink="false">9e8f832c056a135dc424ee8592373831a60deed1:Daily Wallpaper</guid>
-      <pubDate>Fri, 13 Nov 2026 16:39:04 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Daily Wallpaper
-Description: Bing の今日の写真をデスクトップとロック画面の壁紙に設定するメニューバーアプリ。
-Website: https://itsnajam.github.io/daily-wallpaper/
-Open Source: https://github.com/itsnajam/daily-wallpaper
-Commit: Add Daily Wallpaper (#4571)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Daily Wallpaper<br/>Description: Bing の今日の写真をデスクトップとロック画面の壁紙に設定するメニューバーアプリ。<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
-    </item>
-    <item>
-      <title>ServerHat</title>
-      <link>https://github.com/getguruhat/serverhat-macos</link>
-      <guid isPermaLink="false">de6fd35494c7fce4ae9cd466af4f4afafdc6c376:ServerHat</guid>
-      <pubDate>Fri, 13 Nov 2026 09:04:09 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: ServerHat
-Description: ローカル開発サーバーを実行する無料のメニューバーアプリ。Claude Code と Codex が MCP サーバーとローカル API 経由で起動・停止・ログ確認を行え、都度あなたの承認が必要。
-Open Source: https://github.com/getguruhat/serverhat-macos
-Commit: Add ServerHat (#4522)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: ServerHat<br/>Description: ローカル開発サーバーを実行する無料のメニューバーアプリ。Claude Code と Codex が MCP サーバーとローカル API 経由で起動・停止・ログ確認を行え、都度あなたの承認が必要。<br/>Open Source: https://github.com/getguruhat/serverhat-macos<br/>Commit: Add ServerHat (#4522)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de6fd35494c7fce4ae9cd466af4f4afafdc6c376]]></content:encoded>
-    </item>
-    <item>
-      <title>SummonOS</title>
-      <link>https://sumonos.rohi-lab.org/</link>
-      <guid isPermaLink="false">792be9ba2deff31a81e44f05bd46cfaf53d80845:SummonOS</guid>
-      <pubDate>Fri, 13 Nov 2026 05:23:32 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: SummonOS
-Description: コーディングエージェントに MCP 経由で Mac のライブ情報を渡し、対応する設定の変更前にスナップショットを保存して元に戻せるようにする、メニューバーアプリと CLI。
-Website: https://sumonos.rohi-lab.org/
-Open Source: https://github.com/RohiRIK/SummonOS
-Commit: Add SummonOS to AI Tools (#4538)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: SummonOS<br/>Description: コーディングエージェントに MCP 経由で Mac のライブ情報を渡し、対応する設定の変更前にスナップショットを保存して元に戻せるようにする、メニューバーアプリと CLI。<br/>Website: https://sumonos.rohi-lab.org/<br/>Open Source: https://github.com/RohiRIK/SummonOS<br/>Commit: Add SummonOS to AI Tools (#4538)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845]]></content:encoded>
-    </item>
-    <item>
-      <title>WellSnap</title>
-      <link>https://wellsnap.net/</link>
-      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
-      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: WellSnap
-Description: macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。
-Website: https://wellsnap.net/
-Open Source: https://github.com/hashtriton/wellsnap
-Commit: Add WellSnap to Screenshot Tools (#4547)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: WellSnap<br/>Description: macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
-    </item>
-    <item>
-      <title>LazyTune</title>
-      <link>https://github.com/Vic3z/LazyTune</link>
-      <guid isPermaLink="false">e0e2ae6dbd75cecd4ab8d6157e38d990525f162d:LazyTune</guid>
-      <pubDate>Fri, 13 Nov 2026 02:49:14 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: LazyTune
-Description: アプリ別音量ミキサーとブラウザ・デスクトッププレーヤー対応のユニバーサルメディアキー（F7/F8/F9）コントローラーを備えた軽量メニューバーアプリ。
-Open Source: https://github.com/Vic3z/LazyTune
-Commit: Add LazyTune to Audio (EN/ZH/JA/KO) (#4541)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e2ae6dbd75cecd4ab8d6157e38d990525f162d</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: LazyTune<br/>Description: アプリ別音量ミキサーとブラウザ・デスクトッププレーヤー対応のユニバーサルメディアキー（F7/F8/F9）コントローラーを備えた軽量メニューバーアプリ。<br/>Open Source: https://github.com/Vic3z/LazyTune<br/>Commit: Add LazyTune to Audio (EN/ZH/JA/KO) (#4541)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e2ae6dbd75cecd4ab8d6157e38d990525f162d]]></content:encoded>
-    </item>
-    <item>
-      <title>Quarters</title>
-      <link>https://quarters.amithgc.com</link>
-      <guid isPermaLink="false">d75d09a344a3bd7a689e9261d4f81baff091e992:Quarters</guid>
-      <pubDate>Thu, 12 Nov 2026 15:28:20 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Quarters
-Description: Claude Code、Codex、Gemini CLI、Aider などのターミナル型コーディングエージェントを複数のプロジェクトで同時に動かせるオープンソースのワークスペースで、ワンクリックでのプロジェクト切り替え、開発サーバーの起動、スマートフォンからのリモート操作に対応。
-Website: https://quarters.amithgc.com
-Open Source: https://github.com/amithgc/quarters
-Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Quarters<br/>Description: Claude Code、Codex、Gemini CLI、Aider などのターミナル型コーディングエージェントを複数のプロジェクトで同時に動かせるオープンソースのワークスペースで、ワンクリックでのプロジェクト切り替え、開発サーバーの起動、スマートフォンからのリモート操作に対応。<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
-    </item>
-    <item>
-      <title>DiskPilot</title>
-      <link>https://diskpilot.live</link>
-      <guid isPermaLink="false">690a21397a7ee1a46872917c5b4f10bacda33172:DiskPilot</guid>
-      <pubDate>Thu, 12 Nov 2026 15:03:49 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: DiskPilot
-Description: 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。
-Website: https://diskpilot.live
-Open Source: https://github.com/Devanshgoel-123/diskpilot
-Commit: Add DiskPilot to Cleanup and Uninstall (#4533)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: DiskPilot<br/>Description: 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。<br/>Website: https://diskpilot.live<br/>Open Source: https://github.com/Devanshgoel-123/diskpilot<br/>Commit: Add DiskPilot to Cleanup and Uninstall (#4533)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/690a21397a7ee1a46872917c5b4f10bacda33172]]></content:encoded>
-    </item>
-    <item>
-      <title>o8</title>
-      <link>https://o8.run</link>
-      <guid isPermaLink="false">2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9:o8</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:03 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: o8
-Description: コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。
-Website: https://o8.run
-Open Source: https://github.com/o8-run/o8
-Commit: Add o8 to AI Tools (#4525)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: o8<br/>Description: コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。<br/>Website: https://o8.run<br/>Open Source: https://github.com/o8-run/o8<br/>Commit: Add o8 to AI Tools (#4525)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2d6361d3fc4bf54e5f0f69f784e96a8d664eabd9]]></content:encoded>
-    </item>
-    <item>
-      <title>PC Mode</title>
-      <link>https://github.com/getguruhat/PCMode</link>
-      <guid isPermaLink="false">c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470:PC Mode</guid>
-      <pubDate>Thu, 12 Nov 2026 10:57:54 GMT</pubDate>
-      <category>ユーティリティ / Finderツール</category>
-      <description>Category: ユーティリティ / Finderツール
-App: PC Mode
-Description: Windowsの操作感をMacに持ち込む無料アプリ。Deleteキーで Finder から削除、⌘X と ⌘V でファイルを切り取り・移動、⌘Tab でウィンドウごとに切り替え。
-Open Source: https://github.com/getguruhat/PCMode
-Commit: Add PC Mode (#4521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: PC Mode<br/>Description: Windowsの操作感をMacに持ち込む無料アプリ。Deleteキーで Finder から削除、⌘X と ⌘V でファイルを切り取り・移動、⌘Tab でウィンドウごとに切り替え。<br/>Open Source: https://github.com/getguruhat/PCMode<br/>Commit: Add PC Mode (#4521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c55e7af2d19eef5ab2ce06a7d4bf5505d4dcd470]]></content:encoded>
     </item>
   </channel>
 </rss>

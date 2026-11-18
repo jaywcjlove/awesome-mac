@@ -5,9 +5,125 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: DisplayLatch
+Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: DisplayLatch<br/>Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: YANA
+Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: YANA<br/>Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
+    <item>
+      <title>NotchDeck</title>
+      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
+      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
+      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: NotchDeck
+Description: Central de controle em torno do notch do MacBook com métricas do sistema, controles de mídia, notas rápidas, gravação de tela e perfis de tarefas.
+Open Source: https://github.com/systemAdmin-ai/NotchDeck
+Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: NotchDeck<br/>Description: Central de controle em torno do notch do MacBook com métricas do sistema, controles de mídia, notas rápidas, gravação de tela e perfis de tarefas.<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
+    </item>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: Point
+Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Point<br/>Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomoru</title>
+      <link>https://tomoru.acane.dev</link>
+      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
+      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
+      <category>Ferramentas de Tradução</category>
+      <description>Category: Ferramentas de Tradução
+App: Tomoru
+Description: Legendas bilíngues ao vivo para lives, animes, jogos e reuniões, além de tradução instantânea de texto na tela — funciona offline no Mac ou na nuvem, com glossários que mantêm os nomes certos.
+Website: https://tomoru.acane.dev
+Open Source: https://github.com/ACAne0320/Tomoru
+Commit: Add Tomoru to Translation Tools (#4701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Tradução<br/>App: Tomoru<br/>Description: Legendas bilíngues ao vivo para lives, animes, jogos e reuniões, além de tradução instantânea de texto na tela — funciona offline no Mac ou na nuvem, com glossários que mantêm os nomes certos.<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
+    </item>
+    <item>
+      <title>ClaudeTTY</title>
+      <link>https://github.com/aqilc/ClaudeTTY</link>
+      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
+      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: ClaudeTTY
+Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.
+Open Source: https://github.com/aqilc/ClaudeTTY
+Commit: Add ClaudeTTY to Terminal Apps (#4698)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: ClaudeTTY<br/>Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
+    </item>
+    <item>
+      <title>Spool</title>
+      <link>https://joedesigns.com/spool</link>
+      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
+      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
+      <category>Comunicação / Clientes de E-mail</category>
+      <description>Category: Comunicação / Clientes de E-mail
+App: Spool
+Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.
+Website: https://joedesigns.com/spool
+Open Source: https://github.com/wes/spool
+Commit: Add Spool to Email Clients (#4695)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
+      <content:encoded><![CDATA[Category: Comunicação / Clientes de E-mail<br/>App: Spool<br/>Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
+    </item>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Escale
+Description: Cliente SSH nativo com abas, navegador SFTP ao lado do terminal, túneis, execução em vários hosts e servidor X11 integrado.
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Escale<br/>Description: Cliente SSH nativo com abas, navegador SFTP ao lado do terminal, túneis, execução em vários hosts e servidor X11 integrado.<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
     <item>
       <title>BitSpring</title>
       <link>https://bitspring.app/</link>
@@ -621,123 +737,6 @@ Open Source: https://github.com/vim/vim
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vim<br/>Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.<br/>Website: https://www.vim.org/<br/>Open Source: https://github.com/vim/vim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Vimr</title>
-      <link>https://vimr.org/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Vimr</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Vimr
-Description: Experiência Vim refinada para OS X.
-Website: https://vimr.org/
-Open Source: https://github.com/qvacua/vimr/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vimr<br/>Description: Experiência Vim refinada para OS X.<br/>Website: https://vimr.org/<br/>Open Source: https://github.com/qvacua/vimr/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Windsurf</title>
-      <link>https://windsurf.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Windsurf</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Windsurf
-Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.
-Website: https://windsurf.com/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Windsurf<br/>Description: Editor de código com IA, com codificação agêntica, autocompletar e suporte a MCP.<br/>Website: https://windsurf.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Zed</title>
-      <link>https://zed.dev/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Zed</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Zed
-Description: Um editor de código multiplayer de alto desempenho, criado pelos autores do Atom e do Tree-sitter.
-Website: https://zed.dev/
-Open Source: https://github.com/zed-industries/zed
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Zed<br/>Description: Um editor de código multiplayer de alto desempenho, criado pelos autores do Atom e do Tree-sitter.<br/>Website: https://zed.dev/<br/>Open Source: https://github.com/zed-industries/zed<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Keynote</title>
-      <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Keynote</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Keynote
-Description: Crie apresentações impressionantes.
-App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Keynote<br/>Description: Crie apresentações impressionantes.<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>LibreOffice</title>
-      <link>https://www.libreoffice.org</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LibreOffice</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: LibreOffice
-Description: Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade.
-Website: https://www.libreoffice.org
-Open Source: https://www.libreoffice.org/about-us/source-code/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: LibreOffice<br/>Description: Software de escritório gratuito e de código aberto, usado e testado diariamente por uma grande comunidade.<br/>Website: https://www.libreoffice.org<br/>Open Source: https://www.libreoffice.org/about-us/source-code/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft Office</title>
-      <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Microsoft Office</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Microsoft Office
-Description: Inconfundivelmente Office, projetado para Mac.
-Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
-App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Microsoft Office<br/>Description: Inconfundivelmente Office, projetado para Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>App Store: https://www.apple.com/search/office?page=1&amp;sel=accessories&amp;f=software#!&amp;f=software&amp;fh=4649<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Numbers</title>
-      <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Numbers</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: Numbers
-Description: Crie planilhas impressionantes.
-App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Numbers<br/>Description: Crie planilhas impressionantes.<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>OnlyOffice</title>
-      <link>https://www.onlyoffice.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:OnlyOffice</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Escritório</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Escritório
-App: OnlyOffice
-Description: Suíte de escritório com editores de documentos, planilhas e apresentações.
-Website: https://www.onlyoffice.com/
-Open Source: https://github.com/ONLYOFFICE/DesktopEditors
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: OnlyOffice<br/>Description: Suíte de escritório com editores de documentos, planilhas e apresentações.<br/>Website: https://www.onlyoffice.com/<br/>Open Source: https://github.com/ONLYOFFICE/DesktopEditors<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

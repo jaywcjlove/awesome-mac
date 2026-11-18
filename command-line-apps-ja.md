@@ -194,6 +194,7 @@ Awesome Command Line Apps
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 速度を重視したackに似たコード検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 宇宙飛行士のためのZshプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
 * [Sponge](https://sponge.computer/docs/cli) - 記事や PDF をローカルの SQLite に保存し、オフライン検索、ハイライト、`--json` 出力、MCP サーバーに対応するターミナル向けの後で読むライブラリ。 ![Freeware][Freeware Icon]
+* [Summon](https://github.com/juan294/summon) - GhosttyまたはRexで、設定可能なマルチペインのプロジェクトワークスペースをコマンド1つで起動するCLI（tmux不要）。 [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [Taskbook](https://github.com/klaussinani/taskbook) - コマンドライン環境のためのタスク、ボード、メモ。 [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 * [Television](https://github.com/alexpasmantier/television) - 非常に高速な汎用ファジーファインダーTUI。 [![Open-Source Software][OSS Icon]](https://github.com/alexpasmantier/television) ![Freeware][Freeware Icon]
 * [TextQL](https://github.com/dinedal/textql) - CSVやTSVなどの構造化テキストに対してSQLを実行。 [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
