@@ -709,6 +709,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Warp](https://www.warp.dev) - Warp é um terminal baseado em Rust, extremamente rápido, reimaginado do zero para funcionar como um aplicativo moderno. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - Terminal de código aberto com visualização de arquivos, navegação web e ferramentas de IA integradas. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Emulador de terminal e multiplexador multiplataforma, acelerado por GPU, implementado em Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [Xylem](https://xylem.t1nkl.dev) - Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto. [![Open-Source Software][OSS Icon]](https://github.com/t1nkl/xylem) ![Freeware][Freeware Icon]
 
 ## Design e Produto
 
