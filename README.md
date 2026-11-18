@@ -326,6 +326,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
+* [Musset](https://musset.app/) - Open-source writing app for books, with chapters as plain Markdown files, versions kept in Git, and an AI editor that annotates but never writes for you. [![Open-Source Software][OSS Icon]](https://github.com/Musset-App/musset)
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Rewrite text, fix grammar, and edit Word, LaTeX and PDF files. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
