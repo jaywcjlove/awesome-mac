@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:52:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Seshka</title>
+      <link>https://seshka.dev</link>
+      <guid isPermaLink="false">22d4c98159519a40ed45885e40b0c4a55f0c34fd:Seshka</guid>
+      <pubDate>Wed, 18 Nov 2026 00:52:26 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Seshka
+Description: Open-source menu bar app that finds the dev servers, watchers, and browsers closed Claude Code sessions left running, and kills them.
+Website: https://seshka.dev
+Open Source: https://github.com/jigjoy-ai/seshka
+Commit: Add Seshka to AI Tools (#4719)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Seshka<br/>Description: Open-source menu bar app that finds the dev servers, watchers, and browsers closed Claude Code sessions left running, and kills them.<br/>Website: https://seshka.dev<br/>Open Source: https://github.com/jigjoy-ai/seshka<br/>Commit: Add Seshka to AI Tools (#4719)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd]]></content:encoded>
+    </item>
     <item>
       <title>Spool</title>
       <link>https://joedesigns.com/spool</link>
@@ -715,21 +730,6 @@ Open Source: https://github.com/RohiRIK/SummonOS
 Commit: Add SummonOS to AI Tools (#4538)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: SummonOS<br/>Description: Menu bar app and CLI that gives coding agents live Mac context over MCP and snapshots supported settings changes so they can be undone.<br/>Website: https://sumonos.rohi-lab.org/<br/>Open Source: https://github.com/RohiRIK/SummonOS<br/>Commit: Add SummonOS to AI Tools (#4538)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/792be9ba2deff31a81e44f05bd46cfaf53d80845]]></content:encoded>
-    </item>
-    <item>
-      <title>WellSnap</title>
-      <link>https://wellsnap.net/</link>
-      <guid isPermaLink="false">fa5e5a0f37124c539b4fdc071ea7e1e6000c803b:WellSnap</guid>
-      <pubDate>Fri, 13 Nov 2026 03:23:02 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: WellSnap
-Description: Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels.
-Website: https://wellsnap.net/
-Open Source: https://github.com/hashtriton/wellsnap
-Commit: Add WellSnap to Screenshot Tools (#4547)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: WellSnap<br/>Description: Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels.<br/>Website: https://wellsnap.net/<br/>Open Source: https://github.com/hashtriton/wellsnap<br/>Commit: Add WellSnap to Screenshot Tools (#4547)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fa5e5a0f37124c539b4fdc071ea7e1e6000c803b]]></content:encoded>
     </item>
   </channel>
 </rss>

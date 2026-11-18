@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:52:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Seshka</title>
+      <link>https://seshka.dev</link>
+      <guid isPermaLink="false">22d4c98159519a40ed45885e40b0c4a55f0c34fd:Seshka</guid>
+      <pubDate>Wed, 18 Nov 2026 00:52:26 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Seshka
+Description: 开源菜单栏应用，找出已关闭的 Claude Code 会话遗留的开发服务器、监听进程和浏览器，并将其结束。
+Website: https://seshka.dev
+Open Source: https://github.com/jigjoy-ai/seshka
+Commit: Add Seshka to AI Tools (#4719)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Seshka<br/>Description: 开源菜单栏应用，找出已关闭的 Claude Code 会话遗留的开发服务器、监听进程和浏览器，并将其结束。<br/>Website: https://seshka.dev<br/>Open Source: https://github.com/jigjoy-ai/seshka<br/>Commit: Add Seshka to AI Tools (#4719)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd]]></content:encoded>
+    </item>
     <item>
       <title>Spool</title>
       <link>https://joedesigns.com/spool</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/Vic3z/LazyTune
 Commit: Add LazyTune to Audio (EN/ZH/JA/KO) (#4541)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e2ae6dbd75cecd4ab8d6157e38d990525f162d</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: LazyTune<br/>Description: 轻量级菜单栏应用级音量混音器与通用媒体键（F7/F8/F9）控制器，支持浏览器网页与桌面播放器。<br/>Open Source: https://github.com/Vic3z/LazyTune<br/>Commit: Add LazyTune to Audio (EN/ZH/JA/KO) (#4541)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e0e2ae6dbd75cecd4ab8d6157e38d990525f162d]]></content:encoded>
-    </item>
-    <item>
-      <title>Quarters</title>
-      <link>https://quarters.amithgc.com</link>
-      <guid isPermaLink="false">d75d09a344a3bd7a689e9261d4f81baff091e992:Quarters</guid>
-      <pubDate>Thu, 12 Nov 2026 15:28:20 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Quarters
-Description: 开源的终端编程代理工作区，可在多个项目中同时运行 Claude Code、Codex、Gemini CLI、Aider 等代理，支持一键切换项目、启动开发服务器，并可从手机远程接入。
-Website: https://quarters.amithgc.com
-Open Source: https://github.com/amithgc/quarters
-Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Quarters<br/>Description: 开源的终端编程代理工作区，可在多个项目中同时运行 Claude Code、Codex、Gemini CLI、Aider 等代理，支持一键切换项目、启动开发服务器，并可从手机远程接入。<br/>Website: https://quarters.amithgc.com<br/>Open Source: https://github.com/amithgc/quarters<br/>Commit: Add Quarters to AI Tools (EN/ZH/JA/KO) (#4523)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d75d09a344a3bd7a689e9261d4f81baff091e992]]></content:encoded>
     </item>
   </channel>
 </rss>
