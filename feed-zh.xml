@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:21:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WhisPaste</title>
+      <link>https://whispaste.de/en/</link>
+      <guid isPermaLink="false">7a4d9cdc93dc7125871f678237e16606a9d30b12:WhisPaste</guid>
+      <pubDate>Wed, 18 Nov 2026 02:21:39 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: WhisPaste
+Description: 适用于 macOS、Windows 和 Linux 的按键说话听写工具，使用 Whisper 或 Parakeet 在本地转写，并把文字粘贴到任意应用的光标处。
+Website: https://whispaste.de/en/
+Open Source: https://github.com/whispaste/whispaste
+Commit: Add WhisPaste to Voice-to-Text (#4704)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: WhisPaste<br/>Description: 适用于 macOS、Windows 和 Linux 的按键说话听写工具，使用 Whisper 或 Parakeet 在本地转写，并把文字粘贴到任意应用的光标处。<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
+    </item>
     <item>
       <title>Point</title>
       <link>https://point-site-opal.vercel.app</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/betoxf/Usagebar
 Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Usagebar<br/>Description: 在菜单栏中显示 Claude Code、Codex、Cursor、Kimi Code、z.ai 和 DeepSeek 的用量限制及重置时间。<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
-    </item>
-    <item>
-      <title>Daily Wallpaper</title>
-      <link>https://itsnajam.github.io/daily-wallpaper/</link>
-      <guid isPermaLink="false">9e8f832c056a135dc424ee8592373831a60deed1:Daily Wallpaper</guid>
-      <pubDate>Fri, 13 Nov 2026 16:39:04 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Daily Wallpaper
-Description: 将必应每日图片设为桌面和锁屏壁纸的菜单栏应用。
-Website: https://itsnajam.github.io/daily-wallpaper/
-Open Source: https://github.com/itsnajam/daily-wallpaper
-Commit: Add Daily Wallpaper (#4571)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Daily Wallpaper<br/>Description: 将必应每日图片设为桌面和锁屏壁纸的菜单栏应用。<br/>Website: https://itsnajam.github.io/daily-wallpaper/<br/>Open Source: https://github.com/itsnajam/daily-wallpaper<br/>Commit: Add Daily Wallpaper (#4571)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e8f832c056a135dc424ee8592373831a60deed1]]></content:encoded>
     </item>
   </channel>
 </rss>
