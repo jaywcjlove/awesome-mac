@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: YANA
+Description: MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: YANA<br/>Description: MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
     <item>
       <title>NotchDeck</title>
       <link>https://github.com/systemAdmin-ai/NotchDeck</link>
@@ -716,21 +730,6 @@ Website: https://bullfighterstudio.com/magicinput
 Commit: Add MagicInput (#4574)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: MagicInput<br/>Description: 화면 가장자리 너머로 포인터를 옮겨 Mac과 Windows PC에서 하나의 키보드와 마우스를 함께 쓰는 도구로, 클립보드 동기화와 파일 전송을 지원합니다.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
-    </item>
-    <item>
-      <title>Usagebar</title>
-      <link>https://bullfighterstudio.com/usagebar</link>
-      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
-      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Usagebar
-Description: Claude Code, Codex, Cursor, Kimi Code, z.ai, DeepSeek의 사용량 한도와 초기화 시간을 메뉴 바에 표시하는 도구.
-Website: https://bullfighterstudio.com/usagebar
-Open Source: https://github.com/betoxf/Usagebar
-Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Usagebar<br/>Description: Claude Code, Codex, Cursor, Kimi Code, z.ai, DeepSeek의 사용량 한도와 초기화 시간을 메뉴 바에 표시하는 도구.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
     </item>
   </channel>
 </rss>
