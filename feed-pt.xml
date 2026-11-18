@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: DisplayLatch
+Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: DisplayLatch<br/>Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
     <item>
       <title>YANA</title>
       <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/vim/vim
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vim<br/>Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.<br/>Website: https://www.vim.org/<br/>Open Source: https://github.com/vim/vim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Vimr</title>
-      <link>https://vimr.org/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Vimr</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Vimr
-Description: Experiência Vim refinada para OS X.
-Website: https://vimr.org/
-Open Source: https://github.com/qvacua/vimr/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vimr<br/>Description: Experiência Vim refinada para OS X.<br/>Website: https://vimr.org/<br/>Open Source: https://github.com/qvacua/vimr/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: DisplayLatch
+Description: Keeps external monitors connected after sleep and restart, with DDC brightness, resolution and disconnect-without-unplugging controls.
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: DisplayLatch<br/>Description: Keeps external monitors connected after sleep and restart, with DDC brightness, resolution and disconnect-without-unplugging controls.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
     <item>
       <title>Inkstone (砚台)</title>
       <link>https://github.com/raistlinsha-plus/inkstone</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/Pointa-Labs/basehalf
 Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: BaseHalf<br/>Description: Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
-    </item>
-    <item>
-      <title>LD Manager</title>
-      <link>https://codonic.dev/apps/ldmanager</link>
-      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
-      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: LD Manager
-Description: Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn&apos;t running, and edits plists losslessly with diffs and backups.
-Website: https://codonic.dev/apps/ldmanager
-Open Source: https://github.com/roeehrl/ldmanager
-Commit: Add LD Manager to System Related Tools (#4573)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: LD Manager<br/>Description: Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn&apos;t running, and edits plists losslessly with diffs and backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
     </item>
   </channel>
 </rss>
