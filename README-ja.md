@@ -891,6 +891,7 @@ Awesome Mac
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Nucleo](https://nucleoapp.com/) - アイコンマネージャー。アイコンライブラリのインポート、エクスポート、カスタマイズ、変換。
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 切り抜き、リサイズ、注釈、PNG・JPG・WebP・HEIC変換に対応した画像ビューアー兼エディター。 ![Freeware][Freeware Icon]
+* [Pixtamer](https://pixtamer.pages.dev) - 画像を一括で変換・圧縮・リサイズ・リネームし、Web 向けの JPEG・PNG・WebP・AVIF に書き出すツール。レスポンシブ幅とプリセットに対応し、アップロードは一切なし。 [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/pixtamer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pixtamer/id6831520622?platform=mac) ![Native App][Native Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - LightroomプリセットをAdobe Camera Rawに変換するツール。
 * [qView](https://interversehq.com/qview/) - ミニマリズムと使いやすさを念頭に設計された画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 画像のバッチリサイズと透かしを高速かつ簡単に。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
