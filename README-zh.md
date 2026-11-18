@@ -641,6 +641,7 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。[![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Lap](https://github.com/julyx10/lap) - 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - 开源照片管理工具，直接整理现有文件夹，支持本地人脸识别、搜索和无损编辑。 [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
+* [Fotollection](https://fotollection.org) - 离线照片打印准备工具：挑片、按冲印尺寸裁切、日期水印、拼贴版面、明信片、RAW 显影和 LUT。 [![Open-Source Software][OSS Icon]](https://github.com/hoangphi01/fotollection) ![Freeware][Freeware Icon]
 * [Flipic](https://github.com/xmasdong/flipic) - 摄影师挑片用的看图软件：方向键翻页、100% 查焦点、Lightroom 能读的 XMP 评分、本机清理模式。 [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [Graphis](https://github.com/Campfire7/graphis) - 开源的本地 AI 图像生成应用，基于 MOSS-Image 模型，在 Apple 芯片上根据文字描述生成图像。 [![Open-Source Software][OSS Icon]](https://github.com/Campfire7/graphis) ![Freeware][Freeware Icon]
 * [Resize Master](http://www.boltnev.com/resizemaster/) - 更快速和容易批量调整图像和加水印。 [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac) ![Freeware][Freeware Icon]
