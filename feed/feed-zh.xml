@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:54:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>mm2t</title>
+      <link>https://mm2t.yuzen.dev/</link>
+      <guid isPermaLink="false">db381fdbf86f059214a424ad27211014ac06fda5:mm2t</guid>
+      <pubDate>Thu, 19 Nov 2026 04:54:12 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: mm2t
+Description: 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。
+Website: https://mm2t.yuzen.dev/
+Open Source: https://github.com/yuzen9622/mm2t
+Commit: Add mm2t to the multilingual audio tool lists (#4748)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: mm2t<br/>Description: 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。<br/>Website: https://mm2t.yuzen.dev/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
+    </item>
     <item>
       <title>Hourmint</title>
       <link>https://hourmint.abdur.tech</link>
@@ -717,20 +732,6 @@ Open Source: https://github.com/AzurLiu/sheer
 Commit: Add Sheer to Menu Bar Tools (#4592)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Sheer<br/>Description: 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
-    </item>
-    <item>
-      <title>Vafa</title>
-      <link>https://github.com/k33ssa/vafa</link>
-      <guid isPermaLink="false">a310caf7d90984eb6d882dcb84b5fafb4b80e57a:Vafa</guid>
-      <pubDate>Sat, 14 Nov 2026 12:18:45 GMT</pubDate>
-      <category>科学上网</category>
-      <description>Category: 科学上网
-App: Vafa
-Description: 开源的 VPN 断网保护工具，在连接到允许国家出口的 VPN 之前冻结所选应用并阻止其联网。
-Open Source: https://github.com/k33ssa/vafa
-Commit: Add Vafa to Proxy and VPN Tools (#4590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a</description>
-      <content:encoded><![CDATA[Category: 科学上网<br/>App: Vafa<br/>Description: 开源的 VPN 断网保护工具，在连接到允许国家出口的 VPN 之前冻结所选应用并阻止其联网。<br/>Open Source: https://github.com/k33ssa/vafa<br/>Commit: Add Vafa to Proxy and VPN Tools (#4590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a]]></content:encoded>
     </item>
   </channel>
 </rss>
