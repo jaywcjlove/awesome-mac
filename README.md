@@ -1406,6 +1406,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TrustTunnel](https://trusttunnel.org/) - A modern, open-source VPN protocol originally developed by AdGuard VPN. [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - Simple VPN service for secure browsing and location switching. ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
+* [unbraid](https://unbraid.app) - Per-app VPN client. Each app can use its own exit or skip the VPN, while Tailscale stays on. [![Open-Source Software][OSS Icon]](https://github.com/quiet-crafts/unbraid-mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vafa](https://github.com/k33ssa/vafa) - Open-source VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up. [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/vafa) ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - Menu bar app to route specific domains and services around your VPN. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - VPN and proxy service with ad blocking and flexible server switching. ![Freeware][Freeware Icon]
