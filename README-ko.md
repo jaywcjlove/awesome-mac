@@ -1242,6 +1242,7 @@ Awesome Mac
 
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - 설치된 앱을 완전히 제거. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 드래그 앤 드롭을 지원하는 가벼운 앱 제거 도구. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [App Vanish](https://appvanish.pages.dev) - 앱을 휴지통에 끌어다 놓으면 앱과 남은 파일을 함께 제거하는 도구. 확실하지 않은 파일은 선택 해제된 상태로 표시되며, 모든 항목은 휴지통으로 이동됩니다. App Store 버전은 이미 삭제한 앱의 남은 파일을 찾아 줍니다. [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/appvanish) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/app-vanish/id6831544178?platform=mac) ![Native App][Native Icon]
 * [Boost](https://github.com/Kernel-Hunter/boost) - 앱을 닫지 않고 메모리를 확보하고, 앱을 일시 정지했다가 그대로 복원하며, 안전하게 정리할 수 있는 디스크 공간을 찾아 주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
 * [Burrow](https://github.com/khan-umirzakoff/Mole-GUI) - Mole 클리너를 위한 무료 오픈소스 네이티브 앱. 캐시 정리, 앱 및 삭제된 앱의 잔여 파일 제거, 디스크 사용량 시각화, 시스템 상태 모니터링을 모두 Mole의 안전 검사를 거쳐 수행합니다. [![Open-Source Software][OSS Icon]](https://github.com/khan-umirzakoff/Mole-GUI) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cleaner](https://ciromaciel.click/tools/cleaner) - 삭제 전에 모든 항목을 보여 주고, 정리 규칙을 공개된 파일 하나에 담으며, 제거한 항목을 7일 동안 격리해 되돌릴 수 있게 하는 오픈 소스 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/cleaner) ![Freeware][Freeware Icon] ![Native App][Native Icon]

@@ -1571,6 +1571,7 @@ Awesome Mac
 
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - アプリを徹底的にアンインストール。 ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - ドラッグ＆ドロップ対応の軽量なアプリ削除ツール。 [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [App Vanish](https://appvanish.pages.dev) - アプリをゴミ箱にドロップすると、アプリと残されたファイルを削除できるツール。判断が必要なファイルは最初はチェックが外れており、すべてゴミ箱に移動される。App Store 版は削除済みアプリの残りファイルを見つける。 [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/appvanish) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/app-vanish/id6831544178?platform=mac) ![Native App][Native Icon]
 * [Boost](https://github.com/Kernel-Hunter/boost) - アプリを閉じずにメモリを解放し、アプリを一時停止してそのままの状態で再開でき、安全に削除できるディスク容量を見つけるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
 * [Burrow](https://github.com/khan-umirzakoff/Mole-GUI) - Mole クリーナーの無料オープンソースのネイティブアプリ。キャッシュの削除、アプリと削除済みアプリの残りファイルのアンインストール、ディスク使用量の可視化、システム状態の監視を、すべて Mole の安全チェックを通して行う。 [![Open-Source Software][OSS Icon]](https://github.com/khan-umirzakoff/Mole-GUI) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cleaner](https://ciromaciel.click/tools/cleaner) - 削除前にすべての項目を表示し、ルールを1つの公開ファイルにまとめ、削除したものを7日間隔離して元に戻せるオープンソースのクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/cleaner) ![Freeware][Freeware Icon] ![Native App][Native Icon]
