@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:20:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pixtamer</title>
+      <link>https://pixtamer.pages.dev</link>
+      <guid isPermaLink="false">57c29ef3385c1fef2379d3170d5baeec36ed6fef:Pixtamer</guid>
+      <pubDate>Thu, 19 Nov 2026 05:20:02 GMT</pubDate>
+      <category>Design e Produto / Outras Ferramentas</category>
+      <description>Category: Design e Produto / Outras Ferramentas
+App: Pixtamer
+Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.
+Website: https://pixtamer.pages.dev
+Open Source: https://github.com/heysidhant/pixtamer
+App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
+Commit: Add Pixtamer to image tools (#3969)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
+      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Pixtamer<br/>Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
+    </item>
     <item>
       <title>App Vanish</title>
       <link>https://appvanish.pages.dev</link>
@@ -723,21 +739,6 @@ Open Source: https://github.com/subethaedit/SubEthaEdit
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: SubEthaEdit<br/>Description: Editor poderoso para escrever, programar e colaborar a qualquer hora e em qualquer lugar!<br/>Website: https://subethaedit.net/<br/>Open Source: https://github.com/subethaedit/SubEthaEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>TextMate</title>
-      <link>https://macromates.com</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:TextMate</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: TextMate
-Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.
-Website: https://macromates.com
-Open Source: https://github.com/textmate/textmate
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: TextMate<br/>Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.<br/>Website: https://macromates.com<br/>Open Source: https://github.com/textmate/textmate<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
