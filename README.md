@@ -1825,6 +1825,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Divvy](https://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 * [Fenestra](https://github.com/PRMotorWorks/Fenestra) - Windows 11 desktop for macOS with a taskbar, Start menu, Snap Layouts, Alt+Tab and clipboard history. [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - Open-source window manager driven by trackpad gestures on window title bars. [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
+* [Fully](https://geragaraza.com/apps/fully/) - Window maximizer: a double-click on the title bar fills the screen with the window, and the window keeps that size when dragged. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/fully) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
