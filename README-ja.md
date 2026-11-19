@@ -1870,6 +1870,7 @@ Awesome Mac
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` の起動リンクを保ったままアプリを外部ストレージへ移せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [FileMint](https://github.com/FileMintApp/FileMint) - Finder の右クリックメニューからテンプレートを使ってファイルを作成できるネイティブ拡張機能で、個人・非商用利用は無料。 ![Native App][Native Icon]
 * [FileMinutes](https://www.fileminutes.com/) - ファイルを見つけてアクションを実行、すべてを一つで。
+* [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) - すべての Finder ウィンドウで、選んだグループ化と並べ替えを自動的に適用するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Finder-Grouping-Assistant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finderウィンドウのサイズと位置を永続的に解決。 ![Freeware][Freeware Icon].
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Finder の右クリックメニューに新規ファイル作成、ターミナルで開く、パスのコピー、切り取り＆貼り付けを追加するオープンソース拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [Findly](https://findly.rocavence.com) - ショートカットで画面の端から引き出し、他のアプリに切り替えると自動で隠れる Finder 風のファイルドロワー。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
