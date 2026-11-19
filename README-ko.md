@@ -1137,6 +1137,7 @@ Awesome Mac
 * [Copia](https://geragaraza.com/apps/copia/) - 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kurenai](https://lorder19.github.io/kurenai/) - 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다. [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/kurenai) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cue](https://cue.hridya.tech) - 포커스된 입력란을 읽고 이메일 주소나 전화번호처럼 맞는 부분만 붙여 넣는 클립보드. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Ginkgo](https://ginkgo.ink) - 복사 직후 타임스탬프·JSON·사전 등의 인사이트를 포커스를 빼앗지 않는 라이트 레이어로 보여주는 클립보드 컴패니언. ![Native App][Native Icon]
 * [Maccy](https://maccy.app/) - 가벼운 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
 * [Mask This](https://github.com/tseylerd/MaskThis) - 클립보드의 민감한 정보를 마스킹해 주는 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon]
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 검색, 태그, 이미지 기록을 지원하는 로컬 우선 클립보드 기록 관리자. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
