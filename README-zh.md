@@ -1492,7 +1492,7 @@ Awesome Mac
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 键盘优先的剪贴板历史弹窗，边输入边筛选，一键粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
-* [Copia](https://geragaraza.com/apps/copia/) - 开源剪贴板历史工具，保存所有复制的内容（文本、富文本、链接、颜色、图片、视频、音频、文件），可按选择顺序一次粘贴多个所选项目；粘贴队列可按 ⌘V 逐条粘贴复制的内容。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Copia](https://geragaraza.com/apps/copia/) - 剪贴板管理工具，保存每一次复制，可一次粘贴多项或逐条粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) - 在任意设备间复制粘贴，就像在同一台设备上操作一样自然流畅。 [![Open-Source Software][OSS Icon]](https://github.com/CrossPaste/crosspaste-desktop) ![Freeware][Freeware Icon]
