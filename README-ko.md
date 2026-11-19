@@ -281,6 +281,7 @@ Awesome Mac
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
 * [Standard Notes](https://standardnotes.com/) - 전문가를 위한 종단간 암호화 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
+* [StickyPeels](https://munyala.pro/stickypeels) - 자연어로 알림을 설정하는 데스크톱 스티커 메모(예: "call mum tomorrow 6pm"). 메모를 체크리스트, 표, 보드가 있는 전체 페이지로 펼칠 수 있다. ![Native App][Native Icon]
 * [Stik](https://github.com/0xMassi/stik_app) - 전역 단축키와 AI 시맨틱 검색을 지원하는 빠른 마크다운 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
