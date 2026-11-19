@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:33:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:38:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fenestra</title>
+      <link>https://github.com/PRMotorWorks/Fenestra</link>
+      <guid isPermaLink="false">af15b5040320bc4233af3a1badd029e66ec5fa82:Fenestra</guid>
+      <pubDate>Thu, 19 Nov 2026 02:38:45 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: Fenestra
+Description: Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。
+Open Source: https://github.com/PRMotorWorks/Fenestra
+Commit: Add Fenestra to Window Management (#4740)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Fenestra<br/>Description: Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
+    </item>
     <item>
       <title>Agent Monitor</title>
       <link>https://github.com/paveler/agent-monitor</link>
@@ -716,21 +730,6 @@ Open Source: https://github.com/HankMonster/arowser
 Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: arowser<br/>Description: 面向 agent 可编程的 macOS 无边框网页窗口，由为编码 agent 设计的 CLI 驱动。<br/>Open Source: https://github.com/HankMonster/arowser<br/>Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967]]></content:encoded>
-    </item>
-    <item>
-      <title>BaseHalf</title>
-      <link>https://basehalf.com</link>
-      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
-      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: BaseHalf
-Description: 把文件夹打开成画布的开源桌面应用，笔记、PDF 和媒体都在画布上，Claude Code、Codex 等 AI 智能体在旁边处理同一批文件。
-Website: https://basehalf.com
-Open Source: https://github.com/Pointa-Labs/basehalf
-Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: BaseHalf<br/>Description: 把文件夹打开成画布的开源桌面应用，笔记、PDF 和媒体都在画布上，Claude Code、Codex 等 AI 智能体在旁边处理同一批文件。<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
     </item>
   </channel>
 </rss>

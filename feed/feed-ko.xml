@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:33:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:38:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fenestra</title>
+      <link>https://github.com/PRMotorWorks/Fenestra</link>
+      <guid isPermaLink="false">af15b5040320bc4233af3a1badd029e66ec5fa82:Fenestra</guid>
+      <pubDate>Thu, 19 Nov 2026 02:38:45 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: Fenestra
+Description: macOS에서 Windows 11 데스크톱을 구현하며, 작업 표시줄, 시작 메뉴, 스냅 레이아웃, Alt+Tab, 클립보드 기록을 제공합니다.
+Open Source: https://github.com/PRMotorWorks/Fenestra
+Commit: Add Fenestra to Window Management (#4740)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Fenestra<br/>Description: macOS에서 Windows 11 데스크톱을 구현하며, 작업 표시줄, 시작 메뉴, 스냅 레이아웃, Alt+Tab, 클립보드 기록을 제공합니다.<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
+    </item>
     <item>
       <title>Agent Monitor</title>
       <link>https://github.com/paveler/agent-monitor</link>
@@ -717,21 +731,6 @@ Open Source: https://github.com/Pointa-Labs/basehalf
 Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: BaseHalf<br/>Description: 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
-    </item>
-    <item>
-      <title>LD Manager</title>
-      <link>https://codonic.dev/apps/ldmanager</link>
-      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
-      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: LD Manager
-Description: 모든 LaunchAgent와 LaunchDaemon을 보여 주고, 작업이 실행되지 않는 이유를 설명하며, diff와 백업으로 plist를 손실 없이 편집하는 오픈 소스 launchd 관리 도구입니다.
-Website: https://codonic.dev/apps/ldmanager
-Open Source: https://github.com/roeehrl/ldmanager
-Commit: Add LD Manager to System Related Tools (#4573)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: LD Manager<br/>Description: 모든 LaunchAgent와 LaunchDaemon을 보여 주고, 작업이 실행되지 않는 이유를 설명하며, diff와 백업으로 plist를 손실 없이 편집하는 오픈 소스 launchd 관리 도구입니다.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
     </item>
   </channel>
 </rss>
