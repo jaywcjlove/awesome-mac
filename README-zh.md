@@ -245,6 +245,7 @@ Awesome Mac
 * [VSCodium](https://vscodium.com/) - 社区驱动的 VS Code 自由开源发行版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - Vim 古老的终端中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Vim 客户端，升级 Vim 体验。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qvacua/vimr/)
+* [vsux](https://vsux.sphrag.com/) - 以项目终端为核心的轻量编辑器，在同一工作区查看文件和 Git 变更。 [![Open-Source Software][OSS Icon]](https://github.com/shadowDragons/vsux) ![Freeware][Freeware Icon]
 * [Wavefunction](https://www.wavefunction.si) - 开源桌面编程代理，可并行运行多个对话，支持本地模型、自有 API 密钥或 ChatGPT 登录。 [![Open-Source Software][OSS Icon]](https://github.com/stoyan-stoyanov/wavefunction) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - 支持智能体编程、自动补全和 MCP 的 AI 代码编辑器。
 * [Trae](https://www.trae.ai/) - 面向软件开发的 AI IDE。
