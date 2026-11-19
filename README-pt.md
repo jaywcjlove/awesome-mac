@@ -1781,6 +1781,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Dissolv](https://www.7sols.com/dissolv/) - Oculte e feche apps inativos. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012?platform=mac)
 * [Divvy](https://mizage.com/divvy/) - Gerenciamento de janelas com excelência, graças ao seu incrível sistema de grade Divvy.
 * [Flickbar](https://flickbar.github.io/) - Gerenciador de janelas de código aberto controlado por gestos do trackpad nas barras de título. [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
+* [Fully](https://geragaraza.com/apps/fully/) - Maximizador de janelas: um clique duplo na barra de título faz a janela preencher a tela, e ela mantém esse tamanho ao ser arrastada. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/fully) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hummingbird](https://finestructure.co/hummingbird) - Mova e redimensione janelas facilmente, sem cliques do mouse, a partir de qualquer ponto da janela.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [IntelliDock](https://mightymac.app/intellidock/) - Oculta o Dock automaticamente.
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - Um sistema leve de bordas para janelas no macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
