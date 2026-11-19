@@ -1122,6 +1122,7 @@ Awesome Mac
 * [Convertino](https://github.com/hasanzadee/convertino) - 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다. [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNS 제공자나 사용자 지정 리졸버를 빠르게 전환하는 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - 드래그한 파일, 텍스트, 링크를 잠시 모아 두고 옮길 수 있는 임시 선반. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
+* [OCR](https://geragaraza.com/apps/ocr/) - 화면에서 선택한 영역의 텍스트를 클립보드에 복사하는 화면 텍스트 인식 도구. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/ocr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 클립보드 도구
 
