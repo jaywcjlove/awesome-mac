@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:47:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Xylem</title>
+      <link>https://xylem.t1nkl.dev</link>
+      <guid isPermaLink="false">6ba0b4444fa5f26eefed1438cdd268eb9645a0d5:Xylem</guid>
+      <pubDate>Thu, 19 Nov 2026 05:47:10 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Xylem
+Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.
+Website: https://xylem.t1nkl.dev
+Open Source: https://github.com/t1nkl/xylem
+Commit: Add Xylem to Terminal Apps (#4762)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Xylem<br/>Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
+    </item>
     <item>
       <title>Better Wacom</title>
       <link>https://github.com/myyccccc/Better-Wacom</link>
@@ -724,20 +739,6 @@ App Store: https://apps.apple.com/app/id1572202501?platform=mac
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Plain Text Editor<br/>Description: Bloco de notas simples e sem distrações.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>App Store: https://apps.apple.com/app/id1572202501?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Sublime Text</title>
-      <link>https://www.sublimetext.com/3</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Sublime Text</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Sublime Text
-Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.
-Website: https://www.sublimetext.com/3
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Sublime Text<br/>Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.<br/>Website: https://www.sublimetext.com/3<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
