@@ -992,6 +992,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 * [Wayfinder](https://wayfinder-ai.pages.dev/) - Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes. [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 * [Yardlet](https://yardlet.app) - Open-source app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. [![Open-Source Software][OSS Icon]](https://github.com/zzunkie/yardlet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Yogurt](https://yogurt.so) - AI meeting notes that transcribe and summarize your calls on your Mac, with no bot joining the meeting. [![Open-Source Software][OSS Icon]](https://github.com/FrigadeHQ/yogurt) ![Freeware][Freeware Icon]
 
 
 ## Communication
