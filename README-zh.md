@@ -1832,6 +1832,7 @@ Awesome Mac
 
 * [AppPorts](https://github.com/wzh4869/AppPorts) - 一键将 `/Applications` 中的应用迁移到外部存储，并在原位置保留可启动入口的链接工具。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [DropKeeper](https://direcat.net/dropkeeper/) - 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。 [![Open-Source Software][OSS Icon]](https://github.com/direcat/dropkeeper) ![Freeware][Freeware Icon]
+* [File Arbor](https://filearbor.com) - 基于规则的文件整理工具，可按类型、名称、日期或文档内的文字移动、重命名和清理文件。
 * [FileMint](https://github.com/FileMintApp/FileMint) - 原生 Finder 扩展，可通过右键菜单使用模板新建文件，个人及非商业用途免费。 ![Native App][Native Icon]
 * [Findly](https://findly.rocavence.com) - 用快捷键从屏幕任意边缘滑出的 Finder 风格文件抽屉，切换到其他应用时自动收起。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - 带 Vim 风格快捷键的双栏文件管理器。 [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
