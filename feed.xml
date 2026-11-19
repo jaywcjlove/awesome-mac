@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:33:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:38:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Fenestra</title>
+      <link>https://github.com/PRMotorWorks/Fenestra</link>
+      <guid isPermaLink="false">af15b5040320bc4233af3a1badd029e66ec5fa82:Fenestra</guid>
+      <pubDate>Thu, 19 Nov 2026 02:38:45 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: Fenestra
+Description: Windows 11 desktop for macOS with a taskbar, Start menu, Snap Layouts, Alt+Tab and clipboard history.
+Open Source: https://github.com/PRMotorWorks/Fenestra
+Commit: Add Fenestra to Window Management (#4740)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Fenestra<br/>Description: Windows 11 desktop for macOS with a taskbar, Start menu, Snap Layouts, Alt+Tab and clipboard history.<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
+    </item>
     <item>
       <title>Agent Monitor</title>
       <link>https://github.com/paveler/agent-monitor</link>
@@ -717,20 +731,6 @@ Open Source: https://github.com/AzurLiu/sheer
 Commit: Add Sheer to Menu Bar Tools (#4592)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Sheer<br/>Description: Brings the macOS 26-style transparent menu bar to macOS 15, letting the wallpaper show through with a faint legibility gradient.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
-    </item>
-    <item>
-      <title>Vafa</title>
-      <link>https://github.com/k33ssa/vafa</link>
-      <guid isPermaLink="false">a310caf7d90984eb6d882dcb84b5fafb4b80e57a:Vafa</guid>
-      <pubDate>Sat, 14 Nov 2026 12:18:45 GMT</pubDate>
-      <category>Proxy and VPN Tools</category>
-      <description>Category: Proxy and VPN Tools
-App: Vafa
-Description: Open-source VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up.
-Open Source: https://github.com/k33ssa/vafa
-Commit: Add Vafa to Proxy and VPN Tools (#4590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a</description>
-      <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: Vafa<br/>Description: Open-source VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up.<br/>Open Source: https://github.com/k33ssa/vafa<br/>Commit: Add Vafa to Proxy and VPN Tools (#4590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a]]></content:encoded>
     </item>
   </channel>
 </rss>
