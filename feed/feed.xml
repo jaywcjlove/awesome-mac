@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:54:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WhimsyDesk</title>
+      <link>https://whimsydesk.art</link>
+      <guid isPermaLink="false">404023332d09eec33634b8ae9ff30d59e6364dfc:WhimsyDesk</guid>
+      <pubDate>Thu, 19 Nov 2026 15:54:53 GMT</pubDate>
+      <category>Utilities / File Organization Tools</category>
+      <description>Category: Utilities / File Organization Tools
+App: WhimsyDesk
+Description: Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were.
+Website: https://whimsydesk.art
+Open Source: https://github.com/Electrofist/WhimsyDesk
+Commit: Add WhimsyDesk to File Organization Tools (#4776)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/404023332d09eec33634b8ae9ff30d59e6364dfc</description>
+      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: WhimsyDesk<br/>Description: Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were.<br/>Website: https://whimsydesk.art<br/>Open Source: https://github.com/Electrofist/WhimsyDesk<br/>Commit: Add WhimsyDesk to File Organization Tools (#4776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/404023332d09eec33634b8ae9ff30d59e6364dfc]]></content:encoded>
+    </item>
     <item>
       <title>Inquiline</title>
       <link>https://github.com/inquiline-app/inquiline</link>
@@ -719,21 +734,6 @@ Website: https://samratduttaofficial.github.io/Rewrite/
 Commit: Add Rewrite to Writing (#3897)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
       <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Rewrite<br/>Description: Rewrite text, fix grammar, and edit Word, LaTeX and PDF files.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
-    </item>
-    <item>
-      <title>Cyberdog</title>
-      <link>https://pickywawa.github.io/cyberdog/</link>
-      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
-      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: Cyberdog
-Description: SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.
-Website: https://pickywawa.github.io/cyberdog/
-Open Source: https://github.com/pickywawa/cyberdog
-Commit: Add Cyberdog (#4610)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cyberdog<br/>Description: SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
     </item>
   </channel>
 </rss>
