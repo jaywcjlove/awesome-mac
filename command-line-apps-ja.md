@@ -3,6 +3,25 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 音声で入力。キーを押して、自然に話しかけるだけ。</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">入力内容は使用中のアプリに合わせて自動で整形されます。ローカルAIモデルを使用し、オフラインでも動作する無料のオープンソースソフトウェアです。</a>
+  <br/><br/>
+
+
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
+    <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - Macのあらゆる場所で使えるAIエージェント</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">画面を認識し、アプリ上で作業し、タスクを最後まで実行します。</a>
+  <br><br>
+
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
@@ -23,13 +42,6 @@
   </a>
   <br>
   <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM 無料のIPアドレス情報照会サイト</a>
   <br><br>
 
 </div>
@@ -80,9 +92,9 @@ Awesome Command Line Apps
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://github.com/jaywcjlove)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./command-line-apps.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./command-line-apps-zh.md)
@@ -115,10 +127,12 @@ Awesome Command Line Apps
 ## メディア
 
 * [cmus](https://cmus.github.io/) - Unix系オペレーティングシステム向けの小さく、高速で強力なコンソール音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - ローカルファイルのミュージックライブラリを修復：タイトルの整理、Deezerからのアートワークとアルバム情報、LRCLIBからの歌詞、重複の削除、アルバムの曲ごとの分割。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.comおよびその他のサイトから動画をダウンロード。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 開発者向け
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude CodeとCodex CLIのアカウントを手動で、または上限が近づいたときに自動で切り替え、各アカウントの5時間と週ごとの使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 名前付きプロファイルでClaude Code、Codex、Gemini、Antigravity CLIのアカウントを切り替え、リポジトリごとに使うアカウントを固定。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
@@ -151,6 +165,7 @@ Awesome Command Line Apps
 * [GitHub CLI](https://github.com/cli/cli) - ghはコマンドライン上のGitHub。プルリクエスト、イシュー、その他のGitHubの概念を、gitやコードの作業をしているターミナルに持ち込む。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glances](https://github.com/nicolargo/glances) - クロスプラットフォームのcursesベースシステム監視ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Go2Shell](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac) - Finderの現在のディレクトリでターミナルウィンドウを開く。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac)
+* [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS なしで Synology Hyper Backup（.hbk）アーカイブを読み込み、復元できるコマンドラインツール（TUI 付き）。 [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [hns](https://github.com/primaprashant/hns) - マイクからの音声を直接クリップボードに文字起こしする音声テキスト変換ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - Unixシステム向けのインタラクティブなテキストモードプロセスビューアー。より良い'top'を目指す。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [job](https://github.com/liujianping/job) - 短期的なコマンドを長期的なジョブに変換。 [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
@@ -178,6 +193,7 @@ Awesome Command Line Apps
 * [ShellHistory](https://loshadki.app/shellhistory/) - シェル履歴のバックアップ、同期、整理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12&platform=mac)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 速度を重視したackに似たコード検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 宇宙飛行士のためのZshプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [Summon](https://github.com/juan294/summon) - GhosttyまたはRexで、設定可能なマルチペインのプロジェクトワークスペースをコマンド1つで起動するCLI（tmux不要）。 [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [Taskbook](https://github.com/klaussinani/taskbook) - コマンドライン環境のためのタスク、ボード、メモ。 [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 * [Television](https://github.com/alexpasmantier/television) - 非常に高速な汎用ファジーファインダーTUI。 [![Open-Source Software][OSS Icon]](https://github.com/alexpasmantier/television) ![Freeware][Freeware Icon]
 * [TextQL](https://github.com/dinedal/textql) - CSVやTSVなどの構造化テキストに対してSQLを実行。 [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
