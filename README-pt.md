@@ -1676,6 +1676,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [ActivityWatch](https://activitywatch.net/) - Rastreador de tempo multiplataforma, extensível e focado em privacidade. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Ferramenta de lançamento e automação com atalhos, trechos e busca. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - Lançador de apps personalizável com busca rápida.
+* [Better Wacom](https://github.com/myyccccc/Better-Wacom) - ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Better-Wacom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BetterMouse](https://better-mouse.com) - Personalize a rolagem, a aceleração, os botões e os gestos de mouses de terceiros.
 * [BetterTouchTool](https://folivora.ai/) - Personalize gestos, atalhos e ações de entrada em trackpads, mouses e teclados.
 * [Brink](https://brinknotch.site) - Um recorte na borda da tela que mantém suas páginas e tarefas do Notion a um passar do cursor. [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
