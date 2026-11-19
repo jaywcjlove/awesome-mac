@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:09:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Inquiline</title>
+      <link>https://github.com/inquiline-app/inquiline</link>
+      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
+      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: Inquiline
+Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.
+Open Source: https://github.com/inquiline-app/inquiline
+Commit: Add Inquiline to Virtualization (#4782)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Inquiline<br/>Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
+    </item>
     <item>
       <title>Xylem</title>
       <link>https://xylem.t1nkl.dev</link>
@@ -721,20 +735,6 @@ App Store: https://apps.apple.com/app/louppe/id6820131477
 Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Louppe<br/>Description: JPEG, RAW, 동영상 폴더를 그대로 둘러보고 키보드로 남길 파일을 골라 복사할 수 있는 사진·동영상 뷰어 겸 정리 도구. 라이브러리로 가져올 필요가 없음.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
-    </item>
-    <item>
-      <title>Trace</title>
-      <link>https://github.com/lxyeternal/Trace</link>
-      <guid isPermaLink="false">924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d:Trace</guid>
-      <pubDate>Sun, 15 Nov 2026 01:32:24 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Trace
-Description: 앱, 창, 파일, 웹 페이지를 자동으로 기록하는 시간 추적기로, 모든 데이터는 Mac에만 저장됩니다.
-Open Source: https://github.com/lxyeternal/Trace
-Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Trace<br/>Description: 앱, 창, 파일, 웹 페이지를 자동으로 기록하는 시간 추적기로, 모든 데이터는 Mac에만 저장됩니다.<br/>Open Source: https://github.com/lxyeternal/Trace<br/>Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d]]></content:encoded>
     </item>
   </channel>
 </rss>

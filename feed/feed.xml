@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:09:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Inquiline</title>
+      <link>https://github.com/inquiline-app/inquiline</link>
+      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
+      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: Inquiline
+Description: Runs real Android 15 on Apple Silicon and turns each Android app into its own Mac app, with Gemini over any app, Android widgets on the desktop and per-app ad blocking.
+Open Source: https://github.com/inquiline-app/inquiline
+Commit: Add Inquiline to Virtualization (#4782)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Inquiline<br/>Description: Runs real Android 15 on Apple Silicon and turns each Android app into its own Mac app, with Gemini over any app, Android widgets on the desktop and per-app ad blocking.<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
+    </item>
     <item>
       <title>Xylem</title>
       <link>https://xylem.t1nkl.dev</link>
@@ -720,20 +734,6 @@ Open Source: https://github.com/pickywawa/cyberdog
 Commit: Add Cyberdog (#4610)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cyberdog<br/>Description: SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
-    </item>
-    <item>
-      <title>HistCite Mac</title>
-      <link>https://github.com/yangnim21029/histcite-mac</link>
-      <guid isPermaLink="false">36aa93952ca7855154af79c3b115f19bbdbc4a19:HistCite Mac</guid>
-      <pubDate>Sun, 15 Nov 2026 02:17:08 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: HistCite Mac
-Description: Open-source bibliometric analysis and citation network visualization for Web of Science exports.
-Open Source: https://github.com/yangnim21029/histcite-mac
-Commit: Add HistCite Mac to the multilingual app lists (#4609)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: HistCite Mac<br/>Description: Open-source bibliometric analysis and citation network visualization for Web of Science exports.<br/>Open Source: https://github.com/yangnim21029/histcite-mac<br/>Commit: Add HistCite Mac to the multilingual app lists (#4609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19]]></content:encoded>
     </item>
   </channel>
 </rss>
