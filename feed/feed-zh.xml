@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:05:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hourmint</title>
+      <link>https://hourmint.abdur.tech</link>
+      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
+      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
+      <category>其它实用工具 / 效率工具</category>
+      <description>Category: 其它实用工具 / 效率工具
+App: Hourmint
+Description: 面向自由职业者的菜单栏计时工具，提供工作日志、工时表和 PDF 发票。
+Website: https://hourmint.abdur.tech
+Open Source: https://github.com/abdurrahmanriyad/hourmint
+Commit: Add Hourmint to Productivity (#4747)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 效率工具<br/>App: Hourmint<br/>Description: 面向自由职业者的菜单栏计时工具，提供工作日志、工时表和 PDF 发票。<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
+    </item>
     <item>
       <title>Fenestra</title>
       <link>https://github.com/PRMotorWorks/Fenestra</link>
@@ -716,20 +731,6 @@ Open Source: https://github.com/k33ssa/vafa
 Commit: Add Vafa to Proxy and VPN Tools (#4590)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: Vafa<br/>Description: 开源的 VPN 断网保护工具，在连接到允许国家出口的 VPN 之前冻结所选应用并阻止其联网。<br/>Open Source: https://github.com/k33ssa/vafa<br/>Commit: Add Vafa to Proxy and VPN Tools (#4590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a]]></content:encoded>
-    </item>
-    <item>
-      <title>arowser</title>
-      <link>https://github.com/HankMonster/arowser</link>
-      <guid isPermaLink="false">f770fd29882625945168dc0909e51f77c7a89967:arowser</guid>
-      <pubDate>Sat, 14 Nov 2026 11:53:54 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: arowser
-Description: 面向 agent 可编程的 macOS 无边框网页窗口，由为编码 agent 设计的 CLI 驱动。
-Open Source: https://github.com/HankMonster/arowser
-Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: arowser<br/>Description: 面向 agent 可编程的 macOS 无边框网页窗口，由为编码 agent 设计的 CLI 驱动。<br/>Open Source: https://github.com/HankMonster/arowser<br/>Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967]]></content:encoded>
     </item>
   </channel>
 </rss>

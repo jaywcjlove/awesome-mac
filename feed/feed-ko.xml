@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:05:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hourmint</title>
+      <link>https://hourmint.abdur.tech</link>
+      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
+      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Hourmint
+Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.
+Website: https://hourmint.abdur.tech
+Open Source: https://github.com/abdurrahmanriyad/hourmint
+Commit: Add Hourmint to Productivity (#4747)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Hourmint<br/>Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
+    </item>
     <item>
       <title>Fenestra</title>
       <link>https://github.com/PRMotorWorks/Fenestra</link>
@@ -716,21 +731,6 @@ Open Source: https://github.com/HankMonster/arowser
 Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: arowser<br/>Description: 코딩 에이전트를 위해 설계된 CLI로 구동되는 macOS용 에이전트 프로그래밍 가능 테두리 없는 웹 윈도우.<br/>Open Source: https://github.com/HankMonster/arowser<br/>Commit: Add arowser to Developer Utilities (all four READMEs) (#4572)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f770fd29882625945168dc0909e51f77c7a89967]]></content:encoded>
-    </item>
-    <item>
-      <title>BaseHalf</title>
-      <link>https://basehalf.com</link>
-      <guid isPermaLink="false">71a1aa10a557dc05db55a76c064164d2cf8c62ea:BaseHalf</guid>
-      <pubDate>Sat, 14 Nov 2026 07:00:38 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: BaseHalf
-Description: 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱.
-Website: https://basehalf.com
-Open Source: https://github.com/Pointa-Labs/basehalf
-Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: BaseHalf<br/>Description: 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱.<br/>Website: https://basehalf.com<br/>Open Source: https://github.com/Pointa-Labs/basehalf<br/>Commit: Add BaseHalf to AI Tools (EN/ZH/JA/KO) (#4578)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71a1aa10a557dc05db55a76c064164d2cf8c62ea]]></content:encoded>
     </item>
   </channel>
 </rss>
