@@ -1285,7 +1285,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Easydict](https://github.com/tisfeng/Easydict) - Um dicionário e tradutor conciso para consultar palavras e traduzir textos. [![Open-Source Software][OSS Icon]](https://github.com/tisfeng/Easydict)
 * [Grammarly](https://app.grammarly.com/) - Aprimore seu inglês
 * [iTranslate](https://www.itranslate.com/) - Aplicativo de tradução de textos e páginas web em vários idiomas. ![Freeware][Freeware Icon]
-* [Live Translator](https://github.com/umutcetinkaya/live-translator) - Tradução em tempo real na tela de qualquer áudio do sistema (YouTube, podcasts, reuniões) usando OpenAI ou Gemini. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
+* [Live Translator](https://github.com/umutcetinkaya/live-translator) - Tradução em tempo real na tela de qualquer áudio do sistema, no próprio dispositivo com TranslateGemma por padrão e suporte opcional a OpenAI, Gemini ou Anthropic. [![Open-Source Software][OSS Icon]](https://github.com/umutcetinkaya/live-translator) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - Mecanismo de busca linguístico que ajuda você a escrever melhor em inglês.
 * [Mate Translate](https://gikken.co/mate-translate/mac) - Traduza no Safari e em qualquer app no macOS entre 103 idiomas.
 * [MoePeek](https://github.com/cosZone/MoePeek) - Ferramenta de tradução com seleção de texto, OCR, área de transferência e entrada manual. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
