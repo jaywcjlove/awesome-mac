@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:10:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropKeeper</title>
+      <link>https://direcat.net/dropkeeper/</link>
+      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
+      <category>Utilities / File Organization Tools</category>
+      <description>Category: Utilities / File Organization Tools
+App: DropKeeper
+Description: Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.
+Website: https://direcat.net/dropkeeper/
+Open Source: https://github.com/direcat/dropkeeper
+Commit: Add DropKeeper to File Organization Tools (#3694)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
+      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: DropKeeper<br/>Description: Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
+    </item>
     <item>
       <title>WhimsyDesk</title>
       <link>https://whimsydesk.art</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/alexsergivan/kwant
 Commit: Add kwant to AI Tools (#4615)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: kwant<br/>Description: Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals.<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
-    </item>
-    <item>
-      <title>Rewrite</title>
-      <link>https://samratduttaofficial.github.io/Rewrite/</link>
-      <guid isPermaLink="false">797f4642c101b3964178f539f2593062343a1ad8:Rewrite</guid>
-      <pubDate>Sun, 15 Nov 2026 02:46:57 GMT</pubDate>
-      <category>Reading and Writing Tools / Writing</category>
-      <description>Category: Reading and Writing Tools / Writing
-App: Rewrite
-Description: Rewrite text, fix grammar, and edit Word, LaTeX and PDF files.
-Website: https://samratduttaofficial.github.io/Rewrite/
-Commit: Add Rewrite to Writing (#3897)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Rewrite<br/>Description: Rewrite text, fix grammar, and edit Word, LaTeX and PDF files.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
     </item>
   </channel>
 </rss>
