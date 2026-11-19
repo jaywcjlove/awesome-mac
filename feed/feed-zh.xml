@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:15:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: App Vanish
+Description: 把应用拖到垃圾桶图标上，即可删除应用及其残留文件。不确定的文件默认不勾选，所有内容都会移到废纸篓。App Store 版本可查找已删除应用留下的文件。
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: App Vanish<br/>Description: 把应用拖到垃圾桶图标上，即可删除应用及其残留文件。不确定的文件默认不勾选，所有内容都会移到废纸篓。App Store 版本可查找已删除应用留下的文件。<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
     <item>
       <title>mm2t</title>
       <link>https://mm2t.yuzen.dev/</link>
@@ -718,20 +734,6 @@ Open Source: https://github.com/ezzy1630/Downright
 Commit: Add Downright to Markdown tools (#2606)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Downright<br/>Description: 原生开源的 Markdown 阅读器和编辑器，直接打开普通文件，支持 Quick Look 预览和 Finder 缩略图，文件被其他应用或 AI 代理修改时实时刷新。<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Sheer</title>
-      <link>https://github.com/AzurLiu/sheer</link>
-      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
-      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Sheer
-Description: 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。
-Open Source: https://github.com/AzurLiu/sheer
-Commit: Add Sheer to Menu Bar Tools (#4592)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Sheer<br/>Description: 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
     </item>
   </channel>
 </rss>

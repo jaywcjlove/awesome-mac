@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:15:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: App Vanish
+Description: アプリをゴミ箱にドロップすると、アプリと残されたファイルを削除できるツール。判断が必要なファイルは最初はチェックが外れており、すべてゴミ箱に移動される。App Store 版は削除済みアプリの残りファイルを見つける。
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: App Vanish<br/>Description: アプリをゴミ箱にドロップすると、アプリと残されたファイルを削除できるツール。判断が必要なファイルは最初はチェックが外れており、すべてゴミ箱に移動される。App Store 版は削除済みアプリの残りファイルを見つける。<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
     <item>
       <title>mm2t</title>
       <link>https://mm2t.yuzen.dev/en/</link>
@@ -718,20 +734,6 @@ Open Source: https://github.com/AzurLiu/sheer
 Commit: Add Sheer to Menu Bar Tools (#4592)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Sheer<br/>Description: macOS 15 に macOS 26 風の透明なメニューバーをもたらし、壁紙を透かして表示します。<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
-    </item>
-    <item>
-      <title>Vafa</title>
-      <link>https://github.com/k33ssa/vafa</link>
-      <guid isPermaLink="false">a310caf7d90984eb6d882dcb84b5fafb4b80e57a:Vafa</guid>
-      <pubDate>Sat, 14 Nov 2026 12:18:45 GMT</pubDate>
-      <category>プロキシ・VPNツール</category>
-      <description>Category: プロキシ・VPNツール
-App: Vafa
-Description: 許可された出口国の VPN が接続されるまで、選んだアプリを凍結して通信を遮断するオープンソースの VPN キルスイッチ。
-Open Source: https://github.com/k33ssa/vafa
-Commit: Add Vafa to Proxy and VPN Tools (#4590)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a</description>
-      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: Vafa<br/>Description: 許可された出口国の VPN が接続されるまで、選んだアプリを凍結して通信を遮断するオープンソースの VPN キルスイッチ。<br/>Open Source: https://github.com/k33ssa/vafa<br/>Commit: Add Vafa to Proxy and VPN Tools (#4590)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a310caf7d90984eb6d882dcb84b5fafb4b80e57a]]></content:encoded>
     </item>
   </channel>
 </rss>
