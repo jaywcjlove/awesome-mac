@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:10:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropKeeper</title>
+      <link>https://direcat.net/dropkeeper/</link>
+      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: DropKeeper
+Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).
+Website: https://direcat.net/dropkeeper/
+Open Source: https://github.com/direcat/dropkeeper
+Commit: Add DropKeeper to File Organization Tools (#3694)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: DropKeeper<br/>Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
+    </item>
     <item>
       <title>Inquiline</title>
       <link>https://github.com/inquiline-app/inquiline</link>
@@ -719,22 +734,6 @@ Open Source: https://github.com/Bouliw/earshot
 Commit: Add Earshot to Voice-to-Text (#3463)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Earshot<br/>Description: 선택한 앱의 오디오를 기기에서 실시간으로 전사하고 Microsoft Teams에서는 화자 이름도 표시하는 메뉴 막대 앱.<br/>Open Source: https://github.com/Bouliw/earshot<br/>Commit: Add Earshot to Voice-to-Text (#3463)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925]]></content:encoded>
-    </item>
-    <item>
-      <title>Louppe</title>
-      <link>https://louppe.eu/</link>
-      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
-      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Louppe
-Description: JPEG, RAW, 동영상 폴더를 그대로 둘러보고 키보드로 남길 파일을 골라 복사할 수 있는 사진·동영상 뷰어 겸 정리 도구. 라이브러리로 가져올 필요가 없음.
-Website: https://louppe.eu/
-Open Source: https://github.com/murlexander/louppe-media-culler
-App Store: https://apps.apple.com/app/louppe/id6820131477
-Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Louppe<br/>Description: JPEG, RAW, 동영상 폴더를 그대로 둘러보고 키보드로 남길 파일을 골라 복사할 수 있는 사진·동영상 뷰어 겸 정리 도구. 라이브러리로 가져올 필요가 없음.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
     </item>
   </channel>
 </rss>

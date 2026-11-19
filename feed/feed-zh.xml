@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:10:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropKeeper</title>
+      <link>https://direcat.net/dropkeeper/</link>
+      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
+      <category>其它实用工具 / Finder</category>
+      <description>Category: 其它实用工具 / Finder
+App: DropKeeper
+Description: 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。
+Website: https://direcat.net/dropkeeper/
+Open Source: https://github.com/direcat/dropkeeper
+Commit: Add DropKeeper to File Organization Tools (#3694)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: DropKeeper<br/>Description: 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
+    </item>
     <item>
       <title>Inquiline</title>
       <link>https://github.com/inquiline-app/inquiline</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/yangnim21029/histcite-mac
 Commit: Add HistCite Mac to the multilingual app lists (#4609)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19</description>
       <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: HistCite Mac<br/>Description: 用于分析 Web of Science 导出数据并可视化引文网络的开源文献计量工具。<br/>Open Source: https://github.com/yangnim21029/histcite-mac<br/>Commit: Add HistCite Mac to the multilingual app lists (#4609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19]]></content:encoded>
-    </item>
-    <item>
-      <title>Earshot</title>
-      <link>https://github.com/Bouliw/earshot</link>
-      <guid isPermaLink="false">0240be75bb6d3fcc5f0239e2d1c15dc647b4e925:Earshot</guid>
-      <pubDate>Sun, 15 Nov 2026 01:42:46 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Earshot
-Description: 菜单栏应用，在设备上实时转写你选择的任意应用的音频，并在 Microsoft Teams 中显示说话人姓名。
-Open Source: https://github.com/Bouliw/earshot
-Commit: Add Earshot to Voice-to-Text (#3463)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Earshot<br/>Description: 菜单栏应用，在设备上实时转写你选择的任意应用的音频，并在 Microsoft Teams 中显示说话人姓名。<br/>Open Source: https://github.com/Bouliw/earshot<br/>Commit: Add Earshot to Voice-to-Text (#3463)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925]]></content:encoded>
     </item>
   </channel>
 </rss>
