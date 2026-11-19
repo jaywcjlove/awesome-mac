@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:34:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OmegaStar</title>
+      <link>https://github.com/itsfutsy/OmegaStar</link>
+      <guid isPermaLink="false">fc73c588150c22f19df5b08675c4213d037e24fe:OmegaStar</guid>
+      <pubDate>Thu, 19 Nov 2026 05:34:22 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: OmegaStar
+Description: 把你已经在用的 Claude Code，连同它的浏览器、模型和登录，变成一支 AI 员工团队，每个员工有明确的目标，用对话教它，每一课都存成 skill。
+Open Source: https://github.com/itsfutsy/OmegaStar
+Commit: Add OmegaStar to AI Tools (#4750)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: OmegaStar<br/>Description: 把你已经在用的 Claude Code，连同它的浏览器、模型和登录，变成一支 AI 员工团队，每个员工有明确的目标，用对话教它，每一课都存成 skill。<br/>Open Source: https://github.com/itsfutsy/OmegaStar<br/>Commit: Add OmegaStar to AI Tools (#4750)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe]]></content:encoded>
+    </item>
     <item>
       <title>Pixtamer</title>
       <link>https://pixtamer.pages.dev</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/Acckion/Keylane
 Commit: Add Keylane to the macOS app list (#4482)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Keylane<br/>Description: 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。<br/>Open Source: https://github.com/Acckion/Keylane<br/>Commit: Add Keylane to the macOS app list (#4482)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377]]></content:encoded>
-    </item>
-    <item>
-      <title>MyPack</title>
-      <link>https://mypack.pages.dev</link>
-      <guid isPermaLink="false">bf0000dcc4c90a13393b5969f92cc5585c497b3e:MyPack</guid>
-      <pubDate>Sun, 15 Nov 2026 00:59:36 GMT</pubDate>
-      <category>软件打包工具</category>
-      <description>Category: 软件打包工具
-App: MyPack
-Description: 将网站打包为 macOS、Windows 和 Linux 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack)
-Website: https://mypack.pages.dev
-Open Source: https://github.com/sinhong2011/mypack
-Commit: Add MyPack to hybrid application frameworks (#4597)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf0000dcc4c90a13393b5969f92cc5585c497b3e</description>
-      <content:encoded><![CDATA[Category: 软件打包工具<br/>App: MyPack<br/>Description: 将网站打包为 macOS、Windows 和 Linux 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sinhong2011/mypack)<br/>Website: https://mypack.pages.dev<br/>Open Source: https://github.com/sinhong2011/mypack<br/>Commit: Add MyPack to hybrid application frameworks (#4597)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf0000dcc4c90a13393b5969f92cc5585c497b3e]]></content:encoded>
     </item>
   </channel>
 </rss>
