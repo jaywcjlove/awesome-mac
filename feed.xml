@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:15:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: App Vanish
+Description: Drop an app on the bin to remove it and the files it left behind. Unsure files start unticked and everything goes to the Trash. The App Store edition finds leftovers of apps you already deleted.
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Vanish<br/>Description: Drop an app on the bin to remove it and the files it left behind. Unsure files start unticked and everything goes to the Trash. The App Store edition finds leftovers of apps you already deleted.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
     <item>
       <title>mm2t</title>
       <link>https://mm2t.yuzen.dev/en/</link>
@@ -717,21 +733,6 @@ Open Source: https://github.com/Acckion/Keylane
 Commit: Add Keylane to the macOS app list (#4482)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Keylane<br/>Description: Source-available keyboard launcher for macOS 26+ with app and file search, clipboard history, and system actions.<br/>Open Source: https://github.com/Acckion/Keylane<br/>Commit: Add Keylane to the macOS app list (#4482)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25c9d0b42283f582bdab97298cd8d24b18c29377]]></content:encoded>
-    </item>
-    <item>
-      <title>MyPack</title>
-      <link>https://mypack.pages.dev</link>
-      <guid isPermaLink="false">bf0000dcc4c90a13393b5969f92cc5585c497b3e:MyPack</guid>
-      <pubDate>Sun, 15 Nov 2026 00:59:36 GMT</pubDate>
-      <category>Developer Tools / Frameworks For Hybrid Applications</category>
-      <description>Category: Developer Tools / Frameworks For Hybrid Applications
-App: MyPack
-Description: Turn websites into desktop apps for macOS, Windows, and Linux.
-Website: https://mypack.pages.dev
-Open Source: https://github.com/sinhong2011/mypack
-Commit: Add MyPack to hybrid application frameworks (#4597)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf0000dcc4c90a13393b5969f92cc5585c497b3e</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Frameworks For Hybrid Applications<br/>App: MyPack<br/>Description: Turn websites into desktop apps for macOS, Windows, and Linux.<br/>Website: https://mypack.pages.dev<br/>Open Source: https://github.com/sinhong2011/mypack<br/>Commit: Add MyPack to hybrid application frameworks (#4597)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf0000dcc4c90a13393b5969f92cc5585c497b3e]]></content:encoded>
     </item>
   </channel>
 </rss>

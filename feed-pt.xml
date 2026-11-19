@@ -5,9 +5,25 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:15:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>Utilitários / Limpeza e desinstalação</category>
+      <description>Category: Utilitários / Limpeza e desinstalação
+App: App Vanish
+Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: Utilitários / Limpeza e desinstalação<br/>App: App Vanish<br/>Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
     <item>
       <title>Hourmint</title>
       <link>https://hourmint.abdur.tech</link>
@@ -722,21 +738,6 @@ Open Source: https://github.com/textmate/textmate
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: TextMate<br/>Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.<br/>Website: https://macromates.com<br/>Open Source: https://github.com/textmate/textmate<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Tot</title>
-      <link>https://tot.rocks/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Tot</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Tot
-Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!
-Website: https://tot.rocks/
-App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Tot<br/>Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!<br/>Website: https://tot.rocks/<br/>App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
