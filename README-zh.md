@@ -1530,6 +1530,7 @@ Awesome Mac
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - 适用于 macOS 27 的菜单栏管理工具，按应用隐藏图标，并可通过点击、悬停或快捷键重新显示。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [Belay](https://perfectoweb.github.io/Belay/) - 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
+* [Browser Cookie Bridge](https://cookiebridge.apoorvdarshan.com/) - 从菜单栏在浏览器和自动化工具之间传输已认证的 Chromium 会话。 [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/browser-cookie-bridge) ![Freeware][Freeware Icon]
 * [Candela](https://candela.fyi) - 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。 [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [Çentik](https://github.com/YusufEmreYazici/Centik) - 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。 [![Open-Source Software][OSS Icon]](https://github.com/YusufEmreYazici/Centik) ![Freeware][Freeware Icon] ![Native App][Native Icon]
