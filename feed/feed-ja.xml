@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:19:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HyprMac</title>
+      <link>https://hyprmac.app</link>
+      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
+      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: HyprMac
+Description: Hyprlandに着想を得たキーボード操作のタイリングウィンドウマネージャー。自動dwindleレイアウトと10個のワークスペースを備える。
+Website: https://hyprmac.app
+Open Source: https://github.com/zacharytgray/HyprMac
+Commit: Add HyprMac (#4802)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: HyprMac<br/>Description: Hyprlandに着想を得たキーボード操作のタイリングウィンドウマネージャー。自動dwindleレイアウトと10個のワークスペースを備える。<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
+    </item>
     <item>
       <title>TernaryCode</title>
       <link>https://ilhamnadhif.github.io/ternarycode/</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/porco-rs/ainnotator
 Commit: Add AInnotator to Screenshot Tools (#4641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: AInnotator<br/>Description: 番号付きのマーク、メモ、黒塗りを、それだけで内容が伝わる1枚の画像にまとめ、SSH経由でもClaude Code、Codex、ChatGPTに貼り付けられるスクリーンショット注釈ツール。<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
-    </item>
-    <item>
-      <title>neatly</title>
-      <link>https://alpozaydin.github.io/neatly/</link>
-      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
-      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
-      <category>ユーティリティ / ファイル管理ツール</category>
-      <description>Category: ユーティリティ / ファイル管理ツール
-App: neatly
-Description: ダウンロード、スクリーンショット、写真を内容に合わせて自動で名前を付けるAIファイルリネームツール。Apple Intelligenceでデバイス上で動作。
-Website: https://alpozaydin.github.io/neatly/
-Open Source: https://github.com/alpozaydin/neatly
-Commit: Add neatly to File Organization Tools (#4658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: neatly<br/>Description: ダウンロード、スクリーンショット、写真を内容に合わせて自動で名前を付けるAIファイルリネームツール。Apple Intelligenceでデバイス上で動作。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
     </item>
   </channel>
 </rss>

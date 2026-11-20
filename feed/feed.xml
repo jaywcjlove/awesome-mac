@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:19:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HyprMac</title>
+      <link>https://hyprmac.app</link>
+      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
+      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: HyprMac
+Description: Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces.
+Website: https://hyprmac.app
+Open Source: https://github.com/zacharytgray/HyprMac
+Commit: Add HyprMac (#4802)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: HyprMac<br/>Description: Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
+    </item>
     <item>
       <title>TernaryCode</title>
       <link>https://ilhamnadhif.github.io/ternarycode/</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/oceanix-pr/Memozia
 Commit: Add Memozia to audio recording tools in four languages (#4644)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Memozia<br/>Description: Open-source meeting recorder with on-device transcription, speaker labels, summaries, and editable action items.<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
-    </item>
-    <item>
-      <title>NotificationNanny</title>
-      <link>https://chessper53.github.io/NotificationNanny/</link>
-      <guid isPermaLink="false">71e80af34561fb20ee99ee3304d0d71b3919a90d:NotificationNanny</guid>
-      <pubDate>Mon, 16 Nov 2026 10:46:56 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: NotificationNanny
-Description: Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.
-Website: https://chessper53.github.io/NotificationNanny/
-Open Source: https://github.com/chessper53/NotificationNanny
-Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: NotificationNanny<br/>Description: Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
     </item>
   </channel>
 </rss>

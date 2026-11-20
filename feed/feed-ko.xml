@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:19:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>HyprMac</title>
+      <link>https://hyprmac.app</link>
+      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
+      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: HyprMac
+Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.
+Website: https://hyprmac.app
+Open Source: https://github.com/zacharytgray/HyprMac
+Commit: Add HyprMac (#4802)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: HyprMac<br/>Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
+    </item>
     <item>
       <title>TernaryCode</title>
       <link>https://ilhamnadhif.github.io/ternarycode/</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/porco-rs/ainnotator
 Commit: Add AInnotator to Screenshot Tools (#4641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: AInnotator<br/>Description: 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구.<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
-    </item>
-    <item>
-      <title>neatly</title>
-      <link>https://alpozaydin.github.io/neatly/</link>
-      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
-      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: neatly
-Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.
-Website: https://alpozaydin.github.io/neatly/
-Open Source: https://github.com/alpozaydin/neatly
-Commit: Add neatly to File Organization Tools (#4658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: neatly<br/>Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
     </item>
   </channel>
 </rss>
