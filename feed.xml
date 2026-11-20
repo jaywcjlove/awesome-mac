@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TernaryCode</title>
+      <link>https://ilhamnadhif.github.io/ternarycode/</link>
+      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: TernaryCode
+Description: Terminal workspace for many projects and the coding agents in them that shows which agent is waiting for you.
+Website: https://ilhamnadhif.github.io/ternarycode/
+Open Source: https://github.com/ilhamnadhif/ternarycode
+Commit: Add TernaryCode to Terminal Apps (#4770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: TernaryCode<br/>Description: Terminal workspace for many projects and the coding agents in them that shows which agent is waiting for you.<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
+    </item>
     <item>
       <title>SIAM.AI GPU Watch</title>
       <link>https://github.com/siamaicorp/GPUWatch</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/chessper53/NotificationNanny
 Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
       <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: NotificationNanny<br/>Description: Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
-    </item>
-    <item>
-      <title>Multron Download Manager</title>
-      <link>https://github.com/Multron-Community/Multron-Download-Manager</link>
-      <guid isPermaLink="false">f61a75251cbe3c9b484d7638996135de43b7be6f:Multron Download Manager</guid>
-      <pubDate>Mon, 16 Nov 2026 10:31:59 GMT</pubDate>
-      <category>Download Management Tools</category>
-      <description>Category: Download Management Tools
-App: Multron Download Manager
-Description: Multi-connection download manager with yt-dlp and BitTorrent support.
-Open Source: https://github.com/Multron-Community/Multron-Download-Manager
-Commit: Add Multron Download Manager to README (#4649)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f</description>
-      <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Multron Download Manager<br/>Description: Multi-connection download manager with yt-dlp and BitTorrent support.<br/>Open Source: https://github.com/Multron-Community/Multron-Download-Manager<br/>Commit: Add Multron Download Manager to README (#4649)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TernaryCode</title>
+      <link>https://ilhamnadhif.github.io/ternarycode/</link>
+      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: TernaryCode
+Description: 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간.
+Website: https://ilhamnadhif.github.io/ternarycode/
+Open Source: https://github.com/ilhamnadhif/ternarycode
+Commit: Add TernaryCode to Terminal Apps (#4770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: TernaryCode<br/>Description: 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간.<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
+    </item>
     <item>
       <title>SIAM.AI GPU Watch</title>
       <link>https://github.com/siamaicorp/GPUWatch</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/alpozaydin/neatly
 Commit: Add neatly to File Organization Tools (#4658)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: neatly<br/>Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoundLadder</title>
-      <link>https://github.com/dirkkredinger/SoundLadder</link>
-      <guid isPermaLink="false">d2259249451bd2724cf2c5b231ce4a39f76aebc2:SoundLadder</guid>
-      <pubDate>Mon, 16 Nov 2026 00:19:29 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: SoundLadder
-Description: 우선순위 목록에 따라 오디오 출력을 선택하고, 선호 기기가 연결되어 있지 않으면 다음 연결된 기기로 자동 전환하는 메뉴 막대 앱.
-Open Source: https://github.com/dirkkredinger/SoundLadder
-Commit: Add SoundLadder to Menu Bar Tools (#4638)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: SoundLadder<br/>Description: 우선순위 목록에 따라 오디오 출력을 선택하고, 선호 기기가 연결되어 있지 않으면 다음 연결된 기기로 자동 전환하는 메뉴 막대 앱.<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
     </item>
   </channel>
 </rss>

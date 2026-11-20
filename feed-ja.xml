@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TernaryCode</title>
+      <link>https://ilhamnadhif.github.io/ternarycode/</link>
+      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: TernaryCode
+Description: 複数のプロジェクトとその中のコーディングエージェントをまとめて扱い、どのエージェントが入力を待っているかを表示するターミナルワークスペース。
+Website: https://ilhamnadhif.github.io/ternarycode/
+Open Source: https://github.com/ilhamnadhif/ternarycode
+Commit: Add TernaryCode to Terminal Apps (#4770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: TernaryCode<br/>Description: 複数のプロジェクトとその中のコーディングエージェントをまとめて扱い、どのエージェントが入力を待っているかを表示するターミナルワークスペース。<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
+    </item>
     <item>
       <title>SIAM.AI GPU Watch</title>
       <link>https://github.com/siamaicorp/GPUWatch</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/alpozaydin/neatly
 Commit: Add neatly to File Organization Tools (#4658)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: neatly<br/>Description: ダウンロード、スクリーンショット、写真を内容に合わせて自動で名前を付けるAIファイルリネームツール。Apple Intelligenceでデバイス上で動作。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoundLadder</title>
-      <link>https://github.com/dirkkredinger/SoundLadder</link>
-      <guid isPermaLink="false">d2259249451bd2724cf2c5b231ce4a39f76aebc2:SoundLadder</guid>
-      <pubDate>Mon, 16 Nov 2026 00:19:29 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: SoundLadder
-Description: 優先順位リストに従ってオーディオ出力を選び、優先デバイスが未接続なら次の接続済みデバイスへ自動で切り替えるメニューバーアプリ。
-Open Source: https://github.com/dirkkredinger/SoundLadder
-Commit: Add SoundLadder to Menu Bar Tools (#4638)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: SoundLadder<br/>Description: 優先順位リストに従ってオーディオ出力を選び、優先デバイスが未接続なら次の接続済みデバイスへ自動で切り替えるメニューバーアプリ。<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
     </item>
   </channel>
 </rss>

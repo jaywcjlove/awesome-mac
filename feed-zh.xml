@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:12:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TernaryCode</title>
+      <link>https://ilhamnadhif.github.io/ternarycode/</link>
+      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: TernaryCode
+Description: 在一个窗口里管理多个项目及其中编程代理的终端工作区，会显示哪个代理正在等你。
+Website: https://ilhamnadhif.github.io/ternarycode/
+Open Source: https://github.com/ilhamnadhif/ternarycode
+Commit: Add TernaryCode to Terminal Apps (#4770)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: TernaryCode<br/>Description: 在一个窗口里管理多个项目及其中编程代理的终端工作区，会显示哪个代理正在等你。<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
+    </item>
     <item>
       <title>SIAM.AI GPU Watch</title>
       <link>https://github.com/siamaicorp/GPUWatch</link>
@@ -720,21 +735,6 @@ Open Source: https://github.com/porco-rs/ainnotator
 Commit: Add AInnotator to Screenshot Tools (#4641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: AInnotator<br/>Description: 截图标注工具，将编号标记、备注和涂黑区域合成一张无需额外说明的图片，可粘贴到 Claude Code、Codex 或 ChatGPT，SSH 远程场景同样支持。<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
-    </item>
-    <item>
-      <title>neatly</title>
-      <link>https://alpozaydin.github.io/neatly/</link>
-      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
-      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: neatly
-Description: AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。
-Website: https://alpozaydin.github.io/neatly/
-Open Source: https://github.com/alpozaydin/neatly
-Commit: Add neatly to File Organization Tools (#4658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: neatly<br/>Description: AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
     </item>
   </channel>
 </rss>
