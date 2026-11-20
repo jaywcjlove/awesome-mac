@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tietie</title>
+      <link>https://github.com/KLWSharpe/tietie</link>
+      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
+      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: Tietie
+Description: 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어).
+Open Source: https://github.com/KLWSharpe/tietie
+Commit: Add Tietie to Clipboard Tools (#4795)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Tietie<br/>Description: 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어).<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
+    </item>
     <item>
       <title>Meridian</title>
       <link>https://undermove.github.io/meridian-browser/</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/alexsergivan/kwant
 Commit: Add kwant to AI Tools (#4615)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: kwant<br/>Description: 하나의 Rust 바이너리로 동작하는 셀프 호스팅 AI 봇 팀. 스페이스, 로컬 모델, 핸드오프, 승인을 지원합니다.<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
-    </item>
-    <item>
-      <title>Rewrite</title>
-      <link>https://samratduttaofficial.github.io/Rewrite/</link>
-      <guid isPermaLink="false">797f4642c101b3964178f539f2593062343a1ad8:Rewrite</guid>
-      <pubDate>Sun, 15 Nov 2026 02:46:57 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 쓰기</category>
-      <description>Category: 읽기 및 쓰기 도구 / 쓰기
-App: Rewrite
-Description: 텍스트를 다시 쓰고 문법을 고치며 Word, LaTeX, PDF 파일을 편집하는 앱.
-Website: https://samratduttaofficial.github.io/Rewrite/
-Commit: Add Rewrite to Writing (#3897)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: Rewrite<br/>Description: 텍스트를 다시 쓰고 문법을 고치며 Word, LaTeX, PDF 파일을 편집하는 앱.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
     </item>
   </channel>
 </rss>

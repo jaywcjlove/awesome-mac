@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tietie</title>
+      <link>https://github.com/KLWSharpe/tietie</link>
+      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
+      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Tietie
+Description: Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese.
+Open Source: https://github.com/KLWSharpe/tietie
+Commit: Add Tietie to Clipboard Tools (#4795)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Tietie<br/>Description: Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese.<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
+    </item>
     <item>
       <title>Meridian</title>
       <link>https://undermove.github.io/meridian-browser/</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/porco-rs/ainnotator
 Commit: Add AInnotator to Screenshot Tools (#4641)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: AInnotator<br/>Description: Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH.<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
-    </item>
-    <item>
-      <title>neatly</title>
-      <link>https://alpozaydin.github.io/neatly/</link>
-      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
-      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: neatly
-Description: AI file renamer that names downloads, screenshots and photos by their content, on-device with Apple Intelligence.
-Website: https://alpozaydin.github.io/neatly/
-Open Source: https://github.com/alpozaydin/neatly
-Commit: Add neatly to File Organization Tools (#4658)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: neatly<br/>Description: AI file renamer that names downloads, screenshots and photos by their content, on-device with Apple Intelligence.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
     </item>
   </channel>
 </rss>

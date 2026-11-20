@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tietie</title>
+      <link>https://github.com/KLWSharpe/tietie</link>
+      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
+      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Tietie
+Description: Histórico da área de transferência de código aberto para Mac e Windows, com colagem por teclas numéricas e busca de texto dentro de imagens, com interface em chinês tradicional.
+Open Source: https://github.com/KLWSharpe/tietie
+Commit: Add Tietie to Clipboard Tools (#4795)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Tietie<br/>Description: Histórico da área de transferência de código aberto para Mac e Windows, com colagem por teclas numéricas e busca de texto dentro de imagens, com interface em chinês tradicional.<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
+    </item>
     <item>
       <title>Xylem</title>
       <link>https://xylem.t1nkl.dev</link>
@@ -724,21 +738,6 @@ Website: https://nova.app/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Nova<br/>Description: O editor de código nativo para Mac, bonito, rápido e flexível, da Panic.<br/>Website: https://nova.app/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Plain Text Editor</title>
-      <link>https://sindresorhus.com/plain-text-editor</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Plain Text Editor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Plain Text Editor
-Description: Bloco de notas simples e sem distrações.
-Website: https://sindresorhus.com/plain-text-editor
-App Store: https://apps.apple.com/app/id1572202501?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Plain Text Editor<br/>Description: Bloco de notas simples e sem distrações.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>App Store: https://apps.apple.com/app/id1572202501?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
