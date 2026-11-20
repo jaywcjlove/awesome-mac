@@ -280,6 +280,7 @@ Awesome Mac
 * [EdgeEver](https://edgeever.org/) - セルフホスティング、マルチデバイス同期、MCP 連携に対応したオープンソースのノート・知識管理ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/tianma-if/edgeever) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - ワンタップで自分にメール。macOS、iOS、WatchOSにネイティブ対応。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 多くのプラットフォームで利用可能な有名なメモアプリ。 ![Freeware][Freeware Icon]
+* [Forma](https://www.useforma.app/) - ノート、タスク、フリーハンド描画をひとつのキャンバスにまとめる、macOSネイティブアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6755406356?platform=mac)
 * [FSNotes](https://fsnot.es/) - macOSとiOSにネイティブ対応したモダンなメモ管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?platform=mac)
 * [Gooba](https://goobapp.com/) - シンプルでインタラクティブなデザインのライティングアプリ兼タスクマネージャー。
 * [Inkdrop](https://www.inkdrop.info/) - Electron上に構築されたMarkdown愛好者のためのノートブックアプリ。
