@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tietie</title>
+      <link>https://github.com/KLWSharpe/tietie</link>
+      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
+      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Tietie
+Description: 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。
+Open Source: https://github.com/KLWSharpe/tietie
+Commit: Add Tietie to Clipboard Tools (#4795)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Tietie<br/>Description: 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
+    </item>
     <item>
       <title>Meridian</title>
       <link>https://undermove.github.io/meridian-browser/</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/DabuSoft-pl/tendbar
 Commit: Add Tendbar to AI Tools (#4617)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Tendbar<br/>Description: 原生菜单栏应用，显示哪些 Claude Code 会话已完成、正在等你或已出错，一键跳回对应的终端标签页，并跟踪每个账号的用量限额。<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
-    </item>
-    <item>
-      <title>kwant</title>
-      <link>https://kwant.si</link>
-      <guid isPermaLink="false">c16a70393d592630b3ee2dacb311a91c0a11fee6:kwant</guid>
-      <pubDate>Sun, 15 Nov 2026 11:15:36 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: kwant
-Description: 自托管的 AI 机器人团队，以一个 Rust 二进制运行，支持空间、本地模型、交接与审批。
-Website: https://kwant.si
-Open Source: https://github.com/alexsergivan/kwant
-Commit: Add kwant to AI Tools (#4615)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: kwant<br/>Description: 自托管的 AI 机器人团队，以一个 Rust 二进制运行，支持空间、本地模型、交接与审批。<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
     </item>
   </channel>
 </rss>
