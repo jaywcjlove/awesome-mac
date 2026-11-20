@@ -345,6 +345,7 @@ Awesome Mac
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - EPUB、PDF、ウェブ記事に対応し、全文表示も備えたオープンソースのRSVP速読リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://github.com/readest/readest) - すっきりしたUIと豊富な読書機能を備えたオープンソースの電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - セマンティック検索、AIチャット、ノート管理に対応した電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
+* [Rede](https://github.com/qyangcv/Rede) - 中国語の読書に適した EPUB リーダーで、iCloud を使ってライブラリと読書の進捗をデバイス間で同期できます。 [![Open-Source Software][OSS Icon]](https://github.com/qyangcv/Rede) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - プロフェッショナルなレイアウト・出版ソフトウェア。 [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - マルチプラットフォームEPUB電子書籍エディタ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 * [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac) - PDF、CBZ、CBRフォーマットに対応し、Live Text検索機能を備えた電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac)

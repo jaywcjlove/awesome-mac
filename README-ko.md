@@ -318,6 +318,7 @@ Awesome Mac
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - EPUB, PDF, 웹 문서를 지원하고 전체 텍스트 보기를 제공하는 오픈 소스 RSVP 속독 리더. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://github.com/readest/readest) - 깔끔한 인터페이스와 다양한 읽기 도구를 갖춘 오픈 소스 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - 시맨틱 검색, AI 채팅, 메모 관리를 지원하는 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
+* [Rede](https://github.com/qyangcv/Rede) - 중국어 독서에 맞춘 EPUB 리더로, iCloud를 통해 기기 간에 서재와 읽기 진도를 동기화합니다. [![Open-Source Software][OSS Icon]](https://github.com/qyangcv/Rede) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 전문가 수준의 레이아웃 및 출판 소프트웨어. [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 멀티 플랫폼 EPUB 전자책 편집기. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 * [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac) - 라이브 텍스트 검색을 지원하는 PDF, CBZ, CBR용 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac)
