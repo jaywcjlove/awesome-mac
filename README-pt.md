@@ -733,6 +733,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Inkscape](https://inkscape.org/en/) - Editor profissional de gráficos vetoriais. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - Marcação nativa de pintura e capturas de tela: selos de etapas, pixelização, Instant Alpha. Sem conta ou telemetria. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - Software de pintura digital de código aberto para artistas conceituais, pintores digitais e ilustradores. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
+* [Lightshaper](https://hollowbit.dev/lightshaper/) - Editor de fotos gratuito e offline para RAW e JPEG, com controles de luz e cor, curva de tons, máscaras de gradiente e radiais, looks, importação de presets do Lightroom e exportação em lote. Os originais nunca são alterados. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/lightshaper) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - Design de arte e animação em HTML5 SVG. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - Editor de voxels 8-bit gratuito e leve, e renderizador interativo de path tracing.
 * [MakeHuman](https://www.makehumancommunity.org) - Modelador humano 3D poderoso e gratuito. ![Freeware][Freeware Icon]
