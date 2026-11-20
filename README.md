@@ -804,6 +804,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AInnotator](https://github.com/porco-rs/ainnotator) - Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH. [![Open-Source Software][OSS Icon]](https://github.com/porco-rs/ainnotator) ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload. [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
+* [clios-screenshot](https://individuation.dev/projects/clios-screenshot/) - Command-line tool that saves a screenshot of your iPhone to the Mac, from the iPhone Mirroring window, Universal Clipboard, USB or a Shortcuts trigger. [![Open-Source Software][OSS Icon]](https://github.com/ChrisThoma/clios-screenshot) ![Freeware][Freeware Icon]
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
