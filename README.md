@@ -1975,6 +1975,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mounty](https://mounty.app) - Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode. ![Freeware][Freeware Icon]
 * [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [NTFSTool](https://ntfstool.com) - Free, open-source NTFS read and write for Mac, with no kernel extension. [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
+* [Omnimount](https://omnimount.es/) - Menu bar app and CLI for reading and writing ext4 and NTFS drives through FUSE-T, with raw image backup and restore. [![Open-Source Software][OSS Icon]](https://github.com/ramdoor/omnimount)
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - System maintenance utility for cleanup, verification, and hidden settings. ![Freeware][Freeware Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 * [stats](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
