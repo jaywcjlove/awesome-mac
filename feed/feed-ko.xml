@@ -5,708 +5,736 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:02:02 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
-      <title>MenuBarMijia</title>
-      <link>https://github.com/jryang1997/MenuBarMijia</link>
-      <guid isPermaLink="false">ae6f3429d7271c3badfe580d396ac591c1b41388:MenuBarMijia</guid>
-      <pubDate>Sat, 24 Oct 2026 12:15:48 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: MenuBarMijia
-Description: 메뉴 바에서 음성 또는 키보드로 Xiaomi 미지아 기기를 제어하며, Mi Cloud QR 로그인 또는 Home Assistant를 지원합니다(macOS 26+ 필요).
-Open Source: https://github.com/jryang1997/MenuBarMijia
-Commit: Add MenuBarMijia to Menu Bar Tools (#3813)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: MenuBarMijia<br/>Description: 메뉴 바에서 음성 또는 키보드로 Xiaomi 미지아 기기를 제어하며, Mi Cloud QR 로그인 또는 Home Assistant를 지원합니다(macOS 26+ 필요).<br/>Open Source: https://github.com/jryang1997/MenuBarMijia<br/>Commit: Add MenuBarMijia to Menu Bar Tools (#3813)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae6f3429d7271c3badfe580d396ac591c1b41388]]></content:encoded>
+      <title>Driftwall</title>
+      <link>https://driftwall.kamaldhital.com</link>
+      <guid isPermaLink="false">e434593ff49fe397383bfc9f5c0c19ba01e8a1ce:Driftwall</guid>
+      <pubDate>Fri, 20 Nov 2026 05:02:02 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Driftwall
+Description: 어떤 동영상 파일이든 데스크톱 아이콘 뒤에서 반복 재생되는 라이브 배경화면으로 사용하세요. 모든 디스플레이를 지원합니다.
+Website: https://driftwall.kamaldhital.com
+Open Source: https://github.com/dhitalkamal/driftwall
+Commit: Add Driftwall to General Tools (#4786)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Driftwall<br/>Description: 어떤 동영상 파일이든 데스크톱 아이콘 뒤에서 반복 재생되는 라이브 배경화면으로 사용하세요. 모든 디스플레이를 지원합니다.<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
     </item>
     <item>
-      <title>WattMate</title>
-      <link>https://wattmateapp.com</link>
-      <guid isPermaLink="false">3827925f7e7ac9b43c34d7c201a3001da63fa625:WattMate</guid>
-      <pubDate>Sat, 24 Oct 2026 11:35:18 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: WattMate
-Description: 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다.
-Website: https://wattmateapp.com
-Commit: Add WattMate to System Related Tools (#3718)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: WattMate<br/>Description: 어떤 앱과 AI 코딩 에이전트가 MacBook 배터리를 소모하는지 메뉴 막대에서 바로 확인합니다. 실제 와트 수와 앱을 종료하면 되찾는 시간(분)을 보여줍니다.<br/>Website: https://wattmateapp.com<br/>Commit: Add WattMate to System Related Tools (#3718)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3827925f7e7ac9b43c34d7c201a3001da63fa625]]></content:encoded>
-    </item>
-    <item>
-      <title>Swivel</title>
-      <link>https://github.com/jonathanlotan/Swivel</link>
-      <guid isPermaLink="false">de5724f828ae6246682ce28efcbc1a362576b898:Swivel</guid>
-      <pubDate>Sat, 24 Oct 2026 11:08:53 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: Swivel
-Description: 파일을 드래그하는 중 키를 누르고 휠에 놓으면 변환, 자르기, 압축, 메타데이터 제거, 공유를 할 수 있는 완전 오프라인 도구.
-Open Source: https://github.com/jonathanlotan/Swivel
-Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Swivel<br/>Description: 파일을 드래그하는 중 키를 누르고 휠에 놓으면 변환, 자르기, 압축, 메타데이터 제거, 공유를 할 수 있는 완전 오프라인 도구.<br/>Open Source: https://github.com/jonathanlotan/Swivel<br/>Commit: Add Swivel to General Tools (EN/ZH/JA/KO) (#3639)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/de5724f828ae6246682ce28efcbc1a362576b898]]></content:encoded>
-    </item>
-    <item>
-      <title>SoundCloud for macOS</title>
-      <link>https://github.com/jettsba/SoundCloud-for-macOS</link>
-      <guid isPermaLink="false">9db58d83b5862b5bd95eb3e106faa62e95843452:SoundCloud for macOS</guid>
-      <pubDate>Sat, 24 Oct 2026 10:56:31 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: SoundCloud for macOS
-Description: 비공식 경량 macOS용 SoundCloud 앱.
-Open Source: https://github.com/jettsba/SoundCloud-for-macOS
-Commit: Add SoundCloud for macOS (#3650)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: SoundCloud for macOS<br/>Description: 비공식 경량 macOS용 SoundCloud 앱.<br/>Open Source: https://github.com/jettsba/SoundCloud-for-macOS<br/>Commit: Add SoundCloud for macOS (#3650)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9db58d83b5862b5bd95eb3e106faa62e95843452]]></content:encoded>
-    </item>
-    <item>
-      <title>Screenshots</title>
-      <link>https://ciromaciel.click/tools/screenshots</link>
-      <guid isPermaLink="false">74df1a9f80fd10b3f1be1e39987af7f1d5a3d5e6:Screenshots</guid>
-      <pubDate>Sat, 24 Oct 2026 09:25:50 GMT</pubDate>
-      <category>디자인 및 제품 / 스크린샷 도구</category>
-      <description>Category: 디자인 및 제품 / 스크린샷 도구
-App: Screenshots
-Description: 스크롤 캡처, OCR, 주석, 고정, MP4 또는 GIF 화면 녹화를 지원하며 네트워크 코드가 없는 오픈 소스 메뉴 막대 스크린샷 도구.
-Website: https://ciromaciel.click/tools/screenshots
-Commit: Add Screenshots to Screenshot Tools (EN/ZH/JA/KO) (#3644)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74df1a9f80fd10b3f1be1e39987af7f1d5a3d5e6</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Screenshots<br/>Description: 스크롤 캡처, OCR, 주석, 고정, MP4 또는 GIF 화면 녹화를 지원하며 네트워크 코드가 없는 오픈 소스 메뉴 막대 스크린샷 도구.<br/>Website: https://ciromaciel.click/tools/screenshots<br/>Commit: Add Screenshots to Screenshot Tools (EN/ZH/JA/KO) (#3644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74df1a9f80fd10b3f1be1e39987af7f1d5a3d5e6]]></content:encoded>
-    </item>
-    <item>
-      <title>Atticus</title>
-      <link>https://saarthurr.github.io/atticus-mac/</link>
-      <guid isPermaLink="false">3a555bc595ff60f432a73107360e5aff681c0c7c:Atticus</guid>
-      <pubDate>Sat, 24 Oct 2026 07:49:23 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Atticus
-Description: Claude 요금제로 실행되는 오픈 소스 음성 비서. 한 번 수행한 작업을 학습하며 받아쓰기, 화면 안내, 백그라운드 에이전트를 지원.
-Website: https://saarthurr.github.io/atticus-mac/
-Commit: Add Atticus to AI Tools (#3702)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Atticus<br/>Description: Claude 요금제로 실행되는 오픈 소스 음성 비서. 한 번 수행한 작업을 학습하며 받아쓰기, 화면 안내, 백그라운드 에이전트를 지원.<br/>Website: https://saarthurr.github.io/atticus-mac/<br/>Commit: Add Atticus to AI Tools (#3702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3a555bc595ff60f432a73107360e5aff681c0c7c]]></content:encoded>
-    </item>
-    <item>
-      <title>Topnotchers</title>
-      <link>https://github.com/joey-david/topnotchers</link>
-      <guid isPermaLink="false">23cfc5c3fd8577955132c24082804bd7d1b307ed:Topnotchers</guid>
-      <pubDate>Sat, 24 Oct 2026 07:43:17 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Topnotchers
-Description: MacBook 노치에 Claude Code와 Codex 세션을 움직이는 마스코트로 보여 주고, 질문과 권한 요청에 노치에서 바로 답할 수 있습니다.
-Open Source: https://github.com/joey-david/topnotchers
-Commit: Add Topnotchers to Menu Bar Tools (#3663)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Topnotchers<br/>Description: MacBook 노치에 Claude Code와 Codex 세션을 움직이는 마스코트로 보여 주고, 질문과 권한 요청에 노치에서 바로 답할 수 있습니다.<br/>Open Source: https://github.com/joey-david/topnotchers<br/>Commit: Add Topnotchers to Menu Bar Tools (#3663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23cfc5c3fd8577955132c24082804bd7d1b307ed]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipRecallBar</title>
-      <link>https://turhe123.github.io/clip-recall-bar/</link>
-      <guid isPermaLink="false">32fe64cfde5d94d06e4588978c35a9017bf65fc0:ClipRecallBar</guid>
-      <pubDate>Sat, 24 Oct 2026 06:56:50 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: ClipRecallBar
-Description: 입력하면서 바로 필터링하고 키 하나로 붙여넣는 키보드 중심 클립보드 기록 팝업.
-Website: https://turhe123.github.io/clip-recall-bar/
-Commit: Add ClipRecallBar (#3652)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipRecallBar<br/>Description: 입력하면서 바로 필터링하고 키 하나로 붙여넣는 키보드 중심 클립보드 기록 팝업.<br/>Website: https://turhe123.github.io/clip-recall-bar/<br/>Commit: Add ClipRecallBar (#3652)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32fe64cfde5d94d06e4588978c35a9017bf65fc0]]></content:encoded>
-    </item>
-    <item>
-      <title>FileShipper</title>
-      <link>https://getapps.cafe/app/fileshipper</link>
-      <guid isPermaLink="false">27d9cf88a9da8862fd43ee39ad219d4148c3671b:FileShipper</guid>
-      <pubDate>Sat, 24 Oct 2026 06:18:26 GMT</pubDate>
-      <category>커뮤니케이션 / 파일 공유</category>
-      <description>Category: 커뮤니케이션 / 파일 공유
-App: FileShipper
-Description: 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구.
-Website: https://getapps.cafe/app/fileshipper
-Commit: Add FileShipper (#2701)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: FileShipper<br/>Description: 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구.<br/>Website: https://getapps.cafe/app/fileshipper<br/>Commit: Add FileShipper (#2701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/27d9cf88a9da8862fd43ee39ad219d4148c3671b]]></content:encoded>
-    </item>
-    <item>
-      <title>Stedding</title>
-      <link>https://stedding.dev/</link>
-      <guid isPermaLink="false">a02158543950ab3ee1d76d878be46bab5b4a22b4:Stedding</guid>
-      <pubDate>Sat, 24 Oct 2026 06:04:32 GMT</pubDate>
-      <category>브라우저</category>
-      <description>Category: 브라우저
-App: Stedding
-Description: Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원.
-Website: https://stedding.dev/
-Commit: Add Stedding to Browsers (#3805)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4</description>
-      <content:encoded><![CDATA[Category: 브라우저<br/>App: Stedding<br/>Description: Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원.<br/>Website: https://stedding.dev/<br/>Commit: Add Stedding to Browsers (#3805)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a02158543950ab3ee1d76d878be46bab5b4a22b4]]></content:encoded>
-    </item>
-    <item>
-      <title>Nearby Drop</title>
-      <link>https://arslanbasharat-o-o.github.io/NearByDrop/</link>
-      <guid isPermaLink="false">a2d9b05cf87fa03a22d1b8106b7fec4be4069d70:Nearby Drop</guid>
-      <pubDate>Sat, 24 Oct 2026 03:27:05 GMT</pubDate>
-      <category>커뮤니케이션 / 파일 공유</category>
-      <description>Category: 커뮤니케이션 / 파일 공유
-App: Nearby Drop
-Description: 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다.
-Website: https://arslanbasharat-o-o.github.io/NearByDrop/
-Commit: Add Nearby Drop to File Sharing (#3803)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 파일 공유<br/>App: Nearby Drop<br/>Description: 호환되는 Android 기기와 양방향 Google Quick Share 전송을 지원하는 독립 macOS 메뉴 막대 앱으로, USB MTP, Finder 공유, QR 도구와 실험적인 Windows 연동도 제공합니다.<br/>Website: https://arslanbasharat-o-o.github.io/NearByDrop/<br/>Commit: Add Nearby Drop to File Sharing (#3803)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d9b05cf87fa03a22d1b8106b7fec4be4069d70]]></content:encoded>
-    </item>
-    <item>
-      <title>Healthy Battery</title>
-      <link>https://github.com/berkinefeavci/healthy-battery</link>
-      <guid isPermaLink="false">8035d5cbad46504256e9b491665a8c9ea67ab121:Healthy Battery</guid>
-      <pubDate>Sat, 24 Oct 2026 02:46:34 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Healthy Battery
-Description: Apple Silicon MacBook용 오픈 소스 충전 한도 도구로, 실시간 전력 흐름과 장기 배터리 상태를 보여줍니다.
-Open Source: https://github.com/berkinefeavci/healthy-battery
-Commit: Add Healthy Battery (#3058)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Healthy Battery<br/>Description: Apple Silicon MacBook용 오픈 소스 충전 한도 도구로, 실시간 전력 흐름과 장기 배터리 상태를 보여줍니다.<br/>Open Source: https://github.com/berkinefeavci/healthy-battery<br/>Commit: Add Healthy Battery (#3058)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8035d5cbad46504256e9b491665a8c9ea67ab121]]></content:encoded>
-    </item>
-    <item>
-      <title>PitchTap</title>
-      <link>https://github.com/gkudva96/pitchtap</link>
-      <guid isPermaLink="false">e90f93a68d97d52db43ee376f22d1b7fb2319e84:PitchTap</guid>
-      <pubDate>Sat, 24 Oct 2026 02:30:07 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: PitchTap
-Description: 템포를 바꾸지 않고 모든 앱 오디오의 키를 실시간으로 바꾸는 오픈 소스 메뉴 막대 앱.
-Open Source: https://github.com/gkudva96/pitchtap
-Commit: Add PitchTap to Audio Record and Process (#3791)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: PitchTap<br/>Description: 템포를 바꾸지 않고 모든 앱 오디오의 키를 실시간으로 바꾸는 오픈 소스 메뉴 막대 앱.<br/>Open Source: https://github.com/gkudva96/pitchtap<br/>Commit: Add PitchTap to Audio Record and Process (#3791)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e90f93a68d97d52db43ee376f22d1b7fb2319e84]]></content:encoded>
-    </item>
-    <item>
-      <title>Archivator</title>
-      <link>https://github.com/davidpraznik/Archivator</link>
-      <guid isPermaLink="false">c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a:Archivator</guid>
-      <pubDate>Sat, 24 Oct 2026 01:40:52 GMT</pubDate>
+      <title>DropKeeper</title>
+      <link>https://direcat.net/dropkeeper/</link>
+      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
       <category>유틸리티 / 파일 정리 도구</category>
       <description>Category: 유틸리티 / 파일 정리 도구
-App: Archivator
-Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.
-Open Source: https://github.com/davidpraznik/Archivator
-Commit: Add Archivator (#3799)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Archivator<br/>Description: 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구.<br/>Open Source: https://github.com/davidpraznik/Archivator<br/>Commit: Add Archivator (#3799)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c6b1b7b2ac754fd59c6230ac28e0a1af09a7875a]]></content:encoded>
+App: DropKeeper
+Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).
+Website: https://direcat.net/dropkeeper/
+Open Source: https://github.com/direcat/dropkeeper
+Commit: Add DropKeeper to File Organization Tools (#3694)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: DropKeeper<br/>Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
     </item>
     <item>
-      <title>Konverter</title>
-      <link>https://github.com/davidpraznik/Konverter</link>
-      <guid isPermaLink="false">ec154d5ad7e62028be73935f036f4265e53edbf8:Konverter</guid>
-      <pubDate>Sat, 24 Oct 2026 01:27:31 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Konverter
-Description: 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구.
-Open Source: https://github.com/davidpraznik/Konverter
-Commit: Add Konverter (#3798)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Konverter<br/>Description: 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구.<br/>Open Source: https://github.com/davidpraznik/Konverter<br/>Commit: Add Konverter (#3798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ec154d5ad7e62028be73935f036f4265e53edbf8]]></content:encoded>
-    </item>
-    <item>
-      <title>Clippo</title>
-      <link>https://lorder19.github.io/clippo/</link>
-      <guid isPermaLink="false">fd50f7f7d23e1f2d8ad677883a17abe7ad646d51:Clippo</guid>
-      <pubDate>Fri, 23 Oct 2026 15:37:11 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Clippo
-Description: 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다.
-Website: https://lorder19.github.io/clippo/
-Commit: Add Clippo to Clipboard Tools (#3797)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Clippo<br/>Description: 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다.<br/>Website: https://lorder19.github.io/clippo/<br/>Commit: Add Clippo to Clipboard Tools (#3797)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd50f7f7d23e1f2d8ad677883a17abe7ad646d51]]></content:encoded>
-    </item>
-    <item>
-      <title>DockFlip</title>
-      <link>https://geezery.github.io/DockFlip/</link>
-      <guid isPermaLink="false">d3b36e9ded1e05961caef0172015d76e2816a012:DockFlip</guid>
-      <pubDate>Fri, 23 Oct 2026 07:38:28 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: DockFlip
-Description: 브라우저 탭까지 보여 주는 Dock 창 목록, Flip 3D 스타일의 ⌘Tab 창 전환, Windows식 창 스냅을 하나로 묶은 앱.
-Website: https://geezery.github.io/DockFlip/
-Commit: Add DockFlip to Window Management (#3774)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: DockFlip<br/>Description: 브라우저 탭까지 보여 주는 Dock 창 목록, Flip 3D 스타일의 ⌘Tab 창 전환, Windows식 창 스냅을 하나로 묶은 앱.<br/>Website: https://geezery.github.io/DockFlip/<br/>Commit: Add DockFlip to Window Management (#3774)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b36e9ded1e05961caef0172015d76e2816a012]]></content:encoded>
-    </item>
-    <item>
-      <title>Folderglass</title>
-      <link>https://dev.adityarajsingh.com/folderglass/</link>
-      <guid isPermaLink="false">f31772e9f763cc3b97d9c11e5b39c6ba1e742e79:Folderglass</guid>
-      <pubDate>Fri, 23 Oct 2026 07:29:45 GMT</pubDate>
-      <category>QuickLook 플러그인</category>
-      <description>Category: QuickLook 플러그인
-App: Folderglass
-Description: 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원.
-Website: https://dev.adityarajsingh.com/folderglass/
-Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79</description>
-      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: Folderglass<br/>Description: 폴더용 Quick Look 확장. 하위 폴더를 포함한 실제 크기, 파일 유형 비율, 가장 큰 파일과 최신 파일, Git 브랜치와 변경 상태를 보여 주고 README를 바로 렌더링. zip 내용과 Markdown 미리보기도 지원.<br/>Website: https://dev.adityarajsingh.com/folderglass/<br/>Commit: Add Folderglass to QuickLook Plugins (EN/ZH/JA/KO) (#3690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f31772e9f763cc3b97d9c11e5b39c6ba1e742e79]]></content:encoded>
-    </item>
-    <item>
-      <title>CoWork OS</title>
-      <link>https://coworkosapp.com</link>
-      <guid isPermaLink="false">9ea5e25b26663dcdc51a78e484ddb10aa313b83f:CoWork OS</guid>
-      <pubDate>Fri, 23 Oct 2026 07:21:53 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: CoWork OS
-Description: 자체 API 키나 로컬 모델로 파일, 브라우저, 채팅 앱 작업을 처리하는 오픈 소스 데스크톱 AI 에이전트.
-Website: https://coworkosapp.com
-Commit: Add CoWork OS (#3638)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: CoWork OS<br/>Description: 자체 API 키나 로컬 모델로 파일, 브라우저, 채팅 앱 작업을 처리하는 오픈 소스 데스크톱 AI 에이전트.<br/>Website: https://coworkosapp.com<br/>Commit: Add CoWork OS (#3638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ea5e25b26663dcdc51a78e484ddb10aa313b83f]]></content:encoded>
-    </item>
-    <item>
-      <title>FinchGram</title>
-      <link>https://www.finchgram.com/</link>
-      <guid isPermaLink="false">2a45ead69c375d1122d657a3c6aa7578b01c1838:FinchGram</guid>
-      <pubDate>Fri, 23 Oct 2026 06:20:11 GMT</pubDate>
-      <category>커뮤니케이션 / 협업 및 팀 도구</category>
-      <description>Category: 커뮤니케이션 / 협업 및 팀 도구
-App: FinchGram
-Description: 스크린샷 도구, WebDAV 다운로드, AI 어시스턴트용 선택형 MCP 연결을 갖춘 TDLib 기반 비공식 오픈 소스 Telegram 클라이언트.
-Website: https://www.finchgram.com/
-Commit: Add FinchGram (#3749)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 협업 및 팀 도구<br/>App: FinchGram<br/>Description: 스크린샷 도구, WebDAV 다운로드, AI 어시스턴트용 선택형 MCP 연결을 갖춘 TDLib 기반 비공식 오픈 소스 Telegram 클라이언트.<br/>Website: https://www.finchgram.com/<br/>Commit: Add FinchGram (#3749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2a45ead69c375d1122d657a3c6aa7578b01c1838]]></content:encoded>
-    </item>
-    <item>
-      <title>Godmode Bot</title>
-      <link>https://usegodmode.com</link>
-      <guid isPermaLink="false">965f263f62d32e11d8c7aecda8bb37c3bbd5aec0:Godmode Bot</guid>
-      <pubDate>Fri, 23 Oct 2026 04:26:51 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Godmode Bot
-Description: Claude 구독을 전용 브라우저에서 사용자의 로그인 정보로 컴퓨터 작업을 처리하는 상주 에이전트 팀으로 바꿔 주는 오픈 소스 AI 동료.
-Website: https://usegodmode.com
-Commit: Add Godmode Bot to AI Tools (#3770)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Godmode Bot<br/>Description: Claude 구독을 전용 브라우저에서 사용자의 로그인 정보로 컴퓨터 작업을 처리하는 상주 에이전트 팀으로 바꿔 주는 오픈 소스 AI 동료.<br/>Website: https://usegodmode.com<br/>Commit: Add Godmode Bot to AI Tools (#3770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/965f263f62d32e11d8c7aecda8bb37c3bbd5aec0]]></content:encoded>
-    </item>
-    <item>
-      <title>ClawTank</title>
-      <link>https://github.com/HMAKT99/ClawTank</link>
-      <guid isPermaLink="false">a5ad1ec0190358637fef4fe9bbf0febecba3bb15:ClawTank</guid>
-      <pubDate>Fri, 23 Oct 2026 03:25:46 GMT</pubDate>
-      <category>원격 로그인 소프트웨어</category>
-      <description>Category: 원격 로그인 소프트웨어
-App: ClawTank
-Description: Windows App, mstsc 등 표준 원격 데스크톱 클라이언트로 Mac에 접속할 수 있는 오픈 소스 RDP 서버.
-Open Source: https://github.com/HMAKT99/ClawTank
-Commit: Add ClawTank to Remote Login Software (#3768)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15</description>
-      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: ClawTank<br/>Description: Windows App, mstsc 등 표준 원격 데스크톱 클라이언트로 Mac에 접속할 수 있는 오픈 소스 RDP 서버.<br/>Open Source: https://github.com/HMAKT99/ClawTank<br/>Commit: Add ClawTank to Remote Login Software (#3768)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5ad1ec0190358637fef4fe9bbf0febecba3bb15]]></content:encoded>
-    </item>
-    <item>
-      <title>SpaceMap</title>
-      <link>https://github.com/renkagod/spacemap</link>
-      <guid isPermaLink="false">4e5e16dc0f3e3e2969beb87012db91b1708b2628:SpaceMap</guid>
-      <pubDate>Fri, 23 Oct 2026 02:52:23 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: SpaceMap
-Description: 디스크를 확대해 들어갈 수 있는 중첩 트리맵으로 그려 주는 디스크 사용량 분석기로, 스캔하는 동안 실시간으로 채워집니다.
-Open Source: https://github.com/renkagod/spacemap
-Commit: Add SpaceMap to Cleanup and Uninstall (#3752)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: SpaceMap<br/>Description: 디스크를 확대해 들어갈 수 있는 중첩 트리맵으로 그려 주는 디스크 사용량 분석기로, 스캔하는 동안 실시간으로 채워집니다.<br/>Open Source: https://github.com/renkagod/spacemap<br/>Commit: Add SpaceMap to Cleanup and Uninstall (#3752)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4e5e16dc0f3e3e2969beb87012db91b1708b2628]]></content:encoded>
-    </item>
-    <item>
-      <title>Voltip</title>
-      <link>https://voltip.firlab.app/</link>
-      <guid isPermaLink="false">aecfb6e844152c43d0049b392c5c05b231d4bb01:Voltip</guid>
-      <pubDate>Fri, 23 Oct 2026 01:39:51 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: Voltip
-Description: 로컬 또는 클라우드 음성 인식과 AI 다듬기를 지원하고, 페어링한 Android 휴대폰을 마이크로도 쓸 수 있는 오픈 소스 푸시투토크 받아쓰기 도구.
-Website: https://voltip.firlab.app/
-Commit: Add Voltip to Voice-to-Text (#3751)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Voltip<br/>Description: 로컬 또는 클라우드 음성 인식과 AI 다듬기를 지원하고, 페어링한 Android 휴대폰을 마이크로도 쓸 수 있는 오픈 소스 푸시투토크 받아쓰기 도구.<br/>Website: https://voltip.firlab.app/<br/>Commit: Add Voltip to Voice-to-Text (#3751)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aecfb6e844152c43d0049b392c5c05b231d4bb01]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Canvas Tauri</title>
-      <link>https://github.com/Tenney95/AI-Canvas-tauri</link>
-      <guid isPermaLink="false">8d2a4487ec0161f3963f9ae99833f90659aa85f7:AI Canvas Tauri</guid>
-      <pubDate>Fri, 23 Oct 2026 00:48:21 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: AI Canvas Tauri
-Description: 스토리보드, 이미지·영상 생성과 편집, 에셋 관리, ComfyUI 워크플로를 통합한 가볍고 무료인 소스 공개형 AI 창작 캔버스.
-Open Source: https://github.com/Tenney95/AI-Canvas-tauri
-Commit: Add AI Canvas (#3763)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: AI Canvas Tauri<br/>Description: 스토리보드, 이미지·영상 생성과 편집, 에셋 관리, ComfyUI 워크플로를 통합한 가볍고 무료인 소스 공개형 AI 창작 캔버스.<br/>Open Source: https://github.com/Tenney95/AI-Canvas-tauri<br/>Commit: Add AI Canvas (#3763)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8d2a4487ec0161f3963f9ae99833f90659aa85f7]]></content:encoded>
-    </item>
-    <item>
-      <title>MD QuickLook</title>
-      <link>https://github.com/armamut/md-quicklook</link>
-      <guid isPermaLink="false">26a260a08d256e360b583f165cb0e3b10fc90d73:MD QuickLook</guid>
-      <pubDate>Fri, 23 Oct 2026 00:25:15 GMT</pubDate>
-      <category>QuickLook 플러그인</category>
-      <description>Category: QuickLook 플러그인
-App: MD QuickLook
-Description: 구문 강조, 수식, Mermaid 다이어그램을 지원하는 웹 엔진 없는 네이티브 Markdown Quick Look 확장 프로그램.
-Open Source: https://github.com/armamut/md-quicklook
-Commit: Add MD QuickLook to QuickLook Plugins (#3776)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73</description>
-      <content:encoded><![CDATA[Category: QuickLook 플러그인<br/>App: MD QuickLook<br/>Description: 구문 강조, 수식, Mermaid 다이어그램을 지원하는 웹 엔진 없는 네이티브 Markdown Quick Look 확장 프로그램.<br/>Open Source: https://github.com/armamut/md-quicklook<br/>Commit: Add MD QuickLook to QuickLook Plugins (#3776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a260a08d256e360b583f165cb0e3b10fc90d73]]></content:encoded>
-    </item>
-    <item>
-      <title>Kumquat</title>
-      <link>https://github.com/TheAlexRay/kumquat</link>
-      <guid isPermaLink="false">d6285252186428c486a834cbf466047727676eb5:Kumquat</guid>
-      <pubDate>Fri, 23 Oct 2026 00:11:00 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Kumquat
-Description: 메뉴 바 파일 변환기. 파일을 드래그하는 중에 Shift를 누르고 휠에 놓으면 이미지, 오디오, 비디오, 문서 변환과 압축, OCR, 자르기, 주석 달기를 할 수 있습니다.
-Open Source: https://github.com/TheAlexRay/kumquat
-Commit: Add Kumquat to Menu Bar Tools (#3755)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6285252186428c486a834cbf466047727676eb5</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Kumquat<br/>Description: 메뉴 바 파일 변환기. 파일을 드래그하는 중에 Shift를 누르고 휠에 놓으면 이미지, 오디오, 비디오, 문서 변환과 압축, OCR, 자르기, 주석 달기를 할 수 있습니다.<br/>Open Source: https://github.com/TheAlexRay/kumquat<br/>Commit: Add Kumquat to Menu Bar Tools (#3755)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6285252186428c486a834cbf466047727676eb5]]></content:encoded>
-    </item>
-    <item>
-      <title>KiwiDesk</title>
-      <link>https://kiwidesk.kiwicanopy.com/</link>
-      <guid isPermaLink="false">36cf8a45ff36f53d9af26259d1dcfb79adaeaed2:KiwiDesk</guid>
-      <pubDate>Thu, 22 Oct 2026 07:35:11 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: KiwiDesk
-Description: 설정 파일 없이 바로 쓸 수 있고, 네이티브 설정 앱을 갖추고, 앱 안에서 스스로 업데이트하는 타일링 창 관리자.
-Website: https://kiwidesk.kiwicanopy.com/
-Commit: Add KiwiDesk to Window Management (#3377)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36cf8a45ff36f53d9af26259d1dcfb79adaeaed2</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: KiwiDesk<br/>Description: 설정 파일 없이 바로 쓸 수 있고, 네이티브 설정 앱을 갖추고, 앱 안에서 스스로 업데이트하는 타일링 창 관리자.<br/>Website: https://kiwidesk.kiwicanopy.com/<br/>Commit: Add KiwiDesk to Window Management (#3377)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36cf8a45ff36f53d9af26259d1dcfb79adaeaed2]]></content:encoded>
-    </item>
-    <item>
-      <title>IconCraft</title>
-      <link>https://iconcraft.co</link>
-      <guid isPermaLink="false">9709018e42c77aa002d336b09256077ebd66cc7a:IconCraft</guid>
-      <pubDate>Thu, 22 Oct 2026 04:56:34 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: IconCraft
-Description: 어떤 Mac 앱이든 익숙한 이름과 아이콘으로 바꿔 줍니다. 앱 자체는 변경되지 않습니다.
-Website: https://iconcraft.co
-Commit: Add IconCraft (#3713)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: IconCraft<br/>Description: 어떤 Mac 앱이든 익숙한 이름과 아이콘으로 바꿔 줍니다. 앱 자체는 변경되지 않습니다.<br/>Website: https://iconcraft.co<br/>Commit: Add IconCraft (#3713)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9709018e42c77aa002d336b09256077ebd66cc7a]]></content:encoded>
-    </item>
-    <item>
-      <title>Fotohaus</title>
-      <link>https://github.com/aelnagish/Fotohaus</link>
-      <guid isPermaLink="false">a39819f5e6f0261c3c39a6c2775a6f410edb5d40:Fotohaus</guid>
-      <pubDate>Thu, 22 Oct 2026 01:20:07 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Fotohaus
-Description: 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자.
-Open Source: https://github.com/aelnagish/Fotohaus
-Commit: Add Fotohaus (#3675)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Fotohaus<br/>Description: 기존 폴더를 그대로 사용하며 기기 내 얼굴 인식, 검색, 비파괴 편집을 지원하는 오픈소스 사진 관리자.<br/>Open Source: https://github.com/aelnagish/Fotohaus<br/>Commit: Add Fotohaus (#3675)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a39819f5e6f0261c3c39a6c2775a6f410edb5d40]]></content:encoded>
-    </item>
-    <item>
-      <title>Shiyin</title>
-      <link>https://shiyin.weibuilds.com</link>
-      <guid isPermaLink="false">acad22d8305af8aa0a1bae167a4e3273b44391b9:Shiyin</guid>
-      <pubDate>Thu, 22 Oct 2026 00:33:20 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Shiyin
-Description: 회의를 녹음해 기기에서 전사하고 화자를 구분하며, 내 Claude나 ChatGPT 구독으로 타임스탬프가 달린 회의록을 작성하는 오픈 소스 녹음기.
-Website: https://shiyin.weibuilds.com
-Commit: Add Shiyin to Audio Record and Process (#3711)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Shiyin<br/>Description: 회의를 녹음해 기기에서 전사하고 화자를 구분하며, 내 Claude나 ChatGPT 구독으로 타임스탬프가 달린 회의록을 작성하는 오픈 소스 녹음기.<br/>Website: https://shiyin.weibuilds.com<br/>Commit: Add Shiyin to Audio Record and Process (#3711)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/acad22d8305af8aa0a1bae167a4e3273b44391b9]]></content:encoded>
-    </item>
-    <item>
-      <title>Borne</title>
-      <link>https://borne.pasahome.org</link>
-      <guid isPermaLink="false">7c856cf604d7a0ebb6630c070a010ac7822dc329:Borne</guid>
-      <pubDate>Wed, 21 Oct 2026 07:22:46 GMT</pubDate>
-      <category>게임 소프트웨어</category>
-      <description>Category: 게임 소프트웨어
-App: Borne
-Description: MAMEUI의 흐름을 잇는 MAME 및 클래식 PC 게임(Doom, Quake, Duke Nukem 3D)용 네이티브 프런트엔드로, 에뮬레이터와 게임 엔진을 함께 제공합니다.
-Website: https://borne.pasahome.org
-Commit: Add Borne to Gaming Software (#3673)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329</description>
-      <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: Borne<br/>Description: MAMEUI의 흐름을 잇는 MAME 및 클래식 PC 게임(Doom, Quake, Duke Nukem 3D)용 네이티브 프런트엔드로, 에뮬레이터와 게임 엔진을 함께 제공합니다.<br/>Website: https://borne.pasahome.org<br/>Commit: Add Borne to Gaming Software (#3673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7c856cf604d7a0ebb6630c070a010ac7822dc329]]></content:encoded>
-    </item>
-    <item>
-      <title>Perch</title>
-      <link>https://perchapp.dev</link>
-      <guid isPermaLink="false">fab9f588e1535d51fb5e291431852279c7ada31a:Perch</guid>
-      <pubDate>Wed, 21 Oct 2026 06:41:09 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Perch
-Description: Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다.
-Website: https://perchapp.dev
-Commit: Add Perch to Menu Bar Tools (#3685)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Perch<br/>Description: Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다.<br/>Website: https://perchapp.dev<br/>Commit: Add Perch to Menu Bar Tools (#3685)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fab9f588e1535d51fb5e291431852279c7ada31a]]></content:encoded>
-    </item>
-    <item>
-      <title>Frink</title>
-      <link>https://frink.dev</link>
-      <guid isPermaLink="false">d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6:Frink</guid>
-      <pubDate>Wed, 21 Oct 2026 06:34:40 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Frink
-Description: 이미 사용 중인 AI 코딩 에이전트 프로바이더 전반에서 병렬 에이전트와, 스케줄, 웹훅 또는 Linear, Sentry 같은 도구의 이벤트로 트리거되는 다단계 커스텀 워크플로를 실행하는 데스크톱 우선 오픈 소스(MIT) 애플리케이션.
-Website: https://frink.dev
-Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Frink<br/>Description: 이미 사용 중인 AI 코딩 에이전트 프로바이더 전반에서 병렬 에이전트와, 스케줄, 웹훅 또는 Linear, Sentry 같은 도구의 이벤트로 트리거되는 다단계 커스텀 워크플로를 실행하는 데스크톱 우선 오픈 소스(MIT) 애플리케이션.<br/>Website: https://frink.dev<br/>Commit: Update Frink to AI Tools (EN/ZH/JA/KO) (#3517)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d6dce2f7ab6b4d9495d8156fdc7ff161c9d252f6]]></content:encoded>
-    </item>
-    <item>
-      <title>Optics Framework</title>
-      <link>https://optics-framework.org/</link>
-      <guid isPermaLink="false">befba1ad55b54e33082ed7315f0b69eca2c0647f:Optics Framework</guid>
-      <pubDate>Wed, 21 Oct 2026 06:32:02 GMT</pubDate>
-      <category>개발 도구 / API 개발 및 분석</category>
-      <description>Category: 개발 도구 / API 개발 및 분석
-App: Optics Framework
-Description: Android, iOS, 웹, 스마트 TV 앱을 위한 오픈소스 UI 테스트 자동화 프레임워크. 테스트는 CSV 또는 YAML로 작성.
-Website: https://optics-framework.org/
-Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / API 개발 및 분석<br/>App: Optics Framework<br/>Description: Android, iOS, 웹, 스마트 TV 앱을 위한 오픈소스 UI 테스트 자동화 프레임워크. 테스트는 CSV 또는 YAML로 작성.<br/>Website: https://optics-framework.org/<br/>Commit: Add Optics Framework to API Development and Analysis (EN/ZH/JA/KO) (#3671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/befba1ad55b54e33082ed7315f0b69eca2c0647f]]></content:encoded>
-    </item>
-    <item>
-      <title>Convertino</title>
-      <link>https://github.com/hasanzadee/convertino</link>
-      <guid isPermaLink="false">826d422d436c6b9dfa8ade9aefb20b4a6384eda9:Convertino</guid>
-      <pubDate>Wed, 21 Oct 2026 06:23:27 GMT</pubDate>
-      <category>유틸리티</category>
-      <description>Category: 유틸리티
-App: Convertino
-Description: 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다.
-Open Source: https://github.com/hasanzadee/convertino
-Commit: Add Convertino to Utilities (#3674)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9</description>
-      <content:encoded><![CDATA[Category: 유틸리티<br/>App: Convertino<br/>Description: 파일을 드래그하다가 Shift를 누르고 원형 메뉴에 놓아 변환하거나 편집합니다.<br/>Open Source: https://github.com/hasanzadee/convertino<br/>Commit: Add Convertino to Utilities (#3674)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/826d422d436c6b9dfa8ade9aefb20b4a6384eda9]]></content:encoded>
-    </item>
-    <item>
-      <title>Enconvo</title>
-      <link>https://www.enconvo.com/ko</link>
-      <guid isPermaLink="false">0260e4b18598d213cf6c78820e06653eb5d92623:Enconvo</guid>
-      <pubDate>Wed, 21 Oct 2026 00:15:57 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Enconvo
-Description: 화면을 이해하고 다양한 앱에서 작업을 수행하는 AI 에이전트.
-Website: https://www.enconvo.com/ko
-Commit: Add Enconvo
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Enconvo<br/>Description: 화면을 이해하고 다양한 앱에서 작업을 수행하는 AI 에이전트.<br/>Website: https://www.enconvo.com/ko<br/>Commit: Add Enconvo<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0260e4b18598d213cf6c78820e06653eb5d92623]]></content:encoded>
-    </item>
-    <item>
-      <title>Cove</title>
-      <link>https://huyanxius.github.io/Cove/</link>
-      <guid isPermaLink="false">a1185c652379cdf2fa0113e0919fd03523f3730d:Cove</guid>
-      <pubDate>Tue, 20 Oct 2026 23:47:58 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Cove
-Description: Claude Code와 Codex용 네이티브 입력창, 세션 사이드바, 변경 내용 보기를 제공하는 Apple Silicon용 오픈 소스 프리뷰.
-Website: https://huyanxius.github.io/Cove/
-Commit: Add Cove to four language lists (#3679)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1185c652379cdf2fa0113e0919fd03523f3730d</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Cove<br/>Description: Claude Code와 Codex용 네이티브 입력창, 세션 사이드바, 변경 내용 보기를 제공하는 Apple Silicon용 오픈 소스 프리뷰.<br/>Website: https://huyanxius.github.io/Cove/<br/>Commit: Add Cove to four language lists (#3679)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1185c652379cdf2fa0113e0919fd03523f3730d]]></content:encoded>
-    </item>
-    <item>
-      <title>DBine</title>
-      <link>https://dbine.com</link>
-      <guid isPermaLink="false">62bd5ffcd8216d13b409eb1c5ecd6750920104dc:DBine</guid>
-      <pubDate>Tue, 20 Oct 2026 23:44:14 GMT</pubDate>
-      <category>개발 도구 / 데이터베이스</category>
-      <description>Category: 개발 도구 / 데이터베이스
-App: DBine
-Description: 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자.
-Website: https://dbine.com
-Commit: Add DBine to Databases (#3695)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 데이터베이스<br/>App: DBine<br/>Description: 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자.<br/>Website: https://dbine.com<br/>Commit: Add DBine to Databases (#3695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc]]></content:encoded>
-    </item>
-    <item>
-      <title>Threadlines</title>
-      <link>https://www.threadlines.dev</link>
-      <guid isPermaLink="false">88216376e3df7688913614fd323a67f1a0f9dc83:Threadlines</guid>
-      <pubDate>Mon, 19 Oct 2026 14:55:11 GMT</pubDate>
-      <category>개발 도구 / IDE / 코드 편집기</category>
-      <description>Category: 개발 도구 / IDE / 코드 편집기
-App: Threadlines
-Description: 코딩 에이전트(Claude Code, Codex, OpenCode, Cursor)를 위한 오픈소스 데스크톱 앱. 여러 에이전트가 하나의 스레드를 함께 쓰고, 스레드마다 독립된 git 워크트리를 사용한다.
-Website: https://www.threadlines.dev
-Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Threadlines<br/>Description: 코딩 에이전트(Claude Code, Codex, OpenCode, Cursor)를 위한 오픈소스 데스크톱 앱. 여러 에이전트가 하나의 스레드를 함께 쓰고, 스레드마다 독립된 git 워크트리를 사용한다.<br/>Website: https://www.threadlines.dev<br/>Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83]]></content:encoded>
-    </item>
-    <item>
-      <title>SSHFire</title>
-      <link>https://github.com/aralozaltin/sshfire</link>
-      <guid isPermaLink="false">c0d47744e0a59b9994de12cbe2db0dac027c6258:SSHFire</guid>
-      <pubDate>Mon, 19 Oct 2026 08:57:20 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: SSHFire
-Description: 터미널, 세션 관리자, 현재 디렉터리를 따라가는 SFTP 브라우저를 갖춘 크로스 플랫폼 SSH 클라이언트.
-Open Source: https://github.com/aralozaltin/sshfire
-Commit: Add SSHFire to Terminal Apps (#3612)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: SSHFire<br/>Description: 터미널, 세션 관리자, 현재 디렉터리를 따라가는 SFTP 브라우저를 갖춘 크로스 플랫폼 SSH 클라이언트.<br/>Open Source: https://github.com/aralozaltin/sshfire<br/>Commit: Add SSHFire to Terminal Apps (#3612)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Android Subsystem</title>
-      <link>https://harkhowalia-1.github.io/MacSubsystemForAndroid/</link>
-      <guid isPermaLink="false">b93050eed5bde10a3ac96ba47c432587ae44868d:Mac Android Subsystem</guid>
-      <pubDate>Mon, 19 Oct 2026 08:39:00 GMT</pubDate>
+      <title>Inquiline</title>
+      <link>https://github.com/inquiline-app/inquiline</link>
+      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
+      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
       <category>개발 도구 / 가상화</category>
       <description>Category: 개발 도구 / 가상화
-App: Mac Android Subsystem
-Description: Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다.
-Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
-Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Mac Android Subsystem<br/>Description: Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다.<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
+App: Inquiline
+Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.
+Open Source: https://github.com/inquiline-app/inquiline
+Commit: Add Inquiline to Virtualization (#4782)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Inquiline<br/>Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
     </item>
     <item>
-      <title>TetherCam</title>
-      <link>https://tethercam.app/</link>
-      <guid isPermaLink="false">aa7d406cbe4b855cabe690dc67d4ed43891e6f1e:TetherCam</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:06 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: TetherCam
-Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.
-Website: https://tethercam.app/
-Commit: Add TetherCam to the app lists (#3577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: TetherCam<br/>Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.<br/>Website: https://tethercam.app/<br/>Commit: Add TetherCam to the app lists (#3577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e]]></content:encoded>
+      <title>Xylem</title>
+      <link>https://xylem.t1nkl.dev</link>
+      <guid isPermaLink="false">6ba0b4444fa5f26eefed1438cdd268eb9645a0d5:Xylem</guid>
+      <pubDate>Thu, 19 Nov 2026 05:47:10 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Xylem
+Description: 탭별로 세션을 이어 가고 컨텍스트와 비용을 추적하며 프로젝트의 스킬, MCP, git 패널을 제공하는 Claude Code용 네이티브 터미널.
+Website: https://xylem.t1nkl.dev
+Open Source: https://github.com/t1nkl/xylem
+Commit: Add Xylem to Terminal Apps (#4762)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Xylem<br/>Description: 탭별로 세션을 이어 가고 컨텍스트와 비용을 추적하며 프로젝트의 스킬, MCP, git 패널을 제공하는 Claude Code용 네이티브 터미널.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
     </item>
     <item>
-      <title>Eleven</title>
-      <link>https://github.com/Zfinix/eleven</link>
-      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
-      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: Eleven
-Description: AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱.
-Open Source: https://github.com/Zfinix/eleven
-Commit: Add Eleven to Developer Utilities (#3584)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Eleven<br/>Description: AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱.<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
+      <title>Better Wacom</title>
+      <link>https://github.com/myyccccc/Better-Wacom</link>
+      <guid isPermaLink="false">c18f708ca7a8764cfcce56eac9bbad7eebbc8f11:Better Wacom</guid>
+      <pubDate>Thu, 19 Nov 2026 05:40:25 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Better Wacom
+Description: Wacom Intuos Pro M(2025, PTK-670)용 앱별 ExpressKey, 길게 누르기 동작, 다중 모드 다이얼을 설정하는 도구로, 공식 드라이버와 함께 실행된다.
+Open Source: https://github.com/myyccccc/Better-Wacom
+Commit: Add Better Wacom to Productivity (#4761)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Better Wacom<br/>Description: Wacom Intuos Pro M(2025, PTK-670)용 앱별 ExpressKey, 길게 누르기 동작, 다중 모드 다이얼을 설정하는 도구로, 공식 드라이버와 함께 실행된다.<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
     </item>
     <item>
-      <title>Peel</title>
-      <link>https://peel.tuguidragos.com/</link>
-      <guid isPermaLink="false">445e46a271120577ad208f84d8ea3f662070fd92:Peel</guid>
-      <pubDate>Mon, 19 Oct 2026 01:35:09 GMT</pubDate>
+      <title>OmegaStar</title>
+      <link>https://github.com/itsfutsy/OmegaStar</link>
+      <guid isPermaLink="false">fc73c588150c22f19df5b08675c4213d037e24fe:OmegaStar</guid>
+      <pubDate>Thu, 19 Nov 2026 05:34:22 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: OmegaStar
+Description: 쓰던 Claude Code를 브라우저, 모델, 로그인 그대로 AI 직원 팀으로 바꿔 주는 앱. 직원마다 목표가 있고, 대화로 가르친 내용은 스킬로 남는다.
+Open Source: https://github.com/itsfutsy/OmegaStar
+Commit: Add OmegaStar to AI Tools (#4750)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: OmegaStar<br/>Description: 쓰던 Claude Code를 브라우저, 모델, 로그인 그대로 AI 직원 팀으로 바꿔 주는 앱. 직원마다 목표가 있고, 대화로 가르친 내용은 스킬로 남는다.<br/>Open Source: https://github.com/itsfutsy/OmegaStar<br/>Commit: Add OmegaStar to AI Tools (#4750)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe]]></content:encoded>
+    </item>
+    <item>
+      <title>Pixtamer</title>
+      <link>https://pixtamer.pages.dev</link>
+      <guid isPermaLink="false">57c29ef3385c1fef2379d3170d5baeec36ed6fef:Pixtamer</guid>
+      <pubDate>Thu, 19 Nov 2026 05:20:02 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Pixtamer
+Description: 이미지를 일괄 변환·압축·크기 조정·이름 변경하여 웹용 JPEG, PNG, WebP, AVIF로 내보내는 도구. 반응형 너비와 프리셋을 지원하며 아무것도 업로드하지 않습니다.
+Website: https://pixtamer.pages.dev
+Open Source: https://github.com/heysidhant/pixtamer
+App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
+Commit: Add Pixtamer to image tools (#3969)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Pixtamer<br/>Description: 이미지를 일괄 변환·압축·크기 조정·이름 변경하여 웹용 JPEG, PNG, WebP, AVIF로 내보내는 도구. 반응형 너비와 프리셋을 지원하며 아무것도 업로드하지 않습니다.<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
+    </item>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
       <category>유틸리티 / 정리 및 제거</category>
       <description>Category: 유틸리티 / 정리 및 제거
-App: Peel
-Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.
-Website: https://peel.tuguidragos.com/
-Commit: Add Peel to Cleanup and Uninstall (#3588)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Peel<br/>Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
+App: App Vanish
+Description: 앱을 휴지통에 끌어다 놓으면 앱과 남은 파일을 함께 제거하는 도구. 확실하지 않은 파일은 선택 해제된 상태로 표시되며, 모든 항목은 휴지통으로 이동됩니다. App Store 버전은 이미 삭제한 앱의 남은 파일을 찾아 줍니다.
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: App Vanish<br/>Description: 앱을 휴지통에 끌어다 놓으면 앱과 남은 파일을 함께 제거하는 도구. 확실하지 않은 파일은 선택 해제된 상태로 표시되며, 모든 항목은 휴지통으로 이동됩니다. App Store 버전은 이미 삭제한 앱의 남은 파일을 찾아 줍니다.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
     </item>
     <item>
-      <title>MagicWall</title>
-      <link>https://github.com/davidullo/magicwall</link>
-      <guid isPermaLink="false">1cf92871c02f468f08f2205256dbc6f2533a5d7a:MagicWall</guid>
-      <pubDate>Sun, 18 Oct 2026 00:25:05 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: MagicWall
-Description: 로컬 동영상을 데스크톱 배경화면으로 설정합니다.
-Open Source: https://github.com/davidullo/magicwall
-Commit: Add MagicWall
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cf92871c02f468f08f2205256dbc6f2533a5d7a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: MagicWall<br/>Description: 로컬 동영상을 데스크톱 배경화면으로 설정합니다.<br/>Open Source: https://github.com/davidullo/magicwall<br/>Commit: Add MagicWall<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cf92871c02f468f08f2205256dbc6f2533a5d7a]]></content:encoded>
+      <title>mm2t</title>
+      <link>https://mm2t.yuzen.dev/en/</link>
+      <guid isPermaLink="false">db381fdbf86f059214a424ad27211014ac06fda5:mm2t</guid>
+      <pubDate>Thu, 19 Nov 2026 04:54:12 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: mm2t
+Description: 데이터를 로컬에 저장하고 기기에서 화자를 식별하며 선택한 서비스로 전사와 요약을 생성하는 회의 녹음 도구.
+Website: https://mm2t.yuzen.dev/en/
+Open Source: https://github.com/yuzen9622/mm2t
+Commit: Add mm2t to the multilingual audio tool lists (#4748)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: mm2t<br/>Description: 데이터를 로컬에 저장하고 기기에서 화자를 식별하며 선택한 서비스로 전사와 요약을 생성하는 회의 녹음 도구.<br/>Website: https://mm2t.yuzen.dev/en/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
     </item>
     <item>
-      <title>Textus</title>
-      <link>https://textus.catvinci.com</link>
-      <guid isPermaLink="false">4283a6a65848e8164e4369378a6a420c4e3fea81:Textus</guid>
-      <pubDate>Sat, 17 Oct 2026 23:23:37 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Textus
-Description: 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기.
-Website: https://textus.catvinci.com
-Commit: Add Textus to Markdown Tools (EN/ZH/JA/KO) (#3574)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4283a6a65848e8164e4369378a6a420c4e3fea81</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Textus<br/>Description: 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기.<br/>Website: https://textus.catvinci.com<br/>Commit: Add Textus to Markdown Tools (EN/ZH/JA/KO) (#3574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4283a6a65848e8164e4369378a6a420c4e3fea81]]></content:encoded>
+      <title>Hourmint</title>
+      <link>https://hourmint.abdur.tech</link>
+      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
+      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Hourmint
+Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.
+Website: https://hourmint.abdur.tech
+Open Source: https://github.com/abdurrahmanriyad/hourmint
+Commit: Add Hourmint to Productivity (#4747)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Hourmint<br/>Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
     </item>
     <item>
-      <title>Dynamic Menu Bar</title>
-      <link>https://dynamicmenubar.com</link>
-      <guid isPermaLink="false">f45cf3ffa2d7d826f917d56f23e48105529c747d:Dynamic Menu Bar</guid>
-      <pubDate>Sat, 17 Oct 2026 23:15:52 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Dynamic Menu Bar
-Description: macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
-Website: https://dynamicmenubar.com
-Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Dynamic Menu Bar<br/>Description: macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.<br/>Website: https://dynamicmenubar.com<br/>Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d]]></content:encoded>
-    </item>
-    <item>
-      <title>mFix</title>
-      <link>https://github.com/Zingzy/mFix</link>
-      <guid isPermaLink="false">606a68513b14a6dc71777bcac963468b86a874fe:mFix</guid>
-      <pubDate>Sat, 17 Oct 2026 22:16:07 GMT</pubDate>
+      <title>Fenestra</title>
+      <link>https://github.com/PRMotorWorks/Fenestra</link>
+      <guid isPermaLink="false">af15b5040320bc4233af3a1badd029e66ec5fa82:Fenestra</guid>
+      <pubDate>Thu, 19 Nov 2026 02:38:45 GMT</pubDate>
       <category>유틸리티 / 창 관리</category>
       <description>Category: 유틸리티 / 창 관리
-App: mFix
-Description: 키보드와 드래그 창 스냅, 스냅 레이아웃, 실시간 미리보기가 있는 Cmd+Tab 창 전환기, Dock 창 미리보기를 갖춘 오픈 소스 창 관리자.
-Open Source: https://github.com/Zingzy/mFix
-Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: mFix<br/>Description: 키보드와 드래그 창 스냅, 스냅 레이아웃, 실시간 미리보기가 있는 Cmd+Tab 창 전환기, Dock 창 미리보기를 갖춘 오픈 소스 창 관리자.<br/>Open Source: https://github.com/Zingzy/mFix<br/>Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe]]></content:encoded>
+App: Fenestra
+Description: macOS에서 Windows 11 데스크톱을 구현하며, 작업 표시줄, 시작 메뉴, 스냅 레이아웃, Alt+Tab, 클립보드 기록을 제공합니다.
+Open Source: https://github.com/PRMotorWorks/Fenestra
+Commit: Add Fenestra to Window Management (#4740)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Fenestra<br/>Description: macOS에서 Windows 11 데스크톱을 구현하며, 작업 표시줄, 시작 메뉴, 스냅 레이아웃, Alt+Tab, 클립보드 기록을 제공합니다.<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
     </item>
     <item>
-      <title>Dimble</title>
-      <link>https://dimble.fif7y.com</link>
-      <guid isPermaLink="false">fbc271eacecc0ca4c28e7591af0ab11ad5902dd1:Dimble</guid>
-      <pubDate>Sat, 17 Oct 2026 21:18:34 GMT</pubDate>
+      <title>Agent Monitor</title>
+      <link>https://github.com/paveler/agent-monitor</link>
+      <guid isPermaLink="false">6e63bdc7a84d8161567bddc688482dc8fe5f7a0e:Agent Monitor</guid>
+      <pubDate>Thu, 19 Nov 2026 02:33:11 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: Agent Monitor
+Description: Claude Code와 Codex 중 어떤 세션이 사용자를 기다리고 있는지 보여 주고, 클릭하면 해당 세션을 열며, 사용량 한도도 추적하는 오픈 소스 데스크톱 위젯 및 메뉴 막대 앱입니다.
+Open Source: https://github.com/paveler/agent-monitor
+Commit: Add Agent Monitor to Developer Utilities (#4745)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Agent Monitor<br/>Description: Claude Code와 Codex 중 어떤 세션이 사용자를 기다리고 있는지 보여 주고, 클릭하면 해당 세션을 열며, 사용량 한도도 추적하는 오픈 소스 데스크톱 위젯 및 메뉴 막대 앱입니다.<br/>Open Source: https://github.com/paveler/agent-monitor<br/>Commit: Add Agent Monitor to Developer Utilities (#4745)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e]]></content:encoded>
+    </item>
+    <item>
+      <title>Papilot</title>
+      <link>https://papilot.ai</link>
+      <guid isPermaLink="false">b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64:Papilot</guid>
+      <pubDate>Wed, 18 Nov 2026 11:22:25 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Papilot
+Description: 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱.
+Website: https://papilot.ai
+Open Source: https://github.com/PapilotAI/papilot
+Commit: Add Papilot to AI Tools (#4737)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Papilot<br/>Description: 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱.<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
+    </item>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
       <category>유틸리티 / 메뉴 바 도구</category>
       <description>Category: 유틸리티 / 메뉴 바 도구
-App: Dimble
-Description: macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다.
-Website: https://dimble.fif7y.com
-Commit: Rename Pelmet to Dimble (#3563)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fbc271eacecc0ca4c28e7591af0ab11ad5902dd1</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Dimble<br/>Description: macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다.<br/>Website: https://dimble.fif7y.com<br/>Commit: Rename Pelmet to Dimble (#3563)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fbc271eacecc0ca4c28e7591af0ab11ad5902dd1]]></content:encoded>
+App: DisplayLatch
+Description: 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구.
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DisplayLatch<br/>Description: 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
+    <item>
+      <title>Inkstone (砚台)</title>
+      <link>https://github.com/raistlinsha-plus/inkstone</link>
+      <guid isPermaLink="false">a6394b21790b39e22cdaa9139b6682e25b020ff5:Inkstone (砚台)</guid>
+      <pubDate>Wed, 18 Nov 2026 07:08:31 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Inkstone (砚台)
+Description: 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰).
+Open Source: https://github.com/raistlinsha-plus/inkstone
+Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Inkstone (砚台)<br/>Description: 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰).<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
+    </item>
+    <item>
+      <title>Pinto Notes</title>
+      <link>https://pintonotes.com/</link>
+      <guid isPermaLink="false">373aea848d99b7d725ea12e7b3ea695904e09049:Pinto Notes</guid>
+      <pubDate>Wed, 18 Nov 2026 05:54:39 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: Pinto Notes
+Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.
+Website: https://pintonotes.com/
+Open Source: https://github.com/pinto-notes/pinto-notes
+Commit: Rename Amber Notes to Pinto Notes (#3437)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Pinto Notes<br/>Description: ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱.<br/>Website: https://pintonotes.com/<br/>Open Source: https://github.com/pinto-notes/pinto-notes<br/>Commit: Rename Amber Notes to Pinto Notes (#3437)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049]]></content:encoded>
+    </item>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: YANA
+Description: MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: YANA<br/>Description: MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
+    <item>
+      <title>NotchDeck</title>
+      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
+      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
+      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: NotchDeck
+Description: 시스템 지표, 미디어 제어, 빠른 메모, 화면 녹화, 작업 프로필을 갖춘 MacBook 노치 중심의 컨트롤 센터.
+Open Source: https://github.com/systemAdmin-ai/NotchDeck
+Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: NotchDeck<br/>Description: 시스템 지표, 미디어 제어, 빠른 메모, 화면 녹화, 작업 프로필을 갖춘 MacBook 노치 중심의 컨트롤 센터.<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
+    </item>
+    <item>
+      <title>WhisPaste</title>
+      <link>https://whispaste.de/en/</link>
+      <guid isPermaLink="false">7a4d9cdc93dc7125871f678237e16606a9d30b12:WhisPaste</guid>
+      <pubDate>Wed, 18 Nov 2026 02:21:39 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: WhisPaste
+Description: macOS, Windows, Linux용 푸시투톡 받아쓰기 도구로, Whisper 또는 Parakeet로 기기에서 전사하고 어떤 앱이든 커서 위치에 텍스트를 붙여 넣습니다.
+Website: https://whispaste.de/en/
+Open Source: https://github.com/whispaste/whispaste
+Commit: Add WhisPaste to Voice-to-Text (#4704)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: WhisPaste<br/>Description: macOS, Windows, Linux용 푸시투톡 받아쓰기 도구로, Whisper 또는 Parakeet로 기기에서 전사하고 어떤 앱이든 커서 위치에 텍스트를 붙여 넣습니다.<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
+    </item>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: Point
+Description: 말하면서 화면 일부에 동그라미를 그리면 받아쓴 텍스트와 표시된 스크린샷을 Claude Code, Cursor 또는 모든 채팅 앱으로 보내 주는 오픈 소스 푸시 투 토크 음성 받아쓰기 앱. 음성 인식은 온디바이스.
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Point<br/>Description: 말하면서 화면 일부에 동그라미를 그리면 받아쓴 텍스트와 표시된 스크린샷을 Claude Code, Cursor 또는 모든 채팅 앱으로 보내 주는 오픈 소스 푸시 투 토크 음성 받아쓰기 앱. 음성 인식은 온디바이스.<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomoru</title>
+      <link>https://tomoru.acane.dev</link>
+      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
+      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
+      <category>번역 도구</category>
+      <description>Category: 번역 도구
+App: Tomoru
+Description: 방송, 애니메이션, 게임, 회의를 위한 실시간 이중 언어 자막 및 화면 텍스트 번역 도구로, 고유명사를 지키는 용어집과 Mac 온디바이스 오프라인 및 클라우드 실행을 지원.
+Website: https://tomoru.acane.dev
+Open Source: https://github.com/ACAne0320/Tomoru
+Commit: Add Tomoru to Translation Tools (#4701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
+      <content:encoded><![CDATA[Category: 번역 도구<br/>App: Tomoru<br/>Description: 방송, 애니메이션, 게임, 회의를 위한 실시간 이중 언어 자막 및 화면 텍스트 번역 도구로, 고유명사를 지키는 용어집과 Mac 온디바이스 오프라인 및 클라우드 실행을 지원.<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
+    </item>
+    <item>
+      <title>Velinshot</title>
+      <link>https://github.com/Jacknelson6/Velinshot</link>
+      <guid isPermaLink="false">31dfe7eb39ea2b370c95db9f4b38aeb443ee1868:Velinshot</guid>
+      <pubDate>Wed, 18 Nov 2026 01:42:00 GMT</pubDate>
+      <category>디자인 및 제품 / 스크린샷 도구</category>
+      <description>Category: 디자인 및 제품 / 스크린샷 도구
+App: Velinshot
+Description: 주석, 사용자 지정 프레임, 로컬 OCR을 지원하는 무료 네이티브 스크린샷 편집기이며 Apple 공증 전 미리보기 버전입니다.
+Open Source: https://github.com/Jacknelson6/Velinshot
+Commit: Add Velinshot to screenshot tools (#4700)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Velinshot<br/>Description: 주석, 사용자 지정 프레임, 로컬 OCR을 지원하는 무료 네이티브 스크린샷 편집기이며 Apple 공증 전 미리보기 버전입니다.<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
+    </item>
+    <item>
+      <title>ClaudeTTY</title>
+      <link>https://github.com/aqilc/ClaudeTTY</link>
+      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
+      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: ClaudeTTY
+Description: 많은 Claude Code를 동시에 실행하기 위한 네이티브 macOS 터미널로, 앱을 종료해도 각 탭이 계속 실행됩니다.
+Open Source: https://github.com/aqilc/ClaudeTTY
+Commit: Add ClaudeTTY to Terminal Apps (#4698)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: ClaudeTTY<br/>Description: 많은 Claude Code를 동시에 실행하기 위한 네이티브 macOS 터미널로, 앱을 종료해도 각 탭이 계속 실행됩니다.<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
+    </item>
+    <item>
+      <title>Seshka</title>
+      <link>https://seshka.dev</link>
+      <guid isPermaLink="false">22d4c98159519a40ed45885e40b0c4a55f0c34fd:Seshka</guid>
+      <pubDate>Wed, 18 Nov 2026 00:52:26 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Seshka
+Description: 종료된 Claude Code 세션이 남겨 둔 개발 서버, 워처, 브라우저를 찾아 종료하는 오픈 소스 메뉴 막대 앱.
+Website: https://seshka.dev
+Open Source: https://github.com/jigjoy-ai/seshka
+Commit: Add Seshka to AI Tools (#4719)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Seshka<br/>Description: 종료된 Claude Code 세션이 남겨 둔 개발 서버, 워처, 브라우저를 찾아 종료하는 오픈 소스 메뉴 막대 앱.<br/>Website: https://seshka.dev<br/>Open Source: https://github.com/jigjoy-ai/seshka<br/>Commit: Add Seshka to AI Tools (#4719)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd]]></content:encoded>
+    </item>
+    <item>
+      <title>Spool</title>
+      <link>https://joedesigns.com/spool</link>
+      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
+      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
+      <category>커뮤니케이션 / 이메일 클라이언트</category>
+      <description>Category: 커뮤니케이션 / 이메일 클라이언트
+App: Spool
+Description: 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다.
+Website: https://joedesigns.com/spool
+Open Source: https://github.com/wes/spool
+Commit: Add Spool to Email Clients (#4695)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
+      <content:encoded><![CDATA[Category: 커뮤니케이션 / 이메일 클라이언트<br/>App: Spool<br/>Description: 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다.<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
+    </item>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Escale
+Description: 탭, 터미널 옆 SFTP 브라우저, 터널, 다중 호스트 실행, 내장 X11 서버를 갖춘 네이티브 SSH 클라이언트.
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Escale<br/>Description: 탭, 터미널 옆 SFTP 브라우저, 터널, 다중 호스트 실행, 내장 X11 서버를 갖춘 네이티브 SSH 클라이언트.<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
+    <item>
+      <title>EdgeEver</title>
+      <link>https://edgeever.org/</link>
+      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
+      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: EdgeEver
+Description: 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스.
+Website: https://edgeever.org/
+Open Source: https://github.com/tianma-if/edgeever
+Commit: Add EdgeEver to Note-taking (#4680)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: EdgeEver<br/>Description: 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스.<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
+    </item>
+    <item>
+      <title>BitSpring</title>
+      <link>https://bitspring.app/</link>
+      <guid isPermaLink="false">395fab35347c28a9aefa65da069fe2e0a65ccd49:BitSpring</guid>
+      <pubDate>Tue, 17 Nov 2026 11:03:18 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: BitSpring
+Description: 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어.
+Website: https://bitspring.app/
+Open Source: https://github.com/crash2bash/bitspring
+Commit: Add BitSpring to Audio and Video Tools (#4678)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: BitSpring<br/>Description: 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
+    </item>
+    <item>
+      <title>Aris</title>
+      <link>https://arismac.app</link>
+      <guid isPermaLink="false">8f395d30de4862b40404f4161fd1db941b3a541a:Aris</guid>
+      <pubDate>Tue, 17 Nov 2026 09:17:23 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Aris
+Description: 말하거나 입력하면 이미 쓰는 AI로 앱에서 작업을 수행하고, 보내기·쓰기·삭제 전에는 먼저 확인하는 MacBook 노치 속 오픈 소스 AI 에이전트.
+Website: https://arismac.app
+Open Source: https://github.com/LumenJSN/Aris
+Commit: Add Aris to AI Tools (#4689)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Aris<br/>Description: 말하거나 입력하면 이미 쓰는 AI로 앱에서 작업을 수행하고, 보내기·쓰기·삭제 전에는 먼저 확인하는 MacBook 노치 속 오픈 소스 AI 에이전트.<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
+    </item>
+    <item>
+      <title>Bar27</title>
+      <link>https://github.com/ATTILA-KRB/bar27</link>
+      <guid isPermaLink="false">a7c5aaf0a4fa9614fb829b06b666cdf48abe768d:Bar27</guid>
+      <pubDate>Tue, 17 Nov 2026 09:09:11 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Bar27
+Description: 앱별로 메뉴 바 아이콘을 숨기고 클릭, 마우스 오버, 단축키로 다시 표시하는 macOS 27용 메뉴 바 관리 도구.
+Open Source: https://github.com/ATTILA-KRB/bar27
+Commit: Add Bar27 to Menu Bar Tools (#4688)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Bar27<br/>Description: 앱별로 메뉴 바 아이콘을 숨기고 클릭, 마우스 오버, 단축키로 다시 표시하는 macOS 27용 메뉴 바 관리 도구.<br/>Open Source: https://github.com/ATTILA-KRB/bar27<br/>Commit: Add Bar27 to Menu Bar Tools (#4688)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d]]></content:encoded>
+    </item>
+    <item>
+      <title>Music Router</title>
+      <link>https://github.com/drumandbytes/music-router</link>
+      <guid isPermaLink="false">c29df05e7a236389476c1d2bc1f5a332d7ee1453:Music Router</guid>
+      <pubDate>Tue, 17 Nov 2026 09:07:14 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Music Router
+Description: Music.app이 자동으로 실행되는 것을 막고 미디어 키를 실제로 사용 중인 앱으로 전달합니다.
+Open Source: https://github.com/drumandbytes/music-router
+Commit: Add Music Router (#4687)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Music Router<br/>Description: Music.app이 자동으로 실행되는 것을 막고 미디어 키를 실제로 사용 중인 앱으로 전달합니다.<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
+    </item>
+    <item>
+      <title>Gesher</title>
+      <link>https://github.com/EphraimElgrabli/gesher</link>
+      <guid isPermaLink="false">bbe6d1198cc5af0361e2e623306f69e25772e548:Gesher</guid>
+      <pubDate>Tue, 17 Nov 2026 08:43:12 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Gesher
+Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.
+Open Source: https://github.com/EphraimElgrabli/gesher
+Commit: Add Gesher to AI Tools (#4684)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Gesher<br/>Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
+    </item>
+    <item>
+      <title>AGASTHY</title>
+      <link>https://github.com/HMAKT99/Agasthy</link>
+      <guid isPermaLink="false">9bb60f4e4cb75da6136e96bbc4057b36574fbf30:AGASTHY</guid>
+      <pubDate>Tue, 17 Nov 2026 05:13:03 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: AGASTHY
+Description: 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱.
+Open Source: https://github.com/HMAKT99/Agasthy
+Commit: Add AGASTHY to Developer Utilities (#4683)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: AGASTHY<br/>Description: 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱.<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
+    </item>
+    <item>
+      <title>Linger</title>
+      <link>https://withlinger.com/</link>
+      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
+      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Linger
+Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.
+Website: https://withlinger.com/
+Commit: Add Linger to design and product tools (#4194)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Linger<br/>Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
+    </item>
+    <item>
+      <title>Scrollr</title>
+      <link>https://github.com/atuuuuuuu/Scrollr</link>
+      <guid isPermaLink="false">bcb5d10383f63089cccec18a89a6413a2ee794cf:Scrollr</guid>
+      <pubDate>Mon, 16 Nov 2026 16:11:07 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: Scrollr
+Description: 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원).
+Open Source: https://github.com/atuuuuuuu/Scrollr
+Commit: Add Scrollr (#4665)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Scrollr<br/>Description: 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원).<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
+    </item>
+    <item>
+      <title>Convrt</title>
+      <link>https://github.com/atuuuuuuu/Convrt</link>
+      <guid isPermaLink="false">45b8e29558f1a4fb89ec659a29ddd78e9e1998a2:Convrt</guid>
+      <pubDate>Mon, 16 Nov 2026 15:29:06 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Convrt
+Description: 파일을 드래그하는 중에 Shift를 누르면 그 파일에 맞는 형식과 도구만 보여 주는 휠이 열리는 오프라인 메뉴 막대 파일 변환기(명령줄 버전 포함).
+Open Source: https://github.com/atuuuuuuu/Convrt
+Commit: Add Convrt (#4664)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Convrt<br/>Description: 파일을 드래그하는 중에 Shift를 누르면 그 파일에 맞는 형식과 도구만 보여 주는 휠이 열리는 오프라인 메뉴 막대 파일 변환기(명령줄 버전 포함).<br/>Open Source: https://github.com/atuuuuuuu/Convrt<br/>Commit: Add Convrt (#4664)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2]]></content:encoded>
+    </item>
+    <item>
+      <title>FileMint</title>
+      <link>https://github.com/FileMintApp/FileMint</link>
+      <guid isPermaLink="false">c7df8600e135bcdf1e1abb016e9afcf9c4af02a1:FileMint</guid>
+      <pubDate>Mon, 16 Nov 2026 13:23:23 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: FileMint
+Description: Finder 우클릭 메뉴에서 템플릿으로 파일을 만드는 네이티브 확장으로, 개인 및 비상업적 이용은 무료.
+Open Source: https://github.com/FileMintApp/FileMint
+Commit: Add FileMint to Finder tools (#4663)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: FileMint<br/>Description: Finder 우클릭 메뉴에서 템플릿으로 파일을 만드는 네이티브 확장으로, 개인 및 비상업적 이용은 무료.<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
+    </item>
+    <item>
+      <title>SoloPDF</title>
+      <link>https://solopdf.doaipm.com</link>
+      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
+      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 기타</category>
+      <description>Category: 읽기 및 쓰기 도구 / 기타
+App: SoloPDF
+Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).
+Website: https://solopdf.doaipm.com
+Open Source: https://github.com/zhitongblog/solopdf
+App Store: https://apps.apple.com/app/id6787712953?platform=mac
+Commit: Add SoloPDF to Reading and Writing Tools (#4659)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: SoloPDF<br/>Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
+    </item>
+    <item>
+      <title>Copia</title>
+      <link>https://geragaraza.com/apps/copia/</link>
+      <guid isPermaLink="false">e3b323ddc950da809a171be935285ea78d5415bc:Copia</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:44 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: Copia
+Description: 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱.
+Website: https://geragaraza.com/apps/copia/
+Open Source: https://github.com/geragarazagh/copia
+Commit: Add Copia to Clipboard Tools (#4645)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Copia<br/>Description: 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱.<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
+    </item>
+    <item>
+      <title>Memozia</title>
+      <link>https://github.com/oceanix-pr/Memozia</link>
+      <guid isPermaLink="false">9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33:Memozia</guid>
+      <pubDate>Mon, 16 Nov 2026 11:26:46 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Memozia
+Description: 기기 내 전사, 화자 표시, 요약, 편집 가능한 할 일을 지원하는 오픈 소스 회의 녹음 도구.
+Open Source: https://github.com/oceanix-pr/Memozia
+Commit: Add Memozia to audio recording tools in four languages (#4644)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Memozia<br/>Description: 기기 내 전사, 화자 표시, 요약, 편집 가능한 할 일을 지원하는 오픈 소스 회의 녹음 도구.<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
+    </item>
+    <item>
+      <title>NotificationNanny</title>
+      <link>https://chessper53.github.io/NotificationNanny/</link>
+      <guid isPermaLink="false">71e80af34561fb20ee99ee3304d0d71b3919a90d:NotificationNanny</guid>
+      <pubDate>Mon, 16 Nov 2026 10:46:56 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: NotificationNanny
+Description: 알림 배너의 위치와 모양을 바꾸고 알림 센터 패널을 사용자 지정 패널로 대체할 수 있는 앱.
+Website: https://chessper53.github.io/NotificationNanny/
+Open Source: https://github.com/chessper53/NotificationNanny
+Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: NotificationNanny<br/>Description: 알림 배너의 위치와 모양을 바꾸고 알림 센터 패널을 사용자 지정 패널로 대체할 수 있는 앱.<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
+    </item>
+    <item>
+      <title>Purr</title>
+      <link>https://purr.arunbrahma.com</link>
+      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
+      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: Purr
+Description: Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원.
+Website: https://purr.arunbrahma.com
+Open Source: https://github.com/iamarunbrahma/purr
+Commit: Add Purr to Voice-to-Text (#4647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Purr<br/>Description: Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원.<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
+    </item>
+    <item>
+      <title>AInnotator</title>
+      <link>https://github.com/porco-rs/ainnotator</link>
+      <guid isPermaLink="false">71c1e4439781ec35ce01742f16fbfd7eb0d29688:AInnotator</guid>
+      <pubDate>Mon, 16 Nov 2026 01:06:31 GMT</pubDate>
+      <category>디자인 및 제품 / 스크린샷 도구</category>
+      <description>Category: 디자인 및 제품 / 스크린샷 도구
+App: AInnotator
+Description: 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구.
+Open Source: https://github.com/porco-rs/ainnotator
+Commit: Add AInnotator to Screenshot Tools (#4641)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: AInnotator<br/>Description: 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구.<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
+    </item>
+    <item>
+      <title>neatly</title>
+      <link>https://alpozaydin.github.io/neatly/</link>
+      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
+      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: neatly
+Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.
+Website: https://alpozaydin.github.io/neatly/
+Open Source: https://github.com/alpozaydin/neatly
+Commit: Add neatly to File Organization Tools (#4658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: neatly<br/>Description: 다운로드, 스크린샷, 사진의 내용을 보고 자동으로 이름을 붙이는 AI 파일 이름 변경 도구. Apple Intelligence로 기기에서 실행.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
+    </item>
+    <item>
+      <title>SoundLadder</title>
+      <link>https://github.com/dirkkredinger/SoundLadder</link>
+      <guid isPermaLink="false">d2259249451bd2724cf2c5b231ce4a39f76aebc2:SoundLadder</guid>
+      <pubDate>Mon, 16 Nov 2026 00:19:29 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: SoundLadder
+Description: 우선순위 목록에 따라 오디오 출력을 선택하고, 선호 기기가 연결되어 있지 않으면 다음 연결된 기기로 자동 전환하는 메뉴 막대 앱.
+Open Source: https://github.com/dirkkredinger/SoundLadder
+Commit: Add SoundLadder to Menu Bar Tools (#4638)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: SoundLadder<br/>Description: 우선순위 목록에 따라 오디오 출력을 선택하고, 선호 기기가 연결되어 있지 않으면 다음 연결된 기기로 자동 전환하는 메뉴 막대 앱.<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
+    </item>
+    <item>
+      <title>Tendbar</title>
+      <link>https://github.com/DabuSoft-pl/tendbar</link>
+      <guid isPermaLink="false">1f153c73030441ef027f0e308333bfc4ff0119fa:Tendbar</guid>
+      <pubDate>Sun, 15 Nov 2026 15:23:57 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Tendbar
+Description: 어떤 Claude Code 세션이 끝났는지, 입력을 기다리는지, 실패했는지 보여 주고, 해당 터미널 탭으로 바로 돌아가며, 계정별 사용 한도를 추적하는 네이티브 메뉴 막대 앱.
+Open Source: https://github.com/DabuSoft-pl/tendbar
+Commit: Add Tendbar to AI Tools (#4617)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Tendbar<br/>Description: 어떤 Claude Code 세션이 끝났는지, 입력을 기다리는지, 실패했는지 보여 주고, 해당 터미널 탭으로 바로 돌아가며, 계정별 사용 한도를 추적하는 네이티브 메뉴 막대 앱.<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
+    </item>
+    <item>
+      <title>kwant</title>
+      <link>https://kwant.si</link>
+      <guid isPermaLink="false">c16a70393d592630b3ee2dacb311a91c0a11fee6:kwant</guid>
+      <pubDate>Sun, 15 Nov 2026 11:15:36 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: kwant
+Description: 하나의 Rust 바이너리로 동작하는 셀프 호스팅 AI 봇 팀. 스페이스, 로컬 모델, 핸드오프, 승인을 지원합니다.
+Website: https://kwant.si
+Open Source: https://github.com/alexsergivan/kwant
+Commit: Add kwant to AI Tools (#4615)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: kwant<br/>Description: 하나의 Rust 바이너리로 동작하는 셀프 호스팅 AI 봇 팀. 스페이스, 로컬 모델, 핸드오프, 승인을 지원합니다.<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
+    </item>
+    <item>
+      <title>Rewrite</title>
+      <link>https://samratduttaofficial.github.io/Rewrite/</link>
+      <guid isPermaLink="false">797f4642c101b3964178f539f2593062343a1ad8:Rewrite</guid>
+      <pubDate>Sun, 15 Nov 2026 02:46:57 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 쓰기</category>
+      <description>Category: 읽기 및 쓰기 도구 / 쓰기
+App: Rewrite
+Description: 텍스트를 다시 쓰고 문법을 고치며 Word, LaTeX, PDF 파일을 편집하는 앱.
+Website: https://samratduttaofficial.github.io/Rewrite/
+Commit: Add Rewrite to Writing (#3897)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: Rewrite<br/>Description: 텍스트를 다시 쓰고 문법을 고치며 Word, LaTeX, PDF 파일을 편집하는 앱.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
+    </item>
+    <item>
+      <title>Cyberdog</title>
+      <link>https://pickywawa.github.io/cyberdog/</link>
+      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
+      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Cyberdog
+Description: 터미널과 서버 상태 대시보드를 내장하고 FTP, S3, WebDAV도 지원하는 SSH/SFTP 클라이언트.
+Website: https://pickywawa.github.io/cyberdog/
+Open Source: https://github.com/pickywawa/cyberdog
+Commit: Add Cyberdog (#4610)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Cyberdog<br/>Description: 터미널과 서버 상태 대시보드를 내장하고 FTP, S3, WebDAV도 지원하는 SSH/SFTP 클라이언트.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
+    </item>
+    <item>
+      <title>HistCite Mac</title>
+      <link>https://github.com/yangnim21029/histcite-mac</link>
+      <guid isPermaLink="false">36aa93952ca7855154af79c3b115f19bbdbc4a19:HistCite Mac</guid>
+      <pubDate>Sun, 15 Nov 2026 02:17:08 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 기타</category>
+      <description>Category: 읽기 및 쓰기 도구 / 기타
+App: HistCite Mac
+Description: Web of Science에서 내보낸 데이터를 계량서지학적으로 분석하고 인용 네트워크를 시각화하는 오픈소스 도구.
+Open Source: https://github.com/yangnim21029/histcite-mac
+Commit: Add HistCite Mac to the multilingual app lists (#4609)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: HistCite Mac<br/>Description: Web of Science에서 내보낸 데이터를 계량서지학적으로 분석하고 인용 네트워크를 시각화하는 오픈소스 도구.<br/>Open Source: https://github.com/yangnim21029/histcite-mac<br/>Commit: Add HistCite Mac to the multilingual app lists (#4609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/36aa93952ca7855154af79c3b115f19bbdbc4a19]]></content:encoded>
     </item>
   </channel>
 </rss>
