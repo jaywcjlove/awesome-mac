@@ -1152,6 +1152,7 @@ Awesome Mac
 
 ### 메뉴 바 도구
 
+* [AgentBar](https://github.com/michalstrnadel/AgentBar) - 메뉴 바와 노치에 AI 코딩 에이전트(Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI)의 실시간 상태를 보여주고, Claude Code·Codex·Copilot의 권한 요청을 한 번의 클릭으로 허용하거나 거부하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/michalstrnadel/AgentBar) ![Freeware][Freeware Icon]
 * [AI Footprint](https://stanczykwyatt.github.io/ai-footprint/) - AI 코딩 도구가 Mac에 남기는 디스크 사용량, 백그라운드 프로세스, MCP 서버, 로그인 항목을 보여 주고 업데이트마다 변경 내역을 기록하는 읽기 전용 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/ai-footprint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AI Meter](https://github.com/getguruhat/ai-meter) - 메뉴 바에 Claude Code 또는 Codex의 남은 사용량과 초기화 시간을 보여주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
