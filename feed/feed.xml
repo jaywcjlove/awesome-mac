@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:05:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Deskbridge</title>
+      <link>https://getdeskbridge.com</link>
+      <guid isPermaLink="false">dd013ed128b608bdec6a0ce67e5c376da5bdb708:Deskbridge</guid>
+      <pubDate>Fri, 20 Nov 2026 05:05:26 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Deskbridge
+Description: Menu bar app that opens a Samsung Galaxy phone&apos;s DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.
+Website: https://getdeskbridge.com
+Commit: Add Deskbridge to Menu Bar Tools (#3852)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Deskbridge<br/>Description: Menu bar app that opens a Samsung Galaxy phone&apos;s DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
+    </item>
     <item>
       <title>Driftwall</title>
       <link>https://driftwall.kamaldhital.com</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/dirkkredinger/SoundLadder
 Commit: Add SoundLadder to Menu Bar Tools (#4638)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: SoundLadder<br/>Description: Menu bar app that picks the audio output from a ranked list and falls back to the next connected device automatically.<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
-    </item>
-    <item>
-      <title>Tendbar</title>
-      <link>https://github.com/DabuSoft-pl/tendbar</link>
-      <guid isPermaLink="false">1f153c73030441ef027f0e308333bfc4ff0119fa:Tendbar</guid>
-      <pubDate>Sun, 15 Nov 2026 15:23:57 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Tendbar
-Description: Native menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account.
-Open Source: https://github.com/DabuSoft-pl/tendbar
-Commit: Add Tendbar to AI Tools (#4617)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Tendbar<br/>Description: Native menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account.<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
     </item>
   </channel>
 </rss>
