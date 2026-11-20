@@ -863,6 +863,7 @@ Awesome Mac
 * [Slack](https://slack.com/) - 팀 커뮤니케이션 및 협업 도구. ![Freeware][Freeware Icon]
 * [Teambition](https://www.teambition.com) - 작업, 일정, 파일, 토론을 관리하는 팀 협업 도구. ![Freeware][Freeware Icon]
 * [Telegram](https://desktop.telegram.org/) - 속도와 보안에 중점을 둔 메시징 앱. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
+* [Trina AX](https://ax.trina.app) - 공용 드라이브, 채팅방, 사람별 폴더 권한을 갖춘 셀프 호스팅 팀 AI 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/trina-app/trina-ax) ![Freeware][Freeware Icon]
 * [Wavebox](https://wavebox.io) - 웹 앱과 팀 도구를 정리해 쓰는 브라우저형 워크스페이스.
 * [WhatsApp](https://www.whatsapp.com/) - 전 세계적으로 사용되는 메시징 앱. ![Freeware][Freeware Icon]
 
