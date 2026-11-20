@@ -1341,6 +1341,7 @@ Awesome Mac
 
 ### 할 일 목록 (To-Do Lists)
 
+* [Kairos](https://skohscripts.github.io/Kairos/en/) - 작업을 우선순위로 정렬하고 회의 사이에 배치하는 오프라인 할 일 목록. [![Open-Source Software][OSS Icon]](https://github.com/SKOHscripts/Kairos) ![Freeware][Freeware Icon]
 * [Lotti](https://matthiasn.github.io/lotti/) - 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Nozbe](https://nozbe.com) - 개인과 팀을 위한 GTD 작업 관리자. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)

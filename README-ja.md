@@ -1688,6 +1688,7 @@ Awesome Mac
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - シンプルで柔軟なフォーカスタイマー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
+* [Kairos](https://skohscripts.github.io/Kairos/en/) - タスクを優先度で並べ、会議の合間に配置するオフラインのToDoリスト。 [![Open-Source Software][OSS Icon]](https://github.com/SKOHscripts/Kairos) ![Freeware][Freeware Icon]
 * [Lunatask](https://lunatask.app) - 暗号化されたオールインワンのToDoリスト、習慣・気分トラッカー、ジャーナリング＆メモアプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?platform=mac)
 * [Lotti](https://matthiasn.github.io/lotti/) - タスク、時間記録、ジャーナル、習慣を記録できる、エンドツーエンド暗号化同期とオプションのAIエージェントを備えたプライベートなログブック。 [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Microsoft To-Do](https://todo.microsoft.com/) - Wunderlistの後継となるMicrosoft製アプリ。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?platform=mac)
