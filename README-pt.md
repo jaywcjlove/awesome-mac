@@ -331,6 +331,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [novelWriter](https://github.com/vkbo/novelWriter) - Editor de texto simples de código aberto para escrever romances, com sintaxe mínima semelhante ao Markdown. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - O processador de texto por excelência para escritores.
 * [THORN](https://thorn.so) - Tudo o que você precisa para escrever e criar sites.
+* [Writeshaper](https://hollowbit.dev/writeshaper/) - Assistente de escrita privado: selecione um texto em qualquer app e pressione um atalho para corrigi-lo ou deixá-lo mais claro, curto ou profissional. O modelo roda no seu Mac. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/writeshaper) ![Freeware][Freeware Icon]
 
 ### Ebooks
 
