@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SIAM.AI GPU Watch</title>
+      <link>https://github.com/siamaicorp/GPUWatch</link>
+      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
+      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: SIAM.AI GPU Watch
+Description: Menu bar app for monitoring NVIDIA GPUs across remote servers over SSH.
+Open Source: https://github.com/siamaicorp/GPUWatch
+Commit: Add SIAM.AI GPU Watch (#4772)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: SIAM.AI GPU Watch<br/>Description: Menu bar app for monitoring NVIDIA GPUs across remote servers over SSH.<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
+    </item>
     <item>
       <title>unbraid</title>
       <link>https://unbraid.app</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/Multron-Community/Multron-Download-Manager
 Commit: Add Multron Download Manager to README (#4649)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f</description>
       <content:encoded><![CDATA[Category: Download Management Tools<br/>App: Multron Download Manager<br/>Description: Multi-connection download manager with yt-dlp and BitTorrent support.<br/>Open Source: https://github.com/Multron-Community/Multron-Download-Manager<br/>Commit: Add Multron Download Manager to README (#4649)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f61a75251cbe3c9b484d7638996135de43b7be6f]]></content:encoded>
-    </item>
-    <item>
-      <title>Purr</title>
-      <link>https://purr.arunbrahma.com</link>
-      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
-      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: Purr
-Description: Open-source on-device dictation that types into any app with Parakeet or Whisper, plus meeting notes with speaker labels and summaries.
-Website: https://purr.arunbrahma.com
-Open Source: https://github.com/iamarunbrahma/purr
-Commit: Add Purr to Voice-to-Text (#4647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Purr<br/>Description: Open-source on-device dictation that types into any app with Parakeet or Whisper, plus meeting notes with speaker labels and summaries.<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
     </item>
   </channel>
 </rss>
