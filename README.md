@@ -1904,6 +1904,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
 * [RClick](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [Strata Files](https://stratafiles.app) - Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane. [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
+* [SuperFinder](https://superfinder.es) - Native dual-pane Finder alternative with tabs, full-row colored labels, batch rename, a built-in SFTP client, an SSH terminal and a network scanner. Runs on Apple Silicon without disabling SIP. ![Native App][Native Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - Finder extension for opening selected files or folders with custom app shortcuts.
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [Treewise](https://treewise.m-domain.me) - File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side. [![Open-Source Software][OSS Icon]](https://github.com/mag243/treewise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
