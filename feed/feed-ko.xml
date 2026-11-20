@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:55:41 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>unbraid</title>
+      <link>https://unbraid.app</link>
+      <guid isPermaLink="false">77306449f4008214b35487d471461c1d7615ea79:unbraid</guid>
+      <pubDate>Fri, 20 Nov 2026 12:55:41 GMT</pubDate>
+      <category>프록시 및 VPN 도구</category>
+      <description>Category: 프록시 및 VPN 도구
+App: unbraid
+Description: 앱별 VPN 클라이언트. 앱마다 다른 출구를 쓰거나 VPN을 거치지 않게 할 수 있고, 그동안 Tailscale은 계속 연결됩니다.
+Website: https://unbraid.app
+Open Source: https://github.com/quiet-crafts/unbraid-mac
+Commit: Add unbraid to Proxy and VPN Tools (#4798)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
+      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: unbraid<br/>Description: 앱별 VPN 클라이언트. 앱마다 다른 출구를 쓰거나 VPN을 거치지 않게 할 수 있고, 그동안 Tailscale은 계속 연결됩니다.<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
+    </item>
     <item>
       <title>Tietie</title>
       <link>https://github.com/KLWSharpe/tietie</link>
@@ -720,21 +735,6 @@ Open Source: https://github.com/DabuSoft-pl/tendbar
 Commit: Add Tendbar to AI Tools (#4617)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Tendbar<br/>Description: 어떤 Claude Code 세션이 끝났는지, 입력을 기다리는지, 실패했는지 보여 주고, 해당 터미널 탭으로 바로 돌아가며, 계정별 사용 한도를 추적하는 네이티브 메뉴 막대 앱.<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
-    </item>
-    <item>
-      <title>kwant</title>
-      <link>https://kwant.si</link>
-      <guid isPermaLink="false">c16a70393d592630b3ee2dacb311a91c0a11fee6:kwant</guid>
-      <pubDate>Sun, 15 Nov 2026 11:15:36 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: kwant
-Description: 하나의 Rust 바이너리로 동작하는 셀프 호스팅 AI 봇 팀. 스페이스, 로컬 모델, 핸드오프, 승인을 지원합니다.
-Website: https://kwant.si
-Open Source: https://github.com/alexsergivan/kwant
-Commit: Add kwant to AI Tools (#4615)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: kwant<br/>Description: 하나의 Rust 바이너리로 동작하는 셀프 호스팅 AI 봇 팀. 스페이스, 로컬 모델, 핸드오프, 승인을 지원합니다.<br/>Website: https://kwant.si<br/>Open Source: https://github.com/alexsergivan/kwant<br/>Commit: Add kwant to AI Tools (#4615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c16a70393d592630b3ee2dacb311a91c0a11fee6]]></content:encoded>
     </item>
   </channel>
 </rss>

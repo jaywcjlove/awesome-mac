@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:55:41 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>unbraid</title>
+      <link>https://unbraid.app</link>
+      <guid isPermaLink="false">77306449f4008214b35487d471461c1d7615ea79:unbraid</guid>
+      <pubDate>Fri, 20 Nov 2026 12:55:41 GMT</pubDate>
+      <category>科学上网</category>
+      <description>Category: 科学上网
+App: unbraid
+Description: 按应用分流的 VPN 客户端。每个应用可以走自己的出口或绕过 VPN，同时 Tailscale 保持连接。
+Website: https://unbraid.app
+Open Source: https://github.com/quiet-crafts/unbraid-mac
+Commit: Add unbraid to Proxy and VPN Tools (#4798)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
+      <content:encoded><![CDATA[Category: 科学上网<br/>App: unbraid<br/>Description: 按应用分流的 VPN 客户端。每个应用可以走自己的出口或绕过 VPN，同时 Tailscale 保持连接。<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
+    </item>
     <item>
       <title>Tietie</title>
       <link>https://github.com/KLWSharpe/tietie</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/dirkkredinger/SoundLadder
 Commit: Add SoundLadder to Menu Bar Tools (#4638)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SoundLadder<br/>Description: 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
-    </item>
-    <item>
-      <title>Tendbar</title>
-      <link>https://github.com/DabuSoft-pl/tendbar</link>
-      <guid isPermaLink="false">1f153c73030441ef027f0e308333bfc4ff0119fa:Tendbar</guid>
-      <pubDate>Sun, 15 Nov 2026 15:23:57 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Tendbar
-Description: 原生菜单栏应用，显示哪些 Claude Code 会话已完成、正在等你或已出错，一键跳回对应的终端标签页，并跟踪每个账号的用量限额。
-Open Source: https://github.com/DabuSoft-pl/tendbar
-Commit: Add Tendbar to AI Tools (#4617)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Tendbar<br/>Description: 原生菜单栏应用，显示哪些 Claude Code 会话已完成、正在等你或已出错，一键跳回对应的终端标签页，并跟踪每个账号的用量限额。<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
     </item>
   </channel>
 </rss>
