@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SIAM.AI GPU Watch</title>
+      <link>https://github.com/siamaicorp/GPUWatch</link>
+      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
+      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: SIAM.AI GPU Watch
+Description: 通过 SSH 监控多台远程服务器上 NVIDIA GPU 的菜单栏应用。
+Open Source: https://github.com/siamaicorp/GPUWatch
+Commit: Add SIAM.AI GPU Watch (#4772)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SIAM.AI GPU Watch<br/>Description: 通过 SSH 监控多台远程服务器上 NVIDIA GPU 的菜单栏应用。<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
+    </item>
     <item>
       <title>unbraid</title>
       <link>https://unbraid.app</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/alpozaydin/neatly
 Commit: Add neatly to File Organization Tools (#4658)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: neatly<br/>Description: AI 文件重命名工具，根据内容为下载文件、截图和照片自动命名，借助 Apple Intelligence 在本地运行。<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoundLadder</title>
-      <link>https://github.com/dirkkredinger/SoundLadder</link>
-      <guid isPermaLink="false">d2259249451bd2724cf2c5b231ce4a39f76aebc2:SoundLadder</guid>
-      <pubDate>Mon, 16 Nov 2026 00:19:29 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: SoundLadder
-Description: 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。
-Open Source: https://github.com/dirkkredinger/SoundLadder
-Commit: Add SoundLadder to Menu Bar Tools (#4638)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SoundLadder<br/>Description: 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
     </item>
   </channel>
 </rss>

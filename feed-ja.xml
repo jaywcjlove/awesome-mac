@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:05:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SIAM.AI GPU Watch</title>
+      <link>https://github.com/siamaicorp/GPUWatch</link>
+      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
+      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: SIAM.AI GPU Watch
+Description: SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。
+Open Source: https://github.com/siamaicorp/GPUWatch
+Commit: Add SIAM.AI GPU Watch (#4772)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: SIAM.AI GPU Watch<br/>Description: SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
+    </item>
     <item>
       <title>unbraid</title>
       <link>https://unbraid.app</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/dirkkredinger/SoundLadder
 Commit: Add SoundLadder to Menu Bar Tools (#4638)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: SoundLadder<br/>Description: 優先順位リストに従ってオーディオ出力を選び、優先デバイスが未接続なら次の接続済みデバイスへ自動で切り替えるメニューバーアプリ。<br/>Open Source: https://github.com/dirkkredinger/SoundLadder<br/>Commit: Add SoundLadder to Menu Bar Tools (#4638)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d2259249451bd2724cf2c5b231ce4a39f76aebc2]]></content:encoded>
-    </item>
-    <item>
-      <title>Tendbar</title>
-      <link>https://github.com/DabuSoft-pl/tendbar</link>
-      <guid isPermaLink="false">1f153c73030441ef027f0e308333bfc4ff0119fa:Tendbar</guid>
-      <pubDate>Sun, 15 Nov 2026 15:23:57 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Tendbar
-Description: どの Claude Code セッションが完了したか、入力待ちか、失敗したかを表示し、該当するターミナルのタブへすぐ戻れて、各アカウントの利用上限も追跡するネイティブのメニューバーアプリ。
-Open Source: https://github.com/DabuSoft-pl/tendbar
-Commit: Add Tendbar to AI Tools (#4617)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Tendbar<br/>Description: どの Claude Code セッションが完了したか、入力待ちか、失敗したかを表示し、該当するターミナルのタブへすぐ戻れて、各アカウントの利用上限も追跡するネイティブのメニューバーアプリ。<br/>Open Source: https://github.com/DabuSoft-pl/tendbar<br/>Commit: Add Tendbar to AI Tools (#4617)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f153c73030441ef027f0e308333bfc4ff0119fa]]></content:encoded>
     </item>
   </channel>
 </rss>
