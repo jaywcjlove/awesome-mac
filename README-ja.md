@@ -1521,6 +1521,7 @@ Awesome Mac
 * [FreeAudio](https://github.com/hakanotal/FreeAudio) - アプリごとの音量とミュート、出力デバイスの切り替え、HDMI/DisplayPort モニターの音量調整ができるツール。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeAudio) ![Freeware][Freeware Icon]
 * [FreeDisplay](https://github.com/hakanotal/FreeDisplay) - メニューバーから外部ディスプレイの明るさ、HiDPI モード、解像度、配置を調整できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeDisplay) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 外部ディスプレイの明るさと音量を直接調整できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
+* [mtfy](https://github.com/acidvegas/mtfy) - デスクトップ通知、検索できる履歴、CLI を備えたオープンソースの ntfy メニューバークライアント。 [![Open-Source Software][OSS Icon]](https://github.com/acidvegas/mtfy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Music Router](https://github.com/drumandbytes/music-router) - Music.app の自動起動を止め、メディアキーを実際に使っているアプリに振り分けます。 [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/music-router) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - メニューバーから tmux セッションの一覧表示・接続・終了・ライブプレビューを行えるツール。蓋を閉じたままの作業モードも備える。 [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
