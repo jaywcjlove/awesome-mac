@@ -1054,6 +1054,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### File Sharing
 
+* [AutoMailSender](https://automailsender.app) - Emails the files you drop on it to a saved list of recipients over your own SMTP account, first 25 emails free, then a one-time purchase. [![App Store][app-store Icon]](https://apps.apple.com/app/id6754530297?platform=mac)
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - File sharing tool for screenshots, screen recordings, and other files.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - Peer-to-peer file transfer between computers and phones over local Wi-Fi. ![Freeware][Freeware Icon]
