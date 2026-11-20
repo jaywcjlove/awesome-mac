@@ -1653,6 +1653,7 @@ Awesome Mac
 * [Etcher](https://www.balena.io/etcher/) - OSイメージをSDカードやUSBドライブに安全かつ簡単に書き込み。 [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
 * [Equinox](https://github.com/rlxone/Equinox) - macOS用のダイナミック壁紙を作成。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](http://www.httrack.com) - Webサイト全体をダウンロードしてオフラインブラウジングするのに便利なツール。 ![Freeware][Freeware Icon]
+* [IconState](https://github.com/Jubstaaa/iconstate) - MacからUSB経由でiPhoneのホーム画面を並べ替え。フォルダへの自動整理と書き込み前の差分表示に対応。 [![Open-Source Software][OSS Icon]](https://github.com/Jubstaaa/iconstate) ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - あらゆるソースからインストールしたアプリが最新かどうかをチェックする小さなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
 * [Liftoff](https://github.com/firstfu/Liftoff) - ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [LocalSR](https://herrei.github.io/localsr/) - ローカルのAIモデルで写真や動画をアップスケール・ノイズ除去・修復するオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]

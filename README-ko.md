@@ -1371,6 +1371,7 @@ Awesome Mac
 * [Hungrymark](https://zhengying.github.io/hungrymark) - 파일, 폴더, 링크를 북마크하고 메뉴 막대에서 여는 도구.
 * [Hyperkey](https://hyperkey.app/) - Caps Lock이나 다른 보조 키를 Hyper 키로 바꾸는 도구. ![Freeware][Freeware Icon]
 * [iCMD](https://icmd.app) - 전역 퍼지 메뉴 검색과 Vim 스타일 탐색을 제공하는 도구.
+* [IconState](https://github.com/Jubstaaa/iconstate) - Mac에서 USB로 iPhone 홈 화면을 정리합니다. 폴더 자동 정리와 쓰기 전 변경 사항 확인을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Jubstaaa/iconstate) ![Freeware][Freeware Icon]
 * [Journey Navigation](https://gowithjourney.com) - 날씨와 교통 정보를 함께 보여주는 경로 계획 도구. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644?platform=mac)
 * [JUMP](https://alvaldes.github.io/jump/) - 클릭할 수 있는 모든 요소에 라벨을 붙여 어떤 앱에서든 키보드로 클릭, 스크롤, 검색할 수 있게 해 주는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/jump) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - macOS에서 키를 재배치하고 키보드 동작을 사용자 지정하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
