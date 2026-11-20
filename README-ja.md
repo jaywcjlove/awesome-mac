@@ -1401,6 +1401,7 @@ Awesome Mac
 * [TrustTunnel](https://trusttunnel.org/) - 近代的なオープンソースVPNプロトコルで、元々はAdGuard VPNによって開発されました。 [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 安全なブラウジングと地域切り替えができるシンプルなVPNサービス。 ![Freeware][Freeware Icon]
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - OS X上のOpenVPN用の無料のオープンソースグラフィカルユーザーインターフェース。 ![Freeware][Freeware Icon]
+* [unbraid](https://unbraid.app) - アプリごとの VPN クライアント。アプリごとに出口を選んだり VPN を通さないようにしたりでき、その間も Tailscale は接続したままです。 [![Open-Source Software][OSS Icon]](https://github.com/quiet-crafts/unbraid-mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vafa](https://github.com/k33ssa/vafa) - 許可された出口国の VPN が接続されるまで、選んだアプリを凍結して通信を遮断するオープンソースの VPN キルスイッチ。 [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/vafa) ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 特定のドメインやサービスの通信をVPN経由から除外できるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 広告ブロックとサーバー切り替えに対応したVPN/プロキシサービス。 ![Freeware][Freeware Icon]
