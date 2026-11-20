@@ -1782,6 +1782,7 @@ Awesome Mac
 * [Fenestra](https://github.com/PRMotorWorks/Fenestra) - Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。 [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - 开源窗口管理工具，通过在窗口标题栏上使用触控板手势来贴靠、调整和移动窗口。 [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
+* [Jugglinator](https://sefimov.github.io/jugglinator/) - 菜单栏任务切换器，用一个快捷键在选定的 AI 对话、Claude Code 会话、Chrome 标签页和终端标签页之间循环切换。 [![Open-Source Software][OSS Icon]](https://github.com/sefimov/jugglinator) ![Freeware][Freeware Icon]
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - 一个轻量级的 macOS 窗口边框系统。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - 平铺式窗口管理器，开箱即用、无需配置文件，带原生设置应用，并支持应用内自动更新。 ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - 一个优雅的窗口管理器，美观且强大  [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop) ![Freeware][Freeware Icon]
