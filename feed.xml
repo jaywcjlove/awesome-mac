@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:22:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GravityNotch</title>
+      <link>https://adrielakak.github.io/GravityNotch/</link>
+      <guid isPermaLink="false">f5927d27411346a67f4218b374ae3e2cf270ef3a:GravityNotch</guid>
+      <pubDate>Sat, 21 Nov 2026 08:22:46 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: GravityNotch
+Description: Turns the MacBook notch into a Dynamic Island with system HUDs that work on macOS Tahoe, a lock screen player with synced lyrics, clipboard history and live Claude Code agent tracking.
+Website: https://adrielakak.github.io/GravityNotch/
+Open Source: https://github.com/adrielakak/GravityNotch
+Commit: Add GravityNotch to Menu Bar Tools (#4825)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: GravityNotch<br/>Description: Turns the MacBook notch into a Dynamic Island with system HUDs that work on macOS Tahoe, a lock screen player with synced lyrics, clipboard history and live Claude Code agent tracking.<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
+    </item>
     <item>
       <title>Linggen</title>
       <link>https://linggen.dev</link>
@@ -720,22 +735,6 @@ Open Source: https://github.com/FileMintApp/FileMint
 Commit: Add FileMint to Finder tools (#4663)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
       <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: FileMint<br/>Description: Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use.<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoloPDF</title>
-      <link>https://solopdf.doaipm.com</link>
-      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
-      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: SoloPDF
-Description: Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes, with on-device OCR, visual blink diff, and a 56-tool MCP server.
-Website: https://solopdf.doaipm.com
-Open Source: https://github.com/zhitongblog/solopdf
-App Store: https://apps.apple.com/app/id6787712953?platform=mac
-Commit: Add SoloPDF to Reading and Writing Tools (#4659)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: SoloPDF<br/>Description: Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes, with on-device OCR, visual blink diff, and a 56-tool MCP server.<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
     </item>
   </channel>
 </rss>
