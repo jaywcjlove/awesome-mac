@@ -1145,6 +1145,7 @@ Awesome Mac
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 검색, 태그, 이미지 기록을 지원하는 로컬 우선 클립보드 기록 관리자. [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Paste](https://pasteapp.io/) - 세계 최고의 클립보드 관리자.
 * [Pesty](https://github.com/momenbasel/pesty) - 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
+* [Pocketry](https://pocketry.app) - 기록을 암호화해 저장하는 개인 정보 중심의 클립보드 관리자로, 스크린샷 텍스트 추출, 스니펫, 이미지 속 글자로 스크린샷 검색을 지원합니다. ![Native App][Native Icon]
 * [SaneClip](https://saneclip.com) - 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
 * [SnippetCraft](https://getsnippetcraft.com) - macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.
 * [Tietie](https://github.com/KLWSharpe/tietie) - 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어). [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
