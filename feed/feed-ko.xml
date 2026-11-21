@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ragdoll Mail</title>
+      <link>https://erict16.github.io/ragdoll-mail/</link>
+      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
+      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
+      <category>커뮤니케이션 / 이메일 클라이언트</category>
+      <description>Category: 커뮤니케이션 / 이메일 클라이언트
+App: Ragdoll Mail
+Description: 즉시 결과가 나오는 로컬 전문 검색과 스크립트 및 AI 에이전트용 명령줄을 갖춘 오픈 소스 IMAP 메일 클라이언트.
+Website: https://erict16.github.io/ragdoll-mail/
+Open Source: https://github.com/erict16/ragdoll-mail
+Commit: Add Ragdoll Mail to Email Clients (#4844)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
+      <content:encoded><![CDATA[Category: 커뮤니케이션 / 이메일 클라이언트<br/>App: Ragdoll Mail<br/>Description: 즉시 결과가 나오는 로컬 전문 검색과 스크립트 및 AI 에이전트용 명령줄을 갖춘 오픈 소스 IMAP 메일 클라이언트.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
+    </item>
     <item>
       <title>Kantor</title>
       <link>https://kantor.paparanai.id</link>
@@ -725,20 +740,6 @@ Open Source: https://github.com/drumandbytes/music-router
 Commit: Add Music Router (#4687)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Music Router<br/>Description: Music.app이 자동으로 실행되는 것을 막고 미디어 키를 실제로 사용 중인 앱으로 전달합니다.<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
-    </item>
-    <item>
-      <title>Gesher</title>
-      <link>https://github.com/EphraimElgrabli/gesher</link>
-      <guid isPermaLink="false">bbe6d1198cc5af0361e2e623306f69e25772e548:Gesher</guid>
-      <pubDate>Tue, 17 Nov 2026 08:43:12 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Gesher
-Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.
-Open Source: https://github.com/EphraimElgrabli/gesher
-Commit: Add Gesher to AI Tools (#4684)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Gesher<br/>Description: AI 어시스턴트가 Apple 메모, 미리 알림, 캘린더, 연락처, 지도, 날씨, Freeform을 읽고 편집할 수 있게 해 주는 오픈 소스 MCP 서버 및 CLI.<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
     </item>
   </channel>
 </rss>

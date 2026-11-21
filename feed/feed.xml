@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ragdoll Mail</title>
+      <link>https://erict16.github.io/ragdoll-mail/</link>
+      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
+      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
+      <category>Communication / Email Clients</category>
+      <description>Category: Communication / Email Clients
+App: Ragdoll Mail
+Description: Open-source IMAP mail client with instant local full-text search and a command line for scripts and AI agents.
+Website: https://erict16.github.io/ragdoll-mail/
+Open Source: https://github.com/erict16/ragdoll-mail
+Commit: Add Ragdoll Mail to Email Clients (#4844)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
+      <content:encoded><![CDATA[Category: Communication / Email Clients<br/>App: Ragdoll Mail<br/>Description: Open-source IMAP mail client with instant local full-text search and a command line for scripts and AI agents.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
+    </item>
     <item>
       <title>Kantor</title>
       <link>https://kantor.paparanai.id</link>
@@ -727,20 +742,6 @@ Open Source: https://github.com/LumenJSN/Aris
 Commit: Add Aris to AI Tools (#4689)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Aris<br/>Description: Open-source AI agent in the MacBook notch that you talk or type to, which acts in your apps with the AI you already use and asks before anything that sends, writes or deletes.<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
-    </item>
-    <item>
-      <title>Bar27</title>
-      <link>https://github.com/ATTILA-KRB/bar27</link>
-      <guid isPermaLink="false">a7c5aaf0a4fa9614fb829b06b666cdf48abe768d:Bar27</guid>
-      <pubDate>Tue, 17 Nov 2026 09:09:11 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Bar27
-Description: Menu bar manager for macOS 27 that hides icons per app and reveals them with a click, hover, or shortcut.
-Open Source: https://github.com/ATTILA-KRB/bar27
-Commit: Add Bar27 to Menu Bar Tools (#4688)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Bar27<br/>Description: Menu bar manager for macOS 27 that hides icons per app and reveals them with a click, hover, or shortcut.<br/>Open Source: https://github.com/ATTILA-KRB/bar27<br/>Commit: Add Bar27 to Menu Bar Tools (#4688)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d]]></content:encoded>
     </item>
   </channel>
 </rss>
