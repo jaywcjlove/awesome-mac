@@ -712,6 +712,7 @@ Awesome Mac
 * [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - 스토리보드, 이미지·영상 생성과 편집, 에셋 관리, ComfyUI 워크플로를 통합한 가볍고 무료인 소스 공개형 AI 창작 캔버스. ![Freeware][Freeware Icon]
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Stable Diffusion을 사용한 텍스트-이미지 생성. ![Freeware][Freeware Icon]
 * [Anthora](https://barryanders.github.io/anthora/) - 폴더와 마운트된 드라이브의 사진과 동영상을 탐색하고 검색하며 중복 파일을 검토하는 로컬 라이브러리. [![Open-Source Software][OSS Icon]](https://github.com/barryanders/Anthora) ![Freeware][Freeware Icon]
+* [Any2WebP](https://ixiehao.github.io/Any2WebP/) - 이미지를 WebP 또는 GIF로 일괄 변환하고 정지 이미지나 동영상 클립으로 애니메이션을 만드는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/Any2WebP) ![Freeware][Freeware Icon]
 * [Apolo](https://apolo.webcafeina.com/en/) - WebP, AVIF, JPEG XL, JPEG, PNG로 압축·변환하고 저장 전에 화질 손실과 SSIMULACRA 2 점수를 보여 주는 오픈 소스 이미지 최적화 도구. [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - 이미지 크기 조정 및 최적화. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - 녹화나 화면 공유 중 민감한 화면 내용을 즉시 흐리게 처리하는 도구.

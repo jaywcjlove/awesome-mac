@@ -620,6 +620,7 @@ Awesome Mac
 ### 其它工具
 
 * [Anthora](https://barryanders.github.io/anthora/) - 用于浏览、搜索文件夹和已挂载驱动器中的照片与视频并检查重复文件的本地媒体库。 [![Open-Source Software][OSS Icon]](https://github.com/barryanders/Anthora) ![Freeware][Freeware Icon]
+* [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/) - 批量将图片转换为 WebP 或 GIF，并可用静态图片或视频片段制作动图。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/Any2WebP) ![Freeware][Freeware Icon]
 * [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - 免费、轻量且源码公开的 AI 创作画布，集成分镜、图像与视频生成、剪辑、资产管理和 ComfyUI 工作流。 ![Freeware][Freeware Icon]
 * [APNGb](https://github.com/mancunianetz/APNGb) - 编辑 png 图片格式的软件。 [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Apolo](https://apolo.webcafeina.com/en/) - 开源图片优化工具，可压缩并转换为 WebP、AVIF、JPEG XL、JPEG 和 PNG，保存前显示画质损失及 SSIMULACRA 2 评分。 [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
