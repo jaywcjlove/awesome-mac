@@ -606,6 +606,7 @@ Awesome Mac
 * [lmux](https://github.com/sooftware/lmux) - libghostty 기반의 가벼운 터미널로, Claude Code와 Codex 세션을 실행하고 사이드바에 에이전트 상태를 보여줍니다. [![Open-Source Software][OSS Icon]](https://github.com/sooftware/lmux) ![Freeware][Freeware Icon]
 * [SSHFire](https://github.com/aralozaltin/sshfire) - 터미널, 세션 관리자, 현재 디렉터리를 따라가는 SFTP 브라우저를 갖춘 크로스 플랫폼 SSH 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [SSHTermaq](https://f1resh.github.io/sshtermaq/) - 탭, 분할 창, SFTP/SCP 파일 관리자를 갖추고 PuTTY 세션을 클릭 한 번으로 가져오는 PuTTY 호환 SSH·Telnet·시리얼 터미널. [![Open-Source Software][OSS Icon]](https://github.com/f1resh/sshtermaq) ![Freeware][Freeware Icon]
+* [Stenvakt](https://stenvakt.com/) - SSH로 Linux 서버를 점검, 패치, 보안 강화하며 방화벽이나 SSH 변경으로 접속이 막히면 자동으로 되돌립니다. ![Freeware][Freeware Icon]
 * [Tabby](https://github.com/Eugeny/tabby) - 현대적인 터미널 도구. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termstead](https://khorenyan.com/termstead/) - 세션 트리, 점프 호스트, 터미널 옆 SFTP를 갖춘 네이티브 SSH 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
 * [TernaryCode](https://ilhamnadhif.github.io/ternarycode/) - 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/ilhamnadhif/ternarycode) ![Freeware][Freeware Icon]

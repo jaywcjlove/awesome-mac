@@ -468,6 +468,7 @@ Awesome Mac
 * [lmux](https://github.com/sooftware/lmux) - 基于 libghostty 构建的轻量终端，用于运行 Claude Code 和 Codex 会话，并在侧边栏显示 agent 状态。 [![Open-Source Software][OSS Icon]](https://github.com/sooftware/lmux) ![Freeware][Freeware Icon]
 * [SSHFire](https://github.com/aralozaltin/sshfire) - 跨平台 SSH 客户端，集成终端、会话管理器和跟随当前目录的 SFTP 文件浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [SSHTermaq](https://f1resh.github.io/sshtermaq/) - 兼容 PuTTY 的 SSH、Telnet 和串口终端，支持标签页、分屏、SFTP/SCP 文件管理器，并可一键导入 PuTTY 会话。 [![Open-Source Software][OSS Icon]](https://github.com/f1resh/sshtermaq) ![Freeware][Freeware Icon]
+* [Stenvakt](https://stenvakt.com/) - 通过 SSH 检查、更新和加固 Linux 服务器，防火墙或 SSH 改动导致无法登录时会自动回滚。 ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [Termstead](https://khorenyan.com/termstead/) - 原生 SSH 客户端，支持会话树、跳板机，终端旁即有 SFTP。 [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
