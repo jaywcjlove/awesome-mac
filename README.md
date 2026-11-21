@@ -263,6 +263,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Scratch](https://www.ericli.io/scratch) - Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Splat](https://github.com/sventmueller/splat) - Native macOS Markdown editor in Rust where both the source and the live preview are editable. [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Textus](https://textus.catvinci.com) - WYSIWYG Markdown editor with math, tables, Mermaid and an optional AI writing assistant that works with cloud or local models. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
+* [Typeset](https://typeset.md) - Native macOS Markdown reader that live-reloads as files change, with Finder Quick Look. [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](https://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
 * [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Zettlr](https://www.zettlr.com/) - A markdown editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]

@@ -263,6 +263,7 @@ Awesome Mac
 * [Scratch](https://www.ericli.io/scratch) - WYSIWYGエディタとローカルAIエージェントをサポートした軽量オフラインファーストMarkdownメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/erictli/scratch) ![Freeware][Freeware Icon]
 * [Splat](https://github.com/sventmueller/splat) - Rustで書かれたネイティブmacOS Markdownエディタ。ソースとライブプレビューのどちらでも直接編集できる。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 数式・表・Mermaidに対応し、クラウドやローカルモデルで使えるAI執筆アシスタントを備えたWYSIWYG Markdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
+* [Typeset](https://typeset.md) - ファイル変更時にライブ再読み込みするネイティブmacOS Markdownリーダー。Finderクイックルック対応。 [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](http://www.typora.io/) - シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac、iPad、iPhone用の究極のライティングアプリ。
 * [Zettlr](https://www.zettlr.com/) - 21世紀のためのMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
