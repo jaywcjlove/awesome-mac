@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ragdoll Mail</title>
+      <link>https://erict16.github.io/ragdoll-mail/</link>
+      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
+      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
+      <category>通信 / Email</category>
+      <description>Category: 通信 / Email
+App: Ragdoll Mail
+Description: 开源 IMAP 邮件客户端，本地全文索引让搜索即时出结果，并带供脚本和 AI 助手使用的命令行。
+Website: https://erict16.github.io/ragdoll-mail/
+Open Source: https://github.com/erict16/ragdoll-mail
+Commit: Add Ragdoll Mail to Email Clients (#4844)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
+      <content:encoded><![CDATA[Category: 通信 / Email<br/>App: Ragdoll Mail<br/>Description: 开源 IMAP 邮件客户端，本地全文索引让搜索即时出结果，并带供脚本和 AI 助手使用的命令行。<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
+    </item>
     <item>
       <title>Kantor</title>
       <link>https://kantor.paparanai.id</link>
@@ -724,20 +739,6 @@ Open Source: https://github.com/EphraimElgrabli/gesher
 Commit: Add Gesher to AI Tools (#4684)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Gesher<br/>Description: 开源 MCP 服务与命令行工具，让 AI 助手读取和编辑 Apple 备忘录、提醒事项、日历、通讯录、地图、天气和无边记。<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
-    </item>
-    <item>
-      <title>AGASTHY</title>
-      <link>https://github.com/HMAKT99/Agasthy</link>
-      <guid isPermaLink="false">9bb60f4e4cb75da6136e96bbc4057b36574fbf30:AGASTHY</guid>
-      <pubDate>Tue, 17 Nov 2026 05:13:03 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: AGASTHY
-Description: 开源应用，将代码仓库、运行时、软件包和 AI 编程代理整合到一张知识图谱中，并提供 Token 用量统计、影响分析和安全的磁盘清理。
-Open Source: https://github.com/HMAKT99/Agasthy
-Commit: Add AGASTHY to Developer Utilities (#4683)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: AGASTHY<br/>Description: 开源应用，将代码仓库、运行时、软件包和 AI 编程代理整合到一张知识图谱中，并提供 Token 用量统计、影响分析和安全的磁盘清理。<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
     </item>
   </channel>
 </rss>
