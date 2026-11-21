@@ -1598,6 +1598,7 @@ Awesome Mac
 * [FreeDisplay](https://github.com/hakanotal/FreeDisplay) - 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeDisplay) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 直接控制外接显示器亮度和音量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [Monny](https://monny.moduix.dev) - 开源菜单栏系统监视器，支持进程查找和电池充电上限。 [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/monny) ![Freeware][Freeware Icon]
+* [Motomotos](https://motomotos.com) - 把 MacBook 刘海变成灵动岛，放音乐、日历、番茄钟等组件，并显示 Claude Code、Codex 等 AI 编程助手的状态、用量额度和审批提醒。 ![Native App][Native Icon]
 * [Music Router](https://github.com/drumandbytes/music-router) - 阻止 Music.app 自动启动，并将媒体键路由到你实际正在使用的应用。 [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/music-router) ![Freeware][Freeware Icon]
 * [muxbar](https://github.com/1989v/muxbar) - 在菜单栏管理 tmux 会话的工具，支持列出、连接、关闭会话与实时预览，并提供合盖工作模式。 [![Open-Source Software][OSS Icon]](https://github.com/1989v/muxbar) ![Freeware][Freeware Icon]
 * [mysa](https://github.com/alishansnsn/mysa) - 用于快速呼吸放松的 macOS 菜单栏应用，配有磨砂屏幕遮罩和手写格言。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
