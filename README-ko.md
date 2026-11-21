@@ -612,6 +612,7 @@ Awesome Mac
 * [TernaryCode](https://ilhamnadhif.github.io/ternarycode/) - 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/ilhamnadhif/ternarycode) ![Freeware][Freeware Icon]
 * [tty7](https://github.com/l0ng-ai/tty7) - 순수 Rust로 작성된 GPU 렌더링 데몬 기반 터미널로, tmux 없이 세션을 유지합니다. [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
 * [Vesta](https://github.com/vestaterm/Vesta) - libghostty 기반의 네이티브 macOS 터미널로, 코딩 에이전트를 병렬로 실행합니다. [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
+* [Wardterm](https://wardterm.com/) - SSH, SFTP and Mosh client with an end-to-end encrypted vault for servers and keys, also available for iPhone and iPad. ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - 현대적인 앱처럼 작동하도록 재설계된 빠른 터미널. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 파일 미리보기, 웹 브라우징, AI 도구를 갖춘 오픈 소스 터미널. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rust로 구현된 GPU 가속 터미널. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
