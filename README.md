@@ -1028,6 +1028,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Teambition](https://www.teambition.com) - Team collaboration tool for tasks, schedules, files, and discussions. ![Freeware][Freeware Icon]
 * [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security. [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
 * [Textual](https://github.com/Codeux-Software/Textual) - Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
+* [Trina AX](https://ax.trina.app) - Team AI workspace with one shared drive, chat rooms and per-person folder permissions, on your own server. [![Open-Source Software][OSS Icon]](https://github.com/trina-app/trina-ax) ![Freeware][Freeware Icon]
 * [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
 * [Wavebox](https://wavebox.io) - Browser workspace for organizing web apps and team tools.
 * [WeChat](https://apps.apple.com/app/wechat/id836500024?platform=mac) - Official WeChat app for Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
