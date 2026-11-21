@@ -242,6 +242,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 ### Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [AgentEd](https://agentedapp.com/) - Editor visual de Markdown de código aberto, com edição de frontmatter YAML e estimativas de tokens em tempo real (Apple Silicon). [![Open-Source Software][OSS Icon]](https://github.com/cgxopen/AgentEd) ![Freeware][Freeware Icon]
 * [Archimedes](https://furnacecreek.org/archimedes/) - Editor de Markdown nativo para macOS voltado à escrita matemática, com suporte a LaTeX em linha.
 * [Downright](https://downright.cc/) - Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo. [![Open-Source Software][OSS Icon]](https://github.com/ezzy1630/Downright) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - Editor de Markdown minimalista e nativo para macOS, com pré-visualização ao vivo; funciona com seus arquivos existentes, sem cofre. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
