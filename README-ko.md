@@ -1037,6 +1037,7 @@ Awesome Mac
 * [Chrome](https://www.google.com/chrome/) - Google의 웹 브라우저. ![Freeware][Freeware Icon]
 * [Firefox](https://www.mozilla.org/firefox/) - Mozilla의 자유 오픈 소스 웹 브라우저. [![Open-Source Software][OSS Icon]](https://hg.mozilla.org/mozilla-central) ![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 광고 차단 기능을 내장한 프라이버시 중심 Chromium 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
+* [Lako](https://getlako.com/) - AI 에이전트를 내장한 브라우저로, 로그인된 상태 그대로 별도 탭에서 모든 사이트의 작업을 처리하며 기존 ChatGPT 또는 Claude 요금제로 작동. ![Freeware][Freeware Icon]
 * [Lilo](https://getlilo.app/) - Arc 스타일 스페이스, Chrome 확장 프로그램, 사이드바 터미널 탭, AI 에이전트용 내장 MCP 서버를 갖춘 네이티브 WebKit 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Meridian](https://undermove.github.io/meridian-browser/) - Chromium 기반의 오픈 소스 Arc 스타일 브라우저로, 스페이스, 고정 탭, 커맨드 바, Arc 및 Chrome 원클릭 가져오기, AI 에이전트용 내장 MCP 서버를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/Undermove/meridian-browser) ![Freeware][Freeware Icon]
 * [Roar](https://roarbrowser.app/) - 로컬 또는 자신의 AI 모델로 웹을 대신 열고 읽고 입력하는 에이전트 내장 오픈소스 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]

@@ -1286,6 +1286,7 @@ Awesome Mac
 * [Firefox](https://www.firefox.com/) - Mozillaが開発した無料のオープンソースWebブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - プライバシー、セキュリティ、自由に焦点を当てたFirefoxのフォーク。 [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 * [Helium](https://helium.computer/) - 広告ブロックを内蔵したプライバシー重視のChromiumブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
+* [Lako](https://getlako.com/) - AIエージェントを内蔵したブラウザ。あなたのログイン状態のまま専用タブであらゆるサイトの作業をこなし、手持ちのChatGPTやClaudeのプランで動作。 ![Freeware][Freeware Icon]
 * [Lilo](https://getlilo.app/) - Arcスタイルのスペース、Chrome拡張機能、サイドバーのターミナルタブ、AIエージェント向けの内蔵MCPサーバーを備えたネイティブWebKitブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Meridian](https://undermove.github.io/meridian-browser/) - Chromiumベースのオープンソース Arc スタイルブラウザ。スペース、ピン留めタブ、コマンドバー、Arc と Chrome からのワンクリックインポート、AIエージェント向けの内蔵MCPサーバーを備える。 [![Open-Source Software][OSS Icon]](https://github.com/Undermove/meridian-browser) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/edge) - Chromiumベースだが、Microsoftが構築したMicrosoft Edge ![Freeware][Freeware Icon]
