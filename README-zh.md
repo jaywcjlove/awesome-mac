@@ -842,6 +842,7 @@ Awesome Mac
 * [Adapter](https://macroplant.com/adapter) - 视频，音频和图像转换工具。![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - 支持时间轴和样式编辑的开源字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [Amical](https://amical.ai) - 开源 AI 语音输入与笔记应用，可在任何应用中输入文字，并按当前应用调整格式，支持本地 Whisper 或 Parakeet 模型。 [![Open-Source Software][OSS Icon]](https://github.com/amicalhq/amical)
+* [Aria](https://hfioafio.github.io/Aria-Downloads/en.html) - 可在任意应用光标处输入的语音听写，支持完全离线的本地引擎与音频文件转写。 ![Freeware][Freeware Icon]
 * [ani](https://github.com/open-ani/ani) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 [![Open-Source Software][OSS Icon]](https://github.com/open-ani/ani) ![Freeware][Freeware Icon]
 * [AnimacX](https://github.com/AnimacX/AnimacX) - 一款可以追番时拥有在线弹幕的本地视频播放器 [![Open-Source Software][OSS Icon]](https://github.com/AnimacX/AnimacX) ![Freeware][Freeware Icon]
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
