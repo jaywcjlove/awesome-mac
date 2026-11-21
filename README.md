@@ -892,6 +892,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mark Man](https://getmarkman.com/) - Measure & Spec Fast.
 * [Mottie](https://recouse.me/apps/mottie/) - A native Lottie animation player with Quick Look extension for dotLottie files. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Nucleo](https://nucleoapp.com/) - Icon manager. Import, export, customize and convert icon libraries.
+* [Pitpick](https://www.wouter.photo/tools/pitpick) - Fast photo culling on the camera's embedded JPEG, with two-card ingest, IPTC templates and renaming. [![Open-Source Software][OSS Icon]](https://github.com/woutervellekooppixel/pitpick) ![Freeware][Freeware Icon]
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - Image viewer and editor for cropping, resizing, annotating, and converting between PNG, JPG, WebP, and HEIC. ![Freeware][Freeware Icon]
 * [Pixtamer](https://pixtamer.pages.dev) - Batch convert, compress, resize and rename images into web-ready JPEG, PNG, WebP and AVIF, with responsive widths and presets. Nothing is uploaded. [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/pixtamer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pixtamer/id6831520622?platform=mac) ![Native App][Native Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - Tool to convert Lightroom presets to Adobe Camera Raw.
