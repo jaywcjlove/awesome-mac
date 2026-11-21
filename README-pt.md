@@ -600,6 +600,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [GitUp](https://gitup.co/) - Um cliente Git simples e poderoso。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitX-dev](https://rowanj.github.io/gitx/) - Fork do [cliente GUI do Git para OS X de Pieter](https://github.com/pieter/gitx). Inclui barra lateral de branches/tags e várias correções. [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - Wrapper de linha de comando para Git que faz você ficar melhor no GitHub. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
+* [PRty Time](https://github.com/fragkakis/prty-time) - Pull requests do GitHub aguardando sua revisão na barra de menus, com notificações quando algo acontece neles. [![Open-Source Software][OSS Icon]](https://github.com/fragkakis/prty-time) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [PullBull](https://github.com/rustycamper/pullbull) - Pull requests, issues e quadros de Projects do GitHub na barra de menus. [![Open-Source Software][OSS Icon]](https://github.com/rustycamper/pullbull) ![Freeware][Freeware Icon]
 * [RelaGit](https://rela.dev/) - A solução elegante para controle de versão gráfico. Criado por desenvolvedores, para desenvolvedores. [![Open-Source Software][OSS Icon]](https://github.com/relagit/relagit) ![Freeware][Freeware Icon]
 * [SmartGit](https://www.syntevo.com/smartgit/) - Cliente Git com suporte.
