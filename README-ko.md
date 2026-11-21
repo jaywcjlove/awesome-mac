@@ -1472,6 +1472,7 @@ Awesome Mac
 
 ## 게임 소프트웨어
 
+* [Azeroth-Tagebuch](https://github.com/dirkkredinger/azeroth-tagebuch) - World of Warcraft 모험 일지: 기록만 하는 애드온과 Mac/Windows 앱으로 퀘스트, 경로 지도, 던전·구렁 기록, 전투 기록 기반 DPS/HPS, 아이템 드롭률을 보여 줍니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dirkkredinger/azeroth-tagebuch)
 * [Bedrock Launcher](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - 로컬에서 빌드한 WineGDK와 DXMT를 통해 직접 소유한 Windows용 Minecraft 베드락 에디션을 Apple Silicon에서 완전히 오프라인으로 실행합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS)
 * [Borne](https://borne.pasahome.org) - MAMEUI의 흐름을 잇는 MAME 및 클래식 PC 게임(Doom, Quake, Duke Nukem 3D)용 네이티브 프런트엔드로, 에뮬레이터와 게임 엔진을 함께 제공합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스. ![Freeware][Freeware Icon]
