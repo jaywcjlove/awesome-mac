@@ -820,6 +820,7 @@ Awesome Mac
 
 ### 文件共享
 
+* [AutoMailSender](https://automailsender.app) - 拖入文件即可通过你自己的 SMTP 账户发送给已保存的收件人，前 25 封邮件免费，之后一次性买断。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6754530297?platform=mac)
 * [Cyberduck](https://cyberduck.io) - 免费 FTP，SFTP，S3 和 WebDAV 客户端 & OpenStack Swift Client。![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 用于分享截图、录屏和其他文件的工具。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 通过局域网 Wi-Fi 在电脑与手机之间点对点传输文件。![Freeware][Freeware Icon]

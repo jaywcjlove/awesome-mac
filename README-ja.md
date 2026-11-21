@@ -1053,6 +1053,7 @@ Awesome Mac
 
 ### ファイル共有
 
+* [AutoMailSender](https://automailsender.app) - ドロップしたファイルを、自分の SMTP アカウント経由で保存済みの宛先にメール送信するツール。最初の25通は無料、以降は買い切り。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6754530297?platform=mac)
 * [Cyberduck](https://cyberduck.io) - 無料のFTP、SFTP、WebDAV、S3、Backblaze B2、AzureおよびOpenStack Swiftブラウザ。 ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - スクリーンショット、画面録画、その他のファイルを共有するツール。
 * [FileShipper](https://getapps.cafe/app/fileshipper) - ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。 ![Freeware][Freeware Icon]
