@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:14:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FanShift</title>
+      <link>https://github.com/KrisWonka/FanShift</link>
+      <guid isPermaLink="false">e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187:FanShift</guid>
+      <pubDate>Sat, 21 Nov 2026 09:14:40 GMT</pubDate>
+      <category>Utilitários / Ferramentas Relacionadas ao Sistema</category>
+      <description>Category: Utilitários / Ferramentas Relacionadas ao Sistema
+App: FanShift
+Description: Controle de ventoinhas na barra de menus para Macs com Apple Silicon que alterna entre as suas próprias curvas de temperatura com um único atalho global.
+Open Source: https://github.com/KrisWonka/FanShift
+Commit: Add FanShift to System Related Tools (#4807)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: FanShift<br/>Description: Controle de ventoinhas na barra de menus para Macs com Apple Silicon que alterna entre as suas próprias curvas de temperatura com um único atalho global.<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
+    </item>
     <item>
       <title>Typeset</title>
       <link>https://typeset.md</link>
@@ -726,20 +740,6 @@ Open Source: https://github.com/ory/editor
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: micro<br/>Description: Editor de texto moderno e intuitivo baseado em terminal.<br/>Website: https://micro-editor.github.io<br/>Open Source: https://github.com/ory/editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Neovim</title>
-      <link>https://github.com/neovim/neovim</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Neovim</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Neovim
-Description: Fork do Vim focado em extensibilidade e usabilidade.
-Open Source: https://github.com/neovim/neovim
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Neovim<br/>Description: Fork do Vim focado em extensibilidade e usabilidade.<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
