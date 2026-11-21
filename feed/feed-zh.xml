@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:28:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AgentBar</title>
+      <link>https://github.com/michalstrnadel/AgentBar</link>
+      <guid isPermaLink="false">5aa430914ce127ff3b9c54a04f41ea38bc7206cc:AgentBar</guid>
+      <pubDate>Sat, 21 Nov 2026 07:28:18 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: AgentBar
+Description: 在菜单栏和刘海中显示 AI 编程代理（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）的实时状态，并可一键允许或拒绝 Claude Code、Codex 和 Copilot 的权限请求。
+Open Source: https://github.com/michalstrnadel/AgentBar
+Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: AgentBar<br/>Description: 在菜单栏和刘海中显示 AI 编程代理（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）的实时状态，并可一键允许或拒绝 Claude Code、Codex 和 Copilot 的权限请求。<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
+    </item>
     <item>
       <title>HyprMac</title>
       <link>https://hyprmac.app</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/chessper53/NotificationNanny
 Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: NotificationNanny<br/>Description: 调整通知横幅的位置和外观，并可用可自定义的面板替换通知中心。<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
-    </item>
-    <item>
-      <title>Purr</title>
-      <link>https://purr.arunbrahma.com</link>
-      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
-      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Purr
-Description: 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。
-Website: https://purr.arunbrahma.com
-Open Source: https://github.com/iamarunbrahma/purr
-Commit: Add Purr to Voice-to-Text (#4647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Purr<br/>Description: 开源的本地语音听写工具，使用 Parakeet 或 Whisper 在任意应用中输入文字，还能记录会议笔记、区分发言人并生成摘要。<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
     </item>
   </channel>
 </rss>

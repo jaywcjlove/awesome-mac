@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:28:18 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AgentBar</title>
+      <link>https://github.com/michalstrnadel/AgentBar</link>
+      <guid isPermaLink="false">5aa430914ce127ff3b9c54a04f41ea38bc7206cc:AgentBar</guid>
+      <pubDate>Sat, 21 Nov 2026 07:28:18 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: AgentBar
+Description: 메뉴 바와 노치에 AI 코딩 에이전트(Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI)의 실시간 상태를 보여주고, Claude Code·Codex·Copilot의 권한 요청을 한 번의 클릭으로 허용하거나 거부하는 앱.
+Open Source: https://github.com/michalstrnadel/AgentBar
+Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AgentBar<br/>Description: 메뉴 바와 노치에 AI 코딩 에이전트(Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI)의 실시간 상태를 보여주고, Claude Code·Codex·Copilot의 권한 요청을 한 번의 클릭으로 허용하거나 거부하는 앱.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
+    </item>
     <item>
       <title>HyprMac</title>
       <link>https://hyprmac.app</link>
@@ -722,20 +736,6 @@ Open Source: https://github.com/iamarunbrahma/purr
 Commit: Add Purr to Voice-to-Text (#4647)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Purr<br/>Description: Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원.<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
-    </item>
-    <item>
-      <title>AInnotator</title>
-      <link>https://github.com/porco-rs/ainnotator</link>
-      <guid isPermaLink="false">71c1e4439781ec35ce01742f16fbfd7eb0d29688:AInnotator</guid>
-      <pubDate>Mon, 16 Nov 2026 01:06:31 GMT</pubDate>
-      <category>디자인 및 제품 / 스크린샷 도구</category>
-      <description>Category: 디자인 및 제품 / 스크린샷 도구
-App: AInnotator
-Description: 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구.
-Open Source: https://github.com/porco-rs/ainnotator
-Commit: Add AInnotator to Screenshot Tools (#4641)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: AInnotator<br/>Description: 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구.<br/>Open Source: https://github.com/porco-rs/ainnotator<br/>Commit: Add AInnotator to Screenshot Tools (#4641)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71c1e4439781ec35ce01742f16fbfd7eb0d29688]]></content:encoded>
     </item>
   </channel>
 </rss>
