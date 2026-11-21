@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stelix</title>
+      <link>https://getstelix.com</link>
+      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio</category>
+      <description>Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio
+App: Stelix
+Description: Separação de stems ao vivo para o Mac: divide o áudio de qualquer app em voz, bateria, baixo e outros em tempo real, para aumentar, baixar ou ouvir sozinha cada parte, tudo no próprio dispositivo.
+Website: https://getstelix.com
+Open Source: https://github.com/stelix-app/stelix
+Commit: Add Stelix (#4836)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio<br/>App: Stelix<br/>Description: Separação de stems ao vivo para o Mac: divide o áudio de qualquer app em voz, bateria, baixo e outros em tempo real, para aumentar, baixar ou ouvir sozinha cada parte, tudo no próprio dispositivo.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
+    </item>
     <item>
       <title>Tietie</title>
       <link>https://github.com/KLWSharpe/tietie</link>
@@ -724,20 +739,6 @@ Open Source: https://github.com/NeatMacApps/NeatEditor
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: NeatEditor<br/>Description: Editor de texto simples, nativo e rápido para macOS, feito para escrever sem distrações.<br/>Open Source: https://github.com/NeatMacApps/NeatEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Nova</title>
-      <link>https://nova.app/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Nova</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Nova
-Description: O editor de código nativo para Mac, bonito, rápido e flexível, da Panic.
-Website: https://nova.app/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Nova<br/>Description: O editor de código nativo para Mac, bonito, rápido e flexível, da Panic.<br/>Website: https://nova.app/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
