@@ -127,10 +127,12 @@ Awesome Command Line Apps
 ## メディア
 
 * [cmus](https://cmus.github.io/) - Unix系オペレーティングシステム向けの小さく、高速で強力なコンソール音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - ローカルファイルのミュージックライブラリを修復：タイトルの整理、Deezerからのアートワークとアルバム情報、LRCLIBからの歌詞、重複の削除、アルバムの曲ごとの分割。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.comおよびその他のサイトから動画をダウンロード。 [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 開発者向け
 
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude CodeとCodex CLIのアカウントを手動で、または上限が近づいたときに自動で切り替え、各アカウントの5時間と週ごとの使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 名前付きプロファイルでClaude Code、Codex、Gemini、Antigravity CLIのアカウントを切り替え、リポジトリごとに使うアカウントを固定。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
@@ -163,6 +165,7 @@ Awesome Command Line Apps
 * [GitHub CLI](https://github.com/cli/cli) - ghはコマンドライン上のGitHub。プルリクエスト、イシュー、その他のGitHubの概念を、gitやコードの作業をしているターミナルに持ち込む。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Glances](https://github.com/nicolargo/glances) - クロスプラットフォームのcursesベースシステム監視ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Go2Shell](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac) - Finderの現在のディレクトリでターミナルウィンドウを開く。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/go2shell/id445770608?mt=12&platform=mac)
+* [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS なしで Synology Hyper Backup（.hbk）アーカイブを読み込み、復元できるコマンドラインツール（TUI 付き）。 [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [hns](https://github.com/primaprashant/hns) - マイクからの音声を直接クリップボードに文字起こしする音声テキスト変換ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - Unixシステム向けのインタラクティブなテキストモードプロセスビューアー。より良い'top'を目指す。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [job](https://github.com/liujianping/job) - 短期的なコマンドを長期的なジョブに変換。 [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
@@ -190,6 +193,7 @@ Awesome Command Line Apps
 * [ShellHistory](https://loshadki.app/shellhistory/) - シェル履歴のバックアップ、同期、整理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12&platform=mac)
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 速度を重視したackに似たコード検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 宇宙飛行士のためのZshプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [Summon](https://github.com/juan294/summon) - GhosttyまたはRexで、設定可能なマルチペインのプロジェクトワークスペースをコマンド1つで起動するCLI（tmux不要）。 [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [Taskbook](https://github.com/klaussinani/taskbook) - コマンドライン環境のためのタスク、ボード、メモ。 [![Open-Source Software][OSS Icon]](https://github.com/klaussinani/taskbook) ![Freeware][Freeware Icon]
 * [Television](https://github.com/alexpasmantier/television) - 非常に高速な汎用ファジーファインダーTUI。 [![Open-Source Software][OSS Icon]](https://github.com/alexpasmantier/television) ![Freeware][Freeware Icon]
 * [TextQL](https://github.com/dinedal/textql) - CSVやTSVなどの構造化テキストに対してSQLを実行。 [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
