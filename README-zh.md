@@ -1392,6 +1392,7 @@ Awesome Mac
 * [Dropover](https://dropoverapp.com/) - 用于暂存和搬运拖拽文件、文本与链接的临时置物架。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - 使用 Ctrl+Opt+Delete 启动活动监视器，在 Finder 中用 Cmd+X 剪切并移动文件。
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
+* [DoppelDock](https://zarinlab.github.io/doppeldock/) - 让 Slack、Discord、VS Code 等 Electron 应用同时登录两个账号：再生成一份独立登录的副本，并有自己的 Dock 图标。 [![Open-Source Software][OSS Icon]](https://github.com/ZarinLab/doppeldock) ![Freeware][Freeware Icon]
 * [Driftwall](https://driftwall.kamaldhital.com) - 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。 [![Open-Source Software][OSS Icon]](https://github.com/dhitalkamal/driftwall) ![Freeware][Freeware Icon]
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
