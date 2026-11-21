@@ -663,6 +663,7 @@ Awesome Mac
 ### 스크린샷 도구
 
 * [AInnotator](https://github.com/porco-rs/ainnotator) - 번호가 붙은 표시, 메모, 검은색 가림 처리를 그 자체로 설명되는 이미지 한 장으로 만들어 Claude Code, Codex, ChatGPT에 붙여 넣을 수 있게 하는, SSH 환경에서도 쓸 수 있는 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/porco-rs/ainnotator) ![Freeware][Freeware Icon]
+* [BaseShot](https://baseshot.io/) - 스크롤 캡처, 주석, OCR, 자동 줌 녹화를 지원하는 스크린샷 및 화면 녹화 도구. ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - Command 키 더블 탭 캡처, 주석, 스크롤 캡처, 꾸미기, 핀 고정, 이미지 호스팅 업로드를 지원하는 네이티브 메뉴 막대 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Mac 화면 캡처를 위한 최고의 방법.
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
