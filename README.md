@@ -1817,6 +1817,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Window Management
 
+* [AbcTab](https://solocraft.app/abctab) - Native ⌘-Tab app and window switcher with first-letter jump, terminal tab lists, and Ping-Pong mode, without requiring Screen Recording permission. ![Native App][Native Icon]
 * [AeroSpace](https://github.com/nikitabobko/AeroSpace) - i3-like tiling window manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/nikitabobko/AeroSpace) ![Freeware][Freeware Icon]
 * [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](https://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
