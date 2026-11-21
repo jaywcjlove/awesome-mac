@@ -1433,6 +1433,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [AI Meter](https://github.com/getguruhat/ai-meter) - Mostra o uso restante do Claude Code ou Codex e o horário de reinício na barra de menus. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - App da barra de menus que usa os sensores de movimento dos AirPods para lembretes de postura da cabeça e atalhos configuráveis por gestos da cabeça. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - Ferramenta para servir sites estáticos locais e apps Rack com URLs simples. ![Freeware][Freeware Icon]
+* [Argon](https://argonmac.com) - Transforma o notch do MacBook em um hub estilo Dynamic Island para música, arquivos, notas, clima e calendário.
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Transforma o notch em um hub estilo Dynamic Island para controles de mídia, atividades ao vivo e utilitários rápidos. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - Gerenciador da barra de menus para macOS 27 que oculta ícones por app e os exibe com um clique, passagem do mouse ou atalho. [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - Organize ou oculte ícones da barra de menus no seu Mac.
