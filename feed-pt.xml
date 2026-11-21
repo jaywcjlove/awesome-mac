@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typeset
+Description: Leitor nativo de Markdown para macOS com recarregamento ao vivo quando o arquivo muda e Quick Look no Finder.
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: Leitor nativo de Markdown para macOS com recarregamento ao vivo quando o arquivo muda e Quick Look no Finder.<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
     <item>
       <title>Stelix</title>
       <link>https://getstelix.com</link>
@@ -725,20 +740,6 @@ Open Source: https://github.com/neovim/neovim
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Neovim<br/>Description: Fork do Vim focado em extensibilidade e usabilidade.<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>NeatEditor</title>
-      <link>https://github.com/NeatMacApps/NeatEditor</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:NeatEditor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: NeatEditor
-Description: Editor de texto simples, nativo e rápido para macOS, feito para escrever sem distrações.
-Open Source: https://github.com/NeatMacApps/NeatEditor
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: NeatEditor<br/>Description: Editor de texto simples, nativo e rápido para macOS, feito para escrever sem distrações.<br/>Open Source: https://github.com/NeatMacApps/NeatEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

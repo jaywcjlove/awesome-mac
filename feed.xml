@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typeset
+Description: Native macOS Markdown reader that live-reloads as files change, with Finder Quick Look.
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: Native macOS Markdown reader that live-reloads as files change, with Finder Quick Look.<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
     <item>
       <title>Stelix</title>
       <link>https://getstelix.com</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/atuuuuuuu/Scrollr
 Commit: Add Scrollr (#4665)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Scrollr<br/>Description: Open-source menu bar tool that reverses scroll direction for external mice only, so the trackpad keeps natural scrolling, with an on/off switch per mouse.<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
-    </item>
-    <item>
-      <title>Convrt</title>
-      <link>https://github.com/atuuuuuuu/Convrt</link>
-      <guid isPermaLink="false">45b8e29558f1a4fb89ec659a29ddd78e9e1998a2:Convrt</guid>
-      <pubDate>Mon, 16 Nov 2026 15:29:06 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Convrt
-Description: Offline menu bar file converter: hold Shift while dragging files and drop them on a wheel that only shows the formats and tools that fit them, with a command-line version.
-Open Source: https://github.com/atuuuuuuu/Convrt
-Commit: Add Convrt (#4664)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Convrt<br/>Description: Offline menu bar file converter: hold Shift while dragging files and drop them on a wheel that only shows the formats and tools that fit them, with a command-line version.<br/>Open Source: https://github.com/atuuuuuuu/Convrt<br/>Commit: Add Convrt (#4664)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2]]></content:encoded>
     </item>
   </channel>
 </rss>

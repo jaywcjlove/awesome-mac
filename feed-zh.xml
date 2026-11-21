@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: Typeset
+Description: 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Typeset<br/>Description: 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
     <item>
       <title>Stelix</title>
       <link>https://getstelix.com</link>
@@ -720,22 +735,6 @@ Open Source: https://github.com/FileMintApp/FileMint
 Commit: Add FileMint to Finder tools (#4663)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: FileMint<br/>Description: 原生 Finder 扩展，可通过右键菜单使用模板新建文件，个人及非商业用途免费。<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoloPDF</title>
-      <link>https://solopdf.doaipm.com</link>
-      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
-      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
-      <category>电子书 / 其他</category>
-      <description>Category: 电子书 / 其他
-App: SoloPDF
-Description: 本地优先的免费无广告 PDF 阅读器与 20+ 项全离线文档工具箱，高亮自动保存为普通 Markdown 笔记，内置本机 OCR、闪烁像素对比与 56 工具 MCP 服务。
-Website: https://solopdf.doaipm.com
-Open Source: https://github.com/zhitongblog/solopdf
-App Store: https://apps.apple.com/cn/app/id6787712953?platform=mac
-Commit: Add SoloPDF to Reading and Writing Tools (#4659)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
-      <content:encoded><![CDATA[Category: 电子书 / 其他<br/>App: SoloPDF<br/>Description: 本地优先的免费无广告 PDF 阅读器与 20+ 项全离线文档工具箱，高亮自动保存为普通 Markdown 笔记，内置本机 OCR、闪烁像素对比与 56 工具 MCP 服务。<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/cn/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
     </item>
   </channel>
 </rss>

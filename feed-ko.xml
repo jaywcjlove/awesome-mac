@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typeset
+Description: 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원).
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원).<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
     <item>
       <title>Stelix</title>
       <link>https://getstelix.com</link>
@@ -722,21 +737,6 @@ App Store: https://apps.apple.com/app/id6787712953?platform=mac
 Commit: Add SoloPDF to Reading and Writing Tools (#4659)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: SoloPDF<br/>Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
-    </item>
-    <item>
-      <title>Copia</title>
-      <link>https://geragaraza.com/apps/copia/</link>
-      <guid isPermaLink="false">e3b323ddc950da809a171be935285ea78d5415bc:Copia</guid>
-      <pubDate>Mon, 16 Nov 2026 11:56:44 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Copia
-Description: 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱.
-Website: https://geragaraza.com/apps/copia/
-Open Source: https://github.com/geragarazagh/copia
-Commit: Add Copia to Clipboard Tools (#4645)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Copia<br/>Description: 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱.<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
     </item>
   </channel>
 </rss>
