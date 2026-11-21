@@ -1050,6 +1050,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - Powerful, simple and beautiful email client, need to pay for a license.
+* [Ragdoll Mail](https://erict16.github.io/ragdoll-mail/) - Open-source IMAP mail client with instant local full-text search and a command line for scripts and AI agents. [![Open-Source Software][OSS Icon]](https://github.com/erict16/ragdoll-mail) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - Keyboard-driven email client written in Rust on gpui, the framework Zed is built with. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
