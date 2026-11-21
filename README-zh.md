@@ -1126,6 +1126,7 @@ Awesome Mac
 * [PDF Expert](https://pdfexpert.com/) - PDF 阅读、批注，编辑文本，添加照片，填写表单。
 * [PDFgear](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?platform=mac) - 轻松处理 PDF 任务。阅读、编辑、转换、合并和签署 PDF 文件，跨设备免费使用，无需注册。还可以通过本地 AI 与 PDF 文件进行对话。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdfgear-pdf%E7%BC%96%E8%BE%91%E5%99%A8-%E8%BD%AC%E6%8D%A2%E5%99%A8/id6469021132?platform=mac)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - 可以查看，创建，签名，转换和压缩任何 PDF 文档。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
+* [PDFluent](https://pdfluent.com/download/) - 支持表单填写、OCR、涂黑、签名、格式转换和页面管理的离线 PDF 编辑器。![Freeware][Freeware Icon]
 * [PDFsail](https://pdfsail.com/) - 集编辑、转换、合并、压缩和 OCR 于一体的 PDF 工具。
 * [QOwnNotes](http://www.qownnotes.org/) - 是开源记事本，带有 markdown 支持和待办事项列表管理器。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Saywing](https://www.christopherboebel.com/en/saywing) - 使用本地 OCR 和神经语音朗读选定屏幕区域，并支持离线英语和德语听写的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/ChrBoebel/saywing) ![Freeware][Freeware Icon]
