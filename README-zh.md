@@ -1027,6 +1027,7 @@ Awesome Mac
 
 > A curated list of delightful Markdown stuff. [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
+* [Bindars](https://bindars.dev) - 开源的 Markdown 与 Fountain 阅读器，高亮和笔记单独保存，不会改动原文件。 [![Open-Source Software][OSS Icon]](https://github.com/tcraid0/Bindars) ![Freeware][Freeware Icon]
 * [Cmd Markdown](https://www.zybuluo.com/) - Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。 ![Freeware][Freeware Icon]
 * [Downright](https://downright.cc/) - 原生开源的 Markdown 阅读器和编辑器，直接打开普通文件，支持 Quick Look 预览和 Finder 缩略图，文件被其他应用或 AI 代理修改时实时刷新。 [![Open-Source Software][OSS Icon]](https://github.com/ezzy1630/Downright) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Effie](https://www.effie.co/) - 轻量级 Markdown 写作软件，支持大纲笔记和思维导图。![Freeware][Freeware Icon]
