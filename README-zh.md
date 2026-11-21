@@ -469,7 +469,7 @@ Awesome Mac
 * [Termstead](https://khorenyan.com/termstead/) - 原生 SSH 客户端，支持会话树、跳板机，终端旁即有 SFTP。 [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
 * [tty7](https://github.com/l0ng-ai/tty7) - 使用纯 Rust 编写、GPU 渲染、由守护进程托管的终端，无需 tmux 即可保持会话持久。 [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
 * [Vesta](https://github.com/vestaterm/Vesta) - 基于 libghostty 构建的原生 macOS 终端，用于并行运行编码 agent。 [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
-* [Wardterm](https://wardterm.com/) - SSH, SFTP and Mosh client with an end-to-end encrypted vault for servers and keys, also available for iPhone and iPad. ![Freeware][Freeware Icon]
+* [Wardterm](https://wardterm.com/) - SSH, SFTP and Mosh client with an end-to-end encrypted vault for servers, keys and commands that syncs across devices, also on Linux, iPhone, iPad and Android. ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 集成文件预览、网页浏览和 AI 工具的开源终端。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
