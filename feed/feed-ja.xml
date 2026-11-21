@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:40:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hangar</title>
+      <link>https://hangar.bot</link>
+      <guid isPermaLink="false">007537953ed74fba4f1f9d702a5e14d5df3991ca:Hangar</guid>
+      <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
+      <category>開発ツール / 仮想化</category>
+      <description>Category: 開発ツール / 仮想化
+App: Hangar
+Description: AI コーディングエージェントを macOS、Linux、Windows の仮想マシンで動かすツールで、許可リスト方式のネットワーク制限とスナップショットに対応。
+Website: https://hangar.bot
+Open Source: https://github.com/baseguard/hangar
+Commit: Add Hangar to Virtualization (#4814)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: Hangar<br/>Description: AI コーディングエージェントを macOS、Linux、Windows の仮想マシンで動かすツールで、許可リスト方式のネットワーク制限とスナップショットに対応。<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
+    </item>
     <item>
       <title>Ebb</title>
       <link>https://github.com/ege-arhan/ebb</link>
@@ -722,20 +737,6 @@ Website: https://withlinger.com/
 Commit: Add Linger to design and product tools (#4194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Linger<br/>Description: 画像、出典リンク、メモを保存し、キーワード検索とコレクションで整理できるローカルファーストのビジュアル資料ライブラリ。<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
-    </item>
-    <item>
-      <title>Scrollr</title>
-      <link>https://github.com/atuuuuuuu/Scrollr</link>
-      <guid isPermaLink="false">bcb5d10383f63089cccec18a89a6413a2ee794cf:Scrollr</guid>
-      <pubDate>Mon, 16 Nov 2026 16:11:07 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: Scrollr
-Description: 外付けマウスのスクロール方向だけを反転し、トラックパッドはナチュラルスクロールのまま保つオープンソースのメニューバーツール（マウスごとにオン/オフ可能）。
-Open Source: https://github.com/atuuuuuuu/Scrollr
-Commit: Add Scrollr (#4665)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Scrollr<br/>Description: 外付けマウスのスクロール方向だけを反転し、トラックパッドはナチュラルスクロールのまま保つオープンソースのメニューバーツール（マウスごとにオン/オフ可能）。<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:40:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hangar</title>
+      <link>https://hangar.bot</link>
+      <guid isPermaLink="false">007537953ed74fba4f1f9d702a5e14d5df3991ca:Hangar</guid>
+      <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: Hangar
+Description: AI 코딩 에이전트를 macOS, Linux, Windows 가상 머신에서 실행하며, 허용 목록 기반 네트워크 접근과 스냅샷을 지원합니다.
+Website: https://hangar.bot
+Open Source: https://github.com/baseguard/hangar
+Commit: Add Hangar to Virtualization (#4814)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Hangar<br/>Description: AI 코딩 에이전트를 macOS, Linux, Windows 가상 머신에서 실행하며, 허용 목록 기반 네트워크 접근과 스냅샷을 지원합니다.<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
+    </item>
     <item>
       <title>Ebb</title>
       <link>https://github.com/ege-arhan/ebb</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/HMAKT99/Agasthy
 Commit: Add AGASTHY to Developer Utilities (#4683)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: AGASTHY<br/>Description: 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱.<br/>Open Source: https://github.com/HMAKT99/Agasthy<br/>Commit: Add AGASTHY to Developer Utilities (#4683)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bb60f4e4cb75da6136e96bbc4057b36574fbf30]]></content:encoded>
-    </item>
-    <item>
-      <title>Linger</title>
-      <link>https://withlinger.com/</link>
-      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
-      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Linger
-Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.
-Website: https://withlinger.com/
-Commit: Add Linger to design and product tools (#4194)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Linger<br/>Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
     </item>
   </channel>
 </rss>
