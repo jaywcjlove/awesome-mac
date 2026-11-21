@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typeset
+Description: ファイル変更時にライブ再読み込みするネイティブmacOS Markdownリーダー。Finderクイックルック対応。
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / Markdownツール [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: ファイル変更時にライブ再読み込みするネイティブmacOS Markdownリーダー。Finderクイックルック対応。<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
     <item>
       <title>Stelix</title>
       <link>https://getstelix.com</link>
@@ -722,21 +737,6 @@ App Store: https://apps.apple.com/jp/app/id6787712953?platform=mac
 Commit: Add SoloPDF to Reading and Writing Tools (#4659)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
       <content:encoded><![CDATA[Category: 読み書きツール / その他<br/>App: SoloPDF<br/>Description: ハイライトがプレーンなMarkdownノートとして自動保存されるローカルファーストのPDFリーダー＆20種以上のオフライン文書ツールキット（オンデバイスOCR・点滅差分比較・56ツールMCP内蔵）。<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/jp/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
-    </item>
-    <item>
-      <title>Copia</title>
-      <link>https://geragaraza.com/apps/copia/</link>
-      <guid isPermaLink="false">e3b323ddc950da809a171be935285ea78d5415bc:Copia</guid>
-      <pubDate>Mon, 16 Nov 2026 11:56:44 GMT</pubDate>
-      <category>ユーティリティ / クリップボードツール</category>
-      <description>Category: ユーティリティ / クリップボードツール
-App: Copia
-Description: コピーしたものすべて（テキスト、リッチテキスト、リンク、カラー、画像、動画、音声、ファイル）を保存し、選んだ複数の項目を選んだ順に一度に貼り付け、ペーストキューでコピーした項目を ⌘V で一つずつ貼り付けるオープンソースのクリップボード履歴アプリ。
-Website: https://geragaraza.com/apps/copia/
-Open Source: https://github.com/geragarazagh/copia
-Commit: Add Copia to Clipboard Tools (#4645)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Copia<br/>Description: コピーしたものすべて（テキスト、リッチテキスト、リンク、カラー、画像、動画、音声、ファイル）を保存し、選んだ複数の項目を選んだ順に一度に貼り付け、ペーストキューでコピーした項目を ⌘V で一つずつ貼り付けるオープンソースのクリップボード履歴アプリ。<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
     </item>
   </channel>
 </rss>
