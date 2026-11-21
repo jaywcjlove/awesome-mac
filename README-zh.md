@@ -252,6 +252,7 @@ Awesome Mac
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/xcode/id497799835?platform=mac)
 * [Nimbalyst](https://nimbalyst.com/) - 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
 * [Orca](https://onorca.dev) - 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [Orchestrator](https://orchestrator.inc) - 开源应用，可并行运行多个 AI 编程代理（Claude Code、Codex、Cursor 等），每个代理在独立的 git worktree 中，由编排代理拆分任务，并用看板跟踪每个 PR 的 CI 与评审。 [![Open-Source Software][OSS Icon]](https://github.com/OrchestratorInc/agent-orchestrator) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - 开源的编程代理桌面应用（Claude Code、Codex、OpenCode、Cursor），多个代理可以共享同一个线程，每个线程都有独立的 git worktree。 [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - 由 Atom 和 Tree-sitter 的创建者开发的高性能多人代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
