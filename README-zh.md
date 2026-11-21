@@ -1960,6 +1960,7 @@ Awesome Mac
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 * [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站。
 * [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站。
+* * [IndieMarkdowns](https://indiemarkdowns.com/) - 独立 Mac 应用和开发者工具的黑五与网络星期一优惠目录，上线优惠会对照开发者自己的公告核对。
 * [Slant](https://www.slant.co) - 用于比较软件并查看社区推荐的平台。
 * [Open Alternative](https://openalternative.co/) - 发现流行软件的开源替代品。一个精心策划的最佳开源替代品集合 ，替代日常的SaaS产品。使用为您精心挑选的可靠工具节省金钱。
 
