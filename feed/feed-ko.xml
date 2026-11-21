@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:09:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ezNTFS</title>
+      <link>https://ixiehao.github.io/ezNTFS/</link>
+      <guid isPermaLink="false">a4c70e32e505dd1d18e856b552bfb4f9395e2d98:ezNTFS</guid>
+      <pubDate>Sat, 21 Nov 2026 09:09:09 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: ezNTFS
+Description: macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구.
+Website: https://ixiehao.github.io/ezNTFS/
+Open Source: https://github.com/ixiehao/ezNTFS
+Commit: Add ezNTFS (#4841)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: ezNTFS<br/>Description: macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구.<br/>Website: https://ixiehao.github.io/ezNTFS/<br/>Open Source: https://github.com/ixiehao/ezNTFS<br/>Commit: Add ezNTFS (#4841)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98]]></content:encoded>
+    </item>
     <item>
       <title>Typeset</title>
       <link>https://typeset.md</link>
@@ -721,22 +736,6 @@ Open Source: https://github.com/FileMintApp/FileMint
 Commit: Add FileMint to Finder tools (#4663)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: FileMint<br/>Description: Finder 우클릭 메뉴에서 템플릿으로 파일을 만드는 네이티브 확장으로, 개인 및 비상업적 이용은 무료.<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
-    </item>
-    <item>
-      <title>SoloPDF</title>
-      <link>https://solopdf.doaipm.com</link>
-      <guid isPermaLink="false">808479635011ebfef41913916922b88001cce87f:SoloPDF</guid>
-      <pubDate>Mon, 16 Nov 2026 13:10:54 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 기타</category>
-      <description>Category: 읽기 및 쓰기 도구 / 기타
-App: SoloPDF
-Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).
-Website: https://solopdf.doaipm.com
-Open Source: https://github.com/zhitongblog/solopdf
-App Store: https://apps.apple.com/app/id6787712953?platform=mac
-Commit: Add SoloPDF to Reading and Writing Tools (#4659)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 기타<br/>App: SoloPDF<br/>Description: 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장).<br/>Website: https://solopdf.doaipm.com<br/>Open Source: https://github.com/zhitongblog/solopdf<br/>App Store: https://apps.apple.com/app/id6787712953?platform=mac<br/>Commit: Add SoloPDF to Reading and Writing Tools (#4659)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/808479635011ebfef41913916922b88001cce87f]]></content:encoded>
     </item>
   </channel>
 </rss>
