@@ -1420,6 +1420,7 @@ Awesome Mac
 
 ### 창 관리
 
+* [AbcTab](https://solocraft.app/abctab) - 화면 녹화 권한 없이 첫 글자 점프, 멀티 윈도우·터미널 탭 전환, 핑퐁 모드를 지원하는 네이티브 ⌘-Tab 스위처. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/abctab/id6830197687)
 * [Amethyst](https://ianyh.com/amethyst/) - 자동 창 타일링 관리자. [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 * [Convoker](https://github.com/varie-ai/convoker) - 앱 이름을 입력하고 엔터를 누르면 해당 앱의 모든 창이 모입니다. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - 여러 화면 환경에서 앱과 창을 빠르게 전환하는 앱 스위처.
