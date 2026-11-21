@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ebb</title>
+      <link>https://github.com/ege-arhan/ebb</link>
+      <guid isPermaLink="false">1c1a4036aa288be1509c5dc8c2bb517bddcf83ba:Ebb</guid>
+      <pubDate>Sat, 21 Nov 2026 10:10:52 GMT</pubDate>
+      <category>ユーティリティ / クリーンアップとアンインストール</category>
+      <description>Category: ユーティリティ / クリーンアップとアンインストール
+App: Ebb
+Description: macOS、Windows、Linux 対応のオープンソースなディスククリーナー兼 AI ストレージビューア。読めるクリーンアップ計画を提示し、削除項目はゴミ箱へ移動して 90 日間取り消せる記録を残し、MCP 対応の AI クライアントに手伝わせても AI 自身が削除することはない。
+Open Source: https://github.com/ege-arhan/ebb
+Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Ebb<br/>Description: macOS、Windows、Linux 対応のオープンソースなディスククリーナー兼 AI ストレージビューア。読めるクリーンアップ計画を提示し、削除項目はゴミ箱へ移動して 90 日間取り消せる記録を残し、MCP 対応の AI クライアントに手伝わせても AI 自身が削除することはない。<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
+    </item>
     <item>
       <title>FanShift</title>
       <link>https://github.com/KrisWonka/FanShift</link>
@@ -722,20 +736,6 @@ Open Source: https://github.com/atuuuuuuu/Scrollr
 Commit: Add Scrollr (#4665)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Scrollr<br/>Description: 外付けマウスのスクロール方向だけを反転し、トラックパッドはナチュラルスクロールのまま保つオープンソースのメニューバーツール（マウスごとにオン/オフ可能）。<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
-    </item>
-    <item>
-      <title>Convrt</title>
-      <link>https://github.com/atuuuuuuu/Convrt</link>
-      <guid isPermaLink="false">45b8e29558f1a4fb89ec659a29ddd78e9e1998a2:Convrt</guid>
-      <pubDate>Mon, 16 Nov 2026 15:29:06 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Convrt
-Description: ファイルをドラッグ中に Shift を押すと、そのファイルに合う形式とツールだけを並べたホイールが開く、オフライン動作のメニューバー用ファイル変換ツール（コマンドライン版付き）。
-Open Source: https://github.com/atuuuuuuu/Convrt
-Commit: Add Convrt (#4664)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Convrt<br/>Description: ファイルをドラッグ中に Shift を押すと、そのファイルに合う形式とツールだけを並べたホイールが開く、オフライン動作のメニューバー用ファイル変換ツール（コマンドライン版付き）。<br/>Open Source: https://github.com/atuuuuuuu/Convrt<br/>Commit: Add Convrt (#4664)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ebb</title>
+      <link>https://github.com/ege-arhan/ebb</link>
+      <guid isPermaLink="false">1c1a4036aa288be1509c5dc8c2bb517bddcf83ba:Ebb</guid>
+      <pubDate>Sat, 21 Nov 2026 10:10:52 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: Ebb
+Description: 开源的磁盘清理与 AI 存储查看工具，支持 macOS、Windows 和 Linux：先给出可阅读的清理计划，删除项进入废纸篓并保留 90 天撤销记录，可让支持 MCP 的 AI 客户端协助，但绝不自行删除。
+Open Source: https://github.com/ege-arhan/ebb
+Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Ebb<br/>Description: 开源的磁盘清理与 AI 存储查看工具，支持 macOS、Windows 和 Linux：先给出可阅读的清理计划，删除项进入废纸篓并保留 90 天撤销记录，可让支持 MCP 的 AI 客户端协助，但绝不自行删除。<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
+    </item>
     <item>
       <title>FanShift</title>
       <link>https://github.com/KrisWonka/FanShift</link>
@@ -722,20 +736,6 @@ Website: https://withlinger.com/zh/
 Commit: Add Linger to design and product tools (#4194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Linger<br/>Description: 本地优先的视觉参考库，保存图片、来源链接和笔记，支持关键词搜索与合集整理。<br/>Website: https://withlinger.com/zh/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
-    </item>
-    <item>
-      <title>Scrollr</title>
-      <link>https://github.com/atuuuuuuu/Scrollr</link>
-      <guid isPermaLink="false">bcb5d10383f63089cccec18a89a6413a2ee794cf:Scrollr</guid>
-      <pubDate>Mon, 16 Nov 2026 16:11:07 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Scrollr
-Description: 开源菜单栏工具，只反转外接鼠标的滚动方向，触控板保持自然滚动，并可为每个鼠标单独开关。
-Open Source: https://github.com/atuuuuuuu/Scrollr
-Commit: Add Scrollr (#4665)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Scrollr<br/>Description: 开源菜单栏工具，只反转外接鼠标的滚动方向，触控板保持自然滚动，并可为每个鼠标单独开关。<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
     </item>
   </channel>
 </rss>

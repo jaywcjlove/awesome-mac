@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ebb</title>
+      <link>https://github.com/ege-arhan/ebb</link>
+      <guid isPermaLink="false">1c1a4036aa288be1509c5dc8c2bb517bddcf83ba:Ebb</guid>
+      <pubDate>Sat, 21 Nov 2026 10:10:52 GMT</pubDate>
+      <category>유틸리티 / 정리 및 제거</category>
+      <description>Category: 유틸리티 / 정리 및 제거
+App: Ebb
+Description: macOS, Windows, Linux를 지원하는 오픈 소스 디스크 정리 및 AI 저장 공간 뷰어. 읽을 수 있는 정리 계획을 먼저 제시하고, 삭제 항목은 휴지통으로 보내며 90일 동안 되돌릴 수 있는 기록을 남긴다. MCP를 지원하는 AI 클라이언트가 도울 수 있지만 AI가 스스로 삭제하지는 않는다.
+Open Source: https://github.com/ege-arhan/ebb
+Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Ebb<br/>Description: macOS, Windows, Linux를 지원하는 오픈 소스 디스크 정리 및 AI 저장 공간 뷰어. 읽을 수 있는 정리 계획을 먼저 제시하고, 삭제 항목은 휴지통으로 보내며 90일 동안 되돌릴 수 있는 기록을 남긴다. MCP를 지원하는 AI 클라이언트가 도울 수 있지만 AI가 스스로 삭제하지는 않는다.<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
+    </item>
     <item>
       <title>Trina AX</title>
       <link>https://ax.trina.app</link>
@@ -723,20 +737,6 @@ Website: https://withlinger.com/
 Commit: Add Linger to design and product tools (#4194)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
       <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Linger<br/>Description: 이미지, 출처 링크, 메모를 저장하고 키워드 검색과 컬렉션으로 정리하는 로컬 우선 시각 자료 라이브러리.<br/>Website: https://withlinger.com/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
-    </item>
-    <item>
-      <title>Scrollr</title>
-      <link>https://github.com/atuuuuuuu/Scrollr</link>
-      <guid isPermaLink="false">bcb5d10383f63089cccec18a89a6413a2ee794cf:Scrollr</guid>
-      <pubDate>Mon, 16 Nov 2026 16:11:07 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Scrollr
-Description: 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원).
-Open Source: https://github.com/atuuuuuuu/Scrollr
-Commit: Add Scrollr (#4665)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Scrollr<br/>Description: 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원).<br/>Open Source: https://github.com/atuuuuuuu/Scrollr<br/>Commit: Add Scrollr (#4665)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bcb5d10383f63089cccec18a89a6413a2ee794cf]]></content:encoded>
     </item>
   </channel>
 </rss>
