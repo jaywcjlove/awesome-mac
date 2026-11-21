@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:22:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GravityNotch</title>
+      <link>https://adrielakak.github.io/GravityNotch/</link>
+      <guid isPermaLink="false">f5927d27411346a67f4218b374ae3e2cf270ef3a:GravityNotch</guid>
+      <pubDate>Sat, 21 Nov 2026 08:22:46 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: GravityNotch
+Description: 将刘海区域变成灵动岛，提供适配 macOS Tahoe 的系统 HUD、带同步歌词的锁屏播放器、剪贴板历史以及 Claude Code 代理实时追踪。
+Website: https://adrielakak.github.io/GravityNotch/
+Open Source: https://github.com/adrielakak/GravityNotch
+Commit: Add GravityNotch to Menu Bar Tools (#4825)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: GravityNotch<br/>Description: 将刘海区域变成灵动岛，提供适配 macOS Tahoe 的系统 HUD、带同步歌词的锁屏播放器、剪贴板历史以及 Claude Code 代理实时追踪。<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
+    </item>
     <item>
       <title>Linggen</title>
       <link>https://linggen.dev</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/geragarazagh/copia
 Commit: Add Copia to Clipboard Tools (#4645)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Copia<br/>Description: 开源剪贴板历史工具，保存所有复制的内容（文本、富文本、链接、颜色、图片、视频、音频、文件），可按选择顺序一次粘贴多个所选项目；粘贴队列可按 ⌘V 逐条粘贴复制的内容。<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
-    </item>
-    <item>
-      <title>Memozia</title>
-      <link>https://github.com/oceanix-pr/Memozia</link>
-      <guid isPermaLink="false">9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33:Memozia</guid>
-      <pubDate>Mon, 16 Nov 2026 11:26:46 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Memozia
-Description: 开源会议录音与纪要工具，支持本地转写、说话人标注、总结和可编辑待办。
-Open Source: https://github.com/oceanix-pr/Memozia
-Commit: Add Memozia to audio recording tools in four languages (#4644)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Memozia<br/>Description: 开源会议录音与纪要工具，支持本地转写、说话人标注、总结和可编辑待办。<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
     </item>
   </channel>
 </rss>
