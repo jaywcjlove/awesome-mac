@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:40:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxtMini</title>
+      <link>https://actnow.dev/voxtmini</link>
+      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
+      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
+      <category>음성 텍스트 변환 (Voice-to-Text)</category>
+      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
+App: VoxtMini
+Description: 로컬 모델로 동작하는 음성 입력 앱으로, 어떤 앱에서든 받아쓰기·번역·다시 쓰기를 할 수 있고 영어·중국어·일본어를 지원합니다.
+Website: https://actnow.dev/voxtmini
+Open Source: https://github.com/hehehai/VoxtMini
+Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
+      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: VoxtMini<br/>Description: 로컬 모델로 동작하는 음성 입력 앱으로, 어떤 앱에서든 받아쓰기·번역·다시 쓰기를 할 수 있고 영어·중국어·일본어를 지원합니다.<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
+    </item>
     <item>
       <title>Ragdoll Mail</title>
       <link>https://erict16.github.io/ragdoll-mail/</link>
@@ -726,20 +741,6 @@ Open Source: https://github.com/ATTILA-KRB/bar27
 Commit: Add Bar27 to Menu Bar Tools (#4688)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Bar27<br/>Description: 앱별로 메뉴 바 아이콘을 숨기고 클릭, 마우스 오버, 단축키로 다시 표시하는 macOS 27용 메뉴 바 관리 도구.<br/>Open Source: https://github.com/ATTILA-KRB/bar27<br/>Commit: Add Bar27 to Menu Bar Tools (#4688)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d]]></content:encoded>
-    </item>
-    <item>
-      <title>Music Router</title>
-      <link>https://github.com/drumandbytes/music-router</link>
-      <guid isPermaLink="false">c29df05e7a236389476c1d2bc1f5a332d7ee1453:Music Router</guid>
-      <pubDate>Tue, 17 Nov 2026 09:07:14 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Music Router
-Description: Music.app이 자동으로 실행되는 것을 막고 미디어 키를 실제로 사용 중인 앱으로 전달합니다.
-Open Source: https://github.com/drumandbytes/music-router
-Commit: Add Music Router (#4687)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Music Router<br/>Description: Music.app이 자동으로 실행되는 것을 막고 미디어 키를 실제로 사용 중인 앱으로 전달합니다.<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
     </item>
   </channel>
 </rss>

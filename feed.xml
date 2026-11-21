@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:40:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxtMini</title>
+      <link>https://actnow.dev/voxtmini</link>
+      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
+      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: VoxtMini
+Description: Voice input on local models: transcribe, translate and rewrite by voice in any app, in English, Chinese and Japanese.
+Website: https://actnow.dev/voxtmini
+Open Source: https://github.com/hehehai/VoxtMini
+Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxtMini<br/>Description: Voice input on local models: transcribe, translate and rewrite by voice in any app, in English, Chinese and Japanese.<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
+    </item>
     <item>
       <title>Ragdoll Mail</title>
       <link>https://erict16.github.io/ragdoll-mail/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/crash2bash/bitspring
 Commit: Add BitSpring to Audio and Video Tools (#4678)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: BitSpring<br/>Description: Open-source bit-perfect music player with native DSD, per-track sample rates up to 768 kHz and AutoEQ headphone EQ.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
-    </item>
-    <item>
-      <title>Aris</title>
-      <link>https://arismac.app</link>
-      <guid isPermaLink="false">8f395d30de4862b40404f4161fd1db941b3a541a:Aris</guid>
-      <pubDate>Tue, 17 Nov 2026 09:17:23 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Aris
-Description: Open-source AI agent in the MacBook notch that you talk or type to, which acts in your apps with the AI you already use and asks before anything that sends, writes or deletes.
-Website: https://arismac.app
-Open Source: https://github.com/LumenJSN/Aris
-Commit: Add Aris to AI Tools (#4689)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Aris<br/>Description: Open-source AI agent in the MacBook notch that you talk or type to, which acts in your apps with the AI you already use and asks before anything that sends, writes or deletes.<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
     </item>
   </channel>
 </rss>
