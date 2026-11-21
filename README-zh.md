@@ -1170,6 +1170,7 @@ Awesome Mac
 * [Neat Download Manager](https://www.neatdownloadmanager.com/) - 具备优化传输引擎的轻量下载管理器。![Freeware][Freeware Icon]
 * [Prism](https://prismdl.site/) - 多连接并行下载、可接管浏览器下载并保存视频的开源下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/FortoGraphy/prism-download-manager) ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - 一个替代 μTorrent 的开源软件。 [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+* [Reel](https://github.com/shivvaaxx/Reel) - 基于 yt-dlp 的原生视频和图片下载工具，支持拖放到菜单栏图标下载和订阅频道。 [![Open-Source Software][OSS Icon]](https://github.com/shivvaaxx/Reel) ![Freeware][Freeware Icon]
 * [Shandian](https://github.com/chenmozhe008/shandian-download) - 原生下载工具，磁力链接、种子、HTTP 文件与 YouTube、B 站、抖音、小红书视频在同一窗口下载，支持接管浏览器下载和边下边播。 [![Open-Source Software][OSS Icon]](https://github.com/chenmozhe008/shandian-download) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swads](https://swads.app/) - 群晖 Download Station 客户端，现代、原生、凭直觉再设计。
 * [TBD](https://tbd.yt/) - 基于 yt-dlp 的开源 YouTube 视频和音频下载工具，也可在同一 Wi-Fi 下用手机操控。 [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
