@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:40:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hangar</title>
+      <link>https://hangar.bot</link>
+      <guid isPermaLink="false">007537953ed74fba4f1f9d702a5e14d5df3991ca:Hangar</guid>
+      <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
+      <category>虚拟机</category>
+      <description>Category: 虚拟机
+App: Hangar
+Description: 在 macOS、Linux 或 Windows 虚拟机中运行 AI 编程代理，支持网络访问白名单和快照。
+Website: https://hangar.bot
+Open Source: https://github.com/baseguard/hangar
+Commit: Add Hangar to Virtualization (#4814)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
+      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Hangar<br/>Description: 在 macOS、Linux 或 Windows 虚拟机中运行 AI 编程代理，支持网络访问白名单和快照。<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
+    </item>
     <item>
       <title>Ebb</title>
       <link>https://github.com/ege-arhan/ebb</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/rostik32/zest
 Commit: Add zest to Terminal Apps (#4655)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: zest<br/>Description: 在 Terminal.app、iTerm2、Ghostty、VS Code 和 Cursor 中为 Zsh 提供带说明的自动补全弹窗，支持约 1500 条命令。<br/>Open Source: https://github.com/rostik32/zest<br/>Commit: Add zest to Terminal Apps (#4655)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e4367f6f27f0cbb76c4a8c3ef4aa0b57e33defbf]]></content:encoded>
-    </item>
-    <item>
-      <title>Linger</title>
-      <link>https://withlinger.com/zh/</link>
-      <guid isPermaLink="false">605360259a1046a839dd083cde7a750e62f7ec42:Linger</guid>
-      <pubDate>Tue, 17 Nov 2026 04:49:30 GMT</pubDate>
-      <category>设计和产品 / 其它工具</category>
-      <description>Category: 设计和产品 / 其它工具
-App: Linger
-Description: 本地优先的视觉参考库，保存图片、来源链接和笔记，支持关键词搜索与合集整理。
-Website: https://withlinger.com/zh/
-Commit: Add Linger to design and product tools (#4194)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Linger<br/>Description: 本地优先的视觉参考库，保存图片、来源链接和笔记，支持关键词搜索与合集整理。<br/>Website: https://withlinger.com/zh/<br/>Commit: Add Linger to design and product tools (#4194)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/605360259a1046a839dd083cde7a750e62f7ec42]]></content:encoded>
     </item>
   </channel>
 </rss>
