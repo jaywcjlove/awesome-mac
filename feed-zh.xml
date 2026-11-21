@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:09:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ezNTFS</title>
+      <link>https://ixiehao.github.io/ezNTFS/zh/</link>
+      <guid isPermaLink="false">a4c70e32e505dd1d18e856b552bfb4f9395e2d98:ezNTFS</guid>
+      <pubDate>Sat, 21 Nov 2026 09:09:09 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: ezNTFS
+Description: 通过 macFUSE 和 NTFS-3G 挂载外接 NTFS 磁盘并读写文件。
+Website: https://ixiehao.github.io/ezNTFS/zh/
+Open Source: https://github.com/ixiehao/ezNTFS
+Commit: Add ezNTFS (#4841)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: ezNTFS<br/>Description: 通过 macFUSE 和 NTFS-3G 挂载外接 NTFS 磁盘并读写文件。<br/>Website: https://ixiehao.github.io/ezNTFS/zh/<br/>Open Source: https://github.com/ixiehao/ezNTFS<br/>Commit: Add ezNTFS (#4841)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98]]></content:encoded>
+    </item>
     <item>
       <title>Typeset</title>
       <link>https://typeset.md</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/atuuuuuuu/Convrt
 Commit: Add Convrt (#4664)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Convrt<br/>Description: 离线菜单栏文件转换工具：拖动文件时按住 Shift，把文件放到只显示适用格式和工具的转盘上，另附命令行版本。<br/>Open Source: https://github.com/atuuuuuuu/Convrt<br/>Commit: Add Convrt (#4664)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/45b8e29558f1a4fb89ec659a29ddd78e9e1998a2]]></content:encoded>
-    </item>
-    <item>
-      <title>FileMint</title>
-      <link>https://github.com/FileMintApp/FileMint</link>
-      <guid isPermaLink="false">c7df8600e135bcdf1e1abb016e9afcf9c4af02a1:FileMint</guid>
-      <pubDate>Mon, 16 Nov 2026 13:23:23 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: FileMint
-Description: 原生 Finder 扩展，可通过右键菜单使用模板新建文件，个人及非商业用途免费。
-Open Source: https://github.com/FileMintApp/FileMint
-Commit: Add FileMint to Finder tools (#4663)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: FileMint<br/>Description: 原生 Finder 扩展，可通过右键菜单使用模板新建文件，个人及非商业用途免费。<br/>Open Source: https://github.com/FileMintApp/FileMint<br/>Commit: Add FileMint to Finder tools (#4663)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c7df8600e135bcdf1e1abb016e9afcf9c4af02a1]]></content:encoded>
     </item>
   </channel>
 </rss>
