@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:10:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linggen</title>
+      <link>https://linggen.dev</link>
+      <guid isPermaLink="false">d73c979fae73bf7b8f890618dbfa13c13577a63d:Linggen</guid>
+      <pubDate>Sat, 21 Nov 2026 08:10:40 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Linggen
+Description: 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。
+Website: https://linggen.dev
+Open Source: https://github.com/linggen/linggen
+Commit: Add Linggen to AI Tools (#4824)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Linggen<br/>Description: 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
+    </item>
     <item>
       <title>AgentBar</title>
       <link>https://github.com/michalstrnadel/AgentBar</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/chessper53/NotificationNanny
 Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: NotificationNanny<br/>Description: 通知バナーの位置や見た目を変え、通知センターのパネルをカスタマイズできるものに置き換えられるアプリ。<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
-    </item>
-    <item>
-      <title>Purr</title>
-      <link>https://purr.arunbrahma.com</link>
-      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
-      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: Purr
-Description: Parakeet または Whisper であらゆるアプリに文字入力できるオープンソースのオンデバイス音声入力アプリで、話者を区別した会議メモと要約にも対応。
-Website: https://purr.arunbrahma.com
-Open Source: https://github.com/iamarunbrahma/purr
-Commit: Add Purr to Voice-to-Text (#4647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Purr<br/>Description: Parakeet または Whisper であらゆるアプリに文字入力できるオープンソースのオンデバイス音声入力アプリで、話者を区別した会議メモと要約にも対応。<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
     </item>
   </channel>
 </rss>

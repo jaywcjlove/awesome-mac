@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:10:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Linggen</title>
+      <link>https://linggen.dev</link>
+      <guid isPermaLink="false">d73c979fae73bf7b8f890618dbfa13c13577a63d:Linggen</guid>
+      <pubDate>Sat, 21 Nov 2026 08:10:40 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Linggen
+Description: 음악, 돈, 건강, 놀이를 돌보는 로컬 우선 개인 AI 어시스턴트로, 이 모두에 걸쳐 하나의 기억을 공유하며 선택한 모델로 Mac에서 실행됩니다.
+Website: https://linggen.dev
+Open Source: https://github.com/linggen/linggen
+Commit: Add Linggen to AI Tools (#4824)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Linggen<br/>Description: 음악, 돈, 건강, 놀이를 돌보는 로컬 우선 개인 AI 어시스턴트로, 이 모두에 걸쳐 하나의 기억을 공유하며 선택한 모델로 Mac에서 실행됩니다.<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
+    </item>
     <item>
       <title>AgentBar</title>
       <link>https://github.com/michalstrnadel/AgentBar</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/chessper53/NotificationNanny
 Commit: Add NotificationNanny to Quality of Life Improvements (#4654)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: NotificationNanny<br/>Description: 알림 배너의 위치와 모양을 바꾸고 알림 센터 패널을 사용자 지정 패널로 대체할 수 있는 앱.<br/>Website: https://chessper53.github.io/NotificationNanny/<br/>Open Source: https://github.com/chessper53/NotificationNanny<br/>Commit: Add NotificationNanny to Quality of Life Improvements (#4654)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71e80af34561fb20ee99ee3304d0d71b3919a90d]]></content:encoded>
-    </item>
-    <item>
-      <title>Purr</title>
-      <link>https://purr.arunbrahma.com</link>
-      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
-      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: Purr
-Description: Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원.
-Website: https://purr.arunbrahma.com
-Open Source: https://github.com/iamarunbrahma/purr
-Commit: Add Purr to Voice-to-Text (#4647)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Purr<br/>Description: Parakeet 또는 Whisper로 모든 앱에 입력하는 오픈 소스 온디바이스 받아쓰기 앱으로, 화자 구분과 요약이 포함된 회의 노트도 지원.<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
     </item>
   </channel>
 </rss>
