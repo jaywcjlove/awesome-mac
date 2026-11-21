@@ -1804,7 +1804,7 @@ Awesome Mac
 
 ### ウィンドウ管理
 
-* [AbcTab](https://solocraft.app/abctab) - 画面収録権限不要で頭文字ジャンプ、マルチウィンドウ・ターミナルタブ展開、ピンポン切替に対応するネイティブ ⌘-Tab スイッチャー。 ![Native App][Native Icon]
+* [AbcTab](https://solocraft.app/abctab) - 画面収録権限不要で頭文字ジャンプ、マルチウィンドウ・ターミナルタブ展開、ピンポン切替に対応するネイティブ ⌘-Tab スイッチャー。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/abctab/id6830197687)
 * [AeroSpace](https://github.com/nikitabobko/AeroSpace) - macOS向けのi3ライクなタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/nikitabobko/AeroSpace) ![Freeware][Freeware Icon]
 * [AltTab](https://alt-tab-macos.netlify.app) - ウィンドウプレビュー付きのオープンソースウィンドウスイッチャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/) - タイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)

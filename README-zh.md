@@ -1776,7 +1776,7 @@ Awesome Mac
 
 ### 窗口管理
 
-* [AbcTab](https://solocraft.app/zh/abctab) - 原生 ⌘-Tab 应用与窗口切换器，支持中英文及拼音首字母直达、多窗口与终端标签页展开及乒乓盲切，无需屏幕录制权限。 ![Native App][Native Icon]
+* [AbcTab](https://solocraft.app/zh/abctab) - 原生 ⌘-Tab 应用与窗口切换器，支持中英文及拼音首字母直达、多窗口与终端标签页展开及乒乓盲切，无需屏幕录制权限。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/abctab/id6830197687)
 * [Amethyst](http://ianyh.com/amethyst/) - 窗口管理器（自动保持窗口大小的窗口）。[![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) ![Freeware][Freeware Icon]
 * [Convoker](https://github.com/varie-ai/convoker) - 输入应用名称，按回车即可聚拢该应用的所有窗口。[![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [BetterSnapTool](https://folivora.ai/bettersnaptool/) - 窗口管理工具，可通过快捷键或窗口拖动快速实现分屏。  [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dashlane-password-manager/id552383089?platform=mac)
