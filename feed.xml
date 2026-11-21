@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:31:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Smorza</title>
+      <link>https://smorza.app</link>
+      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
+      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Smorza
+Description: Menu bar volume mixer that gives each app its own volume, mute, and output device.
+Website: https://smorza.app
+Open Source: https://github.com/rokoov/smorza
+Commit: Add Smorza (#4861)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Smorza<br/>Description: Menu bar volume mixer that gives each app its own volume, mute, and output device.<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
+    </item>
     <item>
       <title>TMOP</title>
       <link>https://tekikaito.github.io/tmop/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/ATTILA-KRB/escale
 Commit: Add Escale to Terminal Apps (#4690)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Escale<br/>Description: Native SSH client with tabs, an SFTP browser beside the terminal, tunnels, multi-execution and a built-in X11 server.<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
-    </item>
-    <item>
-      <title>EdgeEver</title>
-      <link>https://edgeever.org/</link>
-      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
-      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: EdgeEver
-Description: Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration.
-Website: https://edgeever.org/
-Open Source: https://github.com/tianma-if/edgeever
-Commit: Add EdgeEver to Note-taking (#4680)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: EdgeEver<br/>Description: Open-source note-taking and knowledge workspace with self-hosting, multi-device sync, and MCP integration.<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
     </item>
   </channel>
 </rss>
