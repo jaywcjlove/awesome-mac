@@ -670,6 +670,7 @@ Awesome Mac
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 无需虚拟机即可运行 Linux 图形应用的 Wayland 合成器。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [ContainerDesk](https://github.com/MacHatter1/ContainerDesk) - Apple container 运行时的原生 SwiftUI 工作区，支持实时资源监控和集成终端。 [![Open-Source Software][OSS Icon]](https://github.com/MacHatter1/ContainerDesk) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。 ![Freeware][Freeware Icon]
+* [Hangar](https://hangar.bot) - 在 macOS、Linux 或 Windows 虚拟机中运行 AI 编程代理，支持网络访问白名单和快照。 [![Open-Source Software][OSS Icon]](https://github.com/baseguard/hangar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Inquiline](https://github.com/inquiline-app/inquiline) - 在 Apple Silicon 上运行真正的 Android 15，把每个 Android 应用变成独立的 Mac 应用，并支持在任意应用上使用 Gemini、桌面 Android 小组件和按应用屏蔽广告。 [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [lima-vm](https://github.com/lima-vm/lima) - 专注于运行容器的 Linux 虚拟机。[![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。 [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
