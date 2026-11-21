@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:40:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VoxtMini</title>
+      <link>https://actnow.dev/voxtmini</link>
+      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
+      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: VoxtMini
+Description: 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。
+Website: https://actnow.dev/voxtmini
+Open Source: https://github.com/hehehai/VoxtMini
+Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxtMini<br/>Description: 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
+    </item>
     <item>
       <title>Ragdoll Mail</title>
       <link>https://erict16.github.io/ragdoll-mail/</link>
@@ -725,20 +740,6 @@ Open Source: https://github.com/drumandbytes/music-router
 Commit: Add Music Router (#4687)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Music Router<br/>Description: 阻止 Music.app 自动启动，并将媒体键路由到你实际正在使用的应用。<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
-    </item>
-    <item>
-      <title>Gesher</title>
-      <link>https://github.com/EphraimElgrabli/gesher</link>
-      <guid isPermaLink="false">bbe6d1198cc5af0361e2e623306f69e25772e548:Gesher</guid>
-      <pubDate>Tue, 17 Nov 2026 08:43:12 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Gesher
-Description: 开源 MCP 服务与命令行工具，让 AI 助手读取和编辑 Apple 备忘录、提醒事项、日历、通讯录、地图、天气和无边记。
-Open Source: https://github.com/EphraimElgrabli/gesher
-Commit: Add Gesher to AI Tools (#4684)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Gesher<br/>Description: 开源 MCP 服务与命令行工具，让 AI 助手读取和编辑 Apple 备忘录、提醒事项、日历、通讯录、地图、天气和无边记。<br/>Open Source: https://github.com/EphraimElgrabli/gesher<br/>Commit: Add Gesher to AI Tools (#4684)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbe6d1198cc5af0361e2e623306f69e25772e548]]></content:encoded>
     </item>
   </channel>
 </rss>
