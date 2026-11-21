@@ -722,6 +722,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Amadine](https://amadine.com) - Aplicativo de desenho vetorial com interface intuitiva para designers gráficos.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - Software de design gráfico para lettering, tipografia e efeitos de texto.
 * [Blender](https://www.blender.org/) - Software gratuito e aberto para criação em 3D. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [chort](https://chort.design) - Canvas de design local em HTML/CSS para agentes de código via MCP, com comentários no canvas e exportação JSX/Tailwind. ![Freeware][Freeware Icon]
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker é uma ferramenta completa e de código aberto para manipulação de cores, com seletor de cores! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - darktable é um aplicativo de código aberto para fluxo de trabalho em fotografia e revelação de arquivos RAW. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
 * [Droply](https://convergencelab.gumroad.com/l/droply) - Removedor de fundo em lote offline para imagens.
