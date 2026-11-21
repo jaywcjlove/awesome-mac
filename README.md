@@ -1896,6 +1896,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Finder Tools
 
+* [cmdX](https://cmdx.yonn.online) - Cut and paste files in Finder with Cmd+X and Cmd+V, while text cutting in rename and search fields keeps working. [![Open-Source Software][OSS Icon]](https://github.com/YONN2222/cmdX) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Command X](https://sindresorhus.com/command-x) - Cut and paste files in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Quick access to your files and folders in every app.
 * [FileMint](https://github.com/FileMintApp/FileMint) - Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use. ![Native App][Native Icon]
