@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stelix</title>
+      <link>https://getstelix.com</link>
+      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
+      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
+      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
+App: Stelix
+Description: Mac向けのリアルタイムステム分離：あらゆるアプリで再生中の音声をボーカル、ドラム、ベース、その他に分け、各パートの音量調整や単独再生ができ、すべてデバイス上で動作する。
+Website: https://getstelix.com
+Open Source: https://github.com/stelix-app/stelix
+Commit: Add Stelix (#4836)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
+      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Stelix<br/>Description: Mac向けのリアルタイムステム分離：あらゆるアプリで再生中の音声をボーカル、ドラム、ベース、その他に分け、各パートの音量調整や単独再生ができ、すべてデバイス上で動作する。<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
+    </item>
     <item>
       <title>GravityNotch</title>
       <link>https://adrielakak.github.io/GravityNotch/</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/geragarazagh/copia
 Commit: Add Copia to Clipboard Tools (#4645)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: Copia<br/>Description: コピーしたものすべて（テキスト、リッチテキスト、リンク、カラー、画像、動画、音声、ファイル）を保存し、選んだ複数の項目を選んだ順に一度に貼り付け、ペーストキューでコピーした項目を ⌘V で一つずつ貼り付けるオープンソースのクリップボード履歴アプリ。<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
-    </item>
-    <item>
-      <title>Memozia</title>
-      <link>https://github.com/oceanix-pr/Memozia</link>
-      <guid isPermaLink="false">9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33:Memozia</guid>
-      <pubDate>Mon, 16 Nov 2026 11:26:46 GMT</pubDate>
-      <category>オーディオ・ビデオツール / オーディオ録音・処理</category>
-      <description>Category: オーディオ・ビデオツール / オーディオ録音・処理
-App: Memozia
-Description: ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。
-Open Source: https://github.com/oceanix-pr/Memozia
-Commit: Add Memozia to audio recording tools in four languages (#4644)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Memozia<br/>Description: ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
     </item>
   </channel>
 </rss>

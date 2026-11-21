@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 08:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:30:32 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Stelix</title>
+      <link>https://getstelix.com</link>
+      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Stelix
+Description: Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다.
+Website: https://getstelix.com
+Open Source: https://github.com/stelix-app/stelix
+Commit: Add Stelix (#4836)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Stelix<br/>Description: Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
+    </item>
     <item>
       <title>GravityNotch</title>
       <link>https://adrielakak.github.io/GravityNotch/</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/geragarazagh/copia
 Commit: Add Copia to Clipboard Tools (#4645)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Copia<br/>Description: 복사한 모든 것(텍스트, 서식 있는 텍스트, 링크, 색상, 이미지, 동영상, 오디오, 파일)을 보관하고, 선택한 여러 항목을 선택한 순서대로 한 번에 붙여넣으며, 붙여넣기 대기열로 복사한 항목을 ⌘V로 하나씩 붙여넣는 오픈 소스 클립보드 기록 앱.<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
-    </item>
-    <item>
-      <title>Memozia</title>
-      <link>https://github.com/oceanix-pr/Memozia</link>
-      <guid isPermaLink="false">9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33:Memozia</guid>
-      <pubDate>Mon, 16 Nov 2026 11:26:46 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Memozia
-Description: 기기 내 전사, 화자 표시, 요약, 편집 가능한 할 일을 지원하는 오픈 소스 회의 녹음 도구.
-Open Source: https://github.com/oceanix-pr/Memozia
-Commit: Add Memozia to audio recording tools in four languages (#4644)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Memozia<br/>Description: 기기 내 전사, 화자 표시, 요약, 편집 가능한 할 일을 지원하는 오픈 소스 회의 녹음 도구.<br/>Open Source: https://github.com/oceanix-pr/Memozia<br/>Commit: Add Memozia to audio recording tools in four languages (#4644)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9ab1742def2b9fb67a00d7fc0996efb9ad2a8f33]]></content:encoded>
     </item>
   </channel>
 </rss>
