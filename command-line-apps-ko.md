@@ -163,6 +163,7 @@
 * [thefuck](https://github.com/nvbn/thefuck) - 이전 명령의 오타를 수정해주는 유용한 도구. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 강력한 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [trash](https://github.com/sindresorhus/trash) - 파일과 디렉토리를 휴지통으로 이동시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
+* [Wardlatch](https://github.com/deimos-hq/wardlatch) - 읽기 전용 점검 도구. 폐기되었거나 유출된 CA 키를 아직 신뢰하는 런타임, 취약한 버전, 바뀐 바이너리, 오염된 패키지를 찾습니다. 텔레메트리 없음, 아무것도 바꾸지 않음. [![Open-Source Software][OSS Icon]](https://github.com/deimos-hq/wardlatch) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - 대화형 사용을 위해 설계된 명령줄 쉘. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - zsh 설정을 관리하는 커뮤니티 주도 오픈 소스 프레임워크. [![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
 
