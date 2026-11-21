@@ -1863,6 +1863,7 @@ Awesome Mac
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 用常用应用快速打开所选文件或文件夹的 Finder 扩展。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
+* [Zush](https://zushapp.com) - AI 文件重命名工具，根据内容为照片、PDF 和文档命名，并将其整理到文件夹中。 [![App Store][app-store Icon]](https://apps.apple.com/app/zush/id6758432449?platform=mac) ![Native App][Native Icon]
 
 ## 游戏软件
 

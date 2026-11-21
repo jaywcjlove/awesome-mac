@@ -1606,6 +1606,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Shuffle](https://shuffleapp.co) - Gerenciador de arquivos rápido, renderizado por GPU, e alternativa ao Finder, desenvolvido em Rust. [![Open-Source Software][OSS Icon]](https://github.com/WizenPainter/shuffle) ![Freeware][Freeware Icon]
 * [The Unarchiver](https://theunarchiver.com/) - Descompacte vários tipos diferentes de arquivos compactados. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353?platform=mac)
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Utilitário de arquivos para extrair e compactar muitos formatos comuns. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [Zush](https://zushapp.com) - Renomeador de arquivos com IA que nomeia fotos, PDFs e documentos pelo conteúdo e os organiza em pastas. [![App Store][app-store Icon]](https://apps.apple.com/app/zush/id6758432449?platform=mac) ![Native App][Native Icon]
 * [Marta](https://marta.sh) - Gerenciador de arquivos para macOS escrito inteiramente em Swift ![Freeware][Freeware Icon]
 
 ### Ferramentas gerais
