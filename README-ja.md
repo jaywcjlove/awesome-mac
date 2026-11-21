@@ -245,6 +245,7 @@ Awesome Mac
 * [Downright](https://downright.cc/) - 普通のファイルをそのまま開ける、ネイティブでオープンソースのMarkdownリーダー兼エディタ。Quick LookプレビューとFinderサムネイルに対応し、他のアプリやエージェントがファイルを変更するとライブで更新。 [![Open-Source Software][OSS Icon]](https://github.com/ezzy1630/Downright) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - ライブプレビュー付きのミニマルなMarkdownエディタ。既存ファイルをそのまま編集でき、保管庫不要。 [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chromeのようなインターフェースを持つオープンソースMarkdownエディタ。 ![Open-Source Software][OSS Icon]
+* [Hem](https://hem.md) - クイックルックのプレビューに対応し、変更した部分だけを保存するオープンソースのMarkdownビューア兼エディタ。 [![Open-Source Software][OSS Icon]](https://github.com/Urannimo/hem) ![Freeware][Freeware Icon]
 * [iA Writer](https://ia.net/writer/) - シンプルさとデザインを重視したライティングアプリ。
 * [Imark](https://github.com/migsilva89/imark) - コメントをHTMLコメントとしてドキュメント自体に保存するオープンソースのMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [Inkstone (砚台)](https://github.com/raistlinsha-plus/inkstone) - 選択したノートからWikiを作成し、AIの回答から原文を参照できるオープンソースのMarkdownワークスペース（Apple Silicon向けのソースプレビュー）。 [![Open-Source Software][OSS Icon]](https://github.com/raistlinsha-plus/inkstone) ![Freeware][Freeware Icon]

@@ -219,6 +219,7 @@ Awesome Mac
 * [Downright](https://downright.cc/) - 일반 파일을 그대로 여는 네이티브 오픈 소스 마크다운 리더 겸 편집기. Quick Look 미리보기와 Finder 썸네일을 지원하며, 다른 앱이나 에이전트가 파일을 바꾸면 실시간으로 갱신. [![Open-Source Software][OSS Icon]](https://github.com/ezzy1630/Downright) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Edmund](https://github.com/I7T5/Edmund) - 실시간 미리보기를 지원하는 미니멀 마크다운 편집기. 기존 파일을 바로 편집하며 별도 보관함 불필요. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon]
 * [EME](https://github.com/egoist/eme) - Chrome과 같은 인터페이스를 가진 오픈 소스 마크다운 편집기. ![Open-Source Software][OSS Icon]
+* [Hem](https://hem.md) - 훑어보기 미리보기를 지원하고 변경한 부분만 저장하는 오픈 소스 마크다운 뷰어 겸 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Urannimo/hem) ![Freeware][Freeware Icon]
 * [iA Writer](https://ia.net/writer/) - 단순함과 디자인에 강조를 둔 쓰기 앱.
 * [Imark](https://github.com/migsilva89/imark) - 주석을 HTML 주석 형태로 문서 안에 직접 저장하는 오픈 소스 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon]
 * [Inkstone (砚台)](https://github.com/raistlinsha-plus/inkstone) - 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰). [![Open-Source Software][OSS Icon]](https://github.com/raistlinsha-plus/inkstone) ![Freeware][Freeware Icon]
