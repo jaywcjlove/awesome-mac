@@ -1095,6 +1095,7 @@ Awesome Mac
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 악성코드를 검사하고 제거하는 보안 도구. ![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - 마이크와 웹캠 접근을 감시하는 도구. ![Freeware][Freeware Icon]
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Little Snitch 스타일의 월드맵, 규칙 관리자, DNS over HTTPS, pf 기반 차단을 제공하는 오픈 소스 애플리케이션 방화벽(텔레메트리 없음). [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
+* [Safe8bit](https://safe8bit.com/en/) - Touch ID로 잠금 해제하는 개발자용 시크릿 보관소로, .env 파일과 API 키를 AI 코딩 에이전트로부터 보호합니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Santa](https://northpole.security/) - 바이너리와 파일 접근을 제어하는 권한 부여 시스템. [![Open-Source Software][OSS Icon]](https://github.com/northpolesec/santa) ![Native App][Native Icon]
 * [Sentinel](https://sentinel-james-murphy.pages.dev/) - Mac 보안 설정을 쉬운 말로 점검하고 Wi-Fi에 연결된 기기 목록을 보여 주는 도구. ![Freeware][Freeware Icon]
 * [Vulert](https://vulert.com) - 오픈 소스 의존성 취약점을 모니터링하는 서비스.
