@@ -236,6 +236,7 @@ Awesome Mac
 * [Quill](https://quill.hridya.tech) - Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Splat](https://github.com/sventmueller/splat) - Rust로 작성된 네이티브 macOS 마크다운 편집기. 소스와 실시간 미리보기 모두에서 바로 편집 가능. [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
+* [Typeset](https://typeset.md) - 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원). [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.
 * [Zettlr](https://www.zettlr.com/) - 21세기를 위한 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]

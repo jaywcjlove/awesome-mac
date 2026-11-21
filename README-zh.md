@@ -1045,6 +1045,7 @@ Awesome Mac
 * [Quill](https://quill.hridya.tech) - 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Splat](https://github.com/sventmueller/splat) - 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手，支持云端与本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
+* [Typeset](https://typeset.md) - 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。 [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac，iPad 和 iPhone 的写作应用程序，支持 Markdown。
 * [Yu Writer](https://ivarptr.github.io/yu-writer.site/) - 一款能找到写作乐趣的 Markdown 文本编辑器。 ![Freeware][Freeware Icon]
