@@ -1771,6 +1771,7 @@ Awesome Mac
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 定期スクリーンショットで一日の作業を振り返れるツール。
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - プロジェクトを視覚化、管理、簡素化する最良の方法。プロジェクト管理を簡単に。
 * [OpenClip](https://getopenclip.app) - 選択したテキストから即座にアクションを実行できる、macOS向けの軽量フローティングアクションバー。 [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
+* [OpenGestures](https://github.com/01wil/OpenGestures) - トラックパッドのジェスチャーをウィンドウ、アプリ、ショートカット、スクリプトの操作に割り当てるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/01wil/OpenGestures) ![Freeware][Freeware Icon]
 * [OpenIn](https://loshadki.app/openin4/) - Macにインストールされたアプリを管理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - サイドボタンの再割り当てやDPI・ポーリングレートの設定ができる、Razer Naga V2 HyperSpeed向けのオープンソースRazer Synapse代替ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [PaletteBrain](https://palettebrain.com) - ショートカットキーひとつですべてのMacアプリケーションからChatGPTのパワーにアクセス。

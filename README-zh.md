@@ -1444,6 +1444,7 @@ Awesome Mac
 * [Numi](http://numi.io/) - 漂亮的计算器应用。![Freeware][Freeware Icon]
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - 项目管理软件。
 * [OpenClip](https://getopenclip.app) - 适用于 macOS 的轻量级浮动操作栏，选中文字即可即时执行操作。 [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
+* [OpenGestures](https://github.com/01wil/OpenGestures) - 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。 [![Open-Source Software][OSS Icon]](https://github.com/01wil/OpenGestures) ![Freeware][Freeware Icon]
 * [OpenDisplay](https://opendisplay.app) - 把闲置的 iPhone 或 iPad 变成 Mac 的第二块屏幕，支持 USB 有线与 WiFi 无线连接，以及触控输入。 [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - 面向 Razer Naga V2 HyperSpeed 的开源 Razer Synapse 替代工具，可重新映射侧键并设置 DPI 和回报率。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [Pake](https://pake.run/) - 把任意网站变成轻量的桌面 App，有自己的图标、窗口和 Dock 入口。
