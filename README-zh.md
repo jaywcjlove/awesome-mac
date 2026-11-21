@@ -1385,6 +1385,7 @@ Awesome Mac
 * [CalmMouse](https://calmmouse.malikzhang.com/) - 让妙控鼠标在你点击时不再滚动页面。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
+* [Cocon](https://getcocon.com) - 在桌面上、所有窗口之后绘制雨、雪、壁炉等动态氛围并配有相应声音，从菜单栏控制。[![App Store][app-store Icon]](https://apps.apple.com/app/cocon-ambient-focus-for-work/id6819339828) ![Native App][Native Icon]
 * [Deskflow](https://github.com/deskflow/deskflow) - Deskflow 让你在 Windows、macOS 和 Linux 上共享一套鼠标和键盘控制多台电脑。[![Open-Source Software][OSS Icon]](https://github.com/deskflow/deskflow) ![Freeware][Freeware Icon]
 * [Crisp](https://didriksg.github.io/Crisp/) - 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。 [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度、对比度和输入源。
