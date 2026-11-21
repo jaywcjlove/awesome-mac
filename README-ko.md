@@ -374,6 +374,7 @@ Awesome Mac
 
 ### IDE / 코드 편집기
 
+* [Agent Hive](https://github.com/ericwang915/agent-hive) - 코딩 에이전트 CLI(Claude Code, Codex, Gemini CLI, Cursor Agent)를 하나의 팀으로 실행하는 오픈소스 앱. 예약 실행, 리뷰 릴레이, 작업을 나눠 주는 리드 에이전트를 제공한다. [![Open-Source Software][OSS Icon]](https://github.com/ericwang915/agent-hive) ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android의 공식 IDE로 IntelliJ IDEA를 기반으로 함. ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS 개발을 위한 스마트 IDE.
 * [Aptana](http://www.aptana.com/) - 강력한 오픈 소스 웹 개발 IDE. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aptana/studio3)
