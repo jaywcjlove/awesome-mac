@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:31:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Smorza</title>
+      <link>https://smorza.app</link>
+      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
+      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
+      <category>音频和视频</category>
+      <description>Category: 音频和视频
+App: Smorza
+Description: 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。
+Website: https://smorza.app
+Open Source: https://github.com/rokoov/smorza
+Commit: Add Smorza (#4861)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
+      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Smorza<br/>Description: 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
+    </item>
     <item>
       <title>VoxtMini</title>
       <link>https://actnow.dev/voxtmini</link>
@@ -726,20 +741,6 @@ Open Source: https://github.com/ATTILA-KRB/bar27
 Commit: Add Bar27 to Menu Bar Tools (#4688)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Bar27<br/>Description: 适用于 macOS 27 的菜单栏管理工具，按应用隐藏图标，并可通过点击、悬停或快捷键重新显示。<br/>Open Source: https://github.com/ATTILA-KRB/bar27<br/>Commit: Add Bar27 to Menu Bar Tools (#4688)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d]]></content:encoded>
-    </item>
-    <item>
-      <title>Music Router</title>
-      <link>https://github.com/drumandbytes/music-router</link>
-      <guid isPermaLink="false">c29df05e7a236389476c1d2bc1f5a332d7ee1453:Music Router</guid>
-      <pubDate>Tue, 17 Nov 2026 09:07:14 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Music Router
-Description: 阻止 Music.app 自动启动，并将媒体键路由到你实际正在使用的应用。
-Open Source: https://github.com/drumandbytes/music-router
-Commit: Add Music Router (#4687)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Music Router<br/>Description: 阻止 Music.app 自动启动，并将媒体键路由到你实际正在使用的应用。<br/>Open Source: https://github.com/drumandbytes/music-router<br/>Commit: Add Music Router (#4687)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c29df05e7a236389476c1d2bc1f5a332d7ee1453]]></content:encoded>
     </item>
   </channel>
 </rss>
