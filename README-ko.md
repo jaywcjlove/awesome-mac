@@ -949,6 +949,7 @@ Awesome Mac
 * [Stremio](https://www.stremio.com/) - 영화, TV, 라이브 채널, 스트리밍 소스를 모아 보는 미디어 센터. ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - 크로스페이드, 트림, 램프 타이머, 일시정지 배경 음악을 지원하는 라이브 라디오·팟캐스트용 방송 오디오 송출 도구. [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 회의를 녹음해 기기에서 전사하고 화자를 구분하며, 내 Claude나 ChatGPT 구독으로 타임스탬프가 달린 회의록을 작성하는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
+* [Stelix](https://getstelix.com) - Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다. [![Open-Source Software][OSS Icon]](https://github.com/stelix-app/stelix) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - AutoEQ 프리셋, 청력 보정, 실시간 시각화를 지원하는 무료 오픈 소스 시스템 전역 파라메트릭 EQ. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [TetherCam](https://tethercam.app/) - iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Kanevry/tethercam) ![Freeware][Freeware Icon]
 * [Tingo](https://github.com/tancheng33/tingo) - 모든 통화를 녹음해 기기에서 전사하고 화자를 구분하며, 원하는 LLM으로 각 항목이 원래 음성으로 연결되는 회의록을 작성하는 오픈 소스 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
