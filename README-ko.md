@@ -1338,6 +1338,7 @@ Awesome Mac
 * [Phosphene](https://kagerou.glass/phosphene/) - 어떤 동영상이든 macOS 배경화면으로 사용하세요. 데스크톱과 잠금 화면을 지원하며 시스템 설정에서 직접 선택합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - 로컬 동영상을 데스크톱 배경화면으로 설정합니다. [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
 * [Uptick](https://chengffei.github.io/uptick/) - App Store, Sparkle, Electron 업데이트 피드, Homebrew에서 업데이트를 찾고 설치 전에 다운로드를 검증하는 오픈소스 앱 업데이터. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chengffei/uptick)
+* [Verticar](https://github.com/sarogreco/Verticar) - Sidecar를 통해 iPad를 세로 방향 보조 디스플레이로 사용하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/sarogreco/Verticar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - Mac에서 iPhone을 관리하는 네이티브 앱. 중복 사진, 큰 동영상, 쓰지 않는 앱 정리와 홈 화면 정리, 파일 전송, Mac 백업을 지원. ![Native App][Native Icon]
 * [Fan Curve](https://github.com/8thlyr/fan-curve) - CPU 온도에 따라 팬 속도를 조절하는 Apple Silicon Mac용 오픈 소스 팬 곡선 컨트롤러. [![Open-Source Software][OSS Icon]](https://github.com/8thlyr/fan-curve) ![Freeware][Freeware Icon] ![Native App][Native Icon]
