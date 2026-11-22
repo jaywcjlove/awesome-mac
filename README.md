@@ -1308,6 +1308,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Opera](https://www.opera.com) - Experience faster, distraction-free browsing with Ad blocking, and browse privately. ![Freeware][Freeware Icon]
 * [Ora](https://github.com/the-ora/browser) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/en/) - Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover. [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Roar](https://roarbrowser.app/) - Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you. [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
