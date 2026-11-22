@@ -1808,6 +1808,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions. [![Open-Source Software][OSS Icon]](https://github.com/SuperCmdLabs/SuperCmd)
 * [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [RescueTime](https://www.rescuetime.com/) - Track time usage and get productivity reports.
+* [RestGuard](https://hanstanzi.github.io/RestGuard/) - Open-source break reminder with adjustable enforcement levels that can cover every screen until the break is over. [![Open-Source Software][OSS Icon]](https://github.com/HansTanzi/RestGuard) ![Freeware][Freeware Icon]
 * [SuperCorners](https://supercorners.vercel.app/) - Turn Hot Corners into custom workflow triggers. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - AI time tracker that helps you focus and build better work habits.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Add more useful actions to the Finder right-click menu. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
