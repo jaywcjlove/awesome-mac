@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:46:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Olympus Coder</title>
+      <link>https://github.com/martianacademy/olympus-coder</link>
+      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
+      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Olympus Coder
+Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。
+Open Source: https://github.com/martianacademy/olympus-coder
+Commit: Add Olympus Coder to AI Tools (#4866)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Olympus Coder<br/>Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
+    </item>
     <item>
       <title>Sikemux</title>
       <link>https://sikemux.com</link>
@@ -727,21 +741,6 @@ Open Source: https://github.com/crash2bash/bitspring
 Commit: Add BitSpring to Audio and Video Tools (#4678)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: BitSpring<br/>Description: 开源比特完美音乐播放器，支持原生 DSD、逐曲切换采样率（最高 768 kHz）和 AutoEQ 耳机均衡。<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
-    </item>
-    <item>
-      <title>Aris</title>
-      <link>https://arismac.app</link>
-      <guid isPermaLink="false">8f395d30de4862b40404f4161fd1db941b3a541a:Aris</guid>
-      <pubDate>Tue, 17 Nov 2026 09:17:23 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Aris
-Description: 驻留在 MacBook 刘海中的开源 AI 代理，可用语音或文字让你已有的 AI 在各个应用中执行操作，发送、写入或删除前会先征求确认。
-Website: https://arismac.app
-Open Source: https://github.com/LumenJSN/Aris
-Commit: Add Aris to AI Tools (#4689)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Aris<br/>Description: 驻留在 MacBook 刘海中的开源 AI 代理，可用语音或文字让你已有的 AI 在各个应用中执行操作，发送、写入或删除前会先征求确认。<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
     </item>
   </channel>
 </rss>

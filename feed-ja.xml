@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:46:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Olympus Coder</title>
+      <link>https://github.com/martianacademy/olympus-coder</link>
+      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
+      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Olympus Coder
+Description: Claude Code、Codex、Antigravity をはじめ 18 以上の ACP コーディングエージェントを統合管理できるオープンソースのデスクトップワークベンチ兼ヘッドレスサーバー。共有プロジェクトメモリ、並列サブセッション、Git worktree、ハンク単位の差分レビュー、内蔵ターミナル、E2E 暗号化モバイルアクセスに対応。
+Open Source: https://github.com/martianacademy/olympus-coder
+Commit: Add Olympus Coder to AI Tools (#4866)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Olympus Coder<br/>Description: Claude Code、Codex、Antigravity をはじめ 18 以上の ACP コーディングエージェントを統合管理できるオープンソースのデスクトップワークベンチ兼ヘッドレスサーバー。共有プロジェクトメモリ、並列サブセッション、Git worktree、ハンク単位の差分レビュー、内蔵ターミナル、E2E 暗号化モバイルアクセスに対応。<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
+    </item>
     <item>
       <title>Sikemux</title>
       <link>https://sikemux.com</link>
@@ -727,21 +741,6 @@ Open Source: https://github.com/crash2bash/bitspring
 Commit: Add BitSpring to Audio and Video Tools (#4678)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: BitSpring<br/>Description: ネイティブ DSD、曲ごとのサンプルレート切り替え（最大 768 kHz）、AutoEQ ヘッドホン EQ に対応したオープンソースのビットパーフェクト音楽プレーヤー。<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
-    </item>
-    <item>
-      <title>Aris</title>
-      <link>https://arismac.app</link>
-      <guid isPermaLink="false">8f395d30de4862b40404f4161fd1db941b3a541a:Aris</guid>
-      <pubDate>Tue, 17 Nov 2026 09:17:23 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Aris
-Description: 話すか入力するだけで手持ちのAIがアプリを操作し、送信・書き込み・削除の前には必ず確認する、MacBookのノッチに常駐するオープンソースのAIエージェント。
-Website: https://arismac.app
-Open Source: https://github.com/LumenJSN/Aris
-Commit: Add Aris to AI Tools (#4689)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Aris<br/>Description: 話すか入力するだけで手持ちのAIがアプリを操作し、送信・書き込み・削除の前には必ず確認する、MacBookのノッチに常駐するオープンソースのAIエージェント。<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
     </item>
   </channel>
 </rss>
