@@ -712,6 +712,7 @@ Awesome Mac
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 소스 코드가 공개된 화면·오디오 기록 도구로, 로컬 기록 검색과 선택적 클라우드 AI 처리, 무료 및 유료 요금제를 제공합니다.
 * [Tight Studio](https://tight.studio/) - 스마트 줌, 자막, AI 보이스오버를 지원하는 화면 녹화 도구입니다.
 * [TinyRecorder](https://www.tinyrecorder.app/en/) - 화면, 창, 앱, 시스템 오디오, 연결된 iPhone 또는 iPad를 녹화하는 가벼운 화면 녹화기로, 계속 유지 관리되는 QuickRecorder 포크입니다. [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
+* [Zella](https://zellahq.com/) - Mac과 iPhone용 화면 녹화 및 AI 영상 편집 도구로, 원탭 무음 및 군더더기 말 제거, 자막, 기기 내 처리를 지원합니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/zella-recorder-video-editor/id6802100098?platform=mac)
 
 ### 기타 도구
 

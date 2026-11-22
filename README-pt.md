@@ -847,6 +847,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Tight Studio](https://tight.studio/) - Gravador de tela com zoom inteligente, legendas e narrações com IA.
 * [TinyRecorder](https://www.tinyrecorder.app/en/) - Gravador de tela leve para telas, janelas, apps, áudio do sistema e iPhone ou iPad conectado; um fork mantido do QuickRecorder. [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - Zappy é um app de captura de tela e gravação de tela em um só. Tem algumas ferramentas simples de edição integradas.
+* [Zella](https://zellahq.com/) - Gravador de tela e editor de vídeo com IA para Mac e iPhone, com remoção de silêncios e vícios de linguagem com um toque, legendas e processamento no próprio dispositivo. [![App Store][app-store Icon]](https://apps.apple.com/us/app/zella-recorder-video-editor/id6802100098?platform=mac)
 
 ### Outras Ferramentas
 
