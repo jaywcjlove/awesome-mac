@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:13:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pilion</title>
+      <link>https://pilion.echovic.com/</link>
+      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
+      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
+      <category>浏览器</category>
+      <description>Category: 浏览器
+App: Pilion
+Description: 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。
+Website: https://pilion.echovic.com/
+Open Source: https://github.com/echoVic/pilion-browser
+Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
+      <content:encoded><![CDATA[Category: 浏览器<br/>App: Pilion<br/>Description: 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。<br/>Website: https://pilion.echovic.com/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
+    </item>
     <item>
       <title>Localix Terminal</title>
       <link>https://terminal.localix.ai</link>
@@ -726,20 +741,6 @@ Open Source: https://github.com/Jacknelson6/Velinshot
 Commit: Add Velinshot to screenshot tools (#4700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Velinshot<br/>Description: 支持标注、自定义边框和本地 OCR 的免费原生截图编辑器（尚未经 Apple 公证的预览版）。<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
-    </item>
-    <item>
-      <title>ClaudeTTY</title>
-      <link>https://github.com/aqilc/ClaudeTTY</link>
-      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
-      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: ClaudeTTY
-Description: 用于同时运行大量 Claude Code 的原生 macOS 终端，应用退出后每个标签页仍会继续运行。
-Open Source: https://github.com/aqilc/ClaudeTTY
-Commit: Add ClaudeTTY to Terminal Apps (#4698)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: ClaudeTTY<br/>Description: 用于同时运行大量 Claude Code 的原生 macOS 终端，应用退出后每个标签页仍会继续运行。<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
     </item>
   </channel>
 </rss>

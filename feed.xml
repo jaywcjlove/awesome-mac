@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:13:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pilion</title>
+      <link>https://pilion.echovic.com/en/</link>
+      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
+      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Pilion
+Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.
+Website: https://pilion.echovic.com/en/
+Open Source: https://github.com/echoVic/pilion-browser
+Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Pilion<br/>Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.<br/>Website: https://pilion.echovic.com/en/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
+    </item>
     <item>
       <title>Localix Terminal</title>
       <link>https://terminal.localix.ai</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/mag243/treewise
 Commit: Add Treewise (#4670)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a083ff31a81da8d8a908dc864f1ff5fb28b7dd4b</description>
       <content:encoded><![CDATA[Category: Utilities / Finder Tools<br/>App: Treewise<br/>Description: File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side.<br/>Website: https://treewise.m-domain.me<br/>Open Source: https://github.com/mag243/treewise<br/>Commit: Add Treewise (#4670)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a083ff31a81da8d8a908dc864f1ff5fb28b7dd4b]]></content:encoded>
-    </item>
-    <item>
-      <title>WhisPaste</title>
-      <link>https://whispaste.de/en/</link>
-      <guid isPermaLink="false">7a4d9cdc93dc7125871f678237e16606a9d30b12:WhisPaste</guid>
-      <pubDate>Wed, 18 Nov 2026 02:21:39 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: WhisPaste
-Description: Push-to-talk dictation for macOS, Windows and Linux that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app.
-Website: https://whispaste.de/en/
-Open Source: https://github.com/whispaste/whispaste
-Commit: Add WhisPaste to Voice-to-Text (#4704)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: WhisPaste<br/>Description: Push-to-talk dictation for macOS, Windows and Linux that transcribes on-device with Whisper or Parakeet and pastes the text at the cursor in any app.<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
     </item>
   </channel>
 </rss>
