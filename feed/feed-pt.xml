@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:27:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sikemux</title>
+      <link>https://sikemux.com</link>
+      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
+      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
+      <category>Ferramentas para Desenvolvedores / IDEs</category>
+      <description>Category: Ferramentas para Desenvolvedores / IDEs
+App: Sikemux
+Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.
+Website: https://sikemux.com
+Open Source: https://github.com/nodelike/sikemux
+Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
+      <content:encoded><![CDATA[Category: Ferramentas para Desenvolvedores / IDEs<br/>App: Sikemux<br/>Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
+    </item>
     <item>
       <title>VoxtMini</title>
       <link>https://actnow.dev/voxtmini</link>
@@ -726,21 +741,6 @@ Open Source: https://github.com/lapce/lapce
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Lapce<br/>Description: Editor de código extremamente rápido e poderoso.<br/>Website: https://lapce.dev/<br/>Open Source: https://github.com/lapce/lapce<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>LightTable</title>
-      <link>https://lighttable.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LightTable</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: LightTable
-Description: A próxima geração de editores de código.
-Website: https://lighttable.com/
-Open Source: https://github.com/LightTable/LightTable
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: LightTable<br/>Description: A próxima geração de editores de código.<br/>Website: https://lighttable.com/<br/>Open Source: https://github.com/LightTable/LightTable<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
