@@ -1382,6 +1382,7 @@ Awesome Mac
 * [AerialSwap](https://github.com/mxpalm/AerialSwap) - 将任意视频变成锁屏和桌面使用的原生 Aerial 壁纸，并在“系统设置”中显示为独立分组。 [![Open-Source Software][OSS Icon]](https://github.com/mxpalm/AerialSwap) ![Freeware][Freeware Icon]
 * [AI Actions](https://sindresorhus.com/ai-actions) - 快捷指令应用的AI操作。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465250302)
 * [AirServer](http://www.airserver.com/Download) - 将手机投影到电脑上。
+* [AQUENA](https://aquena.net) - 实时 3D 水族箱，可在 Mac 闲置时自动显示，并可横跨两到三台显示器；一个鱼缸免费。
 * [Alfred](https://www.alfredapp.com/) - 效率神器。 [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [Archivator](https://github.com/davidpraznik/Archivator) - 菜单栏压缩和解压工具，拖动文件到转盘上即可操作。 [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Archivator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
