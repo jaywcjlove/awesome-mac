@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:53:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>TripleClick</title>
+      <link>https://github.com/wilu222/tripleclick</link>
+      <guid isPermaLink="false">e262ae15b83dda3d6e95d9ccadc54466d026a557:TripleClick</guid>
+      <pubDate>Sun, 22 Nov 2026 12:53:36 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: TripleClick
+Description: 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。
+Open Source: https://github.com/wilu222/tripleclick
+Commit: Add TripleClick to Productivity (#4883)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: TripleClick<br/>Description: 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
+    </item>
     <item>
       <title>Pinstill（钉图）</title>
       <link>https://pinstill.echovic.com/</link>
@@ -727,21 +741,6 @@ Open Source: https://github.com/whispaste/whispaste
 Commit: Add WhisPaste to Voice-to-Text (#4704)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: WhisPaste<br/>Description: 适用于 macOS、Windows 和 Linux 的按键说话听写工具，使用 Whisper 或 Parakeet 在本地转写，并把文字粘贴到任意应用的光标处。<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
-    </item>
-    <item>
-      <title>Point</title>
-      <link>https://point-site-opal.vercel.app</link>
-      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
-      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Point
-Description: 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。
-Website: https://point-site-opal.vercel.app
-Open Source: https://github.com/sksareen/point
-Commit: Add Point to Voice-to-Text (#4702)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Point<br/>Description: 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
     </item>
   </channel>
 </rss>
