@@ -350,6 +350,7 @@ Awesome Mac
 * [HTTPie](https://httpie.io/) - 经典的命令行 HTTP 客户端，现在提供 APP 版和网页版。HTTPie 简单、直观的 HTTP API 客户端。![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 一款轻量、快速且功能全面的 API 调试工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest/) - 最直观的跨平台 REST API 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
+* [CurlGo](https://curlgo.echovic.com/) - 开源 API 客户端，支持 HTTP、SSE 和 WebSocket，工作区保存在本机，可导入 curl、Postman 和 Bruno 集合。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/curlgo) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - 开源 API 客户端，也是 Postman 的替代品。
 * [Katalon Studio](https://www.katalon.com) - 简单开放性测试前端开放工具， 网页， 手机应用等客户端。 可以使用在不同的浏览器![Freeware][Freeware Icon]
 * [Maestro](https://maestro.dev/) - 面向移动和 Web 应用的端到端测试框架。 [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]

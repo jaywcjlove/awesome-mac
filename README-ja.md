@@ -546,6 +546,7 @@ Awesome Mac
 
 * [bruno](https://www.usebruno.com/) - オフライン専用で、高速かつGitフレンドリーなオープンソースAPIクライアント。![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - HTTP/RESTエンドポイントをテストするための、無料でオープンソースのネイティブApple OS Xアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [CurlGo](https://curlgo.echovic.com/en/) - HTTP、SSE、WebSocket に対応し、ワークスペースをローカルに保存して curl、Postman、Bruno のコレクションを読み込めるオープンソースの API クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/curlgo) ![Freeware][Freeware Icon]
 * [Echolon](https://echolon.app) - オープンソースのAPIクライアントで、Postmanの代替ツール。
 * [HTTPie](https://httpie.io/) - 現代のツールを構築する人々のためにAPIをシンプルで直感的にするツール。 ![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - 軽量で高速、フル機能のAPIデバッグツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
