@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:27:06 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Sikemux</title>
+      <link>https://sikemux.com</link>
+      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
+      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
+      <category>개발 도구 / IDE / 코드 편집기</category>
+      <description>Category: 개발 도구 / IDE / 코드 편집기
+App: Sikemux
+Description: 각 채팅 옆에 터미널, Git, 편집기, 브라우저 탭을 갖춘 코딩 에이전트(Claude Code, Codex, OpenCode, Pi)용 오픈소스 네이티브 작업 공간.
+Website: https://sikemux.com
+Open Source: https://github.com/nodelike/sikemux
+Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Sikemux<br/>Description: 각 채팅 옆에 터미널, Git, 편집기, 브라우저 탭을 갖춘 코딩 에이전트(Claude Code, Codex, OpenCode, Pi)용 오픈소스 네이티브 작업 공간.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
+    </item>
     <item>
       <title>Smorza</title>
       <link>https://smorza.app</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/crash2bash/bitspring
 Commit: Add BitSpring to Audio and Video Tools (#4678)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: BitSpring<br/>Description: 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
-    </item>
-    <item>
-      <title>Aris</title>
-      <link>https://arismac.app</link>
-      <guid isPermaLink="false">8f395d30de4862b40404f4161fd1db941b3a541a:Aris</guid>
-      <pubDate>Tue, 17 Nov 2026 09:17:23 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Aris
-Description: 말하거나 입력하면 이미 쓰는 AI로 앱에서 작업을 수행하고, 보내기·쓰기·삭제 전에는 먼저 확인하는 MacBook 노치 속 오픈 소스 AI 에이전트.
-Website: https://arismac.app
-Open Source: https://github.com/LumenJSN/Aris
-Commit: Add Aris to AI Tools (#4689)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Aris<br/>Description: 말하거나 입력하면 이미 쓰는 AI로 앱에서 작업을 수행하고, 보내기·쓰기·삭제 전에는 먼저 확인하는 MacBook 노치 속 오픈 소스 AI 에이전트.<br/>Website: https://arismac.app<br/>Open Source: https://github.com/LumenJSN/Aris<br/>Commit: Add Aris to AI Tools (#4689)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f395d30de4862b40404f4161fd1db941b3a541a]]></content:encoded>
     </item>
   </channel>
 </rss>
