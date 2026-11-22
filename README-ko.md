@@ -1048,6 +1048,7 @@ Awesome Mac
 * [Helium](https://helium.computer/) - 광고 차단 기능을 내장한 프라이버시 중심 Chromium 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium) ![Freeware][Freeware Icon]
 * [Lilo](https://getlilo.app/) - Arc 스타일 스페이스, Chrome 확장 프로그램, 사이드바 터미널 탭, AI 에이전트용 내장 MCP 서버를 갖춘 네이티브 WebKit 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/Alexays/Lilo) ![Freeware][Freeware Icon]
 * [Meridian](https://undermove.github.io/meridian-browser/) - Chromium 기반의 오픈 소스 Arc 스타일 브라우저로, 스페이스, 고정 탭, 커맨드 바, Arc 및 Chrome 원클릭 가져오기, AI 에이전트용 내장 MCP 서버를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/Undermove/meridian-browser) ![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/en/) - Claude Code, Codex 등 ACP 에이전트가 MCP를 통해 로그인된 탭을 조작할 수 있고 승인과 즉시 인수를 지원하는 오픈 소스 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [Roar](https://roarbrowser.app/) - 로컬 또는 자신의 AI 모델로 웹을 대신 열고 읽고 입력하는 에이전트 내장 오픈소스 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Mac용 네이티브 브라우저. ![Freeware][Freeware Icon]
 * [Stedding](https://stedding.dev/) - Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon]

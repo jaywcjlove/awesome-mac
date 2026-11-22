@@ -1301,6 +1301,7 @@ Awesome Mac
 * [Opera](https://www.opera.com) - 広告ブロック機能でより速く、集中できるブラウジングを体験し、プライベートに閲覧。 ![Freeware][Freeware Icon]
 * [Ora](https://github.com/the-ora/browser) - スペース、タブ管理、垂直サイドバーを備えたオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - ChromeおよびFirefox拡張機能をサポートする軽量WebKitベースのブラウザ。 ![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/en/) - Claude Code や Codex などの ACP エージェントが MCP 経由でログイン済みのタブを操作できる、承認と即時引き継ぎ付きのオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - PythonとQtベースのキーボード駆動のvimライクなブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Roar](https://roarbrowser.app/) - ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Mac用のネイティブブラウザ。 ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)

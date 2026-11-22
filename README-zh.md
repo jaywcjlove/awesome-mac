@@ -1250,6 +1250,7 @@ Awesome Mac
 * [Meridian](https://undermove.github.io/meridian-browser/) - 基于 Chromium 的开源 Arc 风格浏览器，提供空间、固定标签页、命令栏、一键从 Arc 和 Chrome 导入，以及供 AI 代理使用的内置 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/Undermove/meridian-browser) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) - Edge 浏览器微软出品，相比于 Chrome 青出于蓝胜于蓝 ![Freeware][Freeware Icon]
 * [Opera](http://www.opera.com/zh-cn) - Opera 浏览器。![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/) - 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [QQ浏览器](http://browser.qq.com/mac/) - QQ 浏览器－腾讯出品。![Freeware][Freeware Icon]
 * [Roar](https://roarbrowser.app/) - 用本地或自带 AI 模型替你打开网页、阅读与填表的开源智能体浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](http://www.apple.com/cn/safari/) - Mac 预装自带浏览器。![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
