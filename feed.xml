@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:28:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenGestures</title>
+      <link>https://github.com/01wil/OpenGestures</link>
+      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
+      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: OpenGestures
+Description: Open-source trackpad gestures mapped to window, app, shortcut, and script actions.
+Open Source: https://github.com/01wil/OpenGestures
+Commit: Add OpenGestures to Productivity (#4872)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: OpenGestures<br/>Description: Open-source trackpad gestures mapped to window, app, shortcut, and script actions.<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
+    </item>
     <item>
       <title>InputBattery</title>
       <link>https://github.com/dirkkredinger/InputBattery</link>
@@ -727,20 +741,6 @@ Open Source: https://github.com/Jacknelson6/Velinshot
 Commit: Add Velinshot to screenshot tools (#4700)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868</description>
       <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Velinshot<br/>Description: Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview).<br/>Open Source: https://github.com/Jacknelson6/Velinshot<br/>Commit: Add Velinshot to screenshot tools (#4700)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/31dfe7eb39ea2b370c95db9f4b38aeb443ee1868]]></content:encoded>
-    </item>
-    <item>
-      <title>ClaudeTTY</title>
-      <link>https://github.com/aqilc/ClaudeTTY</link>
-      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
-      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: ClaudeTTY
-Description: Native macOS terminal for running lots of Claude Code at once, where every tab keeps running after the app quits.
-Open Source: https://github.com/aqilc/ClaudeTTY
-Commit: Add ClaudeTTY to Terminal Apps (#4698)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: ClaudeTTY<br/>Description: Native macOS terminal for running lots of Claude Code at once, where every tab keeps running after the app quits.<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
     </item>
   </channel>
 </rss>
