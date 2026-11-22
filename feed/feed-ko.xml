@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:46:30 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Olympus Coder</title>
+      <link>https://github.com/martianacademy/olympus-coder</link>
+      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
+      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Olympus Coder
+Description: Claude Code, Codex, Antigravity 등 18개 이상의 ACP 코딩 에이전트를 하나로 통합하는 오픈 소스 데스크톱 워크벤치 겸 헤드리스 서버. 공유 프로젝트 메모리, 병렬 서브세션 오케스트레이션, Git worktree, 헝크 단위 diff 리뷰, 내장 터미널 및 E2E 암호화 모바일 원격 접속을 지원합니다.
+Open Source: https://github.com/martianacademy/olympus-coder
+Commit: Add Olympus Coder to AI Tools (#4866)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Olympus Coder<br/>Description: Claude Code, Codex, Antigravity 등 18개 이상의 ACP 코딩 에이전트를 하나로 통합하는 오픈 소스 데스크톱 워크벤치 겸 헤드리스 서버. 공유 프로젝트 메모리, 병렬 서브세션 오케스트레이션, Git worktree, 헝크 단위 diff 리뷰, 내장 터미널 및 E2E 암호화 모바일 원격 접속을 지원합니다.<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
+    </item>
     <item>
       <title>Sikemux</title>
       <link>https://sikemux.com</link>
@@ -727,21 +741,6 @@ Open Source: https://github.com/tianma-if/edgeever
 Commit: Add EdgeEver to Note-taking (#4680)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: EdgeEver<br/>Description: 자체 호스팅, 멀티 디바이스 동기화, MCP 연동을 지원하는 오픈 소스 노트 및 지식 관리 워크스페이스.<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
-    </item>
-    <item>
-      <title>BitSpring</title>
-      <link>https://bitspring.app/</link>
-      <guid isPermaLink="false">395fab35347c28a9aefa65da069fe2e0a65ccd49:BitSpring</guid>
-      <pubDate>Tue, 17 Nov 2026 11:03:18 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: BitSpring
-Description: 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어.
-Website: https://bitspring.app/
-Open Source: https://github.com/crash2bash/bitspring
-Commit: Add BitSpring to Audio and Video Tools (#4678)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: BitSpring<br/>Description: 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
     </item>
   </channel>
 </rss>
