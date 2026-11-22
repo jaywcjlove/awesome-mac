@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinstill</title>
+      <link>https://pinstill.echovic.com/en/</link>
+      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
+      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
+      <category>디자인 및 제품 / 스크린샷 도구</category>
+      <description>Category: 디자인 및 제품 / 스크린샷 도구
+App: Pinstill
+Description: 선택 영역에 바로 주석을 달고 복사, 저장, 데스크톱 고정까지 할 수 있는 오픈 소스 스크린샷 도구.
+Website: https://pinstill.echovic.com/en/
+Open Source: https://github.com/echoVic/Pinstill
+Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Pinstill<br/>Description: 선택 영역에 바로 주석을 달고 복사, 저장, 데스크톱 고정까지 할 수 있는 오픈 소스 스크린샷 도구.<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
+    </item>
     <item>
       <title>Cleanzo</title>
       <link>https://cleanzo.echovic.com/en/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/whispaste/whispaste
 Commit: Add WhisPaste to Voice-to-Text (#4704)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12</description>
       <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: WhisPaste<br/>Description: macOS, Windows, Linux용 푸시투톡 받아쓰기 도구로, Whisper 또는 Parakeet로 기기에서 전사하고 어떤 앱이든 커서 위치에 텍스트를 붙여 넣습니다.<br/>Website: https://whispaste.de/en/<br/>Open Source: https://github.com/whispaste/whispaste<br/>Commit: Add WhisPaste to Voice-to-Text (#4704)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7a4d9cdc93dc7125871f678237e16606a9d30b12]]></content:encoded>
-    </item>
-    <item>
-      <title>Point</title>
-      <link>https://point-site-opal.vercel.app</link>
-      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
-      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
-      <category>음성 텍스트 변환 (Voice-to-Text)</category>
-      <description>Category: 음성 텍스트 변환 (Voice-to-Text)
-App: Point
-Description: 말하면서 화면 일부에 동그라미를 그리면 받아쓴 텍스트와 표시된 스크린샷을 Claude Code, Cursor 또는 모든 채팅 앱으로 보내 주는 오픈 소스 푸시 투 토크 음성 받아쓰기 앱. 음성 인식은 온디바이스.
-Website: https://point-site-opal.vercel.app
-Open Source: https://github.com/sksareen/point
-Commit: Add Point to Voice-to-Text (#4702)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
-      <content:encoded><![CDATA[Category: 음성 텍스트 변환 (Voice-to-Text)<br/>App: Point<br/>Description: 말하면서 화면 일부에 동그라미를 그리면 받아쓴 텍스트와 표시된 스크린샷을 Claude Code, Cursor 또는 모든 채팅 앱으로 보내 주는 오픈 소스 푸시 투 토크 음성 받아쓰기 앱. 음성 인식은 온디바이스.<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
     </item>
   </channel>
 </rss>
