@@ -744,6 +744,7 @@ Awesome Mac
 * [Murmury](https://github.com/GianlucaBave/murmury) - 在视频通话中根据你自己的文档回答问题的浮动窗口，不会被屏幕共享捕获，语音识别在本机完成。 [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
 * [Octuo](https://www.tutuo.ai/en/octuo/) - 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
+* [Olympus Coder](https://github.com/martianacademy/olympus-coder) - 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。 [![Open-Source Software][OSS Icon]](https://github.com/martianacademy/olympus-coder) ![Freeware][Freeware Icon]
 * [OmegaStar](https://github.com/itsfutsy/OmegaStar) - 把你已经在用的 Claude Code，连同它的浏览器、模型和登录，变成一支 AI 员工团队，每个员工有明确的目标，用对话教它，每一课都存成 skill。 [![Open-Source Software][OSS Icon]](https://github.com/itsfutsy/OmegaStar) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
 * [Papilot](https://papilot.ai) - 开源桌面应用，支持直接在排好版的 PDF 上画框批注，由 Claude Code、Codex、Cursor 等编程智能体在独立 Git 工作树中改稿，并以渲染后的排版级前后对比审阅合并。 [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
