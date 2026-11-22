@@ -912,6 +912,7 @@ Awesome Mac
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [Vaquero](https://github.com/BitWise-0x/Vaquero) - 数枚の写真から顔を学習し、フォルダ内でその人物が写るすべての写真と動画を完全オフラインで見つけ出すアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/BitWise-0x/Vaquero) ![Freeware][Freeware Icon]
 * [Zipic](https://zipic.app/) - プリセットと自動化に対応した一括画像圧縮ツール。
 
 ## AIツール

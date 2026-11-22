@@ -894,6 +894,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Suporte para ferramenta comum de hospedagem de imagens em CDN.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Exporte ícones para várias plataformas [![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - App nativo para macOS, cliente de hospedagem de imagens poderoso e conciso. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [Vaquero](https://github.com/BitWise-0x/Vaquero) - Aprende um rosto a partir de algumas fotos e encontra todas as fotos e vídeos dessa pessoa nas suas pastas, totalmente offline. [![Open-Source Software][OSS Icon]](https://github.com/BitWise-0x/Vaquero) ![Freeware][Freeware Icon]
 * [Zipic](https://zipic.app/) - Ferramenta de compressão de imagens em lote com predefinições e automação.
 
 ## Ferramentas de IA
