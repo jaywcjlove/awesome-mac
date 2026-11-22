@@ -1804,6 +1804,7 @@ Awesome Mac
 * [Trace](https://trace.techulus.xyz) - Spotlightの代替となるオープンソースのショートカットツールキット。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
 * [Trace](https://github.com/lxyeternal/Trace) - アプリ、ウィンドウ、ファイル、Web ページを自動で記録する時間トラッカー。データはすべて Mac 内に保存。 [![Open-Source Software][OSS Icon]](https://github.com/lxyeternal/Trace) ![Freeware][Freeware Icon]
 * [Trello](https://trello.com) - プロジェクトをカンバンボードで整理するコラボレーションツール。 ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
+* [TripleClick](https://github.com/wilu222/tripleclick) - トラックパッドの3本指クリックを中クリックに変換し、中ボタンドラッグにも対応するオープンソースのメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/wilu222/tripleclick) ![Freeware][Freeware Icon]
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicodeキーボードレイアウトエディター。
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Velja](https://sindresorhus.com/velja) - 特定のブラウザやデスクトップアプリでリンクを開けるブラウザピッカー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)

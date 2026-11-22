@@ -1474,6 +1474,7 @@ Awesome Mac
 * [SATF](https://github.com/tran-minh-khoi/SATF) - 拖动文件时轻轻一晃，即可在光标下弹出的环形菜单中转换格式、合并为 PDF、压缩或解压。 [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - 拖动文件时按一下按键，把它们放到转盘上即可转换、裁剪、压缩、去除元数据或分享，完全离线。 [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353?platform=mac)
+* [TripleClick](https://github.com/wilu222/tripleclick) - 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。 [![Open-Source Software][OSS Icon]](https://github.com/wilu222/tripleclick) ![Freeware][Freeware Icon]
 * [uebersicht](https://github.com/felixhageloh/uebersicht) - 充分利用桌面空间的插件工具 [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 * [Upscayl](https://github.com/upscayl/upscayl) - 免费开源的图像AI超分工具。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [TradingView](https://www.tradingview.com/desktop/) - TradingView 是一个社交媒体网络、分析平台的应用程序，适用于交易员和投资者，支持原生多显示器。
