@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:28:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OpenGestures</title>
+      <link>https://github.com/01wil/OpenGestures</link>
+      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
+      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: OpenGestures
+Description: 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。
+Open Source: https://github.com/01wil/OpenGestures
+Commit: Add OpenGestures to Productivity (#4872)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenGestures<br/>Description: 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
+    </item>
     <item>
       <title>InputBattery</title>
       <link>https://github.com/dirkkredinger/InputBattery</link>
@@ -725,21 +739,6 @@ Open Source: https://github.com/ATTILA-KRB/escale
 Commit: Add Escale to Terminal Apps (#4690)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Escale<br/>Description: 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
-    </item>
-    <item>
-      <title>EdgeEver</title>
-      <link>https://edgeever.org/</link>
-      <guid isPermaLink="false">a2c10f97f3be7a92694798e78c7aac5ef5b9f24c:EdgeEver</guid>
-      <pubDate>Tue, 17 Nov 2026 11:42:05 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: EdgeEver
-Description: 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。
-Website: https://edgeever.org/
-Open Source: https://github.com/tianma-if/edgeever
-Commit: Add EdgeEver to Note-taking (#4680)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: EdgeEver<br/>Description: 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。<br/>Website: https://edgeever.org/<br/>Open Source: https://github.com/tianma-if/edgeever<br/>Commit: Add EdgeEver to Note-taking (#4680)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2c10f97f3be7a92694798e78c7aac5ef5b9f24c]]></content:encoded>
     </item>
   </channel>
 </rss>
