@@ -957,6 +957,7 @@ Awesome Mac
 * [Grux](https://gruxai.com) - アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [o8](https://o8.run) - コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
+* [Rota](https://wiltodelta.com/projects/rota/) - Claude Code、Codex、Grok Build、Antigravity、またはシェルでの定期タスクをスケジュールし、結果をひとつの受信箱で確認して会話を続けられるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/rota) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seshka](https://seshka.dev) - 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
