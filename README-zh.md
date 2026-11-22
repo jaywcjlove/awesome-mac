@@ -573,6 +573,7 @@ Awesome Mac
 * [Lumela](https://github.com/tw4/lumela) - 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。 [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 支持录屏、滚动截图和 OCR 的截图标注工具。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Photon](https://www.piedol.top/photon/) - 开源的截图、标注和屏幕录制工具，支持 macOS 和 Windows，不含任何联网代码。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Pinstill（钉图）](https://pinstill.echovic.com/) - 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/Pinstill) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - 支持模糊、马赛克和水印的截图标注与画布工具。[![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Capty](https://capty.app/) - 内置编辑和标注功能的录屏与截图工具。
 * [Capso](https://github.com/lzhgus/Capso) - 支持标注、OCR 和摄像头画中画的开源截图与录屏工具。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
