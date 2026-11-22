@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:16:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipHat</title>
+      <link>https://github.com/getguruhat/cliphat-macos</link>
+      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
+      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: ClipHat
+Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。
+Open Source: https://github.com/getguruhat/cliphat-macos
+Commit: Add ClipHat (#4520)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipHat<br/>Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
+    </item>
     <item>
       <title>OpenGestures</title>
       <link>https://github.com/01wil/OpenGestures</link>
@@ -725,20 +739,6 @@ Open Source: https://github.com/wes/spool
 Commit: Add Spool to Email Clients (#4695)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
       <content:encoded><![CDATA[Category: コミュニケーション / メールクライアント<br/>App: Spool<br/>Description: キーボード操作中心のメールクライアント。Zed と同じ GPU UI フレームワーク gpui を使い Rust で書かれています。<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
-    </item>
-    <item>
-      <title>Escale</title>
-      <link>https://github.com/ATTILA-KRB/escale</link>
-      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
-      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
-      <category>ターミナルアプリ</category>
-      <description>Category: ターミナルアプリ
-App: Escale
-Description: タブ、ターミナルの隣のSFTPブラウザ、トンネル、複数ホスト同時実行、内蔵X11サーバーを備えたネイティブSSHクライアント。
-Open Source: https://github.com/ATTILA-KRB/escale
-Commit: Add Escale to Terminal Apps (#4690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
-      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Escale<br/>Description: タブ、ターミナルの隣のSFTPブラウザ、トンネル、複数ホスト同時実行、内蔵X11サーバーを備えたネイティブSSHクライアント。<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
     </item>
   </channel>
 </rss>

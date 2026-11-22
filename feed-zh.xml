@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:16:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipHat</title>
+      <link>https://github.com/getguruhat/cliphat-macos</link>
+      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
+      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: ClipHat
+Description: 免费的剪贴板历史管理工具，支持搜索、固定，并用 ⌘⇧V 恢复文本、链接、图片和文件，数据仅存储在本地。
+Open Source: https://github.com/getguruhat/cliphat-macos
+Commit: Add ClipHat (#4520)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipHat<br/>Description: 免费的剪贴板历史管理工具，支持搜索、固定，并用 ⌘⇧V 恢复文本、链接、图片和文件，数据仅存储在本地。<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
+    </item>
     <item>
       <title>OpenGestures</title>
       <link>https://github.com/01wil/OpenGestures</link>
@@ -725,20 +739,6 @@ Open Source: https://github.com/wes/spool
 Commit: Add Spool to Email Clients (#4695)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
       <content:encoded><![CDATA[Category: 通信 / Email<br/>App: Spool<br/>Description: 键盘驱动的邮件客户端，使用 Rust 基于 Zed 的 GPU 界面框架 gpui 编写。<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
-    </item>
-    <item>
-      <title>Escale</title>
-      <link>https://github.com/ATTILA-KRB/escale</link>
-      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
-      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: Escale
-Description: 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。
-Open Source: https://github.com/ATTILA-KRB/escale
-Commit: Add Escale to Terminal Apps (#4690)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Escale<br/>Description: 原生 SSH 客户端，支持标签页、终端旁的 SFTP 浏览器、隧道、多主机执行和内置 X11 服务器。<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
     </item>
   </channel>
 </rss>
