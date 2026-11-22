@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Awesome Mac - Aplicativos adicionados recentemente</title>
+    <link>https://jaywcjlove.github.io/awesome-mac</link>
+    <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 22 Nov 2026 08:22:57 GMT</lastBuildDate>
+    <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
+    <generator>build/feed.mjs</generator>
+    <item>
+      <title>InputBattery</title>
+      <link>https://github.com/dirkkredinger/InputBattery</link>
+      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
+      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: InputBattery
+Description: Mostra o nível de bateria de teclados, mouses e headsets Bluetooth e dos AirPods na barra de menus e em um widget, com aviso antes que a bateria acabe.
+Open Source: https://github.com/dirkkredinger/InputBattery
+Commit: Add InputBattery to Menu Bar Tools (#4873)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: InputBattery<br/>Description: Mostra o nível de bateria de teclados, mouses e headsets Bluetooth e dos AirPods na barra de menus e em um widget, com aviso antes que a bateria acabe.<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
+    </item>
+    <item>
+      <title>Sikemux</title>
+      <link>https://sikemux.com</link>
+      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
+      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
+      <category>Ferramentas para Desenvolvedores / IDEs</category>
+      <description>Category: Ferramentas para Desenvolvedores / IDEs
+App: Sikemux
+Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.
+Website: https://sikemux.com
+Open Source: https://github.com/nodelike/sikemux
+Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
+      <content:encoded><![CDATA[Category: Ferramentas para Desenvolvedores / IDEs<br/>App: Sikemux<br/>Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
+    </item>
+    <item>
+      <title>VoxtMini</title>
+      <link>https://actnow.dev/voxtmini</link>
+      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
+      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: VoxtMini
+Description: Entrada de voz com modelos locais: transcreva, traduza e reescreva em qualquer app, em inglês, chinês e japonês.
+Website: https://actnow.dev/voxtmini
+Open Source: https://github.com/hehehai/VoxtMini
+Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: VoxtMini<br/>Description: Entrada de voz com modelos locais: transcreva, traduza e reescreva em qualquer app, em inglês, chinês e japonês.<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
+    </item>
+    <item>
+      <title>Ragdoll Mail</title>
+      <link>https://erict16.github.io/ragdoll-mail/</link>
+      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
+      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
+      <category>Comunicação / Clientes de E-mail</category>
+      <description>Category: Comunicação / Clientes de E-mail
+App: Ragdoll Mail
+Description: Cliente de e-mail IMAP de código aberto com busca local de texto completo instantânea e uma linha de comando para scripts e agentes de IA.
+Website: https://erict16.github.io/ragdoll-mail/
+Open Source: https://github.com/erict16/ragdoll-mail
+Commit: Add Ragdoll Mail to Email Clients (#4844)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
+      <content:encoded><![CDATA[Category: Comunicação / Clientes de E-mail<br/>App: Ragdoll Mail<br/>Description: Cliente de e-mail IMAP de código aberto com busca local de texto completo instantânea e uma linha de comando para scripts e agentes de IA.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
+    </item>
+    <item>
+      <title>Kantor</title>
+      <link>https://kantor.paparanai.id</link>
+      <guid isPermaLink="false">a81ddfe74b45ff966887984ef1c8c36107bb0c57:Kantor</guid>
+      <pubDate>Sat, 21 Nov 2026 12:41:59 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Kantor
+Description: Suíte de escritório nativa (Sheets, Docs, Slides) que abre e salva arquivos do Excel, Word e PowerPoint.
+Website: https://kantor.paparanai.id
+Open Source: https://github.com/dzulfikar08/kantor
+Commit: Add Kantor to Office (#4843)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Kantor<br/>Description: Suíte de escritório nativa (Sheets, Docs, Slides) que abre e salva arquivos do Excel, Word e PowerPoint.<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
+    </item>
+    <item>
+      <title>FanShift</title>
+      <link>https://github.com/KrisWonka/FanShift</link>
+      <guid isPermaLink="false">e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187:FanShift</guid>
+      <pubDate>Sat, 21 Nov 2026 09:14:40 GMT</pubDate>
+      <category>Utilitários / Ferramentas Relacionadas ao Sistema</category>
+      <description>Category: Utilitários / Ferramentas Relacionadas ao Sistema
+App: FanShift
+Description: Controle de ventoinhas na barra de menus para Macs com Apple Silicon que alterna entre as suas próprias curvas de temperatura com um único atalho global.
+Open Source: https://github.com/KrisWonka/FanShift
+Commit: Add FanShift to System Related Tools (#4807)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: FanShift<br/>Description: Controle de ventoinhas na barra de menus para Macs com Apple Silicon que alterna entre as suas próprias curvas de temperatura com um único atalho global.<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
+    </item>
+    <item>
+      <title>Typeset</title>
+      <link>https://typeset.md</link>
+      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
+      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Typeset
+Description: Leitor nativo de Markdown para macOS com recarregamento ao vivo quando o arquivo muda e Quick Look no Finder.
+Website: https://typeset.md
+Open Source: https://github.com/deeflect/typeset
+Commit: Add Typeset (#4837)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: Leitor nativo de Markdown para macOS com recarregamento ao vivo quando o arquivo muda e Quick Look no Finder.<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
+    </item>
+    <item>
+      <title>Stelix</title>
+      <link>https://getstelix.com</link>
+      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio</category>
+      <description>Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio
+App: Stelix
+Description: Separação de stems ao vivo para o Mac: divide o áudio de qualquer app em voz, bateria, baixo e outros em tempo real, para aumentar, baixar ou ouvir sozinha cada parte, tudo no próprio dispositivo.
+Website: https://getstelix.com
+Open Source: https://github.com/stelix-app/stelix
+Commit: Add Stelix (#4836)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio<br/>App: Stelix<br/>Description: Separação de stems ao vivo para o Mac: divide o áudio de qualquer app em voz, bateria, baixo e outros em tempo real, para aumentar, baixar ou ouvir sozinha cada parte, tudo no próprio dispositivo.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
+    </item>
+    <item>
+      <title>Tietie</title>
+      <link>https://github.com/KLWSharpe/tietie</link>
+      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
+      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Tietie
+Description: Histórico da área de transferência de código aberto para Mac e Windows, com colagem por teclas numéricas e busca de texto dentro de imagens, com interface em chinês tradicional.
+Open Source: https://github.com/KLWSharpe/tietie
+Commit: Add Tietie to Clipboard Tools (#4795)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Tietie<br/>Description: Histórico da área de transferência de código aberto para Mac e Windows, com colagem por teclas numéricas e busca de texto dentro de imagens, com interface em chinês tradicional.<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
+    </item>
+    <item>
+      <title>Xylem</title>
+      <link>https://xylem.t1nkl.dev</link>
+      <guid isPermaLink="false">6ba0b4444fa5f26eefed1438cdd268eb9645a0d5:Xylem</guid>
+      <pubDate>Thu, 19 Nov 2026 05:47:10 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Xylem
+Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.
+Website: https://xylem.t1nkl.dev
+Open Source: https://github.com/t1nkl/xylem
+Commit: Add Xylem to Terminal Apps (#4762)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Xylem<br/>Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
+    </item>
+    <item>
+      <title>Better Wacom</title>
+      <link>https://github.com/myyccccc/Better-Wacom</link>
+      <guid isPermaLink="false">c18f708ca7a8764cfcce56eac9bbad7eebbc8f11:Better Wacom</guid>
+      <pubDate>Thu, 19 Nov 2026 05:40:25 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Better Wacom
+Description: ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial.
+Open Source: https://github.com/myyccccc/Better-Wacom
+Commit: Add Better Wacom to Productivity (#4761)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Better Wacom<br/>Description: ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial.<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
+    </item>
+    <item>
+      <title>Pixtamer</title>
+      <link>https://pixtamer.pages.dev</link>
+      <guid isPermaLink="false">57c29ef3385c1fef2379d3170d5baeec36ed6fef:Pixtamer</guid>
+      <pubDate>Thu, 19 Nov 2026 05:20:02 GMT</pubDate>
+      <category>Design e Produto / Outras Ferramentas</category>
+      <description>Category: Design e Produto / Outras Ferramentas
+App: Pixtamer
+Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.
+Website: https://pixtamer.pages.dev
+Open Source: https://github.com/heysidhant/pixtamer
+App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
+Commit: Add Pixtamer to image tools (#3969)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
+      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Pixtamer<br/>Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
+    </item>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>Utilitários / Limpeza e desinstalação</category>
+      <description>Category: Utilitários / Limpeza e desinstalação
+App: App Vanish
+Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: Utilitários / Limpeza e desinstalação<br/>App: App Vanish<br/>Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
+    <item>
+      <title>Hourmint</title>
+      <link>https://hourmint.abdur.tech</link>
+      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
+      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Hourmint
+Description: Rastreador de tempo na barra de menus para freelancers, com registro de trabalho, planilhas de horas e faturas em PDF.
+Website: https://hourmint.abdur.tech
+Open Source: https://github.com/abdurrahmanriyad/hourmint
+Commit: Add Hourmint to Productivity (#4747)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Hourmint<br/>Description: Rastreador de tempo na barra de menus para freelancers, com registro de trabalho, planilhas de horas e faturas em PDF.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
+    </item>
+    <item>
+      <title>DisplayLatch</title>
+      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
+      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
+      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: DisplayLatch
+Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.
+Website: https://hitesh-sisara.github.io/DisplayLatch/
+Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
+Commit: Add DisplayLatch to Menu Bar Tools (#4738)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: DisplayLatch<br/>Description: Mantém monitores externos conectados após o repouso e o reinício, com controles de brilho via DDC, resolução e desconexão sem desplugar o cabo.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
+    </item>
+    <item>
+      <title>YANA</title>
+      <link>https://github.com/veaceslavmafteiaevoluta/yana</link>
+      <guid isPermaLink="false">aaa969f621bc1c4c7603950c3293a5a1e4680a7f:YANA</guid>
+      <pubDate>Wed, 18 Nov 2026 04:53:48 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: YANA
+Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.
+Open Source: https://github.com/veaceslavmafteiaevoluta/yana
+Commit: Add YANA to Menu Bar Tools (#4673)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: YANA<br/>Description: Transforma o notch do MacBook em uma Dynamic Island com mídia, HUD de volume e brilho, notificações, Mensagens, chamadas do iPhone, calendário, clima, timers e uma prateleira de arquivos.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
+    </item>
+    <item>
+      <title>NotchDeck</title>
+      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
+      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
+      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: NotchDeck
+Description: Central de controle em torno do notch do MacBook com métricas do sistema, controles de mídia, notas rápidas, gravação de tela e perfis de tarefas.
+Open Source: https://github.com/systemAdmin-ai/NotchDeck
+Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: NotchDeck<br/>Description: Central de controle em torno do notch do MacBook com métricas do sistema, controles de mídia, notas rápidas, gravação de tela e perfis de tarefas.<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
+    </item>
+    <item>
+      <title>Point</title>
+      <link>https://point-site-opal.vercel.app</link>
+      <guid isPermaLink="false">362e82a374cebaebe3a30a16d7cbd615a0a7bbd1:Point</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:31 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: Point
+Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.
+Website: https://point-site-opal.vercel.app
+Open Source: https://github.com/sksareen/point
+Commit: Add Point to Voice-to-Text (#4702)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Point<br/>Description: App de ditado de código aberto com pressionar para falar que também permite circular parte da tela enquanto você fala, enviando suas palavras e uma captura de tela marcada para o Claude Code, Cursor ou qualquer chat, com transcrição no dispositivo.<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
+    </item>
+    <item>
+      <title>Tomoru</title>
+      <link>https://tomoru.acane.dev</link>
+      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
+      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
+      <category>Ferramentas de Tradução</category>
+      <description>Category: Ferramentas de Tradução
+App: Tomoru
+Description: Legendas bilíngues ao vivo para lives, animes, jogos e reuniões, além de tradução instantânea de texto na tela — funciona offline no Mac ou na nuvem, com glossários que mantêm os nomes certos.
+Website: https://tomoru.acane.dev
+Open Source: https://github.com/ACAne0320/Tomoru
+Commit: Add Tomoru to Translation Tools (#4701)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Tradução<br/>App: Tomoru<br/>Description: Legendas bilíngues ao vivo para lives, animes, jogos e reuniões, além de tradução instantânea de texto na tela — funciona offline no Mac ou na nuvem, com glossários que mantêm os nomes certos.<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
+    </item>
+    <item>
+      <title>ClaudeTTY</title>
+      <link>https://github.com/aqilc/ClaudeTTY</link>
+      <guid isPermaLink="false">53d9229435b22fe0fc7d897eb0bd14cc5052bfc3:ClaudeTTY</guid>
+      <pubDate>Wed, 18 Nov 2026 01:33:28 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: ClaudeTTY
+Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.
+Open Source: https://github.com/aqilc/ClaudeTTY
+Commit: Add ClaudeTTY to Terminal Apps (#4698)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: ClaudeTTY<br/>Description: Terminal nativo do macOS para executar muito Claude Code ao mesmo tempo, em que cada aba continua rodando depois que o app é fechado.<br/>Open Source: https://github.com/aqilc/ClaudeTTY<br/>Commit: Add ClaudeTTY to Terminal Apps (#4698)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/53d9229435b22fe0fc7d897eb0bd14cc5052bfc3]]></content:encoded>
+    </item>
+    <item>
+      <title>Spool</title>
+      <link>https://joedesigns.com/spool</link>
+      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
+      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
+      <category>Comunicação / Clientes de E-mail</category>
+      <description>Category: Comunicação / Clientes de E-mail
+App: Spool
+Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.
+Website: https://joedesigns.com/spool
+Open Source: https://github.com/wes/spool
+Commit: Add Spool to Email Clients (#4695)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
+      <content:encoded><![CDATA[Category: Comunicação / Clientes de E-mail<br/>App: Spool<br/>Description: Cliente de e-mail guiado pelo teclado, escrito em Rust sobre o gpui, o framework de interface do Zed.<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
+    </item>
+    <item>
+      <title>Escale</title>
+      <link>https://github.com/ATTILA-KRB/escale</link>
+      <guid isPermaLink="false">4ffb16803411d5490f78cc94001c7eb90c1f8382:Escale</guid>
+      <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Escale
+Description: Cliente SSH nativo com abas, navegador SFTP ao lado do terminal, túneis, execução em vários hosts e servidor X11 integrado.
+Open Source: https://github.com/ATTILA-KRB/escale
+Commit: Add Escale to Terminal Apps (#4690)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Escale<br/>Description: Cliente SSH nativo com abas, navegador SFTP ao lado do terminal, túneis, execução em vários hosts e servidor X11 integrado.<br/>Open Source: https://github.com/ATTILA-KRB/escale<br/>Commit: Add Escale to Terminal Apps (#4690)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4ffb16803411d5490f78cc94001c7eb90c1f8382]]></content:encoded>
+    </item>
+    <item>
+      <title>BitSpring</title>
+      <link>https://bitspring.app/</link>
+      <guid isPermaLink="false">395fab35347c28a9aefa65da069fe2e0a65ccd49:BitSpring</guid>
+      <pubDate>Tue, 17 Nov 2026 11:03:18 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo</category>
+      <description>Category: Ferramentas de Áudio e Vídeo
+App: BitSpring
+Description: Player de música bit-perfect de código aberto com DSD nativo, taxa de amostragem por faixa até 768 kHz e EQ de fones AutoEQ.
+Website: https://bitspring.app/
+Open Source: https://github.com/crash2bash/bitspring
+Commit: Add BitSpring to Audio and Video Tools (#4678)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: BitSpring<br/>Description: Player de música bit-perfect de código aberto com DSD nativo, taxa de amostragem por faixa até 768 kHz e EQ de fones AutoEQ.<br/>Website: https://bitspring.app/<br/>Open Source: https://github.com/crash2bash/bitspring<br/>Commit: Add BitSpring to Audio and Video Tools (#4678)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/395fab35347c28a9aefa65da069fe2e0a65ccd49]]></content:encoded>
+    </item>
+    <item>
+      <title>Bar27</title>
+      <link>https://github.com/ATTILA-KRB/bar27</link>
+      <guid isPermaLink="false">a7c5aaf0a4fa9614fb829b06b666cdf48abe768d:Bar27</guid>
+      <pubDate>Tue, 17 Nov 2026 09:09:11 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: Bar27
+Description: Gerenciador da barra de menus para macOS 27 que oculta ícones por app e os exibe com um clique, passagem do mouse ou atalho.
+Open Source: https://github.com/ATTILA-KRB/bar27
+Commit: Add Bar27 to Menu Bar Tools (#4688)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Bar27<br/>Description: Gerenciador da barra de menus para macOS 27 que oculta ícones por app e os exibe com um clique, passagem do mouse ou atalho.<br/>Open Source: https://github.com/ATTILA-KRB/bar27<br/>Commit: Add Bar27 to Menu Bar Tools (#4688)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a7c5aaf0a4fa9614fb829b06b666cdf48abe768d]]></content:encoded>
+    </item>
+    <item>
+      <title>Copia</title>
+      <link>https://geragaraza.com/apps/copia/</link>
+      <guid isPermaLink="false">e3b323ddc950da809a171be935285ea78d5415bc:Copia</guid>
+      <pubDate>Mon, 16 Nov 2026 11:56:44 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Copia
+Description: Histórico da área de transferência de código aberto que guarda tudo o que é copiado (texto, texto formatado, links, cores, imagens, vídeo, áudio, arquivos) e cola vários itens escolhidos de uma vez, na ordem em que foram escolhidos; uma fila de colagem cola as cópias uma a uma com ⌘V.
+Website: https://geragaraza.com/apps/copia/
+Open Source: https://github.com/geragarazagh/copia
+Commit: Add Copia to Clipboard Tools (#4645)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Copia<br/>Description: Histórico da área de transferência de código aberto que guarda tudo o que é copiado (texto, texto formatado, links, cores, imagens, vídeo, áudio, arquivos) e cola vários itens escolhidos de uma vez, na ordem em que foram escolhidos; uma fila de colagem cola as cópias uma a uma com ⌘V.<br/>Website: https://geragaraza.com/apps/copia/<br/>Open Source: https://github.com/geragarazagh/copia<br/>Commit: Add Copia to Clipboard Tools (#4645)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e3b323ddc950da809a171be935285ea78d5415bc]]></content:encoded>
+    </item>
+    <item>
+      <title>Purr</title>
+      <link>https://purr.arunbrahma.com</link>
+      <guid isPermaLink="false">ed4ba7d8226a6affa3c3e0d85afce8fbdd768514:Purr</guid>
+      <pubDate>Mon, 16 Nov 2026 05:52:51 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: Purr
+Description: App de ditado no dispositivo e de código aberto que digita em qualquer app com Parakeet ou Whisper, além de notas de reunião com identificação de quem falou e resumos.
+Website: https://purr.arunbrahma.com
+Open Source: https://github.com/iamarunbrahma/purr
+Commit: Add Purr to Voice-to-Text (#4647)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Purr<br/>Description: App de ditado no dispositivo e de código aberto que digita em qualquer app com Parakeet ou Whisper, além de notas de reunião com identificação de quem falou e resumos.<br/>Website: https://purr.arunbrahma.com<br/>Open Source: https://github.com/iamarunbrahma/purr<br/>Commit: Add Purr to Voice-to-Text (#4647)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed4ba7d8226a6affa3c3e0d85afce8fbdd768514]]></content:encoded>
+    </item>
+    <item>
+      <title>neatly</title>
+      <link>https://alpozaydin.github.io/neatly/</link>
+      <guid isPermaLink="false">2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1:neatly</guid>
+      <pubDate>Mon, 16 Nov 2026 00:38:22 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Organização de Arquivos</category>
+      <description>Category: Utilitários / Ferramentas de Organização de Arquivos
+App: neatly
+Description: Renomeador de arquivos com IA que nomeia downloads, capturas de tela e fotos pelo conteúdo, no próprio dispositivo com Apple Intelligence.
+Website: https://alpozaydin.github.io/neatly/
+Open Source: https://github.com/alpozaydin/neatly
+Commit: Add neatly to File Organization Tools (#4658)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Organização de Arquivos<br/>App: neatly<br/>Description: Renomeador de arquivos com IA que nomeia downloads, capturas de tela e fotos pelo conteúdo, no próprio dispositivo com Apple Intelligence.<br/>Website: https://alpozaydin.github.io/neatly/<br/>Open Source: https://github.com/alpozaydin/neatly<br/>Commit: Add neatly to File Organization Tools (#4658)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2add6e1ca5f560f457ec571bc16a1dbe3a8ad7c1]]></content:encoded>
+    </item>
+    <item>
+      <title>Rewrite</title>
+      <link>https://samratduttaofficial.github.io/Rewrite/</link>
+      <guid isPermaLink="false">797f4642c101b3964178f539f2593062343a1ad8:Rewrite</guid>
+      <pubDate>Sun, 15 Nov 2026 02:46:57 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escrita</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escrita
+App: Rewrite
+Description: Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF.
+Website: https://samratduttaofficial.github.io/Rewrite/
+Commit: Add Rewrite to Writing (#3897)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escrita<br/>App: Rewrite<br/>Description: Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
+    </item>
+    <item>
+      <title>Cyberdog</title>
+      <link>https://pickywawa.github.io/cyberdog/</link>
+      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
+      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Cyberdog
+Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.
+Website: https://pickywawa.github.io/cyberdog/
+Open Source: https://github.com/pickywawa/cyberdog
+Commit: Add Cyberdog (#4610)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Cyberdog<br/>Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
+    </item>
+    <item>
+      <title>Earshot</title>
+      <link>https://github.com/Bouliw/earshot</link>
+      <guid isPermaLink="false">0240be75bb6d3fcc5f0239e2d1c15dc647b4e925:Earshot</guid>
+      <pubDate>Sun, 15 Nov 2026 01:42:46 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: Earshot
+Description: App de barra de menus que transcreve o áudio de qualquer app que você escolher, totalmente no dispositivo, com o nome de quem fala no Microsoft Teams.
+Open Source: https://github.com/Bouliw/earshot
+Commit: Add Earshot to Voice-to-Text (#3463)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Earshot<br/>Description: App de barra de menus que transcreve o áudio de qualquer app que você escolher, totalmente no dispositivo, com o nome de quem fala no Microsoft Teams.<br/>Open Source: https://github.com/Bouliw/earshot<br/>Commit: Add Earshot to Voice-to-Text (#3463)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925]]></content:encoded>
+    </item>
+    <item>
+      <title>Louppe</title>
+      <link>https://louppe.eu/</link>
+      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
+      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
+      <category>Design e Produto / Outras Ferramentas</category>
+      <description>Category: Design e Produto / Outras Ferramentas
+App: Louppe
+Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.
+Website: https://louppe.eu/
+Open Source: https://github.com/murlexander/louppe-media-culler
+App Store: https://apps.apple.com/app/louppe/id6820131477
+Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
+      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Louppe<br/>Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
+    </item>
+    <item>
+      <title>Trace</title>
+      <link>https://github.com/lxyeternal/Trace</link>
+      <guid isPermaLink="false">924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d:Trace</guid>
+      <pubDate>Sun, 15 Nov 2026 01:32:24 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Trace
+Description: Rastreador automático de tempo que registra apps, janelas, arquivos e páginas web, com todos os dados mantidos no seu Mac.
+Open Source: https://github.com/lxyeternal/Trace
+Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Trace<br/>Description: Rastreador automático de tempo que registra apps, janelas, arquivos e páginas web, com todos os dados mantidos no seu Mac.<br/>Open Source: https://github.com/lxyeternal/Trace<br/>Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d]]></content:encoded>
+    </item>
+    <item>
+      <title>Downright</title>
+      <link>https://downright.cc/</link>
+      <guid isPermaLink="false">3574867687dd7a8a912a0f195b74d3ca024913ee:Downright</guid>
+      <pubDate>Sun, 15 Nov 2026 00:49:23 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Downright
+Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.
+Website: https://downright.cc/
+Open Source: https://github.com/ezzy1630/Downright
+Commit: Add Downright to Markdown tools (#2606)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Downright<br/>Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
+    </item>
+    <item>
+      <title>Sheer</title>
+      <link>https://github.com/AzurLiu/sheer</link>
+      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
+      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: Sheer
+Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.
+Open Source: https://github.com/AzurLiu/sheer
+Commit: Add Sheer to Menu Bar Tools (#4592)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Sheer<br/>Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
+    </item>
+    <item>
+      <title>LD Manager</title>
+      <link>https://codonic.dev/apps/ldmanager</link>
+      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
+      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
+      <category>Utilitários / Ferramentas Relacionadas ao Sistema</category>
+      <description>Category: Utilitários / Ferramentas Relacionadas ao Sistema
+App: LD Manager
+Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.
+Website: https://codonic.dev/apps/ldmanager
+Open Source: https://github.com/roeehrl/ldmanager
+Commit: Add LD Manager to System Related Tools (#4573)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: LD Manager<br/>Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
+    </item>
+    <item>
+      <title>Takeline</title>
+      <link>https://github.com/Bouliw/takeline</link>
+      <guid isPermaLink="false">24819d74197eb50e8d77d149b1aa16e931183b22:Takeline</guid>
+      <pubDate>Sat, 14 Nov 2026 04:14:40 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Takeline
+Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.
+Open Source: https://github.com/Bouliw/takeline
+Commit: Add Takeline to Productivity (#4368)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Takeline<br/>Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
+    </item>
+    <item>
+      <title>Roughcut</title>
+      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
+      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
+      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo</category>
+      <description>Category: Ferramentas de Áudio e Vídeo
+App: Roughcut
+Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.
+Open Source: https://github.com/Bouliw/fcpxml-roughcut
+Commit: Add Roughcut to Audio and Video Tools (#4367)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: Roughcut<br/>Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
+    </item>
+    <item>
+      <title>Vigie</title>
+      <link>https://github.com/Bouliw/vigie</link>
+      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
+      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
+      <category>Ferramentas de Segurança</category>
+      <description>Category: Ferramentas de Segurança
+App: Vigie
+Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.
+Open Source: https://github.com/Bouliw/vigie
+Commit: Add Vigie to Security Tools (#4362)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Segurança<br/>App: Vigie<br/>Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
+    </item>
+    <item>
+      <title>MagicInput</title>
+      <link>https://bullfighterstudio.com/magicinput</link>
+      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: MagicInput
+Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.
+Website: https://bullfighterstudio.com/magicinput
+Commit: Add MagicInput (#4574)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: MagicInput<br/>Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
+    </item>
+    <item>
+      <title>Usagebar</title>
+      <link>https://bullfighterstudio.com/usagebar</link>
+      <guid isPermaLink="false">a5cbe19751d59eeb8350620876ee07863f566eb7:Usagebar</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:06 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: Usagebar
+Description: Mostra na barra de menus os limites de uso do Claude Code, Codex, Cursor, Kimi Code, z.ai e DeepSeek, e quando eles são redefinidos.
+Website: https://bullfighterstudio.com/usagebar
+Open Source: https://github.com/betoxf/Usagebar
+Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: Usagebar<br/>Description: Mostra na barra de menus os limites de uso do Claude Code, Codex, Cursor, Kimi Code, z.ai e DeepSeek, e quando eles são redefinidos.<br/>Website: https://bullfighterstudio.com/usagebar<br/>Open Source: https://github.com/betoxf/Usagebar<br/>Commit: Add Usagebar to zh, ja, ko and pt READMEs (#4575)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a5cbe19751d59eeb8350620876ee07863f566eb7]]></content:encoded>
+    </item>
+    <item>
+      <title>Aurora Editor</title>
+      <link>https://auroraeditor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Aurora Editor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Aurora Editor
+Description: Editor de código leve (IDE) para macOS.
+Website: https://auroraeditor.com/
+Open Source: https://github.com/AuroraEditor/AuroraEditor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Aurora Editor<br/>Description: Editor de código leve (IDE) para macOS.<br/>Website: https://auroraeditor.com/<br/>Open Source: https://github.com/AuroraEditor/AuroraEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Bootstrap Studio</title>
+      <link>https://bootstrapstudio.io/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Bootstrap Studio</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Bootstrap Studio
+Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.
+Website: https://bootstrapstudio.io/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Bootstrap Studio<br/>Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Brackets</title>
+      <link>https://brackets.io</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Brackets</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Brackets
+Description: Um editor de texto moderno e de código aberto que entende de design web.
+Website: https://brackets.io
+Open Source: https://github.com/brackets-cont/brackets/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Brackets<br/>Description: Um editor de texto moderno e de código aberto que entende de design web.<br/>Website: https://brackets.io<br/>Open Source: https://github.com/brackets-cont/brackets/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>CodeEdit</title>
+      <link>https://www.codeedit.app/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CodeEdit</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: CodeEdit
+Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.
+Website: https://www.codeedit.app/
+Open Source: https://github.com/CodeEditApp/CodeEdit
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CodeEdit<br/>Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.<br/>Website: https://www.codeedit.app/<br/>Open Source: https://github.com/CodeEditApp/CodeEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>CotEditor</title>
+      <link>https://coteditor.com</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CotEditor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: CotEditor
+Description: Editor de texto simples e leve para macOS.
+Website: https://coteditor.com
+Open Source: https://github.com/coteditor/CotEditor/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CotEditor<br/>Description: Editor de texto simples e leve para macOS.<br/>Website: https://coteditor.com<br/>Open Source: https://github.com/coteditor/CotEditor/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Cursor</title>
+      <link>https://cursor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Cursor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Cursor
+Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.
+Website: https://cursor.com/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Cursor<br/>Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.<br/>Website: https://cursor.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Emacs</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Emacs
+Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.
+Website: https://www.emacswiki.org/emacs/EmacsForMacOS
+Open Source: https://git.savannah.gnu.org/cgit/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Emacs<br/>Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Open Source: https://git.savannah.gnu.org/cgit/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Haystack Editor</title>
+      <link>https://github.com/haystackeditor/haystack-editor</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Haystack Editor</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Haystack Editor
+Description: Editor de código com interface em canvas para melhor compreensão do código.
+Open Source: https://github.com/haystackeditor/haystack-editor
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Haystack Editor<br/>Description: Editor de código com interface em canvas para melhor compreensão do código.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Helix</title>
+      <link>https://helix-editor.com/</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Helix</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Helix
+Description: Um editor de texto modal pós-moderno.
+Website: https://helix-editor.com/
+Open Source: https://github.com/helix-editor/helix/
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Helix<br/>Description: Um editor de texto modal pós-moderno.<br/>Website: https://helix-editor.com/<br/>Open Source: https://github.com/helix-editor/helix/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+    <item>
+      <title>Itsypad</title>
+      <link>https://itsypad.app</link>
+      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Itsypad</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
+App: Itsypad
+Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.
+Website: https://itsypad.app
+Open Source: https://github.com/nickustinov/itsypad-macos
+Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Itsypad<br/>Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.<br/>Website: https://itsypad.app<br/>Open Source: https://github.com/nickustinov/itsypad-macos<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
+    </item>
+  </channel>
+</rss>
