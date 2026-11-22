@@ -144,6 +144,7 @@
 
 ## 기타
 
+* [airplay-screen](https://github.com/drumandbytes/airplay-screen) - 명령줄에서 AirPlay 화면 미러링을 시작하고 중지. 메뉴 막대를 숨긴 상태에서도 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/airplay-screen) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki) - 길고 복잡한 경로 대신 한 번의 점프로 이동하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 커뮤니티 기반의 bash 프레임워크.![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - 구문 강조 및 Git 통합 기능이 있는 `cat(1)` 클론. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
