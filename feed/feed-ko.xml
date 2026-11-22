@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:16:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ClipHat</title>
+      <link>https://github.com/getguruhat/cliphat-macos</link>
+      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
+      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: ClipHat
+Description: 검색, 고정, ⌘⇧V 복원을 지원하는 무료 클립보드 기록 도구. 텍스트, 링크, 이미지, 파일을 로컬에 저장.
+Open Source: https://github.com/getguruhat/cliphat-macos
+Commit: Add ClipHat (#4520)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipHat<br/>Description: 검색, 고정, ⌘⇧V 복원을 지원하는 무료 클립보드 기록 도구. 텍스트, 링크, 이미지, 파일을 로컬에 저장.<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
+    </item>
     <item>
       <title>OpenGestures</title>
       <link>https://github.com/01wil/OpenGestures</link>
@@ -725,21 +739,6 @@ Open Source: https://github.com/jigjoy-ai/seshka
 Commit: Add Seshka to AI Tools (#4719)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Seshka<br/>Description: 종료된 Claude Code 세션이 남겨 둔 개발 서버, 워처, 브라우저를 찾아 종료하는 오픈 소스 메뉴 막대 앱.<br/>Website: https://seshka.dev<br/>Open Source: https://github.com/jigjoy-ai/seshka<br/>Commit: Add Seshka to AI Tools (#4719)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/22d4c98159519a40ed45885e40b0c4a55f0c34fd]]></content:encoded>
-    </item>
-    <item>
-      <title>Spool</title>
-      <link>https://joedesigns.com/spool</link>
-      <guid isPermaLink="false">a64e0d7db5338ecc839a664978c64a59f1899ae4:Spool</guid>
-      <pubDate>Tue, 17 Nov 2026 15:54:57 GMT</pubDate>
-      <category>커뮤니케이션 / 이메일 클라이언트</category>
-      <description>Category: 커뮤니케이션 / 이메일 클라이언트
-App: Spool
-Description: 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다.
-Website: https://joedesigns.com/spool
-Open Source: https://github.com/wes/spool
-Commit: Add Spool to Email Clients (#4695)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 이메일 클라이언트<br/>App: Spool<br/>Description: 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다.<br/>Website: https://joedesigns.com/spool<br/>Open Source: https://github.com/wes/spool<br/>Commit: Add Spool to Email Clients (#4695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a64e0d7db5338ecc839a664978c64a59f1899ae4]]></content:encoded>
     </item>
   </channel>
 </rss>
