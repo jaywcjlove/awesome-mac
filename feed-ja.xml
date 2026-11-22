@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinstill</title>
+      <link>https://pinstill.echovic.com/en/</link>
+      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
+      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Pinstill
+Description: 選択範囲をその場で注釈し、コピー、保存、デスクトップへの貼り付けまでできるオープンソースのスクリーンショットツール。
+Website: https://pinstill.echovic.com/en/
+Open Source: https://github.com/echoVic/Pinstill
+Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Pinstill<br/>Description: 選択範囲をその場で注釈し、コピー、保存、デスクトップへの貼り付けまでできるオープンソースのスクリーンショットツール。<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
+    </item>
     <item>
       <title>Cleanzo</title>
       <link>https://cleanzo.echovic.com/en/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/sksareen/point
 Commit: Add Point to Voice-to-Text (#4702)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
       <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: Point<br/>Description: 話しながら画面の一部を丸で囲むと、音声の文字起こしと注釈付きスクリーンショットを Claude Code、Cursor、任意のチャットに送れるオープンソースのプッシュ・トゥ・トーク音声入力アプリ。音声認識はオンデバイス。<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
-    </item>
-    <item>
-      <title>Tomoru</title>
-      <link>https://tomoru.acane.dev</link>
-      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
-      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
-      <category>翻訳ツール</category>
-      <description>Category: 翻訳ツール
-App: Tomoru
-Description: 配信・アニメ・ゲーム・会議向けのリアルタイム二言語字幕＆画面内テキスト翻訳。固有名詞を守る用語集を備え、Mac 上での完全オフライン動作にもクラウドにも対応。
-Website: https://tomoru.acane.dev
-Open Source: https://github.com/ACAne0320/Tomoru
-Commit: Add Tomoru to Translation Tools (#4701)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
-      <content:encoded><![CDATA[Category: 翻訳ツール<br/>App: Tomoru<br/>Description: 配信・アニメ・ゲーム・会議向けのリアルタイム二言語字幕＆画面内テキスト翻訳。固有名詞を守る用語集を備え、Mac 上での完全オフライン動作にもクラウドにも対応。<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
     </item>
   </channel>
 </rss>

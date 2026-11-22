@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinstill</title>
+      <link>https://pinstill.echovic.com/en/</link>
+      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
+      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Pinstill
+Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.
+Website: https://pinstill.echovic.com/en/
+Open Source: https://github.com/echoVic/Pinstill
+Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Pinstill<br/>Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
+    </item>
     <item>
       <title>Cleanzo</title>
       <link>https://cleanzo.echovic.com/en/</link>
@@ -728,20 +743,6 @@ Open Source: https://github.com/veaceslavmafteiaevoluta/yana
 Commit: Add YANA to Menu Bar Tools (#4673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: YANA<br/>Description: Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers, and a file shelf.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchDeck</title>
-      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
-      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
-      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: NotchDeck
-Description: Control center around the MacBook notch with system metrics, media controls, quick notes, screen recording and task profiles.
-Open Source: https://github.com/systemAdmin-ai/NotchDeck
-Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: NotchDeck<br/>Description: Control center around the MacBook notch with system metrics, media controls, quick notes, screen recording and task profiles.<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
     </item>
   </channel>
 </rss>

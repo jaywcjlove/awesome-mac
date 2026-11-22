@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pinstill（钉图）</title>
+      <link>https://pinstill.echovic.com/</link>
+      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill（钉图）</guid>
+      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Pinstill（钉图）
+Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。
+Website: https://pinstill.echovic.com/
+Open Source: https://github.com/echoVic/Pinstill
+Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Pinstill（钉图）<br/>Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。<br/>Website: https://pinstill.echovic.com/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
+    </item>
     <item>
       <title>Cleanzo</title>
       <link>https://cleanzo.echovic.com/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/sksareen/point
 Commit: Add Point to Voice-to-Text (#4702)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: Point<br/>Description: 开源的按住说话听写工具，说话时可圈出屏幕区域，把文字和标注截图一起发送给 Claude Code、Cursor 或任意聊天应用，语音在本地识别。<br/>Website: https://point-site-opal.vercel.app<br/>Open Source: https://github.com/sksareen/point<br/>Commit: Add Point to Voice-to-Text (#4702)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/362e82a374cebaebe3a30a16d7cbd615a0a7bbd1]]></content:encoded>
-    </item>
-    <item>
-      <title>Tomoru</title>
-      <link>https://tomoru.acane.dev</link>
-      <guid isPermaLink="false">061c299f1f0559b48d98b0216c51ed1f11723448:Tomoru</guid>
-      <pubDate>Wed, 18 Nov 2026 01:50:25 GMT</pubDate>
-      <category>翻译工具</category>
-      <description>Category: 翻译工具
-App: Tomoru
-Description: 为直播、生肉番剧、游戏和会议提供实时双语字幕与截屏文字翻译，支持按应用收音、专名词表防听错，可在 Mac 本地完全离线运行或使用云端。
-Website: https://tomoru.acane.dev
-Open Source: https://github.com/ACAne0320/Tomoru
-Commit: Add Tomoru to Translation Tools (#4701)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448</description>
-      <content:encoded><![CDATA[Category: 翻译工具<br/>App: Tomoru<br/>Description: 为直播、生肉番剧、游戏和会议提供实时双语字幕与截屏文字翻译，支持按应用收音、专名词表防听错，可在 Mac 本地完全离线运行或使用云端。<br/>Website: https://tomoru.acane.dev<br/>Open Source: https://github.com/ACAne0320/Tomoru<br/>Commit: Add Tomoru to Translation Tools (#4701)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061c299f1f0559b48d98b0216c51ed1f11723448]]></content:encoded>
     </item>
   </channel>
 </rss>
