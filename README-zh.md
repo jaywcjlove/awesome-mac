@@ -1913,6 +1913,7 @@ Awesome Mac
 * [HopToDesk](https://www.hoptodesk.com/) - 开源的远程桌面与远程协助工具，会话端到端加密。[![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRP 的 GUI 客户端，一键将本地服务发布到互联网。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - 高画质且低延时的游戏串流 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/moonlight-stream/moonlight-qt)
+* [Nightdesk](https://nightdesk.codedrealities.com/mac/) - 用安卓手机控制你的 Mac，在家或外出都能用，并为编程智能体提供专门工具。
 * [Parsec](https://parsec.app/) - 低延迟远程桌面与游戏串流工具。
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 管理多种协议远程连接的客户端。 ![Freeware][Freeware Icon]
