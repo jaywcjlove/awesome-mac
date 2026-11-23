@@ -1947,6 +1947,7 @@ Awesome Mac
 ### システム関連ツール
 
 * [Adrafinil](https://kagerou.glass/adrafinil/) - AI エージェントが作業している間だけ Mac をスリープさせず、終わったら通常どおりスリープさせます。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [AeroMac](https://aeromac.app/) - Apple Silicon Mac 向けのファン制御・温度モニター。カスタムカーブ、メニューバーのプリセット切替、異常時に macOS 自動制御へ戻すフェイルセーフを搭載。 ![Native App][Native Icon]
 * [AlDente](https://apphousekitchen.com/) - MacBook用バッテリー充電制限ツール。 [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [Aman Check](https://github.com/MidZai/aman_check) - 中古 Mac の日付入りで正直な状態レポートを作成：ロック、バッテリー、SSD、ガイド付きハードウェアテスト。 [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Macのスリープを防止。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)

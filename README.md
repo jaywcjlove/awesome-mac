@@ -1965,6 +1965,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### System Related Tools
 
 * [Adrafinil](https://kagerou.glass/adrafinil/) - Keep your Mac awake only while AI agents are still working, then let it sleep normally. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [AeroMac](https://aeromac.app/) - Fan control and temperature monitor for Apple Silicon Macs with custom curves, menu bar presets, and fail-safe return to macOS Automatic. ![Native App][Native Icon]
 * [AlDente](https://apphousekitchen.com/) - Battery charge limiter for MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [Aman Check](https://github.com/MidZai/aman_check) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Keep your Mac awake. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)

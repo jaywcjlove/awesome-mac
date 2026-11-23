@@ -1743,6 +1743,7 @@ Awesome Mac
 
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 适用于MacOS/iOS的免费广告拦截器 停止在Safari中看到烦人的广告。更快地打开网站。更安全地浏览网页。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Adrafinil](https://kagerou.glass/adrafinil/) - 仅在 AI 智能体仍在工作时保持 Mac 唤醒，任务结束后恢复正常睡眠。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [AeroMac](https://aeromac.app/) - 适用于 Apple Silicon Mac 的风扇控制与温度监控工具，支持自定义曲线、菜单栏预设以及异常时自动恢复 macOS 自动控制。 ![Native App][Native Icon]
 * [AlDente](https://apphousekitchen.com/) - 充电保护软件，延长 MacBook 电池寿命。 [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [AltStore](https://altstore.io/) - 非越狱 iOS 设备的替代应用商店。[![Open-Source Software][OSS Icon]](https://altstore.io/#Downloads) ![Freeware][Freeware Icon]
 * [Aman Check](https://github.com/MidZai/aman_check) - 为二手 Mac 生成带日期、如实的状况报告：锁定状态、电池、SSD 及引导式硬件测试。 [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
