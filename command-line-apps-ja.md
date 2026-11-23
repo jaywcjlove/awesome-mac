@@ -132,8 +132,10 @@ Awesome Command Line Apps
 
 ## 開発者向け
 
+* [agentsync](https://github.com/x0c/agentsync) - 単一のローカル設定ソースから Claude Code、Cursor、Codex などのルール・Skills・MCP 設定を同期。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/agentsync) ![Freeware][Freeware Icon]
 * [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude CodeとCodex CLIのアカウントを手動で、または上限が近づいたときに自動で切り替え、各アカウントの5時間と週ごとの使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 名前付きプロファイルでClaude Code、Codex、Gemini、Antigravity CLIのアカウントを切り替え、リポジトリごとに使うアカウントを固定。 [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
+* [corral](https://github.com/corral-dev/corral) - ターミナルで Claude Code、Codex、OpenCode、Cursor を並べて実行し、iPhone や Mac から続けられるセッションマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/corral-dev/corral) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple siliconのネイティブcontainerランタイム向けDocker Compose互換CLI。 [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - モダンなコマンドラインHTTPクライアント。 [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON Schemaを扱うためのCLI。フォーマット、リンティング、テスト、バンドリングなど、ローカル開発からCI/CDパイプラインまでカバー。 [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
@@ -141,6 +143,7 @@ Awesome Command Line Apps
 * [quokka](https://github.com/dutradotdev/quokka) - ターミナルからUSB接続したiPhoneを検査・整理。ストレージ、アプリ、メディア、ライブsyslogビューア。脱獄不要。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 開発者用語の正しい発音を読み上げるコミュニティ発音辞典。出典付きの1650以上のエントリ（kubectl、nginx、GIF、JSON）を収録し、macOSのsayコマンドを利用。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 強力なアプリブラウジングとファイル表示機能を備えたiOSシミュレーター管理用ターミナルUI。 [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [subswap](https://github.com/x0c/subswap) - 残り利用枠を確認し、再ログインなしで Claude Code、Codex、Cursor、Kimi Code、OpenCode のアカウントを切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/subswap) ![Freeware][Freeware Icon]
 
 ## その他
 
