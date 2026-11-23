@@ -646,6 +646,7 @@ Awesome Mac
 * [Paintbrush](http://paintbrush.sourceforge.net/) - 비트맵 이미지 편집기. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pixelmator Pro](http://www.pixelmator.com/pro/) - Mac을 위한 모든 기능을 갖춘 이미지 편집기.
 * [Pika](https://superhighfives.com/pika) - 오픈 소스 색상 선택 앱. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika)
+* [RadianceKit](https://www.radiancekit.de/) - 사진, 동영상, 360° 영상으로 Apple 실리콘에서 로컬로 3D 가우시안 스플래팅 장면을 학습하는 네이티브 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/radiancekit/id6760346035?platform=mac)
 * [Redlamp](https://redlamp.app) - Lightroom Classic의 현상 워크플로를 그대로 유지하는 네이티브 오픈 소스 RAW 사진 편집기. [![Open-Source Software][OSS Icon]](https://github.com/pdcgomes/redlamp) ![Freeware][Freeware Icon]
 * [Screen Loupe](https://ayenora.github.io/screen-loupe/) - 화면의 원하는 영역을 별도 창에서 픽셀 단위로 정확하게 실시간 확대해 보여주는 오픈 소스 돋보기. [![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
 * [Sketch](http://www.sketchapp.com/) - 전문적인 네이티브 디지털 디자인 도구.
