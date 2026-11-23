@@ -815,6 +815,7 @@ Awesome Mac
 * [CloudApp](https://www.getcloudapp.com/) - 視覚のスピードで仕事を。 ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropboxアプリは簡単なスクリーンショットのキャプチャと共有を提供。 ![Freeware][Freeware Icon]
 * [Flameshot](https://github.com/flameshot-org/flameshot) - 強力でありながらシンプルなスクリーンショットソフトウェア。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Fotilo](https://fotilo.app/?utm_source=gh-awesome-mac) - スクリーンショットと画面収録。複数のショットを1枚の注釈付きキャンバスにまとめ、録画を自分の声のまま別の言語に吹き替えできる。 ![Native App][Native Icon]
 * [Glint](https://github.com/brentc22/glint) - 共有する前に、メールアドレス、IBAN、カード番号、APIキーをデバイス上で検出してモザイク処理するオープンソースのスクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lightshot](https://app.prntscr.com/) - カスタマイズ可能なスクリーンショットを撮る最速の方法。 ![Freeware][Freeware Icon]
 * [Lumela](https://github.com/tw4/lumela) - メールアドレス、カード番号、IPアドレス、APIキーをデバイス上のOCRで検出してぼかし、スクリーンショットを美しく整えるクロスプラットフォームのツール。 [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]

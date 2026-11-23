@@ -673,6 +673,7 @@ Awesome Mac
 * [capcap](https://capcap.skyrin.fun) - Command 키 더블 탭 캡처, 주석, 스크롤 캡처, 꾸미기, 핀 고정, 이미지 호스팅 업로드를 지원하는 네이티브 메뉴 막대 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Mac 화면 캡처를 위한 최고의 방법.
 * [CloudApp](https://www.getcloudapp.com/) - 빠른 화면 캡처 및 공유. ![Freeware][Freeware Icon]
+* [Fotilo](https://fotilo.app/?utm_source=gh-awesome-mac) - 스크린샷과 화면 녹화. 여러 장의 스크린샷을 주석을 달 수 있는 하나의 캔버스에 모으고, 녹화 영상을 내 목소리 그대로 다른 언어로 더빙할 수 있다. ![Native App][Native Icon]
 * [Glint](https://github.com/brentc22/glint) - 공유하기 전에 이메일, IBAN, 카드 번호, API 키를 기기에서 찾아 모자이크 처리하는 오픈 소스 스크린샷 도구. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lumela](https://github.com/tw4/lumela) - 기기 내 OCR로 이메일, 카드 번호, IP 주소, API 키를 찾아 흐리게 처리하고 스크린샷을 보기 좋게 꾸며 주는 크로스 플랫폼 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 화면 녹화, 스크롤 캡처, OCR을 지원하는 스크린샷 주석 도구. [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]

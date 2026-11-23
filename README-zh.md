@@ -570,6 +570,7 @@ Awesome Mac
 * [AInnotator](https://github.com/porco-rs/ainnotator) - 截图标注工具，将编号标记、备注和涂黑区域合成一张无需额外说明的图片，可粘贴到 Claude Code、Codex 或 ChatGPT，SSH 远程场景同样支持。 [![Open-Source Software][OSS Icon]](https://github.com/porco-rs/ainnotator) ![Freeware][Freeware Icon]
 * [capcap](https://capcap.skyrin.fun) - 原生菜单栏截图工具，支持双击 Command 截图、标注、长截图、美化、钉图和图床上传。 [![Open-Source Software][OSS Icon]](https://github.com/realskyrin/capcap) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - 像专业人士一样捕捉你的 Mac 屏幕。
+* [Fotilo](https://fotilo.app/?utm_source=gh-awesome-mac) - 截图与录屏：几张截图放进同一块可标注的画布，录屏可以用你自己的声音配成另一种语言。 ![Native App][Native Icon]
 * [Glint](https://github.com/brentc22/glint) - 开源截图工具，在分享前于本地识别并像素化邮箱、IBAN、银行卡号和 API 密钥。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/glint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
 * [Lumela](https://github.com/tw4/lumela) - 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。 [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
