@@ -431,6 +431,7 @@ Awesome Mac
 * [CodeMenu](https://extiri.com/codemenu.html) - 고급 스니펫 관리자.
 * [CoilPad](https://coilpad.com) - 네이티브 Python 스크래치패드. ![Freeware][Freeware Icon]
 * [Conduktor](https://www.conduktor.io) - Kafka 데스크톱 클라이언트. ![Freeware][Freeware Icon]
+* [Portside](https://github.com/brentc22/portside) - 로컬 개발 서버를 저장소와 git worktree별로 묶어 보여 주고 클릭 한 번으로 중지할 수 있는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/portside) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swifka](https://github.com/Ender-Wang/Swifka) - 토픽, 메시지, 컨슈머 상태를 안전하게 확인할 수 있는 읽기 전용 Kafka 모니터. [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 * [Configs](https://github.com/iHongRen/configEditor) - 구성 파일을 빠르게 보기, 편집 및 관리하는 구성 파일 관리기. [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
 * [ContextRing](https://github.com/vladsboev-web/ContextRing) - Google Antigravity 2.0용 네이티브 macOS 플로팅 컨텍스트 링 및 메뉴 바 모니터로, 로컬 컨텍스트 분석과 24시간/7일 통계를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/vladsboev-web/ContextRing) ![Freeware][Freeware Icon] ![Native App][Native Icon]
