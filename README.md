@@ -1469,6 +1469,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
 * [SaneClip](https://saneclip.com) - Clipboard manager with history, privacy protections, and sensitive data detection. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
 * [SnippetCraft](https://getsnippetcraft.com) - System-wide text expansion, snippet management, and clipboard history for macOS.
+* [Stash](https://desktopgoods.app/apps/stash) - Clipboard history with any-order word search, pinned snippets and plain-text paste, kept on your Mac. ![Native App][Native Icon]
 * [Tietie](https://github.com/KLWSharpe/tietie) - Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese. [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]

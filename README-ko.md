@@ -1166,6 +1166,7 @@ Awesome Mac
 * [Pesty](https://github.com/momenbasel/pesty) - 색상 구분된 슬라이딩 스트립으로 클립보드 기록을 보여주는 무료 오픈소스 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
 * [SaneClip](https://saneclip.com) - 기록, Touch ID 보호, 민감 정보 감지를 갖춘 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
 * [SnippetCraft](https://getsnippetcraft.com) - macOS용 시스템 전체 텍스트 확장, 스니펫 관리, 클립보드 기록 도구.
+* [Stash](https://desktopgoods.app/apps/stash) - 순서에 상관없는 단어 검색, 고정 스니펫, 일반 텍스트 붙여넣기를 지원하는 클립보드 기록 앱으로, 데이터는 Mac에만 저장됩니다. ![Native App][Native Icon]
 * [Tietie](https://github.com/KLWSharpe/tietie) - 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어). [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - 클립보드 기록과 스니펫을 정리해 재사용하기 쉽게 해주는 관리자. [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 

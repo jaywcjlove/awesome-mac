@@ -1461,6 +1461,7 @@ Awesome Mac
 * [Pure Paste](https://sindresorhus.com/pure-paste) - デフォルトでプレーンテキストとして貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
 * [SaneClip](https://saneclip.com) - 履歴、Touch ID保護、機密データ検出を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
 * [SnippetCraft](https://getsnippetcraft.com) - macOS向けのシステム全体で使えるテキスト展開、スニペット管理、クリップボード履歴ツール。
+* [Stash](https://desktopgoods.app/apps/stash) - 語順を問わない検索、ピン留めしたスニペット、プレーンテキスト貼り付けに対応したクリップボード履歴。データはMac内に保存されます。 ![Native App][Native Icon]
 * [Tietie](https://github.com/KLWSharpe/tietie) - 数字キーで貼り付けでき、画像内の文字も検索できる Mac・Windows 向けのオープンソースのクリップボード履歴ツール（UI は繁体字中国語）。 [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - 開発者向けのクリーンでシンプルなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - macOS用の軽量クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
