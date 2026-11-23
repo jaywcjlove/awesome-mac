@@ -1199,6 +1199,7 @@ Awesome Mac
 * [Perch](https://perchapp.dev) - Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - 노치를 VPN 연결, 모든 브라우저의 탭 그룹, 현재 재생 중인 곡, 캘린더, 온디바이스 번역, 클립보드 기록을 모은 제어 센터로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
+* [Sixty](https://leplik.github.io/sixty/) - 한 시간 작업할 때마다 화면을 60초 동안 잠가 일어서서 몸을 움직이게 하는 메뉴 바 휴식 알림 앱으로, 건너뛰기 버튼이 없고 통화 중에는 화면을 잠그지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/leplik/sixty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Deskbridge](https://getdeskbridge.com) - USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.
