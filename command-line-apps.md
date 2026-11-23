@@ -140,6 +140,7 @@ A curated list of useful command line apps
 * [quokka](https://github.com/dutradotdev/quokka) - Inspect and clean a USB-connected iPhone from your terminal: storage, apps, media, and a live syslog viewer. No jailbreak. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - Pronounce developer jargon out loud — community dictionary of 1,650+ sourced entries (kubectl, nginx, GIF, JSON) on top of the macOS say command. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [xcfs](https://patricksclin.github.io/xcfs/) - Run several AI coding agents (Claude Code, Codex, Cursor) on one Xcode project in parallel, each in an already-built git worktree with its own simulator. [![Open-Source Software][OSS Icon]](https://github.com/PatrickSCLin/xcfs) ![Freeware][Freeware Icon]
 
 ## Other
 

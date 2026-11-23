@@ -141,6 +141,7 @@
 * [quokka](https://github.com/dutradotdev/quokka) - 在终端中检查和清理通过 USB 连接的 iPhone：存储、应用、媒体和实时系统日志查看器。无需越狱。 [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 朗读开发者术语的正确发音 — 社区发音词典，收录 1650+ 带出处的词条（kubectl、nginx、GIF、JSON），基于 macOS say 命令。 [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - Terminal UI for iOS Simulator management with powerful app browsing and file viewing capabilities. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [xcfs](https://patricksclin.github.io/xcfs/) - 让多个 AI 编程代理（Claude Code、Codex、Cursor）在同一个 Xcode 项目上并行工作，每个都有已编译好的 git worktree 和独立的模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/PatrickSCLin/xcfs) ![Freeware][Freeware Icon]
 
 ## Other
 
