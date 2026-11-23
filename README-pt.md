@@ -422,6 +422,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
   * [Rider](https://www.jetbrains.com/rider/) - IDE multiplataforma para C# com recursos do Resharper.
   * [WebStorm](https://www.jetbrains.com/webstorm/) - A IDE de JavaScript mais inteligente da JetBrains. **GRATUITA** para estudantes, veja [aqui](https://www.jetbrains.com/student/) mais informações.
 * [Haskell for Mac](https://haskellformac.com) - Um Ambiente de Desenvolvimento Moderno para Haskell. [![App Store][app-store Icon]](https://apps.apple.com/app/haskell-development-platform/id841285201?platform=mac)
+* [Localix Studio](https://studio.localix.ai) - Ambiente de desenvolvimento agêntico em que um agente de IA e seus subagentes trabalham com você no editor, nos terminais e no navegador, com qualquer modelo ou um que roda no seu computador. [![Open-Source Software][OSS Icon]](https://github.com/localixai/localix-studio) ![Freeware][Freeware Icon]
 * [NetBeans IDE](https://netbeans.org/) - IDE gratuita e de código aberto para Java e outras linguagens. [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nimbalyst](https://nimbalyst.com/) - Um espaço de trabalho visual para gerenciar sessões de programação com IA, tarefas e arquivos de projeto.
 * [Nova](https://nova.app/) - Editor de código para Mac bonito, rápido e flexível, da [Panic](https://panic.com/).
