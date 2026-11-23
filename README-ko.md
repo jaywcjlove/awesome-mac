@@ -361,6 +361,7 @@ Awesome Mac
 * [SmoothCSV](https://smoothcsv.com/) - SQL 쿼리를 지원하는 빠르고 강력한 CSV 편집기. ![Freeware][Freeware Icon]
 * [SoloPDF](https://solopdf.doaipm.com) - 하이라이트가 일반 Markdown 노트로 자동 저장되는 로컬 우선 PDF 리더 및 20개 이상의 오프라인 문서 도구 모음(온디바이스 OCR, 깜빡임 픽셀 비교, 56개 도구의 MCP 서버 내장). [![Open-Source Software][OSS Icon]](https://github.com/zhitongblog/solopdf) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6787712953?platform=mac)
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - 빠르고 강력한 Pinboard 클라이언트.
+* [Sponge](https://sponge.computer/mac) - 공유 메뉴, 메뉴 막대 또는 단축키로 링크를 저장하는 나중에 읽기 라이브러리.
 * [TabType](https://github.com/nilava/TabType) - 로컬 LLM 기반의 무료 오픈소스 AI 입력 자동완성 도구. 완전 온디바이스로 실행되어 데이터 유출이 없음. [![Open-Source Software][OSS Icon]](https://github.com/nilava/TabType) ![Freeware][Freeware Icon]
 * [Tad](https://www.tadviewer.com) - CSV와 같은 표 데이터를 시각화하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - 자동 업데이트를 지원하는 LaTeX 편집기.
