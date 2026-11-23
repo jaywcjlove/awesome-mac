@@ -678,6 +678,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [SQLPro Studio](https://www.sqlprostudio.com/) - Gerenciador de banco de dados simples e poderoso para macOS.
 * [Studio 3T](https://studio3t.com/) - A GUI definitiva para MongoDB. ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - Um banco de dados de documentos e grafos escalável, distribuído e colaborativo, para a web em tempo real. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
+* [Tabelaro](https://tabelaro.com) - Cliente de banco de dados focado no teclado para PostgreSQL, MySQL/MariaDB e SQLite, com busca fuzzy. Todos os recursos são gratuitos. ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - Suporta: PostgreSQL, MySQL, RedShift, MariaDB... Segurança de alto nível garantida.
 * [TablePro](https://github.com/datlechin/TablePro) - Cliente de banco de dados rápido com edição de SQL assistida por IA e suporte aos principais mecanismos SQL/NoSQL. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - Plataforma de backend de código aberto com APIs type-safe, autenticação e ferramentas de administração, construída sobre SQLite. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
