@@ -1353,6 +1353,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Education
 
 * [Buddy](https://github.com/projects-hacks/buddy) - Study helper in the notch that explains what is on your screen out loud while drawing on it. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
+* [Fadeclock](https://fadeclock.app) - Floating timer for teaching with slides that shows when an activity ends ("until 2:30 PM") and fades music out before time's up. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 

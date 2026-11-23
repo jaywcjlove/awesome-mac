@@ -1308,6 +1308,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 ## Educação
 
 * [Buddy](https://github.com/projects-hacks/buddy) - Assistente de estudos no notch que explica em voz alta o que está na tela enquanto desenha sobre ela. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
+* [Fadeclock](https://fadeclock.app) - Timer flutuante para quem ensina com slides, que mostra a hora em que a atividade termina ("until 2:30 PM") e diminui a música aos poucos antes do fim. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Leafy](https://leafyapp.uk/) - Consulte qualquer palavra na tela com ⌥A, inclusive em PDFs e imagens, e salve-a em uma biblioteca local pesquisável. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Reúna, pratique e organize seu próprio vocabulário de idiomas estrangeiros. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
