@@ -1141,6 +1141,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Recordia](https://sindresorhus.com/recordia) - Grave áudio diretamente pela barra de menus ou com um atalho de teclado global. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - O melhor player de mídia do Mac, com suporte a quase todos os formatos. [![App Store][app-store Icon]](https://apps.apple.com/app/id1470926410?platform=mac)
 * [Kaset](https://github.com/sozercan/kaset) - Cliente de código aberto do YouTube Music com biblioteca, letras, podcasts e controles de reprodução. [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
+* [Yaptake](https://yaptake.com/) - Editor de vídeo offline que faz cortes pela transcrição e adiciona legendas.
 * [YouTube Music](https://github.com/th-ch/youtube-music) - Player de desktop para o YouTube Music com suporte a plugins. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) - Player de desktop gratuito e multiplataforma para o YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - Um app multifuncional para legendas ao vivo, transcrição de áudio/vídeo e tradução de legendas.
