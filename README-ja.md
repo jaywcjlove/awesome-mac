@@ -430,6 +430,7 @@ Awesome Mac
 * [Sikemux](https://sikemux.com) - 各チャットの横にターミナル、Git、エディタ、ブラウザタブを備えた、コーディングエージェント（Claude Code、Codex、OpenCode、Pi）のためのオープンソースのネイティブワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/nodelike/sikemux) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - コーディングエージェント（Claude Code、Codex、OpenCode、Cursor）のためのオープンソースのデスクトップアプリ。複数のエージェントが1つのスレッドを共有でき、スレッドごとに独立したgitワークツリーを使える。 [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - コーディングとソフトウェア開発のためのAI IDE。
+* [Traycer](https://traycer.ai) - 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/traycerai/traycer) ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [VSCodium](https://vscodium.com/) - コミュニティ主導の VS Code 向け自由オープンソースバイナリ配布版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Wavefunction](https://www.wavefunction.si) - ローカルモデル、自分のAPIキー、ChatGPTサインインに対応し、複数のチャットを並行して実行できるオープンソースのデスクトップコーディングエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/stoyan-stoyanov/wavefunction) ![Freeware][Freeware Icon]
@@ -457,6 +458,7 @@ Awesome Mac
 * [Conduktor](https://www.conduktor.io) - Kafkaデスクトップクライアント。 ![Freeware][Freeware Icon]
 * [Swifka](https://github.com/Ender-Wang/Swifka) - トピック、メッセージ、コンシューマー状態を安全に確認できる読み取り専用Kafkaモニター。 [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 * [Configs](https://github.com/iHongRen/configEditor) - 設定ファイルの迅速な表示、編集、管理のための設定ファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
+* [ContextRing](https://github.com/vladsboev-web/ContextRing) - Google Antigravity 2.0向けのmacOSネイティブなフローティングコンテキストモニターおよびメニューバーツール。ローカルでの内訳分析と24時間/7日間の統計に対応。 [![Open-Source Software][OSS Icon]](https://github.com/vladsboev-web/ContextRing) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - macOS用CubicBezierジェネレーター。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 * [Cutter](https://cutter.re/) - 強力なマルチプラットフォームリバースエンジニアリングツール。 ![Open-Source Software][OSS Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 開発者向けの多機能オフラインアプリ。 ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
@@ -713,6 +715,7 @@ Awesome Mac
 * [kitty](https://github.com/kovidgoyal/kitty) - クロスプラットフォームで高速、フル機能のGPUベースターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [KubeSwitch](https://www.kubeswitch.com/) - macOSでKubernetesのコンテキストとネームスペースを最速で切り替える方法。 ![Freeware][Freeware Icon]
 * [lmux](https://github.com/sooftware/lmux) - libghostty 上に構築された軽量ターミナル。Claude Code と Codex のセッションを実行し、サイドバーにエージェントの状態を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/sooftware/lmux) ![Freeware][Freeware Icon]
+* [Localix Terminal](https://terminal.localix.ai) - あなたとコーディングエージェントのためのネイティブターミナル。プロジェクトのセッションは離れたときの状態のまま戻り、横にブラウザとボードがあります。 [![Open-Source Software][OSS Icon]](https://github.com/localixai/localix-terminal) ![Freeware][Freeware Icon]
 * [SSHFire](https://github.com/aralozaltin/sshfire) - ターミナル、セッション管理、現在のディレクトリに追従する SFTP ブラウザを備えたクロスプラットフォームの SSH クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [SSHTermaq](https://f1resh.github.io/sshtermaq/) - タブ、分割ペイン、SFTP/SCP ファイルマネージャーを備え、PuTTY のセッションをワンクリックで取り込める PuTTY 互換の SSH・Telnet・シリアルターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/f1resh/sshtermaq) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - TypeScriptで構築された無料のターミナルツール。Hyperに強く触発されている。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
@@ -817,6 +820,7 @@ Awesome Mac
 * [Lumela](https://github.com/tw4/lumela) - メールアドレス、カード番号、IPアドレス、APIキーをデバイス上のOCRで検出してぼかし、スクリーンショットを美しく整えるクロスプラットフォームのツール。 [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 画面録画、スクロールキャプチャ、OCRに対応したスクリーンショット注釈ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
 * [Photon](https://www.piedol.top/photon/) - macOSとWindowsに対応した、ネットワーク通信を行わないオープンソースのスクリーンショット・注釈・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Pinstill](https://pinstill.echovic.com/en/) - 選択範囲をその場で注釈し、コピー、保存、デスクトップへの貼り付けまでできるオープンソースのスクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/Pinstill) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - ぼかし、モザイク、透かしに対応したスクリーンショット注釈・キャンバスツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
 * [Screenshots](https://ciromaciel.click/tools/screenshots) - スクロールキャプチャ、OCR、注釈、ピン留め、MP4 または GIF の画面録画に対応し、ネットワーク通信のコードを持たないオープンソースのメニューバー型スクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/screenshots) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shottr](https://shottr.cc/) - スクロールキャプチャ、OCR、マークアップ機能を備えたスクリーンキャプチャアプリケーション。
@@ -955,14 +959,17 @@ Awesome Mac
 * [Godmode Bot](https://usegodmode.com) - Claudeのサブスクリプションを、専用ブラウザであなたのログイン情報を使ってパソコン作業をこなす常駐エージェントのチームに変えるオープンソースのAI同僚。
 * [GroAsk](https://groask.com) - 選択したテキストをAIアシスタントやCLIエージェントに送れるメニューバーランチャー。
 * [Grux](https://gruxai.com) - アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Hush](https://github.com/OgnjenAdzic28/hush) - AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。 [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
+* [Relay](https://github.com/ahmetcankacar54/relay) - Claudeアプリを複数のアカウント間で切り替え、すべてのアカウントでClaude Codeの履歴を保ち、各アカウントの5時間・週間の上限を表示。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Rota](https://wiltodelta.com/projects/rota/) - Claude Code、Codex、Grok Build、Antigravity、またはシェルでの定期タスクをスケジュールし、結果をひとつの受信箱で確認して会話を続けられるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/rota) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seshka](https://seshka.dev) - 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpotAsk](https://github.com/shiquda/SpotAsk) - すばやい質問のためのネイティブ macOS メニューバー AI アシスタント。まず質問を記録し、自分で設定した AI サービスで回答を得るか、他の AI・アプリ・ターミナルコマンドに送れます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shiquda/SpotAsk)
 * [SummonOS](https://sumonos.rohi-lab.org/) - コーディングエージェントに MCP 経由で Mac のライブ情報を渡し、対応する設定の変更前にスナップショットを保存して元に戻せるようにする、メニューバーアプリと CLI。 [![Open-Source Software][OSS Icon]](https://github.com/RohiRIK/SummonOS) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Tally](https://tally-site.vercel.app) - Claude Code、Codex、Cursor、Grok、OpenCode の利用上限、リセット時刻、消費ペース、コストを表示し、AI コーディングを Wrapped 風に振り返れるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/PratikRai0101/tally) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tendbar](https://github.com/DabuSoft-pl/tendbar) - どの Claude Code セッションが完了したか、入力待ちか、失敗したかを表示し、該当するターミナルのタブへすぐ戻れて、各アカウントの利用上限も追跡するネイティブのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/DabuSoft-pl/tendbar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ThinkWatch Lite](https://thinkwat.ch/lite/) - クライアント設定を変えずに接続先を切り替え、リクエストごとの費用を記録し、送信前に API キーを置き換える、Claude Code や Codex などの AI コーディングクライアント向けのローカルゲートウェイ。 [![Open-Source Software][OSS Icon]](https://github.com/ThinkWatchProject/ThinkWatch-Lite) ![Freeware][Freeware Icon]
 * [TokenMeter](https://priyans-hu.github.io/tokenmeter/) - Claude Codeの使用量、レート制限、コスト、アクティビティのヒートマップを追跡するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Priyans-hu/tokenmeter) ![Freeware][Freeware Icon]
@@ -972,7 +979,7 @@ Awesome Mac
 * [Usage4Claude](https://github.com/f-is-h/Usage4Claude) - Claudeの各種使用量上限をリアルタイムに監視できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/f-is-h/Usage4Claude) ![Freeware][Freeware Icon]
 * [Usagebar](https://bullfighterstudio.com/usagebar) - Claude Code、Codex、Cursor、Kimi Code、z.ai、DeepSeekの使用量の上限とリセット時刻をメニューバーに表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/betoxf/Usagebar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Jan](https://jan.ai/) - コンピューター上で完全にオフラインで動作するChatGPTのオープンソース代替。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
-* [JoeBro](https://joexk1.github.io/joebro/) - チャットとドキュメント編集のためのネイティブSwiftUIワークスペース。OllamaまたはAPI経由のローカルモデル、メモリ、MCPツール、ディープリサーチに対応。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [JoeBro](https://joebro.pages.dev) - コーディングエージェント（Claude Code、Codex、OpenCode）向けのネイティブSwiftUIワークスペース。ファイルを横に開いたまま、MCPによる共有メモリ、夜間タスク、ローカルまたはAPIモデルに対応。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [kwant](https://kwant.si) - 1つのRustバイナリで動くセルフホストのAIボットチーム。スペース、ローカルモデル、引き継ぎ、承認に対応。 [![Open-Source Software][OSS Icon]](https://github.com/alexsergivan/kwant) ![Freeware][Freeware Icon]
 * [Linggen](https://linggen.dev) - 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。 [![Open-Source Software][OSS Icon]](https://github.com/linggen/linggen)
 * [LingShu](https://royzhao1991.github.io/LingShu/) - オープンソースでモデル非依存のmacOSエージェント。検証済みのコード、文書、スライド、コンピュータ操作を提供します。 [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
@@ -1302,6 +1309,7 @@ Awesome Mac
 * [Opera](https://www.opera.com) - 広告ブロック機能でより速く、集中できるブラウジングを体験し、プライベートに閲覧。 ![Freeware][Freeware Icon]
 * [Ora](https://github.com/the-ora/browser) - スペース、タブ管理、垂直サイドバーを備えたオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - ChromeおよびFirefox拡張機能をサポートする軽量WebKitベースのブラウザ。 ![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/en/) - Claude Code や Codex などの ACP エージェントが MCP 経由でログイン済みのタブを操作できる、承認と即時引き継ぎ付きのオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - PythonとQtベースのキーボード駆動のvimライクなブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Roar](https://roarbrowser.app/) - ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Mac用のネイティブブラウザ。 ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
@@ -1433,12 +1441,14 @@ Awesome Mac
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHat](https://github.com/getguruhat/cliphat-macos) - 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/cliphat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [Clipivo](https://clipivo.jishnumahanta.in) - クリップボード履歴を検索しやすく整理し、プライベートに保つローカルファーストのネイティブクリップボードマネージャー。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 入力しながら絞り込み、1キーで貼り付けできるキーボード重視のクリップボード履歴ポップアップ。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clipstack](https://chiranjeebhub.github.io/clipstack-site/) - 検索、種類別フィルター、ピン留め、オプションの iCloud 同期に対応したネイティブのクリップボード履歴アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chiranjeebhub/ClipStack) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipTools](https://macmost.com/cliptools) - コピー、ペースト、テキスト整形を手早くこなせるクリップボードツール集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - ClipMenuをベースにしたmacOS用クリップボード拡張アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
+* [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - macOS・Windows・Android 間の暗号化 LAN 同期、ファイル転送、Android 通知ミラーリング、スクリーンショット＆OCR を備えたローカルファーストのクリップボード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - すべてのコピーを保存し、複数をまとめて、または一つずつ貼り付けるクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高度な機能を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - フォーカス中の入力欄を読み取り、メールアドレスや電話番号など、合う部分だけを貼り付けるクリップボード。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1512,6 +1522,7 @@ Awesome Mac
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [InputBattery](https://github.com/dirkkredinger/InputBattery) - Bluetoothキーボード、マウス、ヘッドセット、AirPodsのバッテリー残量をメニューバーとデスクトップウィジェットに表示し、電池切れの前に警告するアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/InputBattery) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - メニューバーからHomeKitおよびHome Assistantスマートホームを操作。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
@@ -1528,6 +1539,7 @@ Awesome Mac
 * [Menew](https://menew.web.app) - コマンドパレット、クリップボード履歴、ウインドウ整列、スクリーンショット、システムモニター、議事録、Claude Code/Codex の使用量上限をまとめた、オンデバイス AI 搭載のオールインワン メニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Quost/menew) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - メニューバーに月間カレンダーを表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383?platform=mac)
 * [MenubarCC](https://github.com/ksterx/MenubarCC) - Claude Code の各セッション状態をメニューバーのカニで一目表示し、作業中は歩き、入力待ちになると跳ねる。 [![Open-Source Software][OSS Icon]](https://github.com/ksterx/MenubarCC) ![Freeware][Freeware Icon]
+* [MenuBarHome](https://github.com/jryang2026-code/MenuBarHome) - メニューバーから Xiaomi Mi Home と Home Assistant の機器を操作でき、キーボード検索と音声コマンドに対応（旧称 MenuBarMijia）。 [![Open-Source Software][OSS Icon]](https://github.com/jryang2026-code/MenuBarHome) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MenubarX](https://menubarx.app/) - 強力なMacメニューバーブラウザ。Webページをアプリのようにピン留め。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022?platform=mac) ![Freeware][Freeware Icon]
 * [MenuScores](https://menuscores.vercel.app/) - リアルタイムのスポーツニュースとスコアを配信するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [Mixio](https://github.com/RadixIV/Mixio) - アプリ・タブ別音量調整と10バンドEQに対応したネイティブスタイルのメニューバーアプリ。[![Open-Source Software][OSS Icon]](https://github.com/RadixIV/Mixio) ![Freeware][Freeware Icon]
@@ -1601,6 +1613,7 @@ Awesome Mac
 * [Mac Clean](https://github.com/iliyami/MacClean) - 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。 [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
+* [Cleanzo](https://cleanzo.echovic.com/en/) - システムとディスクの使用状況を確認してから、キャッシュや大きなファイル、久しく更新していないビルド成果物を削除するオープンソースのクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/cleanzo) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [DiskPilot](https://diskpilot.live) - 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Devanshgoel-123/diskpilot) ![Freeware][Freeware Icon]
@@ -1689,6 +1702,7 @@ Awesome Mac
 * [Speediness](https://sindresorhus.com/speediness) - インターネット速度を測定。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466?platform=mac)
 * [SATF](https://github.com/tran-minh-khoi/SATF) - ドラッグ中のファイルを軽く振ると、カーソル下に出る円形メニューから形式変換、PDF結合、ZIP圧縮、解凍ができる。 [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - ファイルをドラッグ中にキーを押してホイールにドロップするだけで、変換・切り抜き・圧縮・メタデータ削除・共有ができる完全オフラインのツール。 [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Terento](https://terento.app) - Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。 [![Open-Source Software][OSS Icon]](https://github.com/VooZ2/terento) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6828556832) ![Native App][Native Icon]
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Safari用のオープンソースタブマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [Uptick](https://chengffei.github.io/uptick/) - App Store、Sparkle、Electron の更新フィード、Homebrew から更新を探し、インストール前にダウンロードを検証するオープンソースのアップデーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chengffei/uptick)
@@ -1775,6 +1789,7 @@ Awesome Mac
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 定期スクリーンショットで一日の作業を振り返れるツール。
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - プロジェクトを視覚化、管理、簡素化する最良の方法。プロジェクト管理を簡単に。
 * [OpenClip](https://getopenclip.app) - 選択したテキストから即座にアクションを実行できる、macOS向けの軽量フローティングアクションバー。 [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
+* [OpenGestures](https://github.com/01wil/OpenGestures) - トラックパッドのジェスチャーをウィンドウ、アプリ、ショートカット、スクリプトの操作に割り当てるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/01wil/OpenGestures) ![Freeware][Freeware Icon]
 * [OpenIn](https://loshadki.app/openin4/) - Macにインストールされたアプリを管理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - サイドボタンの再割り当てやDPI・ポーリングレートの設定ができる、Razer Naga V2 HyperSpeed向けのオープンソースRazer Synapse代替ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [PaletteBrain](https://palettebrain.com) - ショートカットキーひとつですべてのMacアプリケーションからChatGPTのパワーにアクセス。
@@ -1806,6 +1821,7 @@ Awesome Mac
 * [Trace](https://trace.techulus.xyz) - Spotlightの代替となるオープンソースのショートカットツールキット。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
 * [Trace](https://github.com/lxyeternal/Trace) - アプリ、ウィンドウ、ファイル、Web ページを自動で記録する時間トラッカー。データはすべて Mac 内に保存。 [![Open-Source Software][OSS Icon]](https://github.com/lxyeternal/Trace) ![Freeware][Freeware Icon]
 * [Trello](https://trello.com) - プロジェクトをカンバンボードで整理するコラボレーションツール。 ![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/app/trello/id1278508951?ls=1&platform=mac)
+* [TripleClick](https://github.com/wilu222/tripleclick) - トラックパッドの3本指クリックを中クリックに変換し、中ボタンドラッグにも対応するオープンソースのメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/wilu222/tripleclick) ![Freeware][Freeware Icon]
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicodeキーボードレイアウトエディター。
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Velja](https://sindresorhus.com/velja) - 特定のブラウザやデスクトップアプリでリンクを開けるブラウザピッカー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
@@ -1896,6 +1912,7 @@ Awesome Mac
 * [Findly](https://findly.rocavence.com) - ショートカットで画面の端から引き出し、他のアプリに切り替えると自動で隠れる Finder 風のファイルドロワー。 [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [SaneClick](https://saneclick.com) - Finder の右クリックメニューにファイル操作、変換、開発者向けアクションを追加する拡張機能。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClick) ![Freeware][Freeware Icon]
 * [FlowVision](https://github.com/netdcy/FlowVision) - macOS向けのウォーターフォールスタイル画像ビューアー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
+* [Lokii](https://lokii.huangy.top) - Everything のような高速な検索体験を提供する、Rust と AppKit で構築されたネイティブ macOS 向け即時ファイル検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/huangy7/lokii) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [fman](https://fman.io) - Sublime Textの機能を統合した初のデュアルペインファイルマネージャー。
 * [ForkLift](http://binarynights.com/forklift/) - macOS向けの最も先進的なデュアルペインファイルマネージャー＆ファイル転送クライアント。
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - ファイル管理アプリ。
@@ -1923,6 +1940,7 @@ Awesome Mac
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS用のカスタムカーソルテーマ。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
 * [Lunar](https://lunar.fyi/) - 外部ディスプレイの輝度、コントラスト、音量の調整をサポート。 [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - 通知バナーの位置や見た目を変え、通知センターのパネルをカスタマイズできるものに置き換えられるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Pokelet](https://smcnab1.github.io/pokelet/) - アニメーションキャラクター、クリックエフェクト、効果音でマウスカーソルに遊び心を加える、軽量なmacOSアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/smcnab1/pokelet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Safelight](https://github.com/mopfaff/Safelight) - カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shifty](http://shifty.natethompson.io) - Night Shiftをより細かく制御できるmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
 * [Snap](http://indragie.com/snap) - アプリを素早く起動。非常に簡単なショートカット管理。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
@@ -1977,6 +1995,7 @@ Awesome Mac
 * [NitroShare](https://nitroshare.net/) - クロスプラットフォームのネットワークファイル転送ユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [NTFSTool](https://ntfstool.com) - カーネル拡張なしで Mac から NTFS を読み書きできる、無料のオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - クリーニング、検証、隠し設定変更をまとめたシステム保守ツール。 ![Freeware][Freeware Icon]
+* [PowerLock](https://github.com/pandengyao/PowerLock) - 電源接続中は自動ロックせず、ふたを閉じても動作を続け、バッテリーに切り替わると通常のスリープに戻すツール。 [![Open-Source Software][OSS Icon]](https://github.com/pandengyao/PowerLock) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - macOS SierraでNTFSへの読み書きアクセス。
 * [stats](https://github.com/exelban/stats) - メニューバー用の無料Macシステムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - 監視、クリーンアップ、診断を行うパフォーマンス管理ツール。
@@ -2016,6 +2035,7 @@ Awesome Mac
 * [AnyDesk](https://anydesk.com) - 複数のマシン間でリモートアクセスを提供。
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - Windows App や mstsc などの標準的なリモートデスクトップクライアントから Mac に接続できるオープンソースの RDP サーバー。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
 * [Glass](https://glassdesk.dev) - Mac と Linux 向けの低遅延リモートデスクトップ。任意のブラウザから操作でき、操作する側には何もインストール不要。 [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
+* [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - リモートMac、Tailscale検出、画面共有、SSH用の軽量メニューバーランチャー。 [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。 [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRPのGUIクライアント。ワンクリックでローカルサービスをインターネットに公開。 [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - PC（Windows、Mac、Linux、Steam Link）向けGameStreamクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
