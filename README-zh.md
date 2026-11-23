@@ -1074,6 +1074,7 @@ Awesome Mac
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。
+* [Jot](https://jot.arunbrahma.com/) - 快速记录菜单栏应用，在任意应用中按一个快捷键即可把想法存入可搜索的本地日志。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/jot-quick-capture/id6785913603)
 * [Knopo](https://github.com/alkalim/Knopo) - 原生 macOS 本地优先大纲笔记应用，以纯 Markdown 文件存储笔记。 [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Knovum](https://github.com/madebyzan/knovum) - 本地优先的二维空间 AI 知识库，集成嵌入式 LanceDB 向量检索、无限画布与端侧 Whisper 语音转录。 [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。 [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
