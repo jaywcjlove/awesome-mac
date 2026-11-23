@@ -1849,6 +1849,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Convoker](https://github.com/varie-ai/convoker) - Type an app name, press Enter, all its windows come to you. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - App switcher for faster window and app switching across multiple screens.
 * [Dimsum](https://github.com/nshi/dimsum) - Minimalist menu bar app that dims inactive windows to highlight the focused one. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
+* [Dock Tile](https://docktile.app) - Put a group of apps behind one Dock icon; click it and they pop up, like a folder on iPhone. [![Open-Source Software][OSS Icon]](https://github.com/k97/dock-tile) ![Freeware][Freeware Icon]
 * [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 * [DockFlip](https://geezery.github.io/DockFlip/) - Dock window lists with browser tabs, a Flip 3D ⌘Tab window switcher and Windows-style snapping in one app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/geezery/DockFlip)
 * [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
