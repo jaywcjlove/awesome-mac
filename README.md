@@ -1355,6 +1355,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Buddy](https://github.com/projects-hacks/buddy) - Study helper in the notch that explains what is on your screen out loud while drawing on it. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [WordLinea](https://wordlinea.com/) - Safari translation extension and vocabulary app that translates web pages, video subtitles and selected words, and saves each word you look up with its sentence for review. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6817321904?pt=129529705&ct=gh-awesome-mac&mt=8&platform=mac)
 
 ## Finance
 

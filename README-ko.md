@@ -1082,6 +1082,7 @@ Awesome Mac
 * [Buddy](https://github.com/projects-hacks/buddy) - 노치에 머무는 학습 도우미. 화면의 내용을 소리 내어 설명하면서 그 위에 그림으로 표시. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - ⌥A로 PDF와 이미지를 포함한 화면의 모든 단어를 찾아보고 검색 가능한 로컬 단어장에 저장. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 개별 외국어 어휘를 수집, 연습 및 정리. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [WordLinea](https://wordlinea.com/) - 웹페이지, 동영상 자막, 선택한 단어를 번역하고 찾아본 단어를 원래 문장과 함께 저장해 퀴즈로 복습하는 Safari 번역 확장 프로그램 및 단어 학습 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6817321904?pt=129529705&ct=gh-awesome-mac&mt=8&platform=mac)
 
 ## 금융
 

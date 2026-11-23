@@ -1347,6 +1347,7 @@ Awesome Mac
 * [Buddy](https://github.com/projects-hacks/buddy) - ノッチに常駐する学習アシスタント。画面の内容を声で説明しながら、その上に書き込んで示す。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [WordLinea](https://wordlinea.com/) - ウェブページ、動画字幕、選択した単語を翻訳し、調べた単語を元の文と一緒に保存してクイズで復習できる Safari 翻訳拡張機能と単語学習アプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6817321904?pt=129529705&ct=gh-awesome-mac&mt=8&platform=mac)
 
 ## ファイナンス
 
