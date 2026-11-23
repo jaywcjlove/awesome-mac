@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:03:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pokelet</title>
+      <link>https://smcnab1.github.io/pokelet/</link>
+      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
+      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
+      <category>Utilitários / Melhorias de Qualidade de Vida</category>
+      <description>Category: Utilitários / Melhorias de Qualidade de Vida
+App: Pokelet
+Description: Um app leve e divertido para macOS que dá vida ao cursor com personagens animados, efeitos de clique e sons.
+Website: https://smcnab1.github.io/pokelet/
+Open Source: https://github.com/smcnab1/pokelet
+Commit: Add Pokelet to Quality of Life Improvements (#4912)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Melhorias de Qualidade de Vida<br/>App: Pokelet<br/>Description: Um app leve e divertido para macOS que dá vida ao cursor com personagens animados, efeitos de clique e sons.<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
+    </item>
     <item>
       <title>Localix Terminal</title>
       <link>https://terminal.localix.ai</link>
@@ -725,21 +740,6 @@ Open Source: https://github.com/haystackeditor/haystack-editor
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Haystack Editor<br/>Description: Editor de código com interface em canvas para melhor compreensão do código.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Helix</title>
-      <link>https://helix-editor.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Helix</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Helix
-Description: Um editor de texto modal pós-moderno.
-Website: https://helix-editor.com/
-Open Source: https://github.com/helix-editor/helix/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Helix<br/>Description: Um editor de texto modal pós-moderno.<br/>Website: https://helix-editor.com/<br/>Open Source: https://github.com/helix-editor/helix/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

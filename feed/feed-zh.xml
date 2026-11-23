@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:03:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pokelet</title>
+      <link>https://smcnab1.github.io/pokelet/</link>
+      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
+      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Pokelet
+Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。
+Website: https://smcnab1.github.io/pokelet/
+Open Source: https://github.com/smcnab1/pokelet
+Commit: Add Pokelet to Quality of Life Improvements (#4912)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Pokelet<br/>Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
+    </item>
     <item>
       <title>Traycer</title>
       <link>https://traycer.ai</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/raistlinsha-plus/inkstone
 Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Inkstone (砚台)<br/>Description: 开源 Markdown 工作台，可将选定笔记整理为 Wiki，并在 AI 回答中引用原文段落（提供 Apple Silicon 源码预览）。<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinto Notes</title>
-      <link>https://pintonotes.com/</link>
-      <guid isPermaLink="false">373aea848d99b7d725ea12e7b3ea695904e09049:Pinto Notes</guid>
-      <pubDate>Wed, 18 Nov 2026 05:54:39 GMT</pubDate>
-      <category>阅读与写作工具 / 笔记</category>
-      <description>Category: 阅读与写作工具 / 笔记
-App: Pinto Notes
-Description: 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。
-Website: https://pintonotes.com/
-Open Source: https://github.com/pinto-notes/pinto-notes
-Commit: Rename Amber Notes to Pinto Notes (#3437)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / 笔记<br/>App: Pinto Notes<br/>Description: 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。<br/>Website: https://pintonotes.com/<br/>Open Source: https://github.com/pinto-notes/pinto-notes<br/>Commit: Rename Amber Notes to Pinto Notes (#3437)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/373aea848d99b7d725ea12e7b3ea695904e09049]]></content:encoded>
     </item>
   </channel>
 </rss>
