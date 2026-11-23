@@ -1362,6 +1362,7 @@ Awesome Mac
 * [ezNTFS](https://ixiehao.github.io/ezNTFS/) - macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ezNTFS) ![Freeware][Freeware Icon]
 * [NTFSTool](https://ntfstool.com) - 커널 확장 없이 Mac에서 NTFS를 읽고 쓰는 무료 오픈소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/ntfstool/ntfstool) [![App Store][app-store Icon]](https://apps.apple.com/app/id1510209857) ![Freeware][Freeware Icon]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - 정리, 점검, 숨은 설정 변경을 묶은 시스템 유지보수 도구. ![Freeware][Freeware Icon]
+* [Ping Warden](https://pingwarden.app) - Wi-Fi 지연 시간을 측정하고 AWDL을 일시 중지해 클라우드 게임의 랙 스파이크를 줄이는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/oliverames/ping-warden)
 * [Sensei](https://sensei.app/) - 모니터링, 정리, 하드웨어 진단을 제공하는 성능 관리 도구.
 * [SiliconScope](https://siliconscope.calidalab.ai) - 免授权的 Apple Silicon 系统监控工具（菜单栏 + 仪表盘），支持 ANE、媒体引擎、内存带宽追踪以及 E/P 核性能分解。 [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
 * [Sleepless](https://github.com/Aboudjem/Sleepless) - 덮개를 닫아도 절전을 막고 자동 종료 타이머와 배터리 하한 보호를 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Aboudjem/Sleepless)
