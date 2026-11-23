@@ -575,6 +575,7 @@ Awesome Mac
 * [Rockxy](https://rockxy.io) - リクエストの傍受、確認、変更、再送に対応したオープンソースのHTTP(S)デバッグプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) - ネットワークトラフィックを快適に監視するアプリケーション。 [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
 * [Tracexy](https://rockxy.io/tracexy) - ライブトラフィックのキャプチャとPCAP/PCAPNGファイルのローカル分析に対応した、オープンソースのセッション中心型ネットワークインテリジェンスツール。 [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) ![Freeware][Freeware Icon]
+* [tunnel](https://github.com/e2e-next/tunnel) - AIコーディングエージェントがMCP経由で操作し、アプリのAPIリクエストを記録、再生、モック、意図的に失敗させられるオープンソースのHTTPSデバッグプロキシ。 [![Open-Source Software][OSS Icon]](https://github.com/e2e-next/tunnel) ![Freeware][Freeware Icon]
 * [WiFi Lens](https://github.com/SHIINASAMA/wifi-lens) - ネイティブなオープンソースWi-Fiアナライザーおよびネットワーク診断アプリ。リアルタイムスペクトラムスキャン、チャネル混雑の可視化、BLEデバイストラッキングに対応。 [![Open-Source Software][OSS Icon]](https://github.com/SHIINASAMA/wifi-lens) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界で最も有名で広く使われているネットワークプロトコルアナライザー。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - API設計、ドキュメント、デバッグ、モック、テストのためのオールインワンワークスペース。

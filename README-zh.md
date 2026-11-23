@@ -373,6 +373,7 @@ Awesome Mac
 * [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Tracexy](https://rockxy.io/tracexy) - 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。 [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) ![Freeware][Freeware Icon]
+* [tunnel](https://github.com/e2e-next/tunnel) - 可由 AI 编码助手通过 MCP 驱动的开源 HTTPS 调试代理，能录制、回放、mock 或故意弄坏 App 的 API 请求。 [![Open-Source Software][OSS Icon]](https://github.com/e2e-next/tunnel) ![Freeware][Freeware Icon]
 * [WiFi Lens](https://github.com/SHIINASAMA/wifi-lens) - 原生开源 Wi-Fi 分析器和网络诊断应用，支持实时频谱扫描、信道拥塞可视化和 BLE 设备追踪。 [![Open-Source Software][OSS Icon]](https://github.com/SHIINASAMA/wifi-lens) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
