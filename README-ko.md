@@ -1109,6 +1109,7 @@ Awesome Mac
 * [fob](https://getfob.app) - SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - 기기 내 얼굴 인식으로 잠금 화면을 해제하고 선택한 앱에 프라이버시 보호막을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 무단 네트워크 트래픽을 차단하는 무료 방화벽. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
+* [macharden](https://github.com/jankesec/macharden) - 엔터프라이즈급 macOS 보안 감사, 기준선 드리프트 및 강화 엔진. [![Open-Source Software][OSS Icon]](https://github.com/jankesec/macharden) ![Freeware][Freeware Icon]
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID, Apple Watch 또는 비밀번호로 원하는 macOS 앱을 잠그고 모든 모니터에 블러 오버레이를 표시하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 악성코드를 검사하고 제거하는 보안 도구. ![Freeware][Freeware Icon]
 * [OverSight](https://objective-see.com/products/oversight.html) - 마이크와 웹캠 접근을 감시하는 도구. ![Freeware][Freeware Icon]
