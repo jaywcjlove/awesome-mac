@@ -724,6 +724,7 @@ Awesome Mac
 * [TernaryCode](https://ilhamnadhif.github.io/ternarycode/) - 複数のプロジェクトとその中のコーディングエージェントをまとめて扱い、どのエージェントが入力を待っているかを表示するターミナルワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/ilhamnadhif/ternarycode) ![Freeware][Freeware Icon]
 * [tty7](https://github.com/l0ng-ai/tty7) - 純粋なRustで書かれたGPUレンダリングのデーモンバックドターミナル。tmuxなしでセッションを永続化できます。 [![Open-Source Software][OSS Icon]](https://github.com/l0ng-ai/tty7) ![Freeware][Freeware Icon]
 * [Vesta](https://github.com/vestaterm/Vesta) - libghostty 上に構築されたネイティブ macOS ターミナル。コーディングエージェントを並列実行できます。 [![Open-Source Software][OSS Icon]](https://github.com/vestaterm/Vesta) ![Freeware][Freeware Icon]
+* [Wardterm](https://wardterm.com/) - SSH, SFTP and Mosh client with an end-to-end encrypted vault for servers, keys and commands that syncs across devices, also on Windows, Linux, iPhone, iPad and Android. ![Freeware][Freeware Icon]
 * [Warp](https://www.warp.dev) - Rustベースで超高速、モダンアプリのようにゼロから再設計されたターミナル。 [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - ファイルプレビュー、Webブラウジング、AIツールを備えたオープンソースターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Rustで実装されたGPUアクセラレーション対応のクロスプラットフォームターミナルエミュレーターおよびマルチプレクサー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
