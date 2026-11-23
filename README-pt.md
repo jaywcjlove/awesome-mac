@@ -733,6 +733,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Figma](https://www.figma.com/) - A ferramenta colaborativa de design de interfaces, para gráficos vetoriais e prototipagem de UI. ![Freeware][Freeware Icon]
 * [FontForge](https://fontforge.github.io/) - Editor de fontes gratuito e de código aberto. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - O GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
+* [#HEX](https://geragaraza.com/apps/hex/) - Seletor de cores: um clique em qualquer pixel da tela copia seu código HEX. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/hex) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [inklet](https://tenonedesign.com/inklet.php) - Transforme o trackpad do seu Mac em uma prancheta de desenho.
 * [Inkscape](https://inkscape.org/en/) - Editor profissional de gráficos vetoriais. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - Marcação nativa de pintura e capturas de tela: selos de etapas, pixelização, Instant Alpha. Sem conta ou telemetria. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
