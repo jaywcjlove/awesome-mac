@@ -1940,6 +1940,7 @@ Awesome Mac
 * [Safelight](https://github.com/mopfaff/Safelight) - カラーフィルタ、明るさ、ライト/ダークの外観をスケジュールで切り替え、夜は画面を深い赤へと変えていくオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shifty](http://shifty.natethompson.io) - Night Shiftをより細かく制御できるmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
 * [Snap](http://indragie.com/snap) - アプリを素早く起動。非常に簡単なショートカット管理。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id418073146?platform=mac)
+* [SpareScreen](https://getsparescreen.com) - Android タブレットや任意のブラウザを Wi-Fi 経由で Mac の追加ディスプレイにする有料アプリ（7日間の無料トライアルあり）。 ![Native App][Native Icon]
 * [Shareful](https://sindresorhus.com/shareful) - コピー、保存、開くアクションでシステム共有メニューを強化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256?platform=mac)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - マウスムーバーでMacのスリープを防止。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656?platform=mac)
 
