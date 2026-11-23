@@ -1644,6 +1644,7 @@ Awesome Mac
 * [TocaPad](https://github.com/getguruhat/tocapad-macos) - 滑动触控板边缘调节音量和亮度，双击角落触发快捷操作。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/tocapad-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Today](https://sindresorhus.com/today) - 在菜单栏查看今天日程和日历事件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928?platform=mac)
 * [Topnotchers](https://github.com/joey-david/topnotchers) - 把 MacBook 刘海变成 Claude Code 和 Codex 会话的小窝，每个会话一个动画小精灵，可直接在刘海里回答提问和授权请求。 [![Open-Source Software][OSS Icon]](https://github.com/joey-david/topnotchers) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Tuck](https://desktopgoods.app/apps/tuck) - 将菜单栏图标收纳到一条分隔线后，点击或快捷键即可再次显示，无需额外权限。 ![Native App][Native Icon]
 * [twistel](https://github.com/jonasnlt/twistel) - 菜单栏文件转换工具：拖动文件时按住一个键，把文件放到环形菜单上即可转换图片、音频、视频和文档，还支持压缩、OCR、PDF 涂黑和签名，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/jonasnlt/twistel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 将预先准备好的脚本逐行输入到任意应用，每按一次快捷键输入一行，以真实按键和自然的节奏模拟人工输入，适用于产品演示录制和现场演讲。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 为键盘输入添加机械键盘音效的工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
