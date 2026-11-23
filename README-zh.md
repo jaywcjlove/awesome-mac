@@ -1393,6 +1393,7 @@ Awesome Mac
 * [BetterTouchTool](https://folivora.ai/) - 自定义触控板、鼠标和键盘的手势与快捷操作。
 * [Brink](https://brinknotch.site) - 在屏幕边缘显示刘海，悬停即可快速访问 Notion 页面和任务。 [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR
+* [CalDeck](https://projectsbyms.eu/caldeck/) - 整合 Microsoft 365、Outlook.com、iCloud 和 Google 账户的日历，支持自然语言创建事件和一键加入 Teams 会议。 ![Native App][Native Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - 让妙控鼠标在你点击时不再滚动页面。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - CheatSheet 是一款 Mac 上的非常实用的快捷键快速提醒工具。 ![Freeware][Freeware Icon]
 * [Cadran](https://cadranapp.com) - 在Mac桌面壁纸和屏幕保护程序上显示22种可自定义的时钟表盘。
