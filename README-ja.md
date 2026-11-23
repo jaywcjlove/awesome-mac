@@ -962,6 +962,7 @@ Awesome Mac
 * [Hush](https://github.com/OgnjenAdzic28/hush) - AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。 [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
+* [Relay](https://github.com/ahmetcankacar54/relay) - Claudeアプリを複数のアカウント間で切り替え、すべてのアカウントでClaude Codeの履歴を保ち、各アカウントの5時間・週間の上限を表示。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seshka](https://seshka.dev) - 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
