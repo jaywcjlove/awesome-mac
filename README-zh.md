@@ -786,6 +786,7 @@ Awesome Mac
 * [BearyChat](https://bearychat.com/) - 互联网团队协作，沟通工具。
 * [BlurScreen App](https://www.blurscreen.app) - 可在录屏或共享时即时模糊屏幕敏感内容的工具。
 * [Discord](https://discordapp.com/) - 集语音、文字和社区于一体的聊天平台。
+* [faro](https://getfaro.dev) - 非官方的终端 Signal 客户端，专为 tmux 和 SSH 打造。 [![Open-Source Software][OSS Icon]](https://github.com/harababurel/faro) ![Freeware][Freeware Icon]
 * [Franz](http://meetfranz.com/) - 将多个聊天服务整合到一起的通讯工具。![Freeware][Freeware Icon]
 * [Ferdium](https://ferdium.org/) - 将多个 Web 应用整合到一起的消息工作区。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [FinchGram](https://www.finchgram.com/) - 基于 TDLib 的非官方开源 Telegram 客户端，内置截图工具、WebDAV 下载，并可选择开启供 AI 助手使用的 MCP 接入。 [![Open-Source Software][OSS Icon]](https://github.com/FinchGram/FinchGram) ![Freeware][Freeware Icon]
