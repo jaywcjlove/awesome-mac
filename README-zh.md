@@ -473,6 +473,7 @@ Awesome Mac
 * [SSHFire](https://github.com/aralozaltin/sshfire) - 跨平台 SSH 客户端，集成终端、会话管理器和跟随当前目录的 SFTP 文件浏览器。 [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [SSHTermaq](https://f1resh.github.io/sshtermaq/) - 兼容 PuTTY 的 SSH、Telnet 和串口终端，支持标签页、分屏、SFTP/SCP 文件管理器，并可一键导入 PuTTY 会话。 [![Open-Source Software][OSS Icon]](https://github.com/f1resh/sshtermaq) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/terminus) - 免费的终端工具，基于 Web 技术的终端，用 TypeScript 写成的跨平台终端工具。深受 hyper 启发。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+* [Terminay](https://terminay.com) - 按项目把终端、文件、宏和编码 agent 集中在一起的终端工作区。 [![Open-Source Software][OSS Icon]](https://github.com/markwylde/terminay) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。 ![Freeware][Freeware Icon]
 * [Termstead](https://khorenyan.com/termstead/) - 原生 SSH 客户端，支持会话树、跳板机，终端旁即有 SFTP。 [![Open-Source Software][OSS Icon]](https://github.com/pkhorenyan/termstead) ![Freeware][Freeware Icon]
 * [TernaryCode](https://ilhamnadhif.github.io/ternarycode/) - 在一个窗口里管理多个项目及其中编程代理的终端工作区，会显示哪个代理正在等你。 [![Open-Source Software][OSS Icon]](https://github.com/ilhamnadhif/ternarycode) ![Freeware][Freeware Icon]
