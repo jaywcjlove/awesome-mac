@@ -5,9 +5,51 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:20:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ContextRing</title>
+      <link>https://github.com/vladsboev-web/ContextRing</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:ContextRing</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: ContextRing
+Description: Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats.
+Open Source: https://github.com/vladsboev-web/ContextRing
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: ContextRing<br/>Description: Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats.<br/>Open Source: https://github.com/vladsboev-web/ContextRing<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
+    <item>
+      <title>SpatialAudio</title>
+      <link>https://github.com/vladsboev-web/SpatialAudio</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:SpatialAudio</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: SpatialAudio
+Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.
+Open Source: https://github.com/vladsboev-web/SpatialAudio
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: SpatialAudio<br/>Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.<br/>Open Source: https://github.com/vladsboev-web/SpatialAudio<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
+    <item>
+      <title>TurboControl</title>
+      <link>https://github.com/vladsboev-web/TurboControl</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:TurboControl</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>Utilities / System Related Tools</category>
+      <description>Category: Utilities / System Related Tools
+App: TurboControl
+Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.
+Open Source: https://github.com/vladsboev-web/TurboControl
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TurboControl<br/>Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
     <item>
       <title>Pokelet</title>
       <link>https://smcnab1.github.io/pokelet/</link>
@@ -700,49 +742,6 @@ Open Source: https://github.com/yuzen9622/mm2t
 Commit: Add mm2t to the multilingual audio tool lists (#4748)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: mm2t<br/>Description: Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries.<br/>Website: https://mm2t.yuzen.dev/en/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
-    </item>
-    <item>
-      <title>Hourmint</title>
-      <link>https://hourmint.abdur.tech</link>
-      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
-      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Hourmint
-Description: Menu bar time tracker for freelancers with a work log, timesheets and PDF invoices.
-Website: https://hourmint.abdur.tech
-Open Source: https://github.com/abdurrahmanriyad/hourmint
-Commit: Add Hourmint to Productivity (#4747)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Hourmint<br/>Description: Menu bar time tracker for freelancers with a work log, timesheets and PDF invoices.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
-    </item>
-    <item>
-      <title>Fenestra</title>
-      <link>https://github.com/PRMotorWorks/Fenestra</link>
-      <guid isPermaLink="false">af15b5040320bc4233af3a1badd029e66ec5fa82:Fenestra</guid>
-      <pubDate>Thu, 19 Nov 2026 02:38:45 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Fenestra
-Description: Windows 11 desktop for macOS with a taskbar, Start menu, Snap Layouts, Alt+Tab and clipboard history.
-Open Source: https://github.com/PRMotorWorks/Fenestra
-Commit: Add Fenestra to Window Management (#4740)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Fenestra<br/>Description: Windows 11 desktop for macOS with a taskbar, Start menu, Snap Layouts, Alt+Tab and clipboard history.<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Monitor</title>
-      <link>https://github.com/paveler/agent-monitor</link>
-      <guid isPermaLink="false">6e63bdc7a84d8161567bddc688482dc8fe5f7a0e:Agent Monitor</guid>
-      <pubDate>Thu, 19 Nov 2026 02:33:11 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: Agent Monitor
-Description: Open-source desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits.
-Open Source: https://github.com/paveler/agent-monitor
-Commit: Add Agent Monitor to Developer Utilities (#4745)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Agent Monitor<br/>Description: Open-source desktop widgets and menu bar app that show which Claude Code and Codex sessions are waiting on you, open them on click, and track usage limits.<br/>Open Source: https://github.com/paveler/agent-monitor<br/>Commit: Add Agent Monitor to Developer Utilities (#4745)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e]]></content:encoded>
     </item>
   </channel>
 </rss>

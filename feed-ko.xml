@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:20:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ContextRing</title>
+      <link>https://github.com/vladsboev-web/ContextRing</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:ContextRing</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>개발 도구 / 개발자 유틸리티</category>
+      <description>Category: 개발 도구 / 개발자 유틸리티
+App: ContextRing
+Description: Google Antigravity 2.0용 네이티브 macOS 플로팅 컨텍스트 링 및 메뉴 바 모니터로, 로컬 컨텍스트 분석과 24시간/7일 통계를 제공합니다.
+Open Source: https://github.com/vladsboev-web/ContextRing
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: ContextRing<br/>Description: Google Antigravity 2.0용 네이티브 macOS 플로팅 컨텍스트 링 및 메뉴 바 모니터로, 로컬 컨텍스트 분석과 24시간/7일 통계를 제공합니다.<br/>Open Source: https://github.com/vladsboev-web/ContextRing<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
     <item>
       <title>Pokelet</title>
       <link>https://smcnab1.github.io/pokelet/</link>
@@ -728,20 +742,6 @@ Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
 Commit: Add DisplayLatch to Menu Bar Tools (#4738)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DisplayLatch<br/>Description: 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
-    </item>
-    <item>
-      <title>Inkstone (砚台)</title>
-      <link>https://github.com/raistlinsha-plus/inkstone</link>
-      <guid isPermaLink="false">a6394b21790b39e22cdaa9139b6682e25b020ff5:Inkstone (砚台)</guid>
-      <pubDate>Wed, 18 Nov 2026 07:08:31 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Inkstone (砚台)
-Description: 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰).
-Open Source: https://github.com/raistlinsha-plus/inkstone
-Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Inkstone (砚台)<br/>Description: 선택한 노트로 위키를 만들고 AI 답변에서 원문을 확인할 수 있는 오픈 소스 마크다운 작업 공간(Apple Silicon용 소스 프리뷰).<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
     </item>
   </channel>
 </rss>

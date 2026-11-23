@@ -5,9 +5,37 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:20:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ContextRing</title>
+      <link>https://github.com/vladsboev-web/ContextRing</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:ContextRing</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>开发者工具 / 开发者实用工具</category>
+      <description>Category: 开发者工具 / 开发者实用工具
+App: ContextRing
+Description: 面向 Google Antigravity 2.0 的原生 macOS 悬浮上下文监控环与菜单栏工具，提供本地上下文拆解及 24 小时/7 天统计。
+Open Source: https://github.com/vladsboev-web/ContextRing
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: ContextRing<br/>Description: 面向 Google Antigravity 2.0 的原生 macOS 悬浮上下文监控环与菜单栏工具，提供本地上下文拆解及 24 小时/7 天统计。<br/>Open Source: https://github.com/vladsboev-web/ContextRing<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
+    <item>
+      <title>TurboControl</title>
+      <link>https://github.com/vladsboev-web/TurboControl</link>
+      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:TurboControl</guid>
+      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: TurboControl
+Description: 适用于 Intel Mac 的轻量级菜单栏工具：一键切换 Intel Turbo Boost、风扇转速控制和实时 CPU/GPU 温度监控。
+Open Source: https://github.com/vladsboev-web/TurboControl
+Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TurboControl<br/>Description: 适用于 Intel Mac 的轻量级菜单栏工具：一键切换 Intel Turbo Boost、风扇转速控制和实时 CPU/GPU 温度监控。<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
+    </item>
     <item>
       <title>Pokelet</title>
       <link>https://smcnab1.github.io/pokelet/</link>
@@ -713,35 +741,6 @@ Open Source: https://github.com/PapilotAI/papilot
 Commit: Add Papilot to AI Tools (#4737)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Papilot<br/>Description: 开源桌面应用，支持直接在排好版的 PDF 上画框批注，由 Claude Code、Codex、Cursor 等编程智能体在独立 Git 工作树中改稿，并以渲染后的排版级前后对比审阅合并。<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
-    </item>
-    <item>
-      <title>DisplayLatch</title>
-      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
-      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
-      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: DisplayLatch
-Description: 让外接显示器在睡眠和重启后保持连接，并提供 DDC 亮度调节、分辨率切换和无需拔线即可断开显示器的功能。
-Website: https://hitesh-sisara.github.io/DisplayLatch/
-Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
-Commit: Add DisplayLatch to Menu Bar Tools (#4738)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: DisplayLatch<br/>Description: 让外接显示器在睡眠和重启后保持连接，并提供 DDC 亮度调节、分辨率切换和无需拔线即可断开显示器的功能。<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
-    </item>
-    <item>
-      <title>Inkstone (砚台)</title>
-      <link>https://github.com/raistlinsha-plus/inkstone</link>
-      <guid isPermaLink="false">a6394b21790b39e22cdaa9139b6682e25b020ff5:Inkstone (砚台)</guid>
-      <pubDate>Wed, 18 Nov 2026 07:08:31 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Inkstone (砚台)
-Description: 开源 Markdown 工作台，可将选定笔记整理为 Wiki，并在 AI 回答中引用原文段落（提供 Apple Silicon 源码预览）。
-Open Source: https://github.com/raistlinsha-plus/inkstone
-Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Inkstone (砚台)<br/>Description: 开源 Markdown 工作台，可将选定笔记整理为 Wiki，并在 AI 回答中引用原文段落（提供 Apple Silicon 源码预览）。<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
     </item>
   </channel>
 </rss>
