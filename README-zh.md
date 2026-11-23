@@ -1505,6 +1505,7 @@ Awesome Mac
 * [xScope](http://xscopeapp.com/) - 用于测量、检查和测试屏幕布局的工具集。
 * [Z](https://github.com/rupa/z) - 通过输入部分路径快速跳转常用目录。
 * [超级右键](https://www.better365.cn/apps.html) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?platform=mac)
+* [OmniPulse](https://github.com/Carver-D/OmniPulse-Download) - 轻量级 macOS 菜单栏原生效率工具，集成了普通鼠标平滑滚轮、系统级离线截图翻译 (OCR)、剪贴板历史及文件夹染色。 ![Freeware][Freeware Icon]
 
 ### 剪贴板工具
 
