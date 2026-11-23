@@ -1305,7 +1305,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tercana](https://rumpony.github.io/Tercana/) - Menu bar companion for PS5 Remote Play: live on-device subtitle translation into any language, plus a PSN trophy tracker. [![Open-Source Software][OSS Icon]](https://github.com/Rumpony/Tercana) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - Translation app for words, phrases, and images in 100+ languages. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
-* [Typeferry](https://typeferry.com/) - Menu bar app that translates as you type in chat apps, with a back-translation to check before you send.
+* [Typeferry](https://typeferry.com/) - Menu bar app that translates as you type in chat apps, with a back-translation to check before you send. [![App Store][app-store Icon]](https://apps.apple.com/app/id6833839641?platform=mac)
 
 ## Education
 
