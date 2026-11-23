@@ -254,6 +254,7 @@ Awesome Mac
 * [Orca](https://onorca.dev) - 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
 * [Sikemux](https://sikemux.com) - 开源的原生编程代理工作区（Claude Code、Codex、OpenCode、Pi），每个对话旁都有终端、Git、编辑器和浏览器标签页。 [![Open-Source Software][OSS Icon]](https://github.com/nodelike/sikemux) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - 开源的编程代理桌面应用（Claude Code、Codex、OpenCode、Cursor），多个代理可以共享同一个线程，每个线程都有独立的 git worktree。 [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
+* [Traycer](https://traycer.ai) - 开源桌面应用，可从同一份共享计划并行运行 22 个编程代理和模型提供商。 [![Open-Source Software][OSS Icon]](https://github.com/traycerai/traycer) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - 由 Atom 和 Tree-sitter 的创建者开发的高性能多人代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### 开发者实用工具
