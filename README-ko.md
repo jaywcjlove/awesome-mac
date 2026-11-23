@@ -1131,6 +1131,7 @@ Awesome Mac
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [LockPlus](https://github.com/steiale/lockplus) - macOS가 직접 적용하는 킬 스위치를 갖춘 WireGuard 및 OpenVPN 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/steiale/lockplus) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mullvad VPN](https://mullvad.net) - 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
+* [Proton VPN Menu Bar](https://github.com/stevelacey/proton-vpn-menubar) - 비공식 Proton VPN 메뉴 막대 앱. 국가 검색, Secure Core, 킬 스위치, 포트 포워딩을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/stevelacey/proton-vpn-menubar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrustTunnel](https://trusttunnel.org/) - 현대적인 오픈 소스 VPN 프로토콜로, 원래 AdGuard VPN에서 개발되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/TrustTunnel/TrustTunnel) ![Freeware][Freeware Icon]
 * [Tunnelbear](https://www.tunnelbear.com) - 안전한 브라우징과 위치 전환을 위한 간단한 VPN 서비스. ![Freeware][Freeware Icon]
 * [unbraid](https://unbraid.app) - 앱별 VPN 클라이언트. 앱마다 다른 출구를 쓰거나 VPN을 거치지 않게 할 수 있고, 그동안 Tailscale은 계속 연결됩니다. [![Open-Source Software][OSS Icon]](https://github.com/quiet-crafts/unbraid-mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
