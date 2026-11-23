@@ -931,6 +931,7 @@ Awesome Mac
 * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - Apple Silicon 및 Intel Mac용 비공식 플레이어 및 다운로더로, 중국 숏폼 드라마 서비스 Hongguo, Xifan, Hema를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
+* [JackMate](https://jackmate.app) - JACK 오디오 서버를 시작, 설정, 연결하는 네이티브 macOS 앱으로, 시각적 패치베이, 저장 가능한 스튜디오, 메뉴 막대 모드를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/zinc75/JackMate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LazyTune](https://github.com/Vic3z/LazyTune) - 앱별 볼륨 믹서와 웹 브라우저 및 데스크톱 플레이어용 범용 미디어 키(F7/F8/F9) 컨트롤러를 제공하는 경량 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/Vic3z/LazyTune) ![Freeware][Freeware Icon]
 * [LMMS](https://lmms.io) - 음악 제작을 위한 오픈 소스 디지털 오디오 워크스테이션. [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
