@@ -240,6 +240,7 @@ Awesome Mac
 * [Typeset](https://typeset.md) - 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원). [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](http://www.typora.io/) - 원활한 라이브 미리보기를 제공하는 미니멀 마크다운 편집기.
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac, iPad, iPhone을 위한 궁극의 쓰기 앱.
+* [Wymark](https://wymark.app/) - 댓글과 변경 내용 추적을 지원하며 파일을 일반 마크다운으로 유지하는 WYSIWYG 마크다운 편집기. ![Freeware][Freeware Icon]
 * [Zettlr](https://www.zettlr.com/) - 21세기를 위한 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
 ### 노트 작성

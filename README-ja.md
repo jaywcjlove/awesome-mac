@@ -267,6 +267,7 @@ Awesome Mac
 * [Typeset](https://typeset.md) - ファイル変更時にライブ再読み込みするネイティブmacOS Markdownリーダー。Finderクイックルック対応。 [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Typora](http://www.typora.io/) - シームレスなライブプレビューを備えた真にミニマルなMarkdownエディタ。
 * [Ulysses](https://www.ulyssesapp.com/features/) - Mac、iPad、iPhone用の究極のライティングアプリ。
+* [Wymark](https://wymark.app/) - コメントと変更履歴を備え、ファイルをプレーンなMarkdownのまま保つWYSIWYG Markdownエディタ。 ![Freeware][Freeware Icon]
 * [Zettlr](https://www.zettlr.com/) - 21世紀のためのMarkdownエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
 ### メモ・ノート
