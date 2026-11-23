@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:49:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PowerLock</title>
+      <link>https://github.com/pandengyao/PowerLock</link>
+      <guid isPermaLink="false">a8e4f261464ed42c736946a05bb8aad3fef9eb9e:PowerLock</guid>
+      <pubDate>Mon, 23 Nov 2026 15:49:34 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: PowerLock
+Description: 전원 연결 중에는 자동 잠금 없이 덮개를 닫아도 계속 동작하고, 배터리로 바뀌면 일반 절전으로 돌아가는 도구.
+Open Source: https://github.com/pandengyao/PowerLock
+Commit: Add PowerLock to System Related Tools (#4930)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a8e4f261464ed42c736946a05bb8aad3fef9eb9e</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: PowerLock<br/>Description: 전원 연결 중에는 자동 잠금 없이 덮개를 닫아도 계속 동작하고, 배터리로 바뀌면 일반 절전으로 돌아가는 도구.<br/>Open Source: https://github.com/pandengyao/PowerLock<br/>Commit: Add PowerLock to System Related Tools (#4930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a8e4f261464ed42c736946a05bb8aad3fef9eb9e]]></content:encoded>
+    </item>
     <item>
       <title>Lokii</title>
       <link>https://lokii.huangy.top</link>
@@ -728,21 +742,6 @@ Open Source: https://github.com/yuzen9622/mm2t
 Commit: Add mm2t to the multilingual audio tool lists (#4748)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: mm2t<br/>Description: 데이터를 로컬에 저장하고 기기에서 화자를 식별하며 선택한 서비스로 전사와 요약을 생성하는 회의 녹음 도구.<br/>Website: https://mm2t.yuzen.dev/en/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
-    </item>
-    <item>
-      <title>Hourmint</title>
-      <link>https://hourmint.abdur.tech</link>
-      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
-      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Hourmint
-Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.
-Website: https://hourmint.abdur.tech
-Open Source: https://github.com/abdurrahmanriyad/hourmint
-Commit: Add Hourmint to Productivity (#4747)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Hourmint<br/>Description: 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
     </item>
   </channel>
 </rss>
