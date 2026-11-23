@@ -1504,6 +1504,7 @@ Awesome Mac
 * [Wox](https://wox-launcher.github.io/Wox/) - 开源跨平台启动器，支持快速本地搜索和插件扩展。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 用于测量、检查和测试屏幕布局的工具集。
 * [Z](https://github.com/rupa/z) - 通过输入部分路径快速跳转常用目录。
+* [ZenView](https://www.getzenview.com) - 注重隐私的色情内容拦截器，在本地设备上检测浏览器和应用中的露骨内容。
 * [超级右键](https://www.better365.cn/apps.html) - 一款finder右键菜单扩展，包括了大量便捷工具比如新建文件，直接打开终端等 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE-irightmouse/id1497428978?platform=mac)
 
 ### 剪贴板工具
