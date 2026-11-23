@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:08:05 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Lokii</title>
+      <link>https://lokii.huangy.top</link>
+      <guid isPermaLink="false">d702ee188e9ee2153153ecf31d5f6e2b5844aff3:Lokii</guid>
+      <pubDate>Mon, 23 Nov 2026 11:08:05 GMT</pubDate>
+      <category>ユーティリティ / Finderツール</category>
+      <description>Category: ユーティリティ / Finderツール
+App: Lokii
+Description: Everything のような高速な検索体験を提供する、Rust と AppKit で構築されたネイティブ macOS 向け即時ファイル検索ツール。
+Website: https://lokii.huangy.top
+Open Source: https://github.com/huangy7/lokii
+Commit: Add Lokii to Finder Tools (#4922)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d702ee188e9ee2153153ecf31d5f6e2b5844aff3</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / Finderツール<br/>App: Lokii<br/>Description: Everything のような高速な検索体験を提供する、Rust と AppKit で構築されたネイティブ macOS 向け即時ファイル検索ツール。<br/>Website: https://lokii.huangy.top<br/>Open Source: https://github.com/huangy7/lokii<br/>Commit: Add Lokii to Finder Tools (#4922)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d702ee188e9ee2153153ecf31d5f6e2b5844aff3]]></content:encoded>
+    </item>
     <item>
       <title>Relay</title>
       <link>https://github.com/ahmetcankacar54/relay</link>
@@ -727,20 +742,6 @@ Open Source: https://github.com/PRMotorWorks/Fenestra
 Commit: Add Fenestra to Window Management (#4740)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: Fenestra<br/>Description: macOSでWindows 11のデスクトップを再現し、タスクバー、スタートメニュー、スナップレイアウト、Alt+Tab、クリップボード履歴を提供。<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Monitor</title>
-      <link>https://github.com/paveler/agent-monitor</link>
-      <guid isPermaLink="false">6e63bdc7a84d8161567bddc688482dc8fe5f7a0e:Agent Monitor</guid>
-      <pubDate>Thu, 19 Nov 2026 02:33:11 GMT</pubDate>
-      <category>開発ツール / 開発者ユーティリティ</category>
-      <description>Category: 開発ツール / 開発者ユーティリティ
-App: Agent Monitor
-Description: Claude Code と Codex のどのセッションがあなたの対応を待っているかを表示し、クリックでそのセッションを開き、使用量の上限も追跡するオープンソースのデスクトップウィジェット兼メニューバーアプリ。
-Open Source: https://github.com/paveler/agent-monitor
-Commit: Add Agent Monitor to Developer Utilities (#4745)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 開発者ユーティリティ<br/>App: Agent Monitor<br/>Description: Claude Code と Codex のどのセッションがあなたの対応を待っているかを表示し、クリックでそのセッションを開き、使用量の上限も追跡するオープンソースのデスクトップウィジェット兼メニューバーアプリ。<br/>Open Source: https://github.com/paveler/agent-monitor<br/>Commit: Add Agent Monitor to Developer Utilities (#4745)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e]]></content:encoded>
     </item>
   </channel>
 </rss>
