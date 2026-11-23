@@ -157,6 +157,7 @@
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 간단한 Mac App Store 명령줄 인터페이스. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
+* [prt](https://github.com/rekurt/prt) - 네트워크 포트, 연결 및 이를 소유한 프로세스를 살펴보는 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/rekurt/prt) ![Freeware][Freeware Icon]
 * [purge-cli](https://github.com/soummyaanon/purge) - 재생성 가능한 빌드 산출물, 캐시, Xcode DerivedData를 찾아 대화형 체크리스트에서 선택한 항목만 삭제하는 터미널 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [rustnet](https://github.com/domcyrus/rustnet) - 프로세스 식별 및 심층 패킷 검사를 지원하는 크로스 플랫폼 네트워크 모니터링 TUI. [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
 * [Summon](https://github.com/juan294/summon) - Ghostty 또는 Rex에서 설정 가능한 멀티 페인 프로젝트 작업 공간을 명령 하나로 실행하는 CLI (tmux 불필요). [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
