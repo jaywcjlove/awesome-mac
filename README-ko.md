@@ -1436,6 +1436,7 @@ Awesome Mac
 * [Table Habit](https://github.com/FriesI23/mhabit) – 성장 곡선과 오프라인 우선 동기화를 지원하는 습관 추적기. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Takeline](https://github.com/Bouliw/takeline) - Textream을 포크한 앱으로, 프랑스어와 영어 음성을 Mac에서만 따라가며 재촬영 감지와 음성 명령을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/takeline) ![Freeware][Freeware Icon]
 * [Textream](https://textream.fka.dev) - 실시간 단어 추적과 음성 활성화 스크롤링 기능을 갖춘 무료 텔레프롬프터. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
+* [TimeUno](https://timeuno.io/) - 작업 시간을 자동으로 기록해 프로젝트별로 분류하고 AI 코딩 에이전트 사용 시간도 추적하는 도구.
 * [Timing](https://timingapp.com/) - 자동으로 시간을 기록하고 작업 분석을 돕는 도구.
 * [Trace](https://github.com/lxyeternal/Trace) - 앱, 창, 파일, 웹 페이지를 자동으로 기록하는 시간 추적기로, 모든 데이터는 Mac에만 저장됩니다. [![Open-Source Software][OSS Icon]](https://github.com/lxyeternal/Trace) ![Freeware][Freeware Icon]
 * [TripleClick](https://github.com/wilu222/tripleclick) - 트랙패드 세 손가락 클릭을 가운데 클릭으로 바꿔 주고 가운데 버튼 드래그도 지원하는 오픈 소스 메뉴 바 도구. [![Open-Source Software][OSS Icon]](https://github.com/wilu222/tripleclick) ![Freeware][Freeware Icon]
