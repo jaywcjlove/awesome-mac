@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:36:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hop</title>
+      <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
+      <guid isPermaLink="false">cfc84c253e001e1da51760b12e22c882e347422b:Hop</guid>
+      <pubDate>Mon, 23 Nov 2026 06:36:46 GMT</pubDate>
+      <category>Remote Login Software</category>
+      <description>Category: Remote Login Software
+App: Hop
+Description: Tiny menu-bar launcher for remote Macs, Tailscale discovery, Screen Sharing, and SSH.
+Website: https://sercanatalik.github.io/hop-remote-launcher/
+Open Source: https://github.com/sercanatalik/hop-remote-launcher
+Commit: Add Hop to Remote Login Software (#4915)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b</description>
+      <content:encoded><![CDATA[Category: Remote Login Software<br/>App: Hop<br/>Description: Tiny menu-bar launcher for remote Macs, Tailscale discovery, Screen Sharing, and SSH.<br/>Website: https://sercanatalik.github.io/hop-remote-launcher/<br/>Open Source: https://github.com/sercanatalik/hop-remote-launcher<br/>Commit: Add Hop to Remote Login Software (#4915)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b]]></content:encoded>
+    </item>
     <item>
       <title>ContextRing</title>
       <link>https://github.com/vladsboev-web/ContextRing</link>
@@ -727,21 +742,6 @@ App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
 Commit: Add App Vanish to Cleanup and Uninstall (#4749)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: App Vanish<br/>Description: Drop an app on the bin to remove it and the files it left behind. Unsure files start unticked and everything goes to the Trash. The App Store edition finds leftovers of apps you already deleted.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
-    </item>
-    <item>
-      <title>mm2t</title>
-      <link>https://mm2t.yuzen.dev/en/</link>
-      <guid isPermaLink="false">db381fdbf86f059214a424ad27211014ac06fda5:mm2t</guid>
-      <pubDate>Thu, 19 Nov 2026 04:54:12 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: mm2t
-Description: Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries.
-Website: https://mm2t.yuzen.dev/en/
-Open Source: https://github.com/yuzen9622/mm2t
-Commit: Add mm2t to the multilingual audio tool lists (#4748)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: mm2t<br/>Description: Meeting recorder with local storage and on-device speaker recognition, using your chosen services for transcripts and summaries.<br/>Website: https://mm2t.yuzen.dev/en/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
     </item>
   </channel>
 </rss>

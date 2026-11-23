@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:36:46 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hop</title>
+      <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
+      <guid isPermaLink="false">cfc84c253e001e1da51760b12e22c882e347422b:Hop</guid>
+      <pubDate>Mon, 23 Nov 2026 06:36:46 GMT</pubDate>
+      <category>원격 로그인 소프트웨어</category>
+      <description>Category: 원격 로그인 소프트웨어
+App: Hop
+Description: 원격 Mac, Tailscale 검색, 화면 공유 및 SSH를 위한 메뉴 막대 런처.
+Website: https://sercanatalik.github.io/hop-remote-launcher/
+Open Source: https://github.com/sercanatalik/hop-remote-launcher
+Commit: Add Hop to Remote Login Software (#4915)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b</description>
+      <content:encoded><![CDATA[Category: 원격 로그인 소프트웨어<br/>App: Hop<br/>Description: 원격 Mac, Tailscale 검색, 화면 공유 및 SSH를 위한 메뉴 막대 런처.<br/>Website: https://sercanatalik.github.io/hop-remote-launcher/<br/>Open Source: https://github.com/sercanatalik/hop-remote-launcher<br/>Commit: Add Hop to Remote Login Software (#4915)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b]]></content:encoded>
+    </item>
     <item>
       <title>ContextRing</title>
       <link>https://github.com/vladsboev-web/ContextRing</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/PapilotAI/papilot
 Commit: Add Papilot to AI Tools (#4737)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Papilot<br/>Description: 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱.<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
-    </item>
-    <item>
-      <title>DisplayLatch</title>
-      <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
-      <guid isPermaLink="false">d5c2815e3ccf1d75ee497b3e4c63461258a807af:DisplayLatch</guid>
-      <pubDate>Wed, 18 Nov 2026 11:03:03 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: DisplayLatch
-Description: 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구.
-Website: https://hitesh-sisara.github.io/DisplayLatch/
-Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
-Commit: Add DisplayLatch to Menu Bar Tools (#4738)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: DisplayLatch<br/>Description: 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
     </item>
   </channel>
 </rss>
