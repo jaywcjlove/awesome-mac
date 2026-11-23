@@ -750,6 +750,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board.
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - Native paint and screenshot markup: step badges, pixelate, Instant Alpha. No account or telemetry. [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
+* [Kite (kite.new)](https://kite.new/) - Design tool your AI agents and your team share; agents connect via a hosted MCP server and draw editable layers. ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - Free, lightweight 8-bit voxel editor and interactive path tracing renderer.

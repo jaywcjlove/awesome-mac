@@ -503,6 +503,7 @@ Awesome Mac
 * [inklet](https://tenonedesign.com/inklet.php) - 将 Mac 上的触摸板变成绘图板。
 * [Inkscape](https://inkscape.org/zh/) - 一款开源矢量图形编辑软件，与 Illustrator、Freehand、CorelDraw、Xara X 等其他软件相似。[![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - 原生绘图与截图标注工具：步骤编号、马赛克、智能选取，无需账号，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
+* [Kite (kite.new)](https://kite.new/) - 供 AI 代理和团队共用的设计工具；代理通过托管 MCP 服务器绘制可编辑图层。 ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/) - 一个开源的位图形编辑软件，包含一个绘画程式和照片编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - 设计HTML5 SVG艺术和动画。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 轻量级的8位像素编辑和交互路径追踪渲染器。![Freeware][Freeware Icon]

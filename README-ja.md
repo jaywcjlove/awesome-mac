@@ -750,6 +750,7 @@ Awesome Mac
 * [inklet](https://tenonedesign.com/inklet.php) - Macのトラックパッドを描画ボードに変換。
 * [Inkscape](https://inkscape.org/en/) - プロフェッショナルなベクターグラフィックスエディター。 [![Open-Source Software][OSS Icon]](https://launchpad.net/inkscape)
 * [ItsPaint](https://itspaintmac.com/) - ネイティブのペイントとスクリーンショット注釈。ステップバッジ、ピクセル化、インスタントアルファ。アカウントもテレメトリも不要。 [![Open-Source Software][OSS Icon]](https://github.com/joshlin2201/itspaint) ![Freeware][Freeware Icon]
+* [Kite (kite.new)](https://kite.new/) - AIエージェントとチームが共有するデザインツール。ホスト型MCPサーバー経由で編集可能なレイヤーを描画。 ![Freeware][Freeware Icon]
 * [Krita](https://krita.org/en/) - コンセプトアーティスト、デジタルペインター、イラストレーター向けのオープンソース의 デジタルペイントソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/) - HTML5 SVGアートとアニメーションのデザインツール。 [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 無料で軽量な8ビットボクセルエディターおよびインタラクティブなパストレーシングレンダラー。
