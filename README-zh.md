@@ -1924,6 +1924,7 @@ Awesome Mac
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - 高画质且低延时的游戏串流 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/moonlight-stream/moonlight-qt)
 * [Parsec](https://parsec.app/) - 低延迟远程桌面与游戏串流工具。
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
+* [RockDesk](https://rockdesk.cn) - 基于 9 位 ID 的跨平台 P2P 远程桌面、持久终端、1-RTT 透明目录挂载与端口/串口/USB 转发，内置 MCP 服务支持 Claude Code / Codex 等 AI 调度。
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 管理多种协议远程连接的客户端。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 一个开源的远程桌面应用程序，为自托管而设计。[![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) - 通过局域网或互联网将您的 Steam 游戏串流到 Mac 上。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) ![Freeware][Freeware Icon]
