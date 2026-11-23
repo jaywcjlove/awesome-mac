@@ -990,6 +990,7 @@ Awesome Mac
 * [mm2t](https://mm2t.yuzen.dev/) - 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 开源菜单栏应用，可实时升降任意应用音频的音调，且不改变播放速度。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
+* [Shadow](https://www.shadow.do/) - 无需会议机器人的会议录音工具，在设备上完成转写，并把每场会议以 Markdown 保存到你自己的文件夹或 Obsidian 库中，供 Claude Code 或 Codex 直接读取。
 * [Shiyin](https://shiyin.weibuilds.com) - 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
 * [Stelix](https://getstelix.com) - Mac 实时音轨分离：将任意应用正在播放的音频实时分离为人声、鼓、贝斯和其他，可调节每个声部的音量或单独收听，全部在本机运行。 [![Open-Source Software][OSS Icon]](https://github.com/stelix-app/stelix) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]

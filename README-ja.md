@@ -1195,6 +1195,7 @@ Awesome Mac
 * [mm2t](https://mm2t.yuzen.dev/en/) - データをローカルに保存し、デバイス上で話者を識別して、選択したサービスで文字起こしと要約を作成する会議録音ツール。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - テンポを変えずに、任意のアプリの音声のキーをリアルタイムで変更できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
+* [Shadow](https://www.shadow.do/) - ボットを参加させずに会議を録音してデバイス上で文字起こしし、すべての会議を自分のフォルダや Obsidian 保管庫に Markdown で保存して Claude Code や Codex から読めるようにするレコーダー。
 * [Shiyin](https://shiyin.weibuilds.com) - 会議を録音してデバイス上で文字起こしし、話者を識別して、手持ちの Claude や ChatGPT のサブスクリプションでタイムスタンプ付きの議事録を作るオープンソースのレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [Stelix](https://getstelix.com) - Mac向けのリアルタイムステム分離：あらゆるアプリで再生中の音声をボーカル、ドラム、ベース、その他に分け、各パートの音量調整や単独再生ができ、すべてデバイス上で動作する。 [![Open-Source Software][OSS Icon]](https://github.com/stelix-app/stelix) ![Freeware][Freeware Icon]
