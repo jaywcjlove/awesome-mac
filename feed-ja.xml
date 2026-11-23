@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:41:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Traycer</title>
+      <link>https://traycer.ai</link>
+      <guid isPermaLink="false">fec8ce66e1067f7fdd05fb2ede3001200149562f:Traycer</guid>
+      <pubDate>Mon, 23 Nov 2026 02:41:15 GMT</pubDate>
+      <category>開発ツール / IDE</category>
+      <description>Category: 開発ツール / IDE
+App: Traycer
+Description: 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。
+Website: https://traycer.ai
+Open Source: https://github.com/traycerai/traycer
+Commit: Add Traycer (#4909)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
+      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Traycer<br/>Description: 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
+    </item>
     <item>
       <title>Hush</title>
       <link>https://github.com/OgnjenAdzic28/hush</link>
@@ -726,20 +741,6 @@ Open Source: https://github.com/veaceslavmafteiaevoluta/yana
 Commit: Add YANA to Menu Bar Tools (#4673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: YANA<br/>Description: MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchDeck</title>
-      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
-      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
-      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: NotchDeck
-Description: システム指標、メディア操作、クイックメモ、画面収録、タスクプロファイルを備えた、MacBookのノッチを中心としたコントロールセンター。
-Open Source: https://github.com/systemAdmin-ai/NotchDeck
-Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: NotchDeck<br/>Description: システム指標、メディア操作、クイックメモ、画面収録、タスクプロファイルを備えた、MacBookのノッチを中心としたコントロールセンター。<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
     </item>
   </channel>
 </rss>
