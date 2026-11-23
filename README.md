@@ -1389,6 +1389,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [LuLu](https://objective-see.com/products/lulu.html) - LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) [![Open-Source Software][OSS Icon]](1) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malware scanner and removal tool. ![Freeware][Freeware Icon]
 * [Mana Security](https://github.com/manasecurity/mana-security-app) - vulnerability management app for individuals. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
+* [Max Watch](https://maxfreedompollard.github.io/Max-Watch/) - 100% offline motion-detection video recorder with a password-protected AES-256 vault that keeps recording while your screen is locked. [![Open-Source Software][OSS Icon]](https://github.com/MaxFreedomPollard/Max-Watch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vulert](https://vulert.com) - Dependency vulnerability monitoring service for open-source packages.
 * [OverSight](https://objective-see.com/products/oversight.html) - Tool for monitoring microphone and webcam access. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight) ![Freeware][Freeware Icon]
 * [ParetoSecurity](https://paretosecurity.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
