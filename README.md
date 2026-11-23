@@ -918,6 +918,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## AI Tools
 
+* [5dive](https://github.com/5dive-ai/5dive-desktop) - Desktop app for a self-hosted AI agent team (Claude Code, Codex), with a menu bar badge when one needs you. [![Open-Source Software][OSS Icon]](https://github.com/5dive-ai/5dive-desktop) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click. [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]

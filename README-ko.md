@@ -750,6 +750,7 @@ Awesome Mac
 
 ## AI 도구
 
+* [5dive](https://github.com/5dive-ai/5dive-desktop) - 셀프 호스팅 AI 에이전트 팀(Claude Code, Codex)을 위한 데스크톱 앱. 에이전트가 응답을 기다리면 메뉴 막대에 배지를 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/5dive-ai/5dive-desktop) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AI 코딩 에이전트가 파일을 바꿀 수 있는 셸 명령을 실행하기 전에 프로젝트 스냅샷을 만들어, 삭제된 파일과 지워진 .env를 클릭 한 번으로 복원하는 오픈소스 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
