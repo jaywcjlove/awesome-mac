@@ -1520,6 +1520,7 @@ Awesome Mac
 * [Clipy (跨端版)](https://github.com/JunWeiUp/Clipy) - 本地优先的跨平台剪贴板管理器，支持 macOS、Windows 与 Android 局域网加密同步、文件互传、Android 通知镜像及截图 OCR。 [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - 剪贴板管理工具，保存每一次复制，可一次粘贴多项或逐条粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CopyPasta](https://usecopypasta.com) - 从刘海处打开的剪贴板管理工具，可搜索截图中的文字，历史记录加密保存。 ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - 读取当前输入框，只粘贴剪贴内容中合适部分（如邮箱地址或电话号码）的剪贴板工具。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) - 在任意设备间复制粘贴，就像在同一台设备上操作一样自然流畅。 [![Open-Source Software][OSS Icon]](https://github.com/CrossPaste/crosspaste-desktop) ![Freeware][Freeware Icon]
