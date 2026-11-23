@@ -832,6 +832,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Snip](https://snip.qq.com/) - Application for sharing captured images on QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware][Freeware Icon]
 * [Teampaper Snap](https://teampaper.me/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id1199502670?platform=mac)
+* [TetherShot](https://tethershot.apoorvdarshan.com) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi. [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/TetherShot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuji](https://tuji.app/) - Take a screenshot, annotate it, and beautify it. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview). [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
