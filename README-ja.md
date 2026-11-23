@@ -210,6 +210,7 @@ Awesome Mac
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - プログラマーやシステム管理者に人気のUnixベーステキストエディタ。 [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - コード理解を向上させるキャンバスUIを備えたコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/haystackeditor/haystack-editor) ![Freeware][Freeware Icon]
 * [Helix](https://helix-editor.com/) - ポストモダンなモーダルテキストエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/helix-editor/helix/) ![Freeware][Freeware Icon]
+* [IDE TEA](https://idetea.belabs.cloud/) - Rustで書かれた静かでクロスプラットフォームなIDE。神経多様性のある開発者がコーディングエージェントと並んで作業するために作られています。 [![Open-Source Software][OSS Icon]](https://github.com/fabiocmazzo/idetea) ![Freeware][Freeware Icon]
 * [Itsypad](https://itsypad.app) - macOS用の小さくて高速なスクラッチパッド兼クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsypad-macos) ![Freeware][Freeware Icon]
 * [Lapce](https://lapce.dev/) - 超高速で強力なコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/lapce/lapce) ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - 次世代コードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
