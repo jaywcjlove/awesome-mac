@@ -1476,6 +1476,7 @@ Awesome Mac
 * [AgentBar](https://github.com/michalstrnadel/AgentBar) - メニューバーとノッチにAIコーディングエージェント（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）の状態を表示し、Claude Code・Codex・Copilotの権限リクエストをワンクリックで許可または拒否できるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/michalstrnadel/AgentBar) ![Freeware][Freeware Icon]
 * [AI Footprint](https://stanczykwyatt.github.io/ai-footprint/) - AIコーディングツールがMacに残すディスク使用量、バックグラウンドプロセス、MCPサーバー、ログイン項目を表示し、アップデートごとに変更内容を記録する読み取り専用のメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/ai-footprint) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AI Meter](https://github.com/getguruhat/ai-meter) - Claude CodeまたはCodexの残り使用量とリセット時刻をメニューバーに表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
+* [Aion](https://aion.7caifei.com/?utm_source=awesome-mac&utm_medium=directory&utm_campaign=aion-distribution-2026-10) - ダウンロード、再生、通話、ローカル自動化を中断せず、本当にアイドル状態のMacアプリだけを自動終了するコンテキスト対応ユーティリティ。 ![Native App][Native Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - ローカルの静的サイトやRackアプリを手軽に公開できるツール。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
