@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:20:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Iris</title>
+      <link>https://harshwardhangalande.github.io/Iris/</link>
+      <guid isPermaLink="false">0d7cec1826a9adb595cfe89463541379b6866f21:Iris</guid>
+      <pubDate>Mon, 23 Nov 2026 02:20:10 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Iris
+Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.
+Website: https://harshwardhangalande.github.io/Iris/
+Open Source: https://github.com/harshwardhangalande/Iris
+Commit: Add Iris to Menu Bar Tools (#4906)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Iris<br/>Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
+    </item>
     <item>
       <title>Hush</title>
       <link>https://github.com/OgnjenAdzic28/hush</link>
@@ -728,20 +743,6 @@ Open Source: https://github.com/Hitesh-Sisara/DisplayLatch
 Commit: Add DisplayLatch to Menu Bar Tools (#4738)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: DisplayLatch<br/>Description: Keeps external monitors connected after sleep and restart, with DDC brightness, resolution and disconnect-without-unplugging controls.<br/>Website: https://hitesh-sisara.github.io/DisplayLatch/<br/>Open Source: https://github.com/Hitesh-Sisara/DisplayLatch<br/>Commit: Add DisplayLatch to Menu Bar Tools (#4738)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d5c2815e3ccf1d75ee497b3e4c63461258a807af]]></content:encoded>
-    </item>
-    <item>
-      <title>Inkstone (砚台)</title>
-      <link>https://github.com/raistlinsha-plus/inkstone</link>
-      <guid isPermaLink="false">a6394b21790b39e22cdaa9139b6682e25b020ff5:Inkstone (砚台)</guid>
-      <pubDate>Wed, 18 Nov 2026 07:08:31 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Inkstone (砚台)
-Description: Open-source Markdown workspace with a wiki built from selected notes and AI answers that cite original passages (source preview for Apple Silicon).
-Open Source: https://github.com/raistlinsha-plus/inkstone
-Commit: Add Inkstone (砚台) to Markdown Tools (#4714)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Inkstone (砚台)<br/>Description: Open-source Markdown workspace with a wiki built from selected notes and AI answers that cite original passages (source preview for Apple Silicon).<br/>Open Source: https://github.com/raistlinsha-plus/inkstone<br/>Commit: Add Inkstone (砚台) to Markdown Tools (#4714)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a6394b21790b39e22cdaa9139b6682e25b020ff5]]></content:encoded>
     </item>
   </channel>
 </rss>
