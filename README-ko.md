@@ -1508,6 +1508,7 @@ Awesome Mac
 * [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - 원격 Mac, Tailscale 검색, 화면 공유 및 SSH를 위한 메뉴 막대 런처. [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - 종단간 암호화를 지원하는 오픈 소스 원격 데스크톱 및 원격 지원 도구. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - FRP의 GUI 클라이언트. 클릭 한 번으로 로컬 서비스를 인터넷에 공개. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
+* [Orbit Play](https://orbitplay.dev/) - PSN 로그인 없이 로컬 네트워크로 스트리밍하는 탈옥한 PS5용 오픈 소스 리모트 플레이 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/saawant12/orbit-play-ps5) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app/) - 저지연 원격 데스크톱 및 게임 스트리밍 도구.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 여러 프로토콜을 한곳에서 관리하는 원격 접속 클라이언트. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 오픈 소스 원격 데스크톱 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
