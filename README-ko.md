@@ -1045,6 +1045,7 @@ Awesome Mac
 * [WhisPaste](https://whispaste.de/en/) - macOS, Windows, Linux용 푸시투톡 받아쓰기 도구로, Whisper 또는 Parakeet로 기기에서 전사하고 어떤 앱이든 커서 위치에 텍스트를 붙여 넣습니다. [![Open-Source Software][OSS Icon]](https://github.com/whispaste/whispaste) ![Freeware][Freeware Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 오디오, 동영상, YouTube, 회의를 로컬에서 전사하고 다른 앱에 받아쓰기도 할 수 있는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - AI 변환 및 키보드 단축키를 지원하는 음성 텍스트 변환 도구. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter) ![Freeware][Freeware Icon]
+* [Whispy](https://usewhispy.com) - 이미 가지고 있는 오디오 파일을 Apple Silicon Mac과 Windows에서 기기 내에서 전사하며, TXT 및 SRT로 내보낼 수 있습니다. ![Freeware][Freeware Icon]
 
 ## 브라우저
 
