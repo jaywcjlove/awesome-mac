@@ -817,6 +817,7 @@ Awesome Mac
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
 * [Papilot](https://papilot.ai) - 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 로컬 우선 AI 라이프 OS. 생활 영역별로 원하는 모델을 실행하며 데이터는 Mac의 일반 Markdown 볼트에 저장. 서명 및 공증 완료. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
+* [Prompt Deck](https://prompt-deck.arunbrahma.com/) - Claude Code, Codex, Cursor 등 코딩 에이전트의 세션 기록을 검색하고, 재사용 가능한 프롬프트 라이브러리와 CLAUDE.md, AGENTS.md 같은 메모리 파일 편집기를 제공하는 앱. ![Native App][Native Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - Claude Code, Codex, Cursor, Copilot 등 70개 이상의 AI 코딩 서비스의 남은 사용량을 화면 가장자리에 고정된 링으로 표시하는 네이티브 앱. [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quail](https://quail-ai.app) - Apple 실리콘에서 GGUF 및 MLX 모델을 실행하는 로컬 모델 서버. OpenAI 및 Anthropic 호환 API로 Claude Code, Codex 등 도구와 연결. [![Open-Source Software][OSS Icon]](https://github.com/adatoo/quail) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quarters](https://quarters.amithgc.com) - Claude Code, Codex, Gemini CLI, Aider 등 터미널 코딩 에이전트를 여러 프로젝트에서 동시에 실행하는 오픈 소스 워크스페이스로, 클릭 한 번으로 프로젝트 전환과 개발 서버 실행을 지원하고 휴대폰에서 원격으로 접속할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/amithgc/quarters) ![Freeware][Freeware Icon]
