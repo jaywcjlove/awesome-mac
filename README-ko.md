@@ -815,6 +815,7 @@ Awesome Mac
 * [Olympus Coder](https://github.com/martianacademy/olympus-coder) - Claude Code, Codex, Antigravity 등 18개 이상의 ACP 코딩 에이전트를 하나로 통합하는 오픈 소스 데스크톱 워크벤치 겸 헤드리스 서버. 공유 프로젝트 메모리, 병렬 서브세션 오케스트레이션, Git worktree, 헝크 단위 diff 리뷰, 내장 터미널 및 E2E 암호화 모바일 원격 접속을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/martianacademy/olympus-coder) ![Freeware][Freeware Icon]
 * [OmegaStar](https://github.com/itsfutsy/OmegaStar) - 쓰던 Claude Code를 브라우저, 모델, 로그인 그대로 AI 직원 팀으로 바꿔 주는 앱. 직원마다 목표가 있고, 대화로 가르친 내용은 스킬로 남는다. [![Open-Source Software][OSS Icon]](https://github.com/itsfutsy/OmegaStar) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AI 어시스턴트를 Apple 앱에 연결하는 MCP 서버.
+* [paisty](https://www.paisty.com) - 메일, Slack, 메시지, 웹 폼 등 아무 텍스트 상자에서 내 AI로 답장 초안을 만들고 수정한 뒤 보내는 Mac 메뉴 막대 앱.
 * [Papilot](https://papilot.ai) - 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 로컬 우선 AI 라이프 OS. 생활 영역별로 원하는 모델을 실행하며 데이터는 Mac의 일반 Markdown 볼트에 저장. 서명 및 공증 완료. [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/qunqin24/Pulse) - Claude Code, Codex, Cursor, Copilot 등 70개 이상의 AI 코딩 서비스의 남은 사용량을 화면 가장자리에 고정된 링으로 표시하는 네이티브 앱. [![Open-Source Software][OSS Icon]](https://github.com/qunqin24/Pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
