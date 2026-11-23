@@ -1743,6 +1743,7 @@ Awesome Mac
 * [Brink](https://brinknotch.site) - 画面の端にノッチを表示し、ホバーするだけでNotionのページやタスクにアクセスできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [Browserdoor](https://github.com/schowave/browserdoor) - リンクごとに、どのブラウザ、ブラウザプロファイル、Zenのスペースで開くかを選べるオープンソースのリンクピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - クリックのたびにページがスクロールしてしまうMagic Mouseの挙動を止めるツール。 [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
+* [CapsJump](https://capsjump.com/) - Caps Lockを、アプリやウィンドウ、指定したChromeプロファイルのサイトへ一発で移動するショートカットキーに変えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/whysosuresh/capsjump) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - 頭脳を持つオープンソースの生産性向上ツール。 [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - リンクをどこでどのように開くかのルールを管理するUI、URL API、ブラウザ拡張機能のセット。
 * [CurrentKey](https://currentkey.com) - Spacesに名前とアイコンを付けて、アプリごとの利用時間を追跡するツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
