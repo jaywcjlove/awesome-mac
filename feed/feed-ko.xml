@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:27:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tally</title>
+      <link>https://tally-site.vercel.app</link>
+      <guid isPermaLink="false">5ba3a01222a5bab6d8bb5636cf7b742339f0630c:Tally</guid>
+      <pubDate>Mon, 23 Nov 2026 09:27:15 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Tally
+Description: Claude Code, Codex, Cursor, Grok, OpenCode의 사용 한도, 초기화 시간, 사용 속도와 비용을 보여 주고 AI 코딩을 Wrapped 스타일로 돌아볼 수 있는 오픈 소스 메뉴 막대 앱.
+Website: https://tally-site.vercel.app
+Open Source: https://github.com/PratikRai0101/tally
+Commit: Add Tally to AI Tools (#4916)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ba3a01222a5bab6d8bb5636cf7b742339f0630c</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Tally<br/>Description: Claude Code, Codex, Cursor, Grok, OpenCode의 사용 한도, 초기화 시간, 사용 속도와 비용을 보여 주고 AI 코딩을 Wrapped 스타일로 돌아볼 수 있는 오픈 소스 메뉴 막대 앱.<br/>Website: https://tally-site.vercel.app<br/>Open Source: https://github.com/PratikRai0101/tally<br/>Commit: Add Tally to AI Tools (#4916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ba3a01222a5bab6d8bb5636cf7b742339f0630c]]></content:encoded>
+    </item>
     <item>
       <title>Hop</title>
       <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
@@ -727,21 +742,6 @@ Open Source: https://github.com/paveler/agent-monitor
 Commit: Add Agent Monitor to Developer Utilities (#4745)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Agent Monitor<br/>Description: Claude Code와 Codex 중 어떤 세션이 사용자를 기다리고 있는지 보여 주고, 클릭하면 해당 세션을 열며, 사용량 한도도 추적하는 오픈 소스 데스크톱 위젯 및 메뉴 막대 앱입니다.<br/>Open Source: https://github.com/paveler/agent-monitor<br/>Commit: Add Agent Monitor to Developer Utilities (#4745)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e]]></content:encoded>
-    </item>
-    <item>
-      <title>Papilot</title>
-      <link>https://papilot.ai</link>
-      <guid isPermaLink="false">b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64:Papilot</guid>
-      <pubDate>Wed, 18 Nov 2026 11:22:25 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Papilot
-Description: 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱.
-Website: https://papilot.ai
-Open Source: https://github.com/PapilotAI/papilot
-Commit: Add Papilot to AI Tools (#4737)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Papilot<br/>Description: 컴파일된 PDF에 직접 주석을 달고, Claude Code, Codex, Cursor 같은 코딩 에이전트를 격리된 Git 워크트리에서 실행한 뒤, 조판된 전후 비교로 검토하고 병합하는 오픈 소스 데스크톱 앱.<br/>Website: https://papilot.ai<br/>Open Source: https://github.com/PapilotAI/papilot<br/>Commit: Add Papilot to AI Tools (#4737)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b6680f25ab7be0d0cd84e1ec43e4ab4e60478d64]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:27:15 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tally</title>
+      <link>https://tally-site.vercel.app</link>
+      <guid isPermaLink="false">5ba3a01222a5bab6d8bb5636cf7b742339f0630c:Tally</guid>
+      <pubDate>Mon, 23 Nov 2026 09:27:15 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Tally
+Description: 开源菜单栏应用，显示 Claude Code、Codex、Cursor、Grok 和 OpenCode 的用量限额、重置时间、消耗速度与花费，还能生成 Wrapped 风格的 AI 编程回顾。
+Website: https://tally-site.vercel.app
+Open Source: https://github.com/PratikRai0101/tally
+Commit: Add Tally to AI Tools (#4916)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ba3a01222a5bab6d8bb5636cf7b742339f0630c</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Tally<br/>Description: 开源菜单栏应用，显示 Claude Code、Codex、Cursor、Grok 和 OpenCode 的用量限额、重置时间、消耗速度与花费，还能生成 Wrapped 风格的 AI 编程回顾。<br/>Website: https://tally-site.vercel.app<br/>Open Source: https://github.com/PratikRai0101/tally<br/>Commit: Add Tally to AI Tools (#4916)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ba3a01222a5bab6d8bb5636cf7b742339f0630c]]></content:encoded>
+    </item>
     <item>
       <title>Hop</title>
       <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
@@ -727,20 +742,6 @@ Open Source: https://github.com/PRMotorWorks/Fenestra
 Commit: Add Fenestra to Window Management (#4740)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: Fenestra<br/>Description: Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。<br/>Open Source: https://github.com/PRMotorWorks/Fenestra<br/>Commit: Add Fenestra to Window Management (#4740)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/af15b5040320bc4233af3a1badd029e66ec5fa82]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Monitor</title>
-      <link>https://github.com/paveler/agent-monitor</link>
-      <guid isPermaLink="false">6e63bdc7a84d8161567bddc688482dc8fe5f7a0e:Agent Monitor</guid>
-      <pubDate>Thu, 19 Nov 2026 02:33:11 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Agent Monitor
-Description: 开源桌面小组件和菜单栏应用，显示哪些 Claude Code 和 Codex 会话正在等你处理，点击即可打开对应会话，并跟踪用量限额。
-Open Source: https://github.com/paveler/agent-monitor
-Commit: Add Agent Monitor to Developer Utilities (#4745)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Agent Monitor<br/>Description: 开源桌面小组件和菜单栏应用，显示哪些 Claude Code 和 Codex 会话正在等你处理，点击即可打开对应会话，并跟踪用量限额。<br/>Open Source: https://github.com/paveler/agent-monitor<br/>Commit: Add Agent Monitor to Developer Utilities (#4745)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e63bdc7a84d8161567bddc688482dc8fe5f7a0e]]></content:encoded>
     </item>
   </channel>
 </rss>
