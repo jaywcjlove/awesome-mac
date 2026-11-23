@@ -1519,6 +1519,7 @@ Awesome Mac
 * [HideNotch](https://hidenotch.app) - メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。 [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
+* [IconRun](https://saither.com/iconrun/) - CPU負荷が上がるほど速く走るメニューバーのアニメーションキャラクター。CPU、ネットワーク、メモリ、バッテリーに反応する12種類。 ![Native App][Native Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [InputBattery](https://github.com/dirkkredinger/InputBattery) - Bluetoothキーボード、マウス、ヘッドセット、AirPodsのバッテリー残量をメニューバーとデスクトップウィジェットに表示し、電池切れの前に警告するアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/InputBattery) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
