@@ -154,6 +154,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
     - [File Sharing](#file-sharing)
 - [Data Recovery Tools](#data-recovery-tools)
 - [Audio and Video Tools](#audio-and-video-tools)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam (browser + virtual camera).
     - [Audio Record and Process](#audio-record-and-process)
 - [Download Management Tools](#download-management-tools)
 - [Cloud Storage](#cloud-storage)
