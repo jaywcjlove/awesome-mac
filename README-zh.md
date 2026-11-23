@@ -1633,6 +1633,7 @@ Awesome Mac
 * [Pokelet](https://smcnab1.github.io/pokelet/) - 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。 [![Open-Source Software][OSS Icon]](https://github.com/smcnab1/pokelet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Profisor](https://github.com/yefga/Profisor) - 从菜单栏切换当前项目的 Xcode 描述文件。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/emgeorrk/pulse) - 在菜单栏实时显示 CPU、内存、温度、风扇、网络、磁盘、功耗和电池状态的系统监视器。 [![Open-Source Software][OSS Icon]](https://github.com/emgeorrk/pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Runout Bar](https://github.com/RobinVivant/runout-bar) - 在菜单栏显示经本地 TeamClaude 代理汇集的多个账号的 Claude 和 Codex 用量，并给出用量节奏预测和整个账号池耗尽的时间。 [![Open-Source Software][OSS Icon]](https://github.com/RobinVivant/runout-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Safelight](https://github.com/mopfaff/Safelight) - 开源菜单栏应用，按时间表调整颜色滤镜、亮度和浅色/深色外观，夜间将屏幕渐变为深红色。 [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Shifty](http://shifty.natethompson.io) - 一款 macOS 菜单栏应用，让你更灵活地控制夜间模式。 [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)![Freeware][Freeware Icon]
 * [Sheer](https://github.com/AzurLiu/sheer) - 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。 [![Open-Source Software][OSS Icon]](https://github.com/AzurLiu/sheer) ![Freeware][Freeware Icon] ![Native App][Native Icon]

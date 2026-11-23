@@ -1565,6 +1565,7 @@ Awesome Mac
 * [Quickgif](https://quickgif.app/) - GIFを素早く見つけて共有。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - リマインダーを表示・操作するシンプルなmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - AIの支援でテキストを書くのを助けるmacOSメニューバーアプリ。
+* [Runout Bar](https://github.com/RobinVivant/runout-bar) - ローカルのTeamClaudeプロキシでまとめた複数アカウントのClaudeとCodexの使用量をメニューバーに表示し、消費ペースの予測とプール全体が尽きる時刻を示すツール。 [![Open-Source Software][OSS Icon]](https://github.com/RobinVivant/runout-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Second Clock](https://sindresorhus.com/second-clock) - メニューバーに別のタイムゾーンの時計を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
 * [Sheer](https://github.com/AzurLiu/sheer) - macOS 15 に macOS 26 風の透明なメニューバーをもたらし、壁紙を透かして表示します。 [![Open-Source Software][OSS Icon]](https://github.com/AzurLiu/sheer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SIAM.AI GPU Watch](https://github.com/siamaicorp/GPUWatch) - SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/siamaicorp/GPUWatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
