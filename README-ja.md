@@ -1341,6 +1341,7 @@ Awesome Mac
 * [Tomoru](https://tomoru.acane.dev) - 配信・アニメ・ゲーム・会議向けのリアルタイム二言語字幕＆画面内テキスト翻訳。固有名詞を守る用語集を備え、Mac 上での完全オフライン動作にもクラウドにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Claude、ChatGPT、Grok を使って任意のアプリで選択したテキストを自分の文体で翻訳・置換するオープンソースのメニューバー翻訳ツール。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 100以上の言語でテキストや画像を翻訳できるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
+* [Zipp](https://www.zipp-mac.com/?utm_source=awesome-mac) - Apple Vision によるオンデバイス OCR 搭載のメニューバー画面翻訳ツール。⌃S で画面上の文字を囲むと、その場で日本語に翻訳。 ![Freeware][Freeware Icon]
 
 ## 教育
 

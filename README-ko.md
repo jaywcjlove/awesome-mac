@@ -1074,6 +1074,7 @@ Awesome Mac
 * [Tomoru](https://tomoru.acane.dev) - 방송, 애니메이션, 게임, 회의를 위한 실시간 이중 언어 자막 및 화면 텍스트 번역 도구로, 고유명사를 지키는 용어집과 Mac 온디바이스 오프라인 및 클라우드 실행을 지원. [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Claude, ChatGPT 또는 Grok으로 모든 앱에서 선택한 텍스트를 나만의 문체로 번역해 바로 바꿔 주는 오픈소스 메뉴 막대 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 100개 이상의 언어로 텍스트와 이미지를 번역하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
+* [Zipp](https://www.zipp-mac.com/?utm_source=awesome-mac) - Apple Vision 기반 온디바이스 OCR을 탑재한 메뉴 막대 화면 번역 도구. ⌃S로 화면의 글자를 선택하면 해당 위치에서 바로 일본어로 번역. ![Freeware][Freeware Icon]
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 화면 영역 캡처 또는 텍스트 선택으로 즉시 번역하는 온디바이스 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [SwaprTrans](https://linrol.github.io/swapr-trans/) - 스페이스바로 선택 텍스트를 번역하고 Enter로 그 자리에서 바로 덮어쓰기 번역하는 초경량(<2MB) 네이티브 메뉴바 도구. Apple 온디바이스 모델 지원. [![Open-Source Software][OSS Icon]](https://github.com/linrol/swapr-trans) ![Freeware][Freeware Icon]
 
