@@ -1835,6 +1835,7 @@ Awesome Mac
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - 基于 Spectacle 的窗口管理应用程序，使用键盘快捷键在 macOS 上移动和调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - 窗口位置和大小管理软件。 [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+* [Shoji](https://getshoji.com/) - 在每个显示器上绘制窗口区域，把窗口拖进去即可贴合区域大小。
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 按场景分组应用并用一个快捷键快速切换。 [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
 * [Show Bar](https://rept0rix.github.io/show-bar/) - 支持窗口实时缩略图的 Command-Tab 切换器、程序坞悬停窗口预览、窗口分屏吸附、剪贴板历史和截图浮窗工具。 [![Open-Source Software][OSS Icon]](https://github.com/rept0rix/show-bar) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6818509447?platform=mac) ![Native App][Native Icon]
 * [Show Desktop](https://stanczykwyatt.github.io/show-desktop/) - 菜单栏应用，一键或用快捷键隐藏所有窗口来显示桌面，再按一次即可原样恢复。 [![Open-Source Software][OSS Icon]](https://github.com/stanczykwyatt/show-desktop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
