@@ -464,6 +464,7 @@ Awesome Mac
 * [DevHub](https://wangchujiang.com/DevHub/) - 開発者向けの多機能オフラインアプリ。 ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [Dash](https://kapeli.com/dash) - 素晴らしいAPIドキュメントブラウザ兼コードスニペット管理ツール。 ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 開発者による開発者のためのディープリンク管理ツール。
+* [Dev Workbench](https://keloc.app/products/dev-workbench/) - 16種類の開発者向けユーティリティを備えた、ネイティブでローカルファーストのツールボックス。JSON、jq、JWT、正規表現、cURL からのコード生成、ログ解析、エポックタイムスタンプ、ローカルの CSV/JSON データ検索などに対応し、ローカルでのデバッグを支援します。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6810428174?platform=mac) ![Native App][Native Icon]
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Android エミュレーターと端末、iOS シミュレーターと iPhone を並べてミラーリング・操作・テストできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - ファイルの視覚的な比較とマージを行うアプリケーション。 ![Freeware][Freeware Icon]
 * [Eleven](https://github.com/Zfinix/eleven) - AI エージェントがバイナリ、Android アプリ、GPU カーネルを読み取り、リネームし、パッチを当てるオープンソースのリバースエンジニアリングアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
