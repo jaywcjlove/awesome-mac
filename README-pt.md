@@ -1394,6 +1394,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - Um aplicativo auxiliar de arrastar e soltar para macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - Prateleira temporária para reunir e mover arquivos, textos e links arrastados. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - Abra o Monitor de Atividade com Ctrl+Opt+Delete; recorte e mova arquivos no Finder com Cmd+X.
+* [OCR](https://geragaraza.com/apps/ocr/) - Reconhecimento de texto da tela: o texto de qualquer área selecionada da tela é copiado para a área de transferência. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/ocr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Ferramentas de Área de Transferência
 
