@@ -1346,6 +1346,7 @@ Awesome Mac
 
 * [Buddy](https://github.com/projects-hacks/buddy) - ノッチに常駐する学習アシスタント。画面の内容を声で説明しながら、その上に書き込んで示す。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
+* [Lexpad](https://lexpad.app/download/mac) - どのアプリでも選択した単語を ⌘⇧L で追加でき、AI が単語カードを作成する間隔反復式の単語帳（81 言語対応）。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## ファイナンス
