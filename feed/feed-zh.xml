@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:49:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>PowerLock</title>
+      <link>https://github.com/pandengyao/PowerLock</link>
+      <guid isPermaLink="false">a8e4f261464ed42c736946a05bb8aad3fef9eb9e:PowerLock</guid>
+      <pubDate>Mon, 23 Nov 2026 15:49:34 GMT</pubDate>
+      <category>其它实用工具 / 系统相关工具</category>
+      <description>Category: 其它实用工具 / 系统相关工具
+App: PowerLock
+Description: 插着电时不自动锁屏、合盖继续运行，拔电自动恢复睡眠。
+Open Source: https://github.com/pandengyao/PowerLock
+Commit: Add PowerLock to System Related Tools (#4930)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a8e4f261464ed42c736946a05bb8aad3fef9eb9e</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: PowerLock<br/>Description: 插着电时不自动锁屏、合盖继续运行，拔电自动恢复睡眠。<br/>Open Source: https://github.com/pandengyao/PowerLock<br/>Commit: Add PowerLock to System Related Tools (#4930)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a8e4f261464ed42c736946a05bb8aad3fef9eb9e]]></content:encoded>
+    </item>
     <item>
       <title>Lokii</title>
       <link>https://lokii.huangy.top</link>
@@ -727,21 +741,6 @@ App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
 Commit: Add App Vanish to Cleanup and Uninstall (#4749)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: App Vanish<br/>Description: 把应用拖到垃圾桶图标上，即可删除应用及其残留文件。不确定的文件默认不勾选，所有内容都会移到废纸篓。App Store 版本可查找已删除应用留下的文件。<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
-    </item>
-    <item>
-      <title>mm2t</title>
-      <link>https://mm2t.yuzen.dev/</link>
-      <guid isPermaLink="false">db381fdbf86f059214a424ad27211014ac06fda5:mm2t</guid>
-      <pubDate>Thu, 19 Nov 2026 04:54:12 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: mm2t
-Description: 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。
-Website: https://mm2t.yuzen.dev/
-Open Source: https://github.com/yuzen9622/mm2t
-Commit: Add mm2t to the multilingual audio tool lists (#4748)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: mm2t<br/>Description: 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。<br/>Website: https://mm2t.yuzen.dev/<br/>Open Source: https://github.com/yuzen9622/mm2t<br/>Commit: Add mm2t to the multilingual audio tool lists (#4748)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/db381fdbf86f059214a424ad27211014ac06fda5]]></content:encoded>
     </item>
   </channel>
 </rss>
