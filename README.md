@@ -1993,6 +1993,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Gray](https://github.com/zenangst/Gray) - Per-app light/dark mode switcher. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
 * [HandShaker](https://www.smartisan.com/apps/handshaker) - Manage Android phone content on Mac. ![Freeware][Freeware Icon]
 * [Healthy Battery](https://github.com/berkinefeavci/healthy-battery) - Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/berkinefeavci/healthy-battery) ![Freeware][Freeware Icon]
+* [Hootle](https://hootle.suhi.app) - A menu bar owl that keeps your Mac awake, and lets it sleep again on low battery, when your call or slides app quits, or when nobody is around. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hootle-keep-awake/id6824888959)
 * [IconCraft](https://iconcraft.co) - Give any Mac app the name and icon you already know. The app underneath does not change. [![Open-Source Software][OSS Icon]](https://github.com/gshipman223/IconCraft) ![Freeware][Freeware Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced system monitor for menubar.
 * [iStats](https://github.com/Chris911/iStats) - Command-line system information tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
