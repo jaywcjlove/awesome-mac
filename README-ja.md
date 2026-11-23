@@ -1563,6 +1563,7 @@ Awesome Mac
 * [Profisor](https://github.com/yefga/Profisor) - メニューバーから現在のプロジェクトの Xcode プロビジョニングプロファイルを切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
 * [Pulse](https://github.com/emgeorrk/pulse) - CPU、メモリ、温度、ファン、ネットワーク、ディスク、電力、バッテリーの状態をリアルタイム表示するメニューバー型システムモニター。 [![Open-Source Software][OSS Icon]](https://github.com/emgeorrk/pulse) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quickgif](https://quickgif.app/) - GIFを素早く見つけて共有。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027?platform=mac)
+* [Refrain](https://refrainformac.com) - 再利用するテキストスニペットを1つのプレーンなMarkdownファイルで管理するメニューバーアプリ。 ![Native App][Native Icon]
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - リマインダーを表示・操作するシンプルなmacOSメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
 * [RewriteBar](https://rewritebar.com/) - AIの支援でテキストを書くのを助けるmacOSメニューバーアプリ。
 * [Second Clock](https://sindresorhus.com/second-clock) - メニューバーに別のタイムゾーンの時計を表示。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539?platform=mac)
