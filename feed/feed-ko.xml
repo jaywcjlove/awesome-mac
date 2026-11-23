@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:43:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Hush</title>
+      <link>https://github.com/OgnjenAdzic28/hush</link>
+      <guid isPermaLink="false">9b8a9239d7101c2864fb4158f4608dce912bae8b:Hush</guid>
+      <pubDate>Mon, 23 Nov 2026 01:43:40 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Hush
+Description: AI 에이전트가 모든 Mac 앱을 백그라운드에서 조작하게 해 주는 오픈 소스 CLI 및 MCP 서버. 동작당 약 178ms이며, 포커스를 빼앗거나 포인터를 움직이지 않습니다.
+Open Source: https://github.com/OgnjenAdzic28/hush
+Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Hush<br/>Description: AI 에이전트가 모든 Mac 앱을 백그라운드에서 조작하게 해 주는 오픈 소스 CLI 및 MCP 서버. 동작당 약 178ms이며, 포커스를 빼앗거나 포인터를 움직이지 않습니다.<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
+    </item>
     <item>
       <title>TripleClick</title>
       <link>https://github.com/wilu222/tripleclick</link>
@@ -727,20 +741,6 @@ Open Source: https://github.com/veaceslavmafteiaevoluta/yana
 Commit: Add YANA to Menu Bar Tools (#4673)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: YANA<br/>Description: MacBook 노치를 미디어 제어, 볼륨·밝기 HUD, 알림, 메시지, iPhone 통화, 캘린더, 날씨, 타이머, 파일 선반을 갖춘 다이내믹 아일랜드로 바꿔줍니다.<br/>Open Source: https://github.com/veaceslavmafteiaevoluta/yana<br/>Commit: Add YANA to Menu Bar Tools (#4673)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aaa969f621bc1c4c7603950c3293a5a1e4680a7f]]></content:encoded>
-    </item>
-    <item>
-      <title>NotchDeck</title>
-      <link>https://github.com/systemAdmin-ai/NotchDeck</link>
-      <guid isPermaLink="false">fade36ffe02cde22f34c7fb001e5b2d50ebed090:NotchDeck</guid>
-      <pubDate>Wed, 18 Nov 2026 02:45:30 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: NotchDeck
-Description: 시스템 지표, 미디어 제어, 빠른 메모, 화면 녹화, 작업 프로필을 갖춘 MacBook 노치 중심의 컨트롤 센터.
-Open Source: https://github.com/systemAdmin-ai/NotchDeck
-Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: NotchDeck<br/>Description: 시스템 지표, 미디어 제어, 빠른 메모, 화면 녹화, 작업 프로필을 갖춘 MacBook 노치 중심의 컨트롤 센터.<br/>Open Source: https://github.com/systemAdmin-ai/NotchDeck<br/>Commit: Add NotchDeck to Menu Bar Tools (EN/ZH/JA/KO/PT) (#4671)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fade36ffe02cde22f34c7fb001e5b2d50ebed090]]></content:encoded>
     </item>
   </channel>
 </rss>
