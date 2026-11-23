@@ -1072,6 +1072,7 @@ Awesome Mac
 * [FileShipper](https://getapps.cafe/app/fileshipper) - ローカルWi-Fi経由でパソコンとスマートフォンの間でファイルをピアツーピア転送。 ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - 受賞歴のある、美しく、高速で信頼性の高いFTP + SFTPクライアント。
 * [LocalSend](https://localsend.org/) - AirDropに代わるオープンソースのクロスプラットフォームアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [Moveshaper](https://hollowbit.dev/moveshaper/) - ファイル、アプリ、ブックマーク、Wi-Fi、壁紙を自分のネットワーク経由で新しいコンピュータへ移す、Mac と Windows 対応の無料移行ツール。 [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/moveshaper) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - 互換性のある Android デバイスとの双方向 Google Quick Share 転送に対応する独立した macOS メニューバーアプリで、USB MTP、Finder 共有、QR ツール、実験的な Windows 連携も備えています。 ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - macOS用の非公式Google Nearby Share/Quick Shareアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Rclone UI](https://rcloneui.com/) - RcloneとS3のためのGUI。 [![App Store][app-store Icon]](https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/rclone-ui/rclone-ui) ![Freeware][Freeware Icon]
