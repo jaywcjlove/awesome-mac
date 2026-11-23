@@ -852,6 +852,7 @@ Awesome Mac
 
 ### 비디오
 
+* [Clipshaper](https://hollowbit.dev/clipshaper/) - 긴 영상을 자막이 있는 세로형 짧은 클립으로 만들어 주는 워터마크 없는 무료 오프라인 앱. [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/clipshaper) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 거의 모든 형식에서 비디오를 변환하는 오픈 소스 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - macOS를 위한 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 동영상 일괄 MP4 변환, 구간 자르기, 화면 자르기, 회전과 병합을 지원하는 네이티브 FFmpeg 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
