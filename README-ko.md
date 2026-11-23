@@ -1093,6 +1093,7 @@ Awesome Mac
 * [StockDock](https://github.com/simonsruggi/StockDock) - 메뉴 바에서 주식, ETF, 암호화폐 실시간 시세를 보여주는 도구. 포트폴리오 손익과 다중 통화를 지원하며, 개인정보 보호에 중점을 둔 계정 불필요. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://github.com/simonsruggi/MRRDock) - Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments, Gumroad의 MRR을 하나의 합계로 메뉴 바에 표시하는 도구. 다중 통화를 지원하며 API 키는 키체인에 저장되고 계정이 필요 없음. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 * [Moony](https://moonyfinance.com) - 계좌, 투자, 암호화폐, 부동산, 대출을 암호화된 로컬 데이터베이스에서 관리하는 개인 재무 앱. 계정과 클라우드가 필요 없고 텔레메트리도 없음. [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
+* [WE Budget](https://github.com/JaffarSk24/WE-Budget) - 결제 달력을 중심으로 한 예산 관리 도구로, 봉투별 자금 따로 두기, 은행 명세서 가져오기, 본인 Google Drive를 통한 선택적 동기화를 지원. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-Budget) ![Freeware][Freeware Icon]
 
 ## 암호화
 

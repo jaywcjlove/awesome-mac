@@ -1313,6 +1313,7 @@ Awesome Mac
 * [StockDock](https://github.com/simonsruggi/StockDock) - 菜单栏股票/ETF/加密货币实时行情工具，支持投资组合盈亏、多币种，注重隐私无需账户。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://github.com/simonsruggi/MRRDock) - 菜单栏 MRR 汇总工具，把 Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments 和 Gumroad 的月度经常性收入合并为一个数字，支持多币种，API 密钥保存在钥匙串中，无需账户。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 * [Moony](https://moonyfinance.com) - 个人财务应用，在本地加密数据库中管理账户、投资、加密货币、房产和贷款，无需账户，无云端，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
+* [WE Budget](https://github.com/JaffarSk24/WE-Budget) - 围绕收付款日历的预算工具，支持信封式预留资金、银行对账单导入，并可通过自己的 Google Drive 同步。 [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-Budget) ![Freeware][Freeware Icon]
 
 ## 安全工具
 
