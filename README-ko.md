@@ -1313,6 +1313,7 @@ Awesome Mac
 * [Archivator](https://github.com/davidpraznik/Archivator) - 파일을 휠에 끌어다 놓아 압축하고 푸는 메뉴 바 아카이브 도구. [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Archivator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DropKeeper](https://direcat.net/dropkeeper/) - 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원). [![Open-Source Software][OSS Icon]](https://github.com/direcat/dropkeeper) ![Freeware][Freeware Icon]
 * [FileMint](https://github.com/FileMintApp/FileMint) - Finder 우클릭 메뉴에서 템플릿으로 파일을 만드는 네이티브 확장으로, 개인 및 비상업적 이용은 무료. ![Native App][Native Icon]
+* [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) - 모든 Finder 창에 선택한 그룹화와 정렬을 자동으로 적용하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Finder-Grouping-Assistant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FinderRight](https://github.com/funny-dog/FinderRight) - Finder 우클릭 메뉴에 새 파일 만들기, 터미널 열기, 경로 복사, 잘라내기/붙여넣기를 추가하는 오픈소스 확장. [![Open-Source Software][OSS Icon]](https://github.com/funny-dog/FinderRight) ![Freeware][Freeware Icon]
 * [Findly](https://findly.rocavence.com) - 단축키로 화면 가장자리에서 꺼내고 다른 앱으로 전환하면 자동으로 숨는 Finder 스타일 파일 서랍. [![Open-Source Software][OSS Icon]](https://github.com/rocavence/Findly-app) ![Freeware][Freeware Icon]
 * [Modal File Manager](https://github.com/raguay/ModalFileManager/) - Vim 스타일 단축키를 갖춘 듀얼 패널 파일 관리자. [![Open-Source Software][OSS Icon]](https://GitHub.com/raguay/ModalFileManager) ![Freeware][Freeware Icon]
