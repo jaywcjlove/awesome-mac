@@ -1803,6 +1803,7 @@ Awesome Mac
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Mac 上的 NTFS 文件系统驱动。
 * [Uptick](https://chengffei.github.io/uptick/) - 开源的应用更新工具，从 App Store、Sparkle、Electron 更新源和 Homebrew 查找更新，安装前核对每个下载包。 [![Open-Source Software][OSS Icon]](https://github.com/chengffei/uptick) ![Freeware][Freeware Icon]
+* [Vigil](https://desktopgoods.app/apps/vigil) - 让 Mac 在设定时间内或指定应用退出前保持唤醒，并在菜单栏显示倒计时。 ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - 在菜单栏中直接查看哪些应用和 AI 编程代理在消耗 MacBook 电池，显示真实瓦数，以及退出某个应用能换回的分钟数。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 
 ### 窗口管理
