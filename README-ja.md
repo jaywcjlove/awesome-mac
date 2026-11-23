@@ -920,6 +920,7 @@ Awesome Mac
 
 ## AIツール
 
+* [3D-Agent](https://3d-agent.com/blender-ai) - Blender AIエージェント兼AI 3Dモデル生成ツール。自然言語で、開いているBlenderシーンにクリーンなクアッドトポロジーの3Dモデルを作成し、AIリトポロジー、リギング、マテリアル、レンダリングまで実行。Claude Code・Cursor向けBlender MCPサーバー付き（Ultraプラン）。
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]

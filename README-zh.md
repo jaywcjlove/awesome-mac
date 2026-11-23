@@ -691,6 +691,7 @@ Awesome Mac
 
 ## AI 工具
 
+* [3D-Agent](https://3d-agent.com/zh-cn) - Blender AI 智能体与 AI 3D 建模工具：用自然语言在当前 Blender 场景中生成 3D 模型（干净的四边面拓扑），支持 AI 重拓扑、绑定、材质和渲染，并为 Claude Code、Cursor 提供 Blender MCP 服务（Ultra 套餐）。
 * [Agent Teams AI](https://agentteams.live/) - 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的开源菜单栏应用，误删的文件和被清空的 .env 可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
