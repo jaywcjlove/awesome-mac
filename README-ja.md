@@ -458,6 +458,7 @@ Awesome Mac
 * [Conduktor](https://www.conduktor.io) - Kafkaデスクトップクライアント。 ![Freeware][Freeware Icon]
 * [Swifka](https://github.com/Ender-Wang/Swifka) - トピック、メッセージ、コンシューマー状態を安全に確認できる読み取り専用Kafkaモニター。 [![Open-Source Software][OSS Icon]](https://github.com/Ender-Wang/Swifka) ![Freeware][Freeware Icon]
 * [Configs](https://github.com/iHongRen/configEditor) - 設定ファイルの迅速な表示、編集、管理のための設定ファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/iHongRen/configEditor) ![Freeware][Freeware Icon]
+* [ContextRing](https://github.com/vladsboev-web/ContextRing) - Google Antigravity 2.0向けのmacOSネイティブなフローティングコンテキストモニターおよびメニューバーツール。ローカルでの内訳分析と24時間/7日間の統計に対応。 [![Open-Source Software][OSS Icon]](https://github.com/vladsboev-web/ContextRing) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - macOS用CubicBezierジェネレーター。 [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cubicbezier/id1228492117?platform=mac)
 * [Cutter](https://cutter.re/) - 強力なマルチプラットフォームリバースエンジニアリングツール。 ![Open-Source Software][OSS Icon]
 * [DevHub](https://wangchujiang.com/DevHub/) - 開発者向けの多機能オフラインアプリ。 ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
