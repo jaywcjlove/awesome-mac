@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:54:01 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Breathing Room</title>
+      <link>https://breathing-room.chatic.ai/</link>
+      <guid isPermaLink="false">264b969aac42dd72394356d49542b24bc087aa6c:Breathing Room</guid>
+      <pubDate>Mon, 23 Nov 2026 14:54:01 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: Breathing Room
+Description: See what is using your Mac&apos;s disk space, group busy apps, and review a measured cleanup plan before anything changes.
+Website: https://breathing-room.chatic.ai/
+Open Source: https://github.com/bucabay/breathing-room-app
+Commit: Add Breathing Room (#4940)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/264b969aac42dd72394356d49542b24bc087aa6c</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Breathing Room<br/>Description: See what is using your Mac&apos;s disk space, group busy apps, and review a measured cleanup plan before anything changes.<br/>Website: https://breathing-room.chatic.ai/<br/>Open Source: https://github.com/bucabay/breathing-room-app<br/>Commit: Add Breathing Room (#4940)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/264b969aac42dd72394356d49542b24bc087aa6c]]></content:encoded>
+    </item>
     <item>
       <title>Lokii</title>
       <link>https://lokii.huangy.top</link>
@@ -726,20 +741,6 @@ Open Source: https://github.com/t1nkl/xylem
 Commit: Add Xylem to Terminal Apps (#4762)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Xylem<br/>Description: Native terminal for Claude Code with tabs that resume their sessions, context and cost tracking, and a panel for project skills, MCP and git.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
-    </item>
-    <item>
-      <title>Better Wacom</title>
-      <link>https://github.com/myyccccc/Better-Wacom</link>
-      <guid isPermaLink="false">c18f708ca7a8764cfcce56eac9bbad7eebbc8f11:Better Wacom</guid>
-      <pubDate>Thu, 19 Nov 2026 05:40:25 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Better Wacom
-Description: Per-app ExpressKeys, long-press actions and multi-mode dials for the Wacom Intuos Pro M (2025, PTK-670), running next to the official driver.
-Open Source: https://github.com/myyccccc/Better-Wacom
-Commit: Add Better Wacom to Productivity (#4761)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Better Wacom<br/>Description: Per-app ExpressKeys, long-press actions and multi-mode dials for the Wacom Intuos Pro M (2025, PTK-670), running next to the official driver.<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
     </item>
   </channel>
 </rss>
