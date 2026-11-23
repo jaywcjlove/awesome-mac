@@ -917,6 +917,7 @@ Awesome Mac
 * [akou](https://geiserx.github.io/akou/) - 통화와 회의를 녹음해 화자 라벨과 함께 기기에서 전사하고, Claude Code나 Codex가 MCP로 통화 내용을 질의할 수 있는 오픈 소스 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
 * [Audacity](https://www.audacityteam.org/) - 오픈 소스 멀티트랙 오디오 편집기. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 * [Audio Hijack](https://www.rogueamoeba.com/audiohijack/) - 모든 앱의 오디오를 녹음.
+* [AudioAnchor](https://github.com/wata/AudioAnchor) - 선택한 기기(예: AirPods)에 사운드 출력을 고정하고, macOS가 바꾸면 다시 되돌리는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/wata/AudioAnchor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - Mac의 오디오를 AirPlay, Google Cast 및 로컬 스피커에서 동시에 동기화하여 재생. [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]
 * [BitSpring](https://bitspring.app/) - 네이티브 DSD, 트랙별 샘플레이트 전환(최대 768 kHz), AutoEQ 헤드폰 EQ를 지원하는 오픈 소스 비트 퍼펙트 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/crash2bash/bitspring) ![Freeware][Freeware Icon]
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 가상 오디오 드라이버. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) ![Freeware][Freeware Icon]
