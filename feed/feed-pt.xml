@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:51:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Relay</title>
+      <link>https://github.com/ahmetcankacar54/relay</link>
+      <guid isPermaLink="false">d7a0bfd07b36d5c42668e73157cd63964d5138d8:Relay</guid>
+      <pubDate>Mon, 23 Nov 2026 09:51:12 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: Relay
+Description: Alterne o app do Claude entre contas, mantenha o histórico do Claude Code em todas elas e veja os limites de 5 horas e semanais de cada conta.
+Open Source: https://github.com/ahmetcankacar54/relay
+Commit: Add Relay to AI Tools (#4917)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a0bfd07b36d5c42668e73157cd63964d5138d8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: Relay<br/>Description: Alterne o app do Claude entre contas, mantenha o histórico do Claude Code em todas elas e veja os limites de 5 horas e semanais de cada conta.<br/>Open Source: https://github.com/ahmetcankacar54/relay<br/>Commit: Add Relay to AI Tools (#4917)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a0bfd07b36d5c42668e73157cd63964d5138d8]]></content:encoded>
+    </item>
     <item>
       <title>Hop</title>
       <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
@@ -726,21 +740,6 @@ Website: https://cursor.com/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Cursor<br/>Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.<br/>Website: https://cursor.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Emacs</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Emacs
-Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.
-Website: https://www.emacswiki.org/emacs/EmacsForMacOS
-Open Source: https://git.savannah.gnu.org/cgit/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Emacs<br/>Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Open Source: https://git.savannah.gnu.org/cgit/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
