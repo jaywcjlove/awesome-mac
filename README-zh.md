@@ -986,6 +986,7 @@ Awesome Mac
 * [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - 在菜单栏中为全部系统音频应用 JamesDSP 音效，包括均衡器、AutoEQ、卷积器、交叉馈送和 ViPER-DDC。 [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
+* [Melodyshaper](https://hollowbit.dev/melodyshaper/) - 面向新手的免费离线音乐创作工具，把哼唱变成真实乐器演奏，支持和弦、鼓、吉他输入以及 MP3、WAV、分轨和 MIDI 导出。 [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/melodyshaper) ![Freeware][Freeware Icon]
 * [Memozia](https://github.com/oceanix-pr/Memozia) - 开源会议录音与纪要工具，支持本地转写、说话人标注、总结和可编辑待办。 [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
 * [mm2t](https://mm2t.yuzen.dev/) - 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 开源菜单栏应用，可实时升降任意应用音频的音调，且不改变播放速度。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
