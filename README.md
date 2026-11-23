@@ -952,6 +952,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Enconvo](https://www.enconvo.com/) - AI agent that understands your screen and completes tasks across apps.
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
+* [FlowIn](https://flowin.so) - System-wide AI autocomplete that completes sentences inline across Mac apps, powered by an on-device AI model. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 * [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. [![Open-Source Software][OSS Icon]](https://github.com/benord-labs/frink) ![Freeware][Freeware Icon]
 * [Gemini Collector](https://github.com/FirenzeLor/gemini-collector) - Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON. [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
