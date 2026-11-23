@@ -1585,6 +1585,7 @@ Awesome Mac
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。
 * [DynamicHorizon](https://dynamichorizon.app) - 为刘海区域加入媒体控制、通知和系统状态。
 * [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - 以 MacBook 刘海为中心的控制中心，包含系统指标、媒体控制、快速笔记、屏幕录制和任务配置。 [![Open-Source Software][OSS Icon]](https://github.com/systemAdmin-ai/NotchDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Notch Hero](https://notchhero.com) - 位于 MacBook 刘海旁的放置类 RPG，你工作时英雄在菜单栏中战斗，Claude Code 或 Codex 的 token 会召唤精灵盟友。 ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - 适用于 macOS 的轻量级 Dynamic Island，支持 AI 编码代理通知。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NØTH](https://github.com/manugowda19/noth) - 将 MacBook 刘海变成实时活动和控制中心，集成音乐、文件、剪贴板、日历、笔记和工具。 [![Open-Source Software][OSS Icon]](https://github.com/manugowda19/noth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NVBeacon](https://jaein4722.github.io/NVBeacon/) - 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaein4722/NVBeacon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
