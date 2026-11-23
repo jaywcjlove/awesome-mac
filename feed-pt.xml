@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clipy (Cross-Platform)</title>
+      <link>https://github.com/JunWeiUp/Clipy</link>
+      <guid isPermaLink="false">0603ac0a2371b166a10f1051f1b44f50a8948c1a:Clipy (Cross-Platform)</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:48 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Clipy (Cross-Platform)
+Description: Gerenciador de área de transferência local-first com sincronização criptografada via LAN entre macOS, Windows e Android, transferência de arquivos, espelhamento de notificações Android, capturas de tela e OCR.
+Open Source: https://github.com/JunWeiUp/Clipy
+Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Clipy (Cross-Platform)<br/>Description: Gerenciador de área de transferência local-first com sincronização criptografada via LAN entre macOS, Windows e Android, transferência de arquivos, espelhamento de notificações Android, capturas de tela e OCR.<br/>Open Source: https://github.com/JunWeiUp/Clipy<br/>Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a]]></content:encoded>
+    </item>
     <item>
       <title>MenuBarHome</title>
       <link>https://github.com/jryang2026-code/MenuBarHome</link>
@@ -725,21 +739,6 @@ Open Source: https://github.com/CodeEditApp/CodeEdit
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CodeEdit<br/>Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.<br/>Website: https://www.codeedit.app/<br/>Open Source: https://github.com/CodeEditApp/CodeEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>CotEditor</title>
-      <link>https://coteditor.com</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CotEditor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: CotEditor
-Description: Editor de texto simples e leve para macOS.
-Website: https://coteditor.com
-Open Source: https://github.com/coteditor/CotEditor/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CotEditor<br/>Description: Editor de texto simples e leve para macOS.<br/>Website: https://coteditor.com<br/>Open Source: https://github.com/coteditor/CotEditor/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

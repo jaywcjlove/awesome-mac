@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clipy (Cross-Platform)</title>
+      <link>https://github.com/JunWeiUp/Clipy</link>
+      <guid isPermaLink="false">0603ac0a2371b166a10f1051f1b44f50a8948c1a:Clipy (Cross-Platform)</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:48 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Clipy (Cross-Platform)
+Description: Local-first clipboard manager with encrypted LAN sync across macOS, Windows &amp; Android, file transfer, Android notification mirroring, screenshots and OCR.
+Open Source: https://github.com/JunWeiUp/Clipy
+Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Clipy (Cross-Platform)<br/>Description: Local-first clipboard manager with encrypted LAN sync across macOS, Windows &amp; Android, file transfer, Android notification mirroring, screenshots and OCR.<br/>Open Source: https://github.com/JunWeiUp/Clipy<br/>Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a]]></content:encoded>
+    </item>
     <item>
       <title>MenuBarHome</title>
       <link>https://github.com/jryang2026-code/MenuBarHome</link>
@@ -725,21 +739,6 @@ Open Source: https://github.com/direcat/dropkeeper
 Commit: Add DropKeeper to File Organization Tools (#3694)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
       <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: DropKeeper<br/>Description: Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
-    </item>
-    <item>
-      <title>WhimsyDesk</title>
-      <link>https://whimsydesk.art</link>
-      <guid isPermaLink="false">404023332d09eec33634b8ae9ff30d59e6364dfc:WhimsyDesk</guid>
-      <pubDate>Thu, 19 Nov 2026 15:54:53 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: WhimsyDesk
-Description: Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were.
-Website: https://whimsydesk.art
-Open Source: https://github.com/Electrofist/WhimsyDesk
-Commit: Add WhimsyDesk to File Organization Tools (#4776)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/404023332d09eec33634b8ae9ff30d59e6364dfc</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: WhimsyDesk<br/>Description: Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were.<br/>Website: https://whimsydesk.art<br/>Open Source: https://github.com/Electrofist/WhimsyDesk<br/>Commit: Add WhimsyDesk to File Organization Tools (#4776)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/404023332d09eec33634b8ae9ff30d59e6364dfc]]></content:encoded>
     </item>
   </channel>
 </rss>
