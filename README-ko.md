@@ -1534,6 +1534,7 @@ Awesome Mac
 ### 정식 사이트
 
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
+* [IndieMarkdowns](https://indiemarkdowns.com/) - 인디 Mac 앱과 개발자 도구의 블랙 프라이데이 및 사이버 먼데이 딜 디렉터리. 게시된 딜은 제작자의 공식 안내와 대조합니다.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
 
