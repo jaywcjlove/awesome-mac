@@ -1502,6 +1502,7 @@ Awesome Mac
 
 * [AnyDesk](https://anydesk.com/) - 빠르고 안전한 원격 데스크톱 소프트웨어. ![Freeware][Freeware Icon]
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - Windows App, mstsc 등 표준 원격 데스크톱 클라이언트로 Mac에 접속할 수 있는 오픈 소스 RDP 서버. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
+* [FornaX RDS Ai](https://www.gloovir.com/products/fornax-rds-ai) - 기기 내 AI 비서(Ollama, MLX)를 내장한 macOS용 네이티브 RDP 서버. iPad, iPhone, Windows에서 접속 가능. ![Native App][Native Icon]
 * [Glass](https://glassdesk.dev) - 어떤 브라우저에서든 볼 수 있고, 보는 쪽에는 아무것도 설치할 필요가 없는 Mac 및 Linux용 저지연 원격 데스크톱. [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 * [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - 원격 Mac, Tailscale 검색, 화면 공유 및 SSH를 위한 메뉴 막대 런처. [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - 종단간 암호화를 지원하는 오픈 소스 원격 데스크톱 및 원격 지원 도구. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
