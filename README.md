@@ -1963,6 +1963,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### System Related Tools
 
+* [A2141 ThermalBoost](https://mylnzon58.github.io/t2-macbook-pro-16-1-thermal-performance-fix-macos/) - Per-core thermal & HWP control driver, CPU+GPU power arbitration, and proactive fan curve for MacBook Pro 16" 2019 (A2141, requires `csrutil disable` in Recovery Mode for the kernel extension). [![Open-Source Software][OSS Icon]](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) ![Freeware][Freeware Icon]
+* [A2141 ThermalMonitor](https://mylnzon58.github.io/a2141-macos-thermal-monitor/) - Native macOS menu bar & real-time monitor showing per-core Watts, MHz, temperature, GPU power, and fan RPMs for MacBook Pro 16" 2019 (A2141, no SIP changes required). [![Open-Source Software][OSS Icon]](https://github.com/mylnzon58/a2141-macos-thermal-monitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Adrafinil](https://kagerou.glass/adrafinil/) - Keep your Mac awake only while AI agents are still working, then let it sleep normally. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
 * [AlDente](https://apphousekitchen.com/) - Battery charge limiter for MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [Aman Check](https://github.com/MidZai/aman_check) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
