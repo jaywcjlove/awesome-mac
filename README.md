@@ -1780,6 +1780,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [iCMD](https://icmd.app) - Global fuzzy menu search with Vim-style navigation.
 * [JUMP](https://alvaldes.github.io/jump/) - Open-source tool that labels every clickable element so you can click, scroll and search any app from the keyboard. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/jump) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Remap keys and customize keyboard behavior on macOS. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
+* [Kaskas](https://github.com/ramazanberkozbek/kaskas) - Native break reminder and focus tracker to prevent eye strain, with smart meeting delay. [![Open-Source Software][OSS Icon]](https://github.com/ramazanberkozbek/kaskas) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](https://www.keyboardmaestro.com) - Automate repetitive tasks with triggers and macros.
 * [Keylane](https://github.com/Acckion/Keylane) - Source-available keyboard launcher for macOS 26+ with app and file search, clipboard history, and system actions.
