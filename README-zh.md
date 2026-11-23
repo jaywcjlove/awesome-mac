@@ -1433,6 +1433,7 @@ Awesome Mac
 * [Keylane](https://github.com/Acckion/Keylane) - 面向 macOS 26 及以上版本的源码公开键盘启动器，支持应用与文件搜索、剪贴板历史和系统操作。
 * [Keytty](http://keytty.com) - 让你通过键盘使用鼠标。
 * [Keka](https://github.com/aonez/Keka) - 开源压缩解压工具，支持多种压缩格式。 [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keka/id470158793?platform=mac)
+* [Libre Calculator](https://librecalculator.com) - 免费开源的专题计算器合集，提供基于输入的计算步骤、图示和简短课程。 [![Open-Source Software][OSS Icon]](https://github.com/tonyzedginidze/librecalculator) ![Freeware][Freeware Icon]
 * [Liftoff](https://github.com/firstfu/Liftoff) - 开源的 Launchpad 替代品，支持窗口实时预览、窗口标题搜索和一键整理文件夹。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [LocalSR](https://herrei.github.io/localsr/) - 开源应用，使用本地 AI 模型对照片和视频进行超分、降噪和修复。 [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]
 * [Lucid](https://lucid-wallpaper.vercel.app) - 在每块显示器上播放太空、自然与海洋循环视频及 Apple Aerials 的 4K 动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/lucid-live-wallpaper) ![Freeware][Freeware Icon]

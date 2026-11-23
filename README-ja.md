@@ -1677,6 +1677,7 @@ Awesome Mac
 * [Equinox](https://github.com/rlxone/Equinox) - macOS用のダイナミック壁紙を作成。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](http://www.httrack.com) - Webサイト全体をダウンロードしてオフラインブラウジングするのに便利なツール。 ![Freeware][Freeware Icon]
 * [Latest](https://github.com/mangerlahn/Latest) - あらゆるソースからインストールしたアプリが最新かどうかをチェックする小さなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [Libre Calculator](https://librecalculator.com) - 入力に応じた計算手順、図解、短い解説を備えた無料のオープンソース計算ツール集。 [![Open-Source Software][OSS Icon]](https://github.com/tonyzedginidze/librecalculator) ![Freeware][Freeware Icon]
 * [Liftoff](https://github.com/firstfu/Liftoff) - ウインドウのライブプレビュー、ウインドウタイトル検索、ワンクリックのフォルダ整理に対応したオープンソースのLaunchpad代替アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [LocalSR](https://herrei.github.io/localsr/) - ローカルのAIモデルで写真や動画をアップスケール・ノイズ除去・修復するオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]
 * [Lucid](https://lucid-wallpaper.vercel.app) - 宇宙・自然・海のループ映像と Apple Aerials を各ディスプレイに表示する 4K ライブ壁紙アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/lucid-live-wallpaper) ![Freeware][Freeware Icon]
