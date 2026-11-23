@@ -920,7 +920,7 @@ Awesome Mac
 * [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你一切你需要的表演组合，名副其实的替代 Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - 用于搜索、在线播放和离线下载影视内容的工具。 [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
-* [Mooziac](https://mooziac.pages.dev) - 轻量级原生 macOS 菜单栏音乐播放器，支持 YouTube Music 和本地音频。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
+* [Mooziac](https://mooziac.pages.dev) - 原生 macOS 4K YouTube 视频播放器与菜单栏音乐播放器，支持硬件加速、Hero Player 全画幅模式和 SponsorBlock。 [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - 免费的作曲与乐谱软件。[![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Natron](https://natron.fr/) - 开源节点式视频合成工具。[![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nimbus](https://github.com/Dearonski/Nimbus) - 原生 SoundCloud 客户端，支持无缝播放、可拖放调整的播放队列、Chromecast 投放和全屏黑胶唱片播放器。 [![Open-Source Software][OSS Icon]](https://github.com/Dearonski/Nimbus) ![Freeware][Freeware Icon]

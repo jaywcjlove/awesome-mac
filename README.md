@@ -1133,7 +1133,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/) - Tool for finding, streaming, and offline downloading movies. [![Open-Source Software][OSS Icon]](https://github.com/EvilCult/moviecatcher) ![Freeware][Freeware Icon]
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
 * [mpv](https://www.mpv.io/) - Free, open-source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
-* [Mooziac](https://mooziac.pages.dev) - Lightweight native macOS menu bar player for YouTube Music & local audio. [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
+* [Mooziac](https://mooziac.pages.dev) - Native macOS 4K YouTube video player and menu bar music player with hardware acceleration, Hero Player mode & SponsorBlock. [![Open-Source Software][OSS Icon]](https://github.com/shirkeharsh/mooziac) ![Freeware][Freeware Icon]
 * [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) ![Freeware][Freeware Icon]
 * [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. ![Freeware][Freeware Icon]
