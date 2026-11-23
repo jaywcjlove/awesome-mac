@@ -2007,6 +2007,7 @@ Awesome Mac
 * [Time Machine Inspector](https://github.com/probablykasper/time-machine-inspector) - Time Machineのバックアップで容量を消費しているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/probablykasper/time-machine-inspector) ![Freeware][Freeware Icon]
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Time Machineのバックアップが終わるとバックアップディスクを取り出し、定期バックアップの時刻になると再びマウントするメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - MacでNTFSフォーマットのドライブとの完全な読み書き互換性。
+* [Vigil](https://desktopgoods.app/apps/vigil) - 指定した時間、または選んだアプリが終了するまでMacをスリープさせず、メニューバーに残り時間を表示します。 ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - どのアプリやAIコーディングエージェントがMacBookのバッテリーを消耗しているかを、メニューバーから実際のワット数と、アプリを終了すると取り戻せる分数で確認できます。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - iPhoneを接続した際にiTunesが起動するのを防止。
 

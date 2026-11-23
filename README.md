@@ -2026,6 +2026,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due. [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TMOP](https://tekikaito.github.io/tmop/) - Task manager and system monitor with CPU, memory, disk and network graphs and process management; also runs on Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/tekikaito/tmop) ![Freeware][Freeware Icon]
 * [Tuxera NTFS](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [Vigil](https://desktopgoods.app/apps/vigil) - Keeps your Mac awake for a set time or until a chosen app quits, with a countdown in the menu bar. ![Native App][Native Icon]
 * [WattMate](https://wattmateapp.com) - See which apps and AI coding agents are draining your MacBook battery, right from the menu bar, in real watts and the minutes you get back by quitting one. [![App Store][app-store Icon]](https://apps.apple.com/app/id6803641012)
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
