@@ -722,6 +722,7 @@ Awesome Mac
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - 基于 DeepSeek Harness 的桌面 AI 工作区，可为网站任务创建并复用 WebMCP 工具。 [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 * [Enconvo](https://www.enconvo.com/zh-CN) - 能看懂屏幕并在各类应用中执行任务的 AI 智能体。
 * [Fazm](https://fazm.ai) - 一款可用语音控制应用、文件和工作流的开源 AI 代理。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Feather](https://feather.rxmos.dev) - 通过全局快捷键根据屏幕上下文起草文字并粘贴到当前输入框的开源写作助手。 [![Open-Source Software][OSS Icon]](https://github.com/yurirxmos/feather) ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - 可在同一工作区并行运行多个 Claude Code 与 Shell 会话的终端多路复用工具。 [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 可在各类应用中调用模型和上下文的 AI 助手。
 * [Frink](https://frink.dev) - 桌面优先的开源（MIT）应用，可在你已经在用的各家 AI 编程服务商上运行并行智能体，以及由定时调度、Webhook 或 Linear、Sentry 等工具的事件触发的多步骤自定义工作流。 [![Open-Source Software][OSS Icon]](https://github.com/benord-labs/frink) ![Freeware][Freeware Icon]

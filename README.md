@@ -951,6 +951,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Desktop Control](https://github.com/yaroshevych/desktopctl) - GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.
 * [Enconvo](https://www.enconvo.com/) - AI agent that understands your screen and completes tasks across apps.
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [Feather](https://feather.rxmos.dev) - Open-source writing assistant that drafts text from on-screen context with a global shortcut and pastes it into the focused field. [![Open-Source Software][OSS Icon]](https://github.com/yurirxmos/feather) ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
 * [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. [![Open-Source Software][OSS Icon]](https://github.com/benord-labs/frink) ![Freeware][Freeware Icon]
