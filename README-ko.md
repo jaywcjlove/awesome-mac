@@ -891,6 +891,7 @@ Awesome Mac
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
+* [Tundra Mail](https://tundra-mail.com) - Gmail, Outlook, IMAP을 지원하는 로컬 우선 메일 및 캘린더 클라이언트. 키보드 중심, 오프라인 지원, AI는 선택 사항이며 직접 고른 모델을 사용합니다. ![Freeware][Freeware Icon]
 
 ### 파일 공유
 
