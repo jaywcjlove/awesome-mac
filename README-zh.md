@@ -839,6 +839,7 @@ Awesome Mac
 * [buzz](https://github.com/chidiwilliams/buzz) - 在你的个人电脑上离线转录和翻译音频，由 OpenAI 的 Whisper 提供支持。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [EnviousWispr](https://enviouswispr.com/) - 本地 AI 语音转文本工具，可将语音快速整理成可直接粘贴的文本。 ![Freeware][Freeware Icon]
 * [Carol](https://github.com/AnaghSharma/Carol) - 为 macOS 提供最小化和美丽的歌词应用程序。[![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
+* [ClipsPal](https://www.clipspal.com/) - 剪掉录制失误和停顿，添加字幕，并导出竖屏短视频。
 * [Cog](http://cogx.org/) - 一个免费的开源音频播放器。[![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cog-kode54/id1630499622?platform=mac)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  - 免费、跨平台视频编辑、颜色分级、视频效果和音频编辑软件。
 * [Fader](https://github.com/pantafive/fader) - 菜单栏音量混音器，支持应用级音量、一键切换输出设备和蓝牙耳机控制。[![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
