@@ -1651,6 +1651,7 @@ Awesome Mac
 * [SoundLadder](https://github.com/dirkkredinger/SoundLadder) - 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。 [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/SoundLadder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [StableBar](https://stablebar.app) - 可自定义的菜单栏替代品，提供主题、小组件、弹出面板以及 AeroSpace、yabai 或 OmniWM 工作区。 [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [stats](https://github.com/exelban/stats) - 免费的 Mac 系统监视器，显示在菜单栏中。 [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
+* [Stehauf](https://github.com/legolas-stz/stehauf) - 在 Mac 前工作 55 分钟后用全屏提醒你起身活动，麦克风或摄像头使用中时自动等待的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/legolas-stz/stehauf) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - 菜单栏文件转换工具：拖动文件时按一下按键，把文件放到转盘上即可转换视频、音频、图片和 PDF。 [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Usagebar](https://bullfighterstudio.com/usagebar) - 在菜单栏中显示 Claude Code、Codex、Cursor、Kimi Code、z.ai 和 DeepSeek 的用量限制及重置时间。 [![Open-Source Software][OSS Icon]](https://github.com/betoxf/Usagebar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vanilla](https://matthewpalmer.net/vanilla/) - 隐藏系统菜单栏。 ![Freeware][Freeware Icon]
