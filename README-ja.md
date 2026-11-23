@@ -1153,6 +1153,7 @@ Awesome Mac
 * [Roughcut](https://github.com/Bouliw/fcpxml-roughcut) - トーキングヘッド素材のフォルダからFinal Cut Proの粗編集を自動で作成。Whisperによる文字起こしはデバイス上で行い、カットはローカルまたはクラウドのAIモデルが選ぶ。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/fcpxml-roughcut) ![Freeware][Freeware Icon]
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - 10バンドEQ、カラオケモード、タイム同期歌詞を備えた美しいオーディオファイル音楽プレイヤー。 ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](http://www.telestream.net/screenflow/) - スクリーンキャストとビデオ編集ソフトウェア。
+* [SheetScroll](https://sheetscroll.com/) - 演奏を聴いて自動でページをめくる楽譜リーダー。
 * [Shotcut](https://www.shotcut.org) - 無料のオープンソースビデオエディター。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [Smorza](https://smorza.app) - アプリごとに音量、ミュート、出力デバイスを設定できるメニューバーの音量ミキサー。 [![Open-Source Software][OSS Icon]](https://github.com/rokoov/smorza) ![Freeware][Freeware Icon]

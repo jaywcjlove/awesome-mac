@@ -1156,6 +1156,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Roughcut](https://github.com/Bouliw/fcpxml-roughcut) - Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/fcpxml-roughcut) ![Freeware][Freeware Icon]
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
+* [SheetScroll](https://sheetscroll.com/) - Sheet music reader that listens as you play and turns the page.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [Smorza](https://smorza.app) - Menu bar volume mixer that gives each app its own volume, mute, and output device. [![Open-Source Software][OSS Icon]](https://github.com/rokoov/smorza) ![Freeware][Freeware Icon]

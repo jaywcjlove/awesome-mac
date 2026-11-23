@@ -935,6 +935,7 @@ Awesome Mac
 * [RAVE LIVE](https://github.com/jedbrnth-eng/rave-live) - 跟随 Mac 正在播放音乐的节拍同步的音乐节灯光秀，包含舞台灯光、激光和 MilkDrop 预设。 [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/rave-live) ![Freeware][Freeware Icon]
 * [Recordia](https://sindresorhus.com/recordia) - 直接从菜单栏或使用全局键盘快捷键录制音频。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487?platform=mac)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕和视频编辑软件。
+* [SheetScroll](https://sheetscroll.com/) - 聆听演奏并自动翻页的乐谱阅读器。
 * [Shotcut](https://www.shotcut.org) - 免费开源视频编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [Smorza](https://smorza.app) - 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。 [![Open-Source Software][OSS Icon]](https://github.com/rokoov/smorza) ![Freeware][Freeware Icon]
 * [Sonar](https://github.com/can4hou6joeng4/Sonar) - 原生音乐播放器，支持同步歌词、菜单栏选歌与顶部播放器。 [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
