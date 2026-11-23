@@ -1817,6 +1817,7 @@ Awesome Mac
 * [DockLens](https://github.com/firstfu/DockLens-app) - 鼠标停在 Dock 图标上，即可预览该应用所有窗口的实时缩略图，并可切换、关闭或最小化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
 * [Fenestra](https://github.com/PRMotorWorks/Fenestra) - Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。 [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Findow](https://findowmac.com/) - 滚动式窗口管理器，支持平铺、窗口切换器和可保存的工作区。 ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - 开源窗口管理工具，通过在窗口标题栏上使用触控板手势来贴靠、调整和移动窗口。 [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
 * [HyprMac](https://hyprmac.app) - 受 Hyprland 启发的键盘驱动平铺式窗口管理器，自动 dwindle 布局，支持十个工作区。 [![Open-Source Software][OSS Icon]](https://github.com/zacharytgray/HyprMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
