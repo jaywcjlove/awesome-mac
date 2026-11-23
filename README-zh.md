@@ -691,6 +691,7 @@ Awesome Mac
 
 ## AI 工具
 
+* [Agent Standup](https://agent-standup.com) - 开源应用，把 Claude Code、Codex 和 Mistral Vibe 会话变成实时动画团队会议，一眼看出谁在工作、谁卡住了、谁在等你。 [![Open-Source Software][OSS Icon]](https://github.com/Atoll92/agent-standup) ![Freeware][Freeware Icon]
 * [Agent Teams AI](https://agentteams.live/) - 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [Airbag](https://github.com/a1murt/airbag) - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的开源菜单栏应用，误删的文件和被清空的 .env 可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
