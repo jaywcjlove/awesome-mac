@@ -1191,6 +1191,7 @@ Awesome Mac
 * [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com/logic-pro/) - 音楽制作とオーディオ制作向けのプロ向けデジタルオーディオワークステーション。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
+* [Melodyshaper](https://hollowbit.dev/melodyshaper/) - 鼻歌を本物の楽器の演奏に変える初心者向けの無料オフライン音楽制作アプリで、コード、ドラム、ギター入力、MP3・WAV・ステム・MIDI 書き出しに対応。 [![Open-Source Software][OSS Icon]](https://github.com/hollowbit-dev/melodyshaper) ![Freeware][Freeware Icon]
 * [Memozia](https://github.com/oceanix-pr/Memozia) - ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。 [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
 * [mm2t](https://mm2t.yuzen.dev/en/) - データをローカルに保存し、デバイス上で話者を識別して、選択したサービスで文字起こしと要約を作成する会議録音ツール。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - テンポを変えずに、任意のアプリの音声のキーをリアルタイムで変更できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
