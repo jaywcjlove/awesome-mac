@@ -1881,6 +1881,7 @@ Awesome Mac
 * [FlowVision](https://flowvision.app) - 瀑布流式图像与视频查看器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [Hazel](https://www.noodlesoft.com) - 设计精美的自动文件管理软件。
 * [Marta](https://marta.sh) - 完全用 Swift 编写的 macOS 文件管理器 ![Freeware][Freeware Icon]
+* [NewFile](https://newfile.dev) - Finder 扩展，在右键菜单和工具栏中添加“新建文件”，支持自定义文件类型和起始模板。 [![Open-Source Software][OSS Icon]](https://github.com/mariusgm/newfile) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Oka Unarchiver](https://okaapps.com/product/1441507725) - 支持 RAR、批量解压和加密压缩包的归档工具。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1441507725?pt=119209922&ct=github)
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 强大的 Finder 替代者，拥有很多特性。
 * [PC Mode](https://github.com/getguruhat/PCMode) - 免费应用，把 Windows 习惯带到 Mac：用 Delete 键在 Finder 中删除文件，用 ⌘X 和 ⌘V 剪切并移动文件，用 ⌘Tab 切换单个窗口。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]
