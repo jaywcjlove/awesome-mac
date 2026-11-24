@@ -1782,6 +1782,7 @@ Awesome Mac
 * [Keytty](http://keytty.com) - キーボードから手を離さずに操作できるアプリ。数回のキー操作で移動、クリック、スクロール、ドラッグなどが可能。
 * [Launchy](https://apple.co/3PLI2AH) - ラジアルメニューを活用したアプリランチャー＆スイッチャー。
 * [Lazy](https://www.lazy-app.com/) - キーボード駆動のコマンドでMacから直接周囲の環境を管理。
+* [License Store](https://www.apptorium.com/license-store) - ライセンスキー、ライセンスファイル、領収書、ダウンロードリンク、メモ、有効期限をまとめて保管するアプリライセンス管理ツール。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/license-store/id6472541029?mt=12)
 * [Linear Mouse](https://linearmouse.app/) - マウスを完全制御。速度、スクロール方向、ポインタータイプなどを変更可能。 [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
 * [LinkUnbound](https://www.linkunbound.app/) - サイトやリンク元のアプリごとのルールで、各リンクを開くブラウザやブラウザプロファイルを選べるオープンソースのブラウザピッカー。 [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/LinkUnbound) ![Freeware][Freeware Icon]
 * [Macaify](https://macaify.com) - ChatGPTの高速利用、軽量、クリーン、キーボードファースト。 ![Freeware][Freeware Icon]
