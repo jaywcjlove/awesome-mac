@@ -1694,6 +1694,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [BetterTouchTool](https://folivora.ai/) - Personalize gestos, atalhos e ações de entrada em trackpads, mouses e teclados.
 * [Brink](https://brinknotch.site) - Um recorte na borda da tela que mantém suas páginas e tarefas do Notion a um passar do cursor. [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [Browserdoor](https://github.com/schowave/browserdoor) - Seletor de links de código aberto que pergunta qual navegador, perfil do navegador ou espaço do Zen deve abrir cada link. [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
+* [CalDeck](https://projectsbyms.eu/caldeck/) - Calendário que reúne contas do Microsoft 365, Outlook.com, iCloud e Google, com criação de eventos em linguagem natural e entrada em reuniões do Teams com um clique. ![Native App][Native Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - Impede que o Magic Mouse role a página toda vez que você clicar. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - Potencializador de produtividade de código aberto com um cérebro. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - Interface, API de URL e conjunto de extensão para navegador para gerenciar regras de onde e como abrir links.
