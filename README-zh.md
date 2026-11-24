@@ -1306,6 +1306,7 @@ Awesome Mac
 * [Buddy](https://github.com/projects-hacks/buddy) - 住在刘海里的学习助手，一边朗读讲解屏幕上的内容，一边在上面画图标注。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - 用 ⌥A 查询屏幕上的任意单词，支持 PDF 和图片，并保存到可搜索的本地词库。 ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - 收集、练习和整理个人外语词汇。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [WordLinea](https://wordlinea.com/) - Safari 翻译插件和背词 App，翻译网页、视频字幕和划选的词，查过的词连同原句存下来，到期出题复习。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6817321904?pt=129529705&ct=gh-awesome-mac&mt=8&platform=mac)
 
 ## 金融
 
