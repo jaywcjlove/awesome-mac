@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kapitsa</title>
+      <link>https://github.com/nace-ai/kapitsa</link>
+      <guid isPermaLink="false">07c64a32a4903e91237de6715eee7e597e6e1539:Kapitsa</guid>
+      <pubDate>Tue, 24 Nov 2026 02:06:04 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: Kapitsa
+Description: 네이티브 Metal 커널과 Neural Engine으로 동작하는 Apple 실리콘용 오픈 소스 LLM 추론 엔진으로, OpenAI 및 Anthropic 호환 API와 명령 하나로 시작하는 로컬 코딩 에이전트를 제공합니다.
+Open Source: https://github.com/nace-ai/kapitsa
+Commit: Add Kapitsa to AI Tools (#4358)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: Kapitsa<br/>Description: 네이티브 Metal 커널과 Neural Engine으로 동작하는 Apple 실리콘용 오픈 소스 LLM 추론 엔진으로, OpenAI 및 Anthropic 호환 API와 명령 하나로 시작하는 로컬 코딩 에이전트를 제공합니다.<br/>Open Source: https://github.com/nace-ai/kapitsa<br/>Commit: Add Kapitsa to AI Tools (#4358)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539]]></content:encoded>
+    </item>
     <item>
       <title>Clipy (Cross-Platform)</title>
       <link>https://github.com/JunWeiUp/Clipy</link>
@@ -723,22 +737,6 @@ Open Source: https://github.com/itsfutsy/OmegaStar
 Commit: Add OmegaStar to AI Tools (#4750)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: OmegaStar<br/>Description: 쓰던 Claude Code를 브라우저, 모델, 로그인 그대로 AI 직원 팀으로 바꿔 주는 앱. 직원마다 목표가 있고, 대화로 가르친 내용은 스킬로 남는다.<br/>Open Source: https://github.com/itsfutsy/OmegaStar<br/>Commit: Add OmegaStar to AI Tools (#4750)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe]]></content:encoded>
-    </item>
-    <item>
-      <title>Pixtamer</title>
-      <link>https://pixtamer.pages.dev</link>
-      <guid isPermaLink="false">57c29ef3385c1fef2379d3170d5baeec36ed6fef:Pixtamer</guid>
-      <pubDate>Thu, 19 Nov 2026 05:20:02 GMT</pubDate>
-      <category>디자인 및 제품 / 기타 도구</category>
-      <description>Category: 디자인 및 제품 / 기타 도구
-App: Pixtamer
-Description: 이미지를 일괄 변환·압축·크기 조정·이름 변경하여 웹용 JPEG, PNG, WebP, AVIF로 내보내는 도구. 반응형 너비와 프리셋을 지원하며 아무것도 업로드하지 않습니다.
-Website: https://pixtamer.pages.dev
-Open Source: https://github.com/heysidhant/pixtamer
-App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
-Commit: Add Pixtamer to image tools (#3969)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Pixtamer<br/>Description: 이미지를 일괄 변환·압축·크기 조정·이름 변경하여 웹용 JPEG, PNG, WebP, AVIF로 내보내는 도구. 반응형 너비와 프리셋을 지원하며 아무것도 업로드하지 않습니다.<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
     </item>
   </channel>
 </rss>

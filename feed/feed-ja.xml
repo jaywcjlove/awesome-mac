@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kapitsa</title>
+      <link>https://github.com/nace-ai/kapitsa</link>
+      <guid isPermaLink="false">07c64a32a4903e91237de6715eee7e597e6e1539:Kapitsa</guid>
+      <pubDate>Tue, 24 Nov 2026 02:06:04 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Kapitsa
+Description: ネイティブの Metal カーネルと Neural Engine で動く Apple シリコン向けのオープンソース LLM 推論エンジンで、OpenAI・Anthropic 互換 API とワンコマンドで起動するローカルのコーディングエージェントを備える。
+Open Source: https://github.com/nace-ai/kapitsa
+Commit: Add Kapitsa to AI Tools (#4358)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Kapitsa<br/>Description: ネイティブの Metal カーネルと Neural Engine で動く Apple シリコン向けのオープンソース LLM 推論エンジンで、OpenAI・Anthropic 互換 API とワンコマンドで起動するローカルのコーディングエージェントを備える。<br/>Open Source: https://github.com/nace-ai/kapitsa<br/>Commit: Add Kapitsa to AI Tools (#4358)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539]]></content:encoded>
+    </item>
     <item>
       <title>Clipy (Cross-Platform)</title>
       <link>https://github.com/JunWeiUp/Clipy</link>
@@ -724,22 +738,6 @@ App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
 Commit: Add Pixtamer to image tools (#3969)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
       <content:encoded><![CDATA[Category: デザインとプロダクト / その他のツール<br/>App: Pixtamer<br/>Description: 画像を一括で変換・圧縮・リサイズ・リネームし、Web 向けの JPEG・PNG・WebP・AVIF に書き出すツール。レスポンシブ幅とプリセットに対応し、アップロードは一切なし。<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
-    </item>
-    <item>
-      <title>App Vanish</title>
-      <link>https://appvanish.pages.dev</link>
-      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
-      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
-      <category>ユーティリティ / クリーンアップとアンインストール</category>
-      <description>Category: ユーティリティ / クリーンアップとアンインストール
-App: App Vanish
-Description: アプリをゴミ箱にドロップすると、アプリと残されたファイルを削除できるツール。判断が必要なファイルは最初はチェックが外れており、すべてゴミ箱に移動される。App Store 版は削除済みアプリの残りファイルを見つける。
-Website: https://appvanish.pages.dev
-Open Source: https://github.com/heysidhant/appvanish
-App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
-Commit: Add App Vanish to Cleanup and Uninstall (#4749)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: App Vanish<br/>Description: アプリをゴミ箱にドロップすると、アプリと残されたファイルを削除できるツール。判断が必要なファイルは最初はチェックが外れており、すべてゴミ箱に移動される。App Store 版は削除済みアプリの残りファイルを見つける。<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
     </item>
   </channel>
 </rss>
