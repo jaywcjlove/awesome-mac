@@ -898,6 +898,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Linger](https://withlinger.com/) - Local-first visual reference library for saving images, source links, and notes, with keyword search and collections.
 * [Louppe](https://louppe.eu/) - Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import. [![Open-Source Software][OSS Icon]](https://github.com/murlexander/louppe-media-culler) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/louppe/id6820131477)
 * [LumaView](https://ixiehao.github.io/LumaView/en/) - Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
+* [Lumerist](https://github.com/ziago/Lumerist) - Hold a key and turn the mouse wheel or swipe on the trackpad to move a Lightroom Classic Develop slider. [![Open-Source Software][OSS Icon]](https://github.com/ziago/Lumerist) ![Freeware][Freeware Icon]
 * [Mark Man](https://getmarkman.com/) - Measure & Spec Fast.
 * [Mottie](https://recouse.me/apps/mottie/) - A native Lottie animation player with Quick Look extension for dotLottie files. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Nucleo](https://nucleoapp.com/) - Icon manager. Import, export, customize and convert icon libraries.
