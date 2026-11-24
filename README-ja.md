@@ -1199,6 +1199,7 @@ Awesome Mac
 * [Memozia](https://github.com/oceanix-pr/Memozia) - ローカル文字起こし、話者ラベル、要約、編集可能なタスクに対応するオープンソースの会議録音ツール。 [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
 * [mm2t](https://mm2t.yuzen.dev/en/) - データをローカルに保存し、デバイス上で話者を識別して、選択したサービスで文字起こしと要約を作成する会議録音ツール。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - テンポを変えずに、任意のアプリの音声のキーをリアルタイムで変更できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
+* [PolarParrot](https://polarparrot.com/en) - ボットを参加させずに会議を録音し、議事録を作成して、MCP 経由で Claude、ChatGPT、Cursor から読めるようにする。
 * [Segue](https://segue.npearce.me/) - クロスフェード、トリム、ランプタイマー、ポーズベッドに対応したライブラジオ・ポッドキャスト向け放送用オーディオ送出ツール。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 会議を録音してデバイス上で文字起こしし、話者を識別して、手持ちの Claude や ChatGPT のサブスクリプションでタイムスタンプ付きの議事録を作るオープンソースのレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - オールインワンのデジタルオーディオワークステーション（DAW）およびプラグインスイート。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
