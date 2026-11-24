@@ -1721,6 +1721,7 @@ Awesome Mac
 ### ToDoリスト
 
 * [2Do](http://www.2doapp.com/) - 優れたTodoアプリ。
+* [Cadence](https://www.yuzool.com/apps/cadence/) - 1週間を日ごとに並べて計画できる週間プランナー兼タスクボード。金曜の振り返りと iCloud による iPhone 同期に対応。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180?mt=12)
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - カレンダー内蔵のメニューバー時計の代替アプリ。 ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)

@@ -1384,6 +1384,7 @@ Awesome Mac
 
 ### 할 일 목록 (To-Do Lists)
 
+* [Cadence](https://www.yuzool.com/apps/cadence/) - 한 주를 날짜별로 나란히 펼쳐 계획하는 주간 플래너 겸 작업 보드. 금요일 회고와 iCloud로 iPhone 동기화를 지원합니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180?mt=12)
 * [Lotti](https://matthiasn.github.io/lotti/) - 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Nozbe](https://nozbe.com) - 개인과 팀을 위한 GTD 작업 관리자. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
