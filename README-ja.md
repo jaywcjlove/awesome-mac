@@ -1135,6 +1135,7 @@ Awesome Mac
 * [MuseScore](https://musescore.org/) - 無料のオープンソース楽譜作成ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
 * [Museeks](https://museeks.io) - シンプルでクリーンなクロスプラットフォーム音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) ![Freeware][Freeware Icon]
 * [Muxie](https://muxie.duhnnie.com) - Apple Music、Spotify Desktop、iPod Classic、Rockboxデバイスなど向けのLast.fmスクロブラー。 ![Freeware][Freeware Icon]
+* [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Go（MyGo）で構築された軽量な非公式ネイティブ Spotify デスクトップクライアント。フローティングデスクトップ歌詞、同期歌詞補完、MV、ビデオポッドキャスト、ノッチプレーヤーに対応。 [![Open-Source Software][OSS Icon]](https://github.com/margbug01/MySpotify) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Natron](https://natrongithub.github.io/) - オープンソースのノードベース合成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nimbus](https://github.com/Dearonski/Nimbus) - ギャップレス再生、ドラッグ＆ドロップで並べ替えられるキュー、Chromecast、フルスクリーンのレコードプレーヤーを備えたネイティブ SoundCloud クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Dearonski/Nimbus) ![Freeware][Freeware Icon]
 * [NotchMuse](https://notchmuse.com/) - Spotify、Apple Music、NetEase Cloud Music、QQ Music、Soda Music の同期歌詞をメニューバー、ノッチの横、Dock の上に表示するオープンソースの歌詞ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Xiye88/NotchMuse) ![Freeware][Freeware Icon]

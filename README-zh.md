@@ -963,6 +963,7 @@ Awesome Mac
 * [Musicer](https://apps.apple.com/cn/app/musicer/6745227444?platform=mac) - 复古本地音乐播放器，支持多种格式，支持 AI 控制。
 * [Fmusic](https://github.com/wandercn/fmusic) - macOS 音乐播放器，支持多格式播放与歌词显示。
 * [music-you](https://github.com/GuMengYu/music-you) - 一个美观简约的 Material Design 3风格的网易云音乐播放器  [![Open-Source Software][OSS Icon]](https://github.com/GuMengYu/music-you) ![Freeware][Freeware Icon]
+* [MySpotify](https://margbug01.github.io/MySpotify/) - 基于 Go（MyGo）原生界面的轻量非官方 Spotify 桌面客户端，支持桌面悬浮歌词、歌词翻译、MV、视频播客与刘海播放器。 [![Open-Source Software][OSS Icon]](https://github.com/margbug01/MySpotify) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [QQ 音乐](https://y.qq.com/download/index.html) ![Freeware][Freeware Icon]
 * [Kaset](https://github.com/sozercan/kaset) - 支持资料库、歌词和播客的开源 YouTube Music 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/sozercan/kaset) ![Freeware][Freeware Icon]
 * [Radif](https://www.yuvrajangadsingh.com/radif) - 基于 Tauri 的非官方开源 YouTube Music 客户端，支持同步歌词和视频模式，需要 YouTube Music Premium。 [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/radif) ![Freeware][Freeware Icon]
