@@ -895,6 +895,7 @@ Awesome Mac
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
+* [Zackem](https://zackem.ai) - 계정 수 제한 없는 무료 데스크톱 이메일 클라이언트. 메일은 내 컴퓨터에만 저장됩니다. ![Freeware][Freeware Icon]
 
 ### 파일 공유
 

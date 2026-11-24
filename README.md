@@ -1070,6 +1070,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tutanota](https://tutanota.com/) - Encrypted email focused on security and privacy. [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
 * [Edison Mail](https://mail.edison.tech/mac) - A customisable, simple, and beautiful email client. ![Freeware][Freeware Icon]
 * [Skiff Mail](https://skiff.com/mail) - Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/skiff-org/skiff-mail)
+* [Zackem](https://zackem.ai) - Free desktop email client for unlimited accounts; mail stays on your computer. ![Freeware][Freeware Icon]
 
 ### File Sharing
 

@@ -833,6 +833,7 @@ Awesome Mac
 * [Spark](https://sparkmailapp.com/) - 新推出的快速邮件客户端支持 Mac 和 iPhone。![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - 键盘驱动的邮件客户端，使用 Rust 基于 Zed 的 GPU 界面框架 gpui 编写。 [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/zh-CN/thunderbird/) - Mozilla 公司出品的强大的 Email 客户端程序。![Freeware][Freeware Icon]
+* [Zackem](https://zackem.ai) - 免费的桌面邮件客户端，支持无限个邮箱账户，邮件保存在你自己的电脑上。 ![Freeware][Freeware Icon]
 
 ### 文件共享
 

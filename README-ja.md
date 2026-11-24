@@ -1068,6 +1068,7 @@ Awesome Mac
 * [Tutanota](https://tutanota.com/) - セキュリティとプライバシーに重点を置いた暗号化メール。 [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
 * [Edison Mail](https://mail.edison.tech/mac) - カスタマイズ可能でシンプル、美しいメールクライアント。 ![Freeware][Freeware Icon]
 * [Skiff Mail](https://skiff.com/mail) - 暗号化＆分散型メール -- Web、iOS/Android、macOSで利用可能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/skiff-org/skiff-mail)
+* [Zackem](https://zackem.ai) - アカウント数無制限の無料デスクトップメールクライアント。メールは自分のコンピューターに保存されます。 ![Freeware][Freeware Icon]
 
 ### ファイル共有
 
