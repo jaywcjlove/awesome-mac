@@ -205,6 +205,7 @@ Awesome Command Line Apps
 * [tmux](https://github.com/tmux/tmux) - 1つのターミナルから複数のターミナルを管理するターミナルマルチプレクサー。 [![OSS][OSS Icon]](https://github.com/tmux/tmux)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - 複雑なtmuxセッションを簡単に管理。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [trash](https://github.com/sindresorhus/trash) - ファイルやディレクトリをゴミ箱に移動。 ![Open-Source Software][OSS Icon]
+* [unannoy](https://github.com/Thominho/unannoy) - 元に戻せる defaults 設定とインタラクティブな選択画面で、macOS のよくある不満を解消します。 [![Open-Source Software][OSS Icon]](https://github.com/Thominho/unannoy) ![Freeware][Freeware Icon]
 * [VisiData](https://visidata.org) - データの発見と整理のためのターミナルスプレッドシートマルチツール。 [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) ![Freeware][Freeware Icon]
 * [xonsh](https://xon.sh/contents.html) - Pythonベースのクロスプラットフォーム、Unix志向のシェル言語＆コマンドプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/xonsh/xonsh) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - 対話的な使用のために設計されたシェル。強力なスクリプト言語でもある。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)

@@ -166,6 +166,7 @@
 * [thefuck](https://github.com/nvbn/thefuck) - 이전 명령의 오타를 수정해주는 유용한 도구. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 강력한 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [trash](https://github.com/sindresorhus/trash) - 파일과 디렉토리를 휴지통으로 이동시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
+* [unannoy](https://github.com/Thominho/unannoy) - 되돌릴 수 있는 defaults 설정과 대화형 선택기로 macOS의 흔한 불편함을 해결합니다. [![Open-Source Software][OSS Icon]](https://github.com/Thominho/unannoy) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - 대화형 사용을 위해 설계된 명령줄 쉘. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - zsh 설정을 관리하는 커뮤니티 주도 오픈 소스 프레임워크. [![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
 

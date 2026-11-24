@@ -179,6 +179,7 @@
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Tmux的配置管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 * [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
+* [unannoy](https://github.com/Thominho/unannoy) - 通过可撤销的 defaults 设置和交互式选择器，修复 macOS 常见的烦人问题。 [![Open-Source Software][OSS Icon]](https://github.com/Thominho/unannoy) ![Freeware][Freeware Icon]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
 * [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 一个由社区驱动,用于管理zsh配置的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
