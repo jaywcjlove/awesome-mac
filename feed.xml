@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vaquero</title>
+      <link>https://github.com/BitWise-0x/Vaquero</link>
+      <guid isPermaLink="false">b7dcd29ccfe61868867a9f45181a18ebab5019d0:Vaquero</guid>
+      <pubDate>Tue, 24 Nov 2026 02:50:00 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Vaquero
+Description: Learns a face from a few photos, then finds every photo and video of that person in your folders, fully offline.
+Open Source: https://github.com/BitWise-0x/Vaquero
+Commit: Add Vaquero to Other Tools (#4894)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Vaquero<br/>Description: Learns a face from a few photos, then finds every photo and video of that person in your folders, fully offline.<br/>Open Source: https://github.com/BitWise-0x/Vaquero<br/>Commit: Add Vaquero to Other Tools (#4894)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0]]></content:encoded>
+    </item>
     <item>
       <title>MySpotify</title>
       <link>https://margbug01.github.io/MySpotify/en.html</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/quiet-crafts/unbraid-mac
 Commit: Add unbraid to Proxy and VPN Tools (#4798)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
       <content:encoded><![CDATA[Category: Proxy and VPN Tools<br/>App: unbraid<br/>Description: Per-app VPN client. Each app can use its own exit or skip the VPN, while Tailscale stays on.<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
-    </item>
-    <item>
-      <title>Tietie</title>
-      <link>https://github.com/KLWSharpe/tietie</link>
-      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
-      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Tietie
-Description: Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese.
-Open Source: https://github.com/KLWSharpe/tietie
-Commit: Add Tietie to Clipboard Tools (#4795)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Tietie<br/>Description: Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese.<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
     </item>
   </channel>
 </rss>

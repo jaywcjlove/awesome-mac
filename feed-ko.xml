@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vaquero</title>
+      <link>https://github.com/BitWise-0x/Vaquero</link>
+      <guid isPermaLink="false">b7dcd29ccfe61868867a9f45181a18ebab5019d0:Vaquero</guid>
+      <pubDate>Tue, 24 Nov 2026 02:50:00 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Vaquero
+Description: 몇 장의 사진으로 얼굴을 학습해 폴더에서 그 사람이 나온 모든 사진과 동영상을 완전히 오프라인으로 찾아 주는 앱.
+Open Source: https://github.com/BitWise-0x/Vaquero
+Commit: Add Vaquero to Other Tools (#4894)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Vaquero<br/>Description: 몇 장의 사진으로 얼굴을 학습해 폴더에서 그 사람이 나온 모든 사진과 동영상을 완전히 오프라인으로 찾아 주는 앱.<br/>Open Source: https://github.com/BitWise-0x/Vaquero<br/>Commit: Add Vaquero to Other Tools (#4894)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0]]></content:encoded>
+    </item>
     <item>
       <title>MySpotify</title>
       <link>https://margbug01.github.io/MySpotify/en.html</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/direcat/dropkeeper
 Commit: Add DropKeeper to File Organization Tools (#3694)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: DropKeeper<br/>Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
-    </item>
-    <item>
-      <title>Inquiline</title>
-      <link>https://github.com/inquiline-app/inquiline</link>
-      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
-      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: Inquiline
-Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.
-Open Source: https://github.com/inquiline-app/inquiline
-Commit: Add Inquiline to Virtualization (#4782)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Inquiline<br/>Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
     </item>
   </channel>
 </rss>

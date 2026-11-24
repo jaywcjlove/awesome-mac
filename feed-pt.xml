@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vaquero</title>
+      <link>https://github.com/BitWise-0x/Vaquero</link>
+      <guid isPermaLink="false">b7dcd29ccfe61868867a9f45181a18ebab5019d0:Vaquero</guid>
+      <pubDate>Tue, 24 Nov 2026 02:50:00 GMT</pubDate>
+      <category>Design e Produto / Outras Ferramentas</category>
+      <description>Category: Design e Produto / Outras Ferramentas
+App: Vaquero
+Description: Aprende um rosto a partir de algumas fotos e encontra todas as fotos e vídeos dessa pessoa nas suas pastas, totalmente offline.
+Open Source: https://github.com/BitWise-0x/Vaquero
+Commit: Add Vaquero to Other Tools (#4894)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0</description>
+      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Vaquero<br/>Description: Aprende um rosto a partir de algumas fotos e encontra todas as fotos e vídeos dessa pessoa nas suas pastas, totalmente offline.<br/>Open Source: https://github.com/BitWise-0x/Vaquero<br/>Commit: Add Vaquero to Other Tools (#4894)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0]]></content:encoded>
+    </item>
     <item>
       <title>Clipy (Cross-Platform)</title>
       <link>https://github.com/JunWeiUp/Clipy</link>
@@ -724,21 +738,6 @@ Open Source: https://github.com/brackets-cont/brackets/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Brackets<br/>Description: Um editor de texto moderno e de código aberto que entende de design web.<br/>Website: https://brackets.io<br/>Open Source: https://github.com/brackets-cont/brackets/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>CodeEdit</title>
-      <link>https://www.codeedit.app/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CodeEdit</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: CodeEdit
-Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.
-Website: https://www.codeedit.app/
-Open Source: https://github.com/CodeEditApp/CodeEdit
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CodeEdit<br/>Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.<br/>Website: https://www.codeedit.app/<br/>Open Source: https://github.com/CodeEditApp/CodeEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
