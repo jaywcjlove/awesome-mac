@@ -998,6 +998,7 @@ Awesome Mac
 * [Stelix](https://getstelix.com) - Mac 实时音轨分离：将任意应用正在播放的音频实时分离为人声、鼓、贝斯和其他，可调节每个声部的音量或单独收听，全部在本机运行。 [![Open-Source Software][OSS Icon]](https://github.com/stelix-app/stelix) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - 免费开源的全局参数均衡器，支持 AutoEQ 预设、听力校准和实时可视化。 [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
 * [Tingo](https://github.com/tancheng33/tingo) - 开源的本地会议纪要工具，能录下任意线上会议，在设备上转写并区分说话人，再用你选的大模型生成每条都能点回原话的纪要。 [![Open-Source Software][OSS Icon]](https://github.com/tancheng33/tingo) ![Freeware][Freeware Icon]
+* [Trekit](https://trekit.bronsonhill.com.au/) - 在 iPhone 或 Mac 上录制会议、讲座和访谈，在你的 Mac 上转写并识别说话人，Claude 等 AI 工具可以搜索这些记录。
 * [Utter](https://github.com/h3x-levi/Utter) - 基于 whisper.cpp 与 Metal 的完全本地语音听写与会议转录工具。 [![Open-Source Software][OSS Icon]](https://github.com/h3x-levi/Utter) ![Freeware][Freeware Icon]
 * [Vauta](https://vauta.vercel.app/) - 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [VoiceStudio](https://saadmsft.github.io/VoiceStudio/) - 基于 Swift 与 CoreAudio 的实时广播级麦克风人声处理器，提供自然低音深度、次谐波温暖度、6 段均衡、齿音消除与压缩，适用于 Discord、Zoom、Teams 与 OBS。 [![Open-Source Software][OSS Icon]](https://github.com/saadmsft/VoiceStudio) ![Freeware][Freeware Icon]
