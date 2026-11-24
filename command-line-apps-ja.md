@@ -194,6 +194,7 @@ Awesome Command Line Apps
 * [Serial](https://www.decisivetactics.com/products/serial/) - Mac用のフル機能シリアルターミナル。
 * [shallow-backup](https://github.com/alichtman/shallow-backup) - インストール済みアプリケーション、dotfilesなどのテキストドキュメントを簡単に作成。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [ShellHistory](https://loshadki.app/shellhistory/) - シェル履歴のバックアップ、同期、整理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/shellhistory/id1564015476?mt=12&platform=mac)
+* [Shellux](https://github.com/reathloo/shellux) - macOSとLinuxのZsh/Bashで、リアルタイムのシステム情報、プロジェクトコンテキスト、音楽コントロール、カスタマイズ可能なプロファイルを表示するアニメーションダッシュボード。 ![Freeware][Freeware Icon]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 速度を重視したackに似たコード検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 宇宙飛行士のためのZshプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
 * [Summon](https://github.com/juan294/summon) - GhosttyまたはRexで、設定可能なマルチペインのプロジェクトワークスペースをコマンド1つで起動するCLI（tmux不要）。 [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
