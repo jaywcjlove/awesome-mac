@@ -560,6 +560,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [James](https://github.com/james-proxy/james) - Ferramenta de proxy de código aberto para verificar e mapear requisições tanto em http quanto em https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Monitor de rede com mapa-múndi para visualizar conexões de rede.
 * [mitmproxy](https://mitmproxy.org/) - Proxy HTTP interativo com interceptação para testadores de penetração e desenvolvedores de software. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
+* [Netfox](https://netfox.app) - Monitor de rede que identifica cada dispositivo da sua LAN em linguagem simples, avalia a segurança das redes Wi-Fi próximas e detecta serviços deixados abertos. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Proxie](https://proxie.app) - Proxy de depuração HTTP.
 * [Proxyman](https://proxyman.app) - Proxy de depuração HTTP moderno e intuitivo para macOS. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - Proxy de depuração HTTP(S) de código aberto para interceptar, inspecionar, modificar e reenviar requisições. [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
