@@ -595,6 +595,7 @@ Awesome Mac
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
+* [松鼠截图 F6](https://f6.lowpower.me/) - Mac 截图工具，免费、无需登录，截图只存本机。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 屏幕录制
 
