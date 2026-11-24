@@ -157,6 +157,7 @@
 * [Fish Shell](https://fishshell.com/) - 지능적이고 사용자 친화적인 명령줄 쉘. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [Glances](https://github.com/nicolargo/glances) - 명령줄에서 시스템 리소스 상태를 확인하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS 없이 Synology Hyper Backup(.hbk) 아카이브를 읽고 복원하는 명령줄 도구(TUI 포함). [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
+* [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - macOS와 Linux에서 동작하는 로컬 명령줄 도구로, 자신이 소유한 네트워크의 스마트 기기를 점검하고 A부터 F까지의 등급이 있는 한 페이지짜리 HTML 보고서를 만듭니다. [![Open-Source Software][OSS Icon]](https://github.com/emirmrkaljevic/iotaudit) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - macOS를 위한 스위스 아미 나이프 같은 도구. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - 간단한 Mac App Store 명령줄 인터페이스. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
