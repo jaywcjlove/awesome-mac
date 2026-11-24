@@ -1762,6 +1762,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Takeline](https://github.com/Bouliw/takeline) - Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/takeline) ![Freeware][Freeware Icon]
 * [Time Out](https://www.dejal.com/timeout/) - Lembretes fáceis de pausas, com micropausas e personalização flexível, se você quiser. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?platform=mac)
 * [TimeScribe](https://timescribe.app/) - Registro de tempo de trabalho simples e gratuito. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/WINBIGFOX/TimeScribe)
+* [TimeUno](https://timeuno.io/) - Rastreador automático de tempo que organiza o trabalho por projeto e também registra o tempo gasto em agentes de IA para programação.
 * [Timing](https://timingapp.com/) - Rastreamento automático de tempo com insights de produtividade e registros prontos para faturamento.
 * [Textream](https://textream.fka.dev) - Teleprompter gratuito com acompanhamento de palavras em tempo real e rolagem ativada por voz. [![Open-Source Software][OSS Icon]](https://github.com/f/textream) ![Freeware][Freeware Icon]
 * [Trace](https://trace.techulus.xyz) - Alternativa de código aberto ao Spotlight e kit de atalhos. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/arjunkomath/trace)
