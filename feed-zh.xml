@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://heycue.io</link>
+      <guid isPermaLink="false">99fb4adf69c024eedfdcf59957930a85bef543fd:Cue</guid>
+      <pubDate>Tue, 24 Nov 2026 16:42:35 GMT</pubDate>
+      <category>开发者工具 / 命令行应用</category>
+      <description>Category: 开发者工具 / 命令行应用
+App: Cue
+Description: 桌面 AI 助手，提供语音输入、会议转写，并利用你提供的上下文处理支持范围内的 Agent 任务。
+Website: https://heycue.io
+Commit: Add Cue to Voice-to-Text (#2487)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Cue<br/>Description: 桌面 AI 助手，提供语音输入、会议转写，并利用你提供的上下文处理支持范围内的 Agent 任务。<br/>Website: https://heycue.io<br/>Commit: Add Cue to Voice-to-Text (#2487)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd]]></content:encoded>
+    </item>
     <item>
       <title>CurlGo</title>
       <link>https://curlgo.echovic.com/</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/quiet-crafts/unbraid-mac
 Commit: Add unbraid to Proxy and VPN Tools (#4798)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
       <content:encoded><![CDATA[Category: 科学上网<br/>App: unbraid<br/>Description: 按应用分流的 VPN 客户端。每个应用可以走自己的出口或绕过 VPN，同时 Tailscale 保持连接。<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
-    </item>
-    <item>
-      <title>Tietie</title>
-      <link>https://github.com/KLWSharpe/tietie</link>
-      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
-      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: Tietie
-Description: 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。
-Open Source: https://github.com/KLWSharpe/tietie
-Commit: Add Tietie to Clipboard Tools (#4795)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Tietie<br/>Description: 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
     </item>
   </channel>
 </rss>

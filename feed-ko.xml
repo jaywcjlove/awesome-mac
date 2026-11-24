@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://heycue.io</link>
+      <guid isPermaLink="false">99fb4adf69c024eedfdcf59957930a85bef543fd:Cue</guid>
+      <pubDate>Tue, 24 Nov 2026 16:42:35 GMT</pubDate>
+      <category>개발 도구 / 터미널 앱</category>
+      <description>Category: 개발 도구 / 터미널 앱
+App: Cue
+Description: 음성 입력, 회의 내용의 텍스트 변환, 사용자가 제공한 맥락을 활용하는 지원 범위 내 에이전트 작업을 제공하는 데스크톱 AI 어시스턴트.
+Website: https://heycue.io
+Commit: Add Cue to Voice-to-Text (#2487)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Cue<br/>Description: 음성 입력, 회의 내용의 텍스트 변환, 사용자가 제공한 맥락을 활용하는 지원 범위 내 에이전트 작업을 제공하는 데스크톱 AI 어시스턴트.<br/>Website: https://heycue.io<br/>Commit: Add Cue to Voice-to-Text (#2487)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd]]></content:encoded>
+    </item>
     <item>
       <title>CurlGo</title>
       <link>https://curlgo.echovic.com/en/</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/KLWSharpe/tietie
 Commit: Add Tietie to Clipboard Tools (#4795)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Tietie<br/>Description: 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어).<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
-    </item>
-    <item>
-      <title>Meridian</title>
-      <link>https://undermove.github.io/meridian-browser/</link>
-      <guid isPermaLink="false">c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2:Meridian</guid>
-      <pubDate>Fri, 20 Nov 2026 05:22:20 GMT</pubDate>
-      <category>브라우저</category>
-      <description>Category: 브라우저
-App: Meridian
-Description: Chromium 기반의 오픈 소스 Arc 스타일 브라우저로, 스페이스, 고정 탭, 커맨드 바, Arc 및 Chrome 원클릭 가져오기, AI 에이전트용 내장 MCP 서버를 제공합니다.
-Website: https://undermove.github.io/meridian-browser/
-Open Source: https://github.com/Undermove/meridian-browser
-Commit: Add Meridian to Browsers (#3807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
-      <content:encoded><![CDATA[Category: 브라우저<br/>App: Meridian<br/>Description: Chromium 기반의 오픈 소스 Arc 스타일 브라우저로, 스페이스, 고정 탭, 커맨드 바, Arc 및 Chrome 원클릭 가져오기, AI 에이전트용 내장 MCP 서버를 제공합니다.<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
     </item>
   </channel>
 </rss>

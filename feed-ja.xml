@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://heycue.io</link>
+      <guid isPermaLink="false">99fb4adf69c024eedfdcf59957930a85bef543fd:Cue</guid>
+      <pubDate>Tue, 24 Nov 2026 16:42:35 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Cue
+Description: 音声入力、会議の文字起こし、ユーザーが提供するコンテキストを用いた対応範囲内のエージェントタスクに対応するデスクトップ AI アシスタント。
+Website: https://heycue.io
+Commit: Add Cue to Voice-to-Text (#2487)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Cue<br/>Description: 音声入力、会議の文字起こし、ユーザーが提供するコンテキストを用いた対応範囲内のエージェントタスクに対応するデスクトップ AI アシスタント。<br/>Website: https://heycue.io<br/>Commit: Add Cue to Voice-to-Text (#2487)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd]]></content:encoded>
+    </item>
     <item>
       <title>CurlGo</title>
       <link>https://curlgo.echovic.com/en/</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/Undermove/meridian-browser
 Commit: Add Meridian to Browsers (#3807)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
       <content:encoded><![CDATA[Category: ブラウザ<br/>App: Meridian<br/>Description: Chromiumベースのオープンソース Arc スタイルブラウザ。スペース、ピン留めタブ、コマンドバー、Arc と Chrome からのワンクリックインポート、AIエージェント向けの内蔵MCPサーバーを備える。<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
-    </item>
-    <item>
-      <title>Deskbridge</title>
-      <link>https://getdeskbridge.com</link>
-      <guid isPermaLink="false">dd013ed128b608bdec6a0ce67e5c376da5bdb708:Deskbridge</guid>
-      <pubDate>Fri, 20 Nov 2026 05:05:26 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Deskbridge
-Description: USB または Wi-Fi 経由で Samsung Galaxy スマートフォンの DeX デスクトップを Mac のウィンドウで開くメニューバーアプリ。スマホアプリの個別ウィンドウ表示、着信バナー、通知にも対応。
-Website: https://getdeskbridge.com
-Commit: Add Deskbridge to Menu Bar Tools (#3852)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Deskbridge<br/>Description: USB または Wi-Fi 経由で Samsung Galaxy スマートフォンの DeX デスクトップを Mac のウィンドウで開くメニューバーアプリ。スマホアプリの個別ウィンドウ表示、着信バナー、通知にも対応。<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
     </item>
   </channel>
 </rss>
