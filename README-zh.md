@@ -731,6 +731,7 @@ Awesome Mac
 * [Godmode Bot](https://usegodmode.com) - 把 Claude 订阅变成一组常驻智能体的开源 AI 同事，可在专属浏览器中用你的登录信息完成电脑上的工作。
 * [GroAsk](https://groask.com) - 可将选中文本发送给 AI 助手和命令行 Agent 的菜单栏启动器。
 * [Grux](https://gruxai.com) - 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Guardiano](https://glplabs.eu/en/guardiano/) - 在 Claude Code、Codex、Cursor 等 AI 编程代理执行任何有风险的操作前，用通俗的语言请你确认的菜单栏应用，并为被改动的文件保留 7 天副本。 ![Native App][Native Icon]
 * [Hush](https://github.com/OgnjenAdzic28/hush) - 开源的 CLI 和 MCP 服务器，让 AI Agent 在后台操作任意 Mac 应用，每个动作约 178 毫秒，不抢焦点，也不移动你的鼠标指针。 [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [JoeBro](https://joebro.pages.dev) - 面向编码智能体（Claude Code、Codex、OpenCode）的原生 SwiftUI 工作区，文件在旁边打开，支持通过 MCP 共享记忆、夜间任务，以及本地或 API 模型。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
