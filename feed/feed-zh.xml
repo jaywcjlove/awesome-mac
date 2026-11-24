@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CurlGo</title>
+      <link>https://curlgo.echovic.com/</link>
+      <guid isPermaLink="false">c46771e13280ea158bdcd6b95259ee72eac5890f:CurlGo</guid>
+      <pubDate>Tue, 24 Nov 2026 08:57:08 GMT</pubDate>
+      <category>开发者工具 / API开发和分析</category>
+      <description>Category: 开发者工具 / API开发和分析
+App: CurlGo
+Description: 开源 API 客户端，支持 HTTP、SSE 和 WebSocket，工作区保存在本机，可导入 curl、Postman 和 Bruno 集合。
+Website: https://curlgo.echovic.com/
+Open Source: https://github.com/echoVic/curlgo
+Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / API开发和分析<br/>App: CurlGo<br/>Description: 开源 API 客户端，支持 HTTP、SSE 和 WebSocket，工作区保存在本机，可导入 curl、Postman 和 Bruno 集合。<br/>Website: https://curlgo.echovic.com/<br/>Open Source: https://github.com/echoVic/curlgo<br/>Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f]]></content:encoded>
+    </item>
     <item>
       <title>Roomie</title>
       <link>https://lesheess.github.io/small-living-things/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/KLWSharpe/tietie
 Commit: Add Tietie to Clipboard Tools (#4795)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Tietie<br/>Description: 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
-    </item>
-    <item>
-      <title>Meridian</title>
-      <link>https://undermove.github.io/meridian-browser/</link>
-      <guid isPermaLink="false">c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2:Meridian</guid>
-      <pubDate>Fri, 20 Nov 2026 05:22:20 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Meridian
-Description: 基于 Chromium 的开源 Arc 风格浏览器，提供空间、固定标签页、命令栏、一键从 Arc 和 Chrome 导入，以及供 AI 代理使用的内置 MCP 服务器。
-Website: https://undermove.github.io/meridian-browser/
-Open Source: https://github.com/Undermove/meridian-browser
-Commit: Add Meridian to Browsers (#3807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Meridian<br/>Description: 基于 Chromium 的开源 Arc 风格浏览器，提供空间、固定标签页、命令栏、一键从 Arc 和 Chrome 导入，以及供 AI 代理使用的内置 MCP 服务器。<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
     </item>
   </channel>
 </rss>
