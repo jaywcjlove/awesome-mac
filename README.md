@@ -1361,6 +1361,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Buddy](https://github.com/projects-hacks/buddy) - Study helper in the notch that explains what is on your screen out loud while drawing on it. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
+* [Zhenzhu](https://zhenzhu.app/) - Offline Chinese and Japanese pop-up dictionary for macOS with system-wide hover lookup, Apple Vision OCR for manga and PDFs, and one-click Anki/FSRS flashcards.
 
 ## Finance
 
