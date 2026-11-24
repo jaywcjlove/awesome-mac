@@ -5,9 +5,81 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Clipy (Cross-Platform)</title>
+      <link>https://github.com/JunWeiUp/Clipy</link>
+      <guid isPermaLink="false">0603ac0a2371b166a10f1051f1b44f50a8948c1a:Clipy (Cross-Platform)</guid>
+      <pubDate>Mon, 23 Nov 2026 16:18:48 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Área de Transferência</category>
+      <description>Category: Utilitários / Ferramentas de Área de Transferência
+App: Clipy (Cross-Platform)
+Description: Gerenciador de área de transferência local-first com sincronização criptografada via LAN entre macOS, Windows e Android, transferência de arquivos, espelhamento de notificações Android, capturas de tela e OCR.
+Open Source: https://github.com/JunWeiUp/Clipy
+Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Área de Transferência<br/>App: Clipy (Cross-Platform)<br/>Description: Gerenciador de área de transferência local-first com sincronização criptografada via LAN entre macOS, Windows e Android, transferência de arquivos, espelhamento de notificações Android, capturas de tela e OCR.<br/>Open Source: https://github.com/JunWeiUp/Clipy<br/>Commit: Add Clipy (Cross-Platform) to Clipboard Tools (#4933)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0603ac0a2371b166a10f1051f1b44f50a8948c1a]]></content:encoded>
+    </item>
+    <item>
+      <title>MenuBarHome</title>
+      <link>https://github.com/jryang2026-code/MenuBarHome</link>
+      <guid isPermaLink="false">8fc7085a7c923db2e4f7f4b289f527f6d55b08fb:MenuBarHome</guid>
+      <pubDate>Mon, 23 Nov 2026 16:04:41 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: MenuBarHome
+Description: Controle dispositivos Xiaomi Mi Home e Home Assistant pela barra de menus, com busca por teclado e comandos de voz (anteriormente MenuBarMijia).
+Open Source: https://github.com/jryang2026-code/MenuBarHome
+Commit: Add MenuBarHome to Menu Bar Tools (#4932)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8fc7085a7c923db2e4f7f4b289f527f6d55b08fb</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: MenuBarHome<br/>Description: Controle dispositivos Xiaomi Mi Home e Home Assistant pela barra de menus, com busca por teclado e comandos de voz (anteriormente MenuBarMijia).<br/>Open Source: https://github.com/jryang2026-code/MenuBarHome<br/>Commit: Add MenuBarHome to Menu Bar Tools (#4932)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8fc7085a7c923db2e4f7f4b289f527f6d55b08fb]]></content:encoded>
+    </item>
+    <item>
+      <title>Relay</title>
+      <link>https://github.com/ahmetcankacar54/relay</link>
+      <guid isPermaLink="false">d7a0bfd07b36d5c42668e73157cd63964d5138d8:Relay</guid>
+      <pubDate>Mon, 23 Nov 2026 09:51:12 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: Relay
+Description: Alterne o app do Claude entre contas, mantenha o histórico do Claude Code em todas elas e veja os limites de 5 horas e semanais de cada conta.
+Open Source: https://github.com/ahmetcankacar54/relay
+Commit: Add Relay to AI Tools (#4917)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a0bfd07b36d5c42668e73157cd63964d5138d8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: Relay<br/>Description: Alterne o app do Claude entre contas, mantenha o histórico do Claude Code em todas elas e veja os limites de 5 horas e semanais de cada conta.<br/>Open Source: https://github.com/ahmetcankacar54/relay<br/>Commit: Add Relay to AI Tools (#4917)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d7a0bfd07b36d5c42668e73157cd63964d5138d8]]></content:encoded>
+    </item>
+    <item>
+      <title>Hop</title>
+      <link>https://sercanatalik.github.io/hop-remote-launcher/</link>
+      <guid isPermaLink="false">cfc84c253e001e1da51760b12e22c882e347422b:Hop</guid>
+      <pubDate>Mon, 23 Nov 2026 06:36:46 GMT</pubDate>
+      <category>Software de Login Remoto</category>
+      <description>Category: Software de Login Remoto
+App: Hop
+Description: Iniciador da barra de menus para Macs remotos, descoberta de Tailscale, Compartilhamento de Tela e SSH.
+Website: https://sercanatalik.github.io/hop-remote-launcher/
+Open Source: https://github.com/sercanatalik/hop-remote-launcher
+Commit: Add Hop to Remote Login Software (#4915)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b</description>
+      <content:encoded><![CDATA[Category: Software de Login Remoto<br/>App: Hop<br/>Description: Iniciador da barra de menus para Macs remotos, descoberta de Tailscale, Compartilhamento de Tela e SSH.<br/>Website: https://sercanatalik.github.io/hop-remote-launcher/<br/>Open Source: https://github.com/sercanatalik/hop-remote-launcher<br/>Commit: Add Hop to Remote Login Software (#4915)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfc84c253e001e1da51760b12e22c882e347422b]]></content:encoded>
+    </item>
+    <item>
+      <title>Pokelet</title>
+      <link>https://smcnab1.github.io/pokelet/</link>
+      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
+      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
+      <category>Utilitários / Melhorias de Qualidade de Vida</category>
+      <description>Category: Utilitários / Melhorias de Qualidade de Vida
+App: Pokelet
+Description: Um app leve e divertido para macOS que dá vida ao cursor com personagens animados, efeitos de clique e sons.
+Website: https://smcnab1.github.io/pokelet/
+Open Source: https://github.com/smcnab1/pokelet
+Commit: Add Pokelet to Quality of Life Improvements (#4912)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Melhorias de Qualidade de Vida<br/>App: Pokelet<br/>Description: Um app leve e divertido para macOS que dá vida ao cursor com personagens animados, efeitos de clique e sons.<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
+    </item>
     <item>
       <title>Localix Terminal</title>
       <link>https://terminal.localix.ai</link>
@@ -667,79 +739,6 @@ Open Source: https://github.com/CodeEditApp/CodeEdit
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CodeEdit<br/>Description: Um editor leve, construído nativamente. Código aberto. Gratuito para sempre.<br/>Website: https://www.codeedit.app/<br/>Open Source: https://github.com/CodeEditApp/CodeEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>CotEditor</title>
-      <link>https://coteditor.com</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:CotEditor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: CotEditor
-Description: Editor de texto simples e leve para macOS.
-Website: https://coteditor.com
-Open Source: https://github.com/coteditor/CotEditor/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: CotEditor<br/>Description: Editor de texto simples e leve para macOS.<br/>Website: https://coteditor.com<br/>Open Source: https://github.com/coteditor/CotEditor/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Cursor</title>
-      <link>https://cursor.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Cursor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Cursor
-Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.
-Website: https://cursor.com/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Cursor<br/>Description: Editor de código com IA, com autocompletar, chat e recursos de agente de programação.<br/>Website: https://cursor.com/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Emacs</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Emacs
-Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.
-Website: https://www.emacswiki.org/emacs/EmacsForMacOS
-Open Source: https://git.savannah.gnu.org/cgit/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Emacs<br/>Description: Editor de texto popular baseado em Unix para programadores e administradores de sistemas.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Open Source: https://git.savannah.gnu.org/cgit/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Haystack Editor</title>
-      <link>https://github.com/haystackeditor/haystack-editor</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Haystack Editor</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Haystack Editor
-Description: Editor de código com interface em canvas para melhor compreensão do código.
-Open Source: https://github.com/haystackeditor/haystack-editor
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Haystack Editor<br/>Description: Editor de código com interface em canvas para melhor compreensão do código.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Helix</title>
-      <link>https://helix-editor.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Helix</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Helix
-Description: Um editor de texto modal pós-moderno.
-Website: https://helix-editor.com/
-Open Source: https://github.com/helix-editor/helix/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Helix<br/>Description: Um editor de texto modal pós-moderno.<br/>Website: https://helix-editor.com/<br/>Open Source: https://github.com/helix-editor/helix/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
