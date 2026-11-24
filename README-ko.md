@@ -391,6 +391,7 @@ Awesome Mac
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - AI 코딩 에이전트를 위한 네이티브 IDE로, 각 에이전트에 저장소의 샌드박스 클론과 공유 심볼·호출 그래프 인덱스를 제공하며 병합 전에 diff를 검토할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 가장 지능적인 Java IDE. ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - 차세대 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+* [Localix Studio](https://studio.localix.ai) - AI 에이전트와 서브에이전트가 편집기, 터미널, 브라우저에서 함께 작업하는 에이전트형 개발 환경으로, 어떤 모델이든 내 컴퓨터에서 실행하는 모델이든 사용할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/localixai/localix-studio) ![Freeware][Freeware Icon]
 * [NetBeans](https://netbeans.org/) - 데스크톱, 모바일 및 웹 애플리케이션 개발. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 * [Oxide](https://github.com/vialer/oxide) - 고성능 오픈 소스 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vialer/oxide) ![Freeware][Freeware Icon]
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - 가장 지능적인 PHP IDE.
