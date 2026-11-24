@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:06:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Kapitsa</title>
+      <link>https://github.com/nace-ai/kapitsa</link>
+      <guid isPermaLink="false">07c64a32a4903e91237de6715eee7e597e6e1539:Kapitsa</guid>
+      <pubDate>Tue, 24 Nov 2026 02:06:04 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Kapitsa
+Description: Open-source LLM inference engine for Apple silicon, built on native Metal kernels and the Neural Engine, with OpenAI- and Anthropic-compatible APIs and one-command local coding agents.
+Open Source: https://github.com/nace-ai/kapitsa
+Commit: Add Kapitsa to AI Tools (#4358)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Kapitsa<br/>Description: Open-source LLM inference engine for Apple silicon, built on native Metal kernels and the Neural Engine, with OpenAI- and Anthropic-compatible APIs and one-command local coding agents.<br/>Open Source: https://github.com/nace-ai/kapitsa<br/>Commit: Add Kapitsa to AI Tools (#4358)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/07c64a32a4903e91237de6715eee7e597e6e1539]]></content:encoded>
+    </item>
     <item>
       <title>Clipy (Cross-Platform)</title>
       <link>https://github.com/JunWeiUp/Clipy</link>
@@ -724,21 +738,6 @@ Open Source: https://github.com/dhitalkamal/driftwall
 Commit: Add Driftwall to General Tools (#4786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Driftwall<br/>Description: Play any video file as a looping live wallpaper behind your desktop icons, on every display.<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
-    </item>
-    <item>
-      <title>DropKeeper</title>
-      <link>https://direcat.net/dropkeeper/</link>
-      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
-      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: DropKeeper
-Description: Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.
-Website: https://direcat.net/dropkeeper/
-Open Source: https://github.com/direcat/dropkeeper
-Commit: Add DropKeeper to File Organization Tools (#3694)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: DropKeeper<br/>Description: Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
     </item>
   </channel>
 </rss>
