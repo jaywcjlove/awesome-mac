@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MySpotify</title>
+      <link>https://margbug01.github.io/MySpotify/en.html</link>
+      <guid isPermaLink="false">4580323872e499e3d3b67f6fd61c9baf4f9d3984:MySpotify</guid>
+      <pubDate>Tue, 24 Nov 2026 02:38:43 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: MySpotify
+Description: Go(MyGo)로 제작된 가벼운 비공식 네이티브 Spotify 데스크톱 클라이언트. 플로팅 데스크톱 가사, 동기화 가사 보완, 뮤직비디오, 비디오 팟캐스트, 노치 플레이어를 지원합니다.
+Website: https://margbug01.github.io/MySpotify/en.html
+Open Source: https://github.com/margbug01/MySpotify
+Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: MySpotify<br/>Description: Go(MyGo)로 제작된 가벼운 비공식 네이티브 Spotify 데스크톱 클라이언트. 플로팅 데스크톱 가사, 동기화 가사 보완, 뮤직비디오, 비디오 팟캐스트, 노치 플레이어를 지원합니다.<br/>Website: https://margbug01.github.io/MySpotify/en.html<br/>Open Source: https://github.com/margbug01/MySpotify<br/>Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984]]></content:encoded>
+    </item>
     <item>
       <title>Verticar</title>
       <link>https://github.com/sarogreco/Verticar</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/inquiline-app/inquiline
 Commit: Add Inquiline to Virtualization (#4782)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Inquiline<br/>Description: Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다.<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
-    </item>
-    <item>
-      <title>Xylem</title>
-      <link>https://xylem.t1nkl.dev</link>
-      <guid isPermaLink="false">6ba0b4444fa5f26eefed1438cdd268eb9645a0d5:Xylem</guid>
-      <pubDate>Thu, 19 Nov 2026 05:47:10 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: Xylem
-Description: 탭별로 세션을 이어 가고 컨텍스트와 비용을 추적하며 프로젝트의 스킬, MCP, git 패널을 제공하는 Claude Code용 네이티브 터미널.
-Website: https://xylem.t1nkl.dev
-Open Source: https://github.com/t1nkl/xylem
-Commit: Add Xylem to Terminal Apps (#4762)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Xylem<br/>Description: 탭별로 세션을 이어 가고 컨텍스트와 비용을 추적하며 프로젝트의 스킬, MCP, git 패널을 제공하는 Claude Code용 네이티브 터미널.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
     </item>
   </channel>
 </rss>
