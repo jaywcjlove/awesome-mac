@@ -10,10 +10,10 @@ jobs:
       contents: write
       id-token: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 50
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@v7
         with:
           node-version: 24
           registry-url: 'https://registry.npmjs.org'
@@ -40,7 +40,8 @@ jobs:
             https://jaywcjlove.github.io/awesome-mac/feed.xml
             https://jaywcjlove.github.io/awesome-mac/feed-zh.xml
             https://jaywcjlove.github.io/awesome-mac/feed-ko.xml
-            https://jaywcjlove.github.io/awesome-mac/feed-ja.xml"
+            https://jaywcjlove.github.io/awesome-mac/feed-ja.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-pt.xml"
           git push
 
       - run: cp -rp feed/*.xml dist
@@ -91,6 +92,7 @@ jobs:
             # dist/awesome-mac.zh.json
             # dist/awesome-mac.ja.json
             # dist/awesome-mac.ko.json
+            # dist/awesome-mac.pt.json
             ```
 
             ## Feed
@@ -100,6 +102,7 @@ jobs:
             https://jaywcjlove.github.io/awesome-mac/feed-zh.xml
             https://jaywcjlove.github.io/awesome-mac/feed-ko.xml
             https://jaywcjlove.github.io/awesome-mac/feed-ja.xml
+            https://jaywcjlove.github.io/awesome-mac/feed-pt.xml
             ```
             
             ## Docker
