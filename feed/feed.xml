@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roomie</title>
+      <link>https://lesheess.github.io/small-living-things/</link>
+      <guid isPermaLink="false">289f3e24a37bc4188031719592ac44ba69ca2349:Roomie</guid>
+      <pubDate>Tue, 24 Nov 2026 05:40:21 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Roomie
+Description: A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed.
+Website: https://lesheess.github.io/small-living-things/
+Commit: Add Roomie to Menu Bar Tools (#4939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Roomie<br/>Description: A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed.<br/>Website: https://lesheess.github.io/small-living-things/<br/>Commit: Add Roomie to Menu Bar Tools (#4939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349]]></content:encoded>
+    </item>
     <item>
       <title>SpecWithCode</title>
       <link>https://specwithcode.com</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/ilhamnadhif/ternarycode
 Commit: Add TernaryCode to Terminal Apps (#4770)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
       <content:encoded><![CDATA[Category: Terminal Apps<br/>App: TernaryCode<br/>Description: Terminal workspace for many projects and the coding agents in them that shows which agent is waiting for you.<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
-    </item>
-    <item>
-      <title>SIAM.AI GPU Watch</title>
-      <link>https://github.com/siamaicorp/GPUWatch</link>
-      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
-      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: SIAM.AI GPU Watch
-Description: Menu bar app for monitoring NVIDIA GPUs across remote servers over SSH.
-Open Source: https://github.com/siamaicorp/GPUWatch
-Commit: Add SIAM.AI GPU Watch (#4772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: SIAM.AI GPU Watch<br/>Description: Menu bar app for monitoring NVIDIA GPUs across remote servers over SSH.<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
     </item>
   </channel>
 </rss>
