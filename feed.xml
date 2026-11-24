@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:15:44 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Out to Sea</title>
+      <link>https://sea.cwdx.md</link>
+      <guid isPermaLink="false">57db379c73d50071704fe596a3b40ceafe866b65:Out to Sea</guid>
+      <pubDate>Tue, 24 Nov 2026 02:15:44 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Out to Sea
+Description: Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing.
+Website: https://sea.cwdx.md
+Open Source: https://github.com/cwdx/out-to-sea
+Commit: Add Out to Sea to Menu Bar Tools (#4934)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57db379c73d50071704fe596a3b40ceafe866b65</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Out to Sea<br/>Description: Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing.<br/>Website: https://sea.cwdx.md<br/>Open Source: https://github.com/cwdx/out-to-sea<br/>Commit: Add Out to Sea to Menu Bar Tools (#4934)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57db379c73d50071704fe596a3b40ceafe866b65]]></content:encoded>
+    </item>
     <item>
       <title>Kapitsa</title>
       <link>https://github.com/nace-ai/kapitsa</link>
@@ -723,21 +738,6 @@ Website: https://getdeskbridge.com
 Commit: Add Deskbridge to Menu Bar Tools (#3852)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Deskbridge<br/>Description: Menu bar app that opens a Samsung Galaxy phone&apos;s DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
-    </item>
-    <item>
-      <title>Driftwall</title>
-      <link>https://driftwall.kamaldhital.com</link>
-      <guid isPermaLink="false">e434593ff49fe397383bfc9f5c0c19ba01e8a1ce:Driftwall</guid>
-      <pubDate>Fri, 20 Nov 2026 05:02:02 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Driftwall
-Description: Play any video file as a looping live wallpaper behind your desktop icons, on every display.
-Website: https://driftwall.kamaldhital.com
-Open Source: https://github.com/dhitalkamal/driftwall
-Commit: Add Driftwall to General Tools (#4786)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Driftwall<br/>Description: Play any video file as a looping live wallpaper behind your desktop icons, on every display.<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
     </item>
   </channel>
 </rss>
