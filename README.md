@@ -1065,6 +1065,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Ragdoll Mail](https://erict16.github.io/ragdoll-mail/) - Open-source IMAP mail client with instant local full-text search and a command line for scripts and AI agents. [![Open-Source Software][OSS Icon]](https://github.com/erict16/ragdoll-mail) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - Keyboard-driven email client written in Rust on gpui, the framework Zed is built with. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
+* [Suzume Mail](https://www.yuzool.com/apps/suzume/) - Chat-style email client for IMAP accounts that keeps mail on your devices, with on-device summaries and a one-time unlock. [![App Store][app-store Icon]](https://apps.apple.com/us/app/suzume-mail-email-client/id6771950111)
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - Software that makes email easier. ![Freeware][Freeware Icon]
 * [Tutanota](https://tutanota.com/) - Encrypted email focused on security and privacy. [![Open-Source Software][OSS Icon]](https://github.com/tutao/tutanota) ![Freeware][Freeware Icon]
 * [Edison Mail](https://mail.edison.tech/mac) - A customisable, simple, and beautiful email client. ![Freeware][Freeware Icon]
