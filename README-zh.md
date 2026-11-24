@@ -869,6 +869,7 @@ Awesome Mac
 * [VoxtMini](https://actnow.dev/voxtmini) - 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/VoxtMini) ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - 按住说话、松开即粘贴转写文本的语音输入工具。 [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [Google AI Edge Eloquent](https://developers.google.com/edge/eloquent) - Google 出品的免费端侧 AI 听写与语音编辑工具，可在任意应用中全局使用，目前仅支持英语。 ![Freeware][Freeware Icon]
+* [Halopen](https://halopen.com) - 菜单栏按住说话的听写工具，把你说的话输入到任意应用的光标处，并提供设备端隐私模式。
 * [inlaut](https://inlaut.de) - 完全本地运行的按键说话听写工具，支持德语和英语，在设备上运行 Parakeet 模型并将文字输入到光标处。 [![Open-Source Software][OSS Icon]](https://github.com/tobymarks/inlaut) ![Freeware][Freeware Icon]
 * [LocalScribe](https://github.com/maddylaneeee/ShengJi) - 面向麦克风、媒体文件和 Mac 系统音频的开源本地转录与字幕编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
 * [Lowspeak](https://github.com/sventmueller/lowspeak) - 原生、极速的 AI 听写工具，使用 Rust 编写：按住 fn 即可在任意应用中用 35 种语言语音输入，可用自己的 Groq 密钥免费在线转写，也可通过 Whisper 和 Parakeet 离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/lowspeak) ![Freeware][Freeware Icon]
