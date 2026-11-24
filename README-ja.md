@@ -528,6 +528,7 @@ Awesome Mac
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - どのMacでもTouch Barを使えるようにするツール。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [TunnelFlow](https://github.com/XRSec/TunnelFlow) - ローカル転送、リモート転送、動的SOCKS5転送に対応したモダンなSSHトンネルおよびポートフォワーディング管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/XRSec/TunnelFlow) ![Freeware][Freeware Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - UML、SysML、BPMNモデリングのオールインワンプラットフォーム。
+* [WebDonkey](https://webdonkey.io/) - Webサーバー、データベース、信頼されたHTTPS、サイトごとのPHPバージョンを備えたローカルWeb開発環境。 ![Freeware][Freeware Icon]
 * [Woodpecker](http://www.woodpeck.cn) - MacでiOSアプリのSandboxファイル、UserDefaults、Keychainアイテムを表示するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/woodpecker/id1333548463?platform=mac)
 * [WWDC](https://github.com/insidegui/WWDC) - Mac OS非公式WWDCアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 複数バージョンのXcodeをインストール・切り替えできるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)

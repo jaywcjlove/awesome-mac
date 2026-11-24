@@ -488,6 +488,7 @@ Awesome Mac
 * [tapflow](https://tapflow.dev) - 팀이 이미 가진 Mac에서 iOS 시뮬레이터와 Android 에뮬레이터를 브라우저로 테스트하는 셀프 호스팅 도구. [![Open-Source Software][OSS Icon]](https://github.com/jo-duchan/tapflow) ![Freeware][Freeware Icon]
 * [Testpiler](https://furnacecreek.org/testpiler/) - XCTest 테스트를 Swift Testing으로 변환하는 도구.
 * [TunnelFlow](https://github.com/XRSec/TunnelFlow) - 로컬 포워딩, 원격 포워딩 및 동적 SOCKS5 프록시를 지원하는 최신 SSH 터널 및 포트 포워딩 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/XRSec/TunnelFlow) ![Freeware][Freeware Icon]
+* [WebDonkey](https://webdonkey.io/) - 웹 서버, 데이터베이스, 신뢰할 수 있는 HTTPS, 사이트별 PHP 버전을 제공하는 로컬 웹 개발 환경. ![Freeware][Freeware Icon]
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - 여러 Xcode 버전 설치 및 전환. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [zeplin](https://www.zeplin.io/) - 디자이너와 개발자 협업 도구. ![Freeware][Freeware Icon]
 
