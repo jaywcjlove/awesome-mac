@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpecWithCode</title>
+      <link>https://specwithcode.com</link>
+      <guid isPermaLink="false">3bff137fb5120c55ae1db7787000a6c1bb94250d:SpecWithCode</guid>
+      <pubDate>Tue, 24 Nov 2026 05:08:53 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: SpecWithCode
+Description: Claude Code, Codex, GitHub Copilot 스레드를 나란히 실행하는 오픈 소스(MIT) 데스크톱 앱으로, 프로젝트 코디네이터가 있고 작업마다 별도의 git worktree를 사용합니다.
+Website: https://specwithcode.com
+Open Source: https://github.com/anton-abyzov/specwithcode
+Commit: Add SpecWithCode to AI Tools (#4926)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: SpecWithCode<br/>Description: Claude Code, Codex, GitHub Copilot 스레드를 나란히 실행하는 오픈 소스(MIT) 데스크톱 앱으로, 프로젝트 코디네이터가 있고 작업마다 별도의 git worktree를 사용합니다.<br/>Website: https://specwithcode.com<br/>Open Source: https://github.com/anton-abyzov/specwithcode<br/>Commit: Add SpecWithCode to AI Tools (#4926)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d]]></content:encoded>
+    </item>
     <item>
       <title>Vaquero</title>
       <link>https://github.com/BitWise-0x/Vaquero</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/dhitalkamal/driftwall
 Commit: Add Driftwall to General Tools (#4786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Driftwall<br/>Description: 어떤 동영상 파일이든 데스크톱 아이콘 뒤에서 반복 재생되는 라이브 배경화면으로 사용하세요. 모든 디스플레이를 지원합니다.<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
-    </item>
-    <item>
-      <title>DropKeeper</title>
-      <link>https://direcat.net/dropkeeper/</link>
-      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
-      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
-      <category>유틸리티 / 파일 정리 도구</category>
-      <description>Category: 유틸리티 / 파일 정리 도구
-App: DropKeeper
-Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).
-Website: https://direcat.net/dropkeeper/
-Open Source: https://github.com/direcat/dropkeeper
-Commit: Add DropKeeper to File Organization Tools (#3694)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: DropKeeper<br/>Description: 새로 다운로드한 파일마다 만료 시간을 지정하고 만료된 파일을 휴지통으로 옮기는 오픈 소스 앱(실행 취소 지원).<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
     </item>
   </channel>
 </rss>

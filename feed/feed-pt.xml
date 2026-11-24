@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpecWithCode</title>
+      <link>https://specwithcode.com</link>
+      <guid isPermaLink="false">3bff137fb5120c55ae1db7787000a6c1bb94250d:SpecWithCode</guid>
+      <pubDate>Tue, 24 Nov 2026 05:08:53 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: SpecWithCode
+Description: App de desktop de código aberto (MIT) que executa threads do Claude Code, Codex e GitHub Copilot lado a lado, com um coordenador de projeto e um git worktree por tarefa.
+Website: https://specwithcode.com
+Open Source: https://github.com/anton-abyzov/specwithcode
+Commit: Add SpecWithCode to AI Tools (#4926)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: SpecWithCode<br/>Description: App de desktop de código aberto (MIT) que executa threads do Claude Code, Codex e GitHub Copilot lado a lado, com um coordenador de projeto e um git worktree por tarefa.<br/>Website: https://specwithcode.com<br/>Open Source: https://github.com/anton-abyzov/specwithcode<br/>Commit: Add SpecWithCode to AI Tools (#4926)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d]]></content:encoded>
+    </item>
     <item>
       <title>Vaquero</title>
       <link>https://github.com/BitWise-0x/Vaquero</link>
@@ -723,21 +738,6 @@ Website: https://bootstrapstudio.io/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Bootstrap Studio<br/>Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Brackets</title>
-      <link>https://brackets.io</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Brackets</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Brackets
-Description: Um editor de texto moderno e de código aberto que entende de design web.
-Website: https://brackets.io
-Open Source: https://github.com/brackets-cont/brackets/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Brackets<br/>Description: Um editor de texto moderno e de código aberto que entende de design web.<br/>Website: https://brackets.io<br/>Open Source: https://github.com/brackets-cont/brackets/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>

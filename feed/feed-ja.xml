@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpecWithCode</title>
+      <link>https://specwithcode.com</link>
+      <guid isPermaLink="false">3bff137fb5120c55ae1db7787000a6c1bb94250d:SpecWithCode</guid>
+      <pubDate>Tue, 24 Nov 2026 05:08:53 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: SpecWithCode
+Description: Claude Code、Codex、GitHub Copilot のスレッドを並べて実行できるオープンソース（MIT）のデスクトップアプリ。プロジェクトコーディネーターを備え、タスクごとに専用の git worktree を使います。
+Website: https://specwithcode.com
+Open Source: https://github.com/anton-abyzov/specwithcode
+Commit: Add SpecWithCode to AI Tools (#4926)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: SpecWithCode<br/>Description: Claude Code、Codex、GitHub Copilot のスレッドを並べて実行できるオープンソース（MIT）のデスクトップアプリ。プロジェクトコーディネーターを備え、タスクごとに専用の git worktree を使います。<br/>Website: https://specwithcode.com<br/>Open Source: https://github.com/anton-abyzov/specwithcode<br/>Commit: Add SpecWithCode to AI Tools (#4926)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d]]></content:encoded>
+    </item>
     <item>
       <title>Vaquero</title>
       <link>https://github.com/BitWise-0x/Vaquero</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/direcat/dropkeeper
 Commit: Add DropKeeper to File Organization Tools (#3694)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
       <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: DropKeeper<br/>Description: 新しくダウンロードしたファイルに有効期限を設定し、期限切れのファイルをゴミ箱へ移動するオープンソースアプリ（取り消し可能）。<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
-    </item>
-    <item>
-      <title>Inquiline</title>
-      <link>https://github.com/inquiline-app/inquiline</link>
-      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
-      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
-      <category>開発ツール / 仮想化</category>
-      <description>Category: 開発ツール / 仮想化
-App: Inquiline
-Description: Apple Silicon で本物の Android 15 を動かし、各 Android アプリを独立した Mac アプリにするツールで、どのアプリの上でも使える Gemini、デスクトップの Android ウィジェット、アプリごとの広告ブロックに対応。
-Open Source: https://github.com/inquiline-app/inquiline
-Commit: Add Inquiline to Virtualization (#4782)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: Inquiline<br/>Description: Apple Silicon で本物の Android 15 を動かし、各 Android アプリを独立した Mac アプリにするツールで、どのアプリの上でも使える Gemini、デスクトップの Android ウィジェット、アプリごとの広告ブロックに対応。<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
     </item>
   </channel>
 </rss>

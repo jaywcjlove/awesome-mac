@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>SpecWithCode</title>
+      <link>https://specwithcode.com</link>
+      <guid isPermaLink="false">3bff137fb5120c55ae1db7787000a6c1bb94250d:SpecWithCode</guid>
+      <pubDate>Tue, 24 Nov 2026 05:08:53 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: SpecWithCode
+Description: 开源（MIT）桌面应用，可并排运行 Claude Code、Codex 和 GitHub Copilot 线程，带项目协调器，每个任务使用独立的 git worktree。
+Website: https://specwithcode.com
+Open Source: https://github.com/anton-abyzov/specwithcode
+Commit: Add SpecWithCode to AI Tools (#4926)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: SpecWithCode<br/>Description: 开源（MIT）桌面应用，可并排运行 Claude Code、Codex 和 GitHub Copilot 线程，带项目协调器，每个任务使用独立的 git worktree。<br/>Website: https://specwithcode.com<br/>Open Source: https://github.com/anton-abyzov/specwithcode<br/>Commit: Add SpecWithCode to AI Tools (#4926)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3bff137fb5120c55ae1db7787000a6c1bb94250d]]></content:encoded>
+    </item>
     <item>
       <title>Vaquero</title>
       <link>https://github.com/BitWise-0x/Vaquero</link>
@@ -722,21 +737,6 @@ Website: https://getdeskbridge.com
 Commit: Add Deskbridge to Menu Bar Tools (#3852)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Deskbridge<br/>Description: 菜单栏应用，通过 USB 或 Wi-Fi 在 Mac 窗口中打开三星 Galaxy 手机的 DeX 桌面，并支持手机应用独立窗口、来电横幅和通知。<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
-    </item>
-    <item>
-      <title>Driftwall</title>
-      <link>https://driftwall.kamaldhital.com</link>
-      <guid isPermaLink="false">e434593ff49fe397383bfc9f5c0c19ba01e8a1ce:Driftwall</guid>
-      <pubDate>Fri, 20 Nov 2026 05:02:02 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Driftwall
-Description: 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。
-Website: https://driftwall.kamaldhital.com
-Open Source: https://github.com/dhitalkamal/driftwall
-Commit: Add Driftwall to General Tools (#4786)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Driftwall<br/>Description: 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
     </item>
   </channel>
 </rss>
