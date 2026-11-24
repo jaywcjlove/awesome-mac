@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MySpotify</title>
+      <link>https://margbug01.github.io/MySpotify/en.html</link>
+      <guid isPermaLink="false">4580323872e499e3d3b67f6fd61c9baf4f9d3984:MySpotify</guid>
+      <pubDate>Tue, 24 Nov 2026 02:38:43 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: MySpotify
+Description: Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player.
+Website: https://margbug01.github.io/MySpotify/en.html
+Open Source: https://github.com/margbug01/MySpotify
+Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: MySpotify<br/>Description: Unofficial lightweight native Spotify desktop client built in Go (MyGo), with floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, and notch player.<br/>Website: https://margbug01.github.io/MySpotify/en.html<br/>Open Source: https://github.com/margbug01/MySpotify<br/>Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984]]></content:encoded>
+    </item>
     <item>
       <title>Verticar</title>
       <link>https://github.com/sarogreco/Verticar</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/KLWSharpe/tietie
 Commit: Add Tietie to Clipboard Tools (#4795)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
       <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Tietie<br/>Description: Open-source clipboard history for Mac and Windows with number-key pasting and search for text inside images, with an interface in Traditional Chinese.<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
-    </item>
-    <item>
-      <title>Meridian</title>
-      <link>https://undermove.github.io/meridian-browser/</link>
-      <guid isPermaLink="false">c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2:Meridian</guid>
-      <pubDate>Fri, 20 Nov 2026 05:22:20 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Meridian
-Description: Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents.
-Website: https://undermove.github.io/meridian-browser/
-Open Source: https://github.com/Undermove/meridian-browser
-Commit: Add Meridian to Browsers (#3807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Meridian<br/>Description: Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents.<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
     </item>
   </channel>
 </rss>

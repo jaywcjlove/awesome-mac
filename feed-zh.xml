@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>MySpotify</title>
+      <link>https://margbug01.github.io/MySpotify/</link>
+      <guid isPermaLink="false">4580323872e499e3d3b67f6fd61c9baf4f9d3984:MySpotify</guid>
+      <pubDate>Tue, 24 Nov 2026 02:38:43 GMT</pubDate>
+      <category>音频和视频 / 流媒体音乐播放器</category>
+      <description>Category: 音频和视频 / 流媒体音乐播放器
+App: MySpotify
+Description: 基于 Go（MyGo）原生界面的轻量非官方 Spotify 桌面客户端，支持桌面悬浮歌词、歌词翻译、MV、视频播客与刘海播放器。
+Website: https://margbug01.github.io/MySpotify/
+Open Source: https://github.com/margbug01/MySpotify
+Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 流媒体音乐播放器<br/>App: MySpotify<br/>Description: 基于 Go（MyGo）原生界面的轻量非官方 Spotify 桌面客户端，支持桌面悬浮歌词、歌词翻译、MV、视频播客与刘海播放器。<br/>Website: https://margbug01.github.io/MySpotify/<br/>Open Source: https://github.com/margbug01/MySpotify<br/>Commit: Add MySpotify to Audio and Video (EN/ZH/JA/KO) (#4904)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4580323872e499e3d3b67f6fd61c9baf4f9d3984]]></content:encoded>
+    </item>
     <item>
       <title>Verticar</title>
       <link>https://github.com/sarogreco/Verticar</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/direcat/dropkeeper
 Commit: Add DropKeeper to File Organization Tools (#3694)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: DropKeeper<br/>Description: 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
-    </item>
-    <item>
-      <title>Inquiline</title>
-      <link>https://github.com/inquiline-app/inquiline</link>
-      <guid isPermaLink="false">cd286287419d8e9e97cfb8d883223afee1bdbfcd:Inquiline</guid>
-      <pubDate>Thu, 19 Nov 2026 11:09:25 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: Inquiline
-Description: 在 Apple Silicon 上运行真正的 Android 15，把每个 Android 应用变成独立的 Mac 应用，并支持在任意应用上使用 Gemini、桌面 Android 小组件和按应用屏蔽广告。
-Open Source: https://github.com/inquiline-app/inquiline
-Commit: Add Inquiline to Virtualization (#4782)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Inquiline<br/>Description: 在 Apple Silicon 上运行真正的 Android 15，把每个 Android 应用变成独立的 Mac 应用，并支持在任意应用上使用 Gemini、桌面 Android 小组件和按应用屏蔽广告。<br/>Open Source: https://github.com/inquiline-app/inquiline<br/>Commit: Add Inquiline to Virtualization (#4782)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cd286287419d8e9e97cfb8d883223afee1bdbfcd]]></content:encoded>
     </item>
   </channel>
 </rss>
