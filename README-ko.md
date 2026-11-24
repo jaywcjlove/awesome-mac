@@ -465,6 +465,7 @@ Awesome Mac
 * [MJML](https://mjmlio.github.io/mjml-app/) - 반응형 이메일 제작 도구. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - AI 기반 파일 이름 변경 도구.
 * [PaintCode](https://www.paintcodeapp.com/) - 코드를 생성하는 벡터 드로잉 앱.
+* [Plan Shelf](https://planshelf.app/r/awesome-mac) - Claude Code, Codex 같은 AI 코딩 에이전트 옆에 계획을 두는, 터미널 세션마다 별도 목록을 가진 플로팅 작업 목록. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Code 세션을 탐색하고 diff를 확인하며 명령을 다시 실행하는 보조 도구. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI 코딩 세션 및 프로젝트 관리용 AI 네이티브 GUI. 분할 창, Git 통합, AI 사용량 추적 기능을 포함합니다.
 * [PortKiller](https://github.com/productdevbook/port-killer) - 포트 모니터링, 포워딩·터널 관리, 프로세스 종료를 위한 포트 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)

@@ -499,6 +499,7 @@ Awesome Mac
 * [NameQuick](https://namequick.app) - macOS用のAI搭載ファイルリネームツール。
 * [PaintCode](https://www.paintcodeapp.com/) - リアルタイムでObjective-CまたはSwiftコードを生成するベクタードローイングアプリ。
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - システムペーストボードを検査するツール。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709?platform=mac)
+* [Plan Shelf](https://planshelf.app/r/awesome-mac) - Claude Code や Codex などの AI コーディングエージェントの横にプランを置く、ターミナルセッションごとに専用リストを持つフローティングタスクリスト。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Codeセッションの閲覧、差分確認、コマンド再実行ができる補助ツール。 [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [Muxy](https://github.com/muxy-app/muxy) - AI コーディングセッションとプロジェクト管理用の AI ネイティブ GUI。分割ペイン、Git 統合、AI 使用量追跡機能を備えています。
 * [PortKiller](https://github.com/productdevbook/port-killer) - ポート監視、転送・トンネル管理、プロセス終了のためのポート管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
