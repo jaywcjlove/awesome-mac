@@ -1140,7 +1140,7 @@ Awesome Mac
 * [Natron](https://natrongithub.github.io/) - オープンソースのノードベース合成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nimbus](https://github.com/Dearonski/Nimbus) - ギャップレス再生、ドラッグ＆ドロップで並べ替えられるキュー、Chromecast、フルスクリーンのレコードプレーヤーを備えたネイティブ SoundCloud クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Dearonski/Nimbus) ![Freeware][Freeware Icon]
 * [NotchMuse](https://notchmuse.com/) - Spotify、Apple Music、NetEase Cloud Music、QQ Music、Soda Music の同期歌詞をメニューバー、ノッチの横、Dock の上に表示するオープンソースの歌詞ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Xiye88/NotchMuse) ![Freeware][Freeware Icon]
-* [Nuclear](https://nuclear.js.org/) - 無料の音楽を見つけてくれるストリーミング音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
+* [Nuclear](https://nuclearplayer.com/) - 無料の音楽を見つけてくれるストリーミング音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
 * [OpenSpatial](https://github.com/dortanes/openspatial) - あらゆるアプリの音をヘッドトラッキング付きの 7.1 サラウンドで再生する、ヘッドホン向けのオープンソース空間オーディオ。 [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
 * [Perian](http://perian.org/#download) - （**開発終了**）~~QuickTimeであらゆる一般的な形式を無料プラグインで再生~~。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Pythonで書かれたクロスプラットフォームの音楽タグ付けツール。 [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
