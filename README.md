@@ -636,6 +636,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Inquiline](https://github.com/inquiline-app/inquiline) - Runs real Android 15 on Apple Silicon and turns each Android app into its own Mac app, with Gemini over any app, Android widgets on the desktop and per-app ad blocking. [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon. [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
+* [MacVisor](https://scaleninja.com/macvisor/) - Run macOS, Linux, Windows, and FreeBSD virtual machines on Apple Silicon, with snapshots, linked clones, an `mvz` CLI, and a built-in MCP server for AI agents.
 * [Mocker](https://github.com/us/mocker) - Container manager built on Apple's Containerization framework. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]

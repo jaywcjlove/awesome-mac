@@ -681,6 +681,7 @@ Awesome Mac
 * [Inquiline](https://github.com/inquiline-app/inquiline) - 在 Apple Silicon 上运行真正的 Android 15，把每个 Android 应用变成独立的 Mac 应用，并支持在任意应用上使用 Gemini、桌面 Android 小组件和按应用屏蔽广告。 [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [lima-vm](https://github.com/lima-vm/lima) - 专注于运行容器的 Linux 虚拟机。[![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。 [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
+* [MacVisor](https://scaleninja.com/macvisor/) - 在 Apple Silicon 上运行 macOS、Linux、Windows 和 FreeBSD 虚拟机，支持快照、链接克隆、`mvz` 命令行工具，并内置供 AI 智能体使用的 MCP 服务器。
 * [Mocker](https://github.com/us/mocker) - 基于 Apple Containerization framework 的容器管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - 适用于任何工作站的 Ubuntu 虚拟机。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - 在 Mac 上无缝高效地运行 Docker 和 Linux。Docker Desktop 替代品，可帮助您更快地工作。![Freeware][Freeware Icon]

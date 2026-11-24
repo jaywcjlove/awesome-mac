@@ -637,6 +637,7 @@ Awesome Mac
 * [Inquiline](https://github.com/inquiline-app/inquiline) - Apple Silicon で本物の Android 15 を動かし、各 Android アプリを独立した Mac アプリにするツールで、どのアプリの上でも使える Gemini、デスクトップの Android ウィジェット、アプリごとの広告ブロックに対応。 [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Apple Silicon で Android アプリを実行し、各アプリを専用の Mac ウインドウと Dock アイコンで表示。 [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Mac上で無料かつ無制限に仮想マシンを実行。
+* [MacVisor](https://scaleninja.com/macvisor/) - Apple Silicon上でmacOS、Linux、Windows、FreeBSDの仮想マシンを実行。スナップショット、リンククローン、`mvz` CLI、AIエージェント向けの内蔵MCPサーバーに対応。
 * [Mocker](https://github.com/us/mocker) - AppleのContainerization framework上に構築されたコンテナ管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
 * [Multipass](https://multipass.run/) - あらゆるワークステーションでオンデマンドのUbuntu VM。 [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - macOSでDockerコンテナとLinuxマシンを実行する、高速で軽量かつシンプルな方法。 ![Freeware][Freeware Icon]
