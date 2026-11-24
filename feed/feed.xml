@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Cue</title>
+      <link>https://heycue.io</link>
+      <guid isPermaLink="false">99fb4adf69c024eedfdcf59957930a85bef543fd:Cue</guid>
+      <pubDate>Tue, 24 Nov 2026 16:42:35 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Cue
+Description: Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using context you provide.
+Website: https://heycue.io
+Commit: Add Cue to Voice-to-Text (#2487)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cue<br/>Description: Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using context you provide.<br/>Website: https://heycue.io<br/>Commit: Add Cue to Voice-to-Text (#2487)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/99fb4adf69c024eedfdcf59957930a85bef543fd]]></content:encoded>
+    </item>
     <item>
       <title>CurlGo</title>
       <link>https://curlgo.echovic.com/en/</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/michalstrnadel/AgentBar
 Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AgentBar<br/>Description: Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI), with one-click Allow or Deny for Claude Code, Codex and Copilot permission requests.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
-    </item>
-    <item>
-      <title>HyprMac</title>
-      <link>https://hyprmac.app</link>
-      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: HyprMac
-Description: Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces.
-Website: https://hyprmac.app
-Open Source: https://github.com/zacharytgray/HyprMac
-Commit: Add HyprMac (#4802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: HyprMac<br/>Description: Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
     </item>
   </channel>
 </rss>
