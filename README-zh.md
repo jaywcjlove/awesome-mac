@@ -743,6 +743,7 @@ Awesome Mac
 * [Loadout](https://loadout.migsilva.dev) - 查看并管理编码助手加载的内容——Claude Code 的 skills、子代理、斜杠命令、插件和 MCP 服务器，并显示真实使用次数。 [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/loadout) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lumilo](https://github.com/kotuke/lumilo) - 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。 [![Open-Source Software][OSS Icon]](https://github.com/kotuke/lumilo) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 采用规格驱动工作流的多 AI 编码代理协作工具。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
+* [Margin](https://github.com/Abulkosim/margin) - 在菜单栏显示多个账户的 Claude Code 和 Codex 剩余用量与重置时间。 [![Open-Source Software][OSS Icon]](https://github.com/Abulkosim/margin) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
 * [Relay](https://github.com/ahmetcankacar54/relay) - 在多个账号之间切换 Claude 应用，在所有账号上保留 Claude Code 历史，并查看每个账号的 5 小时和每周限额。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
