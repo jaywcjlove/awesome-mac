@@ -646,6 +646,7 @@ Awesome Mac
 * [Louppe](https://louppe.eu/) - 照片与视频查看筛选工具，可直接浏览 JPEG、RAW 和视频文件夹，用键盘挑选要保留的文件并复制出来，无需导入图库。 [![Open-Source Software][OSS Icon]](https://github.com/murlexander/louppe-media-culler) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/louppe/id6820131477)
 * [LumaView](https://ixiehao.github.io/LumaView/en/) - 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
+* [Pitpick](https://www.wouter.photo/tools/pitpick) - 基于相机内嵌 JPEG 的快速挑片工具，支持双卡同时导入、IPTC 模板和重命名。 [![Open-Source Software][OSS Icon]](https://github.com/woutervellekooppixel/pitpick) ![Freeware][Freeware Icon]
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
 * [Pixtamer](https://pixtamer.pages.dev) - 批量转换、压缩、缩放和重命名图片，输出适合网页的 JPEG、PNG、WebP 和 AVIF，支持响应式宽度和预设，不会上传任何文件。 [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/pixtamer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pixtamer/id6831520622?platform=mac) ![Native App][Native Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。

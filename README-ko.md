@@ -741,6 +741,7 @@ Awesome Mac
 * [LumaView](https://ixiehao.github.io/LumaView/en/) - 폴더 탐색, EXIF 정보 확인과 여러 페이지 PDF 보기를 지원하는 간결한 네이티브 이미지 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottie 파일용 Quick Look 확장 기능을 갖춘 네이티브 Lottie 애니메이션 플레이어. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 이미지 호스팅 업로드 도구. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
+* [Pitpick](https://www.wouter.photo/tools/pitpick) - 카메라 내장 JPEG로 사진을 빠르게 선별하는 앱으로, 두 카드 동시 가져오기, IPTC 템플릿, 이름 변경을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/woutervellekooppixel/pitpick) ![Freeware][Freeware Icon]
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
 * [Pixtamer](https://pixtamer.pages.dev) - 이미지를 일괄 변환·압축·크기 조정·이름 변경하여 웹용 JPEG, PNG, WebP, AVIF로 내보내는 도구. 반응형 너비와 프리셋을 지원하며 아무것도 업로드하지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/pixtamer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pixtamer/id6831520622?platform=mac) ![Native App][Native Icon]
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
