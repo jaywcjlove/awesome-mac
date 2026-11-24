@@ -1311,6 +1311,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 * [Buddy](https://github.com/projects-hacks/buddy) - Assistente de estudos no notch que explica em voz alta o que está na tela enquanto desenha sobre ela. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - Consulte qualquer palavra na tela com ⌥A, inclusive em PDFs e imagens, e salve-a em uma biblioteca local pesquisável. ![Freeware][Freeware Icon]
+* [NearWord](https://nearword.app/?utm_source=awesome_mac) - Aponte para qualquer palavra na tela, mesmo num jogo ou num PDF digitalizado, e veja o significado ao lado.
 * [Wokabulary](https://wokabulary.com/) - Reúna, pratique e organize seu próprio vocabulário de idiomas estrangeiros. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finanças
