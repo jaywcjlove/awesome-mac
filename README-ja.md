@@ -1971,6 +1971,7 @@ Awesome Mac
 * [FixStat](https://github.com/BurakFixLab/fixstat) - Mac修理向けのメニューバーモニター兼診断ツール。機種ごとのセンサー名、バッテリーセルのデータ、SSDのSMART（USB外付けドライブを含む）、パニック履歴、ガイド付きハードウェアテスト。 [![Open-Source Software][OSS Icon]](https://github.com/BurakFixLab/fixstat) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ftop](https://github.com/Nongfsq/ftop) - どんなウィンドウサイズにもレイアウトが合わせて変わる Apple Silicon 向けフローティング型システムモニター。コアごとの使用率と周波数、GPU、メモリプレッシャー、ネットワークを表示。 [![Open-Source Software][OSS Icon]](https://github.com/Nongfsq/ftop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [gfxCardStatus](https://gfx.io/) - グラフィックカードの使用状況とバッテリーへの影響を監視。 ![Freeware][Freeware Icon]
+* [Governor](https://desktopgoods.app/apps/governor) - MacBook用の充電上限アプリ。高温保護とワンクリックでの満充電に対応し、IntelとAppleシリコンで動作します。 ![Native App][Native Icon]
 * [GrandPerspective](https://grandperspectiv.sourceforge.net) - ツリーマップでディスク使用量を視覚化。 [![Open-Source Software][OSS Icon]](https://git.code.sf.net/p/grandperspectiv/source) [![Freeware][Freeware Icon]](https://sourceforge.net/projects/grandperspectiv/files/grandperspective/) [![App Store][app-store Icon]](https://apps.apple.com/us/app/grandperspective/id1111570163?platform=mac)
 * [Gray](https://github.com/zenangst/Gray) - アプリごとのライト/ダークモード切り替え。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray)
 * [HandShaker](http://www.smartisan.com/apps/handshaker) - MacでAndroidスマートフォンのコンテンツを管理。 ![Freeware][Freeware Icon]
