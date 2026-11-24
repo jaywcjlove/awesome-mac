@@ -1641,6 +1641,7 @@ Awesome Mac
 * [Sheer](https://github.com/AzurLiu/sheer) - 让 macOS 15 也拥有 macOS 26 风格的透明菜单栏：直接透出壁纸，并加一层淡淡的渐变保证文字清晰。 [![Open-Source Software][OSS Icon]](https://github.com/AzurLiu/sheer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SIAM.AI GPU Watch](https://github.com/siamaicorp/GPUWatch) - 通过 SSH 监控多台远程服务器上 NVIDIA GPU 的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/siamaicorp/GPUWatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Stash](https://github.com/brentc22/stash) - 适用于 macOS 27 的开源菜单栏图标隐藏工具，将状态栏图标收进一个箭头后面。 [![Open-Source Software][OSS Icon]](https://github.com/brentc22/stash) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Stint](https://desktopgoods.app/apps/stint) - 菜单栏工作计时器，拖动表盘即可设定时间，休息时在每个屏幕上显示提醒卡片。 ![Native App][Native Icon]
 * [Thaw](https://github.com/stonerl/Thaw) - 强大的菜单栏管理工具，用于隐藏和显示菜单栏项目。[![Open-Source Software][OSS Icon]](https://github.com/stonerl/Thaw)
 * [Tactile](https://tactile.masn.studio/) - 当光标悬停在可点击元素上时提供触控板轻触反馈，并可显示可选视觉提示。 [![Open-Source Software][OSS Icon]](https://github.com/Mason363/Tactile) ![Freeware][Freeware Icon]
 * [Tarn](https://github.com/jakeantelis/Tarn) - 用于专注工作和缓慢呼吸的平静菜单栏应用，可选环境音。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Tarn) ![Freeware][Freeware Icon]

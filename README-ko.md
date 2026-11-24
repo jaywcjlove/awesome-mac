@@ -1234,6 +1234,7 @@ Awesome Mac
 * [SoundLadder](https://github.com/dirkkredinger/SoundLadder) - 우선순위 목록에 따라 오디오 출력을 선택하고, 선호 기기가 연결되어 있지 않으면 다음 연결된 기기로 자동 전환하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/SoundLadder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Stash](https://github.com/brentc22/stash) - macOS 27용 오픈 소스 메뉴 막대 아이콘 숨김 도구로, 상태 항목을 하나의 화살표 뒤로 접어 줍니다. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/stash) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Stats](https://github.com/exelban/stats) - 메뉴 바의 시스템 상태 모니터. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats) ![Freeware][Freeware Icon]
+* [Stint](https://desktopgoods.app/apps/stint) - 다이얼을 드래그해 설정하는 메뉴 막대 작업 타이머로, 휴식 시간에는 모든 화면에 카드를 띄웁니다. ![Native App][Native Icon]
 * [Swamp Converter](https://github.com/aansonsa/swamp-converter) - 파일을 드래그하는 중 키를 누르고 휠에 놓으면 비디오, 오디오, 이미지, PDF를 변환할 수 있는 메뉴 바 파일 변환기. [![Open-Source Software][OSS Icon]](https://github.com/aansonsa/swamp-converter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - 실시간 업로드·다운로드 속도와 대역폭 사용 앱을 보여주는 네이티브 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - 인터넷이 실제로 응답하는지 보여 주고 지연 시간, 지터, 패킷 손실, 속도 테스트도 제공하는 오픈 소스 메뉴 바 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
