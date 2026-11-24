@@ -400,6 +400,7 @@ Awesome Mac
 * [Sublime Text](http://www.sublimetext.com/) - 수준 높은 텍스트 편집기.
 * [TextMate](http://macromates.com/) - 코드와 그 이상을 위한 도구. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - 코딩과 소프트웨어 개발을 위한 AI IDE.
+* [VibeiDE](https://vibeide.dev/) - Claude Code, Codex, OpenCode CLI 작업을 프로젝트별 큐에 넣어 병렬로 실행하고, 끝난 작업은 리뷰를 기다리게 하는 데스크톱 앱.
 * [VSCodium](https://vscodium.com/) - 커뮤니티가 제공하는 VS Code의 자유 오픈 소스 바이너리 배포판. [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft에서 만든 강력하고 확장 가능한 오픈 소스 코드 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - 고급 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
