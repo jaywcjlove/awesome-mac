@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CurlGo</title>
+      <link>https://curlgo.echovic.com/en/</link>
+      <guid isPermaLink="false">c46771e13280ea158bdcd6b95259ee72eac5890f:CurlGo</guid>
+      <pubDate>Tue, 24 Nov 2026 08:57:08 GMT</pubDate>
+      <category>開発ツール / API開発と分析</category>
+      <description>Category: 開発ツール / API開発と分析
+App: CurlGo
+Description: HTTP、SSE、WebSocket に対応し、ワークスペースをローカルに保存して curl、Postman、Bruno のコレクションを読み込めるオープンソースの API クライアント。
+Website: https://curlgo.echovic.com/en/
+Open Source: https://github.com/echoVic/curlgo
+Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f</description>
+      <content:encoded><![CDATA[Category: 開発ツール / API開発と分析<br/>App: CurlGo<br/>Description: HTTP、SSE、WebSocket に対応し、ワークスペースをローカルに保存して curl、Postman、Bruno のコレクションを読み込めるオープンソースの API クライアント。<br/>Website: https://curlgo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/curlgo<br/>Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f]]></content:encoded>
+    </item>
     <item>
       <title>Roomie</title>
       <link>https://lesheess.github.io/small-living-things/</link>
@@ -722,21 +737,6 @@ Website: https://getdeskbridge.com
 Commit: Add Deskbridge to Menu Bar Tools (#3852)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Deskbridge<br/>Description: USB または Wi-Fi 経由で Samsung Galaxy スマートフォンの DeX デスクトップを Mac のウィンドウで開くメニューバーアプリ。スマホアプリの個別ウィンドウ表示、着信バナー、通知にも対応。<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
-    </item>
-    <item>
-      <title>Driftwall</title>
-      <link>https://driftwall.kamaldhital.com</link>
-      <guid isPermaLink="false">e434593ff49fe397383bfc9f5c0c19ba01e8a1ce:Driftwall</guid>
-      <pubDate>Fri, 20 Nov 2026 05:02:02 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Driftwall
-Description: 任意の動画ファイルを、デスクトップアイコンの背後でループ再生するライブ壁紙に。すべてのディスプレイに対応。
-Website: https://driftwall.kamaldhital.com
-Open Source: https://github.com/dhitalkamal/driftwall
-Commit: Add Driftwall to General Tools (#4786)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Driftwall<br/>Description: 任意の動画ファイルを、デスクトップアイコンの背後でループ再生するライブ壁紙に。すべてのディスプレイに対応。<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CurlGo</title>
+      <link>https://curlgo.echovic.com/en/</link>
+      <guid isPermaLink="false">c46771e13280ea158bdcd6b95259ee72eac5890f:CurlGo</guid>
+      <pubDate>Tue, 24 Nov 2026 08:57:08 GMT</pubDate>
+      <category>개발 도구 / API 개발 및 분석</category>
+      <description>Category: 개발 도구 / API 개발 및 분석
+App: CurlGo
+Description: HTTP, SSE, WebSocket을 지원하고 워크스페이스를 로컬에 저장하며 curl, Postman, Bruno 컬렉션을 가져올 수 있는 오픈 소스 API 클라이언트.
+Website: https://curlgo.echovic.com/en/
+Open Source: https://github.com/echoVic/curlgo
+Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / API 개발 및 분석<br/>App: CurlGo<br/>Description: HTTP, SSE, WebSocket을 지원하고 워크스페이스를 로컬에 저장하며 curl, Postman, Bruno 컬렉션을 가져올 수 있는 오픈 소스 API 클라이언트.<br/>Website: https://curlgo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/curlgo<br/>Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f]]></content:encoded>
+    </item>
     <item>
       <title>Roomie</title>
       <link>https://lesheess.github.io/small-living-things/</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/Undermove/meridian-browser
 Commit: Add Meridian to Browsers (#3807)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
       <content:encoded><![CDATA[Category: 브라우저<br/>App: Meridian<br/>Description: Chromium 기반의 오픈 소스 Arc 스타일 브라우저로, 스페이스, 고정 탭, 커맨드 바, Arc 및 Chrome 원클릭 가져오기, AI 에이전트용 내장 MCP 서버를 제공합니다.<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
-    </item>
-    <item>
-      <title>Deskbridge</title>
-      <link>https://getdeskbridge.com</link>
-      <guid isPermaLink="false">dd013ed128b608bdec6a0ce67e5c376da5bdb708:Deskbridge</guid>
-      <pubDate>Fri, 20 Nov 2026 05:05:26 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Deskbridge
-Description: USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.
-Website: https://getdeskbridge.com
-Commit: Add Deskbridge to Menu Bar Tools (#3852)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Deskbridge<br/>Description: USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
     </item>
   </channel>
 </rss>

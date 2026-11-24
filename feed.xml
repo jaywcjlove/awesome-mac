@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:57:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CurlGo</title>
+      <link>https://curlgo.echovic.com/en/</link>
+      <guid isPermaLink="false">c46771e13280ea158bdcd6b95259ee72eac5890f:CurlGo</guid>
+      <pubDate>Tue, 24 Nov 2026 08:57:08 GMT</pubDate>
+      <category>Developer Tools / API Development and Analysis</category>
+      <description>Category: Developer Tools / API Development and Analysis
+App: CurlGo
+Description: Open-source API client for HTTP, SSE and WebSocket that keeps workspaces on your Mac and imports curl, Postman and Bruno collections.
+Website: https://curlgo.echovic.com/en/
+Open Source: https://github.com/echoVic/curlgo
+Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f</description>
+      <content:encoded><![CDATA[Category: Developer Tools / API Development and Analysis<br/>App: CurlGo<br/>Description: Open-source API client for HTTP, SSE and WebSocket that keeps workspaces on your Mac and imports curl, Postman and Bruno collections.<br/>Website: https://curlgo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/curlgo<br/>Commit: Add Add CurlGo to API Development and Analysis (EN/ZH/JA/KO) (#4888)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46771e13280ea158bdcd6b95259ee72eac5890f]]></content:encoded>
+    </item>
     <item>
       <title>Roomie</title>
       <link>https://lesheess.github.io/small-living-things/</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/zacharytgray/HyprMac
 Commit: Add HyprMac (#4802)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
       <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: HyprMac<br/>Description: Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
-    </item>
-    <item>
-      <title>TernaryCode</title>
-      <link>https://ilhamnadhif.github.io/ternarycode/</link>
-      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
-      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: TernaryCode
-Description: Terminal workspace for many projects and the coding agents in them that shows which agent is waiting for you.
-Website: https://ilhamnadhif.github.io/ternarycode/
-Open Source: https://github.com/ilhamnadhif/ternarycode
-Commit: Add TernaryCode to Terminal Apps (#4770)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: TernaryCode<br/>Description: Terminal workspace for many projects and the coding agents in them that shows which agent is waiting for you.<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
     </item>
   </channel>
 </rss>
