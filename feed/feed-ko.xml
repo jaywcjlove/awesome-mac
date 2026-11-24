@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Verticar</title>
+      <link>https://github.com/sarogreco/Verticar</link>
+      <guid isPermaLink="false">56408846bd354df71bc13196f08c5f9ad9e0f5df:Verticar</guid>
+      <pubDate>Tue, 24 Nov 2026 02:18:50 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Verticar
+Description: Sidecar를 통해 iPad를 세로 방향 보조 디스플레이로 사용하는 오픈 소스 앱.
+Open Source: https://github.com/sarogreco/Verticar
+Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Verticar<br/>Description: Sidecar를 통해 iPad를 세로 방향 보조 디스플레이로 사용하는 오픈 소스 앱.<br/>Open Source: https://github.com/sarogreco/Verticar<br/>Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df]]></content:encoded>
+    </item>
     <item>
       <title>Out to Sea</title>
       <link>https://sea.cwdx.md</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/t1nkl/xylem
 Commit: Add Xylem to Terminal Apps (#4762)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: Xylem<br/>Description: 탭별로 세션을 이어 가고 컨텍스트와 비용을 추적하며 프로젝트의 스킬, MCP, git 패널을 제공하는 Claude Code용 네이티브 터미널.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
-    </item>
-    <item>
-      <title>Better Wacom</title>
-      <link>https://github.com/myyccccc/Better-Wacom</link>
-      <guid isPermaLink="false">c18f708ca7a8764cfcce56eac9bbad7eebbc8f11:Better Wacom</guid>
-      <pubDate>Thu, 19 Nov 2026 05:40:25 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Better Wacom
-Description: Wacom Intuos Pro M(2025, PTK-670)용 앱별 ExpressKey, 길게 누르기 동작, 다중 모드 다이얼을 설정하는 도구로, 공식 드라이버와 함께 실행된다.
-Open Source: https://github.com/myyccccc/Better-Wacom
-Commit: Add Better Wacom to Productivity (#4761)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Better Wacom<br/>Description: Wacom Intuos Pro M(2025, PTK-670)용 앱별 ExpressKey, 길게 누르기 동작, 다중 모드 다이얼을 설정하는 도구로, 공식 드라이버와 함께 실행된다.<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
     </item>
   </channel>
 </rss>
