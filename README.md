@@ -601,6 +601,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Version Control
 
 * [Cornerstone](https://www.zennaware.com/cornerstone/) - Powerful version control with a gorgeous interface.
+* [FinderGit](https://findergit.app) - File browser with Git built in that shows branch, status and diffs for all your repositories at a glance, and lets you commit, push and branch right there. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fork](https://git-fork.com/) - Fast and friendly Git client for Mac.
 * [Git Cola](https://git-cola.github.io/) - Powerful, Fast, Lightweight and Friendly Git GUI. For those caffeine adicting users. ![Open-Source Software][OSS Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - Open-source，display GitHub contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
