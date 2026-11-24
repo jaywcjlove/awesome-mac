@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:50:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Vaquero</title>
+      <link>https://github.com/BitWise-0x/Vaquero</link>
+      <guid isPermaLink="false">b7dcd29ccfe61868867a9f45181a18ebab5019d0:Vaquero</guid>
+      <pubDate>Tue, 24 Nov 2026 02:50:00 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Vaquero
+Description: 从几张照片学习人脸，在文件夹中找出此人的所有照片和视频，完全离线运行。
+Open Source: https://github.com/BitWise-0x/Vaquero
+Commit: Add Vaquero to Other Tools (#4894)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Vaquero<br/>Description: 从几张照片学习人脸，在文件夹中找出此人的所有照片和视频，完全离线运行。<br/>Open Source: https://github.com/BitWise-0x/Vaquero<br/>Commit: Add Vaquero to Other Tools (#4894)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b7dcd29ccfe61868867a9f45181a18ebab5019d0]]></content:encoded>
+    </item>
     <item>
       <title>MySpotify</title>
       <link>https://margbug01.github.io/MySpotify/</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/dhitalkamal/driftwall
 Commit: Add Driftwall to General Tools (#4786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Driftwall<br/>Description: 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
-    </item>
-    <item>
-      <title>DropKeeper</title>
-      <link>https://direcat.net/dropkeeper/</link>
-      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
-      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
-      <category>其它实用工具 / Finder</category>
-      <description>Category: 其它实用工具 / Finder
-App: DropKeeper
-Description: 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。
-Website: https://direcat.net/dropkeeper/
-Open Source: https://github.com/direcat/dropkeeper
-Commit: Add DropKeeper to File Organization Tools (#3694)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / Finder<br/>App: DropKeeper<br/>Description: 开源工具，为每个新下载的文件设置过期时间，到期后移至废纸篓，并可一键撤销。<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
     </item>
   </channel>
 </rss>
