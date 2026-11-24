@@ -1208,6 +1208,7 @@ Awesome Mac
 * [Polka](https://romabmstu.github.io/polka/) - 노치를 VPN 연결, 모든 브라우저의 탭 그룹, 현재 재생 중인 곡, 캘린더, 온디바이스 번역, 클립보드 기록을 모은 제어 센터로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Roomie](https://lesheess.github.io/small-living-things/) - 메뉴 막대에 살면서 사용자의 행동에 반응하고, 노치에서 튀어나와 눈 휴식과 산책, 취침을 챙겨 주는 한 쌍의 만화 눈. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 숨김 영역과 자동화를 제공하는 프라이버시 중심 메뉴 막대 관리자. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
+* [Yonder](https://rmoura98.github.io/yonder/) - 무료 20-20-20 휴식 알림 앱. 흐리게 처리된 데스크톱 위에 차분한 전체 화면 휴식 화면을 표시하고, 자세·눈 깜빡임 알림과 눈 운동 가이드를 제공하며, 통화·화면 공유·전체 화면 앱 사용 중에는 자동으로 일시 중지합니다. [![Open-Source Software][OSS Icon]](https://github.com/RMoura98/yonder) ![Freeware][Freeware Icon]
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Deskbridge](https://getdeskbridge.com) - USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.
