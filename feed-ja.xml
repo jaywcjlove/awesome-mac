@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Verticar</title>
+      <link>https://github.com/sarogreco/Verticar</link>
+      <guid isPermaLink="false">56408846bd354df71bc13196f08c5f9ad9e0f5df:Verticar</guid>
+      <pubDate>Tue, 24 Nov 2026 02:18:50 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Verticar
+Description: Sidecar経由でiPadを縦向きのセカンドディスプレイとして利用できるオープンソースアプリ。
+Open Source: https://github.com/sarogreco/Verticar
+Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Verticar<br/>Description: Sidecar経由でiPadを縦向きのセカンドディスプレイとして利用できるオープンソースアプリ。<br/>Open Source: https://github.com/sarogreco/Verticar<br/>Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df]]></content:encoded>
+    </item>
     <item>
       <title>Out to Sea</title>
       <link>https://sea.cwdx.md</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/myyccccc/Better-Wacom
 Commit: Add Better Wacom to Productivity (#4761)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: Better Wacom<br/>Description: Wacom Intuos Pro M（2025、PTK-670）用に、アプリごとの ExpressKey、長押しアクション、複数モードのダイヤルを設定できるツール。公式ドライバと併用する。<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
-    </item>
-    <item>
-      <title>OmegaStar</title>
-      <link>https://github.com/itsfutsy/OmegaStar</link>
-      <guid isPermaLink="false">fc73c588150c22f19df5b08675c4213d037e24fe:OmegaStar</guid>
-      <pubDate>Thu, 19 Nov 2026 05:34:22 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: OmegaStar
-Description: いつもの Claude Code を、ブラウザ・モデル・ログインごと AI 社員のチームに変えるアプリ。社員ごとに目標があり、会話で教えたことはスキルとして残る。
-Open Source: https://github.com/itsfutsy/OmegaStar
-Commit: Add OmegaStar to AI Tools (#4750)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: OmegaStar<br/>Description: いつもの Claude Code を、ブラウザ・モデル・ログインごと AI 社員のチームに変えるアプリ。社員ごとに目標があり、会話で教えたことはスキルとして残る。<br/>Open Source: https://github.com/itsfutsy/OmegaStar<br/>Commit: Add OmegaStar to AI Tools (#4750)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc73c588150c22f19df5b08675c4213d037e24fe]]></content:encoded>
     </item>
   </channel>
 </rss>

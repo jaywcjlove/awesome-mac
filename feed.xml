@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:18:50 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Verticar</title>
+      <link>https://github.com/sarogreco/Verticar</link>
+      <guid isPermaLink="false">56408846bd354df71bc13196f08c5f9ad9e0f5df:Verticar</guid>
+      <pubDate>Tue, 24 Nov 2026 02:18:50 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Verticar
+Description: Open-source app for using an iPad as a portrait second display over Sidecar.
+Open Source: https://github.com/sarogreco/Verticar
+Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Verticar<br/>Description: Open-source app for using an iPad as a portrait second display over Sidecar.<br/>Open Source: https://github.com/sarogreco/Verticar<br/>Commit: Add Verticar to General Tools (EN/ZH/JA/KO) (#4898)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56408846bd354df71bc13196f08c5f9ad9e0f5df]]></content:encoded>
+    </item>
     <item>
       <title>Out to Sea</title>
       <link>https://sea.cwdx.md</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/Undermove/meridian-browser
 Commit: Add Meridian to Browsers (#3807)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
       <content:encoded><![CDATA[Category: Browsers<br/>App: Meridian<br/>Description: Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents.<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
-    </item>
-    <item>
-      <title>Deskbridge</title>
-      <link>https://getdeskbridge.com</link>
-      <guid isPermaLink="false">dd013ed128b608bdec6a0ce67e5c376da5bdb708:Deskbridge</guid>
-      <pubDate>Fri, 20 Nov 2026 05:05:26 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Deskbridge
-Description: Menu bar app that opens a Samsung Galaxy phone&apos;s DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.
-Website: https://getdeskbridge.com
-Commit: Add Deskbridge to Menu Bar Tools (#3852)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Deskbridge<br/>Description: Menu bar app that opens a Samsung Galaxy phone&apos;s DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
     </item>
   </channel>
 </rss>
