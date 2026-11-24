@@ -1495,6 +1495,7 @@ Awesome Mac
 * [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。 [![Open-Source Software][OSS Icon]](https://github.com/Uotan-Dev/UotanToolboxNT) ![Freeware][Freeware Icon]
 * [Phosphene](https://kagerou.glass/phosphene/) - 使用任意视频作为 macOS 壁纸，支持桌面和锁屏，直接在“系统设置”中选择。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/phosphene) ![Freeware][Freeware Icon]
 * [MagicWall](https://github.com/davidullo/magicwall) - 将本地视频设为桌面壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/davidullo/magicwall)
+* [Verticar](https://github.com/sarogreco/Verticar) - 通过随航（Sidecar）将 iPad 用作竖屏副显示器的开源应用。 [![Open-Source Software][OSS Icon]](https://github.com/sarogreco/Verticar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - 支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [Vidwall Hub](https://wangchujiang.com/vidwall-hub/) - 轻松将 MP4/MOV 视频导入系统壁纸并用作锁屏动画。 ![Freeware][Freeware Icon]
 * [Volant](https://usevolant.com) - 注重隐私的开源启动器，可快速打开应用和文件，并支持计算、笔记、剪贴板历史和编程智能体。 [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]

@@ -1707,6 +1707,7 @@ Awesome Mac
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Safari用のオープンソースタブマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [Uptick](https://chengffei.github.io/uptick/) - App Store、Sparkle、Electron の更新フィード、Homebrew から更新を探し、インストール前にダウンロードを検証するオープンソースのアップデーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chengffei/uptick)
+* [Verticar](https://github.com/sarogreco/Verticar) - Sidecar経由でiPadを縦向きのセカンドディスプレイとして利用できるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/sarogreco/Verticar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - MP4/MOV動画をシステム壁紙やロック画面のアニメーションとして簡単にインポート。 [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。 ![Native App][Native Icon]
