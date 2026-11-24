@@ -1316,6 +1316,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Meridian](https://undermove.github.io/meridian-browser/) - Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents. [![Open-Source Software][OSS Icon]](https://github.com/Undermove/meridian-browser) ![Freeware][Freeware Icon]
 * [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
+* [NeatWebApp](https://github.com/NeatMacApps/NeatWebApp) - Native macOS WebKit app for turning websites into focused apps, launched from the notch with an edge-tucking activity Dock. [![Open-Source Software][OSS Icon]](https://github.com/NeatMacApps/NeatWebApp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Opera](https://www.opera.com) - Experience faster, distraction-free browsing with Ad blocking, and browse privately. ![Freeware][Freeware Icon]
 * [Ora](https://github.com/the-ora/browser) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
