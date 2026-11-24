@@ -1357,6 +1357,7 @@ Awesome Mac
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Windows の HTS のように韓国株・米国株を閲覧できる参照専用ツール。10段の板情報、4チャート配置、ウォッチリスト、ワークスペース保存に対応し、リアルタイム相場は自分の Kiwoom REST API キーで取得。 ![Freeware][Freeware Icon]
 * [Posnic](https://www.posnic.com/) - 小売店とレストラン向けのオフラインファーストなオープンソース POS・請求ソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - 米国株・香港株・中国株、暗号資産、指数、ETF、ポートフォリオ損益を表示するネイティブのメニューバー相場ツール。 [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
+* [Settle](https://www.yuzool.com/apps/settle/) - フリーランス向けの請求書・見積書・提案書作成アプリ。作業時間と経費の記録、iCloud による iPhone とのプライベート同期に対応。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/settle-invoice-quote-maker/id6798133676)
 * [SubManager](https://submanager.app) - 更新通知に対応したサブスクリプション管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - リマインダー、分析、iCloud同期でサブスクリプション、更新、支出を1か所で追跡。
 * [StockDock](https://github.com/simonsruggi/StockDock) - メニューバーで株・ETF・暗号資産のリアルタイム相場を表示するツール。ポートフォリオ損益と多通貨に対応し、プライバシー重視でアカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
