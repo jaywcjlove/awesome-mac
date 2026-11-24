@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roomie</title>
+      <link>https://lesheess.github.io/small-living-things/</link>
+      <guid isPermaLink="false">289f3e24a37bc4188031719592ac44ba69ca2349:Roomie</guid>
+      <pubDate>Tue, 24 Nov 2026 05:40:21 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Roomie
+Description: 메뉴 막대에 살면서 사용자의 행동에 반응하고, 노치에서 튀어나와 눈 휴식과 산책, 취침을 챙겨 주는 한 쌍의 만화 눈.
+Website: https://lesheess.github.io/small-living-things/
+Commit: Add Roomie to Menu Bar Tools (#4939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Roomie<br/>Description: 메뉴 막대에 살면서 사용자의 행동에 반응하고, 노치에서 튀어나와 눈 휴식과 산책, 취침을 챙겨 주는 한 쌍의 만화 눈.<br/>Website: https://lesheess.github.io/small-living-things/<br/>Commit: Add Roomie to Menu Bar Tools (#4939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349]]></content:encoded>
+    </item>
     <item>
       <title>SpecWithCode</title>
       <link>https://specwithcode.com</link>
@@ -723,21 +737,6 @@ Website: https://getdeskbridge.com
 Commit: Add Deskbridge to Menu Bar Tools (#3852)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Deskbridge<br/>Description: USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
-    </item>
-    <item>
-      <title>Driftwall</title>
-      <link>https://driftwall.kamaldhital.com</link>
-      <guid isPermaLink="false">e434593ff49fe397383bfc9f5c0c19ba01e8a1ce:Driftwall</guid>
-      <pubDate>Fri, 20 Nov 2026 05:02:02 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: Driftwall
-Description: 어떤 동영상 파일이든 데스크톱 아이콘 뒤에서 반복 재생되는 라이브 배경화면으로 사용하세요. 모든 디스플레이를 지원합니다.
-Website: https://driftwall.kamaldhital.com
-Open Source: https://github.com/dhitalkamal/driftwall
-Commit: Add Driftwall to General Tools (#4786)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: Driftwall<br/>Description: 어떤 동영상 파일이든 데스크톱 아이콘 뒤에서 반복 재생되는 라이브 배경화면으로 사용하세요. 모든 디스플레이를 지원합니다.<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
     </item>
   </channel>
 </rss>

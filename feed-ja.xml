@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roomie</title>
+      <link>https://lesheess.github.io/small-living-things/</link>
+      <guid isPermaLink="false">289f3e24a37bc4188031719592ac44ba69ca2349:Roomie</guid>
+      <pubDate>Tue, 24 Nov 2026 05:40:21 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Roomie
+Description: メニューバーに住み、操作に反応しながらノッチから飛び出して、目の休憩や散歩、就寝を促してくれる一対のカートゥーンの目。
+Website: https://lesheess.github.io/small-living-things/
+Commit: Add Roomie to Menu Bar Tools (#4939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Roomie<br/>Description: メニューバーに住み、操作に反応しながらノッチから飛び出して、目の休憩や散歩、就寝を促してくれる一対のカートゥーンの目。<br/>Website: https://lesheess.github.io/small-living-things/<br/>Commit: Add Roomie to Menu Bar Tools (#4939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349]]></content:encoded>
+    </item>
     <item>
       <title>SpecWithCode</title>
       <link>https://specwithcode.com</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/dhitalkamal/driftwall
 Commit: Add Driftwall to General Tools (#4786)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Driftwall<br/>Description: 任意の動画ファイルを、デスクトップアイコンの背後でループ再生するライブ壁紙に。すべてのディスプレイに対応。<br/>Website: https://driftwall.kamaldhital.com<br/>Open Source: https://github.com/dhitalkamal/driftwall<br/>Commit: Add Driftwall to General Tools (#4786)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e434593ff49fe397383bfc9f5c0c19ba01e8a1ce]]></content:encoded>
-    </item>
-    <item>
-      <title>DropKeeper</title>
-      <link>https://direcat.net/dropkeeper/</link>
-      <guid isPermaLink="false">7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1:DropKeeper</guid>
-      <pubDate>Thu, 19 Nov 2026 19:10:33 GMT</pubDate>
-      <category>ユーティリティ / ファイル管理ツール</category>
-      <description>Category: ユーティリティ / ファイル管理ツール
-App: DropKeeper
-Description: 新しくダウンロードしたファイルに有効期限を設定し、期限切れのファイルをゴミ箱へ移動するオープンソースアプリ（取り消し可能）。
-Website: https://direcat.net/dropkeeper/
-Open Source: https://github.com/direcat/dropkeeper
-Commit: Add DropKeeper to File Organization Tools (#3694)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: DropKeeper<br/>Description: 新しくダウンロードしたファイルに有効期限を設定し、期限切れのファイルをゴミ箱へ移動するオープンソースアプリ（取り消し可能）。<br/>Website: https://direcat.net/dropkeeper/<br/>Open Source: https://github.com/direcat/dropkeeper<br/>Commit: Add DropKeeper to File Organization Tools (#3694)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7339de37cbe3bb4b264bcaf03a26fbcc03cfeba1]]></content:encoded>
     </item>
   </channel>
 </rss>

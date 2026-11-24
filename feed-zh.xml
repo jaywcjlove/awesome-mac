@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roomie</title>
+      <link>https://lesheess.github.io/small-living-things/</link>
+      <guid isPermaLink="false">289f3e24a37bc4188031719592ac44ba69ca2349:Roomie</guid>
+      <pubDate>Tue, 24 Nov 2026 05:40:21 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Roomie
+Description: 住在菜单栏里的一对卡通眼睛，会对你的操作做出反应，并从刘海中弹出，提醒你休息眼睛、起身走走和按时睡觉。
+Website: https://lesheess.github.io/small-living-things/
+Commit: Add Roomie to Menu Bar Tools (#4939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Roomie<br/>Description: 住在菜单栏里的一对卡通眼睛，会对你的操作做出反应，并从刘海中弹出，提醒你休息眼睛、起身走走和按时睡觉。<br/>Website: https://lesheess.github.io/small-living-things/<br/>Commit: Add Roomie to Menu Bar Tools (#4939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349]]></content:encoded>
+    </item>
     <item>
       <title>SpecWithCode</title>
       <link>https://specwithcode.com</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/Undermove/meridian-browser
 Commit: Add Meridian to Browsers (#3807)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Meridian<br/>Description: 基于 Chromium 的开源 Arc 风格浏览器，提供空间、固定标签页、命令栏、一键从 Arc 和 Chrome 导入，以及供 AI 代理使用的内置 MCP 服务器。<br/>Website: https://undermove.github.io/meridian-browser/<br/>Open Source: https://github.com/Undermove/meridian-browser<br/>Commit: Add Meridian to Browsers (#3807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c07332d1b4b3d912d3cdc613aa20c8fa53ecf2a2]]></content:encoded>
-    </item>
-    <item>
-      <title>Deskbridge</title>
-      <link>https://getdeskbridge.com</link>
-      <guid isPermaLink="false">dd013ed128b608bdec6a0ce67e5c376da5bdb708:Deskbridge</guid>
-      <pubDate>Fri, 20 Nov 2026 05:05:26 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Deskbridge
-Description: 菜单栏应用，通过 USB 或 Wi-Fi 在 Mac 窗口中打开三星 Galaxy 手机的 DeX 桌面，并支持手机应用独立窗口、来电横幅和通知。
-Website: https://getdeskbridge.com
-Commit: Add Deskbridge to Menu Bar Tools (#3852)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Deskbridge<br/>Description: 菜单栏应用，通过 USB 或 Wi-Fi 在 Mac 窗口中打开三星 Galaxy 手机的 DeX 桌面，并支持手机应用独立窗口、来电横幅和通知。<br/>Website: https://getdeskbridge.com<br/>Commit: Add Deskbridge to Menu Bar Tools (#3852)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd013ed128b608bdec6a0ce67e5c376da5bdb708]]></content:encoded>
     </item>
   </channel>
 </rss>

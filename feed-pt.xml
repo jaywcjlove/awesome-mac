@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:40:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Roomie</title>
+      <link>https://lesheess.github.io/small-living-things/</link>
+      <guid isPermaLink="false">289f3e24a37bc4188031719592ac44ba69ca2349:Roomie</guid>
+      <pubDate>Tue, 24 Nov 2026 05:40:21 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: Roomie
+Description: Um par de olhos de desenho animado que mora na barra de menus, reage ao que você faz e salta do notch para lembrar você de descansar os olhos, caminhar e ir dormir.
+Website: https://lesheess.github.io/small-living-things/
+Commit: Add Roomie to Menu Bar Tools (#4939)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Roomie<br/>Description: Um par de olhos de desenho animado que mora na barra de menus, reage ao que você faz e salta do notch para lembrar você de descansar os olhos, caminhar e ir dormir.<br/>Website: https://lesheess.github.io/small-living-things/<br/>Commit: Add Roomie to Menu Bar Tools (#4939)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/289f3e24a37bc4188031719592ac44ba69ca2349]]></content:encoded>
+    </item>
     <item>
       <title>SpecWithCode</title>
       <link>https://specwithcode.com</link>
@@ -724,20 +738,6 @@ Open Source: https://github.com/AuroraEditor/AuroraEditor
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Aurora Editor<br/>Description: Editor de código leve (IDE) para macOS.<br/>Website: https://auroraeditor.com/<br/>Open Source: https://github.com/AuroraEditor/AuroraEditor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Bootstrap Studio</title>
-      <link>https://bootstrapstudio.io/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Bootstrap Studio</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Bootstrap Studio
-Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.
-Website: https://bootstrapstudio.io/
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Bootstrap Studio<br/>Description: Um aplicativo de desktop poderoso para criar sites responsivos usando o framework Bootstrap.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
