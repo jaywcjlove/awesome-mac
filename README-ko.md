@@ -419,6 +419,7 @@ Awesome Mac
 
 * [AGASTHY](https://github.com/HMAKT99/Agasthy) - 저장소, 런타임, 패키지, AI 코딩 에이전트를 하나의 지식 그래프로 연결하고 토큰 사용량, 영향 분석, 안전한 디스크 정리를 제공하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/Agasthy) ![Freeware][Freeware Icon]
 * [Agent Monitor](https://github.com/paveler/agent-monitor) - Claude Code와 Codex 중 어떤 세션이 사용자를 기다리고 있는지 보여 주고, 클릭하면 해당 세션을 열며, 사용량 한도도 추적하는 오픈 소스 데스크톱 위젯 및 메뉴 막대 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/paveler/agent-monitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [ArchScript](https://archscript.dev) - 자동 레이아웃 다이어그램, 아키텍처 규칙, Claude용 MCP 서버를 갖춘 아키텍처 코드화 에디터. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/archscript/id6832222983)
 * [arowser](https://github.com/HankMonster/arowser) - 코딩 에이전트를 위해 설계된 CLI로 구동되는 macOS용 에이전트 프로그래밍 가능 테두리 없는 웹 윈도우. [![Open-Source Software][OSS Icon]](https://github.com/HankMonster/arowser) ![Freeware][Freeware Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 접근성 API와 HID 자동화를 통해 iOS 시뮬레이터를 제어할 수 있는 CLI 도구. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 강력한 파일 이름 변경 앱.
