@@ -1371,6 +1371,7 @@ Awesome Mac
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Matcha](https://github.com/jakeantelis/Matcha) - 시각적 타이머와 플로팅 배지를 제공하고 실행 중인 AI 코딩 에이전트를 감지해 Mac을 깨어 있게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Matcha) ![Freeware][Freeware Icon]
 * [Adrafinil](https://kagerou.glass/adrafinil/) - AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [AeroMac](https://aeromac.app/) - Apple Silicon Mac용 팬 제어 및 온도 모니터. 사용자 지정 곡선, 메뉴 막대 프리셋, 오류 시 macOS 자동 제어로 복귀하는 페일세이프 지원. ![Native App][Native Icon]
 * [LD Manager](https://codonic.dev/apps/ldmanager) - 모든 LaunchAgent와 LaunchDaemon을 보여 주고, 작업이 실행되지 않는 이유를 설명하며, diff와 백업으로 plist를 손실 없이 편집하는 오픈 소스 launchd 관리 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/roeehrl/ldmanager) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lockpaw](https://getlockpaw.com) - AI 코딩 에이전트가 실행되는 동안 화면을 가리고 Mac을 깨어 있게 하며, 에이전트가 사용자를 기다리면 화면이 빛나 알려 주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [ezNTFS](https://ixiehao.github.io/ezNTFS/) - macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ezNTFS) ![Freeware][Freeware Icon]

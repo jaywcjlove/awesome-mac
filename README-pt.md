@@ -1894,6 +1894,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 ### Ferramentas Relacionadas ao Sistema
 
 * [Adrafinil](https://kagerou.glass/adrafinil/) - Mantenha seu Mac ativo somente enquanto agentes de IA ainda estiverem trabalhando e, depois, deixe-o suspender normalmente. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]
+* [AeroMac](https://aeromac.app/) - Controle de ventoinhas e monitor de temperatura para Macs com Apple Silicon, com curvas personalizadas, predefinições na barra de menus e retorno automático ao modo Automático do macOS em caso de falha. ![Native App][Native Icon]
 * [AlDente](https://apphousekitchen.com/) - Limitador de carga da bateria para MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/davidwernhart/AlDente)
 * [Aman Check](https://github.com/MidZai/aman_check) - Relatório datado e honesto do estado de um Mac usado: travas, bateria, SSD e testes de hardware guiados. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac) - Mantenha seu Mac ativo. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac)
