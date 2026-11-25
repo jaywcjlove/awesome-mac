@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AppuBot</title>
+      <link>https://appubot.com</link>
+      <guid isPermaLink="false">2f9f19748f9c772c49d7cdff9086d099491965be:AppuBot</guid>
+      <pubDate>Wed, 25 Nov 2026 11:02:17 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: AppuBot
+Description: 开源（Apache 2.0）的 AI 机器人团队，每个机器人各有分工，会互相交接任务，并在你真实的应用和文件中完成工作，使用你已有的 Claude、ChatGPT、Cursor、Grok 或 Copilot 订阅。
+Website: https://appubot.com
+Open Source: https://github.com/sarthakguptadev/AppuBot
+Commit: Add AppuBot to AI Tools (#5044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: AppuBot<br/>Description: 开源（Apache 2.0）的 AI 机器人团队，每个机器人各有分工，会互相交接任务，并在你真实的应用和文件中完成工作，使用你已有的 Claude、ChatGPT、Cursor、Grok 或 Copilot 订阅。<br/>Website: https://appubot.com<br/>Open Source: https://github.com/sarthakguptadev/AppuBot<br/>Commit: Add AppuBot to AI Tools (#5044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be]]></content:encoded>
+    </item>
     <item>
       <title>Relaycat</title>
       <link>https://github.com/krutikJain/relaycat</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/deeflect/typeset
 Commit: Add Typeset (#4837)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Typeset<br/>Description: 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
-    </item>
-    <item>
-      <title>Stelix</title>
-      <link>https://getstelix.com</link>
-      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
-      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
-      <category>音频和视频 / 音频录制与编辑</category>
-      <description>Category: 音频和视频 / 音频录制与编辑
-App: Stelix
-Description: Mac 实时音轨分离：将任意应用正在播放的音频实时分离为人声、鼓、贝斯和其他，可调节每个声部的音量或单独收听，全部在本机运行。
-Website: https://getstelix.com
-Open Source: https://github.com/stelix-app/stelix
-Commit: Add Stelix (#4836)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
-      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: Stelix<br/>Description: Mac 实时音轨分离：将任意应用正在播放的音频实时分离为人声、鼓、贝斯和其他，可调节每个声部的音量或单独收听，全部在本机运行。<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
     </item>
   </channel>
 </rss>

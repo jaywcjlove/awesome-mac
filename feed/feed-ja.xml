@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AppuBot</title>
+      <link>https://appubot.com</link>
+      <guid isPermaLink="false">2f9f19748f9c772c49d7cdff9086d099491965be:AppuBot</guid>
+      <pubDate>Wed, 25 Nov 2026 11:02:17 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: AppuBot
+Description: 手持ちのClaude、ChatGPT、Cursor、Grok、Copilotのプランで動き、役割の異なるボットがタスクを引き継ぎ合って実際のアプリやファイルで作業する、オープンソース（Apache 2.0）のAIボットチーム。
+Website: https://appubot.com
+Open Source: https://github.com/sarthakguptadev/AppuBot
+Commit: Add AppuBot to AI Tools (#5044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: AppuBot<br/>Description: 手持ちのClaude、ChatGPT、Cursor、Grok、Copilotのプランで動き、役割の異なるボットがタスクを引き継ぎ合って実際のアプリやファイルで作業する、オープンソース（Apache 2.0）のAIボットチーム。<br/>Website: https://appubot.com<br/>Open Source: https://github.com/sarthakguptadev/AppuBot<br/>Commit: Add AppuBot to AI Tools (#5044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be]]></content:encoded>
+    </item>
     <item>
       <title>Relaycat</title>
       <link>https://github.com/krutikJain/relaycat</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/adrielakak/GravityNotch
 Commit: Add GravityNotch to Menu Bar Tools (#4825)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: GravityNotch<br/>Description: ノッチを、macOS Tahoe対応のシステムHUD・同期歌詞付きロック画面プレーヤー・クリップボード履歴・Claude Codeエージェントのリアルタイム追跡を備えたDynamic Island風ハブに変える。<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
-    </item>
-    <item>
-      <title>Linggen</title>
-      <link>https://linggen.dev</link>
-      <guid isPermaLink="false">d73c979fae73bf7b8f890618dbfa13c13577a63d:Linggen</guid>
-      <pubDate>Sat, 21 Nov 2026 08:10:40 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Linggen
-Description: 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。
-Website: https://linggen.dev
-Open Source: https://github.com/linggen/linggen
-Commit: Add Linggen to AI Tools (#4824)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Linggen<br/>Description: 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
     </item>
   </channel>
 </rss>

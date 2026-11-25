@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AppuBot</title>
+      <link>https://appubot.com</link>
+      <guid isPermaLink="false">2f9f19748f9c772c49d7cdff9086d099491965be:AppuBot</guid>
+      <pubDate>Wed, 25 Nov 2026 11:02:17 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: AppuBot
+Description: Equipe de bots de IA de código aberto (Apache 2.0), cada um com a própria função, que passam tarefas entre si e trabalham nos seus apps e arquivos reais, com o plano do Claude, ChatGPT, Cursor, Grok ou Copilot que você já tem.
+Website: https://appubot.com
+Open Source: https://github.com/sarthakguptadev/AppuBot
+Commit: Add AppuBot to AI Tools (#5044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: AppuBot<br/>Description: Equipe de bots de IA de código aberto (Apache 2.0), cada um com a própria função, que passam tarefas entre si e trabalham nos seus apps e arquivos reais, com o plano do Claude, ChatGPT, Cursor, Grok ou Copilot que você já tem.<br/>Website: https://appubot.com<br/>Open Source: https://github.com/sarthakguptadev/AppuBot<br/>Commit: Add AppuBot to AI Tools (#5044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be]]></content:encoded>
+    </item>
     <item>
       <title>Meboki</title>
       <link>https://meboki.com</link>
@@ -724,20 +739,6 @@ Open Source: https://github.com/Bouliw/vigie
 Commit: Add Vigie to Security Tools (#4362)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
       <content:encoded><![CDATA[Category: Ferramentas de Segurança<br/>App: Vigie<br/>Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
-    </item>
-    <item>
-      <title>MagicInput</title>
-      <link>https://bullfighterstudio.com/magicinput</link>
-      <guid isPermaLink="false">1c02307921aa95d1bd5488069aac668b5485708e:MagicInput</guid>
-      <pubDate>Fri, 13 Nov 2026 17:41:42 GMT</pubDate>
-      <category>Utilitários / Produtividade</category>
-      <description>Category: Utilitários / Produtividade
-App: MagicInput
-Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.
-Website: https://bullfighterstudio.com/magicinput
-Commit: Add MagicInput (#4574)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e</description>
-      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: MagicInput<br/>Description: Compartilhe um teclado e um mouse entre um Mac e um PC com Windows movendo o ponteiro além da borda da tela, com sincronização da área de transferência e transferência de arquivos.<br/>Website: https://bullfighterstudio.com/magicinput<br/>Commit: Add MagicInput (#4574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c02307921aa95d1bd5488069aac668b5485708e]]></content:encoded>
     </item>
   </channel>
 </rss>
