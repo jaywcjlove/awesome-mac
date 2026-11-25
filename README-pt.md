@@ -2031,6 +2031,7 @@ Se você encontrar sites que oferecem software pirateado ou cracks, por favor, p
 * Também, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), você já sabe como funciona.
 * App Shopper：[https://appshopper.com/](https://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - O lugar para encontrar todos os softwares que você pode comprar uma vez e possuir para sempre.
+* [Everyversion](https://everyversion.net/) - Índice gratuito das versões atuais e antigas de apps populares, com links de download oficiais e checksums SHA-256.
 * [Open Alternative](https://openalternative.co/) - Descubra alternativas de código aberto para software popular. Uma coleção selecionada das melhores alternativas de código aberto para produtos SaaS do dia a dia. Economize dinheiro com ferramentas confiáveis escolhidas a dedo para você.
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * Outros sites como [MacStories](https://www.macstories.net/), [LifeHacker](https://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) são ótimos recursos.

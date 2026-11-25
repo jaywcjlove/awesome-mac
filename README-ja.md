@@ -2105,6 +2105,7 @@ Awesome Mac
 * また、[Quora](https://www.quora.com/)、[Reddit](https://www.reddit.com)など、ご存知の通りです。
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - 一度購入すれば一生使えるソフトウェアが見つかる場所。
+* [Everyversion](https://everyversion.net/) - 人気アプリの最新版と旧バージョンを、公式ダウンロードリンクと SHA-256 チェックサム付きでまとめた無料インデックス。
 * [Open Alternative](https://openalternative.co/) - 人気ソフトウェアのオープンソース代替を発見。日常のSaaS製品に最適なオープンソースの代替品を厳選したコレクション。信頼性の高いツールで費用を節約。
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * [MacStories](https://www.macstories.net/)、[LifeHacker](http://lifehacker.com/)、[ProductHunt](https://www.producthunt.com/topics/mac)などのサイトも素晴らしいリソースです。
