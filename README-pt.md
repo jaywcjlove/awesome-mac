@@ -1037,6 +1037,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 ### Compartilhamento de Arquivos
 
+* [AutoMailSender](https://automailsender.app) - Envia por e-mail os arquivos soltos nele para uma lista salva de destinatários, pela sua própria conta SMTP, com os primeiros 25 e-mails grátis e depois uma compra única. [![App Store][app-store Icon]](https://apps.apple.com/app/id6754530297?platform=mac)
 * [Cyberduck](https://cyberduck.io) - Navegador gratuito para FTP, SFTP, WebDAV, S3, Backblaze B2, Azure e OpenStack Swift. ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - Ferramenta de compartilhamento de arquivos para capturas de tela, gravações de tela e outros arquivos.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - Transferência de arquivos ponto a ponto entre computadores e celulares pela rede Wi-Fi local. ![Freeware][Freeware Icon]

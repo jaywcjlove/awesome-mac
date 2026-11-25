@@ -899,6 +899,7 @@ Awesome Mac
 
 ### 파일 공유
 
+* [AutoMailSender](https://automailsender.app) - 드롭한 파일을 내 SMTP 계정으로 저장된 수신자에게 이메일로 보내는 도구. 처음 25통은 무료이며, 이후 일회성 구매. [![App Store][app-store Icon]](https://apps.apple.com/app/id6754530297?platform=mac)
 * [Cyberduck](https://cyberduck.io/) - FTP, SFTP, WebDAV, S3 등을 지원하는 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/iterate-ch/cyberduck) ![Freeware][Freeware Icon]
 * [Dropshare](https://dropshare.app) - 스크린샷, 화면 녹화, 기타 파일을 공유하는 도구.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - 로컬 Wi-Fi로 컴퓨터와 휴대폰 사이에서 파일을 P2P 전송하는 도구. ![Freeware][Freeware Icon]
