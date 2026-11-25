@@ -1005,7 +1005,7 @@ Awesome Mac
 * [Vauta](https://vauta.vercel.app/) - 开源的会议记录应用，在设备上转写任意通话并区分说话人，再用 Apple Intelligence 或你自己的本地模型服务器生成带引用的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/MaquinaTech/Vauta) ![Freeware][Freeware Icon]
 * [VoiceStudio](https://saadmsft.github.io/VoiceStudio/) - 基于 Swift 与 CoreAudio 的实时广播级麦克风人声处理器，提供自然低音深度、次谐波温暖度、6 段均衡、齿音消除与压缩，适用于 Discord、Zoom、Teams 与 OBS。 [![Open-Source Software][OSS Icon]](https://github.com/saadmsft/VoiceStudio) ![Freeware][Freeware Icon]
 * [yovoice](https://yovoice.leemysw.com) - 在本地运行的声音创作工具，支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。 [![Open-Source Software][OSS Icon]](https://github.com/leemysw/yovoice) ![Freeware][Freeware Icon]
-* [蓝鲸录音 Blue Whale Recorder](https://lowpower.me/projects/lossless-recorder/) - 只录 Mac 正在播放的系统声音，不录麦克风和屏幕，停止后在本机保存为 ALAC 无损音频，无需额外安装音频驱动。 [![Open-Source Software][OSS Icon]](https://github.com/359392475-blue-sky/lossless-system-audio-recorder) ![Native App][Native Icon]
+* [蓝鲸录音 Blue Whale Recorder](https://lowpower.me/projects/lossless-recorder/) - 只录 Mac 正在播放的系统声音，不录麦克风和屏幕，停止后在本机保存为 ALAC 无损音频，无需额外安装音频驱动。 [![Open-Source Software][OSS Icon]](https://github.com/359392475-blue-sky/lossless-system-audio-recorder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 阅读与写作工具
 
