@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidywise</title>
+      <link>https://github.com/floorianmb/tidywise</link>
+      <guid isPermaLink="false">2dc7973dc0635da4a6afd6f61a39ad69ed335196:Tidywise</guid>
+      <pubDate>Wed, 25 Nov 2026 13:57:07 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Tidywise
+Description: Ollama로 흩어진 파일을 Markdown 색인이 포함된 주제별 폴더로 로컬에서 정리하는 메뉴 막대 앱. 전체 실행 취소 및 AI 어시스턴트용 읽기 전용 MCP 서버 포함.
+Open Source: https://github.com/floorianmb/tidywise
+Commit: Add Tidywise to File Organization Tools (#5049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Tidywise<br/>Description: Ollama로 흩어진 파일을 Markdown 색인이 포함된 주제별 폴더로 로컬에서 정리하는 메뉴 막대 앱. 전체 실행 취소 및 AI 어시스턴트용 읽기 전용 MCP 서버 포함.<br/>Open Source: https://github.com/floorianmb/tidywise<br/>Commit: Add Tidywise to File Organization Tools (#5049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196]]></content:encoded>
+    </item>
     <item>
       <title>AppuBot</title>
       <link>https://appubot.com</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/deeflect/typeset
 Commit: Add Typeset (#4837)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
       <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원).<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
-    </item>
-    <item>
-      <title>Stelix</title>
-      <link>https://getstelix.com</link>
-      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
-      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Stelix
-Description: Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다.
-Website: https://getstelix.com
-Open Source: https://github.com/stelix-app/stelix
-Commit: Add Stelix (#4836)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Stelix<br/>Description: Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
     </item>
   </channel>
 </rss>

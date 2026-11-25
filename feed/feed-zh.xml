@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidywise</title>
+      <link>https://github.com/floorianmb/tidywise</link>
+      <guid isPermaLink="false">2dc7973dc0635da4a6afd6f61a39ad69ed335196:Tidywise</guid>
+      <pubDate>Wed, 25 Nov 2026 13:57:07 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Tidywise
+Description: 本地优先的菜单栏应用，通过 Ollama 将散落文件分类到带 Markdown 索引的主题文件夹，支持完整撤销和只读 MCP 服务器。
+Open Source: https://github.com/floorianmb/tidywise
+Commit: Add Tidywise to File Organization Tools (#5049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Tidywise<br/>Description: 本地优先的菜单栏应用，通过 Ollama 将散落文件分类到带 Markdown 索引的主题文件夹，支持完整撤销和只读 MCP 服务器。<br/>Open Source: https://github.com/floorianmb/tidywise<br/>Commit: Add Tidywise to File Organization Tools (#5049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196]]></content:encoded>
+    </item>
     <item>
       <title>AppuBot</title>
       <link>https://appubot.com</link>
@@ -722,21 +736,6 @@ Open Source: https://github.com/ixiehao/ezNTFS
 Commit: Add ezNTFS (#4841)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: ezNTFS<br/>Description: 通过 macFUSE 和 NTFS-3G 挂载外接 NTFS 磁盘并读写文件。<br/>Website: https://ixiehao.github.io/ezNTFS/zh/<br/>Open Source: https://github.com/ixiehao/ezNTFS<br/>Commit: Add ezNTFS (#4841)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98]]></content:encoded>
-    </item>
-    <item>
-      <title>Typeset</title>
-      <link>https://typeset.md</link>
-      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
-      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Typeset
-Description: 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。
-Website: https://typeset.md
-Open Source: https://github.com/deeflect/typeset
-Commit: Add Typeset (#4837)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Typeset<br/>Description: 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
     </item>
   </channel>
 </rss>

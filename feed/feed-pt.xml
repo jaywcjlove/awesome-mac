@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidywise</title>
+      <link>https://github.com/floorianmb/tidywise</link>
+      <guid isPermaLink="false">2dc7973dc0635da4a6afd6f61a39ad69ed335196:Tidywise</guid>
+      <pubDate>Wed, 25 Nov 2026 13:57:07 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Organização de Arquivos</category>
+      <description>Category: Utilitários / Ferramentas de Organização de Arquivos
+App: Tidywise
+Description: App local-first na barra de menus que organiza arquivos soltos em pastas temáticas com índices Markdown usando Ollama, com desfazer completo e servidor MCP somente leitura.
+Open Source: https://github.com/floorianmb/tidywise
+Commit: Add Tidywise to File Organization Tools (#5049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Organização de Arquivos<br/>App: Tidywise<br/>Description: App local-first na barra de menus que organiza arquivos soltos em pastas temáticas com índices Markdown usando Ollama, com desfazer completo e servidor MCP somente leitura.<br/>Open Source: https://github.com/floorianmb/tidywise<br/>Commit: Add Tidywise to File Organization Tools (#5049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196]]></content:encoded>
+    </item>
     <item>
       <title>AppuBot</title>
       <link>https://appubot.com</link>
@@ -725,20 +739,6 @@ Open Source: https://github.com/Bouliw/fcpxml-roughcut
 Commit: Add Roughcut to Audio and Video Tools (#4367)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
       <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: Roughcut<br/>Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
-    </item>
-    <item>
-      <title>Vigie</title>
-      <link>https://github.com/Bouliw/vigie</link>
-      <guid isPermaLink="false">d918bac4391ae4e928b41f7d8fb8067cec474fd2:Vigie</guid>
-      <pubDate>Sat, 14 Nov 2026 04:04:32 GMT</pubDate>
-      <category>Ferramentas de Segurança</category>
-      <description>Category: Ferramentas de Segurança
-App: Vigie
-Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.
-Open Source: https://github.com/Bouliw/vigie
-Commit: Add Vigie to Security Tools (#4362)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Segurança<br/>App: Vigie<br/>Description: Ferramenta de blue team de código aberto que aplica regras de detecção Sigma ao log unificado do macOS, aos logs de eventos do Windows e ao auth.log do Linux, ao vivo ou em arquivos coletados, e gera um relatório mapeado para o MITRE ATT&amp;CK.<br/>Open Source: https://github.com/Bouliw/vigie<br/>Commit: Add Vigie to Security Tools (#4362)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d918bac4391ae4e928b41f7d8fb8067cec474fd2]]></content:encoded>
     </item>
   </channel>
 </rss>

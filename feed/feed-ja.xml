@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidywise</title>
+      <link>https://github.com/floorianmb/tidywise</link>
+      <guid isPermaLink="false">2dc7973dc0635da4a6afd6f61a39ad69ed335196:Tidywise</guid>
+      <pubDate>Wed, 25 Nov 2026 13:57:07 GMT</pubDate>
+      <category>ユーティリティ / ファイル管理ツール</category>
+      <description>Category: ユーティリティ / ファイル管理ツール
+App: Tidywise
+Description: Ollama を使って散らばったファイルを Markdown インデックス付きのトピックフォルダにローカルで整理するメニューバーアプリ。完全な元に戻す機能と読み取り専用 MCP サーバーを搭載。
+Open Source: https://github.com/floorianmb/tidywise
+Commit: Add Tidywise to File Organization Tools (#5049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ファイル管理ツール<br/>App: Tidywise<br/>Description: Ollama を使って散らばったファイルを Markdown インデックス付きのトピックフォルダにローカルで整理するメニューバーアプリ。完全な元に戻す機能と読み取り専用 MCP サーバーを搭載。<br/>Open Source: https://github.com/floorianmb/tidywise<br/>Commit: Add Tidywise to File Organization Tools (#5049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196]]></content:encoded>
+    </item>
     <item>
       <title>AppuBot</title>
       <link>https://appubot.com</link>
@@ -723,21 +737,6 @@ Open Source: https://github.com/stelix-app/stelix
 Commit: Add Stelix (#4836)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: Stelix<br/>Description: Mac向けのリアルタイムステム分離：あらゆるアプリで再生中の音声をボーカル、ドラム、ベース、その他に分け、各パートの音量調整や単独再生ができ、すべてデバイス上で動作する。<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
-    </item>
-    <item>
-      <title>GravityNotch</title>
-      <link>https://adrielakak.github.io/GravityNotch/</link>
-      <guid isPermaLink="false">f5927d27411346a67f4218b374ae3e2cf270ef3a:GravityNotch</guid>
-      <pubDate>Sat, 21 Nov 2026 08:22:46 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: GravityNotch
-Description: ノッチを、macOS Tahoe対応のシステムHUD・同期歌詞付きロック画面プレーヤー・クリップボード履歴・Claude Codeエージェントのリアルタイム追跡を備えたDynamic Island風ハブに変える。
-Website: https://adrielakak.github.io/GravityNotch/
-Open Source: https://github.com/adrielakak/GravityNotch
-Commit: Add GravityNotch to Menu Bar Tools (#4825)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: GravityNotch<br/>Description: ノッチを、macOS Tahoe対応のシステムHUD・同期歌詞付きロック画面プレーヤー・クリップボード履歴・Claude Codeエージェントのリアルタイム追跡を備えたDynamic Island風ハブに変える。<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
     </item>
   </channel>
 </rss>
