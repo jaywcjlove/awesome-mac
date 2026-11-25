@@ -1924,6 +1924,7 @@ Awesome Mac
 * [Highball](https://gethighball.com) - 通过 Wine 在 Apple Silicon 上运行 Windows 游戏，按游戏从开放的兼容性数据库中选择图形层（DXMT、DXVK 或 D3DMetal）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [openEmu](http://openemu.org/) - 支持多种主机平台的复古游戏模拟器前端。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [PlayCover](https://github.com/PlayCover/PlayCover) - 在Mac上运行侧载的iOS应用、游戏。[![Open-Source Software][OSS Icon]](https://github.com/PlayCover/PlayCover) ![Freeware][Freeware Icon]
+* [Portico](https://portico.bixialab.com) - 已通过 Apple 官方公证、带 macOS 系统沙盒隔离（`sandbox-exec`）的原生 SwiftUI 工具，用于在 Apple Silicon Mac 上干净运行 Windows 版 Steam 独立与经典单机游戏，内置 DXVK-macOS 与中文字体修复。
 * [Porting Kit](http://portingkit.com/) - 在Mac中安装Windows®游戏。 ![Freeware][Freeware Icon]
 * [PPSSPP](https://www.ppsspp.org) - 一个很棒的 PSP 模拟器，适用于您梦寐以求的任何操作系统！ [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - 开源 PlayStation 3 模拟器 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
