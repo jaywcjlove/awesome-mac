@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Tidywise</title>
+      <link>https://github.com/floorianmb/tidywise</link>
+      <guid isPermaLink="false">2dc7973dc0635da4a6afd6f61a39ad69ed335196:Tidywise</guid>
+      <pubDate>Wed, 25 Nov 2026 13:57:07 GMT</pubDate>
+      <category>Utilities / File Organization Tools</category>
+      <description>Category: Utilities / File Organization Tools
+App: Tidywise
+Description: Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants.
+Open Source: https://github.com/floorianmb/tidywise
+Commit: Add Tidywise to File Organization Tools (#5049)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196</description>
+      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Tidywise<br/>Description: Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants.<br/>Open Source: https://github.com/floorianmb/tidywise<br/>Commit: Add Tidywise to File Organization Tools (#5049)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2dc7973dc0635da4a6afd6f61a39ad69ed335196]]></content:encoded>
+    </item>
     <item>
       <title>AppuBot</title>
       <link>https://appubot.com</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/baseguard/hangar
 Commit: Add Hangar to Virtualization (#4814)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
       <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Hangar<br/>Description: Runs AI coding agents in macOS, Linux or Windows virtual machines, with allow-listed network access and snapshots.<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Ebb</title>
-      <link>https://github.com/ege-arhan/ebb</link>
-      <guid isPermaLink="false">1c1a4036aa288be1509c5dc8c2bb517bddcf83ba:Ebb</guid>
-      <pubDate>Sat, 21 Nov 2026 10:10:52 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Ebb
-Description: Open-source disk cleaner and AI-storage viewer for macOS, Windows and Linux that plans a cleanup you can read, moves removals to the Trash with a 90-day undo journal, and lets an MCP-capable AI client help without ever deleting on its own.
-Open Source: https://github.com/ege-arhan/ebb
-Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Ebb<br/>Description: Open-source disk cleaner and AI-storage viewer for macOS, Windows and Linux that plans a cleanup you can read, moves removals to the Trash with a 90-day undo journal, and lets an MCP-capable AI client help without ever deleting on its own.<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
     </item>
   </channel>
 </rss>
