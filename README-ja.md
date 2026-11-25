@@ -983,6 +983,7 @@ Awesome Mac
 * [Jan](https://jan.ai/) - コンピューター上で完全にオフラインで動作するChatGPTのオープンソース代替。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [JoeBro](https://joebro.pages.dev) - コーディングエージェント（Claude Code、Codex、OpenCode）向けのネイティブSwiftUIワークスペース。ファイルを横に開いたまま、MCPによる共有メモリ、夜間タスク、ローカルまたはAPIモデルに対応。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kapitsa](https://github.com/nace-ai/kapitsa) - ネイティブの Metal カーネルと Neural Engine で動く Apple シリコン向けのオープンソース LLM 推論エンジンで、OpenAI・Anthropic 互換 API とワンコマンドで起動するローカルのコーディングエージェントを備える。 [![Open-Source Software][OSS Icon]](https://github.com/nace-ai/kapitsa) ![Freeware][Freeware Icon]
+* [King AI](https://usekingai.com) - 人間がコンピューターでできることなら何でもこなすAIエージェント。1文で頼めば、完成した成果物が返ってきます。招待制ベータ。
 * [kwant](https://kwant.si) - 1つのRustバイナリで動くセルフホストのAIボットチーム。スペース、ローカルモデル、引き継ぎ、承認に対応。 [![Open-Source Software][OSS Icon]](https://github.com/alexsergivan/kwant) ![Freeware][Freeware Icon]
 * [Linggen](https://linggen.dev) - 音楽、お金、健康、遊びを見守るローカルファーストの個人向けAIアシスタント。すべてにわたって1つの記憶を共有し、選んだモデルでMac上で動作します。 [![Open-Source Software][OSS Icon]](https://github.com/linggen/linggen)
 * [LingShu](https://royzhao1991.github.io/LingShu/) - オープンソースでモデル非依存のmacOSエージェント。検証済みのコード、文書、スライド、コンピュータ操作を提供します。 [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]

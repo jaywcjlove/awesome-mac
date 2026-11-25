@@ -736,6 +736,7 @@ Awesome Mac
 * [Jan](https://jan.ai/) - 开源的 ChatGPT 替代方案，可完全离线在你的电脑上运行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [JoeBro](https://joebro.pages.dev) - 面向编码智能体（Claude Code、Codex、OpenCode）的原生 SwiftUI 工作区，文件在旁边打开，支持通过 MCP 共享记忆、夜间任务，以及本地或 API 模型。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kapitsa](https://github.com/nace-ai/kapitsa) - 开源的 Apple 芯片大语言模型推理引擎，基于原生 Metal 内核与神经网络引擎，提供 OpenAI 和 Anthropic 兼容 API，并可一条命令启动本地编码智能体。 [![Open-Source Software][OSS Icon]](https://github.com/nace-ai/kapitsa) ![Freeware][Freeware Icon]
+* [King AI](https://usekingai.com) - 能完成人类在电脑上所做任何事的 AI 智能体：用一句话描述任务，交付完成的成果。仅限受邀内测。
 * [kwant](https://kwant.si) - 自托管的 AI 机器人团队，以一个 Rust 二进制运行，支持空间、本地模型、交接与审批。 [![Open-Source Software][OSS Icon]](https://github.com/alexsergivan/kwant) ![Freeware][Freeware Icon]
 * [Linggen](https://linggen.dev) - 本地优先的个人 AI 助手，照看音乐、财务、健康和游戏，并在这些领域间共享同一份记忆，在你的 Mac 上使用你选择的模型运行。 [![Open-Source Software][OSS Icon]](https://github.com/linggen/linggen)
 * [LingShu](https://royzhao1991.github.io/LingShu/) - 开源、主脑可替换的 macOS Agent，可交付经验证的代码、文档、幻灯片和电脑操作。 [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
