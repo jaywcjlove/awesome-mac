@@ -2032,6 +2032,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [OnyX](https://www.titanium-software.fr/en/onyx.html) - System maintenance utility for cleanup, verification, and hidden settings. ![Freeware][Freeware Icon]
 * [PowerLock](https://github.com/pandengyao/PowerLock) - Keeps your Mac unlocked and awake with the lid closed while on AC power, and restores normal sleep on battery. [![Open-Source Software][OSS Icon]](https://github.com/pandengyao/PowerLock) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
+* [SafeNTFS](https://safentfs.clideck.com/en/) - Adds Finder write access to supported external NTFS drives without reformatting. [![App Store][app-store Icon]](https://apps.apple.com/us/app/safentfs-ntfs-driver/id6817444498) ![Native App][Native Icon]
 * [stats](https://github.com/exelban/stats) - free Mac system monitor for the menubar. [![Open-Source Software][OSS Icon]](https://github.com/exelban/stats)
 * [Sensei](https://sensei.app/) - Performance toolkit for monitoring, cleanup, and hardware diagnostics.
 * [SiliconScope](https://siliconscope.calidalab.ai) - Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown — the chip-level signals Activity Monitor doesn't show. [![Open-Source Software][OSS Icon]](https://github.com/kennss/SiliconScope) ![Freeware][Freeware Icon]
