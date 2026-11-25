@@ -1085,6 +1085,7 @@ Awesome Mac
 * [Translatium](https://translatium.app) - 100개 이상의 언어로 텍스트와 이미지를 번역하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 화면 영역 캡처 또는 텍스트 선택으로 즉시 번역하는 온디바이스 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [SwaprTrans](https://linrol.github.io/swapr-trans/) - 스페이스바로 선택 텍스트를 번역하고 Enter로 그 자리에서 바로 덮어쓰기 번역하는 초경량(<2MB) 네이티브 메뉴바 도구. Apple 온디바이스 모델 지원. [![Open-Source Software][OSS Icon]](https://github.com/linrol/swapr-trans) ![Freeware][Freeware Icon]
+* [Typeferry](https://typeferry.com/) - 채팅 앱에서 입력하는 동안 번역해 주는 메뉴 막대 앱. 보내기 전에 확인할 수 있는 역번역 포함. [![App Store][app-store Icon]](https://apps.apple.com/app/id6833839641?platform=mac)
 
 ## 교육
 
