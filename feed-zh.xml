@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 03:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:22:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VYSHYVKA BAR</title>
+      <link>https://sapio-sat.github.io/vyshyvka-bar/</link>
+      <guid isPermaLink="false">90e7e6e9ea3b4bccd83792749adbac08eada9b79:VYSHYVKA BAR</guid>
+      <pubDate>Wed, 25 Nov 2026 04:22:33 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: VYSHYVKA BAR
+Description: 开源 Touch Bar 替代工具，带有动态乌克兰刺绣、天气预报和系统控制。
+Website: https://sapio-sat.github.io/vyshyvka-bar/
+Open Source: https://github.com/sapio-sat/vyshyvka-bar
+Commit: Add VYSHYVKA BAR to Productivity (#5005)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: VYSHYVKA BAR<br/>Description: 开源 Touch Bar 替代工具，带有动态乌克兰刺绣、天气预报和系统控制。<br/>Website: https://sapio-sat.github.io/vyshyvka-bar/<br/>Open Source: https://github.com/sapio-sat/vyshyvka-bar<br/>Commit: Add VYSHYVKA BAR to Productivity (#5005)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79]]></content:encoded>
+    </item>
     <item>
       <title>CutVoke</title>
       <link>https://github.com/frankShan001/CutVoke</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/ilhamnadhif/ternarycode
 Commit: Add TernaryCode to Terminal Apps (#4770)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: TernaryCode<br/>Description: 在一个窗口里管理多个项目及其中编程代理的终端工作区，会显示哪个代理正在等你。<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
-    </item>
-    <item>
-      <title>SIAM.AI GPU Watch</title>
-      <link>https://github.com/siamaicorp/GPUWatch</link>
-      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
-      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: SIAM.AI GPU Watch
-Description: 通过 SSH 监控多台远程服务器上 NVIDIA GPU 的菜单栏应用。
-Open Source: https://github.com/siamaicorp/GPUWatch
-Commit: Add SIAM.AI GPU Watch (#4772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: SIAM.AI GPU Watch<br/>Description: 通过 SSH 监控多台远程服务器上 NVIDIA GPU 的菜单栏应用。<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
     </item>
   </channel>
 </rss>
