@@ -328,6 +328,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Workspace de escrita com IA, de código aberto, para organizar personagens, construção de mundo, esboços, capítulos, revisão e edição em um único projeto de romance. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - Aplicativo de escrita de romances de código aberto e local-first, com capítulos, esboço, personagens e tramas, além de um agente de IA que pode ler e editar todo o projeto. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
+* [Meboki](https://meboki.com) - Corretor gramatical de código aberto que executa um modelo local no seu Mac e corrige textos em qualquer aplicativo. [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - Um aplicativo de escrita divertido e minimalista que lembra uma máquina de escrever de verdade. ![Freeware][Freeware Icon]
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Editor de texto simples de código aberto para escrever romances, com sintaxe mínima semelhante ao Markdown. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
@@ -1785,6 +1786,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [AltTab](https://alt-tab-macos.netlify.app) - Alternador de janelas de código aberto com prévias das janelas. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](https://ianyh.com/amethyst/) - Gerenciador de janelas em mosaico. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * [Assignee](https://assignee.app) - Alternador de aplicativos simples e instantâneo.
+* [AutoWindow](https://zein.nl/autowindow/) - App de código aberto na barra de menus que restaura a disposição das janelas por conjunto de monitores e por mesa do Mission Control. [![Open-Source Software][OSS Icon]](https://github.com/Carpe-Futurum/autowindow) ![Freeware][Freeware Icon]
 * [Convoker](https://github.com/varie-ai/convoker) - Digite o nome de um app, pressione Enter e todas as suas janelas aparecem para você. [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - Alternador de apps para trocar de janela e de app com mais rapidez em vários monitores.
 * [Dimsum](https://github.com/nshi/dimsum) - App minimalista na barra de menus que escurece as janelas inativas para destacar a janela em foco. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]

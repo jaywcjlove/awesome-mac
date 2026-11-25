@@ -5,9 +5,83 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Meboki</title>
+      <link>https://meboki.com</link>
+      <guid isPermaLink="false">5a28cfac6bd3315bfe10aeacc0d992144e5dba99:Meboki</guid>
+      <pubDate>Wed, 25 Nov 2026 05:38:17 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 쓰기</category>
+      <description>Category: 읽기 및 쓰기 도구 / 쓰기
+App: Meboki
+Description: Mac에서 로컬 모델을 실행해 모든 앱의 텍스트를 고쳐 주는 오픈 소스 문법 검사기.
+Website: https://meboki.com
+Open Source: https://github.com/mebokihq/meboki
+Commit: Add Meboki to Writing (#5028)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: Meboki<br/>Description: Mac에서 로컬 모델을 실행해 모든 앱의 텍스트를 고쳐 주는 오픈 소스 문법 검사기.<br/>Website: https://meboki.com<br/>Open Source: https://github.com/mebokihq/meboki<br/>Commit: Add Meboki to Writing (#5028)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99]]></content:encoded>
+    </item>
+    <item>
+      <title>AutoWindow</title>
+      <link>https://zein.nl/autowindow/</link>
+      <guid isPermaLink="false">107554bd111de21b441ab55e45685b332ea6f1af:AutoWindow</guid>
+      <pubDate>Wed, 25 Nov 2026 05:09:56 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: AutoWindow
+Description: 모니터 구성과 Mission Control 데스크탑별로 창 배치를 복원하는 오픈 소스 메뉴 막대 앱.
+Website: https://zein.nl/autowindow/
+Open Source: https://github.com/Carpe-Futurum/autowindow
+Commit: Add AutoWindow to Window Management (#5026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: AutoWindow<br/>Description: 모니터 구성과 Mission Control 데스크탑별로 창 배치를 복원하는 오픈 소스 메뉴 막대 앱.<br/>Website: https://zein.nl/autowindow/<br/>Open Source: https://github.com/Carpe-Futurum/autowindow<br/>Commit: Add AutoWindow to Window Management (#5026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af]]></content:encoded>
+    </item>
+    <item>
+      <title>CablePeek</title>
+      <link>https://cablepeek.pages.dev</link>
+      <guid isPermaLink="false">8f39a04c8d607679441747ad84b700f1188df66f:CablePeek</guid>
+      <pubDate>Wed, 25 Nov 2026 04:40:22 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: CablePeek
+Description: 연결 시 USB-C 포트 옆 화면 가장자리에 링크 속도를 표시하고, 마우스를 올려 드라이브를 꺼낼 수 있는 도구.
+Website: https://cablepeek.pages.dev
+Open Source: https://github.com/diegobruegger-prog/cablepeek
+Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: CablePeek<br/>Description: 연결 시 USB-C 포트 옆 화면 가장자리에 링크 속도를 표시하고, 마우스를 올려 드라이브를 꺼낼 수 있는 도구.<br/>Website: https://cablepeek.pages.dev<br/>Open Source: https://github.com/diegobruegger-prog/cablepeek<br/>Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f]]></content:encoded>
+    </item>
+    <item>
+      <title>VYSHYVKA BAR</title>
+      <link>https://sapio-sat.github.io/vyshyvka-bar/</link>
+      <guid isPermaLink="false">90e7e6e9ea3b4bccd83792749adbac08eada9b79:VYSHYVKA BAR</guid>
+      <pubDate>Wed, 25 Nov 2026 04:22:33 GMT</pubDate>
+      <category>유틸리티 / 생산성</category>
+      <description>Category: 유틸리티 / 생산성
+App: VYSHYVKA BAR
+Description: 움직이는 우크라이나 자수, 날씨 예보, 시스템 제어를 갖춘 오픈 소스 Touch Bar 대체 도구.
+Website: https://sapio-sat.github.io/vyshyvka-bar/
+Open Source: https://github.com/sapio-sat/vyshyvka-bar
+Commit: Add VYSHYVKA BAR to Productivity (#5005)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: VYSHYVKA BAR<br/>Description: 움직이는 우크라이나 자수, 날씨 예보, 시스템 제어를 갖춘 오픈 소스 Touch Bar 대체 도구.<br/>Website: https://sapio-sat.github.io/vyshyvka-bar/<br/>Open Source: https://github.com/sapio-sat/vyshyvka-bar<br/>Commit: Add VYSHYVKA BAR to Productivity (#5005)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79]]></content:encoded>
+    </item>
+    <item>
+      <title>CutVoke</title>
+      <link>https://github.com/frankShan001/CutVoke</link>
+      <guid isPermaLink="false">3268e8dae46024b5d880a7f1f41b7c75a0686b63:CutVoke</guid>
+      <pubDate>Wed, 25 Nov 2026 03:56:45 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: CutVoke
+Description: MCP 서버가 내장된 오픈소스 로컬 우선 동영상 편집기로, AI 에이전트와 같은 멀티트랙 타임라인을 함께 편집합니다.
+Open Source: https://github.com/frankShan001/CutVoke
+Commit: Add CutVoke to Audio and Video Tools (#5019)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: CutVoke<br/>Description: MCP 서버가 내장된 오픈소스 로컬 우선 동영상 편집기로, AI 에이전트와 같은 멀티트랙 타임라인을 함께 편집합니다.<br/>Open Source: https://github.com/frankShan001/CutVoke<br/>Commit: Add CutVoke to Audio and Video Tools (#5019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63]]></content:encoded>
+    </item>
     <item>
       <title>Cue</title>
       <link>https://heycue.io</link>
@@ -664,79 +738,6 @@ Open Source: https://github.com/michalstrnadel/AgentBar
 Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AgentBar<br/>Description: 메뉴 바와 노치에 AI 코딩 에이전트(Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI)의 실시간 상태를 보여주고, Claude Code·Codex·Copilot의 권한 요청을 한 번의 클릭으로 허용하거나 거부하는 앱.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
-    </item>
-    <item>
-      <title>HyprMac</title>
-      <link>https://hyprmac.app</link>
-      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: HyprMac
-Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.
-Website: https://hyprmac.app
-Open Source: https://github.com/zacharytgray/HyprMac
-Commit: Add HyprMac (#4802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: HyprMac<br/>Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
-    </item>
-    <item>
-      <title>TernaryCode</title>
-      <link>https://ilhamnadhif.github.io/ternarycode/</link>
-      <guid isPermaLink="false">ead4d61ddad526d8a45ff814e440d7f7dfef09f9:TernaryCode</guid>
-      <pubDate>Fri, 20 Nov 2026 13:12:45 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: TernaryCode
-Description: 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간.
-Website: https://ilhamnadhif.github.io/ternarycode/
-Open Source: https://github.com/ilhamnadhif/ternarycode
-Commit: Add TernaryCode to Terminal Apps (#4770)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: TernaryCode<br/>Description: 여러 프로젝트와 그 안의 코딩 에이전트를 한곳에서 다루며 어떤 에이전트가 입력을 기다리는지 보여 주는 터미널 작업 공간.<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
-    </item>
-    <item>
-      <title>SIAM.AI GPU Watch</title>
-      <link>https://github.com/siamaicorp/GPUWatch</link>
-      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
-      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: SIAM.AI GPU Watch
-Description: SSH를 통해 여러 원격 서버의 NVIDIA GPU를 모니터링하는 메뉴 막대 앱.
-Open Source: https://github.com/siamaicorp/GPUWatch
-Commit: Add SIAM.AI GPU Watch (#4772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: SIAM.AI GPU Watch<br/>Description: SSH를 통해 여러 원격 서버의 NVIDIA GPU를 모니터링하는 메뉴 막대 앱.<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
-    </item>
-    <item>
-      <title>unbraid</title>
-      <link>https://unbraid.app</link>
-      <guid isPermaLink="false">77306449f4008214b35487d471461c1d7615ea79:unbraid</guid>
-      <pubDate>Fri, 20 Nov 2026 12:55:41 GMT</pubDate>
-      <category>프록시 및 VPN 도구</category>
-      <description>Category: 프록시 및 VPN 도구
-App: unbraid
-Description: 앱별 VPN 클라이언트. 앱마다 다른 출구를 쓰거나 VPN을 거치지 않게 할 수 있고, 그동안 Tailscale은 계속 연결됩니다.
-Website: https://unbraid.app
-Open Source: https://github.com/quiet-crafts/unbraid-mac
-Commit: Add unbraid to Proxy and VPN Tools (#4798)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
-      <content:encoded><![CDATA[Category: 프록시 및 VPN 도구<br/>App: unbraid<br/>Description: 앱별 VPN 클라이언트. 앱마다 다른 출구를 쓰거나 VPN을 거치지 않게 할 수 있고, 그동안 Tailscale은 계속 연결됩니다.<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
-    </item>
-    <item>
-      <title>Tietie</title>
-      <link>https://github.com/KLWSharpe/tietie</link>
-      <guid isPermaLink="false">9f97b4fd262167de7615787424bce94f435f738c:Tietie</guid>
-      <pubDate>Fri, 20 Nov 2026 12:51:56 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: Tietie
-Description: 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어).
-Open Source: https://github.com/KLWSharpe/tietie
-Commit: Add Tietie to Clipboard Tools (#4795)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: Tietie<br/>Description: 숫자 키로 바로 붙여넣고 이미지 속 텍스트도 검색할 수 있는 Mac·Windows용 오픈소스 클립보드 기록 도구(인터페이스는 번체 중국어).<br/>Open Source: https://github.com/KLWSharpe/tietie<br/>Commit: Add Tietie to Clipboard Tools (#4795)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9f97b4fd262167de7615787424bce94f435f738c]]></content:encoded>
     </item>
   </channel>
 </rss>

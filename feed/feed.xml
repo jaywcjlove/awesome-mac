@@ -5,9 +5,83 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Meboki</title>
+      <link>https://meboki.com</link>
+      <guid isPermaLink="false">5a28cfac6bd3315bfe10aeacc0d992144e5dba99:Meboki</guid>
+      <pubDate>Wed, 25 Nov 2026 05:38:17 GMT</pubDate>
+      <category>Reading and Writing Tools / Writing</category>
+      <description>Category: Reading and Writing Tools / Writing
+App: Meboki
+Description: Open-source grammar checker that runs a local model on your Mac and fixes text in any app.
+Website: https://meboki.com
+Open Source: https://github.com/mebokihq/meboki
+Commit: Add Meboki to Writing (#5028)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Meboki<br/>Description: Open-source grammar checker that runs a local model on your Mac and fixes text in any app.<br/>Website: https://meboki.com<br/>Open Source: https://github.com/mebokihq/meboki<br/>Commit: Add Meboki to Writing (#5028)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99]]></content:encoded>
+    </item>
+    <item>
+      <title>AutoWindow</title>
+      <link>https://zein.nl/autowindow/</link>
+      <guid isPermaLink="false">107554bd111de21b441ab55e45685b332ea6f1af:AutoWindow</guid>
+      <pubDate>Wed, 25 Nov 2026 05:09:56 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: AutoWindow
+Description: Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop.
+Website: https://zein.nl/autowindow/
+Open Source: https://github.com/Carpe-Futurum/autowindow
+Commit: Add AutoWindow to Window Management (#5026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: AutoWindow<br/>Description: Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop.<br/>Website: https://zein.nl/autowindow/<br/>Open Source: https://github.com/Carpe-Futurum/autowindow<br/>Commit: Add AutoWindow to Window Management (#5026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af]]></content:encoded>
+    </item>
+    <item>
+      <title>CablePeek</title>
+      <link>https://cablepeek.pages.dev</link>
+      <guid isPermaLink="false">8f39a04c8d607679441747ad84b700f1188df66f:CablePeek</guid>
+      <pubDate>Wed, 25 Nov 2026 04:40:22 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: CablePeek
+Description: Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover.
+Website: https://cablepeek.pages.dev
+Open Source: https://github.com/diegobruegger-prog/cablepeek
+Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: CablePeek<br/>Description: Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover.<br/>Website: https://cablepeek.pages.dev<br/>Open Source: https://github.com/diegobruegger-prog/cablepeek<br/>Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f]]></content:encoded>
+    </item>
+    <item>
+      <title>VYSHYVKA BAR</title>
+      <link>https://sapio-sat.github.io/vyshyvka-bar/</link>
+      <guid isPermaLink="false">90e7e6e9ea3b4bccd83792749adbac08eada9b79:VYSHYVKA BAR</guid>
+      <pubDate>Wed, 25 Nov 2026 04:22:33 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: VYSHYVKA BAR
+Description: Open-source Touch Bar replacement with animated Ukrainian embroidery, weather forecast, and system controls.
+Website: https://sapio-sat.github.io/vyshyvka-bar/
+Open Source: https://github.com/sapio-sat/vyshyvka-bar
+Commit: Add VYSHYVKA BAR to Productivity (#5005)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: VYSHYVKA BAR<br/>Description: Open-source Touch Bar replacement with animated Ukrainian embroidery, weather forecast, and system controls.<br/>Website: https://sapio-sat.github.io/vyshyvka-bar/<br/>Open Source: https://github.com/sapio-sat/vyshyvka-bar<br/>Commit: Add VYSHYVKA BAR to Productivity (#5005)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/90e7e6e9ea3b4bccd83792749adbac08eada9b79]]></content:encoded>
+    </item>
+    <item>
+      <title>CutVoke</title>
+      <link>https://github.com/frankShan001/CutVoke</link>
+      <guid isPermaLink="false">3268e8dae46024b5d880a7f1f41b7c75a0686b63:CutVoke</guid>
+      <pubDate>Wed, 25 Nov 2026 03:56:45 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: CutVoke
+Description: Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline.
+Open Source: https://github.com/frankShan001/CutVoke
+Commit: Add CutVoke to Audio and Video Tools (#5019)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: CutVoke<br/>Description: Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline.<br/>Open Source: https://github.com/frankShan001/CutVoke<br/>Commit: Add CutVoke to Audio and Video Tools (#5019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63]]></content:encoded>
+    </item>
     <item>
       <title>Cue</title>
       <link>https://heycue.io</link>
@@ -663,80 +737,6 @@ Open Source: https://github.com/ixiehao/ezNTFS
 Commit: Add ezNTFS (#4841)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: ezNTFS<br/>Description: Mount external NTFS drives for read and write access with macFUSE and NTFS-3G.<br/>Website: https://ixiehao.github.io/ezNTFS/<br/>Open Source: https://github.com/ixiehao/ezNTFS<br/>Commit: Add ezNTFS (#4841)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98]]></content:encoded>
-    </item>
-    <item>
-      <title>Typeset</title>
-      <link>https://typeset.md</link>
-      <guid isPermaLink="false">bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8:Typeset</guid>
-      <pubDate>Sat, 21 Nov 2026 08:45:55 GMT</pubDate>
-      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Typeset
-Description: Native macOS Markdown reader that live-reloads as files change, with Finder Quick Look.
-Website: https://typeset.md
-Open Source: https://github.com/deeflect/typeset
-Commit: Add Typeset (#4837)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Typeset<br/>Description: Native macOS Markdown reader that live-reloads as files change, with Finder Quick Look.<br/>Website: https://typeset.md<br/>Open Source: https://github.com/deeflect/typeset<br/>Commit: Add Typeset (#4837)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bdd0cb7dc72e054b5ce800a9705c8bcaa31eadd8]]></content:encoded>
-    </item>
-    <item>
-      <title>Stelix</title>
-      <link>https://getstelix.com</link>
-      <guid isPermaLink="false">9c60af45cd21395fdf4c9f0befbd3f2182326855:Stelix</guid>
-      <pubDate>Sat, 21 Nov 2026 08:30:32 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: Stelix
-Description: Live stem separation for your Mac: splits what any app is playing into vocals, drums, bass and other in real time, so you can turn each one up or down or hear it alone, all on-device.
-Website: https://getstelix.com
-Open Source: https://github.com/stelix-app/stelix
-Commit: Add Stelix (#4836)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Stelix<br/>Description: Live stem separation for your Mac: splits what any app is playing into vocals, drums, bass and other in real time, so you can turn each one up or down or hear it alone, all on-device.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
-    </item>
-    <item>
-      <title>GravityNotch</title>
-      <link>https://adrielakak.github.io/GravityNotch/</link>
-      <guid isPermaLink="false">f5927d27411346a67f4218b374ae3e2cf270ef3a:GravityNotch</guid>
-      <pubDate>Sat, 21 Nov 2026 08:22:46 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: GravityNotch
-Description: Turns the MacBook notch into a Dynamic Island with system HUDs that work on macOS Tahoe, a lock screen player with synced lyrics, clipboard history and live Claude Code agent tracking.
-Website: https://adrielakak.github.io/GravityNotch/
-Open Source: https://github.com/adrielakak/GravityNotch
-Commit: Add GravityNotch to Menu Bar Tools (#4825)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: GravityNotch<br/>Description: Turns the MacBook notch into a Dynamic Island with system HUDs that work on macOS Tahoe, a lock screen player with synced lyrics, clipboard history and live Claude Code agent tracking.<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
-    </item>
-    <item>
-      <title>Linggen</title>
-      <link>https://linggen.dev</link>
-      <guid isPermaLink="false">d73c979fae73bf7b8f890618dbfa13c13577a63d:Linggen</guid>
-      <pubDate>Sat, 21 Nov 2026 08:10:40 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Linggen
-Description: Local-first personal AI assistant for music, money, health and play, with one memory across them, running on your Mac with the model you choose.
-Website: https://linggen.dev
-Open Source: https://github.com/linggen/linggen
-Commit: Add Linggen to AI Tools (#4824)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Linggen<br/>Description: Local-first personal AI assistant for music, money, health and play, with one memory across them, running on your Mac with the model you choose.<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
-    </item>
-    <item>
-      <title>AgentBar</title>
-      <link>https://github.com/michalstrnadel/AgentBar</link>
-      <guid isPermaLink="false">5aa430914ce127ff3b9c54a04f41ea38bc7206cc:AgentBar</guid>
-      <pubDate>Sat, 21 Nov 2026 07:28:18 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: AgentBar
-Description: Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI), with one-click Allow or Deny for Claude Code, Codex and Copilot permission requests.
-Open Source: https://github.com/michalstrnadel/AgentBar
-Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AgentBar<br/>Description: Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI), with one-click Allow or Deny for Claude Code, Codex and Copilot permission requests.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
     </item>
   </channel>
 </rss>

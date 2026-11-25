@@ -328,6 +328,7 @@ Awesome Mac
 
 * [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
+* [Meboki](https://meboki.com) - Mac 上でローカルモデルを動かし、どのアプリの文章でも修正できるオープンソースの文法チェッカー。 [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 本物のタイプライターのような感覚の楽しくミニマルなライティングアプリ。 ![Freeware][Freeware Icon]
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - 文章の書き換えと文法の修正ができ、Word・LaTeX・PDF ファイルも編集できるエディタ。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
@@ -1103,6 +1104,7 @@ Awesome Mac
 * [Camera Preview](https://sindresorhus.com/camera-preview) - Webカメラのプレビュー、写真撮影、鏡として使用。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1632827132?platform=mac)
 * [Carol](https://github.com/AnaghSharma/Carol) - macOS用のミニマルで美しい歌詞アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - 無料のオープンソースオーディオプレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622?platform=mac)
+* [CutVoke](https://github.com/frankShan001/CutVoke) - MCP サーバーを内蔵したオープンソースのローカルファースト動画編集ソフト。AI エージェントと同じマルチトラックタイムラインを編集できます。 [![Open-Source Software][OSS Icon]](https://github.com/frankShan001/CutVoke) ![Freeware][Freeware Icon]
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 無料のクロスプラットフォームビデオ編集、カラーグレーディング、ビデオエフェクト、オーディオ編集ソフトウェア。
 * [Elmedia Player](https://mac.eltima.com/media-player.html) - 幅広い音声・動画形式に対応するメディアプレーヤー。
 * [Fader](https://github.com/pantafive/fader) - アプリ別音量、ワンクリックの出力切り替え、Bluetoothヘッドホン操作に対応するメニューバー音量ミキサー。 [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
@@ -1509,6 +1511,7 @@ Awesome Mac
 * [Blink](https://github.com/megootronic/Blink) - メニューバーで実行中の開発サーバーと iOS シミュレータを見守る小さなロボット。ターミナルに戻らずにサーバーを再起動できる。 [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Boring Notch](https://theboring.name/) - MacBookのノッチを音楽とファイルコントロールセンターに変える。 [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 * [Bye AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - 実行中のプロセスを素早く表示・終了するためのミニマルなメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
+* [CablePeek](https://cablepeek.pages.dev) - 接続時にUSB-Cポート側の画面端にリンク速度を表示し、ホバーでドライブを取り出せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/diegobruegger-prog/cablepeek) ![Freeware][Freeware Icon]
 * [Daily Wallpaper](https://itsnajam.github.io/daily-wallpaper/) - Bing の今日の写真をデスクトップとロック画面の壁紙に設定するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/itsnajam/daily-wallpaper) ![Freeware][Freeware Icon]
 * [DayBar](https://wangchujiang.com/daybar/) - メニューバーにローカルの日付とリマインダーイベントを表示するアプリケーション。 [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447?platform=mac)
 * [Dato](https://sindresorhus.com/dato) - カレンダー、イベント、タイムゾーン付きのより良いメニューバー時計。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107?platform=mac)
@@ -1834,6 +1837,7 @@ Awesome Mac
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Google、iCloud、Outlook、Apple リマインダー、Canvas などの LMS の締め切り、Todoist、Asana、Trello をまとめて表示し、メニューバーから素早く追加できるデスクトップカレンダーウィジェット。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Velja](https://sindresorhus.com/velja) - 特定のブラウザやデスクトップアプリでリンクを開けるブラウザピッカー。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845?platform=mac)
 * [Volant](https://usevolant.com) - アプリ、ファイル、計算、メモ、クリップボード履歴、コーディングエージェントをまとめて扱える、プライバシー重視のオープンソースランチャー。 [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [VYSHYVKA BAR](https://sapio-sat.github.io/vyshyvka-bar/) - アニメーションするウクライナ刺繍、天気予報、システム操作を備えたオープンソースの Touch Bar 置き換えツール。 [![Open-Source Software][OSS Icon]](https://github.com/sapio-sat/vyshyvka-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Whytap](https://whytap.ai/) - 音声入力、会議メモ、デスクトップ AI エージェントを Mac のノッチから使える生産性ツール。 [![Open-Source Software][OSS Icon]](https://github.com/AbsoluteMode/whytap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Wox](https://wox-launcher.github.io/Wox/) - 高速なローカル検索とプラグイン拡張を備えたオープンソースのクロスプラットフォームランチャー。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 画面上のレイアウトやグラフィックを計測・検査するツールセット。
@@ -1846,6 +1850,7 @@ Awesome Mac
 * [AltTab](https://alt-tab-macos.netlify.app) - ウィンドウプレビュー付きのオープンソースウィンドウスイッチャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/) - タイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
 * [Assignee](https://assignee.app) - シンプルで即座に切り替えられるアプリスイッチャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8&platform=mac)
+* [AutoWindow](https://zein.nl/autowindow/) - モニター構成と Mission Control のデスクトップごとにウィンドウ配置を復元する、オープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Carpe-Futurum/autowindow) ![Freeware][Freeware Icon]
 * [Convoker](https://github.com/varie-ai/convoker) - アプリ名を入力してエンターキーを押すだけで、そのアプリのすべてのウィンドウを呼び出せます。 [![Open-Source Software][OSS Icon]](https://github.com/varie-ai/convoker) ![Freeware][Freeware Icon]
 * [contexts](https://contexts.co/) - マルチディスプレイ環境でアプリやウィンドウを素早く切り替えるツール。
 * [Dimsum](https://github.com/nshi/dimsum) - 非アクティブなウィンドウを暗くしてフォーカス中のウィンドウを際立たせる、ミニマルなメニューバーユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
