@@ -940,6 +940,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Godmode Bot](https://usegodmode.com) - Coworker de IA de código aberto que transforma sua assinatura do Claude em agentes persistentes que fazem trabalho no computador em seus próprios navegadores, com os seus logins.
 * [GroAsk](https://groask.com) - Lançador na barra de menu que envia o texto selecionado para assistentes de IA e agentes CLI.
 * [Grux](https://gruxai.com) - Assistente na barra de menu que lê sua janela ativa e acessa e-mail, calendário, notas e arquivos locais, usando sua própria chave de API ou um modelo local. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Hedgehog](https://askhedgehog.com) - Agente de IA para desktop que roda no seu plano do Claude, guarda uma memória para cada projeto e deixa um chat iniciar e conduzir os outros.
 * [RecurseChat](https://recurse.chat) - App de chat com IA local-first e fluxos de trabalho personalizáveis.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Alterne o app do Claude entre contas, mantenha o histórico do Claude Code em todas elas e veja os limites de 5 horas e semanais de cada conta. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - Assistente de IA para tarefas na web e nas suas ferramentas de escritório, com você no controle.
