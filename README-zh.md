@@ -616,6 +616,7 @@ Awesome Mac
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - 用于制作演示、教程和产品视频的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内置编辑器的录屏工具。 ![Open-Source Software][OSS Icon](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Retina](https://blendpixel.com/products/retina) - 支持自动电影式缩放、平滑光标动画和 4K 导出的录屏工具。 ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 可自动生成动态效果的录屏工具。
 * [ScreenKite](https://www.screenkite.com/) - 原生屏幕录制和编辑工具，支持自动缩放、AI 增强、设备模型和提词器。 ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 一款可在几分钟内制作精美录屏视频的工具。
@@ -1103,6 +1104,7 @@ Awesome Mac
 * [Pinto Notes](https://pintonotes.com/) - 开源笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。 [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Quiver](http://happenapps.com/#quiver) - 程序猿的笔记本。
 * [Revu](https://revu.cards/) - 本地优先的间隔重复学习应用，支持 FSRS 排程和 Anki 导入。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
+* [Soya](https://blendpixel.com/products/soya) - 在设备端转写会议、无需机器人加入通话，将随手笔记整理成包含决定和待办事项的纪要。
 * [Stik](https://github.com/0xMassi/stik_app) - 支持全局快捷键和 AI 语义搜索的快速 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [VNote](https://docs.vnote.fun) - 带优秀编辑体验的开源 Markdown 笔记应用。 [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 * [Zettel](https://github.com/AlexW00/Zettel) - 极简无干扰笔记应用，支持 Markdown 和标签整理。 [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
