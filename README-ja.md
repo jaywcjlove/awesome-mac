@@ -1505,6 +1505,7 @@ Awesome Mac
 * [Out to Sea](https://sea.cwdx.md) - メニューバーの休憩リマインダー。休憩の時間になるとリアルタイムに描画された海が画面に広がり、遠くを見るよう促し、1分間のゆっくりした呼吸を案内します。 [![Open-Source Software][OSS Icon]](https://github.com/cwdx/out-to-sea) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - Claude Code・Codex・OpenCode・piのセッションをまとめて扱うキーボード操作中心のMacBookノッチアプリで、各セッションの状況確認、ノッチからの返答、該当するウィンドウやターミナルペインへの移動ができる。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - MacBookのノッチを、VPN接続、各ブラウザのタブグループ、再生中のメディア、カレンダー、オンデバイス翻訳、クリップボード履歴をまとめたコントロールセンターに変える。 [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Relaycat](https://github.com/krutikJain/relaycat) - 複数の Claude デスクトップアカウントを使い分け、ワンクリックで切り替えてチャットを引き継ぎ、各アカウントのセッションと週間の使用上限を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/krutikJain/relaycat) ![Freeware][Freeware Icon]
 * [Roomie](https://lesheess.github.io/small-living-things/) - メニューバーに住み、操作に反応しながらノッチから飛び出して、目の休憩や散歩、就寝を促してくれる一対のカートゥーンの目。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SaneBar](https://sanebar.com) - 非表示ゾーンと自動化を備えたプライバシー重視のメニューバー管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - ホットキーと自動化でBluetoothデバイスを管理するメニューバーツール。 [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
