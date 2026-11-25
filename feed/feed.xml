@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:56:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CutVoke</title>
+      <link>https://github.com/frankShan001/CutVoke</link>
+      <guid isPermaLink="false">3268e8dae46024b5d880a7f1f41b7c75a0686b63:CutVoke</guid>
+      <pubDate>Wed, 25 Nov 2026 03:56:45 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: CutVoke
+Description: Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline.
+Open Source: https://github.com/frankShan001/CutVoke
+Commit: Add CutVoke to Audio and Video Tools (#5019)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: CutVoke<br/>Description: Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline.<br/>Open Source: https://github.com/frankShan001/CutVoke<br/>Commit: Add CutVoke to Audio and Video Tools (#5019)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3268e8dae46024b5d880a7f1f41b7c75a0686b63]]></content:encoded>
+    </item>
     <item>
       <title>Cue</title>
       <link>https://heycue.io</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/linggen/linggen
 Commit: Add Linggen to AI Tools (#4824)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Linggen<br/>Description: Local-first personal AI assistant for music, money, health and play, with one memory across them, running on your Mac with the model you choose.<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
-    </item>
-    <item>
-      <title>AgentBar</title>
-      <link>https://github.com/michalstrnadel/AgentBar</link>
-      <guid isPermaLink="false">5aa430914ce127ff3b9c54a04f41ea38bc7206cc:AgentBar</guid>
-      <pubDate>Sat, 21 Nov 2026 07:28:18 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: AgentBar
-Description: Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI), with one-click Allow or Deny for Claude Code, Codex and Copilot permission requests.
-Open Source: https://github.com/michalstrnadel/AgentBar
-Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: AgentBar<br/>Description: Menu bar and notch status for AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI), with one-click Allow or Deny for Claude Code, Codex and Copilot permission requests.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
     </item>
   </channel>
 </rss>
