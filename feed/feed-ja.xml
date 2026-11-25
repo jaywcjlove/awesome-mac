@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:40:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CablePeek</title>
+      <link>https://cablepeek.pages.dev</link>
+      <guid isPermaLink="false">8f39a04c8d607679441747ad84b700f1188df66f:CablePeek</guid>
+      <pubDate>Wed, 25 Nov 2026 04:40:22 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: CablePeek
+Description: 接続時にUSB-Cポート側の画面端にリンク速度を表示し、ホバーでドライブを取り出せるツール。
+Website: https://cablepeek.pages.dev
+Open Source: https://github.com/diegobruegger-prog/cablepeek
+Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: CablePeek<br/>Description: 接続時にUSB-Cポート側の画面端にリンク速度を表示し、ホバーでドライブを取り出せるツール。<br/>Website: https://cablepeek.pages.dev<br/>Open Source: https://github.com/diegobruegger-prog/cablepeek<br/>Commit: Add CablePeek to Menu Bar Tools (EN/ZH/JA/KO) (#5020)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8f39a04c8d607679441747ad84b700f1188df66f]]></content:encoded>
+    </item>
     <item>
       <title>VYSHYVKA BAR</title>
       <link>https://sapio-sat.github.io/vyshyvka-bar/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/siamaicorp/GPUWatch
 Commit: Add SIAM.AI GPU Watch (#4772)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: SIAM.AI GPU Watch<br/>Description: SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
-    </item>
-    <item>
-      <title>unbraid</title>
-      <link>https://unbraid.app</link>
-      <guid isPermaLink="false">77306449f4008214b35487d471461c1d7615ea79:unbraid</guid>
-      <pubDate>Fri, 20 Nov 2026 12:55:41 GMT</pubDate>
-      <category>プロキシ・VPNツール</category>
-      <description>Category: プロキシ・VPNツール
-App: unbraid
-Description: アプリごとの VPN クライアント。アプリごとに出口を選んだり VPN を通さないようにしたりでき、その間も Tailscale は接続したままです。
-Website: https://unbraid.app
-Open Source: https://github.com/quiet-crafts/unbraid-mac
-Commit: Add unbraid to Proxy and VPN Tools (#4798)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79</description>
-      <content:encoded><![CDATA[Category: プロキシ・VPNツール<br/>App: unbraid<br/>Description: アプリごとの VPN クライアント。アプリごとに出口を選んだり VPN を通さないようにしたりでき、その間も Tailscale は接続したままです。<br/>Website: https://unbraid.app<br/>Open Source: https://github.com/quiet-crafts/unbraid-mac<br/>Commit: Add unbraid to Proxy and VPN Tools (#4798)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/77306449f4008214b35487d471461c1d7615ea79]]></content:encoded>
     </item>
   </channel>
 </rss>
