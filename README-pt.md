@@ -1634,6 +1634,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - Caixa de ferramentas offline que ajuda desenvolvedores em tarefas do dia a dia. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DevUtils.app](https://devutils.com/) - Caixa de ferramentas para desenvolvedores, para formatar, converter e depurar dados do dia a dia. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - Adiciona marcas d'água à área de trabalho, ideal para gravar vídeos. [![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
+* [Display²](https://display2.app/en/) - Use um iMac 5K de 27 polegadas como tela, câmera e microfone para um Mac com Apple Silicon, com um único cabo Thunderbolt.
 * [Etcher](https://www.balena.io/etcher/) - Grave imagens de SO em cartões SD e pendrives USB com segurança e facilidade. [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
 * [Equinox](https://github.com/rlxone/Equinox) - Crie papéis de parede dinâmicos para macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](https://www.httrack.com) - Ferramenta útil para baixar um site inteiro e navegar offline. ![Freeware][Freeware Icon]
