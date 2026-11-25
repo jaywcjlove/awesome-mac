@@ -376,6 +376,7 @@ Awesome Mac
 
 ### IDE / 코드 편집기
 
+* [Alook](https://alook.ai/) - 사람과 Claude Code, Codex 등의 코딩 에이전트가 공유 방에서 협업하는 오픈소스 로컬 우선 그룹 채팅. [![Open-Source Software][OSS Icon]](https://github.com/alookai/alook) ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Android의 공식 IDE로 IntelliJ IDEA를 기반으로 함. ![Freeware][Freeware Icon]
 * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS 개발을 위한 스마트 IDE.
 * [Aptana](http://www.aptana.com/) - 강력한 오픈 소스 웹 개발 IDE. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/aptana/studio3)

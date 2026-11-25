@@ -403,6 +403,7 @@ Awesome Mac
 
 ### IDE
 
+* [Alook](https://alook.ai/) - Claude Code や Codex などのコーディングエージェントと人が共有ルームで協働できる、オープンソースのローカルファーストなグループチャット。 [![Open-Source Software][OSS Icon]](https://github.com/alookai/alook) ![Freeware][Freeware Icon]
 * [Android Studio](https://developer.android.com/studio/index.html) - Intellij IDEAベースのAndroid公式IDE。 [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Cate](https://cate.cero-ai.com) - 無限ズームキャンバス上のオープンソース IDE。エディタ、ターミナル、ブラウザ、AI エージェントのパネルを空間的に配置できます。 [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
 * [CodeRunner](https://coderunnerapp.com) - 軽量のマルチ言語対応プログラミングテキストエディタ兼IDE。
