@@ -1669,7 +1669,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 ### Listas de Tarefas
 
 * [2Do](https://www.2doapp.com/) - Aplicativo de tarefas legal.
-* [Balloon Todo (气球待办)](https://balloon.lowpower.me/) - Coloca as tarefas na área de trabalho do Mac: balões para tarefas pontuais, dirigíveis para planos de longo prazo e aviões-faixa para lembretes recorrentes; fica offline no próprio Mac, sem conta. ![Native App][Native Icon]
+* [Balloon Todo (气球待办)](https://balloon.lowpower.me/) - Coloca as tarefas na área de trabalho do Mac: balões para tarefas pontuais, dirigíveis para planos de longo prazo e aviões-faixa para lembretes recorrentes; fica offline no próprio Mac, sem conta. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fantastical](https://flexibits.com/fantastical) - O aplicativo de calendário sem o qual você não vai conseguir viver.
 * [Focus](https://meaningful-things.com/focus) - Gerenciador de tempo bonito baseado na técnica Pomodoro. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)
 * [Focused Work: Focus Timer](https://focusedwork.app) - Um Timer de Foco simples e flexível. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4&platform=mac)
