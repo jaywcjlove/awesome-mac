@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:02:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AppuBot</title>
+      <link>https://appubot.com</link>
+      <guid isPermaLink="false">2f9f19748f9c772c49d7cdff9086d099491965be:AppuBot</guid>
+      <pubDate>Wed, 25 Nov 2026 11:02:17 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: AppuBot
+Description: 각자 역할을 맡은 봇들이 서로 작업을 넘겨주며 실제 앱과 파일에서 일하는 오픈 소스(Apache 2.0) AI 봇 팀으로, 이미 쓰고 있는 Claude, ChatGPT, Cursor, Grok 또는 Copilot 요금제로 실행.
+Website: https://appubot.com
+Open Source: https://github.com/sarthakguptadev/AppuBot
+Commit: Add AppuBot to AI Tools (#5044)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: AppuBot<br/>Description: 각자 역할을 맡은 봇들이 서로 작업을 넘겨주며 실제 앱과 파일에서 일하는 오픈 소스(Apache 2.0) AI 봇 팀으로, 이미 쓰고 있는 Claude, ChatGPT, Cursor, Grok 또는 Copilot 요금제로 실행.<br/>Website: https://appubot.com<br/>Open Source: https://github.com/sarthakguptadev/AppuBot<br/>Commit: Add AppuBot to AI Tools (#5044)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f9f19748f9c772c49d7cdff9086d099491965be]]></content:encoded>
+    </item>
     <item>
       <title>Relaycat</title>
       <link>https://github.com/krutikJain/relaycat</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/stelix-app/stelix
 Commit: Add Stelix (#4836)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855</description>
       <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Stelix<br/>Description: Mac용 실시간 스템 분리: 모든 앱에서 재생 중인 오디오를 보컬, 드럼, 베이스, 나머지로 분리해 각 파트의 볼륨을 조절하거나 따로 들을 수 있으며, 모든 처리가 기기에서 이루어집니다.<br/>Website: https://getstelix.com<br/>Open Source: https://github.com/stelix-app/stelix<br/>Commit: Add Stelix (#4836)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9c60af45cd21395fdf4c9f0befbd3f2182326855]]></content:encoded>
-    </item>
-    <item>
-      <title>GravityNotch</title>
-      <link>https://adrielakak.github.io/GravityNotch/</link>
-      <guid isPermaLink="false">f5927d27411346a67f4218b374ae3e2cf270ef3a:GravityNotch</guid>
-      <pubDate>Sat, 21 Nov 2026 08:22:46 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: GravityNotch
-Description: 노치를 macOS Tahoe에서 작동하는 시스템 HUD, 싱크 가사를 지원하는 잠금 화면 플레이어, 클립보드 기록, Claude Code 에이전트 실시간 추적을 갖춘 다이내믹 아일랜드형 허브로 바꿔준다.
-Website: https://adrielakak.github.io/GravityNotch/
-Open Source: https://github.com/adrielakak/GravityNotch
-Commit: Add GravityNotch to Menu Bar Tools (#4825)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: GravityNotch<br/>Description: 노치를 macOS Tahoe에서 작동하는 시스템 HUD, 싱크 가사를 지원하는 잠금 화면 플레이어, 클립보드 기록, Claude Code 에이전트 실시간 추적을 갖춘 다이내믹 아일랜드형 허브로 바꿔준다.<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
     </item>
   </channel>
 </rss>
