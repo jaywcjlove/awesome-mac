@@ -279,6 +279,7 @@ Awesome Mac
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - 훌륭한 구조의 노트를 선호하는 사람들을 위한 아웃라인 편집기.
 * [Pinto Notes](https://pintonotes.com/) - ChatGPT, Claude 등 AI 어시스턴트가 MCP로 검색하고 편집할 수 있으며, AI 편집을 강조 표시하고 되돌릴 수 있는 오픈 소스 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/pinto-notes/pinto-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Pizzinu](https://www.piratepixel.it/pizzinu/) - 데스크톱에 떠 있는 실제 종이 같은 오픈 소스 스티키 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/piratepxl/pizzinu) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Revu](https://revu.cards/) - FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
