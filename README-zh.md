@@ -699,6 +699,7 @@ Awesome Mac
 * [Airbag](https://github.com/a1murt/airbag) - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的开源菜单栏应用，误删的文件和被清空的 .env 可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppleAi](https://github.com/bunnysayzz/AppleAI) - 一键快捷访问菜单栏中的多款 AI 助手。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - 将 Apple 端侧模型封装为 OpenAI 兼容 API 的工具。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
+* [AppuBot](https://appubot.com) - 开源（Apache 2.0）的 AI 机器人团队，每个机器人各有分工，会互相交接任务，并在你真实的应用和文件中完成工作，使用你已有的 Claude、ChatGPT、Cursor、Grok 或 Copilot 订阅。 [![Open-Source Software][OSS Icon]](https://github.com/sarthakguptadev/AppuBot) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - 开源桌面 AI 工作台，支持多服务商对话、智能体工作流、知识库、MCP 工具和 OpenAI 兼容 API 网关。 [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
 * [Aris](https://arismac.app) - 驻留在 MacBook 刘海中的开源 AI 代理，可用语音或文字让你已有的 AI 在各个应用中执行操作，发送、写入或删除前会先征求确认。 [![Open-Source Software][OSS Icon]](https://github.com/LumenJSN/Aris) ![Freeware][Freeware Icon]
 * [Atomic Agent](https://atomicagent.io/) - 本地优先的 CLI 和 TUI 编程代理，在本机完全运行开源权重模型，支持 MCP 与 56 个内置工具。 [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
