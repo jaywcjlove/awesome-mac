@@ -230,6 +230,7 @@ Awesome Mac
 
 ### オフィス
 
+* [Cue Office](https://heycue.io/office) - ドキュメント、スプレッドシート、スライド、PDF を備えたオールインワンのオフィススイート。Microsoft Office 互換で、AI ツールを内蔵。 ![Freeware][Freeware Icon]
 * [Kantor](https://kantor.paparanai.id) - Excel、Word、PowerPointのファイルを開いて保存できるネイティブのオフィススイート（Sheets、Docs、Slides）。 [![Open-Source Software][OSS Icon]](https://github.com/dzulfikar08/kantor) ![Freeware][Freeware Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id361285480?platform=mac) - 美しいプレゼンテーションを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id361285480?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]

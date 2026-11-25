@@ -1015,6 +1015,7 @@ Awesome Mac
 
 ### Office
 
+* [Cue Office](https://heycue.io/office) - 一体化办公套件，集文档、表格、幻灯片和 PDF 于一体，兼容 Microsoft Office 文件，内置 AI 工具。 ![Freeware][Freeware Icon]
 * [Kantor](https://kantor.paparanai.id) - 原生办公套件（Sheets、Docs、Slides），可打开并保存 Excel、Word 和 PowerPoint 文件。 [![Open-Source Software][OSS Icon]](https://github.com/dzulfikar08/kantor) ![Freeware][Freeware Icon]
 * [KOffice](https://www.kde.org/applications/office/) - 集成化办公套件，包含文字处理器、电子 表格、幻灯片制作、项目管理等多种工具。![Freeware][Freeware Icon]
 * [Keynote 讲演](https://apps.apple.com/cn/app/keynote/id361285480?platform=mac) - 构建炫目的演示文稿。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/keynote/id361285480?platform=mac)
