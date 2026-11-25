@@ -451,6 +451,7 @@ Awesome Mac
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 호스트 파일 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [GraphCode](https://graphcode.app) - 코딩 에이전트 세션을 그래프로 실행합니다. 각 노드는 실행 중에 접속할 수 있는 라이브 터미널이고, 각 엣지는 자리를 비운 사이에 실행되는 핸드오프입니다. Claude Code, Copilot CLI, Codex 지원. ![Freeware][Freeware Icon]
 * [He3](https://he3.app) - 현대적인 개발자 유틸리티 툴박스. ![Freeware][Freeware Icon]
+* [Hearth](https://hearth.moduix.dev) - 런타임, PATH 충돌, 로컬 데이터베이스, Docker, Kubernetes 및 AI 코딩 에이전트(MCP, 스킬, 사용량)를 한곳에서 점검하고 계획과 diff 미리보기 후 수정하는 네이티브 Go 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/hearth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 빠르고 영리한 오픈 소스 16진수 편집기. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon]
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - 호스트 파일 관리 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 * [ImHex](https://imhex.werwolv.net/) - 역공학 및 프로그래머를 위한 16진수 편집기. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
