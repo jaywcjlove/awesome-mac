@@ -2013,6 +2013,7 @@ Se você encontrar sites que oferecem software pirateado ou cracks, por favor, p
 *Aqui estão alguns dos principais sites de download de software, existem vários sites de software para OSX Mac*
 
 * [Applite](https://aerolite.dev/applite) - Interface gráfica amigável para Homebrew Casks. Instale, atualize e desinstale apps com um único clique. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
+* [CaskHub](https://caskhub.app) - Loja de apps de código aberto para explorar, instalar e atualizar casks do Homebrew. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alielsokary/CaskHub)
 * [Cork](https://corkmac.app) - Uma interface gráfica do Homebrew intuitiva e completa, escrita em SwiftUI, que oferece suporte a todos os recursos do Homebrew. [![Open-Source Software][OSS Icon]](https://github.com/buresdv/cork)
 * [Homebrew](https://brew.sh/) - O gerenciador de pacotes que faltava para macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - Gerenciador de pacotes para instalar e manter software de código aberto. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)

@@ -1974,6 +1974,7 @@ Awesome Mac
 
 * [Homebrew](https://brew.sh/) - 体验通过命令行安装 Mac 软件的工具(大部分是命令行工具)。[![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/) ![Freeware][Freeware Icon]
 * [Applite](https://github.com/milanvarady/Applite) - 用户友好的 Homebrew Casks GUI macOS 应用程序 [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite) ![Freeware][Freeware Icon]
+* [CaskHub](https://caskhub.app) - 开源的 Homebrew Cask 应用商店，用于浏览、安装和更新应用。 [![Open-Source Software][OSS Icon]](https://github.com/alielsokary/CaskHub) ![Freeware][Freeware Icon]
 * [MacUpdate Desktop](https://www.macupdate.com/) - 管理/更新/下载 App，跟踪优惠信息。
 * [MacPorts](https://www.macports.org/) - 用于安装和管理开源软件的软件包管理器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 * 数码荔枝：[https://lizhi.shop/](https://lizhi.shop/)
