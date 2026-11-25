@@ -1726,6 +1726,7 @@ Awesome Mac
 ### ToDoリスト
 
 * [2Do](http://www.2doapp.com/) - 優れたTodoアプリ。
+* [Balloon Todo (气球待办)](https://balloon.lowpower.me/) - やることリストを Mac のデスクトップに置くツールで、熱気球は単発のタスク、飛行船は長期計画、広告飛行機は定期リマインダーを表示し、オフラインで本体に保存し、アカウントは不要。 ![Native App][Native Icon]
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - カレンダー内蔵のメニューバー時計の代替アプリ。 ![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 手放せなくなるカレンダーアプリ。
 * [Focus](https://meaningful-things.com/focus) - ポモドーロベースの美しいタイムマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/focus-productivity-timer/id777233759?platform=mac)

@@ -1692,6 +1692,7 @@ Awesome Mac
 * [Todoist](https://www.todoist.com/downloads) - 跨平台的任务管理器与移动应用程序。
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 奇妙清单跨平台的任务管理器与移动应用程序。![Freeware][Freeware Icon]
 * [滴答清单](https://www.dida365.com/) - 轻便且强大的跨平台任务管理应用。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id966085870?platform=mac)
+* [气球待办 Balloon Todo](https://balloon.lowpower.me/) - 把待办放到 Mac 桌面上：热气球记一次性待办，飞艇放长期计划，广告飞机按时提醒；离线存在本机，不用账号。 ![Native App][Native Icon]
 
 ### 效率工具
 
