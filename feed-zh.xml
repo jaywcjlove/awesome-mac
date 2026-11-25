@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:21:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Alook</title>
+      <link>https://alook.ai/</link>
+      <guid isPermaLink="false">cef8a317e81aeee0f67aa39a149e446a19ca68f2:Alook</guid>
+      <pubDate>Wed, 25 Nov 2026 08:21:57 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Alook
+Description: 开源、本地优先的群聊，让人与 Claude Code、Codex 等编程代理在共享房间协作。
+Website: https://alook.ai/
+Open Source: https://github.com/alookai/alook
+Commit: Add Alook to Developer Tools (#5038)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cef8a317e81aeee0f67aa39a149e446a19ca68f2</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Alook<br/>Description: 开源、本地优先的群聊，让人与 Claude Code、Codex 等编程代理在共享房间协作。<br/>Website: https://alook.ai/<br/>Open Source: https://github.com/alookai/alook<br/>Commit: Add Alook to Developer Tools (#5038)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cef8a317e81aeee0f67aa39a149e446a19ca68f2]]></content:encoded>
+    </item>
     <item>
       <title>Meboki</title>
       <link>https://meboki.com</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/adrielakak/GravityNotch
 Commit: Add GravityNotch to Menu Bar Tools (#4825)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: GravityNotch<br/>Description: 将刘海区域变成灵动岛，提供适配 macOS Tahoe 的系统 HUD、带同步歌词的锁屏播放器、剪贴板历史以及 Claude Code 代理实时追踪。<br/>Website: https://adrielakak.github.io/GravityNotch/<br/>Open Source: https://github.com/adrielakak/GravityNotch<br/>Commit: Add GravityNotch to Menu Bar Tools (#4825)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f5927d27411346a67f4218b374ae3e2cf270ef3a]]></content:encoded>
-    </item>
-    <item>
-      <title>Linggen</title>
-      <link>https://linggen.dev</link>
-      <guid isPermaLink="false">d73c979fae73bf7b8f890618dbfa13c13577a63d:Linggen</guid>
-      <pubDate>Sat, 21 Nov 2026 08:10:40 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Linggen
-Description: 本地优先的个人 AI 助手，照看音乐、财务、健康和游戏，并在这些领域间共享同一份记忆，在你的 Mac 上使用你选择的模型运行。
-Website: https://linggen.dev
-Open Source: https://github.com/linggen/linggen
-Commit: Add Linggen to AI Tools (#4824)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Linggen<br/>Description: 本地优先的个人 AI 助手，照看音乐、财务、健康和游戏，并在这些领域间共享同一份记忆，在你的 Mac 上使用你选择的模型运行。<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
     </item>
   </channel>
 </rss>

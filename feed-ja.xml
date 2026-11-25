@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:21:57 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Alook</title>
+      <link>https://alook.ai/</link>
+      <guid isPermaLink="false">cef8a317e81aeee0f67aa39a149e446a19ca68f2:Alook</guid>
+      <pubDate>Wed, 25 Nov 2026 08:21:57 GMT</pubDate>
+      <category>開発ツール / IDE</category>
+      <description>Category: 開発ツール / IDE
+App: Alook
+Description: Claude Code や Codex などのコーディングエージェントと人が共有ルームで協働できる、オープンソースのローカルファーストなグループチャット。
+Website: https://alook.ai/
+Open Source: https://github.com/alookai/alook
+Commit: Add Alook to Developer Tools (#5038)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cef8a317e81aeee0f67aa39a149e446a19ca68f2</description>
+      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Alook<br/>Description: Claude Code や Codex などのコーディングエージェントと人が共有ルームで協働できる、オープンソースのローカルファーストなグループチャット。<br/>Website: https://alook.ai/<br/>Open Source: https://github.com/alookai/alook<br/>Commit: Add Alook to Developer Tools (#5038)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cef8a317e81aeee0f67aa39a149e446a19ca68f2]]></content:encoded>
+    </item>
     <item>
       <title>Meboki</title>
       <link>https://meboki.com</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/michalstrnadel/AgentBar
 Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
       <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: AgentBar<br/>Description: メニューバーとノッチにAIコーディングエージェント（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）の状態を表示し、Claude Code・Codex・Copilotの権限リクエストをワンクリックで許可または拒否できるアプリ。<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
-    </item>
-    <item>
-      <title>HyprMac</title>
-      <link>https://hyprmac.app</link>
-      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
-      <category>ユーティリティ / ウィンドウ管理</category>
-      <description>Category: ユーティリティ / ウィンドウ管理
-App: HyprMac
-Description: Hyprlandに着想を得たキーボード操作のタイリングウィンドウマネージャー。自動dwindleレイアウトと10個のワークスペースを備える。
-Website: https://hyprmac.app
-Open Source: https://github.com/zacharytgray/HyprMac
-Commit: Add HyprMac (#4802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: HyprMac<br/>Description: Hyprlandに着想を得たキーボード操作のタイリングウィンドウマネージャー。自動dwindleレイアウトと10個のワークスペースを備える。<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
     </item>
   </channel>
 </rss>
