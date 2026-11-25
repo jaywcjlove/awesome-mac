@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:09:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AutoWindow</title>
+      <link>https://zein.nl/autowindow/</link>
+      <guid isPermaLink="false">107554bd111de21b441ab55e45685b332ea6f1af:AutoWindow</guid>
+      <pubDate>Wed, 25 Nov 2026 05:09:56 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: AutoWindow
+Description: モニター構成と Mission Control のデスクトップごとにウィンドウ配置を復元する、オープンソースのメニューバーアプリ。
+Website: https://zein.nl/autowindow/
+Open Source: https://github.com/Carpe-Futurum/autowindow
+Commit: Add AutoWindow to Window Management (#5026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: AutoWindow<br/>Description: モニター構成と Mission Control のデスクトップごとにウィンドウ配置を復元する、オープンソースのメニューバーアプリ。<br/>Website: https://zein.nl/autowindow/<br/>Open Source: https://github.com/Carpe-Futurum/autowindow<br/>Commit: Add AutoWindow to Window Management (#5026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af]]></content:encoded>
+    </item>
     <item>
       <title>CablePeek</title>
       <link>https://cablepeek.pages.dev</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/ilhamnadhif/ternarycode
 Commit: Add TernaryCode to Terminal Apps (#4770)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: TernaryCode<br/>Description: 複数のプロジェクトとその中のコーディングエージェントをまとめて扱い、どのエージェントが入力を待っているかを表示するターミナルワークスペース。<br/>Website: https://ilhamnadhif.github.io/ternarycode/<br/>Open Source: https://github.com/ilhamnadhif/ternarycode<br/>Commit: Add TernaryCode to Terminal Apps (#4770)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ead4d61ddad526d8a45ff814e440d7f7dfef09f9]]></content:encoded>
-    </item>
-    <item>
-      <title>SIAM.AI GPU Watch</title>
-      <link>https://github.com/siamaicorp/GPUWatch</link>
-      <guid isPermaLink="false">117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7:SIAM.AI GPU Watch</guid>
-      <pubDate>Fri, 20 Nov 2026 13:05:52 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: SIAM.AI GPU Watch
-Description: SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。
-Open Source: https://github.com/siamaicorp/GPUWatch
-Commit: Add SIAM.AI GPU Watch (#4772)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: SIAM.AI GPU Watch<br/>Description: SSH 経由で複数のリモートサーバー上の NVIDIA GPU を監視するメニューバーアプリ。<br/>Open Source: https://github.com/siamaicorp/GPUWatch<br/>Commit: Add SIAM.AI GPU Watch (#4772)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/117fbe53a3ca4f511d453fc21f0ea7a4c4a08cd7]]></content:encoded>
     </item>
   </channel>
 </rss>

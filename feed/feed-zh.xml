@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:09:56 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AutoWindow</title>
+      <link>https://zein.nl/autowindow/</link>
+      <guid isPermaLink="false">107554bd111de21b441ab55e45685b332ea6f1af:AutoWindow</guid>
+      <pubDate>Wed, 25 Nov 2026 05:09:56 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: AutoWindow
+Description: 开源菜单栏应用，可按显示器组合和调度中心桌面恢复窗口布局。[![Open-Source Software][OSS Icon]](https://github.com/Carpe-Futurum/autowindow)
+Website: https://zein.nl/autowindow/
+Open Source: https://github.com/Carpe-Futurum/autowindow
+Commit: Add AutoWindow to Window Management (#5026)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: AutoWindow<br/>Description: 开源菜单栏应用，可按显示器组合和调度中心桌面恢复窗口布局。[![Open-Source Software][OSS Icon]](https://github.com/Carpe-Futurum/autowindow)<br/>Website: https://zein.nl/autowindow/<br/>Open Source: https://github.com/Carpe-Futurum/autowindow<br/>Commit: Add AutoWindow to Window Management (#5026)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/107554bd111de21b441ab55e45685b332ea6f1af]]></content:encoded>
+    </item>
     <item>
       <title>CablePeek</title>
       <link>https://cablepeek.pages.dev</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/michalstrnadel/AgentBar
 Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: AgentBar<br/>Description: 在菜单栏和刘海中显示 AI 编程代理（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）的实时状态，并可一键允许或拒绝 Claude Code、Codex 和 Copilot 的权限请求。<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
-    </item>
-    <item>
-      <title>HyprMac</title>
-      <link>https://hyprmac.app</link>
-      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: HyprMac
-Description: 受 Hyprland 启发的键盘驱动平铺式窗口管理器，自动 dwindle 布局，支持十个工作区。
-Website: https://hyprmac.app
-Open Source: https://github.com/zacharytgray/HyprMac
-Commit: Add HyprMac (#4802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: HyprMac<br/>Description: 受 Hyprland 启发的键盘驱动平铺式窗口管理器，自动 dwindle 布局，支持十个工作区。<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
     </item>
   </channel>
 </rss>
