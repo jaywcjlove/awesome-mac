@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Meboki</title>
+      <link>https://meboki.com</link>
+      <guid isPermaLink="false">5a28cfac6bd3315bfe10aeacc0d992144e5dba99:Meboki</guid>
+      <pubDate>Wed, 25 Nov 2026 05:38:17 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 쓰기</category>
+      <description>Category: 읽기 및 쓰기 도구 / 쓰기
+App: Meboki
+Description: Mac에서 로컬 모델을 실행해 모든 앱의 텍스트를 고쳐 주는 오픈 소스 문법 검사기.
+Website: https://meboki.com
+Open Source: https://github.com/mebokihq/meboki
+Commit: Add Meboki to Writing (#5028)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: Meboki<br/>Description: Mac에서 로컬 모델을 실행해 모든 앱의 텍스트를 고쳐 주는 오픈 소스 문법 검사기.<br/>Website: https://meboki.com<br/>Open Source: https://github.com/mebokihq/meboki<br/>Commit: Add Meboki to Writing (#5028)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99]]></content:encoded>
+    </item>
     <item>
       <title>AutoWindow</title>
       <link>https://zein.nl/autowindow/</link>
@@ -723,21 +738,6 @@ Open Source: https://github.com/michalstrnadel/AgentBar
 Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: AgentBar<br/>Description: 메뉴 바와 노치에 AI 코딩 에이전트(Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI)의 실시간 상태를 보여주고, Claude Code·Codex·Copilot의 권한 요청을 한 번의 클릭으로 허용하거나 거부하는 앱.<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
-    </item>
-    <item>
-      <title>HyprMac</title>
-      <link>https://hyprmac.app</link>
-      <guid isPermaLink="false">6778383187beb1af479424a23d1bae4433e1f729:HyprMac</guid>
-      <pubDate>Fri, 20 Nov 2026 17:19:43 GMT</pubDate>
-      <category>유틸리티 / 창 관리</category>
-      <description>Category: 유틸리티 / 창 관리
-App: HyprMac
-Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.
-Website: https://hyprmac.app
-Open Source: https://github.com/zacharytgray/HyprMac
-Commit: Add HyprMac (#4802)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: HyprMac<br/>Description: Hyprland에서 영감을 받은 키보드 중심 타일링 창 관리자로, 자동 dwindle 레이아웃과 10개의 워크스페이스를 제공합니다.<br/>Website: https://hyprmac.app<br/>Open Source: https://github.com/zacharytgray/HyprMac<br/>Commit: Add HyprMac (#4802)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6778383187beb1af479424a23d1bae4433e1f729]]></content:encoded>
     </item>
   </channel>
 </rss>

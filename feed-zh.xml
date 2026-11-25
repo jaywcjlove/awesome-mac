@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:38:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Meboki</title>
+      <link>https://meboki.com</link>
+      <guid isPermaLink="false">5a28cfac6bd3315bfe10aeacc0d992144e5dba99:Meboki</guid>
+      <pubDate>Wed, 25 Nov 2026 05:38:17 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: Meboki
+Description: 开源语法检查工具，在 Mac 本地运行模型，可修正任意应用中的文本。
+Website: https://meboki.com
+Open Source: https://github.com/mebokihq/meboki
+Commit: Add Meboki to Writing (#5028)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Meboki<br/>Description: 开源语法检查工具，在 Mac 本地运行模型，可修正任意应用中的文本。<br/>Website: https://meboki.com<br/>Open Source: https://github.com/mebokihq/meboki<br/>Commit: Add Meboki to Writing (#5028)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a28cfac6bd3315bfe10aeacc0d992144e5dba99]]></content:encoded>
+    </item>
     <item>
       <title>AutoWindow</title>
       <link>https://zein.nl/autowindow/</link>
@@ -723,20 +738,6 @@ Open Source: https://github.com/linggen/linggen
 Commit: Add Linggen to AI Tools (#4824)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d</description>
       <content:encoded><![CDATA[Category: AI 工具<br/>App: Linggen<br/>Description: 本地优先的个人 AI 助手，照看音乐、财务、健康和游戏，并在这些领域间共享同一份记忆，在你的 Mac 上使用你选择的模型运行。<br/>Website: https://linggen.dev<br/>Open Source: https://github.com/linggen/linggen<br/>Commit: Add Linggen to AI Tools (#4824)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d73c979fae73bf7b8f890618dbfa13c13577a63d]]></content:encoded>
-    </item>
-    <item>
-      <title>AgentBar</title>
-      <link>https://github.com/michalstrnadel/AgentBar</link>
-      <guid isPermaLink="false">5aa430914ce127ff3b9c54a04f41ea38bc7206cc:AgentBar</guid>
-      <pubDate>Sat, 21 Nov 2026 07:28:18 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: AgentBar
-Description: 在菜单栏和刘海中显示 AI 编程代理（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）的实时状态，并可一键允许或拒绝 Claude Code、Codex 和 Copilot 的权限请求。
-Open Source: https://github.com/michalstrnadel/AgentBar
-Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: AgentBar<br/>Description: 在菜单栏和刘海中显示 AI 编程代理（Claude Code、Codex、Cursor、Gemini CLI、Copilot CLI）的实时状态，并可一键允许或拒绝 Claude Code、Codex 和 Copilot 的权限请求。<br/>Open Source: https://github.com/michalstrnadel/AgentBar<br/>Commit: Add AgentBar to Menu Bar Tools (EN/ZH/JA/KO) (#2393)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5aa430914ce127ff3b9c54a04f41ea38bc7206cc]]></content:encoded>
     </item>
   </channel>
 </rss>
