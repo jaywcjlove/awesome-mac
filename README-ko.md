@@ -1547,6 +1547,7 @@ Awesome Mac
 ### 정식 사이트
 
 * [alternativeTo](http://alternativeto.net/) - 소프트웨어 대안 검색 커뮤니티.
+* [MacAppHQ](https://www.macapphq.com/) - 개발자 공식 사이트, App Store, GitHub 등 공식 링크를 우선하는 중국어 Mac 소프트웨어 리뷰 및 탐색 사이트.
 * [ProductHunt](https://www.producthunt.com/topics/mac) - 새로운 최고의 Mac 앱을 발견하는 곳.
 * [Slant](https://www.slant.co) - 소프트웨어를 비교하고 커뮤니티 추천을 살펴볼 수 있는 플랫폼.
 

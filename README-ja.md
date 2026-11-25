@@ -2097,6 +2097,7 @@ Awesome Mac
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - 一度購入すれば一生使えるソフトウェアが見つかる場所。
 * [Open Alternative](https://openalternative.co/) - 人気ソフトウェアのオープンソース代替を発見。日常のSaaS製品に最適なオープンソースの代替品を厳選したコレクション。信頼性の高いツールで費用を節約。
+* [MacAppHQ](https://www.macapphq.com/) - Macソフトウェアのレビューと発見を提供し、開発者公式サイト、App Store、GitHubなどの公式リンクを優先するサイト。
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * [MacStories](https://www.macstories.net/)、[LifeHacker](http://lifehacker.com/)、[ProductHunt](https://www.producthunt.com/topics/mac)などのサイトも素晴らしいリソースです。
 
