@@ -1458,6 +1458,7 @@ Awesome Mac
 * [Browserdoor](https://github.com/schowave/browserdoor) - 링크를 열 때마다 어떤 브라우저, 브라우저 프로필 또는 Zen 스페이스로 열지 고르는 오픈 소스 링크 선택 도구. [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - Google, iCloud, Outlook, Apple 미리 알림, Canvas 등 LMS 마감일, Todoist, Asana, Trello를 한곳에 모아 보여 주고 메뉴 막대에서 빠르게 추가할 수 있는 데스크톱 캘린더 위젯. [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Volant](https://usevolant.com) - 앱, 파일, 계산, 메모, 클립보드 기록과 코딩 에이전트를 한곳에서 다루는 프라이버시 중심의 오픈소스 런처. [![Open-Source Software][OSS Icon]](https://github.com/mysticcoders/volant) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [VYSHYVKA BAR](https://sapio-sat.github.io/vyshyvka-bar/) - 움직이는 우크라이나 자수, 날씨 예보, 시스템 제어를 갖춘 오픈 소스 Touch Bar 대체 도구. [![Open-Source Software][OSS Icon]](https://github.com/sapio-sat/vyshyvka-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Wox](https://wox-launcher.github.io/Wox/) - 빠른 로컬 검색과 플러그인 확장을 제공하는 오픈소스 크로스 플랫폼 런처. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 화면 레이아웃과 그래픽을 측정하고 검사하는 도구 모음.
 * [Z](https://github.com/rupa/z) - 경로 일부만 입력해 자주 쓰는 디렉터리로 이동하는 도구.
