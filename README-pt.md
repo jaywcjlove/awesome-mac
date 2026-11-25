@@ -1983,6 +1983,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - Cliente GameStream para PCs (Windows, Mac, Linux e Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - Ferramenta de área de trabalho remota e streaming de jogos de baixa latência.
 * [RealVNC](https://www.realvnc.com) - O software original e melhor para acesso remoto em desktop e dispositivos móveis.
+* [RemoteCrab](https://vgoapp.com/remotecrab/?utm_source=awesome-mac&utm_medium=readme&utm_campaign=list) - Transforma um iPhone ou iPad em câmera, microfone, trackpad e teclado para um Mac, e abre esse Mac em qualquer aba do navegador sem instalar nada do lado de quem vê.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Gerenciador de conexões remotas para vários protocolos. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - Mais um software de área de trabalho remota. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac) - O app Steam Link permite que você jogue seus jogos da Steam em todos os seus computadores. ![Freeware][Freeware Icon]

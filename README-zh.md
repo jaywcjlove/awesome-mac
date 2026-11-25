@@ -1943,6 +1943,7 @@ Awesome Mac
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - 高画质且低延时的游戏串流 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/moonlight-stream/moonlight-qt)
 * [Parsec](https://parsec.app/) - 低延迟远程桌面与游戏串流工具。
 * [RealVNC](https://www.realvnc.com) 是一款免费的远程控制跨多平台的程序。 ![Freeware][Freeware Icon]
+* [RemoteCrab](https://vgoapp.com/remotecrab/?utm_source=awesome-mac&utm_medium=readme&utm_campaign=list) - 把 iPhone 或 iPad 变成 Mac 的摄像头、麦克风、触控板和键盘，并能用一条链接在任意浏览器里打开这台 Mac，观看端什么都不用装。
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - 管理多种协议远程连接的客户端。 ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - 一个开源的远程桌面应用程序，为自托管而设计。[![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
 * [Steam Link](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) - 通过局域网或互联网将您的 Steam 游戏串流到 Mac 上。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/steam-link/id1246969117?platform=mac) ![Freeware][Freeware Icon]
