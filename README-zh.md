@@ -1303,6 +1303,7 @@ Awesome Mac
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - 开源菜单栏翻译工具，借助 Claude、ChatGPT 或 Grok 就地替换任意应用中选中的文本，并可套用你自己的写作风格。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 支持 100 多种语言文字与图片翻译的应用。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
+* [Translator](https://translator.tools) - 开源桌面应用，可从大多数网站下载视频并配 39 种语言 AI 翻译字幕观看，内置字幕编辑器，并支持通过本地 MCP 连接 Claude 与 Codex。 [![Open-Source Software][OSS Icon]](https://github.com/mikey1384/translator) ![Freeware][Freeware Icon]
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
 

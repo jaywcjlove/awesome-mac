@@ -1308,6 +1308,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Tomoru](https://tomoru.acane.dev) - Legendas bilíngues ao vivo para lives, animes, jogos e reuniões, além de tradução instantânea de texto na tela — funciona offline no Mac ou na nuvem, com glossários que mantêm os nomes certos. [![Open-Source Software][OSS Icon]](https://github.com/ACAne0320/Tomoru) ![Freeware][Freeware Icon]
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Tradutor de código aberto na barra de menus que substitui o texto selecionado em qualquer app, no seu estilo de escrita, via Claude, ChatGPT ou Grok. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - App de tradução de palavras, frases e imagens em mais de 100 idiomas. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
+* [Translator](https://translator.tools) - App desktop de código aberto para baixar vídeos da maioria dos sites e assistir com legendas traduzidas por IA em 39 idiomas, com editor de legendas e servidor MCP local para Claude e Codex. [![Open-Source Software][OSS Icon]](https://github.com/mikey1384/translator) ![Freeware][Freeware Icon]
 
 ## Educação
 
