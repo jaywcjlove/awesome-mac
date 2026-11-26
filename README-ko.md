@@ -1222,6 +1222,7 @@ Awesome Mac
 * [BeardedSpice](https://github.com/beardedspice/beardedspice) - 미디어 키로 웹 플레이어와 일부 앱의 재생을 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
 * [Blink](https://github.com/megootronic/Blink) - 실행 중인 개발 서버와 iOS 시뮬레이터를 지켜보는 작은 로봇. 터미널로 돌아가지 않고 서버를 재시작할 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/megootronic/Blink) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CablePeek](https://cablepeek.pages.dev) - 연결 시 USB-C 포트 옆 화면 가장자리에 링크 속도를 표시하고, 마우스를 올려 드라이브를 꺼낼 수 있는 도구. [![Open-Source Software][OSS Icon]](https://github.com/diegobruegger-prog/cablepeek) ![Freeware][Freeware Icon]
+* [Deskathon](https://deskathon.vpolabs.com/) - 클릭·스크롤 통계, 기록, 히트맵과 데스크톱 위젯을 제공하는 메뉴 막대 마우스 이동 거리 측정 도구. [![App Store][app-store Icon]](https://apps.apple.com/app/id6827227401) ![Native App][Native Icon]
 * [Deskbridge](https://getdeskbridge.com) - USB 또는 Wi-Fi로 삼성 갤럭시 휴대폰의 DeX 데스크톱을 Mac 창에서 여는 메뉴 막대 앱. 휴대폰 앱을 별도 창으로 열고 전화 수신 배너와 알림도 표시합니다.
 * [Daily Wallpaper](https://itsnajam.github.io/daily-wallpaper/) - Bing 오늘의 사진을 바탕 화면과 잠금 화면 배경으로 설정하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/itsnajam/daily-wallpaper) ![Freeware][Freeware Icon]
 * [Dimble](https://dimble.fif7y.com) - macOS 27의 새 메뉴 막대를 위해 만든 메뉴 막대 관리 도구. 필요 없는 아이콘을 필요할 때까지 숨긴다. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/dimble) ![Freeware][Freeware Icon] ![Native App][Native Icon]
