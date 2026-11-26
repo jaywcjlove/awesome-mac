@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Friday</title>
+      <link>https://www.tryfridaywork.com</link>
+      <guid isPermaLink="false">e7125a2e9aac0b2c5c03408d0b77c4b5294e560d:Friday</guid>
+      <pubDate>Thu, 26 Nov 2026 06:26:48 GMT</pubDate>
+      <category>개발 도구 / IDE / 코드 편집기</category>
+      <description>Category: 개발 도구 / IDE / 코드 편집기
+App: Friday
+Description: Claude Code, Codex, Cursor 등 코딩 에이전트를 하나의 팀으로 실행하는 무료 오픈 소스 앱으로, 공유 작업 보드, 에이전트별 git worktree, 줄 단위 메모가 있는 diff 검토를 제공하며 사용 한도에 도달하면 다른 에이전트에게 작업을 넘깁니다.
+Website: https://www.tryfridaywork.com
+Open Source: https://github.com/splashxmoon/friday-code
+Commit: Add Friday to IDEs (#4151)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Friday<br/>Description: Claude Code, Codex, Cursor 등 코딩 에이전트를 하나의 팀으로 실행하는 무료 오픈 소스 앱으로, 공유 작업 보드, 에이전트별 git worktree, 줄 단위 메모가 있는 diff 검토를 제공하며 사용 한도에 도달하면 다른 에이전트에게 작업을 넘깁니다.<br/>Website: https://www.tryfridaywork.com<br/>Open Source: https://github.com/splashxmoon/friday-code<br/>Commit: Add Friday to IDEs (#4151)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/ege-arhan/ebb
 Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Ebb<br/>Description: macOS, Windows, Linux를 지원하는 오픈 소스 디스크 정리 및 AI 저장 공간 뷰어. 읽을 수 있는 정리 계획을 먼저 제시하고, 삭제 항목은 휴지통으로 보내며 90일 동안 되돌릴 수 있는 기록을 남긴다. MCP를 지원하는 AI 클라이언트가 도울 수 있지만 AI가 스스로 삭제하지는 않는다.<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
-    </item>
-    <item>
-      <title>Trina AX</title>
-      <link>https://ax.trina.app</link>
-      <guid isPermaLink="false">06e47b692a4b2bd6bbd26422ca55273ee2618c53:Trina AX</guid>
-      <pubDate>Sat, 21 Nov 2026 09:26:33 GMT</pubDate>
-      <category>커뮤니케이션 / 협업 및 팀 도구</category>
-      <description>Category: 커뮤니케이션 / 협업 및 팀 도구
-App: Trina AX
-Description: 공용 드라이브, 채팅방, 사람별 폴더 권한을 갖춘 셀프 호스팅 팀 AI 워크스페이스.
-Website: https://ax.trina.app
-Open Source: https://github.com/trina-app/trina-ax
-Commit: Add Trina AX to Collaboration and Team Tools (#4809)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/06e47b692a4b2bd6bbd26422ca55273ee2618c53</description>
-      <content:encoded><![CDATA[Category: 커뮤니케이션 / 협업 및 팀 도구<br/>App: Trina AX<br/>Description: 공용 드라이브, 채팅방, 사람별 폴더 권한을 갖춘 셀프 호스팅 팀 AI 워크스페이스.<br/>Website: https://ax.trina.app<br/>Open Source: https://github.com/trina-app/trina-ax<br/>Commit: Add Trina AX to Collaboration and Team Tools (#4809)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/06e47b692a4b2bd6bbd26422ca55273ee2618c53]]></content:encoded>
     </item>
   </channel>
 </rss>

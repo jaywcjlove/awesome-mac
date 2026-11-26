@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Friday</title>
+      <link>https://www.tryfridaywork.com</link>
+      <guid isPermaLink="false">e7125a2e9aac0b2c5c03408d0b77c4b5294e560d:Friday</guid>
+      <pubDate>Thu, 26 Nov 2026 06:26:48 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Friday
+Description: 免费开源应用，让 Claude Code、Codex、Cursor 等编程代理协同工作：共享任务板、每个代理独立的 git worktree、带行内批注的差异审查，并在某个代理达到用量上限时把任务交给另一个代理。
+Website: https://www.tryfridaywork.com
+Open Source: https://github.com/splashxmoon/friday-code
+Commit: Add Friday to IDEs (#4151)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Friday<br/>Description: 免费开源应用，让 Claude Code、Codex、Cursor 等编程代理协同工作：共享任务板、每个代理独立的 git worktree、带行内批注的差异审查，并在某个代理达到用量上限时把任务交给另一个代理。<br/>Website: https://www.tryfridaywork.com<br/>Open Source: https://github.com/splashxmoon/friday-code<br/>Commit: Add Friday to IDEs (#4151)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/dzulfikar08/kantor
 Commit: Add Kantor to Office (#4843)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
       <content:encoded><![CDATA[Category: 阅读与写作工具 / Office<br/>App: Kantor<br/>Description: 原生办公套件（Sheets、Docs、Slides），可打开并保存 Excel、Word 和 PowerPoint 文件。<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
-    </item>
-    <item>
-      <title>Hangar</title>
-      <link>https://hangar.bot</link>
-      <guid isPermaLink="false">007537953ed74fba4f1f9d702a5e14d5df3991ca:Hangar</guid>
-      <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: Hangar
-Description: 在 macOS、Linux 或 Windows 虚拟机中运行 AI 编程代理，支持网络访问白名单和快照。
-Website: https://hangar.bot
-Open Source: https://github.com/baseguard/hangar
-Commit: Add Hangar to Virtualization (#4814)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Hangar<br/>Description: 在 macOS、Linux 或 Windows 虚拟机中运行 AI 编程代理，支持网络访问白名单和快照。<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
     </item>
   </channel>
 </rss>
