@@ -1605,6 +1605,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [SpaceMap](https://github.com/renkagod/spacemap) - Analisador de uso de disco que desenha seu disco como um mapa de árvore aninhado no qual você pode dar zoom, preenchendo-o ao vivo enquanto a varredura roda. [![Open-Source Software][OSS Icon]](https://github.com/renkagod/spacemap) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) - Analisador de uso de disco de código aberto com visualizações em sunburst e mapa de árvore para discos e armazenamento em nuvem. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 * [Tidymint](https://tidymint.app) - Limpador de disco de código aberto que apenas move itens para a Lixeira e verifica se seus scripts de projeto ainda referenciam uma duplicata antes de removê-la. [![Open-Source Software][OSS Icon]](https://github.com/HaiTrung-Workspace/tidymint) ![Freeware][Freeware Icon]
+* [TwinSweep](https://tidyware.app/twinsweep/) - Encontra arquivos e fotos duplicados e desfaz a última limpeza com um clique.
 
 ### Ferramentas de Organização de Arquivos
 
