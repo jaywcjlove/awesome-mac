@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OhMyShot</title>
+      <link>https://www.ohmyshot.org/</link>
+      <guid isPermaLink="false">7d3d3193d465de26d98ceb529313ccd8e82a1755:OhMyShot</guid>
+      <pubDate>Thu, 26 Nov 2026 16:51:11 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: OhMyShot
+Description: スクリーンショット、スクロールキャプチャ、注釈、ピン留め、Studio 自動ズーム録画、オンデバイス OCR を備えたネイティブなメニューバーツール。
+Website: https://www.ohmyshot.org/
+Open Source: https://github.com/MMFoundation/OhMyShot
+Commit: Add OhMyShot to Screenshot Tools (#5079)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: OhMyShot<br/>Description: スクリーンショット、スクロールキャプチャ、注釈、ピン留め、Studio 自動ズーム録画、オンデバイス OCR を備えたネイティブなメニューバーツール。<br/>Website: https://www.ohmyshot.org/<br/>Open Source: https://github.com/MMFoundation/OhMyShot<br/>Commit: Add OhMyShot to Screenshot Tools (#5079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755]]></content:encoded>
+    </item>
     <item>
       <title>Earpiece</title>
       <link>https://github.com/AllanLotta/earpiece</link>
@@ -722,21 +737,6 @@ Open Source: https://github.com/dzulfikar08/kantor
 Commit: Add Kantor to Office (#4843)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
       <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Kantor<br/>Description: Excel、Word、PowerPointのファイルを開いて保存できるネイティブのオフィススイート（Sheets、Docs、Slides）。<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
-    </item>
-    <item>
-      <title>Hangar</title>
-      <link>https://hangar.bot</link>
-      <guid isPermaLink="false">007537953ed74fba4f1f9d702a5e14d5df3991ca:Hangar</guid>
-      <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
-      <category>開発ツール / 仮想化</category>
-      <description>Category: 開発ツール / 仮想化
-App: Hangar
-Description: AI コーディングエージェントを macOS、Linux、Windows の仮想マシンで動かすツールで、許可リスト方式のネットワーク制限とスナップショットに対応。
-Website: https://hangar.bot
-Open Source: https://github.com/baseguard/hangar
-Commit: Add Hangar to Virtualization (#4814)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
-      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: Hangar<br/>Description: AI コーディングエージェントを macOS、Linux、Windows の仮想マシンで動かすツールで、許可リスト方式のネットワーク制限とスナップショットに対応。<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
     </item>
   </channel>
 </rss>

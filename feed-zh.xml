@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OhMyShot</title>
+      <link>https://www.ohmyshot.org/</link>
+      <guid isPermaLink="false">7d3d3193d465de26d98ceb529313ccd8e82a1755:OhMyShot</guid>
+      <pubDate>Thu, 26 Nov 2026 16:51:11 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: OhMyShot
+Description: 原生菜单栏截图与录屏工具，支持滚动截屏、标注、贴图、Studio 自动缩放剪辑和端侧 OCR。
+Website: https://www.ohmyshot.org/
+Open Source: https://github.com/MMFoundation/OhMyShot
+Commit: Add OhMyShot to Screenshot Tools (#5079)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: OhMyShot<br/>Description: 原生菜单栏截图与录屏工具，支持滚动截屏、标注、贴图、Studio 自动缩放剪辑和端侧 OCR。<br/>Website: https://www.ohmyshot.org/<br/>Open Source: https://github.com/MMFoundation/OhMyShot<br/>Commit: Add OhMyShot to Screenshot Tools (#5079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755]]></content:encoded>
+    </item>
     <item>
       <title>Earpiece</title>
       <link>https://github.com/AllanLotta/earpiece</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/hehehai/VoxtMini
 Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxtMini<br/>Description: 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
-    </item>
-    <item>
-      <title>Ragdoll Mail</title>
-      <link>https://erict16.github.io/ragdoll-mail/</link>
-      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
-      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
-      <category>通信 / Email</category>
-      <description>Category: 通信 / Email
-App: Ragdoll Mail
-Description: 开源 IMAP 邮件客户端，本地全文索引让搜索即时出结果，并带供脚本和 AI 助手使用的命令行。
-Website: https://erict16.github.io/ragdoll-mail/
-Open Source: https://github.com/erict16/ragdoll-mail
-Commit: Add Ragdoll Mail to Email Clients (#4844)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
-      <content:encoded><![CDATA[Category: 通信 / Email<br/>App: Ragdoll Mail<br/>Description: 开源 IMAP 邮件客户端，本地全文索引让搜索即时出结果，并带供脚本和 AI 助手使用的命令行。<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
     </item>
   </channel>
 </rss>

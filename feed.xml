@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>OhMyShot</title>
+      <link>https://www.ohmyshot.org/</link>
+      <guid isPermaLink="false">7d3d3193d465de26d98ceb529313ccd8e82a1755:OhMyShot</guid>
+      <pubDate>Thu, 26 Nov 2026 16:51:11 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: OhMyShot
+Description: Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR.
+Website: https://www.ohmyshot.org/
+Open Source: https://github.com/MMFoundation/OhMyShot
+Commit: Add OhMyShot to Screenshot Tools (#5079)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: OhMyShot<br/>Description: Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR.<br/>Website: https://www.ohmyshot.org/<br/>Open Source: https://github.com/MMFoundation/OhMyShot<br/>Commit: Add OhMyShot to Screenshot Tools (#5079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7d3d3193d465de26d98ceb529313ccd8e82a1755]]></content:encoded>
+    </item>
     <item>
       <title>Earpiece</title>
       <link>https://github.com/AllanLotta/earpiece</link>
@@ -720,21 +735,6 @@ Open Source: https://github.com/nodelike/sikemux
 Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
       <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Sikemux<br/>Description: Open-source native workspace for coding agents (Claude Code, Codex, OpenCode, Pi), with terminals, Git, an editor and browser tabs beside each chat.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
-    </item>
-    <item>
-      <title>Smorza</title>
-      <link>https://smorza.app</link>
-      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
-      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: Smorza
-Description: Menu bar volume mixer that gives each app its own volume, mute, and output device.
-Website: https://smorza.app
-Open Source: https://github.com/rokoov/smorza
-Commit: Add Smorza (#4861)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Smorza<br/>Description: Menu bar volume mixer that gives each app its own volume, mute, and output device.<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
     </item>
   </channel>
 </rss>
