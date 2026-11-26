@@ -577,6 +577,7 @@ Awesome Mac
 * [iShot](https://www.better365.cn/) - 完全免费、功能全面的截图工具，支持贴图、滚动截图、延时截图等。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ishot-%E6%88%AA%E5%9B%BE-%E9%95%BF%E6%88%AA%E5%9B%BE-%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?platform=mac) ![Freeware][Freeware Icon]
 * [Lumela](https://github.com/tw4/lumela) - 跨平台截图工具，通过本地 OCR 识别并模糊邮箱、银行卡号、IP 地址和 API 密钥，并美化截图。 [![Open-Source Software][OSS Icon]](https://github.com/tw4/lumela) ![Freeware][Freeware Icon]
 * [macshot](https://github.com/sw33tlie/macshot) - 支持录屏、滚动截图和 OCR 的截图标注工具。 [![Open-Source Software][OSS Icon]](https://github.com/sw33tlie/macshot) ![Freeware][Freeware Icon]
+* [OhMyShot](https://www.ohmyshot.org/) - 原生菜单栏截图与录屏工具，支持滚动截屏、标注、贴图、Studio 自动缩放剪辑和端侧 OCR。 [![Open-Source Software][OSS Icon]](https://github.com/MMFoundation/OhMyShot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Photon](https://www.piedol.top/photon/) - 开源的截图、标注和屏幕录制工具，支持 macOS 和 Windows，不含任何联网代码。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/photon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Pinstill（钉图）](https://pinstill.echovic.com/) - 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/Pinstill) ![Freeware][Freeware Icon]
 * [Scap](https://wangchujiang.com/scap/) - 支持模糊、马赛克和水印的截图标注与画布工具。[![App Store][app-store Icon]](https://apps.apple.com/app/Scap/6758053530?platform=mac)
