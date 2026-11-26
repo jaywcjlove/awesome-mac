@@ -1643,6 +1643,7 @@ Awesome Mac
 * [Mole Widget](https://github.com/bsnkhua/mole-widget) - 轻量级系统监控小组件，可在菜单栏管理的可调节桌面窗口中实时显示 CPU、内存、磁盘、网络、电池和进程信息。 [![Open-Source Software][OSS Icon]](https://github.com/bsnkhua/mole-widget) ![Freeware][Freeware Icon]
 * [FreeAudio](https://github.com/hakanotal/FreeAudio) - 按应用调节音量和静音，切换输出设备，并为 HDMI/DisplayPort 显示器提供音量控制。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeAudio) ![Freeware][Freeware Icon]
 * [FreeDisplay](https://github.com/hakanotal/FreeDisplay) - 在菜单栏控制外接显示器的亮度、HiDPI 模式、分辨率和排列。 [![Open-Source Software][OSS Icon]](https://github.com/hakanotal/FreeDisplay) ![Freeware][Freeware Icon]
+* [halo](https://github.com/isnow890/halo) - 亮度键只调节光标所在的显示器，并支持外接显示器的 HiDPI 与分辨率切换的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/isnow890/halo) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - 直接控制外接显示器亮度和音量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/MonitorControl/MonitorControl/) ![Freeware][Freeware Icon]
 * [Monny](https://monny.moduix.dev) - 开源菜单栏系统监视器，支持进程查找和电池充电上限。 [![Open-Source Software][OSS Icon]](https://github.com/Blinks44/monny) ![Freeware][Freeware Icon]
 * [Music Router](https://github.com/drumandbytes/music-router) - 阻止 Music.app 自动启动，并将媒体键路由到你实际正在使用的应用。 [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/music-router) ![Freeware][Freeware Icon]
