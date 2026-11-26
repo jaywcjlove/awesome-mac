@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>開発ツール / 仮想化</category>
+      <description>Category: 開発ツール / 仮想化
+App: VirtualBuddy
+Description: Appleシリコン搭載MacでmacOSとARM Linuxの仮想マシンを実行するツール。
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: 開発ツール / 仮想化<br/>App: VirtualBuddy<br/>Description: Appleシリコン搭載MacでmacOSとARM Linuxの仮想マシンを実行するツール。<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
     <item>
       <title>OhMyShot</title>
       <link>https://www.ohmyshot.org/</link>
@@ -722,21 +736,6 @@ Open Source: https://github.com/erict16/ragdoll-mail
 Commit: Add Ragdoll Mail to Email Clients (#4844)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
       <content:encoded><![CDATA[Category: コミュニケーション / メールクライアント<br/>App: Ragdoll Mail<br/>Description: ローカル全文検索ですぐに結果が出て、スクリプトやAIエージェント向けのコマンドラインも備えたオープンソースのIMAPメールクライアント。<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
-    </item>
-    <item>
-      <title>Kantor</title>
-      <link>https://kantor.paparanai.id</link>
-      <guid isPermaLink="false">a81ddfe74b45ff966887984ef1c8c36107bb0c57:Kantor</guid>
-      <pubDate>Sat, 21 Nov 2026 12:41:59 GMT</pubDate>
-      <category>読み書きツール / オフィス</category>
-      <description>Category: 読み書きツール / オフィス
-App: Kantor
-Description: Excel、Word、PowerPointのファイルを開いて保存できるネイティブのオフィススイート（Sheets、Docs、Slides）。
-Website: https://kantor.paparanai.id
-Open Source: https://github.com/dzulfikar08/kantor
-Commit: Add Kantor to Office (#4843)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
-      <content:encoded><![CDATA[Category: 読み書きツール / オフィス<br/>App: Kantor<br/>Description: Excel、Word、PowerPointのファイルを開いて保存できるネイティブのオフィススイート（Sheets、Docs、Slides）。<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
     </item>
   </channel>
 </rss>

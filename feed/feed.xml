@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>Developer Tools / Virtualization</category>
+      <description>Category: Developer Tools / Virtualization
+App: VirtualBuddy
+Description: Run macOS and ARM Linux virtual machines on Apple silicon Macs.
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: VirtualBuddy<br/>Description: Run macOS and ARM Linux virtual machines on Apple silicon Macs.<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
     <item>
       <title>OhMyShot</title>
       <link>https://www.ohmyshot.org/</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/martianacademy/olympus-coder
 Commit: Add Olympus Coder to AI Tools (#4866)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
       <content:encoded><![CDATA[Category: AI Tools<br/>App: Olympus Coder<br/>Description: Open-source desktop workbench and headless server for Claude Code, Codex, Antigravity, and 18+ ACP coding agents with shared project memory, parallel sub-sessions, Git worktrees, per-hunk diff review, embedded terminals, and E2E-encrypted phone access.<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
-    </item>
-    <item>
-      <title>Sikemux</title>
-      <link>https://sikemux.com</link>
-      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
-      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Sikemux
-Description: Open-source native workspace for coding agents (Claude Code, Codex, OpenCode, Pi), with terminals, Git, an editor and browser tabs beside each chat.
-Website: https://sikemux.com
-Open Source: https://github.com/nodelike/sikemux
-Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Sikemux<br/>Description: Open-source native workspace for coding agents (Claude Code, Codex, OpenCode, Pi), with terminals, Git, an editor and browser tabs beside each chat.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
     </item>
   </channel>
 </rss>

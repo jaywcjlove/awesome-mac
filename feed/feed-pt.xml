@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>Ferramentas para Desenvolvedores / Virtualização</category>
+      <description>Category: Ferramentas para Desenvolvedores / Virtualização
+App: VirtualBuddy
+Description: Execute máquinas virtuais com macOS e Linux ARM em Macs com Apple silicon.
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: Ferramentas para Desenvolvedores / Virtualização<br/>App: VirtualBuddy<br/>Description: Execute máquinas virtuais com macOS e Linux ARM em Macs com Apple silicon.<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
     <item>
       <title>Earpiece</title>
       <link>https://github.com/AllanLotta/earpiece</link>
@@ -725,21 +739,6 @@ Open Source: https://github.com/lxyeternal/Trace
 Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d</description>
       <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Trace<br/>Description: Rastreador automático de tempo que registra apps, janelas, arquivos e páginas web, com todos os dados mantidos no seu Mac.<br/>Open Source: https://github.com/lxyeternal/Trace<br/>Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d]]></content:encoded>
-    </item>
-    <item>
-      <title>Downright</title>
-      <link>https://downright.cc/</link>
-      <guid isPermaLink="false">3574867687dd7a8a912a0f195b74d3ca024913ee:Downright</guid>
-      <pubDate>Sun, 15 Nov 2026 00:49:23 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Downright
-Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.
-Website: https://downright.cc/
-Open Source: https://github.com/ezzy1630/Downright
-Commit: Add Downright to Markdown tools (#2606)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Downright<br/>Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
     </item>
   </channel>
 </rss>
