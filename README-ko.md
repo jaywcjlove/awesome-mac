@@ -1372,6 +1372,7 @@ Awesome Mac
 * [Verticar](https://github.com/sarogreco/Verticar) - Sidecar를 통해 iPad를 세로 방향 보조 디스플레이로 사용하는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/sarogreco/Verticar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - 배경화면, 동적 배경, 애니메이션 영상을 한곳에서 즐길 수 있는 오픈 소스 ACG 앱입니다. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - Mac에서 iPhone을 관리하는 네이티브 앱. 중복 사진, 큰 동영상, 쓰지 않는 앱 정리와 홈 화면 정리, 파일 전송, Mac 백업을 지원. ![Native App][Native Icon]
+* [EternalLight](https://github.com/ranzong-ai/EternalLight) - 메뉴 막대 앱. 덮개를 닫아도 Mac이 잠들지 않게 하고, 배터리가 부족하면 자동으로 일반 절전으로 복귀합니다. [![Open-Source Software][OSS Icon]](https://github.com/ranzong-ai/EternalLight) ![Freeware][Freeware Icon]
 * [Fan Curve](https://github.com/8thlyr/fan-curve) - CPU 온도에 따라 팬 속도를 조절하는 Apple Silicon Mac용 오픈 소스 팬 곡선 컨트롤러. [![Open-Source Software][OSS Icon]](https://github.com/8thlyr/fan-curve) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FanPilot](https://github.com/zyvren/FanPilot) - Apple Silicon Mac용 팬 제어 및 온도 모니터. 메뉴 막대 온도 표시, 수동·최대·Auto Boost 규칙·사용자 곡선 제어, 안전 장치가 있는 헬퍼와 CLI 제공. [![Open-Source Software][OSS Icon]](https://github.com/zyvren/FanPilot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FanShift](https://github.com/KrisWonka/FanShift) - Apple Silicon Mac용 메뉴 막대 팬 제어 도구. 전역 단축키 하나로 직접 만든 온도 곡선을 전환. [![Open-Source Software][OSS Icon]](https://github.com/KrisWonka/FanShift) ![Freeware][Freeware Icon] ![Native App][Native Icon]

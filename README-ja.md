@@ -1987,6 +1987,7 @@ Awesome Mac
 * [Dayflow](https://github.com/JerryZLiu/Dayflow) - AI対応の画面アクティビティタイムライン。 [![Open-Source Software][OSS Icon]](https://github.com/JerryZLiu/Dayflow) ![Freeware][Freeware Icon]
 * [DockAnchor](https://github.com/bwya77/DockAnchor) - マルチモニター環境でmacOSのDockを特定の画面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/bwya77/DockAnchor) ![Freeware][Freeware Icon]
 * [everythingByMdfind](https://github.com/appledragon/everythingByMdfind) - Spotlightを使った高速ファイル検索。 [![Open-Source Software][OSS Icon]](https://github.com/appledragon/everythingByMdfind) ![Freeware][Freeware Icon]
+* [EternalLight](https://github.com/ranzong-ai/EternalLight) - メニューバーアプリ。蓋を閉じてもMacをスリープさせず、バッテリー残量が少ないときは自動で通常のスリープに戻ります。 [![Open-Source Software][OSS Icon]](https://github.com/ranzong-ai/EternalLight) ![Freeware][Freeware Icon]
 * [ExtendFS](https://apps.kpchew.com/extendfs/) - macOS Sequoia以降でカーネル拡張なしにLinux ext2/3/4への読み取り専用アクセスを提供。 [![Open-Source Software][OSS Icon]](https://github.com/kthchew/ExtendFS) [![App Store][app-store Icon]](https://apps.apple.com/us/app/mount-ext4-drives-extendfs/id6755664332?platform=mac)
 * [ezNTFS](https://ixiehao.github.io/ezNTFS/ja/) - macFUSE と NTFS-3G を使い、外付け NTFS ドライブを読み書き可能な状態でマウント。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ezNTFS) ![Freeware][Freeware Icon]
 * [Fan Curve](https://github.com/8thlyr/fan-curve) - Apple Silicon Mac向けのオープンソースのファンカーブコントローラー。CPU温度に応じてファン速度を調整。 [![Open-Source Software][OSS Icon]](https://github.com/8thlyr/fan-curve) ![Freeware][Freeware Icon] ![Native App][Native Icon]
