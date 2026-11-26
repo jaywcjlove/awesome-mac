@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Squeeze7z</title>
+      <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
+      <guid isPermaLink="false">e1dd7a9c7cd19fff4b0e7b28cae380d55477368a:Squeeze7z</guid>
+      <pubDate>Thu, 26 Nov 2026 05:11:26 GMT</pubDate>
+      <category>Utilitários / Ferramentas de Organização de Arquivos</category>
+      <description>Category: Utilitários / Ferramentas de Organização de Arquivos
+App: Squeeze7z
+Description: Ferramenta de código aberto que recompacta pastas e arquivos compactados em arquivos 7z menores, escolhendo o método para cada tipo de arquivo e verificando cada arquivo antes de manter o resultado.
+Open Source: https://github.com/Camponotus-vagus/Squeeze7z
+Commit: Add Squeeze7z to File Organization Tools (#5066)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas de Organização de Arquivos<br/>App: Squeeze7z<br/>Description: Ferramenta de código aberto que recompacta pastas e arquivos compactados em arquivos 7z menores, escolhendo o método para cada tipo de arquivo e verificando cada arquivo antes de manter o resultado.<br/>Open Source: https://github.com/Camponotus-vagus/Squeeze7z<br/>Commit: Add Squeeze7z to File Organization Tools (#5066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a]]></content:encoded>
+    </item>
     <item>
       <title>AI Hub Bar</title>
       <link>https://olehdemishev.github.io/AIHubBar/</link>
@@ -726,20 +740,6 @@ Open Source: https://github.com/roeehrl/ldmanager
 Commit: Add LD Manager to System Related Tools (#4573)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
       <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: LD Manager<br/>Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
-    </item>
-    <item>
-      <title>Takeline</title>
-      <link>https://github.com/Bouliw/takeline</link>
-      <guid isPermaLink="false">24819d74197eb50e8d77d149b1aa16e931183b22:Takeline</guid>
-      <pubDate>Sat, 14 Nov 2026 04:14:40 GMT</pubDate>
-      <category>Utilitários / Produtividade</category>
-      <description>Category: Utilitários / Produtividade
-App: Takeline
-Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.
-Open Source: https://github.com/Bouliw/takeline
-Commit: Add Takeline to Productivity (#4368)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
-      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Takeline<br/>Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
     </item>
   </channel>
 </rss>
