@@ -1550,6 +1550,7 @@ Awesome Mac
 
 ## 서드파티 앱 마켓
 
+* [CaskHub](https://caskhub.app) - Homebrew Cask를 탐색, 설치, 업데이트할 수 있는 오픈 소스 앱 스토어. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alielsokary/CaskHub)
 * [Homebrew](https://brew.sh/index_ko) - macOS용 패키지 관리자. [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew) ![Freeware][Freeware Icon]
 * [MacPorts](https://www.macports.org/) - 오픈 소스 소프트웨어를 설치하고 관리하는 패키지 관리자. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 
