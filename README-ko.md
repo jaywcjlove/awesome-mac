@@ -444,7 +444,7 @@ Awesome Mac
 * [DevHub](https://wangchujiang.com/DevHub/) - 개발자를 위한 기능 풍부한 오프라인 앱. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351?platform=mac)
 * [Eleven](https://github.com/Zfinix/eleven) - AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱. [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 환경 변수 설정 창. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
-* [Excellent for Mac](https://www.excellent.so/) - Claude Code, Codex 및 기타 코딩 에이전트가 이미 보관하는 로그를 스캔하여 로그 파일의 API 키, 기록된 Git 강제 푸시 명령 등의 결과를 보여주는 네이티브 앱. 계정 없이 무료 스캔 가능, 유료 Pro는 선택 사항. ![Native App][Native Icon]
+* [Excellent for Mac](https://www.excellent.so/) - Claude Code, Codex 및 기타 AI 에이전트가 이미 보관하는 로그를 스캔하여 로그 파일의 API 키, 기록된 Git 강제 푸시 명령 등의 결과를 보여주는 네이티브 앱. 계정 없이 무료 스캔 가능, 유료 Pro는 선택 사항. ![Native App][Native Icon]
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Finder에서 터미널 열기. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - 언어, 데이터베이스, 서비스를 관리하는 로컬 개발 환경 도구. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
