@@ -1202,6 +1202,7 @@ Awesome Mac
 * [Carbon](https://carbon.alexandrejoly.me) - ボットやクラウドを使わずに会議をデバイス上で文字起こしし、各会議を Markdown ファイルとして保存するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Zoom、Meet、Teams、FaceTime、WhatsApp、電話の通話を録音し、ボットなしで AI 会議メモを作成する通話レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [Earpiece](https://github.com/AllanLotta/earpiece) - 通話をデバイス上で文字起こしし、自分に向けられた質問を検出して、通話中にノッチへ回答案を表示するメニューバーの通話コパイロット。Claude のサブスクリプションを使用。 [![Open-Source Software][OSS Icon]](https://github.com/AllanLotta/earpiece) ![Freeware][Freeware Icon]
+* [Equilibrio](https://equilibrio.crncevic.org) - クラウドを使わずすべて Mac 上で、通話アプリのマイク背景ノイズ除去、会議のプレーンテキスト文字起こし、キー長押しでの音声入力を行うメニューバーアプリ。
 * [GarageBand](https://www.apple.com/mac/garageband/) - 録音や音楽制作のためのデジタルオーディオワークステーション。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
 * [jdsp4mac](https://github.com/Tekkiech/jdsp4mac) - EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Tekkiech/jdsp4mac) ![Freeware][Freeware Icon]
 * [Local Transcriber](https://transcriber.teconomix.net) - 通話や会議を録音して Whisper でデバイス上で文字起こしし、話者認識、通話検出、任意のアプリへの音声入力に対応したメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
