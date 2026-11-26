@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:07:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>AI Hub Bar</title>
+      <link>https://olehdemishev.github.io/AIHubBar/</link>
+      <guid isPermaLink="false">a1e7f002315e0c517017afec1aecac7538286ab8:AI Hub Bar</guid>
+      <pubDate>Thu, 26 Nov 2026 05:07:12 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: AI Hub Bar
+Description: App de barra de menu de código aberto que mostra os limites de uso do Claude, Codex, Copilot, Gemini CLI e Cursor, lista todas as sessões de agentes em execução e responde aos pedidos de permissão a partir de uma notificação.
+Website: https://olehdemishev.github.io/AIHubBar/
+Open Source: https://github.com/OlehDemishev/AIHubBar
+Commit: Add AI Hub Bar to AI Tools (#5063)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1e7f002315e0c517017afec1aecac7538286ab8</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: AI Hub Bar<br/>Description: App de barra de menu de código aberto que mostra os limites de uso do Claude, Codex, Copilot, Gemini CLI e Cursor, lista todas as sessões de agentes em execução e responde aos pedidos de permissão a partir de uma notificação.<br/>Website: https://olehdemishev.github.io/AIHubBar/<br/>Open Source: https://github.com/OlehDemishev/AIHubBar<br/>Commit: Add AI Hub Bar to AI Tools (#5063)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a1e7f002315e0c517017afec1aecac7538286ab8]]></content:encoded>
+    </item>
     <item>
       <title>Tidywise</title>
       <link>https://github.com/floorianmb/tidywise</link>
@@ -725,20 +740,6 @@ Open Source: https://github.com/Bouliw/takeline
 Commit: Add Takeline to Productivity (#4368)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22</description>
       <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Takeline<br/>Description: Fork do Textream que acompanha a sua voz em francês e inglês inteiramente no Mac, com detecção de regravações e comandos de voz.<br/>Open Source: https://github.com/Bouliw/takeline<br/>Commit: Add Takeline to Productivity (#4368)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24819d74197eb50e8d77d149b1aa16e931183b22]]></content:encoded>
-    </item>
-    <item>
-      <title>Roughcut</title>
-      <link>https://github.com/Bouliw/fcpxml-roughcut</link>
-      <guid isPermaLink="false">cfbc9a915f16ceb417d24d9a97af3a0738dafd0e:Roughcut</guid>
-      <pubDate>Sat, 14 Nov 2026 04:09:53 GMT</pubDate>
-      <category>Ferramentas de Áudio e Vídeo</category>
-      <description>Category: Ferramentas de Áudio e Vídeo
-App: Roughcut
-Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.
-Open Source: https://github.com/Bouliw/fcpxml-roughcut
-Commit: Add Roughcut to Audio and Video Tools (#4367)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo<br/>App: Roughcut<br/>Description: Transforma uma pasta de gravações de alguém falando para a câmera em um primeiro corte no Final Cut Pro, com transcrição Whisper no dispositivo e cortes escolhidos por um modelo de IA local ou na nuvem.<br/>Open Source: https://github.com/Bouliw/fcpxml-roughcut<br/>Commit: Add Roughcut to Audio and Video Tools (#4367)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cfbc9a915f16ceb417d24d9a97af3a0738dafd0e]]></content:encoded>
     </item>
   </channel>
 </rss>
