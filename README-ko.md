@@ -1352,6 +1352,7 @@ Awesome Mac
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 * [Tidywise](https://github.com/floorianmb/tidywise) - Ollama로 흩어진 파일을 Markdown 색인이 포함된 주제별 폴더로 로컬에서 정리하는 메뉴 막대 앱. 전체 실행 취소 및 AI 어시스턴트용 읽기 전용 MCP 서버 포함. [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 다양한 일반 압축 포맷을 압축하고 해제하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [WizMac Explorer](https://www.wizit.org/wizmac-explorer/) - 폴더 트리, Windows 단축키, 파일 잘라내기와 붙여넣기, 실행 취소를 갖춘 Windows 탐색기 방식의 파일 관리자. ![Freeware][Freeware Icon]
 
 ### 시스템 도구
 
