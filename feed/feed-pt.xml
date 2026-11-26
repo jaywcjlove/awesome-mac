@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BotArk</title>
+      <link>https://qybaihe.github.io/botark/</link>
+      <guid isPermaLink="false">dd656cab30d07dfffdda4791fa81c1edce3cca12:BotArk</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:39 GMT</pubDate>
+      <category>Ferramentas de IA</category>
+      <description>Category: Ferramentas de IA
+App: BotArk
+Description: Workspace desktop open-source (MIT) que reúne Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue e Hermes com salas de colaboração multiagente, isolamento de proxy por conta e MCP local com aprovação.
+Website: https://qybaihe.github.io/botark/
+Open Source: https://github.com/qybaihe/botark
+Commit: Add BotArk to AI Tools (EN/ZH/JA/KO/PT) (#5070)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd656cab30d07dfffdda4791fa81c1edce3cca12</description>
+      <content:encoded><![CDATA[Category: Ferramentas de IA<br/>App: BotArk<br/>Description: Workspace desktop open-source (MIT) que reúne Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue e Hermes com salas de colaboração multiagente, isolamento de proxy por conta e MCP local com aprovação.<br/>Website: https://qybaihe.github.io/botark/<br/>Open Source: https://github.com/qybaihe/botark<br/>Commit: Add BotArk to AI Tools (EN/ZH/JA/KO/PT) (#5070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd656cab30d07dfffdda4791fa81c1edce3cca12]]></content:encoded>
+    </item>
     <item>
       <title>Squeeze7z</title>
       <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
@@ -725,21 +740,6 @@ Open Source: https://github.com/AzurLiu/sheer
 Commit: Add Sheer to Menu Bar Tools (#4592)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
       <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Sheer<br/>Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
-    </item>
-    <item>
-      <title>LD Manager</title>
-      <link>https://codonic.dev/apps/ldmanager</link>
-      <guid isPermaLink="false">7403697da309ed8194a33210a0e2674d04f8e7c4:LD Manager</guid>
-      <pubDate>Sat, 14 Nov 2026 06:38:36 GMT</pubDate>
-      <category>Utilitários / Ferramentas Relacionadas ao Sistema</category>
-      <description>Category: Utilitários / Ferramentas Relacionadas ao Sistema
-App: LD Manager
-Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.
-Website: https://codonic.dev/apps/ldmanager
-Open Source: https://github.com/roeehrl/ldmanager
-Commit: Add LD Manager to System Related Tools (#4573)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4</description>
-      <content:encoded><![CDATA[Category: Utilitários / Ferramentas Relacionadas ao Sistema<br/>App: LD Manager<br/>Description: Gerenciador de launchd de código aberto que mostra todos os LaunchAgents e LaunchDaemons, explica por que um job não está rodando e edita plists sem perdas, com diffs e backups.<br/>Website: https://codonic.dev/apps/ldmanager<br/>Open Source: https://github.com/roeehrl/ldmanager<br/>Commit: Add LD Manager to System Related Tools (#4573)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7403697da309ed8194a33210a0e2674d04f8e7c4]]></content:encoded>
     </item>
   </channel>
 </rss>
