@@ -481,6 +481,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [JET Pilot](https://jet-pilot.app/) - Cliente desktop de Kubernetes de código aberto para trabalhar com vários clusters, namespaces e contas de nuvem. [![Open-Source Software][OSS Icon]](https://github.com/unxsist/jet-pilot) ![Freeware][Freeware Icon]
 * [JsonStudio](https://jsonstudio.js.org/) - Espaço de trabalho JSON local-first para formatar, editar, comparar, converter, validar e extrair JSON de logs. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare textos, imagens e pastas.
+* [Kiikari](https://kiikari.app) - Mostra vendas, downloads e avaliações da App Store na barra de menus gratuitamente e, com o Kiikari Pro, responde a avaliações em idiomas que você não fala. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6793062737?mt=12&pt=283056&ct=awesomemacpt)
 * [Koala](https://koala-app.com) - Aplicativo com interface gráfica para compilar Less, Sass, Compass e CoffeeScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analise, revise e edite traduções de aplicativos.
 * [LINQPad](https://www.linqpad.net/) - .NET scratchpad para executar código, consultas e explorar bancos de dados. ![Freeware][Freeware Icon]
