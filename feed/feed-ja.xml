@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Friday</title>
+      <link>https://www.tryfridaywork.com</link>
+      <guid isPermaLink="false">e7125a2e9aac0b2c5c03408d0b77c4b5294e560d:Friday</guid>
+      <pubDate>Thu, 26 Nov 2026 06:26:48 GMT</pubDate>
+      <category>開発ツール / IDE</category>
+      <description>Category: 開発ツール / IDE
+App: Friday
+Description: Claude Code、Codex、Cursor などのコーディングエージェントを 1 つのチームとして動かす無料のオープンソースアプリ。共有タスクボード、エージェントごとの git worktree、行コメント付きの差分レビューを備え、利用上限に達したエージェントのタスクを別のエージェントに引き継ぎます。
+Website: https://www.tryfridaywork.com
+Open Source: https://github.com/splashxmoon/friday-code
+Commit: Add Friday to IDEs (#4151)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d</description>
+      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Friday<br/>Description: Claude Code、Codex、Cursor などのコーディングエージェントを 1 つのチームとして動かす無料のオープンソースアプリ。共有タスクボード、エージェントごとの git worktree、行コメント付きの差分レビューを備え、利用上限に達したエージェントのタスクを別のエージェントに引き継ぎます。<br/>Website: https://www.tryfridaywork.com<br/>Open Source: https://github.com/splashxmoon/friday-code<br/>Commit: Add Friday to IDEs (#4151)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/ege-arhan/ebb
 Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Ebb<br/>Description: macOS、Windows、Linux 対応のオープンソースなディスククリーナー兼 AI ストレージビューア。読めるクリーンアップ計画を提示し、削除項目はゴミ箱へ移動して 90 日間取り消せる記録を残し、MCP 対応の AI クライアントに手伝わせても AI 自身が削除することはない。<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
-    </item>
-    <item>
-      <title>FanShift</title>
-      <link>https://github.com/KrisWonka/FanShift</link>
-      <guid isPermaLink="false">e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187:FanShift</guid>
-      <pubDate>Sat, 21 Nov 2026 09:14:40 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: FanShift
-Description: Apple Silicon Mac向けのメニューバー型ファン制御ツール。1つのグローバルショートカットで自作の温度カーブを切り替え。
-Open Source: https://github.com/KrisWonka/FanShift
-Commit: Add FanShift to System Related Tools (#4807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: FanShift<br/>Description: Apple Silicon Mac向けのメニューバー型ファン制御ツール。1つのグローバルショートカットで自作の温度カーブを切り替え。<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
     </item>
   </channel>
 </rss>

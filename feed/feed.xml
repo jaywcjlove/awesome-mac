@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Friday</title>
+      <link>https://www.tryfridaywork.com</link>
+      <guid isPermaLink="false">e7125a2e9aac0b2c5c03408d0b77c4b5294e560d:Friday</guid>
+      <pubDate>Thu, 26 Nov 2026 06:26:48 GMT</pubDate>
+      <category>Developer Tools / IDEs</category>
+      <description>Category: Developer Tools / IDEs
+App: Friday
+Description: Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit.
+Website: https://www.tryfridaywork.com
+Open Source: https://github.com/splashxmoon/friday-code
+Commit: Add Friday to IDEs (#4151)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d</description>
+      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Friday<br/>Description: Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit.<br/>Website: https://www.tryfridaywork.com<br/>Open Source: https://github.com/splashxmoon/friday-code<br/>Commit: Add Friday to IDEs (#4151)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7125a2e9aac0b2c5c03408d0b77c4b5294e560d]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/tekikaito/tmop
 Commit: Add TMOP to System Related Tools (#4856)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061e119e0b2774ba85daf81e70239a293b4599d0</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TMOP<br/>Description: Task manager and system monitor with CPU, memory, disk and network graphs and process management; also runs on Windows and Linux.<br/>Website: https://tekikaito.github.io/tmop/<br/>Open Source: https://github.com/tekikaito/tmop<br/>Commit: Add TMOP to System Related Tools (#4856)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061e119e0b2774ba85daf81e70239a293b4599d0]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxtMini</title>
-      <link>https://actnow.dev/voxtmini</link>
-      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
-      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: VoxtMini
-Description: Voice input on local models: transcribe, translate and rewrite by voice in any app, in English, Chinese and Japanese.
-Website: https://actnow.dev/voxtmini
-Open Source: https://github.com/hehehai/VoxtMini
-Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: VoxtMini<br/>Description: Voice input on local models: transcribe, translate and rewrite by voice in any app, in English, Chinese and Japanese.<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
     </item>
   </channel>
 </rss>
