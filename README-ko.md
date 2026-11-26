@@ -798,6 +798,7 @@ Awesome Mac
 * [GroAsk](https://groask.com) - 선택한 텍스트를 AI 어시스턴트와 CLI 에이전트로 보내는 메뉴 막대 런처.
 * [Grux](https://gruxai.com) - 활성 창을 읽고 로컬 메일, 캘린더, 메모, 파일에 접근하는 메뉴 막대 어시스턴트. 자신의 API 키 또는 로컬 모델로 실행. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hush](https://github.com/OgnjenAdzic28/hush) - AI 에이전트가 모든 Mac 앱을 백그라운드에서 조작하게 해 주는 오픈 소스 CLI 및 MCP 서버. 동작당 약 178ms이며, 포커스를 빼앗거나 포인터를 움직이지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
+* [Isolario](https://glplabs.eu/en/isolario/) - Claude Code, Codex, Cursor, Antigravity의 대화와 ChatGPT·Claude 웹 내보내기를 하나의 암호화된 로컬 보관함에 모아 단어 하나로 검색할 수 있게 하는 메뉴 막대 앱. ![Native App][Native Icon]
 * [Jan](https://jan.ai/) - 완전히 오프라인으로 실행 가능한 ChatGPT 오픈 소스 대안. [![Open-Source Software][OSS Icon]](https://github.com/menloresearch/jan) ![Freeware][Freeware Icon]
 * [JoeBro](https://joebro.pages.dev) - 코딩 에이전트(Claude Code, Codex, OpenCode)를 위한 네이티브 SwiftUI 작업 공간. 파일을 옆에 열어 둔 채 MCP 공유 메모리, 야간 작업, 로컬 또는 API 모델을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kapitsa](https://github.com/nace-ai/kapitsa) - 네이티브 Metal 커널과 Neural Engine으로 동작하는 Apple 실리콘용 오픈 소스 LLM 추론 엔진으로, OpenAI 및 Anthropic 호환 API와 명령 하나로 시작하는 로컬 코딩 에이전트를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/nace-ai/kapitsa) ![Freeware][Freeware Icon]
