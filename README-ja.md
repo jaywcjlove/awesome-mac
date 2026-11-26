@@ -1362,6 +1362,7 @@ Awesome Mac
 
 * [Buddy](https://github.com/projects-hacks/buddy) - ノッチに常駐する学習アシスタント。画面の内容を声で説明しながら、その上に書き込んで示す。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
+* [Lockabulary](https://arturwitkowski.com/lockabulary/) - ときどき画面をぼかし、ヨーロッパ・ポルトガル語、スペイン語、フランス語の単語に答えるまで戻らない。間隔反復と iPhone 版あり。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6827322789?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## ファイナンス
