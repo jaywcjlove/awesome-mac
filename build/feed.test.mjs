@@ -10,6 +10,7 @@ const targets = [
   ['README-zh.md', 'feed-zh.xml'],
   ['README-ko.md', 'feed-ko.xml'],
   ['README-ja.md', 'feed-ja.xml'],
+  ['README-pt.md', 'feed-pt.xml'],
 ];
 const website = 'https://example.com/app';
 const source = 'https://github.com/example/app';

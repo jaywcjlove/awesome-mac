@@ -127,11 +127,15 @@
 ## 미디어
 
 * [cmus](https://cmus.github.io/) - 명령줄 기반의 음악 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
+* [trackmend](https://github.com/Bouliw/trackmend) - 로컬 파일로 된 음악 보관함을 고치는 도구: 제목 정리, Deezer의 아트워크와 앨범 정보, LRCLIB의 가사, 중복 제거, 앨범을 곡별로 분할. [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/trackmend) ![Freeware][Freeware Icon]
 * [youtube-dl](https://ytdl-org.github.io/youtube-dl/) - YouTube.com 및 기타 사이트에서 비디오를 다운로드하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/ytdl-org/youtube-dl)
 
 ## 개발자 도구
 
+* [agentsync](https://github.com/x0c/agentsync) - 하나의 로컬 소스에서 Claude Code, Cursor, Codex 등의 규칙, Skills, MCP 설정을 동기화. [![Open-Source Software][OSS Icon]](https://github.com/x0c/agentsync) ![Freeware][Freeware Icon]
+* [ai-quota-swap](https://github.com/seangeng/ai-quota-swap) - Claude Code와 Codex CLI 계정을 수동으로 또는 한도에 가까워지면 자동으로 전환하고 각 계정의 5시간 및 주간 사용량을 표시. [![Open-Source Software][OSS Icon]](https://github.com/seangeng/ai-quota-swap) ![Freeware][Freeware Icon]
 * [aisw](https://aiswitcher.dev) - 이름이 지정된 프로필로 Claude Code, Codex, Gemini, Antigravity CLI 계정을 전환하고 저장소별로 사용할 계정을 고정. [![Open-Source Software][OSS Icon]](https://github.com/burakdede/aisw) ![Freeware][Freeware Icon]
+* [corral](https://github.com/corral-dev/corral) - 터미널에서 Claude Code, Codex, OpenCode, Cursor를 나란히 실행하고 iPhone이나 Mac에서 이어서 작업하는 세션 관리자. [![Open-Source Software][OSS Icon]](https://github.com/corral-dev/corral) ![Freeware][Freeware Icon]
 * [Fruitbox](https://github.com/urjitbhatia/fruitbox) - Apple silicon의 기본 container 런타임을 위한 Docker Compose 호환 CLI. [![Open-Source Software][OSS Icon]](https://github.com/urjitbhatia/fruitbox) ![Freeware][Freeware Icon]
 * [httpie](https://httpie.org) - 당신을 미소 짓게 할 명령줄 HTTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [JSON Schema CLI](https://github.com/sourcemeta/jsonschema) - JSON 스키마 작업을 위한 CLI. 포맷팅, 린팅, 테스트, 번들링 등을 지원하며 로컬 개발 및 CI/CD 파이프라인에서 사용 가능. [![Open-Source Software][OSS Icon]](https://github.com/sourcemeta/jsonschema) ![Freeware][Freeware Icon]
@@ -139,6 +143,7 @@
 * [quokka](https://github.com/dutradotdev/quokka) - 터미널에서 USB로 연결된 iPhone을 점검하고 정리. 저장공간, 앱, 미디어, 실시간 syslog 뷰어. 탈옥 불필요. [![Open-Source Software][OSS Icon]](https://github.com/dutradotdev/quokka) ![Freeware][Freeware Icon]
 * [say-it](https://pronounce.renlab.ai) - 개발자 용어의 올바른 발음을 소리 내어 읽어 주는 커뮤니티 발음 사전. 출처가 있는 1650개 이상의 항목(kubectl, nginx, GIF, JSON)을 수록하고 macOS say 명령을 활용. [![Open-Source Software][OSS Icon]](https://github.com/anzy-renlab-ai/pronounce) ![Freeware][Freeware Icon]
 * [SimTool](https://github.com/azizuysal/simtool) - 강력한 앱 브라우징 및 파일 보기 기능을 갖춘 iOS 시뮬레이터 관리용 터미널 UI. [![Open-Source Software][OSS Icon]](https://github.com/azizuysal/simtool) ![Freeware][Freeware Icon]
+* [subswap](https://github.com/x0c/subswap) - 남은 사용량을 확인하고 재로그인 없이 Claude Code, Codex, Cursor, Kimi Code, OpenCode 계정을 전환. [![Open-Source Software][OSS Icon]](https://github.com/x0c/subswap) ![Freeware][Freeware Icon]
 
 ## 기타
 
@@ -157,6 +162,7 @@
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [purge-cli](https://github.com/soummyaanon/purge) - 재생성 가능한 빌드 산출물, 캐시, Xcode DerivedData를 찾아 대화형 체크리스트에서 선택한 항목만 삭제하는 터미널 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [rustnet](https://github.com/domcyrus/rustnet) - 프로세스 식별 및 심층 패킷 검사를 지원하는 크로스 플랫폼 네트워크 모니터링 TUI. [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
+* [Summon](https://github.com/juan294/summon) - Ghostty 또는 Rex에서 설정 가능한 멀티 페인 프로젝트 작업 공간을 명령 하나로 실행하는 CLI (tmux 불필요). [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - 이전 명령의 오타를 수정해주는 유용한 도구. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 강력한 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
 * [trash](https://github.com/sindresorhus/trash) - 파일과 디렉토리를 휴지통으로 이동시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
