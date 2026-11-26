@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Squeeze7z</title>
+      <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
+      <guid isPermaLink="false">e1dd7a9c7cd19fff4b0e7b28cae380d55477368a:Squeeze7z</guid>
+      <pubDate>Thu, 26 Nov 2026 05:11:26 GMT</pubDate>
+      <category>Utilities / File Organization Tools</category>
+      <description>Category: Utilities / File Organization Tools
+App: Squeeze7z
+Description: Open-source tool that repacks folders and archives into smaller 7z files, choosing the method for each file type and verifying every file before keeping the result.
+Open Source: https://github.com/Camponotus-vagus/Squeeze7z
+Commit: Add Squeeze7z to File Organization Tools (#5066)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a</description>
+      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Squeeze7z<br/>Description: Open-source tool that repacks folders and archives into smaller 7z files, choosing the method for each file type and verifying every file before keeping the result.<br/>Open Source: https://github.com/Camponotus-vagus/Squeeze7z<br/>Commit: Add Squeeze7z to File Organization Tools (#5066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a]]></content:encoded>
+    </item>
     <item>
       <title>AI Hub Bar</title>
       <link>https://olehdemishev.github.io/AIHubBar/</link>
@@ -722,21 +736,6 @@ Open Source: https://github.com/erict16/ragdoll-mail
 Commit: Add Ragdoll Mail to Email Clients (#4844)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
       <content:encoded><![CDATA[Category: Communication / Email Clients<br/>App: Ragdoll Mail<br/>Description: Open-source IMAP mail client with instant local full-text search and a command line for scripts and AI agents.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
-    </item>
-    <item>
-      <title>Kantor</title>
-      <link>https://kantor.paparanai.id</link>
-      <guid isPermaLink="false">a81ddfe74b45ff966887984ef1c8c36107bb0c57:Kantor</guid>
-      <pubDate>Sat, 21 Nov 2026 12:41:59 GMT</pubDate>
-      <category>Reading and Writing Tools / Office</category>
-      <description>Category: Reading and Writing Tools / Office
-App: Kantor
-Description: Native office suite (Sheets, Docs, Slides) that opens and saves Excel, Word and PowerPoint files.
-Website: https://kantor.paparanai.id
-Open Source: https://github.com/dzulfikar08/kantor
-Commit: Add Kantor to Office (#4843)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Kantor<br/>Description: Native office suite (Sheets, Docs, Slides) that opens and saves Excel, Word and PowerPoint files.<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
     </item>
   </channel>
 </rss>

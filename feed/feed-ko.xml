@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Squeeze7z</title>
+      <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
+      <guid isPermaLink="false">e1dd7a9c7cd19fff4b0e7b28cae380d55477368a:Squeeze7z</guid>
+      <pubDate>Thu, 26 Nov 2026 05:11:26 GMT</pubDate>
+      <category>유틸리티 / 파일 정리 도구</category>
+      <description>Category: 유틸리티 / 파일 정리 도구
+App: Squeeze7z
+Description: 파일 종류별로 압축 방식을 고르고 모든 파일을 검증한 뒤 폴더와 압축 파일을 더 작은 7z 파일로 다시 압축하는 오픈 소스 도구.
+Open Source: https://github.com/Camponotus-vagus/Squeeze7z
+Commit: Add Squeeze7z to File Organization Tools (#5066)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 파일 정리 도구<br/>App: Squeeze7z<br/>Description: 파일 종류별로 압축 방식을 고르고 모든 파일을 검증한 뒤 폴더와 압축 파일을 더 작은 7z 파일로 다시 압축하는 오픈 소스 도구.<br/>Open Source: https://github.com/Camponotus-vagus/Squeeze7z<br/>Commit: Add Squeeze7z to File Organization Tools (#5066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a]]></content:encoded>
+    </item>
     <item>
       <title>AI Hub Bar</title>
       <link>https://olehdemishev.github.io/AIHubBar/</link>
@@ -722,21 +736,6 @@ Open Source: https://github.com/KrisWonka/FanShift
 Commit: Add FanShift to System Related Tools (#4807)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: FanShift<br/>Description: Apple Silicon Mac용 메뉴 막대 팬 제어 도구. 전역 단축키 하나로 직접 만든 온도 곡선을 전환.<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
-    </item>
-    <item>
-      <title>ezNTFS</title>
-      <link>https://ixiehao.github.io/ezNTFS/</link>
-      <guid isPermaLink="false">a4c70e32e505dd1d18e856b552bfb4f9395e2d98:ezNTFS</guid>
-      <pubDate>Sat, 21 Nov 2026 09:09:09 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: ezNTFS
-Description: macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구.
-Website: https://ixiehao.github.io/ezNTFS/
-Open Source: https://github.com/ixiehao/ezNTFS
-Commit: Add ezNTFS (#4841)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: ezNTFS<br/>Description: macFUSE와 NTFS-3G를 사용해 외장 NTFS 드라이브를 읽기·쓰기 모드로 마운트하는 도구.<br/>Website: https://ixiehao.github.io/ezNTFS/<br/>Open Source: https://github.com/ixiehao/ezNTFS<br/>Commit: Add ezNTFS (#4841)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4c70e32e505dd1d18e856b552bfb4f9395e2d98]]></content:encoded>
     </item>
   </channel>
 </rss>

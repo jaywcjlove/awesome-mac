@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Squeeze7z</title>
+      <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
+      <guid isPermaLink="false">e1dd7a9c7cd19fff4b0e7b28cae380d55477368a:Squeeze7z</guid>
+      <pubDate>Thu, 26 Nov 2026 05:11:26 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Squeeze7z
+Description: 开源工具，将文件夹和压缩包重新打包为更小的 7z 文件，按文件类型选择压缩方法，并在保留结果前逐一校验每个文件。
+Open Source: https://github.com/Camponotus-vagus/Squeeze7z
+Commit: Add Squeeze7z to File Organization Tools (#5066)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Squeeze7z<br/>Description: 开源工具，将文件夹和压缩包重新打包为更小的 7z 文件，按文件类型选择压缩方法，并在保留结果前逐一校验每个文件。<br/>Open Source: https://github.com/Camponotus-vagus/Squeeze7z<br/>Commit: Add Squeeze7z to File Organization Tools (#5066)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e1dd7a9c7cd19fff4b0e7b28cae380d55477368a]]></content:encoded>
+    </item>
     <item>
       <title>AI Hub Bar</title>
       <link>https://olehdemishev.github.io/AIHubBar/</link>
@@ -722,20 +736,6 @@ Open Source: https://github.com/ege-arhan/ebb
 Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Ebb<br/>Description: 开源的磁盘清理与 AI 存储查看工具，支持 macOS、Windows 和 Linux：先给出可阅读的清理计划，删除项进入废纸篓并保留 90 天撤销记录，可让支持 MCP 的 AI 客户端协助，但绝不自行删除。<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
-    </item>
-    <item>
-      <title>FanShift</title>
-      <link>https://github.com/KrisWonka/FanShift</link>
-      <guid isPermaLink="false">e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187:FanShift</guid>
-      <pubDate>Sat, 21 Nov 2026 09:14:40 GMT</pubDate>
-      <category>其它实用工具 / 系统相关工具</category>
-      <description>Category: 其它实用工具 / 系统相关工具
-App: FanShift
-Description: 适用于 Apple Silicon Mac 的菜单栏风扇控制工具，用一个全局快捷键在自己设定的几条温度曲线之间切换。
-Open Source: https://github.com/KrisWonka/FanShift
-Commit: Add FanShift to System Related Tools (#4807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: FanShift<br/>Description: 适用于 Apple Silicon Mac 的菜单栏风扇控制工具，用一个全局快捷键在自己设定的几条温度曲线之间切换。<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
     </item>
   </channel>
 </rss>
