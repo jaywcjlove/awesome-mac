@@ -1085,6 +1085,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Dropshare](https://dropshare.app) - File sharing tool for screenshots, screen recordings, and other files.
 * [FileShipper](https://getapps.cafe/app/fileshipper) - Peer-to-peer file transfer between computers and phones over local Wi-Fi. ![Freeware][Freeware Icon]
 * [Flow](https://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
+* [FolderShare](https://foldershare.top) - Native macOS menu-bar app that turns a folder into a temporary HTTPS link and QR code; visitors use a browser, with no app or account required. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Nearby Drop](https://arslanbasharat-o-o.github.io/NearByDrop/) - Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability. ![Freeware][Freeware Icon]
 * [NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
