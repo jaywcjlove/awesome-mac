@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>개발 도구 / 가상화</category>
+      <description>Category: 개발 도구 / 가상화
+App: VirtualBuddy
+Description: Apple Silicon Mac에서 macOS 및 ARM Linux 가상 머신을 실행하는 도구.
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: VirtualBuddy<br/>Description: Apple Silicon Mac에서 macOS 및 ARM Linux 가상 머신을 실행하는 도구.<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
     <item>
       <title>OhMyShot</title>
       <link>https://www.ohmyshot.org/</link>
@@ -722,21 +736,6 @@ Open Source: https://github.com/erict16/ragdoll-mail
 Commit: Add Ragdoll Mail to Email Clients (#4844)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
       <content:encoded><![CDATA[Category: 커뮤니케이션 / 이메일 클라이언트<br/>App: Ragdoll Mail<br/>Description: 즉시 결과가 나오는 로컬 전문 검색과 스크립트 및 AI 에이전트용 명령줄을 갖춘 오픈 소스 IMAP 메일 클라이언트.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
-    </item>
-    <item>
-      <title>Kantor</title>
-      <link>https://kantor.paparanai.id</link>
-      <guid isPermaLink="false">a81ddfe74b45ff966887984ef1c8c36107bb0c57:Kantor</guid>
-      <pubDate>Sat, 21 Nov 2026 12:41:59 GMT</pubDate>
-      <category>읽기 및 쓰기 도구 / 오피스</category>
-      <description>Category: 읽기 및 쓰기 도구 / 오피스
-App: Kantor
-Description: Excel, Word, PowerPoint 파일을 열고 저장하는 네이티브 오피스 스위트(Sheets, Docs, Slides).
-Website: https://kantor.paparanai.id
-Open Source: https://github.com/dzulfikar08/kantor
-Commit: Add Kantor to Office (#4843)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
-      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 오피스<br/>App: Kantor<br/>Description: Excel, Word, PowerPoint 파일을 열고 저장하는 네이티브 오피스 스위트(Sheets, Docs, Slides).<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
     </item>
   </channel>
 </rss>

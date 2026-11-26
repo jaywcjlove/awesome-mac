@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>虚拟机</category>
+      <description>Category: 虚拟机
+App: VirtualBuddy
+Description: 在搭载 Apple 芯片的 Mac 上运行 macOS 和 ARM Linux 虚拟机。
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: 虚拟机<br/>App: VirtualBuddy<br/>Description: 在搭载 Apple 芯片的 Mac 上运行 macOS 和 ARM Linux 虚拟机。<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
     <item>
       <title>OhMyShot</title>
       <link>https://www.ohmyshot.org/</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/rokoov/smorza
 Commit: Add Smorza (#4861)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
       <content:encoded><![CDATA[Category: 音频和视频<br/>App: Smorza<br/>Description: 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxtMini</title>
-      <link>https://actnow.dev/voxtmini</link>
-      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
-      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: VoxtMini
-Description: 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。
-Website: https://actnow.dev/voxtmini
-Open Source: https://github.com/hehehai/VoxtMini
-Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: VoxtMini<br/>Description: 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
     </item>
   </channel>
 </rss>
