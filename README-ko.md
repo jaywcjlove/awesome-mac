@@ -1139,6 +1139,7 @@ Awesome Mac
 * [ClashX Guide](https://clashx.tech) - ClashX용 가이드와 문제 해결 도구. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Cloudflare를 통해 트래픽을 라우팅하는 보안 네트워크 서비스. ![Freeware][Freeware Icon]
 * [DashVPN](https://getdashvpn.com/) - 스마트 라우팅을 지원하는 프록시 클라이언트로 VLESS, Shadowsocks, HTTPS 구독을 지원합니다. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dash-vpn-for-outline-vless/id6758860923?platform=mac)
+* [EthicalVPN](https://ethicalvpn.app/) - 사용자가 동의하여 공유하는 대역폭과 IP 주소로 운영되는 무료 데스크톱 VPN입니다. ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - 여러 프록시 프로토콜과 구독을 관리할 수 있는 멀티플랫폼 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
 * [LockPlus](https://github.com/steiale/lockplus) - macOS가 직접 적용하는 킬 스위치를 갖춘 WireGuard 및 OpenVPN 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/steiale/lockplus) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mullvad VPN](https://mullvad.net) - 익명 계정과 강한 개인정보 보호를 앞세운 VPN 서비스. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
