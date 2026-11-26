@@ -1524,6 +1524,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [One Thing](https://sindresorhus.com/one-thing) - Coloque uma única tarefa ou meta na sua barra de menus. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982?platform=mac)
 * [One Switch](https://fireball.studio/oneswitch) - App da barra de menus do Mac que adiciona várias chaves à barra de menus do Mac.
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One app da barra de menus, oculta o notch do MacBook Pro, modo escuro, AirPods, Shortcuts[![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
+* [OXI Menu Bar Calendar](https://oxisoft.io/apps/oxicalendar/) - Calendário mensal na barra de menus com notas em qualquer dia, números de semana ISO, atalho global e fixar no topo, funcionando offline e sem conta. [![App Store][app-store Icon]](https://apps.apple.com/app/id6761273522?platform=mac)
 * [Pandan](https://sindresorhus.com/pandan) - Consciência de tempo na sua barra de menus. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264?platform=mac)
 * [Peninsula](https://github.com/Celve/Peninsula) - Dynamic Peninsula para macOS, com foco em troca de janelas, notificações e armazenamento de arquivos. [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [PowerMeister](https://naden.co) - Economize energia e melhore a duração da bateria do seu MacBook.

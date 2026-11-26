@@ -1652,6 +1652,7 @@ Awesome Mac
 * [Netty](https://alvaldes.github.io/netty/) - 显示互联网是否真正连通，并提供延迟、抖动、丢包和网速测试的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - 调整通知横幅的位置和外观，并可用可自定义的面板替换通知中心。 [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 一款方便的控制中心工具，集成了隐藏MacBook Pro刘海、暗模式、AirPods、快捷指令等功能的多合一菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
+* [OXI Menu Bar Calendar](https://oxisoft.io/apps/oxicalendar/) - 支持每日笔记、ISO 周数、全局快捷键和窗口置顶的菜单栏月历，无需账号，完全离线使用。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6761273522?platform=mac)
 * [Peninsula](https://github.com/Celve/Peninsula) - macOS 的灵动岛，专注于窗口切换、通知和文件存储。 [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [Pokelet](https://smcnab1.github.io/pokelet/) - 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。 [![Open-Source Software][OSS Icon]](https://github.com/smcnab1/pokelet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Profisor](https://github.com/yefga/Profisor) - 从菜单栏切换当前项目的 Xcode 描述文件。 [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
