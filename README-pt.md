@@ -636,6 +636,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Vagrant](https://www.vagrantup.com) - Ferramenta para criar e distribuir ambientes de desenvolvimento. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [Veertu](https://veertu.com) - A VM mais leve para Mac. Forma responsiva, isolada em sandbox e nativa de executar VMs no seu Mac. ![Freeware][Freeware Icon]
 * [Virtual Box](https://www.virtualbox.org) - Produto de virtualização x86 e AMD64/Intel64 poderoso. ![Freeware][Freeware Icon]
+* [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Execute máquinas virtuais com macOS e Linux ARM em Macs com Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](https://www.vmware.com/) - VM poderosa e comercial desenvolvida pela VMware.
 
 ### Bancos de dados

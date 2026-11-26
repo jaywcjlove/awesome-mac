@@ -577,6 +577,7 @@ Awesome Mac
 * [UTM](https://mac.getutm.app/) - M1 Mac에서 VM을 실행하기 위한 GUI. [![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
 * [Vagrant](https://www.vagrantup.com) - 개발 환경 구축 및 배포 도구. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon]
 * [VirtualBox](http://www.virtualbox.org) - 강력한 x86 및 AMD64/Intel64 가상화 제품. ![Freeware][Freeware Icon]
+* [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Apple Silicon Mac에서 macOS 및 ARM Linux 가상 머신을 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - 강력한 상용 VM.
 
 ### 데이터베이스
