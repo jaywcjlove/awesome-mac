@@ -1074,7 +1074,7 @@ Awesome Mac
 * [Stedding](https://stedding.dev/) - Chromium 기반 오픈소스 Arc 스타일 브라우저. Spaces, 세로 탭, 고정 폴더, 명령 바, Arc 가져오기 지원. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - 문맥을 이해하고 웹페이지 대화와 작업 자동화를 지원하는 AI 네이티브 브라우저. ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/) - 사용자가 제어하는 브라우저. ![Freeware][Freeware Icon]
-* [Yalqen](https://yalqen.com/) - 수직 탭, 키보드 중심 명령 바, 내장 개발자 도구, 광고 및 추적기 차단 기능을 갖춘 개발자용 오픈 소스 Chromium 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
+* [Yalqen](https://yalqen.com/) - 수직 탭, 키보드 중심 명령 바, 별도의 브라우저 프로필을 사용할 수 있는 스페이스, 내장 개발자 도구, 광고 및 추적기 차단 기능을 갖춘 개발자용 오픈 소스 Chromium 브라우저. [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
 
 ## 번역 도구
 
