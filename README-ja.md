@@ -1569,6 +1569,7 @@ Awesome Mac
 * [mysa](https://github.com/alishansnsn/mysa) - 素早い深呼吸の休憩のための macOS メニューバーアプリ。すりガラス風の画面オーバーレイと手書きの格言を備える。 [![Open-Source Software][OSS Icon]](https://github.com/alishansnsn/mysa) ![Freeware][Freeware Icon]
 * [NetFluss](https://www.ranagmbh.de/netfluss/) - リアルタイムの通信速度と帯域使用アプリを表示するネイティブなメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/rana-gmbh/netfluss) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Netty](https://alvaldes.github.io/netty/) - インターネットに本当につながっているかを示し、遅延・ジッター・パケットロス・速度テストも確認できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/alvaldes/netty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [noswitch](https://www.nosub.dev/noswitch) - 「MacBook のノッチをツールハブに。クリップボード履歴、スクリーンショット、ファイルシェルフ、Claude Code/Codex の状態、スリープ防止をホバーひとつで。」
 * [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) - システム指標、メディア操作、クイックメモ、画面収録、タスクプロファイルを備えた、MacBookのノッチを中心としたコントロールセンター。 [![Open-Source Software][OSS Icon]](https://github.com/systemAdmin-ai/NotchDeck) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Notchly](https://notchly.xyz) - AIコーディングエージェント通知に対応した、macOS向けの軽量なDynamic Island。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NØTH](https://github.com/manugowda19/noth) - MacBookのノッチを、音楽・ファイル・クリップボード・カレンダー・メモ・ツールをまとめたライブアクティビティとコマンドセンターに変えるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/manugowda19/noth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
