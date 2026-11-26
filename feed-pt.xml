@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Earpiece</title>
+      <link>https://github.com/AllanLotta/earpiece</link>
+      <guid isPermaLink="false">c46bd96fc31360f111c2fd4c2777970630dd4ccb:Earpiece</guid>
+      <pubDate>Thu, 26 Nov 2026 16:06:25 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio</category>
+      <description>Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio
+App: Earpiece
+Description: Copiloto de chamadas na barra de menus que transcreve no próprio dispositivo, detecta perguntas feitas a você e mostra uma resposta sugerida no notch durante a chamada, usando sua assinatura do Claude.
+Open Source: https://github.com/AllanLotta/earpiece
+Commit: Add Earpiece to Audio Record and Process (#5094)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio<br/>App: Earpiece<br/>Description: Copiloto de chamadas na barra de menus que transcreve no próprio dispositivo, detecta perguntas feitas a você e mostra uma resposta sugerida no notch durante a chamada, usando sua assinatura do Claude.<br/>Open Source: https://github.com/AllanLotta/earpiece<br/>Commit: Add Earpiece to Audio Record and Process (#5094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -726,20 +740,6 @@ Open Source: https://github.com/ezzy1630/Downright
 Commit: Add Downright to Markdown tools (#2606)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Downright<br/>Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Sheer</title>
-      <link>https://github.com/AzurLiu/sheer</link>
-      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
-      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
-      <category>Utilitários / Ferramentas da Barra de Menus</category>
-      <description>Category: Utilitários / Ferramentas da Barra de Menus
-App: Sheer
-Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.
-Open Source: https://github.com/AzurLiu/sheer
-Commit: Add Sheer to Menu Bar Tools (#4592)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
-      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Sheer<br/>Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
     </item>
   </channel>
 </rss>

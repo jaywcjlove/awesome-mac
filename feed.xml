@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Earpiece</title>
+      <link>https://github.com/AllanLotta/earpiece</link>
+      <guid isPermaLink="false">c46bd96fc31360f111c2fd4c2777970630dd4ccb:Earpiece</guid>
+      <pubDate>Thu, 26 Nov 2026 16:06:25 GMT</pubDate>
+      <category>Audio and Video Tools / Audio Record and Process</category>
+      <description>Category: Audio and Video Tools / Audio Record and Process
+App: Earpiece
+Description: Menu bar call copilot that transcribes on-device, spots questions aimed at you and shows a suggested answer in the notch while the call is live, using your Claude subscription.
+Open Source: https://github.com/AllanLotta/earpiece
+Commit: Add Earpiece to Audio Record and Process (#5094)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Earpiece<br/>Description: Menu bar call copilot that transcribes on-device, spots questions aimed at you and shows a suggested answer in the notch while the call is live, using your Claude subscription.<br/>Open Source: https://github.com/AllanLotta/earpiece<br/>Commit: Add Earpiece to Audio Record and Process (#5094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb]]></content:encoded>
+    </item>
     <item>
       <title>Friday</title>
       <link>https://www.tryfridaywork.com</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/rokoov/smorza
 Commit: Add Smorza (#4861)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Smorza<br/>Description: Menu bar volume mixer that gives each app its own volume, mute, and output device.<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
-    </item>
-    <item>
-      <title>TMOP</title>
-      <link>https://tekikaito.github.io/tmop/</link>
-      <guid isPermaLink="false">061e119e0b2774ba85daf81e70239a293b4599d0:TMOP</guid>
-      <pubDate>Sat, 21 Nov 2026 22:16:08 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: TMOP
-Description: Task manager and system monitor with CPU, memory, disk and network graphs and process management; also runs on Windows and Linux.
-Website: https://tekikaito.github.io/tmop/
-Open Source: https://github.com/tekikaito/tmop
-Commit: Add TMOP to System Related Tools (#4856)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061e119e0b2774ba85daf81e70239a293b4599d0</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TMOP<br/>Description: Task manager and system monitor with CPU, memory, disk and network graphs and process management; also runs on Windows and Linux.<br/>Website: https://tekikaito.github.io/tmop/<br/>Open Source: https://github.com/tekikaito/tmop<br/>Commit: Add TMOP to System Related Tools (#4856)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/061e119e0b2774ba85daf81e70239a293b4599d0]]></content:encoded>
     </item>
   </channel>
 </rss>
