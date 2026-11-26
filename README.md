@@ -230,6 +230,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Office
 
+* [Cue Office](https://heycue.io/office) - All-in-one office suite combining Docs, Sheets, Slides, and PDF, with Microsoft Office compatibility and built-in AI tools. ![Freeware][Freeware Icon]
 * [Kantor](https://kantor.paparanai.id) - Native office suite (Sheets, Docs, Slides) that opens and saves Excel, Word and PowerPoint files. [![Open-Source Software][OSS Icon]](https://github.com/dzulfikar08/kantor) ![Freeware][Freeware Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id361285480?platform=mac) - Build stunning presentations. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id361285480?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - Free, open-source office software used and tested daily by a large community. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]

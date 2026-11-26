@@ -204,6 +204,7 @@ Awesome Mac
 
 ### 오피스
 
+* [Cue Office](https://heycue.io/office) - 문서, 스프레드시트, 슬라이드, PDF를 지원하는 올인원 오피스 스위트. Microsoft Office 파일과 호환되며 AI 도구를 내장. ![Freeware][Freeware Icon]
 * [Kantor](https://kantor.paparanai.id) - Excel, Word, PowerPoint 파일을 열고 저장하는 네이티브 오피스 스위트(Sheets, Docs, Slides). [![Open-Source Software][OSS Icon]](https://github.com/dzulfikar08/kantor) ![Freeware][Freeware Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id361285480?platform=mac) - 멋진 프레젠테이션 제작. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id361285480?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 대규모 커뮤니티에서 매일 사용하고 테스트하는 무료 오픈 소스 오피스 소프트웨어. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
