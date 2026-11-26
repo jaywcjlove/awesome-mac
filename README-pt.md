@@ -1609,6 +1609,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [AppPorts](https://github.com/wzh4869/AppPorts) - Mova apps para armazenamento externo mantendo links de inicialização funcionais em `/Applications`. [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
 * [Archivator](https://github.com/davidpraznik/Archivator) - Ferramenta de arquivamento na barra de menus que comprime e extrai arquivos arrastando-os para uma roda radial. [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Archivator) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BetterZip](https://macitbetter.com/) - Ferramenta de arquivamento com suporte a ZIP, TAR, TGZ, TBZ, TXZ (novo), 7-ZIP, RAR.
+* [DuPanel](https://dupanel.dev) - Gerenciador de arquivos de painel duplo com atalhos nas teclas F, visualizador integrado, arquivos compactados abertos como pastas e conexões FTP, SFTP e SMB. ![Freeware][Freeware Icon]
 * [eZip](https://ezip.awehunt.com) - Ferramenta de arquivamento leve para ZIP, RAR, 7Z e outros formatos comuns. ![Freeware][Freeware Icon]
 * [Fileside](https://www.fileside.app) - Um gerenciador de arquivos moderno, em mosaico, com painéis ilimitados.
 * [Folders File Manager](https://foldersapp.dev) - Um gerenciador de arquivos com árvore de pastas expansível, semelhante ao Explorador de Arquivos do Windows.
