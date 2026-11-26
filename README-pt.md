@@ -1320,6 +1320,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 ## Finanças
 
 * [HTS for Mac](https://github.com/duct-tape2/hts-for-mac) - Espaço somente leitura para ações coreanas e americanas, no estilo dos apps HTS do Windows, com livro de ofertas de 10 níveis, layouts de quatro gráficos, listas de acompanhamento e espaços de trabalho salvos; cotações ao vivo exigem sua própria chave da API REST da Kiwoom. ![Freeware][Freeware Icon]
+* [Parendi](https://parendi.app) - Importa extratos bancários, classifica cada transação em uma categoria e mostra a taxa de poupança e o patrimônio líquido. Sem conta, sem conexão com o banco, sem análises. [![App Store][app-store Icon]](https://apps.apple.com/app/id6806927472)
 * [Posnic](https://www.posnic.com/) - Software de PDV e faturamento de código aberto, offline primeiro, para lojas de varejo e restaurantes. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Monitor nativo de mercado na barra de menus para ações dos EUA, Hong Kong e China, criptomoedas, índices, ETFs e lucro/prejuízo da carteira. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - Rastreador de assinaturas com lembretes de renovação. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
