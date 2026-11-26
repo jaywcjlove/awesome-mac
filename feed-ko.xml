@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>BotArk</title>
+      <link>https://qybaihe.github.io/botark/</link>
+      <guid isPermaLink="false">dd656cab30d07dfffdda4791fa81c1edce3cca12:BotArk</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:39 GMT</pubDate>
+      <category>AI 도구</category>
+      <description>Category: AI 도구
+App: BotArk
+Description: Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue, Hermes를 하나로 통합하는 오픈 소스(MIT) 데스크톱 워크스페이스. 멀티 에이전트 협업 룸, 계정별 프록시 격리, 승인 기반 로컬 MCP 지원.
+Website: https://qybaihe.github.io/botark/
+Open Source: https://github.com/qybaihe/botark
+Commit: Add BotArk to AI Tools (EN/ZH/JA/KO/PT) (#5070)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd656cab30d07dfffdda4791fa81c1edce3cca12</description>
+      <content:encoded><![CDATA[Category: AI 도구<br/>App: BotArk<br/>Description: Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue, Hermes를 하나로 통합하는 오픈 소스(MIT) 데스크톱 워크스페이스. 멀티 에이전트 협업 룸, 계정별 프록시 격리, 승인 기반 로컬 MCP 지원.<br/>Website: https://qybaihe.github.io/botark/<br/>Open Source: https://github.com/qybaihe/botark<br/>Commit: Add BotArk to AI Tools (EN/ZH/JA/KO/PT) (#5070)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dd656cab30d07dfffdda4791fa81c1edce3cca12]]></content:encoded>
+    </item>
     <item>
       <title>Squeeze7z</title>
       <link>https://github.com/Camponotus-vagus/Squeeze7z</link>
@@ -722,20 +737,6 @@ Open Source: https://github.com/trina-app/trina-ax
 Commit: Add Trina AX to Collaboration and Team Tools (#4809)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/06e47b692a4b2bd6bbd26422ca55273ee2618c53</description>
       <content:encoded><![CDATA[Category: 커뮤니케이션 / 협업 및 팀 도구<br/>App: Trina AX<br/>Description: 공용 드라이브, 채팅방, 사람별 폴더 권한을 갖춘 셀프 호스팅 팀 AI 워크스페이스.<br/>Website: https://ax.trina.app<br/>Open Source: https://github.com/trina-app/trina-ax<br/>Commit: Add Trina AX to Collaboration and Team Tools (#4809)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/06e47b692a4b2bd6bbd26422ca55273ee2618c53]]></content:encoded>
-    </item>
-    <item>
-      <title>FanShift</title>
-      <link>https://github.com/KrisWonka/FanShift</link>
-      <guid isPermaLink="false">e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187:FanShift</guid>
-      <pubDate>Sat, 21 Nov 2026 09:14:40 GMT</pubDate>
-      <category>유틸리티 / 시스템 도구</category>
-      <description>Category: 유틸리티 / 시스템 도구
-App: FanShift
-Description: Apple Silicon Mac용 메뉴 막대 팬 제어 도구. 전역 단축키 하나로 직접 만든 온도 곡선을 전환.
-Open Source: https://github.com/KrisWonka/FanShift
-Commit: Add FanShift to System Related Tools (#4807)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: FanShift<br/>Description: Apple Silicon Mac용 메뉴 막대 팬 제어 도구. 전역 단축키 하나로 직접 만든 온도 곡선을 전환.<br/>Open Source: https://github.com/KrisWonka/FanShift<br/>Commit: Add FanShift to System Related Tools (#4807)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7819bf9cbb0f59fdd3bb4281d535e1ff25b4187]]></content:encoded>
     </item>
   </channel>
 </rss>
