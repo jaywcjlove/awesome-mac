@@ -1250,6 +1250,7 @@ Awesome Mac
 
 * [Arq](https://www.arqbackup.com/) - AWS、GCP、DropBoxなどをサポートするクラウドストレージバックアップクライアント。
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carboniteは最も一般的なデータ損失からMacを保護できる。
+* [DriveCraft](https://drivecraft.fabrizioballiano.com/) - rcloneをベースにした、OneDrive、Dropbox、iCloud Drive、MEGAなどのクラウドストレージに対応するオープンソースの同期クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/fballiano/drivecraft) ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - クラウドストレージとファイル同期サービス。 ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz) - 50GBの無料ストレージを提供する無料クラウドサービス。 ![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - ownCloudの活発にメンテナンスされたフォーク。より高速で完全にオープンソース [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)

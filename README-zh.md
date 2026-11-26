@@ -1217,6 +1217,7 @@ Awesome Mac
 
 * [115](http://pc.115.com/) - 115 云客户端。![Freeware][Freeware Icon]
 * [123云盘](https://www.123pan.com/) - 123 云盘客户端。![Freeware][Freeware Icon]
+* [DriveCraft](https://drivecraft.fabrizioballiano.com/) - 基于 rclone 的开源同步客户端，支持 OneDrive、Dropbox、iCloud Drive、MEGA 等云存储服务。 [![Open-Source Software][OSS Icon]](https://github.com/fballiano/drivecraft) ![Freeware][Freeware Icon]
 * [Dropbox](http://www.dropboxchina.com/Download/dropbox-for-mac.html) - 云存储与文件同步服务。![Freeware][Freeware Icon]
 * [NextCloud](https://nextcloud.com/) - 基于 ownCloud 完全开源免费开源，企业文件同步和共享。 ![Open-Source Software][OSS Icon]
 * [Mega](https://mega.nz) - 免费的云服务，提供 50GB 的免费存储空间。![Freeware][Freeware Icon]

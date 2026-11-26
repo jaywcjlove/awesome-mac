@@ -1017,6 +1017,7 @@ Awesome Mac
 ## 클라우드 스토리지
 
 * [Arq](https://www.arqbackup.com/) - AWS, GCP, Dropbox 등을 지원하는 클라우드 백업 클라이언트.
+* [DriveCraft](https://drivecraft.fabrizioballiano.com/) - OneDrive, Dropbox, iCloud Drive, MEGA 등 클라우드 스토리지를 지원하는 rclone 기반 오픈 소스 동기화 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/fballiano/drivecraft) ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - 클라우드 스토리지 및 파일 동기화 서비스. ![Freeware][Freeware Icon]
 * [Mega](https://mega.nz/) - 50GB의 무료 저장 공간을 제공하는 클라우드 서비스. ![Freeware][Freeware Icon]
 * [Nextcloud](https://nextcloud.com/) - 개인용 클라우드 서버 솔루션. [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
