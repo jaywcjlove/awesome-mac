@@ -943,6 +943,7 @@ Awesome Mac
 * [HandBrake](https://handbrake.fr/) - 미디어를 현대적인 포맷으로 변환하는 비디오 트랜스코더. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [Hertzwise](https://zeetabit.github.io/Hertzwise/) - Apple Music 또는 Tidal의 곡마다 DAC 샘플레이트를 자동으로 전환해 무손실을 비트 퍼펙트로 재생하는 메뉴 막대 앱으로, 기기별 AutoEq 헤드폰 EQ를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/zeetabit/Hertzwise) ![Freeware][Freeware Icon]
 * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - Apple Silicon 및 Intel Mac용 비공식 플레이어 및 다운로더로, 중국 숏폼 드라마 서비스 Hongguo, Xifan, Hema를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
+* [HyperFrames Studio](https://hyperframes.studio/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 프롬프트, 직접 찍은 영상 또는 리메이크하고 싶은 영상으로 동영상을 만들고 편집하고 리메이크하며 애니메이션 자막과 사용 중인 Claude Code·Codex를 지원하는 AI 동영상 편집기로, 오픈 소스 HyperFrames 프레임워크를 기반으로 합니다. ![Freeware][Freeware Icon]
 * [IINA](https://iina.io/) - 현대적인 비디오 플레이어. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
 * [IPTVMac](https://goelir.github.io/IPTVMac/) - Xtream Codes와 M3U를 지원하는 네이티브 IPTV 플레이어. 빠른 검색, mpv 재생, 화면 속 화면, 다운로드를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/Goelir/IPTVMac) ![Freeware][Freeware Icon]
 * [Kodi](https://kodi.tv/) - 비디오, 음악, 사진 등을 다루는 오픈 소스 미디어 센터. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
