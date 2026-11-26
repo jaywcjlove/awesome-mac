@@ -1576,6 +1576,7 @@ Awesome Mac
 * [AirPoise](https://airpoise.vercel.app/) - 利用 AirPods 运动传感器提供头部姿态提醒和可自定义头部手势快捷操作的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - 轻松托管本地静态网站和 Rack 应用的工具。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+* [Awakelet](https://tidyware.app/awakelet/) - 让 Mac 在设定时间内、某个应用退出前或下载完成前保持唤醒。
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - 适用于 macOS 27 的菜单栏管理工具，按应用隐藏图标，并可通过点击、悬停或快捷键重新显示。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
 * [Belay](https://perfectoweb.github.io/Belay/) - 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
