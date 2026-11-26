@@ -1393,7 +1393,7 @@ Awesome Mac
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - Mac上に永続的にインストールされているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KnockKnock)
 * [LinkLiar](http://halo.github.io/LinkLiar) - macOS用のリンク層MACスプーフィングGUI。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
 * [LockDown](https://objective-see.com/products/lockdown.html) - El Capitan用のセキュリティ構成設定を監査および修正するオープンソースツール。 [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
-* [LuLu](https://objective-see.com/products/lulu.html) - 不正な（送信）ネットワークトラフィックをブロックすることを目的とした無料のmacOSファイアウォール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) [![Open-Source Software][OSS Icon]](1) ![Freeware][Freeware Icon]
+* [LuLu](https://objective-see.com/products/lulu.html) - 不正な（送信）ネットワークトラフィックをブロックすることを目的とした無料のmacOSファイアウォール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID、Apple Watch、またはパスワードで任意のmacOSアプリをロックし、全モニターにぼかしオーバーレイを表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - マルウェアを検出・除去するセキュリティツール。 ![Freeware][Freeware Icon]
 * [Mana Security](https://github.com/manasecurity/mana-security-app) - 個人向けの脆弱性管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
@@ -1777,7 +1777,7 @@ Awesome Mac
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - Electronを使用した、Androidデバイスの表示と制御のためのグラフィカルなScrcpy。 [![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Ferrocast](https://ferrocast.app) - Rust製の高速キーボードランチャー。クリップボード履歴、スニペット、ウィンドウ管理、275種類のローカルファイル変換を備えています。 [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Trello、Notion、Asanaに代わるオープンソースのセルフホスト型ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
-* [Focus Firewall](https://focusfirewall.com) - 作業中にSNSやその他の気を散らすものをブロックするミニマルなフォーカスアプリ。 [![App Store][app-store Icon]]([https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac))
+* [Focus Firewall](https://focusfirewall.com) - 作業中にSNSやその他の気を散らすものをブロックするミニマルなフォーカスアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac)
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - メニューバーからファンクションキーをすばやく使えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - アプリ、リンク、ファイルをプロジェクトごとにまとめるワークスペースツール。 [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Luaスクリプトエンジンを使った強力なOSX自動化ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
