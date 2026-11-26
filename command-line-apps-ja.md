@@ -206,6 +206,7 @@ Awesome Command Line Apps
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - 複雑なtmuxセッションを簡単に管理。 [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [trash](https://github.com/sindresorhus/trash) - ファイルやディレクトリをゴミ箱に移動。 ![Open-Source Software][OSS Icon]
 * [VisiData](https://visidata.org) - データの発見と整理のためのターミナルスプレッドシートマルチツール。 [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) ![Freeware][Freeware Icon]
+* [Wardlatch](https://github.com/deimos-hq/wardlatch) - 読み取り専用のチェック。失効・漏洩した CA 鍵をまだ信頼しているランタイム、脆弱なバージョン、差し替えられたバイナリ、汚染されたパッケージを検出します。テレメトリなし、何も変更しません。 [![Open-Source Software][OSS Icon]](https://github.com/deimos-hq/wardlatch) ![Freeware][Freeware Icon]
 * [xonsh](https://xon.sh/contents.html) - Pythonベースのクロスプラットフォーム、Unix志向のシェル言語＆コマンドプロンプト。 [![Open-Source Software][OSS Icon]](https://github.com/xonsh/xonsh) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - 対話的な使用のために設計されたシェル。強力なスクリプト言語でもある。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - zsh設定を管理するための素晴らしいコミュニティ主導フレームワーク。 [![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]

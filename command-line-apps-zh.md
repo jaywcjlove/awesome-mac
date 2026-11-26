@@ -180,6 +180,7 @@
 * [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画。 [![Open-Source Software][OSS Icon]](https://github.com/icholy/ttygif) ![Freeware][Freeware Icon]
 * [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
+* [Wardlatch](https://github.com/deimos-hq/wardlatch) - 只读检查：找出仍信任已吊销或已泄露 CA 密钥的运行时、存在漏洞的版本、被替换的二进制文件和被投毒的软件包。无遥测，不做任何修改。 [![Open-Source Software][OSS Icon]](https://github.com/deimos-hq/wardlatch) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 一个由社区驱动,用于管理zsh配置的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
 
