@@ -1625,6 +1625,7 @@ Awesome Mac
 * [Itsytv](https://itsytv.app/) - 从菜单栏控制 Apple TV。[![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [Keelhaven](https://keelhaven.app) - 按计划把文件夹加密备份到本地磁盘、S3、SFTP 或 REST 服务器的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 统计每日按键、点击、移动和滚动数据的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
+* [KuroCat](https://kurocat.cc/) - 原生 Swift 开发的菜单栏开源桌面萌猫（Bongo Cat 替代），支持全状态键鼠与数位板同步、2.5D 球面转头捕猎、OBS 透明/绿幕直播捕获及在线皮肤工坊。 [![Open-Source Software][OSS Icon]](https://github.com/chanke17/KuroCat) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Ledge](https://ledgeapp.dev) - 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Logoer](https://github.com/lihaoyun6/Logoer) - 更换 macOS 菜单栏苹果 Logo 样式的小工具。[![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Logoer) ![Freeware][Freeware Icon]
 * [LogoLight](https://logolight.app) - 从菜单栏关闭、调暗配备 PROLED XDR 显示屏的 MacBook Pro 背面的发光 Apple 标志，或为它添加呼吸等动画效果。[![Open-Source Software][OSS Icon]](https://github.com/Ark0N/LogoLight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
