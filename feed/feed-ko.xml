@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:06:25 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Earpiece</title>
+      <link>https://github.com/AllanLotta/earpiece</link>
+      <guid isPermaLink="false">c46bd96fc31360f111c2fd4c2777970630dd4ccb:Earpiece</guid>
+      <pubDate>Thu, 26 Nov 2026 16:06:25 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: Earpiece
+Description: 통화를 기기에서 전사하고 나에게 향한 질문을 감지해 통화 중 노치에 답변 제안을 보여 주는 메뉴 막대 통화 코파일럿. Claude 구독을 사용.
+Open Source: https://github.com/AllanLotta/earpiece
+Commit: Add Earpiece to Audio Record and Process (#5094)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Earpiece<br/>Description: 통화를 기기에서 전사하고 나에게 향한 질문을 감지해 통화 중 노치에 답변 제안을 보여 주는 메뉴 막대 통화 코파일럿. Claude 구독을 사용.<br/>Open Source: https://github.com/AllanLotta/earpiece<br/>Commit: Add Earpiece to Audio Record and Process (#5094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb]]></content:encoded>
+    </item>
     <item>
       <title>Friday</title>
       <link>https://www.tryfridaywork.com</link>
@@ -723,20 +737,6 @@ Open Source: https://github.com/baseguard/hangar
 Commit: Add Hangar to Virtualization (#4814)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Hangar<br/>Description: AI 코딩 에이전트를 macOS, Linux, Windows 가상 머신에서 실행하며, 허용 목록 기반 네트워크 접근과 스냅샷을 지원합니다.<br/>Website: https://hangar.bot<br/>Open Source: https://github.com/baseguard/hangar<br/>Commit: Add Hangar to Virtualization (#4814)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007537953ed74fba4f1f9d702a5e14d5df3991ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Ebb</title>
-      <link>https://github.com/ege-arhan/ebb</link>
-      <guid isPermaLink="false">1c1a4036aa288be1509c5dc8c2bb517bddcf83ba:Ebb</guid>
-      <pubDate>Sat, 21 Nov 2026 10:10:52 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Ebb
-Description: macOS, Windows, Linux를 지원하는 오픈 소스 디스크 정리 및 AI 저장 공간 뷰어. 읽을 수 있는 정리 계획을 먼저 제시하고, 삭제 항목은 휴지통으로 보내며 90일 동안 되돌릴 수 있는 기록을 남긴다. MCP를 지원하는 AI 클라이언트가 도울 수 있지만 AI가 스스로 삭제하지는 않는다.
-Open Source: https://github.com/ege-arhan/ebb
-Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Ebb<br/>Description: macOS, Windows, Linux를 지원하는 오픈 소스 디스크 정리 및 AI 저장 공간 뷰어. 읽을 수 있는 정리 계획을 먼저 제시하고, 삭제 항목은 휴지통으로 보내며 90일 동안 되돌릴 수 있는 기록을 남긴다. MCP를 지원하는 AI 클라이언트가 도울 수 있지만 AI가 스스로 삭제하지는 않는다.<br/>Open Source: https://github.com/ege-arhan/ebb<br/>Commit: Add Ebb to Cleanup and Uninstall (README + zh/ja/ko) (#4854)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1c1a4036aa288be1509c5dc8c2bb517bddcf83ba]]></content:encoded>
     </item>
   </channel>
 </rss>
