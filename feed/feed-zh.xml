@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:27:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pagekin（书童，原 AI 小说作家）</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin（书童，原 AI 小说作家）</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: Pagekin（书童，原 AI 小说作家）
+Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Pagekin（书童，原 AI 小说作家）<br/>Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
     <item>
       <title>Coinsole</title>
       <link>https://github.com/anvibe/coinsole</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/echoVic/pilion-browser
 Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
       <content:encoded><![CDATA[Category: 浏览器<br/>App: Pilion<br/>Description: 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。<br/>Website: https://pilion.echovic.com/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
-    </item>
-    <item>
-      <title>Localix Terminal</title>
-      <link>https://terminal.localix.ai</link>
-      <guid isPermaLink="false">ae06017826d56844fa969a14841a8ea91c2cc7c8:Localix Terminal</guid>
-      <pubDate>Sun, 22 Nov 2026 11:48:49 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: Localix Terminal
-Description: 为你和你的编程 agent 打造的原生终端，项目会话会按你离开时的样子恢复，旁边还有浏览器和看板。
-Website: https://terminal.localix.ai
-Open Source: https://github.com/localixai/localix-terminal
-Commit: Add Localix Terminal (#4881)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Localix Terminal<br/>Description: 为你和你的编程 agent 打造的原生终端，项目会话会按你离开时的样子恢复，旁边还有浏览器和看板。<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
     </item>
   </channel>
 </rss>

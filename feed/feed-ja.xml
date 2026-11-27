@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:27:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pagekin (AI Novel Writer)</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin (AI Novel Writer)</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>読み書きツール / ライティング</category>
+      <description>Category: 読み書きツール / ライティング
+App: Pagekin (AI Novel Writer)
+Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: Pagekin (AI Novel Writer)<br/>Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
     <item>
       <title>Coinsole</title>
       <link>https://github.com/anvibe/coinsole</link>
@@ -722,20 +736,6 @@ App Store: https://apps.apple.com/app/id6828556832
 Commit: Add Terento to General Tools (#4877)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Terento<br/>Description: Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>ユーティリティ / クリップボードツール</category>
-      <description>Category: ユーティリティ / クリップボードツール
-App: ClipHat
-Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipHat<br/>Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
     </item>
   </channel>
 </rss>

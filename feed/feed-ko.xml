@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:27:33 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Pagekin (AI Novel Writer)</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin (AI Novel Writer)</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 쓰기</category>
+      <description>Category: 읽기 및 쓰기 도구 / 쓰기
+App: Pagekin (AI Novel Writer)
+Description: 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간.
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 쓰기<br/>App: Pagekin (AI Novel Writer)<br/>Description: 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간.<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
     <item>
       <title>Coinsole</title>
       <link>https://github.com/anvibe/coinsole</link>
@@ -722,20 +736,6 @@ App Store: https://apps.apple.com/app/id6828556832
 Commit: Add Terento to General Tools (#4877)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Terento<br/>Description: Garmin 시계와 Edge 자전거 컴퓨터에 무료 지도를 설치합니다.<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>유틸리티 / 클립보드 도구</category>
-      <description>Category: 유틸리티 / 클립보드 도구
-App: ClipHat
-Description: 검색, 고정, ⌘⇧V 복원을 지원하는 무료 클립보드 기록 도구. 텍스트, 링크, 이미지, 파일을 로컬에 저장.
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipHat<br/>Description: 검색, 고정, ⌘⇧V 복원을 지원하는 무료 클립보드 기록 도구. 텍스트, 링크, 이미지, 파일을 로컬에 저장.<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
     </item>
   </channel>
 </rss>
