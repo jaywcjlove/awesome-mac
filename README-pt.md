@@ -314,6 +314,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [QOwnNotes](https://www.qownnotes.org/) - Bloco de notas de código aberto com suporte a Markdown e gerenciador de lista de tarefas. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - Notas adesivas coloridas na barra de menus. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](https://happenapps.com/#quiver) - Combine texto, código, Markdown e LaTeX em uma única nota com visualização ao vivo.
+* [Thoughts](https://thoughts.hla.dev/) - Bloco de rascunho de código aberto que salva textos e capturas de tela de qualquer app como arquivos Markdown em uma pasta sua. [![Open-Source Software][OSS Icon]](https://github.com/HlaKarki/thoughts) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [VNote](https://docs.vnote.fun) - Aplicativo de anotações em Markdown de código aberto, com editor refinado. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 * [Zettel](https://github.com/AlexW00/Zettel) - Aplicativo de anotações minimalista e sem distrações, com Markdown e organização por hashtags. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 

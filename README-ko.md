@@ -287,6 +287,7 @@ Awesome Mac
 * [QOwnNotes](http://www.qownnotes.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - 메뉴바의 다채로운 스티키 노트. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - 텍스트, 코드, 마크다운, LaTeX를 하나의 노트에서 믹스.
+* [Thoughts](https://thoughts.hla.dev/) - 어떤 앱의 텍스트와 스크린샷이든 내 폴더에 마크다운 파일로 저장하는 오픈 소스 스크래치패드. [![Open-Source Software][OSS Icon]](https://github.com/HlaKarki/thoughts) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [VNote](https://app.vnote.fun/) - 완성도 높은 편집 경험을 제공하는 오픈 소스 마크다운 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 * [Zettel](https://github.com/AlexW00/Zettel) - Markdown과 해시태그 정리를 지원하는 미니멀한 무방해 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
