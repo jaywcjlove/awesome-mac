@@ -757,6 +757,7 @@ Awesome Mac
 
 ## AI 도구
 
+* [Agent Cat](https://agentcat.app) - Claude Code, Codex, Gemini CLI의 사용량·남은 한도·리셋 시각을 로컬 파일에서 읽어 메뉴바에 표시. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6769434137?platform=mac)
 * [Agent Teams AI](https://agentteams.live/) - 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AI Hub Bar](https://olehdemishev.github.io/AIHubBar/) - Claude, Codex, Copilot, Gemini CLI, Cursor의 사용량 한도를 보여 주고, 실행 중인 에이전트 세션을 모두 나열하며, 권한 요청에 알림에서 바로 응답하는 오픈소스 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/OlehDemishev/AIHubBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
