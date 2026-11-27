@@ -432,6 +432,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nimbalyst](https://nimbalyst.com/) - A visual workspace for managing AI coding sessions, tasks, and project files.
 * [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
 * [Orca](https://onorca.dev) - An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree. [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [Relais](https://getrelais.app) - Mac app that sorts Claude Code sessions by project, switches between your Claude accounts at the usage limit, and runs agents with their own browser and routines on your Claude plan.
 * [Sikemux](https://sikemux.com) - Open-source native workspace for coding agents (Claude Code, Codex, OpenCode, Pi), with terminals, Git, an editor and browser tabs beside each chat. [![Open-Source Software][OSS Icon]](https://github.com/nodelike/sikemux) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - Open-source desktop app for coding agents (Claude Code, Codex, OpenCode, Cursor), where several agents can share one thread and each thread gets its own git worktree. [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - AI-powered IDE for coding and software development.
