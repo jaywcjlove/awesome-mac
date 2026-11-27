@@ -1937,6 +1937,7 @@ Awesome Mac
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - 基于 libretro 核心的开源复古主机模拟器前端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
 * [Coinsole](https://github.com/anvibe/coinsole) - 把 Mac 变成游戏主机：添加自己的网页游戏或 Mac 应用，用 Xbox 或 PlayStation 手柄游玩。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/anvibe/coinsole)
 * [CrossOver](https://www.codeweavers.com/crossover) - 在 macOS 和 Linux 上运行 Windows 应用程序，使用最成熟的游戏转译层`Wine`
+* [DropExe](https://hollowbit.dev/dropexe/) - 通过 Wine 在 Apple Silicon 上运行 Windows 游戏和应用，一键安装 Steam 和 Epic，可拖入任意 .exe，“Make it run”按钮会自动尝试图形设置（DXMT、DXVK、D3DMetal）直到游戏启动。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hollowbit-dev/dropexe)
 * [Highball](https://gethighball.com) - 通过 Wine 在 Apple Silicon 上运行 Windows 游戏，按游戏从开放的兼容性数据库中选择图形层（DXMT、DXVK 或 D3DMetal）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [openEmu](http://openemu.org/) - 支持多种主机平台的复古游戏模拟器前端。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [PlayCover](https://github.com/PlayCover/PlayCover) - 在Mac上运行侧载的iOS应用、游戏。[![Open-Source Software][OSS Icon]](https://github.com/PlayCover/PlayCover) ![Freeware][Freeware Icon]
