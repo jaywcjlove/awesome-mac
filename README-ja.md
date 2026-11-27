@@ -869,6 +869,7 @@ Awesome Mac
 * [Screenize](https://syi0808.github.io/screenize/) - 自動ズーム、カーソル効果、タイムライン編集に対応したオープンソース画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - ソースコードを公開する画面・音声記録ツールで、ローカル履歴の検索、任意のクラウドAI処理、無料・有料プランに対応。
 * [Snagit](https://www.techsmith.com/screen-capture.html) - 画面キャプチャおよび録画ソフトウェア。シンプルで強力。
+* [Takes](https://gettakes.app/) - AIエージェントが編集する、顔出し動画向けのオープンソースのテレプロンプター兼録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/marvtub/takes-public) ![Freeware][Freeware Icon]
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
 * [TinyRecorder](https://www.tinyrecorder.app/ja/) - 画面、ウインドウ、アプリ、システム音声、接続した iPhone や iPad を録画できる軽量な画面録画ツールで、メンテナンスが続く QuickRecorder のフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
