@@ -1121,7 +1121,7 @@ Awesome Mac
 * [HandBrake](https://handbrake.fr/) - メディアをモダンな形式へ変換する動画トランスコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [Hertzwise](https://zeetabit.github.io/Hertzwise/) - Apple Music や Tidal の曲ごとに DAC のサンプルレートを自動で切り替え、ロスレスをビットパーフェクトで再生するメニューバーアプリ。デバイスごとの AutoEq ヘッドホン EQ も搭載。 [![Open-Source Software][OSS Icon]](https://github.com/zeetabit/Hertzwise) ![Freeware][Freeware Icon]
 * [HIFI X Player](https://www.hifixplayer.com/) - Core Audio 排他モード（Hog Mode）、DAC サンプルレート自動切替、FLAC/APE/DSD（DoP v1.1）再生、16K FFT 音源検証を備えたビットパーフェクト音楽プレーヤー。
-  * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - Apple Silicon と Intel Mac 向けの非公式プレイヤー兼ダウンローダーで、中国の短編ドラマサービス Hongguo、Xifan、Hema に対応。 [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
+* [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - Apple Silicon と Intel Mac 向けの非公式プレイヤー兼ダウンローダーで、中国の短編ドラマサービス Hongguo、Xifan、Hema に対応。 [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
 * [Hydrogen](http://hydrogen-music.org/) - GNU/Linux用のプロフェッショナルでありながらシンプルで直感的なパターンベースのドラムプログラミング。 [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 * [ffWorks](https://www.ffworks.net/) - macOS用の包括的なメディアツール。高品質なビデオエンコーディングをすべての人に。
 * [IINA](https://iina.io/) - macOS用のモダンなビデオプレイヤー。強力なメディアプレイヤープロジェクトであるmpvをベースに構築。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina) ![Freeware][Freeware Icon]
