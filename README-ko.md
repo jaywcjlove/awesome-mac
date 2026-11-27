@@ -1196,6 +1196,7 @@ Awesome Mac
 * [AirStats](https://airstats.app) - CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 노치를 미디어 제어, 라이브 활동, 빠른 유틸리티를 담은 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+* [Awakelet](https://tidyware.app/awakelet/) - 정해진 시간 동안, 앱이 종료될 때까지 또는 다운로드가 끝날 때까지 Mac이 잠자기 모드로 들어가지 않게 하는 메뉴 막대 앱.
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - 앱별로 메뉴 바 아이콘을 숨기고 클릭, 마우스 오버, 단축키로 다시 표시하는 macOS 27용 메뉴 바 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - 실시간 와트 수, 앱별 에너지 사용량, 충전 기록, 배터리 소모 분석으로 무엇이 배터리를 소모하는지 100% 로컬로 보여주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
