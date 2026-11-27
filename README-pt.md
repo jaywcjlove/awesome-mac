@@ -1764,6 +1764,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [SuperCorners](https://supercorners.vercel.app/) - Transforme os Cantos Ativos em gatilhos personalizados de fluxo de trabalho. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - Rastreador de tempo com IA que ajuda você a manter o foco e criar melhores hábitos de trabalho.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Adicione mais ações úteis ao menu de clique com o botão direito do Finder. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
+* [Scroll Studio](https://smartappshq.com/scroll-studio) - Rolagem suave para qualquer mouse, com inversão da direção apenas do mouse, rolagem por arrasto e por clique, e perfis por app. ![Native App][Native Icon]
 * [Selectric](https://selectric.io/) - Busca privada em e-mails, documentos e aplicativos de chat.
 * [SensibleSideButtons](https://sensible-side-buttons.archagon.net) - Faça os botões laterais do mouse funcionarem como voltar e avançar em mais aplicativos. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Daemon simples de atalhos de teclado para macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
