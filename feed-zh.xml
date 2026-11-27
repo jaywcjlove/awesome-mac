@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:25:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Nook</title>
+      <link>https://github.com/siliconile/Nook</link>
+      <guid isPermaLink="false">a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a:Nook</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:34 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Nook
+Description: 开源刘海应用，提供支持任意播放器（包括浏览器）的正在播放控制、音量与亮度 HUD、专注计时器、提醒事项、任务、Markdown 笔记和文件暂存架。
+Open Source: https://github.com/siliconile/Nook
+Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Nook<br/>Description: 开源刘海应用，提供支持任意播放器（包括浏览器）的正在播放控制、音量与亮度 HUD、专注计时器、提醒事项、任务、Markdown 笔记和文件暂存架。<br/>Open Source: https://github.com/siliconile/Nook<br/>Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a]]></content:encoded>
+    </item>
     <item>
       <title>FestiveLights</title>
       <link>https://www.blackbox.ms/festive/en/</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/dirkkredinger/InputBattery
 Commit: Add InputBattery to Menu Bar Tools (#4873)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: InputBattery<br/>Description: 在菜单栏和桌面小组件中显示蓝牙键盘、鼠标、耳机和 AirPods 的电量，并在电量耗尽前发出提醒。<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
-    </item>
-    <item>
-      <title>Olympus Coder</title>
-      <link>https://github.com/martianacademy/olympus-coder</link>
-      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
-      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Olympus Coder
-Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。
-Open Source: https://github.com/martianacademy/olympus-coder
-Commit: Add Olympus Coder to AI Tools (#4866)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Olympus Coder<br/>Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
     </item>
   </channel>
 </rss>

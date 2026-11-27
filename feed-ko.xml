@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:25:34 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Nook</title>
+      <link>https://github.com/siliconile/Nook</link>
+      <guid isPermaLink="false">a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a:Nook</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:34 GMT</pubDate>
+      <category>유틸리티 / 메뉴 바 도구</category>
+      <description>Category: 유틸리티 / 메뉴 바 도구
+App: Nook
+Description: 브라우저를 포함한 모든 플레이어의 재생 컨트롤, 볼륨·밝기 HUD, 집중 타이머, 미리 알림, 할 일, Markdown 메모, 파일 선반을 노치에 담은 오픈 소스 앱.
+Open Source: https://github.com/siliconile/Nook
+Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Nook<br/>Description: 브라우저를 포함한 모든 플레이어의 재생 컨트롤, 볼륨·밝기 HUD, 집중 타이머, 미리 알림, 할 일, Markdown 메모, 파일 선반을 노치에 담은 오픈 소스 앱.<br/>Open Source: https://github.com/siliconile/Nook<br/>Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a]]></content:encoded>
+    </item>
     <item>
       <title>FestiveLights</title>
       <link>https://www.blackbox.ms/festive/en/</link>
@@ -721,21 +735,6 @@ Open Source: https://github.com/nodelike/sikemux
 Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
       <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Sikemux<br/>Description: 각 채팅 옆에 터미널, Git, 편집기, 브라우저 탭을 갖춘 코딩 에이전트(Claude Code, Codex, OpenCode, Pi)용 오픈소스 네이티브 작업 공간.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
-    </item>
-    <item>
-      <title>Smorza</title>
-      <link>https://smorza.app</link>
-      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
-      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: Smorza
-Description: 앱마다 볼륨, 음소거, 출력 장치를 따로 설정하는 메뉴 막대 볼륨 믹서.
-Website: https://smorza.app
-Open Source: https://github.com/rokoov/smorza
-Commit: Add Smorza (#4861)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: Smorza<br/>Description: 앱마다 볼륨, 음소거, 출력 장치를 따로 설정하는 메뉴 막대 볼륨 믹서.<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
     </item>
   </channel>
 </rss>
