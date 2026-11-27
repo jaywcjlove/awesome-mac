@@ -27,6 +27,7 @@ sideEffectFiles:
   - README-zh.md
   - README-ko.md
   - README-ja.md
+  - README-pt.md
   - editor-plugin.md
   - editor-plugin-zh.md
   - editor-plugin-ja.md
