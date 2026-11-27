@@ -376,7 +376,7 @@ Awesome Mac
 * [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Tracexy](https://rockxy.io/tracexy) - 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。 [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) ![Freeware][Freeware Icon]
-* [WiFi Lens](https://github.com/SHIINASAMA/wifi-lens) - 原生开源 Wi-Fi 分析器和网络诊断应用，支持实时频谱扫描、信道拥塞可视化和 BLE 设备追踪。 [![Open-Source Software][OSS Icon]](https://github.com/SHIINASAMA/wifi-lens) ![Freeware][Freeware Icon]
+* [WiFi Lens Pro](https://wifi-lens.shiinalabs.com/?utm_source=awesome_mac&utm_medium=referral&utm_campaign=wifi_lens_pro_listing) - 原生 macOS Wi-Fi 分析与网络诊断应用，用于分析附近网络并排查连接问题。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6776590746?pt=128979395&ct=awesome_mac&mt=8) [![Open-Source Software][OSS Icon]](https://github.com/ShiinaLabs/wifi-lens) ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
 ### 版本控制
