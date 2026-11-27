@@ -440,8 +440,8 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 ### Utilitários para Desenvolvedores
 
+* [A Better Finder Rename](https://www.publicspace.net/ABetterFinderRename/) - O aplicativo de renomeação de arquivos para Mac mais poderoso e completo do mercado. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename/id6738119141?mt=12)
 * [AXe](https://github.com/cameroncooke/AXe) - Ferramenta de linha de comando para controlar Simuladores de iOS por meio das APIs de Acessibilidade e automação HID. [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
-* [BetterRename](https://www.publicspace.net/BetterRename/) - O aplicativo de renomeação de arquivos para Mac mais poderoso e completo do mercado. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](https://www.scootersoftware.com/) - Compare arquivos e pastas com comandos poderosos. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Gerencie comandos bash pela barra de menus e execute-os com atalhos de teclado.
 * [Breaker](https://github.com/wata/Breaker) - Monitora os jobs do launchd, jobs do cron, Ações de Pasta e plugins do SwiftBar que você configurou e notifica quando um deles falha. [![Open-Source Software][OSS Icon]](https://github.com/wata/Breaker) ![Freeware][Freeware Icon] ![Native App][Native Icon]
