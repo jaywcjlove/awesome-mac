@@ -746,6 +746,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection da DxO.
 * [Paintbrush](https://paintbrush.sourceforge.net/) - Editor de imagens em bitmap. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - Uma ferramenta fácil e intuitiva para criar animações 2D desenhadas à mão. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
+* [Piktura](https://github.com/GhostOS-ai/Piktura) - Alternativa nativa ao Photoshop de última geração para macOS e criativos, com edição multicamadas, estilos de camada (fx), tipografia e remoção inteligente de fundo em 1 clique. [![Open-Source Software][OSS Icon]](https://github.com/GhostOS-ai/Piktura) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Pixelmator](https://www.pixelmator.com/mac/) - Editor de imagens completo para Mac.
 * [Pixen](https://pixenapp.com/mac/) - Editor nativo de pixel art e animação para Mac.
 * [Principle](https://principleformac.com/) - Aplicativo para criar interfaces de usuário animadas e interativas.

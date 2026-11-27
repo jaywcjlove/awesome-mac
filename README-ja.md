@@ -763,6 +763,7 @@ Awesome Mac
 * [Nik Collection](https://nikcollection.dxo.com/) - DxOによるNik Collection。
 * [Paintbrush](http://paintbrush.sourceforge.net/) - ビットマップ画像エディター。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
 * [Pencil2D](https://www.pencil2d.org) - 2D手描きアニメーションを作成するための簡単で直感的なツール。 [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
+* [Piktura](https://github.com/GhostOS-ai/Piktura) - macOS Apple Silicon向けに設計された次世代ネイティブPhotoshopオルタナティブ。マルチレイヤー編集、レイヤースタイル(fx)、高度なタイポグラフィ、1クリック背景除去に対応。 [![Open-Source Software][OSS Icon]](https://github.com/GhostOS-ai/Piktura) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - Mac用のフル機能画像エディター。
 * [Pixen](https://pixenapp.com/mac/) - Mac用のネイティブピクセルアートおよびアニメーションエディター。
 * [Principle](http://principleformac.com/) - アニメーションおよびインタラクティブなユーザーインターフェースをデザインするアプリケーション。
