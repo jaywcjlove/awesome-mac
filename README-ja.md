@@ -495,6 +495,7 @@ Awesome Mac
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - アプリの翻訳を分析、レビュー、編集するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707?platform=mac)
 * [LINQPad](https://www.linqpad.net/) - コード実行、クエリ作成、データベース探索のための.NETスクラッチパッド。 ![Freeware][Freeware Icon]
 * [Loupe](https://github.com/britchie4/Loupe) - AIエージェント対応の出力を生成するアクセシビリティインスペクター。 [![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
+* [lpm](https://lpm.cx) - プロジェクトの開発サーバーをワンクリックで起動し、その横で Claude Code や Codex などのコーディングエージェントを動かせるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gug007/lpm) ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Cocoa開発者向けに、ライトモードとダークモードの全システムカラーを表示するMacアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - クリーンなUIとリアルタイムハイライト機能を備えた、ネイティブで軽量なテキスト差分ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [mirroir-mcp](https://mirroir.dev) - デベロッパモードやXcodeなしで、iPhoneミラーリング経由でAIエージェントが実機iPhoneを見て、タップ、スワイプ、入力できるオープンソースのMCPサーバー兼CLI。 [![Open-Source Software][OSS Icon]](https://github.com/jfarcand/mirroir-mcp) ![Freeware][Freeware Icon]

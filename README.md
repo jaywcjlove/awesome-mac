@@ -495,6 +495,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations.
 * [LINQPad](https://www.linqpad.net/) - .NET scratchpad for running code, queries, and database exploration. ![Freeware][Freeware Icon]
 * [Loupe](https://github.com/britchie4/Loupe) - Accessibility inspector that generates AI-agent-ready output. [![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
+* [lpm](https://lpm.cx) - Open-source app for starting a project's dev servers in one click and running coding agents such as Claude Code and Codex beside them. [![Open-Source Software][OSS Icon]](https://github.com/gug007/lpm) ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - A native, lightweight text diff tool with a clean UI and real-time highlighting. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [mirroir-mcp](https://mirroir.dev) - Open-source MCP server and CLI that lets AI agents see, tap, swipe and type on a real iPhone through iPhone Mirroring, without Developer Mode or Xcode. [![Open-Source Software][OSS Icon]](https://github.com/jfarcand/mirroir-mcp) ![Freeware][Freeware Icon]

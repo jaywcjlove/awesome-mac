@@ -306,6 +306,7 @@ Awesome Mac
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限。 ![Freeware][Freeware Icon]
 * [Loupe](https://github.com/britchie4/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
+* [lpm](https://lpm.cx) - 开源应用，一键启动项目的开发服务器，并在旁边运行 Claude Code、Codex 等编程代理。[![Open-Source Software][OSS Icon]](https://github.com/gug007/lpm) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [mirroir-mcp](https://mirroir.dev) - 开源 MCP 服务器和命令行工具，让 AI 代理通过 iPhone 镜像查看、点按、滑动并输入真实 iPhone，无需开发者模式或 Xcode。 [![Open-Source Software][OSS Icon]](https://github.com/jfarcand/mirroir-mcp) ![Freeware][Freeware Icon]
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
