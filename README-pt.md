@@ -1698,6 +1698,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [1440 Minutes Left Today](https://1440app.com/) - Mostre quantos minutos restam no dia na sua barra de menus. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [ActivityWatch](https://activitywatch.net/) - Rastreador de tempo multiplataforma, extensível e focado em privacidade. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Ferramenta de lançamento e automação com atalhos, trechos e busca. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
+* [Astrolinks](https://astrolinks.org/) - Rastreador automático de tempo privado que organiza seu dia por cliente e escreve o relatório de fim de dia de cada cliente.
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - Lançador de apps personalizável com busca rápida.
 * [Better Wacom](https://github.com/myyccccc/Better-Wacom) - ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Better-Wacom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BetterMouse](https://better-mouse.com) - Personalize a rolagem, a aceleração, os botões e os gestos de mouses de terceiros.

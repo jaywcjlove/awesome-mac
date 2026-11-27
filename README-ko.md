@@ -1411,6 +1411,7 @@ Awesome Mac
 
 * [1440 Minutes Left Today](https://1440app.com/) - 메뉴 막대에서 오늘 남은 시간을 분 단위로 보여주는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [Alfred](https://www.alfredapp.com/) - 검색, 실행, 자동화를 한곳에 모은 런처.
+* [Astrolinks](https://astrolinks.org/) - 하루 작업을 클라이언트별로 자동 분류하고 클라이언트마다 일일 업무 보고서를 작성하는 프라이빗 자동 시간 추적 도구.
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - 빠른 검색을 지원하는 맞춤형 앱 런처.
 * [Better Wacom](https://github.com/myyccccc/Better-Wacom) - Wacom Intuos Pro M(2025, PTK-670)용 앱별 ExpressKey, 길게 누르기 동작, 다중 모드 다이얼을 설정하는 도구로, 공식 드라이버와 함께 실행된다. [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Better-Wacom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BetterMouse](https://better-mouse.com) - 서드파티 마우스의 스크롤, 가속, 버튼, 제스처를 조정하는 도구.
