@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:37:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Coinsole</title>
+      <link>https://github.com/anvibe/coinsole</link>
+      <guid isPermaLink="false">624f0ba5d5769a4b1311fc06b328d22c3e17ebbe:Coinsole</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:40 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: Coinsole
+Description: Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller.
+Open Source: https://github.com/anvibe/coinsole
+Commit: Add Coinsole to Gaming Software (#5131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Coinsole<br/>Description: Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller.<br/>Open Source: https://github.com/anvibe/coinsole<br/>Commit: Add Coinsole to Gaming Software (#5131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe]]></content:encoded>
+    </item>
     <item>
       <title>Earth Now</title>
       <link>https://hensobo.github.io/earth-now/</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/echoVic/cleanzo
 Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Cleanzo<br/>Description: Open-source cleaner for macOS and Windows that shows system and disk usage, then clears caches, large files and idle build output after review.<br/>Website: https://cleanzo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilion</title>
-      <link>https://pilion.echovic.com/en/</link>
-      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
-      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Pilion
-Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.
-Website: https://pilion.echovic.com/en/
-Open Source: https://github.com/echoVic/pilion-browser
-Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Pilion<br/>Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.<br/>Website: https://pilion.echovic.com/en/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
     </item>
   </channel>
 </rss>

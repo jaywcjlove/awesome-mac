@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:37:40 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Coinsole</title>
+      <link>https://github.com/anvibe/coinsole</link>
+      <guid isPermaLink="false">624f0ba5d5769a4b1311fc06b328d22c3e17ebbe:Coinsole</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:40 GMT</pubDate>
+      <category>게임 소프트웨어</category>
+      <description>Category: 게임 소프트웨어
+App: Coinsole
+Description: Mac을 게임기로 바꿔 줍니다. 직접 만든 웹 게임이나 Mac 앱을 추가하고 Xbox 또는 PlayStation 컨트롤러로 즐기세요.
+Open Source: https://github.com/anvibe/coinsole
+Commit: Add Coinsole to Gaming Software (#5131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe</description>
+      <content:encoded><![CDATA[Category: 게임 소프트웨어<br/>App: Coinsole<br/>Description: Mac을 게임기로 바꿔 줍니다. 직접 만든 웹 게임이나 Mac 앱을 추가하고 Xbox 또는 PlayStation 컨트롤러로 즐기세요.<br/>Open Source: https://github.com/anvibe/coinsole<br/>Commit: Add Coinsole to Gaming Software (#5131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe]]></content:encoded>
+    </item>
     <item>
       <title>Earth Now</title>
       <link>https://hensobo.github.io/earth-now/</link>
@@ -722,20 +736,6 @@ Open Source: https://github.com/getguruhat/cliphat-macos
 Commit: Add ClipHat (#4520)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: ClipHat<br/>Description: 검색, 고정, ⌘⇧V 복원을 지원하는 무료 클립보드 기록 도구. 텍스트, 링크, 이미지, 파일을 로컬에 저장.<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenGestures</title>
-      <link>https://github.com/01wil/OpenGestures</link>
-      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
-      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: OpenGestures
-Description: 트랙패드 제스처를 창, 앱, 단축키, 스크립트 동작에 매핑하는 오픈 소스 도구.
-Open Source: https://github.com/01wil/OpenGestures
-Commit: Add OpenGestures to Productivity (#4872)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: OpenGestures<br/>Description: 트랙패드 제스처를 창, 앱, 단축키, 스크립트 동작에 매핑하는 오픈 소스 도구.<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
     </item>
   </channel>
 </rss>
