@@ -1737,6 +1737,7 @@ Awesome Mac
 * [WaifuX](https://jipika.github.io/WaifuX) - 壁紙、動く背景、アニメ動画をまとめて楽しめるオープンソースのACGアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - MacからiPhoneを管理するネイティブアプリ。重複写真、大きなビデオ、使っていないアプリの整理、ホーム画面の並べ替え、ファイル転送、Macへのバックアップに対応。 ![Native App][Native Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - 高速タイピストのためにCaps Lockキーの有効化遅延を除去。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - 設定した時刻まで注意をそらすサイトやアプリをロックし、途中で解除するには待機が必要なメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - 技術的な SEO 問題を見つけるサイト分析ツール。 [![Freeware][Freeware Icon]](https://seodisias.com)
 
 ### ToDoリスト

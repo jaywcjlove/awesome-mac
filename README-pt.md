@@ -1672,6 +1672,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - Importe facilmente vídeos MP4/MOV como papéis de parede do sistema e animações da tela de bloqueio. [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - App ACG de código aberto para papéis de parede, fundos animados e vídeos de anime. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Remove o atraso de ativação da tecla Caps Lock para quem digita rápido. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - App na barra de menus que bloqueia sites e apps que distraem até um horário definido, com uma espera se você sair mais cedo. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - Rastreador de SEO que audita sites em busca de problemas técnicos e oportunidades de otimização. [![Freeware][Freeware Icon]](https://seodisias.com)
 
 ### Listas de Tarefas

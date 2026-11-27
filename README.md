@@ -1755,6 +1755,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [WaifuX](https://jipika.github.io/WaifuX) - Open-source ACG app for wallpapers, animated backgrounds, and anime videos. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - Native Mac app for managing an iPhone: clear duplicate photos, large videos and unused apps, arrange the Home Screen, move files and keep backups on the Mac. ![Native App][Native Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - SEO crawler that audits sites for technical issues and optimization opportunities. [![Freeware][Freeware Icon]](https://seodisias.com)
 
 ### To-Do Lists
