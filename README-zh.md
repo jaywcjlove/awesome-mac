@@ -1713,6 +1713,7 @@ Awesome Mac
 * [Takeline](https://github.com/Bouliw/takeline) - Textream 的分支版本，完全在 Mac 本地跟随你的法语和英语语音，支持重拍检测和语音命令。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/takeline) ![Freeware][Freeware Icon]
 * [Rustcast](https://rustcast.app) - 集模式切换、快速启动、文件搜索和剪贴板历史于一体的工作流工具。 [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [CurrentKey](https://currentkey.com) - 为空间添加自定义名称和图标，并统计各应用使用时长。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/currentkey/id1456226992?mt=12)
+* [DAWN](https://github.com/open-dawn/dawn) - 开源效率工具，按工作、家庭、学校等工作区整理应用与窗口并一键切换。 [![Open-Source Software][OSS Icon]](https://github.com/open-dawn/dawn) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Desktop Control](https://desktopctl.com/) - 面向 AI 代理的本地桌面控制 CLI，可通过屏幕、鼠标和键盘操作任意应用。 [![Open-Source Software][OSS Icon]](https://github.com/yaroshevych/desktopctl) ![Freeware][Freeware Icon]
 * [Browserdoor](https://github.com/schowave/browserdoor) - 开源的链接选择器，打开链接时可选择使用哪个浏览器、浏览器配置文件或 Zen 空间。 [![Open-Source Software][OSS Icon]](https://github.com/schowave/browserdoor) ![Freeware][Freeware Icon]
 * [LinkUnbound](https://www.linkunbound.app/) - 开源的浏览器选择器，打开链接时可选择使用哪个浏览器或浏览器配置文件，并可按网站或来源应用设置规则。 [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/LinkUnbound) ![Freeware][Freeware Icon]
