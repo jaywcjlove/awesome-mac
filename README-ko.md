@@ -1228,6 +1228,7 @@ Awesome Mac
 * [DisplayLatch](https://hitesh-sisara.github.io/DisplayLatch/) - 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Hitesh-Sisara/DisplayLatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
+* [FestiveLights](https://www.blackbox.ms/festive/en/) - 메뉴 막대 아래와 Dock에 크리스마스 조명을 달고 창 위에 눈이 쌓이게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/krystofbe/festive-lights) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [GravityNotch](https://adrielakak.github.io/GravityNotch/) - 노치를 macOS Tahoe에서 작동하는 시스템 HUD, 싱크 가사를 지원하는 잠금 화면 플레이어, 클립보드 기록, Claude Code 에이전트 실시간 추적을 갖춘 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/adrielakak/GravityNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HeyMate](https://getheymate.vercel.app) - 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
