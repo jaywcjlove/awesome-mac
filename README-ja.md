@@ -845,6 +845,7 @@ Awesome Mac
 
 ### 画面録画
 
+* [Avora](https://halitsever.github.io/avora-screen-recorder/) - クリック位置への自動ズーム、滑らかなカーソル、字幕、背景に対応したオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/halitsever/avora-screen-recorder) ![Freeware][Freeware Icon]
 * [Back to Bug](https://github.com/skarpovdev/backtobug) - バグ報告用に直前の画面操作を動画として保存できるメニューバー常駐の録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - プロフェッショナルなエンコーディングサポートを備えた無料のオープンソーススクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - 編集機能と注釈機能を備えた画面キャプチャ・録画ツール。

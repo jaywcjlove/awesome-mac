@@ -601,6 +601,7 @@ Awesome Mac
 
 ### 屏幕录制
 
+* [Avora](https://halitsever.github.io/avora-screen-recorder/) - 开源屏幕录制工具，支持点击自动缩放、平滑光标、字幕和背景。 [![Open-Source Software][OSS Icon]](https://github.com/halitsever/avora-screen-recorder) ![Freeware][Freeware Icon]
 * [Back to Bug](https://github.com/skarpovdev/backtobug) - 菜单栏录屏工具，可将最近一段时间的屏幕活动保存为视频，用于报告错误。 [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - 免费开源的专业屏幕录制工具。[![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Caplo](https://github.com/icloudza/caplo) - 录屏后可直接编辑，支持自动运镜、光标美化、画布与字幕处理。
