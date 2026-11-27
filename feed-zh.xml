@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:47:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: IPA-Decrypt
+Description: 图形界面的 App Store / TestFlight IPA 下载与 FairPlay 解密工具，支持 iOS 和 macOS，并带凭证管理。
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: IPA-Decrypt<br/>Description: 图形界面的 App Store / TestFlight IPA 下载与 FairPlay 解密工具，支持 iOS 和 macOS，并带凭证管理。<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
     <item>
       <title>Nook</title>
       <link>https://github.com/siliconile/Nook</link>
@@ -721,20 +735,6 @@ Open Source: https://github.com/01wil/OpenGestures
 Commit: Add OpenGestures to Productivity (#4872)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenGestures<br/>Description: 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
-    </item>
-    <item>
-      <title>InputBattery</title>
-      <link>https://github.com/dirkkredinger/InputBattery</link>
-      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
-      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: InputBattery
-Description: 在菜单栏和桌面小组件中显示蓝牙键盘、鼠标、耳机和 AirPods 的电量，并在电量耗尽前发出提醒。
-Open Source: https://github.com/dirkkredinger/InputBattery
-Commit: Add InputBattery to Menu Bar Tools (#4873)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: InputBattery<br/>Description: 在菜单栏和桌面小组件中显示蓝牙键盘、鼠标、耳机和 AirPods 的电量，并在电量耗尽前发出提醒。<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
     </item>
   </channel>
 </rss>

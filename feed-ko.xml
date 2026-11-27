@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:47:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>보안 도구</category>
+      <description>Category: 보안 도구
+App: IPA-Decrypt
+Description: App Store 및 TestFlight IPA 다운로드와 FairPlay 복호화를 위한 GUI 도구로, macOS와 iOS를 지원하며 자격 증명 관리 기능도 포함합니다.
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: 보안 도구<br/>App: IPA-Decrypt<br/>Description: App Store 및 TestFlight IPA 다운로드와 FairPlay 복호화를 위한 GUI 도구로, macOS와 iOS를 지원하며 자격 증명 관리 기능도 포함합니다.<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
     <item>
       <title>Nook</title>
       <link>https://github.com/siliconile/Nook</link>
@@ -720,21 +734,6 @@ Open Source: https://github.com/martianacademy/olympus-coder
 Commit: Add Olympus Coder to AI Tools (#4866)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Olympus Coder<br/>Description: Claude Code, Codex, Antigravity 등 18개 이상의 ACP 코딩 에이전트를 하나로 통합하는 오픈 소스 데스크톱 워크벤치 겸 헤드리스 서버. 공유 프로젝트 메모리, 병렬 서브세션 오케스트레이션, Git worktree, 헝크 단위 diff 리뷰, 내장 터미널 및 E2E 암호화 모바일 원격 접속을 지원합니다.<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
-    </item>
-    <item>
-      <title>Sikemux</title>
-      <link>https://sikemux.com</link>
-      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
-      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
-      <category>개발 도구 / IDE / 코드 편집기</category>
-      <description>Category: 개발 도구 / IDE / 코드 편집기
-App: Sikemux
-Description: 각 채팅 옆에 터미널, Git, 편집기, 브라우저 탭을 갖춘 코딩 에이전트(Claude Code, Codex, OpenCode, Pi)용 오픈소스 네이티브 작업 공간.
-Website: https://sikemux.com
-Open Source: https://github.com/nodelike/sikemux
-Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Sikemux<br/>Description: 각 채팅 옆에 터미널, Git, 편집기, 브라우저 탭을 갖춘 코딩 에이전트(Claude Code, Codex, OpenCode, Pi)용 오픈소스 네이티브 작업 공간.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
     </item>
   </channel>
 </rss>

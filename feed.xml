@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:47:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: IPA-Decrypt
+Description: Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management.
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: IPA-Decrypt<br/>Description: Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management.<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
     <item>
       <title>Nook</title>
       <link>https://github.com/siliconile/Nook</link>
@@ -722,20 +736,6 @@ App Store: https://apps.apple.com/app/id6828556832
 Commit: Add Terento to General Tools (#4877)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
       <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Terento<br/>Description: Install free maps on Garmin watches and Edge bike computers.<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: ClipHat
-Description: Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally.
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: ClipHat<br/>Description: Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally.<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
     </item>
   </channel>
 </rss>
