@@ -1427,6 +1427,7 @@ Awesome Mac
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - 使用 Ctrl+Opt+Delete 启动活动监视器，在 Finder 中用 Cmd+X 剪切并移动文件。
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
 * [Driftwall](https://driftwall.kamaldhital.com) - 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。 [![Open-Source Software][OSS Icon]](https://github.com/dhitalkamal/driftwall) ![Freeware][Freeware Icon]
+* [Earth Now](https://hensobo.github.io/earth-now/) - 将实时 3D 地球设为桌面壁纸，呈现真实的太阳位置、城市灯光和卫星云图。 [![Open-Source Software][OSS Icon]](https://github.com/Hensobo/earth-now) ![Freeware][Freeware Icon]
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
