@@ -698,6 +698,7 @@ Awesome Mac
 
 ### 화면 녹화
 
+* [Avora](https://halitsever.github.io/avora-screen-recorder/) - 클릭 시 자동 확대, 부드러운 커서, 자막과 배경을 지원하는 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/halitsever/avora-screen-recorder) ![Freeware][Freeware Icon]
 * [Back to Bug](https://github.com/skarpovdev/backtobug) - 최근 화면 활동을 버그 보고용 동영상으로 저장하는 메뉴 막대 녹화 도구. [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - 전문적인 인코딩을 지원하는 무료 오픈소스 화면 녹화기. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - 편집과 주석 기능을 갖춘 화면 캡처 및 녹화 도구.

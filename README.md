@@ -845,6 +845,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Screen Recording
 
+* [Avora](https://halitsever.github.io/avora-screen-recorder/) - Open-source screen recorder with automatic click-to-zoom, a smooth cursor, captions and backgrounds. [![Open-Source Software][OSS Icon]](https://github.com/halitsever/avora-screen-recorder) ![Freeware][Freeware Icon]
 * [Back to Bug](https://github.com/skarpovdev/backtobug) - Menu bar replay recorder that saves recent screen activity as video for bug reports. [![Open-Source Software][OSS Icon]](https://github.com/skarpovdev/backtobug) ![Freeware][Freeware Icon]
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - Free and open source screen recorder with professional encoding support. [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - Screen capture and recording tool with built-in editing and annotations.
