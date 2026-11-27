@@ -990,6 +990,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Caprine](https://github.com/sindresorhus/caprine) - App do Facebook Messenger de terceiros, focado em privacidade. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Plataforma de comunicação e colaboração em equipe. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - Plataforma de chat por voz, texto e comunidades.
+* [Doubles](https://doubles.dev) - App de programação em par remota que compartilha sua tela com nitidez suficiente para ler código e deixa seu par controlar seu Mac quando você permitir. ![Native App][Native Icon]
 * [Element](https://element.io/) - Crie, compartilhe, comunique. Converse e ligue com segurança. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
 * [Ferdium](https://ferdium.org/) - Espaço de mensagens que combina vários apps web em um só lugar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [FinchGram](https://www.finchgram.com/) - Cliente Telegram não oficial de código aberto baseado em TDLib, com ferramenta de captura de tela, downloads via WebDAV e acesso MCP opcional para assistentes de IA. [![Open-Source Software][OSS Icon]](https://github.com/FinchGram/FinchGram) ![Freeware][Freeware Icon]
