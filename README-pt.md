@@ -1138,6 +1138,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Stringed 2](https://apps.apple.com/us/app/stringed-2/id698710517) - Software para prática musical criado para ajudar a aprender a tocar suas músicas favoritas.
 * [Synfig Studio](https://synfig.org) - Synfig Studio é um software de animação 2D gratuito e de código aberto. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
 * [TetherCam](https://tethercam.app/) - Use um iPhone como câmera USB no Mac, apenas para vídeo, ou use o plugin do OBS para vídeo e o áudio do microfone do celular. [![Open-Source Software][OSS Icon]](https://github.com/Kanevry/tethercam) ![Freeware][Freeware Icon]
+* [Trackhop](https://trackhop.org/) - Mantém playlists sincronizadas entre Spotify, YouTube Music, TIDAL, Deezer, Navidrome, Jellyfin e Plex, com sincronizações agendadas. [![Open-Source Software][OSS Icon]](https://github.com/xlollx/Trackhop) ![Freeware][Freeware Icon]
 * [trax](https://github.com/nbonamy/trax) - Gerenciador de biblioteca musical com conversão de áudio e edição de tags. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/trax)
 * [Tiny Player](https://www.catnapgames.com/tiny-player-for-mac/) - Como o nome sugere, um player minúsculo. ![Freeware][Freeware Icon]
 * [Tuneful](https://www.tuneful.dev) - Controlador do Spotify e do Apple Music pela barra de menus ou pelo mini player. [![App Store][app-store Icon]](https://apps.apple.com/app/tuneful/id6739804295?platform=mac)
