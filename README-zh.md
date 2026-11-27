@@ -254,6 +254,7 @@ Awesome Mac
 * [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/xcode/id497799835?platform=mac)
 * [Nimbalyst](https://nimbalyst.com/) - 一款用于管理 AI 编码会话、任务和项目文件的可视化工作区。
 * [Orca](https://onorca.dev) - 开源 IDE，支持并行运行多个 AI 编程代理，每个代理在独立的 git worktree 中。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [Relais](https://getrelais.app) - 按项目整理 Claude Code 会话的 Mac 应用，达到用量上限时自动切换你的 Claude 账号，并在你自己的 Claude 订阅上运行拥有独立浏览器和定时任务的代理。
 * [Sikemux](https://sikemux.com) - 开源的原生编程代理工作区（Claude Code、Codex、OpenCode、Pi），每个对话旁都有终端、Git、编辑器和浏览器标签页。 [![Open-Source Software][OSS Icon]](https://github.com/nodelike/sikemux) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - 开源的编程代理桌面应用（Claude Code、Codex、OpenCode、Cursor），多个代理可以共享同一个线程，每个线程都有独立的 git worktree。 [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Traycer](https://traycer.ai) - 开源桌面应用，可从同一份共享计划并行运行 22 个编程代理和模型提供商。 [![Open-Source Software][OSS Icon]](https://github.com/traycerai/traycer) ![Freeware][Freeware Icon]
