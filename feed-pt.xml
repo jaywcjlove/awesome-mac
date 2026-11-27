@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>Software para Jogos</category>
+      <description>Category: Software para Jogos
+App: DropExe
+Description: Execute jogos e apps do Windows em Macs com Apple Silicon através do Wine, com instalação do Steam e da Epic em um clique, arrastar e soltar para qualquer .exe e um botão Make it run que testa configurações gráficas (DXMT, DXVK, D3DMetal) até o jogo abrir.
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: Software para Jogos<br/>App: DropExe<br/>Description: Execute jogos e apps do Windows em Macs com Apple Silicon através do Wine, com instalação do Steam e da Epic em um clique, arrastar e soltar para qualquer .exe e um botão Make it run que testa configurações gráficas (DXMT, DXVK, D3DMetal) até o jogo abrir.<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
     <item>
       <title>FestiveLights</title>
       <link>https://www.blackbox.ms/festive/en/</link>
@@ -724,22 +738,6 @@ Open Source: https://github.com/Bouliw/earshot
 Commit: Add Earshot to Voice-to-Text (#3463)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925</description>
       <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Earshot<br/>Description: App de barra de menus que transcreve o áudio de qualquer app que você escolher, totalmente no dispositivo, com o nome de quem fala no Microsoft Teams.<br/>Open Source: https://github.com/Bouliw/earshot<br/>Commit: Add Earshot to Voice-to-Text (#3463)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925]]></content:encoded>
-    </item>
-    <item>
-      <title>Louppe</title>
-      <link>https://louppe.eu/</link>
-      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
-      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
-      <category>Design e Produto / Outras Ferramentas</category>
-      <description>Category: Design e Produto / Outras Ferramentas
-App: Louppe
-Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.
-Website: https://louppe.eu/
-Open Source: https://github.com/murlexander/louppe-media-culler
-App Store: https://apps.apple.com/app/louppe/id6820131477
-Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
-      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Louppe<br/>Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
     </item>
   </channel>
 </rss>
