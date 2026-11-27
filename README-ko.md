@@ -299,7 +299,7 @@ Awesome Mac
 
 ### 쓰기
 
-* [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Pagekin (AI Novel Writer)](https://github.com/EthanYoQ/Pagekin) - 인물, 세계관, 개요, 장 집필, 검토와 수정을 하나의 소설 프로젝트에서 관리하는 오픈 소스 AI 글쓰기 작업 공간. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/Pagekin) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - 장, 개요, 인물, 스토리라인을 갖추고 프로젝트 전체를 읽고 편집하는 AI 에이전트가 있는 오픈 소스 로컬 우선 장편 소설 집필 앱. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Meboki](https://meboki.com) - Mac에서 로컬 모델을 실행해 모든 앱의 텍스트를 고쳐 주는 오픈 소스 문법 검사기. [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 실제 타자기 느낌을 주는 미니멀한 쓰기 앱. ![Freeware][Freeware Icon]
@@ -1124,6 +1124,7 @@ Awesome Mac
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylib 하이재킹 위험이 있는 앱을 검사하는 도구. ![Freeware][Freeware Icon]
 * [fob](https://getfob.app) - SSH 키를 Secure Enclave에 저장하고 사용할 때마다 Touch ID로 인증하는 메뉴 막대 SSH 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - 기기 내 얼굴 인식으로 잠금 화면을 해제하고 선택한 앱에 프라이버시 보호막을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
+* [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) - App Store 및 TestFlight IPA 다운로드와 FairPlay 복호화를 위한 GUI 도구로, macOS와 iOS를 지원하며 자격 증명 관리 기능도 포함합니다. [![Open-Source Software][OSS Icon]](https://github.com/Re13orn/IPA-Decrypt) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - 무단 네트워크 트래픽을 차단하는 무료 방화벽. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) ![Freeware][Freeware Icon]
 * [MakLock](https://github.com/dutkiewiczmaciej/MakLock) - Touch ID, Apple Watch 또는 비밀번호로 원하는 macOS 앱을 잠그고 모든 모니터에 블러 오버레이를 표시하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/dutkiewiczmaciej/MakLock) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - 악성코드를 검사하고 제거하는 보안 도구. ![Freeware][Freeware Icon]
@@ -1213,6 +1214,7 @@ Awesome Mac
 * [Lafz Prompter](https://lafz.waqasrana.space/) - MacBook 노치 아래에 표시되는 프롬프터. 화면 공유에서 숨길 수 있고, 말하는 속도에 맞춰 스크롤되며, 우르두어를 나스탈리크체로 표시합니다. [![Open-Source Software][OSS Icon]](https://github.com/ranawaqas-ai/lafz-prompter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - 메모리 압력에 초점을 맞춘 RAM, CPU, 네트워크, 디스크용 경량 메뉴 막대 모니터. [![Open-Source Software][OSS Icon]](https://github.com/Ahmadjondev/MacMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - Apple Silicon Mac용 팬 제어 도구. 메뉴 막대 앱, 온도 기반 프로필, CLI를 제공. [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Nook](https://github.com/siliconile/Nook) - 브라우저를 포함한 모든 플레이어의 재생 컨트롤, 볼륨·밝기 HUD, 집중 타이머, 미리 알림, 할 일, Markdown 메모, 파일 선반을 노치에 담은 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/siliconile/Nook) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Out to Sea](https://sea.cwdx.md) - 메뉴 막대 휴식 알림 앱. 휴식 시간이 되면 실시간으로 그려지는 바다가 화면을 채우고, 먼 곳을 바라보게 한 뒤 1분간 느린 호흡을 안내합니다. [![Open-Source Software][OSS Icon]](https://github.com/cwdx/out-to-sea) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - Claude Code, Codex, OpenCode, pi 세션을 한곳에서 다루는 키보드 중심 MacBook 노치 앱으로, 각 세션의 진행 상황을 보고 노치에서 바로 답하며 해당 창이나 터미널 패널로 바로 돌아갈 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - 노치를 VPN 연결, 모든 브라우저의 탭 그룹, 현재 재생 중인 곡, 캘린더, 온디바이스 번역, 클립보드 기록을 모은 제어 센터로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1228,12 +1230,14 @@ Awesome Mac
 * [DisplayLatch](https://hitesh-sisara.github.io/DisplayLatch/) - 잠자기와 재시동 후에도 외부 모니터 연결을 유지하고, DDC 밝기 조절, 해상도 전환, 케이블을 뽑지 않고 디스플레이 연결을 끊는 기능을 제공하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Hitesh-Sisara/DisplayLatch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOS 메뉴 막대의 색과 모양을 바꾸는 도구. 화면에 맞춘 실시간 색상, 그라데이션, 음악 비주얼라이저, 앱별 프로필.
 * [DynamicHorizon](https://dynamichorizon.app) - 노치 영역에 미디어 제어, 알림, 시스템 표시를 추가하는 도구.
+* [FestiveLights](https://www.blackbox.ms/festive/en/) - 메뉴 막대 아래와 Dock에 크리스마스 조명을 달고 창 위에 눈이 쌓이게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/krystofbe/festive-lights) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [GravityNotch](https://adrielakak.github.io/GravityNotch/) - 노치를 macOS Tahoe에서 작동하는 시스템 HUD, 싱크 가사를 지원하는 잠금 화면 플레이어, 클립보드 기록, Claude Code 에이전트 실시간 추적을 갖춘 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/adrielakak/GravityNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HeyMate](https://getheymate.vercel.app) - 화면에 대해 음성으로 답하고 계획을 승인한 뒤 Claude Code, Codex, OpenCode 에이전트를 실행하는 MacBook 노치 AI 어시스턴트로, 미디어, 파일 선반, 캘린더 위젯도 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [HideNotch](https://hidenotch.app) - 메뉴 막대를 검은색으로 칠해 MacBook 노치가 자연스럽게 섞이도록 하며, 화면 모서리를 둥글게 만들 수도 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 단축키와 자동화로 블루투스 기기를 관리하는 메뉴 막대 도구. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
+* [holzBar](https://holzcloud.ch/holzbar) - Ice에서 파생된 오픈 소스 메뉴 막대 관리자로, 메뉴 막대 아이콘을 숨기고 프로필, 위젯, 시스템 정보, 노치 허브를 제공. [![Open-Source Software][OSS Icon]](https://github.com/holzcloud/holzBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - 메뉴 막대 아이콘을 숨기고 배치를 정리하는 관리자. [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook 노치를 미디어, 파일, 캘린더, 미리 알림, 메모, 타이머를 위한 트레이로 바꿔줍니다. [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1358,6 +1362,7 @@ Awesome Mac
 * [AerialSwap](https://github.com/mxpalm/AerialSwap) - 어떤 동영상이든 잠금 화면과 데스크톱용 네이티브 Aerial 배경화면으로 바꿔 시스템 설정의 전용 그룹에 추가합니다. [![Open-Source Software][OSS Icon]](https://github.com/mxpalm/AerialSwap) ![Freeware][Freeware Icon]
 * [Aman Check](https://github.com/MidZai/aman_check) - 중고 Mac의 날짜가 기록된 정직한 상태 보고서: 잠금, 배터리, SSD, 안내형 하드웨어 테스트. [![Open-Source Software][OSS Icon]](https://github.com/MidZai/aman_check) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Crisp](https://didriksg.github.io/Crisp/) - 메뉴 막대에서 외부 디스플레이 관리: HiDPI 스케일링, DDC 밝기, 색상 및 프리셋. [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Earth Now](https://hensobo.github.io/earth-now/) - 실제 태양 위치, 도시 불빛, 위성 구름을 반영한 실시간 3D 지구를 데스크톱 배경화면으로 사용하세요. [![Open-Source Software][OSS Icon]](https://github.com/Hensobo/earth-now) ![Freeware][Freeware Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - Apple Silicon Mac용 부팅 가능한 macOS/OS X 설치 프로그램 생성기. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [LocalSR](https://herrei.github.io/localsr/) - 로컬 AI 모델로 사진과 동영상을 업스케일, 노이즈 제거, 복원하는 오픈소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/HerRei/local-upscale) ![Freeware][Freeware Icon]
 * [Lucid](https://lucid-wallpaper.vercel.app) - 우주, 자연, 바다 루프 영상과 Apple Aerials를 모든 디스플레이에 보여 주는 4K 라이브 배경화면 앱. [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/lucid-live-wallpaper) ![Freeware][Freeware Icon]
@@ -1507,6 +1512,7 @@ Awesome Mac
 * [Switch](https://switch-dev.sanyamgarg.com) - 모든 Space의 열린 창을 보여주고 입력으로 필터링할 수 있는 키보드 창 전환 도구. ![Freeware][Freeware Icon]
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
+* [WindowShade](https://windowshade.aaronlau.me/en/) - 제목 표시줄을 두 번 클릭하면 창이 그 자리에서 얇은 막대로 말려 올라갑니다. 고정 미리보기와 화면 속 화면도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WinPlug](https://winplug.app/) - Windows에서 넘어온 사용자를 위해 창 미리보기가 있는 Windows 스타일 작업 표시줄, 창 단위 Alt-Tab, 캡처 도구, Ctrl 단축키를 하나로 모은 앱.
 * [yabai](https://github.com/koekeishiya/yabai) - 키보드 중심의 타일링 창 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
@@ -1524,6 +1530,8 @@ Awesome Mac
 * [Borne](https://borne.pasahome.org) - MAMEUI의 흐름을 잇는 MAME 및 클래식 PC 게임(Doom, Quake, Duke Nukem 3D)용 네이티브 프런트엔드로, 에뮬레이터와 게임 엔진을 함께 제공합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3단계 AI와 다양한 기물 디자인, 핫시트 대전을 지원하는 3D 애니메이션 체스. ![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - libretro 코어를 사용하는 오픈 소스 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
+* [Coinsole](https://github.com/anvibe/coinsole) - Mac을 게임기로 바꿔 줍니다. 직접 만든 웹 게임이나 Mac 앱을 추가하고 Xbox 또는 PlayStation 컨트롤러로 즐기세요. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/anvibe/coinsole)
+* [DropExe](https://hollowbit.dev/dropexe/) - Wine을 통해 Apple Silicon에서 Windows 게임과 앱을 실행합니다. Steam과 Epic을 원클릭으로 설치하고, 아무 .exe나 끌어다 놓을 수 있으며, 'Make it run' 버튼이 게임이 실행될 때까지 그래픽 설정(DXMT, DXVK, D3DMetal)을 자동으로 시도합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hollowbit-dev/dropexe)
 * [Highball](https://gethighball.com) - Wine을 통해 Apple Silicon에서 Windows 게임을 실행하며, 공개 호환성 데이터베이스에서 게임별로 그래픽 계층(DXMT, DXVK 또는 D3DMetal)을 선택합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](https://openemu.org/) - 여러 콘솔을 지원하는 레트로 게임 에뮬레이터 프런트엔드. [![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [Soju](https://didimlabs.com) - Wine과 Apple GPTK로 Apple Silicon에 공식 Windows용 Battle.net, Steam, Epic, GOG, EA 앱, Rockstar, Ubisoft Connect를 설치하고, 모든 게임을 네이티브 라이브러리에서 관리합니다. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/BCD1210/soju)

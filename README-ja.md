@@ -326,7 +326,7 @@ Awesome Mac
 
 ### ライティング
 
-* [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Pagekin (AI Novel Writer)](https://github.com/EthanYoQ/Pagekin) - キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/Pagekin) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - 章、アウトライン、登場人物、ストーリーラインを備え、プロジェクト全体を読み書きできるAIエージェントを持つ、オープンソースでローカルファーストの長編小説執筆アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Meboki](https://meboki.com) - Mac 上でローカルモデルを動かし、どのアプリの文章でも修正できるオープンソースの文法チェッカー。 [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 本物のタイプライターのような感覚の楽しくミニマルなライティングアプリ。 ![Freeware][Freeware Icon]
@@ -1389,6 +1389,7 @@ Awesome Mac
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylibハイジャックの危険があるアプリを検査するツール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner) ![Freeware][Freeware Icon]
 * [fob](https://getfob.app) - SSH鍵をSecure Enclaveに保存し、使用のたびにTouch IDで認証するメニューバー型SSHエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - デバイス上の顔認識でロック画面を解除し、選択したアプリをプライバシーシールドで保護するツール。 [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
+* [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) - App Store と TestFlight の IPA をダウンロードし FairPlay を復号する GUI ツール。macOS と iOS に対応し、認証情報の管理も行える。 [![Open-Source Software][OSS Icon]](https://github.com/Re13orn/IPA-Decrypt) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - OSカーネルにロードされているすべてのモジュールを表示。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KextViewr)
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - Mac上に永続的にインストールされているものを確認。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KnockKnock)
 * [LinkLiar](http://halo.github.io/LinkLiar) - macOS用のリンク層MACスプーフィングGUI。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
@@ -1509,6 +1510,7 @@ Awesome Mac
 * [Konverter](https://github.com/davidpraznik/Konverter) - ドラッグしたファイルをホイールにドロップして操作する、メニューバーのファイル変換・画像圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Konverter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - メニューバーのファイル変換ツール。ファイルをドラッグ中に Shift を押してホイールにドロップするだけで、画像・音声・動画・文書の変換、圧縮、OCR、トリミング、注釈付けができます。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
 * [Lafz Prompter](https://lafz.waqasrana.space/) - MacBook のノッチ下に表示されるプロンプター。画面共有から隠すことができ、話すのに合わせてスクロールし、ウルドゥー語をナスタアリーク体で表示します。 [![Open-Source Software][OSS Icon]](https://github.com/ranawaqas-ai/lafz-prompter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Nook](https://github.com/siliconile/Nook) - あらゆるプレーヤー（ブラウザを含む）に対応した再生コントロール、音量・輝度 HUD、集中タイマー、リマインダー、タスク、Markdown メモ、ファイルシェルフをノッチにまとめるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/siliconile/Nook) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Out to Sea](https://sea.cwdx.md) - メニューバーの休憩リマインダー。休憩の時間になるとリアルタイムに描画された海が画面に広がり、遠くを見るよう促し、1分間のゆっくりした呼吸を案内します。 [![Open-Source Software][OSS Icon]](https://github.com/cwdx/out-to-sea) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - Claude Code・Codex・OpenCode・piのセッションをまとめて扱うキーボード操作中心のMacBookノッチアプリで、各セッションの状況確認、ノッチからの返答、該当するウィンドウやターミナルペインへの移動ができる。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - MacBookのノッチを、VPN接続、各ブラウザのタブグループ、再生中のメディア、カレンダー、オンデバイス翻訳、クリップボード履歴をまとめたコントロールセンターに変える。 [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1531,6 +1533,7 @@ Awesome Mac
 * [Dynamic Menu Bar](https://dynamicmenubar.com) - macOSのメニューバーの色と形を変えるツール。画面に合わせたライブカラー、グラデーション、音楽ビジュアライザー、アプリごとのプロファイル。
 * [DynamicHorizon](https://dynamichorizon.app) - ノッチにメディア操作、通知、システム表示を追加するツール。
 * [Eye Timer](https://adelmaer.com/eyetimer) - 目の疲れを防ぐための休憩タイマーMacアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/eye-timer/id1485856873?platform=mac)
+* [FestiveLights](https://www.blackbox.ms/festive/en/) - メニューバーの下と Dock に飾るクリスマスライトと、ウインドウの上に積もる雪。 [![Open-Source Software][OSS Icon]](https://github.com/krystofbe/festive-lights) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fishing Funds](https://ff.1zilc.top) - メニューバーに中国のファンドのリアルタイムトレンドを表示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - シームレスなGoogle Drive同期のためのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [GravityNotch](https://adrielakak.github.io/GravityNotch/) - ノッチを、macOS Tahoe対応のシステムHUD・同期歌詞付きロック画面プレーヤー・クリップボード履歴・Claude Codeエージェントのリアルタイム追跡を備えたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/adrielakak/GravityNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1538,6 +1541,7 @@ Awesome Mac
 * [HeyMate](https://getheymate.vercel.app) - 画面について音声で答え、承認した計画に沿って Claude Code、Codex、OpenCode のエージェントを動かす、MacBook のノッチに常駐する AI アシスタントで、メディア、ファイルシェルフ、カレンダーも備えます。 [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden](https://github.com/dwarvesf/hidden) - メニューバーアイコンの非表示を支援する超軽量macOSユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [HideNotch](https://hidenotch.app) - メニューバーを黒く塗って MacBook のノッチを目立たなくし、画面の角を丸くすることもできます。 [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [holzBar](https://holzcloud.ch/holzbar) - Iceから派生したオープンソースのメニューバー管理ツールで、アイコンを非表示にし、プロファイル、ウィジェット、システム情報、ノッチハブを備える。 [![Open-Source Software][OSS Icon]](https://github.com/holzcloud/holzBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1697,6 +1701,7 @@ Awesome Mac
 * [DevUtils.app](https://devutils.com/) - 日常的なデータの整形、変換、デバッグをまとめて行える開発者ツールボックス。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032?platform=mac)
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - デスクトップにウォーターマークを追加、動画録画に最適。 [![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
 * [Driftwall](https://driftwall.kamaldhital.com) - 任意の動画ファイルを、デスクトップアイコンの背後でループ再生するライブ壁紙に。すべてのディスプレイに対応。 [![Open-Source Software][OSS Icon]](https://github.com/dhitalkamal/driftwall) ![Freeware][Freeware Icon]
+* [Earth Now](https://hensobo.github.io/earth-now/) - 実際の太陽の位置、街の灯り、衛星の雲を反映したライブ3D地球をデスクトップ壁紙に。 [![Open-Source Software][OSS Icon]](https://github.com/Hensobo/earth-now) ![Freeware][Freeware Icon]
 * [Etcher](https://www.balena.io/etcher/) - OSイメージをSDカードやUSBドライブに安全かつ簡単に書き込み。 [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
 * [Equinox](https://github.com/rlxone/Equinox) - macOS用のダイナミック壁紙を作成。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [HTTrack](http://www.httrack.com) - Webサイト全体をダウンロードしてオフラインブラウジングするのに便利なツール。 ![Freeware][Freeware Icon]
@@ -1905,6 +1910,7 @@ Awesome Mac
 * [Tiles](https://freemacsoft.net/tiles/) - 画面端、ショートカット、メニューバーでウィンドウを整列できるツール。 ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - 任意のウィンドウを画面の最前面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - ワークスペースの切り替えや把握をしやすくする管理ツール。
+* [WindowShade](https://windowshade.aaronlau.me/en/) - タイトルバーをダブルクリックすると、ウィンドウがその場で細いバーに巻き上がります。ピン留めプレビューとピクチャ・イン・ピクチャにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WinPlug](https://winplug.app/) - Windowsから乗り換えた人向けに、ウィンドウプレビュー付きのWindows風タスクバー、ウィンドウ単位のAlt-Tab、スクリーンショットツール、Ctrlショートカットをひとつにまとめたアプリ。
 * [yabai](https://github.com/koekeishiya/yabai) - キーボード操作中心のタイル型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
@@ -2045,6 +2051,8 @@ Awesome Mac
 * [Borne](https://borne.pasahome.org) - MAMEUI の流れをくむ、MAME とクラシック PC ゲーム（Doom、Quake、Duke Nukem 3D）のネイティブなフロントエンド。エミュレーターとゲームエンジンを同梱。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。 ![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - libretro コアを利用したオープンソースのレトロゲームエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
+* [Coinsole](https://github.com/anvibe/coinsole) - Mac をゲーム機に変えるアプリ。自分の Web ゲームや Mac アプリを追加し、Xbox や PlayStation のコントローラーで遊べます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/anvibe/coinsole)
+* [DropExe](https://hollowbit.dev/dropexe/) - Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hollowbit-dev/dropexe)
 * [Highball](https://gethighball.com) - Wine を通じて Apple Silicon で Windows ゲームを実行し、オープンな互換性データベースからゲームごとにグラフィックス層（DXMT、DXVK、D3DMetal）を選びます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](http://openemu.org/) - 複数の家庭用ゲーム機に対応したレトロゲーム向けエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Apple Silicon MacでiOSアプリやゲームをマウス、キーボード、コントローラーのサポート付きで実行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)

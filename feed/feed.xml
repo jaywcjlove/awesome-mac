@@ -5,9 +5,139 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: DropExe
+Description: Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts.
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: DropExe<br/>Description: Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts.<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
+    <item>
+      <title>Pagekin (AI Novel Writer)</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin (AI Novel Writer)</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>Reading and Writing Tools / Writing</category>
+      <description>Category: Reading and Writing Tools / Writing
+App: Pagekin (AI Novel Writer)
+Description: Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project.
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Writing<br/>App: Pagekin (AI Novel Writer)<br/>Description: Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project.<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
+    <item>
+      <title>Coinsole</title>
+      <link>https://github.com/anvibe/coinsole</link>
+      <guid isPermaLink="false">624f0ba5d5769a4b1311fc06b328d22c3e17ebbe:Coinsole</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:40 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: Coinsole
+Description: Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller.
+Open Source: https://github.com/anvibe/coinsole
+Commit: Add Coinsole to Gaming Software (#5131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: Coinsole<br/>Description: Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller.<br/>Open Source: https://github.com/anvibe/coinsole<br/>Commit: Add Coinsole to Gaming Software (#5131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe]]></content:encoded>
+    </item>
+    <item>
+      <title>Earth Now</title>
+      <link>https://hensobo.github.io/earth-now/</link>
+      <guid isPermaLink="false">01f740a68dd238f5fd7eb9a013c45d599750daf7:Earth Now</guid>
+      <pubDate>Fri, 27 Nov 2026 10:32:53 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Earth Now
+Description: Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.
+Website: https://hensobo.github.io/earth-now/
+Open Source: https://github.com/Hensobo/earth-now
+Commit: Add Earth Now to General Tools (all locales) (#5129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Earth Now<br/>Description: Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.<br/>Website: https://hensobo.github.io/earth-now/<br/>Open Source: https://github.com/Hensobo/earth-now<br/>Commit: Add Earth Now to General Tools (all locales) (#5129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7]]></content:encoded>
+    </item>
+    <item>
+      <title>WindowShade</title>
+      <link>https://windowshade.aaronlau.me/en/</link>
+      <guid isPermaLink="false">704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034:WindowShade</guid>
+      <pubDate>Fri, 27 Nov 2026 10:23:10 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: WindowShade
+Description: Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture.
+Website: https://windowshade.aaronlau.me/en/
+Open Source: https://github.com/surfine/WindowShade
+Commit: Add WindowShade to Window Management (#5126)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: WindowShade<br/>Description: Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture.<br/>Website: https://windowshade.aaronlau.me/en/<br/>Open Source: https://github.com/surfine/WindowShade<br/>Commit: Add WindowShade to Window Management (#5126)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034]]></content:encoded>
+    </item>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: IPA-Decrypt
+Description: Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management.
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: IPA-Decrypt<br/>Description: Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management.<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
+    <item>
+      <title>Nook</title>
+      <link>https://github.com/siliconile/Nook</link>
+      <guid isPermaLink="false">a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a:Nook</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:34 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Nook
+Description: Open-source notch app with Now Playing for any player including browsers, a volume and brightness HUD, a focus timer, Reminders, tasks, Markdown notes and a file shelf.
+Open Source: https://github.com/siliconile/Nook
+Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Nook<br/>Description: Open-source notch app with Now Playing for any player including browsers, a volume and brightness HUD, a focus timer, Reminders, tasks, Markdown notes and a file shelf.<br/>Open Source: https://github.com/siliconile/Nook<br/>Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a]]></content:encoded>
+    </item>
+    <item>
+      <title>FestiveLights</title>
+      <link>https://www.blackbox.ms/festive/en/</link>
+      <guid isPermaLink="false">b772cbd5ff6589b5a9c1890efe1580c64a4389f1:FestiveLights</guid>
+      <pubDate>Fri, 27 Nov 2026 03:36:08 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: FestiveLights
+Description: Christmas lights under the menu bar and on the Dock, with snow that settles on your windows.
+Website: https://www.blackbox.ms/festive/en/
+Open Source: https://github.com/krystofbe/festive-lights
+Commit: Add FestiveLights to Menu Bar Tools (#5105)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FestiveLights<br/>Description: Christmas lights under the menu bar and on the Dock, with snow that settles on your windows.<br/>Website: https://www.blackbox.ms/festive/en/<br/>Open Source: https://github.com/krystofbe/festive-lights<br/>Commit: Add FestiveLights to Menu Bar Tools (#5105)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1]]></content:encoded>
+    </item>
+    <item>
+      <title>holzBar</title>
+      <link>https://holzcloud.ch/holzbar</link>
+      <guid isPermaLink="false">44d035259b7cfee028177adb265af69add5212f8:holzBar</guid>
+      <pubDate>Fri, 27 Nov 2026 03:21:34 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: holzBar
+Description: Open-source menu bar manager, a fork of Ice, that hides menu bar icons and adds profiles, widgets, system readouts and a notch hub.
+Website: https://holzcloud.ch/holzbar
+Open Source: https://github.com/holzcloud/holzBar
+Commit: Add holzBar to Menu Bar Tools (#5100)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: holzBar<br/>Description: Open-source menu bar manager, a fork of Ice, that hides menu bar icons and adds profiles, widgets, system readouts and a notch hub.<br/>Website: https://holzcloud.ch/holzbar<br/>Open Source: https://github.com/holzcloud/holzBar<br/>Commit: Add holzBar to Menu Bar Tools (#5100)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8]]></content:encoded>
+    </item>
     <item>
       <title>VirtualBuddy</title>
       <link>https://github.com/insidegui/VirtualBuddy</link>
@@ -602,138 +732,6 @@ Open Source: https://github.com/wilu222/tripleclick
 Commit: Add TripleClick to Productivity (#4883)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: TripleClick<br/>Description: Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinstill</title>
-      <link>https://pinstill.echovic.com/en/</link>
-      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Pinstill
-Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.
-Website: https://pinstill.echovic.com/en/
-Open Source: https://github.com/echoVic/Pinstill
-Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Pinstill<br/>Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
-    </item>
-    <item>
-      <title>Cleanzo</title>
-      <link>https://cleanzo.echovic.com/en/</link>
-      <guid isPermaLink="false">5bc9a8481e806f307006567d6fde4348cb9649b1:Cleanzo</guid>
-      <pubDate>Sun, 22 Nov 2026 12:25:20 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: Cleanzo
-Description: Open-source cleaner for macOS and Windows that shows system and disk usage, then clears caches, large files and idle build output after review.
-Website: https://cleanzo.echovic.com/en/
-Open Source: https://github.com/echoVic/cleanzo
-Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: Cleanzo<br/>Description: Open-source cleaner for macOS and Windows that shows system and disk usage, then clears caches, large files and idle build output after review.<br/>Website: https://cleanzo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilion</title>
-      <link>https://pilion.echovic.com/en/</link>
-      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
-      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
-      <category>Browsers</category>
-      <description>Category: Browsers
-App: Pilion
-Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.
-Website: https://pilion.echovic.com/en/
-Open Source: https://github.com/echoVic/pilion-browser
-Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
-      <content:encoded><![CDATA[Category: Browsers<br/>App: Pilion<br/>Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.<br/>Website: https://pilion.echovic.com/en/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
-    </item>
-    <item>
-      <title>Localix Terminal</title>
-      <link>https://terminal.localix.ai</link>
-      <guid isPermaLink="false">ae06017826d56844fa969a14841a8ea91c2cc7c8:Localix Terminal</guid>
-      <pubDate>Sun, 22 Nov 2026 11:48:49 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: Localix Terminal
-Description: Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.
-Website: https://terminal.localix.ai
-Open Source: https://github.com/localixai/localix-terminal
-Commit: Add Localix Terminal (#4881)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Localix Terminal<br/>Description: Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
-    </item>
-    <item>
-      <title>Terento</title>
-      <link>https://terento.app</link>
-      <guid isPermaLink="false">40ee60028cdfef8beb48f7b16abac80c7cb701ea:Terento</guid>
-      <pubDate>Sun, 22 Nov 2026 09:46:59 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Terento
-Description: Install free maps on Garmin watches and Edge bike computers.
-Website: https://terento.app
-Open Source: https://github.com/VooZ2/terento
-App Store: https://apps.apple.com/app/id6828556832
-Commit: Add Terento to General Tools (#4877)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Terento<br/>Description: Install free maps on Garmin watches and Edge bike computers.<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: ClipHat
-Description: Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally.
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: ClipHat<br/>Description: Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally.<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenGestures</title>
-      <link>https://github.com/01wil/OpenGestures</link>
-      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
-      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: OpenGestures
-Description: Open-source trackpad gestures mapped to window, app, shortcut, and script actions.
-Open Source: https://github.com/01wil/OpenGestures
-Commit: Add OpenGestures to Productivity (#4872)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: OpenGestures<br/>Description: Open-source trackpad gestures mapped to window, app, shortcut, and script actions.<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
-    </item>
-    <item>
-      <title>InputBattery</title>
-      <link>https://github.com/dirkkredinger/InputBattery</link>
-      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
-      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: InputBattery
-Description: Battery levels of Bluetooth keyboards, mice, headsets and AirPods in the menu bar and a desktop widget, with a warning before they run empty.
-Open Source: https://github.com/dirkkredinger/InputBattery
-Commit: Add InputBattery to Menu Bar Tools (#4873)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: InputBattery<br/>Description: Battery levels of Bluetooth keyboards, mice, headsets and AirPods in the menu bar and a desktop widget, with a warning before they run empty.<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
-    </item>
-    <item>
-      <title>Olympus Coder</title>
-      <link>https://github.com/martianacademy/olympus-coder</link>
-      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
-      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Olympus Coder
-Description: Open-source desktop workbench and headless server for Claude Code, Codex, Antigravity, and 18+ ACP coding agents with shared project memory, parallel sub-sessions, Git worktrees, per-hunk diff review, embedded terminals, and E2E-encrypted phone access.
-Open Source: https://github.com/martianacademy/olympus-coder
-Commit: Add Olympus Coder to AI Tools (#4866)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Olympus Coder<br/>Description: Open-source desktop workbench and headless server for Claude Code, Codex, Antigravity, and 18+ ACP coding agents with shared project memory, parallel sub-sessions, Git worktrees, per-hunk diff review, embedded terminals, and E2E-encrypted phone access.<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
     </item>
   </channel>
 </rss>

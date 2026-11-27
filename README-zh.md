@@ -1118,7 +1118,7 @@ Awesome Mac
 
 ### 写作
 
-* [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Pagekin（书童，原 AI 小说作家）](https://github.com/EthanYoQ/Pagekin) - 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。 [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/Pagekin) ![Freeware][Freeware Icon]
 * [Drifting](https://drifting.cc/) - 开源、本地优先的长篇小说写作软件，有章节、大纲、人物和故事线，还有能读写整个项目的 AI Agent。 [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Meboki](https://meboki.com) - 开源语法检查工具，在 Mac 本地运行模型，可修正任意应用中的文本。 [![Open-Source Software][OSS Icon]](https://github.com/mebokihq/meboki) ![Native App][Native Icon]
 * [Retrotype](https://retrotype.ink/) - 有趣且极简的写作应用，带来真实打字机的手感。 ![Freeware][Freeware Icon]
@@ -1342,6 +1342,7 @@ Awesome Mac
 * [fob](https://getfob.app) - 将 SSH 密钥保存在 Secure Enclave 中、每次使用都需 Touch ID 验证的菜单栏 SSH 代理。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [GPG Suite](https://gpgtools.org/) - macOS平台的一站式GnuPG解决方案，提供命令行和GUI的加解密工具。开箱即用的`gpg-agent`密码缓存服务，还包括一个GUI的pinenry程序，支持与macOS原生钥匙串集成。[![Open-Source Software][OSS Icon]](https://gpgtools.org/) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - 通过本地人脸识别解锁屏幕，并为选定应用提供隐私遮罩。 [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
+* [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) - 图形界面的 App Store / TestFlight IPA 下载与 FairPlay 解密工具，支持 iOS 和 macOS，并带凭证管理。 [![Open-Source Software][OSS Icon]](https://github.com/Re13orn/IPA-Decrypt) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看所有在 OS 内核中加载的模块。
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - “谁在那？” 查看Mac上持久安装的内容。
 * [LinkLiar](https://github.com/halo/LinkLiar) - 可以帮助你哄骗 Wi-Fi 和以太网接口的 MAC 地址。 [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
@@ -1426,6 +1427,7 @@ Awesome Mac
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - 使用 Ctrl+Opt+Delete 启动活动监视器，在 Finder 中用 Cmd+X 剪切并移动文件。
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
 * [Driftwall](https://driftwall.kamaldhital.com) - 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。 [![Open-Source Software][OSS Icon]](https://github.com/dhitalkamal/driftwall) ![Freeware][Freeware Icon]
+* [Earth Now](https://hensobo.github.io/earth-now/) - 将实时 3D 地球设为桌面壁纸，呈现真实的太阳位置、城市灯光和卫星云图。 [![Open-Source Software][OSS Icon]](https://github.com/Hensobo/earth-now) ![Freeware][Freeware Icon]
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [eZip](http://ezip.awehunt.com) - 轻量压缩解压工具，支持 ZIP、RAR、7Z 等常见格式。 ![Freeware][Freeware Icon]
 * [Final2x](https://github.com/Tohrusky/Final2x) - 这是一个强大的工具，允许使用多种模型对图像进行任意大小的超分辨率处理，旨在提高图像的分辨率和质量，使其更加清晰和详细。[![Open-Source Software][OSS Icon]](https://github.com/Tohrusky/Final2x) ![Freeware][Freeware Icon]
@@ -1591,6 +1593,7 @@ Awesome Mac
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - 菜单栏文件转换工具：拖动文件时按一下 Shift，把文件放到转盘上即可转换图片、音频、视频和文档，还支持压缩、OCR、剪辑和标注。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
 * [Lafz Prompter](https://lafz.waqasrana.space/) - 位于 MacBook 刘海下方的提词器，可在屏幕共享中隐藏，随你说话自动滚动，并以波斯体（Nastaliq）显示乌尔都语。 [![Open-Source Software][OSS Icon]](https://github.com/ranawaqas-ai/lafz-prompter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacResourceMonitor](https://github.com/x0c/MacResourceMonitor) - 菜单栏 CPU 监控工具，直观查看高占用进程并支持一键结束。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/MacResourceMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Nook](https://github.com/siliconile/Nook) - 开源刘海应用，提供支持任意播放器（包括浏览器）的正在播放控制、音量与亮度 HUD、专注计时器、提醒事项、任务、Markdown 笔记和文件暂存架。 [![Open-Source Software][OSS Icon]](https://github.com/siliconile/Nook) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Out to Sea](https://sea.cwdx.md) - 菜单栏休息提醒应用：休息时间到时，实时渲染的海面铺满屏幕，提示你远眺，并引导一分钟的缓慢呼吸。 [![Open-Source Software][OSS Icon]](https://github.com/cwdx/out-to-sea) ![Freeware][Freeware Icon]
 * [Perch](https://perchapp.dev) - 键盘优先的 MacBook 刘海应用，集中管理 Claude Code、Codex、OpenCode 与 pi 会话：查看每个会话的进展、直接在刘海中回复，并一键跳回对应的窗口或终端窗格。 [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [Polka](https://romabmstu.github.io/polka/) - 把 MacBook 刘海变成控制中心，集中管理 VPN 连接、任意浏览器的标签页分组、正在播放、日历、本地翻译和剪贴板历史。 [![Open-Source Software][OSS Icon]](https://github.com/romabmstu/polka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1613,12 +1616,14 @@ Awesome Mac
 * [Notchly](https://notchly.xyz) - 适用于 macOS 的轻量级 Dynamic Island，支持 AI 编码代理通知。 [![Open-Source Software][OSS Icon]](https://github.com/Notchly/Notchly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NØTH](https://github.com/manugowda19/noth) - 将 MacBook 刘海变成实时活动和控制中心，集成音乐、文件、剪贴板、日历、笔记和工具。 [![Open-Source Software][OSS Icon]](https://github.com/manugowda19/noth) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [NVBeacon](https://jaein4722.github.io/NVBeacon/) - 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaein4722/NVBeacon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [FestiveLights](https://www.blackbox.ms/festive/en/) - 在菜单栏下方和程序坞上挂起圣诞彩灯，还有会落在窗口上的雪花。 [![Open-Source Software][OSS Icon]](https://github.com/krystofbe/festive-lights) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 无缝 Google Drive 同步的菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [GravityNotch](https://adrielakak.github.io/GravityNotch/) - 将刘海区域变成灵动岛，提供适配 macOS Tahoe 的系统 HUD、带同步歌词的锁屏播放器、剪贴板历史以及 Claude Code 代理实时追踪。 [![Open-Source Software][OSS Icon]](https://github.com/adrielakak/GravityNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HeyMate](https://getheymate.vercel.app) - 住在 MacBook 刘海里的 AI 助手，可语音回答与屏幕内容相关的问题，并在你批准计划后运行 Claude Code、Codex 或 OpenCode 代理，还带有媒体、文件架和日历组件。 [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HiddenBar](https://github.com/dwarvesf/hidden) - 一个超轻MacOS实用工具，帮助隐藏菜单栏图标。。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/hidden-bar/id1452453066?platform=mac)
 * [HideNotch](https://hidenotch.app) - 将菜单栏涂成黑色，让 MacBook 的刘海与之融为一体，还可以为屏幕加上圆角。 [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [holzBar](https://holzcloud.ch/holzbar) - 开源菜单栏管理工具（Ice 的分支），可隐藏菜单栏图标，并提供配置方案、小组件、系统读数和刘海中心。 [![Open-Source Software][OSS Icon]](https://github.com/holzcloud/holzBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 用快捷键和自动化管理蓝牙设备的菜单栏工具。 [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [Ice](https://github.com/jordanbaird/Ice) - 用于隐藏并整理菜单栏图标的管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [iBar](https://www.better365.cn/ibar.html?statId=67&bd_vid=7646361531731097336) - 强大的菜单栏图标管理工具。![Freeware][Freeware Icon][![App Store][app-store Icon]](https://apps.apple.com/cn/app/ibar-%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%9B%BE%E6%A0%87%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id6443843900?platform=mac)
@@ -1877,6 +1882,7 @@ Awesome Mac
 * [Topit](https://github.com/lihaoyun6/Topit) - 在Mac上将你的任何窗口强制置顶 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lihaoyun6/Topit)
 * [Total Spaces](http://totalspaces.binaryage.com/) - 为工作区提供快捷键和空间总览的管理工具。
 * [Tungsten Edge 钨极](https://tungstenedge.app) - 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。 [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
+* [WindowShade](https://windowshade.aaronlau.me/) - 双击标题栏，窗口就卷成停在原处的一条细栏，再双击展开；另有固定预览和画中画。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WinPlug](https://winplug.app/) - 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。
 * [yabai](https://github.com/koekeishiya/yabai) - 键盘驱动的平铺式窗口管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
@@ -1930,7 +1936,9 @@ Awesome Mac
 * [Borne](https://borne.pasahome.org) - 原生的 MAME 与经典 PC 游戏（Doom、Quake、Duke Nukem 3D）前端，延续 MAMEUI 的风格，内置模拟器和游戏引擎。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - 基于 libretro 核心的开源复古主机模拟器前端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
+* [Coinsole](https://github.com/anvibe/coinsole) - 把 Mac 变成游戏主机：添加自己的网页游戏或 Mac 应用，用 Xbox 或 PlayStation 手柄游玩。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/anvibe/coinsole)
 * [CrossOver](https://www.codeweavers.com/crossover) - 在 macOS 和 Linux 上运行 Windows 应用程序，使用最成熟的游戏转译层`Wine`
+* [DropExe](https://hollowbit.dev/dropexe/) - 通过 Wine 在 Apple Silicon 上运行 Windows 游戏和应用，一键安装 Steam 和 Epic，可拖入任意 .exe，“Make it run”按钮会自动尝试图形设置（DXMT、DXVK、D3DMetal）直到游戏启动。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hollowbit-dev/dropexe)
 * [Highball](https://gethighball.com) - 通过 Wine 在 Apple Silicon 上运行 Windows 游戏，按游戏从开放的兼容性数据库中选择图形层（DXMT、DXVK 或 D3DMetal）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [openEmu](http://openemu.org/) - 支持多种主机平台的复古游戏模拟器前端。[![Open-Source Software][OSS Icon]](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
 * [PlayCover](https://github.com/PlayCover/PlayCover) - 在Mac上运行侧载的iOS应用、游戏。[![Open-Source Software][OSS Icon]](https://github.com/PlayCover/PlayCover) ![Freeware][Freeware Icon]

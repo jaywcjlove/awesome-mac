@@ -5,9 +5,139 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: DropExe
+Description: 通过 Wine 在 Apple Silicon 上运行 Windows 游戏和应用，一键安装 Steam 和 Epic，可拖入任意 .exe，“Make it run”按钮会自动尝试图形设置（DXMT、DXVK、D3DMetal）直到游戏启动。
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: DropExe<br/>Description: 通过 Wine 在 Apple Silicon 上运行 Windows 游戏和应用，一键安装 Steam 和 Epic，可拖入任意 .exe，“Make it run”按钮会自动尝试图形设置（DXMT、DXVK、D3DMetal）直到游戏启动。<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
+    <item>
+      <title>Pagekin（书童，原 AI 小说作家）</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin（书童，原 AI 小说作家）</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>阅读与写作工具 / 写作</category>
+      <description>Category: 阅读与写作工具 / 写作
+App: Pagekin（书童，原 AI 小说作家）
+Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / 写作<br/>App: Pagekin（书童，原 AI 小说作家）<br/>Description: 开源 AI 小说写作工作台，把人物、世界观、大纲、章节、审稿和修订组织在同一项目中。<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
+    <item>
+      <title>Coinsole</title>
+      <link>https://github.com/anvibe/coinsole</link>
+      <guid isPermaLink="false">624f0ba5d5769a4b1311fc06b328d22c3e17ebbe:Coinsole</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:40 GMT</pubDate>
+      <category>游戏软件</category>
+      <description>Category: 游戏软件
+App: Coinsole
+Description: 把 Mac 变成游戏主机：添加自己的网页游戏或 Mac 应用，用 Xbox 或 PlayStation 手柄游玩。
+Open Source: https://github.com/anvibe/coinsole
+Commit: Add Coinsole to Gaming Software (#5131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe</description>
+      <content:encoded><![CDATA[Category: 游戏软件<br/>App: Coinsole<br/>Description: 把 Mac 变成游戏主机：添加自己的网页游戏或 Mac 应用，用 Xbox 或 PlayStation 手柄游玩。<br/>Open Source: https://github.com/anvibe/coinsole<br/>Commit: Add Coinsole to Gaming Software (#5131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe]]></content:encoded>
+    </item>
+    <item>
+      <title>Earth Now</title>
+      <link>https://hensobo.github.io/earth-now/</link>
+      <guid isPermaLink="false">01f740a68dd238f5fd7eb9a013c45d599750daf7:Earth Now</guid>
+      <pubDate>Fri, 27 Nov 2026 10:32:53 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Earth Now
+Description: 将实时 3D 地球设为桌面壁纸，呈现真实的太阳位置、城市灯光和卫星云图。
+Website: https://hensobo.github.io/earth-now/
+Open Source: https://github.com/Hensobo/earth-now
+Commit: Add Earth Now to General Tools (all locales) (#5129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Earth Now<br/>Description: 将实时 3D 地球设为桌面壁纸，呈现真实的太阳位置、城市灯光和卫星云图。<br/>Website: https://hensobo.github.io/earth-now/<br/>Open Source: https://github.com/Hensobo/earth-now<br/>Commit: Add Earth Now to General Tools (all locales) (#5129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7]]></content:encoded>
+    </item>
+    <item>
+      <title>WindowShade</title>
+      <link>https://windowshade.aaronlau.me/</link>
+      <guid isPermaLink="false">704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034:WindowShade</guid>
+      <pubDate>Fri, 27 Nov 2026 10:23:10 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: WindowShade
+Description: 双击标题栏，窗口就卷成停在原处的一条细栏，再双击展开；另有固定预览和画中画。
+Website: https://windowshade.aaronlau.me/
+Open Source: https://github.com/surfine/WindowShade
+Commit: Add WindowShade to Window Management (#5126)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: WindowShade<br/>Description: 双击标题栏，窗口就卷成停在原处的一条细栏，再双击展开；另有固定预览和画中画。<br/>Website: https://windowshade.aaronlau.me/<br/>Open Source: https://github.com/surfine/WindowShade<br/>Commit: Add WindowShade to Window Management (#5126)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034]]></content:encoded>
+    </item>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>安全工具</category>
+      <description>Category: 安全工具
+App: IPA-Decrypt
+Description: 图形界面的 App Store / TestFlight IPA 下载与 FairPlay 解密工具，支持 iOS 和 macOS，并带凭证管理。
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: 安全工具<br/>App: IPA-Decrypt<br/>Description: 图形界面的 App Store / TestFlight IPA 下载与 FairPlay 解密工具，支持 iOS 和 macOS，并带凭证管理。<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
+    <item>
+      <title>Nook</title>
+      <link>https://github.com/siliconile/Nook</link>
+      <guid isPermaLink="false">a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a:Nook</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:34 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Nook
+Description: 开源刘海应用，提供支持任意播放器（包括浏览器）的正在播放控制、音量与亮度 HUD、专注计时器、提醒事项、任务、Markdown 笔记和文件暂存架。
+Open Source: https://github.com/siliconile/Nook
+Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Nook<br/>Description: 开源刘海应用，提供支持任意播放器（包括浏览器）的正在播放控制、音量与亮度 HUD、专注计时器、提醒事项、任务、Markdown 笔记和文件暂存架。<br/>Open Source: https://github.com/siliconile/Nook<br/>Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a]]></content:encoded>
+    </item>
+    <item>
+      <title>FestiveLights</title>
+      <link>https://www.blackbox.ms/festive/en/</link>
+      <guid isPermaLink="false">b772cbd5ff6589b5a9c1890efe1580c64a4389f1:FestiveLights</guid>
+      <pubDate>Fri, 27 Nov 2026 03:36:08 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: FestiveLights
+Description: 在菜单栏下方和程序坞上挂起圣诞彩灯，还有会落在窗口上的雪花。
+Website: https://www.blackbox.ms/festive/en/
+Open Source: https://github.com/krystofbe/festive-lights
+Commit: Add FestiveLights to Menu Bar Tools (#5105)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: FestiveLights<br/>Description: 在菜单栏下方和程序坞上挂起圣诞彩灯，还有会落在窗口上的雪花。<br/>Website: https://www.blackbox.ms/festive/en/<br/>Open Source: https://github.com/krystofbe/festive-lights<br/>Commit: Add FestiveLights to Menu Bar Tools (#5105)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1]]></content:encoded>
+    </item>
+    <item>
+      <title>holzBar</title>
+      <link>https://holzcloud.ch/holzbar</link>
+      <guid isPermaLink="false">44d035259b7cfee028177adb265af69add5212f8:holzBar</guid>
+      <pubDate>Fri, 27 Nov 2026 03:21:34 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: holzBar
+Description: 开源菜单栏管理工具（Ice 的分支），可隐藏菜单栏图标，并提供配置方案、小组件、系统读数和刘海中心。
+Website: https://holzcloud.ch/holzbar
+Open Source: https://github.com/holzcloud/holzBar
+Commit: Add holzBar to Menu Bar Tools (#5100)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: holzBar<br/>Description: 开源菜单栏管理工具（Ice 的分支），可隐藏菜单栏图标，并提供配置方案、小组件、系统读数和刘海中心。<br/>Website: https://holzcloud.ch/holzbar<br/>Open Source: https://github.com/holzcloud/holzBar<br/>Commit: Add holzBar to Menu Bar Tools (#5100)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8]]></content:encoded>
+    </item>
     <item>
       <title>VirtualBuddy</title>
       <link>https://github.com/insidegui/VirtualBuddy</link>
@@ -603,138 +733,6 @@ Open Source: https://github.com/echoVic/cleanzo
 Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Cleanzo<br/>Description: 开源 Mac / Windows 清理工具，先看清系统与磁盘占用，确认后再清理缓存、大文件和久未改动的构建产物。<br/>Website: https://cleanzo.echovic.com/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilion</title>
-      <link>https://pilion.echovic.com/</link>
-      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
-      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
-      <category>浏览器</category>
-      <description>Category: 浏览器
-App: Pilion
-Description: 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。
-Website: https://pilion.echovic.com/
-Open Source: https://github.com/echoVic/pilion-browser
-Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
-      <content:encoded><![CDATA[Category: 浏览器<br/>App: Pilion<br/>Description: 开源浏览器，让 Claude Code、Codex 等 ACP Agent 通过 MCP 操作你已登录的标签页，可审批、随时接管。<br/>Website: https://pilion.echovic.com/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
-    </item>
-    <item>
-      <title>Localix Terminal</title>
-      <link>https://terminal.localix.ai</link>
-      <guid isPermaLink="false">ae06017826d56844fa969a14841a8ea91c2cc7c8:Localix Terminal</guid>
-      <pubDate>Sun, 22 Nov 2026 11:48:49 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: Localix Terminal
-Description: 为你和你的编程 agent 打造的原生终端，项目会话会按你离开时的样子恢复，旁边还有浏览器和看板。
-Website: https://terminal.localix.ai
-Open Source: https://github.com/localixai/localix-terminal
-Commit: Add Localix Terminal (#4881)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: Localix Terminal<br/>Description: 为你和你的编程 agent 打造的原生终端，项目会话会按你离开时的样子恢复，旁边还有浏览器和看板。<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
-    </item>
-    <item>
-      <title>Terento</title>
-      <link>https://terento.app</link>
-      <guid isPermaLink="false">40ee60028cdfef8beb48f7b16abac80c7cb701ea:Terento</guid>
-      <pubDate>Sun, 22 Nov 2026 09:46:59 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: Terento
-Description: 为 Garmin 手表和 Edge 自行车码表安装免费地图。
-Website: https://terento.app
-Open Source: https://github.com/VooZ2/terento
-App Store: https://apps.apple.com/app/id6828556832
-Commit: Add Terento to General Tools (#4877)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Terento<br/>Description: 为 Garmin 手表和 Edge 自行车码表安装免费地图。<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>其它实用工具 / 剪贴板工具</category>
-      <description>Category: 其它实用工具 / 剪贴板工具
-App: ClipHat
-Description: 免费的剪贴板历史管理工具，支持搜索、固定，并用 ⌘⇧V 恢复文本、链接、图片和文件，数据仅存储在本地。
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: ClipHat<br/>Description: 免费的剪贴板历史管理工具，支持搜索、固定，并用 ⌘⇧V 恢复文本、链接、图片和文件，数据仅存储在本地。<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenGestures</title>
-      <link>https://github.com/01wil/OpenGestures</link>
-      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
-      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: OpenGestures
-Description: 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。
-Open Source: https://github.com/01wil/OpenGestures
-Commit: Add OpenGestures to Productivity (#4872)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: OpenGestures<br/>Description: 开源触控板手势工具，可将手势映射为窗口、应用、快捷键和脚本操作。<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
-    </item>
-    <item>
-      <title>InputBattery</title>
-      <link>https://github.com/dirkkredinger/InputBattery</link>
-      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
-      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: InputBattery
-Description: 在菜单栏和桌面小组件中显示蓝牙键盘、鼠标、耳机和 AirPods 的电量，并在电量耗尽前发出提醒。
-Open Source: https://github.com/dirkkredinger/InputBattery
-Commit: Add InputBattery to Menu Bar Tools (#4873)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: InputBattery<br/>Description: 在菜单栏和桌面小组件中显示蓝牙键盘、鼠标、耳机和 AirPods 的电量，并在电量耗尽前发出提醒。<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
-    </item>
-    <item>
-      <title>Olympus Coder</title>
-      <link>https://github.com/martianacademy/olympus-coder</link>
-      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
-      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Olympus Coder
-Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。
-Open Source: https://github.com/martianacademy/olympus-coder
-Commit: Add Olympus Coder to AI Tools (#4866)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Olympus Coder<br/>Description: 开源桌面工作台与无界面服务器，统一管理 Claude Code、Codex、Antigravity 及 18+ 款 ACP 编程智能体，支持共享项目记忆、多智能体并行编排、Git worktree、分块 Diff 审查、内置终端与端到端加密手机远程访问。<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
-    </item>
-    <item>
-      <title>Sikemux</title>
-      <link>https://sikemux.com</link>
-      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
-      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Sikemux
-Description: 开源的原生编程代理工作区（Claude Code、Codex、OpenCode、Pi），每个对话旁都有终端、Git、编辑器和浏览器标签页。
-Website: https://sikemux.com
-Open Source: https://github.com/nodelike/sikemux
-Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Sikemux<br/>Description: 开源的原生编程代理工作区（Claude Code、Codex、OpenCode、Pi），每个对话旁都有终端、Git、编辑器和浏览器标签页。<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
-    </item>
-    <item>
-      <title>Smorza</title>
-      <link>https://smorza.app</link>
-      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
-      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: Smorza
-Description: 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。
-Website: https://smorza.app
-Open Source: https://github.com/rokoov/smorza
-Commit: Add Smorza (#4861)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: Smorza<br/>Description: 菜单栏音量混合器，可为每个应用单独设置音量、静音和输出设备。<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
     </item>
   </channel>
 </rss>

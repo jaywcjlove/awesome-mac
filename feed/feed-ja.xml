@@ -5,9 +5,139 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: DropExe
+Description: Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: DropExe<br/>Description: Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
+    <item>
+      <title>Pagekin (AI Novel Writer)</title>
+      <link>https://github.com/EthanYoQ/Pagekin</link>
+      <guid isPermaLink="false">55c741fe872756d9d008d734f73b0d8f04c2f410:Pagekin (AI Novel Writer)</guid>
+      <pubDate>Fri, 27 Nov 2026 12:27:33 GMT</pubDate>
+      <category>読み書きツール / ライティング</category>
+      <description>Category: 読み書きツール / ライティング
+App: Pagekin (AI Novel Writer)
+Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。
+Open Source: https://github.com/EthanYoQ/Pagekin
+Commit: Update existing Pagekin writing entries (#5137)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410</description>
+      <content:encoded><![CDATA[Category: 読み書きツール / ライティング<br/>App: Pagekin (AI Novel Writer)<br/>Description: キャラクター、世界観、プロット、章執筆、レビュー、改稿を1つの小説プロジェクトで管理するオープンソースのAI執筆ワークスペース。<br/>Open Source: https://github.com/EthanYoQ/Pagekin<br/>Commit: Update existing Pagekin writing entries (#5137)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55c741fe872756d9d008d734f73b0d8f04c2f410]]></content:encoded>
+    </item>
+    <item>
+      <title>Coinsole</title>
+      <link>https://github.com/anvibe/coinsole</link>
+      <guid isPermaLink="false">624f0ba5d5769a4b1311fc06b328d22c3e17ebbe:Coinsole</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:40 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: Coinsole
+Description: Mac をゲーム機に変えるアプリ。自分の Web ゲームや Mac アプリを追加し、Xbox や PlayStation のコントローラーで遊べます。
+Open Source: https://github.com/anvibe/coinsole
+Commit: Add Coinsole to Gaming Software (#5131)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: Coinsole<br/>Description: Mac をゲーム機に変えるアプリ。自分の Web ゲームや Mac アプリを追加し、Xbox や PlayStation のコントローラーで遊べます。<br/>Open Source: https://github.com/anvibe/coinsole<br/>Commit: Add Coinsole to Gaming Software (#5131)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/624f0ba5d5769a4b1311fc06b328d22c3e17ebbe]]></content:encoded>
+    </item>
+    <item>
+      <title>Earth Now</title>
+      <link>https://hensobo.github.io/earth-now/</link>
+      <guid isPermaLink="false">01f740a68dd238f5fd7eb9a013c45d599750daf7:Earth Now</guid>
+      <pubDate>Fri, 27 Nov 2026 10:32:53 GMT</pubDate>
+      <category>ユーティリティ / 一般ツール</category>
+      <description>Category: ユーティリティ / 一般ツール
+App: Earth Now
+Description: 実際の太陽の位置、街の灯り、衛星の雲を反映したライブ3D地球をデスクトップ壁紙に。
+Website: https://hensobo.github.io/earth-now/
+Open Source: https://github.com/Hensobo/earth-now
+Commit: Add Earth Now to General Tools (all locales) (#5129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Earth Now<br/>Description: 実際の太陽の位置、街の灯り、衛星の雲を反映したライブ3D地球をデスクトップ壁紙に。<br/>Website: https://hensobo.github.io/earth-now/<br/>Open Source: https://github.com/Hensobo/earth-now<br/>Commit: Add Earth Now to General Tools (all locales) (#5129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7]]></content:encoded>
+    </item>
+    <item>
+      <title>WindowShade</title>
+      <link>https://windowshade.aaronlau.me/en/</link>
+      <guid isPermaLink="false">704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034:WindowShade</guid>
+      <pubDate>Fri, 27 Nov 2026 10:23:10 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: WindowShade
+Description: タイトルバーをダブルクリックすると、ウィンドウがその場で細いバーに巻き上がります。ピン留めプレビューとピクチャ・イン・ピクチャにも対応。
+Website: https://windowshade.aaronlau.me/en/
+Open Source: https://github.com/surfine/WindowShade
+Commit: Add WindowShade to Window Management (#5126)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: WindowShade<br/>Description: タイトルバーをダブルクリックすると、ウィンドウがその場で細いバーに巻き上がります。ピン留めプレビューとピクチャ・イン・ピクチャにも対応。<br/>Website: https://windowshade.aaronlau.me/en/<br/>Open Source: https://github.com/surfine/WindowShade<br/>Commit: Add WindowShade to Window Management (#5126)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/704fe8e2c0fb6d63b33a90d2abc35eaf81fd0034]]></content:encoded>
+    </item>
+    <item>
+      <title>IPA-Decrypt</title>
+      <link>https://github.com/Re13orn/IPA-Decrypt</link>
+      <guid isPermaLink="false">32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d:IPA-Decrypt</guid>
+      <pubDate>Fri, 27 Nov 2026 07:47:53 GMT</pubDate>
+      <category>セキュリティツール</category>
+      <description>Category: セキュリティツール
+App: IPA-Decrypt
+Description: App Store と TestFlight の IPA をダウンロードし FairPlay を復号する GUI ツール。macOS と iOS に対応し、認証情報の管理も行える。
+Open Source: https://github.com/Re13orn/IPA-Decrypt
+Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d</description>
+      <content:encoded><![CDATA[Category: セキュリティツール<br/>App: IPA-Decrypt<br/>Description: App Store と TestFlight の IPA をダウンロードし FairPlay を復号する GUI ツール。macOS と iOS に対応し、認証情報の管理も行える。<br/>Open Source: https://github.com/Re13orn/IPA-Decrypt<br/>Commit: Add IPA-Decrypt to Security Tools (all locales) (#5121)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/32d8081dd355a580b30fcd355ad6dc8bf3d6ee1d]]></content:encoded>
+    </item>
+    <item>
+      <title>Nook</title>
+      <link>https://github.com/siliconile/Nook</link>
+      <guid isPermaLink="false">a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a:Nook</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:34 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Nook
+Description: あらゆるプレーヤー（ブラウザを含む）に対応した再生コントロール、音量・輝度 HUD、集中タイマー、リマインダー、タスク、Markdown メモ、ファイルシェルフをノッチにまとめるオープンソースアプリ。
+Open Source: https://github.com/siliconile/Nook
+Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Nook<br/>Description: あらゆるプレーヤー（ブラウザを含む）に対応した再生コントロール、音量・輝度 HUD、集中タイマー、リマインダー、タスク、Markdown メモ、ファイルシェルフをノッチにまとめるオープンソースアプリ。<br/>Open Source: https://github.com/siliconile/Nook<br/>Commit: Add Nook to Menu Bar Tools (EN/ZH/JA/KO) (#5119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a0aab6d9a050b3a6e9d95ec0e614685e6bf3554a]]></content:encoded>
+    </item>
+    <item>
+      <title>FestiveLights</title>
+      <link>https://www.blackbox.ms/festive/en/</link>
+      <guid isPermaLink="false">b772cbd5ff6589b5a9c1890efe1580c64a4389f1:FestiveLights</guid>
+      <pubDate>Fri, 27 Nov 2026 03:36:08 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: FestiveLights
+Description: メニューバーの下と Dock に飾るクリスマスライトと、ウインドウの上に積もる雪。
+Website: https://www.blackbox.ms/festive/en/
+Open Source: https://github.com/krystofbe/festive-lights
+Commit: Add FestiveLights to Menu Bar Tools (#5105)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: FestiveLights<br/>Description: メニューバーの下と Dock に飾るクリスマスライトと、ウインドウの上に積もる雪。<br/>Website: https://www.blackbox.ms/festive/en/<br/>Open Source: https://github.com/krystofbe/festive-lights<br/>Commit: Add FestiveLights to Menu Bar Tools (#5105)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1]]></content:encoded>
+    </item>
+    <item>
+      <title>holzBar</title>
+      <link>https://holzcloud.ch/holzbar</link>
+      <guid isPermaLink="false">44d035259b7cfee028177adb265af69add5212f8:holzBar</guid>
+      <pubDate>Fri, 27 Nov 2026 03:21:34 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: holzBar
+Description: Iceから派生したオープンソースのメニューバー管理ツールで、アイコンを非表示にし、プロファイル、ウィジェット、システム情報、ノッチハブを備える。
+Website: https://holzcloud.ch/holzbar
+Open Source: https://github.com/holzcloud/holzBar
+Commit: Add holzBar to Menu Bar Tools (#5100)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: holzBar<br/>Description: Iceから派生したオープンソースのメニューバー管理ツールで、アイコンを非表示にし、プロファイル、ウィジェット、システム情報、ノッチハブを備える。<br/>Website: https://holzcloud.ch/holzbar<br/>Open Source: https://github.com/holzcloud/holzBar<br/>Commit: Add holzBar to Menu Bar Tools (#5100)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44d035259b7cfee028177adb265af69add5212f8]]></content:encoded>
+    </item>
     <item>
       <title>VirtualBuddy</title>
       <link>https://github.com/insidegui/VirtualBuddy</link>
@@ -604,138 +734,6 @@ Open Source: https://github.com/localixai/localix-terminal
 Commit: Add Localix Terminal (#4881)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Localix Terminal<br/>Description: あなたとコーディングエージェントのためのネイティブターミナル。プロジェクトのセッションは離れたときの状態のまま戻り、横にブラウザとボードがあります。<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
-    </item>
-    <item>
-      <title>Terento</title>
-      <link>https://terento.app</link>
-      <guid isPermaLink="false">40ee60028cdfef8beb48f7b16abac80c7cb701ea:Terento</guid>
-      <pubDate>Sun, 22 Nov 2026 09:46:59 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Terento
-Description: Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。
-Website: https://terento.app
-Open Source: https://github.com/VooZ2/terento
-App Store: https://apps.apple.com/app/id6828556832
-Commit: Add Terento to General Tools (#4877)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Terento<br/>Description: Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
-    </item>
-    <item>
-      <title>ClipHat</title>
-      <link>https://github.com/getguruhat/cliphat-macos</link>
-      <guid isPermaLink="false">94b9481c8b49d7d2cf13363c7cd48e8b0a822106:ClipHat</guid>
-      <pubDate>Sun, 22 Nov 2026 09:16:12 GMT</pubDate>
-      <category>ユーティリティ / クリップボードツール</category>
-      <description>Category: ユーティリティ / クリップボードツール
-App: ClipHat
-Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。
-Open Source: https://github.com/getguruhat/cliphat-macos
-Commit: Add ClipHat (#4520)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: ClipHat<br/>Description: 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。<br/>Open Source: https://github.com/getguruhat/cliphat-macos<br/>Commit: Add ClipHat (#4520)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/94b9481c8b49d7d2cf13363c7cd48e8b0a822106]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenGestures</title>
-      <link>https://github.com/01wil/OpenGestures</link>
-      <guid isPermaLink="false">f2910a592080279058c2107b7031eace81f86139:OpenGestures</guid>
-      <pubDate>Sun, 22 Nov 2026 08:28:50 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: OpenGestures
-Description: トラックパッドのジェスチャーをウィンドウ、アプリ、ショートカット、スクリプトの操作に割り当てるオープンソースツール。
-Open Source: https://github.com/01wil/OpenGestures
-Commit: Add OpenGestures to Productivity (#4872)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: OpenGestures<br/>Description: トラックパッドのジェスチャーをウィンドウ、アプリ、ショートカット、スクリプトの操作に割り当てるオープンソースツール。<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
-    </item>
-    <item>
-      <title>InputBattery</title>
-      <link>https://github.com/dirkkredinger/InputBattery</link>
-      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
-      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: InputBattery
-Description: Bluetoothキーボード、マウス、ヘッドセット、AirPodsのバッテリー残量をメニューバーとデスクトップウィジェットに表示し、電池切れの前に警告するアプリ。
-Open Source: https://github.com/dirkkredinger/InputBattery
-Commit: Add InputBattery to Menu Bar Tools (#4873)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: InputBattery<br/>Description: Bluetoothキーボード、マウス、ヘッドセット、AirPodsのバッテリー残量をメニューバーとデスクトップウィジェットに表示し、電池切れの前に警告するアプリ。<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
-    </item>
-    <item>
-      <title>Olympus Coder</title>
-      <link>https://github.com/martianacademy/olympus-coder</link>
-      <guid isPermaLink="false">56f1fadf6d770760f17c62bbbd4a2b981dcbf233:Olympus Coder</guid>
-      <pubDate>Sun, 22 Nov 2026 02:46:30 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Olympus Coder
-Description: Claude Code、Codex、Antigravity をはじめ 18 以上の ACP コーディングエージェントを統合管理できるオープンソースのデスクトップワークベンチ兼ヘッドレスサーバー。共有プロジェクトメモリ、並列サブセッション、Git worktree、ハンク単位の差分レビュー、内蔵ターミナル、E2E 暗号化モバイルアクセスに対応。
-Open Source: https://github.com/martianacademy/olympus-coder
-Commit: Add Olympus Coder to AI Tools (#4866)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Olympus Coder<br/>Description: Claude Code、Codex、Antigravity をはじめ 18 以上の ACP コーディングエージェントを統合管理できるオープンソースのデスクトップワークベンチ兼ヘッドレスサーバー。共有プロジェクトメモリ、並列サブセッション、Git worktree、ハンク単位の差分レビュー、内蔵ターミナル、E2E 暗号化モバイルアクセスに対応。<br/>Open Source: https://github.com/martianacademy/olympus-coder<br/>Commit: Add Olympus Coder to AI Tools (#4866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56f1fadf6d770760f17c62bbbd4a2b981dcbf233]]></content:encoded>
-    </item>
-    <item>
-      <title>Sikemux</title>
-      <link>https://sikemux.com</link>
-      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
-      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Sikemux
-Description: 各チャットの横にターミナル、Git、エディタ、ブラウザタブを備えた、コーディングエージェント（Claude Code、Codex、OpenCode、Pi）のためのオープンソースのネイティブワークスペース。
-Website: https://sikemux.com
-Open Source: https://github.com/nodelike/sikemux
-Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Sikemux<br/>Description: 各チャットの横にターミナル、Git、エディタ、ブラウザタブを備えた、コーディングエージェント（Claude Code、Codex、OpenCode、Pi）のためのオープンソースのネイティブワークスペース。<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
-    </item>
-    <item>
-      <title>Smorza</title>
-      <link>https://smorza.app</link>
-      <guid isPermaLink="false">6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a:Smorza</guid>
-      <pubDate>Sat, 21 Nov 2026 22:31:06 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Smorza
-Description: アプリごとに音量、ミュート、出力デバイスを設定できるメニューバーの音量ミキサー。
-Website: https://smorza.app
-Open Source: https://github.com/rokoov/smorza
-Commit: Add Smorza (#4861)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Smorza<br/>Description: アプリごとに音量、ミュート、出力デバイスを設定できるメニューバーの音量ミキサー。<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxtMini</title>
-      <link>https://actnow.dev/voxtmini</link>
-      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
-      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: VoxtMini
-Description: ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。
-Website: https://actnow.dev/voxtmini
-Open Source: https://github.com/hehehai/VoxtMini
-Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: VoxtMini<br/>Description: ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
-    </item>
-    <item>
-      <title>Ragdoll Mail</title>
-      <link>https://erict16.github.io/ragdoll-mail/</link>
-      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
-      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
-      <category>コミュニケーション / メールクライアント</category>
-      <description>Category: コミュニケーション / メールクライアント
-App: Ragdoll Mail
-Description: ローカル全文検索ですぐに結果が出て、スクリプトやAIエージェント向けのコマンドラインも備えたオープンソースのIMAPメールクライアント。
-Website: https://erict16.github.io/ragdoll-mail/
-Open Source: https://github.com/erict16/ragdoll-mail
-Commit: Add Ragdoll Mail to Email Clients (#4844)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
-      <content:encoded><![CDATA[Category: コミュニケーション / メールクライアント<br/>App: Ragdoll Mail<br/>Description: ローカル全文検索ですぐに結果が出て、スクリプトやAIエージェント向けのコマンドラインも備えたオープンソースのIMAPメールクライアント。<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
     </item>
   </channel>
 </rss>
