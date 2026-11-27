@@ -1686,6 +1686,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Nozbe](https://nozbe.com) - Gerenciador de tarefas GTD para indivíduos e equipes. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - Aplicativo GTD legal, feito pela OmniGroup.
 * [One Task](https://sindresorhus.com/one-task) - Vença uma tarefa de cada vez. [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322?platform=mac)
+* [Sharpy](https://getsharpy.com) - Lista de tarefas com IA que se monta a partir do Slack, e-mails e chamadas e risca as tarefas quando são concluídas. ![Freeware][Freeware Icon]
 * [Super Productivity](https://super-productivity.com) - Gerenciador de tarefas com divisão por blocos de tempo e controle de tempo. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
 * [Taskade](https://www.taskade.com) - Editor colaborativo em tempo real para equipes.
 * [TaskPaper](https://www.taskpaper.com/) - Listas de tarefas em texto puro.
