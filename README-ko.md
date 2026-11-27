@@ -268,6 +268,7 @@ Awesome Mac
 * [MiaoYan](https://miaoyan.app/) - 네이티브 마크다운 노트 앱. 노트는 직접 고른 폴더 안의 마크다운 파일이며, 분할 미리보기, LaTeX, Mermaid, 슬라이드 모드를 지원하고 iPhone과 iPad에서도 쓸 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/tw93/MiaoYan) ![Freeware][Freeware Icon]
 * [Notable](https://github.com/notable/notable) - 마크다운 기반의 괜찮은 노트 앱.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - 노트 작성 앱. ![Freeware][Freeware Icon]
+* [NoteForce](https://noteforce.app) - 오프라인에서도 사용할 수 있고 macOS, Windows, Linux, Android, 웹 간에 동기화되는 컬러 노트 및 체크리스트 앱. ![Freeware][Freeware Icon]
 * [NoteGen](https://notegen.top/) - 흩어진 기록을 AI로 구조화된 노트로 정리하는 오픈 소스 로컬 우선 Markdown 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - 깔끔하고 단순한 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - 할 일, 노트, 캘린더를 하나의 마크다운 파일로 관리. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)

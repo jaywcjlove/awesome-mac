@@ -296,6 +296,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [MiaoYan](https://miaoyan.app/) - Aplicativo nativo de notas em Markdown que mantém as notas como arquivos simples em uma pasta de sua escolha, com visualização dividida, LaTeX, Mermaid e modo de apresentação, também para iPhone e iPad. [![Open-Source Software][OSS Icon]](https://github.com/tw93/MiaoYan) ![Freeware][Freeware Icon]
 * [Notable](https://github.com/notable/notable) - O aplicativo de anotações baseado em Markdown que não decepciona.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Aplicativo de anotações. ![Freeware][Freeware Icon]
+* [NoteForce](https://noteforce.app) - Notas coloridas e listas de verificação que funcionam offline e sincronizam entre macOS, Windows, Linux, Android e a web. ![Freeware][Freeware Icon]
 * [NoteGen](https://notegen.top/) - Aplicativo de anotações em Markdown, de código aberto e local-first, que transforma registros dispersos em notas estruturadas com IA. [![Open-Source Software][OSS Icon]](https://github.com/codexu/note-gen) ![Freeware][Freeware Icon]
 * [Notes](https://www.get-notes.com/) - Aplicativo de anotações limpo e simples. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - Suas tarefas, notas e calendário, em arquivos Markdown de texto simples.  [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629?platform=mac)
