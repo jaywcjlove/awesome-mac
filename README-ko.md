@@ -282,6 +282,7 @@ Awesome Mac
 * [Revu](https://revu.cards/) - FSRS 스케줄링과 Anki 가져오기를 지원하는 로컬 우선 간격 반복 학습 앱. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - 교차 플랫폼 스타일러스 및 텍스트 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - 마크다운을 지원하는 사이드바 퀵 노트.
+* [Soya](https://blendpixel.com/products/soya) - 통화에 봇이 참여하지 않고 기기에서 회의를 전사하며, 간단한 메모를 결정 사항과 실행 항목이 담긴 정리본으로 만드는 앱.
 * [Standard Notes](https://standardnotes.com/) - 전문가를 위한 종단간 암호화 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - 전역 단축키와 AI 시맨틱 검색을 지원하는 빠른 마크다운 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
@@ -713,6 +714,7 @@ Awesome Mac
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - 제품 데모와 사용법 안내 영상을 만드는 오픈 소스 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - 데모, 튜토리얼, 제품 영상을 위한 오픈 소스 화면 녹화 및 편집 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 편집기가 내장된 화면 녹화 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Retina](https://blendpixel.com/products/retina) - 자동 시네마틱 줌, 부드러운 커서 움직임, 4K 내보내기를 지원하는 화면 녹화 도구입니다. ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 자동 모션 효과로 보기 좋은 영상을 만드는 화면 녹화 도구입니다.
 * [ScreenKite](https://www.screenkite.com/) - 자동 줌, AI 향상, 디바이스 목업, 텔레프롬프터 기능을 갖춘 네이티브 화면 녹화 및 편집 도구입니다. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 몇 분 만에 완성도 높은 화면 녹화 영상을 만드는 도구입니다.

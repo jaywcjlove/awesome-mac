@@ -309,6 +309,7 @@ Awesome Mac
 * [Revu](https://revu.cards/) - FSRSスケジューリングとAnkiインポートに対応したローカルファーストの間隔反復学習アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - クロスプラットフォームのスタイラスおよびテキストメモアプリ。画像やPDFのインポートに対応し、同期も可能。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Markdownサポート付きの画面サイドクイックメモ。
+* [Soya](https://blendpixel.com/products/soya) - 通話にボットを参加させずにオンデバイスで会議を文字起こしし、メモを決定事項とアクションアイテムを含む議事録にまとめるアプリ。
 * [Standard Notes](https://standardnotes.com/) - デジタリストとプロフェッショナルのためのエンドツーエンド暗号化メモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - グローバルホットキーとAIセマンティック検索を備えた高速Markdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Markdownサポートとタスク管理機能を備えたオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
@@ -863,6 +864,7 @@ Awesome Mac
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - デモ、チュートリアル、プロダクト動画向けのオープンソース画面録画・編集ツール。 [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - 内蔵エディター付きの画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Retina](https://blendpixel.com/products/retina) - 自動シネマティックズーム、滑らかなカーソル動作、4K書き出しに対応した画面録画ツール。 ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - 自動モーション効果で見栄えのする動画を作れる画面録画ツール。
 * [ScreenKite](https://www.screenkite.com/) - 自動ズーム、AI機能強化、デバイスモックアップ、テレプロンプターを備えたネイティブ画面録画・編集ツール。 ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - 数分で洗練された画面録画動画を作れるツール。

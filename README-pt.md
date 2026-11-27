@@ -309,6 +309,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Revu](https://revu.cards/) - Aplicativo local-first de repetição espaçada com agendamento FSRS e importação do Anki. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - Aplicativo multiplataforma de anotações com caneta stylus e texto. Suporta importação de imagens e PDFs e pode sincronizar. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Notas rápidas na tela, com suporte a Markdown.
+* [Soya](https://blendpixel.com/products/soya) - Transcrição de reuniões no próprio dispositivo, sem bot na chamada, que transforma anotações rápidas em um resumo com decisões e itens de ação.
 * [Standard Notes](https://standardnotes.com/) - Aplicativo de notas com criptografia ponta a ponta para profissionais e entusiastas da tecnologia. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - Aplicativo de notas em Markdown para captura rápida, com atalhos de teclado e busca semântica por IA. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](https://www.qownnotes.org/) - Bloco de notas de código aberto com suporte a Markdown e gerenciador de lista de tarefas. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
@@ -840,6 +841,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - Um gravador de tela leve e de alto desempenho para macOS [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - Gravador e editor de tela de código aberto para demonstrações, tutoriais e vídeos de produtos bem acabados. [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - Gravador de tela com editor integrado. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Retina](https://blendpixel.com/products/retina) - Gravador de tela com zoom cinematográfico automático, movimento suave do cursor e exportação em 4K. ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - Gravador de tela para vídeos bem acabados, com efeitos de movimento automáticos.
 * [ScreenKite](https://www.screenkite.com/) - Gravador e editor de tela nativo, com zoom automático, aprimoramentos com IA, mockups de dispositivos e teleprompter. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - Uma ferramenta de gravação de tela para criar vídeos bem acabados em minutos.

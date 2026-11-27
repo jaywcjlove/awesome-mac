@@ -310,6 +310,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Revu](https://revu.cards/) - Local-first spaced repetition app with FSRS scheduling and Anki import. [![Open-Source Software][OSS Icon]](https://github.com/JuliusBrussee/revu-swift) ![Native App][Native Icon]
 * [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739?platform=mac) [![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
+* [Soya](https://blendpixel.com/products/soya) - On-device meeting transcription with no bot in the call, turning rough notes into a write-up with decisions and action items.
 * [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [Stik](https://github.com/0xMassi/stik_app) - Quick-capture markdown notes app with hotkeys and AI semantic search. [![Open-Source Software][OSS Icon]](https://github.com/0xMassi/stik_app) ![Freeware][Freeware Icon]
 * [QOwnNotes](https://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
@@ -862,6 +863,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - Open-source screen recorder and editor for polished demos, tutorials, and product videos. [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - Screen recorder with a built-in editor. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
+* [Retina](https://blendpixel.com/products/retina) - Screen recorder with automatic cinematic zoom, smooth cursor motion, and 4K export. ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - Screen recorder for polished videos with automatic motion effects.
 * [ScreenKite](https://www.screenkite.com/) - Native screen recorder and editor with auto-zoom, AI enhancements, device mockups, and teleprompter. ![Freeware][Freeware Icon]
 * [ScreenSage Pro](https://screensage.pro/) - A screen recording tool for creating polished videos in minutes.
