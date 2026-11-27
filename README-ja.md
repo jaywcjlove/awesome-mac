@@ -618,6 +618,7 @@ Awesome Mac
 * [GitX-dev](https://rowanj.github.io/gitx/) - [Pieter](https://github.com/pieter/gitx)のOS X用Git GUIのフォーク。ブランチ/タグサイドバーと各種修正を含む。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - GitHubをより便利にするGitのコマンドラインラッパー。 [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [PullBull](https://github.com/rustycamper/pullbull) - メニューバーでGitHubのプルリクエスト、Issue、Projectsボードを確認。 [![Open-Source Software][OSS Icon]](https://github.com/rustycamper/pullbull) ![Freeware][Freeware Icon]
+* [Ramo](https://ramogit.app) - 30日間の取り消しタイムライン、マージ/リベースのシミュレーション、視覚的な競合解決機能を備えたmacOS向けネイティブSwift製Gitクライアント。
 * [RelaGit](https://rela.dev/) - グラフィカルなバージョン管理のためのエレガントなソリューション。開発者による開発者のために構築。 [![Open-Source Software][OSS Icon]](https://github.com/relagit/relagit) ![Freeware][Freeware Icon]
 * [SmartGit](http://www.syntevo.com/smartgit/) - サポート付きのGitクライアント。
 * [SourceTree](https://www.sourcetreeapp.com/) - WindowsまたはMac用の無料Git & Mercurialクライアント。 ![Freeware][Freeware Icon]
