@@ -695,6 +695,7 @@ Awesome Mac
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - 주석, 사용자 지정 프레임, 로컬 OCR을 지원하는 무료 네이티브 스크린샷 편집기이며 Apple 공증 전 미리보기 버전입니다. [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - macOS와 Windows를 지원하는 오픈 소스 스크린샷 도구로, 화살표, 번호 콜아웃, 가려진 픽셀을 사용하지 않는 블러를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
+* [松鼠截图 F6](https://f6.lowpower.me/) - 무료이며 로그인 없이 사용할 수 있고, 스크린샷은 Mac에만 저장되는 스크린샷 도구. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 화면 녹화
 

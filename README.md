@@ -842,6 +842,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview). [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](https://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
+* [松鼠截图 F6](https://f6.lowpower.me/) - Mac screenshot tool that is free, requires no account, and keeps screenshots on your Mac. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### Screen Recording
 
