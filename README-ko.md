@@ -1400,6 +1400,7 @@ Awesome Mac
 
 ### 할 일 목록 (To-Do Lists)
 
+* [Balloon Todo (气球待办)](https://balloon.lowpower.me/) - 할 일을 Mac 바탕화면에 띄우는 도구로, 열기구는 일회성 할 일, 비행선은 장기 계획, 광고 비행기는 반복 알림이며, 계정 없이 오프라인으로 기기에만 저장됩니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lotti](https://matthiasn.github.io/lotti/) - 할 일, 시간 추적, 저널, 습관을 기록하는 개인 로그북으로, 종단 간 암호화 동기화와 선택형 AI 에이전트를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Nozbe](https://nozbe.com) - 개인과 팀을 위한 GTD 작업 관리자. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?platform=mac)
 * [Super Productivity](https://super-productivity.com) - 타임박싱과 시간 추적을 갖춘 작업 관리자. [![Open-Source Software][OSS Icon]](https://github.com/super-productivity/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/super-productivity/id1482572463?platform=mac)
