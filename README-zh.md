@@ -744,6 +744,7 @@ Awesome Mac
 * [JoeBro](https://joebro.pages.dev) - 面向编码智能体（Claude Code、Codex、OpenCode）的原生 SwiftUI 工作区，文件在旁边打开，支持通过 MCP 共享记忆、夜间任务，以及本地或 API 模型。 [![Open-Source Software][OSS Icon]](https://github.com/joexk1/JoeBro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kapitsa](https://github.com/nace-ai/kapitsa) - 开源的 Apple 芯片大语言模型推理引擎，基于原生 Metal 内核与神经网络引擎，提供 OpenAI 和 Anthropic 兼容 API，并可一条命令启动本地编码智能体。 [![Open-Source Software][OSS Icon]](https://github.com/nace-ai/kapitsa) ![Freeware][Freeware Icon]
 * [kwant](https://kwant.si) - 自托管的 AI 机器人团队，以一个 Rust 二进制运行，支持空间、本地模型、交接与审批。 [![Open-Source Software][OSS Icon]](https://github.com/alexsergivan/kwant) ![Freeware][Freeware Icon]
+* [Ladder](https://itsladder.dev) - 开源工作区，在一个窗口中跨多个仓库运行 Claude Code、Codex 和其他编程代理，支持审批卡片、每个会话独立的 git worktree 以及套餐用量限额提示。 [![Open-Source Software][OSS Icon]](https://github.com/nicolocardozo/ladder) ![Freeware][Freeware Icon]
 * [Linggen](https://linggen.dev) - 本地优先的个人 AI 助手，照看音乐、财务、健康和游戏，并在这些领域间共享同一份记忆，在你的 Mac 上使用你选择的模型运行。 [![Open-Source Software][OSS Icon]](https://github.com/linggen/linggen)
 * [LingShu](https://royzhao1991.github.io/LingShu/) - 开源、主脑可替换的 macOS Agent，可交付经验证的代码、文档、幻灯片和电脑操作。 [![Open-Source Software][OSS Icon]](https://github.com/RoyZhao1991/LingShu) ![Freeware][Freeware Icon]
 * [LokalBot](https://www.lokalbot.com/) - 面向 macOS 的端侧会议笔记、听写、行内自动补全和可搜索工作记忆工具。 [![Open-Source Software][OSS Icon]](https://github.com/stevyhacker/lokalbot) ![Freeware][Freeware Icon]
