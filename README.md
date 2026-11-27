@@ -1755,7 +1755,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [WaifuX](https://jipika.github.io/WaifuX) - Open-source ACG app for wallpapers, animated backgrounds, and anime videos. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [Yado](https://yado.house/) - Native Mac app for managing an iPhone: clear duplicate photos, large videos and unused apps, arrange the Home Screen, move files and keep backups on the Mac. ![Native App][Native Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Removes caps-lock key activation delay for fast typers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
-* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - SEO crawler that audits sites for technical issues and optimization opportunities. [![Freeware][Freeware Icon]](https://seodisias.com)
 
 ### To-Do Lists
@@ -1851,6 +1850,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Rize](https://rize.io/) - AI time tracker that helps you focus and build better work habits.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Add more useful actions to the Finder right-click menu. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Scrollr](https://github.com/atuuuuuuu/Scrollr) - Open-source menu bar tool that reverses scroll direction for external mice only, so the trackpad keeps natural scrolling, with an on/off switch per mouse. [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Selectric](https://selectric.io/) - Private search across email, documents, and chat apps.
 * [SensibleSideButtons](https://sensible-side-buttons.archagon.net) - Make mouse side buttons work for back and forward in more apps. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)

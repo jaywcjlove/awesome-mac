@@ -1672,7 +1672,6 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Vidwall](https://apps.apple.com/app/Vidwall/6747587746?platform=mac) - Importe facilmente vídeos MP4/MOV como papéis de parede do sistema e animações da tela de bloqueio. [![Open-Source Software][OSS Icon]](https://github.com/jaywcjlove/vidwall) ![Freeware][Freeware Icon]
 * [WaifuX](https://jipika.github.io/WaifuX) - App ACG de código aberto para papéis de parede, fundos animados e vídeos de anime. [![Open-Source Software][OSS Icon]](https://github.com/jipika/WaifuX) ![Freeware][Freeware Icon]
 * [CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay) - Remove o atraso de ativação da tecla Caps Lock para quem digita rápido. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gkpln3/CapsLockNoDelay)
-* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - App na barra de menus que bloqueia sites e apps que distraem até um horário definido, com uma espera se você sair mais cedo. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - Rastreador de SEO que audita sites em busca de problemas técnicos e oportunidades de otimização. [![Freeware][Freeware Icon]](https://seodisias.com)
 
 ### Listas de Tarefas
@@ -1765,6 +1764,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [SuperCorners](https://supercorners.vercel.app/) - Transforme os Cantos Ativos em gatilhos personalizados de fluxo de trabalho. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - Rastreador de tempo com IA que ajuda você a manter o foco e criar melhores hábitos de trabalho.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Adicione mais ações úteis ao menu de clique com o botão direito do Finder. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - App na barra de menus que bloqueia sites e apps que distraem até um horário definido, com uma espera se você sair mais cedo. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Selectric](https://selectric.io/) - Busca privada em e-mails, documentos e aplicativos de chat.
 * [SensibleSideButtons](https://sensible-side-buttons.archagon.net) - Faça os botões laterais do mouse funcionarem como voltar e avançar em mais aplicativos. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Daemon simples de atalhos de teclado para macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
