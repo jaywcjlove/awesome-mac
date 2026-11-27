@@ -1370,6 +1370,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Buddy](https://github.com/projects-hacks/buddy) - Study helper in the notch that explains what is on your screen out loud while drawing on it. [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
+* [Lockabulary](https://arturwitkowski.com/lockabulary/) - Blurs the screen every so often until you answer a few European Portuguese, Spanish or French words, with spaced repetition and an iPhone companion. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6827322789?platform=mac)
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance
