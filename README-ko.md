@@ -600,6 +600,7 @@ Awesome Mac
 
 ### 터미널 앱
 
+* [AITerm](https://ai-term.com/) - 평범한 영어 요청을 실행 전에 검토하고 편집할 수 있는 명령으로 바꿔 주는 Apple Silicon용 네이티브 터미널로, 로컬 Ollama 또는 직접 발급한 API 키를 사용합니다(프리미엄). ![Native App][Native Icon]
 * [Alacritty](https://github.com/jwilm/alacritty) - GPU 가속을 지원하는 크로스 플랫폼 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 다중 제공자 프로필과 음성 입력을 지원하는 AI 네이티브 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
