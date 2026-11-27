@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:36:08 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>FestiveLights</title>
+      <link>https://www.blackbox.ms/festive/en/</link>
+      <guid isPermaLink="false">b772cbd5ff6589b5a9c1890efe1580c64a4389f1:FestiveLights</guid>
+      <pubDate>Fri, 27 Nov 2026 03:36:08 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: FestiveLights
+Description: メニューバーの下と Dock に飾るクリスマスライトと、ウインドウの上に積もる雪。
+Website: https://www.blackbox.ms/festive/en/
+Open Source: https://github.com/krystofbe/festive-lights
+Commit: Add FestiveLights to Menu Bar Tools (#5105)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: FestiveLights<br/>Description: メニューバーの下と Dock に飾るクリスマスライトと、ウインドウの上に積もる雪。<br/>Website: https://www.blackbox.ms/festive/en/<br/>Open Source: https://github.com/krystofbe/festive-lights<br/>Commit: Add FestiveLights to Menu Bar Tools (#5105)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1]]></content:encoded>
+    </item>
     <item>
       <title>holzBar</title>
       <link>https://holzcloud.ch/holzbar</link>
@@ -721,21 +736,6 @@ Open Source: https://github.com/rokoov/smorza
 Commit: Add Smorza (#4861)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Smorza<br/>Description: アプリごとに音量、ミュート、出力デバイスを設定できるメニューバーの音量ミキサー。<br/>Website: https://smorza.app<br/>Open Source: https://github.com/rokoov/smorza<br/>Commit: Add Smorza (#4861)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6c9e9fc2456645a2a1b941ad11d4ed3cdb6e5b3a]]></content:encoded>
-    </item>
-    <item>
-      <title>VoxtMini</title>
-      <link>https://actnow.dev/voxtmini</link>
-      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
-      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
-      <category>音声テキスト変換</category>
-      <description>Category: 音声テキスト変換
-App: VoxtMini
-Description: ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。
-Website: https://actnow.dev/voxtmini
-Open Source: https://github.com/hehehai/VoxtMini
-Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
-      <content:encoded><![CDATA[Category: 音声テキスト変換<br/>App: VoxtMini<br/>Description: ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
     </item>
   </channel>
 </rss>
