@@ -912,6 +912,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [qView](https://interversehq.com/qview/) - qView is an image viewer designed with minimalism and usability in mind. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jurplel/qView)
 * [Resize Master](https://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://apps.apple.com/app/resize-master/id1025306797?platform=mac)
 * [RightFont](https://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
+* [Rylux Organizer](https://www.rylux.app/organizer) - Copies camera RAW and JPEG photos into dated event folders, with move preview and undo. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal. [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 * [Swapjutsu](https://jutsustudio.com/swapjutsu/) - Open-source character swap tool for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon. [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) ![Freeware][Freeware Icon]
