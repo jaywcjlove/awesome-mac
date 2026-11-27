@@ -314,6 +314,7 @@ Awesome Mac
 * [QOwnNotes](http://www.qownnotes.org/) - Markdownサポートとタスク管理機能を備えたオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - メニューバーのカラフルな付箋。 [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?platform=mac)
 * [Quiver](http://happenapps.com/#quiver) - テキスト、コード、Markdown、LaTeXをライブプレビュー付きで1つのノートに統合。
+* [Theo Notes](https://theonotes.app/) - ネストタグ、Wikiリンク、iCloud同期、Claude向けMCPサーバーを備えたMarkdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jankutschera/theonotes) ![Freeware][Freeware Icon]
 * [VNote](https://app.vnote.fun/) - 洗練されたエディタを備えたオープンソースのMarkdownノートアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 * [Zettel](https://github.com/AlexW00/Zettel) - Markdownとハッシュタグ整理に対応した、ミニマルで集中しやすいメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/AlexW00/Zettel) [![App Store][app-store Icon]](https://apps.apple.com/app/zettel-quick-notes/id6748525244?platform=mac)
 
