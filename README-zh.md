@@ -1085,6 +1085,7 @@ Awesome Mac
 
 * [AliYuQue](https://www.yuque.com/install/desktop) - 一款基于云的知识管理与协作平台，支持Markdown写作、流程图、代码渲染等功能，由阿里巴巴蚂蚁金服开发。 ![Freeware][Freeware Icon]
 * [Anytype](https://anytype.io/) - 本地优先的笔记与知识管理应用。 ![Freeware][Freeware Icon]
+* [DoCube](https://docube.venglyph.com/) - 本地优先的个人知识库，统一管理 PDF、EPUB、网页快照、Markdown 笔记和本地视频，支持原文位置双向链接、离线 Whisper 字幕检索与间隔复习卡片。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6470183496) ![Native App][Native Icon]
 * [EdgeEver](https://edgeever.org/) - 开源笔记与知识管理工作区，支持自托管、多端同步和 MCP 集成。 [![Open-Source Software][OSS Icon]](https://github.com/tianma-if/edgeever) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - 使用单次点击，在macOS、iOS 和 WatchOS上原生地给自己发送邮件以及更多功能。[![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587?platform=mac)
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
