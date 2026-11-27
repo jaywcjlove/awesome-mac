@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:32:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Earth Now</title>
+      <link>https://hensobo.github.io/earth-now/</link>
+      <guid isPermaLink="false">01f740a68dd238f5fd7eb9a013c45d599750daf7:Earth Now</guid>
+      <pubDate>Fri, 27 Nov 2026 10:32:53 GMT</pubDate>
+      <category>유틸리티 / 시스템 도구</category>
+      <description>Category: 유틸리티 / 시스템 도구
+App: Earth Now
+Description: 실제 태양 위치, 도시 불빛, 위성 구름을 반영한 실시간 3D 지구를 데스크톱 배경화면으로 사용하세요.
+Website: https://hensobo.github.io/earth-now/
+Open Source: https://github.com/Hensobo/earth-now
+Commit: Add Earth Now to General Tools (all locales) (#5129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 시스템 도구<br/>App: Earth Now<br/>Description: 실제 태양 위치, 도시 불빛, 위성 구름을 반영한 실시간 3D 지구를 데스크톱 배경화면으로 사용하세요.<br/>Website: https://hensobo.github.io/earth-now/<br/>Open Source: https://github.com/Hensobo/earth-now<br/>Commit: Add Earth Now to General Tools (all locales) (#5129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7]]></content:encoded>
+    </item>
     <item>
       <title>WindowShade</title>
       <link>https://windowshade.aaronlau.me/en/</link>
@@ -721,20 +736,6 @@ Open Source: https://github.com/01wil/OpenGestures
 Commit: Add OpenGestures to Productivity (#4872)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: OpenGestures<br/>Description: 트랙패드 제스처를 창, 앱, 단축키, 스크립트 동작에 매핑하는 오픈 소스 도구.<br/>Open Source: https://github.com/01wil/OpenGestures<br/>Commit: Add OpenGestures to Productivity (#4872)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f2910a592080279058c2107b7031eace81f86139]]></content:encoded>
-    </item>
-    <item>
-      <title>InputBattery</title>
-      <link>https://github.com/dirkkredinger/InputBattery</link>
-      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
-      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: InputBattery
-Description: 블루투스 키보드, 마우스, 헤드셋, AirPods의 배터리 잔량을 메뉴 막대와 데스크톱 위젯에 표시하고, 배터리가 떨어지기 전에 알려 주는 앱.
-Open Source: https://github.com/dirkkredinger/InputBattery
-Commit: Add InputBattery to Menu Bar Tools (#4873)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: InputBattery<br/>Description: 블루투스 키보드, 마우스, 헤드셋, AirPods의 배터리 잔량을 메뉴 막대와 데스크톱 위젯에 표시하고, 배터리가 떨어지기 전에 알려 주는 앱.<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
     </item>
   </channel>
 </rss>

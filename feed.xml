@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:32:53 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Earth Now</title>
+      <link>https://hensobo.github.io/earth-now/</link>
+      <guid isPermaLink="false">01f740a68dd238f5fd7eb9a013c45d599750daf7:Earth Now</guid>
+      <pubDate>Fri, 27 Nov 2026 10:32:53 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Earth Now
+Description: Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.
+Website: https://hensobo.github.io/earth-now/
+Open Source: https://github.com/Hensobo/earth-now
+Commit: Add Earth Now to General Tools (all locales) (#5129)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Earth Now<br/>Description: Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.<br/>Website: https://hensobo.github.io/earth-now/<br/>Open Source: https://github.com/Hensobo/earth-now<br/>Commit: Add Earth Now to General Tools (all locales) (#5129)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/01f740a68dd238f5fd7eb9a013c45d599750daf7]]></content:encoded>
+    </item>
     <item>
       <title>WindowShade</title>
       <link>https://windowshade.aaronlau.me/en/</link>
@@ -720,21 +735,6 @@ Open Source: https://github.com/echoVic/pilion-browser
 Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
       <content:encoded><![CDATA[Category: Browsers<br/>App: Pilion<br/>Description: Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.<br/>Website: https://pilion.echovic.com/en/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
-    </item>
-    <item>
-      <title>Localix Terminal</title>
-      <link>https://terminal.localix.ai</link>
-      <guid isPermaLink="false">ae06017826d56844fa969a14841a8ea91c2cc7c8:Localix Terminal</guid>
-      <pubDate>Sun, 22 Nov 2026 11:48:49 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: Localix Terminal
-Description: Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.
-Website: https://terminal.localix.ai
-Open Source: https://github.com/localixai/localix-terminal
-Commit: Add Localix Terminal (#4881)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Localix Terminal<br/>Description: Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
     </item>
   </channel>
 </rss>
