@@ -2051,6 +2051,7 @@ Awesome Mac
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3段階のAIと複数の駒デザイン、ホットシート対戦に対応した3Dアニメーションチェス。 ![Freeware][Freeware Icon]
 * [Classic Game Box](https://github.com/lazyfury/classic-game-box) - libretro コアを利用したオープンソースのレトロゲームエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
 * [Coinsole](https://github.com/anvibe/coinsole) - Mac をゲーム機に変えるアプリ。自分の Web ゲームや Mac アプリを追加し、Xbox や PlayStation のコントローラーで遊べます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/anvibe/coinsole)
+* [DropExe](https://hollowbit.dev/dropexe/) - Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hollowbit-dev/dropexe)
 * [Highball](https://gethighball.com) - Wine を通じて Apple Silicon で Windows ゲームを実行し、オープンな互換性データベースからゲームごとにグラフィックス層（DXMT、DXVK、D3DMetal）を選びます。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](http://openemu.org/) - 複数の家庭用ゲーム機に対応したレトロゲーム向けエミュレーターフロントエンド。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Apple Silicon MacでiOSアプリやゲームをマウス、キーボード、コントローラーのサポート付きで実行。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
