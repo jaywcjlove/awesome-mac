@@ -936,6 +936,7 @@ Awesome Mac
 * [Carbon](https://carbon.alexandrejoly.me) - 봇이나 클라우드 없이 회의를 기기에서 전사하고 각 회의를 Markdown 파일로 저장하는 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/AlexDemzz/carbon) ![Freeware][Freeware Icon]
 * [CutVoke](https://github.com/frankShan001/CutVoke) - MCP 서버가 내장된 오픈소스 로컬 우선 동영상 편집기로, AI 에이전트와 같은 멀티트랙 타임라인을 함께 편집합니다. [![Open-Source Software][OSS Icon]](https://github.com/frankShan001/CutVoke) ![Freeware][Freeware Icon]
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - 전문적인 비디오 편집 및 색교정 도구. ![Freeware][Freeware Icon]
+* [Desk Vinyl](https://deskvinyl.com/) - Spotify, Apple Music, YouTube Music에서 재생 중인 곡을 앨범 커버를 라벨로 한 LP 레코드로 데스크톱에서 돌려 주는 위젯. 무료이며 Pro는 일회성 구매.
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Zoom, Meet, Teams, FaceTime, WhatsApp 및 전화 통화를 녹음하고 봇 없이 AI 회의록을 작성하는 통화 녹음기. [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [Earpiece](https://github.com/AllanLotta/earpiece) - 통화를 기기에서 전사하고 나에게 향한 질문을 감지해 통화 중 노치에 답변 제안을 보여 주는 메뉴 막대 통화 코파일럿. Claude 구독을 사용. [![Open-Source Software][OSS Icon]](https://github.com/AllanLotta/earpiece) ![Freeware][Freeware Icon]
 * [Fader](https://github.com/pantafive/fader) - 앱별 볼륨, 원클릭 출력 전환, 블루투스 헤드폰 제어를 지원하는 메뉴 막대 볼륨 믹서. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
