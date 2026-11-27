@@ -1175,7 +1175,7 @@ Awesome Mac
 * [DMG Maker](https://github.com/saihgupr/DMGMaker) - 一款带精美视觉效果和 CLI 支持的 DMG 制作工具。 [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 * [create-dmg](https://github.com/sindresorhus/create-dmg) - 快速创建一个压缩镜像文件。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 * [Rilmazafone](https://kagerou.glass/rilmazafone/) - 在所见即所得画布上设计 DMG 安装器，构建结果与设计完全一致，无需脚本。 [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/rilmazafone) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/id6790960011?platform=mac)
-* [Electron](https://electronjs.org/) - 前身是 AtomShell，使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon]
+* [Electron](https://www.electronjs.org/) - 前身是 AtomShell，使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序。[![Open-Source Software][OSS Icon]](https://github.com/electron/electron) ![Freeware][Freeware Icon]
 * [Electrino](https://github.com/pojala/electrino) - 使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序，构建出的应用体积比 Electron 小。[![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 * [Finicky](https://johnste.github.io/finicky/) - Web 应用程序转化为苹果的应用程序。[![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [HEX](http://hex.youdao.com/zh-cn/index.html) - 使用 JS、HTML 和 CSS 构建跨平台的桌面应用程序，有道出品。[![Open-Source Software][OSS Icon]](https://github.com/netease-youdao/hex) ![Freeware][Freeware Icon]
