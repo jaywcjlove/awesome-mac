@@ -858,6 +858,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [APNGb](https://github.com/mancunianetz/APNGb) - App montador/desmontador de imagens PNG. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Apolo](https://apolo.webcafeina.com/en/) - Otimizador de imagens de código aberto que comprime e converte para WebP, AVIF, JPEG XL, JPEG e PNG, mostrando a perda e sua pontuação SSIMULACRA 2 antes de salvar. [![Open-Source Software][OSS Icon]](https://github.com/webcafeina/Apolo) ![Freeware][Freeware Icon]
 * [Aspect](https://aspect.bildhuus.com) - App de organização de fotos com sincronização ponto a ponto. ![Freeware][Freeware Icon]
+* [BatchShift](https://tidyware.app/batchshift/) - Converte em lote pastas HEIC e WebP para JPG ou PNG, com redimensionamento, compressão e remoção de dados de GPS.
 * [Lap](https://github.com/julyx10/lap) - Gerenciador local de fotos para navegar e organizar bibliotecas de mídia pessoais offline. [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [Couleurs](https://couleursapp.com) - App simples para capturar e ajustar as cores que você vê na tela. ![Freeware][Freeware Icon]
 * [CompressO](https://github.com/codeforreal1/compressO) - Ferramenta de código aberto para comprimir vídeos e imagens em tamanhos menores. [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
