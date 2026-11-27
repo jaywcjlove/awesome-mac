@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>ゲームソフトウェア</category>
+      <description>Category: ゲームソフトウェア
+App: DropExe
+Description: Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: ゲームソフトウェア<br/>App: DropExe<br/>Description: Wine を通じて Apple Silicon で Windows のゲームやアプリを実行します。Steam と Epic をワンクリックでインストールでき、任意の .exe をドラッグで追加でき、「Make it run」ボタンがゲームが起動するまでグラフィックス設定（DXMT、DXVK、D3DMetal）を自動で試します。<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
     <item>
       <title>Pagekin (AI Novel Writer)</title>
       <link>https://github.com/EthanYoQ/Pagekin</link>
@@ -720,22 +734,6 @@ Open Source: https://github.com/localixai/localix-terminal
 Commit: Add Localix Terminal (#4881)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
       <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Localix Terminal<br/>Description: あなたとコーディングエージェントのためのネイティブターミナル。プロジェクトのセッションは離れたときの状態のまま戻り、横にブラウザとボードがあります。<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
-    </item>
-    <item>
-      <title>Terento</title>
-      <link>https://terento.app</link>
-      <guid isPermaLink="false">40ee60028cdfef8beb48f7b16abac80c7cb701ea:Terento</guid>
-      <pubDate>Sun, 22 Nov 2026 09:46:59 GMT</pubDate>
-      <category>ユーティリティ / 一般ツール</category>
-      <description>Category: ユーティリティ / 一般ツール
-App: Terento
-Description: Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。
-Website: https://terento.app
-Open Source: https://github.com/VooZ2/terento
-App Store: https://apps.apple.com/app/id6828556832
-Commit: Add Terento to General Tools (#4877)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 一般ツール<br/>App: Terento<br/>Description: Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。<br/>Website: https://terento.app<br/>Open Source: https://github.com/VooZ2/terento<br/>App Store: https://apps.apple.com/app/id6828556832<br/>Commit: Add Terento to General Tools (#4877)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/40ee60028cdfef8beb48f7b16abac80c7cb701ea]]></content:encoded>
     </item>
   </channel>
 </rss>

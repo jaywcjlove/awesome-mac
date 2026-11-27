@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>Gaming Software</category>
+      <description>Category: Gaming Software
+App: DropExe
+Description: Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts.
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: Gaming Software<br/>App: DropExe<br/>Description: Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts.<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
     <item>
       <title>Pagekin (AI Novel Writer)</title>
       <link>https://github.com/EthanYoQ/Pagekin</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/wilu222/tripleclick
 Commit: Add TripleClick to Productivity (#4883)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
       <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: TripleClick<br/>Description: Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinstill</title>
-      <link>https://pinstill.echovic.com/en/</link>
-      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Pinstill
-Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.
-Website: https://pinstill.echovic.com/en/
-Open Source: https://github.com/echoVic/Pinstill
-Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Pinstill<br/>Description: Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
     </item>
   </channel>
 </rss>
