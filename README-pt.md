@@ -1986,6 +1986,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 
 * [AnyDesk](https://anydesk.com) - Oferece acesso remoto em várias máquinas.
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - Servidor RDP de código aberto para conectar a um Mac a partir de clientes de Área de Trabalho Remota padrão, como o Windows App e o mstsc. [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
+* [FornaX RDS Ai](https://www.gloovir.com/products/fornax-rds-ai) - Servidor RDP nativo para macOS com assistente de IA local integrado (Ollama, MLX), acessível de iPad, iPhone ou Windows. ![Native App][Native Icon]
 * [Glass](https://glassdesk.dev) - Área de trabalho remota de baixa latência para Mac e Linux, que você acessa de qualquer navegador, sem precisar instalar nada no dispositivo de visualização. [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 * [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - Iniciador da barra de menus para Macs remotos, descoberta de Tailscale, Compartilhamento de Tela e SSH. [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - Ferramenta de área de trabalho remota e suporte remoto de código aberto, com sessões criptografadas de ponta a ponta. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]

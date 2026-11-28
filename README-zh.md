@@ -1956,6 +1956,7 @@ Awesome Mac
 
 * [AnyDesk](https://anydesk.com) 是一款远程控制跨多平台的程序。
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - 开源的 RDP 服务器，可使用 Windows App、mstsc 等标准远程桌面客户端连接 Mac。[![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
+* [FornaX RDS Ai](https://www.gloovir.com/products/fornax-rds-ai) - 内置本地 AI 助手(Ollama、MLX)的 macOS 原生 RDP 服务器,可从 iPad、iPhone 或 Windows 连接。 ![Native App][Native Icon]
 * [Glass](https://glassdesk.dev) - 面向 Mac 和 Linux 的低延迟远程桌面，可通过任意浏览器查看，查看端无需安装任何软件。[![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 * [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - 专为远程 Mac、Tailscale 发现、屏幕共享和 SSH 设计的轻量级菜单栏启动器。 [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - 开源的远程桌面与远程协助工具，会话端到端加密。[![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]

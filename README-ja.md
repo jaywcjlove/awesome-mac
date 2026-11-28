@@ -2068,6 +2068,7 @@ Awesome Mac
 
 * [AnyDesk](https://anydesk.com) - 複数のマシン間でリモートアクセスを提供。
 * [ClawTank](https://github.com/HMAKT99/ClawTank) - Windows App や mstsc などの標準的なリモートデスクトップクライアントから Mac に接続できるオープンソースの RDP サーバー。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/ClawTank) ![Freeware][Freeware Icon]
+* [FornaX RDS Ai](https://www.gloovir.com/products/fornax-rds-ai) - オンデバイスAIアシスタント(Ollama、MLX)を内蔵したmacOS向けネイティブRDPサーバー。iPad、iPhone、Windowsから接続可能。 ![Native App][Native Icon]
 * [Glass](https://glassdesk.dev) - Mac と Linux 向けの低遅延リモートデスクトップ。任意のブラウザから操作でき、操作する側には何もインストール不要。 [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 * [Hop](https://sercanatalik.github.io/hop-remote-launcher/) - リモートMac、Tailscale検出、画面共有、SSH用の軽量メニューバーランチャー。 [![Open-Source Software][OSS Icon]](https://github.com/sercanatalik/hop-remote-launcher) ![Freeware][Freeware Icon]
 * [HopToDesk](https://www.hoptodesk.com/) - エンドツーエンド暗号化に対応したオープンソースのリモートデスクトップ/リモートサポートツール。 [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
