@@ -1074,6 +1074,7 @@ Awesome Mac
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
 * [Quill](https://quill.hridya.tech) - 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Slate Viewer](https://slateviewer.com/) - 在 macOS 26+ 上阅读本地 Markdown 报告、JSON/JSONL 日志和 CSV/TSV 表格的应用。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/slate-viewer/id6789441727)
 * [Splat](https://github.com/sventmueller/splat) - 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手，支持云端与本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
 * [Typeset](https://typeset.md) - 原生 macOS Markdown 阅读器，文件更新时实时重载，并支持访达快速查看。 [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]

@@ -236,6 +236,7 @@ Awesome Mac
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Quill](https://quill.hridya.tech) - Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Slate Viewer](https://slateviewer.com/) - 로컬 Markdown 보고서, JSON/JSONL 로그, CSV/TSV 표를 읽는 macOS 26+용 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/slate-viewer/id6789441727)
 * [Splat](https://github.com/sventmueller/splat) - Rust로 작성된 네이티브 macOS 마크다운 편집기. 소스와 실시간 미리보기 모두에서 바로 편집 가능. [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 수식, 표, Mermaid를 지원하고 클라우드·로컬 모델과 함께 쓰는 AI 글쓰기 도우미를 갖춘 WYSIWYG 마크다운 편집기. [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
 * [Typeset](https://typeset.md) - 파일이 변경되면 실시간으로 다시 불러오는 네이티브 macOS 마크다운 리더(Finder 훑어보기 지원). [![Open-Source Software][OSS Icon]](https://github.com/deeflect/typeset) ![Freeware][Freeware Icon] ![Native App][Native Icon]
