@@ -1312,6 +1312,7 @@ Awesome Mac
 * [Translate Tab](http://translate-tab.com/) - 菜单栏翻译插件，封装了谷歌翻译，支持自动识别语言。
 * [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - 开源菜单栏翻译工具，借助 Claude、ChatGPT 或 Grok 就地替换任意应用中选中的文本，并可套用你自己的写作风格。 [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - 支持 100 多种语言文字与图片翻译的应用。 [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
+* [Twinsubs](https://twinsubs.com/) - 把 Mac 上正在播放的声音（视频、网课、会议）实时翻成「原文 + 译文」两行字幕，拖入视频可生成能导入剪映、Final Cut 的双语 SRT；识别和翻译都在本机，不上传、不用账号。免费试用，买断解锁。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6821055422?platform=mac) ![Native App][Native Icon]
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。![Freeware][Freeware Icon]
 

@@ -1095,6 +1095,7 @@ Awesome Mac
 * [Translatium](https://translatium.app) - 100개 이상의 언어로 텍스트와 이미지를 번역하는 앱. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium-translator/id6541750489?platform=mac)
 * [ScreenTranslate](https://screentranslate.filient.ai/) - 화면 영역 캡처 또는 텍스트 선택으로 즉시 번역하는 온디바이스 번역 도구. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
 * [SwaprTrans](https://linrol.github.io/swapr-trans/) - 스페이스바로 선택 텍스트를 번역하고 Enter로 그 자리에서 바로 덮어쓰기 번역하는 초경량(<2MB) 네이티브 메뉴바 도구. Apple 온디바이스 모델 지원. [![Open-Source Software][OSS Icon]](https://github.com/linrol/swapr-trans) ![Freeware][Freeware Icon]
+* [Twinsubs](https://twinsubs.com/en/) - Mac에서 재생 중인 소리(동영상, 강의, 회의)를 원문과 번역문 두 줄 자막으로 실시간 번역하고, 끌어다 놓은 동영상에서 Final Cut 등에 바로 쓸 수 있는 이중 언어 SRT를 만듭니다. 음성 인식과 번역 모두 기기 안에서 처리되며 계정이 필요 없습니다. 무료 버전 제공, 일회성 구매로 제한 해제. [![App Store][app-store Icon]](https://apps.apple.com/app/id6821055422?platform=mac) ![Native App][Native Icon]
 
 ## 교육
 
