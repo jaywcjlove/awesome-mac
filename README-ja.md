@@ -1456,6 +1456,7 @@ Awesome Mac
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 画像OCRとブックマークに対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - macOS史上最もクリーンなクリップボードマネージャー！ ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
+* [Clipboard AI](https://clipboardai.app/mac) - Mac と iPhone でコピーしたものをすべて記憶するクリップボード履歴。検索、⌘⇧V の貼り付けパネル、同期に対応。 [![App Store][app-store Icon]](https://apps.apple.com/app/id6760675768?platform=mac) ![Native App][Native Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHat](https://github.com/getguruhat/cliphat-macos) - 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/cliphat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
