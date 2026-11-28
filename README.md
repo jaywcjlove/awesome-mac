@@ -854,6 +854,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for Mac. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
+* [Lecta](https://macluping.com/) - Screen recorder with a floating teleprompter, zoom, annotations, and webcam overlays.
 * [Licecap](https://www.cockos.com/licecap/) - Screen recorder that exports directly to GIF. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
 * [Native Screen](https://nativescreen.app/) - Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions. [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]

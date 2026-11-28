@@ -855,6 +855,7 @@ Awesome Mac
 * [Kap](https://getkap.co/) - Web技術で構築されたオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Mac用のシンプルな画面およびマイク音声レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
+* [Lecta](https://macluping.com/) - フローティングプロンプター、ズーム、注釈、Webカメラの重ね合わせに対応した画面録画ツール。
 * [Licecap](http://www.cockos.com/licecap/) - 直接GIFを書き出せる画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - スクリーンショットを撮り、書き込み、動画を撮影してファイルを共有。高速、簡単で無料。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
 * [Native Screen](https://nativescreen.app/) - マルチトラックタイムライン、自動ズーム、オンデバイス字幕を備えたオープンソースの画面録画・編集ツール。 [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
