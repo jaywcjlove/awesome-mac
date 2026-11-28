@@ -1912,6 +1912,7 @@ Awesome Mac
 * [Topit](https://github.com/lihaoyun6/Topit) - 任意のウィンドウを画面の最前面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - ワークスペースの切り替えや把握をしやすくする管理ツール。
 * [WindowShade](https://windowshade.aaronlau.me/en/) - タイトルバーをダブルクリックすると、ウィンドウがその場で細いバーに巻き上がります。ピン留めプレビューとピクチャ・イン・ピクチャにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windowsから乗り換えた人向けに、ウィンドウプレビュー付きのWindows風タスクバー、ウィンドウ単位のAlt-Tab、スクリーンショットツール、Ctrlショートカットをひとつにまとめたアプリ。
 * [yabai](https://github.com/koekeishiya/yabai) - キーボード操作中心のタイル型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### パスワード管理

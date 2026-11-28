@@ -1884,6 +1884,7 @@ Awesome Mac
 * [Total Spaces](http://totalspaces.binaryage.com/) - 为工作区提供快捷键和空间总览的管理工具。
 * [Tungsten Edge 钨极](https://tungstenedge.app) - 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。 [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
 * [WindowShade](https://windowshade.aaronlau.me/) - 双击标题栏，窗口就卷成停在原处的一条细栏，再双击展开；另有固定预览和画中画。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。
 * [yabai](https://github.com/koekeishiya/yabai) - 键盘驱动的平铺式窗口管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 密码管理

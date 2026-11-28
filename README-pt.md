@@ -1839,6 +1839,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Topit](https://github.com/lihaoyun6/Topit) - Fixe qualquer janela no topo da sua tela [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](https://totalspaces.binaryage.com/) - Gerenciador de espaços de trabalho com atalhos de teclado e visão espacial.
 * [Tungsten Edge](https://tungstenedge.app) - Substituto da barra de tarefas por janela e do Dock: cada janela aberta ganha um cartão próprio com rótulo, enquanto apps de janela única ficam como ícones compactos. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
+* [WinPlug](https://winplug.app/) - Barra de tarefas no estilo do Windows com pré-visualização de janelas, Alt-Tab entre janelas, ferramenta de captura e atalhos Ctrl em um só app para quem vem do Windows.
 * [yabai](https://github.com/koekeishiya/yabai) - Gerenciador de janelas em mosaico controlado pelo teclado. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Gerenciamento de Senhas

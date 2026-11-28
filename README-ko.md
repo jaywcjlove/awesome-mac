@@ -1514,6 +1514,7 @@ Awesome Mac
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
 * [WindowShade](https://windowshade.aaronlau.me/en/) - 제목 표시줄을 두 번 클릭하면 창이 그 자리에서 얇은 막대로 말려 올라갑니다. 고정 미리보기와 화면 속 화면도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windows에서 넘어온 사용자를 위해 창 미리보기가 있는 Windows 스타일 작업 표시줄, 창 단위 Alt-Tab, 캡처 도구, Ctrl 단축키를 하나로 모은 앱.
 * [yabai](https://github.com/koekeishiya/yabai) - 키보드 중심의 타일링 창 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 비밀번호 관리

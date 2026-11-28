@@ -1931,6 +1931,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
 * [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
 * [WindowShade](https://windowshade.aaronlau.me/en/) - Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.
 * [yabai](https://github.com/koekeishiya/yabai) - Keyboard-driven tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Password Management
