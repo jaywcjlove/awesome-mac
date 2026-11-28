@@ -606,6 +606,7 @@ Awesome Mac
 ### バージョン管理
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - 美しいインターフェースを備えた強力なバージョン管理ツール。
+* [FinderGit](https://findergit.app) - すべてのリポジトリのブランチ、ステータス、差分をひと目で確認し、その場でコミット、プッシュ、ブランチ作成もできる Git 内蔵のファイルブラウザ。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fork](https://git-fork.com/) - Mac用の高速でフレンドリーなGitクライアント。
 * [Git Cola](https://git-cola.github.io/) - 強力で高速、軽量でフレンドリーなGit GUI。カフェイン中毒のユーザー向け。 ![Open-Source Software][OSS Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - オープンソース、メニューバーにGitHubの貢献統計を表示。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)

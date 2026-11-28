@@ -546,6 +546,7 @@ Awesome Mac
 ### 버전 관리
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - 강력한 버전 관리 도구.
+* [FinderGit](https://findergit.app) - 모든 저장소의 브랜치, 상태, 변경 사항을 한눈에 보여 주고 그 자리에서 커밋, 푸시, 브랜치 작업까지 할 수 있는 Git 내장 파일 브라우저. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fork](https://git-fork.com/) - 빠르고 친절한 Git 클라이언트.
 * [GitButler](https://gitbutler.com/) - 병렬 및 스택 브랜치 관리. [![Open-Source Software][OSS Icon]](https://github.com/gitbutlerapp/gitbutler) ![Freeware][Freeware Icon]
 * [Gitfox](https://www.gitfox.app) - 더 빠른 커밋과 우수한 diff.

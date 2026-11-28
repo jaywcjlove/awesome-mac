@@ -388,6 +388,7 @@ Awesome Mac
 ### 版本控制 GUI
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - Mac 上最佳的 SVN 管理工具。
+* [FinderGit](https://findergit.app) - 内置 Git 的文件浏览器，一眼查看所有仓库的分支、状态和差异，并可直接提交、推送和创建分支。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端。
 * [GitFinder](https://gitfinder.com/) - 一个快速和轻量级的 Git 客户端的 Mac 与 Finder 集成。
 * [GitX](https://rowanj.github.io/gitx/) - [Pieter's](https://github.com/pieter/gitx)的衍生版本，维护增强生产力和团队开发变化。 [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]

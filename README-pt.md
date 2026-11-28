@@ -591,6 +591,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 ### Controle de Versão
 
 * [Cornerstone](https://www.zennaware.com/cornerstone/) - Controle de versão poderoso com uma interface deslumbrante.
+* [FinderGit](https://findergit.app) - Navegador de arquivos com Git integrado que mostra branch, status e diffs de todos os seus repositórios de relance, e permite fazer commit, push e criar branches ali mesmo. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fork](https://git-fork.com/) - Cliente Git rápido e amigável para Mac.
 * [Git Cola](https://git-cola.github.io/) - Interface gráfica Git poderosa, rápida, leve e amigável. Para usuários viciados em cafeína. ![Open-Source Software][OSS Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - Código aberto: exibe estatísticas de contribuições do GitHub na sua barra de menus. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
