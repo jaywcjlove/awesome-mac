@@ -715,6 +715,7 @@ Awesome Mac
 * [BotArk](https://qybaihe.github.io/botark/) - 开源（MIT）跨平台原生桌面工作台，聚合 Grok Bot、Google Antigravity、ChatGPT Dot、Meta Muse、Hark、Cue 与 Hermes，支持跨平台多 Agent 协作室、单账号独立代理隔离与受控本地 MCP。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/botark) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
+* [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - 通过本地 MLX 服务器（兼容 Anthropic API），在 Apple Silicon 上完全离线运行 Claude Code。 [![Open-Source Software][OSS Icon]](https://github.com/nicedreamzapp/claude-code-local) ![Freeware][Freeware Icon]
 * [Claude God](https://claudegod.app) - 用于监控 Claude 用量、成本和会话统计的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
 * [Claude Usage](https://github.com/Bread-bang/claude-usage) - 用于 Claude Code 的菜单栏应用，在状态行中分窗格显示上下文，会话与每周用量始终可见。无需运行 usage、context 等命令即可查看。 [![Open-Source Software][OSS Icon]](https://github.com/Bread-bang/claude-usage) ![Freeware][Freeware Icon]
 * [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) - 通过实时计数器跟踪 Claude 用量的工具。 [![Open-Source Software][OSS Icon]](https://github.com/theDanButuc/Claude-Usage-Monitor) ![Freeware][Freeware Icon]
