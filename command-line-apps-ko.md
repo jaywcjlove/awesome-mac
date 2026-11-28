@@ -162,6 +162,7 @@
 * [Mole](https://github.com/tw93/Mole) - 터미널에서 Mac을 정리·제거·분석·최적화·모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [purge-cli](https://github.com/soummyaanon/purge) - 재생성 가능한 빌드 산출물, 캐시, Xcode DerivedData를 찾아 대화형 체크리스트에서 선택한 항목만 삭제하는 터미널 디스크 정리 도구. [![Open-Source Software][OSS Icon]](https://github.com/soummyaanon/purge) ![Freeware][Freeware Icon]
 * [rustnet](https://github.com/domcyrus/rustnet) - 프로세스 식별 및 심층 패킷 검사를 지원하는 크로스 플랫폼 네트워크 모니터링 TUI. [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
+* [Shellux](https://github.com/reathloo/shellux) - macOS와 Linux의 Zsh/Bash에서 실시간 시스템 정보, 프로젝트 컨텍스트, 음악 제어, 사용자 지정 프로필을 보여 주는 애니메이션 대시보드. ![Freeware][Freeware Icon]
 * [Summon](https://github.com/juan294/summon) - Ghostty 또는 Rex에서 설정 가능한 멀티 페인 프로젝트 작업 공간을 명령 하나로 실행하는 CLI (tmux 불필요). [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - 이전 명령의 오타를 수정해주는 유용한 도구. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tmux](https://github.com/tmux/tmux) - 강력한 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)

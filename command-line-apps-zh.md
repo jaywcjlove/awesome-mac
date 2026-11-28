@@ -172,6 +172,7 @@
 * [rustnet](https://github.com/domcyrus/rustnet) - 跨平台网络监控 TUI，支持进程识别和深度包检测。 [![Open-Source Software][OSS Icon]](https://github.com/domcyrus/rustnet) ![Freeware][Freeware Icon]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher) - 类似于ack的代码搜索工具，专注于速度。 [![Open-Source Software][OSS Icon]](https://github.com/ggreer/the_silver_searcher) ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - 为工程师和系统管理员嵌入式硬件更容易。
+* [Shellux](https://github.com/reathloo/shellux) - 适用于 macOS 和 Linux 上 Zsh/Bash 的动画仪表板，显示实时系统信息、项目上下文和音乐控制，并支持自定义配置。 ![Freeware][Freeware Icon]
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt) - 一个简约，功能强大且极易定制的Zsh提示。 [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
 * [Summon](https://github.com/juan294/summon) - 用一条命令在 Ghostty 或 Rex 中启动可配置多窗格项目工作区的命令行工具，无需 tmux。 [![Open-Source Software][OSS Icon]](https://github.com/juan294/summon) ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - 一个纠正错误命令的工具，输入错误命令后，输入fuck就可以修正成正确的命令行命令，支持自定义的bash_profile命令。[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
