@@ -1429,6 +1429,7 @@ Awesome Mac
 * [Ferrocast](https://ferrocast.app) - Rust로 만든 빠른 키보드 런처. 클립보드 기록, 스니펫, 창 관리, 275가지 로컬 파일 변환을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - 메뉴 막대에서 기능 키를 빠르게 호출하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
 * [Freeter](https://freeter.io/) - 앱, 링크, 파일을 프로젝트별로 정리하는 작업 공간 도구. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
+* [getcta](https://getcta.store) - MacBook 노치 아래에 표시되어 읽는 목소리를 따라 스크롤되는 텔레프롬프터, AI 원고 작성 지원. ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Touch Bar에 촉각 피드백을 추가하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
 * [Hook for Mac](https://hookproductivity.com/) - 파일, 메일, 메모를 연결해 빠르게 이동하는 도구.
 * [Hourmint](https://hourmint.abdur.tech) - 프리랜서를 위한 메뉴 막대 시간 기록 앱으로, 작업 로그, 타임시트, PDF 청구서를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/abdurrahmanriyad/hourmint) ![Freeware][Freeware Icon]
