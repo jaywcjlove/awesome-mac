@@ -1899,6 +1899,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [HyprMac](https://hyprmac.app) - Keyboard-driven tiling window manager inspired by Hyprland, with automatic dwindle layout and ten workspaces. [![Open-Source Software][OSS Icon]](https://github.com/zacharytgray/HyprMac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
+* [Jugglinator](https://sefimov.github.io/jugglinator/) - Menu bar task switcher that cycles through a short list of AI chats, Claude Code sessions, Chrome tabs, and Terminal tabs with one hotkey. [![Open-Source Software][OSS Icon]](https://github.com/sefimov/jugglinator) ![Freeware][Freeware Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - Tiling window manager that works out of the box with no config file, has a native Settings app, and updates itself from inside the app. ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [LumaRing](https://github.com/potatoQi/LumaRing) - Radial menu for switching apps, windows, and browser tabs. [![Open-Source Software][OSS Icon]](https://github.com/potatoQi/LumaRing) ![Freeware][Freeware Icon]
