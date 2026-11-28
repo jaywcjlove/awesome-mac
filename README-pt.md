@@ -1329,6 +1329,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [StockDock](https://github.com/simonsruggi/StockDock) - App da barra de menus para ações, ETFs e criptomoedas em tempo real, além do lucro/prejuízo da carteira. Focado em privacidade, sem conta, com várias moedas. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://github.com/simonsruggi/MRRDock) - App da barra de menus que soma seu MRR do Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments e Gumroad em um único total. Várias moedas, chaves guardadas no Keychain, sem conta. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 * [Moony](https://moonyfinance.com) - App de finanças pessoais para acompanhar contas, investimentos, criptomoedas, imóveis e empréstimos em um banco de dados local criptografado, sem conta, sem nuvem e sem telemetria. [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
+* [WE Budget](https://github.com/JaffarSk24/WE-Budget) - Planejador de orçamento baseado em um calendário de pagamentos, com envelopes para o dinheiro reservado, importação de extratos bancários e sincronização opcional pelo seu próprio Google Drive. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-Budget) ![Freeware][Freeware Icon]
 
 ## Criptografia
 

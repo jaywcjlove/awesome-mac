@@ -1385,6 +1385,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [StockDock](https://github.com/simonsruggi/StockDock) - Menu bar app for real-time stocks, ETFs, crypto and portfolio P&L. Privacy-first, no account, multi-currency. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://github.com/simonsruggi/MRRDock) - Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 * [Moony](https://moonyfinance.com) - Personal finance app for tracking accounts, investments, crypto, property and loans in an encrypted local database, with no account, no cloud and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
+* [WE Budget](https://github.com/JaffarSk24/WE-Budget) - Budget planner built around a payment calendar, with envelopes for money set aside, bank statement import and optional sync through your own Google Drive. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-Budget) ![Freeware][Freeware Icon]
 
 ## Encryption
 
