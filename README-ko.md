@@ -580,6 +580,7 @@ Awesome Mac
 * [VirtualBox](http://www.virtualbox.org) - 강력한 x86 및 AMD64/Intel64 가상화 제품. ![Freeware][Freeware Icon]
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Apple Silicon Mac에서 macOS 및 ARM Linux 가상 머신을 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - 강력한 상용 VM.
+* [Velo Workspaces](https://www.veloworkspaces.com) - AI Bridge를 통해 로컬 AI 추론을 지원하는 일회용 Linux 및 macOS 가상 머신. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6805509975?pt=129339260&ct=GitHub&mt=8)
 
 ### 데이터베이스
 

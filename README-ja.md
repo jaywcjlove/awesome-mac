@@ -655,6 +655,7 @@ Awesome Mac
 * [Virtual Box](http://www.virtualbox.org) - 強力なx86およびAMD64/Intel64仮想化製品。 ![Freeware][Freeware Icon]
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Appleシリコン搭載MacでmacOSとARM Linuxの仮想マシンを実行するツール。 [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](http://www.vmware.com/) - VMwareが開発した強力な商用VM。
+* [Velo Workspaces](https://www.veloworkspaces.com) - 使い捨てのLinux・macOS仮想マシン。AI Bridge経由でローカルAI推論を提供。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]]
 
 ### データベース
 

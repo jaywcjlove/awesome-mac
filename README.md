@@ -654,6 +654,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Virtual Box](https://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Run macOS and ARM Linux virtual machines on Apple silicon Macs. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Velo Workspaces](https://www.veloworkspaces.com) - Disposable Linux & macOS VMs with local AI inference via AI Bridge. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6805509975?pt=129339260&ct=GitHub&mt=8)
 
 ### Databases
 
