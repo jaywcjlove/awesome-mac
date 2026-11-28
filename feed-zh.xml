@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:16:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WinPlug</title>
+      <link>https://winplug.app/</link>
+      <guid isPermaLink="false">71f6992aed32fcb5dad5f0871d2a095242b1cbe5:WinPlug</guid>
+      <pubDate>Sat, 28 Nov 2026 02:16:17 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: WinPlug
+Description: 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。
+Website: https://winplug.app/
+Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: WinPlug<br/>Description: 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。<br/>Website: https://winplug.app/<br/>Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5]]></content:encoded>
+    </item>
     <item>
       <title>Umbra</title>
       <link>https://umbraeditor.com/</link>
@@ -718,21 +732,6 @@ Open Source: https://github.com/wilu222/tripleclick
 Commit: Add TripleClick to Productivity (#4883)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
       <content:encoded><![CDATA[Category: 其它实用工具<br/>App: TripleClick<br/>Description: 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinstill（钉图）</title>
-      <link>https://pinstill.echovic.com/</link>
-      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill（钉图）</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Pinstill（钉图）
-Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。
-Website: https://pinstill.echovic.com/
-Open Source: https://github.com/echoVic/Pinstill
-Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Pinstill（钉图）<br/>Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。<br/>Website: https://pinstill.echovic.com/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
     </item>
   </channel>
 </rss>
