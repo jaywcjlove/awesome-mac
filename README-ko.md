@@ -275,6 +275,7 @@ Awesome Mac
 * [NotePlus](https://noteplus.com/) - 네이티브 노트 및 LLM 클라이언트.
 * [Noteriv](https://www.noteriv.com/) - 위키 링크, 그래프 뷰, 플러그인, Git/WebDAV 동기화, AI 어시스턴트용 MCP 서버를 갖춘 오픈소스 Markdown 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/thejacedev/Noteriv) ![Freeware][Freeware Icon]
 * [Noteship](https://noteship.com) - 노트를 구조화된 지식으로 정리해 주는 로컬 우선 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?platform=mac)
+* [Noticky](https://www.noticky.app/en) - 전체 화면 앱을 포함한 모든 창 위에 표시되는 네이티브 macOS 스티키 노트 앱. [![App Store][app-store Icon]](https://apps.apple.com/app/noticky/id6770181778?platform=mac) ![Native App][Native Icon]
 * [Notion](https://www.notion.so/) - 노트, 작업, 위키, 데이터베이스를 위한 올인원 워크스페이스.
 * [OATS](https://github.com/ariso-ai/oats) - 실시간 전사, 화자 라벨, AI 요약, 완전 오프라인 온디바이스 모드를 지원하는 오픈 소스 로컬 우선 회의 노트 앱. [![Open-Source Software][OSS Icon]](https://github.com/ariso-ai/oats) ![Freeware][Freeware Icon]
 * [OneNote](https://www.onenote.com/) - Microsoft의 노트 앱. ![Freeware][Freeware Icon]
