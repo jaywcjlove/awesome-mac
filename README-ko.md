@@ -1503,6 +1503,7 @@ Awesome Mac
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - 화면 가장자리를 포인터 기반 빠른 작업 공간으로 확장하는 도구. [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&platform=mac)
 * [mFix](https://github.com/Zingzy/mFix) - 키보드와 드래그 창 스냅, 스냅 레이아웃, 실시간 미리보기가 있는 Cmd+Tab 창 전환기, Dock 창 미리보기를 갖춘 오픈 소스 창 관리자. [![Open-Source Software][OSS Icon]](https://github.com/Zingzy/mFix) ![Freeware][Freeware Icon]
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
+* [noswoosh](https://github.com/mmathys/noswoosh) - 3손가락 스와이프 또는 Ctrl+방향키로 macOS 스페이스를 애니메이션 없이 즉시 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mmathys/noswoosh) ![Freeware][Freeware Icon]
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Open Contexts](https://opencontexts.app/) - 상시 표시되는 앱 바와 저장 가능한 창 그룹을 제공하는 오픈 소스 창 전환 도구. [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
 * [ordino](https://ordino-app.github.io/ordino/) - 단축키 하나로 디스플레이의 모든 창을 정렬하는 메뉴 막대 앱으로, 창 개수와 화면 형태에 맞춰 레이아웃을 고릅니다. [![Open-Source Software][OSS Icon]](https://github.com/ordino-app/ordino) ![Freeware][Freeware Icon]
