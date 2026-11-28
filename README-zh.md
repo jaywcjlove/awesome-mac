@@ -1699,6 +1699,7 @@ Awesome Mac
 ### 待办事项工具
 
 * [2Do](http://www.2doapp.com/) - 比较好的 TODO 应用程序。
+* [Cadence](https://www.yuzool.com/apps/cadence/) - 按天并排排布一周任务的周计划与任务看板，带周五回顾，并通过 iCloud 与 iPhone 同步。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180?mt=12)
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - 菜单日历更换内置日历。![Freeware][Freeware Icon]
 * [Fantastical](https://flexibits.com/fantastical) - 日历应用程序，你将管理好生活。
 * [Focus](https://masterbuilders.io) - 一个漂亮的番茄工作法为基础的时间管理工具。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/focus-productivity-timer/id777233759?platform=mac)
