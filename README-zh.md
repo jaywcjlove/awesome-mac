@@ -2019,6 +2019,7 @@ Awesome Mac
 * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
 * 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
 * [is Apple Silicon Ready](https://isapplesiliconready.com/) - 查找App是否为Apple silicon原生运行的网站。
+* [MacAppHQ](https://www.macapphq.com/) - 提供 Mac 软件评测与发现，下载链接优先指向开发者官网、App Store 和 GitHub 等官方渠道。
 * [Buy software, once](https://buyoncesoftware.com/) - 收集买断制软件的网站。
 * [Slant](https://www.slant.co) - 用于比较软件并查看社区推荐的平台。
 * [Open Alternative](https://openalternative.co/) - 发现流行软件的开源替代品。一个精心策划的最佳开源替代品集合 ，替代日常的SaaS产品。使用为您精心挑选的可靠工具节省金钱。
