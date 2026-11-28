@@ -346,6 +346,7 @@ Awesome Mac
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon公式のKindle読書アプリ。
 * [Klib](http://klib.me/) - KindleとiBooksのハイライトを管理する新しい方法。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15以上のフォーマットに対応したオールインワン電子書籍リーダー。 ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
+* [ONarrator](https://www.onarrator.com/?utm_source=awesome-mac) - PDF、EPUB、ウェブ記事をデバイス上の音声で読み上げる、研究論文向けに作られたテキスト読み上げリーダー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/onarrator-offline-reader/id6788517510?pt=128826645&ct=awesome-mac&mt=12&platform=mac)
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - EPUB、PDF、ウェブ記事に対応し、全文表示も備えたオープンソースのRSVP速読リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://github.com/readest/readest) - すっきりしたUIと豊富な読書機能を備えたオープンソースの電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - セマンティック検索、AIチャット、ノート管理に対応した電子書籍リーダー。 [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]

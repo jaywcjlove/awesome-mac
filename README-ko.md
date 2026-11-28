@@ -319,6 +319,7 @@ Awesome Mac
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon Kindle 공식 앱.
 * [Klib](http://klib.me/) - Kindle 및 iBooks의 하이라이트를 관리하는 새로운 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?at=1000lv4R&ct=klib_me&platform=mac)
 * [Koodo Reader](https://www.koodoreader.com/en) - 15개 이상의 형식을 지원하는 올인원 전자책 리더. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
+* [ONarrator](https://www.onarrator.com/?utm_source=awesome-mac) - PDF, EPUB, 웹 문서를 기기 내 음성으로 읽어 주는, 연구 논문을 위해 만든 텍스트 음성 변환 리더. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/onarrator-offline-reader/id6788517510?pt=128826645&ct=awesome-mac&mt=12&platform=mac)
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - EPUB, PDF, 웹 문서를 지원하고 전체 텍스트 보기를 제공하는 오픈 소스 RSVP 속독 리더. [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://github.com/readest/readest) - 깔끔한 인터페이스와 다양한 읽기 도구를 갖춘 오픈 소스 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - 시맨틱 검색, AI 채팅, 메모 관리를 지원하는 전자책 리더. [![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
