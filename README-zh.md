@@ -627,6 +627,7 @@ Awesome Mac
 * [Screenpipe](https://github.com/screenpipe/screenpipe) - 提供源代码的屏幕与音频录制工具，可搜索本地历史记录，支持可选云端 AI，并提供免费及付费方案。
 * [Tight Studio](https://tight.studio/) - 支持智能缩放、字幕和 AI 配音的录屏工具。
 * [TinyRecorder](https://www.tinyrecorder.app/zh-Hans/) - 轻量录屏工具，可录制屏幕、窗口、应用、系统声音和连接的 iPhone 或 iPad，是持续维护的 QuickRecorder 分支。 [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
+* [Zella](https://zellahq.com/) - 适用于 Mac 和 iPhone 的屏幕录制与 AI 视频编辑工具，支持一键去除静音和语气词、添加字幕，并在设备本地处理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/zella-recorder-video-editor/id6802100098?platform=mac)
 
 ### 其它工具
 

@@ -873,6 +873,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tight Studio](https://tight.studio/) - Screen recorder with smart zoom, captions, and AI voiceovers.
 * [TinyRecorder](https://www.tinyrecorder.app/en/) - Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder. [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.
+* [Zella](https://zellahq.com/) - Screen recorder and AI video editor for Mac and iPhone with one-tap silence and filler removal, captions, and on-device processing. [![App Store][app-store Icon]](https://apps.apple.com/us/app/zella-recorder-video-editor/id6802100098?platform=mac)
 
 ### Other Tools
 

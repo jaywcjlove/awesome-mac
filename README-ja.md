@@ -874,6 +874,7 @@ Awesome Mac
 * [Tight Studio](https://tight.studio/) - スマートズーム、字幕、AIボイスオーバーに対応した画面録画ツール。
 * [TinyRecorder](https://www.tinyrecorder.app/ja/) - 画面、ウインドウ、アプリ、システム音声、接続した iPhone や iPad を録画できる軽量な画面録画ツールで、メンテナンスが続く QuickRecorder のフォーク。 [![Open-Source Software][OSS Icon]](https://github.com/33to9/TinyRecorder) ![Freeware][Freeware Icon]
 * [Zappy](https://zapier.com/zappy) - スクリーンショットと画面録画を1つにまとめたアプリ。シンプルな編集ツールを内蔵。
+* [Zella](https://zellahq.com/) - Mac と iPhone 向けの画面録画・AI 動画編集ツール。無音やフィラーワードをワンタップで削除でき、字幕に対応し、処理はデバイス上で行われる。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/zella-recorder-video-editor/id6802100098?platform=mac)
 
 ### その他のツール
 
