@@ -2093,6 +2093,7 @@ Awesome Mac
 
 * [CSV Quick Look](https://github.com/adamorad/csv-quick-look) - 仮想スクロール、並べ替え、フィルター、ダークモードに対応した CSV/TSV 用 Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/adamorad/csv-quick-look) ![Freeware][Freeware Icon]
 * [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Markdownファイル用のクイックルック拡張機能。 - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
+* [Floppeek](https://gfazioli.github.io/floppeek/) - Amiga のディスクイメージ（.adf）用 Quick Look 拡張機能。ディスク内のドロワーとファイルを Workbench 風のウィンドウで一覧表示し、Finder では各ディスクをボリューム名付きのフロッピーとして表示します。 [![Open-Source Software][OSS Icon]](https://github.com/gfazioli/floppeek) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FluxMarkdown](https://github.com/xykong/flux-markdown) - Mermaid や KaTeX にも対応した Markdown 用 Quick Look 拡張。 [![Open-Source Software][OSS Icon]](https://github.com/xykong/flux-markdown) ![Freeware][Freeware Icon]
 * [Folderglass](https://dev.adityarajsingh.com/folderglass/) - フォルダ用の Quick Look 拡張。サブフォルダを含む実サイズ、ファイル種別の内訳、最大・最新のファイル、Git のブランチと変更状況を表示し、README をその場でレンダリング。zip の中身と Markdown のプレビューにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/justadityaraj/folderglass) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) - レンダリング済み Markdown を表示する Quick Look プラグイン。 [![Open-Source Software][OSS Icon]](https://github.com/ruspg/markdown-quicklook) ![Freeware][Freeware Icon]
