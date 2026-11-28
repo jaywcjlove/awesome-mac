@@ -1180,6 +1180,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SpatialAudio](https://github.com/vladsboev-web/SpatialAudio) - System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/vladsboev-web/SpatialAudio) ![Freeware][Freeware Icon]
 * [Spotifly](https://github.com/ralph/Spotifly) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
+* [Stanza](https://rayhanson.tech/projects/stanza/) - Menu-bar app that shows the lyrics of the song playing in Spotify or Apple Music word by word, over the desktop and above the lock screen, in 23 styles. [![Open-Source Software][OSS Icon]](https://github.com/Rayhanson-Git/stanza) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
 * [Stringed 2](https://apps.apple.com/us/app/stringed-2/id698710517) - Music practice software designed to help users learn how to play their favorite songs.
 * [Synfig Studio](https://synfig.org) - Synfig Studio is free, open-source 2D animation software. [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig) ![Freeware][Freeware Icon]
