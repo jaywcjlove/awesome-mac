@@ -1365,6 +1365,7 @@ Awesome Mac
 
 * [Buddy](https://github.com/projects-hacks/buddy) - ノッチに常駐する学習アシスタント。画面の内容を声で説明しながら、その上に書き込んで示す。 [![Open-Source Software][OSS Icon]](https://github.com/projects-hacks/buddy)
 * [Leafy](https://leafyapp.uk/) - ⌥A で PDF や画像を含む画面上の任意の単語を調べ、検索可能なローカル単語帳に保存。 ![Freeware][Freeware Icon]
+* [NearWord](https://nearword.app/?utm_source=awesome_mac) - 画面上の単語を指すだけで、ゲームやスキャンした PDF の中でも、すぐ横に意味を表示する辞書。
 * [Wokabulary](https://wokabulary.com/) - 個人の外国語語彙を収集、練習、整理。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## ファイナンス
