@@ -654,6 +654,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Virtual Box](https://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Run macOS and ARM Linux virtual machines on Apple silicon Macs. [![Open-Source Software][OSS Icon]](https://github.com/insidegui/VirtualBuddy) ![Freeware][Freeware Icon]
 * [VMware Fusion](https://www.vmware.com/) - Powerful, commercial VM developed by VMware.
+* [Orchard](https://github.com/andrew-waters/orchard) - Native macOS GUI for managing containers, machines and local AI models using Apple's container tooling. [![Open-Source Software][OSS Icon]](https://github.com/andrew-waters/orchard) ![Freeware][Freeware Icon]
 
 ### Databases
 
