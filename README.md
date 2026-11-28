@@ -1829,6 +1829,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Metrune](https://treafree.github.io/Metrune/en/) - Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch. ![Freeware][Freeware Icon]
 * [MindMac](https://mindmac.app/) - AI chat client for multiple providers in one place.
 * [Mos](https://mos.caldis.me/) - Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
+* [MuttonText](https://github.com/Muminur/MuttonText) - Free, privacy-focused text expansion tool with dynamic variables and sub-50ms latency. [![Open-Source Software][OSS Icon]](https://github.com/Muminur/MuttonText) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Archive manager that supports previewing and extracting archive files [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.
 * [MagicInput](https://bullfighterstudio.com/magicinput) - Share one keyboard and mouse between a Mac and a Windows PC by moving the pointer past the screen edge, with clipboard sync and file transfer. ![Freeware][Freeware Icon]
