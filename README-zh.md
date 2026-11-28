@@ -791,6 +791,7 @@ Awesome Mac
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 原生 Swift 打造的 macOS 应用，可使用你的 API Key 运行多个大语言模型（LLM）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 * [Wayfinder](https://wayfinder-ai.pages.dev/) - 本地优先的可视化航海图，保留 Codex 与 Claude Code 会话、分支、失败、决策和文件变更。 [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 * [Yardlet](https://yardlet.app) - 开源应用，可在同一窗口中并排运行 Codex、Claude Code 等编程代理 CLI，并沿用各代理自己的登录和会话记录。 [![Open-Source Software][OSS Icon]](https://github.com/zzunkie/yardlet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [KuroCat](https://kurocat.org/) - 免费开源的 3D/2D 透明置顶桌面打字小黑猫与 AI 编程伴侣，基于 Rust + Tauri v2 构建，支持密码框自动闭眼、OBS 透明源与内置 MCP 定制宠物。 [![Open-Source Software][OSS Icon]](https://github.com/qianyiai/KuroCat) ![Freeware][Freeware Icon]
 
 ## 通信
 
