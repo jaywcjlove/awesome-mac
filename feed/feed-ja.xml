@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:40:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rakazo</title>
+      <link>https://rakazo.com</link>
+      <guid isPermaLink="false">75577ab17c42cdfd02b5136b8bff6fd94fb19710:Rakazo</guid>
+      <pubDate>Sat, 28 Nov 2026 03:40:11 GMT</pubDate>
+      <category>AIツール</category>
+      <description>Category: AIツール
+App: Rakazo
+Description: 各エージェントに専用のコンピューター、メモリ、スケジュールタスクを備えたセルフホスト型のオープンソースAIエージェントアプリ。
+Website: https://rakazo.com
+Open Source: https://github.com/elie222/rakazo
+Commit: Add Rakazo to the AI tools list (#5147)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710</description>
+      <content:encoded><![CDATA[Category: AIツール<br/>App: Rakazo<br/>Description: 各エージェントに専用のコンピューター、メモリ、スケジュールタスクを備えたセルフホスト型のオープンソースAIエージェントアプリ。<br/>Website: https://rakazo.com<br/>Open Source: https://github.com/elie222/rakazo<br/>Commit: Add Rakazo to the AI tools list (#5147)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710]]></content:encoded>
+    </item>
     <item>
       <title>CoPanda</title>
       <link>https://www.copanda.app/</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/traycerai/traycer
 Commit: Add Traycer (#4909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
       <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Traycer<br/>Description: 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
-    </item>
-    <item>
-      <title>Hush</title>
-      <link>https://github.com/OgnjenAdzic28/hush</link>
-      <guid isPermaLink="false">9b8a9239d7101c2864fb4158f4608dce912bae8b:Hush</guid>
-      <pubDate>Mon, 23 Nov 2026 01:43:40 GMT</pubDate>
-      <category>AIツール</category>
-      <description>Category: AIツール
-App: Hush
-Description: AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。
-Open Source: https://github.com/OgnjenAdzic28/hush
-Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
-      <content:encoded><![CDATA[Category: AIツール<br/>App: Hush<br/>Description: AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
     </item>
   </channel>
 </rss>
