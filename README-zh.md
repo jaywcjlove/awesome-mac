@@ -1807,6 +1807,7 @@ Awesome Mac
 * [Healthy Battery](https://github.com/berkinefeavci/healthy-battery) - 适用于 Apple Silicon MacBook 的开源充电限制工具，提供实时电源流向与长期电池健康记录。 [![Open-Source Software][OSS Icon]](https://github.com/berkinefeavci/healthy-battery) ![Freeware][Freeware Icon]
 * [IconCraft](https://iconcraft.co) - 用你熟悉的名称和图标替换任意 Mac 应用的名称和图标，应用本身不会被修改。 [![Open-Source Software][OSS Icon]](https://github.com/gshipman223/IconCraft) ![Freeware][Freeware Icon]
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 菜单栏上的高级 Mac 系统监视器。
+* [N1KO-STATE](https://github.com/baogutang/N1KO-STATE) - 原生 Swift 开发的 macOS 菜单栏系统监控，支持 CPU/GPU/内存/温度/风扇转速。 [![Open-Source Software][OSS Icon]](https://github.com/baogutang/N1KO-STATE) ![Freeware][Freeware Icon]
 * [iStats](https://github.com/Chris911/iStats) - iStats 是一个可以让你快速查看电脑 CPU 温度，磁盘转速和电池等信息的命令行工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - 让电池显示更有趣 [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 替代咖啡因，更好地支持Mac中的暗模式。 [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
