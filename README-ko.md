@@ -1240,6 +1240,7 @@ Awesome Mac
 * [Hidden Bar](https://github.com/dwarvesf/hidden) - 메뉴 바 아이콘을 숨겨주는 초경량 도구. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [HideNotch](https://hidenotch.app) - 메뉴 막대를 검은색으로 칠해 MacBook 노치가 자연스럽게 섞이도록 하며, 화면 모서리를 둥글게 만들 수도 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/niklasravnsborg/HideNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - 단축키와 자동화로 블루투스 기기를 관리하는 메뉴 막대 도구. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
+* [Gojo](https://trygojo.com/) - 로컬 받아쓰기, 창 스냅, 클립보드 기록, 파일과 미디어를 지원하는 MacBook 노치 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/rohoswagger/gojo)
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 원활한 Google Drive 동기화를 위한 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [holzBar](https://holzcloud.ch/holzbar) - Ice에서 파생된 오픈 소스 메뉴 막대 관리자로, 메뉴 막대 아이콘을 숨기고 프로필, 위젯, 시스템 정보, 노치 허브를 제공. [![Open-Source Software][OSS Icon]](https://github.com/holzcloud/holzBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsytv](https://itsytv.app/) - 메뉴 바에서 Apple TV를 제어. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]

@@ -1623,6 +1623,7 @@ Awesome Mac
 * [NVBeacon](https://jaein4722.github.io/NVBeacon/) - 通过 SSH 监控远程 NVIDIA GPU 服务器的开源菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaein4722/NVBeacon) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FestiveLights](https://www.blackbox.ms/festive/en/) - 在菜单栏下方和程序坞上挂起圣诞彩灯，还有会落在窗口上的雪花。 [![Open-Source Software][OSS Icon]](https://github.com/krystofbe/festive-lights) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fishing Funds](https://ff.1zilc.top) - 基金，大盘，股票状态栏实时显示。 [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
+* [Gojo](https://trygojo.com/) - MacBook 刘海工作区，支持本地听写、窗口贴靠、剪贴板历史、文件和媒体。 [![Open-Source Software][OSS Icon]](https://github.com/rohoswagger/gojo)
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - 无缝 Google Drive 同步的菜单栏应用。[![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [GravityNotch](https://adrielakak.github.io/GravityNotch/) - 将刘海区域变成灵动岛，提供适配 macOS Tahoe 的系统 HUD、带同步歌词的锁屏播放器、剪贴板历史以及 Claude Code 代理实时追踪。 [![Open-Source Software][OSS Icon]](https://github.com/adrielakak/GravityNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [HeyMate](https://getheymate.vercel.app) - 住在 MacBook 刘海里的 AI 助手，可语音回答与屏幕内容相关的问题，并在你批准计划后运行 Claude Code、Codex 或 OpenCode 代理，还带有媒体、文件架和日历组件。 [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
