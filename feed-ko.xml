@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>유틸리티 / 클립보드 도구</category>
+      <description>Category: 유틸리티 / 클립보드 도구
+App: CoPanda
+Description: 검색 가능한 로컬 기록을 제공하며 계정과 원격 측정이 없는 오픈 소스 클립보드 관리자.
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 클립보드 도구<br/>App: CoPanda<br/>Description: 검색 가능한 로컬 기록을 제공하며 계정과 원격 측정이 없는 오픈 소스 클립보드 관리자.<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
     <item>
       <title>ordino</title>
       <link>https://ordino-app.github.io/ordino/</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/OgnjenAdzic28/hush
 Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
       <content:encoded><![CDATA[Category: AI 도구<br/>App: Hush<br/>Description: AI 에이전트가 모든 Mac 앱을 백그라운드에서 조작하게 해 주는 오픈 소스 CLI 및 MCP 서버. 동작당 약 178ms이며, 포커스를 빼앗거나 포인터를 움직이지 않습니다.<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
-    </item>
-    <item>
-      <title>TripleClick</title>
-      <link>https://github.com/wilu222/tripleclick</link>
-      <guid isPermaLink="false">e262ae15b83dda3d6e95d9ccadc54466d026a557:TripleClick</guid>
-      <pubDate>Sun, 22 Nov 2026 12:53:36 GMT</pubDate>
-      <category>유틸리티 / 생산성</category>
-      <description>Category: 유틸리티 / 생산성
-App: TripleClick
-Description: 트랙패드 세 손가락 클릭을 가운데 클릭으로 바꿔 주고 가운데 버튼 드래그도 지원하는 오픈 소스 메뉴 바 도구.
-Open Source: https://github.com/wilu222/tripleclick
-Commit: Add TripleClick to Productivity (#4883)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: TripleClick<br/>Description: 트랙패드 세 손가락 클릭을 가운데 클릭으로 바꿔 주고 가운데 버튼 드래그도 지원하는 오픈 소스 메뉴 바 도구.<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
     </item>
   </channel>
 </rss>
