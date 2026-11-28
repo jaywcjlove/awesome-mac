@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:53:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shotbox</title>
+      <link>https://box.gatheon.com</link>
+      <guid isPermaLink="false">56a9c12f59f14a549257aa36b29fe84e6fb8d8c1:Shotbox</guid>
+      <pubDate>Sat, 28 Nov 2026 06:53:21 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Shotbox
+Description: 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。
+Website: https://box.gatheon.com
+Open Source: https://github.com/depthsky2016/shotbox
+Commit: Add Shotbox to Screenshot Tools (#5164)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Shotbox<br/>Description: 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。<br/>Website: https://box.gatheon.com<br/>Open Source: https://github.com/depthsky2016/shotbox<br/>Commit: Add Shotbox to Screenshot Tools (#5164)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1]]></content:encoded>
+    </item>
     <item>
       <title>Rakazo</title>
       <link>https://rakazo.com</link>
@@ -719,21 +734,6 @@ Open Source: https://github.com/vladsboev-web/TurboControl
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TurboControl<br/>Description: 适用于 Intel Mac 的轻量级菜单栏工具：一键切换 Intel Turbo Boost、风扇转速控制和实时 CPU/GPU 温度监控。<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokelet</title>
-      <link>https://smcnab1.github.io/pokelet/</link>
-      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
-      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Pokelet
-Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。
-Website: https://smcnab1.github.io/pokelet/
-Open Source: https://github.com/smcnab1/pokelet
-Commit: Add Pokelet to Quality of Life Improvements (#4912)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Pokelet<br/>Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
     </item>
   </channel>
 </rss>

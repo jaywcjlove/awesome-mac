@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:53:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shotbox</title>
+      <link>https://box.gatheon.com</link>
+      <guid isPermaLink="false">56a9c12f59f14a549257aa36b29fe84e6fb8d8c1:Shotbox</guid>
+      <pubDate>Sat, 28 Nov 2026 06:53:21 GMT</pubDate>
+      <category>デザインとプロダクト / スクリーンショットツール</category>
+      <description>Category: デザインとプロダクト / スクリーンショットツール
+App: Shotbox
+Description: 撮ったスクリーンショットの文字を端末内で認識して自動でタイトルを付け、画像内の単語で後から検索できるメニューバーのスクリーンショットツール。スクロールキャプチャにも対応。
+Website: https://box.gatheon.com
+Open Source: https://github.com/depthsky2016/shotbox
+Commit: Add Shotbox to Screenshot Tools (#5164)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Shotbox<br/>Description: 撮ったスクリーンショットの文字を端末内で認識して自動でタイトルを付け、画像内の単語で後から検索できるメニューバーのスクリーンショットツール。スクロールキャプチャにも対応。<br/>Website: https://box.gatheon.com<br/>Open Source: https://github.com/depthsky2016/shotbox<br/>Commit: Add Shotbox to Screenshot Tools (#5164)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1]]></content:encoded>
+    </item>
     <item>
       <title>Rakazo</title>
       <link>https://rakazo.com</link>
@@ -720,21 +735,6 @@ Open Source: https://github.com/smcnab1/pokelet
 Commit: Add Pokelet to Quality of Life Improvements (#4912)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
       <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Pokelet<br/>Description: アニメーションキャラクター、クリックエフェクト、効果音でマウスカーソルに遊び心を加える、軽量なmacOSアプリ。<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
-    </item>
-    <item>
-      <title>Traycer</title>
-      <link>https://traycer.ai</link>
-      <guid isPermaLink="false">fec8ce66e1067f7fdd05fb2ede3001200149562f:Traycer</guid>
-      <pubDate>Mon, 23 Nov 2026 02:41:15 GMT</pubDate>
-      <category>開発ツール / IDE</category>
-      <description>Category: 開発ツール / IDE
-App: Traycer
-Description: 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。
-Website: https://traycer.ai
-Open Source: https://github.com/traycerai/traycer
-Commit: Add Traycer (#4909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
-      <content:encoded><![CDATA[Category: 開発ツール / IDE<br/>App: Traycer<br/>Description: 22のコーディングエージェントとモデルプロバイダーを1つの共有プランから並列実行するオープンソースのデスクトップアプリ。<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
     </item>
   </channel>
 </rss>
