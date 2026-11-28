@@ -375,6 +375,7 @@ Awesome Mac
 * [Capd](https://capd.jxd.dev) - リンク、テキスト、メモ、画像を保存し、全文検索できるオープンソースのキャプチャ・ブックマークアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - MacでCompiled HTML（.chm）ドキュメントを読む。 ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - MacでCHMドキュメントを読む。 ![Freeware][Freeware Icon]
+* [Garnet PDF](https://garnetpdf.com/) - オフラインで動作するオープンソースのPDFエディタで、PDF内のテキストや画像の編集、ページの並べ替え、フォームへの入力、署名、個人情報の墨消しができます。 [![Open-Source Software][OSS Icon]](https://github.com/garnetpdf/garnet-pdf) ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - Mac、iPad、iPhone向けの研究用PDFリーダー。 ![Freeware][Freeware Icon]
 * [HistCite Mac](https://github.com/yangnim21029/histcite-mac) - Web of Scienceのエクスポートデータを計量書誌学的に分析し、引用ネットワークを可視化するオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/yangnim21029/histcite-mac) ![Freeware][Freeware Icon]
 * [Lemma](https://github.com/fus3r/lemma) - 数学の教科書や論文のためのPDFリーダー。定理や数式への参照をリンクに変え、証明を折りたたみ、自分で書いた導出をチェック。 [![Open-Source Software][OSS Icon]](https://github.com/fus3r/lemma) ![Freeware][Freeware Icon]
