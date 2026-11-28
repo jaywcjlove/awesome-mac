@@ -1782,6 +1782,7 @@ Awesome Mac
 * [Dropzone](https://aptonic.com) - カスタマイズ可能なアクションのポップアップグリッドを作成。RubyとPythonでスクリプト可能。
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - Electronを使用した、Androidデバイスの表示と制御のためのグラフィカルなScrcpy。 [![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Ferrocast](https://ferrocast.app) - Rust製の高速キーボードランチャー。クリップボード履歴、スニペット、ウィンドウ管理、275種類のローカルファイル変換を備えています。 [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
+* [Zapthen](https://zapthen.com) - 右クリック長押しでランチャーパネルを開くメニューバーツール。テキスト選択時のアクションバー、クリップボード履歴、ノートを備え、データはローカルに保存されます。 ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Trello、Notion、Asanaに代わるオープンソースのセルフホスト型ツール。 [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 * [Focus Firewall](https://focusfirewall.com) - 作業中にSNSやその他の気を散らすものをブロックするミニマルなフォーカスアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8&platform=mac)
 * [FnKeyboard](https://github.com/kotique123/FnKeyboard) - メニューバーからファンクションキーをすばやく使えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/kotique123/FnKeyboard) ![Freeware][Freeware Icon]
