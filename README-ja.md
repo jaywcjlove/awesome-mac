@@ -514,6 +514,7 @@ Awesome Mac
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - gitとの対話を強化するシェルスクリプトセット（bashおよびzsh用）。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - SSH、Telnet、その他のプロトコルをサポートするターミナルエミュレーション。
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - ウェブサイトを自動的にダウンロードするツール。 [![App Store][app-store Icon]](https://apps.apple.com/in/app/sitesucker/id442168834?platform=mac)
+* [SnipperApp 3](https://snipperapp.com) - iCloud/Gist 同期と AI アシスタント向け MCP サーバーを内蔵したネイティブのコードスニペット管理ツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/snipperapp-3-code-snippets/id6757330954?mt=12)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 使いやすいコードスニペット管理ツール。
 * [Solarized](http://ethanschoonover.com/solarized) - クリーンで美しいカラーテーマ。iTerm、JetBrains製品、Vimなどとの相性が良い。
 * [ServerHat](https://github.com/getguruhat/serverhat-macos) - ローカル開発サーバーを実行する無料のメニューバーアプリ。Claude Code と Codex が MCP サーバーとローカル API 経由で起動・停止・ログ確認を行え、都度あなたの承認が必要。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/serverhat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]

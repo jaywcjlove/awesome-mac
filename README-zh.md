@@ -319,6 +319,7 @@ Awesome Mac
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - 一个管理、切换多个 hosts 方案的工具。[![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - 用于增强与git交互的shell脚本集(用于bash和zsh)。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 一款支持 SSH、Telnet 等多种协议的终端仿真程序。
+* [SnipperApp 3](https://snipperapp.com) - 原生代码片段管理器，支持 iCloud/Gist 同步，内置供 AI 助手使用的 MCP 服务器。[![App Store][app-store Icon]](https://apps.apple.com/us/app/snipperapp-3-code-snippets/id6757330954?mt=12)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织你的代码片段。
 * [ServerHat](https://github.com/getguruhat/serverhat-macos) - 免费的菜单栏应用，用来运行本地开发服务器。Claude Code 和 Codex 可通过它的 MCP 服务器和本地 API 启动、停止并读取日志，每次都需要你批准。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/serverhat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpawnSweep](https://github.com/samirmaikap/spawnsweep) - 菜单栏应用，显示 Claude Code、Codex、Cursor 等 AI 编程代理遗留运行的开发服务器、模拟器和构建数据，并在清理前先预览。 [![Open-Source Software][OSS Icon]](https://github.com/samirmaikap/spawnsweep) ![Native App][Native Icon]
