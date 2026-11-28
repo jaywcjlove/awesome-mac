@@ -1198,6 +1198,7 @@ Awesome Mac
 * [Convoy](https://thedynamicpunk.github.io) - 支持分段下载、浏览器集成以及 HLS 和 DASH 流媒体的开源下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - 支持多达近 1200 个视频站点的视频下载工具。
 * [FDM](https://www.freedownloadmanager.org/) -一款跨平台的下载管理器 ![Freeware][Freeware Icon]
+* [FluxDown](https://fluxdown.zerx.dev) - 支持 HTTP、FTP、BitTorrent、eD2K、HLS 与 DASH 的多协议下载管理器，具备 IDM 式动态分段加速。 [![Open-Source Software][OSS Icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 一个 Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - 支持 HTTP(S)、磁力链接和 `.torrent` 文件的开源下载管理器。 [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
 * [JDownloader](http://jdownloader.org/) - 用于链接、文件和网盘内容的下载管理器。![Freeware][Freeware Icon]

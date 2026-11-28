@@ -1003,6 +1003,7 @@ Awesome Mac
 * [Arroxy](https://arroxy.com/) - YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI. [![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy) ![Freeware][Freeware Icon]
 * [Convoy](https://thedynamicpunk.github.io) - 분할 다운로드, 브라우저 연동, HLS 및 DASH 스트림을 지원하는 오픈 소스 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/TheDynamicPunk/Convoy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - YouTube 등 1200개 이상의 사이트를 지원하는 macOS용 비디오 다운로더.
+* [FluxDown](https://fluxdown.zerx.dev) - HTTP, FTP, BitTorrent, eD2K, HLS, DASH를 지원하고 IDM 방식의 동적 세그먼트 분할을 갖춘 멀티 프로토콜 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][Freeware Icon]
 * [FOLX](https://mac.eltima.com/download-manager.html) - Mac 스타일 인터페이스를 갖춘 무료 다운로드 관리자. ![Freeware][Freeware Icon]
 * [Free Download Manager](https://www.freedownloadmanager.org/) - 강력하고 사용하기 쉬운 무료 다운로드 가속기 및 관리자. ![Freeware][Freeware Icon]
 * [Harbor](https://github.com/thsnkhn/harbor) - HTTP(S), 마그넷 링크, `.torrent` 파일을 지원하는 오픈 소스 다운로드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
