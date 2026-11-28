@@ -260,6 +260,7 @@ Awesome Mac
 * [Gooba](https://goobapp.com/) - 간단하고 대화형 디자인의 쓰기 앱 및 작업 관리자.
 * [Inkdrop](https://www.inkdrop.info/) - Electron 기반의 마크다운 애호가를 위한 노트북 앱.
 * [Joplin](https://joplinapp.org/) - 마크다운과 할 일 관리를 지원하는 오픈 소스 메모장. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Koala](https://usekoala.app) - 화면 가장자리의 레일에 노트를 두는 로컬 우선 macOS 노트 앱. 노트를 분리해 작업 옆에 띄웠다가 다시 도킹할 수 있습니다. iCloud 동기화는 기본적으로 꺼져 있습니다. 9.99달러 일회성 구매, macOS 26 이상 필요합니다.
 * [Knopo](https://github.com/alkalim/Knopo) - 노트를 일반 Markdown 파일로 저장하는 macOS 네이티브 로컬 우선 아웃라이너. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Knovum](https://github.com/madebyzan/knovum) - 로컬 우선 2D 공간 AI 지식 공간으로, 내장 LanceDB 벡터 검색, 무한 캔버스 및 온디바이스 Whisper 전사를 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 기기 간 종단 간 암호화 동기화를 지원하는, Rust로 만든 오프라인 우선 오픈 소스 노트·문서 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]

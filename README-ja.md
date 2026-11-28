@@ -287,6 +287,7 @@ Awesome Mac
 * [Gooba](https://goobapp.com/) - シンプルでインタラクティブなデザインのライティングアプリ兼タスクマネージャー。
 * [Inkdrop](https://www.inkdrop.info/) - Electron上に構築されたMarkdown愛好者のためのノートブックアプリ。
 * [Joplin](https://joplinapp.org/) - Markdownサポートとタスク管理機能を備えたクロスプラットフォームオープンソースメモアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Koala](https://usekoala.app) - 画面の端のレールにノートを置く、ローカルファーストのmacOSノートアプリ。ノートを切り離して作業の横に浮かせ、終わったら元に戻せます。iCloud同期はデフォルトでオフ。9.99ドルの買い切り、macOS 26以降が必要です。
 * [Knopo](https://github.com/alkalim/Knopo) - ノートをプレーンMarkdownファイルとして保存するmacOSネイティブのローカルファーストアウトライナー。 [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Knovum](https://github.com/madebyzan/knovum) - 埋め込みLanceDBベクトル検索、無限キャンバス、デバイス内Whisper文字起こしを備えたローカルファースト2D空間AIナレッジスペース。 [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - デバイス間のエンドツーエンド暗号化同期に対応した、Rust製のオフラインファーストなオープンソースのノート・ドキュメント用ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]

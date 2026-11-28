@@ -287,6 +287,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
 * [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Koala](https://usekoala.app) - Notes that live in a rail at the edge of your screen. Detach a note beside your work, then dock it back. Local-first, iCloud sync off by default. $9.99 one-time, macOS 26+.
 * [Knopo](https://github.com/alkalim/Knopo) - Native macOS outliner for local-first notes stored as plain Markdown files. [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Knovum](https://github.com/madebyzan/knovum) - Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription. [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust. [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
