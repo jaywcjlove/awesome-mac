@@ -1942,6 +1942,7 @@ Awesome Mac
 * [Command X](https://sindresorhus.com/command-x) - Finderでファイルの切り取り＆貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - あらゆるアプリからファイルやフォルダに素早くアクセス。
 * [AppPorts](https://github.com/wzh4869/AppPorts) - `/Applications` の起動リンクを保ったままアプリを外部ストレージへ移せるツール。 [![Open-Source Software][OSS Icon]](https://github.com/wzh4869/AppPorts) ![Freeware][Freeware Icon]
+* [FileCat](https://github.com/benny-cz/FileCat) - カスタマイズ可能な複数ペイン、タブ、内蔵ビューアーを備えたオープンソースのファイルマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/benny-cz/FileCat) ![Freeware][Freeware Icon]
 * [FileMint](https://github.com/FileMintApp/FileMint) - Finder の右クリックメニューからテンプレートを使ってファイルを作成できるネイティブ拡張機能で、個人・非商用利用は無料。 ![Native App][Native Icon]
 * [FileMinutes](https://www.fileminutes.com/) - ファイルを見つけてアクションを実行、すべてを一つで。
 * [FinderFix](https://synappser.github.io/apps/finderfix/) - Finderウィンドウのサイズと位置を永続的に解決。 ![Freeware][Freeware Icon].
