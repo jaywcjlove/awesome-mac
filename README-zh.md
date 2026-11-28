@@ -1929,6 +1929,7 @@ Awesome Mac
 * [Strata Files](https://stratafiles.app) - 开源文件管理器和 Finder 替代品，支持即时搜索、实时文件夹大小、磁盘占用图和双栏视图。 [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 用常用应用快速打开所选文件或文件夹的 Finder 扩展。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
+* [WizMac Explorer](https://www.wizit.org/wizmac-explorer/) - 用法与 Windows 资源管理器相同的文件管理器：文件夹树、Windows 快捷键、文件的剪切和粘贴、撤销。 ![Freeware][Freeware Icon]
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
 
 ## 游戏软件

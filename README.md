@@ -1707,6 +1707,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tidywise](https://github.com/floorianmb/tidywise) - Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants. [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Archive utility for extracting and compressing many common formats. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [WhimsyDesk](https://whimsydesk.art) - Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were. [![Open-Source Software][OSS Icon]](https://github.com/Electrofist/WhimsyDesk) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WizMac Explorer](https://www.wizit.org/wizmac-explorer/) - File manager that works like Windows Explorer: folder tree, Windows keys, cut and paste for files, undo. ![Freeware][Freeware Icon]
 * [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware][Freeware Icon]
 
 ### General Tools

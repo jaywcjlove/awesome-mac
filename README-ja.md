@@ -1688,6 +1688,7 @@ Awesome Mac
 * [The Unarchiver](https://theunarchiver.com/) - 様々な種類のアーカイブファイルを解凍。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353?platform=mac)
 * [Tidywise](https://github.com/floorianmb/tidywise) - Ollama を使って散らばったファイルを Markdown インデックス付きのトピックフォルダにローカルで整理するメニューバーアプリ。完全な元に戻す機能と読み取り専用 MCP サーバーを搭載。 [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 多くの一般的な形式に対応した圧縮・解凍ツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
+* [WizMac Explorer](https://www.wizit.org/wizmac-explorer/) - フォルダツリー、Windowsのキー操作、ファイルの切り取りと貼り付け、取り消しを備えた、Windowsエクスプローラー風のファイルマネージャー。 ![Freeware][Freeware Icon]
 * [Marta](https://marta.sh) - 完全にSwiftで書かれたmacOS用ファイルマネージャー。 ![Freeware][Freeware Icon]
 
 ### 一般ツール
