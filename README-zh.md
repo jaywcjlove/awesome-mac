@@ -1143,6 +1143,7 @@ Awesome Mac
 * [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - 开源 RSVP 快速阅读器，支持 EPUB、PDF 和网页文章，并提供全文视图。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/Rapid-Reader) ![Freeware][Freeware Icon]
 * [Readest](https://readest.com) - 开源电子书阅读器，界面清爽并提供丰富阅读工具。 [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
 * [ReadAny](https://codedogqby.github.io/ReadAny/) - 一款支持语义搜索、AI 问答和笔记管理的电子书阅读器。[![Open-Source Software][OSS Icon]](https://github.com/codedogQBY/ReadAny) ![Freeware][Freeware Icon]
+* [Rede](https://github.com/qyangcv/Rede) - 专为中文阅读设计的 EPUB 阅读器，可通过 iCloud 在设备间同步书库和阅读进度。 [![Open-Source Software][OSS Icon]](https://github.com/qyangcv/Rede) ![Freeware][Freeware Icon]
 * [Scribus](https://www.scribus.net/) - 开源电子杂志制作软件。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - 多平台 EPUB 编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 * [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac) - 支持PDF、CBZ和CBR格式的电子书阅读器，带有Live Text搜索功能。 [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac)
