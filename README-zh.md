@@ -207,6 +207,7 @@ Awesome Mac
 * [NeatEditor](https://github.com/NeatMacApps/NeatEditor) - 快速的 macOS 原生纯文本编辑器，专注无干扰写作。 [![Open-Source Software][OSS Icon]](https://github.com/NeatMacApps/NeatEditor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Nova](https://nova.app/) - 用于编写 Web 应用，长得漂亮的编辑器，Coda2 下一代编辑器。
 * [Cate](https://cate.cero-ai.com) - 基于无限缩放画布的开源 IDE，可将编辑器、终端、浏览器和 AI 代理面板自由分布在空间化工作区中。 [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
+* [Caxton](https://caxton.app) - 面向超大文件的原生文本编辑器 — 内存映射架构，瞬间打开数 GB 的日志和 CSV 文件。
 * [CodeEdit](https://www.codeedit.app/) - 专为Mac编写的原生编辑器，轻量化且利用Mac平台的特性。 [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [Coincide](https://coincide.dev) - 开源的原生编程代理工作区（Claude Code、Codex、Cursor、Grok Build、OpenCode、Antigravity），同一个线程可以中途切换代理。 [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/coincide) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CotEditor](https://coteditor.com) - 轻量级的纯文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]

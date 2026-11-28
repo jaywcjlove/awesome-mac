@@ -385,6 +385,7 @@ Awesome Mac
 * [BBEdit](http://www.barebones.com/products/bbedit/) - 인기 있고 강력한 HTML 및 텍스트 편집기.
 * [Brackets](http://brackets.io/) - 웹 디자인을 고집하는 오픈 소스 텍스트 편집기. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 * [Cate](https://cate.cero-ai.com) - 무한 줌 캔버스 기반의 오픈소스 IDE로, 에디터, 터미널, 브라우저, AI 에이전트 패널을 공간형 워크스페이스에 배치할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/0-AI-UG/cate) ![Freeware][Freeware Icon]
+* [Caxton](https://caxton.app) - 초대형 파일을 위한 네이티브 텍스트 편집기 — 메모리 매핑 방식으로 수 GB 로그와 CSV를 즉시 엽니다.
 * [Coda 2](https://panic.com/coda/) - 빠르고 투명하며 강력한 텍스트 편집기.
 * [Coincide](https://coincide.dev) - 코딩 에이전트(Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity)를 위한 오픈소스 네이티브 작업 공간. 하나의 스레드에서 도중에 에이전트를 바꿀 수 있다. [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/coincide) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cursor](https://www.cursor.com/) - 자동 완성, 채팅, 에이전트 기능을 갖춘 AI 코드 편집기. ![Freeware][Freeware Icon]
