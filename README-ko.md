@@ -1389,6 +1389,7 @@ Awesome Mac
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 메뉴 막대나 단축키로 흑백 화면을 켜고 끄는 도구. [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [IconCraft](https://iconcraft.co) - 어떤 Mac 앱이든 익숙한 이름과 아이콘으로 바꿔 줍니다. 앱 자체는 변경되지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/gshipman223/IconCraft) ![Freeware][Freeware Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS용 커스텀 커서 테마 도구. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
+* [Paw-Paw](https://paw-paw.pet) - 타이핑과 클릭에 반응하는 데스크톱 펫으로, 레벨업하면 새로운 동물과 착용 아이템이 열립니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MagicQuit](https://magicquit.com/) - 비활성 앱을 자동 종료해 리소스와 화면을 정리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Matcha](https://github.com/jakeantelis/Matcha) - 시각적 타이머와 플로팅 배지를 제공하고 실행 중인 AI 코딩 에이전트를 감지해 Mac을 깨어 있게 하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Matcha) ![Freeware][Freeware Icon]
 * [Adrafinil](https://kagerou.glass/adrafinil/) - AI 에이전트가 작업 중일 때만 Mac을 깨어 있게 하고, 작업이 끝나면 정상적으로 잠자기 상태로 전환합니다. [![Open-Source Software][OSS Icon]](https://github.com/kageroumado/adrafinil) ![Freeware][Freeware Icon]

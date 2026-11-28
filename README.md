@@ -1994,6 +1994,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 * [MaCursor](https://github.com/writronic/MaCursor) - Custom cursor themes for macOS. [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
+* [Paw-Paw](https://paw-paw.pet) - Desktop pet that reacts to typing and clicks and unlocks new animals and wearable items as you level up. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - Moves and restyles notification banners and can replace the Notification Center panel with a customizable one. [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Pokelet](https://smcnab1.github.io/pokelet/) - A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds. [![Open-Source Software][OSS Icon]](https://github.com/smcnab1/pokelet) ![Freeware][Freeware Icon] ![Native App][Native Icon]

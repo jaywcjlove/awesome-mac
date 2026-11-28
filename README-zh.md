@@ -1817,6 +1817,7 @@ Awesome Mac
 * [Mac Monitor](https://github.com/Ahmadjondev/MacMonitor) - 轻量级菜单栏系统监视器，显示内存、CPU、网络和磁盘，专注于内存压力。 [![Open-Source Software][OSS Icon]](https://github.com/Ahmadjondev/MacMonitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MacFanPro](https://github.com/macfanpro/macfanpro) - 适用于 Apple Silicon Mac 的风扇控制工具，提供菜单栏应用、按温度调节的模式和命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS自定义光标主题工具。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
+* [Paw-Paw](https://paw-paw.pet) - 会对键盘输入和点击做出反应的桌面宠物，升级可解锁新的动物和可穿戴物品。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MagicQuit](https://magicquit.com/) - 自动退出不活跃应用以减少占用和桌面杂乱。 [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [Matcha](https://github.com/jakeantelis/Matcha) - 保持 Mac 唤醒，提供可视化计时器和悬浮徽标，并可检测正在运行的 AI 编程智能体。 [![Open-Source Software][OSS Icon]](https://github.com/jakeantelis/Matcha) ![Freeware][Freeware Icon]
 * [Monity](http://www.monityapp.com/) - 帮助用户实时监控系统的一款非常漂亮的软件。

@@ -1975,6 +1975,7 @@ Awesome Mac
 * [KeyCastr](https://github.com/keycastr/keycastr) - オープンソースのキーストロークビジュアライザー。 [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - MacBookにキーボードバックライトのショートカットを復活。
 * [MaCursor](https://github.com/writronic/MaCursor) - macOS用のカスタムカーソルテーマ。 [![Open-Source Software][OSS Icon]](https://github.com/writronic/MaCursor) ![Freeware][Freeware Icon]
+* [Paw-Paw](https://paw-paw.pet) - タイピングやクリックに反応するデスクトップペット。レベルアップで新しい動物や着せ替えアイテムが解放されます。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunar](https://lunar.fyi/) - 外部ディスプレイの輝度、コントラスト、音量の調整をサポート。 [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
 * [NotificationNanny](https://chessper53.github.io/NotificationNanny/) - 通知バナーの位置や見た目を変え、通知センターのパネルをカスタマイズできるものに置き換えられるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/chessper53/NotificationNanny) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Pokelet](https://smcnab1.github.io/pokelet/) - アニメーションキャラクター、クリックエフェクト、効果音でマウスカーソルに遊び心を加える、軽量なmacOSアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/smcnab1/pokelet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
