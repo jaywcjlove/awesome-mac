@@ -916,6 +916,7 @@ Awesome Mac
 * [ffWorks](https://www.ffworks.net/) - macOS的综合媒体工具。使每个人都可以使用高质量的视频编码。
 * [FreeTube](https://github.com/FreeTubeApp/FreeTube) - 一款注重隐私的开源 YouTube 应用。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - 将视频转换为高质量GIF。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
+* [Grain](https://grained.space) - 开源影院应用：TMDB 片库、自行添加的 Jackett、Prowlarr、Torznab 或 Stremio 来源、内置种子引擎和基于 VLC 的播放器。 [![Open-Source Software][OSS Icon]](https://github.com/w3ltyyy/Grain) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - 用于将媒体转换为现代格式的视频转码工具。[![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [Hertzwise](https://zeetabit.github.io/Hertzwise/) - 菜单栏应用，根据 Apple Music 或 Tidal 的每首曲目自动切换 DAC 采样率，实现无损比特完美播放，并提供按设备启用的 AutoEq 耳机均衡器。 [![Open-Source Software][OSS Icon]](https://github.com/zeetabit/Hertzwise) ![Freeware][Freeware Icon]
 * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - 面向 Apple Silicon 与 Intel Mac 的非官方短剧播放器与下载器，支持红果、西饭和河马三个来源。 [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
