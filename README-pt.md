@@ -819,6 +819,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Snipaste](https://www.snipaste.com) - Ferramenta de captura simples, mas poderosa. ![Freeware][Freeware Icon]
 * [Teampaper Snap](https://teampaper.me/) - Deixe suas capturas de tela falarem por si. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id1199502670?platform=mac)
 * [Tuji](https://tuji.app/) - Tire uma captura de tela, anote e embeleze. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
+* [WE Screenshot](https://github.com/JaffarSk24/WE-Screenshot) - Ferramenta da barra de menus para capturas de área com anotação, impressão e envio para o seu próprio Google Drive. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-Screenshot) ![Freeware][Freeware Icon]
 * [Xnip](https://xnipapp.com/) - App prático para captura de tela. [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 
 ### Gravação de Tela
