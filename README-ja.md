@@ -1951,6 +1951,7 @@ Awesome Mac
 * [Lokii](https://lokii.huangy.top) - Everything のような高速な検索体験を提供する、Rust と AppKit で構築されたネイティブ macOS 向け即時ファイル検索ツール。 [![Open-Source Software][OSS Icon]](https://github.com/huangy7/lokii) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [fman](https://fman.io) - Sublime Textの機能を統合した初のデュアルペインファイルマネージャー。
 * [ForkLift](http://binarynights.com/forklift/) - macOS向けの最も先進的なデュアルペインファイルマネージャー＆ファイル転送クライアント。
+* [Gander](https://trygander.app) - すべてのファイルを大きなサムネイルで表示するビジュアルな Finder 代替アプリ。「先週の PDF」のような自然な言葉で検索でき、スクリーンショット内の文字も読み取り、重複ファイルや古いダウンロードを整理。 ![Native App][Native Icon]
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - ファイル管理アプリ。
 * [PC Mode](https://github.com/getguruhat/PCMode) - Windowsの操作感をMacに持ち込む無料アプリ。Deleteキーで Finder から削除、⌘X と ⌘V でファイルを切り取り・移動、⌘Tab でウィンドウごとに切り替え。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [QSpace](https://qspace.awehunt.com) - クリーンで効率的なマルチビューファイルマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)

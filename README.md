@@ -1969,6 +1969,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Lokii](https://lokii.huangy.top) - Ultra-fast, lightweight native macOS instant file search tool like Everything for Mac. [![Open-Source Software][OSS Icon]](https://github.com/huangy7/lokii) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [fman](https://fman.io) - The first dual-pane file manager to integrate features from Sublime Text.
 * [ForkLift](https://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
+* [Gander](https://trygander.app) - Visual Finder alternative that shows every file as a big thumbnail, finds files from plain-English searches like "pdfs from last week", reads the text in screenshots and clears duplicates and old downloads. ![Native App][Native Icon]
 * [Path Finder](https://www.cocoatech.com/) - File management app.
 * [PC Mode](https://github.com/getguruhat/PCMode) - Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with ⌘X and ⌘V, and switch individual windows with ⌘Tab. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/PCMode) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098?platform=mac)
