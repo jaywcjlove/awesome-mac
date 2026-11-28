@@ -334,6 +334,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Rewrite text, fix grammar, and edit Word, LaTeX and PDF files. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
+* [TextFix](https://textfix.jonathanhind.com) - Native macOS menu bar app that fixes spelling, grammar, and messy typing in place across any app using your own Claude, Gemini, or OpenAI API key. ![Native App][Native Icon]
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
 
 ### Ebooks
