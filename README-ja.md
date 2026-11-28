@@ -1626,6 +1626,7 @@ Awesome Mac
 * [Work Hours](https://github.com/niteoweb/work-hours-mac) - メニューバーから勤務時間を追跡するシンプルなアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - あらゆるスクリプトやプログラムの出力をmacOSメニューバーに表示（BitBarのリブート版）。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 * [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - MacBook のノッチを、メディア操作、音量・明るさ HUD、通知、メッセージ、iPhone の通話、カレンダー、天気、タイマー、ファイルシェルフを備えた Dynamic Island 風の領域に変えます。 [![Open-Source Software][OSS Icon]](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [YummyOrange](https://yummyorange.com) - メニューバーのファイルホイール：ファイルをドラッグ中に Shift・Command・Option を押して花びらにドロップすると、形式変換、PDF のテキスト編集、圧縮、トリミング、YouTube や Instagram のリンクからの動画保存ができます。 [![Open-Source Software][OSS Icon]](https://github.com/furqan4545/yummyorange) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - キーボード入力にメカニカル風の打鍵音を加えるツール。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
 
 ### クリーンアップとアンインストール
