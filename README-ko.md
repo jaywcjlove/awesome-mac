@@ -905,6 +905,7 @@ Awesome Mac
 * [Ragdoll Mail](https://erict16.github.io/ragdoll-mail/) - 즉시 결과가 나오는 로컬 전문 검색과 스크립트 및 AI 에이전트용 명령줄을 갖춘 오픈 소스 IMAP 메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/erict16/ragdoll-mail) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 스마트한 이메일 클라이언트. ![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - 키보드 중심의 이메일 클라이언트. Zed가 사용하는 GPU UI 프레임워크 gpui 위에 Rust로 작성되었습니다. [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
+* [Suzume Mail](https://www.yuzool.com/apps/suzume/) - 채팅 형식의 IMAP 이메일 클라이언트. 메일은 내 기기에 보관되며 기기 내 요약을 지원하고, 한 번 구매로 잠금 해제됩니다. [![App Store][app-store Icon]](https://apps.apple.com/us/app/suzume-mail-email-client/id6771950111)
 * [Thunderbird](https://www.thunderbird.net/) - 무료 오픈 소스 이메일 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/thunderbird) ![Freeware][Freeware Icon]
 
 ### 파일 공유
