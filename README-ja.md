@@ -259,6 +259,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - ライブリロード、Quick Lookプレビュー、Mermaid図、数式、そして自分のキーまたはローカルモデルによるオプションのAI要約に対応した高速なMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
+* [Notula](https://notula.org) - gitリポジトリ内のMarkdownドキュメントを編集し、コメントスレッドをドキュメントと共にコミットするエディタ。 ![Freeware][Freeware Icon]
 * [Obsidian](https://obsidian.md) - あなたのための第二の脳、永遠に。
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Quill](https://quill.hridya.tech) - Claude Code、Codex、Cursor が下書きをその場で編集し、変更ごとに残すか取り消すかを選べる Markdown エディタ。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
