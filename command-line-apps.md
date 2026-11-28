@@ -148,6 +148,7 @@ A curated list of useful command line apps
 
 * [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware][Freeware Icon]
 * [Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable. [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/Airlift) ![Freeware][Freeware Icon]
+* [airplay-screen](https://github.com/drumandbytes/airplay-screen) - Start and stop AirPlay screen mirroring from the command line, with the menu bar hidden. [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/airplay-screen) ![Freeware][Freeware Icon]
 * [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software][OSS Icon]](https://github.com/obihann/archey-osx) ![Freeware][Freeware Icon]
 * [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with intelligent autojump. [![OSS][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]

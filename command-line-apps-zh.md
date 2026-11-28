@@ -147,6 +147,7 @@
 
 ## Other
 
+* [airplay-screen](https://github.com/drumandbytes/airplay-screen) - 在命令行中启动和停止 AirPlay 屏幕镜像，无需显示菜单栏。 [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/airplay-screen) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录。 [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - 一个社区的 bash 的框架。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - 带有语法高亮和Git集成的 `cat(1)` 克隆。 [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]

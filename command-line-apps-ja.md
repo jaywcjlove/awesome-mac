@@ -149,6 +149,7 @@ Awesome Command Line Apps
 
 * [ack](https://beyondgrep.com) - プログラマー向けに最適化されたgrep風ツール。 ![Freeware][Freeware Icon]
 * [Airlift](https://github.com/TheAcharya/Airlift) - 添付ファイル付きデータをAirtableにアップロード＆マージ。 [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/Airlift) ![Freeware][Freeware Icon]
+* [airplay-screen](https://github.com/drumandbytes/airplay-screen) - コマンドラインから AirPlay 画面ミラーリングを開始・停止。メニューバーを隠したままでも使えます。 [![Open-Source Software][OSS Icon]](https://github.com/drumandbytes/airplay-screen) ![Freeware][Freeware Icon]
 * [archey-osx](http://obihann.github.io/archey-osx/) - OS X向けのarcheyスクリプト。 [![Open-Source Software][OSS Icon]](https://github.com/obihann/archey-osx) ![Freeware][Freeware Icon]
 * [asciinema](https://github.com/asciinema/asciinema) - ターミナルセッションを簡単に録画し、ターミナルやWebブラウザで再生。 [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki) - インテリジェントなautojumpで`cd`を置き換え。 [![OSS][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
