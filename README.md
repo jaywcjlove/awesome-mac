@@ -1411,6 +1411,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Mana Security](https://github.com/manasecurity/mana-security-app) - vulnerability management app for individuals. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 * [Vulert](https://vulert.com) - Dependency vulnerability monitoring service for open-source packages.
 * [OverSight](https://objective-see.com/products/oversight.html) - Tool for monitoring microphone and webcam access. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight) ![Freeware][Freeware Icon]
+* [fort](https://github.com/djadmin/fort) - Audit, fix, and prove macOS endpoint security from one command. 15 checks, auto-remediation, SOC 2 evidence reports. [![Open-Source Software][OSS Icon]](https://github.com/djadmin/fort) ![Freeware][Freeware Icon]
 * [ParetoSecurity](https://paretosecurity.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
 * [PureSnitch](https://github.com/momenbasel/puresnitch) - Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/puresnitch) ![Freeware][Freeware Icon]
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Generic Ransomware Detection. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
