@@ -1335,6 +1335,7 @@ Awesome Mac
 
 ## 安全工具
 
+* [ChaBox](https://github.com/huanguan1978/chacrypt/tree/main/chabox) - 开源跨平台文件加密工具，基于 ChaCha20-Poly1305，支持批量加解密、归档/解档、安全擦除和安全日记等实用功能。 [![Open-Source Software][OSS Icon]](https://github.com/huanguan1978/chacrypt) ![Freeware][Freeware Icon]
 * [Deadbolt](https://github.com/alichtman/deadbolt) - 开源文件加密工具。 [![Open-Source Software][OSS Icon]](https://github.com/alichtman/deadbolt) ![Freeware][Freeware Icon]
 * [AI Access Auditor](https://dirmedmr-alt.github.io/ai-access-auditor/) - 查看并撤销 Claude Code、Codex、Cursor 等 AI 编程代理在 Mac 上的访问权限。 [![Open-Source Software][OSS Icon]](https://github.com/dirmedmr-alt/ai-access-auditor) ![Freeware][Freeware Icon]
 * [Antivirus One](https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 用于扫描恶意软件、广告软件和网页威胁的安全工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8&platform=mac)
