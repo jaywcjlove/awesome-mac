@@ -599,6 +599,7 @@ Awesome Mac
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。 ![Freeware][Freeware Icon]
 
 ### 屏幕录制
 
