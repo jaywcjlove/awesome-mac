@@ -930,6 +930,7 @@ Awesome Mac
 ## AIツール
 
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
+* [agent-manager](https://agent-manager.dev) - Claude Code、Codex、Gemini CLI などのコーディングエージェント CLI を、それぞれ独立した永続 tmux セッションで並べて実行できるオープンソースのターミナル UI。 [![Open-Source Software][OSS Icon]](https://github.com/YoanWai/agent-manager) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AI Hub Bar](https://olehdemishev.github.io/AIHubBar/) - Claude、Codex、Copilot、Gemini CLI、Cursor の使用量上限を表示し、実行中のエージェントセッションを一覧にして、権限リクエストに通知から応答できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/OlehDemishev/AIHubBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
