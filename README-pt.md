@@ -1225,6 +1225,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - Seletor de emojis para a Touch Bar do MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - Use seu Mac como teclado para iPhone, iPad e Apple TV.
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - Método de entrada chinês com suporte a Pinyin e Zhuyin, com dicionários criados especificamente para isso. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
+* [WE KeySwitcher](https://github.com/JaffarSk24/WE-KeySwitcher) - Ferramenta da barra de menus que redigita o texto digitado no layout de teclado errado e troca o layout, para russo, inglês e eslovaco. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-KeySwitcher) ![Freeware][Freeware Icon]
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - Faça a tecla Globe do macOS voltar a ser incrível! [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - Ferramenta para trocar automaticamente a fonte de entrada por app ou site. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 

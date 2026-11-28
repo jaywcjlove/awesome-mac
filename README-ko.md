@@ -1034,6 +1034,7 @@ Awesome Mac
 * [Rocket](https://matthewpalmer.net/rocket/) - Slack 스타일의 단축키를 사용하여 이모지를 더 빠르게 입력. ![Freeware][Freeware Icon]
 * [Sidekey](https://wongsiufool.github.io/sidekey/) - iPhone을 Mac이나 Windows PC의 무선 키보드, 트랙패드, 음성 입력으로 사용하는 도구. 로컬 Wi-Fi로 연결. [![Open-Source Software][OSS Icon]](https://github.com/wongsiufool/sidekey) ![Freeware][Freeware Icon]
 * [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - 병음과 주음 입력을 지원하며 간체자·번체자 전용 사전을 제공하는 중국어 입력기. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
+* [WE KeySwitcher](https://github.com/JaffarSk24/WE-KeySwitcher) - 잘못된 키보드 레이아웃으로 입력한 텍스트를 다시 입력하고 레이아웃을 전환하는 러시아어, 영어, 슬로바키아어용 메뉴 막대 도구. [![Open-Source Software][OSS Icon]](https://github.com/JaffarSk24/WE-KeySwitcher) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - 앱이나 웹사이트별로 입력 소스를 자동 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
 ## 음성 텍스트 변환 (Voice-to-Text)
