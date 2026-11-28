@@ -461,6 +461,7 @@ Awesome Mac
 * [JsonStudio](https://jsonstudio.js.org/) - JSON 포맷팅, 편집, 비교, 변환, 검증, 로그 추출을 지원하는 로컬 우선 JSON 워크스페이스. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - 텍스트, 이미지 및 폴더 비교.
 * [Koala](http://koala-app.com) - Less, Sass, Compass 컴파일 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
+* [Krust](https://krust.io/) - Pod, 로그, 포트 포워딩, Helm, Argo CD를 다루는 네이티브 Kubernetes IDE. GKE와 EKS 로그인을 지원하며, AI 에이전트는 클러스터를 변경하기 전에 확인을 요청. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LINQPad](https://www.linqpad.net/) - 코드 실행, 쿼리 작성, 데이터베이스 탐색을 위한 .NET 스크래치패드. ![Freeware][Freeware Icon]
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - 앱 번역 분석 및 편집.
 * [Loupe](https://github.com/britchie4/Loupe) - AI 에이전트 준비 출력을 생성하는 접근성 검사기. [![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
