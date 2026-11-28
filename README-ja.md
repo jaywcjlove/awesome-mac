@@ -1000,6 +1000,7 @@ Awesome Mac
 * [Lumilo](https://github.com/kotuke/lumilo) - Splash または llama.cpp サーバーを起動し、メモリと生成速度を表示し、Hugging Face からモデルをダウンロードするオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/kotuke/lumilo) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 仕様駆動ワークフローで複数のAIコーディングエージェントを連携させるツール。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://miniclaw.bot) - 記憶機能と自動化機能を備えたローカルファーストの個人向けAIエージェント。 ![Freeware][Freeware Icon]
+* [Minnie](https://heyminnie.com) - 話しかけたり入力したりできるデスクトップペット型アシスタントで、Claude Code、Codex、Gemini CLI、Antigravity CLI を代わりに実行し、Claude Code がコマンドを実行する前に確認します。 ![Freeware][Freeware Icon]
 * [mu](https://github.com/qybaihe/mu) - CLIとデスクトップアプリを備えたオープンソースのコーディングエージェントで、どの内容をコンテキストに入れるか、フラグが立ったコマンドが依頼どおりかといった定型判断を小型の判定モデルが行う。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Claude Code や Codex などのコーディングエージェントを、プロジェクトのコピーオンライトクローン上の Linux マイクロ VM で実行し、プルリクエストのように変更をレビューして適用できるオープンソースのアプリと CLI。 [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/mudroom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Murmury](https://github.com/GianlucaBave/murmury) - ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。 [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
