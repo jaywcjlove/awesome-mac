@@ -469,6 +469,7 @@ Awesome Mac
 * [Dash](https://kapeli.com/dash) - 素晴らしいAPIドキュメントブラウザ兼コードスニペット管理ツール。 ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - 開発者による開発者のためのディープリンク管理ツール。
 * [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Android エミュレーターと端末、iOS シミュレーターと iPhone を並べてミラーリング・操作・テストできるツール。 [![Open-Source Software][OSS Icon]](https://github.com/gitemre/device-hub-pro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Devtop](https://github.com/islandboymv/devtop) - 開発者向けのプロセス・ポートモニター。開発サーバー、ポート、プロジェクト、コンテナ、データベースを一覧表示し、起動や停止ができます。 [![Open-Source Software][OSS Icon]](https://github.com/islandboymv/devtop) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DiffMerge](http://sourcegear.com/diffmerge/) - ファイルの視覚的な比較とマージを行うアプリケーション。 ![Freeware][Freeware Icon]
 * [Eleven](https://github.com/Zfinix/eleven) - AI エージェントがバイナリ、Android アプリ、GPU カーネルを読み取り、リネームし、パッチを当てるオープンソースのリバースエンジニアリングアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven) ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 環境変数用のOS Xプリファレンスペイン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
