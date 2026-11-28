@@ -1683,6 +1683,7 @@ Awesome Mac
 * [twistel](https://github.com/jonasnlt/twistel) - 菜单栏文件转换工具：拖动文件时按住一个键，把文件放到环形菜单上即可转换图片、音频、视频和文档，还支持压缩、OCR、PDF 涂黑和签名，完全离线运行。 [![Open-Source Software][OSS Icon]](https://github.com/jonasnlt/twistel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeCue](https://typecue.app) - 将预先准备好的脚本逐行输入到任意应用，每按一次快捷键输入一行，以真实按键和自然的节奏模拟人工输入，适用于产品演示录制和现场演讲。 [![Open-Source Software][OSS Icon]](https://github.com/alexpolonsky/TypeCue) ![Freeware][Freeware Icon]
 * [FunKey](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac) - 为键盘输入添加机械键盘音效的工具。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac)
+* [ShipBoard](https://shipboardapp.com/) - 在菜单栏查看 AWS CodePipeline、GitHub Actions、GitLab CI、Vercel 和 Netlify 的构建与部署状态。 ![Freeware][Freeware Icon]
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [SoundLadder](https://github.com/dirkkredinger/SoundLadder) - 按优先级列表选择音频输出设备的菜单栏应用，首选设备未连接时自动切换到下一个已连接设备。 [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/SoundLadder) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [StableBar](https://stablebar.app) - 可自定义的菜单栏替代品，提供主题、小组件、弹出面板以及 AeroSpace、yabai 或 OmniWM 工作区。 [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
