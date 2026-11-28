@@ -306,6 +306,7 @@ Awesome Mac
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - 텍스트를 다시 쓰고 문법을 고치며 Word, LaTeX, PDF 파일을 편집하는 앱. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 소설 작성을 위한 오픈 소스 일반 텍스트 편집기. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - 작가를 위한 전형적인 워드 프로세서.
+* [TextFix](https://textfix.jonathanhind.com) - 자신의 Claude, Gemini 또는 OpenAI API 키를 사용해 단축키 하나로 모든 Mac 앱에서 맞춤법과 문법을 제자리에서 교정해 주는 네이티브 메뉴 막대 앱. ![Native App][Native Icon]
 * [THORN](https://thorn.so) - 개인 쓰기 및 웹사이트 구축을 위한 모든 것.
 
 ### 전자책

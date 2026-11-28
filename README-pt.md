@@ -333,6 +333,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Editor de texto simples de código aberto para escrever romances, com sintaxe mínima semelhante ao Markdown. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - O processador de texto por excelência para escritores.
+* [TextFix](https://textfix.jonathanhind.com) - Aplicativo nativo na barra de menus do macOS que corrige ortografia, gramática e digitação bagunçada no lugar em qualquer aplicativo usando sua própria chave de API do Claude, Gemini ou OpenAI. ![Native App][Native Icon]
 * [THORN](https://thorn.so) - Tudo o que você precisa para escrever e criar sites.
 
 ### Ebooks
