@@ -1516,6 +1516,7 @@ Awesome Mac
 * [StreamWindow](https://macdev.cn/) - 3D 애니메이션과 직관적인 전환을 갖춘 창 관리 도구.
 * [Swift Shift](https://swiftshift.app) - 단축키와 마우스로 창을 빠르게 이동하고 크기를 조절하는 도구. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [Switch](https://switch-dev.sanyamgarg.com) - 모든 Space의 열린 창을 보여주고 입력으로 필터링할 수 있는 키보드 창 전환 도구. ![Freeware][Freeware Icon]
+* [TileOrg](https://www.tileorg.com) - 프로젝트별로 창을 패널에 타일링하고, 단축키 하나로 프로젝트 전체를 전환하며, 입력을 기다리는 코딩 에이전트가 어느 프로젝트에 있는지 보여 주는 창 관리 도구. ![Native App][Native Icon]
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
 * [WindowShade](https://windowshade.aaronlau.me/en/) - 제목 표시줄을 두 번 클릭하면 창이 그 자리에서 얇은 막대로 말려 올라갑니다. 고정 미리보기와 화면 속 화면도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
