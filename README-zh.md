@@ -900,6 +900,7 @@ Awesome Mac
 * [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac) - 支持本地实时转写和多语言字幕的实时字幕工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?platform=mac)
 * [BitSpring](https://bitspring.app/) - 开源比特完美音乐播放器，支持原生 DSD、逐曲切换采样率（最高 768 kHz）和 AutoEQ 耳机均衡。 [![Open-Source Software][OSS Icon]](https://github.com/crash2bash/bitspring) ![Freeware][Freeware Icon]
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium，用于录制/路由内部音频的开源虚拟输出/输入音频驱动程序。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
+* [Cadence](https://cinelabs.pro/cadence) - 按歌曲节拍剪辑一个文件夹中的视频片段，并导出可在 DaVinci Resolve 和 Premiere Pro 中打开的 XML 时间线。 ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - 在你的个人电脑上离线转录和翻译音频，由 OpenAI 的 Whisper 提供支持。 [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [Cue](https://heycue.io) - 桌面 AI 助手，提供语音输入、会议转写，并利用你提供的上下文处理支持范围内的 Agent 任务。
 * [Earshot](https://github.com/Bouliw/earshot) - 菜单栏应用，在设备上实时转写你选择的任意应用的音频，并在 Microsoft Teams 中显示说话人姓名。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/earshot) ![Freeware][Freeware Icon]
