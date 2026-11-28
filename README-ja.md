@@ -1020,6 +1020,7 @@ Awesome Mac
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - 独自のAPIキーを使って複数のLLMモデルを実行できるネイティブSwift macOSアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
 * [Wayfinder](https://wayfinder-ai.pages.dev/) - CodexとClaude Codeのセッション、分岐、失敗、判断、ファイル変更を保存するローカルファーストのビジュアル航海図。 [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 * [Yardlet](https://yardlet.app) - 各エージェント自身のログインとセッション履歴をそのまま使い、Codex や Claude Code などのコーディングエージェント CLI を1つのウィンドウで並べて実行できるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/zzunkie/yardlet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [KuroCat](https://kurocat.org/ja/) - Rust + Tauri v2 製の無料オープンソース 3D/2D 透過デスクトップタイピング黒猫＆AI コーディング相棒。パスワード自動目閉じ、OBS 透過ソース、内蔵 MCP サーバーに対応。 [![Open-Source Software][OSS Icon]](https://github.com/qianyiai/KuroCat) ![Freeware][Freeware Icon]
 
 
 ## コミュニケーション
