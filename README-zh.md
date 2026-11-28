@@ -1396,6 +1396,7 @@ Awesome Mac
 * [unbraid](https://unbraid.app) - 按应用分流的 VPN 客户端。每个应用可以走自己的出口或绕过 VPN，同时 Tailscale 保持连接。 [![Open-Source Software][OSS Icon]](https://github.com/quiet-crafts/unbraid-mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vafa](https://github.com/k33ssa/vafa) - 开源的 VPN 断网保护工具，在连接到允许国家出口的 VPN 之前冻结所选应用并阻止其联网。 [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/vafa) ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 可按域名和服务将流量绕过 VPN 路由的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+* [VPNonly](https://github.com/kanishkdan/vpnonly) - 仅让选定应用走 WireGuard VPN、其余应用保持原有连接的开源命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/kanishkdan/vpnonly) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 提供广告拦截和节点切换的 VPN 与代理服务。 ![Freeware][Freeware Icon]
 
 ## 其它实用工具

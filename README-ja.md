@@ -1442,6 +1442,7 @@ Awesome Mac
 * [unbraid](https://unbraid.app) - アプリごとの VPN クライアント。アプリごとに出口を選んだり VPN を通さないようにしたりでき、その間も Tailscale は接続したままです。 [![Open-Source Software][OSS Icon]](https://github.com/quiet-crafts/unbraid-mac) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Vafa](https://github.com/k33ssa/vafa) - 許可された出口国の VPN が接続されるまで、選んだアプリを凍結して通信を遮断するオープンソースの VPN キルスイッチ。 [![Open-Source Software][OSS Icon]](https://github.com/k33ssa/vafa) ![Freeware][Freeware Icon]
 * [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) - 特定のドメインやサービスの通信をVPN経由から除外できるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/VPN-Bypass) ![Freeware][Freeware Icon]
+* [VPNonly](https://github.com/kanishkdan/vpnonly) - 選んだアプリだけをWireGuard VPN経由にし、他のアプリは通常の接続のままにできるオープンソースのCLIツール。 [![Open-Source Software][OSS Icon]](https://github.com/kanishkdan/vpnonly) ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - 広告ブロックとサーバー切り替えに対応したVPN/プロキシサービス。 ![Freeware][Freeware Icon]
 * [Tailscale](https://tailscale.com/) - デバイス、サービス、ユーザーを安全につなぐメッシュVPN。 ![Freeware][Freeware Icon]
 
