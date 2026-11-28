@@ -1567,6 +1567,7 @@ Awesome Mac
 * [MD QuickLook](https://github.com/armamut/md-quicklook) - 구문 강조, 수식, Mermaid 다이어그램을 지원하는 웹 엔진 없는 네이티브 Markdown Quick Look 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/armamut/md-quicklook) ![Freeware][Freeware Icon]
 * [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) - `.torrent` 내용과 메타데이터를 미리 보는 Quick Look 확장. [![Open-Source Software][OSS Icon]](https://github.com/sveinbjornpalsson/torrentpreview/) ![Freeware][Freeware Icon]
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - 개발자를 위한 유용한 Quick Look 플러그인 목록. ![Freeware][Freeware Icon]
+* [TypeFire](https://typefire.ai) - Finder에서 마크다운 파일을 렌더링하는 Quick Look 확장 프로그램으로, 마크다운 편집기와 클립보드 관리자, 텍스트 확장기를 함께 제공합니다. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ## 서드파티 앱 마켓
 
