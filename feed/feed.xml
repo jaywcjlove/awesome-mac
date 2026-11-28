@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:53:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shotbox</title>
+      <link>https://box.gatheon.com</link>
+      <guid isPermaLink="false">56a9c12f59f14a549257aa36b29fe84e6fb8d8c1:Shotbox</guid>
+      <pubDate>Sat, 28 Nov 2026 06:53:21 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Shotbox
+Description: Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture.
+Website: https://box.gatheon.com
+Open Source: https://github.com/depthsky2016/shotbox
+Commit: Add Shotbox to Screenshot Tools (#5164)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Shotbox<br/>Description: Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture.<br/>Website: https://box.gatheon.com<br/>Open Source: https://github.com/depthsky2016/shotbox<br/>Commit: Add Shotbox to Screenshot Tools (#5164)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1]]></content:encoded>
+    </item>
     <item>
       <title>Rakazo</title>
       <link>https://rakazo.com</link>
@@ -720,20 +735,6 @@ Open Source: https://github.com/vladsboev-web/ContextRing
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: ContextRing<br/>Description: Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats.<br/>Open Source: https://github.com/vladsboev-web/ContextRing<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>SpatialAudio</title>
-      <link>https://github.com/vladsboev-web/SpatialAudio</link>
-      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:SpatialAudio</guid>
-      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: SpatialAudio
-Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.
-Open Source: https://github.com/vladsboev-web/SpatialAudio
-Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: SpatialAudio<br/>Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.<br/>Open Source: https://github.com/vladsboev-web/SpatialAudio<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
     </item>
   </channel>
 </rss>
