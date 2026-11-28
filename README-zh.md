@@ -822,6 +822,7 @@ Awesome Mac
 * [Zoom](https://zoom.us/) - 视频会议 & 屏幕共享，提供录制功能。
 * [简聊](https://github.com/jianliaoim/talk-os) - 企业级即时沟通工具，已经下线了，可以自己搭建一套系统玩儿。[![Open-Source Software][OSS Icon]](https://github.com/jianliaoim/talk-os) ![Freeware][Freeware Icon]
 * [DingTalk](http://www.dingtalk.com/index-b.html#download_block) - 团队沟通与协作平台。![Freeware][Freeware Icon]
+* [Wapp](https://wappapp.app/) - 原生工作区，可将 Gmail、WhatsApp、Telegram 等 Web 应用放在同一个窗口或各自的窗口中，并用配置文件分开工作和个人账号的登录。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6829724999)
 * [Wavebox](https://wavebox.io) - 用于整理 Web 应用和团队工具的浏览器工作区。
 * [飞书](https://www.feishu.cn/download) - 字节跳动旗下先进企业协作与管理平台。![Freeware][Freeware Icon]
 * [企业微信](https://work.weixin.qq.com/) - 企业微信，是腾讯微信团队为企业打造的专业办公管理工具。

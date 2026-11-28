@@ -1052,6 +1052,7 @@ Awesome Mac
 * [Telegram](https://desktop.telegram.org) - 速度とセキュリティに重点を置いたメッセージングアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/telegram/id747648890?platform=mac)
 * [Textual](https://github.com/Codeux-Software/Textual) - Internet Relay Chat (IRC)クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [Unite](https://furnacecreek.org/unite/) - Mac用の唯一のネイティブGroupMeアプリ。
+* [Wapp](https://wappapp.app/) - Gmail、WhatsApp、TelegramなどのWebアプリを1つのウィンドウまたはそれぞれのウィンドウで使え、プロファイルで仕事用と個人用のログインを分けられるネイティブワークスペース。 ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6829724999)
 * [Wavebox](https://wavebox.io) - Webアプリやチームツールを整理して使えるブラウザ型ワークスペース。
 * [WeChat](https://apps.apple.com/app/wechat/id836500024?platform=mac) - Mac用の公式WeChatアプリ。 ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - 拡張可能なコマンドラインチャットクライアント。 ![Freeware][Freeware Icon]

@@ -1054,6 +1054,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Textual](https://github.com/Codeux-Software/Textual) - Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
 * [Trina AX](https://ax.trina.app) - Team AI workspace with one shared drive, chat rooms and per-person folder permissions, on your own server. [![Open-Source Software][OSS Icon]](https://github.com/trina-app/trina-ax) ![Freeware][Freeware Icon]
 * [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
+* [Wapp](https://wappapp.app/) - Native workspace for web apps such as Gmail, WhatsApp and Telegram, in one window or in windows of their own, with profiles that keep work and personal sign-ins apart. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6829724999)
 * [Wavebox](https://wavebox.io) - Browser workspace for organizing web apps and team tools.
 * [WeChat](https://apps.apple.com/app/wechat/id836500024?platform=mac) - Official WeChat app for Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
