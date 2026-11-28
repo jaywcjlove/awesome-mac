@@ -1695,6 +1695,7 @@ Awesome Mac
 * [WandelBar](https://github.com/alexiosus/WandelBar) - 使用模糊、色调、阴影、纹理、预设和每个空间的设置自定义菜单栏背景。 [![Open-Source Software][OSS Icon]](https://github.com/alexiosus/WandelBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Xbar](https://xbarapp.com/) - 将任何脚本或程序的输出作为小工具放入 macOS 菜单栏(原 BitBar)[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
 * [YANA](https://github.com/veaceslavmafteiaevoluta/yana) - 将 MacBook 刘海变成灵动岛，提供媒体控制、音量和亮度提示、通知、信息、iPhone 通话、日历、天气、计时器和文件暂存架。 [![Open-Source Software][OSS Icon]](https://github.com/veaceslavmafteiaevoluta/yana) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [YummyOrange](https://yummyorange.com) - 菜单栏文件轮盘：拖动文件时按 Shift、Command 或 Option，把文件放到花瓣上即可转换格式、编辑 PDF 文字、压缩、剪辑，或从 YouTube、Instagram 链接保存视频。 [![Open-Source Software][OSS Icon]](https://github.com/furqan4545/yummyorange) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
 ### 待办事项工具
 
