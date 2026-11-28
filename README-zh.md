@@ -1835,6 +1835,7 @@ Awesome Mac
 * [SleepWatcher](https://www.bernhard-baehr.de/) - 可以在MacBook合盖和开盖时执行自定义脚本，比如开关蓝牙等。可以通过`homebrew`安装。[![Open-Source Software][OSS Icon]](https://www.bernhard-baehr.de/) ![Freeware][Freeware Icon]
 * [SwiftQuit](https://swiftquit.com/) - 关闭窗口时自动退出 macOS 应用程序。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/onebadidea/swiftquit)
 * [SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - 用于在 Mac 与 Android 设备之间浏览和传输文件的开源 MTP 管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Neighbor-Z/SwiftMTP) ![Freeware][Freeware Icon]
+* [Conduit](https://kirsulab.com/macos/conduit) - 通过 USB 或 Wi-Fi 在 Android 手机与 Mac 之间浏览和传输文件的原生应用，可替代 Android File Transfer。 ![Freeware][Freeware Icon]
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持 Mac的 凉爽和健康。
 * [TurboControl](https://github.com/vladsboev-web/TurboControl) - 适用于 Intel Mac 的轻量级菜单栏工具：一键切换 Intel Turbo Boost、风扇转速控制和实时 CPU/GPU 温度监控。 [![Open-Source Software][OSS Icon]](https://github.com/vladsboev-web/TurboControl) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TimeMachineEjector](https://github.com/wata/TimeMachineEjector) - 在 Time Machine 备份完成后推出备份磁盘，并在定时备份到期时重新装载的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/wata/TimeMachineEjector) ![Freeware][Freeware Icon] ![Native App][Native Icon]
