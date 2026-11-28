@@ -1573,6 +1573,7 @@ Awesome Mac
 * [Tietie](https://github.com/KLWSharpe/tietie) - 开源剪贴板历史工具，支持 Mac 和 Windows，按数字键直接粘贴并可搜索图片中的文字，界面为繁体中文。 [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [uPaste](https://okaapps.com/product/1503649026) - 自动整理剪贴板历史和常用片段的管理器。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1503649026?pt=119209922&ct=github)
 * [Yippy](https://github.com/mattDavo/Yippy) - 具有用户友好界面的剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
+* [Zmina](https://zmina.app) - 根据你要粘贴的目标应用推荐相应操作的剪贴板管理器。
 
 ### 菜单栏工具
 
