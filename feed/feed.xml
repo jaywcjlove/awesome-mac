@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:05:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Seawall</title>
+      <link>https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing</link>
+      <guid isPermaLink="false">f80aafed98c40dc3308155e36636d16491d4d57a:Seawall</guid>
+      <pubDate>Sat, 28 Nov 2026 03:05:09 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Seawall
+Description: Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early.
+Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing
+Open Source: https://github.com/NikOneZ1/seawall
+Commit: Add Seawall to Productivity (#5139)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Seawall<br/>Description: Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early.<br/>Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing<br/>Open Source: https://github.com/NikOneZ1/seawall<br/>Commit: Add Seawall to Productivity (#5139)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a]]></content:encoded>
+    </item>
     <item>
       <title>WinPlug</title>
       <link>https://winplug.app/</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/traycerai/traycer
 Commit: Add Traycer (#4909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
       <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Traycer<br/>Description: Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan.<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
-    </item>
-    <item>
-      <title>Iris</title>
-      <link>https://harshwardhangalande.github.io/Iris/</link>
-      <guid isPermaLink="false">0d7cec1826a9adb595cfe89463541379b6866f21:Iris</guid>
-      <pubDate>Mon, 23 Nov 2026 02:20:10 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Iris
-Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.
-Website: https://harshwardhangalande.github.io/Iris/
-Open Source: https://github.com/harshwardhangalande/Iris
-Commit: Add Iris to Menu Bar Tools (#4906)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Iris<br/>Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
     </item>
   </channel>
 </rss>

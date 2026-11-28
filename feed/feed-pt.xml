@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:05:09 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Seawall</title>
+      <link>https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing</link>
+      <guid isPermaLink="false">f80aafed98c40dc3308155e36636d16491d4d57a:Seawall</guid>
+      <pubDate>Sat, 28 Nov 2026 03:05:09 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Seawall
+Description: App na barra de menus que bloqueia sites e apps que distraem até um horário definido, com uma espera se você sair mais cedo.
+Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing
+Open Source: https://github.com/NikOneZ1/seawall
+Commit: Add Seawall to Productivity (#5139)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Seawall<br/>Description: App na barra de menus que bloqueia sites e apps que distraem até um horário definido, com uma espera se você sair mais cedo.<br/>Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing<br/>Open Source: https://github.com/NikOneZ1/seawall<br/>Commit: Add Seawall to Productivity (#5139)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a]]></content:encoded>
+    </item>
     <item>
       <title>WinPlug</title>
       <link>https://winplug.app/</link>
@@ -723,21 +738,6 @@ Website: https://samratduttaofficial.github.io/Rewrite/
 Commit: Add Rewrite to Writing (#3897)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escrita<br/>App: Rewrite<br/>Description: Reescreve textos, corrige a gramática e edita arquivos Word, LaTeX e PDF.<br/>Website: https://samratduttaofficial.github.io/Rewrite/<br/>Commit: Add Rewrite to Writing (#3897)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/797f4642c101b3964178f539f2593062343a1ad8]]></content:encoded>
-    </item>
-    <item>
-      <title>Cyberdog</title>
-      <link>https://pickywawa.github.io/cyberdog/</link>
-      <guid isPermaLink="false">4a7c21969623753428e32ce980d948db678f4921:Cyberdog</guid>
-      <pubDate>Sun, 15 Nov 2026 02:39:44 GMT</pubDate>
-      <category>Aplicativos de Terminal</category>
-      <description>Category: Aplicativos de Terminal
-App: Cyberdog
-Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.
-Website: https://pickywawa.github.io/cyberdog/
-Open Source: https://github.com/pickywawa/cyberdog
-Commit: Add Cyberdog (#4610)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921</description>
-      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Cyberdog<br/>Description: Cliente SSH e SFTP com terminal integrado, painel de saúde dos servidores e suporte a FTP, S3 e WebDAV.<br/>Website: https://pickywawa.github.io/cyberdog/<br/>Open Source: https://github.com/pickywawa/cyberdog<br/>Commit: Add Cyberdog (#4610)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4a7c21969623753428e32ce980d948db678f4921]]></content:encoded>
     </item>
   </channel>
 </rss>
