@@ -1482,6 +1482,7 @@ Awesome Mac
 * [Pesty](https://github.com/momenbasel/pesty) - 無料のオープンソースクリップボードマネージャー。色分けされたスライドストリップで履歴を表示。 [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon]
 * [Pure Paste](https://sindresorhus.com/pure-paste) - デフォルトでプレーンテキストとして貼り付け。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436?platform=mac)
 * [SaneClip](https://saneclip.com) - 履歴、Touch ID保護、機密データ検出を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneClip)
+* [SmartClip](https://github.com/reathloo/smartClip) - 暗号化ローカル保存、機密コンテンツ保護、コード検出に対応したプライバシー重視のネイティブクリップボード履歴ツール。 [![Open-Source Software][OSS Icon]](https://github.com/reathloo/smartClip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SnippetCraft](https://getsnippetcraft.com) - macOS向けのシステム全体で使えるテキスト展開、スニペット管理、クリップボード履歴ツール。
 * [Tietie](https://github.com/KLWSharpe/tietie) - 数字キーで貼り付けでき、画像内の文字も検索できる Mac・Windows 向けのオープンソースのクリップボード履歴ツール（UI は繁体字中国語）。 [![Open-Source Software][OSS Icon]](https://github.com/KLWSharpe/tietie) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flycut](https://github.com/TermiT/Flycut) - 開発者向けのクリーンでシンプルなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
