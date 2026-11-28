@@ -171,6 +171,7 @@ Awesome Command Line Apps
 * [hbkit](https://github.com/YordiLorenzo/hbkit) - NAS なしで Synology Hyper Backup（.hbk）アーカイブを読み込み、復元できるコマンドラインツール（TUI 付き）。 [![Open-Source Software][OSS Icon]](https://github.com/YordiLorenzo/hbkit) ![Freeware][Freeware Icon]
 * [hns](https://github.com/primaprashant/hns) - マイクからの音声を直接クリップボードに文字起こしする音声テキスト変換ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/primaprashant/hns)
 * [htop](https://github.com/hishamhm/htop) - Unixシステム向けのインタラクティブなテキストモードプロセスビューアー。より良い'top'を目指す。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
+* [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - macOS と Linux 向けのローカルなコマンドラインツール。自分が所有するネットワーク上のスマートデバイスを監査し、A から F の評価付きの 1 ページの HTML レポートを作成します。 [![Open-Source Software][OSS Icon]](https://github.com/emirmrkaljevic/iotaudit) ![Freeware][Freeware Icon]
 * [job](https://github.com/liujianping/job) - 短期的なコマンドを長期的なジョブに変換。 [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
 * [lnav](http://lnav.org) - ログファイルナビゲーター。 [![Open-Source Software][OSS Icon]](https://github.com/tstack/lnav) ![Freeware][Freeware Icon]
 * [m-cli](https://github.com/rgcr/m-cli) - macOS用のスイスアーミーナイフ。 [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
