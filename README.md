@@ -2068,6 +2068,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Gaming Software
 
+* [Azeroth-Tagebuch](https://github.com/dirkkredinger/azeroth-tagebuch) - Adventure journal for World of Warcraft: a logging-only addon plus a Mac/Windows app with quests, route maps, dungeon and delve runs, DPS/HPS from the combat log and loot drop rates. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dirkkredinger/azeroth-tagebuch)
 * [Bedrock Launcher](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS)
 * [Borne](https://borne.pasahome.org) - Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware][Freeware Icon]

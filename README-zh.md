@@ -1933,6 +1933,7 @@ Awesome Mac
 
 ## 游戏软件
 
+* [Azeroth-Tagebuch](https://github.com/dirkkredinger/azeroth-tagebuch) - 《魔兽世界》冒险日志：只做记录的插件加 Mac/Windows 应用，展示任务、路线地图、地下城与地下堡记录、来自战斗日志的 DPS/HPS 以及掉落率。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dirkkredinger/azeroth-tagebuch)
 * [Bedrock Launcher](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - 通过本地构建的 WineGDK 和 DXMT，在 Apple Silicon 上完全离线运行你自己的 Windows 版 Minecraft 基岩版。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS)
 * [Borne](https://borne.pasahome.org) - 原生的 MAME 与经典 PC 游戏（Doom、Quake、Duke Nukem 3D）前端，延续 MAMEUI 的风格，内置模拟器和游戏引擎。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - 3D 动画国际象棋，支持三档 AI 难度、多种棋子风格和同机对战。![Freeware][Freeware Icon]
