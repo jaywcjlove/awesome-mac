@@ -1585,6 +1585,7 @@ Awesome Mac
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - 适用于 macOS 27 的菜单栏管理工具，按应用隐藏图标，并可通过点击、悬停或快捷键重新显示。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。
+* [BatteryTray](https://qu1ncky.github.io/BatteryTray/) - 在菜单栏显示无线耳机、鼠标、键盘、游戏手柄和 AirPods 的电量，支持 2.4 GHz 接收器的游戏外设，无需厂商软件，电量低时会提醒。 [![Open-Source Software][OSS Icon]](https://github.com/qu1ncky/BatteryTray) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Belay](https://perfectoweb.github.io/Belay/) - 仅在本地 AI 编程智能体工作时让 Mac 保持唤醒，工作一停，Mac 即可照常进入睡眠。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/belay-awake-for-ai-agents/id6801207644)
 * [Candela](https://candela.fyi) - 照看外接显示器的菜单栏应用：OLED 防烧屏、面板健康记录，以及亮度、音量和对比度的日常控制。 [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
