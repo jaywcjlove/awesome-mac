@@ -1711,6 +1711,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - Archive utility for extracting and compressing many common formats. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [WhimsyDesk](https://whimsydesk.art) - Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were. [![Open-Source Software][OSS Icon]](https://github.com/Electrofist/WhimsyDesk) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Marta](https://marta.sh) - File Manager for macOS written entirely in Swift ![Freeware][Freeware Icon]
+* [Forel](https://github.com/lab421/forel) - Open source alternative to Hazel automated file organization for macOS [![Open-Source Software][OSS Icon]](https://github.com/lab421/forel) ![Freeware][Freeware Icon]
 
 ### General Tools
 
