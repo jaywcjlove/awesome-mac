@@ -1977,7 +1977,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [Treewise](https://treewise.m-domain.me) - File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side. [![Open-Source Software][OSS Icon]](https://github.com/mag243/treewise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
-* [Filewise](https://filewise.gatheon.com) - File manager that reads file contents on-device and suggests readable names and folders, with a preview table before any change and full undo. ![Freeware][Freeware Icon]
+* [Filewise](https://filewise.gatheon.com) - File manager that reads file contents on-device and suggests readable names and folders, with a preview table before any change and full undo. [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/filewise) ![Freeware][Freeware Icon]
 
 ### Quality of Life Improvements
 

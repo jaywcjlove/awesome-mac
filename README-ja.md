@@ -1958,7 +1958,7 @@ Awesome Mac
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 選択したファイルやフォルダを指定アプリですばやく開く Finder 拡張。
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome風のFinder代替。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Mac Finderにタブ機能と切り取り機能を追加。 ![Freeware][Freeware Icon]
-* [Filewise](https://filewise.gatheon.com) - ファイルの中身を端末内で読み取り、分かりやすい名前と整理先を提案するファイルマネージャー。変更前に対照表で確認でき、取り消しも可能です。 ![Freeware][Freeware Icon]
+* [Filewise](https://filewise.gatheon.com) - ファイルの中身を端末内で読み取り、分かりやすい名前と整理先を提案するファイルマネージャー。変更前に対照表で確認でき、取り消しも可能です。 [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/filewise) ![Freeware][Freeware Icon]
 
 ### 生活の質の向上
 
