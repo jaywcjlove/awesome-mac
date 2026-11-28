@@ -754,6 +754,7 @@ Awesome Mac
 * [Maestro](https://runmaestro.ai) - 采用规格驱动工作流的多 AI 编码代理协作工具。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [o8](https://o8.run) - 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [Rakazo](https://rakazo.com) - 用于自托管 AI 智能体的开源应用，每个智能体都有自己的电脑、记忆和定时任务。 [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
+* [Rapid-MLX](https://rapidmlx.com/) - 面向 Apple 芯片的开源本地大模型服务器和 Mac 应用，提供兼容 OpenAI 与 Anthropic 的 API。 [![Open-Source Software][OSS Icon]](https://github.com/raullenchai/Rapid-MLX) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
 * [Relay](https://github.com/ahmetcankacar54/relay) - 在多个账号之间切换 Claude 应用，在所有账号上保留 Claude Code 历史，并查看每个账号的 5 小时和每周限额。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [MiniClaw](https://miniclaw.bot) - 具备记忆和自动化能力的本地优先个人 AI 代理。 ![Freeware][Freeware Icon]

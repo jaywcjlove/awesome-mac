@@ -974,6 +974,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Hush](https://github.com/OgnjenAdzic28/hush) - Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer. [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [Rakazo](https://rakazo.com) - Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks. [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
+* [Rapid-MLX](https://rapidmlx.com/) - Open-source local LLM server and Mac app for Apple Silicon, with OpenAI- and Anthropic-compatible APIs. [![Open-Source Software][OSS Icon]](https://github.com/raullenchai/Rapid-MLX) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Switch the Claude app between accounts, keep Claude Code history on all of them, and see every account’s 5-hour and weekly limits. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools

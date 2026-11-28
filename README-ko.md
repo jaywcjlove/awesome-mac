@@ -814,6 +814,7 @@ Awesome Mac
 * [Maestro](https://runmaestro.ai) - 명세 기반 워크플로로 여러 AI 코딩 에이전트를 협업시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [o8](https://o8.run) - 코딩 에이전트의 작업을 리뷰하고, 통과할 때까지 되돌려 보낸 뒤 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
 * [Rakazo](https://rakazo.com) - 에이전트마다 전용 컴퓨터, 메모리, 예약 작업을 갖춘 셀프호스팅 AI 에이전트용 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
+* [Rapid-MLX](https://rapidmlx.com/) - Apple Silicon용 오픈 소스 로컬 LLM 서버 및 Mac 앱으로, OpenAI와 Anthropic 호환 API를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/raullenchai/Rapid-MLX) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Claude 앱을 여러 계정 간에 전환하고, 모든 계정에서 Claude Code 기록을 유지하며, 각 계정의 5시간·주간 한도를 표시. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code와 Codex가 만들어 준 대시보드, 보고서, 사이트, PR, 파일을 로컬에 모아 두고 몇 글자 입력하거나 한마디 말하면 다시 열어 주는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
