@@ -1445,6 +1445,7 @@ Awesome Mac
 
 ## ユーティリティ
 
+* [2anything](https://2anything.app) - 文書、画像、音声、動画、データ、GPS ファイルをオフラインで変換するツール。OCR と音声文字起こしにも対応。
 * [Convertino](https://github.com/hasanzadee/convertino) - ファイルをドラッグ中に Shift を押し、放射状メニューにドロップして変換・編集できます。 [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - DNSプロバイダやカスタムリゾルバをすばやく切り替えるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - macOS用のドラッグ＆ドロップヘルパーアプリ。 ![Freeware][Freeware Icon]
