@@ -374,6 +374,7 @@ Awesome Mac
 * [mitmproxy](https://mitmproxy.org/) - 一款支持 HTTP(S) 的中间人代理工具，可在终端下运行，可用于抓包 [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Paw](https://luckymarmot.com/paw) - 先进的 HTTP 客户端。
 * [Proxie](https://proxieapp.com/) - HTTP 调试客户端。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/cellist/id897814548?platform=mac)
+* [PCAP Surgery](https://hannes-software.com/pcap-surgery/) - 离线 PCAP / PCAPNG 抓包分析与安全脱敏工具，支持确定性 IP/负载脱敏、边界安全的报文头修改及 IPv4/TCP/UDP 校验和自动重算。 ![Freeware][Freeware Icon]
 * [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理. ![Freeware][Freeware Icon]
 * [Rockxy](https://rockxy.io) - 用于拦截、查看、修改和重放请求的开源 HTTP(S) 调试代理。 [![Open-Source Software][OSS Icon]](https://github.com/LocNguyenHuu/Rockxy) ![Freeware][Freeware Icon]
 * [Tracexy](https://rockxy.io/tracexy) - 开源、以会话为中心的网络智能工具，用于在本地捕获实时流量并分析 PCAP/PCAPNG 文件。 [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) ![Freeware][Freeware Icon]
