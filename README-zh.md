@@ -1152,6 +1152,7 @@ Awesome Mac
 * [Capd](https://capd.jxd.dev) - 开源捕捉和书签应用，可保存链接、文本、笔记和图片并进行全文搜索。 [![Open-Source Software][OSS Icon]](https://github.com/jamiedavenport/capd) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - 读 chm 文件的软件。![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - 读 chm 文件的软件。![Freeware][Freeware Icon]
+* [Garnet PDF](https://garnetpdf.com/) - 开源离线 PDF 编辑器，可编辑 PDF 中的文字和图片、调整页面顺序、填写表单、签名，并涂黑敏感信息。 [![Open-Source Software][OSS Icon]](https://github.com/garnetpdf/garnet-pdf) ![Freeware][Freeware Icon]
 * [HistCite Mac](https://github.com/yangnim21029/histcite-mac) - 用于分析 Web of Science 导出数据并可视化引文网络的开源文献计量工具。 [![Open-Source Software][OSS Icon]](https://github.com/yangnim21029/histcite-mac) ![Freeware][Freeware Icon]
 * [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。[![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Lemma](https://github.com/fus3r/lemma) - 面向数学教材和论文的 PDF 阅读器，可将定理和公式引用变为链接、折叠证明，并检查你写下的推导。 [![Open-Source Software][OSS Icon]](https://github.com/fus3r/lemma) ![Freeware][Freeware Icon]
