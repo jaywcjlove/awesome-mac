@@ -233,6 +233,7 @@ Awesome Mac
 * [Marxico](https://marxi.co/) - Evernote를 위한 섬세한 마크다운 편집기.
 * [MDViewer](https://mmmikael.github.io/mdviewer/) - 실시간 새로고침, Quick Look 미리보기, Mermaid 다이어그램, 수식, 그리고 자체 키 또는 로컬 모델을 이용한 선택적 AI 요약을 지원하는 빠른 마크다운 뷰어. [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - 프로페셔널 마크다운 쓰기 및 정적 블로그 생성 앱.
+* [Nodes](https://nodes-web.com) - Markdown, PDF, 이미지 노트를 위한 macOS 네이티브 지식 관리 앱. 위키 스타일 링크, LaTeX, 전문 검색, 포스 유도 그래프를 지원합니다. ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6745401961?pt=127809373&ct=github&mt=8)
 * [Obsidian](https://obsidian.md) - 당신을 위한 영원한 제2의 뇌.
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AI 도구가 생성한 마크다운 명세, 문서, 변경 로그를 읽는 리더. [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
 * [Quill](https://quill.hridya.tech) - Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
