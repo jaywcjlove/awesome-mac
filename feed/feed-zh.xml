@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:12:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Umbra</title>
+      <link>https://umbraeditor.com/</link>
+      <guid isPermaLink="false">d3b3c86e27b4ec038bd9daa283541276e1b59b99:Umbra</guid>
+      <pubDate>Sat, 28 Nov 2026 02:12:36 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Umbra
+Description: 内置编程智能体和调试功能的原生 macOS 代码编辑器。
+Website: https://umbraeditor.com/
+Open Source: https://github.com/alex-cova/Penumbra
+Commit: Add Umbra to Text Editors (#5141)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Umbra<br/>Description: 内置编程智能体和调试功能的原生 macOS 代码编辑器。<br/>Website: https://umbraeditor.com/<br/>Open Source: https://github.com/alex-cova/Penumbra<br/>Commit: Add Umbra to Text Editors (#5141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99]]></content:encoded>
+    </item>
     <item>
       <title>DropExe</title>
       <link>https://hollowbit.dev/dropexe/</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/echoVic/Pinstill
 Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
       <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Pinstill（钉图）<br/>Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。<br/>Website: https://pinstill.echovic.com/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
-    </item>
-    <item>
-      <title>Cleanzo</title>
-      <link>https://cleanzo.echovic.com/</link>
-      <guid isPermaLink="false">5bc9a8481e806f307006567d6fde4348cb9649b1:Cleanzo</guid>
-      <pubDate>Sun, 22 Nov 2026 12:25:20 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Cleanzo
-Description: 开源 Mac / Windows 清理工具，先看清系统与磁盘占用，确认后再清理缓存、大文件和久未改动的构建产物。
-Website: https://cleanzo.echovic.com/
-Open Source: https://github.com/echoVic/cleanzo
-Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Cleanzo<br/>Description: 开源 Mac / Windows 清理工具，先看清系统与磁盘占用，确认后再清理缓存、大文件和久未改动的构建产物。<br/>Website: https://cleanzo.echovic.com/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
     </item>
   </channel>
 </rss>
