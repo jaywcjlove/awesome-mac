@@ -792,6 +792,7 @@ Awesome Mac
 * [DeepDeck](https://deepdeck.getmegaportal.com/) - DeepSeek Harness 기반의 데스크톱 AI 작업 공간으로, 웹사이트 작업을 위한 WebMCP 도구를 만들고 재사용할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/jo32/DeepDeck) ![Freeware][Freeware Icon]
 * [Enconvo](https://www.enconvo.com/ko) - 화면을 이해하고 다양한 앱에서 작업을 수행하는 AI 에이전트.
 * [Fazm](https://fazm.ai) - 앱, 파일, 워크플로를 음성으로 제어할 수 있는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
+* [FigmaMCP](https://figmamcp.dev) - Claude Code나 Codex가 열려 있는 Figma 파일을 읽고 편집할 수 있게 해 주는 Mac 앱과 Figma 플러그인. Figma API 토큰이 필요 없고 호출 할당량도 없음. ![Freeware][Freeware Icon]
 * [Flock](https://github.com/Divagation/flock) - 하나의 작업 공간에서 여러 Claude Code와 셸 세션을 병렬로 실행하는 터미널 멀티플렉서. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - 여러 앱에서 모델과 컨텍스트를 활용하는 AI 어시스턴트.
 * [Frink](https://frink.dev) - 이미 사용 중인 AI 코딩 에이전트 프로바이더 전반에서 병렬 에이전트와, 스케줄, 웹훅 또는 Linear, Sentry 같은 도구의 이벤트로 트리거되는 다단계 커스텀 워크플로를 실행하는 데스크톱 우선 오픈 소스(MIT) 애플리케이션. [![Open-Source Software][OSS Icon]](https://github.com/benord-labs/frink) ![Freeware][Freeware Icon]
