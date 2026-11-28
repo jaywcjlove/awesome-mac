@@ -1300,6 +1300,7 @@ Awesome Mac
 * [Tamka](https://www.piedol.top/tamka/) - Neural EngineでNVIDIA Parakeetモデルを動かし、あらゆるアプリのカーソル位置に入力する、オープンソースのオンデバイス音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/piedol/tamka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Whisperベースのローカル音声テキスト変換ツール。 [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - リアルタイム音声テキスト変換アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk)
+* [VoiceInput](https://voiceinput.app/en/) - 右Optionを押しながら話すと、離した瞬間にどのアプリでもカーソル位置に文字が入る音声入力ツール。中国語と英語の混在に対応し、ローカルエンジンで完全オフライン動作、話した内容は端末内で検索可能。ローカルエンジンと自前のAPIキーなら無料。 ![Native App][Native Icon]
 * [Voltip](https://voltip.firlab.app/) - ローカルまたはクラウドの音声認識と AI による整文に対応し、ペアリングした Android スマートフォンをマイクとしても使えるオープンソースのプッシュトゥトーク音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - ローカル/クラウドASR、OCR、履歴、コーディングエージェントのワークフローに対応したオープンソース音声入力ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [VoxtMini](https://actnow.dev/voxtmini) - ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/VoxtMini) ![Freeware][Freeware Icon]

@@ -874,6 +874,7 @@ Awesome Mac
 * [Roughcut](https://github.com/Bouliw/fcpxml-roughcut) - 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/fcpxml-roughcut) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk)
+* [VoiceInput](https://voiceinput.app/zh/) - 语音输入法，按住右 Option 说话，松手文字就落在任意 App 的光标处；中英混说自动排好空格和大小写，本地引擎可完全离线，每句话存在本机可搜索。本地引擎和自带 API Key 免费。 ![Native App][Native Icon]
 * [Voltip](https://voltip.firlab.app/zh/) - 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。 [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [VoxtMini](https://actnow.dev/voxtmini) - 默认用本地模型的语音输入：在任何 App 里转写、翻译和改写，支持英文、中文和日文。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/VoxtMini) ![Freeware][Freeware Icon]
