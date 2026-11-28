@@ -843,7 +843,7 @@ Awesome Mac
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - 注釈、カスタムフレーム、ローカルOCRに対応した無料のネイティブスクリーンショットエディター（Apple未公証のプレビュー版）。 [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 便利なスクリーンショットアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
-* [Shotbox](https://box.gatheon.com) - 撮ったスクリーンショットの文字を端末内で認識して自動でタイトルを付け、画像内の単語で後から検索できるメニューバーのスクリーンショットツール。スクロールキャプチャにも対応。 ![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - 撮ったスクリーンショットの文字を端末内で認識して自動でタイトルを付け、画像内の単語で後から検索できるメニューバーのスクリーンショットツール。スクロールキャプチャにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/shotbox) ![Freeware][Freeware Icon]
 
 ### 画面録画
 
