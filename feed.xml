@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:40:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Rakazo</title>
+      <link>https://rakazo.com</link>
+      <guid isPermaLink="false">75577ab17c42cdfd02b5136b8bff6fd94fb19710:Rakazo</guid>
+      <pubDate>Sat, 28 Nov 2026 03:40:11 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Rakazo
+Description: Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks.
+Website: https://rakazo.com
+Open Source: https://github.com/elie222/rakazo
+Commit: Add Rakazo to the AI tools list (#5147)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Rakazo<br/>Description: Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks.<br/>Website: https://rakazo.com<br/>Open Source: https://github.com/elie222/rakazo<br/>Commit: Add Rakazo to the AI tools list (#5147)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710]]></content:encoded>
+    </item>
     <item>
       <title>CoPanda</title>
       <link>https://www.copanda.app/</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/vladsboev-web/SpatialAudio
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: SpatialAudio<br/>Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.<br/>Open Source: https://github.com/vladsboev-web/SpatialAudio<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>TurboControl</title>
-      <link>https://github.com/vladsboev-web/TurboControl</link>
-      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:TurboControl</guid>
-      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: TurboControl
-Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.
-Open Source: https://github.com/vladsboev-web/TurboControl
-Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TurboControl<br/>Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
     </item>
   </channel>
 </rss>
