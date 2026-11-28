@@ -1979,6 +1979,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [TotalFinder](https://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 * [Treewise](https://treewise.m-domain.me) - File manager that works like Windows Explorer: a folder tree, cut and paste, and two windows side by side. [![Open-Source Software][OSS Icon]](https://github.com/mag243/treewise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
+* [PressButan](http://briankendall.net/presButan/) - A simple daemon program that lets you use return and/or enter to open icons in the Finder, and also use the delete or forward delete keys to delete items. ![Freeware][Freeware Icon]
+
 
 ### Quality of Life Improvements
 
