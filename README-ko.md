@@ -1481,6 +1481,7 @@ Awesome Mac
 * [Wox](https://wox-launcher.github.io/Wox/) - 빠른 로컬 검색과 플러그인 확장을 제공하는 오픈소스 크로스 플랫폼 런처. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 * [xScope](http://xscopeapp.com/) - 화면 레이아웃과 그래픽을 측정하고 검사하는 도구 모음.
 * [Z](https://github.com/rupa/z) - 경로 일부만 입력해 자주 쓰는 디렉터리로 이동하는 도구.
+* [ZenView](https://www.getzenview.com) - 브라우저와 앱의 음란 콘텐츠를 기기 내에서 감지하는 프라이버시 중심의 포르노 차단기.
 
 ### 창 관리
 
