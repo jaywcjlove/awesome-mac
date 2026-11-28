@@ -1121,6 +1121,7 @@ Awesome Mac
 * [FineTune](https://github.com/ronitsingh10/FineTune) - マルチデバイス出力と10バンドEQに対応したアプリ別音量コントロール。 [![Open-Source Software][OSS Icon]](https://github.com/ronitsingh10/FineTune) ![Freeware][Freeware Icon]
 * [FreeTube](https://freetubeapp.io/) - プライバシーを重視して構築されたオープンソースのデスクトップYouTubeクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - 動画を高品質なGIFに変換。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/no/app/gifski/id1351639930?platform=mac)
+* [Grain](https://grained.space) - TMDB カタログ、自分で追加する Jackett・Prowlarr・Torznab・Stremio のソース、内蔵トレントエンジン、VLC ベースのプレーヤーを備えたオープンソースのシネマアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/w3ltyyy/Grain) ![Freeware][Freeware Icon]
 * [HandBrake](https://handbrake.fr/) - メディアをモダンな形式へ変換する動画トランスコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) ![Freeware][Freeware Icon]
 * [Hertzwise](https://zeetabit.github.io/Hertzwise/) - Apple Music や Tidal の曲ごとに DAC のサンプルレートを自動で切り替え、ロスレスをビットパーフェクトで再生するメニューバーアプリ。デバイスごとの AutoEq ヘッドホン EQ も搭載。 [![Open-Source Software][OSS Icon]](https://github.com/zeetabit/Hertzwise) ![Freeware][Freeware Icon]
 * [Hongguo Drama](https://github.com/jackotom/hongguo-drama) - Apple Silicon と Intel Mac 向けの非公式プレイヤー兼ダウンローダーで、中国の短編ドラマサービス Hongguo、Xifan、Hema に対応。 [![Open-Source Software][OSS Icon]](https://github.com/jackotom/hongguo-drama) ![Freeware][Freeware Icon]
