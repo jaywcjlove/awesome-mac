@@ -1106,6 +1106,7 @@ Awesome Mac
 * [Audacity](http://www.audacityteam.org/) - マルチトラック録音と編集のための無料のオープンソース、クロスプラットフォームオーディオソフトウェア。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - SkypeからのVoIP通話、SafariからのWebストリームなど、あらゆるアプリケーションのオーディオを録音。
 * [AudioSync](https://github.com/yassersutojoyo/audiosync) - MacのオーディオをAirPlay、Google Cast、ローカルスピーカーで同時に同期再生。 [![Open-Source Software][OSS Icon]](https://github.com/yassersutojoyo/audiosync) ![Freeware][Freeware Icon]
+* [BalanceKeeper](https://github.com/fratayaydn/balancekeeper) - macOSが勝手にずらした左右の音量バランスを元に戻す。 [![Open-Source Software][OSS Icon]](https://github.com/fratayaydn/balancekeeper) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BeMyEars](https://www.bemyears.cn/) - オンデバイス文字起こしと多言語字幕に対応したライブ字幕ツール。 ![Freeware][Freeware Icon]
 * [BitSpring](https://bitspring.app/) - ネイティブ DSD、曲ごとのサンプルレート切り替え（最大 768 kHz）、AutoEQ ヘッドホン EQ に対応したオープンソースのビットパーフェクト音楽プレーヤー。 [![Open-Source Software][OSS Icon]](https://github.com/crash2bash/bitspring) ![Freeware][Freeware Icon]
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - 内部オーディオの録音/ルーティング用のフリーミアムオープンソース仮想出力/入力オーディオドライバー。 [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
