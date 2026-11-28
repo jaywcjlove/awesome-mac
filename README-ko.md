@@ -572,6 +572,7 @@ Awesome Mac
 * [Inquiline](https://github.com/inquiline-app/inquiline) - Apple Silicon에서 실제 Android 15를 실행해 각 Android 앱을 독립된 Mac 앱으로 만들고, 모든 앱 위의 Gemini, 데스크톱 Android 위젯, 앱별 광고 차단을 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다. [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [Mocker](https://github.com/us/mocker) - Apple Containerization framework 기반 컨테이너 관리 도구. [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
+* [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) - AI 에이전트가 VM을 제어할 수 있는 MCP 서버를 내장한 Apple Silicon용 macOS 및 Linux 가상 머신 관리자입니다. ![Freeware][Freeware Icon]
 * [OrbStack](https://orbstack.dev/) - 빠르고 가벼운 Docker 및 Linux 머신 관리. ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - 강력하고 사용하기 쉬운 VM.
 * [Podman Desktop](https://podman-desktop.io/) - 컨테이너 및 Kubernetes 관리를 위한 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/containers/podman-desktop) ![Freeware][Freeware Icon]
