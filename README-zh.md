@@ -1427,6 +1427,7 @@ Awesome Mac
 * [Dropover](https://dropoverapp.com/) - 用于暂存和搬运拖拽文件、文本与链接的临时置物架。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/dropover-easier-drag-drop/id1355679052?platform=mac)
 * [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762?platform=mac) - 使用 Ctrl+Opt+Delete 启动活动监视器，在 Finder 中用 Cmd+X 剪切并移动文件。
 * [Deskmark](https://apps.apple.com/app/Deskmark/6755948110?platform=mac) - 给桌面添加水印，适合录制视频时使用。[![App Store][app-store Icon]](https://apps.apple.com/app/Deskmark/6755948110?platform=mac)
+* [Display²](https://display2.app/) - 把 27 英寸 5K iMac 变成 Apple 芯片 Mac 的显示器、摄像头和麦克风，只要一根雷雳线。
 * [Driftwall](https://driftwall.kamaldhital.com) - 将任意视频文件作为循环播放的动态壁纸，显示在桌面图标后方，支持所有显示器。 [![Open-Source Software][OSS Icon]](https://github.com/dhitalkamal/driftwall) ![Freeware][Freeware Icon]
 * [Earth Now](https://hensobo.github.io/earth-now/) - 将实时 3D 地球设为桌面壁纸，呈现真实的太阳位置、城市灯光和卫星云图。 [![Open-Source Software][OSS Icon]](https://github.com/Hensobo/earth-now) ![Freeware][Freeware Icon]
 * [escrcpy](https://github.com/viarotel-org/escrcpy) - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
