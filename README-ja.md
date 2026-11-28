@@ -838,6 +838,7 @@ Awesome Mac
 * [Snapzy](https://snapzy.app/) - スクリーンショット、画面録画、注釈、動画編集に対応した無料のオープンソースmacOSネイティブアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/duongductrong/Snapzy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Snip](http://snip.qq.com/) - QQ Mailでキャプチャ画像を共有するアプリケーション。 ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) - シンプルだが強力なスニッピングツール。 ![Freeware][Freeware Icon]
+* [Stillpin](https://stillpin.com/ja/) - macOS 向けの軽量ネイティブ Swift/AppKit スクリーンショット、注釈、デスクトップ固定、無料オフライン Apple Vision OCR、およびオプションの AI 解説・翻訳ツール。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - スクリーンショットに語らせよう。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id1199502670?platform=mac)
 * [Tuji](https://tuji.app/) - スクリーンショットを撮り、注釈を付け、美しくする。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - 注釈、カスタムフレーム、ローカルOCRに対応した無料のネイティブスクリーンショットエディター（Apple未公証のプレビュー版）。 [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
