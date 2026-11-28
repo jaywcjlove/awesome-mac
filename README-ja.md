@@ -1388,6 +1388,7 @@ Awesome Mac
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 何かが永続的にインストールされるたびにアラートを出す。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - 保護パス向けのポリシーベースファイルアクセス制御ツール。 [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - dylibハイジャックの危険があるアプリを検査するツール。 [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner) ![Freeware][Freeware Icon]
+* [Fidelius](https://fidelius.blisslabs.dev) - 開発者向けAPIキーをプロジェクトごとにキーチェーンで管理し、.envファイルを使わずに環境変数としてコマンドに渡せるツール。 ![Native App][Native Icon]
 * [fob](https://getfob.app) - SSH鍵をSecure Enclaveに保存し、使用のたびにTouch IDで認証するメニューバー型SSHエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [Hey Mac](https://heymacapp.com/) - デバイス上の顔認識でロック画面を解除し、選択したアプリをプライバシーシールドで保護するツール。 [![Open-Source Software][OSS Icon]](https://github.com/iharshitmaurya/HeyMac) ![Freeware][Freeware Icon]
 * [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) - App Store と TestFlight の IPA をダウンロードし FairPlay を復号する GUI ツール。macOS と iOS に対応し、認証情報の管理も行える。 [![Open-Source Software][OSS Icon]](https://github.com/Re13orn/IPA-Decrypt) ![Freeware][Freeware Icon]
