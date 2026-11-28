@@ -1497,6 +1497,7 @@ Awesome Mac
 * [AI Meter](https://github.com/getguruhat/ai-meter) - Claude CodeまたはCodexの残り使用量とリセット時刻をメニューバーに表示するツール。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/ai-meter) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - ローカルの静的サイトやRackアプリを手軽に公開できるツール。 ![Freeware][Freeware Icon]
+* [Aries Dynamic Island](https://maxxforgestudio-del.github.io/aries-dynamic-island/) - MacBookのノッチを、単語単位の同期歌詞・カラオケ・レコードモード付きの音楽表示や、ウィジェット・通話・タイマー・クイックツールを備えたDynamic Islandに変える。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bar27](https://github.com/ATTILA-KRB/bar27) - macOS 27向けのメニューバー管理ツール。アプリごとにアイコンを非表示にし、クリック、ホバー、ショートカットで再表示できる。 [![Open-Source Software][OSS Icon]](https://github.com/ATTILA-KRB/bar27) ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。
