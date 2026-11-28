@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: CoPanda
+Description: Open-source clipboard manager with a searchable local history, no account and no telemetry.
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: CoPanda<br/>Description: Open-source clipboard manager with a searchable local history, no account and no telemetry.<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
     <item>
       <title>ordino</title>
       <link>https://ordino-app.github.io/ordino/</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/vladsboev-web/TurboControl
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TurboControl<br/>Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokelet</title>
-      <link>https://smcnab1.github.io/pokelet/</link>
-      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
-      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Pokelet
-Description: A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.
-Website: https://smcnab1.github.io/pokelet/
-Open Source: https://github.com/smcnab1/pokelet
-Commit: Add Pokelet to Quality of Life Improvements (#4912)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Pokelet<br/>Description: A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>ユーティリティ / クリップボードツール</category>
+      <description>Category: ユーティリティ / クリップボードツール
+App: CoPanda
+Description: 検索できるローカル履歴を備えた、アカウント不要でテレメトリなしのオープンソースのクリップボードマネージャー。
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / クリップボードツール<br/>App: CoPanda<br/>Description: 検索できるローカル履歴を備えた、アカウント不要でテレメトリなしのオープンソースのクリップボードマネージャー。<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
     <item>
       <title>ordino</title>
       <link>https://ordino-app.github.io/ordino/</link>
@@ -719,20 +734,6 @@ Open Source: https://github.com/OgnjenAdzic28/hush
 Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
       <content:encoded><![CDATA[Category: AIツール<br/>App: Hush<br/>Description: AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
-    </item>
-    <item>
-      <title>TripleClick</title>
-      <link>https://github.com/wilu222/tripleclick</link>
-      <guid isPermaLink="false">e262ae15b83dda3d6e95d9ccadc54466d026a557:TripleClick</guid>
-      <pubDate>Sun, 22 Nov 2026 12:53:36 GMT</pubDate>
-      <category>ユーティリティ / 生産性ツール</category>
-      <description>Category: ユーティリティ / 生産性ツール
-App: TripleClick
-Description: トラックパッドの3本指クリックを中クリックに変換し、中ボタンドラッグにも対応するオープンソースのメニューバーツール。
-Open Source: https://github.com/wilu222/tripleclick
-Commit: Add TripleClick to Productivity (#4883)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / 生産性ツール<br/>App: TripleClick<br/>Description: トラックパッドの3本指クリックを中クリックに変換し、中ボタンドラッグにも対応するオープンソースのメニューバーツール。<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
     </item>
   </channel>
 </rss>

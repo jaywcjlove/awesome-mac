@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:15:04 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: CoPanda
+Description: 开源剪贴板管理器，提供可搜索的本地剪贴板历史，无需账号，无遥测。
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: CoPanda<br/>Description: 开源剪贴板管理器，提供可搜索的本地剪贴板历史，无需账号，无遥测。<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
     <item>
       <title>ordino</title>
       <link>https://ordino-app.github.io/ordino/</link>
@@ -719,21 +734,6 @@ Open Source: https://github.com/traycerai/traycer
 Commit: Add Traycer (#4909)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Traycer<br/>Description: 开源桌面应用，可从同一份共享计划并行运行 22 个编程代理和模型提供商。<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
-    </item>
-    <item>
-      <title>Iris</title>
-      <link>https://harshwardhangalande.github.io/Iris/</link>
-      <guid isPermaLink="false">0d7cec1826a9adb595cfe89463541379b6866f21:Iris</guid>
-      <pubDate>Mon, 23 Nov 2026 02:20:10 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Iris
-Description: 原生 macOS 20-20-20 护眼与休息提醒工具，支持液态毛玻璃界面、计划休息日程与触控板触觉反馈。
-Website: https://harshwardhangalande.github.io/Iris/
-Open Source: https://github.com/harshwardhangalande/Iris
-Commit: Add Iris to Menu Bar Tools (#4906)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Iris<br/>Description: 原生 macOS 20-20-20 护眼与休息提醒工具，支持液态毛玻璃界面、计划休息日程与触控板触觉反馈。<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
     </item>
   </channel>
 </rss>
