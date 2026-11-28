@@ -593,6 +593,7 @@ Awesome Mac
 * [Paul](https://guillim.github.io/products/paul) - 기본 읽기 전용으로 데이터베이스에서 빠르게 답을 찾을 수 있게 해주는 AI 우선 PostgreSQL 클라이언트.
 * [Postico](https://eggerapps.at/postico/) - 현대적인 PostgreSQL 클라이언트.
 * [Redis Insight](https://redis.io/insight/) - Redis 데이터를 탐색하고 디버깅하며 시각화할 수 있는 공식 도구. ![Freeware][Freeware Icon]
+* [Rowboat](https://lhassa8.github.io/rowboat-app/) - 변경 사항 스테이징과 실행 취소, 스키마 다이어그램, 데이터베이스 상태 점검, 두 데이터베이스 비교를 지원하는 SQLite 편집기. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6832358629?platform=mac) ![Native App][Native Icon]
 * [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - Sequel Pro의 계보를 잇는 MySQL/MariaDB용 도구. [![Open-Source Software][OSS Icon]](https://github.com/Sequel-Ace/Sequel-Ace)
 * [TablePlus](https://tableplus.io) - 고급 데이터베이스 클라이언트.
 * [TablePro](https://github.com/datlechin/TablePro) - 주요 SQL/NoSQL 엔진 연결과 AI 지원 SQL 편집을 제공하는 빠른 데이터베이스 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
