@@ -1933,6 +1933,7 @@ Awesome Mac
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 用常用应用快速打开所选文件或文件夹的 Finder 扩展。
 * [TotalFinder](http://totalfinder.binaryage.com/) - 强大的 Finder 替代者，界面风格像 Chrome。
 * [XtraFinder](https://www.trankynam.com/xtrafinder/) - 给 Finder 添加有用的新特性。![Freeware][Freeware Icon]
+* [Filewise](https://filewise.gatheon.com) - 在本机读文件内容并给出新文件名和归类建议的文件管理器，先出对照表确认后才改，可撤销。 ![Freeware][Freeware Icon]
 
 ## 游戏软件
 
