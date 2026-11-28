@@ -215,6 +215,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [LiteEdit](https://arietan.github.io/lite-edit/) - Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron. [![Open-Source Software][OSS Icon]](https://github.com/arietan/lite-edit) ![Freeware][Freeware Icon]
 * [MacVim](https://github.com/macvim-dev/macvim) - the text editor Vim - for macOS. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io) - Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
+* [Notepad++ for macOS](https://notepad-plus-plus-mac.org) - Native macOS port of the Notepad++ code editor. No Wine, no emulation; runs on Apple Silicon and Intel Macs. [![Open-Source Software][OSS
+  Icon]](https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos) ![Freeware][Freeware Icon]
 * [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [NeatEditor](https://github.com/NeatMacApps/NeatEditor) - Fast, native macOS plain-text editor for distraction-free writing. [![Open-Source Software][OSS Icon]](https://github.com/NeatMacApps/NeatEditor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
