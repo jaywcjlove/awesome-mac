@@ -977,6 +977,7 @@ Awesome Mac
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
 * [Relay](https://github.com/ahmetcankacar54/relay) - Claudeアプリを複数のアカウント間で切り替え、すべてのアカウントでClaude Codeの履歴を保ち、各アカウントの5時間・週間の上限を表示。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
+* [Seed Studio](https://github.com/awsnasser/seed-studio) - ノードキャンバスで絵コンテを組み立て、Seedream で画像を、Seedance で動画を生成できます。 [![Open-Source Software][OSS Icon]](https://github.com/awsnasser/seed-studio)
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code や Codex が納品したダッシュボード、レポート、サイト、PR、ファイルをローカルに収録し、数文字入力するか一言話すだけで開き直せるオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seshka](https://seshka.dev) - 終了した Claude Code セッションが残した開発サーバー、ウォッチャー、ブラウザを見つけて終了させるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpecWithCode](https://specwithcode.com) - Claude Code、Codex、GitHub Copilot のスレッドを並べて実行できるオープンソース（MIT）のデスクトップアプリ。プロジェクトコーディネーターを備え、タスクごとに専用の git worktree を使います。 [![Open-Source Software][OSS Icon]](https://github.com/anton-abyzov/specwithcode) ![Freeware][Freeware Icon]

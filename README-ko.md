@@ -816,6 +816,7 @@ Awesome Mac
 * [Rakazo](https://rakazo.com) - 에이전트마다 전용 컴퓨터, 메모리, 예약 작업을 갖춘 셀프호스팅 AI 에이전트용 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Claude 앱을 여러 계정 간에 전환하고, 모든 계정에서 Claude Code 기록을 유지하며, 각 계정의 5시간·주간 한도를 표시. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
+* [Seed Studio](https://github.com/awsnasser/seed-studio) - 노드 캔버스에서 스토리보드를 구성하고 Seedream으로 이미지, Seedance로 영상을 생성합니다. [![Open-Source Software][OSS Icon]](https://github.com/awsnasser/seed-studio)
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code와 Codex가 만들어 준 대시보드, 보고서, 사이트, PR, 파일을 로컬에 모아 두고 몇 글자 입력하거나 한마디 말하면 다시 열어 주는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Seshka](https://seshka.dev) - 종료된 Claude Code 세션이 남겨 둔 개발 서버, 워처, 브라우저를 찾아 종료하는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/jigjoy-ai/seshka) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SpecWithCode](https://specwithcode.com) - Claude Code, Codex, GitHub Copilot 스레드를 나란히 실행하는 오픈 소스(MIT) 데스크톱 앱으로, 프로젝트 코디네이터가 있고 작업마다 별도의 git worktree를 사용합니다. [![Open-Source Software][OSS Icon]](https://github.com/anton-abyzov/specwithcode) ![Freeware][Freeware Icon]
