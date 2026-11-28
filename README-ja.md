@@ -334,6 +334,7 @@ Awesome Mac
 * [Rewrite](https://samratduttaofficial.github.io/Rewrite/) - 文章の書き換えと文法の修正ができ、Word・LaTeX・PDF ファイルも編集できるエディタ。 ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - 最小限のMarkdown風構文で小説を書くためのオープンソースプレーンテキストエディタ。 [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - ライターのための定番ワードプロセッサ。
+* [SuperEditr](https://supereditr.app) - 任意のアプリで選択したテキストを、オフラインまたは自分のAIモデルで校正・リライトするツール。 [![Open-Source Software][OSS Icon]](https://github.com/spectrumzero-dev/supereditr-app)
 * [THORN](https://thorn.so) - パーソナルライティングとWebサイト構築に必要なすべてを。
 
 ### 電子書籍
