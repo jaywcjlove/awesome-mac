@@ -755,6 +755,7 @@ Awesome Mac
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
 * [Relay](https://github.com/ahmetcankacar54/relay) - 在多个账号之间切换 Claude 应用，在所有账号上保留 Claude Code 历史，并查看每个账号的 5 小时和每周限额。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [MiniClaw](https://miniclaw.bot) - 具备记忆和自动化能力的本地优先个人 AI 代理。 ![Freeware][Freeware Icon]
+* [MLX Stack](https://github.com/mukhanov/mlx-stack) - 原生菜单栏应用，可运行 MLX 和 llama.cpp 模型，为编程智能体提供 API、配置备份与恢复及实时监控。 [![Open-Source Software][OSS Icon]](https://github.com/mukhanov/mlx-stack) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [MoMo Agent](https://github.com/Miri-Labs/MoMo-Agent) - 专为 Apple Watch、iPhone 与 Mac 原生打造的开源自托管全天候个人智能体，支持端侧 CoreML 免费语音转录、内置 Tailscale 与多级双链 Markdown 记忆库。 [![Open-Source Software][OSS Icon]](https://github.com/Miri-Labs/MoMo-Agent) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [mu](https://github.com/qybaihe/mu) - 开源编程智能体，提供命令行和桌面端，由小型判定模型做例行判断，比如哪些内容进入上下文、被拦下的命令是不是用户要求的。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/mu) ![Freeware][Freeware Icon]
 * [Mudroom](https://github.com/Kernel-Hunter/mudroom) - 开源应用和命令行工具，在 Linux 微虚拟机中基于项目的写时复制克隆运行 Claude Code、Codex 等编程智能体，并可像审查 Pull Request 一样审阅和应用其改动。 [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/mudroom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
