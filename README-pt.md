@@ -482,6 +482,7 @@ Se você tiver alguma sugestão, ideia ou descobrir um software excelente, sinta
 * [JsonStudio](https://jsonstudio.js.org/) - Espaço de trabalho JSON local-first para formatar, editar, comparar, converter, validar e extrair JSON de logs. [![Open-Source Software][OSS Icon]](https://github.com/sundegan/JsonStudio) ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare textos, imagens e pastas.
 * [Koala](https://koala-app.com) - Aplicativo com interface gráfica para compilar Less, Sass, Compass e CoffeeScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
+* [Lancetta](https://lancetta.app) - App de barra de menus que lê suas cotas do Codex e do Claude Code e diz quando seguir em frente, desacelerar ou trocar de agente. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analise, revise e edite traduções de aplicativos.
 * [LINQPad](https://www.linqpad.net/) - .NET scratchpad para executar código, consultas e explorar bancos de dados. ![Freeware][Freeware Icon]
 * [Loupe](https://github.com/britchie4/Loupe) - Inspetor de acessibilidade que gera saída pronta para agentes de IA. [![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
