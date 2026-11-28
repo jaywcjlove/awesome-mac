@@ -1468,6 +1468,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/clipbara/id6803537696?platform=mac)
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](https://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
+* [Clipmory](https://clipmory.app/) - Fast, privacy-first clipboard history manager with sub-millisecond SQLite search and built-in Apple Vision OCR. `[Freemium]`
 * [Clippy](https://github.com/yarasaa/Clippy) - Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter. [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHat](https://github.com/getguruhat/cliphat-macos) - Free clipboard history manager with search, pins and ⌘⇧V restore for text, links, images and files, stored locally. [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/cliphat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history. [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
@@ -1502,6 +1503,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
 * [Pesty](https://github.com/momenbasel/pesty) - Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/pesty) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Whisk](https://github.com/nathan-poncet/whisk) - Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews. [![Open-Source Software][OSS Icon]](https://github.com/nathan-poncet/whisk) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+
 
 ### Menu Bar Tools
 
