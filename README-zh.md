@@ -1748,6 +1748,7 @@ Awesome Mac
 * [DaisyDisk](https://daisydiskapp.com/) - 磁盘空间使用扫描工具。
 * [DiskPilot](https://diskpilot.live) - 免费开源的开发者存储分析工具，逐个解释每个文件夹（Docker、node_modules、Xcode DerivedData、AI 工具缓存），标明哪些可以安全删除，并且所有内容都先移到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/Devanshgoel-123/diskpilot) ![Freeware][Freeware Icon]
 * [DiskWise](https://github.com/DreamOfXM/diskwise) - 开源 SwiftUI 磁盘清理工具，唯一删除路径是废纸篓，支持本次会话撤销，并逐条说明每个缓存项是什么、删掉会怎样。 [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
+* [DuoBolt](https://duobolt.app) - 查找经完整 BLAKE3 哈希确认的逐字节相同的重复文件以及相似照片，删除任何文件前都需经过审核步骤。
 * [Dusty](https://toprak.sh/dusty) - 开源菜单栏磁盘清理工具，只删除固定白名单内的内容，删除前列出每个路径，并且可以撤销清理。 [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Ebb](https://github.com/ege-arhan/ebb) - 开源的磁盘清理与 AI 存储查看工具，支持 macOS、Windows 和 Linux：先给出可阅读的清理计划，删除项进入废纸篓并保留 90 天撤销记录，可让支持 MCP 的 AI 客户端协助，但绝不自行删除。 [![Open-Source Software][OSS Icon]](https://github.com/ege-arhan/ebb) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - 菜单栏工具，自动扫描并释放开发构建产物和缓存（DerivedData、node_modules、SPM/Homebrew 缓存）占用的磁盘空间，零遥测。 [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
