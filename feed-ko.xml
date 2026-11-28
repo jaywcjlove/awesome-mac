@@ -5,9 +5,24 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:09:36 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>ordino</title>
+      <link>https://ordino-app.github.io/ordino/</link>
+      <guid isPermaLink="false">ecbac1709fd0b882683861549bb6c307463a7ccb:ordino</guid>
+      <pubDate>Sat, 28 Nov 2026 03:09:36 GMT</pubDate>
+      <category>유틸리티 / 창 관리</category>
+      <description>Category: 유틸리티 / 창 관리
+App: ordino
+Description: 단축키 하나로 디스플레이의 모든 창을 정렬하는 메뉴 막대 앱으로, 창 개수와 화면 형태에 맞춰 레이아웃을 고릅니다.
+Website: https://ordino-app.github.io/ordino/
+Open Source: https://github.com/ordino-app/ordino
+Commit: Add ordino to Window Management (#5143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb</description>
+      <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: ordino<br/>Description: 단축키 하나로 디스플레이의 모든 창을 정렬하는 메뉴 막대 앱으로, 창 개수와 화면 형태에 맞춰 레이아웃을 고릅니다.<br/>Website: https://ordino-app.github.io/ordino/<br/>Open Source: https://github.com/ordino-app/ordino<br/>Commit: Add ordino to Window Management (#5143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb]]></content:encoded>
+    </item>
     <item>
       <title>Seawall</title>
       <link>https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing</link>
@@ -718,21 +733,6 @@ Open Source: https://github.com/wilu222/tripleclick
 Commit: Add TripleClick to Productivity (#4883)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 생산성<br/>App: TripleClick<br/>Description: 트랙패드 세 손가락 클릭을 가운데 클릭으로 바꿔 주고 가운데 버튼 드래그도 지원하는 오픈 소스 메뉴 바 도구.<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinstill</title>
-      <link>https://pinstill.echovic.com/en/</link>
-      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
-      <category>디자인 및 제품 / 스크린샷 도구</category>
-      <description>Category: 디자인 및 제품 / 스크린샷 도구
-App: Pinstill
-Description: 선택 영역에 바로 주석을 달고 복사, 저장, 데스크톱 고정까지 할 수 있는 오픈 소스 스크린샷 도구.
-Website: https://pinstill.echovic.com/en/
-Open Source: https://github.com/echoVic/Pinstill
-Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
-      <content:encoded><![CDATA[Category: 디자인 및 제품 / 스크린샷 도구<br/>App: Pinstill<br/>Description: 선택 영역에 바로 주석을 달고 복사, 저장, 데스크톱 고정까지 할 수 있는 오픈 소스 스크린샷 도구.<br/>Website: https://pinstill.echovic.com/en/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
     </item>
   </channel>
 </rss>
