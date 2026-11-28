@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:16:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WinPlug</title>
+      <link>https://winplug.app/</link>
+      <guid isPermaLink="false">71f6992aed32fcb5dad5f0871d2a095242b1cbe5:WinPlug</guid>
+      <pubDate>Sat, 28 Nov 2026 02:16:17 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: WinPlug
+Description: Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.
+Website: https://winplug.app/
+Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: WinPlug<br/>Description: Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.<br/>Website: https://winplug.app/<br/>Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5]]></content:encoded>
+    </item>
     <item>
       <title>Umbra</title>
       <link>https://umbraeditor.com/</link>
@@ -719,20 +733,6 @@ Open Source: https://github.com/harshwardhangalande/Iris
 Commit: Add Iris to Menu Bar Tools (#4906)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
       <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Iris<br/>Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
-    </item>
-    <item>
-      <title>Hush</title>
-      <link>https://github.com/OgnjenAdzic28/hush</link>
-      <guid isPermaLink="false">9b8a9239d7101c2864fb4158f4608dce912bae8b:Hush</guid>
-      <pubDate>Mon, 23 Nov 2026 01:43:40 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Hush
-Description: Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.
-Open Source: https://github.com/OgnjenAdzic28/hush
-Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Hush<br/>Description: Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
     </item>
   </channel>
 </rss>

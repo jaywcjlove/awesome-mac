@@ -5,9 +5,23 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:16:17 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>WinPlug</title>
+      <link>https://winplug.app/</link>
+      <guid isPermaLink="false">71f6992aed32fcb5dad5f0871d2a095242b1cbe5:WinPlug</guid>
+      <pubDate>Sat, 28 Nov 2026 02:16:17 GMT</pubDate>
+      <category>ユーティリティ / ウィンドウ管理</category>
+      <description>Category: ユーティリティ / ウィンドウ管理
+App: WinPlug
+Description: Windowsから乗り換えた人向けに、ウィンドウプレビュー付きのWindows風タスクバー、ウィンドウ単位のAlt-Tab、スクリーンショットツール、Ctrlショートカットをひとつにまとめたアプリ。
+Website: https://winplug.app/
+Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / ウィンドウ管理<br/>App: WinPlug<br/>Description: Windowsから乗り換えた人向けに、ウィンドウプレビュー付きのWindows風タスクバー、ウィンドウ単位のAlt-Tab、スクリーンショットツール、Ctrlショートカットをひとつにまとめたアプリ。<br/>Website: https://winplug.app/<br/>Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5]]></content:encoded>
+    </item>
     <item>
       <title>Umbra</title>
       <link>https://umbraeditor.com/</link>
@@ -719,21 +733,6 @@ Open Source: https://github.com/echoVic/cleanzo
 Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
       <content:encoded><![CDATA[Category: ユーティリティ / クリーンアップとアンインストール<br/>App: Cleanzo<br/>Description: システムとディスクの使用状況を確認してから、キャッシュや大きなファイル、久しく更新していないビルド成果物を削除するオープンソースのクリーナー。<br/>Website: https://cleanzo.echovic.com/en/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilion</title>
-      <link>https://pilion.echovic.com/en/</link>
-      <guid isPermaLink="false">7142ca001ebcb7392731789a41328c47d3c2df15:Pilion</guid>
-      <pubDate>Sun, 22 Nov 2026 12:13:04 GMT</pubDate>
-      <category>ブラウザ</category>
-      <description>Category: ブラウザ
-App: Pilion
-Description: Claude Code や Codex などの ACP エージェントが MCP 経由でログイン済みのタブを操作できる、承認と即時引き継ぎ付きのオープンソースブラウザ。
-Website: https://pilion.echovic.com/en/
-Open Source: https://github.com/echoVic/pilion-browser
-Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15</description>
-      <content:encoded><![CDATA[Category: ブラウザ<br/>App: Pilion<br/>Description: Claude Code や Codex などの ACP エージェントが MCP 経由でログイン済みのタブを操作できる、承認と即時引き継ぎ付きのオープンソースブラウザ。<br/>Website: https://pilion.echovic.com/en/<br/>Open Source: https://github.com/echoVic/pilion-browser<br/>Commit: Add Add Pilion to Browsers (EN/ZH/JA/KO) (#4889)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7142ca001ebcb7392731789a41328c47d3c2df15]]></content:encoded>
     </item>
   </channel>
 </rss>
